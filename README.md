@@ -7,12 +7,16 @@ builders that turn the Listening and Reading test data into print-ready books.
 
 | File | Pages | Contents |
 |---|---:|---|
-| `materials/CEFR_Listening_Mock_Test_Book.pdf` | 124 | cover, contents, 57 tests × 2 pages, 8 answer-key pages |
-| `materials/CEFR_Reading_Mock_Test_Book.pdf` | ~314 | cover, contents, 71 tests × 4–5 pages, answer-key pages |
-| `materials/CEFR_Listening_Cover.pdf` | 2 | A3 front + back cover |
-| `materials/CEFR_Reading_Cover.pdf` | 2 | A3 front + back cover |
+| `materials/CEFR_Listening_Mock_Test_Book.pdf` | 126 | covers, overview, contents, 57 tests × 2 pages, 8 answer-key pages |
+| `materials/CEFR_Reading_Mock_Test_Book.pdf` | 315 | covers, overview, contents, 71 tests × 4–5 pages, answer-key pages |
+| `materials/CEFR_Listening_Cover.pdf` | 2 | A3 front + back cover, for printing separately |
+| `materials/CEFR_Reading_Cover.pdf` | 2 | A3 front + back cover, for printing separately |
 | `materials/cefr-listening-pdfs/` | 57 × 3 | one PDF per listening test, with its answer key |
 | `materials/cefr-reading-pdfs/` | 71 | one PDF per reading test, with its answer key |
+
+Each book carries its own covers as the first and last page, scaled from A3 to
+the book's A4 (same 1:√2 portrait shape, so nothing is distorted). The
+standalone A3 cover PDFs are kept for printing the cover on its own.
 
 Layout is matched to `materials/demo_book.pdf`, which is the reference for the
 page chrome: the gradient stripe, the banner, the dashed column divider
@@ -34,7 +38,11 @@ Run from `materials/`:
 python build_cefr_book.py              # Listening book + 57 per-test PDFs
 python build_cefr_reading_book.py      # Reading book + 71 per-test PDFs
 python build_covers.py                 # both A3 covers
+python attach_covers.py                # wrap each book in its covers
 ```
+
+`attach_covers.py` runs last and is safe to re-run — a book that already has
+its covers is skipped. Rebuilding a book drops them, so run it again after.
 
 Pass test numbers to build a subset, e.g. `python build_cefr_book.py 1 2 3`, or
 `--no-single` to skip the per-test PDFs.

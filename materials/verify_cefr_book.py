@@ -51,17 +51,26 @@ def main():
     demo = chrome(pymupdf.open(DEMO)[0])
 
     doc = pymupdf.open(BOOK)
-    n_ans = doc.page_count - 2 - 2 * len(tests)
-    check(doc.page_count == 2 + 2 * len(tests) + n_ans,
-          f"page count {doc.page_count} = cover+contents + {len(tests)}x2 + {n_ans} answer pages")
-    check(len(doc.get_toc()) == len(tests) + 3, f"bookmarks: {len(doc.get_toc())}")
+    # attach_covers.py optionally wraps the book in its A3 covers, scaled to A4
+    toc0 = doc.get_toc()
+    covers = bool(toc0) and toc0[0][1] == "Front cover"
+    lead = 2 + (1 if covers else 0)      # front cover, overview, contents
+    tail = 1 if covers else 0            # back cover
+    n_ans = doc.page_count - lead - tail - 2 * len(tests)
+    check(doc.page_count == lead + tail + 2 * len(tests) + n_ans,
+          f"page count {doc.page_count} = {'2 covers + ' if covers else ''}"
+          f"cover+contents + {len(tests)}x2 + {n_ans} answer pages")
+    check(len(toc0) == len(tests) + 3 + (2 if covers else 0), f"bookmarks: {len(toc0)}")
+    if covers:
+        check({(round(p.rect.width), round(p.rect.height)) for p in doc} == {(595, 842)},
+              "every page, covers included, is A4")
 
     # --- chrome parity on every test page -------------------------------
     bad_dash = bad_rule = bad_pill = raster = 0
-    for i in range(2, 2 + 2 * len(tests)):
+    for i in range(lead, lead + 2 * len(tests)):
         pg = doc[i]
         c = chrome(pg)
-        first = (i - 2) % 2 == 0
+        first = (i - lead) % 2 == 0
         want_n, want_top = (181, 118.3) if first else (205, 28.9)
         if len(c["dashes"]) != want_n:
             bad_dash += 1
@@ -93,7 +102,9 @@ def main():
               f"dash length demo={d0[0].height:.2f} book={g0[0].height:.2f}")
 
     # --- answer keys complete and untruncated ---------------------------
-    ans_text = re.sub(r"\s+", " ", "\n".join(doc[i].get_text() for i in range(2 + 2 * len(tests), doc.page_count)))
+    ans_text = re.sub(r"\s+", " ", "\n".join(
+        doc[i].get_text()
+        for i in range(lead + 2 * len(tests), doc.page_count - (1 if covers else 0))))
     missing = []
     for t in tests:
         num = t.get("mock_number")
@@ -109,7 +120,8 @@ def main():
           "no ellipsis truncation in answer keys")
 
     # --- test content present -------------------------------------------
-    book_text = re.sub(r"\s+", " ", "\n".join(doc[i].get_text() for i in range(2, 2 + 2 * len(tests))))
+    book_text = re.sub(r"\s+", " ", "\n".join(
+        doc[i].get_text() for i in range(lead, lead + 2 * len(tests))))
     # The banner is letter-spaced, so it extracts as "M O C K T E S T 1";
     # compare with all whitespace removed.
     tight = re.sub(r"\s+", "", book_text)

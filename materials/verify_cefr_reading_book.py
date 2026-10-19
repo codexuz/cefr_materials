@@ -69,7 +69,15 @@ def main():
 
     # ---- page map, rebuilt the same way the builder does -------------------
     toc = doc.get_toc()
-    check(len(toc) == len(tests) + 3, f"bookmarks: {len(toc)} (cover + contents + {len(tests)} + keys)")
+    # attach_covers.py optionally wraps the book in its A3 covers, scaled to A4
+    covers = bool(toc) and toc[0][1] == "Front cover"
+    extra = 2 if covers else 0
+    check(len(toc) == len(tests) + 3 + extra,
+          f"bookmarks: {len(toc)} ({'covers + ' if covers else ''}cover + contents "
+          f"+ {len(tests)} + keys)")
+    if covers:
+        check({(round(p.rect.width), round(p.rect.height)) for p in doc} == {(595, 842)},
+              "every page, covers included, is A4")
     starts = {e[1]: e[2] for e in toc if e[1].startswith("Mock Test ")}
     ans_page = [e[2] for e in toc if e[1] == "Answer Keys"][0]
 
@@ -80,7 +88,8 @@ def main():
         p1 = ordered[i + 1][0] if i + 1 < len(ordered) else ans_page
         ranges.append((n, p0, p1))
     check(all(p1 > p0 for _, p0, p1 in ranges), "every test occupies at least one page")
-    check(ordered[0][0] == 3, f"first test starts on page {ordered[0][0]}")
+    check(ordered[0][0] == 3 + (1 if covers else 0),
+          f"first test starts on page {ordered[0][0]}")
 
     # ---- chrome parity on every test page ----------------------------------
     bad_dash = bad_rule = bad_pill = bad_banner = 0
@@ -120,7 +129,8 @@ def main():
     check(bad_banner == 0, f"banner + book icon on every test's first page ({bad_banner} bad)")
 
     # ---- divider vs demo, exactly ------------------------------------------
-    g0 = sorted(chrome(doc[2])["dashes"], key=lambda r: r.y0)
+    # first page of the first test, wherever the covers have pushed it to
+    g0 = sorted(chrome(doc[ordered[0][0] - 1])["dashes"], key=lambda r: r.y0)
     check(len(g0) == len(dtops), f"divider dash count demo={len(dtops)} book={len(g0)}")
     if g0 and drect:
         check(abs(g0[0].width - drect.width) <= TOL,
@@ -154,7 +164,8 @@ def main():
 
     # ---- answer keys --------------------------------------------------------
     ans_text = re.sub(r"\s+", " ", "\n".join(doc[i].get_text()
-                                             for i in range(ans_page - 1, doc.page_count)))
+                                             for i in range(ans_page - 1,
+                                                            doc.page_count - (1 if covers else 0))))
     miss = []
     for t in tests:
         n = t.get("mock_number")
