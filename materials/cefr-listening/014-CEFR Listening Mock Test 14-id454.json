@@ -1,0 +1,712 @@
+{
+ "id": 454,
+ "mock_type": "cefr-listening",
+ "mock_number": 14,
+ "title": "CEFR Listening Mock Test 14",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "mcq-reply",
+    "title": "Part 1",
+    "answers": {
+     "1": "A",
+     "2": "B",
+     "3": "A",
+     "4": "C",
+     "5": "A",
+     "6": "B",
+     "7": "C",
+     "8": "A"
+    },
+    "audioFile": "https://audio.mock-stream.com/test14/Part%201.m4a",
+    "questions": [
+     {
+      "id": 1,
+      "options": [
+       {
+        "text": "Pleasure’s all mine.",
+        "letter": "A"
+       },
+       {
+        "text": "Well, it seems so.",
+        "letter": "B"
+       },
+       {
+        "text": "How are you doing now?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "options": [
+       {
+        "text": "No, sorry I can’t.",
+        "letter": "A"
+       },
+       {
+        "text": "Yes, of course.",
+        "letter": "B"
+       },
+       {
+        "text": "So do I.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 3,
+      "options": [
+       {
+        "text": "Lots of times.",
+        "letter": "A"
+       },
+       {
+        "text": "Yes, I have finished.",
+        "letter": "B"
+       },
+       {
+        "text": "No, I couldn’t.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 4,
+      "options": [
+       {
+        "text": "You can buy a new sandwich.",
+        "letter": "A"
+       },
+       {
+        "text": "Help yourself.",
+        "letter": "B"
+       },
+       {
+        "text": "I would to order a new drink.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 5,
+      "options": [
+       {
+        "text": "I’ll pay them off right now.",
+        "letter": "A"
+       },
+       {
+        "text": "I’ll make you pay now.",
+        "letter": "B"
+       },
+       {
+        "text": "You’ll pay for what you have done.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 6,
+      "options": [
+       {
+        "text": "Yes, I didn’t",
+        "letter": "A"
+       },
+       {
+        "text": "No, but I’m happy for them.",
+        "letter": "B"
+       },
+       {
+        "text": "What is it?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 7,
+      "options": [
+       {
+        "text": "It’ll be 10$.",
+        "letter": "A"
+       },
+       {
+        "text": "I’ll take you.",
+        "letter": "B"
+       },
+       {
+        "text": "55 minutes.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 8,
+      "options": [
+       {
+        "text": "Get some rest.",
+        "letter": "A"
+       },
+       {
+        "text": "That’s crazy.",
+        "letter": "B"
+       },
+       {
+        "text": "Impossible!",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "partNumber": 1,
+    "transcript": "Part 1. You will hear some sentences. You will hear each sentence twice. Choose the correct reply to each sentence, A, B, or C. Mark your answers on the answer sheet.\nSpeaker 1. Thanks for asking me to go with you.\nThanks for asking me to go with you.\n\nSpeaker 2. Excuse me, I need to speak with someone from the electric company.\nExcuse me, I need to speak with someone from the electric company.\n\nSpeaker 3. Have you ever done your shopping at the Baghdad's Bazaar?\nHave you ever done your shopping at the Baghdad's Bazaar?\n\nSpeaker 4. What can I help you with?\nWhat can I help you with?\n\nSpeaker 5. When will you be paying these fees off?\nWhen will you be paying these fees off?\n\nSpeaker 6. Did you hear about Joe and Melanie getting married?\nDid you hear about Joe and Melanie getting married?\n\nSpeaker 7. How long will it take you to get from here to Fagarna City?\nHow long will it take you to get to get from here to Fagarna City?\n\nSpeaker 8. I think I have caught a very bad coronavirus.\nI think I have caught a very bad coronavirus.\n\nNow, listen again.\nThat is the end of part one.",
+    "instruction": "You will hear some sentences. You will hear each sentence twice. Choose the correct reply to each sentence (A, B, or C).",
+    "questionRange": "1-8",
+    "answerHighlights": {
+     "1": [
+      1
+     ],
+     "2": [
+      4
+     ],
+     "3": [
+      7
+     ],
+     "4": [
+      10
+     ],
+     "5": [
+      13
+     ],
+     "6": [
+      16
+     ],
+     "7": [
+      19
+     ],
+     "8": [
+      22
+     ]
+    }
+   },
+   {
+    "type": "gap-fill-form",
+    "title": "Part 2",
+    "answers": {
+     "9": [
+      "TRAIN"
+     ],
+     "10": [
+      "10:15"
+     ],
+     "11": [
+      "30",
+      "THIRTY"
+     ],
+     "12": [
+      "BRIDGES"
+     ],
+     "13": [
+      "FISH"
+     ],
+     "14": [
+      "BOATS"
+     ]
+    },
+    "audioFile": "https://audio.mock-stream.com/test14/Part%202.m4a",
+    "formTitle": "Julie’s Trip to Venice",
+    "questions": [
+     {
+      "id": 9,
+      "hint": "use bus, ____"
+     },
+     {
+      "id": 10,
+      "hint": "journey at ____"
+     },
+     {
+      "id": 11,
+      "hint": "costs £____"
+     },
+     {
+      "id": 12,
+      "hint": "walk was over ____"
+     },
+     {
+      "id": 13,
+      "hint": "best food is ____"
+     },
+     {
+      "id": 14,
+      "hint": "toy ____"
+     }
+    ],
+    "partNumber": 2,
+    "transcript": "Narrator: Part two. You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. Write one word or a number for each answer. You now have some time to look at questions.\nNarrator: You will hear a student called Julie talking to her class about a trip to Venice.\nSpeaker 1: Hi everyone. I'm going to tell you all about my wonderful trip to Venice last week. I went with my family. We arrived on Saturday morning at about 10:00 a.m. It's very easy to get from the airport to Venice, as you can either go by train or bus from the airport, or you can do it the more romantic way, which is by boat. The boats are called Vaporetti, and they are very long and narrow, so that they can sail down the canals easily. The wonderful thing about going by boat is that you can see a lot of the city before you've even checked into your hotel. We stayed in an area of Venice called Arsenal. We were on the boat for over an hour before we got to our stop. We set off at 10:15 and we arrived there at 11:30. On the way, we cruised past most of the outside of the city. The cheapest way of traveling around Venice is of course on foot, but after a while, you will probably get very tired. You can buy a three-day ticket to use on the Vaporetti, which only costs £20. We also bought a museum card for £30, which we could use to go into the museums, art galleries and churches. That saved us a lot of money. Apart from its fantastic buildings and squares, Venice is most famous for its canals. The thing I enjoyed most was walking over the many beautiful bridges and watching the boats beneath us. Now, I'd like to mention the food in Venice. There are plenty of restaurants all over the city. As you would expect, there are plenty of pizza and pasta restaurants, but the nicest thing to eat in Venice is fish. On the last day, we sat and drank fresh juice on the Grand Canal. I took many photos for my friends and bought lots of Italian sweets. My parents bought some toy boats for our cousins. It was the perfect city holiday.\nNarrator: Now, listen again.\nSpeaker 1: Hi everyone. I'm going to tell you all about my wonderful trip to Venice last week. I went with my family. We arrived on Saturday morning at about 10:00 a.m. It's very easy to get from the airport to Venice, as you can either go by train or bus from the airport, or you can do it the more romantic way, which is by boat. The boats are called Vaporetti, and they are very long and narrow, so that they can sail down the canals easily. The wonderful thing about going by boat is that you can see a lot of the city before you've even checked into your hotel. We stayed in an area of Venice called Arsenal. We were on the boat for over an hour before we got to our stop. We set off at 10:15 and we arrived there at 11:30. On the way, we cruised past most of the outside of the city. The cheapest way of traveling around Venice is of course on foot, but after a while, you will probably get very tired. You can buy a three-day ticket to use on the Vaporetti, which only costs £20. We also bought a museum card for £30, which we could use to go into the museums, art galleries and churches. That saved us a lot of money. Apart from its fantastic buildings and squares, Venice is most famous for its canals. The thing I enjoyed most was walking over the many beautiful bridges and watching the boats beneath us. Now, I'd like to mention the food in Venice. There are plenty of restaurants all over the city. As you would expect, there are plenty of pizza and pasta restaurants, but the nicest thing to eat in Venice is fish. On the last day, we sat and drank fresh juice on the Grand Canal. I took many photos for my friends and bought lots of Italian sweets. My parents bought some toy boats for our cousins. It was the perfect city holiday.\nNarrator: That is the end of part two.",
+    "formContent": [
+     {
+      "text": "You can use bus,",
+      "type": "item-gap",
+      "gapId": 9,
+      "gapSuffix": "or boat to go to Venice from the airport."
+     },
+     {
+      "text": "Julie and her parents started their journey to Arsenale at",
+      "type": "item-gap",
+      "gapId": 10,
+      "gapSuffix": "."
+     },
+     {
+      "text": "The museum card costs £",
+      "type": "item-gap",
+      "gapId": 11,
+      "gapSuffix": "."
+     },
+     {
+      "text": "Julie’s favourite place to walk was over",
+      "type": "item-gap",
+      "gapId": 12,
+      "gapSuffix": "."
+     },
+     {
+      "text": "The best food to eat in Venice is",
+      "type": "item-gap",
+      "gapId": 13,
+      "gapSuffix": "."
+     },
+     {
+      "text": "Julie’s parents bought some toy",
+      "type": "item-gap",
+      "gapId": 14,
+      "gapSuffix": "for her relatives."
+     }
+    ],
+    "instruction": "You will hear a student called Julie talking to her class about her trip to Venice. For each question, fill in the missing information in the numbered space. Write ONE WORD and / or A NUMBER for each answer.",
+    "questionRange": "9-14",
+    "answerHighlights": {
+     "9": [
+      2
+     ],
+     "10": [
+      2
+     ],
+     "11": [
+      2
+     ],
+     "12": [
+      2
+     ],
+     "13": [
+      2
+     ],
+     "14": [
+      2
+     ]
+    }
+   },
+   {
+    "type": "matching-speakers",
+    "title": "Part 3",
+    "answers": {
+     "15": "B",
+     "16": "C",
+     "17": "F",
+     "18": "E"
+    },
+    "options": [
+     {
+      "text": "a personal recommendation",
+      "letter": "A"
+     },
+     {
+      "text": "a modern facility",
+      "letter": "B"
+     },
+     {
+      "text": "its distinctive architecture",
+      "letter": "C"
+     },
+     {
+      "text": "its convenient location",
+      "letter": "D"
+     },
+     {
+      "text": "the support network provided",
+      "letter": "E"
+     },
+     {
+      "text": "its international reputation",
+      "letter": "F"
+     }
+    ],
+    "speakers": [
+     {
+      "id": 15,
+      "label": "Speaker 1"
+     },
+     {
+      "id": 16,
+      "label": "Speaker 2"
+     },
+     {
+      "id": 17,
+      "label": "Speaker 3"
+     },
+     {
+      "id": 18,
+      "label": "Speaker 4"
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test14/Part%203.m4a",
+    "partNumber": 3,
+    "transcript": "Narrator: Part three.\nYou will hear people speaking in different situations.\nMatch each speaker, 15 to 18, to the options, A to F.\nThere are two extra options which you do not need to use.\nMark your answers on the answer sheet.\nYou now have some time to look at questions.\n\nNarrator: Speaker one.\nSpeaker 1: My parents weren't happy when I told them I wanted to study law.\nThe thing is, I'm a keen athlete, and so having a state of the art track on site to practice on after classes was crucial.\nThey'd have preferred me to study in my city, so I could have lived at home, which would have been much cheaper and easier, of course.\nAnyway, I think I made the right choice.\nIt didn't take long to start hanging out with some great people I met through lectures and my running.\nWhat was more of an issue was getting through all the stuff we were given to do.\nI had to be up all hours to begin with.\nI think I've finally cracked it now, though.\n\nNarrator: Speaker two.\nSpeaker 2: Nothing prepares you fully for starting university life.\nI was away from home during the week with a whole new group of people who I would have to get to know.\nStrangely, though, what threw me most was figuring out where to do my assignments.\nAfter various unsuccessful attempts, I settled on a quiet spot in the student center, and then I could really focus at last.\nChoosing a university was straightforward, actually.\nSince I'm studying history, I thought a brand new campus wouldn't feel right.\nI wanted to gaze at ancient spires and towers on my way to lectures.\nThat one hands down in the end against studying with one of my former classmates.\n\nNarrator: Speaker three.\nSpeaker 3: Selecting the right university was tricky.\nMy dad would have liked me to study medicine close to home, but I also had to consider how the qualification I got would be valued in future.\nI mean, would the university command sufficient respect overseas?\nAnd that's what swung it for me.\nWhen I actually started, it took time to settle in.\nIt was so different from school, where we all followed a fixed timetable term after term.\nMy lectures are mostly after lunch, but I've got laboratory sessions at various times.\nWorking all that out wasn't easy.\nThen I had to cook for myself, too, though that broke up the hours of study a bit.\n\nNarrator: Speaker four.\nSpeaker 4: After school, I worked for my father for 10 years, and then decided to get a business qualification.\nI thought exchanging working life for one full of lectures and assignments would be demanding, which was true up to a point.\nI'd also thought getting my head round what the tutors were explaining would be straightforward, but that turned out to be a false hope.\nI'd taken time finding the right college.\nPartly because of my age, I followed lots of student blogs from various institutions to find one which offered some sort of mentoring service to help me settle in.\nThat seemed vital.\nI was lucky that my first choice was surrounded by great mountains, but also easily accessible from home, an added bonus.\n\nNarrator: Now, listen again.\nNarrator: Speaker one.\nSpeaker 1: My parents weren't happy when I told them I wanted to study law.\nThe thing is, I'm a keen athlete, and so having a state of the art track on site to practice on after classes was crucial.\nThey'd have preferred me to study in my city, so I could have lived at home, which would have been much cheaper and easier, of course.\nAnyway, I think I made the right choice.\nIt didn't take long to start hanging out with some great people I met through lectures and my running.\nWhat was more of an issue was getting through all the stuff we were given to do.\nI had to be up all hours to begin with.\nI think I've finally cracked it now, though.\n\nNarrator: Speaker two.\nSpeaker 2: Nothing prepares you fully for starting university life.\nI was away from home during the week with a whole new group of people who I would have to get to know.\nStrangely, though, what threw me most was figuring out where to do my assignments.\nAfter various unsuccessful attempts, I settled on a quiet spot in the student center, and then I could really focus at last.\nChoosing a university was straightforward, actually.\nSince I'm studying history, I thought a brand new campus wouldn't feel right.\nI wanted to gaze at ancient spires and towers on my way to lectures.\nThat one hands down in the end against studying with one of my former classmates.\n\nNarrator: Speaker three.\nSpeaker 3: Selecting the right university was tricky.\nMy dad would have liked me to study medicine close to home, but I also had to consider how the qualification I got would be valued in future.\nI mean, would the university command sufficient respect overseas?\nAnd that's what swung it for me.\nWhen I actually started, it took time to settle in.\nIt was so different from school, where we all followed a fixed timetable term after term.\nMy lectures are mostly after lunch, but I've got laboratory sessions at various times.\nWorking all that out wasn't easy.\nThen I had to cook for myself, too, though that broke up the hours of study a bit.\n\nNarrator: Speaker four.\nSpeaker 4: After school, I worked for my father for 10 years, and then decided to get a business qualification.\nI thought exchanging working life for one full of lectures and assignments would be demanding, which was true up to a point.\nI'd also thought getting my head round what the tutors were explaining would be straightforward, but that turned out to be a false hope.\nI'd taken time finding the right college.\nPartly because of my age, I followed lots of student blogs from various institutions to find one which offered some sort of mentoring service to help me settle in.\nThat seemed vital.\nI was lucky that my first choice was surrounded by great mountains, but also easily accessible from home, an added bonus.\n\nNarrator: That is the end of part three.",
+    "instruction": "You will hear people speaking in different situations. Match each speaker (15-18) to the reason each speaker gives for choosing their university (A-F). There are TWO EXTRA options which you do not need to use.",
+    "questionRange": "15-18",
+    "answerHighlights": {
+     "15": [
+      9
+     ],
+     "16": [
+      23,
+      24
+     ],
+     "17": [
+      30,
+      31
+     ],
+     "18": [
+      43,
+      44
+     ]
+    }
+   },
+   {
+    "type": "map-labeling",
+    "title": "Part 4",
+    "answers": {
+     "19": "B",
+     "20": "F",
+     "21": "C",
+     "22": "E",
+     "23": "D"
+    },
+    "mapImage": "https://audio.mock-stream.com/test14/Screenshot%202026-03-06%20124422.png",
+    "mapTitle": "Office Complex",
+    "audioFile": "https://audio.mock-stream.com/test14/Part%204.m4a",
+    "mapLabels": [
+     "A",
+     "B",
+     "C",
+     "D",
+     "E",
+     "F",
+     "G",
+     "H",
+     "I"
+    ],
+    "questions": [
+     {
+      "id": 19,
+      "place": "New office space"
+     },
+     {
+      "id": 20,
+      "place": "Stores"
+     },
+     {
+      "id": 21,
+      "place": "Finance"
+     },
+     {
+      "id": 22,
+      "place": "Cafe"
+     },
+     {
+      "id": 23,
+      "place": "IT department"
+     }
+    ],
+    "partNumber": 4,
+    "transcript": "Narrator: Part four. You will hear someone giving a talk. Label the places 19 to 23 on the map A-H. There are three extra options which you do not need to use. Mark your answers on the answer sheet. You now have some time to look at questions.\nSpeaker 1: Okay. So, let's look at a plan of the factory complex and see how it's changed. You can see that the main entrance is at the top of the map. Ellersly Road is on the left-hand side, and the warehouse is at the bottom. Okay, let's start with one of the new buildings. The conference center, perhaps. If you look at the lower half of your plan on the right, there are two long buildings that are parallel to each other. The conference center is the one with a view of the river. Hopefully, that's something visitors to the factory complex will appreciate, especially on a sunny day when it's clear outside.\nNow, what about the new office space? As you know, the offices used to be in that large building right alongside Ellersly Road, and that could get a bit noisy at times. So, what we've done is move the office space further away from the road into the building that directly joins onto reception. This should mean employees can benefit from a quieter working environment, as well as the other improvements I mentioned earlier. We also decided to move the stores building, so it could be a lot closer to the warehouse.\nSo now, if you were going to enter the factory complex from the Ellersly Road entrance, stores would be the building immediately on your left. The warehouse staff have already commented that having the stores here is much more convenient. Yes, I'm sure it's going to save a lot of time. Finance was another building that had to be relocated. They just didn't have enough space before. So, you can see the main entrance on the plan, right? And below that is the roundabout. Then there's the road that goes from the roundabout directly to reception. Well, the finance building is about halfway along that road. On the plan, the factory's just above it. The cafe, just so you know, is in the same place as before. It's not ideally located for the factory workers, that's true, but it's not too far if you're heading down from reception or up from the warehouse. But what we've done is try to make the environment a bit more pleasant. So, whereas before you look straight from the cafe onto the large car park, now there's a line of trees separating them. I think you'll agree that this was a good decision, putting in the trees, I mean. It was also necessary to relocate the IT department. Of course, for some of their work, they can do it remotely, but from time to time, the IT people do need to visit the different buildings around the factory complex. For that reason, we've given the IT department a more central location. It's that square building you see right in the center of the plan, one of the closest buildings to the larger car park. Something I'd like to say about the car park, actually.\nNarrator: Now, listen again.\nSpeaker 1: Okay. So, let's look at a plan of the factory complex and see how it's changed. You can see that the main entrance is at the top of the map. Ellersly Road is on the left-hand side, and the warehouse is at the bottom. Okay, let's start with one of the new buildings. The conference center, perhaps. If you look at the lower half of your plan on the right, there are two long buildings that are parallel to each other. The conference center is the one with a view of the river. Hopefully, that's something visitors to the factory complex will appreciate, especially on a sunny day when it's clear outside.\nNow, what about the new office space? As you know, the offices used to be in that large building right alongside Ellersly Road, and that could get a bit noisy at times. So, what we've done is move the office space further away from the road into the building that directly joins onto reception. This should mean employees can benefit from a quieter working environment, as well as the other improvements I mentioned earlier. We also decided to move the stores building, so it could be a lot closer to the warehouse.\nSo now, if you were going to enter the factory complex from the Ellersly Road entrance, stores would be the building immediately on your left. The warehouse staff have already commented that having the stores here is much more convenient. Yes, I'm sure it's going to save a lot of time. Finance was another building that had to be relocated. They just didn't have enough space before. So, you can see the main entrance on the plan, right? And below that is the roundabout. Then there's the road that goes from the roundabout directly to reception. Well, the finance building is about halfway along that road. On the plan, the factory is just above it. The cafe, just so you know, is in the same place as before. It's not ideally located for the factory workers, that's true, but it's not too far if you're heading down from reception or up from the warehouse. But what we've done is try to make the environment a bit more pleasant. So, whereas before you look straight from the cafe onto the large car park, now there's a line of trees separating them. I think you'll agree that this was a good decision, putting in the trees, I mean. It was also necessary to relocate the IT department. Of course, for some of their work, they can do it remotely, but from time to time, the IT people do need to visit the different buildings around the factory complex. For that reason, we've given the IT department a more central location. It's that square building you see right in the center of the plan. One of the closest buildings to the larger car park. Something I'd like to say about the car park, actually.\nNarrator: That is the end of part four.",
+    "instruction": "You will hear someone giving a talk. Label the places (19-23) on the map (A-H). There are THREE extra options which you do not need to use.",
+    "questionRange": "19-23",
+    "answerHighlights": {
+     "19": [
+      1
+     ],
+     "20": [
+      2,
+      6
+     ],
+     "21": [
+      3
+     ],
+     "22": [
+      3
+     ],
+     "23": [
+      3
+     ]
+    }
+   },
+   {
+    "type": "mcq-extracts",
+    "title": "Part 5",
+    "answers": {
+     "24": "B",
+     "25": "A",
+     "26": "B",
+     "27": "B",
+     "28": "B",
+     "29": "A"
+    },
+    "extracts": [
+     {
+      "title": "Extract One",
+      "context": "You hear part of a radio interview with a product designer called Charles Loughlan.",
+      "questions": [
+       {
+        "id": 24,
+        "text": "How does Charles feel about designers who put their names on products?",
+        "options": [
+         {
+          "text": "He understands their basic needs.",
+          "letter": "A"
+         },
+         {
+          "text": "He is dismissive of their motives.",
+          "letter": "B"
+         },
+         {
+          "text": "He admires their business skills.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 25,
+        "text": "What does Charles suggest about a good product?",
+        "options": [
+         {
+          "text": "Its appearance should reflect its function.",
+          "letter": "A"
+         },
+         {
+          "text": "It should encourage a desire to possess it.",
+          "letter": "B"
+         },
+         {
+          "text": "Its ecological impact should be considered.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Extract Two",
+      "context": "You hear two friends discussing a TV interview with an actress called Celia Dent.",
+      "questions": [
+       {
+        "id": 26,
+        "text": "They agree that the interviewer made the mistake of",
+        "options": [
+         {
+          "text": "dominating the discussion.",
+          "letter": "A"
+         },
+         {
+          "text": "asking predictable questions.",
+          "letter": "B"
+         },
+         {
+          "text": "failing to listen fully to answers.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 27,
+        "text": "The man says that certain film stars can be difficult to interview because",
+        "options": [
+         {
+          "text": "they generally show a lack of spontaneity.",
+          "letter": "A"
+         },
+         {
+          "text": "they’re unwilling to reveal their true personality.",
+          "letter": "B"
+         },
+         {
+          "text": "they’re too anxious to promote their latest work.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Extract Three",
+      "context": "You hear two freelance journalists talking about their work.",
+      "questions": [
+       {
+        "id": 28,
+        "text": "When talking about how he tackles a creative writing task, the man",
+        "options": [
+         {
+          "text": "points out how easily he can assume the right frame of mind.",
+          "letter": "A"
+         },
+         {
+          "text": "tries to justify his antisocial behaviour when working.",
+          "letter": "B"
+         },
+         {
+          "text": "admits that frequent breaks can be beneficial.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 29,
+        "text": "What does the woman say about her earlier writing?",
+        "options": [
+         {
+          "text": "She feels she no longer fully relates to it.",
+          "letter": "A"
+         },
+         {
+          "text": "She tends to draw on similar themes in her current work.",
+          "letter": "B"
+         },
+         {
+          "text": "She highlights the improvements she’s noticed in her work.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test14/Part%205.m4a",
+    "partNumber": 5,
+    "transcript": "Narrator: Extract one. Part five. You will hear three extracts. Choose the correct answer, A, B, or C, for each question 24 to 29. There are two questions for each extract. Mark your answers on the answer sheet.\nYou hear part of a radio interview with a product designer called Charles Lochland.\nNow look at questions one and two.\n\nCharles, you're retired now, but you actually designed some 600 household products. And all of them as an employee of a company. Did it ever frustrate you that you were making products without your name on? It was standard practice. Besides, I needed a weekly paycheck before I needed recognition. Nowadays, you can find designers' names on products, but it tends to be high-profile people seeking attention. And then there's celebrity endorsement and all that. People think that if they buy a soccer ball that has the name of some famous player on it, they're going to score wonderful goals, a ploy to get you to buy products. What advice do you have for young designers? What they do will affect so many people during the lifetime of that product. That's serious stuff. So, the product should do what it's supposed to do and be pleasing to have in your environment. I try to make things appear as if they just belong. They don't need to scream. I don't think a nutcracker needs to look like an elephant.\n\nCharles, you're retired now, but you actually designed some 600 household products, and all of them as an employee of a company. Did it ever frustrate you that you were making products without your name on? It was standard practice. Besides, I needed a weekly paycheck before I needed recognition. Nowadays, you can find designers' names on products, but it tends to be high-profile people seeking attention. And then there's celebrity endorsement and all that. People think that if they buy a soccer ball that has the name of some famous player on it, they're going to score wonderful goals, a ploy to get you to buy products.\nWhat advice do you have for young designers? What they do will affect so many people during the lifetime of that product. That's serious stuff. So, the product should do what it's supposed to do and be pleasing to have in your environment. I try to make things appear as if they just belong. They don't need to scream. I don't think a nutcracker needs to look like an elephant.\nNarrator: Extract two.\nYou hear two friends discussing a TV interview with an actress called Celia Dent.\nNow look at questions three and four.\n\nWell, what a one-sided interview that was, and with one of my favorite actresses. She hardly got a look in. No one would have learned anything new about her, especially as it was the usual tired stuff being put to her. When she did try to steer things in a different direction, the interviewer just ignored her and kept going on about himself. There aren't many really good interviewers, are there? The best ones really take on board what's being said and follow it up. This guy showed no imagination at all, just covering old ground and targeting obvious stuff. No wonder he couldn't get interesting responses. And Celia could have told a few stories. She's had a fascinating life. I know some film actors are perhaps a bit tricky. Some seem afraid to be themselves, like they're desperate to keep up their public image at all costs. And, of course, many actors are interviewed just after their last film's been released and are understandably keen to publicize it. But interviewers often concentrate on other superficial stuff. I love it when actors are challenged a bit, and the interviewer dares to deviate from the set script, putting them on the spot.\n\nWell, what a one-sided interview that was, and with one of my favorite actresses. She hardly got a look in. No one would have learned anything new about her, especially as it was the usual tired stuff being put to her. When she did try to steer things in a different direction, the interviewer just ignored her and kept going on about himself. There aren't many really good interviewers, are there? The best ones really take on board what's being said and follow it up. This guy showed no imagination at all, just covering old ground and targeting obvious stuff. No wonder he couldn't get interesting responses. And Celia could have told a few stories. She's had a fascinating life. I know some film actors are perhaps a bit tricky. Some seem afraid to be themselves, like they're desperate to keep up their public image at all costs. And, of course, many actors are interviewed just after their last film's been released and are understandably keen to publicize it. But interviewers often concentrate on other superficial stuff. I love it when actors are challenged a bit, and the interviewer dares to deviate from the set script, putting them on the spot.\nNarrator: Extract three.\nYou hear two freelance journalists talking about their work.\nNow look at questions five and six.\n\nI must get down to some work. Is getting started tricky for you? Well, it can take me a while to enter into a creative state, but once I'm there, I lose awareness of absolutely anything but the ideas flowing. Don't even perceive my fingers typing. Really?\nAnd I'm then extremely resistant to interruption, so I'll shout at anyone who knocks at my study door. My defensive reactions are subconscious though, and usually, I don't even recall them. The family's used to it, and I'm certainly not upholding it as a model of good behavior, but sometimes it's necessary. Yeah, once I'm immersed in creating something, I usually maintain that state until I complete the work. And I don't even feel as if I'm working. But if I look at the task ahead of me, all I tend to see is the effort involved. Right. And what about stuff you wrote ages back? Do you return to it for inspiration? Well, I find I can't always recreate the mindset I had during its creation, because inevitably, I've since broadened my perspective on it. I can see why I used the inspiration I did, but obviously experience changes you. Yes, absolutely.\n\nI must get down to some work. Is getting started tricky for you? Well, it can take me a while to enter into a creative state, but once I'm there, I lose awareness of absolutely anything but the ideas flowing. Don't even perceive my fingers typing. Really?\nAnd I'm then extremely resistant to interruption, so I'll shout at anyone who knocks at my study door. My defensive reactions are subconscious though, and usually, I don't even recall them. The family's used to it, and I'm certainly not upholding it as a model of good behavior, but sometimes it's necessary. Yeah, once I'm immersed in creating something, I usually maintain that state until I complete the work. And I don't even feel as if I'm working. But if I look at the task ahead of me, all I tend to see is the effort involved. Right. And what about stuff you wrote ages back? Do you return to it for inspiration? Well, I find I can't always recreate the mindset I had during its creation, because inevitably, I've since broadened my perspective on it. I can see why I used the inspiration I did, but obviously experience changes you. Yes, absolutely.\nNarrator: That is the end of part five.",
+    "instruction": "You will hear three extracts. Choose the correct answer (A, B or C) for each question (24-29). There are two questions for each extract.",
+    "questionRange": "24-29",
+    "answerHighlights": {
+     "24": [
+      4,
+      6
+     ],
+     "25": [
+      4,
+      7
+     ],
+     "26": [
+      12,
+      14
+     ],
+     "27": [
+      12,
+      14
+     ],
+     "28": [
+      19,
+      22
+     ],
+     "29": [
+      20,
+      23
+     ]
+    }
+   },
+   {
+    "type": "sentence-completion",
+    "title": "Part 6",
+    "answers": {
+     "30": [
+      "BUBBLES"
+     ],
+     "31": [
+      "PROBLEMATIC"
+     ],
+     "32": [
+      "DRYING"
+     ],
+     "33": [
+      "MARKETING"
+     ],
+     "34": [
+      "VEGETARIANS"
+     ],
+     "35": [
+      "INITIATIVE"
+     ]
+    },
+    "audioFile": "https://audio.mock-stream.com/test14/Part%206.m4a",
+    "questions": [
+     {
+      "id": 30,
+      "hint": "put ____ into chocolate"
+     },
+     {
+      "id": 31,
+      "hint": "uses the word ____"
+     },
+     {
+      "id": 32,
+      "hint": "method of ____ the cocoa beans"
+     },
+     {
+      "id": 33,
+      "hint": "company’s ____ department"
+     },
+     {
+      "id": 34,
+      "hint": "example of ____"
+     },
+     {
+      "id": 35,
+      "hint": "____ is the most essential quality"
+     }
+    ],
+    "partNumber": 6,
+    "transcript": "Narrator: Part 6. You will hear a part of a lecture. For each question, fill in the missing information in the numbered space. Write no more than one word for each answer. Mark your answers on the answer sheet.\n\nYou now have some time to look at questions.\n\nSpeaker 1: You'll hear a woman called Janine Rogers, giving a talk about her work.\nComplete the sentences with a word or short phrase.\n\nHello everyone. My name is Janine Rogers, and I've got what many people would regard as a dream job. I'm a chocolate taster. My route into the job came after graduation. As a qualified chemist, I was looking to specialize as a lab technician, but when nothing came up, I considered retraining as a chef. Then I spotted a vacancy in the company I'm in now, and that's where my career started. Everyone has a very specific professional title, mine being product developer. It doesn't cover everything I do, but it perfectly describes one aspect of the role. My background has been a real asset to my work here. I'm currently creating the perfect fillings for our chocolates. At the moment it's caramel, but last month I had to come up with a way of introducing bubbles into the chocolate mixture. It may sound trivial, but it's what sells the chocolate. And I suspect only someone with my technical knowledge would have had the knowhow to pull that off.\n\nIt may sound wonderful to work with chocolate all day, but it's not exactly a simple substance to work with. I'd even go so far as to call it problematic. That's because we're using a blend of fat as well as cocoa, which means the approaches we use and the time we spend blending it can be crucial. A lot of variables can affect how chocolate tastes. It doesn't naturally occur as the sweet tasting confection we're all familiar with. Things like the climate of the region where the beans are grown have an effect, as does the technique used for drying them and the amount of sugar we put in the chocolate. I spend about 20% of my time actually tasting chocolate. But of course, the end result is all the work of a team. For example, the marketing team will come up with a concept for a new range, and it's my job in research and development to bring that idea to life. Then we'll make samples and test them on consumers. After that, we'll speak to the engineers in manufacturing and also the people in charge of packaging, which believe it or not, is an essential early stage. There's no point in creating something that can't be wrapped up and sold. Liquid chocolate is a good example. It's delicious, but difficult to preserve in that state for sale. We also rely heavily on advice from our legal team about the claims we make for our chocolate in our advertising. And we need to be aware whether we're making something that's not suitable for vegetarians, say, but we haven't stated this in our labeling. So what qualities are required in my job? Well, a curiosity about how things work and why, but above and beyond all else, you need initiative and lots of it. There'll be times when no one's giving you specific instructions, and you need to get on by yourself. And of course, you need to love chocolate.\n\nNarrator: Now, listen again.\nSpeaker 1: Hello everyone. My name is Janine Rogers, and I've got what many people would regard as a dream job. I'm a chocolate taster. My route into the job came after graduation. As a qualified chemist, I was looking to specialize as a lab technician, but when nothing came up, I considered retraining as a chef. Then I spotted a vacancy in the company I'm in now, and that's where my career started. Everyone has a very specific professional title, mine being product developer. It doesn't cover everything I do, but it perfectly describes one aspect of the role. My background has been a real asset to my work here. I'm currently creating the perfect fillings for our chocolates. At the moment it's caramel, but last month I had to come up with a way of introducing bubbles into the chocolate mixture. It may sound trivial, but it's what sells the chocolate. And I suspect only someone with my technical knowledge would have had the knowhow to pull that off.\n\nIt may sound wonderful to work with chocolate all day, but it's not exactly a simple substance to work with. I'd even go so far as to call it problematic. That's because we're using a blend of fat as well as cocoa, which means the approaches we use and the time we spend blending it can be crucial. A lot of variables can affect how chocolate tastes. It doesn't naturally occur as the sweet tasting confection we're all familiar with. Things like the climate of the region where the beans are grown have an effect, as does the technique used for drying them and the amount of sugar we put in the chocolate. I spend about 20% of my time actually tasting chocolate. But of course, the end result is all the work of a team. For example, the marketing team will come up with a concept for a new range, and it's my job in research and development to bring that idea to life. Then we'll make samples and test them on consumers. After that, we'll speak to the engineers in manufacturing and also the people in charge of packaging, which believe it or not, is an essential early stage. There's no point in creating something that can't be wrapped up and sold. Liquid chocolate is a good example. It's delicious, but difficult to preserve in that state for sale. We also rely heavily on advice from our legal team about the claims we make for our chocolate in our advertising. And we need to be aware whether we're making something that's not suitable for vegetarians, say, but we haven't stated this in our labeling. So what qualities are required in my job? Well, a curiosity about how things work and why, but above and beyond all else, you need initiative and lots of it. There'll be times when no one's giving you specific instructions, and you need to get on by yourself. And of course, you need to love chocolate.\n\nNarrator: That is the end of part six.",
+    "instruction": "You will hear a part of a lecture. For each question, fill in the missing information in the numbered space. Write no more than one word for each answer.",
+    "passageTitle": "WORKING WITH CHOCOLATE",
+    "questionRange": "30-35",
+    "passageContent": "Janine trained as a chemist before working for her current employer.<br><br>Janine found her background particularly helpful when working on a project to put <span class=\"gap-input\" data-gap=\"30\">_____(30)_____</span> into chocolate.<br><br>Janine uses the word <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span> to describe chocolate as a substance to work with.<br><br>Janine mentions the method of <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span> the cocoa beans as a variable affecting the taste of her chocolate.<br><br>Janine says that ideas for new types of chocolate generally come from her company’s <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span> department.<br><br>Janine says the staff responsible for packaging play a surprisingly important role in developing a new chocolate product.<br><br>Janine gives the example of <span class=\"gap-input\" data-gap=\"34\">_____(34)_____</span> as a group that need to be considered when designing the label for a product.<br><br>Janine thinks that <span class=\"gap-input\" data-gap=\"35\">_____(35)_____</span> is the most essential quality needed for her job.",
+    "answerHighlights": {
+     "30": [
+      7
+     ],
+     "31": [
+      9
+     ],
+     "32": [
+      9
+     ],
+     "33": [
+      9
+     ],
+     "34": [
+      9
+     ],
+     "35": [
+      9
+     ]
+    }
+   }
+  ],
+  "examDate": "2025-12-29",
+  "testInfo": {
+   "id": "cefr-listening-14",
+   "level": "B1-C1",
+   "title": "CEFR Listening Mock Test 14",
+   "totalTime": 40,
+   "totalQuestions": 35
+  }
+ },
+ "created_at": "2026-05-15T15:19:07.94264+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

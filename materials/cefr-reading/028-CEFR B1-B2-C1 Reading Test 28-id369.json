@@ -1,0 +1,798 @@
+{
+ "id": 369,
+ "mock_type": "cefr-reading",
+ "mock_number": 28,
+ "title": "CEFR B1-B2-C1 Reading Test 28",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "gap-fill-text",
+    "title": "Part 1",
+    "answers": {
+     "1": [
+      "Stop"
+     ],
+     "2": [
+      "Communism"
+     ],
+     "3": [
+      "Necessary"
+     ],
+     "4": [
+      "Vietnam"
+     ],
+     "5": [
+      "Others"
+     ],
+     "6": [
+      "Quickly"
+     ]
+    },
+    "passage": {
+     "title": "Vietnam",
+     "content": "<p>After World War II, America did what it could to stop the spread of communism across the globe. The Cold War continued as America tried to <span class=\"gap\" data-gap=\"1\">_____(1)_____</span> the Soviet Union's continuous effort to take over noncommunist countries. The country of Vietnam became part of the struggle between the two powerful nations. The Vietnam War was, in part, a result of America's fear of Soviet occupation and the spread of <span class=\"gap\" data-gap=\"2\">_____(2)_____</span>. In 1964, President Johnson asked Congress to agree to take whatever measures were necessary to stop attacks against the United States' forces. The request came about as a result of reports that North Vietnamese gunboats had fired at destroyers owned by the United States. President Johnson was given the green light to do what was <span class=\"gap\" data-gap=\"3\">_____(3)_____</span> to stop military aggression by North Vietnamese troops. By 1968, there were more than 500,000 American soldiers in <span class=\"gap\" data-gap=\"4\">_____(4)_____</span>. The country had mixed emotions about America's involvement with Vietnam. Some felt the U.S. had to protect South Vietnam. They believed if one country fell to communism, then others would quickly follow. <span class=\"gap\" data-gap=\"5\">_____(5)_____</span> wanted Americans removed from Vietnam as <span class=\"gap\" data-gap=\"6\">_____(6)_____</span> as possible. The Vietnam War finally ended in 1973 with Vietnam still divided.</p>"
+    },
+    "questions": [
+     {
+      "id": 1,
+      "hint": "America tried to _____ the Soviet Union's continuous effort"
+     },
+     {
+      "id": 2,
+      "hint": "fear of Soviet occupation and the spread of _____"
+     },
+     {
+      "id": 3,
+      "hint": "do what was _____ to stop military aggression"
+     },
+     {
+      "id": 4,
+      "hint": "more than 500,000 American soldiers in _____"
+     },
+     {
+      "id": 5,
+      "hint": "_____ wanted Americans removed from Vietnam"
+     },
+     {
+      "id": 6,
+      "hint": "removed from Vietnam as _____ as possible"
+     }
+    ],
+    "partNumber": 1,
+    "instruction": "Read the text. Fill in each gap with ONE word. You must use a word which is somewhere in the rest of the text.",
+    "explanations": {
+     "q1": {
+      "text": "The passage opens by stating America's goal was to 'stop the spread of communism'. The next sentence continues this idea, describing America's actions against the Soviet Union. That's why the correct answer is 'Stop'.",
+      "quote": "After World War II, America did what it could to stop the spread of communism across the globe."
+     },
+     "q2": {
+      "text": "The passage states America's primary goal was to stop communism from spreading. The war was a result of the fear of Soviet power and the expansion of this specific ideology. That's why the correct answer is 'communism'.",
+      "quote": "After World War II, America did what it could to stop the spread of communism across the globe."
+     },
+     "q3": {
+      "text": "The text says President Johnson asked Congress for permission 'to take whatever measures were necessary to stop attacks'. This directly supports the idea that he was allowed to do what was needed. That's why the correct answer is 'necessary'.",
+      "quote": "In 1964, President Johnson asked Congress to agree to take whatever measures were necessary to stop attacks against the United States' forces."
+     },
+     "q4": {
+      "text": "The entire passage is about the Vietnam War and America's role in it. The sentence discusses the large number of American soldiers involved in this specific conflict. That's why the correct answer is 'Vietnam'.",
+      "quote": "The country had mixed emotions about America's involvement with Vietnam."
+     },
+     "q5": {
+      "text": "The passage describes the country's 'mixed emotions'. It presents one side of the argument starting with 'Some felt...', and then introduces the opposing viewpoint with the word 'Others'. That's why the correct answer is 'Others'.",
+      "quote": "The country had mixed emotions about America's involvement with Vietnam."
+     },
+     "q6": {
+      "text": "This part of the sentence describes how the group opposing the war wanted the soldiers removed. The common phrase 'as quickly as possible' fits the context of wanting the conflict to end. That's why the correct answer is 'quickly'.",
+      "quote": "They believed if one country fell to communism, then others would quickly follow."
+     }
+    },
+    "questionRange": "1-6"
+   },
+   {
+    "type": "matching",
+    "texts": [
+     {
+      "title": "The Russell Hotel",
+      "number": 7,
+      "content": "The Russell Hotel is close to the airport, and has quiet, comfortable rooms. However, the journey to the city centre can take time, and prices are above average. Delicious local food is served in the restaurant, and its conference rooms and business facilities are excellent. The hotel is surrounded by woodland, offers a golf course, and there are pleasant walks around the nearby lake."
+     },
+     {
+      "title": "The Cumberland Hotel",
+      "number": 8,
+      "content": "The Cumberland Hotel is well placed for sightseeing on a busy city street, in a district which is full of interesting shops. Rooms are expensive but comfortable and the hotel serves excellent food, typical of the area. A piano player entertains guests every night in the bar."
+     },
+     {
+      "title": "The Aviemore Hotel",
+      "number": 9,
+      "content": "The newly-built Aviemore Hotel is small but in the centre of the city's cinema, restaurant and nightclub district. Rooms are clean, comfortable and reasonably priced, although the food is rather basic. There is an electronic games arcade in the hotel."
+     },
+     {
+      "title": "The Westmore Hotel",
+      "number": 10,
+      "content": "The Westmore Hotel is in beautiful countryside to the east of the city. It is peaceful and inexpensive, although the accommodation is basic. There are opportunities nearby for sailing and diving, and a lot of interesting routes to explore on foot."
+     },
+     {
+      "title": "Scotwood Manor",
+      "number": 11,
+      "content": "The rooms in Scotwood Manor are furnished as they were 100 years ago. The staff spend the day as people did then and are happy to explain what it was like. There are activity sheets for children and a shop with books, souvenirs and cards, as well as a good café and car park."
+     },
+     {
+      "title": "Fairley Museum",
+      "number": 12,
+      "content": "Fairley Museum is arranged like an old-fashioned village. You can see people working at their trades to produce tools, pots and even boats using traditional skills. There is a small picnic area in the car park but most people eat in the excellent café. The museum is on a bus route."
+     },
+     {
+      "title": "Westerleigh Museum",
+      "number": 13,
+      "content": "Westerleigh Museum is near the bus station, and contains exhibitions showing the town's development. In a separate room there are works by some well-known artists as well as changing exhibitions of work by local artists. Sandwiches, cakes and hot drinks are on sale in the café."
+     },
+     {
+      "title": "Charberth Museum",
+      "number": 14,
+      "content": "Charberth Museum is near the main bus station and has a rich collection of objects, 19th-century paintings and photographs showing life in the town over the centuries – the jobs people did and how they entertained themselves. An accompanying book showing the works on display is available from the Museum Shop as well as some attractive gifts. There is no café."
+     }
+    ],
+    "title": "Part 2",
+    "answers": {
+     "7": [
+      "A"
+     ],
+     "8": [
+      "B"
+     ],
+     "9": [
+      "C"
+     ],
+     "10": [
+      "E"
+     ],
+     "11": [
+      "D"
+     ],
+     "12": [
+      "F"
+     ],
+     "13": [
+      "H"
+     ],
+     "14": [
+      "I"
+     ]
+    },
+    "questions": [
+     {
+      "id": 7,
+      "textNumber": 7
+     },
+     {
+      "id": 8,
+      "textNumber": 8
+     },
+     {
+      "id": 9,
+      "textNumber": 9
+     },
+     {
+      "id": 10,
+      "textNumber": 10
+     },
+     {
+      "id": 11,
+      "textNumber": 11
+     },
+     {
+      "id": 12,
+      "textNumber": 12
+     },
+     {
+      "id": 13,
+      "textNumber": 13
+     },
+     {
+      "id": 14,
+      "textNumber": 14
+     }
+    ],
+    "partNumber": 2,
+    "statements": [
+     {
+      "text": "Stephen is looking for a top-quality hotel which is convenient for the airport, to hold a meeting with visiting German publishers. They will stay overnight and want to take some exercise outdoors after the meeting.",
+      "letter": "A"
+     },
+     {
+      "text": "Karl and Monika want to stay in the city centre at a hotel offering good local food. The next morning they plan to see the main sights. They are not worried about the cost of the hotel.",
+      "letter": "B"
+     },
+     {
+      "text": "James and Denise want a modern, medium-priced hotel in the city, but will eat out during their stay. They also want to see some films in the evenings, somewhere near their hotel.",
+      "letter": "C"
+     },
+     {
+      "text": "Cristina wants to visit a museum with her daughter to see how people used to live. They want to have lunch there and buy some presents to take home. They will go by car.",
+      "letter": "D"
+     },
+     {
+      "text": "David and Katrina have just started work after leaving college and haven't got much money, so they want a reasonably priced hotel. They like country walks and watersports.",
+      "letter": "E"
+     },
+     {
+      "text": "Joanna wants to visit a museum hotel and see people making things. She has no car and would like to have lunch there.",
+      "letter": "F"
+     },
+     {
+      "text": "Sue and Belinda want to stay somewhere in the city centre that offers a variety of evening entertainment within the hotel, including live music.",
+      "letter": "G"
+     },
+     {
+      "text": "Carl's hobby is painting pictures, so he would like to see the work of other painters who live in the area. He wants to have a snack at the museum. He travels by public transport.",
+      "letter": "H"
+     },
+     {
+      "text": "Duncan wants to find out where local people worked in the past and what they did in their spare time. He wants to buy a book about the exhibition. He travels by bus.",
+      "letter": "I"
+     },
+     {
+      "text": "The Cannavaro family want to walk around a site which offers opportunities for the whole family to take part in activities. They want somewhere pleasant to eat their own sandwiches. They have a car.",
+      "letter": "J"
+     }
+    ],
+    "instruction": "Read the texts 7-14 and the statements A-J. Decide which text matches with the situation described in the statements. Each statement can be used ONCE only. There are TWO extra statements which you do not need to use.",
+    "explanations": {
+     "q7": {
+      "text": "The hotel is near the airport and has excellent business facilities for the meeting. It also offers a golf course and walks by a lake for outdoor exercise. That's why the correct answer is A.",
+      "quote": ""
+     },
+     "q8": {
+      "text": "This hotel is in a good location for sightseeing and serves excellent food that is typical of the area. The text also mentions that the rooms are expensive. That's why the correct answer is B.",
+      "quote": ""
+     },
+     "q9": {
+      "text": "This hotel is newly-built, reasonably priced, and located in the city's cinema district, which is perfect for James and Denise. The basic food is not an issue since they plan to eat out. That's why the correct answer is C.",
+      "quote": "The newly-built Aviemore Hotel is small but in the centre of the city's cinema, restaurant and nightclub district."
+     },
+     "q10": {
+      "text": "This hotel is inexpensive, which suits their limited budget. It is also in the countryside and offers watersports like sailing and diving, as well as walking routes. That's why the correct answer is E.",
+      "quote": "There are opportunities nearby for sailing and diving, and a lot of interesting routes to explore on foot."
+     },
+     "q11": {
+      "text": "Scotwood Manor shows how people lived 100 years ago. It has a café for lunch, a shop for buying souvenirs, and a car park for their car. That's why the correct answer is D.",
+      "quote": "There are activity sheets for children and a shop with books, souvenirs and cards, as well as a good café and car park."
+     },
+     "q12": {
+      "text": "At this museum, you can see people making things like tools and pots. It has an excellent café for lunch and is on a bus route, which is perfect for someone without a car. That's why the correct answer is F.",
+      "quote": "You can see people working at their trades to produce tools, pots and even boats using traditional skills."
+     },
+     "q13": {
+      "text": "This museum is near the bus station, making it accessible by public transport. It features exhibitions by local artists, which suits Carl's hobby, and has a café for a snack. That's why the correct answer is H.",
+      "quote": "In a separate room there are works by some well-known artists as well as changing exhibitions of work by local artists."
+     },
+     "q14": {
+      "text": "This museum is near the bus station and shows exactly what Duncan is interested in: the jobs people did and how they entertained themselves. He can also buy a book about the exhibition. That's why the correct answer is I.",
+      "quote": ""
+     }
+    },
+    "questionRange": "7-14",
+    "extraStatements": [
+     "G",
+     "J"
+    ],
+    "statementsFirst": true
+   },
+   {
+    "type": "matching-headings",
+    "title": "Part 3",
+    "answers": {
+     "15": [
+      "H"
+     ],
+     "16": [
+      "F"
+     ],
+     "17": [
+      "E"
+     ],
+     "18": [
+      "C"
+     ],
+     "19": [
+      "D"
+     ],
+     "20": [
+      "G"
+     ]
+    },
+    "passage": {
+     "title": "Yoruba Town",
+     "paragraphs": [
+      {
+       "number": "A",
+       "content": "The Yoruba people of Nigeria classify their towns in two ways. Permanent towns with their own governments are called \"ilu\", whereas temporary settlements, set up to support work in the country are \"aba\". Although ilu tend to be larger than aba, the distinction is not one of size, some aba are large, while declining ilu can be small, but of purpose. There is no \"typical\" Yoruba town, but some features are common to most towns.",
+       "questionId": 15
+      },
+      {
+       "number": "B",
+       "content": "In the 19th century most towns were heavily fortified and the foundations of these walls are sometimes visible. Collecting tolls to enter and exit through the walls was a major source of revenue for the old town rulers, as were market fees. The markets were generally located centrally and in small towns, while in large towns there were permanent stands made of corrugated iron or concrete. The market was usually next to the local ruler's palace.",
+       "questionId": 16
+      },
+      {
+       "number": "C",
+       "content": "The palaces were often very large. In the 1930's, the area of Oyo's palace covered 17 acres, and consisted of a series of courtyards surrounded by private and public rooms. After colonisation, many of the palaces were completely or partially demolished. Often the rulers built two storey houses for themselves using some of the palace grounds for government buildings.",
+       "questionId": 17
+      },
+      {
+       "number": "D",
+       "content": "The town is divided into different sections. In some towns these are regular, extending out from the center of the town like spokes on a wheel, while in others, where space is limited, they are more random. The different areas are further divided into compounds called \"ile\". These vary in size considerably from single dwellings to up to thirty houses. They tend to be larger in the North. Large areas are devoted to government administrative buildings. Newer developments such as industrial or commercial areas or apartment housing for civil servants tends to be build on the edge of the town.",
+       "questionId": 18
+      },
+      {
+       "number": "E",
+       "content": "Houses are rectangular and either have a courtyard in the center or the rooms come off a central corridor. Most social life occurs in the courtyard. They are usually built of hardened mud and have roofs of corrugated iron or, in the countryside, thatch. Buildings of this material are easy to alter, either by knocking down rooms or adding new ones. And can be improved by coating the walls with cement. Richer people often build their houses of concrete blocks and, if they can afford to, build two storey houses. Within compounds there can be quite a mixture of building types. Younger well-educated people may have well-furnished houses while their older relatives live in mud walled buildings and sleep on mats on the floor.",
+       "questionId": 19
+      },
+      {
+       "number": "F",
+       "content": "The builder or the most senior man gets a room either near the entrance or, in a two storied house, next to the balcony. He usually has more than one room. Junior men get a room each and there are separate rooms for teenage boys and girls to sleep in. Younger children sleep with their mothers. Any empty room are used as storage, let out or, if they face the street, used as shops.",
+       "questionId": 20
+      }
+     ]
+    },
+    "headings": [
+     {
+      "text": "Town",
+      "letter": "A"
+     },
+     {
+      "text": "Colonisation",
+      "letter": "B"
+     },
+     {
+      "text": "Urban devision",
+      "letter": "C"
+     },
+     {
+      "text": "Architectural home styles",
+      "letter": "D"
+     },
+     {
+      "text": "Types of settlements",
+      "letter": "E"
+     },
+     {
+      "text": "Historical foundations",
+      "letter": "F"
+     },
+     {
+      "text": "Domestic arrangements",
+      "letter": "G"
+     },
+     {
+      "text": "The residences of rulers",
+      "letter": "H"
+     }
+    ],
+    "questions": [
+     {
+      "id": 15,
+      "text": "Paragraph A"
+     },
+     {
+      "id": 16,
+      "text": "Paragraph B"
+     },
+     {
+      "id": 17,
+      "text": "Paragraph C"
+     },
+     {
+      "id": 18,
+      "text": "Paragraph D"
+     },
+     {
+      "id": 19,
+      "text": "Paragraph E"
+     },
+     {
+      "id": 20,
+      "text": "Paragraph F"
+     }
+    ],
+    "partNumber": 3,
+    "instruction": "Read the text and choose the correct heading for each paragraph from the list of headings below. There are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once.",
+    "explanations": {
+     "q15": {
+      "text": "The paragraph describes the large size and features of the palaces where rulers lived, such as the one in Oyo which covered 17 acres. This is why the correct answer is H.",
+      "quote": "The palaces were often very large."
+     },
+     "q16": {
+      "text": "The paragraph describes historical features of the towns, including 19th-century fortified walls and the collection of tolls. These details relate to the town's origins, so the correct answer is F.",
+      "quote": "In the 19th century most towns were heavily fortified and the foundations of these walls are sometimes visible."
+     },
+     "q17": {
+      "text": "The paragraph explains the two main classifications for Yoruba towns: permanent \"ilu\" and temporary \"aba\". This directly discusses different kinds of settlements, so the correct answer is E.",
+      "quote": "The Yoruba people of Nigeria classify their towns in two ways."
+     },
+     "q18": {
+      "text": "The paragraph explains how towns are organized into sections, which are then subdivided into compounds called \"ile\". This describes the layout of the town, so the correct answer is C.",
+      "quote": "The town is divided into different sections."
+     },
+     "q19": {
+      "text": "The paragraph describes the shape, layout, and building materials of houses, such as hardened mud or concrete blocks. This focuses on how homes are built, so the correct answer is D.",
+      "quote": "Houses are rectangular and either have a courtyard in the center or the rooms come off a central corridor."
+     },
+     "q20": {
+      "text": "The paragraph explains how rooms are assigned to different family members based on their status, age, and gender. This describes the living setup inside the home, so the correct answer is G.",
+      "quote": "The builder or the most senior man gets a room either near the entrance or, in a two storied house, next to the balcony."
+     }
+    },
+    "extraHeadings": [
+     "A",
+     "B"
+    ],
+    "questionRange": "15-20"
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 4",
+    "answers": {
+     "21": [
+      "C"
+     ],
+     "22": [
+      "B"
+     ],
+     "23": [
+      "C"
+     ],
+     "24": [
+      "A"
+     ],
+     "25": [
+      "True",
+      "A"
+     ],
+     "26": [
+      "False",
+      "B"
+     ],
+     "27": [
+      "True",
+      "A"
+     ],
+     "28": [
+      "Not Given",
+      "C"
+     ],
+     "29": [
+      "Not Given",
+      "C"
+     ]
+    },
+    "passage": {
+     "title": "Activities for Children",
+     "content": "<p><strong>A.</strong> Twenty-five years ago, children in London walked to school and played in parks and playing fields after school and at the weekend. Today they are usually driven to school by parents anxious about safety and spend hours glued to television screens or computer games. Meanwhile, community playing fields are being sold off to property developers at an alarming rate. \"This change in lifestyle has, sadly, meant greater restrictions on children,\" says Neil Armstrong, Professor of Health and Exercise Sciences at the University of Exeter. \"If children continue to be this inactive, they'll be storing up big problems for the future.\"</p><p><strong>B.</strong> In 1985, Professor Armstrong headed a five-year research project into children's fitness. The results, published in 1990, were alarming. The survey, which monitored 700 11-16-year-olds, found that 48 per cent of girls and 41 per cent of boys already exceeded safe cholesterol levels set for children by the American Heart Foundation. Armstrong adds, \"Heart is a muscle and need exercise, or it loses its strength.\" It also found that 13 per cent of boys and 10 percent of girls were overweight. More disturbingly, the survey found that over a four-day period, half the girls and one-third of the boys did less exercise than the equivalent of a brisk 10-minute walk. High levels of cholesterol excess body fat and inactivity are believed to increase the risk of coronary heart disease.</p><p><strong>C.</strong> Physical education is under pressure in the UK – most schools devote little more than 100 minutes a week to it in curriculum time, which is less than many other European countries. Three European countries are giving children a head start in PE. France, Austria and Switzerland – offer at least two hours in primary and secondary schools. These findings, from the European Union of Physical Education Associations, prompted specialists in children's physiology to call on European governments to give youngsters a daily PE programme. The survey shows that the UK ranks 13th out of the 25 countries, with Ireland bottom, averaging under an hour a week for PE. From age six to 18 British children received, on average, 106 minutes of PE a week. Professor Armstrong, who presented the findings at the meeting, noted that since the introduction of the national curriculum there had been a marked fall in the time devoted to PE in UK schools, with only a minority of pupils getting two hours a week.</p><p><strong>D.</strong> As a former junior football international, Professor Armstrong is a passionate advocate for sport. Although the Government has poured millions into beefing up sport in the community, there is less commitment to it as part of the cramped school curriculum. This means that many children never acquire the necessary skills to thrive in team games. If they are no good at them, they lose interest and establish an inactive pattern of behaviour. When this is coupled with a poor diet, it will lead inevitably to weight gain. Seventy per cent of British children give up all sport when they leave school, compared with only 20 per cent of French teenagers. Professor Armstrong believes that there is far too great an emphasis on team games at school. \"We need to look at the time devoted to PE and balance it between individual and pair activities, such as aerobics and badminton, as well as team sports. \"He added that children need to have the opportunity to take part in a wide variety of individual, partner and team sports.</p><p><strong>E.</strong> The good news, however, is that a few small companies and children's activity groups have reacted positively and creatively to the problem. Take That, shouts Gloria Thomas, striking a disco pose astride her mini space hopper. Take That, echo a flock of toddlers, adopting outrageous postures astride their space hoppers. \"Michael Jackson,\" she shouts, and they all do a spoof fan-crazed shriek. During the wild and chaotic hopper race across the studio floor, commands like this are issued and responded to with untrammelled glee. The sight of 15 bouncing seven-year-olds who seem about to launch into orbit at every bounce brings tears to the eyes. Uncoordinated, loud, excited and emotional, children provide raw comedy.</p><p><strong>F.</strong> Any cardiovascular exercise is a good option, and it doesn't necessarily have to be high intensity. It can be anything that gets your heart rate up: such as walking the dog, swimming, miming, skipping, hiking. \"Even walking through the grocery store can be exercise,\" Samis-Smith said. What they don't know is that they're at a Fit Kids class, and that the fun is a disguise for the serious exercise plan they're covertly being taken through. Fit Kids trains parents to run fitness classes for children. \"Ninety per cent of children don't like team sports,\" says company director, Gillian Gale.</p><p><strong>G.</strong> A Prevention survey found that children whose parents keep in shape are much more likely to have healthy body weights themselves. \"There's nothing worse than telling a child what he needs to do and not doing it yourself,\" says Elizabeth Ward, R.D., a Boston nutritional consultant and author of Healthy Foods, Healthy Kids. \"Set a good example and get your nutritional house in order first.\" In the 1930s and '40s, kids expended 800 calories a day just walking, carrying water, and doing other chores, notes Fima Lifshitz, M.D., a pediatric endocrinologist in Santa Barbara. \"Now, kids in obese families are expending only 200 calories a day in physical activity,\" says Lifshitz. \"Incorporate more movement in your family's life: park farther away from the stores at the mall, take stairs instead of the elevator, and walk to nearby friends' houses instead of driving.\"</p>"
+    },
+    "partNumber": 4,
+    "instruction": "Read the following text and choose the correct answer A, B, C or D. Mark your answers on the answer sheet.",
+    "explanations": {
+     "q21": {
+      "text": "Paragraph C compares PE time in the UK to other European countries. Professor Armstrong is quoted expressing concern about the significant drop in time dedicated to PE in UK schools. That's why the correct answer is C.",
+      "quote": ""
+     },
+     "q22": {
+      "text": "In paragraph B, Professor Armstrong's research findings on children's health are discussed. He is directly quoted stating that the heart is a muscle that requires exercise to maintain its strength. That's why the correct answer is B.",
+      "quote": "Armstrong adds, \"Heart is a muscle and need exercise, or it loses its strength.\""
+     },
+     "q23": {
+      "text": "The passage explains that the Fit Kids program is designed to teach parents how to lead fitness activities for their children, making the fun a disguise for a serious exercise plan. That's why the correct answer is C.",
+      "quote": "Fit Kids trains parents to run fitness classes for children."
+     },
+     "q24": {
+      "text": "At the end of the passage, Dr. Lifshitz suggests incorporating more movement into daily life by parking farther away or taking the stairs. These are ways to create more exercise opportunities. That's why the correct answer is A.",
+      "quote": "Incorporate more movement in your family's life: park farther away from the stores at the mall, take stairs instead of the elevator, and walk to nearby friends' houses instead of driving."
+     },
+     "q25": {
+      "text": "This statement is true. In the first paragraph, Professor Armstrong explicitly warns that children who continue to be inactive will face significant problems as they get older. That's why the correct answer is True.",
+      "quote": "\"If children continue to be this inactive, they'll be storing up big problems for the future.\""
+     },
+     "q26": {
+      "text": "This statement is false. The passage states that Professor Armstrong's survey found 10 percent of girls were overweight. The higher percentages mentioned in the paragraph refer to cholesterol levels, not obesity. That's why the correct answer is False.",
+      "quote": "It also found that 13 per cent of boys and 10 percent of girls were overweight."
+     },
+     "q27": {
+      "text": "This statement is true. Paragraph D explains that because there is less commitment to sport in the school curriculum, many children do not learn the skills they need to do well in team sports. That's why the correct answer is True.",
+      "quote": "This means that many children never acquire the necessary skills to thrive in team games."
+     },
+     "q28": {
+      "text": "The passage does not contain any information about thin children or any specific health complaints they might have, including about their eyesight. The text focuses on issues related to inactivity. That's why the correct answer is Not Given.",
+      "quote": ""
+     },
+     "q29": {
+      "text": "The passage does not mention cycling or suggest that any regular exercise could be harmful to the heart. In fact, it consistently promotes cardiovascular activity for good health. That's why the correct answer is Not Given.",
+      "quote": ""
+     }
+    },
+    "questionRange": "21-29",
+    "questionSections": [
+     {
+      "type": "mcq",
+      "title": "Questions 21-24: Multiple Choice",
+      "questions": [
+       {
+        "id": 21,
+        "text": "According to paragraph C, what does Professor Neil Armstrong concern about?",
+        "options": [
+         {
+          "text": "Spending more time on TV affect academic level",
+          "letter": "A"
+         },
+         {
+          "text": "Parents have less time stay with their children",
+          "letter": "B"
+         },
+         {
+          "text": "The amount of P.E lessons in various countries",
+          "letter": "C"
+         },
+         {
+          "text": "Increasing speed of property's development",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 22,
+        "text": "What does Armstrong indicate in Paragraph B?",
+        "options": [
+         {
+          "text": "We need to take a 10 minute walk everyday",
+          "letter": "A"
+         },
+         {
+          "text": "We should do more activity to exercise heart",
+          "letter": "B"
+         },
+         {
+          "text": "Girls' situation is better than boys",
+          "letter": "C"
+         },
+         {
+          "text": "Exercise can cure many disease",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 23,
+        "text": "What is aim of Fit Kids' training?",
+        "options": [
+         {
+          "text": "Make profit by running several sessions",
+          "letter": "A"
+         },
+         {
+          "text": "Only concentrate on one activity for each child",
+          "letter": "B"
+         },
+         {
+          "text": "To guide parents how to organize activities for children",
+          "letter": "C"
+         },
+         {
+          "text": "Spread the idea that team sport is better",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 24,
+        "text": "What did Lifshitz suggest in the end of this passage?",
+        "options": [
+         {
+          "text": "Create opportunities to exercise your body",
+          "letter": "A"
+         },
+         {
+          "text": "Taking elevator saves your time",
+          "letter": "B"
+         },
+         {
+          "text": "Kids should spend more than 200 calories each day",
+          "letter": "C"
+         },
+         {
+          "text": "We should never drive but walk",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "Choose the correct letter A, B, C or D.",
+      "questionRange": "21-24"
+     },
+     {
+      "type": "tfni",
+      "title": "Questions 25-29: True/False/Not Given",
+      "options": [
+       "True",
+       "False",
+       "Not Given"
+      ],
+      "questions": [
+       {
+        "id": 25,
+        "text": "According to Neil Armstrong inactive children may have problem in the future."
+       },
+       {
+        "id": 26,
+        "text": "According to Neil Armstrong 40 percent of girls suffer from obesity."
+       },
+       {
+        "id": 27,
+        "text": "Majority of children never have enough essential skills for team games."
+       },
+       {
+        "id": 28,
+        "text": "Thin children never complain about their health and eyesight."
+       },
+       {
+        "id": 29,
+        "text": "Riding a bicycle on regular basis is sometimes harmful for heart."
+       }
+      ],
+      "instruction": "For questions 25-29, decide if the following statements agree with the information given in the text.",
+      "questionRange": "25-29"
+     }
+    ]
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 5",
+    "answers": {
+     "30": [
+      "Industrialised",
+      "Industrialized"
+     ],
+     "31": [
+      "Perplexed"
+     ],
+     "32": [
+      "Infiltrated"
+     ],
+     "33": [
+      "Fundamental"
+     ],
+     "34": [
+      "A"
+     ],
+     "35": [
+      "A"
+     ]
+    },
+    "passage": {
+     "title": "Parenting in the 21st Century",
+     "content": "<p>I decided to write this book for several reasons. I was dissatisfied with parenting-advice literature, finding it to be riddled with oversimplified messages, and often unrelated to or at odds with current scientific knowledge. I also felt certain after years as a professor, researcher, and author of textbooks on child development, that contemporary theory and research contain many vital, practical messages...ones crucial for parents to understand if they are to effectively help their children develop. Furthermore, I've been approached on countless occasions by uneasy parents, frustrated by a wide array of child-rearing issues. I became convinced, therefore, that parents needed a consistent way of thinking about their role to guide them in making effective decisions.</p><p>It's little wonder that parents are perplexed about what approach to take to child rearing. Today's world is one which makes parenting exceedingly difficult. In many industrialised countries, the majority of mothers of preschool children are in the workforce, though not always through choice. This group in particular tends to lament the lack of practical advice for parents in their child-rearing roles. Many parents simultaneously complain that they're busier than ever and that due to the growing demands of their jobs, they have little time for their children. Nations of pressured, preoccupied parents have emerged in an era of grave public concern for the well-being of youth.</p><p>It would seem from looking at current media that the younger generation are achieving less well than they should and that they often display a worrying lack of direction, manifested at its worst in a variety of social problems. These problems seem to have infiltrated even the most economically privileged sectors of the population, affecting young people who, on the face of things, have been granted the best of life's chances. Accounts of children being deprived of their childhood and growing up too fast, or the dangers of promoting materialism to young people abound in the media.</p><p>In many countries there is a growing sense of 'youth alienation' and parents rightly fear for their own children's futures. But agreement on what parents can and should do to shield children from underachievement and demoralisation eludes those who seek it on the shelves of libraries or bookstores. Parenting advice has always been in a state of flux, at no time more so than the present. While the fundamental goal of parenting – to instil character and moral development – has stood firm amid the various passing fashions in child care over the years, the approach to accomplishing this has varied considerably. Some authors, convinced that parents are in control of what their children become, advise a 'get tough' approach. The educational parallel to this 'parent-power' stance is to train and instruct as early as possible, and this has been justified by claims of maximising brain growth or securing high achievement by starting sooner.</p><p>Other authors, however, attribute many of today's social problems to the excessive pressure put on children by parents. According to these 'child-power' advocates, children have their own built-in timetables for maturing and learning. Waiting for cues that children are ready, these experts say, will relieve the stress that fuels youth discontent and rebellion. The reality, however, is that there are no hard-and-fast rules. Current thinking on child-rearing advice mirrors historical shifts in theories of development and education. The most disturbing trend in the literature has been a move to deny that parents make any notable contribution to their children's development. Indeed, according to one highly publicised book, children's genes, and secondarily their peer groups, not parents, dictate how children turn out. This public declaration of parental weakness comes at a time when many busy parents are poised to retreat from family obligations, and, indeed, it grants them licence to do so.</p><p>From the multitude of theories on nature and nurture, I have chosen one to serve as the framework for this book: sociocultural theory, which originated with the work of Russian psychologist Lev Vygotsky. Early in the 20th century, he explained how children's social experiences transform their genetic inheritance leading their development forward and ensuring that they become competent, contributing members of society. Vygotsky championed the idea that as children engage in dialogues with more expert members of their culture, they integrate the language of those interactions into their inner mental lives and use it to think, overcome challenges and guide their own behavior.</p>"
+    },
+    "partNumber": 5,
+    "instruction": "Read the following text for questions 30-35.",
+    "explanations": {
+     "q30": {
+      "text": "The passage explicitly states that in many 'industrialised countries,' the majority of mothers with young children are employed. This directly corresponds to the summary's statement about parents in these states. That's why the correct answer is 'Industrialised'.",
+      "quote": "In many industrialised countries, the majority of mothers of preschool children are in the workforce, though not always through choice."
+     },
+     "q31": {
+      "text": "The text directly states that it's not surprising parents are 'perplexed' about which approach to child-rearing to use. This word means confused or puzzled, matching the summary's context. That's why the correct answer is 'Perplexed'.",
+      "quote": "It's little wonder that parents are perplexed about what approach to take to child rearing."
+     },
+     "q32": {
+      "text": "The passage describes how social problems affecting young people have spread to and become a part of even the wealthiest sectors of society. The word used for this is 'infiltrated'. That's why the correct answer is 'Infiltrated'.",
+      "quote": "These problems seem to have infiltrated even the most economically privileged sectors of the population, affecting young people who, on the face of things, have been granted the best of life's chances."
+     },
+     "q33": {
+      "text": "The text states that the core or primary objective of parenting has remained constant over the years, despite changing fashions in child care. The word used to describe this core objective is 'fundamental'. That's why the correct answer is 'Fundamental'.",
+      "quote": "While the fundamental goal of parenting – to instil character and moral development – has stood firm amid the various passing fashions in child care over the years, the approach to accomplishing this has varied considerably."
+     },
+     "q34": {
+      "text": "The author states that while the methods of parenting have changed, the 'fundamental goal' of instilling character and morals has 'stood firm' over the years. This means the core objective has been constant. That's why the correct answer is A.",
+      "quote": "While the fundamental goal of parenting – to instil character and moral development – has stood firm amid the various passing fashions in child care over the years, the approach to accomplishing this has varied considerably."
+     },
+     "q35": {
+      "text": "The paragraph contrasts two opposing expert views: the 'get tough' approach versus the 'child-power' approach where parents wait for cues. This shows that experts disagree on the best methods for child-rearing. That's why the correct answer is A.",
+      "quote": "Other authors, however, attribute many of today's social problems to the excessive pressure put on children by parents."
+     }
+    },
+    "questionRange": "30-35",
+    "questionSections": [
+     {
+      "type": "gap-fill",
+      "title": "Questions 30-33: Gap Fill",
+      "questions": [
+       {
+        "id": 30,
+        "hint": "Majority of parents from the _____ states"
+       },
+       {
+        "id": 31,
+        "hint": "parents are _____ and they cannot decide"
+       },
+       {
+        "id": 32,
+        "hint": "issues have almost _____ some areas"
+       },
+       {
+        "id": 33,
+        "hint": "Their _____ aim is to set some concepts"
+       }
+      ],
+      "instruction": "For questions 30-33, fill in the missing information in the numbered spaces. Write no more than ONE WORD and/or A NUMBER for each question.",
+      "summaryText": "Majority of parents from the <span class=\"gap-input\" data-gap=\"30\">_____(30)_____</span> states are obliged to work when their children are due to start school education. In some cases one can be surprised that parents are <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span> and they cannot decide which method to choose in order to teach their children some skills. According to the contemporary media the youth are not getting enough education this issues have almost <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span> some areas no matter to their good financial development. Recommendation of parents has always been changed soon more than currently. Their <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span> aim is to set some concepts which became stable over the past period.",
+      "summaryTitle": "Parenting in the 21st Century – Summary",
+      "questionRange": "30-33"
+     },
+     {
+      "type": "mcq",
+      "title": "Questions 34-35: Multiple Choice",
+      "questions": [
+       {
+        "id": 34,
+        "text": "What does the author say in the fourth paragraph about parenting advice?",
+        "options": [
+         {
+          "text": "Its core objective has remained constant.",
+          "letter": "A"
+         },
+         {
+          "text": "Its ideology stems from contemporary social issues.",
+          "letter": "B"
+         },
+         {
+          "text": "It traditionally placed strong emphasis on the protection of the child.",
+          "letter": "C"
+         },
+         {
+          "text": "It currently benefits from techniques tried and tested by previous generations.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 35,
+        "text": "In the fifth paragraph, what point is the author making about bringing up children?",
+        "options": [
+         {
+          "text": "There is an absence of consensus on child-rearing among the experts themselves.",
+          "letter": "A"
+         },
+         {
+          "text": "Educational policies should be revised in the light of recent findings.",
+          "letter": "B"
+         },
+         {
+          "text": "Strict parents tend to have children who are academically unsuccessful.",
+          "letter": "C"
+         },
+         {
+          "text": "One approach to child-rearing appears to be more effective than all others.",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "Choose the correct letter A, B, C or D.",
+      "questionRange": "34-35"
+     }
+    ]
+   }
+  ],
+  "examDate": "2025-12-25",
+  "testInfo": {
+   "level": "B1-B2-C1",
+   "parts": 5,
+   "title": "CEFR B1-B2-C1 Reading Test 28",
+   "totalTime": 60,
+   "totalQuestions": 35
+  }
+ },
+ "created_at": "2026-05-12T16:21:53.689704+00:00",
+ "updated_at": "2026-10-11T10:54:25.762211+00:00"
+}

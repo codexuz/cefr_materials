@@ -1,0 +1,704 @@
+{
+ "id": 385,
+ "mock_type": "cefr-reading",
+ "mock_number": 42,
+ "title": "CEFR Reading Mock 42",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "gap-fill-text",
+    "title": "Part 1",
+    "answers": {
+     "1": [
+      "computer"
+     ],
+     "2": [
+      "keyboard"
+     ],
+     "3": [
+      "people"
+     ],
+     "4": [
+      "program"
+     ],
+     "5": [
+      "screen"
+     ],
+     "6": [
+      "data"
+     ]
+    },
+    "passage": {
+     "title": "Computers",
+     "content": "<p>A computer is a machine that helps people do many tasks. It can process data, run programs, and show information on a screen. Every <span class=\"gap-input\" data-gap=\"1\">_____(1)_____</span> has parts like a keyboard, screen, and mouse. The <span class=\"gap-input\" data-gap=\"2\">_____(2)_____</span> lets the user type words and numbers into the computer.</p><p><span class=\"gap-input\" data-gap=\"3\">_____(3)_____</span> use computers at home, in schools, and at work. A user can write documents, play games, or watch videos. Each program on the computer helps the user do something special. For example, one <span class=\"gap-input\" data-gap=\"4\">_____(4)_____</span> may help with drawing, while another helps with math.</p><p>The <span class=\"gap-input\" data-gap=\"5\">_____(5)_____</span> shows what the computer is doing. It displays data like pictures, text, and videos. When the user types on the keyboard, the computer takes that <span class=\"gap-input\" data-gap=\"6\">_____(6)_____</span> and shows it on the screen.</p><p>In today's world, computers are important tools. They help us learn, work, and have fun.</p>"
+    },
+    "questions": [
+     {
+      "id": 1,
+      "hint": "and show information on a screen. Every _____"
+     },
+     {
+      "id": 2,
+      "hint": "like a keyboard, screen, and mouse. The _____"
+     },
+     {
+      "id": 3,
+      "hint": "type words and numbers into the computer. _____"
+     },
+     {
+      "id": 4,
+      "hint": "do something special. For example, one _____"
+     },
+     {
+      "id": 5,
+      "hint": "while another helps with math. The _____"
+     },
+     {
+      "id": 6,
+      "hint": "on the keyboard, the computer takes that _____"
+     }
+    ],
+    "partNumber": 1,
+    "instruction": "Read the text. Fill in each gap with ONE word. You must use a word which is somewhere in the rest of the text.",
+    "explanations": {
+     "q1": {
+      "text": "Javob matnning o'zidan olinadi — shu so'z boshqa gapda uchraydi.",
+      "quote": "A computer is a machine that helps people do many tasks."
+     },
+     "q2": {
+      "text": "Javob matnning o'zidan olinadi — shu so'z boshqa gapda uchraydi.",
+      "quote": "Every (1) _________ has parts like a keyboard, screen, and mouse."
+     },
+     "q3": {
+      "text": "Javob matnning o'zidan olinadi — shu so'z boshqa gapda uchraydi.",
+      "quote": "A computer is a machine that helps people do many tasks."
+     },
+     "q4": {
+      "text": "Javob matnning o'zidan olinadi — shu so'z boshqa gapda uchraydi.",
+      "quote": "Each program on the computer helps the user do something special."
+     },
+     "q5": {
+      "text": "Javob matnning o'zidan olinadi — shu so'z boshqa gapda uchraydi.",
+      "quote": "It can process data, run programs, and show information on a screen."
+     },
+     "q6": {
+      "text": "Javob matnning o'zidan olinadi — shu so'z boshqa gapda uchraydi.",
+      "quote": "It can process data, run programs, and show information on a screen."
+     }
+    },
+    "questionRange": "1-6"
+   },
+   {
+    "type": "matching",
+    "texts": [
+     {
+      "title": "Q7",
+      "number": 7,
+      "content": "Walking into the bookshop feels like entering the past. The shelves are full of old, dusty books that seem to whisper old stories. The smell of aged paper and leather fills the air and invites you to explore. You could spend hours wandering around and finding special or forgotten books."
+     },
+     {
+      "title": "Q8",
+      "number": 8,
+      "content": "The market is full of noise, colors, and movement. Sellers shout out prices, bargaining with shoppers. The air smells like fresh fruits, spices, and cooking food. It’s a lively, busy place where you can buy everything from exotic fruits to handmade items."
+     },
+     {
+      "title": "Q9",
+      "number": 9,
+      "content": "The boutique is perfect for fashion lovers. Stylish clothes and accessories are shown beautifully under soft lighting. The staff are helpful and know fashion well. They’re ready to help you choose the best outfit for any event."
+     },
+     {
+      "title": "Q10",
+      "number": 10,
+      "content": "The coffee shop is a relaxing place for writers, artists, or anyone who needs coffee. The smell of fresh coffee mixes with quiet conversations. Soft lights and cozy chairs make it a warm spot to enjoy your drink and maybe read a book."
+     },
+     {
+      "title": "Q11",
+      "number": 11,
+      "content": "The hardware store is great for people who enjoy fixing things themselves. It’s full of tools, paint, and materials for building. The staff know their stuff and are ready to help. It’s the ideal place to find everything for home projects."
+     },
+     {
+      "title": "Q12",
+      "number": 12,
+      "content": "Entering the art gallery feels magical. The walls are covered with colorful art, sculptures, and photos, each showing the artist’s ideas. Soft lighting makes the fine details stand out and helps you admire the talent behind each piece."
+     },
+     {
+      "title": "Q13",
+      "number": 13,
+      "content": "The grocery store is always busy. People walk through the aisles, picking up food and daily needs. You hear chatting, carts moving, and cheerful checkout staff. It’s a place full of movement and sounds."
+     },
+     {
+      "title": "Q14",
+      "number": 14,
+      "content": "The antique store feels like a place full of old memories. You see dusty furniture, vintage items, and old photos that tell silent stories. The air smells like old wood and books. It’s the perfect spot to find rare items and add vintage style to your home."
+     }
+    ],
+    "title": "Part 2",
+    "answers": {
+     "7": [
+      "D"
+     ],
+     "8": [
+      "E"
+     ],
+     "9": [
+      "C"
+     ],
+     "10": [
+      "J"
+     ],
+     "11": [
+      "B"
+     ],
+     "12": [
+      "I"
+     ],
+     "13": [
+      "A"
+     ],
+     "14": [
+      "F"
+     ]
+    },
+    "questions": [
+     {
+      "id": 7,
+      "textNumber": 7
+     },
+     {
+      "id": 8,
+      "textNumber": 8
+     },
+     {
+      "id": 9,
+      "textNumber": 9
+     },
+     {
+      "id": 10,
+      "textNumber": 10
+     },
+     {
+      "id": 11,
+      "textNumber": 11
+     },
+     {
+      "id": 12,
+      "textNumber": 12
+     },
+     {
+      "id": 13,
+      "textNumber": 13
+     },
+     {
+      "id": 14,
+      "textNumber": 14
+     }
+    ],
+    "partNumber": 2,
+    "statements": [
+     {
+      "text": "A bustling hub of activity, where shoppers gather to fill their baskets with everyday essentials and fresh ingredients.",
+      "letter": "A"
+     },
+     {
+      "text": "A DIY enthusiast's paradise, filled with tools, materials, and expert advice for tackling any home improvement project.",
+      "letter": "B"
+     },
+     {
+      "text": "Where fashion meets elegance, a place to discover the latest trends and express your unique style.",
+      "letter": "C"
+     },
+     {
+      "text": "A haven for bookworms seeking solace and adventure within pages.",
+      "letter": "D"
+     },
+     {
+      "text": "A kaleidoscope of sights, smells, and sounds, a marketplace where you can find anything and everything.",
+      "letter": "E"
+     },
+     {
+      "text": "A time machine to the past, filled with forgotten treasures and whispered stories of bygone eras.",
+      "letter": "F"
+     },
+     {
+      "text": "A place where you can enjoy a delicious meal, from fast food to fine dining.",
+      "letter": "G"
+     },
+     {
+      "text": "A bustling hub of technology, where you can find the latest gadgets and electronic devices.",
+      "letter": "H"
+     },
+     {
+      "text": "A journey into the world of art, where creativity and beauty are on display for all to appreciate.",
+      "letter": "I"
+     },
+     {
+      "text": "A sanctuary for caffeine lovers, writers, and artists seeking inspiration and a warm, comforting atmosphere.",
+      "letter": "J"
+     }
+    ],
+    "instruction": "Read the texts 7-14 and the statements A-J. Decide which text matches with the situation described in the statements. Each statement can be used ONCE only. There are TWO extra statements which you do not need to use.",
+    "explanations": {},
+    "questionRange": "7-14",
+    "extraStatements": [
+     "G",
+     "H"
+    ],
+    "statementsFirst": true
+   },
+   {
+    "type": "matching-headings",
+    "title": "Part 3",
+    "answers": {
+     "15": [
+      "VIII"
+     ],
+     "16": [
+      "III"
+     ],
+     "17": [
+      "VII"
+     ],
+     "18": [
+      "I"
+     ],
+     "19": [
+      "VI"
+     ],
+     "20": [
+      "IX"
+     ]
+    },
+    "passage": {
+     "title": "The MAGIC of KEFIR",
+     "paragraphs": [
+      {
+       "number": "A",
+       "content": "The shepherds of the North Caucasus region of Europe were only trying to transport milk the best way they knew how – in leather pouches strapped to the side of donkeys – when they made a significant discovery. A fermentation process would sometimes inadvertently occur en route, and when the pouches were opened upon arrival they would no longer contain milk but rather a pungent, effervescent, low alcoholic substance instead. This unexpected development was a blessing in disguise. The new drink – which acquired the name kefir – turned out to be a health tonic, a naturally-preserved dairy product and tasty addition to our culinary repertoire.",
+       "questionId": 15
+      },
+      {
+       "number": "B",
+       "content": "Although their exact origin remains a mystery, we do know that yeast-based kefir grains have always been at the root of the kefir phenomenon. These grains are capable of a remarkable feat: in contradistinction to most other items you might find in a grocery store, they actually expand and propagate with use. This is because the grains, which are granular to the touch and bear a slight resemblance to cauliflower rosettes, house active cultures that feed on lactose when added to milk. Consequently, a bigger problem for most kefir drinkers is not where to source new kefir grains, but what to do with the ones they already have!",
+       "questionId": 16
+      },
+      {
+       "number": "C",
+       "content": "The great thing about kefir is that it does not require a manufacturing line in order to be produced. Grains can be simply thrown in with a batch of milk for ripening to begin. The mixture then requires a cool, dark place to live and grow, with periodic unsettling to prevent clumping (Caucasus inhabitants began storing the concoction in animal-skin satchels on the back of doors – every time someone entered the room the mixture would get lightly shaken). After about 24 hours the yeast cultures in the grains have multiplied and devoured most of the milk sugars, and the final product is then ready for human consumption.",
+       "questionId": 17
+      },
+      {
+       "number": "D",
+       "content": "Nothing compares to a person’s first encounter with kefir. The smooth, uniform consistency rolls over the tongue in a manner akin to liquefied yogurt. The sharp, tart pungency of unsweetened yogurt is there too, but there is also a slight hint of effervescence, something most users will have previously associated only with mineral waters, soda or beer. Kefir also comes with a subtle aroma of yeast, and depending on the type of milk and ripening conditions, ethanol content can reach up to two or three percent – about on par with a decent lager – although you can expect around 0.8 to one per cent for a typical day-old preparation. This can bring out a dry edge of alcohol in the kefir’s flavour.",
+       "questionId": 18
+      },
+      {
+       "number": "E",
+       "content": "Although it has prevailed largely as a fermented milk drink, over the years kefir has acquired a number of other uses. Many bakers use it instead of starter yeast in the preparation of sourdough, and the tangy flavour also makes kefir an ideal buttermilk substitute in pancakes. Kefir also accompanies sour cream as one of the main ingredients in cold beetroot soup and can be used in lieu of regular cow’s milk on granola or cereal. As a way to keep their digestive systems fine-tuned, athletes sometimes combine kefir with yogurt in protein shakes.",
+       "questionId": 19
+      },
+      {
+       "number": "F",
+       "content": "Associated for centuries with pictures of Slavic babushkas clutching a shawl in one hand and a cup of kefir in the other, the unassuming beverage has become a minor celebrity of the nascent health food movement in the contemporary West. Every day, more studies pour out supporting the benefits of a diet high in probiotics. This trend toward consuming probiotics has engulfed the leisure classes in these countries to the point that it is poised to become, according to some commentators, “the next multivitamin”. These days the word kefir is consequently more likely to bring to mind glamorous, yoga mat-toting women from Los Angeles than austere visions of blustery Eastern Europe.",
+       "questionId": 20
+      }
+     ]
+    },
+    "headings": [
+     {
+      "text": "A unique sensory experience",
+      "letter": "I"
+     },
+     {
+      "text": "Getting back to basics",
+      "letter": "II"
+     },
+     {
+      "text": "The gift that keeps on giving",
+      "letter": "III"
+     },
+     {
+      "text": "Variations in alcohol content",
+      "letter": "IV"
+     },
+     {
+      "text": "Old methods of transportation",
+      "letter": "V"
+     },
+     {
+      "text": "Culinary applications",
+      "letter": "VI"
+     },
+     {
+      "text": "Making kefir",
+      "letter": "VII"
+     },
+     {
+      "text": "A fortunate accident",
+      "letter": "VIII"
+     },
+     {
+      "text": "Kefir gets an image makeover",
+      "letter": "IX"
+     },
+     {
+      "text": "Ways to improve taste",
+      "letter": "X"
+     }
+    ],
+    "questions": [
+     {
+      "id": 15,
+      "paragraphNumber": "A"
+     },
+     {
+      "id": 16,
+      "paragraphNumber": "B"
+     },
+     {
+      "id": 17,
+      "paragraphNumber": "C"
+     },
+     {
+      "id": 18,
+      "paragraphNumber": "D"
+     },
+     {
+      "id": 19,
+      "paragraphNumber": "E"
+     },
+     {
+      "id": 20,
+      "paragraphNumber": "F"
+     }
+    ],
+    "partNumber": 3,
+    "instruction": "Read the text and choose the correct heading for each paragraph from the list of headings below. There are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once.",
+    "explanations": {},
+    "extraHeadings": [
+     "II",
+     "IV",
+     "V",
+     "X"
+    ],
+    "questionRange": "15-20"
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 4",
+    "answers": {
+     "21": [
+      "B"
+     ],
+     "22": [
+      "C"
+     ],
+     "23": [
+      "C"
+     ],
+     "24": [
+      "B"
+     ],
+     "25": [
+      "True",
+      "A"
+     ],
+     "26": [
+      "False",
+      "B"
+     ],
+     "27": [
+      "False",
+      "B"
+     ],
+     "28": [
+      "True",
+      "A"
+     ],
+     "29": [
+      "False",
+      "B"
+     ]
+    },
+    "passage": {
+     "title": "Jason",
+     "content": "<p>Jason sat up in bed and rubbed his eyes. It was unusually dark for 7 a.m., and his phone screen wouldn’t turn on. He reached over to check the lamp on his bedside table, but it didn’t work either. “Power cut,” he thought, but something about the silence in the house felt wrong. Normally, he could hear the hum of the fridge or the sound of his neighbor’s dog barking. But this morning, everything was still. Strangely still.</p><p>He pulled the curtain aside. The street outside looked exactly the same as always—except for one thing: it was completely empty. No early walkers. No delivery vans. Not even the usual cat that crossed his yard every morning. The houses around him looked dark, their curtains still drawn. He checked his watch—8:10. People should have been awake by now.</p><p>Jason pulled on a hoodie and jeans and went downstairs. As he passed the hallway mirror, he noticed something odd—his reflection looked slightly distorted, as if the glass was bending the image. He stared at it for a few seconds, then shook his head. \"Maybe I didn’t sleep well,\" he muttered.</p><p>The kitchen was no better. The fridge was silent, and when he turned the tap, no water came out. He picked up his phone again—still no signal. Not even emergency calls. That had never happened before. He tried turning on the radio, hoping to catch a news broadcast, but it only gave static. He felt a knot forming in his stomach.</p><p>He stepped outside. The air felt heavy, thick—like just before a thunderstorm. There were no sounds, not even birds. It was like the world had been placed on mute. He walked slowly toward the end of his street, passing familiar houses that now looked strangely unfamiliar.</p><p>Then he heard it. Footsteps behind him. Not rushed—calm, slow, steady. He turned sharply. No one. But just as he was about to convince himself it was nothing, he saw someone standing at the far corner. A tall figure in a long, dark coat. Not moving. Just... watching.</p><p>Jason froze. Something about the figure made him uneasy. He couldn’t see their face—it was covered by a hood—but he could feel the stare. Then the figure slowly lifted a hand and waved.</p><p>He took a few steps backward, unsure whether to shout or run. Suddenly, a hand grabbed his shoulder from behind. He jumped and spun around, fists clenched.</p><p>“Man, relax! It’s just me,” Leo said, wide-eyed. Jason let out a breath. “You scared me to death. Where have you been?” “I woke up like you. No power, no people. I tried calling you, but I couldn’t get through. What’s happening?” Jason pointed toward the corner. “Did you see that guy?” Leo nodded. “Yeah. I saw him earlier. He was standing outside my window.” They both looked back at the corner. The figure was gone.</p><p>Suddenly, a loud, deep hum filled the air. It was like the sound of a distant engine, but it seemed to come from everywhere at once. The ground vibrated slightly beneath their feet.</p><p>“What if... this isn’t just a blackout?” Jason whispered.</p><p>Leo’s face was pale. “Then we’re not just dealing with a power cut.”</p>"
+    },
+    "partNumber": 4,
+    "instruction": "Read the following text for questions 21-29.",
+    "explanations": {},
+    "questionRange": "21-29",
+    "questionSections": [
+     {
+      "type": "mcq",
+      "title": "Questions 21-24: Multiple Choice",
+      "questions": [
+       {
+        "id": 21,
+        "text": "What is Jason’s first indication that something is seriously wrong?",
+        "options": [
+         {
+          "text": "He sees a man standing in his hallway",
+          "letter": "A"
+         },
+         {
+          "text": "Everything is unusually silent and the power seems out",
+          "letter": "B"
+         },
+         {
+          "text": "A neighbor warns him about an emergency",
+          "letter": "C"
+         },
+         {
+          "text": "He hears a loud hum as soon as he wakes up",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 22,
+        "text": "Which detail in the text suggests that something more than an ordinary blackout might be occurring?",
+        "options": [
+         {
+          "text": "The neighbors are using candles in their windows",
+          "letter": "A"
+         },
+         {
+          "text": "The street lamps are still on",
+          "letter": "B"
+         },
+         {
+          "text": "Jason’s reflection in the mirror looks slightly distorted",
+          "letter": "C"
+         },
+         {
+          "text": "Jason hears the noise of a thunderstorm approaching",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 23,
+        "text": "What happens when Jason first notices the mysterious figure in the dark coat?",
+        "options": [
+         {
+          "text": "The figure calls out to Jason",
+          "letter": "A"
+         },
+         {
+          "text": "The figure immediately disappears",
+          "letter": "B"
+         },
+         {
+          "text": "The figure waves from a distance but doesn’t approach",
+          "letter": "C"
+         },
+         {
+          "text": "The figure approaches Jason and demands help",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 24,
+        "text": "How do Jason and Leo react when they hear the loud, deep hum?",
+        "options": [
+         {
+          "text": "They ignore it because they assume it’s a distant truck engine",
+          "letter": "A"
+         },
+         {
+          "text": "They realize it might mean more than a simple power outage",
+          "letter": "B"
+         },
+         {
+          "text": "They call the police to report the unusual sound",
+          "letter": "C"
+         },
+         {
+          "text": "They rush inside and turn on the television for news",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "Choose the correct answer A, B, C, or D.",
+      "questionRange": "21-24"
+     },
+     {
+      "type": "tfni",
+      "title": "Questions 25-29: True/False/Not Given",
+      "options": [
+       "True",
+       "False",
+       "Not Given"
+      ],
+      "questions": [
+       {
+        "id": 25,
+        "text": "Jason notices that there is no usual morning barking from the neighbor’s dog."
+       },
+       {
+        "id": 26,
+        "text": "The text says that water from the kitchen tap runs but comes out ice cold."
+       },
+       {
+        "id": 27,
+        "text": "Jason sees the neighborhood cat crossing his yard, as it normally does."
+       },
+       {
+        "id": 28,
+        "text": "Leo mentions that the same tall figure stood outside his window earlier."
+       },
+       {
+        "id": 29,
+        "text": "By the end of the text, the identity of the tall, hooded figure is revealed."
+       }
+      ],
+      "instruction": "Decide if the following statements agree with the information given in the text.",
+      "questionRange": "25-29"
+     }
+    ]
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 5",
+    "answers": {
+     "30": [
+      "climate"
+     ],
+     "31": [
+      "95"
+     ],
+     "32": [
+      "greenhouse"
+     ],
+     "33": [
+      "electricity"
+     ],
+     "34": [
+      "D"
+     ],
+     "35": [
+      "B"
+     ]
+    },
+    "passage": {
+     "title": "Vertical Farming",
+     "content": "<p>As urban populations grow and arable land becomes increasingly limited, the demand for alternative methods of food production is higher than ever. Among these innovative approaches, vertical farming has gained significant attention. This method involves cultivating crops in vertically stacked layers, often within controlled indoor environments such as repurposed warehouses, skyscrapers, or specially designed containers. Unlike traditional agriculture, which relies heavily on sunlight, rainfall, and vast expanses of land, vertical farming utilizes LED lighting, climate control systems, and hydroponic or aeroponic techniques to grow food more efficiently and in less space.</p><p>The appeal of vertical farming lies largely in its resource efficiency. In conventional agriculture, vast amounts of water are required, much of which is lost through evaporation or poor irrigation methods. Vertical farms, however, use closed-loop irrigation systems that recycle water and nutrients, resulting in up to 95% less water usage. Moreover, because the growing environment is completely enclosed, crops are protected from pests and diseases, drastically reducing or even eliminating the need for chemical pesticides. This not only lowers environmental damage but also contributes to healthier produce.</p><p>Another key advantage of vertical farming is its potential to shorten supply chains. In many urban regions, fresh produce must travel hundreds or even thousands of kilometers before reaching consumers. This long-distance transportation not only increases food prices but also contributes significantly to greenhouse gas emissions. Vertical farms can be located directly in cities—sometimes within supermarkets or on rooftops—allowing produce to be harvested and sold locally, often on the same day. This reduces spoilage, enhances freshness, and offers a more sustainable alternative to long-distance food distribution.</p><p>Despite its promise, vertical farming faces several technological and economic challenges. The cost of establishing a vertical farm can be prohibitive, particularly in areas where real estate prices are high. Specialized equipment, advanced climate control technologies, and energy consumption—especially from artificial lighting—can lead to high operational expenses. Although some farms have begun using solar panels or other renewable energy sources to reduce their carbon footprint, the reliance on electricity remains a major obstacle to scalability.</p><p>Additionally, vertical farming is currently limited in terms of the variety of crops it can support. Fast-growing, low-height crops such as lettuce, kale, spinach, and herbs thrive in vertical systems. However, crops like corn, wheat, rice, and fruit-bearing trees require much more space and energy to cultivate, making them unsuitable for vertical environments in their current form. As a result, vertical farming is best viewed as a supplement to traditional agriculture, rather than a full replacement.</p><p>Proponents of vertical farming argue that as technological innovations continue, costs will decrease, and efficiency will increase. Developments in automation, robotics, artificial intelligence, and renewable energy integration could help overcome many of the current limitations. For example, AI-driven monitoring systems can precisely control temperature, humidity, and nutrient levels, ensuring optimal growth conditions while reducing waste.</p><p>Critics, however, caution against overestimating the benefits of vertical farming without considering its energy dependence and limited crop diversity. They argue that placing such systems in densely populated areas may also compete with other urban development needs, such as housing and infrastructure. Furthermore, the ecological cost of producing artificial materials for building and maintaining vertical farms should not be overlooked when calculating their long-term sustainability.</p>"
+    },
+    "partNumber": 5,
+    "instruction": "Read the following text for questions 30-35.",
+    "explanations": {
+     "q30": {
+      "text": "Javob matnda shu gapdan olinadi.",
+      "quote": "Unlike traditional agriculture, which relies heavily on sunlight, rainfall, and vast expanses of land, vertical farming utilizes LED lighting, climate control s"
+     },
+     "q31": {
+      "text": "Javob matnda shu gapdan olinadi.",
+      "quote": "Vertical farms, however, use closed-loop irrigation systems that recycle water and nutrients, resulting in up to 95% less water usage."
+     },
+     "q32": {
+      "text": "Javob matnda shu gapdan olinadi.",
+      "quote": "This long-distance transportation not only increases food prices but also contributes significantly to greenhouse gas emissions."
+     },
+     "q33": {
+      "text": "Javob matnda shu gapdan olinadi.",
+      "quote": "Although some farms have begun using solar panels or other renewable energy sources to reduce their carbon footprint, the reliance on electricity remains a majo"
+     }
+    },
+    "questionRange": "30-35",
+    "questionSections": [
+     {
+      "type": "gap-fill",
+      "title": "Questions 30-33: Gap Fill",
+      "questions": [
+       {
+        "id": 30,
+        "hint": "like skyscrapers and containers using _____"
+       },
+       {
+        "id": 31,
+        "hint": "farms can reduce water usage by up to _____"
+       },
+       {
+        "id": 32,
+        "hint": "cities helps cut down transport-related _____"
+       },
+       {
+        "id": 33,
+        "hint": "farming is its high reliance on _____"
+       }
+      ],
+      "instruction": ", fill in the missing information in the numbered spaces.",
+      "summaryText": "Vertical farming allows food to be produced in places like skyscrapers and containers using <span class=\"gap-input\" data-gap=\"30\">_____(30)_____</span> systems to control environmental conditions. Due to closed-loop irrigation, vertical farms can reduce water usage by up to <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span> percent. Growing crops directly in cities helps cut down transport-related <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span> emissions. One major drawback of vertical farming is its high reliance on <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span> for lighting and other systems.",
+      "summaryTitle": "Vertical Farming - Summary",
+      "questionRange": "30-33"
+     },
+     {
+      "type": "mcq",
+      "title": "Questions 34-35: Multiple Choice",
+      "questions": [
+       {
+        "id": 34,
+        "text": "Why is vertical farming not considered a complete substitute for traditional agriculture?",
+        "options": [
+         {
+          "text": "It cannot grow any vegetables",
+          "letter": "A"
+         },
+         {
+          "text": "It produces higher amounts of waste",
+          "letter": "B"
+         },
+         {
+          "text": "It requires too many people to manage",
+          "letter": "C"
+         },
+         {
+          "text": "It is unsuitable for many common crops",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 35,
+        "text": "What is the writer’s attitude toward the future of vertical farming?",
+        "options": [
+         {
+          "text": "Skeptical, due to its failure in many cities",
+          "letter": "A"
+         },
+         {
+          "text": "Hopeful, because innovation may solve its current problems",
+          "letter": "B"
+         },
+         {
+          "text": "Neutral, as vertical farming has already replaced old methods",
+          "letter": "C"
+         },
+         {
+          "text": "Negative, as energy use outweighs all the benefits",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "Choose the correct answer A, B, C, or D.",
+      "questionRange": "34-35"
+     }
+    ]
+   }
+  ],
+  "examDate": "2026-03-24",
+  "testInfo": {
+   "level": "",
+   "parts": "",
+   "title": "",
+   "totalTime": 60,
+   "totalQuestions": ""
+  }
+ },
+ "created_at": "2026-05-13T12:47:30.721952+00:00",
+ "updated_at": "2026-10-12T01:50:14.246819+00:00"
+}

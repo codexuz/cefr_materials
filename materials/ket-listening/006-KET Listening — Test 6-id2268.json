@@ -1,0 +1,456 @@
+{
+ "id": 2268,
+ "mock_type": "ket-listening",
+ "mock_number": 6,
+ "title": "KET Listening — Test 6",
+ "status": "published",
+ "mock_data": {
+  "audio": {
+   "base": "https://audio.mock-stream.com/KET-Listening/test6/",
+   "files": {
+    "1": "PART1.m4a",
+    "2": "PART2.m4a",
+    "3": "PART3.m4a",
+    "4": "PART4.m4a",
+    "5": "PART5.m4a"
+   }
+  },
+  "parts": [
+   {
+    "type": "picture-mcq",
+    "items": [
+     {
+      "id": 1,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q1A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q1B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q1C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "How will Mary travel to Scotland?"
+     },
+     {
+      "id": 2,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q2A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q2B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q2C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Where are the shoes?"
+     },
+     {
+      "id": 3,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q3A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q3B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q3C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "When will the football match start next week?"
+     },
+     {
+      "id": 4,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q4A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q4B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q4C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Which box of chocolates do they buy?"
+     },
+     {
+      "id": 5,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q5A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q5B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q5C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "When's Wendy's birthday?"
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "image": "q0A.png",
+       "letter": "A"
+      },
+      {
+       "image": "q0B.png",
+       "letter": "B"
+      },
+      {
+       "image": "q0C.png",
+       "letter": "C"
+      }
+     ],
+     "question": "How many people were at the meeting?"
+    },
+    "imageBase": "https://audio.mock-stream.com/KET-Listening/test6/p1/",
+    "partNumber": 1,
+    "instruction": [
+     "You will hear five short conversations.",
+     "You will hear each conversation twice.",
+     "There is one question for each conversation.",
+     "For questions 1–5, put a tick (✓) under the right answer."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "matching-list",
+    "items": [
+     {
+      "id": 6,
+      "name": "Tuesday",
+      "answer": "H"
+     },
+     {
+      "id": 7,
+      "name": "Wednesday",
+      "answer": "F"
+     },
+     {
+      "id": 8,
+      "name": "Thursday",
+      "answer": "A"
+     },
+     {
+      "id": 9,
+      "name": "Friday",
+      "answer": "D"
+     },
+     {
+      "id": 10,
+      "name": "Saturday",
+      "answer": "G"
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "name": "Monday",
+     "answer": "B",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "cloud",
+      "letter": "A"
+     },
+     {
+      "text": "cold",
+      "letter": "B"
+     },
+     {
+      "text": "fog",
+      "letter": "C"
+     },
+     {
+      "text": "rain",
+      "letter": "D"
+     },
+     {
+      "text": "snow",
+      "letter": "E"
+     },
+     {
+      "text": "sun",
+      "letter": "F"
+     },
+     {
+      "text": "warm",
+      "letter": "G"
+     },
+     {
+      "text": "wind",
+      "letter": "H"
+     }
+    ],
+    "scenario": "Pete talking about his holiday weather",
+    "leftLabel": "DAYS",
+    "partNumber": 2,
+    "rightLabel": "WEATHER",
+    "instruction": [
+     "Listen to Pete talking to a friend about his holiday.",
+     "What was the weather like each day?",
+     "For questions 6–10, write a letter A–H next to each day.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-conversation",
+    "items": [
+     {
+      "id": 11,
+      "stem": "What sport can't you do at the sports centre?",
+      "answer": "A",
+      "options": [
+       {
+        "text": "tennis",
+        "letter": "A"
+       },
+       {
+        "text": "table-tennis",
+        "letter": "B"
+       },
+       {
+        "text": "volleyball",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "stem": "How much must Marina pay?",
+      "answer": "B",
+      "options": [
+       {
+        "text": "£14 a year",
+        "letter": "A"
+       },
+       {
+        "text": "£30 a year",
+        "letter": "B"
+       },
+       {
+        "text": "£50 a year",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "stem": "How many days a week is the sports centre open late?",
+      "answer": "B",
+      "options": [
+       {
+        "text": "2",
+        "letter": "A"
+       },
+       {
+        "text": "3",
+        "letter": "B"
+       },
+       {
+        "text": "4",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "stem": "Which bus goes to the sports centre?",
+      "answer": "B",
+      "options": [
+       {
+        "text": "number 10",
+        "letter": "A"
+       },
+       {
+        "text": "number 16",
+        "letter": "B"
+       },
+       {
+        "text": "number 60",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "stem": "When will Michael and Marina go to the sports centre?",
+      "answer": "C",
+      "options": [
+       {
+        "text": "Tuesday",
+        "letter": "A"
+       },
+       {
+        "text": "Thursday",
+        "letter": "B"
+       },
+       {
+        "text": "Friday",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "stem": "Where is the new sports centre?",
+     "answer": "A",
+     "number": 0,
+     "options": [
+      {
+       "text": "Long Road",
+       "letter": "A"
+      },
+      {
+       "text": "Bridge Street",
+       "letter": "B"
+      },
+      {
+       "text": "Station Road",
+       "letter": "C"
+      }
+     ]
+    },
+    "partNumber": 3,
+    "instruction": [
+     "Listen to Michael talking to Marina about a new sports centre.",
+     "For questions 11–15, tick (✓) A, B or C.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "rows": [
+     {
+      "id": 16,
+      "label": "Number of bedrooms:",
+      "answer": "two"
+     },
+     {
+      "id": 17,
+      "label": "Cost:",
+      "answer": "440",
+      "prefix": "£",
+      "suffix": "a month"
+     },
+     {
+      "id": 18,
+      "label": "Address:",
+      "answer": "EARSLEY",
+      "prefix": "27",
+      "suffix": "Street"
+     },
+     {
+      "id": 19,
+      "label": "When see flat?",
+      "answer": "5.30",
+      "prefix": "Tuesday at"
+     },
+     {
+      "id": 20,
+      "label": "Free from:",
+      "answer": "March",
+      "prefix": "1st"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 4",
+    "subtitle": "Flat for rent in: Putney",
+    "noteTitle": "LONFLATS AGENCY",
+    "partNumber": 4,
+    "instruction": [
+     "You will hear a conversation about a flat for rent.",
+     "Listen and complete questions 16–20.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "rows": [
+     {
+      "id": 21,
+      "label": "Arrives Chester:",
+      "answer": "10.45"
+     },
+     {
+      "id": 22,
+      "label": "Morning visit:",
+      "answer": "castle"
+     },
+     {
+      "id": 23,
+      "label": "Price of family ticket:",
+      "answer": "8.00",
+      "prefix": "£"
+     },
+     {
+      "id": 24,
+      "label": "Lunch in:",
+      "answer": "park"
+     },
+     {
+      "id": 25,
+      "label": "Afternoon visit:",
+      "answer": "markets"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 5",
+    "subtitle": "Coach leaves: 9.15 a.m.",
+    "noteTitle": "TRIP TO CHESTER",
+    "partNumber": 5,
+    "instruction": [
+     "You will hear a tour guide talking about a day trip.",
+     "Listen and complete questions 21–25.",
+     "You will hear the information twice."
+    ],
+    "questionsLabel": "QUESTIONS 21–25"
+   }
+  ],
+  "testInfo": {
+   "id": "ket-l-6",
+   "level": "A2",
+   "paper": "Paper 2",
+   "parts": 5,
+   "title": "KET Listening — Test 6",
+   "totalTime": 30,
+   "totalQuestions": 25
+  }
+ },
+ "created_at": "2026-10-14T06:45:20.532639+00:00",
+ "updated_at": "2026-10-14T06:47:06.782108+00:00"
+}

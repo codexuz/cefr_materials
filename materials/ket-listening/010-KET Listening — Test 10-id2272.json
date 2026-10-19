@@ -1,0 +1,458 @@
+{
+ "id": 2272,
+ "mock_type": "ket-listening",
+ "mock_number": 10,
+ "title": "KET Listening — Test 10",
+ "status": "published",
+ "mock_data": {
+  "audio": {
+   "base": "https://audio.mock-stream.com/KET-Listening/test10/",
+   "files": {
+    "1": "PART1.m4a",
+    "2": "PART2.m4a",
+    "3": "PART3.m4a",
+    "4": "PART4.m4a",
+    "5": "PART5.m4a"
+   }
+  },
+  "parts": [
+   {
+    "type": "picture-mcq",
+    "items": [
+     {
+      "id": 1,
+      "answer": "C",
+      "options": [
+       {
+        "text": "PINK",
+        "letter": "A"
+       },
+       {
+        "text": "GREEN",
+        "letter": "B"
+       },
+       {
+        "text": "BLUE",
+        "letter": "C"
+       }
+      ],
+      "question": "What colour is Kathy's bedroom now?"
+     },
+     {
+      "id": 2,
+      "answer": "A",
+      "options": [
+       {
+        "text": "PLATFORM 2",
+        "letter": "A"
+       },
+       {
+        "text": "PLATFORM 6",
+        "letter": "B"
+       },
+       {
+        "text": "PLATFORM 10",
+        "letter": "C"
+       }
+      ],
+      "question": "Which platform does the woman's train leave from?"
+     },
+     {
+      "id": 3,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q3A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q3B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q3C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "How is Susan going to get to the airport?"
+     },
+     {
+      "id": 4,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q4A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q4B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q4C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Which is Anna's family?"
+     },
+     {
+      "id": 5,
+      "answer": "A",
+      "options": [
+       {
+        "text": "June 11",
+        "letter": "A"
+       },
+       {
+        "text": "June 16",
+        "letter": "B"
+       },
+       {
+        "text": "June 30",
+        "letter": "C"
+       }
+      ],
+      "question": "When is Kim's birthday party?"
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "image": "q0A.png",
+       "letter": "A"
+      },
+      {
+       "image": "q0B.png",
+       "letter": "B"
+      },
+      {
+       "image": "q0C.png",
+       "letter": "C"
+      }
+     ],
+     "question": "How many people were at the meeting?"
+    },
+    "imageBase": "https://audio.mock-stream.com/KET-Listening/test10/p1/",
+    "partNumber": 1,
+    "instruction": [
+     "You will hear five short conversations.",
+     "You will hear each conversation twice.",
+     "There is one question for each conversation.",
+     "For questions 1–5, put a tick (✓) under the right answer."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "matching-list",
+    "items": [
+     {
+      "id": 6,
+      "name": "10.00 a.m.",
+      "answer": "H"
+     },
+     {
+      "id": 7,
+      "name": "11.00 a.m.",
+      "answer": "F"
+     },
+     {
+      "id": 8,
+      "name": "12.00 p.m.",
+      "answer": "D"
+     },
+     {
+      "id": 9,
+      "name": "1.00 p.m.",
+      "answer": "B"
+     },
+     {
+      "id": 10,
+      "name": "2.00 p.m.",
+      "answer": "A"
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "name": "9.00 a.m.",
+     "answer": "E",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "art lesson",
+      "letter": "A"
+     },
+     {
+      "text": "have lunch",
+      "letter": "B"
+     },
+     {
+      "text": "help Steve",
+      "letter": "C"
+     },
+     {
+      "text": "meet Bill",
+      "letter": "D"
+     },
+     {
+      "text": "see doctor",
+      "letter": "E"
+     },
+     {
+      "text": "see teacher",
+      "letter": "F"
+     },
+     {
+      "text": "study",
+      "letter": "G"
+     },
+     {
+      "text": "swim",
+      "letter": "H"
+     }
+    ],
+    "scenario": "Rose talking to Steve about her day — activities",
+    "leftLabel": "TIMES",
+    "partNumber": 2,
+    "rightLabel": "ACTIVITIES",
+    "instruction": [
+     "Listen to Rose talking to Steve about her day.",
+     "What is Rose going to do at each time?",
+     "For questions 6–10, write a letter A–H next to each time.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-conversation",
+    "items": [
+     {
+      "id": 11,
+      "stem": "Each driving lesson costs",
+      "answer": "A",
+      "options": [
+       {
+        "text": "£14.",
+        "letter": "A"
+       },
+       {
+        "text": "£40.",
+        "letter": "B"
+       },
+       {
+        "text": "£60.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "stem": "A lesson is",
+      "answer": "B",
+      "options": [
+       {
+        "text": "30 minutes.",
+        "letter": "A"
+       },
+       {
+        "text": "45 minutes.",
+        "letter": "B"
+       },
+       {
+        "text": "60 minutes.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "stem": "The teacher's car is",
+      "answer": "A",
+      "options": [
+       {
+        "text": "slow.",
+        "letter": "A"
+       },
+       {
+        "text": "old.",
+        "letter": "B"
+       },
+       {
+        "text": "big.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "stem": "Peter failed the test because he",
+      "answer": "C",
+      "options": [
+       {
+        "text": "drove too fast.",
+        "letter": "A"
+       },
+       {
+        "text": "didn't see a crossing.",
+        "letter": "B"
+       },
+       {
+        "text": "didn't stop at the traffic lights.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "stem": "Peter thinks the teacher is too",
+      "answer": "A",
+      "options": [
+       {
+        "text": "expensive.",
+        "letter": "A"
+       },
+       {
+        "text": "unfriendly.",
+        "letter": "B"
+       },
+       {
+        "text": "young.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "stem": "The name of Peter's driving school is",
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "text": "AA.",
+       "letter": "A"
+      },
+      {
+       "text": "AC.",
+       "letter": "B"
+      },
+      {
+       "text": "ABC.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partNumber": 3,
+    "instruction": [
+     "Listen to Peter talking to a friend about learning to drive.",
+     "For questions 11–15, tick (✓) A, B or C.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "rows": [
+     {
+      "id": 16,
+      "label": "Time:",
+      "answer": "7.30"
+     },
+     {
+      "id": 17,
+      "label": "AFTERNOON SHOW:",
+      "answer": "cats",
+      "prefix": "The School"
+     },
+     {
+      "label": "Time:",
+      "prefilled": "3 o'clock"
+     },
+     {
+      "id": 18,
+      "label": "Ticket prices:",
+      "answer": "12.50",
+      "prefix": "£15 and £"
+     },
+     {
+      "id": 19,
+      "label": "All tickets £6 on:",
+      "answer": "Monday"
+     },
+     {
+      "id": 20,
+      "label": "Car park in:",
+      "answer": "Stuart",
+      "suffix": "Street"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 4",
+    "subtitle": "EVENING SHOW: The White Room",
+    "noteTitle": "PLAYHOUSE THEATRE",
+    "partNumber": 4,
+    "instruction": [
+     "You will hear a man asking about theatre tickets.",
+     "Listen and complete questions 16–20.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "rows": [
+     {
+      "id": 21,
+      "label": "Phone number (for appointments):",
+      "answer": "793220"
+     },
+     {
+      "id": 22,
+      "label": "Phone after:",
+      "answer": "8.30"
+     },
+     {
+      "id": 23,
+      "label": "Get medicines from:",
+      "answer": "Padley's",
+      "suffix": "Chemist's Shop"
+     },
+     {
+      "id": 24,
+      "label": "Bus number:",
+      "answer": "77"
+     },
+     {
+      "id": 25,
+      "label": "For accidents, go to:",
+      "answer": "University",
+      "suffix": "Hospital"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 5",
+    "subtitle": "Open again tomorrow at: 8 a.m.",
+    "noteTitle": "MILL HOUSE HEALTH CENTRE",
+    "partNumber": 5,
+    "instruction": [
+     "You will hear some information about a health centre.",
+     "Listen and complete questions 21–25.",
+     "You will hear the information twice."
+    ],
+    "questionsLabel": "QUESTIONS 21–25"
+   }
+  ],
+  "testInfo": {
+   "id": "ket-l-10",
+   "level": "A2",
+   "paper": "Paper 2",
+   "parts": 5,
+   "title": "KET Listening — Test 10",
+   "totalTime": 30,
+   "totalQuestions": 25
+  }
+ },
+ "created_at": "2026-10-14T06:45:23.132994+00:00",
+ "updated_at": "2026-10-14T06:47:09.38653+00:00"
+}

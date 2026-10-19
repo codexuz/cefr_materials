@@ -1,0 +1,275 @@
+{
+ "id": 2220,
+ "mock_type": "ielts-writing",
+ "mock_number": 82,
+ "title": "IELTS Writing Mock 82",
+ "status": "published",
+ "mock_data": {
+  "tasks": {
+   "task1": {
+    "title": "Secondary/high school teachers' salaries in five countries (2009)",
+    "prompt": "The table below shows the salaries of secondary/high school teachers in five countries in 2009.",
+    "wordGoal": 150,
+    "chartDesc": {
+     "title": "Secondary/high school teachers salaries (2009)",
+     "xAxis": "Salary metrics and time to reach maximum salary",
+     "yAxis": "Countries",
+     "period": "2009",
+     "series": [
+      {
+       "name": "Australia",
+       "points": [
+        {
+         "at": "Starting salary (US$)",
+         "value": 34600
+        },
+        {
+         "at": "Salary per year (US$)",
+         "value": 48000
+        },
+        {
+         "at": "Maximum salary (US$)",
+         "value": 48000
+        },
+        {
+         "at": "Years taken to reach top salary",
+         "value": 9
+        }
+       ]
+      },
+      {
+       "name": "Denmark",
+       "points": [
+        {
+         "at": "Starting salary (US$)",
+         "value": 47000
+        },
+        {
+         "at": "Salary per year (US$)",
+         "value": 54000
+        },
+        {
+         "at": "Maximum salary (US$)",
+         "value": 54000
+        },
+        {
+         "at": "Years taken to reach top salary",
+         "value": 8
+        }
+       ]
+      },
+      {
+       "name": "Luxembourg",
+       "points": [
+        {
+         "at": "Starting salary (US$)",
+         "value": 80000
+        },
+        {
+         "at": "Salary per year (US$)",
+         "value": 112000
+        },
+        {
+         "at": "Maximum salary (US$)",
+         "value": 139000
+        },
+        {
+         "at": "Years taken to reach top salary",
+         "value": 30
+        }
+       ]
+      },
+      {
+       "name": "Korea",
+       "points": [
+        {
+         "at": "Starting salary (US$)",
+         "value": 30500
+        },
+        {
+         "at": "Salary per year (US$)",
+         "value": 52600
+        },
+        {
+         "at": "Maximum salary (US$)",
+         "value": 84500
+        },
+        {
+         "at": "Years taken to reach top salary",
+         "value": 37
+        }
+       ]
+      },
+      {
+       "name": "Japan",
+       "points": [
+        {
+         "at": "Starting salary (US$)",
+         "value": 28000
+        },
+        {
+         "at": "Salary per year (US$)",
+         "value": 49000
+        },
+        {
+         "at": "Maximum salary (US$)",
+         "value": 62400
+        },
+        {
+         "at": "Years taken to reach top salary",
+         "value": 34
+        }
+       ]
+      }
+     ],
+     "overview": "Luxembourg offered significantly higher teacher salaries across all stages compared to the other four countries, whereas teachers in Asian nations (Korea and Japan) took the longest time (37 and 34 years) to reach their maximum earnings.",
+     "chartType": "table",
+     "confidence": "high",
+     "unreadable": [],
+     "keyFeatures": [
+      "Luxembourg had the highest starting salary ($80,000), salary per year ($112,000), and maximum salary ($139,000).",
+      "Japan had the lowest starting salary at $28,000, while Australia had the lowest maximum salary at $48,000.",
+      "Teachers in Denmark reached their maximum salary ($54,000) in the shortest time (8 years), whereas teachers in Korea took the longest (37 years to reach $84,500)."
+     ]
+    },
+    "chartType": "table",
+    "dataNature": "static",
+    "instruction": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+    "sampleBand5": "",
+    "sampleBand6": "",
+    "sampleBand7": "",
+    "sampleBand8": "<p>The table compares the pay of secondary and high school teachers in five countries in 2009, showing their starting salary, annual salary, <mark>maximum salary</mark> and the number of years needed to reach the top of the <mark>pay scale</mark>.</p>\n<p>Overall, teachers in Luxembourg were <mark>by far</mark> the best paid on every measure, while pay <mark>progression</mark> was quickest in Australia and Denmark and dramatically slower in the two Asian countries.</p>\n<p>Luxembourg's teachers began on 80,000 US dollars — more than the maximum salary in every other country listed — and could eventually earn 139,000 dollars, although reaching this <mark>ceiling</mark> took 30 years. Denmark offered the second-highest starting pay, at 47,000 dollars, and its teachers reached their modest maximum of 54,000 dollars after only eight years, the shortest period shown. Australia followed a similar pattern, moving from 34,600 dollars to a 48,000-dollar maximum <mark>in just</mark> nine years.</p>\n<p>Korea and Japan <mark>stood in sharp contrast</mark>. Their starting salaries were the lowest, at 30,500 and 28,000 dollars respectively, yet their eventual maximums — 84,500 dollars in Korea and 62,400 in Japan — were <mark>well above</mark> those in Australia and Denmark. The <mark>trade-off</mark> was time: Korean teachers needed 37 years and Japanese teachers 34 to reach their top salary, roughly four times as long as their Australian and Danish <mark>counterparts</mark>.</p>",
+    "sampleBand9": "",
+    "timeMinutes": 20,
+    "chartDescImg": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/82.png",
+    "sampleAnswer": "",
+    "chartImageUrl": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/82.png",
+    "uzSampleBand5": "",
+    "uzSampleBand6": "",
+    "uzSampleBand7": "",
+    "uzSampleBand8": "<p>Jadval 2009-yilda besh mamlakatdagi o'rta va yuqori sinf o'qituvchilarining maoshini solishtirib, boshlang'ich maosh, yillik maosh, <mark>maksimal maosh</mark> hamda <mark>maosh shkalasining</mark> eng yuqori pog'onasiga yetish uchun zarur yillar sonini ko'rsatadi.</p>\n<p>Umuman olganda, Lyuksemburg o'qituvchilari barcha ko'rsatkichlar bo'yicha <mark>beqiyos darajada</mark> eng yaxshi maosh olgan, maoshning <mark>o'sish sur'ati</mark> esa Avstraliya va Daniyada eng tez, ikki Osiyo mamlakatida esa keskin sekinroq bo'lgan.</p>\n<p>Lyuksemburg o'qituvchilari 80 000 AQSh dollaridan ish boshlagan — bu ro'yxatdagi boshqa har qanday mamlakatning maksimal maoshidan ham yuqori — va oxir-oqibat 139 000 dollar topishlari mumkin edi, garchi bu <mark>cho'qqiga</mark> yetish 30 yil vaqt olsa-da. Daniya 47 000 dollar bilan ikkinchi eng yuqori boshlang'ich maoshni taklif etgan va uning o'qituvchilari 54 000 dollarlik kamtarona maksimumiga atigi sakkiz yilda — ko'rsatilgan eng qisqa muddatda — erishgan. Avstraliya ham shunga o'xshash yo'l tutgan: 34 600 dollardan 48 000 dollarlik maksimumgacha <mark>bor-yo'g'i</mark> to'qqiz yilda ko'tarilgan.</p>\n<p>Koreya va Yaponiya esa <mark>keskin farq qilgan</mark>. Ularning boshlang'ich maoshlari eng past — mos ravishda 30 500 va 28 000 dollar — bo'lgan, biroq yakuniy maksimumlari — Koreyada 84 500 va Yaponiyada 62 400 dollar — Avstraliya va Daniyadagidan <mark>ancha yuqori</mark> edi. Buning <mark>evazi</mark> vaqt bo'ldi: koreyalik o'qituvchilarga eng yuqori maoshga yetish uchun 37 yil, yaponiyaliklarga esa 34 yil kerak bo'lgan — bu avstraliyalik va daniyalik <mark>hamkasblarinikidan</mark> qariyb to'rt baravar uzoq.</p>",
+    "uzSampleBand9": "",
+    "chartDescSource": "extracted-verified-2026-08-05"
+   },
+   "task2": {
+    "title": "Private healthcare: advantages and disadvantages",
+    "prompt": "Some people think that good health is a basic human need, so medical services should not be run by profit-making companies. Do the advantages of private healthcare outweigh the disadvantages?",
+    "wordGoal": 250,
+    "essayType": "advantage-disadvantage",
+    "instruction": "Give reasons for your answer and include any relevant examples from your own knowledge or experience.",
+    "sampleBand5": "",
+    "sampleBand6": "",
+    "sampleBand7": "",
+    "sampleBand8": "<p>Because good health is essential to a decent life, many argue that hospitals and clinics should never be run for profit. Others point to the efficiency of <mark>private healthcare</mark>. In my view, although the private sector brings some real benefits, its drawbacks mean it should only ever <mark>supplement</mark>, not replace, a strong public system.</p>\n<p>Private medicine has clear advantages. Because <mark>profit-making companies</mark> compete for patients, they have a powerful incentive to offer shorter <mark>waiting lists</mark>, modern equipment and more comfortable facilities. This competition can also drive innovation, attracting investment into new treatments and technology. In addition, every patient who <mark>opts for</mark> private care frees up a bed and a doctor in the public system, which indirectly benefits those who cannot pay.</p>\n<p>The disadvantages, however, are serious. The greatest is <mark>inequality of access</mark>: when healthcare follows the logic of the market, the quality of treatment depends on the size of one's wallet, and the poorest — often the sickest — are left with an <mark>underfunded</mark> public service. Profit-driven providers may also <mark>cut corners</mark>, prescribe unnecessary tests to increase revenue, or focus on profitable procedures while avoiding costly long-term care. Health, unlike most products, is not something consumers can simply choose to go without, so normal market discipline protects patients poorly.</p>\n<p>In conclusion, I believe the disadvantages of running medical services purely for profit <mark>outweigh</mark> the advantages. The fairest model is a well-funded public system that guarantees care for everyone, with private providers permitted alongside it for those who wish to pay — provided they are strictly <mark>regulated</mark>.</p>",
+    "sampleBand9": "",
+    "timeMinutes": 40,
+    "sampleAnswer": "",
+    "uzSampleBand5": "",
+    "uzSampleBand6": "",
+    "uzSampleBand7": "",
+    "uzSampleBand8": "<p>Yaxshi salomatlik munosib hayotning asosi bo'lgani uchun ko'pchilik kasalxonalar va klinikalar hech qachon foyda uchun ishlamasligi kerak deb hisoblaydi. Boshqalar esa <mark>xususiy tibbiyotning</mark> samaradorligini dalil qilib keltiradi. Mening fikrimcha, xususiy sektor ayrim haqiqiy foydalar keltirsa-da, kamchiliklari uni kuchli davlat tizimining o'rnini bosuvchi emas, faqat uni <mark>to'ldiruvchi</mark> bo'lishga loyiq qiladi.</p>\n<p>Xususiy tibbiyotning aniq afzalliklari bor. <mark>Foyda ko'zlovchi kompaniyalar</mark> bemorlar uchun raqobatlashgani sababli ularda qisqaroq <mark>navbat ro'yxatlari</mark>, zamonaviy uskunalar va qulayroq sharoitlarni taklif etishga kuchli rag'bat mavjud. Bu raqobat innovatsiyani ham ilgari suradi, yangi muolajalar va texnologiyalarga sarmoya jalb qiladi. Bundan tashqari, xususiy davolanishni <mark>tanlagan</mark> har bir bemor davlat tizimida bitta o'rin va bitta shifokorni bo'shatadi — bu to'lay olmaydiganlarga bilvosita foyda keltiradi.</p>\n<p>Biroq kamchiliklari jiddiy. Eng kattasi — <mark>imkoniyat tengsizligi</mark>: tibbiyot bozor mantig'iga bo'ysunganda davolanish sifati kishining hamyoniga bog'liq bo'lib qoladi va eng kambag'allar — ko'pincha eng og'ir bemorlar — <mark>mablag' yetishmaydigan</mark> davlat xizmatiga qolib ketadi. Foyda ortidan quvgan muassasalar, shuningdek, sifatdan <mark>yuza o'tishi</mark>, daromadni oshirish uchun keraksiz tahlillar buyurishi yoki qimmat uzoq muddatli parvarishdan qochib, foydali muolajalargagina e'tibor qaratishi mumkin. Salomatlik, aksariyat mahsulotlardan farqli o'laroq, iste'molchi shunchaki voz kechadigan narsa emas, shuning uchun odatiy bozor intizomi bemorlarni yaxshi himoya qilmaydi.</p>\n<p>Xulosa qilib aytganda, tibbiy xizmatlarni faqat foyda uchun yuritishning kamchiliklari afzalliklaridan <mark>ustun keladi</mark> deb hisoblayman. Eng adolatli model — hammaga davolanishni kafolatlaydigan yetarli mablag'li davlat tizimi bo'lib, uning yonida to'lashni istaganlar uchun qat'iy <mark>tartibga solingan</mark> xususiy muassasalarga ruxsat berilishi mumkin.</p>",
+    "uzSampleBand9": ""
+   }
+  },
+  "source": "CDI Report",
+  "examDate": "2026-07-15",
+  "settings": {
+   "logoUrl": "https://audio.mock-stream.com/img/ibb/WN0XY5Lv/logo.png",
+   "timeInfo": "⏱ Total time: 60 minutes | Task 1: 20 min (150 words) | Task 2: 40 min (250 words)",
+   "logoWording": "Mock Stream",
+   "moduleTitle": "Academic Writing Module",
+   "testIdentifier": "IELTS Mock 82"
+  },
+  "bandLabels": {
+   "8": "Band 7.5"
+  },
+  "vocabulary": {
+   "task1": [],
+   "task2": []
+  },
+  "tokenTranslations": {
+   "by far": {
+    "uz": "beqiyos darajada, ancha",
+    "type": "adverb"
+   },
+   "ceiling": {
+    "uz": "cho'qqi, yuqori chegara",
+    "type": "noun"
+   },
+   "in just": {
+    "uz": "bor-yo'g'i ...da",
+    "type": "colloc"
+   },
+   "opts for": {
+    "uz": "tanlamoq",
+    "type": "phrasal"
+   },
+   "outweigh": {
+    "uz": "ustun kelmoq, og'irroq kelmoq",
+    "type": "verb"
+   },
+   "pay scale": {
+    "uz": "maosh shkalasi",
+    "type": "noun phrase"
+   },
+   "regulated": {
+    "uz": "tartibga solingan",
+    "type": "adj"
+   },
+   "trade-off": {
+    "uz": "evaz, murosaga keltiruvchi tomon",
+    "type": "noun"
+   },
+   "supplement": {
+    "uz": "to'ldirmoq",
+    "type": "verb"
+   },
+   "well above": {
+    "uz": "ancha yuqori",
+    "type": "colloc"
+   },
+   "cut corners": {
+    "uz": "sifatdan yuza o'tmoq, tejab ishlamoq",
+    "type": "idiom"
+   },
+   "progression": {
+    "uz": "o'sish, ko'tarilish",
+    "type": "noun"
+   },
+   "underfunded": {
+    "uz": "mablag' yetishmaydigan",
+    "type": "adj"
+   },
+   "counterparts": {
+    "uz": "hamkasblar, o'xshash mavqedagilar",
+    "type": "noun"
+   },
+   "waiting lists": {
+    "uz": "navbat ro'yxatlari",
+    "type": "noun phrase"
+   },
+   "maximum salary": {
+    "uz": "maksimal maosh",
+    "type": "noun phrase"
+   },
+   "private healthcare": {
+    "uz": "xususiy tibbiyot",
+    "type": "noun phrase"
+   },
+   "inequality of access": {
+    "uz": "imkoniyat tengsizligi",
+    "type": "noun phrase"
+   },
+   "profit-making companies": {
+    "uz": "foyda ko'zlovchi kompaniyalar",
+    "type": "noun phrase"
+   },
+   "stood in sharp contrast": {
+    "uz": "keskin farq qildi",
+    "type": "colloc"
+   }
+  }
+ },
+ "created_at": "2026-07-21T14:35:53.193095+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

@@ -1,0 +1,453 @@
+{
+ "id": 2285,
+ "mock_type": "ket-listening",
+ "mock_number": 23,
+ "title": "KET Listening — Test 23",
+ "status": "published",
+ "mock_data": {
+  "audio": {
+   "base": "https://audio.mock-stream.com/KET-Listening/test23/",
+   "files": {
+    "1": "PART1.m4a",
+    "2": "PART2.m4a",
+    "3": "PART3.m4a",
+    "4": "PART4.m4a",
+    "5": "PART5.m4a"
+   }
+  },
+  "parts": [
+   {
+    "type": "picture-mcq",
+    "items": [
+     {
+      "id": 1,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q1A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q1B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q1C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Where is the photograph now?"
+     },
+     {
+      "id": 2,
+      "answer": "A",
+      "options": [
+       {
+        "text": "9th",
+        "letter": "A"
+       },
+       {
+        "text": "16th",
+        "letter": "B"
+       },
+       {
+        "text": "23rd",
+        "letter": "C"
+       }
+      ],
+      "question": "When can Suzy come to dinner?"
+     },
+     {
+      "id": 3,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q3A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q3B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q3C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Where did Jane go on holiday?"
+     },
+     {
+      "id": 4,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q4A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q4B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q4C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What has Maria hurt?"
+     },
+     {
+      "id": 5,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q5A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q5B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q5C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What time will Clare meet Jack at the station?"
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "image": "q0A.png",
+       "letter": "A"
+      },
+      {
+       "image": "q0B.png",
+       "letter": "B"
+      },
+      {
+       "image": "q0C.png",
+       "letter": "C"
+      }
+     ],
+     "question": "How many people were at the meeting?"
+    },
+    "imageBase": "https://audio.mock-stream.com/KET-Listening/test23/p1/",
+    "partNumber": 1,
+    "instruction": [
+     "You will hear five short conversations.",
+     "You will hear each conversation twice.",
+     "There is one question for each conversation.",
+     "For questions 1–5, put a tick (✓) under the right answer."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "matching-list",
+    "items": [
+     {
+      "id": 6,
+      "name": "Tuesday",
+      "answer": "C"
+     },
+     {
+      "id": 7,
+      "name": "Wednesday",
+      "answer": "D"
+     },
+     {
+      "id": 8,
+      "name": "Thursday",
+      "answer": "A"
+     },
+     {
+      "id": 9,
+      "name": "Friday",
+      "answer": "H"
+     },
+     {
+      "id": 10,
+      "name": "Saturday",
+      "answer": "G"
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "name": "Monday",
+     "answer": "F",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "Business Studies",
+      "letter": "A"
+     },
+     {
+      "text": "Computer Studies",
+      "letter": "B"
+     },
+     {
+      "text": "Cooking",
+      "letter": "C"
+     },
+     {
+      "text": "Film Studies",
+      "letter": "D"
+     },
+     {
+      "text": "Geography",
+      "letter": "E"
+     },
+     {
+      "text": "Guitar",
+      "letter": "F"
+     },
+     {
+      "text": "History of Art",
+      "letter": "G"
+     },
+     {
+      "text": "The Night Sky",
+      "letter": "H"
+     }
+    ],
+    "scenario": "Diana talking about days for courses",
+    "leftLabel": "Days",
+    "partNumber": 2,
+    "rightLabel": "Courses",
+    "instruction": [
+     "Listen to Diana talking to a friend about the days they can do some courses.",
+     "For questions 6–10, write a letter A–H next to each day.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-conversation",
+    "items": [
+     {
+      "id": 11,
+      "stem": "The girl will pay",
+      "answer": "B",
+      "options": [
+       {
+        "text": "£5.",
+        "letter": "A"
+       },
+       {
+        "text": "£7.",
+        "letter": "B"
+       },
+       {
+        "text": "£9.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "stem": "The girl will get on the coach",
+      "answer": "A",
+      "options": [
+       {
+        "text": "outside the library.",
+        "letter": "A"
+       },
+       {
+        "text": "in front of the Grand Hotel.",
+        "letter": "B"
+       },
+       {
+        "text": "in Bridge Street.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "stem": "The coach will be at the girl's stop at",
+      "answer": "B",
+      "options": [
+       {
+        "text": "8.45 am.",
+        "letter": "A"
+       },
+       {
+        "text": "8.55 am.",
+        "letter": "B"
+       },
+       {
+        "text": "9.05 am.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "stem": "In Edinburgh, the girl will visit",
+      "answer": "C",
+      "options": [
+       {
+        "text": "the castle and shops.",
+        "letter": "A"
+       },
+       {
+        "text": "the cathedral and museums.",
+        "letter": "B"
+       },
+       {
+        "text": "the castle and cathedral.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "stem": "The whole trip takes",
+      "answer": "C",
+      "options": [
+       {
+        "text": "2 hours.",
+        "letter": "A"
+       },
+       {
+        "text": "2¼ hours.",
+        "letter": "B"
+       },
+       {
+        "text": "4¼ hours.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "stem": "The girl wants to go to Edinburgh",
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "text": "this morning.",
+       "letter": "A"
+      },
+      {
+       "text": "this afternoon.",
+       "letter": "B"
+      },
+      {
+       "text": "tomorrow morning.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partNumber": 3,
+    "instruction": [
+     "Listen to a girl asking for information about a coach trip to Edinburgh.",
+     "For questions 11–15, tick (✓) A, B or C.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "rows": [
+     {
+      "id": 16,
+      "label": "Name of shop:",
+      "answer": "FORSTER'S"
+     },
+     {
+      "id": 17,
+      "label": "Boots — Size:",
+      "answer": "38"
+     },
+     {
+      "id": 18,
+      "label": "Boots — Colour:",
+      "answer": "green"
+     },
+     {
+      "id": 19,
+      "label": "Sale price:",
+      "answer": "65",
+      "prefix": "£"
+     },
+     {
+      "id": 20,
+      "label": "Tomorrow shop closes at:",
+      "answer": "2"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 4",
+    "subtitle": "From: Bob Watson",
+    "noteTitle": "Message for Anna",
+    "partNumber": 4,
+    "instruction": [
+     "You will hear the manager of a shop leaving a message for a customer.",
+     "Listen and complete questions 16–20.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "rows": [
+     {
+      "id": 21,
+      "label": "Date:",
+      "answer": "October",
+      "prefix": "9th"
+     },
+     {
+      "id": 22,
+      "label": "Start time:",
+      "answer": "10.15",
+      "suffix": "am"
+     },
+     {
+      "id": 23,
+      "label": "Name of special guest:",
+      "answer": "HAYWARD",
+      "prefix": "J.P."
+     },
+     {
+      "id": 24,
+      "label": "Price of family ticket:",
+      "answer": "8.70",
+      "prefix": "£"
+     },
+     {
+      "id": 25,
+      "label": "To book a place, call:",
+      "answer": "4497 6390"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 5",
+    "subtitle": "Place: Hadley College",
+    "noteTitle": "Art class for families",
+    "partNumber": 5,
+    "instruction": [
+     "You will hear a man on the radio giving information about an art class.",
+     "Listen and complete questions 21–25.",
+     "You will hear the information twice."
+    ],
+    "questionsLabel": "QUESTIONS 21–25"
+   }
+  ],
+  "testInfo": {
+   "id": "ket-l-23",
+   "level": "A2",
+   "paper": "Paper 2",
+   "parts": 5,
+   "title": "KET Listening — Test 23",
+   "totalTime": 30,
+   "totalQuestions": 25
+  }
+ },
+ "created_at": "2026-10-14T06:45:32.537554+00:00",
+ "updated_at": "2026-10-14T06:47:18.267766+00:00"
+}

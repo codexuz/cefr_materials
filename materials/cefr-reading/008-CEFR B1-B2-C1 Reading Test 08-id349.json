@@ -1,0 +1,720 @@
+{
+ "id": 349,
+ "mock_type": "cefr-reading",
+ "mock_number": 8,
+ "title": "CEFR B1-B2-C1 Reading Test 08",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "gap-fill-text",
+    "title": "Part 1",
+    "answers": {
+     "1": [
+      "Children"
+     ],
+     "2": [
+      "toys"
+     ],
+     "3": [
+      "age"
+     ],
+     "4": [
+      "like"
+     ],
+     "5": [
+      "can"
+     ],
+     "6": [
+      "Toddlers"
+     ]
+    },
+    "passage": {
+     "title": "Buying Toys for Children",
+     "content": "<p>Buying toys for children can be somewhat confusing and frustrating for parents as well as for gift givers. <span class=\"gap\" data-gap=\"1\">_____(1)_____</span> can show surprising preferences in toys; a favourite is not necessarily expensive or unique or \"in\". Matching <span class=\"gap\" data-gap=\"2\">_____(2)_____</span> carefully to a child's age, however, can help this dilemma. Children usually fall into several different \"toy-preference\" <span class=\"gap\" data-gap=\"3\">_____(3)_____</span> groups. Infants under eighteen months go through two stages. Before they can sit up, they <span class=\"gap\" data-gap=\"4\">_____(4)_____</span> toys that appeal to the senses, such as colourful mobiles, squeaky rubber toys or big chewable beads. After they <span class=\"gap\" data-gap=\"5\">_____(5)_____</span> sit up, babies like \"graspable\" things like blocks, nesting and stacking toys, and cloth picture books. Children from eighteen months to three years – toddlers like toys that move (as they are learning to do). <span class=\"gap\" data-gap=\"6\">_____(6)_____</span> also like to use their hands.</p>"
+    },
+    "questions": [
+     {
+      "id": 1,
+      "hint": "noun - young people"
+     },
+     {
+      "id": 2,
+      "hint": "noun - playthings"
+     },
+     {
+      "id": 3,
+      "hint": "noun - time of life"
+     },
+     {
+      "id": 4,
+      "hint": "verb - enjoy"
+     },
+     {
+      "id": 5,
+      "hint": "verb - are able to"
+     },
+     {
+      "id": 6,
+      "hint": "noun - young children"
+     }
+    ],
+    "partNumber": 1,
+    "instruction": "Read the text. Fill in each gap with ONE word. You must use a word which is somewhere in the rest of the text.",
+    "explanations": {
+     "q1": {
+      "text": "The first sentence introduces the topic of buying toys for children. This sentence continues that idea by describing the preferences of these young people. That's why the correct answer is 'Children'.",
+      "quote": "Buying toys for children can be somewhat confusing and frustrating for parents as well as for gift givers."
+     },
+     "q2": {
+      "text": "The passage discusses the difficulty of buying toys. This sentence offers a solution to the 'dilemma' by suggesting you match the playthings to a child's age. That's why the correct answer is 'toys'.",
+      "quote": "Buying toys for children can be somewhat confusing and frustrating for parents as well as for gift givers."
+     },
+     "q3": {
+      "text": "The previous sentence introduces the idea of matching toys to a child's age. This sentence expands on that by explaining that children can be put into different groups based on this factor. That's why the correct answer is 'age'.",
+      "quote": ""
+     },
+     "q4": {
+      "text": "The passage is describing the 'toy-preference' groups for different ages. This sentence explains what kind of toys very young infants enjoy or have a preference for. That's why the correct answer is 'like'.",
+      "quote": ""
+     },
+     "q5": {
+      "text": "This sentence describes the second stage of an infant's development, contrasting with the previous stage ('Before they can sit up'). The verb must express the new ability the baby has acquired. That's why the correct answer is 'can'.",
+      "quote": ""
+     },
+     "q6": {
+      "text": "The previous sentence identifies the group of children from eighteen months to three years as 'toddlers'. This sentence continues the description of this specific age group's preferences. That's why the correct answer is 'Toddlers'.",
+      "quote": "Children from eighteen months to three years – toddlers like toys that move (as they are learning to do)."
+     }
+    },
+    "questionRange": "1-6"
+   },
+   {
+    "type": "matching",
+    "texts": [
+     {
+      "title": "Rebecca",
+      "number": 7,
+      "content": "<p>Rebecca and her children wants to visit a history museum. Rebecca expects the museum to be kids friendly. She works weekdays so she prefers to a museum that can or stays open after working days.</p>"
+     },
+     {
+      "title": "John and Mark",
+      "number": 8,
+      "content": "<p>John and Mark are classmates and they are both art enthusiasts. They can be busy for weekdays usually but they can have time for Wednesday. They are aiming for something cheaper.</p>"
+     },
+     {
+      "title": "Alisher",
+      "number": 9,
+      "content": "<p>Alisher is a history buff. He really loves American history and he would like to visit some American History Museum and gain more knowledge about it. He works from Thursday to Saturday.</p>"
+     },
+     {
+      "title": "Jack",
+      "number": 10,
+      "content": "<p>Jack is a science, history and rocket enthusiast. He really wants to see a place where he can experience space exploration. He works every day but can find time on Wednesday evening.</p>"
+     },
+     {
+      "title": "Jamshid",
+      "number": 11,
+      "content": "<p>Jamshid is a nature lover. As a matter of fact, he really loves sharks and turtles. He wants to see evolution and history of sea reptiles and amphibians. They don't work on Monday and Tuesday.</p>"
+     },
+     {
+      "title": "Aziza and Rustam",
+      "number": 12,
+      "content": "<p>Aziza and Rustam reads history. They are interested in the history of America as well as Africa and Asia. They really do not mind wars but prefer to visit some cultural museum. They are both students to they have to study every day expect Friday and Saturday.</p>"
+     },
+     {
+      "title": "George",
+      "number": 13,
+      "content": "<p>George is an animal lover and he is interested in endangered species. He doesn't mind visiting any day but he expects the museum to have endangered sea animals.</p>"
+     },
+     {
+      "title": "Rosie",
+      "number": 14,
+      "content": "<p>Rosie is schoolgirl. She wants to visit a museum about nature history. She wants to go somewhere which is kid friendly. She can only visit after school which is evenings.</p>"
+     }
+    ],
+    "title": "Part 2",
+    "answers": {
+     "7": "G",
+     "8": "H",
+     "9": "J",
+     "10": "D",
+     "11": "F",
+     "12": "E",
+     "13": "C",
+     "14": "B"
+    },
+    "questions": [
+     {
+      "id": 7,
+      "textNumber": 7
+     },
+     {
+      "id": 8,
+      "textNumber": 8
+     },
+     {
+      "id": 9,
+      "textNumber": 9
+     },
+     {
+      "id": 10,
+      "textNumber": 10
+     },
+     {
+      "id": 11,
+      "textNumber": 11
+     },
+     {
+      "id": 12,
+      "textNumber": 12
+     },
+     {
+      "id": 13,
+      "textNumber": 13
+     },
+     {
+      "id": 14,
+      "textNumber": 14
+     }
+    ],
+    "partNumber": 2,
+    "statements": [
+     {
+      "text": "MODERN ART MUSEUM. Looking for a modern artistic experience? Our museum is perfect for older art lovers who want to learn about contemporary art. We offer various collections of arts from modern times and we hope it gets you inspired to make your own art someday! We are open every day.",
+      "letter": "A"
+     },
+     {
+      "text": "STORY OF NATURE. Looking for exciting adventure? That's out museum for you! If are a child who is enthusiastic about nature and its story, our museum offers grand tours, educational activities and special family-friendly games! We are open every day, except on weekends evening.",
+      "letter": "B"
+     },
+     {
+      "text": "NATURE AT ITS BEST. Looking for an animal adventure? Our museum is perfect for animal lovers who want to learn about nearly extinct species. We offer interactive exhibits and educational programs that explore the world of wildlife conservation! We are special underwater section that has 40 species of reptiles and amphibians. We are open every day.",
+      "letter": "C"
+     },
+     {
+      "text": "NEIL ARMSTRONG MUSEUM. Looking for an out-of-this-world experience? Want to find out how Neil went to the Moon? Our museum is perfect for the fans of outer space. We also offer unique interactive experience about rocket design. We are open from Monday to Thursday.",
+      "letter": "D"
+     },
+     {
+      "text": "TAMERLANE MUSEUM. This museum has a lot of historical artifacts and collections from Tamerlane period. We have 5000 kinds of jewellery, 1000 kinds of weapons and some other things. We are open everyday.",
+      "letter": "E"
+     },
+     {
+      "text": "THE WAY OF WATER. Looking for an underwater adventure? Our museum is perfect for nature lovers who want to learn about marine life. We have 400 kinds of fish, 200 species of frogs, iguanas and sea turtles. We are open on every weekday.",
+      "letter": "F"
+     },
+     {
+      "text": "FUN HISTORY. Are you planning to visit a museum with your children? Do you want a family-friendly museum? Ours is perfect for families with young children who want to learn about history. We also offer interactive exhibits and educational programs! We are open only weekends.",
+      "letter": "G"
+     },
+     {
+      "text": "MICHAELANGELO. Looking for an artistic experience and intellectual stimulation? Our museum is perfect for college students who want to learn about art and culture. We offer affordable tickets and plenty of exhibits! Our museum is open from Tuesday to Friday evening.",
+      "letter": "H"
+     },
+     {
+      "text": "SWEET DREAMS. Looking for a delicious experience? Our museum is perfect for foodies who want to learn about culinary arts. We offer interactive exhibits and educational programs that explore the world of food and drink! All from nature! We are open every day expect Thursday.",
+      "letter": "I"
+     },
+     {
+      "text": "REVOLUTION MUSEUM. Looking for an educational experience? Our museum is perfect for history loves who want to learn about the American Revolution. We also offer some interactive, family-friendly activities as well as guides who teaches people about historical topics. We are open at the weekend.",
+      "letter": "J"
+     }
+    ],
+    "instruction": "Read the texts 7-14 and the statements A-J. Decide which text matches with the situation described in the statements. Each statement can be used ONCE only. There are TWO extra statements which you do not need to use. Mark your answers on the answer sheet.",
+    "explanations": {
+     "q7": {
+      "text": "Rebecca needs a kid-friendly history museum that is open on weekends, as she works on weekdays. Fun History is perfect for families and is only open on weekends. That's why the correct answer is G.",
+      "quote": "Rebecca expects the museum to be kids friendly. She works weekdays so she prefers to a museum that can or stays open after working days."
+     },
+     "q8": {
+      "text": "John and Mark are art enthusiasts looking for an affordable museum open on a Wednesday. The Michaelangelo museum is for art lovers, offers affordable tickets, and is open on Wednesday evenings. That's why the correct answer is H.",
+      "quote": "John and Mark are classmates and they are both art enthusiasts. They can be busy for weekdays usually but they can have time for Wednesday. They are aiming for something cheaper."
+     },
+     "q9": {
+      "text": "Alisher is a history buff who specifically loves American history. The Revolution Museum focuses on the American Revolution, which is a key part of American history, and is open when he is free. That's why the correct answer is J.",
+      "quote": "He really loves American history and he would like to visit some American History Museum and gain more knowledge about it."
+     },
+     "q10": {
+      "text": "Jack is a rocket enthusiast who wants to learn about space exploration and is free on Wednesday evening. The Neil Armstrong Museum is about space and rockets and is open on Wednesdays. That's why the correct answer is D.",
+      "quote": "He really wants to see a place where he can experience space exploration. He works every day but can find time on Wednesday evening."
+     },
+     "q11": {
+      "text": "Jamshid loves nature, especially sea turtles, reptiles, and amphibians, and is free on Mondays and Tuesdays. The Way of Water museum focuses on marine life, has sea turtles, and is open on weekdays. That's why the correct answer is F.",
+      "quote": "He wants to see evolution and history of sea reptiles and amphibians. They don't work on Monday and Tuesday."
+     },
+     "q12": {
+      "text": "Aziza and Rustam are interested in the history of Asia and prefer a cultural museum. The Tamerlane Museum has historical artifacts from a period in Asian history and is open on their free days. That's why the correct answer is E.",
+      "quote": "They are interested in the history of America as well as Africa and Asia. They really do not mind wars but prefer to visit some cultural museum."
+     },
+     "q13": {
+      "text": "George is an animal lover who specifically wants to see endangered sea animals. The Nature at its Best museum focuses on nearly extinct species and has a special underwater section. That's why the correct answer is C.",
+      "quote": "George is an animal lover and he is interested in endangered species. He doesn't mind visiting any day but he expects the museum to have endangered sea animals."
+     },
+     "q14": {
+      "text": "Rosie is a schoolgirl who wants a kid-friendly nature museum she can visit in the evenings. The Story of Nature museum is for children, is about nature, and is open on weekday evenings. That's why the correct answer is B.",
+      "quote": "She wants to go somewhere which is kid friendly. She can only visit after school which is evenings."
+     }
+    },
+    "questionRange": "7-14",
+    "extraStatements": [
+     "A",
+     "I"
+    ]
+   },
+   {
+    "type": "matching-headings",
+    "title": "Part 3",
+    "answers": {
+     "15": "C",
+     "16": "B",
+     "17": "A",
+     "18": "E",
+     "19": "H",
+     "20": "F"
+    },
+    "passage": {
+     "title": "Buses",
+     "paragraphs": [
+      {
+       "number": "I",
+       "content": "A walking school bus is a group of children walking to school with one or more adults. It can be informal — when two families take turns in getting their children to school. It also can be a structured and planned route with meeting points, a timetable and specially trained volunteers. It's certainly safer for kids who would otherwise walk alone to school. A walking school bus provides exercise and security.",
+       "questionId": 15
+      },
+      {
+       "number": "II",
+       "content": "Every day thousands of Londoners use big red buses to move around town. These buses were designed especially for London, by people who knew what London needed, and they have served their purpose well! There are hundreds of bus routes all over London. The double-decker bus has become an emblem of London, just as recognizable as Big Ben or Tower Bridge.",
+       "questionId": 16
+      },
+      {
+       "number": "III",
+       "content": "Have you ever wondered why school buses are either yellow or orange? Yellow is an attention-grabbing colour. Scientists have discovered yellow is 1.24 times better for catching our eye than red. People can detect yellow even from the corner of their eye. Yellow is easier to notice in dim light or bad weather. For these reasons, school buses in many countries are yellow.",
+       "questionId": 17
+      },
+      {
+       "number": "IV",
+       "content": "Few people know that the word bus is a short form of the Latin word omnibus. A businessman named Stanislas Baudry started the first horse-drawn omnibus service in the French city of Nantes in 1823. The first vehicles stopped in front of the hatter's shop which had a large sign Omnes Omnibus. Soon Nantes citizens gave the nickname omnibus to the vehicle. The word omnibus means for all in Latin. In 1828, Baudry launched the omnibus service in Paris too.",
+       "questionId": 18
+      },
+      {
+       "number": "V",
+       "content": "Moscow, like other touristic cities, has double-decker buses — so called hop-on — hop-off buses. A ticket for this bus is valid for one or two days. You can get on and off the bus as many times as you like. The second deck has two parts: an open part, and a closed one. You can enjoy the open part in the warm weather and the closed part when the weather is not very good. Every passenger is supplied with a free city map and a free headphone set to listen to the audio guide.",
+       "questionId": 19
+      },
+      {
+       "number": "VI",
+       "content": "The job of a bus driver goes beyond just driving the vehicle! Bus drivers are responsible for the safety of their passengers, which can sometimes be as many as 100 people! They are responsible for driving their assigned route and sometimes they have to take fares and answer passengers' questions. Bus drivers also check the safety of their vehicle and make sure it has working safety equipment like first aid kits and fire extinguishers.",
+       "questionId": 20
+      }
+     ]
+    },
+    "headings": [
+     {
+      "text": "Bright and safe",
+      "letter": "A"
+     },
+     {
+      "text": "The symbol of the capital",
+      "letter": "B"
+     },
+     {
+      "text": "The bus you don't need to drive",
+      "letter": "C"
+     },
+     {
+      "text": "Watching and learning",
+      "letter": "D"
+     },
+     {
+      "text": "The story of the name",
+      "letter": "E"
+     },
+     {
+      "text": "They have to be skilled and attentive",
+      "letter": "F"
+     },
+     {
+      "text": "Special traffic rules for the bus",
+      "letter": "G"
+     },
+     {
+      "text": "A perfect way to see the capital",
+      "letter": "H"
+     }
+    ],
+    "questions": [
+     {
+      "id": 15,
+      "paragraphNumber": "I"
+     },
+     {
+      "id": 16,
+      "paragraphNumber": "II"
+     },
+     {
+      "id": 17,
+      "paragraphNumber": "III"
+     },
+     {
+      "id": 18,
+      "paragraphNumber": "IV"
+     },
+     {
+      "id": 19,
+      "paragraphNumber": "V"
+     },
+     {
+      "id": 20,
+      "paragraphNumber": "VI"
+     }
+    ],
+    "partNumber": 3,
+    "instruction": "Read the text and choose the correct heading for each paragraph from the list of headings below. There are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once.",
+    "explanations": {
+     "q15": {
+      "text": "The paragraph describes a \"walking school bus,\" which is a group of people walking, not a vehicle. It's a type of \"bus\" that you don't drive, that's why the correct answer is C.",
+      "quote": "A walking school bus is a group of children walking to school with one or more adults."
+     },
+     "q16": {
+      "text": "The paragraph states that the double-decker bus is a well-known symbol, or emblem, of London, the capital city, much like other famous landmarks. That's why the correct answer is B.",
+      "quote": "The double-decker bus has become an emblem of London, just as recognizable as Big Ben or Tower Bridge."
+     },
+     "q17": {
+      "text": "This paragraph explains that school buses are yellow because it is a bright, attention-grabbing color that is easy to see, which makes them safer. That's why the correct answer is A.",
+      "quote": "Yellow is an attention-grabbing colour."
+     },
+     "q18": {
+      "text": "The paragraph tells the history of the word \"bus,\" explaining how it originated from the Latin word \"omnibus\" and was first used in France. That's why the correct answer is E.",
+      "quote": "Few people know that the word bus is a short form of the Latin word omnibus."
+     },
+     "q19": {
+      "text": "The paragraph describes a hop-on-hop-off bus service in Moscow, a capital city, which allows tourists to explore the sights at their own pace. That's why the correct answer is H.",
+      "quote": "You can get on and off the bus as many times as you like."
+     },
+     "q20": {
+      "text": "This paragraph lists the many duties of a bus driver, including ensuring the safety of up to 100 passengers, which requires great skill and attention. That's why the correct answer is F.",
+      "quote": "Bus drivers are responsible for the safety of their passengers, which can sometimes be as many as 100 people!"
+     }
+    },
+    "extraHeadings": [
+     "D",
+     "G"
+    ],
+    "questionRange": "15-20"
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 4",
+    "answers": {
+     "21": "A",
+     "22": "C",
+     "23": "C",
+     "24": "B",
+     "25": "True",
+     "26": "Not Given",
+     "27": "Not Given",
+     "28": "False",
+     "29": "False"
+    },
+    "passage": {
+     "title": "The Rainmaker",
+     "content": "<p>Scientists are very sceptical about man's ability to initiate weather like, rain or snow. Nevertheless, in 1902, an American, Charles Hatfield, first claimed he had invented a new chemical method to generate rain. He applied his method on a commercial basis for the next twenty years and got a reputation as a rainmaker.</p>\n<p>Hatfield lived in Kansas and worked for a company that sold sewing machines. He considered his work boring and felt fed up with it. He dreamt of fame. Chemistry had always been Hatfield's great interest. For several years he was working on a formula that could initiate rain. After 1904, when he moved to California, his life changed dramatically. The advertisements he placed in the Los Angeles newspapers promised perfect rain for only fifty dollars. Because of the extremely dry season several farmers decided to try their chance. Hatfield and his brother built a tower on the top of a mountain and dispersed some chemicals into the air. Incredibly enough, soon it started to rain. Both the farmers and the 'wizard' were happy. The news about Hatfield's success spread around the country. The number of orders was growing fast. He travelled a lot, initiating rain in different regions but he was careful to keep his magic formula a secret. Inspired by these results, he promised Los Angeles Council forty-six centimeters of rainfall. It seemed unbelievable because so much rainfall was not typical for the city. Surprisingly, the next morning, after Hatfield's chemical experiments, rain was pouring down.</p>\n<p>Some meteorologists did not regard Hatfield's success as genuine. They were sure it was a coincidence and that most rain was the result of cyclones. On the other hand, there were scientists who took it quite seriously and wanted to watch the phenomenon in reality. It also needs to be mentioned that Hatfield was not always lucky. For example, in 1906 he was asked to initiate rain in the gold fields of the Klondike. No matter how hard he tried, the sky stayed cloudless. Fame and the need for money drove Charles Hatfield to further risky experiments. He bet he could fill in the container of the water lock near San Diego with rain water. If he succeeded, he was promised ten thousand dollars. Together with his brother, Hatfield built a six-meter tower and dispersed the chemicals into the air. Some days later it began to rain heavily.</p>\n<p>The rain did not stop for two weeks. The water lock container was full to the top as well as two nearby locks. The coming water overfilled the rivers, destroyed some bridges, roads and phone cables. Many houses and farms went under water because of the rainfall. Local officials blamed Hatfield for the loss and refused to pay him the money. Hatfield was called to court to compensate for the three-billion-dollar loss. Luckily, he escaped punishment because he had no written agreement with officials to start the experiment. Besides, the judge was sure that a man could not influence the weather. However, Charles Hatfield sincerely believed that his formula worked and continued his rain initiating practice. He died in 1958 but never gave away his secret.!</p>"
+    },
+    "partNumber": 4,
+    "instruction": "Read the following text and choose the correct answer A, B, C, or D. Mark your answers on the answer sheet.",
+    "explanations": {
+     "q21": {
+      "text": "The passage states that before becoming a famous rainmaker, Hatfield's job was working for a sewing machine company in Kansas, which he found boring. That's why the correct answer is A.",
+      "quote": "Hatfield lived in Kansas and worked for a company that sold sewing machines."
+     },
+     "q22": {
+      "text": "The text describes two different scientific opinions. While some meteorologists thought his success was a coincidence, others were intrigued and wanted to see his method in action. That's why the correct answer is C.",
+      "quote": "On the other hand, there were scientists who took it quite seriously and wanted to watch the phenomenon in reality."
+     },
+     "q23": {
+      "text": "The rain caused so much damage that officials refused to pay him. He was taken to court but avoided punishment because he had no written contract with the city. That's why the correct answer is C.",
+      "quote": "Luckily, he escaped punishment because he had no written agreement with officials to start the experiment."
+     },
+     "q24": {
+      "text": "The passage describes Hatfield's method twice. In both instances, he and his brother would first build a tower and then release his special chemicals into the air from it. That's why the correct answer is B.",
+      "quote": "Hatfield and his brother built a tower on the top of a mountain and dispersed some chemicals into the air."
+     },
+     "q25": {
+      "text": "The passage states that Hatfield's job was selling sewing machines. This is completely unrelated to chemistry, which is mentioned separately as his personal interest. That's why the correct answer is 'True'.",
+      "quote": "Hatfield lived in Kansas and worked for a company that sold sewing machines."
+     },
+     "q26": {
+      "text": "The text says chemistry was Hatfield's 'great interest' and that he worked on a formula, but it gives no details about his formal education or if he ever went to college. That's why the correct answer is 'Not Given'.",
+      "quote": ""
+     },
+     "q27": {
+      "text": "The passage mentions the advertised price was fifty dollars and that the farmers were happy with the rain. However, it does not state the final amount they actually paid him. That's why the correct answer is 'Not Given'.",
+      "quote": ""
+     },
+     "q28": {
+      "text": "The passage states that Hatfield was always careful to keep his formula a secret. There is no mention of him ever being asked to show it to the Los Angeles authorities. That's why the correct answer is 'Not Given'.",
+      "quote": "He travelled a lot, initiating rain in different regions but he was careful to keep his magic formula a secret."
+     },
+     "q29": {
+      "text": "The passage gives a clear example of a time his experiment did not work. When he tried to make it rain in the Klondike gold fields, the sky remained cloudless. That's why the correct answer is 'False'.",
+      "quote": "No matter how hard he tried, the sky stayed cloudless."
+     }
+    },
+    "questionRange": "21-29",
+    "questionSections": [
+     {
+      "type": "mcq",
+      "title": "Questions 21-24: Multiple Choice",
+      "questions": [
+       {
+        "id": 21,
+        "text": "At first, Charles Hatfield...",
+        "options": [
+         {
+          "text": "worked for a company that sold sewing machines",
+          "letter": "A"
+         },
+         {
+          "text": "claimed that he invented a rainmaking formula",
+          "letter": "B"
+         },
+         {
+          "text": "placed an ad for a paper",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 22,
+        "text": "On one hand, scientists regarded his success as a coincidence, on the other hand...",
+        "options": [
+         {
+          "text": "Charles was right, he really invented a formula for rainmaking",
+          "letter": "A"
+         },
+         {
+          "text": "He never shared his secrets with them, which made them very angry",
+          "letter": "B"
+         },
+         {
+          "text": "there were some scientists who really believed the idea",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 23,
+        "text": "After he \"made\" the rain in San Diego, he ...",
+        "options": [
+         {
+          "text": "was paid ten thousand dollars",
+          "letter": "A"
+         },
+         {
+          "text": "eventually gave three-billion-dollars for the rain's damages",
+          "letter": "B"
+         },
+         {
+          "text": "didn't get the money however, escaped the punishment.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 24,
+        "text": "Charles' experiment involved ...",
+        "options": [
+         {
+          "text": "some chemicals and a mountain.",
+          "letter": "A"
+         },
+         {
+          "text": "building a tower and pouring chemicals from them.",
+          "letter": "B"
+         },
+         {
+          "text": "some ancient \"wizardry\"",
+          "letter": "C"
+         }
+        ]
+       }
+      ],
+      "instruction": "For questions 21-24, choose the correct answer A, B, C, or D."
+     },
+     {
+      "type": "tfni",
+      "title": "Questions 25-29: True/False/Not Given",
+      "options": [
+       "True",
+       "False",
+       "Not Given"
+      ],
+      "questions": [
+       {
+        "id": 25,
+        "text": "Hatfield's work for the company had nothing to do with chemistry."
+       },
+       {
+        "id": 26,
+        "text": "Hatfield had studied chemistry at college."
+       },
+       {
+        "id": 27,
+        "text": "Californian farmers paid Hatfield more than the agreed sum."
+       },
+       {
+        "id": 28,
+        "text": "Hatfield had to show his secret formula to the Los Angeles authorities."
+       },
+       {
+        "id": 29,
+        "text": "Hatfield never failed in his rain initiating business."
+       }
+      ],
+      "instruction": "For questions 25-29, decide if the following statements agree with the information given in the text. Mark your answers on the answer sheet."
+     }
+    ]
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 5",
+    "answers": {
+     "30": [
+      "tree"
+     ],
+     "31": [
+      "sheep"
+     ],
+     "32": [
+      "government"
+     ],
+     "33": [
+      "grease"
+     ],
+     "34": "D",
+     "35": "C"
+    },
+    "passage": {
+     "title": "THE HISTORY OF PENCIL",
+     "content": "<p><strong>A.</strong> The beginning of the story of pencils started with lightning. Graphite, the main material for producing a pencil, was discovered in 1564 in Borrowdale in England when lightning struck a local tree during a thunder. Local people found out that the black substance spotted at the root of the unlucky tree was different from burning ash of wood. It was soft, thus left marks everywhere. The chemistry was barely out of its infancy at the time, so people mistook it for lead, equally black but much heavier. It was soon put to use by locals in marking their sheep for signs of ownership and calculation.</p>\n<p><strong>B.</strong> Britain turns out to be the major country where mines of graphite can be detected and developed. Even so, the first pencil was invented elsewhere. As graphite is soft, it requires some form of the encasement. In Italy, graphite sticks were initially wrapped in string or sheepskin for stability, becoming perhaps the very first pencil in the world. Then around 1560, an Italian couple made what are likely the first blueprints for the modern, wood-encased carpentry pencil their version was a flat, oval, more compact type of pencil. Their concept involved the hollowing out of a stick of juniper wood. Shortly thereafter in 1662, a superior technique was discovered by German people: two wooden halves were carved, a graphite stick inserted, and the halves then glued together – essentially the same method in use to this day. The news of usefulness of these early pencils spread far and wide, attracting the attention of artists all over the known world.</p>\n<p><strong>C.</strong> Although graphite core in pencils is still referred to as lead, modern pencils do not contain lead as the \"lead\" of the pencil is actually a mix of finely ground graphite and clay powders. This mixture is important because the amount of clay content added to the graphite depends on intended pencil hardness, and the amount of time spent on grinding the mixture determines the quality of the lead. The more clay you put in, the higher hardness the core has. Many pencils across the world and almost all in Europe are graded on the European system. This system of naming used B for black and H for hard; a pencil's grade was described by a sequence or successive Hs or Bs such as BB and BBB for successively softer leads, and HH and HHH for successively harder ones. Then the standard writing pencil is graded HB.</p>\n<p><strong>D.</strong> In England, pencils continued to be made from whole sawn graphite. But with the mass production of pencils, they are getting drastically more popular in many countries with each passing decade. As demands rise, appetite for graphite soars. According to the United States Geological Survey (USGS), world production of natural graphite in 2012 was 1,100,000 tonnes, of which the following major exporters are: China, India, Brazil, North Korea and Canada. When the value of graphite was realised, the mines were taken over by the government and guarded. One of its chiefs uses during the reign of Elizabeth I in the second half of the 16th century was as moulds for the manufacture of cannonballs. Graphite was transported from Keswick to London in armed stagecoaches. In 1751 an Act of Parliament was passed making it an offence to steal or receive \"wad\". This crime was punishable by hard labour or transportation.</p>\n<p><strong>E.</strong> That the United States did not use pencils in the outer space till they spent $1000 to make a pencil to use in zero gravity conditions is, in fact, a fiction. It is widely known that astronauts in Russia used grease pencils, which don't have breakage problems. But it is also a fact that their counterparts in the United States used pencils in the outer space before real zero gravity pencil was invented. They preferred mechanical pencils, which produced fine lines, much clearer than the smudgy lines left by the grease pencils the Russians favoured. But the lead tips of these mechanical pencils broke often. That bit of graphite floating around the space capsule could get into someone's eye, or even find its way into machinery or electronics, causing an electrical short or other problem. But despite the fact that the Americans did invent zero gravity pencils later, they stuck to mechanical pencils for many years.</p>\n<p><strong>F.</strong> Against the backcloth of a digitalized world, the prospect of pencils seems bleak. In reality, it does not. The application of pencils has by now become so widespread that they can be seen everywhere, such as classrooms, meeting rooms and art rooms, etc. A spectrum of users are likely to continue to use it into the future: students to do math works, artists to draw on sketch pads, waiters or waitresses to mark on order boards, make-up professional to apply to faces, and architects to produce blueprints. The possibilities seem limitless.</p>"
+    },
+    "partNumber": 5,
+    "instruction": "Read the following text for questions 30-35.",
+    "explanations": {
+     "q30": {
+      "text": "The passage states that graphite was discovered in Borrowdale, England, after lightning struck a tree. The black substance was found at the root of this tree. That's why the correct answer is 'tree'.",
+      "quote": "Graphite, the main material for producing a pencil, was discovered in 1564 in Borrowdale in England when lightning struck a local tree during a thunder."
+     },
+     "q31": {
+      "text": "According to the text, one of the first uses for the newly discovered graphite was by local people to mark their animals for identification and counting. That's why the correct answer is 'sheep'.",
+      "quote": "It was soon put to use by locals in marking their sheep for signs of ownership and calculation."
+     },
+     "q32": {
+      "text": "The passage explains that once people realized how valuable graphite was, the authorities took control of the mines and protected them to secure the resource. That's why the correct answer is 'government'.",
+      "quote": "When the value of graphite was realised, the mines were taken over by the government and guarded."
+     },
+     "q33": {
+      "text": "The passage contrasts the pencils used by American and Russian astronauts in space. It explicitly mentions that the Russians used a specific type that did not break. That's why the correct answer is 'grease'.",
+      "quote": "It is widely known that astronauts in Russia used grease pencils, which don't have breakage problems."
+     },
+     "q34": {
+      "text": "This statement is false because the passage explains that pencil hardness is determined by the amount of clay mixed with the graphite, not the graphite itself. That's why the correct answer is D.",
+      "quote": "The more clay you put in, the higher hardness the core has."
+     },
+     "q35": {
+      "text": "The final paragraph concludes that despite digitalization, the use of pencils is not declining. It states their application is so widespread that they are seen everywhere. That's why the correct answer is C.",
+      "quote": "The application of pencils has by now become so widespread that they can be seen everywhere, such as classrooms, meeting rooms and art rooms, etc."
+     }
+    },
+    "questionRange": "30-35",
+    "questionSections": [
+     {
+      "type": "gap-fill",
+      "title": "Questions 30-33: Gap Filling Section",
+      "questions": [
+       {
+        "id": 30,
+        "hint": "noun - plant"
+       },
+       {
+        "id": 31,
+        "hint": "noun - animals"
+       },
+       {
+        "id": 32,
+        "hint": "noun - authority"
+       },
+       {
+        "id": 33,
+        "hint": "noun - type of pencil"
+       }
+      ],
+      "instruction": "For questions 30-33, fill in the missing information in the numbered spaces. Write no more than ONE WORD and/or A NUMBER for each question.",
+      "summaryText": "<p>Graphite was found under a <span class=\"gap-input\" data-gap=\"30\">_____(30)_____</span> in Borrowdale.</p>\n<p>Ancient people used graphite to sign possession and number of <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span>.</p>\n<p>In the eighteenth century, the <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span> protect the mines when the value of graphite was realized.</p>\n<p>During the reign of Elizabeth I, people was condemnable if they steal or receive the \"was\".</p>\n<p>Russian astronauts preferred <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span> pencils to write in the outer space.</p>"
+     },
+     {
+      "type": "mcq",
+      "title": "Questions 34-35: Multiple Choice",
+      "questions": [
+       {
+        "id": 34,
+        "text": "Which statement is FALSE according to the passage?",
+        "options": [
+         {
+          "text": "Italy is probably the first country in the whole world to make pencils.",
+          "letter": "A"
+         },
+         {
+          "text": "The European pencil grading system uses 'B' for black and 'H' for hard.",
+          "letter": "B"
+         },
+         {
+          "text": "American astronauts did not replace mechanical pencils immediately after the zero-gravity pencils were invented.",
+          "letter": "C"
+         },
+         {
+          "text": "Graphite makes a pencil harder and sharper.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 35,
+        "text": "What is the writer's conclusion in the reading passage?",
+        "options": [
+         {
+          "text": "Pencils will soon become obsolete in the digitized world.",
+          "letter": "A"
+         },
+         {
+          "text": "Artists and students are using less and less each year even though they are everywhere",
+          "letter": "B"
+         },
+         {
+          "text": "Using pencil is becoming more common than anytime now",
+          "letter": "C"
+         },
+         {
+          "text": "Other than architects, waiters and students, people doesn't use pencil commonly and have already been replaced by tablet sketch pads and digital blueprint",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "For questions 34-35, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."
+     }
+    ]
+   }
+  ],
+  "examDate": "2026-04-08",
+  "testInfo": {
+   "level": "",
+   "parts": 5,
+   "title": "CEFR B1-B2-C1 Reading Test 08",
+   "totalTime": 60,
+   "totalQuestions": 35
+  }
+ },
+ "created_at": "2026-05-12T16:21:15.639065+00:00",
+ "updated_at": "2026-10-11T10:54:25.762211+00:00"
+}

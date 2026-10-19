@@ -1,0 +1,926 @@
+{
+ "id": 2252,
+ "mock_type": "ket-reading-writing",
+ "mock_number": 18,
+ "title": "KET Reading & Writing — Test 18",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "match-notices",
+    "items": [
+     {
+      "id": 1,
+      "answer": "D",
+      "prompt": "You must have a ticket to go past here."
+     },
+     {
+      "id": 2,
+      "answer": "H",
+      "prompt": "If you want to travel Monday to Friday, this ticket is cheaper."
+     },
+     {
+      "id": 3,
+      "answer": "B",
+      "prompt": "Please let anybody carrying a lot of luggage sit here."
+     },
+     {
+      "id": 4,
+      "answer": "A",
+      "prompt": "You can only buy your ticket here if you have cash."
+     },
+     {
+      "id": 5,
+      "answer": "E",
+      "prompt": "People who are travelling can eat something here."
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "G",
+     "number": 0,
+     "prompt": "This is not a good place to leave your bags."
+    },
+    "notices": [
+     {
+      "text": "These ticket machines\ntake £20 and £10\nNo credit cards",
+      "letter": "A"
+     },
+     {
+      "text": "These seats are for people with\nheavy suitcases",
+      "letter": "B"
+     },
+     {
+      "text": "Sorry – restaurant is closed on\ntoday's London-Glasgow train",
+      "letter": "C"
+     },
+     {
+      "text": "Passengers only through this gate.\nHave your ticket ready",
+      "letter": "D"
+     },
+     {
+      "text": "Station Café open all day\n(opposite ticket office)",
+      "letter": "E"
+     },
+     {
+      "text": "Passengers with bicycles\npay £5 extra on this train",
+      "letter": "F"
+     },
+     {
+      "text": "Please do not leave\nluggage here",
+      "letter": "G"
+     },
+     {
+      "text": "Save money.\nBuy a weekly travel ticket here",
+      "letter": "H"
+     }
+    ],
+    "partNumber": 1,
+    "instruction": [
+     "Which notice (A–H) says this (1–5)?",
+     "For questions 1–5, mark the correct letter A–H on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "mcq-gap-fill-sentences",
+    "items": [
+     {
+      "id": 6,
+      "answer": "A",
+      "options": [
+       {
+        "text": "spend",
+        "letter": "A"
+       },
+       {
+        "text": "keep",
+        "letter": "B"
+       },
+       {
+        "text": "stay",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Maria likes to _____ a lot of time at the lake."
+     },
+     {
+      "id": 7,
+      "answer": "B",
+      "options": [
+       {
+        "text": "light",
+        "letter": "A"
+       },
+       {
+        "text": "clear",
+        "letter": "B"
+       },
+       {
+        "text": "nice",
+        "letter": "C"
+       }
+      ],
+      "sentence": "The water there is warm and beautifully _____."
+     },
+     {
+      "id": 8,
+      "answer": "A",
+      "options": [
+       {
+        "text": "goes",
+        "letter": "A"
+       },
+       {
+        "text": "plays",
+        "letter": "B"
+       },
+       {
+        "text": "wants",
+        "letter": "C"
+       }
+      ],
+      "sentence": "In the summer, Maria sometimes _____ swimming in the lake."
+     },
+     {
+      "id": 9,
+      "answer": "C",
+      "options": [
+       {
+        "text": "stand",
+        "letter": "A"
+       },
+       {
+        "text": "live",
+        "letter": "B"
+       },
+       {
+        "text": "grow",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Some beautiful flowers _____ near the lake."
+     },
+     {
+      "id": 10,
+      "answer": "A",
+      "options": [
+       {
+        "text": "food",
+        "letter": "A"
+       },
+       {
+        "text": "meal",
+        "letter": "B"
+       },
+       {
+        "text": "dish",
+        "letter": "C"
+       }
+      ],
+      "sentence": "When she goes to the lake, Maria usually takes some _____ with her."
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "text": "visit",
+       "letter": "A"
+      },
+      {
+       "text": "arrive",
+       "letter": "B"
+      },
+      {
+       "text": "walk",
+       "letter": "C"
+      }
+     ],
+     "sentence": "On sunny afternoons, Maria likes to _____ around the lake near her house."
+    },
+    "partNumber": 2,
+    "instruction": [
+     "Read the sentences about a lake.",
+     "Choose the best word (A, B or C) for each space.",
+     "For questions 6–10, mark A, B or C on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-response",
+    "items": [
+     {
+      "id": 11,
+      "answer": "A",
+      "prompt": "Shall we invite Mary to stay next weekend?",
+      "options": [
+       {
+        "text": "You decide.",
+        "letter": "A"
+       },
+       {
+        "text": "It's for you.",
+        "letter": "B"
+       },
+       {
+        "text": "You make it.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "answer": "A",
+      "prompt": "When can we meet again?",
+      "options": [
+       {
+        "text": "When are you free?",
+        "letter": "A"
+       },
+       {
+        "text": "It was two days ago.",
+        "letter": "B"
+       },
+       {
+        "text": "Can you help me?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "answer": "A",
+      "prompt": "Why don't we eat out in a restaurant tonight?",
+      "options": [
+       {
+        "text": "That's a good idea.",
+        "letter": "A"
+       },
+       {
+        "text": "I hope so.",
+        "letter": "B"
+       },
+       {
+        "text": "What a pity.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "answer": "C",
+      "prompt": "We'll have to meet outside the stadium.",
+      "options": [
+       {
+        "text": "Can you do it?",
+        "letter": "A"
+       },
+       {
+        "text": "Have you?",
+        "letter": "B"
+       },
+       {
+        "text": "At what time?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "answer": "B",
+      "prompt": "Can I try this shoe in a larger size, please?",
+      "options": [
+       {
+        "text": "That'll be very nice.",
+        "letter": "A"
+       },
+       {
+        "text": "Let me check for you.",
+        "letter": "B"
+       },
+       {
+        "text": "I can't understand it.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "prompt": "Where do you come from?",
+     "options": [
+      {
+       "text": "New York.",
+       "letter": "A"
+      },
+      {
+       "text": "School.",
+       "letter": "B"
+      },
+      {
+       "text": "Home.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partLetter": "a",
+    "partNumber": 3,
+    "instruction": [
+     "Complete the five conversations.",
+     "For questions 11–15, mark A, B or C on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "type": "match-dialogue",
+    "items": [
+     {
+      "id": 16,
+      "answer": "B"
+     },
+     {
+      "id": 17,
+      "answer": "E"
+     },
+     {
+      "id": 18,
+      "answer": "C"
+     },
+     {
+      "id": 19,
+      "answer": "H"
+     },
+     {
+      "id": 20,
+      "answer": "A"
+     }
+    ],
+    "example": {
+     "answer": "D",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "Are you sure? Shall I check?",
+      "letter": "A"
+     },
+     {
+      "text": "I've done some of the homework already, Mum.",
+      "letter": "B"
+     },
+     {
+      "text": "Great! A chocolate one like last year?",
+      "letter": "C"
+     },
+     {
+      "text": "Just another half hour, Mum. Please.",
+      "letter": "D"
+     },
+     {
+      "text": "Oh. What do you want me to do?",
+      "letter": "E"
+     },
+     {
+      "text": "I made Grandma a birthday card.",
+      "letter": "F"
+     },
+     {
+      "text": "Can you do that next?",
+      "letter": "G"
+     },
+     {
+      "text": "There are some in the fridge.",
+      "letter": "H"
+     }
+    ],
+    "dialogue": [
+     {
+      "line": "Kate, please stop watching TV now and do your homework.",
+      "speaker": "Mother"
+     },
+     {
+      "gap": 0,
+      "speaker": "Kate"
+     },
+     {
+      "line": "Sorry. You've got a lot to do tonight. Remember?",
+      "speaker": "Mother"
+     },
+     {
+      "gap": 16,
+      "speaker": "Kate"
+     },
+     {
+      "line": "That's good. You can help me later, then.",
+      "speaker": "Mother"
+     },
+     {
+      "gap": 17,
+      "speaker": "Kate"
+     },
+     {
+      "line": "I'm making a cake for Grandma's birthday. You can help with it.",
+      "speaker": "Mother"
+     },
+     {
+      "gap": 18,
+      "speaker": "Kate"
+     },
+     {
+      "line": "Let's try something different. A lemon one perhaps, if we've got enough lemons.",
+      "speaker": "Mother"
+     },
+     {
+      "gap": 19,
+      "speaker": "Kate"
+     },
+     {
+      "line": "Good. I think I've got everything else we need.",
+      "speaker": "Mother"
+     },
+     {
+      "gap": 20,
+      "speaker": "Kate"
+     },
+     {
+      "line": "I'll do that. You finish your homework!",
+      "speaker": "Mother"
+     }
+    ],
+    "partLetter": "b",
+    "partNumber": 3,
+    "instruction": [
+     "Complete the conversation between Kate and her mother.",
+     "What does Kate say to her mother?",
+     "For questions 16–20, mark the correct letter A–H on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "type": "match-three-texts",
+    "items": [
+     {
+      "id": 21,
+      "answer": "B",
+      "prompt": "Who had more than one sister or brother?"
+     },
+     {
+      "id": 22,
+      "answer": "C",
+      "prompt": "Who enjoyed other subjects as well as music?"
+     },
+     {
+      "id": 23,
+      "answer": "B",
+      "prompt": "Who studied in another country for two years?"
+     },
+     {
+      "id": 24,
+      "answer": "C",
+      "prompt": "Who was the youngest to begin playing the piano?"
+     },
+     {
+      "id": 25,
+      "answer": "A",
+      "prompt": "Who had music lessons with someone who wasn't a piano player?"
+     },
+     {
+      "id": 26,
+      "answer": "B",
+      "prompt": "Who did well in music competitions?"
+     },
+     {
+      "id": 27,
+      "answer": "A",
+      "prompt": "Who also wrote music?"
+     }
+    ],
+    "label": "PART 4",
+    "texts": [
+     {
+      "body": "Ivan was born on a farm in Russia, but from the age of twelve to eighteen he studied in Poland. His first music teacher couldn't play the piano but taught him and his sister songs from the opera. His mother began to teach him the piano when he was six. At ten, he decided that he wanted to write music too, and he soon started on his first song.",
+      "title": "Ivan Petrov",
+      "letter": "A"
+     },
+     {
+      "body": "Oleg was the youngest of five children and when he was four years old his father, who liked playing the piano, taught him some traditional Russian music. When he was six, he started having lessons with a piano teacher who lived in the same city. Oleg soon began to win prizes for his piano playing. At the age of fourteen, he went to a music college in Austria for two years. Later, he returned home to Russia.",
+      "title": "Oleg Gagarin",
+      "letter": "B"
+     },
+     {
+      "body": "Josef's father was German but he taught music in Poland where Josef was born. The family moved to Germany when Josef was two, and a year later he started playing the piano. He gave his first concert when he was six. At ten, he gave fifty-two concerts in two months during a trip to England! Josef always liked music but he was also interested in physics and languages. He is too busy now but one day he would like to write his own music.",
+      "title": "Josef Heptmann",
+      "letter": "C"
+     }
+    ],
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "prompt": "Who lived in the countryside when he was young?"
+    },
+    "heading": "Piano players – when they were young",
+    "partNumber": 4,
+    "instruction": [
+     "Read the article about three piano players.",
+     "For questions 21–27, mark A, B or C on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 21–27"
+   },
+   {
+    "type": "mcq-cloze-passage",
+    "items": [
+     {
+      "id": 28,
+      "answer": "C",
+      "options": [
+       {
+        "text": "be",
+        "letter": "A"
+       },
+       {
+        "text": "being",
+        "letter": "B"
+       },
+       {
+        "text": "been",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 29,
+      "answer": "C",
+      "options": [
+       {
+        "text": "before",
+        "letter": "A"
+       },
+       {
+        "text": "yet",
+        "letter": "B"
+       },
+       {
+        "text": "ago",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 30,
+      "answer": "A",
+      "options": [
+       {
+        "text": "in",
+        "letter": "A"
+       },
+       {
+        "text": "on",
+        "letter": "B"
+       },
+       {
+        "text": "for",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 31,
+      "answer": "C",
+      "options": [
+       {
+        "text": "opposite",
+        "letter": "A"
+       },
+       {
+        "text": "through",
+        "letter": "B"
+       },
+       {
+        "text": "between",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 32,
+      "answer": "B",
+      "options": [
+       {
+        "text": "many",
+        "letter": "A"
+       },
+       {
+        "text": "much",
+        "letter": "B"
+       },
+       {
+        "text": "most",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 33,
+      "answer": "B",
+      "options": [
+       {
+        "text": "one",
+        "letter": "A"
+       },
+       {
+        "text": "each",
+        "letter": "B"
+       },
+       {
+        "text": "every",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 34,
+      "answer": "A",
+      "options": [
+       {
+        "text": "is",
+        "letter": "A"
+       },
+       {
+        "text": "are",
+        "letter": "B"
+       },
+       {
+        "text": "was",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 35,
+      "answer": "B",
+      "options": [
+       {
+        "text": "some",
+        "letter": "A"
+       },
+       {
+        "text": "any",
+        "letter": "B"
+       },
+       {
+        "text": "all",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 5",
+    "example": {
+     "answer": "B",
+     "number": 0,
+     "options": [
+      {
+       "text": "already",
+       "letter": "A"
+      },
+      {
+       "text": "ever",
+       "letter": "B"
+      },
+      {
+       "text": "then",
+       "letter": "C"
+      }
+     ]
+    },
+    "passage": "From the first history books {0} written, it is clear that horse racing has always {28} an important sport. It started in Central Asia about 4,500 years {29} and was a favourite sport in both Greek and Roman times.\n\nModern horse racing began when Arab horses were brought to Europe {30} the 12th century. At first, races were long and {31} just two horses, but at the beginning of the 18th century this changed. Races became {32} shorter and had several horses running against {33} other.\n\nToday, horse racing {34} watched by more people than {35} other sport in the USA, except baseball. It is also very popular in other parts of the world.",
+    "partNumber": 5,
+    "instruction": [
+     "Read the article about horse racing.",
+     "Choose the best word (A, B or C) for each space.",
+     "For questions 28–35, mark A, B or C on your answer sheet."
+    ],
+    "passageTitle": "The history of horse racing",
+    "questionsLabel": "QUESTIONS 28–35"
+   },
+   {
+    "type": "vocab-first-letter",
+    "items": [
+     {
+      "id": 36,
+      "answer": "library",
+      "prompt": "This place has many books for you to read, but you cannot keep them.",
+      "letters": 7,
+      "firstLetter": "l"
+     },
+     {
+      "id": 37,
+      "answer": "newspaper",
+      "prompt": "You read this to find out what is happening in the world.",
+      "letters": 9,
+      "firstLetter": "n"
+     },
+     {
+      "id": 38,
+      "answer": "message",
+      "prompt": "You may need to write this if you answer the phone for another person.",
+      "letters": 7,
+      "firstLetter": "m"
+     },
+     {
+      "id": 39,
+      "answer": "board",
+      "prompt": "The teacher writes on this and everyone in the class can see it.",
+      "letters": 5,
+      "firstLetter": "b"
+     },
+     {
+      "id": 40,
+      "answer": "postcard",
+      "prompt": "If you go on holiday, you may write this and send it to a friend.",
+      "letters": 8,
+      "firstLetter": "p"
+     }
+    ],
+    "label": "PART 6",
+    "example": {
+     "answer": "diary",
+     "number": 0,
+     "prompt": "You may write your appointments in this.",
+     "firstLetter": "d"
+    },
+    "partNumber": 6,
+    "instruction": [
+     "Read the descriptions of some words about reading and writing.",
+     "What is the word for each one?",
+     "The first letter is already there. There is one space for each other letter in the word.",
+     "For questions 36–40, write the words on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 36–40"
+   },
+   {
+    "type": "open-cloze-letter",
+    "items": [
+     {
+      "id": 41,
+      "answer": "with"
+     },
+     {
+      "id": 42,
+      "answer": "be"
+     },
+     {
+      "id": 43,
+      "answer": "on"
+     },
+     {
+      "id": 44,
+      "answer": "have"
+     },
+     {
+      "id": 45,
+      "answer": "are"
+     },
+     {
+      "id": 46,
+      "answer": "to"
+     },
+     {
+      "id": 47,
+      "answer": "of"
+     },
+     {
+      "id": 48,
+      "answer": "lot"
+     },
+     {
+      "id": 49,
+      "answer": "Would"
+     },
+     {
+      "id": 50,
+      "answer": "or"
+     }
+    ],
+    "label": "PART 7",
+    "example": {
+     "answer": "a",
+     "number": 0
+    },
+    "letters": [
+     {
+      "body": "I have (Example: a) problem and I need your help. Can you come shopping {41} me tomorrow? My grandmother is going to {42} 80 next month and she is having a party {43} Saturday.\n\nThe problem is I don't have anything to wear. I {44} grown so much that all my trousers {45} too short for me now! I want {46} buy some new ones and maybe a pair {47} boots. I haven't got a {48} of money to spend but I think it will be enough.\n\n{49} you like to meet me in the morning {50} the afternoon? Let me know.",
+      "closing": "Sarika",
+      "greeting": "Indre,"
+     }
+    ],
+    "partNumber": 7,
+    "instruction": [
+     "Complete the note.",
+     "Write ONE word for each space.",
+     "For questions 41–50, write the words on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 41–50"
+   },
+   {
+    "note": {
+     "body": "",
+     "dateLine": "",
+     "signature": ""
+    },
+    "rows": [
+     {
+      "label": "Friday  Go to:",
+      "prefilled": "Edinburgh"
+     },
+     {
+      "id": 51,
+      "label": "Friday  Travel by:",
+      "answer": "train"
+     },
+     {
+      "id": 52,
+      "label": "Friday  Name of hotel:",
+      "answer": "Regent"
+     },
+     {
+      "id": 53,
+      "label": "Saturday  Tour of:",
+      "answer": "cathedral"
+     },
+     {
+      "id": 54,
+      "label": "Saturday  One ticket costs:",
+      "answer": "5.50",
+      "suffix": "£"
+     },
+     {
+      "id": 55,
+      "label": "Sunday  Tour of:",
+      "answer": "castle"
+     }
+    ],
+    "type": "info-transfer-notes",
+    "label": "PART 8",
+    "notice": {
+     "body": "Tartan Tours\nSee Edinburgh with us\n\nTours of:   Cathedral (10 am)\n            Castle (2 pm)\n\nTickets:    £5.50 (if you book)\n            £6.50 (on day)\n\n—————————————\nFrom: Janet\nTo:   Sara\n\nSara,\n\nIt's too expensive to go by plane to Edinburgh on Friday, so I've got us train tickets. I've booked the Regent Hotel for two nights because the Ashley Hotel was full. Let's do a morning tour on Saturday – can you book the tickets for this? And we'll do the afternoon tour on Sunday.",
+     "title": "Tartan Tours + Email"
+    },
+    "notesTitle": "Sara's notes",
+    "partNumber": 8,
+    "instruction": [
+     "Read the advertisement and the email.",
+     "Fill in the information in Sara's notes.",
+     "For questions 51–55, write the information on your answer sheet."
+    ],
+    "notesSubtitle": "",
+    "questionsLabel": "QUESTIONS 51–55"
+   },
+   {
+    "type": "writing-postcard",
+    "items": [
+     {
+      "id": 56,
+      "type": "free-text",
+      "answer": "Dear Marey,\nHow are you? I watched a competition horse riding in the evening. I watched this competition with my friend called Tome. I like horse riding because my father likes it too.\nWith my best wishes,\nMohamad",
+      "maxWords": 35,
+      "minWords": 25
+     }
+    ],
+    "label": "PART 9",
+    "footer": [
+     "Write 25–35 words.",
+     "Write the note on your answer sheet."
+    ],
+    "prompt": "You have just watched a sports competition. Write a note about it to your English friend.",
+    "wordCount": "25–35 words",
+    "partNumber": 9,
+    "instruction": [
+     "You have just watched a sports competition. Write a note about it to your English friend.",
+     "Say:",
+     "• which sport you watched",
+     "• who you watched the competition with",
+     "• why you liked the competition."
+    ],
+    "questionsLabel": "QUESTION 56",
+    "promptSignature": ""
+   }
+  ],
+  "testInfo": {
+   "id": "ket-rw-18",
+   "level": "A2",
+   "paper": "Paper 1",
+   "parts": 9,
+   "title": "KET Reading & Writing — Test 18",
+   "totalTime": 70,
+   "totalQuestions": 56
+  }
+ },
+ "created_at": "2026-10-14T06:45:08.720042+00:00",
+ "updated_at": "2026-10-14T06:46:55.852516+00:00"
+}

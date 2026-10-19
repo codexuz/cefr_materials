@@ -1,0 +1,461 @@
+{
+ "id": 2279,
+ "mock_type": "ket-listening",
+ "mock_number": 17,
+ "title": "KET Listening — Test 17",
+ "status": "published",
+ "mock_data": {
+  "audio": {
+   "base": "https://audio.mock-stream.com/KET-Listening/test17/",
+   "files": {
+    "1": "PART1.m4a",
+    "2": "PART2.m4a",
+    "3": "PART3.m4a",
+    "4": "PART4.m4a",
+    "5": "PART5.m4a"
+   }
+  },
+  "parts": [
+   {
+    "type": "picture-mcq",
+    "items": [
+     {
+      "id": 1,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q1A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q1B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q1C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "How will Jill go to the football match?"
+     },
+     {
+      "id": 2,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q2A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q2B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q2C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Who's going to visit the woman?"
+     },
+     {
+      "id": 3,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q3A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q3B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q3C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What will Ruby do tonight?"
+     },
+     {
+      "id": 4,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q4A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q4B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q4C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "How much did the woman's desk cost?"
+     },
+     {
+      "id": 5,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q5A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q5B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q5C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Where is the man's watch?"
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "image": "q0A.png",
+       "letter": "A"
+      },
+      {
+       "image": "q0B.png",
+       "letter": "B"
+      },
+      {
+       "image": "q0C.png",
+       "letter": "C"
+      }
+     ],
+     "question": "How many people were at the meeting?"
+    },
+    "imageBase": "https://audio.mock-stream.com/KET-Listening/test17/p1/",
+    "partNumber": 1,
+    "instruction": [
+     "You will hear five short conversations.",
+     "You will hear each conversation twice.",
+     "There is one question for each conversation.",
+     "For questions 1–5, put a tick (✓) under the right answer."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "matching-list",
+    "items": [
+     {
+      "id": 6,
+      "name": "Carla's Café",
+      "answer": "G"
+     },
+     {
+      "id": 7,
+      "name": "Pizza Place",
+      "answer": "C"
+     },
+     {
+      "id": 8,
+      "name": "Curry House",
+      "answer": "E"
+     },
+     {
+      "id": 9,
+      "name": "Captain Crab",
+      "answer": "F"
+     },
+     {
+      "id": 10,
+      "name": "Carlton Hotel",
+      "answer": "D"
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "name": "Rose Garden",
+     "answer": "B",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "closed",
+      "letter": "A"
+     },
+     {
+      "text": "cold",
+      "letter": "B"
+     },
+     {
+      "text": "dark",
+      "letter": "C"
+     },
+     {
+      "text": "expensive",
+      "letter": "D"
+     },
+     {
+      "text": "full",
+      "letter": "E"
+     },
+     {
+      "text": "noisy",
+      "letter": "F"
+     },
+     {
+      "text": "small",
+      "letter": "G"
+     },
+     {
+      "text": "unfriendly",
+      "letter": "H"
+     }
+    ],
+    "scenario": "Lena talking about some restaurants — problems",
+    "leftLabel": "Restaurants",
+    "partNumber": 2,
+    "rightLabel": "Problems",
+    "instruction": [
+     "Listen to Lena talking to a friend about some restaurants.",
+     "What is the problem with each one?",
+     "For questions 6–10, write a letter A–H next to each restaurant.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-conversation",
+    "items": [
+     {
+      "id": 11,
+      "stem": "Sam agrees to play the guitar on",
+      "answer": "B",
+      "options": [
+       {
+        "text": "Wednesday.",
+        "letter": "A"
+       },
+       {
+        "text": "Thursday.",
+        "letter": "B"
+       },
+       {
+        "text": "Friday.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "stem": "Where does Nick's band practise?",
+      "answer": "A",
+      "options": [
+       {
+        "text": "in a garage",
+        "letter": "A"
+       },
+       {
+        "text": "at Helen's flat",
+        "letter": "B"
+       },
+       {
+        "text": "in Nick's bedroom",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "stem": "Sam should bring",
+      "answer": "C",
+      "options": [
+       {
+        "text": "sandwiches.",
+        "letter": "A"
+       },
+       {
+        "text": "CDs.",
+        "letter": "B"
+       },
+       {
+        "text": "a sweater.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "stem": "The band will next play at",
+      "answer": "C",
+      "options": [
+       {
+        "text": "a party.",
+        "letter": "A"
+       },
+       {
+        "text": "a club.",
+        "letter": "B"
+       },
+       {
+        "text": "a college.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "stem": "How much does Helen earn, per night, in the band?",
+      "answer": "B",
+      "options": [
+       {
+        "text": "£10",
+        "letter": "A"
+       },
+       {
+        "text": "£25",
+        "letter": "B"
+       },
+       {
+        "text": "£110",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "stem": "In Nick's band, Helen",
+     "answer": "B",
+     "number": 0,
+     "options": [
+      {
+       "text": "plays the guitar.",
+       "letter": "A"
+      },
+      {
+       "text": "sings.",
+       "letter": "B"
+      },
+      {
+       "text": "plays the drums.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partNumber": 3,
+    "instruction": [
+     "Listen to Helen talking to her friend, Sam, about being in a rock band.",
+     "For questions 11–15, tick (✓) A, B or C.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "rows": [
+     {
+      "id": 16,
+      "label": "Date of party:",
+      "answer": "7",
+      "suffix": "September"
+     },
+     {
+      "id": 17,
+      "label": "Day of party:",
+      "answer": "Saturday"
+     },
+     {
+      "label": "Place:",
+      "prefilled": "Margaret's house"
+     },
+     {
+      "id": 18,
+      "label": "Margaret's new surname:",
+      "answer": "JAGGARD"
+     },
+     {
+      "id": 19,
+      "label": "Margaret's address:",
+      "answer": "Park",
+      "prefix": "11",
+      "suffix": "Road"
+     },
+     {
+      "id": 20,
+      "label": "Bring:",
+      "answer": "photos"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 4",
+    "subtitle": "For pupils from: Romford School",
+    "noteTitle": "Party for old school friends",
+    "partNumber": 4,
+    "instruction": [
+     "You will hear a man talking on the telephone about a party.",
+     "Listen and complete questions 16–20.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "rows": [
+     {
+      "id": 21,
+      "label": "Closed during month of:",
+      "answer": "March"
+     },
+     {
+      "id": 22,
+      "label": "Watch a film about the sea in:",
+      "answer": "Visitors",
+      "prefix": "The",
+      "suffix": "Centre"
+     },
+     {
+      "id": 23,
+      "label": "Dolphin show starts at:",
+      "answer": "2.15",
+      "suffix": "p.m."
+     },
+     {
+      "id": 24,
+      "label": "Shop sells:",
+      "answer": "toys",
+      "suffix": "and books"
+     },
+     {
+      "id": 25,
+      "label": "Child's ticket costs:",
+      "answer": "4.25",
+      "prefix": "£"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 5",
+    "subtitle": "Open: Tuesday–Sunday",
+    "noteTitle": "Sea World",
+    "partNumber": 5,
+    "instruction": [
+     "You will hear some information about a place called Sea World.",
+     "Listen and complete questions 21–25.",
+     "You will hear the information twice."
+    ],
+    "questionsLabel": "QUESTIONS 21–25"
+   }
+  ],
+  "testInfo": {
+   "id": "ket-l-17",
+   "level": "A2",
+   "paper": "Paper 2",
+   "parts": 5,
+   "title": "KET Listening — Test 17",
+   "totalTime": 30,
+   "totalQuestions": 25
+  }
+ },
+ "created_at": "2026-10-14T06:45:28.077319+00:00",
+ "updated_at": "2026-10-14T06:47:14.208059+00:00"
+}

@@ -1,0 +1,567 @@
+{
+ "id": 1738,
+ "mock_type": "vocabulary",
+ "mock_number": 270,
+ "title": "Robotics & Automation — Advanced",
+ "status": "published",
+ "mock_data": {
+  "slug": "robotics-automation01-advanced",
+  "type": "vocabulary",
+  "level": "advanced",
+  "imageUrl": "https://audio.mock-stream.com/cefr-vocab/robotics-automation01/image.jpg",
+  "questions": [
+   {
+    "def": "boshqarildi",
+    "type": "Fill in the blank:",
+    "level": "C1–C2",
+    "correct": "governed",
+    "options": [
+     "governed",
+     "suggested",
+     "controlled",
+     "prompted"
+    ],
+    "meanings": {
+     "prompted": "rag'batlantirildi",
+     "suggested": "tavsiya qilindi",
+     "controlled": "nazorat qilindi"
+    },
+    "question": "The robot's movements were <b>___</b> by sensors."
+   },
+   {
+    "def": "mustaqil",
+    "type": "Find the SYNONYM:",
+    "level": "C1–C2",
+    "correct": "self-governing",
+    "options": [
+     "self-governing",
+     "manual",
+     "dependent",
+     "faulty"
+    ],
+    "meanings": {
+     "faulty": "nuqsonli",
+     "manual": "qo'lda",
+     "dependent": "qaram"
+    },
+    "question": "What is a synonym for <b>autonomous</b>?"
+   },
+   {
+    "def": "aniqlik",
+    "type": "Find the ANTONYM:",
+    "level": "C1–C2",
+    "correct": "deterministic",
+    "options": [
+     "deterministic",
+     "random",
+     "unpredictable",
+     "probabilistic"
+    ],
+    "meanings": {
+     "random": "tasodifiy",
+     "probabilistic": "ehtimollik asosida",
+     "unpredictable": "oldindan aytib bo'lmaydigan"
+    },
+    "question": "What is the opposite of <b>stochastic</b>?"
+   },
+   {
+    "def": "Harakatni keltirib chiqaradigan komponent",
+    "type": "What does it mean?",
+    "level": "C1–C2",
+    "correct": "Component that causes motion",
+    "options": [
+     "Component that causes motion",
+     "A type of sensor",
+     "A coding language",
+     "A robot's brain"
+    ],
+    "meanings": {
+     "A robot's brain": "Robotning miyasi",
+     "A type of sensor": "Sensor turi",
+     "A coding language": "Dasturlash tili"
+    },
+    "question": "What does <b>actuator</b> mean?"
+   },
+   {
+    "def": "algoritmik savdo",
+    "type": "Complete the collocation:",
+    "level": "C1–C2",
+    "correct": "trading",
+    "options": [
+     "trading",
+     "design",
+     "development",
+     "thinking"
+    ],
+    "meanings": {
+     "design": "dizayn",
+     "thinking": "fikrlash",
+     "development": "rivojlanish"
+    },
+    "question": "algorithmic <b>___</b>"
+   },
+   {
+    "def": "Eng zamonaviy texnologiya",
+    "type": "What does this phrase mean?",
+    "level": "C1–C2",
+    "correct": "Most advanced technology",
+    "options": [
+     "Most advanced technology",
+     "Old-fashioned technology",
+     "Cheap technology",
+     "Average technology"
+    ],
+    "meanings": {
+     "Cheap technology": "Arzon texnologiya",
+     "Average technology": "O'rtacha texnologiya",
+     "Old-fashioned technology": "Eski texnologiya"
+    },
+    "question": "What does <b>state-of-the-art</b> mean?"
+   },
+   {
+    "def": "avtomatlashtirish",
+    "type": "Fill in the blank:",
+    "level": "C1–C2",
+    "correct": "automation",
+    "options": [
+     "automation",
+     "handcraft",
+     "employees",
+     "outsourcing"
+    ],
+    "meanings": {
+     "employees": "ishchilar",
+     "handcraft": "qo'l mehnati",
+     "outsourcing": "autsorsing"
+    },
+    "question": "The factory used <b>___</b> to increase output."
+   },
+   {
+    "def": "harakat tahlili",
+    "type": "Find the SYNONYM:",
+    "level": "C1–C2",
+    "correct": "motion analysis",
+    "options": [
+     "motion analysis",
+     "force analysis",
+     "energy study",
+     "system design"
+    ],
+    "meanings": {
+     "energy study": "energiya o'rganish",
+     "system design": "tizim dizayni",
+     "force analysis": "kuch tahlili"
+    },
+    "question": "What is a synonym for <b>kinematics</b>?"
+   },
+   {
+    "def": "noqulay",
+    "type": "Find the ANTONYM:",
+    "level": "C1–C2",
+    "correct": "uncomfortable",
+    "options": [
+     "uncomfortable",
+     "efficient",
+     "comfortable",
+     "user-friendly"
+    ],
+    "meanings": {
+     "efficient": "samarali",
+     "comfortable": "qulay",
+     "user-friendly": "foydalanuvchiga qulay"
+    },
+    "question": "What is the opposite of <b>ergonomic</b>?"
+   },
+   {
+    "def": "Ma'lumotlardan o'rganadigan sun'iy intellekt",
+    "type": "What does it mean?",
+    "level": "C1–C2",
+    "correct": "AI that learns from data",
+    "options": [
+     "AI that learns from data",
+     "Manual programming",
+     "Simple calculations",
+     "Basic automation"
+    ],
+    "meanings": {
+     "Basic automation": "Oddiy avtomatlashtirish",
+     "Manual programming": "Qo'lda dasturlash",
+     "Simple calculations": "Oddiy hisoblar"
+    },
+    "question": "What does <b>machine learning</b> mean?"
+   },
+   {
+    "def": "inson-robot hamkorligi",
+    "type": "Complete the collocation:",
+    "level": "C1–C2",
+    "correct": "collaboration",
+    "options": [
+     "collaboration",
+     "conflict",
+     "replacement",
+     "control"
+    ],
+    "meanings": {
+     "control": "nazorat",
+     "conflict": "nizo",
+     "replacement": "almashtirish"
+    },
+    "question": "human-robot <b>___</b>"
+   },
+   {
+    "def": "O'ta zamonaviy va ilg'or",
+    "type": "What does this phrase mean?",
+    "level": "C1–C2",
+    "correct": "Extremely modern and advanced",
+    "options": [
+     "Extremely modern and advanced",
+     "Outdated and obsolete",
+     "Simple and basic",
+     "Cheap and affordable"
+    ],
+    "meanings": {
+     "Simple and basic": "Oddiy va asosiy",
+     "Cheap and affordable": "Arzon va hamyonbop",
+     "Outdated and obsolete": "Eskirgan va yaroqsiz"
+    },
+    "question": "What does <b>cutting-edge</b> mean?"
+   },
+   {
+    "def": "epchillik",
+    "type": "Fill in the blank:",
+    "level": "C1–C2",
+    "correct": "dexterity",
+    "options": [
+     "dexterity",
+     "size",
+     "color",
+     "weight"
+    ],
+    "meanings": {
+     "size": "hajmi",
+     "color": "rangi",
+     "weight": "og'irligi"
+    },
+    "question": "The <b>___</b> of the robotic arm was impressive."
+   },
+   {
+    "def": "masofadan boshqarish",
+    "type": "Find the SYNONYM:",
+    "level": "C1–C2",
+    "correct": "remote control",
+    "options": [
+     "remote control",
+     "manual labor",
+     "direct access",
+     "local network"
+    ],
+    "meanings": {
+     "manual labor": "qo'l mehnati",
+     "direct access": "to'g'ridan-to'g'ri kirish",
+     "local network": "mahalliy tarmoq"
+    },
+    "question": "What is a synonym for <b>teleoperation</b>?"
+   },
+   {
+    "def": "kam uchraydigan",
+    "type": "Find the ANTONYM:",
+    "level": "C1–C2",
+    "correct": "rare",
+    "options": [
+     "rare",
+     "common",
+     "frequent",
+     "widespread"
+    ],
+    "meanings": {
+     "common": "umumiy",
+     "frequent": "tez-tez",
+     "widespread": "keng tarqalgan"
+    },
+    "question": "What is the opposite of <b>ubiquitous</b>?"
+   },
+   {
+    "def": "Hamkor robot",
+    "type": "What does it mean?",
+    "level": "C1–C2",
+    "correct": "Collaborative robot",
+    "options": [
+     "Collaborative robot",
+     "Combat robot",
+     "Cheap robot",
+     "Complex robot"
+    ],
+    "meanings": {
+     "Cheap robot": "Arzon robot",
+     "Combat robot": "Jangovar robot",
+     "Complex robot": "Murakkab robot"
+    },
+    "question": "What does <b>cobot</b> mean?"
+   },
+   {
+    "def": "ilg'or sezish tizimlari",
+    "type": "Complete the collocation:",
+    "level": "C1–C2",
+    "correct": "sensing",
+    "options": [
+     "sensing",
+     "cooking",
+     "cleaning",
+     "driving"
+    ],
+    "meanings": {
+     "cooking": "pazandachilik",
+     "driving": "haydash",
+     "cleaning": "tozalash"
+    },
+    "question": "advanced <b>___</b> systems"
+   },
+   {
+    "def": "Texnik ishlar",
+    "type": "What does this phrase mean?",
+    "level": "C1–C2",
+    "correct": "Technical workings",
+    "options": [
+     "Technical workings",
+     "Visible parts",
+     "Exterior design",
+     "Marketing materials"
+    ],
+    "meanings": {
+     "Visible parts": "Ko'rinadigan qismlar",
+     "Exterior design": "Tashqi dizayn",
+     "Marketing materials": "Marketing materiallari"
+    },
+    "question": "What does <b>under the hood</b> mean?"
+   },
+   {
+    "def": "soddalashtirish",
+    "type": "Fill in the blank:",
+    "level": "C1–C2",
+    "correct": "streamline",
+    "options": [
+     "streamline",
+     "complicate",
+     "expand",
+     "delay"
+    ],
+    "meanings": {
+     "delay": "kechiktirish",
+     "expand": "kengaytirish",
+     "complicate": "murakkablashtirish"
+    },
+    "question": "The company hopes to <b>___</b> its production line soon."
+   },
+   {
+    "def": "integratsiyalashgan muhandislik",
+    "type": "Find the SYNONYM:",
+    "level": "C1–C2",
+    "correct": "integrated engineering",
+    "options": [
+     "integrated engineering",
+     "chemical engineering",
+     "software development",
+     "financial analysis"
+    ],
+    "meanings": {
+     "financial analysis": "moliyaviy tahlil",
+     "chemical engineering": "kimyo muhandisligi",
+     "software development": "dasturiy ta'minotni ishlab chiqish"
+    },
+    "question": "What is a synonym for <b>mechatronics</b>?"
+   },
+   {
+    "def": "noaniq",
+    "type": "Find the ANTONYM:",
+    "level": "C1–C2",
+    "correct": "vague",
+    "options": [
+     "vague",
+     "accurate",
+     "exact",
+     "definite"
+    ],
+    "meanings": {
+     "exact": "xuddi",
+     "accurate": "aniq",
+     "definite": "aniq"
+    },
+    "question": "What is the opposite of <b>precise</b>?"
+   },
+   {
+    "def": "Murakkab neyron tarmoqlar",
+    "type": "What does it mean?",
+    "level": "C1–C2",
+    "correct": "Complex neural networks",
+    "options": [
+     "Complex neural networks",
+     "Basic programming skills",
+     "Simple data analysis",
+     "Outdated technology"
+    ],
+    "meanings": {
+     "Outdated technology": "Eskirgan texnologiya",
+     "Simple data analysis": "Oddiy ma'lumotlar tahlili",
+     "Basic programming skills": "Dasturlashning asosiy ko'nikmalari"
+    },
+    "question": "What does <b>deep learning</b> mean?"
+   },
+   {
+    "def": "robotlashtirilgan yig'ish tizimi",
+    "type": "Complete the collocation:",
+    "level": "C1–C2",
+    "correct": "assembly",
+    "options": [
+     "assembly",
+     "destruction",
+     "disposal",
+     "creation"
+    ],
+    "meanings": {
+     "creation": "yaratish",
+     "disposal": "yo'qotish",
+     "destruction": "yo'q qilish"
+    },
+    "question": "robotic <b>___</b> system"
+   },
+   {
+    "def": "Boshidan boshlash",
+    "type": "What does this phrase mean?",
+    "level": "C1–C2",
+    "correct": "Start over from scratch",
+    "options": [
+     "Start over from scratch",
+     "Return to the office",
+     "Make minor adjustments",
+     "Give up completely"
+    ],
+    "meanings": {
+     "Give up completely": "Butunlay voz kechish",
+     "Return to the office": "Ofisga qaytish",
+     "Make minor adjustments": "Kichik tuzatishlar kiritish"
+    },
+    "question": "What does <b>back to the drawing board</b> mean?"
+   },
+   {
+    "def": "mo'ljallangan",
+    "type": "Fill in the blank:",
+    "level": "C1–C2",
+    "correct": "designed",
+    "options": [
+     "designed",
+     "forced",
+     "avoiding",
+     "unable"
+    ],
+    "meanings": {
+     "forced": "majbur qilingan",
+     "unable": "qodir emas",
+     "avoiding": "cheklaydi"
+    },
+    "question": "The robotic system is <b>___</b> to adapt to new environments."
+   },
+   {
+    "def": "samaradorlik",
+    "type": "Find the SYNONYM:",
+    "level": "C1–C2",
+    "correct": "effectiveness",
+    "options": [
+     "effectiveness",
+     "difficulty",
+     "complexity",
+     "simplicity"
+    ],
+    "meanings": {
+     "complexity": "murakkablik",
+     "difficulty": "qiyinchilik",
+     "simplicity": "sodda"
+    },
+    "question": "What is a synonym for <b>efficacy</b>?"
+   },
+   {
+    "def": "tanqislik",
+    "type": "Find the ANTONYM:",
+    "level": "C1–C2",
+    "correct": "scarcity",
+    "options": [
+     "scarcity",
+     "surplus",
+     "abundance",
+     "excess"
+    ],
+    "meanings": {
+     "excess": "ortiqcha",
+     "surplus": "ortiqcha",
+     "abundance": "mo'l-ko'llik"
+    },
+    "question": "What is the opposite of <b>redundancy</b>?"
+   },
+   {
+    "def": "Jismoniy ob'ektning virtual tasviri",
+    "type": "What does it mean?",
+    "level": "C1–C2",
+    "correct": "Virtual representation of physical object",
+    "options": [
+     "Virtual representation of physical object",
+     "Physical copy of data",
+     "Analog data storage",
+     "Outdated digital technology"
+    ],
+    "meanings": {
+     "Analog data storage": "Analog ma'lumotlarni saqlash",
+     "Physical copy of data": "Ma'lumotlarning jismoniy nusxasi",
+     "Outdated digital technology": "Eskirgan raqamli texnologiya"
+    },
+    "question": "What does <b>digital twin</b> mean?"
+   },
+   {
+    "def": "mustahkam nazorat tizimi",
+    "type": "Complete the collocation:",
+    "level": "C1–C2",
+    "correct": "control",
+    "options": [
+     "control",
+     "destruction",
+     "creation",
+     "design"
+    ],
+    "meanings": {
+     "design": "dizayn",
+     "creation": "yaratilish",
+     "destruction": "vayronagarchilik"
+    },
+    "question": "robust <b>___</b> system"
+   },
+   {
+    "def": "Nimadirni muvaffaqiyatli boshlash",
+    "type": "What does this phrase mean?",
+    "level": "C1–C2",
+    "correct": "Start something successfully",
+    "options": [
+     "Start something successfully",
+     "Fail completely",
+     "Postpone indefinitely",
+     "Make a lot of money"
+    ],
+    "meanings": {
+     "Fail completely": "Butunlay muvaffaqiyatsizlikka uchrash",
+     "Make a lot of money": "Ko'p pul ishlash",
+     "Postpone indefinitely": "Noaniq muddatga kechiktirish"
+    },
+    "question": "What does <b>get something off the ground</b> mean?"
+   }
+  ],
+  "topicBase": "robotics-automation01",
+  "levelLabel": "Advanced",
+  "displayName": "Robotics & Automation",
+  "imageCredit": {
+   "url": "https://www.pexels.com/photo/industrial-robot-arm-in-a-manufacturing-facility-34207359/",
+   "source": "Pexels",
+   "creator": "Freek Wolsink",
+   "license": "Pexels License",
+   "creatorUrl": "https://www.pexels.com/@freek-wolsink-508219"
+  }
+ },
+ "created_at": "2026-07-18T13:41:25.432193+00:00",
+ "updated_at": "2026-07-18T14:32:43.473793+00:00"
+}

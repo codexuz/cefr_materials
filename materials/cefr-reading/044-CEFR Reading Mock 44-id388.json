@@ -1,0 +1,688 @@
+{
+ "id": 388,
+ "mock_type": "cefr-reading",
+ "mock_number": 44,
+ "title": "CEFR Reading Mock 44",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "gap-fill-text",
+    "title": "Part 1",
+    "answers": {
+     "1": [
+      "leaves"
+     ],
+     "2": [
+      "sunlight"
+     ],
+     "3": [
+      "plants"
+     ],
+     "4": [
+      "autumn"
+     ],
+     "5": [
+      "food"
+     ],
+     "6": [
+      "animals"
+     ]
+    },
+    "passage": {
+     "title": "Autumn",
+     "content": "<p>Autumn is a season when the leaves on the trees change color and fall to the ground. The green color disappears as the <span class=\"gap-input\" data-gap=\"1\">_____(1)_____</span> lose a natural chemical called chlorophyll. This chemical is what helps plants make food using sunlight during spring and summer. When <span class=\"gap-input\" data-gap=\"2\">_____(2)_____</span> becomes weaker and days grow shorter in autumn, <span class=\"gap-input\" data-gap=\"3\">_____(3)_____</span> cannot produce enough food. As a result, the leaves turn yellow, orange, or red and eventually drop off. <span class=\"gap-input\" data-gap=\"4\">_____(4)_____</span> also affects animals. Some animals start to prepare for winter by collecting food and building shelters. Since there is less <span class=\"gap-input\" data-gap=\"5\">_____(5)_____</span> in winter, they must plan ahead. Bears and squirrels are good examples—they either store food or sleep through the cold months. In this season, both plants and <span class=\"gap-input\" data-gap=\"6\">_____(6)_____</span> change their behavior. They respond to changes in sunlight, temperature, and the availability of food. That’s what makes autumn so magical and important in nature.</p>"
+    },
+    "questions": [
+     {
+      "id": 1,
+      "hint": "ground. The green color disappears as the _____"
+     },
+     {
+      "id": 2,
+      "hint": "sunlight during spring and summer. When _____"
+     },
+     {
+      "id": 3,
+      "hint": "weaker and days grow shorter in autumn, _____"
+     },
+     {
+      "id": 4,
+      "hint": "orange, or red and eventually drop off. _____"
+     },
+     {
+      "id": 5,
+      "hint": "and building shelters. Since there is less _____"
+     },
+     {
+      "id": 6,
+      "hint": "months. In this season, both plants and _____"
+     }
+    ],
+    "partNumber": 1,
+    "instruction": "Read the text. Fill in each gap with ONE word. You must use a word which is somewhere in the rest of the text.",
+    "explanations": {
+     "q1": {
+      "text": "Javob matnning o'zidan olinadi — shu so'z boshqa gapda uchraydi.",
+      "quote": "Autumn is a season when the leaves on the trees change color and fall to the ground."
+     },
+     "q2": {
+      "text": "Javob matnning o'zidan olinadi — shu so'z boshqa gapda uchraydi.",
+      "quote": "This chemical is what helps plants make food using sunlight during spring and summer."
+     },
+     "q3": {
+      "text": "Javob matnning o'zidan olinadi — shu so'z boshqa gapda uchraydi.",
+      "quote": "This chemical is what helps plants make food using sunlight during spring and summer."
+     },
+     "q4": {
+      "text": "Javob matnning o'zidan olinadi — shu so'z boshqa gapda uchraydi.",
+      "quote": "Autumn is a season when the leaves on the trees change color and fall to the ground."
+     },
+     "q5": {
+      "text": "Javob matnning o'zidan olinadi — shu so'z boshqa gapda uchraydi.",
+      "quote": "This chemical is what helps plants make food using sunlight during spring and summer."
+     },
+     "q6": {
+      "text": "Javob matnning o'zidan olinadi — shu so'z boshqa gapda uchraydi.",
+      "quote": "(4) _______________ also affects animals."
+     }
+    },
+    "questionRange": "1-6"
+   },
+   {
+    "type": "matching",
+    "texts": [
+     {
+      "title": "Q7",
+      "number": 7,
+      "content": "Award-winning 30-seater restaurant specializing in fine seafood requires: RESTAURANT MANAGER Relevant experience and references essential. Excellent salary. Forward electronic CV to Mr Orlando Peracca"
+     },
+     {
+      "title": "Q8",
+      "number": 8,
+      "content": "Wallford Hotel • Well-maintained Victorian hotel centrally situated close to the sea • Picturesque private harbour with sailing school in walking distance"
+     },
+     {
+      "title": "Q9",
+      "number": 9,
+      "content": "SECOND CHEF For a busy country pub and restaurant in South Warwickshire. Minimum three years' experience."
+     },
+     {
+      "title": "Q10",
+      "number": 10,
+      "content": "The Highland Hotel Outdoor swimming pool (summer only) and boat hire possible. Ideal for touring in beautiful countryside, whisky tasting. Seminar arrangements for small groups."
+     },
+     {
+      "title": "Q11",
+      "number": 11,
+      "content": "WHITE HOUSE HOTEL Watford's most central and luxurious hotel, 87 en-suite bedrooms and excellent conference and banquet rooms."
+     },
+     {
+      "title": "Q12",
+      "number": 12,
+      "content": "Pendower Beach House Hotel Family-run hotel near Cornwall seeks responsible, self-motivated Chef for restaurant seating 40. Hotel flat available."
+     },
+     {
+      "title": "Q13",
+      "number": 13,
+      "content": "QUARLTON MANOR 17th century castle with spectacular views. Galleried dining hall serving acclaimed candlelight dinners for two with local food."
+     },
+     {
+      "title": "Q14",
+      "number": 14,
+      "content": "Assistant Manager Previous experience in the hotel/restaurant sector essential. If you have ambition and self-motivation apply now to: Ian Gray, Swans Hotel"
+     }
+    ],
+    "title": "Part 2",
+    "answers": {
+     "7": [
+      "G"
+     ],
+     "8": [
+      "A"
+     ],
+     "9": [
+      "B"
+     ],
+     "10": [
+      "C"
+     ],
+     "11": [
+      "E"
+     ],
+     "12": [
+      "I"
+     ],
+     "13": [
+      "D"
+     ],
+     "14": [
+      "F"
+     ]
+    },
+    "questions": [
+     {
+      "id": 7,
+      "textNumber": 7
+     },
+     {
+      "id": 8,
+      "textNumber": 8
+     },
+     {
+      "id": 9,
+      "textNumber": 9
+     },
+     {
+      "id": 10,
+      "textNumber": 10
+     },
+     {
+      "id": 11,
+      "textNumber": 11
+     },
+     {
+      "id": 12,
+      "textNumber": 12
+     },
+     {
+      "id": 13,
+      "textNumber": 13
+     },
+     {
+      "id": 14,
+      "textNumber": 14
+     }
+    ],
+    "partNumber": 2,
+    "statements": [
+     {
+      "text": "A friend wants to spend a holiday learning to handle a small boat.",
+      "letter": "A"
+     },
+     {
+      "text": "Your friend can cook and is looking for a job in an English pub.",
+      "letter": "B"
+     },
+     {
+      "text": "You are looking for a quiet hotel where you can organize a training seminar.",
+      "letter": "C"
+     },
+     {
+      "text": "You are looking for a hotel for a romantic weekend with your partner.",
+      "letter": "D"
+     },
+     {
+      "text": "You have been asked to find a hotel with facilities for large meetings and dinners.",
+      "letter": "E"
+     },
+     {
+      "text": "You have a lot of experience in the catering business and would like to help an English hotel.",
+      "letter": "F"
+     },
+     {
+      "text": "You want to run a restaurant and expect a high salary.",
+      "letter": "G"
+     },
+     {
+      "text": "You want to spend your holiday in the sea.",
+      "letter": "H"
+     },
+     {
+      "text": "You are a cook and are looking for a job with accommodation in a small hotel",
+      "letter": "I"
+     },
+     {
+      "text": "You and your partner are looking for catering jobs where you can live together in one place.",
+      "letter": "J"
+     }
+    ],
+    "instruction": "Read the texts 7-14 and the statements A-J. Decide which text matches with the situation described in the statements. Each statement can be used ONCE only. There are TWO extra statements which you do not need to use.",
+    "explanations": {},
+    "questionRange": "7-14",
+    "extraStatements": [
+     "H",
+     "J"
+    ],
+    "statementsFirst": true
+   },
+   {
+    "type": "matching-headings",
+    "title": "Part 3",
+    "answers": {
+     "15": [
+      "A"
+     ],
+     "16": [
+      "G"
+     ],
+     "17": [
+      "H"
+     ],
+     "18": [
+      "D"
+     ],
+     "19": [
+      "F"
+     ],
+     "20": [
+      "C"
+     ]
+    },
+    "passage": {
+     "title": "Types of Tourist Resorts",
+     "paragraphs": [
+      {
+       "number": "1",
+       "content": "A commercial establishment at a resort destination such as a recreational area, a scenic or historic site, a theme park, a gaming facility or other tourist attraction may compete with other businesses at a destination. Consequently, another quality of a this resort is that it offers food, drink, lodging, sports and entertainment, and shopping within the facility so that guests have no need to leave the facility throughout their stay."
+      },
+      {
+       "number": "2",
+       "content": "Towns which are resorts — or where tourism or vacationing is a major part of the local activity — are sometimes called resort towns. If they are by the sea they are called seaside resorts. Inland resorts include ski resorts, mountain resorts and spa towns. Towns such as Sochi in Russia, Sharm el Sheikh in Egypt, Bar- izo in Spain, Cortina d’Ampezzo in Italy, are wellknown resorts."
+      },
+      {
+       "number": "3",
+       "content": "A holiday village is a type of self-contained resort in Europe, where the accommodation is generally in villas. A holiday camp in the United Kingdom refers to a resort where the accommodation is in chalets. The term \"holiday park\" is used for a resort where the accommodation includes static caravans and chalets."
+      },
+      {
+       "number": "4",
+       "content": "In the United Kingdom, many seaside towns have turned to other entertainment industries, and some of them have a good deal of nightlife. The cinemas and theatres often remain to become host to a number of pubs, bars, restaurants and nightclubs. Most of their entertainment facilities cater to local people and the beaches still remain popular during the summer months."
+      },
+      {
+       "number": "5",
+       "content": "An all-inclusive resort charges a fixed price that includes most or all items. At a minimum, most inclusive resorts include lodging, unlimited food, drink, sports activities, and entertainment for the fixed price. In recent years, the number of resorts in the United States offering \"all-inclusive\" amenities has decreased dramatically; in 1961, over half offered such plans and in 2007, less than ten percent do so."
+      },
+      {
+       "number": "6",
+       "content": "A spa resort is a short term lodging facility with the primary purpose of providing individual services for spa-goers to develop healthy habits. Historically many such spas were developed at the location of natural hot springs or sources of mineral waters. Typically over a seven-day stay, such facilities provide a comprehensive program that includes spa services, physical fitness activities, wellness education, healthy cuisine and special interest programming."
+      }
+     ]
+    },
+    "headings": [
+     {
+      "text": "Destination resort",
+      "letter": "A"
+     },
+     {
+      "text": "Definition of the term “resort”",
+      "letter": "B"
+     },
+     {
+      "text": "Spa resort",
+      "letter": "C"
+     },
+     {
+      "text": "Seaside resorts",
+      "letter": "D"
+     },
+     {
+      "text": "A famous historic resort",
+      "letter": "E"
+     },
+     {
+      "text": "All-inclusive resort",
+      "letter": "F"
+     },
+     {
+      "text": "Resort towns.",
+      "letter": "G"
+     },
+     {
+      "text": "Resort that provides a variety of lodging",
+      "letter": "H"
+     }
+    ],
+    "questions": [
+     {
+      "id": 15,
+      "text": "Paragraph 1"
+     },
+     {
+      "id": 16,
+      "text": "Paragraph 2"
+     },
+     {
+      "id": 17,
+      "text": "Paragraph 3"
+     },
+     {
+      "id": 18,
+      "text": "Paragraph 4"
+     },
+     {
+      "id": 19,
+      "text": "Paragraph 5"
+     },
+     {
+      "id": 20,
+      "text": "Paragraph 6"
+     }
+    ],
+    "partNumber": 3,
+    "instruction": "Read the text and choose the correct heading for each paragraph from the list of headings below.",
+    "explanations": {},
+    "extraHeadings": [
+     "B",
+     "E"
+    ],
+    "questionRange": "15-20"
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 4",
+    "answers": {
+     "21": [
+      "B"
+     ],
+     "22": [
+      "B"
+     ],
+     "23": [
+      "B"
+     ],
+     "24": [
+      "A"
+     ],
+     "25": [
+      "False",
+      "B"
+     ],
+     "26": [
+      "True",
+      "A"
+     ],
+     "27": [
+      "False",
+      "B"
+     ],
+     "28": [
+      "True",
+      "A"
+     ],
+     "29": [
+      "True",
+      "A"
+     ]
+    },
+    "passage": {
+     "title": "Building The Future Without Losing The Past",
+     "content": "<p>Uzbekistan's cities are changing rapidly. New housing, hotels, offices and public buildings are appearing alongside neighbourhoods shaped by centuries of traditional construction. This growth has created a difficult question for architects: how can modern buildings provide the comfort and efficiency expected today without losing the climatic intelligence and cultural identity of older architecture? Increasingly, designers are finding ways to combine traditional methods with modern technology rather than treating the two approaches as opposites. x One of the clearest examples is the traditional inner courtyard. In older homes, rooms often face a protected central space rather than opening directly onto the street. The courtyard can provide shade, k support natural ventilation and create a cooler microclimate during hot weather. Contemporary designers are adapting this idea in apartment complexes, schools and community buildings. The shape v may be more modern, but the environmental function remains similar: the building is organised to reduce heat and make outdoor space usable for longer periods. o Digital technology is also changing the design process. Before construction begins, architects can create n detailed computer models showing how sunlight, heat and air will move through a proposed building.</p><p>These simulations allow them to examine possible problems before construction. A design can then be adjusted while changes are still relatively cheap. This is especially useful in a country where summer u temperatures can place heavy demands on cooling systems. rg One feature requiring careful control is extensive glazing. Large glass windows can make interiors bright and attractive, but if they face strong sunlight without protection, rooms may overheat and air-conditioning systems must work harder. Modern buildings therefore use shading devices, deeper window frames, high-performance glass or carefully chosen orientations. The problem is not glass itself; Traditional inner courtyards were not used only for cooling. They also provided privacy, family gathering d space and a protected place for children or domestic work. Modern courtyard designs can likewise create flexible spaces for social activities, gardens or shared facilities. However, it would be inaccurate to say o that every modern building in Uzbekistan consumes excessive energy. Performance varies widely depending on design, materials, orientation and the systems installed. z At the same time, architects do not need to reproduce old buildings exactly. Traditional principles can be translated into contemporary forms. Thick walls, shaded openings, screened facades and courtyards can k inspire modern solutions without producing a direct copy of a historic house. This approach allows e designers to respect local knowledge while meeting new structural, safety and functional requirements.</p><p>Technology is most successful when it is used with an understanding of how people actually use b buildings. Sensors and automated controls can improve efficiency, but data alone cannot determine whether a courtyard feels comfortable, whether public space supports social life, or whether residents value privacy. For this reason, modern designers increasingly combine digital analysis with observation @ of local habits and the accumulated knowledge found in traditional architecture. The future of Uzbek building design may therefore depend less on choosing between 'old' and 'new' than on learning how the two can work together.</p>"
+    },
+    "partNumber": 4,
+    "instruction": "Read the following text for questions 21-29.",
+    "explanations": {},
+    "questionRange": "21-29",
+    "questionSections": [
+     {
+      "type": "mcq",
+      "title": "Questions 21-24: Multiple Choice",
+      "questions": [
+       {
+        "id": 21,
+        "text": "What is the first important point about modern architecture in the passage?",
+        "options": [
+         {
+          "text": "Traditional methods should be completely abandoned",
+          "letter": "A"
+         },
+         {
+          "text": "Architects are finding ways to combine traditional and modern methods",
+          "letter": "B"
+         },
+         {
+          "text": "Only foreign architectural styles should be used",
+          "letter": "C"
+         },
+         {
+          "text": "All new buildings should copy historic monuments",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 22,
+        "text": "What is one main function of an inner courtyard?",
+        "options": [
+         {
+          "text": "To store construction equipment",
+          "letter": "A"
+         },
+         {
+          "text": "To help people deal with hot weather by providing shade and ventilation",
+          "letter": "B"
+         },
+         {
+          "text": "To increase traffic around a building",
+          "letter": "C"
+         },
+         {
+          "text": "To make buildings taller",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 23,
+        "text": "How does digital technology help architects?",
+        "options": [
+         {
+          "text": "It replaces architects during construction",
+          "letter": "A"
+         },
+         {
+          "text": "It helps them examine possible design problems before construction",
+          "letter": "B"
+         },
+         {
+          "text": "It prevents them from using traditional ideas",
+          "letter": "C"
+         },
+         {
+          "text": "It guarantees that every building will use no energy",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 24,
+        "text": "What problem can large glass windows create?",
+        "options": [
+         {
+          "text": "They may cause overheating if sunlight is not controlled",
+          "letter": "A"
+         },
+         {
+          "text": "They always make rooms too dark",
+          "letter": "B"
+         },
+         {
+          "text": "They prevent any natural ventilation",
+          "letter": "C"
+         },
+         {
+          "text": "They cannot be used in modern buildings",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "Choose the correct answer A, B, C, or D.",
+      "questionRange": "21-24"
+     },
+     {
+      "type": "tfni",
+      "title": "Questions 25-29: True/False/Not Given",
+      "options": [
+       "True",
+       "False",
+       "Not Given"
+      ],
+      "questions": [
+       {
+        "id": 25,
+        "text": "Traditional inner courtyards were used only for cooling."
+       },
+       {
+        "id": 26,
+        "text": "Modern buildings can use courtyard spaces for social activities."
+       },
+       {
+        "id": 27,
+        "text": "All modern buildings in Uzbekistan consume too much energy."
+       },
+       {
+        "id": 28,
+        "text": "Architects can use traditional principles without reproducing old buildings exactly."
+       },
+       {
+        "id": 29,
+        "text": "Modern technology should be used together with an understanding of building users' needs."
+       }
+      ],
+      "instruction": "Decide if the following statements agree with the information given in the text.",
+      "questionRange": "25-29"
+     }
+    ]
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 5",
+    "answers": {
+     "30": [
+      "habitats"
+     ],
+     "31": [
+      "rainfall"
+     ],
+     "32": [
+      "floodplain"
+     ],
+     "33": [
+      "gentrification"
+     ],
+     "34": [
+      "C"
+     ],
+     "35": [
+      "A"
+     ]
+    },
+    "passage": {
+     "title": "Restoring Urban Rivers",
+     "content": "<p>For much of the twentieth century, rivers running through large cities were treated primarily as pieces of infrastructure. Their banks were straightened, natural vegetation was removed, and in some places the channels were enclosed in concrete so that water could be carried away rapidly after heavy rain. These alterations supported industrial development and protected valuable land from frequent flooding, but they also separated urban residents from waterways that had once formed an important part of the local landscape. Today, many planners are reconsidering this approach as cities attempt to become healthier and more resilient.</p><p>One reason for this change is the growing recognition that heavily engineered rivers often support relatively little wildlife. Natural rivers contain pools of different depths, irregular banks and areas of x vegetation that provide shelter and food for numerous species. By contrast, a uniform concrete channel offers few such opportunities. Restoration projects therefore frequently begin by creating more varied k habitats. Engineers may reshape riverbanks, introduce native plants and reconnect sections of the river with nearby wetlands. The objective is not to reproduce an untouched landscape perfectly, but to restore v enough ecological complexity for biodiversity to increase. o Water quality presents another major challenge. In older cities, storm drains and sewage systems were sometimes designed to share the same underground pipes. During intense rainfall, these systems can n become overloaded, allowing untreated wastewater to enter rivers. Modern projects increasingly use green infrastructure to reduce this pressure. Parks, planted roofs and specially designed roadside areas u can absorb rainfall before it reaches drains. Because less water enters the pipe network at once, the risk of sewage overflow is reduced and urban rivers receive fewer pollutants. rg Restoration can also alter the way a river responds to floods. Traditional flood-control schemes often attempted to move water downstream as quickly as possible. This may protect one district while increasing the volume of water reaching another area in a short period. Some contemporary schemes tu instead give rivers additional space. Reconnecting a channel with its floodplain allows excess water to spread temporarily across land designed to tolerate occasional flooding. Although this requires careful planning, it can reduce the height of flood peaks farther downstream. d The social effects can be substantial as well. Where inaccessible riverbanks are replaced by paths, parks and public spaces, residents gain new places for walking, cycling and recreation. Businesses may also be o attracted to regenerated waterfronts. However, these improvements can create an unintended problem.</p><p>As an area becomes more desirable, property prices and rents may rise, potentially forcing lower-income z residents to move elsewhere. Urban researchers describe this process as green gentrification and argue that environmental improvements should therefore be accompanied by policies that protect existing k communities. e Restoring a river is rarely a one-time engineering exercise. Newly planted vegetation needs time to become established, invasive species may return, and changing rainfall patterns can create conditions b that were not anticipated when a project was designed. Long-term monitoring is therefore essential.</p><p>Scientists measure water quality, record changes in wildlife populations and examine how restored sections perform during storms. The information collected can then be used to modify management practices or improve later projects.</p><p>@ The broader lesson is that urban rivers perform several functions simultaneously. They carry water, provide habitat, influence flood risk and shape the quality of public space. A project that focuses exclusively on appearance may fail ecologically, while one designed only for wildlife may overlook the needs of surrounding communities. Successful restoration therefore depends on balancing environmental, engineering and social objectives rather than treating any single goal as sufficient.</p>"
+    },
+    "partNumber": 5,
+    "instruction": "Read the following text for questions 30-35.",
+    "explanations": {
+     "q30": {
+      "text": "Javob matnda shu gapdan olinadi.",
+      "quote": "Restoration projects therefore frequently begin by creating more varied k habitats."
+     },
+     "q31": {
+      "text": "Javob matnda shu gapdan olinadi.",
+      "quote": "During intense rainfall, these systems can n become overloaded, allowing untreated wastewater to enter rivers."
+     },
+     "q32": {
+      "text": "Javob matnda shu gapdan olinadi.",
+      "quote": "Reconnecting a channel with its floodplain allows excess water to spread temporarily across land designed to tolerate occasional flooding."
+     },
+     "q33": {
+      "text": "Javob matnda shu gapdan olinadi.",
+      "quote": "Urban researchers describe this process as green gentrification and argue that environmental improvements should therefore be accompanied by policies that prote"
+     }
+    },
+    "questionRange": "30-35",
+    "questionSections": [
+     {
+      "type": "gap-fill",
+      "title": "Questions 30-33: Gap Fill",
+      "questions": [
+       {
+        "id": 30,
+        "hint": "rivers contain a greater variety of _____"
+       },
+       {
+        "id": 31,
+        "hint": "Green infrastructure can absorb _____"
+       },
+       {
+        "id": 32,
+        "hint": "Allowing a river to reconnect with its _____"
+       },
+       {
+        "id": 33,
+        "hint": "improvement may contribute to green _____"
+       }
+      ],
+      "instruction": ", fill in the missing information in the numbered spaces. Write no more than ONE WORD and / or A NUMBER for each question.",
+      "summaryText": "Compared with concrete channels, natural rivers contain a greater variety of <span class=\"gap-input\" data-gap=\"30\">_____(30)_____</span> that can support wildlife. Green infrastructure can absorb <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span> before it enters overloaded drainage systems. Allowing a river to reconnect with its <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span> can help lower flood peaks farther downstream. Rising housing costs following environmental improvement may contribute to green <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span>.",
+      "summaryTitle": "Restoring Urban Rivers - Summary",
+      "questionRange": "30-33"
+     },
+     {
+      "type": "mcq",
+      "title": "Questions 34-35: Multiple Choice",
+      "questions": [
+       {
+        "id": 34,
+        "text": "Why does the writer say long-term monitoring is necessary after a river has been restored?",
+        "options": [
+         {
+          "text": "It guarantees that invasive species will disappear permanently",
+          "letter": "A"
+         },
+         {
+          "text": "It allows authorities to replace natural vegetation with engineered structures",
+          "letter": "B"
+         },
+         {
+          "text": "It provides evidence that can be used to adjust management as conditions change",
+          "letter": "C"
+         },
+         {
+          "text": "It prevents rainfall patterns from changing unexpectedly",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 35,
+        "text": "Which statement best represents the writer's overall view of urban river restoration?",
+        "options": [
+         {
+          "text": "It is most successful when ecological, technical and community needs are considered together",
+          "letter": "A"
+         },
+         {
+          "text": "Its principal purpose should be to increase the commercial value of waterfront land",
+          "letter": "B"
+         },
+         {
+          "text": "Natural rivers should always be returned to exactly the condition they were in before cities developed",
+          "letter": "C"
+         },
+         {
+          "text": "Flood prevention is more important than every other objective of restoration. ANSWER SHEET PART 1 PART 2 PART 3 PART 4 PART 5 1. __________ 7. __________ 15. __________ 21. __________ 30. __________ 2. __________ 8. __________ 16. __________ 22. __________ 31. __________ 3. __________ 9. __________ 17. __________ 23. __________ 32. __________ 4. __________ 10. __________ 18. __________ 24. __________ 33. __________ 5. __________ 11. __________ 19. __________ 25. __________ 34. __________ 12. __________ 20. __________ 26. __________ 35. __________ 6. __________13. __________ 27. __________ 14. __________ 28. __________ 29. __________",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "Choose the correct answer A, B, C, or D.",
+      "questionRange": "34-35"
+     }
+    ]
+   }
+  ],
+  "examDate": "2025-11-23",
+  "testInfo": {
+   "level": "",
+   "parts": "",
+   "title": "",
+   "totalTime": 60,
+   "totalQuestions": ""
+  }
+ },
+ "created_at": "2026-05-13T14:52:52.323249+00:00",
+ "updated_at": "2026-10-12T01:50:01.022481+00:00"
+}

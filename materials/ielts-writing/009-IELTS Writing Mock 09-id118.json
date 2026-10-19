@@ -1,0 +1,492 @@
+{
+ "id": 118,
+ "mock_type": "ielts-writing",
+ "mock_number": 9,
+ "title": "IELTS Writing Mock 09",
+ "status": "published",
+ "mock_data": {
+  "tasks": {
+   "task1": {
+    "title": "Overseas visitors to European areas",
+    "prompt": "The graph below shows the number of overseas visitors to three different areas in a European country between 1987 and 2007.",
+    "wordGoal": 150,
+    "chartDesc": {
+     "title": "Overseas visitors to three areas of a European country between 1987 and 2007",
+     "xAxis": "Years (1987, 1982 [misprinted on axis], 1997, 2002, 2007)",
+     "yAxis": "Overseas visitors (thousand)",
+     "period": "1987 to 2007",
+     "series": [
+      {
+       "name": "the coast",
+       "points": [
+        {
+         "at": "1987",
+         "value": 40
+        },
+        {
+         "at": "1992",
+         "value": 33
+        },
+        {
+         "at": "1997",
+         "value": 56
+        },
+        {
+         "at": "2002",
+         "value": 61
+        },
+        {
+         "at": "2007",
+         "value": 69
+        }
+       ]
+      },
+      {
+       "name": "the moutains",
+       "points": [
+        {
+         "at": "1987",
+         "value": 19
+        },
+        {
+         "at": "1992",
+         "value": 20
+        },
+        {
+         "at": "1997",
+         "value": 26
+        },
+        {
+         "at": "2002",
+         "value": 22
+        },
+        {
+         "at": "2007",
+         "value": 30
+        }
+       ]
+      },
+      {
+       "name": "the lake",
+       "points": [
+        {
+         "at": "1987",
+         "value": 10
+        },
+        {
+         "at": "1992",
+         "value": 29
+        },
+        {
+         "at": "1997",
+         "value": 39
+        },
+        {
+         "at": "2002",
+         "value": 75
+        },
+        {
+         "at": "2007",
+         "value": 53
+        }
+       ]
+      }
+     ],
+     "overview": "Overall, overseas visitor numbers increased for all three areas between 1987 and 2007. The coast ended as the most visited destination despite a dramatic mid-period peak in visitors to the lake in 2002.",
+     "chartType": "line graph",
+     "confidence": "high",
+     "unreadable": [
+      "The second x-axis label is printed as '1982' (typo in original image for 1992); the legend misspells 'mountains' as 'moutains'."
+     ],
+     "keyFeatures": [
+      "The lake saw the most significant rise, increasing from 10,000 in 1987 to a overall peak of around 75,000 in 2002, before declining to approximately 53,000 in 2007.",
+      "The coast was the most popular area at the start (~40,000) and at the end (~69,000) of the period, experiencing steady growth after an initial small dip.",
+      "The mountains ('the moutains') consistently received the lowest number of visitors for almost the entire period, growing gradually from just under 20,000 in 1987 to 30,000 in 2007."
+     ]
+    },
+    "chartType": "line_graph",
+    "dataNature": "dynamic",
+    "instruction": "Summarise the information by selecting and reporting the main features, and make comparison where relevant.",
+    "sampleBand5": "<p>The line graph shows how many people visited three areas in a country in Europe <mark>from 1987 to 2007</mark>.</p>\n<p>In general, the number of visitors to Coastal areas was the highest. Mountain areas <mark>saw a increase</mark> over the period, while Lake areas had a bit up and down.</p>\n<p>In 1987, Coastal areas had the most visitors, at about 40,000. Mountain areas had around 20,000 visitors, and Lake areas were the lowest, with about 10,000. <mark>During the period</mark>, Coastal areas remained the most popular, although there were some small changes.</p>\n<p>The number of visitors to Mountain areas <mark>did grow</mark> quite a lot, reaching about 35,000 in 2007. Lake areas went up and down, ending at around 15,000 visitors in 2007. So, Mountain areas became more popular compared to Lake areas.</p>",
+    "sampleBand6": "<p>The line graph <mark>gives information about</mark> the number of tourists who visited three regions of a European country from 1987 to 2007.</p>\n<p>Overall, the amount of people visiting the Coastal area was the highest. The Mountain area saw the least visitors. All three areas <mark>experienced an increase in</mark> tourist numbers over the period.</p>\n<p>In 1987, the Coastal area had approximately 4 million visitors, and this number <mark>rose significantly</mark> to around 10 million in 2007. The Lake area started with about 2 million tourists, and then it increased to around 6 million. The Mountain area had the lowest number of tourists, starting at less than 1 million and <mark>reaching just over</mark> 3 million by 2007.</p>\n<p>While all three areas showed growth in tourist numbers, the Coastal area was by far the most popular, and the Mountain area <mark>remained consistently the least visited</mark>.</p>",
+    "sampleBand7": "<p>The line graph <mark>illustrates the fluctuating numbers</mark> of international tourists visiting three distinct regions within a European country over the two decades from 1987 to 2007.</p>\n<p>Overall, the number of visitors to all three areas increased during the period, although the coastal region experienced the most significant growth. The mountain region, on the other hand, saw the smallest increase. <mark>It is also noticeable that</mark> the coastal region consistently attracted the highest number of tourists.</p>\n<p>In 1987, the coastal region received approximately 4 million visitors, a figure that <mark>rose dramatically</mark> to around 13 million by 2007. The number of tourists visiting the lakes started at about 2 million in 1987, then <mark>experienced a period of relative stability</mark> until the mid-1990s, before climbing to 6 million by the end of the period. The mountain region, <mark>in contrast</mark>, saw a more gradual increase, starting at under 1 million visitors and reaching just over 3 million in 2007.</p>\n<p><mark>To summarise</mark>, while all three regions benefited from increased tourism, the coastal area was by far the most popular destination, with visitor numbers far exceeding those of the other two regions.</p>",
+    "sampleBand8": "<p>The line graph <mark>depicts the fluctuating numbers</mark> of international tourists visiting three distinct regions within a European nation over a two-decade period, from 1987 to 2007.</p>\n<p>Overall, the coastal area was the most popular destination throughout the entire period, while the mountain region consistently attracted the fewest visitors. Furthermore, all three areas experienced an <mark>upward trajectory</mark> in tourist numbers, albeit at varying rates.</p>\n<p>In 1987, the coastal region received approximately 4 million visitors, <mark>dwarfing the figures</mark> for both the lakes and mountains, which stood at around 1.5 million and just under 1 million respectively. Over the subsequent decade, the coastal area witnessed a <mark>steady increase</mark>, reaching a peak of roughly 7.5 million visitors by 1997. The lakes also saw growth, albeit less pronounced, climbing to around 3 million. The mountain region, while exhibiting some growth, remained the least visited, reaching approximately 1.5 million.</p>\n<p>From 1997 to 2007, the coastal area continued its <mark>growth momentum</mark>, finishing the period with close to 9 million visitors. The lakes experienced a more <mark>substantial surge</mark> in popularity during this time, rising to approximately 5 million visitors. The mountain region also demonstrated significant growth, <mark>more than doubling</mark> its visitor numbers to reach just over 3 million by 2007, suggesting an <mark>increasing interest</mark> in this area despite its initial low numbers.</p>",
+    "sampleBand9": "<p>The line graph <mark>illustrates the fluctuating numbers</mark> of international tourists visiting three distinct regions within a European nation over a twenty-year period, from 1987 to 2007.</p>\n\n<p>Overall, the coastal region experienced the most significant growth in visitor numbers, while the mountain area showed a comparatively modest increase. The lake region, although initially popular, witnessed a fluctuating pattern before <mark>stabilising towards the end of the period</mark>.</p>\n\n<p>In 1987, the lake region was the most frequented, attracting approximately 40,000 visitors. The coastal region followed closely with around 30,000, whereas the mountain region was the least popular, with roughly 20,000 visitors. Over the subsequent decade, the coastal region experienced a <mark>substantial surge</mark> in popularity, overtaking both the lake and mountain areas. By 1997, it had become the most visited location, <mark>reaching a peak</mark> of approximately 75,000 tourists.</p>\n\n<p>The lake region, after an initial period of growth, saw its visitor numbers <mark>plateau and then decline slightly</mark> before recovering somewhat in the later years. The mountain region demonstrated a steady, albeit gradual, increase throughout the entire period. By 2007, the coastal region remained the dominant destination, with over 90,000 visitors, while the lake region <mark>hovered around</mark> 45,000, and the mountain region <mark>reached approximately</mark> 40,000. The <mark>divergent trajectories</mark> of these regions highlight <mark>shifting tourism preferences</mark> over the two decades.\n</p>",
+    "timeMinutes": 20,
+    "chartDescImg": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/9.png",
+    "sampleAnswer": "The line graph illustrates the changes in the number of international tourists visiting three distinct regions within a particular European nation from 1987 to 2007. Overall, it is evident that all three areas experienced an increase in visitor numbers over the twenty-year period, with the coast and mountains showing the most significant growth, while the lakes remained the least popular destination throughout the period.\n\nIn 1987, the coast was the most visited area, attracting approximately 40,000 overseas visitors. This figure saw a steady rise, peaking at around 75,000 in 2007, despite a slight dip in the late 1990s. The mountains started with about 20,000 visitors and showed a similar upward trend, eventually reaching nearly 40,000 by the end of the period, doubling its initial count.\n\nIn contrast, the lakes area began as the second most popular destination with 30,000 visitors but experienced more modest growth. After some fluctuations, the number of visitors to the lakes reached approximately 50,000 by 2007. While all regions saw more tourists by 2007, the coastal region solidified its position as the premier destination for international visitors.",
+    "chartImageUrl": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/9.png",
+    "uzSampleBand5": "<p>Chiziqli grafikda Yevropadagi bir mamlakatda uchta hududga <mark>1987 yildan 2007 yilgacha</mark> tashrif buyurgan odamlar soni ko'rsatilgan.</p>\n<p>Umuman olganda, qirg'oq hududlariga tashrif buyuruvchilar soni eng yuqori bo'lgan. Tog'li hududlarda <mark>o'sish kuzatildi</mark>, ko'l hududlarida esa biroz o'zgarishlar bo'lgan.</p>\n<p>1987 yilda qirg'oq hududlariga tashrif buyuruvchilar eng ko'p bo'lgan, taxminan 40 000 kishi. Tog'li hududlarga taxminan 20 000 kishi tashrif buyurgan, ko'l hududlari esa eng past ko'rsatkichga ega bo'lgan, taxminan 10 000 kishi. <mark>Davr mobaynida</mark>, qirg'oq hududlari eng mashhur bo'lib qoldi, garchi ba'zi kichik o'zgarishlar bo'lgan bo'lsa ham.</p>\n<p>Tog'li hududlarga tashrif buyuruvchilar soni <mark>haqiqatan ham o'sdi</mark>, 2007 yilda taxminan 35 000 kishiga yetdi. Ko'l hududlari o'zgarib turdi va 2007 yilda taxminan 15 000 tashrif buyuruvchi bilan yakunlandi. Shunday qilib, tog'li hududlar ko'l hududlariga nisbatan mashhurroq bo'lib qoldi.</p>",
+    "uzSampleBand6": "<p>Chiziqli grafik <mark>1987 yildan 2007 yilgacha</mark> Yevropa mamlakatining uchta mintaqasiga tashrif buyurgan sayyohlar soni haqida ma'lumot beradi.</p>\n<p>Umuman olganda, Sohili hududga tashrif buyuruvchilar soni eng yuqori bo'lgan. Tog'li hududga eng kam tashrif buyurilgan. Barcha uchta hududda <mark>davr davomida sayyohlar soni ortdi</mark>.</p>\n<p>1987 yilda Sohili hududga taxminan 4 million sayyoh tashrif buyurgan va bu raqam 2007 yilda taxminan 10 millionga <mark>sezilarli darajada oshdi</mark>. Ko'lli hudud taxminan 2 million sayyoh bilan boshlangan, so'ngra taxminan 6 millionga ko'paygan. Tog'li hududda sayyohlar soni eng kam bo'lib, 1 milliondan kamdan boshlangan va 2007 yilga kelib <mark>3 milliondan sal ko'proqqa yetgan</mark>.</p>\n<p>Barcha uchta hududda sayyohlar soni o'sgan bo'lsa-da, Sohili hudud eng ommabop bo'lgan va Tog'li hudud <mark>doimiy ravishda eng kam tashrif buyurilgan</mark> bo'lib qoldi.</p>",
+    "uzSampleBand7": "<p>Chiziqli grafika <mark>1987 yildan 2007 yilgacha bo'lgan ikki o'n yillik davr mobaynida Yevropa mamlakatidagi uchta alohida mintaqaga tashrif buyurgan xalqaro sayyohlar sonining o'zgaruvchanligini ko'rsatadi</mark>.</p>\n<p>Umuman olganda, uchala hududga ham tashrif buyuruvchilar soni davr mobaynida oshdi, garchi qirg'oq mintaqasi eng sezilarli o'sishni boshdan kechirdi. Tog'li hudud esa, aksincha, eng kam o'sishni kuzatdi. <mark>Shuni ham ta'kidlash joizki</mark>, qirg'oq mintaqasi doimiy ravishda eng ko'p sayyohlarni o'ziga jalb qilgan.</p>\n<p>1987 yilda qirg'oq mintaqasi taxminan 4 million sayyohni qabul qildi, bu ko'rsatkich 2007 yilga kelib <mark>keskin o'sdi</mark> va taxminan 13 millionga yetdi. Ko'llarga tashrif buyuruvchi sayyohlar soni 1987 yilda taxminan 2 milliondan boshlangan, so'ngra 1990-yillarning o'rtalariga qadar <mark>nisbatan barqaror davrni boshdan kechirdi</mark>, keyin davr oxiriga kelib 6 millionga ko'tarildi. Tog'li hudud, <mark>aksincha</mark>, yanada sekin o'sishni ko'rsatdi, 1 milliondan kam tashrif buyuruvchilardan boshlanib, 2007 yilda 3 milliondan sal ko'proqqa yetdi.</p>\n<p><mark>Xulosa qilib aytganda</mark>, uchala hudud ham turizmning o'sishidan foyda ko'rgan bo'lsa-da, qirg'oq hududi eng mashhur joy bo'ldi, tashrif buyuruvchilar soni boshqa ikki hududdan ancha oshib ketdi.</p>",
+    "uzSampleBand8": "<p>Chiziqli grafik 1987 yildan 2007 yilgacha bo'lgan yigirma yillik davr mobaynida Yevropa davlatidagi uchta alohida hududga tashrif buyurgan xalqaro sayyohlar sonining <mark>o'zgaruvchan raqamlarini tasvirlaydi</mark>.</p>\n<p>Umuman olganda, sohilbo'yi hududi butun davr davomida eng mashhur yo'nalish bo'lgan, tog'li hudud esa doimiy ravishda eng kam tashrif buyuruvchilarni jalb qilgan. Bundan tashqari, barcha uchta hudud sayyohlar sonida <mark>o'sish tendentsiyasini</mark> boshdan kechirdi, garchi turli xil sur'atlarda bo'lsa ham.</p>\n<p>1987 yilda sohilbo'yi hududi taxminan 4 million sayyohni qabul qildi, bu esa <mark>ko'rsatkichlar bo'yicha sezilarli darajada ustun keldi</mark>, ko'llar va tog'lar uchun mos ravishda taxminan 1,5 million va 1 milliondan sal kamroq tashkil etdi. Keyingi o'n yillikda sohilbo'yi hududida <mark>doimiy o'sish</mark> kuzatildi va 1997 yilga kelib taxminan 7,5 million sayyohga yetdi. Ko'llar ham o'sishni ko'rsatdi, garchi unchalik sezilarli bo'lmasa ham, taxminan 3 millionga ko'tarildi. Tog'li hudud, bir oz o'sishni ko'rsatgan bo'lsa-da, eng kam tashrif buyuriladigan hudud bo'lib qoldi va taxminan 1,5 millionga yetdi.</p>\n<p>1997 yildan 2007 yilgacha sohilbo'yi hududi <mark>o'sish sur'atini</mark> davom ettirdi va davrni 9 millionga yaqin sayyoh bilan yakunladi. Ko'llarda bu vaqt ichida mashhurlikning <mark>sezilarli o'sishi</mark> kuzatildi va taxminan 5 million sayyohga ko'tarildi. Tog'li hudud ham sezilarli o'sishni ko'rsatdi, tashrif buyuruvchilar sonini <mark>ikki barobardan ko'proq oshirib</mark>, 2007 yilga kelib 3 milliondan sal ko'proqqa yetdi, bu esa dastlabki past ko'rsatkichlarga qaramay, bu hududga <mark>qiziqish ortib borayotganidan</mark> dalolat beradi.</p>",
+    "uzSampleBand9": "<p>Ushbu chiziqli grafik 1987-yildan 2007-yilgacha bo'lgan yigirma yillik davr mobaynida Yevropa davlati ichidagi uchta alohida mintaqaga tashrif buyurgan xalqaro sayyohlar sonining <mark>o'zgaruvchan raqamlarini ko'rsatadi</mark>.</p>\n\n<p>Umuman olganda, sohilbo'yi mintaqasi tashrif buyuruvchilar sonining eng sezilarli o'sishini boshdan kechirdi, tog'li hudud esa nisbatan kamroq o'sishni ko'rsatdi. Ko'l mintaqasi, dastlab mashhur bo'lgan bo'lsa-da, <mark>davr oxiriga kelib barqarorlashgunga qadar</mark> o'zgaruvchan tendentsiyani ko'rsatdi.</p>\n\n<p>1987-yilda ko'l mintaqasi eng ko'p tashrif buyuriladigan joy bo'lib, taxminan 40 000 sayyohni jalb qilgan. Sohilbo'yi mintaqasi taxminan 30 000 bilan undan keyin turdi, tog'li hudud esa taxminan 20 000 sayyoh bilan eng kam mashhur edi. Keyingi o'n yillikda sohilbo'yi mintaqasi mashhurlikning <mark>sezilarli o'sishini</mark> boshdan kechirdi va ko'l va tog'li hududlardan o'zib ketdi. 1997-yilga kelib, u eng ko'p tashrif buyuriladigan joyga aylandi va taxminan 75 000 sayyohdan iborat <mark>eng yuqori cho'qqiga yetdi</mark>.</p>\n\n<p>Ko'l mintaqasi, dastlabki o'sish davridan so'ng, tashrif buyuruvchilar sonining <mark>tekislanib, keyin biroz pasayganini</mark> ko'rdi, so'ngra keyingi yillarda biroz tiklandi. Tog'li hudud butun davr davomida barqaror, ammo asta-sekin o'sishni namoyish etdi. 2007-yilga kelib, sohilbo'yi mintaqasi 90 000 dan ortiq sayyoh bilan ustunlik qiluvchi manzil bo'lib qoldi, ko'l mintaqasi <mark>taxminan</mark> 45 000 atrofida, tog'li hudud esa <mark>taxminan</mark> 40 000 ga <mark>yetdi</mark>. Ushbu mintaqalarning <mark>har xil yo'nalishlari</mark> o'tgan yigirma yil ichida <mark>turizm afzalliklarining o'zgarishini</mark> ta'kidlaydi.</p>",
+    "chartDescSource": "extracted-verified-2026-08-05"
+   },
+   "task2": {
+    "title": "Elite sports facility funding",
+    "prompt": "Some countries achieve international sporting success by building specialised facilities that are used only to train top athletes, instead of providing sports facilities that everyone can use. Do you think this is a positive or negative development?",
+    "wordGoal": 250,
+    "essayType": "opinion",
+    "instruction": "Do you think this is a positive or negative development?",
+    "sampleBand5": "<p>In some countries, the government <mark>spend money on</mark> special places for athletes to train. These places are only for the best sports people. I think this is not so good because other people can't use them. This essay will talk about why I think so.</p>\n\n<p>One reason is that <mark>normal people</mark> don't get a chance to improve their health. If there are good sports facilities for everyone, more people can play sports. This can help them to be healthier and not get sick so much. But if all the good facilities are just for top athletes, then other people miss out. They can't use the best equipment or get the best training. This is <mark>not very fair</mark> because everyone should have a chance to be healthy.</p>\n\n<p>Another thing is that it might not help find new talent. If only top athletes can use the special facilities, then <mark>it is hard to find</mark> new people who are good at sports. Maybe there are some young people who could be really good, but they don't have the chance to train in a good place. So, the country might miss out on finding these new athletes. It is important to give everyone a chance to try sports and see if they are good at it.</p>\n\n<p>In conclusion, I think it is better to have sports facilities for everyone, not just top athletes. This will help more people to be healthy and give everyone a chance to find out if they are good at sports. <mark>It is more good for the country</mark> in the long run.</p>",
+    "sampleBand6": "<p>In some countries, governments choose to invest heavily in specialized sports facilities <mark>designed only for elite athletes</mark>, rather than providing broader access to sports for the general public. I believe that while there may be some benefits to this approach, it is ultimately a negative development.</p>\n\n<p>On the one hand, <mark>it is understandable why</mark> some nations prioritize elite sports. By investing in top-notch facilities and coaching, they hope to achieve international sporting success. This success can boost national pride and improve a country's reputation on the global stage. For example, a country winning many medals in the Olympics can be seen as a sign of national strength and competence. <mark>This is because</mark> better facilities can help athletes to train better and improve their performance.</p>\n\n<p>However, the disadvantages of this approach outweigh the advantages. When resources are focused solely on elite athletes, the general population misses out. Access to sports and recreation is important for public health and well-being. If ordinary people do not have access to good sports facilities, they are less likely to exercise and stay healthy. This can lead to higher rates of obesity and other health problems. <mark>Also, it is not fair</mark> because it only benefits a small group of people.</p>\n\n<p>Furthermore, focusing only on elite athletes can create a culture of exclusivity and inequality. It sends the message that sports are only for the talented few, rather than something that everyone can enjoy. <mark>This can discourage</mark> many people from participating in sports, even at a recreational level. In the long run, this can harm the overall sporting culture of a country. Therefore, I think it is important to invest in sports facilities for everyone, not just the elite.</p>\n\n<p>In conclusion, while focusing on elite athletes might bring some international success, it is a negative development because it neglects the needs of the general public and can lead to inequality. A more balanced approach is needed, one that supports both elite athletes and provides opportunities for everyone to participate in sports and stay healthy; <mark>this makes more sense in the long term</mark>.</p>",
+    "sampleBand7": "<p>In some nations, governments and sporting organisations choose to invest heavily in specialist training centres designed exclusively for elite athletes, rather than distributing resources more widely to provide sporting facilities for the general public. While I understand the rationale behind this approach, I believe that the drawbacks <mark>outweigh the benefits</mark>.</p>\n\n<p>The primary argument in favour of focusing on elite athletes is that it can lead to greater success in international competitions. <mark>By channeling resources</mark> into state-of-the-art facilities and expert coaching, countries can <mark>cultivate talent</mark> and increase their chances of winning medals at events like the Olympics or World Championships. This, in turn, can boost national pride and enhance the country's international reputation. However, this approach often overlooks the broader societal benefits of widespread participation in sports.</p>\n\n<p>On the other hand, neglecting the provision of sports facilities for the general public can have several negative consequences. Firstly, it can limit opportunities for individuals to engage in physical activity, leading to <mark>a decline in public health</mark> and an increase in obesity rates. Secondly, it can exacerbate inequalities, as access to quality sports facilities becomes restricted to a privileged few. Thirdly, it can stifle the development of grassroots sports, <mark>potentially hindering the discovery</mark> of future talent from diverse backgrounds. While focusing on elite athletes may yield short-term gains in international sporting success, it can come at the expense of long-term societal well-being.</p>\n\n<p>Furthermore, a purely top-down approach to sports development can be unsustainable in the long run. <mark>A more balanced approach</mark>, which combines investment in elite training with the provision of accessible sports facilities for all, is more likely to foster a healthy and active population, promote social inclusion, and nurture a broader base of sporting talent. Ultimately, a nation's sporting success should not come at the cost of its citizens' health and well-being.</p>\n\n<p>In conclusion, while the strategy of investing solely in elite training facilities may bring some international recognition, I believe that the negative impacts on public health, social equity, and grassroots sports development make it <mark>a largely detrimental approach</mark>. A more equitable and sustainable model is needed to promote both elite performance and widespread participation in sports.</p>",
+    "sampleBand8": "<p>The allocation of resources for sports development is a subject of ongoing debate. While some nations prioritise the construction of specialised facilities exclusively for elite athletes, often at the expense of broader community sports infrastructure, I believe this approach presents a <mark>predominantly negative development</mark>. Although there are potential benefits in terms of international sporting success, the drawbacks relating to public health and equitable access to resources are more significant.</p>\n\n<p>On the one hand, investing in high-performance training centres can undoubtedly enhance a country's sporting prowess on the global stage. <mark>State-of-the-art facilities</mark>, coupled with specialised coaching and scientific support, provide elite athletes with the optimal environment to hone their skills and achieve peak performance. For example, China's investment in its Olympic training programs has resulted in a consistent stream of gold medals, <mark>bolstering national pride and international prestige</mark>. Moreover, these successes can serve as an inspiration for younger generations to engage in sports.</p>\n\n<p>However, the exclusive focus on elite athletes carries significant disadvantages. Firstly, it creates a disparity in access to resources, <mark>effectively marginalising the majority of the population</mark> who may not have the opportunity to benefit from quality sports facilities. This can exacerbate existing inequalities and limit opportunities for social mobility. Secondly, neglecting community sports infrastructure can have detrimental effects on public health. Regular physical activity is crucial for preventing chronic diseases such as obesity and diabetes. By prioritising elite sports over grassroots participation, governments may inadvertently contribute to a <mark>decline in overall public health outcomes</mark>. Furthermore, community sports facilities foster social cohesion and provide opportunities for people of all ages and abilities to engage in physical activity together. The absence of such facilities can lead to social isolation and a decline in community spirit.</p>\n\n<p>In conclusion, while the pursuit of international sporting success is understandable, it should not come at the expense of public health and equitable access to resources. A more balanced approach, which combines investment in elite sports with the provision of <mark>accessible and affordable community sports facilities</mark>, is essential for promoting both national pride and the well-being of the entire population. <mark>Ultimately, a healthy and active populace</mark> is a far greater asset than a collection of Olympic medals. <mark>Therefore, a holistic approach</mark> to sports development is paramount.</p>",
+    "sampleBand9": "<p>The allocation of resources in pursuit of international sporting success is a complex issue. While some nations prioritise the construction of <mark>elite training facilities</mark> catering exclusively to top athletes, rather than investing in broader community sports infrastructure, the merits of this approach are debatable. In my view, while there may be short-term gains, this strategy ultimately represents a negative development, <mark>hindering grassroots participation</mark> and potentially fostering a sense of elitism.</p>\n\n<p>One of the primary arguments against this approach lies in its potential to <mark>exacerbate social inequalities</mark>. By concentrating resources on a select few, governments may inadvertently neglect the sporting needs of the wider population. Community sports facilities offer opportunities for individuals of all ages and abilities to engage in physical activity, promoting health and well-being. Diverting funds to <mark>high-performance centres</mark> can deprive local communities of these vital resources, potentially leading to reduced participation rates and a widening gap between the sporting elite and the general public. Furthermore, the message conveyed by such policies can be detrimental, suggesting that only those with exceptional talent deserve investment and support.</p>\n\n<p>Conversely, proponents of specialised training facilities might argue that they are essential for achieving international recognition and national pride. Success on the world stage can inspire a nation and boost morale. <mark>Furthermore, it is posited that</mark> elite athletes serve as role models, encouraging young people to pursue sporting excellence. However, this argument overlooks the fact that inspiration can also be drawn from accessible local sporting heroes and thriving community sports programs. The impact of a local sports club on a child's life can be just as profound as witnessing an Olympic victory.</p>\n\n<p>In conclusion, while the allure of international sporting success is undeniable, prioritising specialised facilities at the expense of community sports infrastructure is, in my opinion, a misguided approach. The <mark>long-term benefits</mark> of fostering widespread participation in sports, promoting health and well-being, and <mark>cultivating a sense of community</mark> far outweigh the potential short-term gains of focusing solely on elite athletes. A more balanced approach, which invests in both <mark>grassroots development</mark> and high-performance training, is essential for creating a truly healthy and inclusive sporting culture. The focus should be on providing opportunities for all, not just the privileged few, ensuring that the <mark>positive ripple effects</mark> of sport reach every corner of society. It is imperative to <mark>strike a balance between</mark> nurturing excellence and ensuring equitable access to sporting opportunities for all citizens.</p>",
+    "timeMinutes": 40,
+    "sampleAnswer": "The strategy of prioritizing elite athletic training centers over communal sports facilities is a common approach for nations seeking global recognition in sports. While this focus can yield significant international success, I believe it is a largely negative development due to its detrimental impact on public health and the unequal distribution of national resources.\n\nOn the one hand, specialized facilities for top athletes can serve as symbols of national pride. Achieving medals in international competitions like the Olympics can boost a country's global standing and inspire its citizens. Furthermore, the high-performance techniques developed in these centers can sometimes trickle down to general coaching methods, improving overall athletic standards in the long run. For some, the prestige associated with sporting excellence justifies the concentrated investment in a small number of talented individuals.\n\nHowever, the disadvantages of this approach are profound. By diverting funds away from grassroots facilities, governments miss a crucial opportunity to improve the health and well-being of the general population. Public sports centers, accessible to all regardless of ability, are essential in combating lifestyle diseases such as obesity and heart disease. When resources are monopolized by elite athletes, the average citizen is less likely to engage in regular exercise. Moreover, a sports policy that excludes the majority of the population can foster a sense of social inequality, where only those with exceptional talent receive state support for their physical development.\n\nIn conclusion, while building specialized training centers may lead to more medals on the international stage, the cost to the broader society is too high. A more balanced approach that provides quality sports secondary facilities for all would be a far more positive development, promoting a healthier and more inclusive society while still allowing for the cultivation of elite talent.",
+    "uzSampleBand5": "<p>Ba'zi mamlakatlarda hukumat <mark>sportchilar mashq qilishi uchun</mark> maxsus joylarga pul sarflaydi. Bu joylar faqat eng yaxshi sportchilar uchun. Menimcha, bu unchalik yaxshi emas, chunki boshqa odamlar ulardan foydalana olmaydi. Bu insho, nima uchun men shunday o'ylashim haqida gapiradi.</p>\n\n<p>Bir sababi shundaki, <mark>oddiy odamlar</mark> o'z sog'lig'ini yaxshilash imkoniyatiga ega emas. Agar hamma uchun yaxshi sport inshootlari bo'lsa, ko'proq odamlar sport bilan shug'ullanishi mumkin. Bu ularga sog'lom bo'lishga va ko'p kasal bo'lmaslikka yordam berishi mumkin. Ammo agar barcha yaxshi inshootlar faqat yuqori darajadagi sportchilar uchun bo'lsa, unda boshqa odamlar chetda qoladi. Ular eng yaxshi uskunadan foydalana olmaydi yoki eng yaxshi ta'lim ololmaydi. Bu <mark>unchalik adolatli emas</mark>, chunki hamma sog'lom bo'lish imkoniyatiga ega bo'lishi kerak.</p>\n\n<p>Yana bir narsa shundaki, bu yangi iste'dodlarni topishga yordam bermasligi mumkin. Agar faqat yuqori darajadagi sportchilar maxsus inshootlardan foydalana olsa, unda sportga qobiliyatli yangi odamlarni <mark>topish qiyin</mark>. Ehtimol, juda yaxshi bo'lishi mumkin bo'lgan ba'zi yoshlar bor, lekin ularda yaxshi joyda mashq qilish imkoniyati yo'q. Shunday qilib, mamlakat bu yangi sportchilarni topish imkoniyatini qo'ldan boy berishi mumkin. Hammaga sport bilan shug'ullanish va o'zini sinab ko'rish imkoniyatini berish muhim.</p>\n\n<p>Xulosa qilib aytganda, menimcha, faqat yuqori darajadagi sportchilar uchun emas, balki hamma uchun sport inshootlariga ega bo'lish yaxshiroqdir. Bu ko'proq odamga sog'lom bo'lishga yordam beradi va hammaga sportga qobiliyatli ekanligini aniqlash imkoniyatini beradi. <mark>Bu mamlakat uchun uzoq muddatda foydaliroq</mark>.</p>",
+    "uzSampleBand6": "<p>Ba'zi mamlakatlarda hukumatlar <mark>faqat elita sportchilar uchun mo'ljallangan</mark> maxsus sport inshootlariga katta sarmoya kiritishni tanlaydi, umumiy aholi uchun sportga kengroq kirish imkoniyatini ta'minlash o'rniga. Menimcha, bu yondashuvning ba'zi afzalliklari bo'lishi mumkin bo'lsa-da, bu oxir-oqibatda salbiy rivojlanishdir.</p>\n\n<p>Bir tomondan, <mark>nima uchun</mark> ba'zi davlatlar elita sportiga ustunlik berishini tushunish mumkin. Yuqori darajadagi inshootlar va murabbiylikka sarmoya kiritish orqali ular xalqaro sport muvaffaqiyatiga erishishga umid qilishadi. Bu muvaffaqiyat milliy g'ururni oshirishi va mamlakatning global miqyosdagi obro'sini yaxshilashi mumkin. Misol uchun, Olimpiya o'yinlarida ko'plab medallarni qo'lga kiritgan mamlakat milliy kuch va kompetentsiya belgisi sifatida ko'rilishi mumkin. <mark>Buning sababi</mark> yaxshiroq inshootlar sportchilarga yaxshiroq mashq qilish va o'z ko'rsatkichlarini yaxshilashga yordam berishi mumkin.</p>\n\n<p>Biroq, bu yondashuvning kamchiliklari afzalliklaridan ustun turadi. Resurslar faqat elita sportchilarga qaratilganda, umumiy aholi bundan mahrum bo'ladi. Sport va dam olish imkoniyatlari jamoat salomatligi va farovonligi uchun muhimdir. Agar oddiy odamlarda yaxshi sport inshootlariga kirish imkoniyati bo'lmasa, ular mashq qilish va sog'lom bo'lib qolish ehtimoli kamroq. Bu semizlik va boshqa sog'liq muammolari darajasining oshishiga olib kelishi mumkin. <mark>Shuningdek, bu adolatli emas</mark>, chunki u faqat oz sonli odamlarga foyda keltiradi.</p>\n\n<p>Bundan tashqari, faqat elita sportchilarga e'tibor qaratish eksklyuzivlik va tengsizlik madaniyatini yaratishi mumkin. Bu sport faqat iste'dodli bir nechtasi uchun, hamma zavqlanadigan narsa emas degan xabarni yuboradi. <mark>Bu ko'p odamlarni</mark> hatto dam olish darajasida ham sport bilan shug'ullanishdan qaytarishi mumkin. Uzoq muddatda bu mamlakatning umumiy sport madaniyatiga zarar etkazishi mumkin. Shuning uchun, menimcha, faqat elitaga emas, balki hamma uchun sport inshootlariga sarmoya kiritish muhimdir.</p>\n\n<p>Xulosa qilib aytganda, elita sportchilarga e'tibor qaratish ba'zi xalqaro muvaffaqiyatlarni keltirishi mumkin bo'lsa-da, bu salbiy rivojlanishdir, chunki u umumiy aholining ehtiyojlarini e'tiborsiz qoldiradi va tengsizlikka olib kelishi mumkin. Muvozanatliroq yondashuv kerak, u ham elita sportchilarini qo'llab-quvvatlaydi, ham hamma uchun sport bilan shug'ullanish va sog'lom bo'lish imkoniyatlarini taqdim etadi; <mark>bu uzoq muddatda ko'proq ma'noga ega</mark>.</p>",
+    "uzSampleBand7": "<p>Ba'zi davlatlarda hukumatlar va sport tashkilotlari resurslarni kengroq taqsimlab, umumiy aholi uchun sport inshootlarini ta'minlash o'rniga, faqatgina elita sportchilari uchun mo'ljallangan maxsus o'quv markazlariga katta miqdorda sarmoya kiritishni tanlashadi. Men bu yondashuvning asosini tushunsam-da, uning kamchiliklari <mark>afzalliklaridan ustun turadi</mark>, deb hisoblayman.</p>\n\n<p>Elita sportchilariga e'tibor qaratishning asosiy argumenti shundaki, bu xalqaro musobaqalarda katta muvaffaqiyatlarga olib kelishi mumkin. Davlat eng zamonaviy inshootlarga va tajribali murabbiylarga <mark>resurslarni yo'naltirib</mark>, mamlakatlar <mark>iste'dodlarni yetishtirishi</mark> va Olimpiya o'yinlari yoki Jahon chempionatlari kabi tadbirlarda medallarni qo'lga kiritish imkoniyatini oshirishi mumkin. Bu, o'z navbatida, milliy g'ururni oshirishi va mamlakatning xalqaro obro'sini yaxshilashi mumkin. Biroq, bu yondashuv ko'pincha sportda keng tarqalgan ishtirokning kengroq ijtimoiy afzalliklarini e'tibordan chetda qoldiradi.</p>\n\n<p>Boshqa tomondan, umumiy aholi uchun sport inshootlarini ta'minlashga e'tibor bermaslik bir qator salbiy oqibatlarga olib kelishi mumkin. Birinchidan, bu odamlarning jismoniy faollik bilan shug'ullanish imkoniyatlarini cheklashi, natijada <mark>aholi salomatligining yomonlashuviga</mark> va semirish darajasining oshishiga olib kelishi mumkin. Ikkinchidan, bu tengsizlikni kuchaytirishi mumkin, chunki sifatli sport inshootlariga kirish faqatgina imtiyozli ozchilik uchun cheklanadi. Uchinchidan, bu ommaviy sport turlarini rivojlantirishga to'sqinlik qilishi, <mark>kelajakdagi iste'dodlarni kashf etishga to'sqinlik qilishi</mark> mumkin. Elita sportchilariga e'tibor qaratish xalqaro sport muvaffaqiyatida qisqa muddatli yutuqlarga olib kelishi mumkin bo'lsa-da, bu uzoq muddatli ijtimoiy farovonlik hisobiga bo'lishi mumkin.</p>\n\n<p>Bundan tashqari, sportni rivojlantirishga faqat yuqoridan pastga qarab yondashuv uzoq muddatda barqaror bo'lmasligi mumkin. <mark>Ko'proq muvozanatli yondashuv</mark>, elita mashg'ulotlariga sarmoya kiritishni barcha uchun qulay sport inshootlarini ta'minlash bilan birlashtirgan holda, sog'lom va faol aholini shakllantirish, ijtimoiy inklyuziyani rag'batlantirish va sport iste'dodlarining kengroq bazasini rivojlantirish ehtimoli ko'proq. Oxir-oqibat, millatning sport muvaffaqiyati uning fuqarolarining salomatligi va farovonligi hisobiga bo'lmasligi kerak.</p>\n\n<p>Xulosa qilib aytganda, faqat elita mashg'ulot inshootlariga sarmoya kiritish strategiyasi xalqaro e'tirofga olib kelishi mumkin bo'lsa-da, men bu yondashuvning aholi salomatligiga, ijtimoiy tenglikka va ommaviy sport turlarini rivojlantirishga salbiy ta'siri uni <mark>asosan zararli yondashuv</mark> qiladi, deb hisoblayman. Elita ko'rsatkichlarini va sportda keng tarqalgan ishtirokni rag'batlantirish uchun yanada adolatli va barqaror model kerak.</p>",
+    "uzSampleBand8": "<p>Sportni rivojlantirish uchun resurslarni taqsimlash doimiy bahs mavzusi bo'lib kelmoqda. Ba'zi davlatlar faqatgina elita sportchilari uchun mo'ljallangan maxsus inshootlar qurilishiga ustunlik berishadi, ko'pincha keng jamoatchilik sport infratuzilmasi hisobidan, menimcha, bu yondashuv <mark>asosan salbiy rivojlanish</mark>ni taqdim etadi. Xalqaro sport muvaffaqiyati nuqtai nazaridan potentsial foydalar bo'lishi mumkin bo'lsa-da, jamoat salomatligi va resurslarga teng huquqli kirish bilan bog'liq kamchiliklar ancha muhim.</p>\n\n<p>Bir tomondan, yuqori samaradorlikka erishish uchun mo'ljallangan o'quv markazlariga sarmoya kiritish, shubhasiz, mamlakatning jahon sahnasida sport mahoratini oshirishi mumkin. <mark>Eng zamonaviy inshootlar</mark>, ixtisoslashtirilgan murabbiylik va ilmiy qo'llab-quvvatlash bilan birgalikda elita sportchilariga o'z mahoratini oshirish va eng yuqori natijalarga erishish uchun optimal muhitni ta'minlaydi. Misol uchun, Xitoyning Olimpiya o'quv dasturlariga kiritgan sarmoyasi oltin medallarning doimiy oqimiga olib keldi, <mark>milliy g'urur va xalqaro obro'ni mustahkamladi</mark>. Bundan tashqari, bu muvaffaqiyatlar yosh avlodni sport bilan shug'ullanishga ilhomlantirishi mumkin.</p>\n\n<p>Biroq, elita sportchilarga qaratilgan eksklyuziv e'tibor sezilarli kamchiliklarga olib keladi. Birinchidan, bu resurslarga kirishda tengsizlikni yaratadi, <mark>ko'pchilik aholini samarali ravishda chetlashtiradi</mark>, ularda sifatli sport inshootlaridan foydalanish imkoniyati bo'lmasligi mumkin. Bu mavjud tengsizliklarni yanada kuchaytirishi va ijtimoiy harakatlanish imkoniyatlarini cheklashi mumkin. Ikkinchidan, jamoat sport infratuzilmasiga e'tibor bermaslik jamoat salomatligiga zararli ta'sir ko'rsatishi mumkin. Muntazam jismoniy faollik semizlik va diabet kabi surunkali kasalliklarning oldini olish uchun juda muhimdir. Hukumatlar elita sportni ommaviy ishtirokdan ustun qo'yib, bilmagan holda <mark>umumiy jamoat salomatligi natijalarining pasayishiga</mark> hissa qo'shishi mumkin. Bundan tashqari, jamoat sport inshootlari ijtimoiy birdamlikni mustahkamlaydi va har xil yoshdagi va qobiliyatli odamlarga birgalikda jismoniy faoliyat bilan shug'ullanish imkoniyatini beradi. Bunday inshootlarning yo'qligi ijtimoiy izolyatsiyaga va jamoatchilik ruhining pasayishiga olib kelishi mumkin.</p>\n\n<p>Xulosa qilib aytganda, xalqaro sport muvaffaqiyatiga intilish tushunarli bo'lsa-da, u jamoat salomatligi va resurslarga teng huquqli kirish hisobidan bo'lmasligi kerak. Elita sportga sarmoya kiritish bilan birga <mark>qulay va arzon jamoat sport inshootlari</mark>ni ta'minlashni birlashtirgan yanada muvozanatli yondashuv ham milliy g'ururni, ham butun aholining farovonligini oshirish uchun muhimdir. <mark>Oxir oqibat, sog'lom va faol aholi</mark> Olimpiya medallari to'plamidan ko'ra ancha katta boylikdir. <mark>Shuning uchun, sportni rivojlantirishga yaxlit yondashuv</mark> juda muhimdir.</p>",
+    "uzSampleBand9": "<p>Xalqaro sport muvaffaqiyatiga erishish yo'lida resurslarni taqsimlash murakkab masala. Ba'zi davlatlar keng jamoatchilik sport infratuzilmasiga sarmoya kiritish o'rniga, faqat eng yaxshi sportchilarga xizmat ko'rsatadigan <mark>elita mashg'ulot markazlari</mark> qurilishiga ustuvor ahamiyat berishsa, bu yondashuvning afzalliklari bahsli. Mening fikrimcha, qisqa muddatli yutuqlar bo'lishi mumkin bo'lsa-da, bu strategiya oxir-oqibat salbiy rivojlanishni anglatadi, <mark>o'sish bosqichidagi ishtirokni cheklaydi</mark> va potentsial ravishda elitizm tuyg'usini kuchaytiradi.</p>\n\n<p>Ushbu yondashuvga qarshi asosiy dalillardan biri uning <mark>ijtimoiy tengsizliklarni kuchaytirish</mark> potentsialida yotadi. Resurslarni tanlangan bir necha kishiga yo'naltirish orqali hukumatlar bilmagan holda keng aholining sportga bo'lgan ehtiyojlarini e'tibordan chetda qoldirishlari mumkin. Jamoat sport inshootlari barcha yoshdagi va qobiliyatli shaxslarga jismoniy faoliyat bilan shug'ullanish, salomatlik va farovonlikni oshirish imkoniyatlarini taqdim etadi. Mablag'larni <mark>yuqori unumdorlik markazlariga</mark> yo'naltirish mahalliy jamoalarni ushbu muhim resurslardan mahrum qilishi mumkin, bu esa ishtirok darajasining pasayishiga va sport elitalari va keng jamoatchilik o'rtasidagi tafovutning kengayishiga olib kelishi mumkin. Bundan tashqari, bunday siyosat orqali yetkazilgan xabar zararli bo'lishi mumkin, faqatgina favqulodda iste'dodga ega bo'lganlar investitsiya va qo'llab-quvvatlashga loyiqdir.</p>\n\n<p>Aksincha, ixtisoslashtirilgan mashg'ulot markazlari tarafdorlari ular xalqaro e'tirofga erishish va milliy g'urur uchun zarur deb ta'kidlashlari mumkin. Jahon sahnasida muvaffaqiyatga erishish millatni ilhomlantirishi va ruhiyatini ko'tarishi mumkin. <mark>Bundan tashqari, shunday deyiladiki</mark>, elita sportchilari yoshlarni sport sohasida muvaffaqiyatga erishishga undaydigan rol model bo'lib xizmat qiladi. Biroq, bu dalil ilhom mahalliy sport qahramonlari va rivojlangan jamoat sport dasturlaridan ham olinishi mumkinligini e'tibordan chetda qoldiradi. Mahalliy sport klubining bolaning hayotiga ta'siri Olimpiya g'alabasiga guvoh bo'lish kabi chuqur bo'lishi mumkin.</p>\n\n<p>Xulosa qilib aytganda, xalqaro sport muvaffaqiyatining jozibasi inkor etib bo'lmas ekan, jamoat sport infratuzilmasi hisobidan ixtisoslashtirilgan inshootlarga ustuvor ahamiyat berish, mening fikrimcha, noto'g'ri yondashuvdir. Sportda keng ishtirokni rag'batlantirish, salomatlik va farovonlikni oshirish va <mark>jamiyat tuyg'usini rivojlantirishning</mark> <mark>uzoq muddatli foydalari</mark> faqat elita sportchilarga e'tibor qaratishning potentsial qisqa muddatli yutuqlaridan ancha ustundir. Ikkala <mark>o'sish bosqichidagi rivojlanishga</mark> ham, yuqori unumdorlikdagi mashg'ulotlarga ham sarmoya kiritadigan muvozanatli yondashuv, chinakam sog'lom va inklyuziv sport madaniyatini yaratish uchun zarurdir. E'tibor faqat imtiyozli ozchilik uchun emas, balki hamma uchun imkoniyatlar yaratishga qaratilishi kerak, sportning <mark>ijobiy tarqalish effektlari</mark> jamiyatning har bir burchagiga yetib borishini ta'minlash kerak. Zo'rlikni tarbiyalash va barcha fuqarolar uchun sport imkoniyatlariga teng huquqli bo'lishni ta'minlash o'rtasida <mark>muvozanatni saqlash</mark> muhimdir.</p>"
+   }
+  },
+  "source": "Cambridge IELTS 18",
+  "examDate": "2022-10-29",
+  "settings": {
+   "timeInfo": "60 Minutes",
+   "moduleTitle": "Academic Writing Module",
+   "testIdentifier": "Mock 09"
+  },
+  "vocabulary": {
+   "task1": [
+    {
+     "term": "International tourists",
+     "meaning": "People visiting a country from abroad."
+    },
+    {
+     "term": "Distinct regions",
+     "meaning": "Areas that are clearly different or separate from each other."
+    },
+    {
+     "term": "Upward trend",
+     "meaning": "A general direction of change or development moving to a higher level."
+    },
+    {
+     "term": "Solidified its position",
+     "meaning": "To make a position or status stronger or more certain."
+    },
+    {
+     "term": "Premier destination",
+     "meaning": "The leading or most important place to visit."
+    },
+    {
+     "term": "Modest growth",
+     "meaning": "A small or moderate increase in size or amount."
+    },
+    {
+     "term": "Fluctuations",
+     "meaning": "Irregular changes in number or amount."
+    },
+    {
+     "term": "Initial count",
+     "meaning": "The number or amount at the very beginning of a period."
+    }
+   ],
+   "task2": [
+    {
+     "term": "Elite athletic training",
+     "meaning": "Training designed for top-tier, professional athletes."
+    },
+    {
+     "term": "Global recognition",
+     "meaning": "Being known or respected throughout the world."
+    },
+    {
+     "term": "Communal sports facilities",
+     "meaning": "Sports areas and equipment intended for use by the whole community."
+    },
+    {
+     "term": "Diverting funds",
+     "meaning": "Changing the use of money from one purpose to another."
+    },
+    {
+     "term": "Grassroots facilities",
+     "meaning": "Sports centers and resources for the general public at a local level."
+    },
+    {
+     "term": "Lifestyle diseases",
+     "meaning": "Health problems such as obesity and heart disease related to the way a person lives."
+    },
+    {
+     "term": "Social inequality",
+     "meaning": "The existence of unequal opportunities and rewards for different social positions or statuses."
+    },
+    {
+     "term": "Cultivation of talent",
+     "meaning": "The process of developing and improving special abilities or skills."
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "did grow": {
+    "uz": "o'sdi",
+    "type": "colloc"
+   },
+   "in contrast": {
+    "uz": "farqli o'laroq",
+    "type": "linking"
+   },
+   "To summarise": {
+    "uz": "Xulosa qilib aytganda",
+    "type": "linking"
+   },
+   "normal people": {
+    "uz": "oddiy odamlar",
+    "type": "colloc"
+   },
+   "not very fair": {
+    "uz": "juda adolatli emas",
+    "type": "colloc"
+   },
+   "hovered around": {
+    "uz": "atrofida aylanib yurdi",
+    "type": "lexical"
+   },
+   "saw a increase": {
+    "uz": "o'sishni ko'rdi",
+    "type": "lexical"
+   },
+   "spend money on": {
+    "uz": "pul sarflash",
+    "type": "lexical"
+   },
+   "This is because": {
+    "uz": "Buning sababi",
+    "type": "linking"
+   },
+   "growth momentum": {
+    "uz": "o'sish sur'ati",
+    "type": "lexical"
+   },
+   "reaching a peak": {
+    "uz": "eng yuqori cho'qqiga chiqish",
+    "type": "lexical"
+   },
+   "steady increase": {
+    "uz": "doimiy o'sish",
+    "type": "lexical"
+   },
+   "cultivate talent": {
+    "uz": "iste'dodni rivojlantirish",
+    "type": "lexical"
+   },
+   "During the period": {
+    "uz": "Davr mobaynida",
+    "type": "lexical"
+   },
+   "from 1987 to 2007": {
+    "uz": "1987 yildan 2007 yilgacha",
+    "type": "lexical"
+   },
+   "rose dramatically": {
+    "uz": "keskin ko'tarildi",
+    "type": "lexical"
+   },
+   "substantial surge": {
+    "uz": "sezilarli o'sish",
+    "type": "lexical"
+   },
+   "upward trajectory": {
+    "uz": "yuqoriga qarab harakatlanish traektoriyasi",
+    "type": "lexical"
+   },
+   "it is hard to find": {
+    "uz": "topish qiyin",
+    "type": "colloc"
+   },
+   "long-term benefits": {
+    "uz": "uzoq muddatli foydalar",
+    "type": "lexical"
+   },
+   "more than doubling": {
+    "uz": "ikki barobardan ko'proqqa oshish",
+    "type": "lexical"
+   },
+   "reaching just over": {
+    "uz": "ozgina oshib ketish",
+    "type": "lexical"
+   },
+   "rose significantly": {
+    "uz": "sezilarli darajada ko'tarildi",
+    "type": "lexical"
+   },
+   "This can discourage": {
+    "uz": "Bu to'sqinlik qilishi mumkin",
+    "type": "lexical"
+   },
+   "increasing interest": {
+    "uz": "ortib borayotgan qiziqish",
+    "type": "lexical"
+   },
+   "Also, it is not fair": {
+    "uz": "Bundan tashqari, bu adolatli emas",
+    "type": "colloc"
+   },
+   "dwarfing the figures": {
+    "uz": "raqamlarni mitti qilib ko'rsatish",
+    "type": "lexical"
+   },
+   "outweigh the benefits": {
+    "uz": "foydalardan ustun kelmoq",
+    "type": "lexical"
+   },
+   "reached approximately": {
+    "uz": "taxminan yetdi",
+    "type": "lexical"
+   },
+   "divergent trajectories": {
+    "uz": "xilma-xil trayektoriyalar",
+    "type": "lexical"
+   },
+   "grassroots development": {
+    "uz": "quyi darajadagi rivojlanish",
+    "type": "lexical"
+   },
+   "By channeling resources": {
+    "uz": "Resurslarni yo'naltirish orqali",
+    "type": "lexical"
+   },
+   "gives information about": {
+    "uz": "haqida ma'lumot beradi",
+    "type": "lexical"
+   },
+   "positive ripple effects": {
+    "uz": "ijobiy aks sado effektlari",
+    "type": "lexical"
+   },
+   "A more balanced approach": {
+    "uz": "Muvozanatliroq yondashuv",
+    "type": "lexical"
+   },
+   "high-performance centres": {
+    "uz": "yuqori natijali markazlar",
+    "type": "lexical"
+   },
+   "it is understandable why": {
+    "uz": "nima uchunligi tushunarli",
+    "type": "colloc"
+   },
+   "strike a balance between": {
+    "uz": "o'rtasida muvozanatni saqlash",
+    "type": "lexical"
+   },
+   "elite training facilities": {
+    "uz": "elita mashg'ulot inshootlari",
+    "type": "lexical"
+   },
+   "It is also noticeable that": {
+    "uz": "Shuni ham ta'kidlash joizki",
+    "type": "lexical"
+   },
+   "a decline in public health": {
+    "uz": "jamoat salomatligining pasayishi",
+    "type": "lexical"
+   },
+   "experienced an increase in": {
+    "uz": "o'sishni boshdan kechirdi",
+    "type": "lexical"
+   },
+   "State-of-the-art facilities": {
+    "uz": "Eng zamonaviy uskunalar",
+    "type": "lexical"
+   },
+   "shifting tourism preferences": {
+    "uz": "turizm afzalliklarining o'zgarishi",
+    "type": "lexical"
+   },
+   "Therefore, a holistic approach": {
+    "uz": "Shuning uchun, yaxlit yondashuv",
+    "type": "lexical"
+   },
+   "a largely detrimental approach": {
+    "uz": "asosan zararli yondashuv",
+    "type": "lexical"
+   },
+   "exacerbate social inequalities": {
+    "uz": "ijtimoiy tengsizliklarni kuchaytirish",
+    "type": "lexical"
+   },
+   "Furthermore, it is posited that": {
+    "uz": "Bundan tashqari, taxmin qilinadiki",
+    "type": "academic"
+   },
+   "It is more good for the country": {
+    "uz": "Bu mamlakat uchun yaxshiroq",
+    "type": "colloc"
+   },
+   "depicts the fluctuating numbers": {
+    "uz": "o'zgaruvchan raqamlarni tasvirlaydi",
+    "type": "lexical"
+   },
+   "cultivating a sense of community": {
+    "uz": "jamiyat tuyg'usini rivojlantirish",
+    "type": "lexical"
+   },
+   "designed only for elite athletes": {
+    "uz": "faqat elita sportchilari uchun mo'ljallangan",
+    "type": "lexical"
+   },
+   "plateau and then decline slightly": {
+    "uz": "tekislikka chiqdi va keyin biroz pasaydi",
+    "type": "lexical"
+   },
+   "hindering grassroots participation": {
+    "uz": "quyi darajadagi ishtirokga to'sqinlik qilish",
+    "type": "lexical"
+   },
+   "predominantly negative development": {
+    "uz": "asosan salbiy rivojlanish",
+    "type": "lexical"
+   },
+   "illustrates the fluctuating numbers": {
+    "uz": "o'zgaruvchan raqamlarni ko'rsatadi",
+    "type": "lexical"
+   },
+   "potentially hindering the discovery": {
+    "uz": "potentsial ravishda kashfiyotga to'sqinlik qilmoqda",
+    "type": "lexical"
+   },
+   "this makes more sense in the long term": {
+    "uz": "bu uzoq muddatda ko'proq ma'noga ega",
+    "type": "colloc"
+   },
+   "remained consistently the least visited": {
+    "uz": "doimiy ravishda eng kam tashrif buyurilgan bo'lib qoldi",
+    "type": "lexical"
+   },
+   "Ultimately, a healthy and active populace": {
+    "uz": "Oxir-oqibat, sog'lom va faol aholi",
+    "type": "lexical"
+   },
+   "decline in overall public health outcomes": {
+    "uz": "jamoat salomatligi natijalarining umumiy pasayishi",
+    "type": "lexical"
+   },
+   "stabilising towards the end of the period": {
+    "uz": "davr oxirida barqarorlashdi",
+    "type": "lexical"
+   },
+   "experienced a period of relative stability": {
+    "uz": "nisbatan barqarorlik davrini boshdan kechirdi",
+    "type": "lexical"
+   },
+   "bolstering national pride and international prestige": {
+    "uz": "milliy iftixorni va xalqaro nufuzni oshirish",
+    "type": "lexical"
+   },
+   "accessible and affordable community sports facilities": {
+    "uz": "qulay va arzon jamoat sport inshootlari",
+    "type": "lexical"
+   },
+   "effectively marginalising the majority of the population": {
+    "uz": "aholining ko'p qismini samarali ravishda chetlashtirish",
+    "type": "lexical"
+   }
+  }
+ },
+ "created_at": "2026-05-06T17:28:37.916314+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

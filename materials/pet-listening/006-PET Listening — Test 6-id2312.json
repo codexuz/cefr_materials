@@ -1,0 +1,412 @@
+{
+ "id": 2312,
+ "mock_type": "pet-listening",
+ "mock_number": 6,
+ "title": "PET Listening — Test 6",
+ "status": "published",
+ "mock_data": {
+  "audio": {
+   "base": "https://audio.mock-stream.com/PET-Listening/test6/",
+   "files": {
+    "1": "PART1.m4a",
+    "2": "PART2.m4a",
+    "3": "PART3.m4a",
+    "4": "PART4.m4a"
+   }
+  },
+  "parts": [
+   {
+    "type": "picture-mcq",
+    "items": [
+     {
+      "id": 1,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q1A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q1B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q1C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "When and where are they meeting?"
+     },
+     {
+      "id": 2,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q2A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q2B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q2C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What will Chris get for his birthday?"
+     },
+     {
+      "id": 3,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q3A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q3B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q3C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What does Mr Jones look like?"
+     },
+     {
+      "id": 4,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q4A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q4B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q4C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Where is he going to plant the tree?"
+     },
+     {
+      "id": 5,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q5A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q5B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q5C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What is the man going to buy?"
+     },
+     {
+      "id": 6,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q6A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q6B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q6C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Which is Gary's room?"
+     },
+     {
+      "id": 7,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q7A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q7B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q7C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Which is the best vehicle for the man?"
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "options": [
+      {
+       "text": "(example pictures from book pp.38 — student sees A as worked example)",
+       "letter": "A"
+      },
+      {
+       "text": "",
+       "letter": "B"
+      },
+      {
+       "text": "",
+       "letter": "C"
+      }
+     ],
+     "question": "What's the time?"
+    },
+    "imageBase": "https://audio.mock-stream.com/PET-Listening/test6/p1/",
+    "partNumber": 1,
+    "instruction": [
+     "There are seven questions in this part.",
+     "For each question there are three pictures and a short recording.",
+     "Choose the correct picture and put a tick (✓) in the box below it."
+    ],
+    "questionsLabel": "QUESTIONS 1–7"
+   },
+   {
+    "type": "mcq-conversation",
+    "items": [
+     {
+      "id": 8,
+      "stem": "The festival takes place from",
+      "answer": "C",
+      "options": [
+       {
+        "text": "12 to 18 May.",
+        "letter": "A"
+       },
+       {
+        "text": "12 to 20 May.",
+        "letter": "B"
+       },
+       {
+        "text": "12 to 28 May.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 9,
+      "stem": "What is on at the Theatre Royal on 19 May?",
+      "answer": "C",
+      "options": [
+       {
+        "text": "jazz",
+        "letter": "A"
+       },
+       {
+        "text": "opera",
+        "letter": "B"
+       },
+       {
+        "text": "classical music",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 10,
+      "stem": "During lunchtime jazz concerts at the Corn Exchange they sell",
+      "answer": "C",
+      "options": [
+       {
+        "text": "soft drinks and sandwiches.",
+        "letter": "A"
+       },
+       {
+        "text": "wine and sandwiches.",
+        "letter": "B"
+       },
+       {
+        "text": "soft drinks and light meals.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 11,
+      "stem": "What is on at the cathedral?",
+      "answer": "A",
+      "options": [
+       {
+        "text": "music",
+        "letter": "A"
+       },
+       {
+        "text": "poetry",
+        "letter": "B"
+       },
+       {
+        "text": "films",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "stem": "What does the festival programme offer at Ickworth?",
+      "answer": "C",
+      "options": [
+       {
+        "text": "a walk and a book reading",
+        "letter": "A"
+       },
+       {
+        "text": "a concert and a meal",
+        "letter": "B"
+       },
+       {
+        "text": "a walk and a concert",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "stem": "You can't use a credit card if you book",
+      "answer": "A",
+      "options": [
+       {
+        "text": "by post.",
+        "letter": "A"
+       },
+       {
+        "text": "by fax.",
+        "letter": "B"
+       },
+       {
+        "text": "by telephone.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 2",
+    "partNumber": 2,
+    "instruction": [
+     "You will hear a recorded message about an arts festival.",
+     "For each question, put a tick (✓) in the correct box."
+    ],
+    "questionsLabel": "QUESTIONS 8–13"
+   },
+   {
+    "rows": [
+     {
+      "id": 14,
+      "label": "Dates: 17th to 19th",
+      "answer": "March"
+     },
+     {
+      "id": 15,
+      "label": "Fair includes:",
+      "answer": "talks",
+      "suffix": "by educational speakers"
+     },
+     {
+      "id": 16,
+      "label": "demonstrations of latest",
+      "answer": "computer programs"
+     },
+     {
+      "id": 17,
+      "label": "Opening hours: 9.30 a.m.–4.00 p.m on",
+      "answer": "Saturday"
+     },
+     {
+      "id": 18,
+      "label": "Tickets: £5 or £3 for",
+      "answer": "students"
+     },
+     {
+      "id": 19,
+      "label": "Hotline:",
+      "answer": "9847711"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 3",
+    "noteTitle": "The Language Study Fair",
+    "partNumber": 3,
+    "instruction": [
+     "You will hear someone talking on the radio about a Language Study Fair.",
+     "For each question, fill in the missing information in the numbered space."
+    ],
+    "questionsLabel": "QUESTIONS 14–19"
+   },
+   {
+    "type": "true-false",
+    "items": [
+     {
+      "id": 20,
+      "answer": "B",
+      "statement": "Kate has stopped taking her medicine."
+     },
+     {
+      "id": 21,
+      "answer": "A",
+      "statement": "George thinks Kate should stay away from class."
+     },
+     {
+      "id": 22,
+      "answer": "B",
+      "statement": "Kate had an accident on her bike last week."
+     },
+     {
+      "id": 23,
+      "answer": "A",
+      "statement": "George thinks Mr Gray is a lazy lecturer."
+     },
+     {
+      "id": 24,
+      "answer": "A",
+      "statement": "Kate will miss three lectures."
+     },
+     {
+      "id": 25,
+      "answer": "B",
+      "statement": "Kate wants to stay at home at the weekend."
+     }
+    ],
+    "label": "PART 4",
+    "scenario": "Kate and George — Kate's illness and missing lectures",
+    "partNumber": 4,
+    "instruction": [
+     "Look at the six sentences for this part.",
+     "You will hear a conversation between a girl, Kate, and a boy, George.",
+     "Decide if each sentence is correct or incorrect.",
+     "If it is correct, put a tick (✓) in the box under A for YES. If it is not correct, put a tick (✓) in the box under B for NO."
+    ],
+    "questionsLabel": "QUESTIONS 20–25"
+   }
+  ],
+  "testInfo": {
+   "id": "pet-l-06",
+   "level": "B1",
+   "paper": "Paper 2 · Listening",
+   "parts": 4,
+   "title": "PET Listening — Test 6",
+   "totalTime": 35,
+   "totalQuestions": 25
+  }
+ },
+ "created_at": "2026-10-14T06:45:51.134476+00:00",
+ "updated_at": "2026-10-14T06:47:37.112002+00:00"
+}

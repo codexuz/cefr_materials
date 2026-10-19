@@ -1,0 +1,824 @@
+{
+ "id": 359,
+ "mock_type": "cefr-reading",
+ "mock_number": 18,
+ "title": "CEFR B1-B2-C1 Reading Test 18",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "gap-fill-text",
+    "title": "Part 1",
+    "answers": {
+     "1": [
+      "London"
+     ],
+     "2": [
+      "open"
+     ],
+     "3": [
+      "relax"
+     ],
+     "4": [
+      "London"
+     ],
+     "5": [
+      "parks"
+     ],
+     "6": [
+      "Dogs"
+     ]
+    },
+    "passage": {
+     "title": "Visiting the Royal Parks",
+     "content": "<p>London has a well-deserved reputation as one of the greenest cities in Europe, with a huge number of open spaces across the center of the city. Tourists who are tired of the noise, crowds and excitement of sightseeing can always relax in a lovely, quiet <span class=\"gap\" data-gap=\"1\">_____(1)_____</span> park.</p><p>The Royal Parks, such as St James's, Green Park, the Regent's Park, Hyde Park, Richmond, Greenwich, Bushy Park and Kensington Gardens, are beautifully maintained and popular with locals and visitors alike. Many are former hunting estates of English monarchs, preserved as <span class=\"gap\" data-gap=\"2\">_____(2)_____</span> space while the city has grown up around them. They are ideal places to <span class=\"gap\" data-gap=\"3\">_____(3)_____</span> and sunbathe in summer, enjoy gorgeous flower beds in spring and admire the changing leaves as autumn arrives.</p><p>The Royal Parks provide fantastic green routes in <span class=\"gap\" data-gap=\"4\">_____(4)_____</span> that take cyclists away from traffic and through some of the most attractive areas of the capital. Picnics in the <span class=\"gap\" data-gap=\"5\">_____(5)_____</span> are also a popular activity especially during the busy summer months.</p><p><span class=\"gap\" data-gap=\"6\">_____(6)_____</span> are welcome in all the Royal Parks, although there are some places where they are not allowed or should be kept on a lead. These are clearly indicated within each park and are usually ecologically sensitive sites, children's play areas, restaurants, cafes and some sports areas. Ground nesting birds are particularly sensitive to disturbance by dogs and people. So it is necessary to observe the warning signs that are displayed during the nesting season. In Bushy Park and Richmond Park dogs should be kept away from the deer.</p><p>The Royal Parks are for everyone to enjoy.</p>"
+    },
+    "questions": [
+     {
+      "id": 1,
+      "hint": "relax in a lovely, quiet _____ park"
+     },
+     {
+      "id": 2,
+      "hint": "preserved as _____ space"
+     },
+     {
+      "id": 3,
+      "hint": "ideal places to _____ and sunbathe"
+     },
+     {
+      "id": 4,
+      "hint": "green routes in _____ that take cyclists"
+     },
+     {
+      "id": 5,
+      "hint": "Picnics in the _____ are also a popular activity"
+     },
+     {
+      "id": 6,
+      "hint": "_____ are welcome in all the Royal Parks"
+     }
+    ],
+    "partNumber": 1,
+    "instruction": "Read the text. Fill in each gap with ONE word. You must use a word which is somewhere in the rest of the text.",
+    "explanations": {
+     "q1": {
+      "text": "The entire passage is about the green spaces within London. The first sentence establishes the city as the main topic, describing it as one of Europe's greenest cities. That's why the correct answer is 'London'.",
+      "quote": "London has a well-deserved reputation as one of the greenest cities in Europe, with a huge number of open spaces across the center of the city."
+     },
+     "q2": {
+      "text": "The passage describes how former royal hunting estates were preserved as the city grew around them. The first sentence introduces these areas as 'open spaces', which fits the context perfectly. That's why the correct answer is 'open'.",
+      "quote": "London has a well-deserved reputation as one of the greenest cities in Europe, with a huge number of open spaces across the center of the city."
+     },
+     "q3": {
+      "text": "The passage lists activities for visitors. An earlier sentence states that tired tourists can 'relax' in the parks, which is a similar leisure activity to sunbathing in the summer. That's why the correct answer is 'relax'.",
+      "quote": "Tourists who are tired of the noise, crowds and excitement of sightseeing can always relax in a lovely, quiet _____(1)_____ park."
+     },
+     "q4": {
+      "text": "The passage is about parks in London. The sentence mentions cycling routes through 'the capital', which in this context is London, the city where the Royal Parks are located. That's why the correct answer is 'London'.",
+      "quote": "The Royal Parks provide fantastic green routes in _____(4)_____ that take cyclists away from traffic and through some of the most attractive areas of the capital."
+     },
+     "q5": {
+      "text": "The paragraph describes popular activities that take place in the Royal Parks, such as cycling. Picnics are another common activity people enjoy in these green spaces. That's why the correct answer is 'parks'.",
+      "quote": "The Royal Parks are for everyone to enjoy."
+     },
+     "q6": {
+      "text": "The sentences immediately following the gap discuss rules for a specific animal, mentioning their effect on birds and deer. This context makes it clear the subject is dogs. That's why the correct answer is 'Dogs'.",
+      "quote": "Ground nesting birds are particularly sensitive to disturbance by dogs and people."
+     }
+    },
+    "questionRange": "1-6"
+   },
+   {
+    "type": "matching",
+    "texts": [
+     {
+      "title": "Person 7",
+      "number": 7,
+      "content": "You are studying sea creatures that are disappearing due to environmental changes, and want to attend a talk about them. You are also interested in learning about what's living on the beaches nearby."
+     },
+     {
+      "title": "Person 8",
+      "number": 8,
+      "content": "Your art project is on colourful fish so you want to draw some, and take home some photos of unusual sea creatures. You and your family also want to swim at the centre afterwards."
+     },
+     {
+      "title": "Person 9",
+      "number": 9,
+      "content": "You are interested in tiny sea animals, and want to actually handle them and learn what conditions they need to live in. You'd also enjoy seeing a feeding session for the larger creatures."
+     },
+     {
+      "title": "Person 10",
+      "number": 10,
+      "content": "You are interested in creatures living in cold climates, and how they find food. You'd like to create something for your art homework too, and learn about photographing underwater wildlife."
+     },
+     {
+      "title": "Person 11",
+      "number": 11,
+      "content": "You would love to swim with fish at the centre. You'd also like to learn about a range of sea environments, and about unusual creatures living at the bottom of our oceans."
+     },
+     {
+      "title": "Person 12",
+      "number": 12,
+      "content": "You and your boss want somewhere with lots of space where you can sit and enjoy the view. Your boss would not manage a difficult walk to the beach. You want to eat lunch in a café."
+     },
+     {
+      "title": "Person 13",
+      "number": 13,
+      "content": "You and Jenny have two children who cannot swim. Jenny wants them to be able to play safely in the water. You want to learn to sail. You need to park near the beach."
+     }
+    ],
+    "title": "Part 2",
+    "answers": {
+     "7": [
+      "F"
+     ],
+     "8": [
+      "D"
+     ],
+     "9": [
+      "H"
+     ],
+     "10": [
+      "E"
+     ],
+     "11": [
+      "B"
+     ],
+     "12": [
+      "A"
+     ],
+     "13": [
+      "I"
+     ]
+    },
+    "questions": [
+     {
+      "id": 7,
+      "textNumber": 7
+     },
+     {
+      "id": 8,
+      "textNumber": 8
+     },
+     {
+      "id": 9,
+      "textNumber": 9
+     },
+     {
+      "id": 10,
+      "textNumber": 10
+     },
+     {
+      "id": 11,
+      "textNumber": 11
+     },
+     {
+      "id": 12,
+      "textNumber": 12
+     },
+     {
+      "id": 13,
+      "textNumber": 13
+     }
+    ],
+    "partNumber": 2,
+    "statements": [
+     {
+      "text": "Amrith. A large beach which attracts quite a few visitors but doesn't get crowded because of its size. There are pleasant views out to sea and to Bedruth Island. Swimming is safe but surfing is not permitted. There is a café and parking but no shops.",
+      "letter": "A"
+     },
+     {
+      "text": "Rockwater. We have sea creatures from both warm and cooler waters in our huge glass tanks. You can even go into the water in one, accompanied by staff – ask at the desk! We've also got fish that are rarely seen, as they're normally found in the very deepest water on our planet. No photography is allowed.",
+      "letter": "B"
+     },
+     {
+      "text": "Splashdown. Perfect for family fun – our tropical swimming pool that's only divided from the penguins next door by a glass wall! See them swimming in their pool while you're in yours! And don't miss their mealtimes - watch as they dive for their food.",
+      "letter": "C"
+     },
+     {
+      "text": "Waterlife. We've got some of the rarest fish in the world, and the most beautiful. See the clown fish with its bright yellow and white stripes! Cameras aren't allowed, but amazing professional pictures are available in our shop. Then once you've seen everything, relax in our fantastic warm pool – strictly for humans!",
+      "letter": "D"
+     },
+     {
+      "text": "Brightworld. Many creatures here are normally found in environments with low temperatures, such as our big group of penguins. Come and see our amazing displays of photos showing these birds diving for their supper! There are also short talks on using your camera for great shots of fish, and painting sessions, too.",
+      "letter": "E"
+     },
+     {
+      "text": "Marine Life. Keen to protect our oceans? Come and see the work we're doing – there are presentations about it every hour. For example, we try to help shark numbers worldwide remain at healthy levels. And visit our amazing rock pool displays full of tiny creatures, typical of ones that make their homes near the sea just metres away!",
+      "letter": "F"
+     },
+     {
+      "text": "Oceanwatch. The focus is on science here – there are films throughout the day about oceans around the world and the environmental problems facing marine wildlife. There's plenty to learn, and lots of souvenirs to buy! Free brochures full of information.",
+      "letter": "G"
+     },
+     {
+      "text": "Waterlife. See some of the smallest sea life such as shrimps and starfish at our rock pool display - and even pick them up! Find out how clean sea water is essential to these creatures, and the effects of pollution. And don't miss watching the penguins and seals have their lunch – that's really popular!",
+      "letter": "H"
+     },
+     {
+      "text": "Marple. Although unsuitable for surfing, this is a popular boating centre. Swimming is good and the many pools of shallow water are safe for children. Ocean Watersports Centre, which offers lessons in sailing and water skiing, is next to the beach. There is a steep path to the beach from the car park.",
+      "letter": "I"
+     },
+     {
+      "text": "Goldenwave. Come and see the variety of warm sea environments at this centre – and creatures so small you might not have noticed them living on the beach, or the most beautiful fish living in our oceans. Bring your camera and learn to take the best photos ever!",
+      "letter": "J"
+     }
+    ],
+    "instruction": "You want to visit a sea life centre. There are descriptions of ten sea life centres. Decide which sea life centre would be the most suitable for you. For questions 7–13, mark the correct letter (A–J) on your answer sheet.",
+    "explanations": {
+     "q7": {
+      "text": "You want to learn about disappearing sea creatures and those on nearby beaches. Marine Life has presentations on protecting the oceans and displays of tiny creatures from local rock pools. That's why the correct answer is F.",
+      "quote": ""
+     },
+     "q8": {
+      "text": "You need to see colourful fish for an art project, get photos, and swim. Waterlife has beautiful fish, sells professional pictures, and has a warm pool for your family to use afterwards. That's why the correct answer is D.",
+      "quote": ""
+     },
+     "q9": {
+      "text": "You are looking for a place where you can handle tiny sea animals and also see a feeding session. At Waterlife, you can pick up creatures like shrimps and starfish and also watch the penguins and seals eat. That's why the correct answer is H.",
+      "quote": ""
+     },
+     "q10": {
+      "text": "You're interested in cold-climate animals, art, and photography. Brightworld has penguins, offers painting sessions, and provides talks on how to photograph fish, matching all your interests. That's why the correct answer is E.",
+      "quote": ""
+     },
+     "q11": {
+      "text": "You want to swim with fish and learn about deep-sea creatures. Rockwater allows you to get in the water with the animals and has fish that are normally found at the bottom of the ocean. That's why the correct answer is B.",
+      "quote": ""
+     },
+     "q12": {
+      "text": "You need a spacious place with a view, a café, and an easy walk. Amrith is a large beach that doesn't get crowded, has pleasant views, and includes a café and parking, avoiding a difficult walk. That's why the correct answer is A.",
+      "quote": ""
+     },
+     "q13": {
+      "text": "You need a place with safe water for children and sailing lessons. Marple has shallow pools that are safe for children and a watersports centre next to the beach that offers sailing lessons. That's why the correct answer is I.",
+      "quote": ""
+     }
+    },
+    "questionRange": "7-13",
+    "extraStatements": [
+     "C",
+     "G",
+     "J"
+    ],
+    "statementsFirst": false
+   },
+   {
+    "type": "matching-headings",
+    "title": "Part 3",
+    "answers": {
+     "14": [
+      "II"
+     ],
+     "15": [
+      "I"
+     ],
+     "16": [
+      "V"
+     ],
+     "17": [
+      "VI"
+     ],
+     "18": [
+      "III"
+     ],
+     "19": [
+      "VII"
+     ]
+    },
+    "passage": {
+     "title": "",
+     "paragraphs": [
+      {
+       "number": "A",
+       "content": "The mountains of Scotland (we call them the Highlands) are a wild and beautiful part of Europe. A golden eagle flies over the mountains. A deer walks through the silence of the forest. Salmon and trout swim in the clean, pure water of the rivers. Some say that not only fish swim in the deep water of Loch Ness. Speak to the people living by the Loch. Each person has a story of the monster, and some have photographs.",
+       "questionId": 14
+      },
+      {
+       "number": "B",
+       "content": "Tresco is a beautiful island with no cars, crowds or noise — just flowers, birds, long sandy beaches and the Tresco Abbey Garden. John and Wendy Pyatt welcome you to the Island Hotel, famous for delicious food, comfort and brilliant service. You will appreciate superb accommodation, free saunas and the indoor swimming pool.",
+       "questionId": 15
+      },
+      {
+       "number": "C",
+       "content": "The Camel and Wildlife Safari is a unique mixture of the traditional and modern. Kenya's countryside suits the Safari purposes exceptionally well. Tourists will have a chance to explore the bush near Samburu, to travel on a camel back or to sleep out under the stars. Modern safari vehicles are always available for those who prefer comfort.",
+       "questionId": 16
+      },
+      {
+       "number": "D",
+       "content": "Arrival can be the hardest part of a trip. It is late, you are road-weary, and everything is new and strange. You need an affordable place to sleep, something to eat and drink, and probably a way to get around. But in general, it's a wonderful trip, full of wonderful and unusual places. Whether it is the first stop on a trip or the fifth city visited, every traveller feels a little overwhelmed stepping onto a new street in a new city.",
+       "questionId": 17
+      },
+      {
+       "number": "E",
+       "content": "No zoo has enough money to provide basic habitats or environments for all the species they keep. Most animals are put in a totally artificial environment, isolated from everything they would meet in their natural habitat. Many will agree that this isolation is harmful to the most of zoo inhabitants, it can even amount to cruelty.",
+       "questionId": 18
+      },
+      {
+       "number": "F",
+       "content": "A new London Zoo Project is a ten year project to secure the future for the Zoo and for many endangered animals. The plan has been devised by both animal and business experts to provide world-leading accommodation for all our animals, to more fully engage and inform people about conservation issues, to redesign certain aspects of Zoo layout.",
+       "questionId": 19
+      }
+     ]
+    },
+    "headings": [
+     {
+      "text": "Perfect for a quiet holiday",
+      "letter": "I"
+     },
+     {
+      "text": "Land of nature wonders",
+      "letter": "II"
+     },
+     {
+      "text": "Bad for animals",
+      "letter": "III"
+     },
+     {
+      "text": "A visit to the zoo",
+      "letter": "IV"
+     },
+     {
+      "text": "Perfect for an active holiday",
+      "letter": "V"
+     },
+     {
+      "text": "Difficult start",
+      "letter": "VI"
+     },
+     {
+      "text": "New perspectives",
+      "letter": "VII"
+     },
+     {
+      "text": "New rules to follow",
+      "letter": "VIII"
+     }
+    ],
+    "questions": [
+     {
+      "id": 14,
+      "paragraphLetter": "A"
+     },
+     {
+      "id": 15,
+      "paragraphLetter": "B"
+     },
+     {
+      "id": 16,
+      "paragraphLetter": "C"
+     },
+     {
+      "id": 17,
+      "paragraphLetter": "D"
+     },
+     {
+      "id": 18,
+      "paragraphLetter": "E"
+     },
+     {
+      "id": 19,
+      "paragraphLetter": "F"
+     }
+    ],
+    "partNumber": 3,
+    "instruction": "Read the text and choose the correct heading for each paragraph from the list of headings below. There are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once.",
+    "explanations": {
+     "q14": {
+      "text": "This paragraph describes the Scottish Highlands as a \"wild and beautiful\" place with eagles, deer, and fish in clean rivers. This imagery of unspoiled nature makes it a land of wonders, so the correct answer is II.",
+      "quote": "The mountains of Scotland (we call them the Highlands) are a wild and beautiful part of Europe."
+     },
+     "q15": {
+      "text": "The paragraph describes Tresco as an island with \"no cars, crowds or noise,\" only natural beauty like flowers and beaches. This lack of disturbance makes it an ideal location for a peaceful vacation, so the correct answer is I.",
+      "quote": "Tresco is a beautiful island with no cars, crowds or noise — just flowers, birds, long sandy beaches and the Tresco Abbey Garden."
+     },
+     "q16": {
+      "text": "The paragraph describes a safari where tourists can actively \"explore the bush,\" \"travel on a camel back,\" and \"sleep out under the stars.\" These activities suggest an adventurous and active trip, so the correct answer is V.",
+      "quote": "Tourists will have a chance to explore the bush near Samburu, to travel on a camel back or to sleep out under the stars."
+     },
+     "q17": {
+      "text": "The paragraph explicitly states that arriving in a new place can be the \"hardest part of a trip\" because you are tired and everything is unfamiliar. This describes a challenging beginning, so the correct answer is VI.",
+      "quote": "Arrival can be the hardest part of a trip."
+     },
+     "q18": {
+      "text": "The paragraph argues that zoos place animals in \"totally artificial\" and isolated environments, which is described as \"harmful\" and can even be considered \"cruelty.\" This highlights negative conditions for animals, so the correct answer is III.",
+      "quote": "Many will agree that this isolation is harmful to the most of zoo inhabitants, it can even amount to cruelty."
+     },
+     "q19": {
+      "text": "The paragraph describes a \"new London Zoo Project\" with a new plan to secure the zoo's future. It aims to provide better animal accommodation and engage people differently, representing a fresh outlook, so the correct answer is VII.",
+      "quote": "A new London Zoo Project is a ten year project to secure the future for the Zoo and for many endangered animals."
+     }
+    },
+    "extraHeadings": [
+     "IV",
+     "VIII"
+    ],
+    "questionRange": "14-19"
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 4",
+    "answers": {
+     "20": [
+      "D"
+     ],
+     "21": [
+      "A"
+     ],
+     "22": [
+      "C"
+     ],
+     "23": [
+      "A"
+     ],
+     "24": [
+      "C"
+     ],
+     "25": [
+      "False"
+     ],
+     "26": [
+      "Not Given"
+     ],
+     "27": [
+      "True"
+     ]
+    },
+    "passage": {
+     "title": "Bring back the big cats",
+     "content": "<p>It's time to start returning vanished native animals to Britain, says John Vesty</p><p>There is a poem, written around 598 AD, which describes hunting a mystery animal called a llewyn. But what was it? Nothing seemed to fit, until 2006, when an animal bone, dating from around the same period, was found in the Kinsey Cave in northern England. Until this discovery, the lynx – a large spotted cat with tasselled ears – was presumed to have died out in Britain at least 6,000 years ago, before the inhabitants of these islands took up farming. But the 2006 find, together with three others in Yorkshire and Scotland, is compelling evidence that the lynx and the mysterious llewyn were in fact one and the same animal. If this is so, it would bring forward the tassel-eared cat's estimated extinction date by roughly 5,000 years.</p><p>However, this is not quite the last glimpse of the animal in British culture. A 9th-century stone cross from the Isle of Eigg shows, alongside the deer, boar and aurochs pursued by a mounted hunter, a speckled cat with tasselled ears. Were it not for the animal's backside having worn away with time, we could have been certain, as the lynx's stubby tail is unmistakable. But even without this key feature, it's hard to see what else the creature could have been. The lynx is now becoming the totemic animal of a movement that is transforming British environmentalism: rewilding.</p><p>Rewilding means the mass restoration of damaged ecosystems. It involves letting trees return to places that have been denuded, allowing parts of the seabed to recover from trawling and dredging, permitting rivers to flow freely again. Above all, it means bringing back missing species. One of the most striking findings of modern ecology is that ecosystems without large predators behave in completely different ways from those that retain them. Some of them drive dynamic processes that resonate through the whole food chain, creating niches for hundreds of species that might otherwise struggle to survive. The killers turn out to be bringers of life.</p><p>Such findings present a big challenge to British conservation, which has often selected arbitrary assemblages of plants and animals and sought, at great effort and expense, to prevent them from changing. It has tried to preserve the living world as if it were a jar of pickles, letting nothing in and nothing out, keeping nature in a state of arrested development. But ecosystems are not merely collections of species; they are also the dynamic and ever-shifting relationships between them. And this dynamism often depends on large predators.</p><p>At sea the potential is even greater: by protecting large areas from commercial fishing, we could once more see what 18th-century literature describes: vast shoals of fish being chased by fin and sperm whales, within sight of the English shore. This policy would also greatly boost catches in the surrounding seas; the fishing industry's insistence on scouring every inch of seabed, leaving no breeding reserves, could not be more damaging to its own interests.</p><p>Rewilding is a rare example of an environmental movement in which campaigners articulate what they are for rather than only what they are against. One of the reasons why the enthusiasm for rewilding is spreading so quickly in Britain is that it helps to create a more inspiring vision than the green movement's usual promise of 'Follow us and the world will be slightly less awful than it would otherwise have been.'</p><p>The lynx presents no threat to human beings: there is no known instance of one preying on people. It is a specialist predator of roe deer, a species that has exploded in Britain in recent decades, holding back, by intensive browsing, attempts to re-establish forests. It will also winkle out sika deer: an exotic species that is almost impossible for human beings to control, as it hides in impenetrable plantations of young trees. The attempt to reintroduce this predator marries well with the aim of bringing forests back to parts of our bare and barren uplands. The lynx requires deep cover, and as such presents little risk to sheep and other livestock, which are supposed, as a condition of farm subsidies, to be kept out of the woods.</p><p>On a recent trip to the Cairngorm Mountains, I heard several conservationists suggest that the lynx could be reintroduced there within 20 years. If trees return to the bare hills elsewhere in Britain, the big cats could soon follow. There is nothing extraordinary about these proposals, seen from the perspective of anywhere else in Europe. The lynx has now been reintroduced to the Jura Mountains, the Alps, the Vosges in eastern France and the Harz mountains in Germany, and has re-established itself in many more places. The European population has tripled since 1970 to roughly 10,000. As with wolves, bears, beavers, boar, bison, moose and many other species, the lynx has been able to spread as farming has left the hills and people discover that it is more lucrative to protect charismatic wildlife than to hunt it, as tourists will pay for the chance to see it. Large-scale rewilding is happening almost everywhere – except Britain.</p><p>Here, attitudes are just beginning to change. Conservationists are starting to accept that the old preservation-jar model is failing, even on its own terms. Already, projects such as Trees for Life in the Highlands provide a hint of what might be coming. An organisation is being set up that will seek to catalyse the rewilding of land and sea across Britain, its aim being to reintroduce that rarest of species to British ecosystems: hope.</p>"
+    },
+    "partNumber": 4,
+    "instruction": "Read the following text for questions 20-27.",
+    "explanations": {
+     "q20": {
+      "text": "The passage states that the discovery of a lynx bone from around 598 AD would push its extinction date forward by 5,000 years, meaning it survived much longer than previously believed. That's why the correct answer is D.",
+      "quote": "If this is so, it would bring forward the tassel-eared cat's estimated extinction date by roughly 5,000 years."
+     },
+     "q21": {
+      "text": "The author explains that large predators create opportunities, or 'niches', for hundreds of other species to survive where they otherwise might not. This increases the variety of life, or biodiversity. That's why the correct answer is A.",
+      "quote": "Some of them drive dynamic processes that resonate through the whole food chain, creating niches for hundreds of species that might otherwise struggle to survive."
+     },
+     "q22": {
+      "text": "The writer criticises the traditional British approach to conservation by comparing it to preserving something in a jar, which ignores the dynamic nature of ecosystems. This implies the approach was misguided. That's why the correct answer is C.",
+      "quote": "It has tried to preserve the living world as if it were a jar of pickles, letting nothing in and nothing out, keeping nature in a state of arrested development."
+     },
+     "q23": {
+      "text": "The passage states that protecting parts of the sea would lead to a significant increase in the number of fish caught in surrounding areas, which would be a direct benefit to the fishing industry. That's why the correct answer is A.",
+      "quote": ""
+     },
+     "q24": {
+      "text": "The author contrasts rewilding's 'inspiring vision' with the typically negative framing of other green campaigns, suggesting its positive message is a key reason for its popularity. That's why the correct answer is C.",
+      "quote": ""
+     },
+     "q25": {
+      "text": "The passage explicitly lists several other European countries, including France and Germany, where the lynx has already been reintroduced. Therefore, Britain cannot be the first. That's why the correct answer is False.",
+      "quote": ""
+     },
+     "q26": {
+      "text": "The text states that the lynx population has tripled, but it does not mention what conservationists' original expectations were. Without this information, the statement cannot be verified. That's why the correct answer is Not Given.",
+      "quote": "The European population has tripled since 1970 to roughly 10,000."
+     },
+     "q27": {
+      "text": "The passage directly links the spread of the lynx in Europe to the fact that 'farming has left the hills'. This change in agriculture has allowed the animal's habitat to expand. That's why the correct answer is True.",
+      "quote": ""
+     }
+    },
+    "questionRange": "20-27",
+    "questionSections": [
+     {
+      "type": "mcq",
+      "title": "Questions 20-24: Multiple Choice",
+      "questions": [
+       {
+        "id": 20,
+        "text": "What did the 2006 discovery of the animal bone reveal about the lynx?",
+        "options": [
+         {
+          "text": "Its physical appearance was very distinctive.",
+          "letter": "A"
+         },
+         {
+          "text": "Its extinction was linked to the spread of farming.",
+          "letter": "B"
+         },
+         {
+          "text": "It vanished from Britain several thousand years ago.",
+          "letter": "C"
+         },
+         {
+          "text": "It survived in Britain longer than was previously thought.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 21,
+        "text": "What point does the writer make about large predators in the third paragraph?",
+        "options": [
+         {
+          "text": "Their presence can increase biodiversity.",
+          "letter": "A"
+         },
+         {
+          "text": "They may cause damage to local ecosystems.",
+          "letter": "B"
+         },
+         {
+          "text": "Their behaviour can alter according to the environment.",
+          "letter": "C"
+         },
+         {
+          "text": "They should be reintroduced only to areas where they were native.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 22,
+        "text": "What does the writer suggest about British conservation in the fourth paragraph?",
+        "options": [
+         {
+          "text": "It has failed to achieve its aims.",
+          "letter": "A"
+         },
+         {
+          "text": "It is beginning to change direction.",
+          "letter": "B"
+         },
+         {
+          "text": "It has taken a misguided approach.",
+          "letter": "C"
+         },
+         {
+          "text": "It has focused on the most widespread species.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 23,
+        "text": "Protecting large areas of the sea from commercial fishing would result in",
+        "options": [
+         {
+          "text": "practical benefits for the fishing industry.",
+          "letter": "A"
+         },
+         {
+          "text": "some short-term losses to the fishing industry.",
+          "letter": "B"
+         },
+         {
+          "text": "widespread opposition from the fishing industry.",
+          "letter": "C"
+         },
+         {
+          "text": "certain changes to techniques within the fishing industry.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 24,
+        "text": "According to the author, what distinguishes rewilding from other environmental campaigns?",
+        "options": [
+         {
+          "text": "Its objective is more achievable.",
+          "letter": "A"
+         },
+         {
+          "text": "Its supporters are more articulate.",
+          "letter": "B"
+         },
+         {
+          "text": "Its positive message is more appealing.",
+          "letter": "C"
+         },
+         {
+          "text": "It is based on sounder scientific principles.",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "Write the correct letter, A, B, C or D.",
+      "questionRange": "20-24"
+     },
+     {
+      "type": "tfni",
+      "title": "Questions 25-27: True/False/Not Given",
+      "options": [
+       "True",
+       "False",
+       "Not Given"
+      ],
+      "questions": [
+       {
+        "id": 25,
+        "text": "Britain could become the first European country to reintroduce the lynx."
+       },
+       {
+        "id": 26,
+        "text": "The large growth in the European lynx population since 1970 has exceeded conservationists' expectations."
+       },
+       {
+        "id": 27,
+        "text": "Changes in agricultural practices have extended the habitat of the lynx in Europe."
+       }
+      ],
+      "instruction": "Do the following statements agree with the information given in the reading passage? Write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+      "questionRange": "25-27"
+     }
+    ]
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 5",
+    "answers": {
+     "28": [
+      "A"
+     ],
+     "29": [
+      "C"
+     ],
+     "30": [
+      "B"
+     ],
+     "31": [
+      "word choices"
+     ],
+     "32": [
+      "colloquial terminology"
+     ],
+     "33": [
+      "observer"
+     ],
+     "34": [
+      "invariant description"
+     ],
+     "35": [
+      "general",
+      "(theory of) general"
+     ]
+    },
+    "passage": {
+     "title": "Communication in science",
+     "content": "<p>Science plays an increasingly significant role in people's lives, making the faithful communication of scientific developments more important than ever. Yet such communication is fraught with challenges that can easily distort discussions, leading to unnecessary confusion and misunderstandings.</p><p>Some problems stem from the esoteric nature of current research and the associated difficulty of finding sufficiently faithful terminology. Abstraction and complexity are not signs that a given scientific direction is wrong, as some commentators have suggested, but are instead a tribute to the success of human ingenuity in meeting the increasingly complex challenges that nature presents. They can, however, make communication more difficult. But many of the biggest challenges for science reporting arise because in areas of evolving research, scientists themselves often only partly understand the full implications of any particular advance or development. Since that dynamic applies to most of the scientific developments that directly affect people's lives – global warming, cancer research, diet studies – learning how to overcome it is critical to spurring a more informed scientific debate among the broader public.</p><p>Ambiguous word choices are the source of some misunderstandings. Scientists often employ colloquial terminology, which they then assign a specific meaning that is impossible to fathom without proper training. The term \"relativity,\" for example, is intrinsically misleading. Many interpret the theory to mean that everything is relative and there are no absolutes. Yet although the measurements any observer makes depend on his coordinates and reference frame, the physical phenomena he measures have an invariant description that transcends that observer's particular coordinates. Einstein's theory of relativity is really about finding an invariant description of physical phenomena. True, Einstein agreed with the idea that his theory would have been better named \"Invarianten theorie.\" But the term \"relativity\" was already entrenched at the time for him to change.</p><p>\"The uncertainty principle\" is another frequently abused term. It is sometimes interpreted as a limitation on observers and their ability to make measurements.</p><p>But it is not about intrinsic limitations on any one particular measurement; it is about the inability to precisely measure particular pairs of quantities simultaneously? The first interpretation is perhaps more engaging from a philosophical or political perspective. It's just not what the science is about.</p><p>Even the word \"theory\" can be a problem. Unlike most people, who use the word to describe a passing conjecture that they often regard as suspect, physicists have very specific ideas in mind when they talk about theories. For physicists, theories entail a definite physical framework embodied in a set of fundamental assumptions about the world that lead to a specific set of equations and predictions – ones that are borne out by successful predictions. Theories aren't necessarily shown to be correct or complete immediately. Even Einstein took the better part of a decade to develop the correct version of his theory of general relativity. But eventually both the ideas and the measurements settle down and theories are either proven correct, abandoned or absorbed into other, more encompassing theories.</p><p>\"Global warming\" is another example of problematic terminology. Climatologists predict more drastic fluctuations in temperature and rainfall – not necessarily that every place will be warmer. The name sometimes subverts the debate, since it lets people argue that their winter was worse, so how could there be global warming? Clearly \"global climate change\" would have been a better name. But not all problems stem solely from poor word choices. Some stem from the intrinsically complex nature of much of modern science. Science sometimes transcends this limitation: remarkably, chemists were able to detail the precise chemical processes involved in the destruction of the ozone layer, making the evidence that chlorofluorocarbon gases (Freon, for example) were destroying the ozone layer indisputable.</p>"
+    },
+    "partNumber": 5,
+    "instruction": "Read the following text for questions 28-35.",
+    "explanations": {
+     "q28": {
+      "text": "The passage opens by stating that because science is increasingly significant in our lives, it is more important than ever to communicate it faithfully. That's why the correct answer is A.",
+      "quote": "Science plays an increasingly significant role in people's lives, making the faithful communication of scientific developments more important than ever."
+     },
+     "q29": {
+      "text": "The author states the biggest challenges arise because scientists themselves often only partly grasp the full meaning of a new development in evolving research areas. That's why the correct answer is C.",
+      "quote": "But many of the biggest challenges for science reporting arise because in areas of evolving research, scientists themselves often only partly understand the full implications of any particular advance or development."
+     },
+     "q30": {
+      "text": "The paragraph introduces 'relativity' as an example of an 'intrinsically misleading' term that causes public misunderstanding, demonstrating how poor phrasing can be a problem. That's why the correct answer is B.",
+      "quote": "Ambiguous word choices are the source of some misunderstandings."
+     },
+     "q31": {
+      "text": "The passage directly identifies the cause of some misunderstandings in science communication in the first sentence of the third paragraph. That's why the correct answer is 'word choices'.",
+      "quote": "Ambiguous word choices are the source of some misunderstandings."
+     },
+     "q32": {
+      "text": "The text explains that scientists use everyday language, or 'colloquial terminology', and assign it a specific meaning that can be hard to understand without training. That's why the correct answer is 'colloquial terminology'.",
+      "quote": "Scientists often employ colloquial terminology, which they then assign a specific meaning that is impossible to fathom without proper training."
+     },
+     "q33": {
+      "text": "When explaining relativity, the passage states that measurements depend on the person or entity making them, which the text refers to as an 'observer'. That's why the correct answer is 'observer'.",
+      "quote": "Yet although the measurements any observer makes depend on his coordinates and reference frame, the physical phenomena he measures have an invariant description that transcends that observer's particular coordinates."
+     },
+     "q34": {
+      "text": "The passage clarifies that Einstein's theory is about finding a constant way to describe physical events, which it calls an 'invariant description'. That's why the correct answer is 'invariant description'.",
+      "quote": "Einstein's theory of relativity is really about finding an invariant description of physical phenomena."
+     },
+     "q35": {
+      "text": "The passage uses Einstein's work as an example of how long it can take to finalize a scientific theory, specifically mentioning his 'theory of general relativity'. That's why the correct answer is 'general'.",
+      "quote": "Even Einstein took the better part of a decade to develop the correct version of his theory of general relativity."
+     }
+    },
+    "questionRange": "28-35",
+    "questionSections": [
+     {
+      "type": "mcq",
+      "title": "Questions 28-30: Multiple Choice",
+      "questions": [
+       {
+        "id": 28,
+        "text": "Why is faithful science communication important?",
+        "options": [
+         {
+          "text": "Science plays an increasingly significant role in people's lives.",
+          "letter": "A"
+         },
+         {
+          "text": "Science is fraught with challenges public are interested in.",
+          "letter": "B"
+         },
+         {
+          "text": "The nature of complexity in science communication leads to confusion.",
+          "letter": "C"
+         },
+         {
+          "text": "Scientific inventions are more important than ever before.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 29,
+        "text": "What is the reason that the author believes for the biggest challenges for science reporting?",
+        "options": [
+         {
+          "text": "A phenomenon such as global warming, cancer research, diet studies is too complex.",
+          "letter": "A"
+         },
+         {
+          "text": "Scientists themselves often only partly understand the Theory of Evolution.",
+          "letter": "B"
+         },
+         {
+          "text": "Scientists do not totally comprehend the meaning of certain scientific evolution.",
+          "letter": "C"
+         },
+         {
+          "text": "Scientists themselves often partly understand the esoteric communication nature.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 30,
+        "text": "According to the 3rd paragraph, the reference to the term and example of \"theory of relativity\" is to demonstrate",
+        "options": [
+         {
+          "text": "theory of relativity is about an invariant physical phenomenon.",
+          "letter": "A"
+         },
+         {
+          "text": "common people may be misled by the inaccurate choice of scientific phrase.",
+          "letter": "B"
+         },
+         {
+          "text": "the term \"relativity,\" is designed to be misleading public.",
+          "letter": "C"
+         },
+         {
+          "text": "everything is relative and there is no absolutes existence.",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "Choose the correct letter A, B, C or D.",
+      "questionRange": "28-30"
+     },
+     {
+      "type": "gap-fill",
+      "title": "Questions 31-35: Summary Completion",
+      "questions": [
+       {
+        "id": 31,
+        "hint": "Ambiguous _____ are the source of some misunderstandings"
+       },
+       {
+        "id": 32,
+        "hint": "meaning via the _____ scientists often employed"
+       },
+       {
+        "id": 33,
+        "hint": "the measurements any _____ makes"
+       },
+       {
+        "id": 34,
+        "hint": "describe in a(n) constant _____ yet the phenomenon can be"
+       },
+       {
+        "id": 35,
+        "hint": "the theory of _____"
+       }
+      ],
+      "instruction": "Complete the following summary of the paragraphs of Reading Passage. Using NO MORE THAN TWO WORDS from the Reading Passage for each answer.",
+      "summaryText": "Science Communication is fraught with challenges that can easily distort discussions, leading to unnecessary confusion and misunderstandings. Firstly, Ambiguous <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span> are the source of some misunderstandings. Common people without proper training do not understand clearly or deeply a specific scientific meaning via the <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span> scientists often employed. Besides, the measurements any <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span> makes can not be confined to describe in a(n) constant <span class=\"gap-input\" data-gap=\"34\">_____(34)_____</span> yet the phenomenon can be. What's more, even the word \"theory\" can be a problem. Theories aren't necessarily shown to be correct or complete immediately since scientists often evolved better versions of specific theories, a good example can be the theory of <span class=\"gap-input\" data-gap=\"35\">_____(35)_____</span>. Thus, most importantly people have to recognize that science can be complex.",
+      "questionRange": "31-35"
+     }
+    ]
+   }
+  ],
+  "examDate": "2026-01-03",
+  "testInfo": {
+   "level": "B1-B2-C1",
+   "parts": 5,
+   "title": "CEFR B1-B2-C1 Reading Test 18",
+   "totalTime": 60,
+   "totalQuestions": 35
+  }
+ },
+ "created_at": "2026-05-12T16:21:34.828489+00:00",
+ "updated_at": "2026-10-11T10:31:33.381435+00:00"
+}

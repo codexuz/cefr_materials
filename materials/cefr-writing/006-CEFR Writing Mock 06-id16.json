@@ -1,0 +1,541 @@
+{
+ "id": 16,
+ "mock_type": "cefr-writing",
+ "mock_number": 6,
+ "title": "CEFR Writing Mock 06",
+ "status": "published",
+ "mock_data": {
+  "part1": {
+   "chip": "work",
+   "topic": "Co-working hub issue"
+  },
+  "tasks": {
+   "t2": {
+    "chip": "education",
+    "genre": "article",
+    "title": "After-school clubs improve academic outcomes and social skills",
+    "prompt": "You are writing a short journal article for an education journal. The topic is: \"Do after-school clubs improve academic outcomes and social skills?\" Write your article, giving reasons and examples.",
+    "sample": "```html\n<h2>Exploring the Impact of After-School Clubs on Academic and Social Development</h2>\n\n<p>In today's ever-evolving educational landscape, the role of after-school clubs in enhancing students' academic outcomes and social skills has sparked <span class=\"ml-token colloc\">considerable debate</span>. Advocates argue that these clubs not only bolster academic performance but also nurture <span class=\"ml-token colloc\">social interactions</span> and <span class=\"ml-token colloc\">team-building skills</span>. But do they truly live up to these expectations?</p>\n\n<p>After-school clubs provide a platform for students to <span class=\"ml-token phrasal\">explore interests</span> beyond the conventional curriculum. Engaging in activities such as debate, theater, or robotics can immensely enhance a student's critical thinking and problem-solving abilities. For instance, students who participate in the debate club often display improved communication skills and a better grasp of argumentation, which can translate into higher academic achievement.</p>\n\n<p><span class=\"ml-token adv\">Moreover</span>, these clubs offer invaluable opportunities for social interaction, allowing students to forge friendships outside their usual circles. Such experiences can significantly boost their self-esteem and <span class=\"ml-token colloc\">social competence</span>. For example, involvement in a sports club not only teaches teamwork and discipline but also encourages a sense of belonging and <span class=\"ml-token idiom\">camaraderie among students</span>.</p>\n\n<p>However, the effectiveness of after-school clubs is not without its caveats. Critics point out that poorly managed clubs can become mere extensions of the school day, sapping students' energy without providing tangible benefits. Thus, the <span class=\"ml-token idiom\">key to success</span> lies in quality over quantity. Programs should be well-structured and tailored to students’ interests and needs.</p>\n\n<p><span class=\"ml-token adv\">Ultimately</span>, when thoughtfully implemented, after-school clubs can be an indispensable component of a student's educational journey, positively impacting both academic and social domains. Schools should, therefore, <span class=\"ml-token phrasal\">keep pushing</span> for diverse and high-caliber programs that foster growth beyond the classroom.</p>\n```",
+    "target": "180–200 words",
+    "sampleA1": "<p>I like after school club. <br>It is fun. <br>I play with friends. <br>I learn new things. <br>School club is good. <br>Bye</p>",
+    "sampleA2": "<p>After school clubs are good. <br>I like them because I can play games and learn new things. <br>I think it helps me with school because I learn more. <br>And I like to see my friends there. <br>But sometimes it is boring. <br>It is good for me.</p>",
+    "sampleB1": "<p>After-school clubs can be very helpful for students. I think they can improve their academic skills and also their social skills. For example, if a student joins a math club, they can get extra help with their homework and understand the lessons better. This can lead to better grades. <br><br>Also, after-school clubs are a good place to make friends. Students can meet other kids who have the same interests. For example, in a sports club, students learn to work together as a team. This helps them to develop important social skills like communication and cooperation. However, it is important that the clubs are well-organized and interesting for the students. If not, they might not want to participate.</p>",
+    "sampleB2": "<h2>Beyond the Bell: Do After-School Clubs Really Add Up?</h2>\n<p>When the final bell rings, some students head straight home, while others stay behind for chess, drama or football. But do these after-school clubs actually <span class=\"ml-token colloc\">boost academic results</span> and social skills, or are they just a pleasant way to <span class=\"ml-token idiom\">kill time</span>? The evidence suggests they are well worth the effort.</p>\n<p>On the academic front, clubs give students a chance to <span class=\"ml-token idiom\">get to grips with</span> subjects in a relaxed setting. A science club, for example, can turn a dry textbook chapter into a <span class=\"ml-token colloc\">hands-on experiment</span>, and this kind of <span class=\"ml-token academic\">active learning</span> often <span class=\"ml-token phrasal\">pays off</span> in the classroom. Students who take part tend to be more motivated and better organised.</p>\n<p>Just as importantly, clubs help young people <span class=\"ml-token idiom\">come out of their shell</span>. Working towards a shared goal — a play, a match, a debate — teaches teamwork, patience and <span class=\"ml-token idiom\">give and take</span>. These are life skills that no exam can measure.</p>\n<p><span class=\"ml-token linking\">All things considered</span>, well-run clubs offer <span class=\"ml-token idiom\">the best of both worlds</span>: they sharpen the mind and open the door to lasting friendships. Schools would be wise to invest in them, and parents should encourage their children to give at least one club a try.</p>",
+    "uzSample": "<h2>Maktabdan keyingi to'garaklarning akademik va ijtimoiy rivojlanishga ta'sirini o'rganish</h2>\n\n<p>Bugungi kunda doimiy o'zgarib turadigan ta'lim sohasida maktabdan keyingi to'garaklarning o'quvchilarning akademik natijalari va ijtimoiy ko'nikmalarini oshirishdagi roli <span class=\"ml-token colloc\">kattagina bahslarga</span> sabab bo'ldi. Tarafdorlarning ta'kidlashicha, bu to'garaklar nafaqat akademik ko'rsatkichlarni yaxshilaydi, balki <span class=\"ml-token colloc\">ijtimoiy munosabatlarni</span> va <span class=\"ml-token colloc\">jamoada ishlash ko'nikmalarini</span> ham rivojlantiradi. Ammo ular haqiqatan ham bu umidlarni oqlay oladimi?</p>\n\n<p>Maktabdan keyingi to'garaklar o'quvchilarga an'anaviy o'quv dasturidan tashqari <span class=\"ml-token phrasal\">qiziqishlarini o'rganish</span> uchun platforma yaratadi. Munozara, teatr yoki robototexnika kabi mashg'ulotlarda qatnashish o'quvchining tanqidiy fikrlash va muammolarni hal qilish qobiliyatini sezilarli darajada oshirishi mumkin. Misol uchun, munozara to'garagida qatnashadigan o'quvchilar ko'pincha yaxshilangan muloqot ko'nikmalarini va argumentatsiyani yaxshiroq tushunishni namoyish etadilar, bu esa yuqori akademik yutuqlarga olib kelishi mumkin.</p>\n\n<p><span class=\"ml-token adv\">Bundan tashqari</span>, bu to'garaklar ijtimoiy muloqot uchun bebaho imkoniyatlarni taqdim etadi va o'quvchilarga odatdagi doiralaridan tashqarida do'stlashishga imkon beradi. Bunday tajribalar ularning o'ziga bo'lgan ishonchini va <span class=\"ml-token colloc\">ijtimoiy kompetentligini</span> sezilarli darajada oshirishi mumkin. Misol uchun, sport to'garagida ishtirok etish nafaqat jamoada ishlash va intizomni o'rgatadi, balki o'quvchilar o'rtasida mansublik hissini va <span class=\"ml-token idiom\">o'zaro hamjihatlikni</span> ham rag'batlantiradi.</p>\n\n<p>Biroq, maktabdan keyingi to'garaklarning samaradorligi o'z kamchiliklariga ega. Tanqidchilarning ta'kidlashicha, yomon boshqariladigan to'garaklar shunchaki o'quv kunining davomi bo'lib qolishi, o'quvchilarning kuchini behuda sarflashi va hech qanday aniq foyda keltirmasligi mumkin. Shunday qilib, <span class=\"ml-token idiom\">muvaffaqiyat kaliti</span> miqdordan ko'ra sifatda. Dasturlar yaxshi tuzilgan va o'quvchilarning qiziqishlari va ehtiyojlariga moslashtirilgan bo'lishi kerak.</p>\n\n<p><span class=\"ml-token adv\">Nihoyat</span>, puxta amalga oshirilganda, maktabdan keyingi to'garaklar o'quvchining ta'limiy sayohatining ajralmas qismi bo'lishi mumkin, bu akademik va ijtimoiy sohalarga ijobiy ta'sir ko'rsatadi. Shuning uchun maktablar sinfdan tashqari o'sishni rag'batlantiradigan xilma-xil va yuqori sifatli dasturlarni <span class=\"ml-token phrasal\">doimiy ravishda qo'llab-quvvatlashlari</span> kerak.</p>",
+    "uzSampleA1": "<p>Menga maktabdan keyingi klub yoqadi. <br>Bu qiziqarli. <br>Men do'stlarim bilan o'ynayman. <br>Men yangi narsalarni o'rganaman. <br>Maktab klubi yaxshi. <br>Xayr</p>",
+    "uzSampleA2": "<p>Maktabdan keyingi to'garaklar yaxshi. <br>Menga ular yoqadi, chunki men o'yinlar o'ynashim va yangi narsalarni o'rganishim mumkin. <br>Menimcha, bu menga maktabda yordam beradi, chunki men ko'proq narsani o'rganaman. <br>Va men u yerda do'stlarimni ko'rishni yaxshi ko'raman. <br>Lekin ba'zan zerikarli bo'ladi. <br>Bu men uchun yaxshi.</p>",
+    "uzSampleB1": "<p>Maktabdan keyingi to'garaklar o'quvchilar uchun juda foydali bo'lishi mumkin. Menimcha, ular o'quvchilarning akademik qobiliyatlarini, shuningdek, ijtimoiy ko'nikmalarini yaxshilashi mumkin. Misol uchun, agar o'quvchi matematika to'garagiga qo'shilsa, ular uy vazifalarida qo'shimcha yordam olishlari va darslarni yaxshiroq tushunishlari mumkin. Bu esa yaxshiroq baholarga olib kelishi mumkin. <br><br>Shuningdek, maktabdan keyingi to'garaklar do'st orttirish uchun yaxshi joy. O'quvchilar bir xil qiziqishlarga ega bo'lgan boshqa bolalar bilan uchrashishlari mumkin. Misol uchun, sport to'garagida o'quvchilar jamoa bo'lib ishlashni o'rganadilar. Bu ularga muloqot va hamkorlik kabi muhim ijtimoiy ko'nikmalarni rivojlantirishga yordam beradi. Biroq, to'garaklar yaxshi tashkil etilgan va o'quvchilar uchun qiziqarli bo'lishi muhim. Aks holda, ular ishtirok etishni xohlamasligi mumkin.</p>",
+    "uzSampleB2": "<p>Maktabdan keyingi to‘garaklar ko‘pincha o‘quvchining ta’limiga qimmatli qo‘shimcha sifatida qaraladi, ular akademik ko‘rsatkichlar va ijtimoiy rivojlanishni yaxshilash imkoniyatiga ega. Savol shuki, ular bu va’daga loyiqmi? <br><br>Akademik jihatdan, to‘garaklar o‘quvchilarga ularni qiziqtirgan fanlarni chuqurroq o‘rganish yoki qiynalayotgan sohalarda qo‘shimcha yordam olish imkoniyatini berishi mumkin. Misol uchun, fan to‘garagi sinfda o‘rganilganlarni mustahkamlovchi tajribalar o‘tkazishi mumkin, kitobxonlar klubi esa o‘qishni tushunish va tanqidiy fikrlash qobiliyatlarini yaxshilashi mumkin. <br><br>Ijtimoiy jihatdan, bu to‘garaklar o‘quvchilarga o‘xshash qiziqishlarga ega bo‘lgan tengdoshlari bilan muloqot qilish, hamjamiyat va mansublik hissini uyg‘otish uchun joy taklif qiladi. Munozara klubi yoki drama guruhi kabi jamoaviy tadbirlarda ishtirok etish muloqot, hamkorlik va hamdardlik kabi muhim ijtimoiy ko‘nikmalarni rivojlantirishi mumkin. <br><br>Biroq, maktabdan keyingi to‘garaklarning ta’siri kafolatlanmagan. Ularning samaradorligi dasturning sifati, o‘quvchilarning ishtiyoqi va resurslarning mavjudligi kabi omillarga bog‘liq. Yomon tuzilgan yoki ilhomlantirmaydigan to‘garak kutilgan foyda keltirmasligi mumkin. Shuning uchun, maktabdan keyingi to‘garaklarning o‘quvchilarning akademik va ijtimoiy natijalariga ijobiy ta’sirini maksimal darajada oshirish uchun puxta rejalashtirish va baholash juda muhimdir.</p>"
+   },
+   "t11": {
+    "title": "informal letter · to friend",
+    "prompt": "Write a letter to your friend, who also uses the co-working hub. Write about your feelings and what you think the management should do about the situation.",
+    "sample": "```html\nHey there!\n\nI just got an email from The Hub Manager about some new changes they're planning. They're gonna introduce <span class=\"ml-token colloc\">student day passes</span> and a <span class=\"ml-token colloc\">quiet-room policy</span>, plus they're setting up monthly skills workshops. I'm <span class=\"ml-token adv\">actually thrilled</span> about the workshops, but I think they <span class=\"ml-token modal\">should</span> really focus on topics like <span class=\"ml-token colloc\">digital marketing</span> and <span class=\"ml-token colloc\">time management</span>, which would be super beneficial for both freelancers and students.\n\nAs for facilities, maybe more <span class=\"ml-token colloc\">dedicated nap pods</span> or a <span class=\"ml-token colloc\">brainstorming space</span> would be awesome. I reckon these <span class=\"ml-token idiom\">could make a world of difference</span> for those of us who <span class=\"ml-token phrasal\">burn the midnight oil</span>. Let me know your thoughts!\n\nCatch you soon,\nAkmal Tojiyev\n```",
+    "target": "50–70 words",
+    "sampleA1": "<p>Hi Kamron,<br>The Hub email! New things. Student pass is good. I like workshop. Computer is good. More chairs? Bye,<br>Akmal Tojiyev</p>",
+    "sampleA2": "<p>Hi Kamron,<br>I got an email from The Hub. They want to change some things. I think the student passes are good, and I like the idea of workshops. But maybe we need more computers and a better printer? What do you think? See you later,<br>Akmal Tojiyev</p>",
+    "sampleB1": "<p>Hi Kamron,<br>Did you see the email from The Hub? I think the student day passes are a good idea. Also, the workshops sound interesting. I think they should have workshops about things like using social media for work, and maybe how to be more organized. I also think we need more meeting rooms because it's hard to find a space sometimes. What do you think about it?<br>Best,<br>Akmal Tojiyev</p>",
+    "sampleB2": "<p>Hey Kamron,<br>Did you see the email from The Hub? I'm honestly <span class=\"ml-token colloc\">pretty chuffed</span> about the monthly workshops — a session on time management would be <span class=\"ml-token idiom\">right up our street</span>. I reckon they <span class=\"ml-token modal\">should</span> <span class=\"ml-token phrasal\">sort out</span> a few more <span class=\"ml-token colloc\">soundproof booths</span> too, since finding a quiet corner is a nightmare <span class=\"ml-token colloc\">at peak times</span>. We should <span class=\"ml-token idiom\">put in a word</span> about it. <span class=\"ml-token colloc\">Fancy a coffee</span> tomorrow?<br>Cheers,<br>Bekzod Aliyev</p>",
+    "uzSample": "<p>Salom!</p>\n<p>Men hozirgina \"The Hub\" menejeridan ular rejalashtirayotgan yangi o'zgarishlar haqida xat oldim. Ular talabalar uchun kunlik chiptalar va \"jim xona\" qoidasini joriy qilmoqchi, shuningdek, har oyda mahorat darslarini tashkil etishmoqchi. Men mahorat darslaridan juda xursandman, lekin ular, aslida, frilanserlar va talabalar uchun juda foydali bo'ladigan raqamli marketing va vaqtni boshqarish kabi mavzularga e'tibor qaratishlari kerak deb o'ylayman.</p>\n<p>Qulayliklarga kelsak, ko'proq alohida uxlash kapsulalari yoki fikrlar hujumi uchun joy ajoyib bo'lardi. Menimcha, bu narsalar tunni kunduzga ulashga majbur bo'lganlarimiz uchun juda katta ahamiyatga ega bo'lishi mumkin. Fikringni bildir!</p>\n<p>Tez orada ko'rishguncha,<br>\nAkmal Tojiyev</p>",
+    "uzSampleA1": "<p>Salom, Kamron,<br>Hab elektron pochtasi! Yangi narsalar. Talaba bileti yaxshi. Menga seminar yoqadi. Kompyuter yaxshi. Ko'proq stullar kerakmi? Xayr,<br>Akmal Tojiyev</p>",
+    "uzSampleA2": "<p>Salom Kamron,<br>Menga Hub'dan xat keldi. Ular ba'zi narsalarni o'zgartirmoqchi. Menimcha, talabalar uchun passlar yaxshi va menga seminarlar g'oyasi yoqadi. Lekin, balki bizga ko'proq kompyuterlar va yaxshiroq printer kerakdir? Siz nima deb o'ylaysiz? Keyinroq ko'rishguncha,<br>Akmal Tojiyev</p>",
+    "uzSampleB1": "<p>Salom, Kamron,<br>The Hub'dan kelgan xatni ko'rdingmi? Menimcha, talabalar uchun kunlik chiptalar yaxshi fikr. Shuningdek, seminarlar qiziqarli tuyuladi. Menimcha, ular ijtimoiy tarmoqlardan ish uchun foydalanish va balki qanday qilib ko'proq tartibli bo'lish kabi narsalar haqida seminarlar o'tkazishlari kerak. Menimcha, bizga ko'proq yig'ilish xonalari kerak, chunki ba'zan joy topish qiyin. Bu haqda nima deb o'ylaysan?<br>Eng yaxshi tilaklar bilan,<br>Akmal Tojiyev</p>",
+    "uzSampleB2": "<p>Salom Kamron,<br>The Hub'dan taklif qilinayotgan o'zgarishlar haqidagi elektron pochtani hozirgina ko'rdim. Ayniqsa, seminarlar haqida ehtiyotkorlik bilan umid qilaman. Menimcha, ular amaliy ko'nikmalarga ustuvor ahamiyat berishlari kerak - ehtimol, SEO yoki grant yozish bo'yicha nimadir, chunki ular frilanserlar va talabalar uchun birdek foydali ko'rinadi.<br><br>Qulayliklarga kelsak, ular telefon qo'ng'iroqlari uchun ovoz o'tkazmaydigan kabinalarni yoki yig'ilish xonalarini bron qilish uchun yaxshiroq tizimni ko'rib chiqishganmi, deb o'ylayman. Ko'pincha tinch joy topish qiyin. Bu haqda sizning fikringizni menga bildiring.<br>Xayr,<br>Akmal Tojiyev</p>"
+   },
+   "t12": {
+    "title": "formal letter · to manager",
+    "prompt": "Write a letter to the hub manager. Write about your feelings and what you think the management should do about the situation.",
+    "sample": "```html\n<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Response to Hub Manager</title>\n</head>\n<body>\n    <p>Dear Hub Manager,</p>\n\n    <p>I hope this message finds you well. I am genuinely thrilled about the introduction of <span class=\"ml-token colloc\">student day passes</span> and a <span class=\"ml-token colloc\">quiet-room policy</span>. These initiatives are truly commendable and will undoubtedly enhance the experience for both freelancers and students using our hub.</p>\n\n    <p>Regarding facilities, I believe it <span class=\"ml-token modal\">would</span> be beneficial to include more <span class=\"ml-token colloc\">collaborative workspaces</span> with comfortable seating and reliable power sources. Additionally, having a few <span class=\"ml-token colloc\">soundproof booths</span> for phone calls or virtual meetings <span class=\"ml-token modal\">could</span> significantly aid those who need privacy. Equipping the hub with top-notch Wi-Fi and printing facilities <span class=\"ml-token modal\">might</span> also prove advantageous.</p>\n\n    <p>As for the workshops, focusing on topics such as <span class=\"ml-token colloc\">digital marketing trends</span>, <span class=\"ml-token colloc\">effective communication</span> skills, and <span class=\"ml-token colloc\">time management</span> strategies <span class=\"ml-token modal\">would</span> be highly valuable. Inviting industry experts to share <span class=\"ml-token idiom\">real-world insights</span> could also provide <span class=\"ml-token colloc\">tangible benefits</span> to attendees.</p>\n\n    <p>I <span class=\"ml-token modal\">am</span> excited to see these changes take shape and <span class=\"ml-token phrasal\">look forward to</span> being part of this evolving community. Thank you for considering our input.</p>\n\n    <p>Warm regards,</p>\n    <p>Alex Green</p>\n</body>\n</html>\n```",
+    "target": "120–150 words",
+    "sampleA1": "<p>Hi Hub Manager,</p><br><p>I like student pass. Good. More room for work. I need computer. Workshop? Yes. I like computer workshop.</p><br><p>Bye,</p><br><p>Akmal Tojiyev</p>",
+    "sampleA2": "<p>Dear Hub Manager,</p><br><p>I think the student day passes are good. I also like the quiet room. But we need more computers because many people use them. And maybe more chairs, because sometimes there are no chairs.</p><br><p>For the workshops, I think you should do a workshop about computers and the internet. Because some people don't know much about it. And maybe one about finding a job.</p><br><p>Thank you,</p><br><p>Akmal Tojiyev</p>",
+    "sampleB1": "<p>Dear Hub Manager,</p><br><p>I am writing to you about the new student day passes and the quiet room policy. I think these are good ideas. I also have some suggestions for new facilities and workshops.</p><br><p>I think it would be helpful to have more meeting rooms, especially small ones for freelancers to meet clients. Also, maybe a better coffee machine! For workshops, I think a workshop about how to use social media for business would be useful. Also, a workshop about writing a good CV would be good for students.</p><br><p>Thank you for listening to my suggestions.</p><br><p>Sincerely,</p><br><p>Akmal Tojiyev</p>",
+    "sampleB2": "<p>Dear Hub Manager,</p>\n<p>I am writing to share my thoughts on the changes outlined in your recent email. First of all, I was <span class=\"ml-token colloc\">delighted to hear</span> about the <span class=\"ml-token colloc\">student day passes</span> and the <span class=\"ml-token colloc\">quiet-room policy</span>, both of which will <span class=\"ml-token idiom\">make a real difference</span> to how members use the space.</p>\n<p>In terms of facilities, I would <span class=\"ml-token colloc\">strongly recommend</span> adding a couple of <span class=\"ml-token colloc\">soundproof booths</span> for phone calls and video meetings, as freelancers often struggle to find a quiet corner during busy periods. A small printing station and more power sockets would also <span class=\"ml-token idiom\">go a long way</span> towards <span class=\"ml-token colloc\">boosting productivity</span>.</p>\n<p>As for the workshops, I believe sessions on digital marketing and time management would <span class=\"ml-token phrasal\">appeal to</span> both students and freelancers. Inviting local professionals to share their experience would add real value.</p>\n<p>Thank you for <span class=\"ml-token phrasal\">taking our suggestions on board</span>.</p>\n<p>Yours sincerely,<br>Dilnoza Karimova</p>",
+    "uzSample": "<p>Hurmatli Hub menejeri,</p>\n\n<p>Umid qilamanki, ushbu xabar sizga yaxshi kayfiyat olib keladi. Talabalar uchun kunlik chiptalar va \"tinch xona\" siyosatining joriy etilishi meni chin dildan xursand qildi. Ushbu tashabbuslar haqiqatan ham maqtovga loyiq va ular, shubhasiz, bizning hubimizdan foydalanayotgan frilanserlar va talabalarning tajribasini yaxshilaydi.</p>\n\n<p>Qulayliklarga kelsak, qulay o'rindiqlari va ishonchli elektr manbalari bo'lgan ko'proq hamkorlikdagi ish joylarini qo'shish foydali bo'lardi deb o'ylayman. Bundan tashqari, telefon qo'ng'iroqlari yoki virtual uchrashuvlar uchun bir nechta ovoz o'tkazmaydigan kabinalarning bo'lishi maxfiylikka muhtoj bo'lganlarga sezilarli yordam berishi mumkin. Hubni yuqori sifatli Wi-Fi va bosib chiqarish uskunalari bilan jihozlash ham foydali bo'lishi mumkin.</p>\n\n<p>Seminarlarga kelsak, raqamli marketing tendentsiyalari, samarali muloqot ko'nikmalari va vaqtni boshqarish strategiyalari kabi mavzularga e'tibor qaratish juda qimmatli bo'lardi. Sanoat ekspertlarini real dunyo haqidagi tushunchalari bilan bo'lishishga taklif qilish ham ishtirokchilarga aniq foyda keltirishi mumkin.</p>\n\n<p>Ushbu o'zgarishlar amalga oshishini ko'rishdan xursandman va ushbu rivojlanayotgan jamiyatning bir qismi bo'lishni intiqlik bilan kutaman. Fikrimizni inobatga olganingiz uchun tashakkur.</p>\n\n<p>Samimiy hurmat bilan,</p>\n<p>Aleks Grin</p>",
+    "uzSampleA1": "<p>Salom, Hub Menejeri,</p><br><p>Menga talaba guvohnomasi yoqadi. Yaxshi. Ishlash uchun ko'proq joy. Menga kompyuter kerak. Workshop (seminar)? Ha. Menga kompyuter workshop (seminari) yoqadi.</p><br><p>Xayr,</p><br><p>Akmal Tojiyev</p>",
+    "uzSampleA2": "<p>Hurmatli Hub menejeri,</p><br><p>Menimcha, talabalar uchun kunlik chiptalar yaxshi. Menga tinch xona ham yoqadi. Lekin bizga ko'proq kompyuterlar kerak, chunki ulardan ko'p odamlar foydalanadi. Va balki ko'proq stullar, chunki ba'zida stullar yo'q.</p><br><p>Seminarlar uchun, menimcha, siz kompyuterlar va internet haqida seminar o'tkazishingiz kerak. Chunki ba'zi odamlar bu haqda ko'p narsa bilishmaydi. Va balki ish topish haqida ham.</p><br><p>Rahmat,</p><br><p>Akmal Tojiyev</p>",
+    "uzSampleB1": "<p>Hurmatli Hub menejeri,</p><br><p>Men sizga yangi talabalar uchun kunlik chiptalar va jim xona siyosati haqida yozmoqdaman. Menimcha, bu yaxshi g'oyalar. Shuningdek, yangi imkoniyatlar va seminarlar bo'yicha ba'zi takliflarim bor.</p><br><p>Menimcha, ko'proq uchrashuv xonalari bo'lishi foydali bo'lardi, ayniqsa, frilanserlar mijozlar bilan uchrashishi uchun kichik xonalar. Shuningdek, ehtimol, yaxshiroq qahva mashinasi! Seminarlarga kelsak, biznes uchun ijtimoiy tarmoqlardan qanday foydalanish haqida seminar foydali bo'ladi deb o'ylayman. Shuningdek, talabalar uchun yaxshi CV yozish haqida seminar ham yaxshi bo'lardi.</p><br><p>Takliflarimni tinglaganingiz uchun rahmat.</p><br><p>Hurmat bilan,</p><br><p>Akmal Tojiyev</p>",
+    "uzSampleB2": "<p>Hurmatli Hub menejeri,</p><br><p>Men talabalar uchun kunlik chiptalar va sokin xona siyosati taklifidan juda xursand ekanligimni bildirish uchun yozyapman, menimcha, bu kovorking markaziga qimmatli qo'shimchalar bo'ladi. Shuningdek, a'zolarga, ayniqsa, frilanserlar va talabalarga yanada foyda keltirishi mumkin bo'lgan qo'shimcha qulayliklar va seminar mavzulari bo'yicha ba'zi fikrlarim bor.</p><br><p>Qulayliklar nuqtai nazaridan, kichik fotosurat/videografiya maydonini qo'shishni ko'rib chiqishni taklif qilaman. Ko'pgina frilanserlar kontent yaratish uchun bunday joyga muhtoj. Bundan tashqari, mavjud telefon kabinalarida ovoz o'tkazmaslikni yaxshilash juda qadrlanadi. Seminarlarga kelsak, frilanserlar uchun moliyaviy menejment bo'yicha, soliq majburiyatlari va hisob-fakturalar kabi mavzularni qamrab oluvchi bir qator seminar juda foydali bo'ladi. Samarali aloqa strategiyalariga qaratilgan seminar ham mashhur bo'lishi mumkin, bu a'zolarga qimmatli aloqalarni o'rnatishga yordam beradi.</p><br><p>Umid qilamanki, bu takliflar foydali bo'ladi. Ushbu yaxshilanishlarning amalga oshirilishini ko'rishni intiqlik bilan kutaman.</p><br><p>Eng yaxshi tilaklar bilan,</p><br><p>Akmal Tojiyev</p>"
+   },
+   "p1_context": "You are a member of the Co-working Hub.",
+   "p1_scenario": "Dear Member,\n\nWe will introduce student day passes and a quiet-room policy, and we plan to host monthly skills workshops. Which facilities should we add to support freelancers and students? What topics should we cover in workshops? We appreciate your suggestions.\n\nThe Hub Manager"
+  },
+  "examDate": "2025-12-06",
+  "settings": {
+   "logoUrl": "https://audio.mock-stream.com/img/ibb/WN0XY5Lv/logo.png",
+   "heading1": "Bilim va malakalarni baholash agentligi",
+   "heading2": "Chet tilini bilish darajasi",
+   "examTitle": "Writing exam",
+   "logoWording": "Mock Stream",
+   "testIdentifier": "mock-stream"
+  },
+  "vocabulary": {
+   "task2": [
+    {
+     "en": "after-school clubs",
+     "uz": "maktabdan keyingi klublar"
+    },
+    {
+     "en": "academic outcomes",
+     "uz": "akademik natijalar"
+    },
+    {
+     "en": "social skills",
+     "uz": "ijtimoiy ko'nikmalar"
+    },
+    {
+     "en": "extracurricular activities",
+     "uz": "darsdan tashqari faoliyatlar"
+    },
+    {
+     "en": "cognitive development",
+     "uz": "kognitiv rivojlanish"
+    },
+    {
+     "en": "enhanced learning",
+     "uz": "yaxshilangan o'rganish"
+    },
+    {
+     "en": "peer interaction",
+     "uz": "tengdoshlar bilan muloqot"
+    },
+    {
+     "en": "collaborative learning",
+     "uz": "hamkorlikda o'rganish"
+    },
+    {
+     "en": "personal growth",
+     "uz": "shaxsiy o'sish"
+    },
+    {
+     "en": "skill acquisition",
+     "uz": "ko'nikma egallash"
+    },
+    {
+     "en": "academic performance",
+     "uz": "akademik ko'rsatkichlar"
+    },
+    {
+     "en": "structured environment",
+     "uz": "tuzilgan muhit"
+    },
+    {
+     "en": "holistic education",
+     "uz": "har tomonlama ta'lim"
+    },
+    {
+     "en": "critical thinking",
+     "uz": "tanqidiy fikrlash"
+    },
+    {
+     "en": "interpersonal relationships",
+     "uz": "shaxslararo munosabatlar"
+    },
+    {
+     "en": "extracurricular engagement",
+     "uz": "darsdan tashqari ishtirok"
+    },
+    {
+     "en": "educational enhancement",
+     "uz": "ta'limni yaxshilash"
+    },
+    {
+     "en": "behavioral improvements",
+     "uz": "xulq-atvor yaxshilanishi"
+    },
+    {
+     "en": "supportive network",
+     "uz": "qo'llab-quvvatlovchi tarmoq"
+    },
+    {
+     "en": "broader perspective",
+     "uz": "kengroq nuqtai nazar"
+    }
+   ],
+   "task11": [
+    {
+     "en": "Hey buddy",
+     "uz": "Salom do'stim"
+    },
+    {
+     "en": "super excited",
+     "uz": "juda hayajonlangan"
+    },
+    {
+     "en": "awesome idea",
+     "uz": "ajoyib g'oya"
+    },
+    {
+     "en": "new stuff",
+     "uz": "yangi narsalar"
+    },
+    {
+     "en": "get-together",
+     "uz": "uchrashuv"
+    },
+    {
+     "en": "chill space",
+     "uz": "dam olish joyi"
+    },
+    {
+     "en": "brainstorm",
+     "uz": "fikr almashmoq"
+    },
+    {
+     "en": "hang out",
+     "uz": "vakt o'tkazmoq"
+    },
+    {
+     "en": "grab a coffee",
+     "uz": "qahva ichmoq"
+    },
+    {
+     "en": "catch up",
+     "uz": "ko'rishib gaplashmoq"
+    },
+    {
+     "en": "so pumped about",
+     "uz": "shunchalik xursand bo'ldim"
+    },
+    {
+     "en": "a bit worried",
+     "uz": "biroz xavotirda"
+    },
+    {
+     "en": "could be better",
+     "uz": "yaxshiroq bo'lishi mumkin"
+    },
+    {
+     "en": "let them know",
+     "uz": "ularni xabardor qilmoq"
+    },
+    {
+     "en": "voice our thoughts",
+     "uz": "fikrlarimizni bildirmoq"
+    },
+    {
+     "en": "pretty cool",
+     "uz": "juda zo'r"
+    },
+    {
+     "en": "not sure about",
+     "uz": "ishonchim komil emas"
+    },
+    {
+     "en": "catch you later",
+     "uz": "keyinroq ko'rishamiz"
+    },
+    {
+     "en": "give it a shot",
+     "uz": "sinab ko'rmoq"
+    },
+    {
+     "en": "let's team up",
+     "uz": "birgalikda ishlaylik"
+    }
+   ],
+   "task12": [
+    {
+     "en": "Dear Hub Manager",
+     "uz": "Hurmatli Hub Menejeri"
+    },
+    {
+     "en": "I am writing to express",
+     "uz": "Men ifoda etmoqchiman"
+    },
+    {
+     "en": "commendable initiative",
+     "uz": "maqtovga sazovor tashabbus"
+    },
+    {
+     "en": "enhancement of facilities",
+     "uz": "imkoniyatlarning yaxshilanishi"
+    },
+    {
+     "en": "my concerns",
+     "uz": "mening xavotirlarim"
+    },
+    {
+     "en": "foster a conducive environment",
+     "uz": "qulay muhit yaratmoq"
+    },
+    {
+     "en": "cater to the needs",
+     "uz": "ehtiyojlarni qondirmoq"
+    },
+    {
+     "en": "mutually beneficial",
+     "uz": "ikkala tomon uchun foydali"
+    },
+    {
+     "en": "suggest the inclusion",
+     "uz": "qo'shilishni taklif qilmoq"
+    },
+    {
+     "en": "facilitate productivity",
+     "uz": "ish samaradorligini oshirmoq"
+    },
+    {
+     "en": "furthermore",
+     "uz": "bundan tashqari"
+    },
+    {
+     "en": "consideration of feedback",
+     "uz": "fikr-mulohazalarni ko'rib chiqish"
+    },
+    {
+     "en": "implement effective policies",
+     "uz": "samarali siyosatlarni joriy etmoq"
+    },
+    {
+     "en": "appreciate the effort",
+     "uz": "sa'y-harakatni qadrlamoq"
+    },
+    {
+     "en": "I propose",
+     "uz": "Men taklif qilaman"
+    },
+    {
+     "en": "It would be advantageous",
+     "uz": "Bu foydali bo'ladi"
+    },
+    {
+     "en": "look forward to",
+     "uz": "kutmoq"
+    },
+    {
+     "en": "sincerely appreciate",
+     "uz": "chin dildan qadrlamoq"
+    },
+    {
+     "en": "in-depth discussion",
+     "uz": "chuqur muhokama"
+    },
+    {
+     "en": "yours sincerely",
+     "uz": "chin dildan sizniki"
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "am": {
+    "uz": "man",
+    "type": "modal"
+   },
+   "could": {
+    "uz": "mumkin",
+    "type": "modal"
+   },
+   "might": {
+    "uz": "ehtimol",
+    "type": "modal"
+   },
+   "would": {
+    "uz": "bo'lardi",
+    "type": "modal"
+   },
+   "should": {
+    "uz": "kerak",
+    "type": "modal"
+   },
+   "Moreover": {
+    "uz": "Qolaversa",
+    "type": "adv"
+   },
+   "pays off": {
+    "uz": "samara bermoq",
+    "type": "phrasal"
+   },
+   "sort out": {
+    "uz": "hal qilmoq",
+    "type": "phrasal"
+   },
+   "appeal to": {
+    "uz": "yoqmoq, jalb qilmoq",
+    "type": "phrasal"
+   },
+   "kill time": {
+    "uz": "vaqt o'tkazmoq",
+    "type": "idiom"
+   },
+   "Ultimately": {
+    "uz": "Oxir-oqibat",
+    "type": "adv"
+   },
+   "keep pushing": {
+    "uz": "harakatda bo'lish",
+    "type": "phrasal"
+   },
+   "at peak times": {
+    "uz": "eng gavjum vaqtlarda",
+    "type": "colloc"
+   },
+   "give and take": {
+    "uz": "o'zaro yon berish",
+    "type": "idiom"
+   },
+   "go a long way": {
+    "uz": "katta yordam bermoq",
+    "type": "idiom"
+   },
+   "put in a word": {
+    "uz": "bir og'iz gapirib qo'ymoq",
+    "type": "idiom"
+   },
+   "Fancy a coffee": {
+    "uz": "qahva ichamizmi",
+    "type": "colloc"
+   },
+   "key to success": {
+    "uz": "muvaffaqiyat kaliti",
+    "type": "idiom"
+   },
+   "pretty chuffed": {
+    "uz": "juda xursand",
+    "type": "colloc"
+   },
+   "active learning": {
+    "uz": "faol o'rganish",
+    "type": "academic"
+   },
+   "look forward to": {
+    "uz": "intizorlik bilan kutmoq",
+    "type": "phrasal"
+   },
+   "time management": {
+    "uz": "vaqtni boshqarish",
+    "type": "colloc"
+   },
+   "actually thrilled": {
+    "uz": "juda xursand",
+    "type": "adv"
+   },
+   "delighted to hear": {
+    "uz": "eshitib xursand bo'ldim",
+    "type": "colloc"
+   },
+   "digital marketing": {
+    "uz": "raqamli marketing",
+    "type": "colloc"
+   },
+   "explore interests": {
+    "uz": "qiziqishlarni o'rganmoq",
+    "type": "phrasal"
+   },
+   "get to grips with": {
+    "uz": "puxta o'zlashtirmoq",
+    "type": "idiom"
+   },
+   "quiet-room policy": {
+    "uz": "tinch xona qoidalari",
+    "type": "colloc"
+   },
+   "social competence": {
+    "uz": "ijtimoiy kompetentlik",
+    "type": "colloc"
+   },
+   "soundproof booths": {
+    "uz": "ovoz o'tkazmaydigan kabinalar",
+    "type": "colloc"
+   },
+   "tangible benefits": {
+    "uz": "aniq foydalar",
+    "type": "colloc"
+   },
+   "dedicated nap pods": {
+    "uz": "maxsus uxlash kapsulalari",
+    "type": "colloc"
+   },
+   "strongly recommend": {
+    "uz": "qat'iy tavsiya qilaman",
+    "type": "colloc"
+   },
+   "student day passes": {
+    "uz": "talabalar uchun kunlik chiptalar",
+    "type": "colloc"
+   },
+   "brainstorming space": {
+    "uz": "fikr almashish maydoni",
+    "type": "colloc"
+   },
+   "considerable debate": {
+    "uz": "kattagina bahs",
+    "type": "colloc"
+   },
+   "hands-on experiment": {
+    "uz": "amaliy tajriba",
+    "type": "colloc"
+   },
+   "real-world insights": {
+    "uz": "amaliy tajriba",
+    "type": "idiom"
+   },
+   "right up our street": {
+    "uz": "aynan bizga mos",
+    "type": "idiom"
+   },
+   "social interactions": {
+    "uz": "ijtimoiy aloqalar",
+    "type": "colloc"
+   },
+   "team-building skills": {
+    "uz": "jamoa tuzish ko'nikmalari",
+    "type": "colloc"
+   },
+   "All things considered": {
+    "uz": "hammasini hisobga olsak",
+    "type": "linking"
+   },
+   "boosting productivity": {
+    "uz": "ish samaradorligini oshirish",
+    "type": "colloc"
+   },
+   "burn the midnight oil": {
+    "uz": "tunni tongga ulash",
+    "type": "phrasal"
+   },
+   "boost academic results": {
+    "uz": "akademik natijalarni oshirmoq",
+    "type": "colloc"
+   },
+   "make a real difference": {
+    "uz": "sezilarli o'zgarish qilmoq",
+    "type": "idiom"
+   },
+   "come out of their shell": {
+    "uz": "tortinchoqligini yengmoq",
+    "type": "idiom"
+   },
+   "effective communication": {
+    "uz": "samarali muloqot",
+    "type": "colloc"
+   },
+   "the best of both worlds": {
+    "uz": "har ikki tomonning afzalliklari",
+    "type": "idiom"
+   },
+   "collaborative workspaces": {
+    "uz": "hamkorlikdagi ish joylari",
+    "type": "colloc"
+   },
+   "digital marketing trends": {
+    "uz": "raqamli marketing tendentsiyalari",
+    "type": "colloc"
+   },
+   "camaraderie among students": {
+    "uz": "talabalar o'rtasidagi do'stona munosabat",
+    "type": "idiom"
+   },
+   "taking our suggestions on board": {
+    "uz": "takliflarimizni inobatga olish",
+    "type": "phrasal"
+   },
+   "could make a world of difference": {
+    "uz": "katta foyda keltirishi mumkin",
+    "type": "idiom"
+   }
+  }
+ },
+ "created_at": "2026-05-06T14:59:09.381221+00:00",
+ "updated_at": "2026-07-06T10:54:41.503989+00:00"
+}

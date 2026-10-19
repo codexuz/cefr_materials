@@ -1,0 +1,463 @@
+{
+ "id": 2281,
+ "mock_type": "ket-listening",
+ "mock_number": 19,
+ "title": "KET Listening — Test 19",
+ "status": "published",
+ "mock_data": {
+  "audio": {
+   "base": "https://audio.mock-stream.com/KET-Listening/test19/",
+   "files": {
+    "1": "PART1.m4a",
+    "2": "PART2.m4a",
+    "3": "PART3.m4a",
+    "4": "PART4.m4a",
+    "5": "PART5.m4a"
+   }
+  },
+  "parts": [
+   {
+    "type": "picture-mcq",
+    "items": [
+     {
+      "id": 1,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q1full.png",
+        "letter": "A",
+        "composite": true
+       },
+       {
+        "image": "q1full.png",
+        "letter": "B",
+        "composite": true
+       },
+       {
+        "image": "q1full.png",
+        "letter": "C",
+        "composite": true
+       }
+      ],
+      "question": "Which boy is Peter?"
+     },
+     {
+      "id": 2,
+      "answer": "A",
+      "options": [
+       {
+        "text": "Tuesday",
+        "letter": "A"
+       },
+       {
+        "text": "Wednesday",
+        "letter": "B"
+       },
+       {
+        "text": "Thursday",
+        "letter": "C"
+       }
+      ],
+      "question": "Which day will they go to the cinema?"
+     },
+     {
+      "id": 3,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q3A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q3B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q3C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What are they going to do on Saturday?"
+     },
+     {
+      "id": 4,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q4A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q4B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q4C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Where does Paul live?"
+     },
+     {
+      "id": 5,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q5A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q5B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q5C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Where are they going to put the computer?"
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "image": "q0A.png",
+       "letter": "A"
+      },
+      {
+       "image": "q0B.png",
+       "letter": "B"
+      },
+      {
+       "image": "q0C.png",
+       "letter": "C"
+      }
+     ],
+     "question": "How many people were at the meeting?"
+    },
+    "imageBase": "https://audio.mock-stream.com/KET-Listening/test19/p1/",
+    "partNumber": 1,
+    "instruction": [
+     "You will hear five short conversations.",
+     "You will hear each conversation twice.",
+     "There is one question for each conversation.",
+     "For questions 1–5, put a tick (✓) under the right answer."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "matching-list",
+    "items": [
+     {
+      "id": 6,
+      "name": "Emma",
+      "answer": "G"
+     },
+     {
+      "id": 7,
+      "name": "Mike",
+      "answer": "D"
+     },
+     {
+      "id": 8,
+      "name": "Michelle",
+      "answer": "B"
+     },
+     {
+      "id": 9,
+      "name": "Rachel",
+      "answer": "A"
+     },
+     {
+      "id": 10,
+      "name": "Jason",
+      "answer": "H"
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "name": "Janet",
+     "answer": "E",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "blouse",
+      "letter": "A"
+     },
+     {
+      "text": "dress",
+      "letter": "B"
+     },
+     {
+      "text": "jacket",
+      "letter": "C"
+     },
+     {
+      "text": "jeans",
+      "letter": "D"
+     },
+     {
+      "text": "skirt",
+      "letter": "E"
+     },
+     {
+      "text": "suit",
+      "letter": "F"
+     },
+     {
+      "text": "sweater",
+      "letter": "G"
+     },
+     {
+      "text": "T-shirt",
+      "letter": "H"
+     }
+    ],
+    "scenario": "Janet talking about a party — clothes each person wore",
+    "leftLabel": "People",
+    "partNumber": 2,
+    "rightLabel": "Clothes",
+    "instruction": [
+     "Listen to Janet talking to her friend about a party.",
+     "What did each person wear?",
+     "For questions 6–10, write a letter A–H next to each person.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-conversation",
+    "items": [
+     {
+      "id": 11,
+      "stem": "The bag is",
+      "answer": "C",
+      "options": [
+       {
+        "text": "small.",
+        "letter": "A"
+       },
+       {
+        "text": "old.",
+        "letter": "B"
+       },
+       {
+        "text": "dirty.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "stem": "Where is the bag?",
+      "answer": "A",
+      "options": [
+       {
+        "text": "in the classroom",
+        "letter": "A"
+       },
+       {
+        "text": "on the sports field",
+        "letter": "B"
+       },
+       {
+        "text": "at the hospital",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "stem": "What is inside the bag?",
+      "answer": "C",
+      "options": [
+       {
+        "text": "money",
+        "letter": "A"
+       },
+       {
+        "text": "a watch",
+        "letter": "B"
+       },
+       {
+        "text": "clothes",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "stem": "Maria should take the bag to Zak",
+      "answer": "B",
+      "options": [
+       {
+        "text": "this afternoon.",
+        "letter": "A"
+       },
+       {
+        "text": "this evening.",
+        "letter": "B"
+       },
+       {
+        "text": "tomorrow morning.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "stem": "Zak hurt himself when he was",
+      "answer": "B",
+      "options": [
+       {
+        "text": "playing football.",
+        "letter": "A"
+       },
+       {
+        "text": "running.",
+        "letter": "B"
+       },
+       {
+        "text": "changing his clothes.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "stem": "What colour is Zak's bag?",
+     "answer": "A",
+     "number": 0,
+     "options": [
+      {
+       "text": "blue",
+       "letter": "A"
+      },
+      {
+       "text": "white",
+       "letter": "B"
+      },
+      {
+       "text": "black",
+       "letter": "C"
+      }
+     ]
+    },
+    "partNumber": 3,
+    "instruction": [
+     "Listen to Zak talking to Maria about his sports bag.",
+     "For questions 11–15, tick (✓) A, B or C.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "rows": [
+     {
+      "id": 16,
+      "label": "The 'early morning swim' starts at:",
+      "answer": "6.00",
+      "suffix": "a.m."
+     },
+     {
+      "id": 17,
+      "label": "9.30–12.30, pool is used by:",
+      "answer": "the school"
+     },
+     {
+      "id": 18,
+      "label": "Each lesson costs:",
+      "answer": "7.50",
+      "prefix": "£"
+     },
+     {
+      "id": 19,
+      "label": "Date of next course:",
+      "answer": "9th March"
+     },
+     {
+      "id": 20,
+      "label": "Teacher's name:",
+      "answer": "FOWLER",
+      "prefix": "Roy"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 4",
+    "subtitle": "Closing day: Monday",
+    "noteTitle": "Swimming pool",
+    "partNumber": 4,
+    "instruction": [
+     "You will hear a man asking for some information about a swimming pool.",
+     "Listen and complete questions 16–20.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "rows": [
+     {
+      "id": 21,
+      "label": "Name of film:",
+      "answer": "Doctor",
+      "prefix": "The Elephant"
+     },
+     {
+      "label": "Send postcard to:",
+      "prefilled": "Radio South-West"
+     },
+     {
+      "id": 22,
+      "label": "Address:",
+      "answer": "ARGYLL",
+      "prefix": "27",
+      "suffix": "Road, Bristol"
+     },
+     {
+      "id": 23,
+      "label": "Before:",
+      "answer": "30th",
+      "suffix": "July"
+     },
+     {
+      "id": 24,
+      "label": "Number of tickets per family:",
+      "answer": "4"
+     },
+     {
+      "id": 25,
+      "label": "Everybody will get a:",
+      "answer": "book"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 5",
+    "subtitle": "Usual price: £5",
+    "noteTitle": "Free cinema tickets",
+    "partNumber": 5,
+    "instruction": [
+     "You will hear some information about free cinema tickets.",
+     "Listen and complete questions 21–25.",
+     "You will hear the information twice."
+    ],
+    "questionsLabel": "QUESTIONS 21–25"
+   }
+  ],
+  "testInfo": {
+   "id": "ket-l-19",
+   "level": "A2",
+   "paper": "Paper 2",
+   "parts": 5,
+   "title": "KET Listening — Test 19",
+   "totalTime": 30,
+   "totalQuestions": 25
+  }
+ },
+ "created_at": "2026-10-14T06:45:29.469773+00:00",
+ "updated_at": "2026-10-14T06:47:15.659406+00:00"
+}

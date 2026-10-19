@@ -1,0 +1,455 @@
+{
+ "id": 2287,
+ "mock_type": "ket-listening",
+ "mock_number": 25,
+ "title": "KET Listening — Test 25",
+ "status": "published",
+ "mock_data": {
+  "audio": {
+   "base": "https://audio.mock-stream.com/KET-Listening/test25/",
+   "files": {
+    "1": "PART1.m4a",
+    "2": "PART2.m4a",
+    "3": "PART3.m4a",
+    "4": "PART4.m4a",
+    "5": "PART5.m4a"
+   }
+  },
+  "parts": [
+   {
+    "type": "picture-mcq",
+    "items": [
+     {
+      "id": 1,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q1A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q1B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q1C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Which T-shirt does the woman buy?"
+     },
+     {
+      "id": 2,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q2A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q2B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q2C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "When is the girl's swimming lesson next week?"
+     },
+     {
+      "id": 3,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q3A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q3B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q3C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Which bus stop does the woman need?"
+     },
+     {
+      "id": 4,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q4A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q4B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q4C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Which is the man's raincoat?"
+     },
+     {
+      "id": 5,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q5A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q5B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q5C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Which is the office manager?"
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "image": "q0A.png",
+       "letter": "A"
+      },
+      {
+       "image": "q0B.png",
+       "letter": "B"
+      },
+      {
+       "image": "q0C.png",
+       "letter": "C"
+      }
+     ],
+     "question": "How many people were at the meeting?"
+    },
+    "imageBase": "https://audio.mock-stream.com/KET-Listening/test25/p1/",
+    "partNumber": 1,
+    "instruction": [
+     "You will hear five short conversations.",
+     "You will hear each conversation twice.",
+     "There is one question for each conversation.",
+     "For questions 1–5, put a tick (✓) under the right answer."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "matching-list",
+    "items": [
+     {
+      "id": 6,
+      "name": "Amy",
+      "answer": "A"
+     },
+     {
+      "id": 7,
+      "name": "James",
+      "answer": "E"
+     },
+     {
+      "id": 8,
+      "name": "Claire",
+      "answer": "G"
+     },
+     {
+      "id": 9,
+      "name": "Tom",
+      "answer": "D"
+     },
+     {
+      "id": 10,
+      "name": "Jane",
+      "answer": "B"
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "name": "Chris",
+     "answer": "F",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "book the room",
+      "letter": "A"
+     },
+     {
+      "text": "buy a present",
+      "letter": "B"
+     },
+     {
+      "text": "buy party food",
+      "letter": "C"
+     },
+     {
+      "text": "get drinks",
+      "letter": "D"
+     },
+     {
+      "text": "invite guests",
+      "letter": "E"
+     },
+     {
+      "text": "make cake",
+      "letter": "F"
+     },
+     {
+      "text": "plan the music",
+      "letter": "G"
+     },
+     {
+      "text": "put up balloons",
+      "letter": "H"
+     }
+    ],
+    "scenario": "Amy and James planning a birthday party — jobs",
+    "leftLabel": "People",
+    "partNumber": 2,
+    "rightLabel": "Jobs",
+    "instruction": [
+     "Listen to Amy and James talking about planning a birthday party.",
+     "What job is each person going to do?",
+     "For questions 6–10, write a letter A–H next to each person.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-conversation",
+    "items": [
+     {
+      "id": 11,
+      "stem": "The class takes",
+      "answer": "B",
+      "options": [
+       {
+        "text": "half an hour.",
+        "letter": "A"
+       },
+       {
+        "text": "three quarters of an hour.",
+        "letter": "B"
+       },
+       {
+        "text": "an hour.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "stem": "What doesn't Frank need to take?",
+      "answer": "A",
+      "options": [
+       {
+        "text": "trainers",
+        "letter": "A"
+       },
+       {
+        "text": "sports clothes",
+        "letter": "B"
+       },
+       {
+        "text": "drink",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "stem": "The teacher needs to know",
+      "answer": "A",
+      "options": [
+       {
+        "text": "if people are beginners.",
+        "letter": "A"
+       },
+       {
+        "text": "how fit people are.",
+        "letter": "B"
+       },
+       {
+        "text": "people's age.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "stem": "The normal price of classes is",
+      "answer": "B",
+      "options": [
+       {
+        "text": "£5.",
+        "letter": "A"
+       },
+       {
+        "text": "£6.",
+        "letter": "B"
+       },
+       {
+        "text": "£8.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "stem": "They will meet",
+      "answer": "C",
+      "options": [
+       {
+        "text": "at Jessica's house.",
+        "letter": "A"
+       },
+       {
+        "text": "at college.",
+        "letter": "B"
+       },
+       {
+        "text": "in the café.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "stem": "What time does the class start?",
+     "answer": "B",
+     "number": 0,
+     "options": [
+      {
+       "text": "7.30 p.m.",
+       "letter": "A"
+      },
+      {
+       "text": "8 p.m.",
+       "letter": "B"
+      },
+      {
+       "text": "9 p.m.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partNumber": 3,
+    "instruction": [
+     "Listen to Jessica talking to Frank about a dance class.",
+     "For questions 11–15, tick (✓) A, B or C.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "rows": [
+     {
+      "id": 16,
+      "label": "Tour takes:",
+      "answer": "45",
+      "suffix": "minutes"
+     },
+     {
+      "id": 17,
+      "label": "Price of a family ticket:",
+      "answer": "22",
+      "prefix": "£"
+     },
+     {
+      "id": 18,
+      "label": "Ticket includes:",
+      "answer": "tea",
+      "prefix": "soft drink or"
+     },
+     {
+      "id": 19,
+      "label": "Name of gardens:",
+      "answer": "Highclere"
+     },
+     {
+      "id": 20,
+      "label": "What to see in gardens:",
+      "answer": "tree",
+      "prefix": "800-year-old"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 4",
+    "subtitle": "Time of first tour: 10 a.m.",
+    "noteTitle": "Castle Tours",
+    "partNumber": 4,
+    "instruction": [
+     "You will hear a woman asking about a tour of a castle.",
+     "Listen and complete questions 16–20.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "rows": [
+     {
+      "id": 21,
+      "label": "Day of programme:",
+      "answer": "Friday"
+     },
+     {
+      "id": 22,
+      "label": "Start time:",
+      "answer": "3.15",
+      "suffix": "p.m."
+     },
+     {
+      "id": 23,
+      "label": "Total number of shows:",
+      "answer": "6"
+     },
+     {
+      "id": 24,
+      "label": "Things to cook:",
+      "answer": "snacks",
+      "prefix": "cakes, main courses and"
+     },
+     {
+      "id": 25,
+      "label": "Date of first programme:",
+      "answer": "5th July"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 5",
+    "subtitle": "Name of programme: Cooking for Beginners",
+    "noteTitle": "New cooking programme",
+    "partNumber": 5,
+    "instruction": [
+     "You will hear someone talking on the radio about a cooking programme.",
+     "Listen and complete questions 21–25.",
+     "You will hear the information twice."
+    ],
+    "questionsLabel": "QUESTIONS 21–25"
+   }
+  ],
+  "testInfo": {
+   "id": "ket-l-25",
+   "level": "A2",
+   "paper": "Paper 2",
+   "parts": 5,
+   "title": "KET Listening — Test 25",
+   "totalTime": 30,
+   "totalQuestions": 25
+  }
+ },
+ "created_at": "2026-10-14T06:45:34.186169+00:00",
+ "updated_at": "2026-10-14T06:47:19.536541+00:00"
+}

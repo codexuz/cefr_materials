@@ -1,0 +1,517 @@
+{
+ "id": 496,
+ "mock_type": "cefr-listening",
+ "mock_number": 41,
+ "title": "CEFR Listening Mock 41",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "mcq-reply",
+    "title": "Part 1",
+    "answers": {
+     "1": "C",
+     "2": "A",
+     "3": "C",
+     "4": "A",
+     "5": "C",
+     "6": "A",
+     "7": "C",
+     "8": "A"
+    },
+    "audioFile": "https://audio.mock-stream.com/test41/PART 1.m4a",
+    "questions": [
+     {
+      "id": 1,
+      "options": [
+       {
+        "text": "I have to call her.",
+        "letter": "A"
+       },
+       {
+        "text": "It's 2231-5678.",
+        "letter": "B"
+       },
+       {
+        "text": "O.K. I'll be home at six.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "options": [
+       {
+        "text": "I like all types.",
+        "letter": "A"
+       },
+       {
+        "text": "I play the piano.",
+        "letter": "B"
+       },
+       {
+        "text": "Music makes me want to dance.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 3,
+      "options": [
+       {
+        "text": "I have two pairs of them.",
+        "letter": "A"
+       },
+       {
+        "text": "It doesn't fit me anymore.",
+        "letter": "B"
+       },
+       {
+        "text": "My mother bought it for me.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 4,
+      "options": [
+       {
+        "text": "My parents and younger sister.",
+        "letter": "A"
+       },
+       {
+        "text": "I live in an apartment.",
+        "letter": "B"
+       },
+       {
+        "text": "I have an older brother.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 5,
+      "options": [
+       {
+        "text": "No, it makes me nervous.",
+        "letter": "A"
+       },
+       {
+        "text": "Yes, I had a cup this morning.",
+        "letter": "B"
+       },
+       {
+        "text": "No, it is included in the price.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 6,
+      "options": [
+       {
+        "text": "She is a nurse in a hospital.",
+        "letter": "A"
+       },
+       {
+        "text": "She helped with my homework.",
+        "letter": "B"
+       },
+       {
+        "text": "She loves her job.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 7,
+      "options": [
+       {
+        "text": "I will ask my dad for one.",
+        "letter": "A"
+       },
+       {
+        "text": "We can drive there.",
+        "letter": "B"
+       },
+       {
+        "text": "You should get it fixed.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 8,
+      "options": [
+       {
+        "text": "Yes, I just bought it.",
+        "letter": "A"
+       },
+       {
+        "text": "Yes, I just cleaned it.",
+        "letter": "B"
+       },
+       {
+        "text": "Yes, I have to get ready.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "partNumber": 1,
+    "instruction": "You will hear some sentences. Choose the best reply to each sentence.",
+    "questionRange": "1-8"
+   },
+   {
+    "type": "gap-fill-form",
+    "title": "Part 2",
+    "answers": {
+     "9": "ENTRANCE",
+     "10": "THURSDAY",
+     "11": "9785423",
+     "12": "COMPUTERS",
+     "13": "SALADS",
+     "14": "BOOKSHOP"
+    },
+    "audioFile": "https://audio.mock-stream.com/test41/PART 2.m4a",
+    "formTitle": "HIGHDOWN COLLEGE",
+    "partNumber": 2,
+    "formContent": [
+     {
+      "text": "Accommodation Office at the college",
+      "type": "item-gap",
+      "gapId": 9,
+      "gapSuffix": ""
+     },
+     {
+      "text": "(Holidays: Monday and",
+      "type": "item-gap",
+      "gapId": 10,
+      "gapSuffix": "mornings only)"
+     },
+     {
+      "text": "Emergency No.",
+      "type": "item-gap",
+      "gapId": 11,
+      "gapSuffix": ""
+     },
+     {
+      "text": "Learning Resource Center — over 50,000 library books 50",
+      "type": "item-gap",
+      "gapId": 12,
+      "gapSuffix": ""
+     },
+     {
+      "text": "Snacks (including sandwiches and",
+      "type": "item-gap",
+      "gapId": 13,
+      "gapSuffix": ") — in The Hungry Café on the first floor."
+     },
+     {
+      "text": "Hot meals — in The Food Hall on the ground floor next to the",
+      "type": "item-gap",
+      "gapId": 14,
+      "gapSuffix": ""
+     }
+    ],
+    "instruction": "Listen and complete the gaps with NO MORE THAN TWO WORDS OR/AND A NUMBER for each answer. Opening hours — term time: Monday – Friday 9 a.m. to 4 p.m. Pub Lunch — in the Students' Bar.",
+    "questionRange": "9-14"
+   },
+   {
+    "type": "matching-speakers",
+    "title": "Part 3",
+    "answers": {
+     "15": "B",
+     "16": "D",
+     "17": "G",
+     "18": "A",
+     "19": "F"
+    },
+    "options": [
+     {
+      "text": "I was inspired by an educational visit.",
+      "letter": "A"
+     },
+     {
+      "text": "I was looking for an interest that would challenge me.",
+      "letter": "B"
+     },
+     {
+      "text": "Something I read made me curious about astronomy.",
+      "letter": "C"
+     },
+     {
+      "text": "It gave me the chance to be part of an online community.",
+      "letter": "D"
+     },
+     {
+      "text": "My friends were already interested in astronomy.",
+      "letter": "E"
+     },
+     {
+      "text": "I realised it was something I could do while travelling.",
+      "letter": "F"
+     },
+     {
+      "text": "Astronomy can help improve life on earth.",
+      "letter": "G"
+     },
+     {
+      "text": "A relative of mine was passionate about astronomy.",
+      "letter": "H"
+     }
+    ],
+    "speakers": [
+     {
+      "id": 15,
+      "label": "Speaker 1"
+     },
+     {
+      "id": 16,
+      "label": "Speaker 2"
+     },
+     {
+      "id": 17,
+      "label": "Speaker 3"
+     },
+     {
+      "id": 18,
+      "label": "Speaker 4"
+     },
+     {
+      "id": 19,
+      "label": "Speaker 5"
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test41/PART 3.m4a",
+    "partNumber": 3,
+    "instruction": "You will hear five short extracts in which people are talking about astronomy. For questions 15-19, choose from the list (A-H) why each speaker decided to get involved in astronomy. Use the letters only once. There is one extra letter which you do not need to use.",
+    "questionRange": "15-19"
+   },
+   {
+    "type": "map-labeling",
+    "title": "Part 4",
+    "answers": {
+     "20": "B",
+     "21": "E",
+     "22": "G",
+     "23": "F",
+     "24": "H"
+    },
+    "mapImage": "https://audio.mock-stream.com/test41/map.png",
+    "mapTitle": "TOWN CENTER",
+    "audioFile": "https://audio.mock-stream.com/test41/PART 4.m4a",
+    "mapLabels": [
+     "A",
+     "B",
+     "C",
+     "D",
+     "E",
+     "F",
+     "G",
+     "H"
+    ],
+    "questions": [
+     {
+      "id": 20,
+      "place": "Pizza"
+     },
+     {
+      "id": 21,
+      "place": "Electric vehicle charging station"
+     },
+     {
+      "id": 22,
+      "place": "Town Hall"
+     },
+     {
+      "id": 23,
+      "place": "Parking"
+     },
+     {
+      "id": 24,
+      "place": "Diner"
+     }
+    ],
+    "partNumber": 4,
+    "instruction": "Write the correct letter, A-H, next to questions 20-24.",
+    "questionRange": "20-24"
+   },
+   {
+    "type": "mcq-extracts",
+    "title": "Part 5",
+    "answers": {
+     "25": "C",
+     "26": "B",
+     "27": "C",
+     "28": "A",
+     "29": "C",
+     "30": "A"
+    },
+    "extracts": [
+     {
+      "title": "Extract One",
+      "context": "You hear two students talking about a work-experience scheme they took part in.",
+      "questions": [
+       {
+        "id": 25,
+        "text": "Why does the girl regret her choice of company?",
+        "options": [
+         {
+          "text": "The office was poorly equipped.",
+          "letter": "A"
+         },
+         {
+          "text": "The staff tended to ignore her.",
+          "letter": "B"
+         },
+         {
+          "text": "The work lacked variety.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 26,
+        "text": "They both think that the work-experience scheme has",
+        "options": [
+         {
+          "text": "been good preparation for a future job",
+          "letter": "A"
+         },
+         {
+          "text": "made them appreciate student life more",
+          "letter": "B"
+         },
+         {
+          "text": "taught them a lot about the business world",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Extract Two",
+      "context": "You hear part of a discussion programme in which two journalists are talking about the world's wetlands.",
+      "questions": [
+       {
+        "id": 27,
+        "text": "What does the man think about wetlands?",
+        "options": [
+         {
+          "text": "They would benefit from more visitors.",
+          "letter": "A"
+         },
+         {
+          "text": "Their beauty is artistically important.",
+          "letter": "B"
+         },
+         {
+          "text": "They serve only a limited purpose.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 28,
+        "text": "What is the woman doing?",
+        "options": [
+         {
+          "text": "explaining how easily wetlands can be restored",
+          "letter": "A"
+         },
+         {
+          "text": "suggesting why wetlands are disappearing",
+          "letter": "B"
+         },
+         {
+          "text": "describing the way wetlands are exploited",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Extract Three",
+      "context": "You overhear a woman showing a friend one of her childhood photos.",
+      "questions": [
+       {
+        "id": 29,
+        "text": "What point is she making about the photo?",
+        "options": [
+         {
+          "text": "It is an accurate portrait of her family life then.",
+          "letter": "A"
+         },
+         {
+          "text": "It looks more posed than she remembers.",
+          "letter": "B"
+         },
+         {
+          "text": "It perfectly captures a brief moment.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 30,
+        "text": "As a result of looking at the photo, she realises that",
+        "options": [
+         {
+          "text": "possessions acquire a significance beyond their practical usefulness.",
+          "letter": "A"
+         },
+         {
+          "text": "it's a mistake to become too attached to objects.",
+          "letter": "B"
+         },
+         {
+          "text": "objects from that era lasted longer.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test41/PART 5.m4a",
+    "partNumber": 5,
+    "instruction": "You will hear three different extracts. For questions 25-30, choose the answer (A, B or C) which fits best according to what you hear. There are two questions for each extract.",
+    "questionRange": "25-30"
+   },
+   {
+    "type": "sentence-completion",
+    "title": "Part 6",
+    "answers": {
+     "31": "THREATENING SITUATION",
+     "32": "THE HEART",
+     "33": "NEGATIVE THOUGHTS",
+     "34": "RUN AWAY",
+     "35": "MUSCLES",
+     "36": "PAPER BAG"
+    },
+    "audioFile": "https://audio.mock-stream.com/test41/PART 6.m4a",
+    "partNumber": 6,
+    "instruction": "You will hear a radio report about panic attacks. For questions 31-36, complete the sentences.",
+    "passageTitle": "PANIC ATTACK",
+    "questionRange": "31-36",
+    "passageContent": "People tend to have a panic attack when their brain tells them they are in a <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span>.<br><br>The first sign of a panic attack is often an abnormal beating of <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span>.<br><br>It may be useful to keep a diary of any <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span> you have so that you can analyse them.<br><br>You should not <span class=\"gap-input\" data-gap=\"34\">_____(34)_____</span> from places that cause you to panic.<br><br>If you tense and relax all your <span class=\"gap-input\" data-gap=\"35\">_____(35)_____</span> your whole body will actively relax.<br><br>Holding a <span class=\"gap-input\" data-gap=\"36\">_____(36)_____</span> to your face can help you breathe during an attack."
+   }
+  ],
+  "source": "CEFR Listening full mock (Test 3 — PDF Q24 overlap renumbered)",
+  "examDate": "2026-06-05",
+  "examType": "cefr",
+  "testInfo": {
+   "id": "cefr-listening-41",
+   "level": "B2",
+   "title": "CEFR Listening Mock Test 41",
+   "totalTime": 40,
+   "totalQuestions": 36
+  },
+  "mockNumber": 41
+ },
+ "created_at": "2026-06-04T19:59:46.395223+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

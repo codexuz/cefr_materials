@@ -1,0 +1,683 @@
+{
+ "id": 2293,
+ "mock_type": "pet-reading",
+ "mock_number": 3,
+ "title": "PET Reading — Test 3",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "sign-mcq",
+    "items": [
+     {
+      "id": 1,
+      "image": "https://audio.mock-stream.com/PET-Reading/test3/q1.png",
+      "answer": "A",
+      "prompt": " ",
+      "options": [
+       {
+        "text": "Juan will sell Maria his guitar if she wants it.",
+        "letter": "A"
+       },
+       {
+        "text": "Pedro has a guitar which Maria might want to buy.",
+        "letter": "B"
+       },
+       {
+        "text": "Juan would prefer to sell his guitar to Pedro.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "image": "https://audio.mock-stream.com/PET-Reading/test3/q2.png",
+      "answer": "C",
+      "prompt": " ",
+      "options": [
+       {
+        "text": "The homework given out on Friday must be returned by Monday.",
+        "letter": "A"
+       },
+       {
+        "text": "Students who wish to hand in their homework on Monday should tell Mr Peters.",
+        "letter": "B"
+       },
+       {
+        "text": "Anyone having problems with their homework may have extra time to complete it.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 3,
+      "image": "https://audio.mock-stream.com/PET-Reading/test3/q3.png",
+      "answer": "C",
+      "prompt": "What does Dan have to do?",
+      "options": [
+       {
+        "text": "Remember to make sure his football shirt is clean in time for the match.",
+        "letter": "A"
+       },
+       {
+        "text": "Remember where he put the football shirt that he needs for the match.",
+        "letter": "B"
+       },
+       {
+        "text": "Remember to wash his football shirt after the match.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 4,
+      "image": "https://audio.mock-stream.com/PET-Reading/test3/q4.png",
+      "answer": "B",
+      "prompt": "What does Sarah need to know?",
+      "options": [
+       {
+        "text": "if Janine will be available to go to the restaurant",
+        "letter": "A"
+       },
+       {
+        "text": "if the food at the restaurant will be all right for Janine",
+        "letter": "B"
+       },
+       {
+        "text": "if Janine wants to see the restaurant menu before Saturday",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 5,
+      "image": "https://audio.mock-stream.com/PET-Reading/test3/q5.png",
+      "answer": "A",
+      "prompt": " ",
+      "options": [
+       {
+        "text": "Part of the pool is not deep enough for diving.",
+        "letter": "A"
+       },
+       {
+        "text": "Diving is forbidden in all areas of the pool.",
+        "letter": "B"
+       },
+       {
+        "text": "The far end of the pool is reserved for divers only.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "image": "https://audio.mock-stream.com/PET-Reading/test3/q0.png",
+     "answer": "A",
+     "number": 0,
+     "prompt": "LOST FLOPPY DISC — Lost on Tuesday - contains important schoolwork. Hand in to office.",
+     "options": [
+      {
+       "text": "Go to the office if you have lost a floppy disc.",
+       "letter": "A"
+      },
+      {
+       "text": "Make sure all schoolwork is given in on floppy disc to the office.",
+       "letter": "B"
+      },
+      {
+       "text": "If you have found a floppy disc, please leave it at the office.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partNumber": 1,
+    "instruction": [
+     "Look at the text in each question.",
+     "What does it say?",
+     "Mark the correct letter A, B or C on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "match-people-texts",
+    "items": [
+     {
+      "id": 6,
+      "name": "George",
+      "image": "https://audio.mock-stream.com/PET-Reading/test3/p6.jpg",
+      "answer": "F",
+      "description": "George has to buy some new jeans but hasn't much money to spend. He's quite tall, so he likes to try on clothes to check that they fit."
+     },
+     {
+      "id": 7,
+      "name": "Rosa",
+      "image": "https://audio.mock-stream.com/PET-Reading/test3/p7.jpg",
+      "answer": "D",
+      "description": "Rosa would like a beautiful dress for her school's end-of-year party, with earrings to match. Her mother has given her quite a lot of money to spend, and she'd like to buy everything in one store."
+     },
+     {
+      "id": 8,
+      "name": "Stefan",
+      "image": "https://audio.mock-stream.com/PET-Reading/test3/p8.jpg",
+      "answer": "A",
+      "description": "Stefan wants to get a smart designer rugby shirt, and doesn't mind how expensive it is. He prefers to choose his clothes online before he goes to town to buy anything."
+     },
+     {
+      "id": 9,
+      "name": "Tanya",
+      "image": "https://audio.mock-stream.com/PET-Reading/test3/p9.jpg",
+      "answer": "H",
+      "description": "Tanya wants to buy some skirts and tops that are a bit unusual, so that she'll look different from everyone else at school. She wants to try things on in the shop to make sure they suit her."
+     },
+     {
+      "id": 10,
+      "name": "Suzie",
+      "image": "https://audio.mock-stream.com/PET-Reading/test3/p10.jpg",
+      "answer": "B",
+      "description": "Suzie needs to get some fairly cheap sports clothes for wearing at the gym. She's in a hurry, so doesn't want to spend too long shopping."
+     }
+    ],
+    "label": "PART 2",
+    "texts": [
+     {
+      "body": "This shop has all the top-of-the-range sports and leisurewear labels. The clothes aren't cheap but they're all high quality. Keep up-to-date with their latest styles by going to their website.",
+      "title": "Streetwear",
+      "letter": "A"
+     },
+     {
+      "body": "This is the place to come for great designs and low prices. There are no changing rooms, but the service is quick and helpful. They stock plenty of jeans, T-shirts and other everyday fashions, plus a range of clothes for indoor and outdoor fitness activities.",
+      "title": "Balloon",
+      "letter": "B"
+     },
+     {
+      "body": "This small shop specialises in clothes for larger and smaller sizes and it's especially good for sportswear. The prices are high, but the assistants are friendly and efficient. The shop doesn't have a website yet.",
+      "title": "Zizi's",
+      "letter": "C"
+     },
+     {
+      "body": "This shop is really popular with young people looking for clothes for special events — you'll pay a bit more, but you'll look fantastic! It's a huge shop and has everything you could possibly want — including a wide selection of jewellery and shoes. You can see the full range of their products online.",
+      "title": "Teenscape",
+      "letter": "D"
+     },
+     {
+      "body": "This tiny shop is full of the most wonderful partywear — for girls and smart suits for boys. There are some unusual styles too. They're planning to launch a range of matching shoes and jewellery some time next year — check their website for details.",
+      "title": "Cinders",
+      "letter": "E"
+     },
+     {
+      "body": "A great store for shopping with pocket money. It stocks plenty of basic boys' and girls' clothes in a wide range of sizes and lengths, but the styles don't differ much from year to year. The staff are nice, and there are lots of changing rooms.",
+      "title": "Orange",
+      "letter": "F"
+     },
+     {
+      "body": "If you're looking for something plain and simple for school or leisure — dresses, jeans, shirts, skirts, sportswear — you're sure to find it here. It's always crowded because the prices are so low. There aren't any changing rooms, and the queues to pay are always long — so be prepared to wait!",
+      "title": "Fanfare",
+      "letter": "G"
+     },
+     {
+      "body": "This shop has an interesting range of reasonably-priced girls' clothes for everyday wear, with styles that you just don't see in other stores. There are plenty of changing rooms. Look out for their lovely hand-made jewellery — especially their earrings.",
+      "title": "Wardrobe",
+      "letter": "H"
+     }
+    ],
+    "partNumber": 2,
+    "textsTitle": "Clothes Shops",
+    "instruction": [
+     "The young people below are all looking for a clothes shop to go to this weekend.",
+     "On the opposite page there are eight online reviews of clothes shops.",
+     "Decide which shop would be the most suitable for the following people.",
+     "For questions 6–10, mark the correct letter (A–H) on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "true-false",
+    "items": [
+     {
+      "id": 11,
+      "answer": "A",
+      "statement": "Citisport can send their own instructors to schools in the area."
+     },
+     {
+      "id": 12,
+      "answer": "B",
+      "statement": "If the sport you want is unavailable, Citisport will set up a course for you."
+     },
+     {
+      "id": 13,
+      "answer": "B",
+      "statement": "The golf lessons can take place even in bad weather."
+     },
+     {
+      "id": 14,
+      "answer": "B",
+      "statement": "It is necessary to join the Kingsway Golf Centre in order to practise there."
+     },
+     {
+      "id": 15,
+      "answer": "A",
+      "statement": "Teenagers can attend golf lessons on Wednesday afternoons."
+     },
+     {
+      "id": 16,
+      "answer": "A",
+      "statement": "Citisport will provide you with a tennis racket if necessary."
+     },
+     {
+      "id": 17,
+      "answer": "A",
+      "statement": "The football course is for girls of all levels of ability."
+     },
+     {
+      "id": 18,
+      "answer": "B",
+      "statement": "A Newport City player will organise the day's football training."
+     },
+     {
+      "id": 19,
+      "answer": "B",
+      "statement": "A midday meal is included in the price of the girls' football course."
+     },
+     {
+      "id": 20,
+      "answer": "A",
+      "statement": "Each coach will teach up to six people on the gymnastics course."
+     }
+    ],
+    "label": "PART 3",
+    "passage": "We at Citisport aim to improve sports training and facilities in Newport, giving you more opportunity to try both new and traditional sports.\n\nAs well as running our own courses, Citisport can also provide sports advisers and qualified coaches for youth groups, schools and colleges in and around Newport.\n\nAnd if you can't find the sport you want to take up, let us know and we'll try to find you a local club which will help you.\n\nGolf\nWe are pleased to be able to offer lessons at Kingsway Golf Centre just outside Newport. These are run by experienced golf professionals, and are held on an all-weather practice area. The Centre also has Pay and Play facilities so you can continue to play and make progress after the lessons have finished. These facilities are available to all players, whether or not they are members of the Centre.\n\nThe adult lessons are open to anyone aged 13 and over, and are suitable for all levels from beginners upwards. These take place on Wednesdays from 3.00 to 4.00 pm over a period of six weeks. Children's lessons for 7–12 year olds are held from 2.00 to 3.00 pm on Saturdays during term time.\n\nTennis\nThe Citisport tennis courses provide an opportunity for local people to develop their skills on the brand new indoor tennis court at Newport Leisure Centre. All equipment can be provided, but please feel free to use your own racket if you prefer. Our Starter course is held on Mondays from 7.00 to 8.00 pm, and is for beginners of 12 years and over. Our Improver course, which takes place on Tuesdays from 8.00 to 9.00 pm, is for players with some experience.\n\nFootball for girls\nBy popular request, Citisport is holding another one-day, girls-only football course. This aims to give local girls, whether new or experienced players, the chance to learn essential skills and develop more advanced ones. One of Newport City Football Club's players will come along to take part in a question and answer session during the day. The course fee of £30 includes morning and afternoon refreshments. Please bring a packed lunch. The course will take place on Saturday, 9th November from 9.00 to 5.00 pm, and is open to all girls aged 10–14 years living in the Newport area.\n\nGymnastics\nThis course is for beginners aged 8–14 and will provide an introduction to basic skills. There is a maximum of six pupils per coach in each class. At the end of the course there is a demonstration for friends and family of all the skills learnt there. Thursdays, 6.00 to 7.00 pm",
+    "partNumber": 3,
+    "instruction": [
+     "Look at the sentences below about sports courses available in Newport.",
+     "Read the text on the opposite page to decide if each sentence is correct or incorrect.",
+     "If it is correct, mark A on your answer sheet.",
+     "If it is not correct, mark B on your answer sheet."
+    ],
+    "passageImage": "https://audio.mock-stream.com/PET-Reading/test3/passage3.jpg",
+    "passageTitle": "Citisport in Newport",
+    "questionsLabel": "QUESTIONS 11–20"
+   },
+   {
+    "type": "passage-mcq",
+    "items": [
+     {
+      "id": 21,
+      "answer": "C",
+      "prompt": "What is Sam trying to do in the text?",
+      "options": [
+       {
+        "text": "explain how to bake cakes",
+        "letter": "A"
+       },
+       {
+        "text": "discuss the importance of knowing how to cook",
+        "letter": "B"
+       },
+       {
+        "text": "describe how he enjoyed a day with his family",
+        "letter": "C"
+       },
+       {
+        "text": "inform readers about life on a farm",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 22,
+      "answer": "A",
+      "prompt": "Sam's parents took the children to Oakton Farm because they wanted them to",
+      "options": [
+       {
+        "text": "learn a new skill.",
+        "letter": "A"
+       },
+       {
+        "text": "make something for their grandmother.",
+        "letter": "B"
+       },
+       {
+        "text": "spend time in the countryside.",
+        "letter": "C"
+       },
+       {
+        "text": "meet other people the same age.",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 23,
+      "answer": "B",
+      "prompt": "What do we learn about Oakton Farm?",
+      "options": [
+       {
+        "text": "It had lots of animals living there.",
+        "letter": "A"
+       },
+       {
+        "text": "It was far from where they lived.",
+        "letter": "B"
+       },
+       {
+        "text": "It was just like Sam expected.",
+        "letter": "C"
+       },
+       {
+        "text": "It was run by a friendly man.",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 24,
+      "answer": "C",
+      "prompt": "What does Sam say about his cooking experience?",
+      "options": [
+       {
+        "text": "He was better at it than his sister.",
+        "letter": "A"
+       },
+       {
+        "text": "He liked wearing the clothes he was given.",
+        "letter": "B"
+       },
+       {
+        "text": "He could be untidy without getting into trouble.",
+        "letter": "C"
+       },
+       {
+        "text": "He was the first to finish.",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 25,
+      "answer": "D",
+      "prompt": "What might Sam write in a postcard to his grandmother?",
+      "options": [
+       {
+        "text": "I made some great bread rolls, but my sister ate them because we didn't know who they belonged to.",
+        "letter": "A"
+       },
+       {
+        "text": "We had to clean up the kitchen, like at your house. But we've made great pizza, just like you taught us.",
+        "letter": "B"
+       },
+       {
+        "text": "I loved it, but my sister didn't really. She found it hard to do what the teacher told her.",
+        "letter": "C"
+       },
+       {
+        "text": "We liked swimming in the lake — it helped to pass the time while we waited for our lovely pizzas to be ready.",
+        "letter": "D"
+       }
+      ]
+     }
+    ],
+    "label": "PART 4",
+    "passage": "My grandmother loves making bread and cakes, and is always surprised that the rest of my family never do any baking. So my parents decided they'd take me and my younger sister on a course, so that we could all find out how to make bread — and pizza, our favourite food! We booked our places, and set off for Oakton Farm in the countryside.\n\nIt was a very long drive, and when we arrived we went straight to bed. The next morning we got up early, fed the ducks on the lake, and looked at the bull in the next field. Then we met our teacher, Michael, who seemed quite strict, and the other parents and children, who were really friendly.\n\nThe cooking part was brilliant. Michael gave us long white coats to wear, which we all felt a bit silly in. Then we all made bread rolls, mixing flour and water with our hands. My sister kept complaining at first. Then even she started to enjoy it, and to concentrate on following the instructions. Dad made lots of mess, I got flour on the floor and in my hair, and Mum didn't even get angry! I took ages to make my rolls, though.\n\nWe finally put our initials on the bottom of each roll, then made some pizzas and decorated them, which was fun. And we didn't even have to do the washing-up! Then for something to do while the pizzas were cooking, we all went for a swim in the lake. It was fantastic. Then we went back inside and ate our pizzas. They were the best we'd ever tasted!",
+    "partNumber": 4,
+    "instruction": [
+     "Read the text and questions below.",
+     "For each question, mark the correct letter A, B, C or D on your answer sheet."
+    ],
+    "passageTitle": "Baking",
+    "questionsLabel": "QUESTIONS 21–25",
+    "passageSubtitle": "By Sam Jarvis, aged 12"
+   },
+   {
+    "type": "passage-cloze",
+    "items": [
+     {
+      "id": 26,
+      "answer": "B",
+      "options": [
+       {
+        "text": "found",
+        "letter": "A"
+       },
+       {
+        "text": "took",
+        "letter": "B"
+       },
+       {
+        "text": "went",
+        "letter": "C"
+       },
+       {
+        "text": "gave",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 27,
+      "answer": "C",
+      "options": [
+       {
+        "text": "doing",
+        "letter": "A"
+       },
+       {
+        "text": "making",
+        "letter": "B"
+       },
+       {
+        "text": "setting",
+        "letter": "C"
+       },
+       {
+        "text": "using",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 28,
+      "answer": "C",
+      "options": [
+       {
+        "text": "where",
+        "letter": "A"
+       },
+       {
+        "text": "who",
+        "letter": "B"
+       },
+       {
+        "text": "which",
+        "letter": "C"
+       },
+       {
+        "text": "what",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 29,
+      "answer": "B",
+      "options": [
+       {
+        "text": "yourself",
+        "letter": "A"
+       },
+       {
+        "text": "himself",
+        "letter": "B"
+       },
+       {
+        "text": "themselves",
+        "letter": "C"
+       },
+       {
+        "text": "itself",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 30,
+      "answer": "A",
+      "options": [
+       {
+        "text": "quickly",
+        "letter": "A"
+       },
+       {
+        "text": "immediately",
+        "letter": "B"
+       },
+       {
+        "text": "fast",
+        "letter": "C"
+       },
+       {
+        "text": "early",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 31,
+      "answer": "D",
+      "options": [
+       {
+        "text": "place",
+        "letter": "A"
+       },
+       {
+        "text": "site",
+        "letter": "B"
+       },
+       {
+        "text": "location",
+        "letter": "C"
+       },
+       {
+        "text": "district",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 32,
+      "answer": "D",
+      "options": [
+       {
+        "text": "To",
+        "letter": "A"
+       },
+       {
+        "text": "At",
+        "letter": "B"
+       },
+       {
+        "text": "For",
+        "letter": "C"
+       },
+       {
+        "text": "By",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 33,
+      "answer": "A",
+      "options": [
+       {
+        "text": "industry",
+        "letter": "A"
+       },
+       {
+        "text": "company",
+        "letter": "B"
+       },
+       {
+        "text": "trade",
+        "letter": "C"
+       },
+       {
+        "text": "firm",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 34,
+      "answer": "C",
+      "options": [
+       {
+        "text": "developed",
+        "letter": "A"
+       },
+       {
+        "text": "happened",
+        "letter": "B"
+       },
+       {
+        "text": "appeared",
+        "letter": "C"
+       },
+       {
+        "text": "displayed",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 35,
+      "answer": "B",
+      "options": [
+       {
+        "text": "prove",
+        "letter": "A"
+       },
+       {
+        "text": "explain",
+        "letter": "B"
+       },
+       {
+        "text": "direct",
+        "letter": "C"
+       },
+       {
+        "text": "advise",
+        "letter": "D"
+       }
+      ]
+     }
+    ],
+    "label": "PART 5",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "prompt": "A were   B did   C had   D got"
+    },
+    "passage": "Did you know that cinema is more than 100 years old? Moving pictures (0) ___ invented by the brothers Louis and Auguste Lumière. The first showing of a moving picture or 'movie' (26) ___ place in a cinema in Paris on 28th December 1895. On that day, the Lumière brothers showed movies (27) ___ their newly-invented machine, called the Cinematographe. The audience saw a funny film in (28) ___ a gardener spilt a lot of water on (29) ___ by accident. Everyone really loved it!\n\nCinema very (30) ___ became popular all over the world. In 1907 the first film studios were built in a (31) ___ of Los Angeles called Hollywood. (32) ___ the 1920s, Hollywood had become the centre of the world film (33) ___.\n\nTo begin with, the movies had no sound. Words (34) ___ on the screen from time to time (35) ___ the story.",
+    "partNumber": 5,
+    "instruction": [
+     "Read the text below and choose the correct word for each space.",
+     "For each question, mark the correct letter A, B, C or D on your answer sheet."
+    ],
+    "passageTitle": "Birth of the Movies",
+    "questionsLabel": "QUESTIONS 26–35"
+   }
+  ],
+  "testInfo": {
+   "id": "pet-r-03",
+   "level": "B1",
+   "paper": "Paper 1 · Reading",
+   "parts": 5,
+   "title": "PET Reading — Test 3",
+   "totalTime": 50,
+   "totalQuestions": 35
+  }
+ },
+ "created_at": "2026-10-14T06:45:38.151857+00:00",
+ "updated_at": "2026-10-14T06:47:23.585152+00:00"
+}

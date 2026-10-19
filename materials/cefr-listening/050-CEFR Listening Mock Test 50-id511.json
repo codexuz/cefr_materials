@@ -1,0 +1,521 @@
+{
+ "id": 511,
+ "mock_type": "cefr-listening",
+ "mock_number": 50,
+ "title": "CEFR Listening Mock Test 50",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "mcq-reply",
+    "title": "Part 1",
+    "answers": {
+     "1": "B",
+     "2": "C",
+     "3": "C",
+     "4": "B",
+     "5": "A",
+     "6": "A",
+     "7": "B",
+     "8": "A"
+    },
+    "audioFile": "https://audio.mock-stream.com/test50/PART 1.m4a",
+    "questions": [
+     {
+      "id": 1,
+      "options": [
+       {
+        "text": "It's mine.",
+        "letter": "A"
+       },
+       {
+        "text": "What a surprise!",
+        "letter": "B"
+       },
+       {
+        "text": "You can't do this.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "options": [
+       {
+        "text": "No kidding? She's your sister?",
+        "letter": "A"
+       },
+       {
+        "text": "Wow. What a good kid!",
+        "letter": "B"
+       },
+       {
+        "text": "She looks so young.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 3,
+      "options": [
+       {
+        "text": "The teacher is speaking.",
+        "letter": "A"
+       },
+       {
+        "text": "What are you talking about?",
+        "letter": "B"
+       },
+       {
+        "text": "I'm sorry.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 4,
+      "options": [
+       {
+        "text": "It's easy as pie.",
+        "letter": "A"
+       },
+       {
+        "text": "Hey, take it easy.",
+        "letter": "B"
+       },
+       {
+        "text": "Could you hand me that vase?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 5,
+      "options": [
+       {
+        "text": "Oh, thank you.",
+        "letter": "A"
+       },
+       {
+        "text": "How are you?",
+        "letter": "B"
+       },
+       {
+        "text": "Better safe than sorry!",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 6,
+      "options": [
+       {
+        "text": "Sure. What is it?",
+        "letter": "A"
+       },
+       {
+        "text": "Don't push me.",
+        "letter": "B"
+       },
+       {
+        "text": "Slow down.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 7,
+      "options": [
+       {
+        "text": "The game is over now.",
+        "letter": "A"
+       },
+       {
+        "text": "Oh, good. We still have time.",
+        "letter": "B"
+       },
+       {
+        "text": "Where are we going?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 8,
+      "options": [
+       {
+        "text": "No way.",
+        "letter": "A"
+       },
+       {
+        "text": "That's not true.",
+        "letter": "B"
+       },
+       {
+        "text": "That's nothing.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "partNumber": 1,
+    "instruction": "You will hear some sentences. You will hear each sentence twice. Choose the best reply to each sentence.",
+    "questionRange": "1-8"
+   },
+   {
+    "type": "gap-fill-form",
+    "title": "Part 2",
+    "answers": {
+     "9": [
+      "FIRST FLOOR"
+     ],
+     "10": "MAP",
+     "11": "FOUNTAIN",
+     "12": "LIFTS",
+     "13": [
+      "2.15",
+      "14.15",
+      "2.15 PM"
+     ],
+     "14": "WHITMARSH"
+    },
+    "audioFile": "https://audio.mock-stream.com/test50/PART 2.m4a",
+    "formTitle": "Visit to shopping centre",
+    "partNumber": 2,
+    "formContent": [
+     {
+      "text": "Bank is on the",
+      "type": "item-gap",
+      "gapId": 9,
+      "gapSuffix": "."
+     },
+     {
+      "text": "Get a",
+      "type": "item-gap",
+      "gapId": 10,
+      "gapSuffix": "from the newsagent."
+     },
+     {
+      "text": "Restaurant is opposite the",
+      "type": "item-gap",
+      "gapId": 11,
+      "gapSuffix": "in the main square."
+     },
+     {
+      "text": "Snack bar next to the",
+      "type": "item-gap",
+      "gapId": 12,
+      "gapSuffix": ""
+     },
+     {
+      "text": "closes at",
+      "type": "item-gap",
+      "gapId": 13,
+      "gapSuffix": "."
+     },
+     {
+      "text": "Meet outside shop called",
+      "type": "item-gap",
+      "gapId": 14,
+      "gapSuffix": "."
+     }
+    ],
+    "instruction": "For each question, write the correct answer in the gap. Write NO MORE THAN TWO WORDS AND/OR A NUMBER for each answer.",
+    "questionRange": "9-14"
+   },
+   {
+    "type": "matching-speakers",
+    "title": "Part 3",
+    "answers": {
+     "15": "D",
+     "16": "A",
+     "17": "F",
+     "18": "B"
+    },
+    "options": [
+     {
+      "text": "they lied about something",
+      "letter": "A"
+     },
+     {
+      "text": "they were injured",
+      "letter": "B"
+     },
+     {
+      "text": "they were made redundant at work",
+      "letter": "C"
+     },
+     {
+      "text": "they were issued a warning",
+      "letter": "D"
+     },
+     {
+      "text": "they were doing a number of different things",
+      "letter": "E"
+     },
+     {
+      "text": "it affected their career choice",
+      "letter": "F"
+     }
+    ],
+    "speakers": [
+     {
+      "id": 15,
+      "label": "Speaker 1"
+     },
+     {
+      "id": 16,
+      "label": "Speaker 2"
+     },
+     {
+      "id": 17,
+      "label": "Speaker 3"
+     },
+     {
+      "id": 18,
+      "label": "Speaker 4"
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test50/PART 3.m4a",
+    "partNumber": 3,
+    "instruction": "You will hear four people talking about their first employment experiences. For questions 15-18, choose from the list (A-F) what each person says about it. Use the letters only once. There are two extra letters which you do not need to use.",
+    "questionRange": "15-18"
+   },
+   {
+    "type": "map-labeling",
+    "title": "Part 4",
+    "answers": {
+     "19": "E",
+     "20": "C",
+     "21": "B",
+     "22": "A",
+     "23": "G"
+    },
+    "mapImage": "https://audio.mock-stream.com/test50/map.png",
+    "mapTitle": "",
+    "audioFile": "https://audio.mock-stream.com/test50/PART 4.m4a",
+    "mapLabels": [
+     "A",
+     "B",
+     "C",
+     "D",
+     "E",
+     "F",
+     "G",
+     "H",
+     "I"
+    ],
+    "questions": [
+     {
+      "id": 19,
+      "place": "statue of Diane Gosforth"
+     },
+     {
+      "id": 20,
+      "place": "wooden sculptures"
+     },
+     {
+      "id": 21,
+      "place": "playground"
+     },
+     {
+      "id": 22,
+      "place": "maze"
+     },
+     {
+      "id": 23,
+      "place": "tennis courts"
+     }
+    ],
+    "partNumber": 4,
+    "instruction": "Label the map below. Write the correct letter, A-I, next to Questions 19-23.",
+    "questionRange": "19-23"
+   },
+   {
+    "type": "mcq-extracts",
+    "title": "Part 5",
+    "answers": {
+     "24": "B",
+     "25": "A",
+     "26": "C",
+     "27": "C",
+     "28": "C",
+     "29": "B"
+    },
+    "extracts": [
+     {
+      "title": "Extract One",
+      "context": "",
+      "questions": [
+       {
+        "id": 24,
+        "text": "How does the woman feel now about her first job in retailing?",
+        "options": [
+         {
+          "text": "pleased by the way she handled the staff",
+          "letter": "A"
+         },
+         {
+          "text": "confident that it gave her a good start",
+          "letter": "B"
+         },
+         {
+          "text": "relaxed about the mistakes she made",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 25,
+        "text": "What is the woman advised to do next?",
+        "options": [
+         {
+          "text": "reflect on her skills",
+          "letter": "A"
+         },
+         {
+          "text": "volunteer for extra work",
+          "letter": "B"
+         },
+         {
+          "text": "discuss her situation with her boss",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Extract Two",
+      "context": "",
+      "questions": [
+       {
+        "id": 26,
+        "text": "What did the woman have with the swan?",
+        "options": [
+         {
+          "text": "She misunderstood its intentions.",
+          "letter": "A"
+         },
+         {
+          "text": "She underestimated the speed of its approach.",
+          "letter": "B"
+         },
+         {
+          "text": "She failed to realise the consequences of disturbing it.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 27,
+        "text": "What is the man's reaction to the story?",
+        "options": [
+         {
+          "text": "He feels he would have handled the situation better.",
+          "letter": "A"
+         },
+         {
+          "text": "He is unconvinced by the woman's version of events.",
+          "letter": "B"
+         },
+         {
+          "text": "He fails to see quite how serious the problem was.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Extract Three",
+      "context": "",
+      "questions": [
+       {
+        "id": 28,
+        "text": "Why did Bruce decide to give up the idea of studying art?",
+        "options": [
+         {
+          "text": "He failed to gain a place at art college.",
+          "letter": "A"
+         },
+         {
+          "text": "He became tired of doing representational art.",
+          "letter": "B"
+         },
+         {
+          "text": "He was persuaded that he could not realise his ambition.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 29,
+        "text": "What was his father's reaction to Bruce's decision?",
+        "options": [
+         {
+          "text": "He was anxious to discuss alternative employment options.",
+          "letter": "A"
+         },
+         {
+          "text": "He was angry that a good opportunity had been wasted.",
+          "letter": "B"
+         },
+         {
+          "text": "He was dismissive of the advantages of higher education.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test50/PART 5.m4a",
+    "partNumber": 5,
+    "instruction": "You will hear three different extracts. For questions 24-29, choose the answer (A, B or C) which fits best according to what you hear. There are two questions for each extract.",
+    "questionRange": "24-29"
+   },
+   {
+    "type": "sentence-completion",
+    "title": "Part 6",
+    "answers": {
+     "30": [
+      "WITHOUT FEET"
+     ],
+     "31": "SCREAM",
+     "32": [
+      "NEW MOON"
+     ],
+     "33": [
+      "CLIFF",
+      "CLIFFS"
+     ],
+     "34": "PAPER",
+     "35": [
+      "THUNDERSTORM",
+      "THUNDER STORMS"
+     ]
+    },
+    "audioFile": "https://audio.mock-stream.com/test50/PART 6.m4a",
+    "partNumber": 6,
+    "instruction": "You will hear a part of a student called Kerry giving a class presentation about a type of bird called the swift. For questions 30-35, complete the sentences. Write no more than TWO WORD for each answer.",
+    "passageTitle": "The Swift",
+    "questionRange": "30-35",
+    "passageContent": "Kerry says that the Latin name for the swift translates to the words <span class=\"gap-input\" data-gap=\"30\">_____(30)_____</span> in English.<br><br>Kerry describes the noise made by swifts as a <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span>.<br><br>Kerry says many people think that the bird's shape most resembles a <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span>.<br><br>Kerry thinks that the swifts' natural nesting site is on <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span><br><br>Kerry was surprised to learn that <span class=\"gap-input\" data-gap=\"34\">_____(34)_____</span> is a common material found in swifts' nests.<br><br>Kerry has observed swifts flying fast to avoid <span class=\"gap-input\" data-gap=\"35\">_____(35)_____</span>"
+   }
+  ],
+  "source": "Multi-Level Full Mock 10 (@MultiLevelRecord)",
+  "examDate": "2026-06-13",
+  "examType": "cefr",
+  "testInfo": {
+   "id": "cefr-listening-50",
+   "level": "B2",
+   "title": "CEFR Listening Mock Test 50",
+   "totalTime": 40,
+   "totalQuestions": 35
+  },
+  "mockNumber": 50
+ },
+ "created_at": "2026-06-13T15:47:44.353147+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

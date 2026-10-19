@@ -1,0 +1,506 @@
+{
+ "id": 131,
+ "mock_type": "ielts-writing",
+ "mock_number": 22,
+ "title": "IELTS Writing Mock 22",
+ "status": "published",
+ "mock_data": {
+  "tasks": {
+   "task1": {
+    "title": "Household goods ownership",
+    "prompt": "The graph shows the percentage of households in one country that had various goods between 2001 and 2008.",
+    "wordGoal": 150,
+    "chartDesc": {
+     "title": "Percentage of households with items",
+     "xAxis": "items",
+     "yAxis": "percentage of households",
+     "period": "2001 - 2008",
+     "series": [
+      {
+       "name": "2001",
+       "points": [
+        {
+         "at": "telephone",
+         "value": 95
+        },
+        {
+         "at": "microwave",
+         "value": 80
+        },
+        {
+         "at": "CD player",
+         "value": 70
+        },
+        {
+         "at": "mobile phone",
+         "value": 25
+        },
+        {
+         "at": "home computer",
+         "value": 35
+        },
+        {
+         "at": "clothes dryer",
+         "value": 60
+        },
+        {
+         "at": "internet",
+         "value": 10
+        },
+        {
+         "at": "dishwasher",
+         "value": 20
+        }
+       ]
+      },
+      {
+       "name": "2008",
+       "points": [
+        {
+         "at": "telephone",
+         "value": 90
+        },
+        {
+         "at": "microwave",
+         "value": 90
+        },
+        {
+         "at": "CD player",
+         "value": 90
+        },
+        {
+         "at": "mobile phone",
+         "value": 80
+        },
+        {
+         "at": "home computer",
+         "value": 65
+        },
+        {
+         "at": "clothes dryer",
+         "value": 70
+        },
+        {
+         "at": "internet",
+         "value": 60
+        },
+        {
+         "at": "dishwasher",
+         "value": 40
+        }
+       ]
+      }
+     ],
+     "overview": "Overall, ownership of all household goods increased between 2001 and 2008, with the sole exception of fixed telephones, which experienced a slight decrease. Mobile phones and internet access saw the most significant growth during this period.",
+     "chartType": "bar chart",
+     "confidence": "high",
+     "unreadable": [],
+     "keyFeatures": [
+      "Telephones were the most common item in 2001 at 95%, but dropped slightly to 90% in 2008, tying with microwaves and CD players as the highest (90%).",
+      "Mobile phone ownership experienced the largest increase, rising from 25% in 2001 to 80% in 2008.",
+      "Internet ownership grew sixfold, from 10% in 2001 to 60% in 2008.",
+      "Dishwashers remained the least owned item in both years, rising from 20% in 2001 to 40% in 2008."
+     ]
+    },
+    "chartType": "line_graph",
+    "dataNature": "dynamic",
+    "instruction": "Summarise the information by selecting and reporting the main features, and make comparison where relevant.",
+    "sampleBand5": "<p>The graph shows the percentage of households that had different things between 2001 and 2008. <mark>In general</mark>, most households had these things more in 2008 than in 2001.</p>\n<p>In 2001, about 80% of households had a car. This went up to about 88% in 2008. For washing machines, <mark>it was like this</mark> too. In 2001, about 75% had a washing machine and in 2008, it was about 85%. <mark>The same thing happened</mark> with dishwashers. </p>\n<p>However, not so many people had home computers. In 2001, it was around 35%, and in 2008 it went up to about 60%. This was <mark>a bigger increase</mark> than the others. Mobile phones also went up a lot. In 2001, around 40% of households had them, but in 2008, about 82% had a mobile phone. So, most things went up, especially mobile phones.</p>",
+    "sampleBand6": "<p>The graph shows the percentage of houses in a country that <mark>had different appliances</mark> between 2001 and 2008. Generally, the proportion of households owning these goods increased over the period.</p>\n<p>In 2001, the washing machine was <mark>the most common appliance</mark>, with about 80% of households owning one. This figure rose slightly to around 90% in 2008. The ownership of refrigerators also saw an increase, starting at approximately 70% and rising to about 85%. <mark>A similar pattern</mark> was observed for dishwashers, where ownership increased from roughly 40% to 60%.</p>\n<p>However, mobile phones showed a significantly larger increase. In 2001, only 30% of households had a mobile phone. By 2008, this figure had <mark>risen dramatically</mark> to almost 80%. In contrast, the percentage of households with a vacuum cleaner <mark>remained fairly stable</mark>, fluctuating around 90% throughout the period. Overall, ownership of mobile phones saw the biggest change.</p>",
+    "sampleBand7": "<p>The graph illustrates the <mark>proportion of households</mark> in a particular country owning several consumer goods between 2001 and 2008.</p>\n<p>Overall, ownership of all listed items increased over the period, with mobile phones showing the most significant growth. While CD players remained relatively stable, they were <mark>overtaken by</mark> other technologies by the end of the period.</p>\n<p>In 2001, approximately 70% of households possessed a telephone, which rose <mark>moderately</mark> to around 80% in 2008. Similarly, CD player ownership increased slightly from just under 60% to around 65%. However, mobile phone ownership witnessed a <mark>substantial surge</mark>, climbing from about 40% to nearly 80% over the seven years. Computer ownership also experienced considerable growth, rising from roughly 30% to just over 60%.</p>\n<p>By 2008, mobile phones and telephones were the most commonly owned items, with nearly equal <mark>ownership levels</mark>. In contrast, CD players had the lowest percentage of ownership compared to the other goods. The increasing ownership of computers also <mark>demonstrates a growing trend</mark> in technology adoption during this period.</p>",
+    "sampleBand8": "<p>The line graph <mark>illustrates the proportion of</mark> households in a particular country owning four different consumer goods over an eight-year period, from 2001 to 2008.</p>\n\n<p>Overall, ownership of mobile phones and computers <mark>experienced substantial growth</mark>, while the percentage of homes with washing machines saw a marginal increase. Conversely, the prevalence of vacuum cleaners <mark>witnessed a slight decrease</mark>.</p>\n\n<p>In 2001, washing machines were the most common household item, possessed by approximately 80% of households. This figure <mark>remained relatively stable</mark> throughout the period, reaching just over 80% in 2008. Mobile phone ownership, starting at around 60% in 2001, <mark>exhibited the most dramatic surge</mark>, surpassing washing machines to reach nearly 95% by 2008. Similarly, computer ownership rose significantly, from roughly 40% to about 75% over the same timeframe.</p>\n\n<p>In contrast, vacuum cleaner ownership <mark>displayed a modest downward trend</mark>, declining from approximately 90% in 2001 to around 85% in 2008. Despite this decrease, vacuum cleaners <mark>remained a prevalent item</mark> in the majority of households <mark>throughout the period in question</mark>. It is also noteworthy that the rate of ownership of washing machines and vacuum cleaners was higher than that of computers and mobile phones for the first four years, before the latter two <mark>caught up and surpassed</mark> them.</p>",
+    "sampleBand9": "<p>The graph <mark>illustrates the fluctuating ownership percentages</mark> of various household goods within a single country between 2001 and 2008. <mark>A cursory glance reveals</mark> that mobile phones experienced the most substantial growth, while washing machines exhibited the least.</p>\n\n<p>In 2001, washing machine ownership was already high, at approximately 80%, experiencing only a marginal increase to around 88% by 2008. Similarly, refrigerators demonstrated a stable ownership rate, starting at roughly 60% and <mark>climbing modestly</mark> to about 75% over the period. Car ownership began at approximately 40% and <mark>showed a gradual uptick</mark>, reaching just over 60% by the end of the period. </p>\n\n<p>In contrast, mobile phone ownership <mark>witnessed an exponential surge</mark>. Starting from a low of approximately 20% in 2001, it <mark>skyrocketed</mark> to reach nearly 80% by 2008. Computer ownership also experienced significant growth, albeit less dramatic than mobile phones. It began at around 30% and <mark>more than doubled</mark>, reaching approximately 70% by the end of the observed timeframe. Overall, the trend indicates a <mark>marked increase</mark> in the ownership of technology-related goods, <mark>outpacing</mark> the growth in ownership of more traditional household appliances. This <mark>suggests a shift in consumer priorities</mark> during this period.</p>",
+    "timeMinutes": 20,
+    "chartDescImg": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/22.png",
+    "sampleAnswer": "The line graph illustrates the percentage of households owning various goods in a country over an eight-year period from 2001 to 2008. Overall, ownership of most goods increased during this time, with mobile phones showing the most dramatic growth.\n\nIn 2001, televisions were the most commonly owned item, present in approximately 98% of households, a figure that remained relatively stable throughout the period. Washing machines were found in around 75% of homes, while DVD players were in about 50% of households. Mobile phones, however, were only owned by roughly 55% of households at the start of the period.\n\nBy 2008, mobile phone ownership had surged to nearly 90%, representing the most significant increase among all the goods. DVD player ownership also grew substantially, reaching approximately 80% of households. Washing machine ownership showed modest growth, climbing to around 80%.\n\nInterestingly, computer ownership, which started at about 45% in 2001, increased steadily to approximately 70% by 2008. The data shows a clear trend of increasing household ownership of electronic and digital goods, reflecting technological advancement and changing consumer preferences.",
+    "chartImageUrl": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/22.png",
+    "uzSampleBand5": "<p>Grafik 2001 yildan 2008 yilgacha bo'lgan davrda uy xo'jaliklarida turli narsalarning foizini ko'rsatadi. <mark>Umuman olganda</mark>, aksariyat uy xo'jaliklarida bu narsalar 2008 yilda 2001 yilga nisbatan ko'proq bo'lgan.</p>\n<p>2001 yilda uy xo'jaliklarining taxminan 80 foizi mashinaga ega edi. Bu 2008 yilda taxminan 88 foizga ko'tarildi. Kir yuvish mashinalari uchun ham, <mark>holat shunday edi</mark>. 2001 yilda taxminan 75 foizi kir yuvish mashinasiga ega bo'lgan bo'lsa, 2008 yilda bu taxminan 85 foizni tashkil etdi. <mark>Xuddi shunday holat</mark> idish yuvish mashinalarida ham kuzatildi.</p>\n<p>Ammo, ko'p odamlar uy kompyuterlariga ega emas edi. 2001 yilda bu taxminan 35% ni tashkil etgan bo'lsa, 2008 yilda taxminan 60% gacha ko'tarildi. Bu boshqalarga nisbatan <mark>katta o'sish</mark> edi. Mobil telefonlar ham juda ko'tarildi. 2001 yilda uy xo'jaliklarining taxminan 40 foizi ularga ega bo'lgan bo'lsa, 2008 yilda taxminan 82 foizi mobil telefonga ega edi. Shunday qilib, ko'p narsalar ko'tarildi, ayniqsa mobil telefonlar.</p>",
+    "uzSampleBand6": "<p>Grafikda bir mamlakatdagi uylarning 2001 yildan 2008 yilgacha bo'lgan davrda <mark>turli xil maishiy texnikalarga ega bo'lish</mark> foizi ko'rsatilgan. Umuman olganda, ushbu tovarlarga egalik qiluvchi uy xo'jaliklari ulushi davr mobaynida oshdi.</p>\n<p>2001 yilda kir yuvish mashinasi <mark>eng keng tarqalgan maishiy texnika</mark> edi, taxminan 80% uy xo'jaliklari unga ega edi. Bu ko'rsatkich 2008 yilda biroz ko'tarilib, taxminan 90% ni tashkil qildi. Muzlatgichlarga egalik qilish ham o'sishni ko'rsatdi, taxminan 70% dan boshlanib, taxminan 85% gacha ko'tarildi. Idish yuvish mashinalari uchun ham <mark>shunga o'xshash tendensiya</mark> kuzatildi, bunda egalik taxminan 40% dan 60% gacha oshdi.</p>\n<p>Biroq, mobil telefonlar sezilarli darajada katta o'sishni ko'rsatdi. 2001 yilda uy xo'jaliklarining faqat 30% da mobil telefon bor edi. 2008 yilga kelib, bu ko'rsatkich <mark>keskin oshdi</mark> va deyarli 80% ni tashkil qildi. Aksincha, changyutgichga ega bo'lgan uy xo'jaliklarining foizi <mark>anchayin barqarorligicha qoldi</mark>, butun davr davomida taxminan 90% atrofida o'zgarib turdi. Umuman olganda, mobil telefonlarga egalik qilish eng katta o'zgarishni ko'rsatdi.</p>",
+    "uzSampleBand7": "<p>Grafik 2001 va 2008 yillar oralig'ida ma'lum bir mamlakatda bir nechta iste'mol tovarlariga egalik qiluvchi <mark>uy xo'jaliklarining ulushini</mark> ko'rsatadi.</p>\n<p>Umuman olganda, ro'yxatdagi barcha narsalarga egalik qilish davr mobaynida oshdi, mobil telefonlar eng sezilarli o'sishni ko'rsatdi. CD pleerlar nisbatan barqaror bo'lib qolgan bo'lsa-da, ular davr oxirida boshqa texnologiyalar tomonidan <mark>ortda qoldirildi</mark>.</p>\n<p>2001 yilda uy xo'jaliklarining taxminan 70 foizi telefonga ega edi, bu 2008 yilda taxminan 80 foizgacha <mark>o'rtacha</mark> ko'tarildi. Xuddi shunday, CD pleerlarga egalik qilish ham 60 foizdan kamroqdan taxminan 65 foizgacha biroz oshdi. Biroq, mobil telefonlarga egalik qilish <mark>sezilarli darajada o'sdi</mark> va yetti yil ichida taxminan 40 foizdan deyarli 80 foizgacha ko'tarildi. Kompyuterlarga egalik qilish ham sezilarli o'sishni boshdan kechirdi va taxminan 30 foizdan 60 foizdan sal ko'proqqa ko'tarildi.</p>\n<p>2008 yilga kelib, mobil telefonlar va telefonlar eng ko'p egalik qilinadigan narsalar edi, <mark>egalik darajalari</mark> deyarli teng edi. Aksincha, CD pleerlar boshqa tovarlarga nisbatan eng past egalik foiziga ega edi. Kompyuterlarga egalik qilishning ortishi ham ushbu davrda texnologiyalarni qabul qilishda <mark>o'sib borayotgan tendentsiyani ko'rsatadi</mark>.</p>",
+    "uzSampleBand8": "<p>Chiziqli grafik 2001-yildan 2008-yilgacha bo'lgan sakkiz yillik davr mobaynida muayyan bir mamlakatda to'rtta xil iste'mol tovarlariga ega bo'lgan uy xo'jaliklarining <mark>ulushini ko'rsatib beradi</mark>.</p>\n\n<p>Umuman olganda, mobil telefonlar va kompyuterlarga egalik <mark>sezilarli o'sishni boshdan kechirdi</mark>, kir yuvish mashinalari bo'lgan uylarning foizi esa unchalik katta bo'lmagan o'sishni ko'rsatdi. Aksincha, changyutgichlarning keng tarqalganligi <mark>biroz pasayishga guvoh bo'ldi</mark>.</p>\n\n<p>2001-yilda kir yuvish mashinalari eng keng tarqalgan uy-ro'zg'or buyumi bo'lib, uy xo'jaliklarining taxminan 80% ga tegishli edi. Bu ko'rsatkich butun davr davomida <mark>nisbatan barqaror bo'lib qoldi</mark> va 2008-yilda 80% dan sal ko'proqqa yetdi. Mobil telefonlarga egalik 2001-yilda taxminan 60% dan boshlangan bo'lsa, <mark>eng keskin o'sishni namoyish etdi</mark> va 2008-yilga kelib kir yuvish mashinalaridan oshib, deyarli 95% ga yetdi. Xuddi shunday, kompyuterlarga egalik ham sezilarli darajada oshdi, xuddi shu vaqt oralig'ida taxminan 40% dan 75% gacha.</p>\n\n<p>Aksincha, changyutgichlarga egalik <mark>o'rtacha pasayish tendentsiyasini ko'rsatdi</mark>, 2001-yildagi taxminan 90% dan 2008-yilda taxminan 85% gacha kamaydi. Ushbu pasayishga qaramay, changyutgichlar <mark>keng tarqalgan buyum</mark> bo'lib qoldi va uy xo'jaliklarining aksariyatida <mark>ko'rib chiqilayotgan davr mobaynida</mark> mavjud edi. Shuni ham ta'kidlash joizki, kir yuvish mashinalari va changyutgichlarga egalik darajasi dastlabki to'rt yil davomida kompyuterlar va mobil telefonlarga qaraganda yuqori bo'lgan, keyin esa ikkinchisi <mark>yetib olib, ulardan o'zib ketgan</mark>.</p>",
+    "uzSampleBand9": "<p>Grafik 2001 yildan 2008 yilgacha bo'lgan davrda bitta mamlakat ichida turli xil uy-ro'zg'or buyumlariga egalik foizlarining <mark>o'zgaruvchanligini ko'rsatadi</mark>. <mark>Yuzaki nazar tashlash shuni ko'rsatadiki</mark>, mobil telefonlar eng sezilarli o'sishni boshdan kechirdi, kir yuvish mashinalari esa eng kam o'sishni ko'rsatdi.</p>\n\n<p>2001 yilda kir yuvish mashinalariga egalik allaqachon yuqori bo'lib, taxminan 80% ni tashkil etgan va 2008 yilga kelib atigi 88% gacha ozgina o'sish kuzatilgan. Xuddi shunday, muzlatgichlar ham barqaror egalik darajasini ko'rsatdi, taxminan 60% dan boshlangan va shu davr mobaynida <mark>bir oz ko'tarilib</mark> taxminan 75% ga yetgan. Avtomobilga egalik taxminan 40% dan boshlangan va <mark>asta-sekin o'sishni namoyish etdi</mark>, davr oxiriga kelib 60% dan biroz oshdi.</p>\n\n<p>Aksincha, mobil telefonlarga egalik <mark>eksponensial o'sishga guvoh bo'ldi</mark>. 2001 yilda taxminan 20% past ko'rsatkichdan boshlab, 2008 yilga kelib deyarli 80% ga <mark>keskin ko'tarildi</mark>. Kompyuterga egalik ham sezilarli o'sishni boshdan kechirdi, garchi mobil telefonlarga qaraganda unchalik dramatik bo'lmasa ham. U taxminan 30% dan boshlangan va <mark>ikki barobardan ko'proqqa oshgan holda</mark>, kuzatilgan vaqt oralig'i oxiriga kelib taxminan 70% ga yetdi. Umuman olganda, tendentsiya texnologiya bilan bog'liq tovarlarga egalikning <mark>sezilarli o'sishini</mark> ko'rsatadi, bu esa an'anaviy uy-ro'zg'or texnikasiga egalik o'sishidan <mark>o'zib ketadi</mark>. Bu davrda <mark>iste'molchilar ustuvorligida o'zgarish borligini ko'rsatadi</mark>.</p>",
+    "chartDescSource": "extracted-verified-2026-08-05"
+   },
+   "task2": {
+    "title": "Class size in language learning",
+    "prompt": "Some people believe that it is better language students in small classes. Others think the number of people in the classes doesn't matter. Discuss both these views and give your own opinion.",
+    "wordGoal": 250,
+    "essayType": "balanced",
+    "instruction": "Discuss both these views and give your own opinion.",
+    "sampleBand5": "<p>Some people think small classes are better for learning languages. Other people think how many students there are doesn't matter so much. I will talk about both sides <mark>and my view</mark>.</p>\n\n<p>On the one hand, small classes can be good. If there are fewer students, the teacher can <mark>give more attention</mark> to each person. They can help them with their problems and make sure they understand. Also, students might feel more comfortable to speak in a small class. They might be shy in a big class and not want to talk. This means they don't practice the language as much. So, small classes can help students learn better because they get more help and can speak more.</p>\n\n<p>On the other hand, big classes <mark>can also be OK</mark>. Some people think that you can learn from other students. If there are many students, you can hear different accents and learn about different cultures. Also, big classes might be cheaper. The school doesn't need as many teachers, so they can charge less. So, even if you don't get as much attention from the teacher, you can still learn a lot in a big class. <mark>It depends on the person</mark>.</p>\n\n<p>In my opinion, I think small classes are better, but only <mark>if the teacher is good</mark>. If the teacher is not very good, it doesn't matter how small the class is. But if the teacher is good and the class is small, then students can learn very well. So, I think it's important to have good teachers, but small classes can help too. <mark>It is a complex issue</mark>.</p>",
+    "sampleBand6": "<p>There is a debate about the ideal class size for language students. Some people argue that smaller classes are more effective, while others believe that the number of students does not significantly impact learning outcomes. This essay will discuss both perspectives before <mark>giving my own opinion</mark>.</p>\n\n<p>On the one hand, proponents of small classes argue that they allow for more <mark>individualized attention</mark> from the teacher. In a smaller setting, teachers can better understand each student's strengths and weaknesses, and <mark>tailor their instruction accordingly</mark>. This can lead to improved learning outcomes and increased student engagement. For example, a teacher with only ten students can easily provide personalized feedback on writing assignments, whereas a teacher with thirty students might struggle to do so. Also, shy students might feel more comfortable participating in a smaller group, which can boost their confidence and speaking skills. <mark>However, this view may be too simplistic</mark>.</p>\n\n<p>On the other hand, some argue that class size is not the most important factor in language learning. They believe that the quality of the teacher, the teaching methods, and the student's own motivation are more significant. A skilled and engaging teacher can effectively manage a larger class, using techniques such as group work and peer teaching to ensure that all students are learning. Furthermore, larger classes can offer a wider range of perspectives and ideas, which can enrich the learning experience. <mark>It is also true that</mark> bigger classes can be more economical, allowing schools to invest in better resources.</p>\n\n<p>In my opinion, while smaller classes can be beneficial, they are not always necessary for effective language learning. A good teacher can adapt their teaching style to suit different class sizes. The most important thing is to create a supportive and stimulating learning environment where students feel motivated to learn. <mark>To conclude, both sides have valid points</mark>, but the key to success lies in the quality of teaching and the students' willingness to learn, not just the number of students in the class.\n</p>",
+    "sampleBand7": "<p>The debate surrounding the optimal class size for language learners is ongoing. While some advocate for smaller classes, believing they provide a more conducive learning environment, others argue that class size is irrelevant to the overall success of language acquisition. This essay will explore both perspectives before presenting my own view.</p>\n\n<p>Proponents of small classes <mark>often highlight</mark> the benefits of increased individual attention. In a smaller setting, teachers can <mark>more easily cater to</mark> the specific needs and learning styles of each student. This personalized approach can lead to improved comprehension and retention of the material. Furthermore, smaller classes tend to foster a more relaxed and interactive atmosphere, encouraging students to participate actively and overcome their inhibitions about speaking. This is <mark>particularly beneficial</mark> for language learners who often struggle with confidence in speaking a new language. However, some might argue that this is not always the case, and a good teacher should be able to manage a larger class effectively.</p>\n\n<p>Conversely, those who believe class size is inconsequential argue that other factors, such as the teacher's qualifications, the quality of the curriculum, and the student's motivation, are more significant determinants of success. <mark>They contend that</mark> a highly skilled and engaging teacher can effectively manage a larger class, providing sufficient attention and support to all students. Moreover, larger classes can offer a greater diversity of perspectives and experiences, which can enrich the learning environment and expose students to different accents and communication styles. It's also worth noting that smaller classes are not always accessible to everyone, and <mark>limiting class sizes</mark> may restrict educational opportunities.</p>\n\n<p>In my opinion, while the teacher's quality and curriculum are undoubtedly crucial, class size does play a role, although not necessarily a decisive one. <mark>Ideally, a balance should be struck</mark>. While very large classes can be detrimental to individual attention, excessively small classes may lack the dynamic interaction and diverse perspectives that contribute to a stimulating learning environment. A moderate class size, coupled with a skilled teacher and a well-designed curriculum, offers the best opportunity for language learners to thrive. Ultimately, the most effective approach will vary depending on the specific context and the needs of the students.</p>\n\n<p>In conclusion, both small and large classes have their merits and drawbacks. While individual attention and a relaxed atmosphere are advantages of smaller classes, the diversity and accessibility of larger classes are also important. Therefore, <mark>a nuanced approach is required</mark>, considering all relevant factors to create the most effective learning environment.</p>",
+    "sampleBand8": "<p>The optimal learning environment for language acquisition is a subject of ongoing debate. While some advocate for small class sizes, emphasizing the benefits of personalized attention, others argue that class size is inconsequential compared to other factors. This essay will explore both perspectives before presenting my own view.</p>\n\n<p>Proponents of smaller classes often highlight the <mark>enhanced opportunities for interaction</mark> between students and teachers. In a smaller setting, instructors can <mark>more readily identify</mark> individual learning styles and tailor their teaching methods accordingly. This personalized approach can be particularly beneficial for students who struggle with certain aspects of language learning, such as grammar or pronunciation. Furthermore, smaller classes foster a more intimate and supportive atmosphere, encouraging students to participate actively and <mark>overcome their inhibitions</mark> about speaking a foreign language. A concrete example would be a conversation class where each student gets ample time to practice and receive immediate feedback, something difficult to achieve in a large group.</p>\n\n<p>Conversely, those who believe class size is irrelevant often point to the importance of other factors, such as teacher quality, curriculum design, and student motivation. A highly skilled and engaging teacher can effectively manage a larger class, utilizing innovative teaching techniques and technology to <mark>cater to diverse learning needs</mark>. Moreover, a well-structured curriculum that incorporates a variety of activities and resources can compensate for the lack of individual attention. Indeed, some students may even thrive in larger classes, benefiting from the <mark>diversity of perspectives</mark> and the opportunity to learn from their peers. For instance, a large class might facilitate more dynamic group discussions and collaborative projects.</p>\n\n<p>In my opinion, while the aforementioned factors certainly play a crucial role, class size does have a significant impact on the learning experience, albeit not in isolation. A smaller class, while not a guaranteed recipe for success, creates a <mark>more conducive environment</mark> for personalized learning and active participation. It allows for a deeper engagement with the material and fosters a stronger sense of community among students. However, it is crucial to acknowledge that the effectiveness of any class size ultimately depends on the teacher's ability to <mark>leverage its potential</mark> and address the individual needs of their students. Therefore, a <mark>holistic approach</mark> is required, considering both class size and other pedagogical factors to optimize language learning outcomes.</p>",
+    "sampleBand9": "<p>The optimal learning environment for language students is a topic of ongoing debate. While some advocate for smaller class sizes, believing they foster more effective learning, others argue that class size is inconsequential. This essay will explore both perspectives before presenting my own view.</p>\n\n<p>Proponents of smaller language classes often highlight the benefits of <mark>personalised attention</mark>. In a smaller setting, teachers can more easily identify individual student needs and tailor their instruction accordingly. This can lead to <mark>enhanced engagement</mark> and a deeper understanding of the subject matter. Furthermore, students in smaller classes may feel more comfortable participating actively, asking questions, and receiving <mark>constructive feedback</mark>. This increased interaction can significantly improve their fluency and confidence. In essence, the argument posits that a more intimate learning environment fosters a more conducive atmosphere for language acquisition.</p>\n\n<p>Conversely, those who believe class size is irrelevant often point to the <mark>cost-effectiveness</mark> of larger classes. From an institutional perspective, larger classes allow for more efficient resource allocation, potentially freeing up funds for other academic enhancements, such as improved facilities or more diverse course offerings. Moreover, some argue that the <mark>dynamism</mark> of a larger group can be beneficial. Students can learn from each other's mistakes and successes, and the diverse perspectives can enrich classroom discussions. Furthermore, experienced instructors are often adept at managing larger classes effectively, employing strategies to ensure all students are engaged and receiving adequate support. <mark>This argument hinges on</mark> the idea that effective teaching methodologies can transcend the limitations of class size.</p>\n\n<p>In my opinion, while the arguments for larger classes have merit, the benefits of smaller classes for language learning are ultimately more compelling. While <mark>resource constraints</mark> are a legitimate concern, the <mark>pedagogical advantages</mark> of smaller classes, such as increased individual attention and enhanced opportunities for interaction, are undeniable, particularly for language acquisition. A learning environment that prioritizes individual needs and fosters active participation is, in my view, <mark>paramount to success</mark> in language studies. Therefore, while not dismissing the potential benefits of larger class settings, I believe that, ideally, language instruction should occur in smaller, more focused learning environments.</p>",
+    "timeMinutes": 40,
+    "sampleAnswer": "The optimal size of language classes is a subject of debate among educators and students alike. While some advocate for smaller class sizes, others believe the number of students is irrelevant to learning outcomes. This essay will examine both viewpoints before offering my perspective.\n\nProponents of small language classes argue that they offer significant pedagogical advantages. In smaller groups, teachers can provide more individualized attention, addressing each student's specific weaknesses and learning style. Students also have more opportunities to practice speaking, which is crucial for language acquisition. Additionally, smaller classes often create a less intimidating environment where shy students feel more comfortable participating and making mistakes—an essential part of the learning process.\n\nConversely, those who believe class size is immaterial contend that the quality of teaching and student motivation are more important factors. A skilled teacher can effectively manage larger groups through various techniques such as pair work, group activities, and technology-assisted learning. Furthermore, learning a language is ultimately the responsibility of the individual; motivated students will succeed regardless of class size by supplementing classroom learning with self-study and practice outside of school.\n\nIn my opinion, while individual effort and teaching quality are undoubtedly important, smaller classes do provide tangible benefits for language learning. The increased speaking opportunities and personalized feedback are particularly valuable for developing fluency and accuracy. However, I acknowledge that very small classes may also lack the diversity of perspectives and interaction opportunities that slightly larger groups can provide. Therefore, I believe a moderate class size of around 10-15 students represents the ideal balance.",
+    "uzSampleBand5": "<p>Ba'zi odamlar kichik sinflar tillarni o'rganish uchun yaxshiroq deb hisoblashadi. Boshqa odamlar talabalar soni unchalik muhim emas deb o'ylashadi. Men har ikki tomon haqida ham <mark>va o'z fikrim haqida</mark> gapiraman.</p>\n\n<p>Bir tomondan, kichik sinflar yaxshi bo'lishi mumkin. Agar talabalar kamroq bo'lsa, o'qituvchi har bir insonga <mark>ko'proq e'tibor bera oladi</mark>. Ular ularga muammolari bilan yordam berishlari va tushunganliklariga ishonch hosil qilishlari mumkin. Shuningdek, talabalar kichik sinfda o'zlarini qulayroq his qilishlari mumkin. Ular katta sinfda uyatchan bo'lishi va gapirishni xohlamasligi mumkin. Bu esa, ular tilni unchalik mashq qilmaydi degani. Demak, kichik sinflar talabalarga yaxshiroq o'rganishga yordam berishi mumkin, chunki ular ko'proq yordam olishadi va ko'proq gapirishlari mumkin.</p>\n\n<p>Boshqa tomondan, katta sinflar <mark>ham yaxshi bo'lishi mumkin</mark>. Ba'zi odamlar siz boshqa talabalardan o'rganishingiz mumkin deb o'ylashadi. Agar ko'p talaba bo'lsa, siz turli xil lahjalarni eshitishingiz va turli madaniyatlar haqida bilib olishingiz mumkin. Shuningdek, katta sinflar arzonroq bo'lishi mumkin. Maktabga ko'p o'qituvchi kerak emas, shuning uchun ular kamroq haq olishlari mumkin. Demak, o'qituvchidan unchalik e'tibor olmasangiz ham, katta sinfda ko'p narsalarni o'rganishingiz mumkin. <mark>Bu odamga bog'liq</mark>.</p>\n\n<p>Mening fikrimcha, men kichik sinflar yaxshiroq deb o'ylayman, lekin faqat <mark>agar o'qituvchi yaxshi bo'lsa</mark>. Agar o'qituvchi unchalik yaxshi bo'lmasa, sinf qanchalik kichik bo'lishining ahamiyati yo'q. Lekin agar o'qituvchi yaxshi bo'lsa va sinf kichik bo'lsa, unda talabalar juda yaxshi o'rganishlari mumkin. Demak, men yaxshi o'qituvchilarga ega bo'lish muhim deb o'ylayman, lekin kichik sinflar ham yordam berishi mumkin. <mark>Bu murakkab masala</mark>.</p>",
+    "uzSampleBand6": "<p>Til o'rganuvchilar uchun sinfning ideal hajmi haqida bahs bor. Ba'zi odamlar kichikroq sinflar samaraliroq deb ta'kidlasa, boshqalar talabalar soni o'rganish natijalariga sezilarli ta'sir ko'rsatmaydi deb hisoblashadi. Ushbu insho ikkala nuqtai nazarni ham muhokama qiladi, so'ngra <mark>o'z fikrimni bildiraman</mark>.</p>\n\n<p>Bir tomondan, kichik sinflarni yoqlab chiqadiganlar, ular o'qituvchidan <mark>individual yondashuvga</mark> imkon beradi deb ta'kidlashadi. Kichikroq muhitda o'qituvchilar har bir o'quvchining kuchli va zaif tomonlarini yaxshiroq tushunishi va <mark>shunga mos ravishda o'z ta'limotlarini moslashtirishi</mark> mumkin. Bu o'rganish natijalarining yaxshilanishiga va talabalarning ishtiyoqining oshishiga olib kelishi mumkin. Misol uchun, atigi o'nta talabasi bo'lgan o'qituvchi yozma topshiriqlar bo'yicha shaxsiy fikr-mulohazalarni osongina taqdim etishi mumkin, o'ttizta talabasi bo'lgan o'qituvchi esa buni qilishda qiynalishi mumkin. Shuningdek, uyatchang talabalar kichikroq guruhda o'zlarini qulayroq his qilishlari mumkin, bu ularning ishonchini va nutq ko'nikmalarini oshirishi mumkin. <mark>Biroq, bu qarash juda sodda bo'lishi mumkin</mark>.</p>\n\n<p>Boshqa tomondan, ba'zilar sinf hajmi til o'rganishdagi eng muhim omil emas deb ta'kidlashadi. Ular o'qituvchining sifati, o'qitish usullari va talabaning o'z motivatsiyasi muhimroq deb hisoblashadi. Tajribali va qiziqarli o'qituvchi kattaroq sinfni samarali boshqarishi, guruhli ish va tengdoshlar o'rgatishi kabi usullardan foydalanib, barcha talabalarning o'rganishini ta'minlashi mumkin. Bundan tashqari, kattaroq sinflar kengroq nuqtai nazarlarni va g'oyalarni taklif qilishi mumkin, bu o'rganish tajribasini boyitishi mumkin. <mark>Shuningdek, shuni ham aytish kerakki</mark>, kattaroq sinflar tejamkorroq bo'lishi mumkin, bu maktablarga yaxshiroq resurslarga sarmoya kiritishga imkon beradi.</p>\n\n<p>Mening fikrimcha, kichikroq sinflar foydali bo'lishi mumkin bo'lsa-da, ular tilni samarali o'rganish uchun har doim ham zarur emas. Yaxshi o'qituvchi o'zining o'qitish uslubini turli sinf hajmlariga moslashtira oladi. Eng muhimi, talabalar o'rganishga intiladigan qo'llab-quvvatlovchi va rag'batlantiruvchi o'quv muhitini yaratishdir. <mark>Xulosa qilib aytganda, har ikki tomonning ham asosli fikrlari bor</mark>, ammo muvaffaqiyat kaliti nafaqat sinfdagi talabalar sonida, balki o'qitish sifati va talabalarning o'rganishga tayyorligida.</p>",
+    "uzSampleBand7": "<p>Til o'rganuvchilar uchun optimal sinf hajmi bo'yicha bahslar davom etmoqda. Ba'zilar kichikroq sinflarni yoqlab, ular qulayroq o'rganish muhitini ta'minlaydi deb hisoblasa, boshqalar sinf hajmi tilni o'zlashtirishning umumiy muvaffaqiyatiga aloqasi yo'q deb ta'kidlaydi. Ushbu insho har ikki nuqtai nazarni o'rganib chiqadi va shundan so'ng o'z fikrimni bildiradi.</p>\n\n<p>Kichik sinflar tarafdorlari <mark>ko'pincha</mark> shaxsiy e'tiborni kuchaytirishning afzalliklarini <mark>ta'kidlashadi</mark>. Kichikroq muhitda o'qituvchilar har bir o'quvchining o'ziga xos ehtiyojlari va o'rganish uslublariga <mark>osonroq moslasha oladi</mark>. Bunday shaxsiy yondashuv materialni yaxshiroq tushunishga va esda saqlab qolishga olib kelishi mumkin. Bundan tashqari, kichikroq sinflar odatda yanada erkin va interaktiv muhitni yaratadi, bu o'quvchilarni faol ishtirok etishga va yangi tilda gapirishdan qo'rqishlarini yengishga undaydi. Bu yangi tilni gapirishda ishonch bilan bog'liq muammolarga duch keladigan til o'rganuvchilar uchun <mark>ayniqsa foydali</mark>. Biroq, ba'zilar bu har doim ham shunday emas deb ta'kidlashi mumkin va yaxshi o'qituvchi kattaroq sinfni ham samarali boshqara olishi kerak.</p>\n\n<p>Aksincha, sinf hajmi ahamiyatsiz deb hisoblaydiganlar, o'qituvchining malakasi, o'quv dasturining sifati va talabaning motivatsiyasi kabi boshqa omillar muvaffaqiyatning muhimroq omillari ekanligini ta'kidlaydilar. <mark>Ular ta'kidlashicha</mark>, yuqori malakali va qiziqarli o'qituvchi kattaroq sinfni samarali boshqarib, barcha talabalarga etarli e'tibor va yordam ko'rsata oladi. Bundan tashqari, kattaroq sinflar turli xil nuqtai nazarlar va tajribalarni taklif qilishi mumkin, bu o'quv muhitini boyitishi va talabalarni turli xil aksentlar va aloqa uslublari bilan tanishtirishi mumkin. Shuni ham ta'kidlash joizki, kichikroq sinflar har doim ham hamma uchun ochiq emas va <mark>sinf hajmini cheklash</mark> ta'lim imkoniyatlarini cheklashi mumkin.</p>\n\n<p>Mening fikrimcha, o'qituvchining sifati va o'quv dasturi, shubhasiz, muhim bo'lsa-da, sinf hajmi ham rol o'ynaydi, garchi hal qiluvchi ahamiyatga ega bo'lmasa ham. <mark>Ideal holda, muvozanatga erishish kerak</mark>. Juda katta sinflar shaxsiy e'tiborga zarar etkazishi mumkin bo'lsa-da, juda kichik sinflarda qiziqarli o'quv muhitiga hissa qo'shadigan dinamik o'zaro ta'sir va turli xil nuqtai nazarlar etishmasligi mumkin. O'rtacha sinf hajmi, malakali o'qituvchi va yaxshi ishlab chiqilgan o'quv dasturi bilan birgalikda til o'rganuvchilar uchun rivojlanish uchun eng yaxshi imkoniyatni beradi. Oxir oqibat, eng samarali yondashuv muayyan kontekstga va talabalarning ehtiyojlariga qarab farq qiladi.</p>\n\n<p>Xulosa qilib aytganda, kichik va katta sinflarning o'z afzalliklari va kamchiliklari bor. Shaxsiy e'tibor va erkin muhit kichikroq sinflarning afzalliklari bo'lsa-da, kattaroq sinflarning xilma-xilligi va qulayligi ham muhimdir. Shuning uchun, eng samarali o'quv muhitini yaratish uchun barcha tegishli omillarni hisobga olgan holda <mark>nozik yondashuv talab etiladi</mark>.</p>",
+    "uzSampleBand8": "<p>Til o'rganish uchun eng maqbul muhit doimiy bahs mavzusi bo'lib kelgan. Ba'zilar kichik sinf xonalarini yoqlab, shaxsiy e'tiborning afzalliklarini ta'kidlasalar, boshqalar sinf hajmi boshqa omillar bilan solishtirganda ahamiyatsiz deb hisoblashadi. Ushbu insho ikkala nuqtai nazarni ham o'rganib chiqadi va shundan so'ng o'z fikrimni bildiradi.</p>\n\n<p>Kichikroq sinflarni yoqlovchilar ko'pincha talabalar va o'qituvchilar o'rtasidagi <mark>o'zaro munosabatlar uchun kengroq imkoniyatlarni</mark> ta'kidlashadi. Kichikroq muhitda o'qituvchilar har bir talabaning o'rganish uslubini <mark>osonroq aniqlab</mark>, shunga mos ravishda o'qitish usullarini moslashtira oladilar. Bunday shaxsiy yondashuv, ayniqsa, til o'rganishning ayrim jihatlari, masalan, grammatika yoki talaffuz bilan qiynalayotgan talabalar uchun foydali bo'lishi mumkin. Bundan tashqari, kichikroq sinflar yanada samimiy va qo'llab-quvvatlovchi muhitni yaratadi, talabalarni faol ishtirok etishga va chet tilida gapirishdagi <mark>o'zlarining tortinchoqliklarini yengishga</mark> undaydi. Bunga misol qilib, har bir talaba amaliyot o'tash va darhol fikr-mulohazalarni olish uchun yetarli vaqtga ega bo'lgan suhbat darsini keltirish mumkin, bu katta guruhda erishish qiyin bo'lgan narsa.</p>\n\n<p>Aksincha, sinf hajmi ahamiyatsiz deb hisoblovchilar ko'pincha o'qituvchining sifati, o'quv dasturining tuzilishi va talabaning motivatsiyasi kabi boshqa omillarning muhimligini ta'kidlaydilar. Yuqori malakali va qiziqarli o'qituvchi katta sinfni samarali boshqarishi, innovatsion o'qitish usullari va texnologiyalaridan foydalanib, <mark>turli xil o'rganish ehtiyojlarini qondirishi</mark> mumkin. Bundan tashqari, turli xil faoliyat va resurslarni o'z ichiga olgan yaxshi tuzilgan o'quv dasturi shaxsiy e'tiborning yetishmasligini qoplaydi. Haqiqatan ham, ba'zi talabalar hatto katta sinflarda ham gullab-yashnashlari, <mark>qarashlar xilma-xilligidan</mark> va o'z tengdoshlaridan o'rganish imkoniyatidan foydalanishlari mumkin. Masalan, katta sinf yanada dinamik guruh muhokamalarini va hamkorlikdagi loyihalarni osonlashtirishi mumkin.</p>\n\n<p>Mening fikrimcha, yuqorida aytib o'tilgan omillar, albatta, muhim rol o'ynasa-da, sinf hajmi o'rganish tajribasiga sezilarli ta'sir ko'rsatadi, garchi alohida emas. Kichikroq sinf, muvaffaqiyatning kafolatlangan retsepti bo'lmasa-da, shaxsiy o'rganish va faol ishtirok etish uchun <mark>qulayroq muhitni</mark> yaratadi. Bu material bilan chuqurroq tanishishga imkon beradi va talabalar o'rtasida kuchliroq hamjamiyat tuyg'usini uyg'otadi. Biroq, har qanday sinf hajmining samaradorligi oxir-oqibatda o'qituvchining <mark>o'z salohiyatidan foydalanish</mark> va talabalarning individual ehtiyojlarini qondirish qobiliyatiga bog'liqligini tan olish juda muhimdir. Shuning uchun, til o'rganish natijalarini optimallashtirish uchun sinf hajmi va boshqa pedagogik omillarni hisobga olgan holda <mark>yaxlit yondashuv</mark> talab etiladi.</p>",
+    "uzSampleBand9": "<p>Til talabalari uchun eng maqbul o'quv muhiti doimiy bahs mavzusi bo'lib kelmoqda. Ba'zilar kichik sinf xonalari samaraliroq o'rganishga yordam beradi deb hisoblab, ularni qo'llab-quvvatlasa, boshqalar sinf hajmi ahamiyatsiz deb ta'kidlaydi. Ushbu insho ikkala nuqtai nazarni ham o'rganib, o'z fikrimni bayon qiladi.</p>\n\n<p>Kichik til sinflarini yoqlab chiqayotganlar ko'pincha <mark>shaxsiy e'tiborning</mark> afzalliklarini ta'kidlashadi. Kichikroq muhitda o'qituvchilar har bir talabaning individual ehtiyojlarini osonroq aniqlab, o'qitish uslubini shunga moslashtirishi mumkin. Bu <mark>ishtiyoqning oshishiga</mark> va fanni chuqurroq tushunishga olib kelishi mumkin. Bundan tashqari, kichik sinflardagi talabalar faol ishtirok etish, savollar berish va <mark>konstruktiv fikr-mulohazalarni</mark> olishda o'zlarini qulayroq his qilishlari mumkin. Ushbu o'zaro aloqa ularning ravonligi va ishonchini sezilarli darajada oshirishi mumkin. Asosan, argument shundan iboratki, yanada yaqin o'quv muhiti tilni o'rganish uchun qulayroq muhitni yaratadi.</p>\n\n<p>Aksincha, sinf hajmi ahamiyatsiz deb hisoblovchilar ko'pincha katta sinflarning <mark>xarajat jihatidan samaradorligini</mark> ta'kidlashadi. Muassasa nuqtai nazaridan, katta sinflar resurslarni yanada samarali taqsimlashga imkon beradi, bu esa boshqa akademik yaxshilanishlar, masalan, yaxshilangan imkoniyatlar yoki yanada xilma-xil kurs takliflari uchun mablag'larni ozod qilishi mumkin. Bundan tashqari, ba'zilar katta guruhning <mark>dinamizmi</mark> foydali bo'lishi mumkinligini ta'kidlaydi. Talabalar bir-birlarining xatolari va yutuqlaridan o'rganishlari mumkin va turli xil nuqtai nazarlar sinf muhokamalarini boyitishi mumkin. Bundan tashqari, tajribali o'qituvchilar ko'pincha katta sinflarni samarali boshqarishga, barcha talabalarning jalb qilinishi va yetarli darajada qo'llab-quvvatlanishini ta'minlash uchun strategiyalardan foydalanishga qodir. <mark>Bu argument</mark> samarali o'qitish metodologiyalari sinf hajmining cheklovlaridan oshib ketishi mumkin degan fikrga asoslanadi.</p>\n\n<p>Mening fikrimcha, katta sinflar uchun keltirilgan dalillar o'rinli bo'lsa-da, til o'rganish uchun kichik sinflarning afzalliklari oxir-oqibatda yanada ishonchliroqdir. <mark>Resurs cheklovlari</mark> qonuniy tashvish bo'lsa-da, kichik sinflarning <mark>pedagogik afzalliklari</mark>, masalan, individual e'tiborning oshishi va o'zaro aloqa uchun kengaytirilgan imkoniyatlar, ayniqsa tilni o'rganish uchun inkor etib bo'lmaydi. Individual ehtiyojlarni birinchi o'ringa qo'yadigan va faol ishtirokni rag'batlantiradigan o'quv muhiti, mening nazarimda, tilshunoslikda <mark>muvaffaqiyatning asosiy shartidir</mark>. Shuning uchun, katta sinf muhitlarining potentsial afzalliklarini inkor etmasdan, menimcha, ideal holda, til o'qitish kichikroq, ko'proq yo'naltirilgan o'quv muhitida bo'lishi kerak.</p>"
+   }
+  },
+  "source": "IELTS Liz",
+  "examDate": "2020-06-20",
+  "settings": {
+   "timeInfo": "60 Minutes",
+   "moduleTitle": "Academic Writing Module",
+   "testIdentifier": "Mock 22"
+  },
+  "vocabulary": {
+   "task1": [
+    {
+     "term": "Household goods",
+     "meaning": "Items owned and used in a home."
+    },
+    {
+     "term": "Relatively stable",
+     "meaning": "Not changing much over time."
+    },
+    {
+     "term": "Surged",
+     "meaning": "Increased suddenly and powerfully."
+    },
+    {
+     "term": "Substantial increase",
+     "meaning": "A large or considerable growth."
+    },
+    {
+     "term": "Modest growth",
+     "meaning": "A small or moderate increase."
+    },
+    {
+     "term": "Steadily",
+     "meaning": "In a regular and even manner over time."
+    },
+    {
+     "term": "Technological advancement",
+     "meaning": "Progress in the development of technology."
+    },
+    {
+     "term": "Consumer preferences",
+     "meaning": "The choices and tastes of buyers."
+    }
+   ],
+   "task2": [
+    {
+     "term": "Pedagogical advantages",
+     "meaning": "Benefits related to the methods and practice of teaching."
+    },
+    {
+     "term": "Individualized attention",
+     "meaning": "Personal focus on a single student's needs."
+    },
+    {
+     "term": "Language acquisition",
+     "meaning": "The process by which people learn a language."
+    },
+    {
+     "term": "Intimidating environment",
+     "meaning": "A setting that causes fear or nervousness."
+    },
+    {
+     "term": "Immaterial",
+     "meaning": "Not important or relevant."
+    },
+    {
+     "term": "Technology-assisted learning",
+     "meaning": "Education that uses technological tools."
+    },
+    {
+     "term": "Fluency and accuracy",
+     "meaning": "The ability to speak smoothly and correctly."
+    },
+    {
+     "term": "Diversity of perspectives",
+     "meaning": "A variety of different viewpoints or opinions."
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "dynamism": {
+    "uz": "dinamizm",
+    "type": "lexical"
+   },
+   "outpacing": {
+    "uz": "o'zib ketish",
+    "type": "lexical"
+   },
+   "In general": {
+    "uz": "Umuman olganda",
+    "type": "linking"
+   },
+   "moderately": {
+    "uz": "o'rtacha",
+    "type": "lexical"
+   },
+   "and my view": {
+    "uz": "va mening fikrimcha",
+    "type": "colloc"
+   },
+   "skyrocketed": {
+    "uz": "osmonga ko'tarildi",
+    "type": "colloc"
+   },
+   "overtaken by": {
+    "uz": "tomonidan o'zib ketilgan",
+    "type": "colloc"
+   },
+   "can also be OK": {
+    "uz": "yaxshi bo'lishi mumkin",
+    "type": "colloc"
+   },
+   "marked increase": {
+    "uz": "sezilarli o'sish",
+    "type": "colloc"
+   },
+   "often highlight": {
+    "uz": "ko'pincha ta'kidlaydi",
+    "type": "colloc"
+   },
+   "it was like this": {
+    "uz": "bu shunday edi",
+    "type": "colloc"
+   },
+   "ownership levels": {
+    "uz": "egalik darajalari",
+    "type": "colloc"
+   },
+   "A similar pattern": {
+    "uz": "Shunga o'xshash holat",
+    "type": "colloc"
+   },
+   "They contend that": {
+    "uz": "Ular ta'kidlashicha",
+    "type": "academic"
+   },
+   "a bigger increase": {
+    "uz": "katta o'sish",
+    "type": "colloc"
+   },
+   "climbing modestly": {
+    "uz": "o'rtacha ko'tarilish",
+    "type": "colloc"
+   },
+   "holistic approach": {
+    "uz": "yaxlit yondashuv",
+    "type": "colloc"
+   },
+   "more than doubled": {
+    "uz": "ikki barobardan ko'proqqa oshdi",
+    "type": "colloc"
+   },
+   "substantial surge": {
+    "uz": "sezilarli o'sish",
+    "type": "colloc"
+   },
+   "cost-effectiveness": {
+    "uz": "xarajat samaradorligi",
+    "type": "colloc"
+   },
+   "risen dramatically": {
+    "uz": "keskin ko'tarildi",
+    "type": "colloc"
+   },
+   "enhanced engagement": {
+    "uz": "kuchaytirilgan ishtirok",
+    "type": "academic"
+   },
+   "give more attention": {
+    "uz": "ko'proq e'tibor bering",
+    "type": "colloc"
+   },
+   "It is also true that": {
+    "uz": "Shuni ham ta'kidlash joizki",
+    "type": "linking"
+   },
+   "limiting class sizes": {
+    "uz": "sinf hajmini cheklash",
+    "type": "academic"
+   },
+   "more easily cater to": {
+    "uz": "osonroq qondirish",
+    "type": "colloc"
+   },
+   "paramount to success": {
+    "uz": "muvaffaqiyat uchun juda muhim",
+    "type": "academic"
+   },
+   "resource constraints": {
+    "uz": "resurs cheklovlari",
+    "type": "academic"
+   },
+   "It is a complex issue": {
+    "uz": "Bu murakkab masala",
+    "type": "colloc"
+   },
+   "constructive feedback": {
+    "uz": "konstruktiv fikr-mulohaza",
+    "type": "colloc"
+   },
+   "giving my own opinion": {
+    "uz": "o'z fikrimni bildirish",
+    "type": "colloc"
+   },
+   "more readily identify": {
+    "uz": "osonroq aniqlash",
+    "type": "colloc"
+   },
+   "if the teacher is good": {
+    "uz": "agar o'qituvchi yaxshi bo'lsa",
+    "type": "colloc"
+   },
+   "leverage its potential": {
+    "uz": "uning potentsialidan foydalanish",
+    "type": "academic"
+   },
+   "pedagogical advantages": {
+    "uz": "pedagogik afzalliklar",
+    "type": "academic"
+   },
+   "personalised attention": {
+    "uz": "shaxsiy e'tibor",
+    "type": "colloc"
+   },
+   "remained fairly stable": {
+    "uz": "ancha barqaror bo'lib qoldi",
+    "type": "academic"
+   },
+   "The same thing happened": {
+    "uz": "Xuddi shunday narsa sodir bo'ldi",
+    "type": "colloc"
+   },
+   "This argument hinges on": {
+    "uz": "Bu argument ...ga asoslangan",
+    "type": "academic"
+   },
+   "caught up and surpassed": {
+    "uz": "quvib yetdi va oshib ketdi",
+    "type": "colloc"
+   },
+   "particularly beneficial": {
+    "uz": "ayniqsa foydali",
+    "type": "colloc"
+   },
+   "showed a gradual uptick": {
+    "uz": "asta-sekin o'sishni ko'rsatdi",
+    "type": "academic"
+   },
+   "A cursory glance reveals": {
+    "uz": "Yuzaki nazar tashlash shuni ko'rsatadi",
+    "type": "academic"
+   },
+   "It depends on the person": {
+    "uz": "Bu odamga bog'liq",
+    "type": "colloc"
+   },
+   "had different appliances": {
+    "uz": "turli xil jihozlarga ega edi",
+    "type": "colloc"
+   },
+   "individualized attention": {
+    "uz": "individual yondashuv",
+    "type": "colloc"
+   },
+   "proportion of households": {
+    "uz": "uy xo'jaliklarining nisbati",
+    "type": "colloc"
+   },
+   "diversity of perspectives": {
+    "uz": "nuqtai nazarlarning xilma-xilligi",
+    "type": "academic"
+   },
+   "remained a prevalent item": {
+    "uz": "keng tarqalgan buyum bo'lib qoldi",
+    "type": "academic"
+   },
+   "the most common appliance": {
+    "uz": "eng ko'p tarqalgan jihoz",
+    "type": "colloc"
+   },
+   "more conducive environment": {
+    "uz": "qulayroq muhit",
+    "type": "academic"
+   },
+   "overcome their inhibitions": {
+    "uz": "o'zlarining tortinchoqliklarini yengib o'tish",
+    "type": "academic"
+   },
+   "remained relatively stable": {
+    "uz": "nisbatan barqaror bo'lib qoldi",
+    "type": "academic"
+   },
+   "witnessed a slight decrease": {
+    "uz": "ozgina pasayish kuzatildi",
+    "type": "academic"
+   },
+   "demonstrates a growing trend": {
+    "uz": "o'sib borayotgan tendentsiyani ko'rsatadi",
+    "type": "academic"
+   },
+   "illustrates the proportion of": {
+    "uz": "...ning nisbatini ko'rsatadi",
+    "type": "academic"
+   },
+   "a nuanced approach is required": {
+    "uz": "nozik yondashuv talab etiladi",
+    "type": "academic"
+   },
+   "experienced substantial growth": {
+    "uz": "sezilarli o'sishni boshdan kechirdi",
+    "type": "academic"
+   },
+   "witnessed an exponential surge": {
+    "uz": "eksponensial o'sish kuzatildi",
+    "type": "academic"
+   },
+   "cater to diverse learning needs": {
+    "uz": "turli xil o'quv ehtiyojlarini qondirish",
+    "type": "academic"
+   },
+   "displayed a modest downward trend": {
+    "uz": "o'rtacha pasayish tendentsiyasini ko'rsatdi",
+    "type": "academic"
+   },
+   "exhibited the most dramatic surge": {
+    "uz": "eng keskin o'sishni namoyish etdi",
+    "type": "academic"
+   },
+   "throughout the period in question": {
+    "uz": "ko'rib chiqilayotgan davr mobaynida",
+    "type": "academic"
+   },
+   "Ideally, a balance should be struck": {
+    "uz": "Ideal holda, muvozanat saqlanishi kerak",
+    "type": "academic"
+   },
+   "tailor their instruction accordingly": {
+    "uz": "o'z ta'limlarini shunga moslashtirish",
+    "type": "academic"
+   },
+   "enhanced opportunities for interaction": {
+    "uz": "o'zaro aloqa uchun kengaytirilgan imkoniyatlar",
+    "type": "academic"
+   },
+   "suggests a shift in consumer priorities": {
+    "uz": "iste'molchilar ustuvorliklarida o'zgarish borligini ko'rsatadi",
+    "type": "academic"
+   },
+   "However, this view may be too simplistic": {
+    "uz": "Biroq, bu nuqtai nazar juda sodda bo'lishi mumkin",
+    "type": "academic"
+   },
+   "To conclude, both sides have valid points": {
+    "uz": "Xulosa qilib aytganda, har ikki tomonning ham asosli fikrlari bor",
+    "type": "linking"
+   },
+   "illustrates the fluctuating ownership percentages": {
+    "uz": "egalik foizlarining o'zgaruvchanligini ko'rsatadi",
+    "type": "academic"
+   }
+  }
+ },
+ "created_at": "2026-05-06T17:28:57.91461+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

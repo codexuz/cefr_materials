@@ -1,0 +1,451 @@
+{
+ "id": 139,
+ "mock_type": "ielts-writing",
+ "mock_number": 30,
+ "title": "IELTS Writing Mock 30",
+ "status": "published",
+ "mock_data": {
+  "tasks": {
+   "task1": {
+    "title": "University library redesign",
+    "prompt": "The maps show a university library in 2005 and the same library today.",
+    "wordGoal": 150,
+    "chartDesc": {
+     "title": "University library, 2005 / University library, today",
+     "views": [
+      {
+       "name": "2005",
+       "features": [
+        "Bookshelves along the top wall, left wall, and bottom wall",
+        "Study tables in the center-left",
+        "Book borrowing and returns in the center-right",
+        "Desks with computers along the top-right wall",
+        "Library office in the bottom-right corner"
+       ]
+      },
+      {
+       "name": "today",
+       "features": [
+        "Bookshelves along the top wall",
+        "Automated book borrowing in the top-left and bottom-left",
+        "Private study desks in the center area",
+        "Desks for student laptops along the right wall and bottom wall"
+       ]
+      }
+     ],
+     "changes": [
+      "Bookshelves along the left and bottom walls were removed.",
+      "Automated book borrowing stations were added in the top-left and bottom-left corners.",
+      "The central Study tables and Book borrowing and returns counter were replaced by Private study desks.",
+      "Desks with computers on the right were replaced by Desks for student laptops.",
+      "The Library office in the bottom-right was removed and replaced by Desks for student laptops."
+     ],
+     "overview": "The library underwent a modern transformation, replacing manual borrowing facilities, office space, and traditional computer desks with automated book borrowing stations, private study desks, and lap-top focused seating areas.",
+     "chartType": "map",
+     "unchanged": [
+      "Bookshelves along the top wall",
+      "Location of the main entrance at the bottom"
+     ],
+     "confidence": "high",
+     "unreadable": [],
+     "keyFeatures": [
+      "Introduction of automated book borrowing stations on the left side",
+      "Replacement of center study tables and borrowing counter with private study desks",
+      "Replacement of computer desks and library office with desks for student laptops along the right and bottom walls",
+      "Removal of bookshelves along the left and bottom walls while retaining those along the top wall"
+     ]
+    },
+    "chartType": "map",
+    "dataNature": "dynamic",
+    "instruction": "Summarise the information by selecting and reporting the main features, and make comparison where relevant.",
+    "sampleBand5": "<p>The maps show how a university library <mark>is different now</mark> compared to in 2005.</p>\n<p>In 2005, the library had a main entrance on the south side. Inside, there was a reception desk and a lot of books <mark>on the left</mark>. There were also computers for students to use. To the right of the entrance was an area for magazines and newspapers, and some study tables. The library also had a special room for rare books.</p>\n<p>Now, the library has changed. The main entrance <mark>is still there</mark>, but the layout inside is quite different. The reception desk is gone. The area with the books is smaller, because some of it is now a cafe. There are more computers than before. The magazine and newspaper area is also smaller and the study tables are in a different place. The rare book room <mark>is not there</mark> anymore. There is now a new area for group study.</p>\n<p>Overall, the library has become more modern and has more space for computers and group work.</p>",
+    "sampleBand6": "<p>The maps <mark>show the changes</mark> that were made to a university library from 2005 to the present day. <mark>Overall, it can be seen</mark> that the library was modernised with the addition of new facilities and a reduction in the number of books.</p>\n\n<p>In 2005, the library had a large area for books, located in the centre of the building. There was also a reception desk near the entrance and a small number of computers <mark>in the corner</mark>. Today, the book area is much smaller, <mark>taking up only a section</mark> along the north wall. The reception desk has remained in the same place.</p>\n\n<p>The main changes are the addition of new study spaces. Individual study rooms have been built along the south wall, and a group study area has been added near the entrance. The number of computers has increased significantly and they are now located in a larger area. Also, a cafe has been added in the south-east corner, where there <mark>used to be</mark> a journal area.</p>",
+    "sampleBand7": "<p>The maps illustrate changes that occurred in a university library between 2005 and the present day. <mark>Overall, the library underwent significant renovations</mark>, with a shift towards more computer-based resources and collaborative study spaces.</p>\n\n<p>In 2005, the library was dominated by book stacks, occupying the majority of the floor space. A reception desk was located near the entrance, with a librarian's office situated in the northwest corner. <mark>In contrast</mark>, the current layout features a much smaller area dedicated to books, now confined to the eastern side of the building. The reception desk has been removed, and self-service machines have been installed near the entrance.</p>\n\n<p><mark>A key development</mark> is the introduction of numerous computer workstations, which now occupy a large section of the library, reflecting the increasing importance of digital resources. The librarian's office has been replaced with a meeting room. <mark>Furthermore, a dedicated study area</mark> has been created in the southwest corner, providing a space for group work and discussions. <mark>Notably, the library now includes</mark> a coffee area in the north-east, offering a social space for students. <mark>These alterations indicate a modernization of the library</mark> to better cater to the needs of contemporary students.</p>",
+    "sampleBand8": "<p>The maps <mark>illustrate the transformations</mark> that have occurred in a university library between 2005 and the present day. <mark>Overall,</mark> the library has undergone a significant refurbishment, with a greater emphasis placed on creating study spaces and incorporating technology.</p>\n\n<p>In 2005, the library was primarily divided into areas for books and journals, with a reception desk located near the entrance. To the right of the entrance were rows of bookshelves dedicated to journals, while the left side housed a larger section for books. A small number of tables and chairs were situated at the back of the library, providing a limited study area. <mark>In stark contrast,</mark> the current layout prioritises study spaces. The journal section has been completely removed, and the book section has been reduced in size and relocated to the back of the library.</p>\n\n<p><mark>Notably,</mark> the area previously occupied by journals has been converted into a computer lab, equipped with numerous workstations. The former study area has been expanded and now includes <mark>a dedicated area for group study</mark>. Furthermore, the reception desk has been replaced by a self-service counter, reflecting a move towards greater autonomy for library users. <mark>One striking addition</mark> is the inclusion of a coffee area near the entrance, <mark>catering to the needs</mark> of students and staff alike. <mark>These alterations</mark> clearly indicate a shift towards a more modern and user-friendly library environment. The general atmosphere of the library has <mark>become much more conducive to studying</mark>.</p>",
+    "sampleBand9": "<p>The maps illustrate alterations made to a university library between 2005 and the present day. <mark>Overall</mark>, the library has undergone a substantial transformation, with a greater emphasis on technology and collaborative learning spaces, while simultaneously reducing the physical book collection.</p>\n\n<p>In 2005, the library’s layout was <mark>predominantly characterized by</mark> rows of bookshelves occupying a significant portion of the floor plan. A reception desk was located near the entrance, and individual study desks were situated along the perimeter walls. In contrast, the contemporary library features a <mark>noticeable reduction in</mark> bookshelf space, replaced by a larger computer lab in the upper left corner. The reception desk has been removed, and in its place is a self-service counter. Several new group study rooms have been added along the bottom wall, <mark>reflecting a shift towards</mark> collaborative learning.</p>\n\n<p>Furthermore, the area previously designated for individual study desks has been <mark>repurposed as</mark> a media room, equipped with audio-visual equipment. A cafe has also been introduced in the bottom right corner, <mark>catering to the needs of</mark> students seeking refreshments. The most <mark>significant modification</mark> is the expansion of the computer lab, indicating the library's <mark>increased reliance on</mark> digital resources. The remaining bookshelves are now <mark>concentrated in</mark> a smaller area, suggesting a move towards a more curated and accessible collection. The introduction of self-service kiosks <mark>streamlines the borrowing process</mark>. <mark>It is evident</mark> the library has adapted to meet the changing needs of its users. </p>",
+    "timeMinutes": 20,
+    "chartDescImg": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/30.png",
+    "sampleAnswer": "The two maps illustrate the changes made to a university library between 2005 and the present day. Overall, the library has been significantly modernized, with a shift from traditional book storage to technology-focused study spaces.\n\nIn 2005, the library had a conventional layout. The main entrance led directly to a large central area dominated by rows of bookshelves. A reference section was located in the northeast corner, while a periodicals area occupied the northwest. Study desks were arranged along the southern wall, and a small computer area with approximately ten workstations was situated in the southeast corner. The librarian's desk was positioned near the entrance.\n\nThe current layout reflects substantial changes. The number of bookshelves has been dramatically reduced, replaced by an expanded computer zone that now occupies much of the central and eastern areas with over fifty workstations. A new group study room has been added in the northwest corner where periodicals were previously located. The reference section has been relocated to a smaller space, and a café has been introduced near the entrance. Additionally, comfortable seating areas with sofas have been installed throughout the space.\n\nThese changes suggest a transformation in how the library is used, with greater emphasis on digital resources and collaborative learning.",
+    "chartImageUrl": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/30.png",
+    "uzSampleBand5": "<p>Xaritalar universitet kutubxonasi 2005-yilga nisbatan <mark>hozir qanday farq qilishini</mark> ko'rsatadi.</p>\n<p>2005-yilda kutubxonaning janubiy tomonida asosiy kirish joyi bor edi. Ichkarida qabulxona va <mark>chap tomonda</mark> ko'plab kitoblar bor edi. Talabalar foydalanishi uchun kompyuterlar ham bor edi. Kirish joyining o'ng tomonida jurnal va gazeta uchun joy, shuningdek, ba'zi o'quv stollari bor edi. Kutubxonada nodir kitoblar uchun maxsus xona ham bor edi.</p>\n<p>Hozirda kutubxona o'zgargan. Asosiy kirish joyi <mark>hamon o'sha yerda</mark>, ammo ichki tuzilishi ancha farq qiladi. Qabulxona yo'q. Kitoblar joylashgan maydon kichraygan, chunki uning bir qismi hozirda kafe. Kompyuterlar avvalgidan ko'proq. Jurnal va gazeta maydoni ham kichikroq, o'quv stollari esa boshqa joyda. Nodir kitoblar xonasi <mark>endi yo'q</mark>. Endi guruh bo'lib o'qish uchun yangi joy bor.</p>\n<p>Umuman olganda, kutubxona zamonaviyroq bo'ldi va kompyuterlar hamda guruh bo'lib ishlash uchun ko'proq joyga ega.</p>",
+    "uzSampleBand6": "<p>Xaritalar universitet kutubxonasida 2005 yildan hozirgi kungacha kiritilgan <mark>o'zgarishlarni ko'rsatadi</mark>. <mark>Umuman olganda, ko'rinib turibdiki</mark> kutubxona yangi qulayliklar qo'shilishi va kitoblar sonining kamayishi bilan modernizatsiya qilingan.</p>\n\n<p>2005 yilda kutubxonada kitoblar uchun katta maydon bo'lgan, u binoning markazida joylashgan edi. Kirish joyiga yaqin joyda qabulxona ham bor edi va <mark>burchakda</mark> kompyuterlarning ozgina soni mavjud edi. Bugungi kunda kitoblar maydoni ancha kichikroq, <mark>faqatgina bir qismini egallaydi</mark> va shimoliy devor bo'ylab joylashgan. Qabulxona o'sha joyida qolgan.</p>\n\n<p>Asosiy o'zgarishlar yangi o'qish joylarining qo'shilishidir. Janubiy devor bo'ylab individual o'qish xonalari qurilgan va kirish joyiga yaqin joyda guruhli o'qish maydoni qo'shilgan. Kompyuterlar soni sezilarli darajada oshdi va ular hozirda kattaroq maydonda joylashgan. Shuningdek, janubi-sharqiy burchakda kafe qo'shildi, u yerda <mark>ilgari</mark> jurnal maydoni bo'lgan.</p>",
+    "uzSampleBand7": "<p>Xaritalar universitet kutubxonasida 2005-yildan hozirgi kungacha bo'lgan davrda yuz bergan o'zgarishlarni tasvirlaydi. <mark>Umuman olganda, kutubxona sezilarli ta'mirlash ishlaridan o'tdi</mark>, bunda kompyuterga asoslangan resurslar va hamkorlikda o'qish joylariga o'tish kuzatildi.</p>\n\n<p>2005-yilda kutubxonada kitob javonlari ustunlik qilgan bo'lib, ular polning asosiy qismini egallagan. Kirish qismiga yaqin joyda qabulxona joylashgan bo'lib, kutubxonachining ofisi shimoli-g'arbiy burchakda joylashgan edi. <mark>Aksincha</mark>, hozirgi tartibda kitoblarga bag'ishlangan ancha kichik maydon mavjud bo'lib, endi binoning sharqiy tomoni bilan cheklangan. Qabulxona olib tashlangan va kirish qismiga yaqin joyda o'z-o'ziga xizmat ko'rsatish mashinalari o'rnatilgan.</p>\n\n<p><mark>Asosiy o'zgarish</mark> ko'plab kompyuter ish stantsiyalarining joriy etilishidir, ular hozirda kutubxonaning katta qismini egallaydi, bu raqamli resurslarning tobora ortib borayotgan ahamiyatini aks ettiradi. Kutubxonachining ofisi yig'ilish xonasi bilan almashtirildi. <mark>Bundan tashqari, maxsus o'quv maydoni</mark> janubi-g'arbiy burchakda yaratilgan bo'lib, u guruh bilan ishlash va muhokamalar uchun joy taqdim etadi. <mark>Shuni ta'kidlash joizki, kutubxona endi</mark> shimoli-sharqda qahva zonasini o'z ichiga oladi va talabalar uchun ijtimoiy joyni taklif etadi. <mark>Bu o'zgarishlar kutubxonani zamonaviy talabalarning ehtiyojlarini yaxshiroq qondirish uchun modernizatsiya qilinganligini ko'rsatadi</mark>.</p>",
+    "uzSampleBand8": "<p>Xaritalar universitet kutubxonasida 2005 yildan hozirgi kungacha sodir bo'lgan <mark>o'zgarishlarni ko'rsatadi</mark>. <mark>Umuman olganda,</mark> kutubxona sezilarli darajada ta'mirlandi, bunda o'qish joylarini yaratish va texnologiyalarni joriy etishga katta e'tibor qaratildi.</p>\n\n<p>2005 yilda kutubxona asosan kitoblar va jurnallar uchun ajratilgan hududlarga bo'lingan bo'lib, kirish joyiga yaqin joyda qabulxona joylashgan edi. Kirish joyining o'ng tomonida jurnallar uchun ajratilgan kitob javonlari qatorlari, chap tomonida esa kitoblar uchun kattaroq bo'lim joylashgan edi. Kutubxonaning orqa tomonida cheklangan miqdordagi stol va stullar joylashgan bo'lib, ular cheklangan o'qish maydonini ta'minlagan. <mark>Bunga keskin zid ravishda,</mark> hozirgi tartib o'qish joylariga ustunlik beradi. Jurnallar bo'limi butunlay olib tashlandi, kitoblar bo'limi esa hajmi kichraytirilib, kutubxonaning orqa tomoniga ko'chirildi.</p>\n\n<p><mark>Shuni ta'kidlash joizki,</mark> ilgari jurnallar egallagan hudud ko'plab ish stantsiyalari bilan jihozlangan kompyuter laboratoriyasiga aylantirildi. Ilgari o'qish maydoni kengaytirildi va hozirda <mark>guruhda o'qish uchun alohida joy</mark> mavjud. Bundan tashqari, qabulxona o'z-o'ziga xizmat ko'rsatish peshtaxtasi bilan almashtirildi, bu kutubxona foydalanuvchilari uchun ko'proq avtonomiyaga o'tishni aks ettiradi. <mark>Eng hayratlanarli qo'shimchalardan biri</mark> kirish joyiga yaqin joyda qahva zonasining paydo bo'lishidir, bu <mark>talabalar va xodimlarning ehtiyojlarini qondiradi</mark>. <mark>Ushbu o'zgarishlar</mark> kutubxonaning yanada zamonaviy va foydalanuvchilar uchun qulay muhitga o'tganligini aniq ko'rsatadi. Kutubxonaning umumiy muhiti <mark>o'qish uchun ancha qulayroq bo'ldi</mark>.</p>",
+    "uzSampleBand9": "<p>Xaritalar universitet kutubxonasida 2005-yildan hozirgi kungacha bo'lgan o'zgarishlarni ko'rsatadi. <mark>Umuman olganda</mark>, kutubxona sezilarli o'zgarishlarga duch keldi, bunda texnologiya va hamkorlikda o'rganish joylariga ko'proq e'tibor qaratildi, shu bilan birga fizik kitoblar to'plami qisqartirildi.</p>\n\n<p>2005-yilda kutubxonaning joylashuvi <mark>asosan shundan iborat edi</mark>ki, kitob javonlarining qatorlari qavat rejasining katta qismini egallagan. Qabulxona kirish joyiga yaqin joylashgan edi va yakka tartibdagi o'quv stollari devorlar bo'ylab joylashtirilgan edi. Aksincha, zamonaviy kutubxonada kitob javonlari maydonining <mark>sezilarli qisqarishi</mark> kuzatiladi, uning o'rniga yuqori chap burchakda kattaroq kompyuter laboratoriyasi joylashgan. Qabulxona olib tashlangan va uning o'rniga o'z-o'ziga xizmat ko'rsatish stoli o'rnatilgan. Pastki devor bo'ylab bir nechta yangi guruhli o'quv xonalari qo'shildi, bu <mark>hamkorlikda o'rganishga o'tishni aks ettiradi</mark>.</p>\n\n<p>Bundan tashqari, ilgari yakka tartibdagi o'quv stollari uchun ajratilgan maydon audio-vizual uskunalar bilan jihozlangan media xonasi <mark>sifatida qayta ishlatildi</mark>. Shuningdek, pastki o'ng burchakda talabalarning tetiklantiruvchi ichimliklarga bo'lgan <mark>ehtiyojlarini qondirish uchun</mark> kafe tashkil etildi. Eng <mark>muhim o'zgarish</mark> kompyuter laboratoriyasining kengaytirilishi bo'lib, bu kutubxonaning raqamli resurslarga <mark>ortib borayotgan ishonchini</mark> ko'rsatadi. Qolgan kitob javonlari endi <mark>kichikroq maydonga jamlangan</mark>, bu esa yanada saralangan va foydalanish imkoniyati bo'lgan to'plamga o'tishni anglatadi. O'z-o'ziga xizmat ko'rsatish kioskalarining joriy etilishi <mark>kitob olish jarayonini soddalashtiradi</mark>. <mark>Shu narsa ayonki</mark>, kutubxona o'z foydalanuvchilarining o'zgaruvchan ehtiyojlariga moslashgan.</p>",
+    "chartDescSource": "extracted-verified-2026-08-05"
+   },
+   "task2": {
+    "title": "Taxes vs citizen responsibilities",
+    "prompt": "Some people think paying taxes is a big enough contribution to their society, while others think people have more responsibilities as members of society than only paying taxes. Discuss both these views and give your opinion.",
+    "wordGoal": 250,
+    "essayType": "balanced",
+    "instruction": "Discuss both these views and give your opinion.",
+    "sampleBand5": "<p>Some people believe that if they pay their taxes, <mark>they don't need to do other things</mark> for the society. Other people think that paying taxes is not enough. This essay will talk about both sides of this argument and then give my opinion.</p>\n\n<p>On the one hand, paying taxes is very important. The government uses this money to pay for schools, hospitals, and roads. <mark>If people did not pay tax</mark>, these things would not be possible. Also, some people think that they are busy with their jobs and families, so they do not have time to do other things for society. Paying tax is their way of helping.</p>\n\n<p>However, there are other things that people can do to help their society. For example, they can volunteer their time to help people who are in need. They can also donate money to charities. <mark>Also people can</mark> help to keep their community clean and safe by picking up litter and reporting crimes. These things can make a big difference to the quality of life for everyone. People can also be good neighbours and help each other out.</p>\n\n<p>In my opinion, while paying taxes is important, it is not the only responsibility that people have. <mark>I think that people should try to do other things</mark> to help their society, even if it is just something small. Every little bit helps, and it can make a big difference to the lives of other people. So, it is important to be a good citizen in more ways than just paying your taxes.</p>",
+    "sampleBand6": "<p>It is often debated whether citizens' only responsibility to their society is to pay taxes, or if they should contribute in other ways too. While paying taxes is undoubtedly crucial, I believe that individuals have further obligations as members of a community.</p>\n\n<p>On the one hand, the argument that paying taxes is sufficient has some merit. Taxes are the primary source of funding for essential public services, such as healthcare, education, and infrastructure. Without adequate tax revenue, governments would struggle to provide these vital services, which are <mark>necessary for the well-being</mark> of all citizens. Furthermore, some people argue that they contribute to society through their work and businesses, which generate employment and economic growth. <mark>From this perspective</mark>, paying taxes is simply the financial component of a broader contribution.</p>\n\n<p>However, there are many ways individuals can contribute to society beyond simply paying taxes. Volunteering time to help those in need, participating in community projects, or <mark>even simply</mark> being a good neighbor can have a significant positive impact. For example, volunteering at a local soup kitchen can provide meals for the homeless, while participating in environmental clean-up initiatives can help protect the environment. <mark>These kinds of actions</mark> foster a sense of community and improve the quality of life for everyone. Moreover, some people may not earn enough to pay substantial taxes, but they can still contribute significantly through their time and effort.</p>\n\n<p>In conclusion, while paying taxes is an important civic duty, it should not be seen as the only responsibility of individuals. <mark>I believe that</mark> a healthy society requires active participation from its members in various ways, both financial and non-financial. By contributing our time, skills, and resources, we can create a more vibrant and equitable society for all. It is important to <mark>try to do</mark> what we can to help.</p>",
+    "sampleBand7": "<p>It is often argued that paying taxes is enough to fulfil one's duty as a member of society. While I acknowledge that taxes are crucial for funding public services, I believe that citizens have <mark>a broader range of responsibilities</mark> beyond simply contributing financially.</p>\n\n<p>On the one hand, the argument that taxes are sufficient rests on the understanding that they are the primary mechanism through which governments finance essential services. These services, such as healthcare, education, and infrastructure, benefit all members of society. Therefore, by diligently paying their taxes, individuals are <mark>indirectly contributing</mark> to the collective well-being. Furthermore, some might argue that individuals have the right to spend their remaining income as they see fit, and that imposing further responsibilities would be an infringement on their personal freedom. Paying taxes, therefore, could be viewed as a <mark>fair and reasonable</mark> contribution.</p>\n\n<p>However, limiting one's societal contribution to only paying taxes overlooks the importance of active citizenship and community involvement. Responsibilities such as volunteering, participating in local governance, and <mark>upholding ethical standards</mark> in one's professional and personal life are vital for a healthy and thriving society. For instance, volunteering time to help the less fortunate can address social inequalities that taxes alone cannot solve. Similarly, engaging in informed political discourse and voting responsibly ensures that governments are held accountable and that policies reflect the needs of the population. Moreover, simple acts of kindness and respect towards others can <mark>foster a sense of community</mark> and social cohesion.</p>\n\n<p>In my opinion, while paying taxes is undoubtedly a fundamental obligation, it is not the sole measure of a responsible citizen. A truly engaged member of society actively participates in their community, <mark>contributes to the common good</mark> in various ways, and strives to make a positive impact on the lives of others. Taxes provide the financial foundation for a functioning society, but it is the collective effort and civic engagement of its citizens that <mark>truly determine its strength and resilience</mark>.</p>",
+    "sampleBand8": "<p>It is often argued whether paying taxes constitutes a sufficient contribution to society, or if citizens have further responsibilities beyond this financial obligation. While the act of paying taxes is undeniably vital for the functioning of any modern state, I believe that individuals have a broader role to play in contributing to the well-being of their communities.</p>\n\n<p>Those who advocate that paying taxes is enough often highlight the essential services that taxes fund. These services <mark>encompass a wide spectrum</mark>, from infrastructure development and public healthcare to education and social welfare programs. Without adequate tax revenue, governments would struggle to provide these fundamental necessities, leading to societal instability and diminished quality of life. Furthermore, it can be argued that contributing financially allows individuals to pursue their own interests and expertise, thereby contributing indirectly to society through economic activity and innovation. <mark>In essence</mark>, they argue that their primary duty is fulfilled through their economic participation and tax contributions.</p>\n\n<p>However, this perspective overlooks the multifaceted nature of societal well-being. A healthy society requires more than just financial input; it thrives on active participation, civic engagement, and a sense of collective responsibility. For example, volunteering in local communities, participating in environmental initiatives, or even simply being a responsible and considerate neighbor can significantly enhance the social fabric. Moreover, individuals have a responsibility to hold their governments accountable, ensuring that tax revenues are used effectively and ethically. <mark>This necessitates</mark> active participation in the democratic process, such as voting and engaging in informed debate on public policy. Ignoring these responsibilities can lead to apathy and <mark>a decline in civic virtue</mark>, ultimately undermining the very society that taxes are meant to support.</p>\n\n<p>In my opinion, while paying taxes is a crucial obligation, it represents only the baseline of societal contribution. <mark>A truly thriving society</mark> demands more than just financial input; it requires active, engaged citizens who are willing to contribute their time, skills, and energy to the common good. <mark>It is through this synergistic approach</mark> – combining financial contributions with active participation – that we can build stronger, more resilient, and more equitable communities. <mark>To relegate our duties solely to fiscal contributions</mark> is to diminish our potential to effect positive change and foster a more vibrant society for all. <mark>Ultimately, societal progress hinges on</mark> a collective commitment to both financial responsibility and active citizenship.</p>",
+    "sampleBand9": "<p>The question of what constitutes a sufficient contribution to society is multifaceted. While some argue that fulfilling one's tax obligations is enough, others maintain that citizens have broader responsibilities. Both perspectives have merit, and a balanced approach is crucial for a thriving community. <mark>This essay will explore both viewpoints before offering my own opinion</mark>.</p>\n\n<p>The argument that paying taxes is a sufficient contribution rests on the premise that taxation funds essential public services. Taxes finance infrastructure projects like roads and bridges, support education and healthcare systems, and provide social welfare programs for the vulnerable. From this perspective, individuals who diligently pay their taxes are <mark>effectively underwriting the very fabric of society</mark>, enabling it to function and progress. Furthermore, some might argue that individuals should be free to pursue their own interests and that compelling them to engage in additional civic duties infringes upon their personal autonomy. <mark>This position champions individual liberty and limited government intervention</mark>.</p>\n\n<p>However, the opposing view asserts that societal contribution extends beyond monetary obligations. Active participation in community initiatives, volunteering time to charitable causes, and engaging in informed civic discourse are all considered vital components of responsible citizenship. Such actions <mark>foster a sense of collective responsibility</mark> and strengthen social bonds. Moreover, addressing pressing social issues like poverty, inequality, and environmental degradation often requires collaborative efforts that transcend mere financial contributions. For instance, participating in local environmental clean-up drives or mentoring underprivileged youth represents a direct and tangible investment in the well-being of the community. <mark>These endeavors promote social cohesion and address needs that tax revenue alone cannot resolve</mark>.</p>\n\n<p>In my opinion, while paying taxes is undoubtedly a fundamental obligation, it is not the sole measure of societal contribution. A healthy society necessitates active and engaged citizens who are willing to contribute their time, skills, and resources to address community needs. <mark>A synergistic approach</mark>, combining financial contributions with active civic participation, is essential for fostering a vibrant and equitable society. While not everyone may be able to contribute equally in all areas, <mark>cultivating a sense of shared responsibility</mark> and encouraging diverse forms of engagement is paramount. Ultimately, a society thrives not just on the taxes it collects, but on the collective commitment of its members to building a better future. <mark>It is the confluence of fiscal responsibility and civic engagement that truly defines a flourishing society</mark>.</p>",
+    "timeMinutes": 40,
+    "sampleAnswer": "The question of what individuals owe to their society is fundamental to discussions about citizenship and civic responsibility. While some believe that tax payment fulfills their social obligations, others argue that active participation in community life is equally important. This essay will examine both viewpoints before presenting my own perspective.\n\nThose who view tax payment as sufficient contribution have valid points. Taxes fund essential public services including healthcare, education, infrastructure, and social welfare programs. For many people, particularly those working long hours or raising families, finding additional time for community activities is genuinely difficult. Furthermore, in complex modern societies, specialized government agencies are often better equipped to address social issues than individual volunteers. From this perspective, fulfilling one's financial obligations through taxes represents a legitimate and substantial contribution.\n\nHowever, others argue that being a responsible citizen involves more than financial contributions. Volunteering, for instance, provides direct human connection that government services cannot replicate—visiting elderly neighbors, mentoring youth, or participating in community clean-ups creates social bonds that strengthen communities. Political participation, such as voting and engaging in local governance, is essential for democracy to function properly. Additionally, many social problems—loneliness, isolation, and neighborhood decline—cannot be solved by money alone but require active community involvement.\n\nIn my opinion, while paying taxes is a crucial civic duty, it alone is not sufficient. A healthy society requires both financial contributions and active participation from its members. Even small acts of community involvement—helping a neighbor, participating in local events, or simply being a considerate citizen—contribute to social cohesion in ways that tax money cannot.\n\nIn conclusion, the most responsible members of society combine financial contributions through taxes with some level of active community engagement, recognizing that both are necessary for a thriving society.",
+    "uzSampleBand5": "<p>Ba'zi odamlar soliqlarini to'lashsa, <mark>jamiyat uchun boshqa narsalar qilishga hojat yo'q deb hisoblashadi</mark>. Boshqa odamlar soliq to'lash yetarli emas deb o'ylashadi. Ushbu insho bu bahsning ikkala tomoni haqida gapiradi va keyin o'z fikrimni bildiradi.</p>\n\n<p>Bir tomondan, soliq to'lash juda muhim. Hukumat bu pulni maktablar, kasalxonalar va yo'llar uchun to'lash uchun ishlatadi. <mark>Agar odamlar soliq to'lamasa</mark>, bu narsalar amalga oshmaydi. Shuningdek, ba'zi odamlar o'z ishlari va oilalari bilan band ekanliklarini, shuning uchun jamiyat uchun boshqa narsalar qilishga vaqtlari yo'qligini o'ylashadi. Soliq to'lash ularning yordam berish usuli.</p>\n\n<p>Biroq, odamlar o'z jamiyatlariga yordam berish uchun qila oladigan boshqa narsalar ham bor. Misol uchun, ular muhtoj odamlarga yordam berish uchun o'z vaqtlarini ko'ngilli ravishda sarflashlari mumkin. Ular xayriya tashkilotlariga pul ham xayriya qilishlari mumkin. <mark>Shuningdek, odamlar</mark> axlatlarni yig'ishtirib, jinoyatlar haqida xabar berish orqali o'z jamoalarini toza va xavfsiz saqlashga yordam berishlari mumkin. Bu narsalar har bir kishi uchun hayot sifatiga katta ta'sir ko'rsatishi mumkin. Odamlar yaxshi qo'shnilar bo'lishlari va bir-birlariga yordam berishlari ham mumkin.</p>\n\n<p>Mening fikrimcha, soliq to'lash muhim bo'lsa-da, bu odamlarning yagona mas'uliyati emas. <mark>Menimcha, odamlar jamiyatga yordam berish uchun boshqa narsalar qilishga harakat qilishlari kerak</mark>, hatto bu kichik narsa bo'lsa ham. Har bir kichik narsa yordam beradi va bu boshqa odamlarning hayotiga katta ta'sir ko'rsatishi mumkin. Shunday qilib, soliq to'lashdan ko'ra ko'proq yo'llar bilan yaxshi fuqaro bo'lish muhim.</p>",
+    "uzSampleBand6": "<p>Ko'pincha fuqarolarning jamiyat oldidagi yagona mas'uliyati soliq to'lashmi yoki ular boshqa yo'llar bilan ham hissa qo'shish kerakmi, degan savol muhokama qilinadi. Soliq to'lash, shubhasiz, muhim bo'lsa-da, menimcha, shaxslar jamiyat a'zosi sifatida qo'shimcha majburiyatlarga ega.</p>\n\n<p>Bir tomondan, soliq to'lash kifoya degan argumentda ma'lum asos bor. Soliqlar sog'liqni saqlash, ta'lim va infratuzilma kabi muhim davlat xizmatlarini moliyalashtirishning asosiy manbai hisoblanadi. Yetarli soliq tushumlari bo'lmasa, hukumatlar barcha fuqarolarning <mark>farovonligi uchun zarur</mark> bo'lgan ushbu hayotiy xizmatlarni ko'rsatishda qiynaladi. Bundan tashqari, ba'zi odamlar o'z ishlari va bizneslari orqali jamiyatga hissa qo'shishlarini, bu esa ish o'rinlarini yaratadi va iqtisodiy o'sishga olib keladi, deb ta'kidlaydi. <mark>Shu nuqtai nazardan</mark>, soliq to'lash shunchaki kengroq hissaning moliyaviy qismidir.</p>\n\n<p>Biroq, shaxslar soliq to'lashdan tashqari jamiyatga hissa qo'shishning ko'plab usullari mavjud. Muhtojlarga yordam berish uchun vaqtni ixtiyoriy ravishda sarflash, jamoat loyihalarida ishtirok etish yoki <mark>hatto shunchaki</mark> yaxshi qo'shni bo'lish ham sezilarli ijobiy ta'sir ko'rsatishi mumkin. Misol uchun, mahalliy oshxonada ixtiyoriy ravishda ishlash uysizlar uchun ovqat tayyorlab berishi mumkin, atrof-muhitni tozalash tashabbuslarida ishtirok etish esa atrof-muhitni himoya qilishga yordam beradi. <mark>Bunday harakatlar</mark> jamoatchilik tuyg'usini kuchaytiradi va hamma uchun hayot sifatini yaxshilaydi. Bundan tashqari, ba'zi odamlar katta soliq to'lash uchun yetarli darajada pul topmasligi mumkin, ammo ular o'z vaqti va sa'y-harakatlari bilan sezilarli hissa qo'shishlari mumkin.</p>\n\n<p>Xulosa qilib aytganda, soliq to'lash muhim fuqarolik burchi bo'lsa-da, uni shaxslarning yagona mas'uliyati sifatida ko'rish kerak emas. <mark>Menimcha</mark>, sog'lom jamiyat o'z a'zolarining turli yo'llar bilan, ham moliyaviy, ham nomoliyaviy faol ishtirokini talab qiladi. O'z vaqtimiz, mahoratimiz va resurslarimizni hissa qo'shish orqali biz hamma uchun yanada jonli va adolatli jamiyat yarata olamiz. Yordam berish uchun <mark>qo'limizdan kelganini qilishga harakat qilish</mark> muhim.</p>",
+    "uzSampleBand7": "<p>Ko'pincha soliq to'lash jamiyat a'zosi sifatida o'z burchini bajarish uchun yetarli, degan fikr bildiriladi. Men soliqlar davlat xizmatlarini moliyalashtirish uchun muhimligini tan olsam-da, fuqarolar shunchaki moliyaviy hissa qo'shishdan tashqari <mark>kengroq doiradagi mas'uliyatlarga</mark> ega, deb hisoblayman.</p>\n\n<p>Bir tomondan, soliqlar yetarli degan argument shunga asoslanadiki, ular hukumatlar uchun zarur xizmatlarni moliyalashtirishning asosiy mexanizmidir. Sog'liqni saqlash, ta'lim va infratuzilma kabi bu xizmatlar jamiyatning barcha a'zolariga foyda keltiradi. Shuning uchun, soliqlarini vijdonan to'lash orqali, shaxslar <mark>bilvosita umumiy farovonlikka hissa qo'shmoqda</mark>. Bundan tashqari, ba'zilar shaxsiy daromadlarini o'zlari xohlaganidek sarflash huquqiga ega va qo'shimcha mas'uliyat yuklash ularning shaxsiy erkinligini cheklash bo'ladi, deb bahslashishi mumkin. Shuning uchun, soliq to'lash <mark>adil va oqilona</mark> hissa sifatida ko'rilishi mumkin.</p>\n\n<p>Biroq, jamiyatga qo'shadigan hissasini faqat soliq to'lash bilan cheklash faol fuqarolik va jamiyatda ishtirok etish muhimligini e'tibordan chetda qoldiradi. Ko'ngillilik, mahalliy boshqaruvda ishtirok etish va o'zining kasbiy va shaxsiy hayotida <mark>axloqiy me'yorlarga rioya qilish</mark> kabi mas'uliyatlar sog'lom va rivojlangan jamiyat uchun juda muhimdir. Misol uchun, kam ta'minlanganlarga yordam berish uchun vaqtni ko'ngillilik asosida sarflash faqat soliqlar bilan hal qilib bo'lmaydigan ijtimoiy tengsizliklarni bartaraf etishi mumkin. Xuddi shunday, xabardor siyosiy bahslarda ishtirok etish va mas'uliyat bilan ovoz berish hukumatlar javobgar bo'lishini va siyosatlar aholining ehtiyojlarini aks ettirishini ta'minlaydi. Bundan tashqari, boshqalarga nisbatan oddiy mehribonlik va hurmat harakatlari <mark>jamiyat tuyg'usini kuchaytirishi</mark> va ijtimoiy birdamlikni mustahkamlashi mumkin.</p>\n\n<p>Mening fikrimcha, soliq to'lash, shubhasiz, fundamental majburiyat bo'lsa-da, u mas'uliyatli fuqaroning yagona o'lchovi emas. Jamiyatning chinakam faol a'zosi o'z jamiyatida faol ishtirok etadi, turli yo'llar bilan <mark>umumiy farovonlikka hissa qo'shadi</mark> va boshqalarning hayotiga ijobiy ta'sir ko'rsatishga intiladi. Soliqlar funksional jamiyat uchun moliyaviy asosni ta'minlaydi, lekin uning kuchini va chidamliligini <mark>haqiqatan ham belgilaydigan</mark> narsa uning fuqarolarining jamoaviy sa'y-harakatlari va fuqarolik ishtirokidir.</p>",
+    "uzSampleBand8": "<p>Ko'pincha, soliq to'lash jamiyatga etarli darajada hissa qo'shishmi yoki fuqarolar ushbu moliyaviy majburiyatdan tashqari boshqa mas'uliyatlarga ham egami, degan savol muhokama qilinadi. Soliq to'lash har qanday zamonaviy davlatning faoliyati uchun inkor etib bo'lmaydigan darajada muhim bo'lsa-da, men shaxslar o'z jamoalarining farovonligiga hissa qo'shishda yanada kengroq rol o'ynashi kerak, deb hisoblayman.</p>\n\n<p>Soliq to'lash yetarli, deb hisoblovchilar soliqlar orqali moliyalashtiriladigan muhim xizmatlarni ta'kidlaydilar. Ushbu xizmatlar <mark>keng doirani qamrab oladi</mark>, infratuzilmani rivojlantirish va davlat sog'liqni saqlash tizimidan tortib ta'lim va ijtimoiy ta'minot dasturlarigacha. Yetarli soliq tushumlari bo'lmasa, hukumatlar ushbu asosiy ehtiyojlarni ta'minlashda qiynaladilar, bu esa ijtimoiy beqarorlikka va hayot sifatining pasayishiga olib keladi. Bundan tashqari, moliyaviy hissa qo'shish shaxslarga o'z manfaatlarini va tajribalarini amalga oshirishga imkon beradi, shu bilan iqtisodiy faoliyat va innovatsiyalar orqali jamiyatga bilvosita hissa qo'shadi, deb ta'kidlash mumkin. <mark>Aslida</mark>, ular o'zlarining asosiy burchlari iqtisodiy ishtirok va soliq to'lash orqali bajariladi, deb hisoblashadi.</p>\n\n<p>Biroq, bu nuqtai nazar ijtimoiy farovonlikning ko'p qirrali tabiatini e'tiborsiz qoldiradi. Sog'lom jamiyat faqat moliyaviy hissa bilan cheklanib qolmaydi; u faol ishtirok, fuqarolik faolligi va jamoaviy mas'uliyat tuyg'usida rivojlanadi. Misol uchun, mahalliy jamoalarda ko'ngilli bo'lish, ekologik tashabbuslarda ishtirok etish yoki oddiygina mas'uliyatli va e'tiborli qo'shni bo'lish ijtimoiy tuzilmani sezilarli darajada yaxshilashi mumkin. Bundan tashqari, shaxslar hukumatlarini javobgarlikka tortish, soliq tushumlaridan samarali va axloqiy foydalanishni ta'minlash mas'uliyatiga ega. <mark>Bu zarurat tug'diradi</mark> demokratik jarayonda faol ishtirok etishni, masalan, ovoz berish va davlat siyosati bo'yicha asosli bahslarda qatnashish. Ushbu mas'uliyatlarni e'tiborsiz qoldirish befarqlikka va <mark>fuqarolik fazilatlarining pasayishiga</mark> olib kelishi mumkin, bu esa soliqlar qo'llab-quvvatlash uchun mo'ljallangan jamiyatga putur etkazadi.</p>\n\n<p>Mening fikrimcha, soliq to'lash muhim majburiyat bo'lsa-da, u ijtimoiy hissaning faqat asosiy qismini ifodalaydi. <mark>Haqiqatan ham gullab-yashnayotgan jamiyat</mark> faqat moliyaviy hissa bilan cheklanib qolmaydi; u o'z vaqtini, ko'nikmalarini va energiyasini umumiy manfaatlar yo'lida sarflashga tayyor bo'lgan faol, ishtirokchi fuqarolarni talab qiladi. <mark>Bu sinergik yondashuv orqali</mark> - moliyaviy hissalarni faol ishtirok bilan birlashtirish orqali - biz yanada kuchliroq, bardoshliroq va adolatliroq jamoalarni qura olamiz. <mark>O'z vazifalarimizni faqat moliyaviy hissalarga bog'lash</mark> bizning ijobiy o'zgarishlarga ta'sir o'tkazish va hamma uchun yanada yorqin jamiyatni rivojlantirish imkoniyatimizni kamaytirishdir. <mark>Oxir-oqibat, ijtimoiy taraqqiyot</mark> moliyaviy mas'uliyat va faol fuqarolikka bo'lgan jamoaviy sadoqatga bog'liq.</p>",
+    "uzSampleBand9": "<p>Jamiyatga yetarli darajada hissa qo'shish nimani anglatishi masalasi ko'p qirrali. Ba'zilar soliq to'lash majburiyatini bajarish yetarli deb hisoblasa, boshqalar fuqarolar zimmasida kengroq mas'uliyat borligini ta'kidlaydi. Ikkala nuqtai nazar ham o'rinli va rivojlangan jamiyat uchun muvozanatli yondashuv juda muhim. <mark>Ushbu insho o'z fikrimni bildirishdan oldin ikkala nuqtai nazarni ham o'rganib chiqadi</mark>.</p>\n\n<p>Soliq to'lash yetarli hissa degan argument soliqqa tortish muhim davlat xizmatlarini moliyalashtirishga asoslanadi. Soliqlar yo'llar va ko'priklar kabi infratuzilma loyihalarini moliyalashtiradi, ta'lim va sog'liqni saqlash tizimlarini qo'llab-quvvatlaydi va zaif qatlamlar uchun ijtimoiy ta'minot dasturlarini taqdim etadi. Shu nuqtai nazardan, soliqlarini vijdonan to'laydigan shaxslar <mark>amalda jamiyatning asosiy tuzilishini moliyalashtirmoqda</mark>, uning faoliyat yuritishi va rivojlanishiga imkon beradi. Bundan tashqari, ba'zilar shaxslar o'z manfaatlarini ko'zlash huquqiga ega bo'lishi va ularni qo'shimcha fuqarolik burchlarini bajarishga majburlash ularning shaxsiy avtonomiyasiga tajovuz qilishini ta'kidlashi mumkin. <mark>Bu pozitsiya shaxsiy erkinlik va hukumatning cheklangan aralashuvini himoya qiladi</mark>.</p>\n\n<p>Biroq, qarama-qarshi nuqtai nazar jamiyatga qo'shiladigan hissa faqat pul majburiyatlaridan tashqari ekanligini ta'kidlaydi. Jamiyat tashabbuslarida faol ishtirok etish, xayriya ishlariga vaqt ajratish va xabardor fuqarolik munozaralarida qatnashish mas'uliyatli fuqarolikning muhim tarkibiy qismlari hisoblanadi. Bunday harakatlar <mark>kollektiv mas'uliyat tuyg'usini rivojlantiradi</mark> va ijtimoiy aloqalarni mustahkamlaydi. Bundan tashqari, qashshoqlik, tengsizlik va atrof-muhitning buzilishi kabi dolzarb ijtimoiy muammolarni hal qilish ko'pincha oddiy moliyaviy hissadan tashqariga chiqadigan hamkorlikdagi sa'y-harakatlarni talab qiladi. Misol uchun, mahalliy atrof-muhitni tozalash aksiyalarida ishtirok etish yoki imkoniyati cheklangan yoshlarga murabbiylik qilish jamiyat farovonligiga to'g'ridan-to'g'ri va aniq sarmoyani anglatadi. <mark>Bu sa'y-harakatlar ijtimoiy birdamlikni mustahkamlaydi va faqat soliq tushumlari bilan hal qilib bo'lmaydigan ehtiyojlarni qondiradi</mark>.</p>\n\n<p>Mening fikrimcha, soliq to'lash, shubhasiz, fundamental majburiyat bo'lsa-da, bu jamiyatga qo'shilgan hissaning yagona o'lchovi emas. Sog'lom jamiyat jamiyat ehtiyojlarini qondirish uchun o'z vaqtini, mahoratini va resurslarini sarflashga tayyor bo'lgan faol va jalb qilingan fuqarolarni talab qiladi. <mark>Sinergetik yondashuv</mark>, moliyaviy hissani faol fuqarolik ishtiroki bilan birlashtirish, rivojlangan va adolatli jamiyatni shakllantirish uchun zarurdir. Hamma ham barcha sohalarda teng hissa qo'sha olmasa-da, <mark>umumiy mas'uliyat tuyg'usini rivojlantirish</mark> va turli xil ishtirok shakllarini rag'batlantirish muhim ahamiyatga ega. Oxir oqibat, jamiyat nafaqat yig'adigan soliqlari bilan, balki a'zolarining yaxshiroq kelajak qurishga bo'lgan umumiy sadoqati bilan rivojlanadi. <mark>Aynan moliyaviy mas'uliyat va fuqarolik ishtirokining uyg'unligi gullab-yashnayotgan jamiyatni chinakam belgilaydi</mark>.</p>"
+   }
+  },
+  "source": "IDP IELTS",
+  "examDate": "2021-09-18",
+  "settings": {
+   "timeInfo": "60 Minutes",
+   "moduleTitle": "Academic Writing Module",
+   "testIdentifier": "Mock 30"
+  },
+  "vocabulary": {
+   "task1": [
+    {
+     "term": "Modernized",
+     "meaning": "Made modern in appearance, style, or technology."
+    },
+    {
+     "term": "Conventional layout",
+     "meaning": "A traditional or standard arrangement."
+    },
+    {
+     "term": "Periodicals area",
+     "meaning": "A section for magazines, journals, and newspapers."
+    },
+    {
+     "term": "Workstations",
+     "meaning": "Desks or areas equipped with computers for work."
+    },
+    {
+     "term": "Substantially",
+     "meaning": "To a great or significant extent."
+    },
+    {
+     "term": "Relocated",
+     "meaning": "Moved to a different place."
+    },
+    {
+     "term": "Collaborative learning",
+     "meaning": "An educational approach where students work together."
+    },
+    {
+     "term": "Digital resources",
+     "meaning": "Electronic information and materials."
+    }
+   ],
+   "task2": [
+    {
+     "term": "Civic responsibility",
+     "meaning": "The duties and obligations of citizens toward their community."
+    },
+    {
+     "term": "Social obligations",
+     "meaning": "Duties owed to society at large."
+    },
+    {
+     "term": "Public services",
+     "meaning": "Services provided by the government for all citizens."
+    },
+    {
+     "term": "Social welfare programs",
+     "meaning": "Government initiatives to help those in need."
+    },
+    {
+     "term": "Political participation",
+     "meaning": "Involvement in the political process, such as voting."
+    },
+    {
+     "term": "Social cohesion",
+     "meaning": "The bonds that bring society members together."
+    },
+    {
+     "term": "Community engagement",
+     "meaning": "Active involvement in local community activities."
+    },
+    {
+     "term": "Thriving society",
+     "meaning": "A community that is prosperous and successful."
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "Overall": {
+    "uz": "Umuman olganda",
+    "type": "linking"
+   },
+   "Notably,": {
+    "uz": "E'tiborga molik,",
+    "type": "linking"
+   },
+   "Overall,": {
+    "uz": "Umuman olganda,",
+    "type": "linking"
+   },
+   "try to do": {
+    "uz": "qilishga harakat qilish",
+    "type": "colloc"
+   },
+   "In essence": {
+    "uz": "Aslida",
+    "type": "linking"
+   },
+   "used to be": {
+    "uz": "ilgari edi",
+    "type": "colloc"
+   },
+   "In contrast": {
+    "uz": "Farqli o'laroq",
+    "type": "linking"
+   },
+   "even simply": {
+    "uz": "hatto oddiygina",
+    "type": "colloc"
+   },
+   "on the left": {
+    "uz": "chap tomonda",
+    "type": "colloc"
+   },
+   "is not there": {
+    "uz": "u yerda yo'q",
+    "type": "colloc"
+   },
+   "It is evident": {
+    "uz": "Bu aniq",
+    "type": "colloc"
+   },
+   "in the corner": {
+    "uz": "burchakda",
+    "type": "colloc"
+   },
+   "repurposed as": {
+    "uz": "sifatida qayta maqsadga yo'naltirildi",
+    "type": "colloc"
+   },
+   "I believe that": {
+    "uz": "Men ishonamanki",
+    "type": "colloc"
+   },
+   "is still there": {
+    "uz": "hali ham u yerda",
+    "type": "colloc"
+   },
+   "Also people can": {
+    "uz": "Shuningdek, odamlar qila oladi",
+    "type": "colloc"
+   },
+   "concentrated in": {
+    "uz": "da jamlangan",
+    "type": "colloc"
+   },
+   "is different now": {
+    "uz": "hozir boshqacha",
+    "type": "colloc"
+   },
+   "show the changes": {
+    "uz": "o'zgarishlarni ko'rsatish",
+    "type": "colloc"
+   },
+   "A key development": {
+    "uz": "Asosiy oʻzgarish",
+    "type": "lexical"
+   },
+   "These alterations": {
+    "uz": "Bu o'zgarishlar",
+    "type": "colloc"
+   },
+   "This necessitates": {
+    "uz": "Bu talab qiladi",
+    "type": "academic"
+   },
+   "In stark contrast,": {
+    "uz": "Keskin farqli o'laroq,",
+    "type": "linking"
+   },
+   "fair and reasonable": {
+    "uz": "adolatliva asosli",
+    "type": "colloc"
+   },
+   "From this perspective": {
+    "uz": "Shu nuqtai nazardan",
+    "type": "linking"
+   },
+   "One striking addition": {
+    "uz": "Bir ajoyib qo'shimcha",
+    "type": "colloc"
+   },
+   "catering to the needs": {
+    "uz": "ehtiyojlarni qondirish",
+    "type": "colloc"
+   },
+   "increased reliance on": {
+    "uz": "ga ortib borayotgan ishonch",
+    "type": "colloc"
+   },
+   "A synergistic approach": {
+    "uz": "Sinergetik yondashuv",
+    "type": "lexical"
+   },
+   "These kinds of actions": {
+    "uz": "Bu kabi harakatlar",
+    "type": "colloc"
+   },
+   "Overall, it can be seen": {
+    "uz": "Umuman olganda, ko'rish mumkin",
+    "type": "linking"
+   },
+   "indirectly contributing": {
+    "uz": "bilvosita hissa qo'shish",
+    "type": "colloc"
+   },
+   "noticeable reduction in": {
+    "uz": "da sezilarli kamayish",
+    "type": "colloc"
+   },
+   "A truly thriving society": {
+    "uz": "Haqiqatan ham gullab-yashnayotgan jamiyat",
+    "type": "lexical"
+   },
+   "catering to the needs of": {
+    "uz": "ning ehtiyojlarini qondirish",
+    "type": "colloc"
+   },
+   "significant modification": {
+    "uz": "sezilarli o'zgartirish",
+    "type": "colloc"
+   },
+   "taking up only a section": {
+    "uz": "faqat bir qismini egallaydi",
+    "type": "colloc"
+   },
+   "If people did not pay tax": {
+    "uz": "Agar odamlar soliq to'lamasalar",
+    "type": "colloc"
+   },
+   "a decline in civic virtue": {
+    "uz": "fuqarolik fazilatlarining pasayishi",
+    "type": "lexical"
+   },
+   "encompass a wide spectrum": {
+    "uz": "keng spektrni o'z ichiga oladi",
+    "type": "lexical"
+   },
+   "reflecting a shift towards": {
+    "uz": "ga tomon siljishni aks ettiruvchi",
+    "type": "academic"
+   },
+   "foster a sense of community": {
+    "uz": "jamiyat hissini uyg'otish",
+    "type": "colloc"
+   },
+   "upholding ethical standards": {
+    "uz": "axloqiy me'yorlarga rioya qilish",
+    "type": "academic"
+   },
+   "necessary for the well-being": {
+    "uz": "farovonlik uchun zarur",
+    "type": "colloc"
+   },
+   "contributes to the common good": {
+    "uz": "umumiy manfaatlarga hissa qo'shadi",
+    "type": "colloc"
+   },
+   "illustrate the transformations": {
+    "uz": "o'zgarishlarni ko'rsatadi",
+    "type": "colloc"
+   },
+   "predominantly characterized by": {
+    "uz": "asosan bilan tavsiflanadi",
+    "type": "academic"
+   },
+   "a dedicated area for group study": {
+    "uz": "guruhli mashg'ulotlar uchun ajratilgan joy",
+    "type": "colloc"
+   },
+   "Notably, the library now includes": {
+    "uz": "E'tiborga molik, kutubxona endi o'z ichiga oladi",
+    "type": "colloc"
+   },
+   "streamlines the borrowing process": {
+    "uz": "qarz olish jarayonini soddalashtiradi",
+    "type": "colloc"
+   },
+   "they don't need to do other things": {
+    "uz": "ularga boshqa narsalarni qilish kerak emas",
+    "type": "colloc"
+   },
+   "Furthermore, a dedicated study area": {
+    "uz": "Bundan tashqari, maxsus o'quv maydoni",
+    "type": "colloc"
+   },
+   "a broader range of responsibilities": {
+    "uz": "kengroq mas'uliyat doirasi",
+    "type": "lexical"
+   },
+   "become much more conducive to studying": {
+    "uz": "o'qish uchun ancha qulayroq bo'lib qoldi",
+    "type": "colloc"
+   },
+   "It is through this synergistic approach": {
+    "uz": "Aynan shu sinergetik yondashuv orqali",
+    "type": "academic"
+   },
+   "Ultimately, societal progress hinges on": {
+    "uz": "Oxir oqibat, jamiyat taraqqiyoti bog'liq",
+    "type": "academic"
+   },
+   "foster a sense of collective responsibility": {
+    "uz": "jamoaviy mas'uliyat hissini uyg'otish",
+    "type": "academic"
+   },
+   "truly determine its strength and resilience": {
+    "uz": "uning kuchini va chidamliligini haqiqatan ham belgilaydi",
+    "type": "academic"
+   },
+   "cultivating a sense of shared responsibility": {
+    "uz": "umumiy mas'uliyat hissini shakllantirish",
+    "type": "academic"
+   },
+   "I think that people should try to do other things": {
+    "uz": "O'ylaymanki, odamlar boshqa narsalarni qilishga harakat qilishlari kerak",
+    "type": "colloc"
+   },
+   "effectively underwriting the very fabric of society": {
+    "uz": "jamiyatning asosiy tuzilishini samarali ravishda kafolatlash",
+    "type": "academic"
+   },
+   "To relegate our duties solely to fiscal contributions": {
+    "uz": "Vazifalarimizni faqat moliyaviy hissalarga topshirish",
+    "type": "academic"
+   },
+   "Overall, the library underwent significant renovations": {
+    "uz": "Umuman olganda, kutubxona sezilarli ta'mirdan o'tdi",
+    "type": "colloc"
+   },
+   "These alterations indicate a modernization of the library": {
+    "uz": "Bu o'zgarishlar kutubxonaning modernizatsiya qilinganligini ko'rsatadi",
+    "type": "colloc"
+   },
+   "This essay will explore both viewpoints before offering my own opinion": {
+    "uz": "Ushbu insho o'z fikrimni bildirishdan oldin ikkala nuqtai nazarni ham o'rganadi",
+    "type": "academic"
+   },
+   "This position champions individual liberty and limited government intervention": {
+    "uz": "Bu pozitsiya shaxsiy erkinlik va hukumatning cheklangan aralashuvini qo'llab-quvvatlaydi",
+    "type": "academic"
+   },
+   "These endeavors promote social cohesion and address needs that tax revenue alone cannot resolve": {
+    "uz": "Bu harakatlar ijtimoiy birdamlikni mustahkamlaydi va faqat soliq tushumlari bilan hal qilib bo'lmaydigan ehtiyojlarni qondiradi",
+    "type": "academic"
+   },
+   "It is the confluence of fiscal responsibility and civic engagement that truly defines a flourishing society": {
+    "uz": "Gullab-yashnayotgan jamiyatni haqiqatan ham belgilaydigan narsa bu moliyaviy mas'uliyat va fuqarolik ishtirokining uyg'unligidir.",
+    "type": "academic"
+   }
+  }
+ },
+ "created_at": "2026-05-06T17:29:10.235477+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

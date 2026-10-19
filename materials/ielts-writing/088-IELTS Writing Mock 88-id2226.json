@@ -1,0 +1,235 @@
+{
+ "id": 2226,
+ "mock_type": "ielts-writing",
+ "mock_number": 88,
+ "title": "IELTS Writing Mock 88",
+ "status": "published",
+ "mock_data": {
+  "tasks": {
+   "task1": {
+    "title": "CO2 emissions and population share by income group",
+    "prompt": "The bar chart and pie chart show the amount of carbon dioxide (CO2) emitted by three different income groups in 1990 and 2000, and the proportion of the world's population represented by each income group in 2000.",
+    "wordGoal": 150,
+    "chartDesc": {
+     "title": "Carbon dioxide emissions by different income groups",
+     "visuals": [
+      {
+       "kind": "bar chart",
+       "xAxis": "",
+       "yAxis": "Metric tonnes",
+       "series": [
+        {
+         "name": "1990",
+         "points": [
+          {
+           "at": "High income group",
+           "value": 70
+          },
+          {
+           "at": "Middle income group",
+           "value": 15
+          },
+          {
+           "at": "Low income group",
+           "value": 13
+          }
+         ]
+        },
+        {
+         "name": "2000",
+         "points": [
+          {
+           "at": "High income group",
+           "value": 60
+          },
+          {
+           "at": "Middle income group",
+           "value": 22
+          },
+          {
+           "at": "Low income group",
+           "value": 22
+          }
+         ]
+        }
+       ],
+       "caption": "The bar chart shows the amount of carbon dioxide released into the atmosphere by different income groups in 1990 and 2000."
+      },
+      {
+       "kind": "pie chart",
+       "xAxis": "",
+       "yAxis": "",
+       "series": [
+        {
+         "name": "Percentage of world's population in 2000",
+         "points": [
+          {
+           "at": "High income group",
+           "value": 48
+          },
+          {
+           "at": "Middle income group",
+           "value": 34
+          },
+          {
+           "at": "Low income group",
+           "value": 18
+          }
+         ]
+        }
+       ],
+       "caption": "The pie chart shows the percentage of the world's population represented by each income group in 2000."
+      }
+     ],
+     "overview": "Overall, the high income group produced the vast majority of carbon dioxide emissions in both 1990 and 2000, despite comprising less than half of the world's population in 2000. Additionally, emissions from the high income group decreased over the decade, whereas emissions from the middle and low income groups both experienced an increase.",
+     "chartType": "mixed",
+     "confidence": "high",
+     "unreadable": [],
+     "keyFeatures": [
+      "High income group released the most carbon dioxide: 70 metric tonnes in 1990 and 60 metric tonnes in 2000 (bar chart).",
+      "Middle income group emissions rose from 15 to 22 metric tonnes between 1990 and 2000 (bar chart).",
+      "Low income group emissions rose from 13 to 22 metric tonnes between 1990 and 2000 (bar chart).",
+      "In 2000, the high income group made up 48% of the global population, the middle income group accounted for 34%, and the low income group represented 18% (pie chart)."
+     ]
+    },
+    "chartType": "mixed",
+    "dataNature": "dynamic",
+    "instruction": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+    "sampleBand5": "",
+    "sampleBand6": "",
+    "sampleBand7": "",
+    "sampleBand8": "<p>The bar chart shows how much carbon dioxide three income groups released in 1990 and 2000, measured in metric tonnes, while the pie chart shows each group's share of the world's population in 2000.</p>\n<p>Overall, the high-income group produced <mark>the overwhelming majority</mark> of emissions in both years, even though its output fell, whereas the middle- and low-income groups <mark>emitted</mark> far less but were both <mark>on an upward path</mark>. Emissions were also strikingly <mark>out of proportion</mark> to population size.</p>\n<p>In 1990, high-income countries released 70 metric tonnes of CO2, roughly five times the middle-income figure of 15 and the low-income figure of 13. By 2000 the high-income total had <mark>declined</mark> to 60 tonnes, but it was still almost <mark>triple</mark> the amount produced by either of the other groups, whose emissions <mark>converged</mark> at 22 tonnes each after rising by about half.</p>\n<p>The pie chart <mark>puts these figures in context</mark>. In 2000 the high-income group <mark>accounted for</mark> 48% of the world's population while producing roughly 60% of the emissions shown. The contrast was sharpest for the low-income group, whose 18% share of population matched the middle-income group's output <mark>per head</mark> far less favourably: with only 18% of people it emitted as much as the middle group, which represented 34% of the world's population.</p>",
+    "sampleBand9": "",
+    "timeMinutes": 20,
+    "chartDescImg": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/88.png",
+    "sampleAnswer": "",
+    "chartImageUrl": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/88.png",
+    "uzSampleBand5": "",
+    "uzSampleBand6": "",
+    "uzSampleBand7": "",
+    "uzSampleBand8": "<p>Ustunli diagramma uch daromad guruhi 1990 va 2000-yillarda qancha karbonat angidrid chiqarganini metrik tonnalarda ko'rsatadi, doiraviy diagramma esa 2000-yilda har bir guruhning dunyo aholisidagi ulushini aks ettiradi.</p>\n<p>Umuman olganda, yuqori daromadli guruh har ikkala yilda ham chiqindilarning <mark>mutlaq ko'pchiligini</mark> ishlab chiqargan — garchi uning hajmi kamaygan bo'lsa-da — o'rta va past daromadli guruhlar esa ancha kam <mark>chiqargan</mark>, biroq ikkalasi ham <mark>o'sish yo'lida</mark> edi. Chiqindilar aholi soniga nisbatan ham hayratlanarli darajada <mark>nomutanosib</mark> bo'lgan.</p>\n<p>1990-yilda yuqori daromadli mamlakatlar 70 metrik tonna CO2 chiqargan — bu o'rta daromadlilarning 15 va past daromadlilarning 13 tonnasidan qariyb besh baravar ko'p. 2000-yilga kelib yuqori daromadlilar jami ko'rsatkichi 60 tonnagacha <mark>kamaydi</mark>, biroq bu boshqa ikki guruhning har biridan hali ham deyarli <mark>uch baravar</mark> ko'p edi: ularning chiqindilari taxminan yarmiga o'sib, 22 tonnadan bo'lib <mark>bir nuqtada birlashdi</mark>.</p>\n<p>Doiraviy diagramma bu raqamlarni <mark>kontekstga joylashtiradi</mark>. 2000-yilda yuqori daromadli guruh dunyo aholisining 48 foizini <mark>tashkil etgan</mark> holda ko'rsatilgan chiqindilarning taxminan 60 foizini ishlab chiqargan. Eng keskin farq past daromadli guruhda kuzatildi: aholining atigi 18 foizini tashkil etgan holda u dunyo aholisining 34 foizini ifodalagan o'rta guruh bilan bir xil miqdorda chiqindi chiqardi — demak <mark>jon boshiga</mark> hisoblaganda ancha ko'p.</p>",
+    "uzSampleBand9": "",
+    "chartDescSource": "extracted-verified-2026-08-05"
+   },
+   "task2": {
+    "title": "Violent films and computer games: ban or harmless fun?",
+    "prompt": "Films and computer games that contain violence are very popular. Some people believe they have a negative effect on society and should therefore be banned. Others, however, say they are harmless and help people to relax. Discuss both views and give your own opinion.",
+    "wordGoal": 250,
+    "essayType": "balanced",
+    "instruction": "Give reasons for your answer and include any relevant examples from your own knowledge or experience.",
+    "sampleBand5": "",
+    "sampleBand6": "",
+    "sampleBand7": "",
+    "sampleBand8": "<p>Violent films and computer games attract enormous audiences, and opinion is split between those who want them <mark>banned</mark> for harming society and those who see them as harmless <mark>entertainment</mark>. I believe both positions overstate their case: such material deserves strict regulation rather than prohibition.</p>\n<p>Those who favour a ban argue that a constant diet of on-screen violence <mark>desensitises</mark> people, especially children, making <mark>aggression</mark> seem a normal way to solve problems. They point to cases in which offenders <mark>imitated</mark> scenes from games or films, and note that children can now access <mark>graphic content</mark> long before they can judge it critically. If these products genuinely damage society, the argument runs, banning them is as logical as banning any other harmful product.</p>\n<p>The opposing camp replies that hundreds of millions of players and viewers enjoy violent titles without ever hurting anyone, and that decades of research have failed to prove any direct <mark>causal link</mark> between fictional and real violence. For many adults, an action film or shooter game is simply a way to <mark>let off steam</mark> after work. A ban would also restrict artistic freedom, punish the responsible majority for the actions of a tiny minority, and in practice merely <mark>drive the material underground</mark>.</p>\n<p>In my view, the second position is closer to the truth, but it underestimates the risk to children. The sensible policy is therefore robust <mark>age ratings</mark>, enforced sales restrictions and parental controls, combined with media education — protecting the vulnerable without denying adults the freedom to choose what they watch and play.</p>",
+    "sampleBand9": "",
+    "timeMinutes": 40,
+    "sampleAnswer": "",
+    "uzSampleBand5": "",
+    "uzSampleBand6": "",
+    "uzSampleBand7": "",
+    "uzSampleBand8": "<p>Zo'ravonlik aks etgan filmlar va kompyuter o'yinlari ulkan auditoriyani jalb qiladi va fikrlar ularni jamiyatga zarar yetkazgani uchun <mark>taqiqlashni</mark> istaydiganlar bilan ularni bezarar <mark>ermak</mark> deb biladiganlar o'rtasida bo'lingan. Menimcha, ikkala pozitsiya ham o'z dalilini bo'rttiradi: bunday material taqiqqa emas, qat'iy tartibga solishga loyiq.</p>\n<p>Taqiq tarafdorlari ekrandagi zo'ravonlikning doimiy \"ratsioni\" odamlarni, ayniqsa bolalarni <mark>befarq qilib qo'yishini</mark> va <mark>tajovuzkorlikni</mark> muammo hal qilishning odatiy yo'lidek ko'rsatishini ta'kidlaydi. Ular jinoyatchilar o'yin yoki filmlardagi sahnalarga <mark>taqlid qilgan</mark> holatlarni misol keltiradi va bolalar endi <mark>shafqatsiz kontentga</mark> uni tanqidiy baholay olishidan ancha oldin kira olishini aytadi. Agar bu mahsulotlar jamiyatga chindan zarar yetkazsa, ularni taqiqlash boshqa har qanday zararli mahsulotni taqiqlash kabi mantiqiydir, deydi bu qarash.</p>\n<p>Qarshi lager esa yuzlab million o'yinchi va tomoshabin hech kimga zarar yetkazmasdan zo'ravon asarlardan zavq olishini va o'nlab yillik tadqiqotlar xayoliy zo'ravonlik bilan haqiqiysi o'rtasida to'g'ridan-to'g'ri <mark>sababiy bog'liqlikni</mark> isbotlay olmaganini aytadi. Ko'plab kattalar uchun jangari film yoki otishma o'yini — ishdan keyin shunchaki <mark>hordiq chiqarish</mark> usuli. Taqiq ijodiy erkinlikni ham cheklab, mas'uliyatli ko'pchilikni ozchilikning qilmishi uchun jazolagan va amalda materialni faqat <mark>yashirin muomalaga haydab yuborgan</mark> bo'lardi.</p>\n<p>Mening fikrimcha, ikkinchi pozitsiya haqiqatga yaqinroq, biroq u bolalarga xavfni yetarlicha baholamaydi. Shu bois oqilona siyosat — qat'iy <mark>yosh reytinglari</mark>, sotuvdagi cheklovlarning ijrosi va ota-ona nazorati vositalari, mediasavodxonlik ta'limi bilan birgalikda — zaiflarni himoya qilgan holda kattalardan nimani tomosha qilish va o'ynashni tanlash erkinligini tortib olmaslikdir.</p>",
+    "uzSampleBand9": ""
+   }
+  },
+  "source": "CDI Report",
+  "examDate": "2026-07-14",
+  "settings": {
+   "logoUrl": "https://audio.mock-stream.com/img/ibb/WN0XY5Lv/logo.png",
+   "timeInfo": "⏱ Total time: 60 minutes | Task 1: 20 min (150 words) | Task 2: 40 min (250 words)",
+   "logoWording": "Mock Stream",
+   "moduleTitle": "Academic Writing Module",
+   "testIdentifier": "IELTS Mock 88"
+  },
+  "bandLabels": {
+   "8": "Band 7.5"
+  },
+  "vocabulary": {
+   "task1": [],
+   "task2": []
+  },
+  "tokenTranslations": {
+   "banned": {
+    "uz": "taqiqlangan",
+    "type": "adj"
+   },
+   "triple": {
+    "uz": "uch baravar",
+    "type": "adj"
+   },
+   "emitted": {
+    "uz": "chiqardi (gaz, chiqindi)",
+    "type": "verb"
+   },
+   "declined": {
+    "uz": "kamaydi, pasaydi",
+    "type": "verb"
+   },
+   "imitated": {
+    "uz": "taqlid qildi",
+    "type": "verb"
+   },
+   "per head": {
+    "uz": "jon boshiga",
+    "type": "colloc"
+   },
+   "converged": {
+    "uz": "bir nuqtada birlashdi, tenglashdi",
+    "type": "verb"
+   },
+   "aggression": {
+    "uz": "tajovuzkorlik",
+    "type": "noun"
+   },
+   "age ratings": {
+    "uz": "yosh reytinglari",
+    "type": "noun phrase"
+   },
+   "causal link": {
+    "uz": "sababiy bog'liqlik",
+    "type": "noun phrase"
+   },
+   "desensitises": {
+    "uz": "befarq/loqayd qilib qo'yadi",
+    "type": "verb"
+   },
+   "accounted for": {
+    "uz": "tashkil etdi (ulushni)",
+    "type": "phrasal"
+   },
+   "entertainment": {
+    "uz": "ermak, ko'ngilochar mashg'ulot",
+    "type": "noun"
+   },
+   "let off steam": {
+    "uz": "hordiq chiqarmoq, zardani chiqarmoq",
+    "type": "idiom"
+   },
+   "graphic content": {
+    "uz": "shafqatsiz, ochiq tasvirlangan kontent",
+    "type": "noun phrase"
+   },
+   "on an upward path": {
+    "uz": "o'sish yo'lida",
+    "type": "colloc"
+   },
+   "out of proportion": {
+    "uz": "nomutanosib",
+    "type": "colloc"
+   },
+   "the overwhelming majority": {
+    "uz": "mutlaq ko'pchilik",
+    "type": "noun phrase"
+   },
+   "puts these figures in context": {
+    "uz": "bu raqamlarni kontekstga joylashtiradi",
+    "type": "colloc"
+   },
+   "drive the material underground": {
+    "uz": "materialni yashirin muomalaga haydamoq",
+    "type": "colloc"
+   }
+  }
+ },
+ "created_at": "2026-07-21T15:34:18.284039+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

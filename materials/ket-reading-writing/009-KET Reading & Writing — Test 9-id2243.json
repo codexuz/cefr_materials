@@ -1,0 +1,909 @@
+{
+ "id": 2243,
+ "mock_type": "ket-reading-writing",
+ "mock_number": 9,
+ "title": "KET Reading & Writing — Test 9",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "match-notices",
+    "items": [
+     {
+      "id": 1,
+      "answer": "A",
+      "prompt": "This is not for adults."
+     },
+     {
+      "id": 2,
+      "answer": "C",
+      "prompt": "You can't drive this way."
+     },
+     {
+      "id": 3,
+      "answer": "D",
+      "prompt": "We can help you day and night."
+     },
+     {
+      "id": 4,
+      "answer": "B",
+      "prompt": "You can have dinner here."
+     },
+     {
+      "id": 5,
+      "answer": "F",
+      "prompt": "Come here to book a holiday."
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "H",
+     "number": 0,
+     "prompt": "We work fast."
+    },
+    "notices": [
+     {
+      "text": "YOUTH CLUB\nUnder 16s only",
+      "letter": "A"
+     },
+     {
+      "text": "Half-price drinks\nwith 3-course meals!",
+      "letter": "B"
+     },
+     {
+      "text": "CITY CENTRE\nCLOSED TO TRAFFIC\nALL DAY TODAY",
+      "letter": "C"
+     },
+     {
+      "text": "Tourist Information\nopen 24 hours",
+      "letter": "D"
+     },
+     {
+      "text": "NO PETROL STATION\nON MOTORWAY",
+      "letter": "E"
+     },
+     {
+      "text": "TURNER TRAVEL\nFly away to the sun\nthis summer",
+      "letter": "F"
+     },
+     {
+      "text": "SCHOOL OFFICE\nCLOSED FOR LUNCH",
+      "letter": "G"
+     },
+     {
+      "text": "We repair shoes QUICKLY\n8 a.m. – 5 p.m.",
+      "letter": "H"
+     }
+    ],
+    "partNumber": 1,
+    "instruction": [
+     "Which notice (A–H) says this (1–5)?",
+     "For questions 1–5, mark the correct letter A–H on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "mcq-gap-fill-sentences",
+    "items": [
+     {
+      "id": 6,
+      "answer": "B",
+      "options": [
+       {
+        "text": "learnt",
+        "letter": "A"
+       },
+       {
+        "text": "showed",
+        "letter": "B"
+       },
+       {
+        "text": "studied",
+        "letter": "C"
+       }
+      ],
+      "sentence": "He _____ Sam how to use it."
+     },
+     {
+      "id": 7,
+      "answer": "A",
+      "options": [
+       {
+        "text": "message",
+        "letter": "A"
+       },
+       {
+        "text": "programme",
+        "letter": "B"
+       },
+       {
+        "text": "form",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Sam sent an e-mail _____ to his friend Billy to tell him about his nice present."
+     },
+     {
+      "id": 8,
+      "answer": "B",
+      "options": [
+       {
+        "text": "subject",
+        "letter": "A"
+       },
+       {
+        "text": "homework",
+        "letter": "B"
+       },
+       {
+        "text": "class",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Billy came to Sam's house and they did their geography _____ together."
+     },
+     {
+      "id": 9,
+      "answer": "A",
+      "options": [
+       {
+        "text": "happy",
+        "letter": "A"
+       },
+       {
+        "text": "interesting",
+        "letter": "B"
+       },
+       {
+        "text": "pleasant",
+        "letter": "C"
+       }
+      ],
+      "sentence": "They were _____ because they found some information about rivers on the internet."
+     },
+     {
+      "id": 10,
+      "answer": "C",
+      "options": [
+       {
+        "text": "wanted",
+        "letter": "A"
+       },
+       {
+        "text": "thanked",
+        "letter": "B"
+       },
+       {
+        "text": "enjoyed",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Afterwards, they _____ playing a new computer game together."
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "options": [
+      {
+       "text": "bought",
+       "letter": "A"
+      },
+      {
+       "text": "paid",
+       "letter": "B"
+      },
+      {
+       "text": "spent",
+       "letter": "C"
+      }
+     ],
+     "sentence": "Sam's father _____ him a new computer for his birthday."
+    },
+    "partNumber": 2,
+    "instruction": [
+     "Read the sentences (6–10) about Sam's new computer.",
+     "Choose the best word (A, B or C) for each space.",
+     "For questions 6–10, mark A, B or C on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-response",
+    "items": [
+     {
+      "id": 11,
+      "answer": "A",
+      "prompt": "Who's that man with the green sweater?",
+      "options": [
+       {
+        "text": "He's my brother.",
+        "letter": "A"
+       },
+       {
+        "text": "It's John's.",
+        "letter": "B"
+       },
+       {
+        "text": "I don't know it.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "answer": "A",
+      "prompt": "Where's Amanda gone?",
+      "options": [
+       {
+        "text": "She's at the station.",
+        "letter": "A"
+       },
+       {
+        "text": "She'll arrive tomorrow.",
+        "letter": "B"
+       },
+       {
+        "text": "She's going to leave tonight.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "answer": "A",
+      "prompt": "I hate shopping.",
+      "options": [
+       {
+        "text": "So do I.",
+        "letter": "A"
+       },
+       {
+        "text": "Certainly.",
+        "letter": "B"
+       },
+       {
+        "text": "That's all right.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "answer": "B",
+      "prompt": "How long did the journey take?",
+      "options": [
+       {
+        "text": "About 500 kilometres.",
+        "letter": "A"
+       },
+       {
+        "text": "Almost 5 hours.",
+        "letter": "B"
+       },
+       {
+        "text": "Last week.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "answer": "C",
+      "prompt": "The room costs £55 a night.",
+      "options": [
+       {
+        "text": "I don't take it.",
+        "letter": "A"
+       },
+       {
+        "text": "Give me two, please.",
+        "letter": "B"
+       },
+       {
+        "text": "That's a lot.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "prompt": "Where do you come from?",
+     "options": [
+      {
+       "text": "New York.",
+       "letter": "A"
+      },
+      {
+       "text": "School.",
+       "letter": "B"
+      },
+      {
+       "text": "Home.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partLetter": "a",
+    "partNumber": 3,
+    "instruction": [
+     "Complete the five conversations.",
+     "For questions 11–15, mark A, B or C on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "type": "match-dialogue",
+    "items": [
+     {
+      "id": 16,
+      "answer": "H"
+     },
+     {
+      "id": 17,
+      "answer": "F"
+     },
+     {
+      "id": 18,
+      "answer": "A"
+     },
+     {
+      "id": 19,
+      "answer": "D"
+     },
+     {
+      "id": 20,
+      "answer": "B"
+     }
+    ],
+    "example": {
+     "answer": "E",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "Oh dear. Can you repair it now?",
+      "letter": "A"
+     },
+     {
+      "text": "That will be fine.",
+      "letter": "B"
+     },
+     {
+      "text": "Thanks. How much will it cost?",
+      "letter": "C"
+     },
+     {
+      "text": "It's only Monday today. I'll go to another garage.",
+      "letter": "D"
+     },
+     {
+      "text": "Would you have a look at my car, please?",
+      "letter": "E"
+     },
+     {
+      "text": "I bought it new about four years ago.",
+      "letter": "F"
+     },
+     {
+      "text": "Could you do it in an hour?",
+      "letter": "G"
+     },
+     {
+      "text": "It won't start in the morning.",
+      "letter": "H"
+     }
+    ],
+    "dialogue": [
+     {
+      "line": "Good morning. How can I help you?",
+      "speaker": "Mechanic"
+     },
+     {
+      "gap": 0,
+      "speaker": "David"
+     },
+     {
+      "line": "Certainly. What's the problem?",
+      "speaker": "Mechanic"
+     },
+     {
+      "gap": 16,
+      "speaker": "David"
+     },
+     {
+      "line": "How long have you had the car?",
+      "speaker": "Mechanic"
+     },
+     {
+      "gap": 17,
+      "speaker": "David"
+     },
+     {
+      "line": "Hm, there may be something wrong with the engine.",
+      "speaker": "Mechanic"
+     },
+     {
+      "gap": 18,
+      "speaker": "David"
+     },
+     {
+      "line": "I'm afraid we have a lot of work at the moment. I can't do it until Friday.",
+      "speaker": "Mechanic"
+     },
+     {
+      "gap": 19,
+      "speaker": "David"
+     },
+     {
+      "line": "Well, I suppose I can do it on Wednesday.",
+      "speaker": "Mechanic"
+     },
+     {
+      "gap": 20,
+      "speaker": "David"
+     },
+     {
+      "line": "Bring it in at 8.30 in the morning.",
+      "speaker": "Mechanic"
+     }
+    ],
+    "partLetter": "b",
+    "partNumber": 3,
+    "instruction": [
+     "Complete the conversation in a garage.",
+     "What does David say to the mechanic?",
+     "For questions 16–20, mark the correct letter A–H on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "type": "mcq-passage-rws",
+    "items": [
+     {
+      "id": 21,
+      "answer": "A",
+      "statement": "The Palace has been open for less than a year."
+     },
+     {
+      "id": 22,
+      "answer": "A",
+      "statement": "Lots of people in France know about Howard."
+     },
+     {
+      "id": 23,
+      "answer": "A",
+      "statement": "Howard's parents took him out to restaurants."
+     },
+     {
+      "id": 24,
+      "answer": "B",
+      "statement": "Howard has always spent a lot of money on clothes."
+     },
+     {
+      "id": 25,
+      "answer": "C",
+      "statement": "Howard has written books about French cooking."
+     },
+     {
+      "id": 26,
+      "answer": "C",
+      "statement": "It costs a lot of money to eat in Howard's restaurant."
+     },
+     {
+      "id": 27,
+      "answer": "B",
+      "statement": "Howard says cooking for a lot of people is easy."
+     }
+    ],
+    "label": "PART 4",
+    "article": "Bray is a beautiful village about fifty kilometres west of London. A young Englishman named Howard Bonnier opened a restaurant called The Palace there about three and a half months ago. Not many people in Britain know Mr Bonnier's name yet, but he's already quite famous in France. This is because he has written in French magazines about almost all the best restaurants in that country. He's only 29 years old.\n\nWhen Howard was a teenager, he often went to restaurants with his mother and father. He liked doing this so much that he decided not to buy lots of clothes and CDs; instead, he used his money to visit France and eat in good restaurants. He also bought a lot of French and English cookbooks — he says he has more than two hundred and fifty!\n\nSo why did he decide to open a restaurant? Simply because he loves cooking. Has it been an easy thing to do? He says it's expensive to start your own restaurant and it's much more difficult to cook for fifty people than to cook for your family, but he's sure he's done the right thing.",
+    "example": {
+     "answer": "B",
+     "number": 0,
+     "statement": "Howard is French."
+    },
+    "partNumber": 4,
+    "instruction": [
+     "Read the article about Howard Bonnier.",
+     "Are sentences 21–27 'Right' (A) or 'Wrong' (B)?",
+     "If there is not enough information to answer 'Right' (A) or 'Wrong' (B), choose 'Doesn't say' (C).",
+     "For questions 21–27, mark A, B or C on the answer sheet."
+    ],
+    "articleTitle": "HOWARD BONNIER",
+    "questionsLabel": "QUESTIONS 21–27"
+   },
+   {
+    "type": "mcq-cloze-passage",
+    "items": [
+     {
+      "id": 28,
+      "answer": "C",
+      "options": [
+       {
+        "text": "every",
+        "letter": "A"
+       },
+       {
+        "text": "all",
+        "letter": "B"
+       },
+       {
+        "text": "any",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 29,
+      "answer": "B",
+      "options": [
+       {
+        "text": "say",
+        "letter": "A"
+       },
+       {
+        "text": "says",
+        "letter": "B"
+       },
+       {
+        "text": "saying",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 30,
+      "answer": "C",
+      "options": [
+       {
+        "text": "at",
+        "letter": "A"
+       },
+       {
+        "text": "to",
+        "letter": "B"
+       },
+       {
+        "text": "in",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 31,
+      "answer": "A",
+      "options": [
+       {
+        "text": "best",
+        "letter": "A"
+       },
+       {
+        "text": "better",
+        "letter": "B"
+       },
+       {
+        "text": "good",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 32,
+      "answer": "B",
+      "options": [
+       {
+        "text": "here",
+        "letter": "A"
+       },
+       {
+        "text": "there",
+        "letter": "B"
+       },
+       {
+        "text": "they",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 33,
+      "answer": "C",
+      "options": [
+       {
+        "text": "among",
+        "letter": "A"
+       },
+       {
+        "text": "across",
+        "letter": "B"
+       },
+       {
+        "text": "during",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 34,
+      "answer": "C",
+      "options": [
+       {
+        "text": "has",
+        "letter": "A"
+       },
+       {
+        "text": "is",
+        "letter": "B"
+       },
+       {
+        "text": "did",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 35,
+      "answer": "B",
+      "options": [
+       {
+        "text": "after",
+        "letter": "A"
+       },
+       {
+        "text": "ago",
+        "letter": "B"
+       },
+       {
+        "text": "since",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 5",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "options": [
+      {
+       "text": "have",
+       "letter": "A"
+      },
+      {
+       "text": "has",
+       "letter": "B"
+      },
+      {
+       "text": "had",
+       "letter": "C"
+      }
+     ]
+    },
+    "passage": "Thousands of people in Britain {0} a new hobby — line dancing. In almost {28} town, you will find clubs and classes for this new activity.\n\n'Line dancing is easy to learn. If you have two feet and can walk, then you can do it!' Fiona Lever, a teacher, {29}. 'You don't need a partner because you dance {30} groups. It's the {31} way to make new friends. In my classes, {32} are young and old people. The boys like it because they can make a lot of noise with their feet {33} the dances!'\n\nWhen {34} line dancing begin? Most people think it started about fifteen years {35} when American country music became famous in Britain.",
+    "partNumber": 5,
+    "instruction": [
+     "Read the article about line dancing.",
+     "Choose the best word (A, B or C) for each space (28–35).",
+     "For questions 28–35, mark A, B or C on the answer sheet."
+    ],
+    "passageTitle": "Line dancing",
+    "questionsLabel": "QUESTIONS 28–35"
+   },
+   {
+    "type": "vocab-first-letter",
+    "items": [
+     {
+      "id": 36,
+      "answer": "key",
+      "prompt": "If you lose this, you won't be able to get into your house.",
+      "letters": 3,
+      "firstLetter": "k"
+     },
+     {
+      "id": 37,
+      "answer": "glasses",
+      "prompt": "Many people put these on when they want to read something.",
+      "letters": 7,
+      "firstLetter": "g"
+     },
+     {
+      "id": 38,
+      "answer": "money",
+      "prompt": "People pay for things with this.",
+      "letters": 5,
+      "firstLetter": "m"
+     },
+     {
+      "id": 39,
+      "answer": "comb",
+      "prompt": "If it has been windy, you may need to do your hair with this.",
+      "letters": 4,
+      "firstLetter": "c"
+     },
+     {
+      "id": 40,
+      "answer": "diary",
+      "prompt": "You write important dates in this so you don't forget them.",
+      "letters": 5,
+      "firstLetter": "d"
+     }
+    ],
+    "label": "PART 6",
+    "example": {
+     "answer": "pen",
+     "number": 0,
+     "prompt": "You use this to write with.",
+     "firstLetter": "p"
+    },
+    "partNumber": 6,
+    "instruction": [
+     "Read the descriptions (36–40) of some things you may find in your bag.",
+     "What is the word for each description?",
+     "The first letter is already there. There is one space for each other letter in the word.",
+     "For questions 36–40, write the words on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 36–40"
+   },
+   {
+    "type": "open-cloze-letter",
+    "items": [
+     {
+      "id": 41,
+      "answer": "for"
+     },
+     {
+      "id": 42,
+      "answer": "your"
+     },
+     {
+      "id": 43,
+      "answer": "was"
+     },
+     {
+      "id": 44,
+      "answer": "are"
+     },
+     {
+      "id": 45,
+      "answer": "of"
+     },
+     {
+      "id": 46,
+      "answer": "they"
+     },
+     {
+      "id": 47,
+      "answer": "them"
+     },
+     {
+      "id": 48,
+      "answer": "am"
+     },
+     {
+      "id": 49,
+      "answer": "will"
+     },
+     {
+      "id": 50,
+      "answer": "time"
+     }
+    ],
+    "label": "PART 7",
+    "example": {
+     "answer": "to",
+     "number": 0
+    },
+    "letters": [
+     {
+      "body": "I'm writing (Example: to) say thank you {41} the two nights I stayed in {42} lovely home. It {43} good to see you again.\n\nHere {44} the photographs {45} your children that you asked for. They're good photos, aren't {46}? I hope you like {47}. I really love my new camera.\n\nI {48} going to visit my sister in New York next week. I {49} take a lot of photos there, too. I haven't seen my sister for a long {50}.\n\nThanks again.",
+      "header": "",
+      "closing": "Love,\nRoy",
+      "greeting": "Dear Lynne and Tony,"
+     }
+    ],
+    "partNumber": 7,
+    "instruction": [
+     "Complete this letter.",
+     "Write ONE word for each space (41–50).",
+     "For questions 41–50, write your words on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 41–50"
+   },
+   {
+    "note": {
+     "body": "To: Alice Silveiro\nFrom: Churchill Language School, Oxford\n\nWe have six-week courses for people who want to study English. There is a house for students next to the school, in Park Road, at number 26.\n\nYou will need a visa.",
+     "dateLine": "",
+     "signature": "Churchill Language School"
+    },
+    "rows": [
+     {
+      "label": "Name:",
+      "prefilled": "Alice Silveiro"
+     },
+     {
+      "id": 51,
+      "label": "Nationality:",
+      "answer": "Brazilian"
+     },
+     {
+      "id": 52,
+      "label": "Job:",
+      "answer": "hotel receptionist"
+     },
+     {
+      "id": 53,
+      "label": "Address in Britain:",
+      "answer": "26 Park Road, Oxford"
+     },
+     {
+      "id": 54,
+      "label": "Why are you visiting Britain?",
+      "answer": "to study English"
+     },
+     {
+      "id": 55,
+      "label": "How long will you stay?",
+      "answer": "two months"
+     }
+    ],
+    "type": "info-transfer-notes",
+    "label": "PART 8",
+    "notice": {
+     "body": "To: Churchill Language School, Oxford\nFrom: Alice Silveiro\n\nI would like to study at your school. I work in the reception of a hotel in my home town, Sao Paulo, Brazil, and English is important for my job.\n\nWhere can I stay in Oxford? I shall spend two months in Britain.\n\nAlice Silveiro",
+     "title": "E-mail from Alice Silveiro"
+    },
+    "notesTitle": "VISA APPLICATION FORM",
+    "partNumber": 8,
+    "instruction": [
+     "Read the two e-mail messages.",
+     "Fill in the information on the visa application form.",
+     "For questions 51–55, write the information on the answer sheet."
+    ],
+    "notesSubtitle": "",
+    "questionsLabel": "QUESTIONS 51–55"
+   },
+   {
+    "type": "writing-postcard",
+    "items": [
+     {
+      "id": 56,
+      "type": "free-text",
+      "answer": "Dear Paul,\nI'm going to visit you on Saturday.\nI will come with my car. I will arrive on Saturday morning. First I want to see you, then we're going to the cinema. After that we're going to the football match.\nSee you on Saturday\nYours,\nDiego",
+      "maxWords": 35,
+      "minWords": 25
+     }
+    ],
+    "label": "PART 9",
+    "footer": [
+     "Write 25–35 words.",
+     "Write your postcard on the answer sheet."
+    ],
+    "prompt": "I'm very pleased you're going to visit me on Saturday. How will you get here? What time will you arrive? What shall we do?\n\nSee you soon.",
+    "wordCount": "25–35 words",
+    "partNumber": 9,
+    "instruction": [
+     "Read this postcard from your friend, Paul.",
+     "Write Paul a postcard. Answer his questions."
+    ],
+    "questionsLabel": "QUESTION 56",
+    "promptSignature": "Yours,\nPaul"
+   }
+  ],
+  "testInfo": {
+   "id": "ket-rw-09",
+   "level": "A2",
+   "paper": "Paper 1",
+   "parts": 9,
+   "title": "KET Reading & Writing — Test 9",
+   "totalTime": 70,
+   "totalQuestions": 56
+  }
+ },
+ "created_at": "2026-10-14T06:45:02.377175+00:00",
+ "updated_at": "2026-10-14T06:46:49.763789+00:00"
+}

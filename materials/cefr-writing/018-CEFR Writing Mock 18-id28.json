@@ -1,0 +1,609 @@
+{
+ "id": 28,
+ "mock_type": "cefr-writing",
+ "mock_number": 18,
+ "title": "CEFR Writing Mock 18",
+ "status": "published",
+ "mock_data": {
+  "part1": {
+   "chip": "entertainment",
+   "topic": "Cinema management"
+  },
+  "tasks": {
+   "t2": {
+    "chip": "education",
+    "genre": "article",
+    "title": "Homework help students learn",
+    "prompt": "A student magazine announced an article writing contest. The best ones will be published in the magazine. Write your article on this topic: \"Does homework help students learn?\" Write 180–200 words, giving reasons and examples.",
+    "sample": "<h2>The Homework Debate: Help or Hindrance?</h2>\n\n<p>Homework has been a <span class=\"ml-token colloc\">fundamental part</span> of education for generations. <span class=\"ml-token adv\">However</span>, its effectiveness remains a <span class=\"ml-token colloc\">topic of debate</span> among educators and parents alike.</p>\n\n<p><span class=\"ml-token colloc\">Supporters</span> argue that homework reinforces <span class=\"ml-token colloc\">classroom learning</span> and helps students develop <span class=\"ml-token colloc\">independent study skills</span>. Regular practice at home <span class=\"ml-token modal\">can</span> <span class=\"ml-token adv\">significantly</span> improve understanding and retention of subjects like mathematics and languages.</p>\n\n<p><span class=\"ml-token adv\">Moreover</span>, homework teaches <span class=\"ml-token colloc\">time management</span> and responsibility. Students learn to prioritize tasks and meet deadlines – skills that are <span class=\"ml-token adv\">invaluable</span> in adult life.</p>\n\n<p><span class=\"ml-token adv\">However</span>, critics point out that <span class=\"ml-token colloc\">excessive homework</span> <span class=\"ml-token modal\">can</span> lead to <span class=\"ml-token colloc\">stress and burnout</span>. Children need time for <span class=\"ml-token colloc\">physical activities</span>, hobbies, and family interaction. Too much homework <span class=\"ml-token modal\">may</span> <span class=\"ml-token adv\">actually</span> reduce <span class=\"ml-token colloc\">enthusiasm for learning</span>.</p>\n\n<p><span class=\"ml-token adv\">Additionally</span>, not all students have equal <span class=\"ml-token colloc\">home environments</span> conducive to studying, which <span class=\"ml-token modal\">can</span> create <span class=\"ml-token colloc\">unfair disadvantages</span>.</p>\n\n<p><span class=\"ml-token adv\">Ultimately</span>, <span class=\"ml-token colloc\">quality matters</span> more than quantity. Well-designed, <span class=\"ml-token colloc\">purposeful assignments</span> <span class=\"ml-token modal\">can</span> enhance learning, while mindless repetition serves little purpose. A balanced approach is key.</p>",
+    "target": "180–200 words",
+    "sampleA1": "<p>Hi Cinema,</p>\n<p>Tickets good. Staff OK. More popcorn, please. Bye.</p>",
+    "sampleA2": "<p>Hello,</p>\n<p>I went to the cinema today. The tickets were easy to buy and it was quick. The staff were nice and they helped me. But the cinema is cold. I think you need to make it warmer. Also, more sweets! Thank you.</p>\n<p>Bye.</p>",
+    "sampleB1": "<p>Dear Cinema Management,</p>\n<p>Thank you for your email. I wanted to give you some feedback about my visit today. Buying tickets was quite easy, so that's good. However, I think there could be more staff available at the ticket counter, especially when it's busy.</p>\n<p>The staff were generally polite and helpful, but one person seemed a little bit bored. Maybe they need more training or something.</p>\n<p>To improve the cinema, I suggest you could offer a wider selection of snacks. Also, the seats in the screen I was in were a bit uncomfortable. Maybe new seats would be a good idea. Thanks again.</p>\n<p>Sincerely,<br>A Satisfied Customer</p>",
+    "sampleB2": "<h2>Homework: Friend or Foe?</h2>\n<p>Ask any student about homework and you'll probably <span class=\"ml-token idiom\">get a groan in response</span>. Yet behind the eye-rolling lies a genuine question: does all that after-school effort actually help us learn?</p>\n<p>There is <span class=\"ml-token colloc\">a strong case in favour</span>. Homework gives us the chance to <span class=\"ml-token phrasal\">go over</span> what we covered in class while it is still fresh, and there is nothing like a bit of independent practice for <span class=\"ml-token idiom\">making new ideas stick</span>. A quick set of maths problems, for instance, can turn a shaky lesson into something we genuinely understand. It also teaches us to manage our time and take responsibility for our own progress — skills that <span class=\"ml-token idiom\">come in handy</span> long after we leave school.</p>\n<p>On the other hand, piling on too much can <span class=\"ml-token idiom\">do more harm than good</span>. Endless worksheets leave students stressed, exhausted and, frankly, <span class=\"ml-token phrasal\">put off learning</span> altogether. Not everyone has a quiet corner to study in, either, which hardly seems fair. When homework becomes a nightly battle, it can crush the very enthusiasm it was meant to build.</p>\n<p><span class=\"ml-token linking\">In my view</span>, the answer lies in balance. A handful of <span class=\"ml-token colloc\">well-thought-out</span> tasks beats hours of mindless copying every time. Done properly, homework really can help us learn.</p>",
+    "uzSample": "<h2>Uy vazifasi bahsi: Yordammi yoki to'siq?</h2>\n\n<p>Uy vazifasi avlodlar davomida ta'limning <br>asosiy qismi bo'lib kelgan. <br>Biroq, uning samaradorligi o'qituvchilar va ota-onalar o'rtasida <br>munozara mavzusi bo'lib qolmoqda.</p>\n\n<p><br>Tarafdorlar uy vazifasi <br>sinfda o'rganilgan bilimlarni mustahkamlaydi va o'quvchilarga <br>mustaqil o'qish ko'nikmalarini rivojlantirishga yordam beradi, deb ta'kidlaydilar. <br>Uyda muntazam mashq qilish matematika va tillar kabi fanlarni tushunish va eslab qolishni <br>sezilarli darajada yaxshilashi mumkin.</p>\n\n<p><br>Bundan tashqari, uy vazifasi <br>vaqtni boshqarish va mas'uliyatni o'rgatadi. <br>O'quvchilar vazifalarni ustuvorlashtirishni va belgilangan muddatlarga rioya qilishni o'rganadilar – bu ko'nikmalar <br>katta hayotda beqiyosdir.</p>\n\n<p><br>Biroq, tanqidchilar <br>haddan tashqari ko'p uy vazifasi <br>stress va charchashga olib kelishi mumkinligini ta'kidlaydilar. <br>Bolalarga <br>jismoniy faoliyat, sevimli mashg'ulotlar va oilaviy muloqot uchun vaqt kerak. <br>Haddan tashqari ko'p uy vazifasi <br>o'rganishga bo'lgan ishtiyoqni <br>haqiqatan ham kamaytirishi mumkin.</p>\n\n<p><br>Bundan tashqari, barcha o'quvchilarning ham <br>uy sharoitlari o'qish uchun bir xilda qulay emas, bu esa <br>adolatsiz kamchiliklarni yaratishi mumkin.</p>\n\n<p><br>Oxir oqibat, miqdordan ko'ra <br>sifat muhimroq. <br>Yaxshi ishlab chiqilgan, <br>maqsadli topshiriqlar <br>o'rganishni yaxshilashi mumkin, aqlsiz takrorlash esa unchalik ahamiyatga ega emas. <br>Muvozanatli yondashuv muhim.</p>",
+    "uzSampleA1": "<p>Salom, Kino!</p>\n<p>Chiptalar yaxshi. Xodimlar yaxshi. Ko'proq popkorn, iltimos. Xayr.</p>",
+    "uzSampleA2": "<p>Salom,</p>\n<p>Men bugun kinoga bordim. Chiptalarni sotib olish oson va tez edi. Xodimlar yaxshi edi va ular menga yordam berishdi. Lekin kinoteatr sovuq. O'ylashimcha, uni issiqroq qilishingiz kerak. Yana, ko'proq shirinliklar! Rahmat.</p>\n<p>Xayr.</p>",
+    "uzSampleB1": "<p>Hurmatli Kino Ma'muriyati,</p>\n<p>Elektron pochtangiz uchun rahmat. Bugungi tashrifim haqida ba'zi fikr-mulohazalarimni bildirmoqchiman. Chipta sotib olish juda oson bo'ldi, bu yaxshi. Biroq, menimcha, chipta kassasida ko'proq xodimlar bo'lishi kerak, ayniqsa gavjum paytlarda.</p>\n<p>Xodimlar odatda xushmuomala va yordam beruvchi edilar, lekin bir kishi biroz zerikkan ko'rinardi. Ehtimol, ularga ko'proq trening kerakdir yoki shunga o'xshash narsa.</p>\n<p>Kinoteatrni yaxshilash uchun siz ko'proq turdagi gazaklar taklif qilishingiz mumkinligini taklif qilaman. Shuningdek, men bo'lgan ekrandagi o'rindiqlar biroz noqulay edi. Ehtimol, yangi o'rindiqlar yaxshi fikr bo'lar edi. Yana bir bor rahmat.</p>\n<p>Hurmat bilan,<br>Mamnun Mijoz</p>",
+    "uzSampleB2": "<p>Hurmatli Kino Ma'muriyati,</p>\n<p>Yaqinda tashrifim bo'yicha kuzatuv xatingiz uchun rahmat. Umuman olganda, ijobiy tajribaga ega bo'ldim, lekin mijozlar tajribasini yaxshilashi mumkin bo'lgan bir nechta takliflarim bor.</p>\n<p>Chipta sotib olish jarayoni nisbatan muammosiz kechdi, garchi o'z-o'ziga xizmat ko'rsatish kiosklari yanada intuitiv foydalanuvchi interfeysidan foyda ko'rishi mumkin. Ehtimol, aniqlik va navigatsiya qulayligiga qaratilgan qayta dizayn foydali bo'lar edi. Bundan tashqari, xarid qilish vaqtida film tasniflari haqida batafsilroq ma'lumot berish qadrlanadi.</p>\n<p>Xodimlar, istisnosiz, xushmuomala va so'rovlar bo'yicha yordam berishga tayyor edilar. Ularning mijozlarga xizmat ko'rsatishga faol yondashuvi maqtovga sazovor va umumiy muhitga sezilarli hissa qo'shadi.</p>\n<p>Yaxshilash nuqtai nazaridan, menimcha, kino turli xil kinotomoshabinlarning didiga mos keladigan filmlar namoyishini ko'paytirishdan foyda ko'rishi mumkin. Bundan tashqari, sodiqlik sxemasini joriy etish yoki eng kam soatlarda chegirmali chiptalar taklif qilish qayta tashriflarni rag'batlantirishi mumkin. Nihoyat, eski ekranlarning ba'zilarida yangilangan ovoz tizimlariga sarmoya kiritish, shubhasiz, tomosha qilish tajribasini oshiradi.</p>\n<p>Fikrimni ko'rib chiqqaningiz uchun tashakkur. Keyingi tashrifimni intiqlik bilan kutaman.</p>\n<p>Hurmat bilan,<br>Qadrdon Mijoz</p>"
+   },
+   "t11": {
+    "title": "informal letter · to friend",
+    "prompt": "Write a letter to your friend, who went to the cinema with you. Write about your feelings and what you think the cinema management should do.",
+    "sample": "Hey!\n\nThat was a <span class=\"ml-token colloc\">great movie</span> yesterday! The cinema sent me a <span class=\"ml-token colloc\">feedback email</span>. I think the <span class=\"ml-token colloc\">ticket prices</span> are a bit high, and the <span class=\"ml-token colloc\">online booking</span> <span class=\"ml-token modal\">could</span> be easier. But the staff were <span class=\"ml-token adv\">really</span> friendly! What did you think of the experience?\n\nLet's go again soon!",
+    "target": "50 words",
+    "sampleA1": "<p>Hi Shohruh,<br>Cinema good. Film good. Tickets... okay. Staff nice. Bye.</p>",
+    "sampleA2": "<p>Hi Shohruh,<br>The movie was good! I liked it. The tickets were okay, but a little slow. The people who work there were nice and helped me. I think the cinema is good, but maybe cheaper tickets? See you later!</p>",
+    "sampleB1": "<p>Hi Shohruh,<br>What did you think of the movie yesterday? I thought it was great! The cinema sent me an email asking for feedback. I think the ticket prices are a bit expensive. Also, the queue was quite long. However, the staff were very friendly and helpful. I think they should make the ticket buying process faster. Let me know what you thought!<br>See you soon,</p>",
+    "sampleB2": "<p>Hey Aziza!</p>\n<p>What a night that was — I'm still <span class=\"ml-token idiom\">buzzing about</span> that film! <span class=\"ml-token colloc\">Funny thing</span>, they <span class=\"ml-token colloc\">emailed me for feedback</span> afterwards. Honestly, the staff were lovely, but those ticket prices were <span class=\"ml-token idiom\">a bit much</span>, and the seats <span class=\"ml-token phrasal\">could do with an upgrade</span>. They should really <span class=\"ml-token phrasal\">sort that out</span>. Let's <span class=\"ml-token colloc\">go again soon</span>!</p>\n<p>Bekzod</p>",
+    "uzSample": "<p>Salom!</p>\n<p>Kecha ajoyib kino edi! Kinoteatrdan menga fikr-mulohaza so'rab elektron xat keldi. Menimcha, chipta narxlari biroz qimmat va onlayn bron qilish osonroq bo'lishi mumkin. Ammo xodimlar juda mehribon edilar! Senga bu tajriba qanday ta'sir qildi?</p>\n<p>Tez orada yana boramiz!</p>",
+    "uzSampleA1": "<p>Salom, Shohruh,<br>Kino yaxshi. Film yaxshi. Biletlar... yaxshi. Xodimlar yaxshi. Xayr.</p>",
+    "uzSampleA2": "<p>Salom Shohruh,<br>Kino yaxshi edi! Menga yoqdi. Chiptalar yaxshi edi, lekin biroz sekin. U yerda ishlaydigan odamlar yaxshi edi va menga yordam berishdi. Menimcha, kino yaxshi, lekin ehtimol chiptalar arzonroq bo'lsa yaxshi bo'lardi? Ko'rishguncha!</p>",
+    "uzSampleB1": "<p>Salom Shohruh,<br>Kecha ko'rgan kinomiz haqida nima deb o'ylaysan? Menimcha, juda zo'r edi! Kinoteatr menga fikr-mulohazalarimni so'rab elektron pochta orqali xabar yubordi. Menimcha, chipta narxlari biroz qimmat. Shuningdek, navbat juda uzun edi. Biroq, xodimlar juda do'stona va yordam berishga tayyor edilar. Menimcha, ular chipta sotib olish jarayonini tezlashtirishlari kerak. Sen nima deb o'ylaganingni menga ayt!<br>Tez orada ko'rishguncha,</p>",
+    "uzSampleB2": "<p>Salom Shohruh,<br>Yaxshi yuribsan degan umiddaman! Kecha kinoga borganimiz haqida o'ylab qoldim – film juda zo'r edi! Kinoteatrdan fikr-mulohazalar so'rashdi va bu menga butun tajriba haqida o'ylashga undadi. Xodimlar juda yordamchi va xushmuomala bo'lishiga qaramay, chipta narxlari biroz qimmatdek tuyuldi, ayniqsa onlayn bron qilish tizimi biroz noqulay edi. Ehtimol, ular yanada soddalashtirilgan interfeysga sarmoya kiritishlari mumkin. Yana, balki biroz qulayroq o'rindiqlar ham bo'lishi kerakdir? Umuman olganda, sening taassurotlaring qanday bo'ldi? Yana bir filmga tushishga vaqting bo'lsa, xabar ber!<br>Eng yaxshi tilaklar bilan,</p>"
+   },
+   "t12": {
+    "title": "formal letter · to recipient",
+    "prompt": "Write a letter to the cinema management. Write about your feelings and what you think the management should do.",
+    "sample": "<p>Dear Cinema Management,</p>\n\n<p>Thank you for asking for my feedback. I visited your cinema yesterday and <span class=\"ml-token adv\">overall</span> had an <span class=\"ml-token colloc\">enjoyable experience</span>.</p>\n\n<p><span class=\"ml-token adv\">Firstly</span>, the <span class=\"ml-token colloc\">ticket-buying process</span> was <span class=\"ml-token adv\">relatively</span> smooth, though I <span class=\"ml-token modal\">would</span> suggest improving the <span class=\"ml-token colloc\">online booking system</span>. It <span class=\"ml-token modal\">could</span> be more <span class=\"ml-token colloc\">user-friendly</span> with clearer seat selection options.</p>\n\n<p><span class=\"ml-token adv\">Additionally</span>, your staff were <span class=\"ml-token adv\">exceptionally</span> polite and helpful. They <span class=\"ml-token adv\">efficiently</span> guided us to our seats and answered our questions with a smile.</p>\n\n<p><span class=\"ml-token adv\">However</span>, I <span class=\"ml-token modal\">would</span> recommend considering more <span class=\"ml-token colloc\">affordable snack options</span>. The <span class=\"ml-token colloc\">concession prices</span> are <span class=\"ml-token adv\">quite</span> high, which <span class=\"ml-token modal\">may</span> discourage families from purchasing refreshments.</p>\n\n<p><span class=\"ml-token adv\">Furthermore</span>, adding more <span class=\"ml-token colloc\">comfortable seating</span> with extra legroom <span class=\"ml-token modal\">would</span> <span class=\"ml-token adv\">greatly</span> enhance the viewing experience.</p>\n\n<p>Thank you for your <span class=\"ml-token colloc\">dedication</span> to customer satisfaction.</p>\n\n<p>Best regards,<br>A Cinema Enthusiast</p>",
+    "target": "120–150 words",
+    "sampleA1": "<p>Hi Cinema,<br>Tickets ok. Staff good. More popcorn please.<br>Bye</p>",
+    "sampleA2": "<p>Hello Cinema,<br>I went to the cinema. The tickets were easy to buy and the staff were nice. But the popcorn is expensive and I want more films for children because I have children. Thank you.</p>",
+    "sampleB1": "<p>Dear Cinema Management,<br><br>Thank you for your email. I want to tell you about my visit. The tickets were easy to buy, so that was good. The staff were also very helpful and friendly, which I liked. <br><br>However, I think the cinema could be better. For example, the seats are not very comfortable. Also, the prices of drinks are too high. In my opinion, if you made these changes, more people would come to the cinema. Thank you for listening.<br><br>Sincerely,<br>A Customer</p>",
+    "sampleB2": "<p>Dear Sir or Madam,</p>\n<p>Thank you for inviting me to share my thoughts following my visit yesterday. <span class=\"ml-token linking\">On the whole</span>, it was a thoroughly enjoyable outing, and I am glad to offer a few observations.</p>\n<p>The ticket-buying process was <span class=\"ml-token colloc\">quick and straightforward</span>, and I was pleasantly surprised at how little I had to queue. Your staff also <span class=\"ml-token colloc\">deserve a special mention</span>: they were courteous, attentive and <span class=\"ml-token colloc\">more than willing to help</span> when I asked for directions.</p>\n<p>That said, there is certainly <span class=\"ml-token idiom\">room for improvement</span>. The seats in the smaller screens are beginning to <span class=\"ml-token idiom\">show their age</span>, so investing in more comfortable seating would <span class=\"ml-token idiom\">make a real difference</span>. I would also welcome a wider choice of snacks at fairer prices.</p>\n<p>Thank you for <span class=\"ml-token idiom\">taking my feedback on board</span>. I <span class=\"ml-token colloc\">look forward to</span> my next visit.</p>\n<p>Yours faithfully,<br>Dilnoza Karimova</p>",
+    "uzSample": "<p>Hurmatli Kino Ma'muriyati,</p>\n\n<p>Fikrimni so'raganingiz uchun rahmat. Kecha sizning kinoteatringizga tashrif buyurdim va umuman olganda yaxshi taassurot oldim.</p>\n\n<p>Avvalo, chipta sotib olish jarayoni nisbatan muammosiz kechdi, lekin men onlayn bron qilish tizimini yaxshilashni taklif qilaman. U yanada qulay va o'rindiqlarni tanlash imkoniyatlari aniqroq bo'lishi mumkin edi.</p>\n\n<p>Bundan tashqari, xodimlaringiz juda xushmuomala va yordam berishga tayyor edilar. Ular bizni o'z o'rindiqlarimizga samarali yo'naltirishdi va savollarimizga tabassum bilan javob berishdi.</p>\n\n<p>Biroq, men arzonroq gazaklar variantlarini ko'rib chiqishni tavsiya qilaman. Bufetdagi narxlar juda yuqori, bu oilalarni ichimliklar va yeguliklar sotib olishdan qaytarishi mumkin.</p>\n\n<p>Bundan tashqari, qo'shimcha oyoq uchun joyi bo'lgan qulayroq o'rindiqlarni qo'shish tomosha qilish tajribasini sezilarli darajada yaxshilaydi.</p>\n\n<p>Mijozlar ehtiyojini qondirishga bo'lgan sadoqatingiz uchun tashakkur.</p>\n\n<p>Eng yaxshi tilaklar bilan,<br>Kino Ishqibozi</p>",
+    "uzSampleA1": "<p>Salom Kino,<br>Biletlar yaxshi. Xodimlar yaxshi. Iltimos, ko'proq popkorn bo'lsin.<br>Xayr</p>",
+    "uzSampleA2": "<p>Salom, Kino!<br>Men kinoga bordim. Chiptalarni sotib olish oson edi va xodimlar yaxshi edi. Lekin popkorn qimmat va men bolalar uchun ko'proq filmlar bo'lishini xohlayman, chunki mening bolalarim bor. Rahmat.</p>",
+    "uzSampleB1": "<p>Hurmatli Kino Ma'muriyati,<br><br>Elektron pochtangiz uchun rahmat. Men sizga tashrifim haqida aytmoqchiman. Chiptalarni sotib olish oson edi, bu yaxshi. Xodimlar ham juda yordamchi va do'stona edilar, bu menga yoqdi.<br><br>Biroq, menimcha, kino yaxshiroq bo'lishi mumkin. Misol uchun, o'rindiqlar juda qulay emas. Shuningdek, ichimliklar narxi juda yuqori. Mening fikrimcha, agar siz ushbu o'zgarishlarni qilsangiz, kinoga ko'proq odam keladi. E'tiboringiz uchun rahmat.<br><br>Hurmat bilan,<br>Mijoz</p>",
+    "uzSampleB2": "<p>Hurmatli Kino Ma'muriyati,<br><br>Sizning kinoteatringizga yaqinda tashrif buyurganim haqida fikr bildirish imkoniyatini berganingiz uchun rahmat. Umuman olganda, men ijobiy tajribaga ega bo'ldim, lekin menimcha yaxshilanishi mumkin bo'lgan bir nechta sohalar mavjud.<br><br>Chipta sotib olish jarayoni odatda samarali edi, garchi kassadagi navbat juda uzun edi. Ehtimol, ko'proq o'z-o'ziga xizmat ko'rsatish kioskalar bu muammoni hal qilishi mumkin. Xodimlar haqiqatan ham xushmuomala va yordam berishga tayyor edilar, yo'nalishlar va so'rovlar bo'yicha yordam berishga tayyor edilar.<br><br>Yaxshilash nuqtai nazaridan, men ovoz tizimini yangilashni ko'rib chiqishni taklif qilaman. Mening filmim davomida audio sifati biroz nomuvofiq edi. Bundan tashqari, filmlarning kengroq assortimentini, xususan, mustaqil yoki xorijiy filmlarni taklif qilish yanada xilma-xil tomoshabinlarni jalb qilishi mumkin. Nihoyat, ko'proq qulay avtoturargoh variantlarini taqdim etish ko'plab homiylar tomonidan albatta qadrlanadi.<br><br>Ushbu masalalarga e'tiboringiz uchun tashakkur. Kinoteatrning yanada yaxshilanishini ko'rishni intiqlik bilan kutaman.<br><br>Hurmat bilan,<br>Doimiy Kino Ishqibozi</p>"
+   },
+   "p1_context": "You received this email from a local cinema.",
+   "p1_scenario": "Dear Visitor,\n\nThank you for choosing our cinema! We hope you had an enjoyable experience.\nCould you tell us your thoughts on the ticket-buying process today? Was it quick and convenient?\nWe'd also like to know what you thought of the staff. Were they polite and helpful?\nFinally, what can we do to make the cinema a more enjoyable experience?\nWe appreciate your comments!\n\nCinema Management"
+  },
+  "examDate": "2026-02-24",
+  "settings": {
+   "logoUrl": "https://audio.mock-stream.com/img/ibb/WN0XY5Lv/logo.png",
+   "heading1": "Bilim va malakalarni baholash agentligi",
+   "heading2": "Chet tilini bilish darajasi",
+   "examTitle": "Writing exam",
+   "logoWording": "Mock Stream",
+   "testIdentifier": "mock_stream"
+  },
+  "vocabulary": {
+   "task2": [
+    {
+     "en": "fundamental part",
+     "uz": "asosiy qism"
+    },
+    {
+     "en": "topic of debate",
+     "uz": "munozara mavzusi"
+    },
+    {
+     "en": "classroom learning",
+     "uz": "sinf o'qishi"
+    },
+    {
+     "en": "independent study skills",
+     "uz": "mustaqil o'qish ko'nikmalari"
+    },
+    {
+     "en": "time management",
+     "uz": "vaqtni boshqarish"
+    },
+    {
+     "en": "excessive homework",
+     "uz": "haddan tashqari uy vazifasi"
+    },
+    {
+     "en": "stress and burnout",
+     "uz": "stress va charchash"
+    },
+    {
+     "en": "physical activities",
+     "uz": "jismoniy faoliyat"
+    },
+    {
+     "en": "enthusiasm for learning",
+     "uz": "o'qishga ishtiyoq"
+    },
+    {
+     "en": "home environments",
+     "uz": "uy muhiti"
+    },
+    {
+     "en": "unfair disadvantages",
+     "uz": "adolatsiz kamchiliklar"
+    },
+    {
+     "en": "quality matters",
+     "uz": "sifat muhim"
+    },
+    {
+     "en": "purposeful assignments",
+     "uz": "maqsadli topshiriqlar"
+    },
+    {
+     "en": "balanced approach",
+     "uz": "muvozanatli yondashuv"
+    },
+    {
+     "en": "reinforce learning",
+     "uz": "o'qishni mustahkamlash"
+    },
+    {
+     "en": "retention of knowledge",
+     "uz": "bilimni saqlash"
+    },
+    {
+     "en": "meet deadlines",
+     "uz": "muddatlarga rioya qilmoq"
+    },
+    {
+     "en": "prioritize tasks",
+     "uz": "vazifalarni tartiblash"
+    },
+    {
+     "en": "family interaction",
+     "uz": "oilaviy muloqot"
+    },
+    {
+     "en": "mindless repetition",
+     "uz": "ma'nosiz takrorlash"
+    }
+   ],
+   "task11": [
+    {
+     "en": "great movie",
+     "uz": "ajoyib film"
+    },
+    {
+     "en": "feedback email",
+     "uz": "fikr-mulohaza emaili"
+    },
+    {
+     "en": "ticket prices",
+     "uz": "chipta narxlari"
+    },
+    {
+     "en": "a bit high",
+     "uz": "biroz yuqori"
+    },
+    {
+     "en": "online booking",
+     "uz": "onlayn bron qilish"
+    },
+    {
+     "en": "could be easier",
+     "uz": "osonroq bo'lishi mumkin"
+    },
+    {
+     "en": "really friendly",
+     "uz": "juda samimiy"
+    },
+    {
+     "en": "the experience",
+     "uz": "tajriba"
+    },
+    {
+     "en": "go again soon",
+     "uz": "tez orada yana borish"
+    },
+    {
+     "en": "watch together",
+     "uz": "birga tomosha qilmoq"
+    },
+    {
+     "en": "comfortable seats",
+     "uz": "qulay o'rindiqlar"
+    },
+    {
+     "en": "sound quality",
+     "uz": "ovoz sifati"
+    },
+    {
+     "en": "screen size",
+     "uz": "ekran o'lchami"
+    },
+    {
+     "en": "snack bar",
+     "uz": "gazak do'koni"
+    },
+    {
+     "en": "popcorn",
+     "uz": "popkorn"
+    },
+    {
+     "en": "movie selection",
+     "uz": "film tanlovi"
+    },
+    {
+     "en": "showing times",
+     "uz": "namoyish vaqtlari"
+    },
+    {
+     "en": "worth it",
+     "uz": "arziydi"
+    },
+    {
+     "en": "had fun",
+     "uz": "zavq oldik"
+    },
+    {
+     "en": "next time",
+     "uz": "keyingi safar"
+    }
+   ],
+   "task12": [
+    {
+     "en": "enjoyable experience",
+     "uz": "yoqimli tajriba"
+    },
+    {
+     "en": "ticket-buying process",
+     "uz": "chipta sotib olish jarayoni"
+    },
+    {
+     "en": "online booking system",
+     "uz": "onlayn bron tizimi"
+    },
+    {
+     "en": "user-friendly",
+     "uz": "foydalanishga qulay"
+    },
+    {
+     "en": "seat selection",
+     "uz": "o'rin tanlash"
+    },
+    {
+     "en": "exceptionally polite",
+     "uz": "nihoyatda xushmuomala"
+    },
+    {
+     "en": "efficiently guided",
+     "uz": "samarali yo'naltirdi"
+    },
+    {
+     "en": "affordable snack options",
+     "uz": "arzon gazak variantlari"
+    },
+    {
+     "en": "concession prices",
+     "uz": "gazak narxlari"
+    },
+    {
+     "en": "comfortable seating",
+     "uz": "qulay o'tirg'ichlar"
+    },
+    {
+     "en": "extra legroom",
+     "uz": "qo'shimcha oyoq joyi"
+    },
+    {
+     "en": "viewing experience",
+     "uz": "tomosha tajribasi"
+    },
+    {
+     "en": "customer satisfaction",
+     "uz": "mijoz mamnuniyati"
+    },
+    {
+     "en": "cinema enthusiast",
+     "uz": "kino ishqibozi"
+    },
+    {
+     "en": "air conditioning",
+     "uz": "konditsioner"
+    },
+    {
+     "en": "parking facilities",
+     "uz": "avtoturargoh imkoniyatlari"
+    },
+    {
+     "en": "cleanliness standards",
+     "uz": "tozalik standartlari"
+    },
+    {
+     "en": "audio quality",
+     "uz": "audio sifati"
+    },
+    {
+     "en": "3D options",
+     "uz": "3D variantlari"
+    },
+    {
+     "en": "family discounts",
+     "uz": "oilaviy chegirmalar"
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "can": {
+    "uz": "mumkin",
+    "type": "modal"
+   },
+   "may": {
+    "uz": "mumkin",
+    "type": "modal"
+   },
+   "could": {
+    "uz": "mumkin edi",
+    "type": "modal"
+   },
+   "quite": {
+    "uz": "ancha",
+    "type": "adv"
+   },
+   "would": {
+    "uz": "edi",
+    "type": "modal"
+   },
+   "really": {
+    "uz": "haqiqatan ham",
+    "type": "adv"
+   },
+   "Firstly": {
+    "uz": "Birinchidan",
+    "type": "adv"
+   },
+   "However": {
+    "uz": "Biroq",
+    "type": "adv"
+   },
+   "go over": {
+    "uz": "takrorlab chiqmoq",
+    "type": "phrasal"
+   },
+   "greatly": {
+    "uz": "juda",
+    "type": "adv"
+   },
+   "overall": {
+    "uz": "umuman",
+    "type": "adv"
+   },
+   "Moreover": {
+    "uz": "Bundan tashqari",
+    "type": "adv"
+   },
+   "actually": {
+    "uz": "aslida",
+    "type": "adv"
+   },
+   "In my view": {
+    "uz": "mening fikrimcha",
+    "type": "linking"
+   },
+   "Supporters": {
+    "uz": "Tarafdorlar",
+    "type": "colloc"
+   },
+   "Ultimately": {
+    "uz": "Oxir-oqibat",
+    "type": "adv"
+   },
+   "a bit much": {
+    "uz": "biroz ortiqcha",
+    "type": "idiom"
+   },
+   "dedication": {
+    "uz": "sadoqat",
+    "type": "colloc"
+   },
+   "invaluable": {
+    "uz": "beqiyos",
+    "type": "adv"
+   },
+   "relatively": {
+    "uz": "nisbatan",
+    "type": "adv"
+   },
+   "Funny thing": {
+    "uz": "qizig'i shundaki",
+    "type": "colloc"
+   },
+   "Furthermore": {
+    "uz": "Qolaversa",
+    "type": "adv"
+   },
+   "efficiently": {
+    "uz": "samarali",
+    "type": "adv"
+   },
+   "great movie": {
+    "uz": "zo'r kino",
+    "type": "colloc"
+   },
+   "Additionally": {
+    "uz": "Bundan tashqari",
+    "type": "adv"
+   },
+   "On the whole": {
+    "uz": "umuman olganda",
+    "type": "linking"
+   },
+   "buzzing about": {
+    "uz": "hayajonda bo'lmoq",
+    "type": "idiom"
+   },
+   "come in handy": {
+    "uz": "asqotmoq",
+    "type": "idiom"
+   },
+   "exceptionally": {
+    "uz": "g'oyatda",
+    "type": "adv"
+   },
+   "go again soon": {
+    "uz": "tez orada yana bormoq",
+    "type": "colloc"
+   },
+   "significantly": {
+    "uz": "sezilarli darajada",
+    "type": "adv"
+   },
+   "sort that out": {
+    "uz": "buni hal qilmoq",
+    "type": "phrasal"
+   },
+   "ticket prices": {
+    "uz": "chipta narxlari",
+    "type": "colloc"
+   },
+   "user-friendly": {
+    "uz": "foydalanuvchilar uchun qulay",
+    "type": "colloc"
+   },
+   "feedback email": {
+    "uz": "fikr-mulohaza xati",
+    "type": "colloc"
+   },
+   "online booking": {
+    "uz": "onlayn bron qilish",
+    "type": "colloc"
+   },
+   "show their age": {
+    "uz": "eskirib qolmoq",
+    "type": "idiom"
+   },
+   "look forward to": {
+    "uz": "intiqlik bilan kutmoq",
+    "type": "colloc"
+   },
+   "quality matters": {
+    "uz": "sifat muhim",
+    "type": "colloc"
+   },
+   "time management": {
+    "uz": "vaqtni boshqarish",
+    "type": "colloc"
+   },
+   "topic of debate": {
+    "uz": "munozara mavzusi",
+    "type": "colloc"
+   },
+   "fundamental part": {
+    "uz": "asosiy qism",
+    "type": "colloc"
+   },
+   "put off learning": {
+    "uz": "o'qishdan bezdirmoq",
+    "type": "phrasal"
+   },
+   "well-thought-out": {
+    "uz": "puxta o'ylangan",
+    "type": "colloc"
+   },
+   "concession prices": {
+    "uz": "bufet narxlari",
+    "type": "colloc"
+   },
+   "home environments": {
+    "uz": "uy muhiti",
+    "type": "colloc"
+   },
+   "classroom learning": {
+    "uz": "sinfda ta'lim olish",
+    "type": "colloc"
+   },
+   "excessive homework": {
+    "uz": "haddan tashqari uy vazifasi",
+    "type": "colloc"
+   },
+   "stress and burnout": {
+    "uz": "stress va charchash",
+    "type": "colloc"
+   },
+   "comfortable seating": {
+    "uz": "qulay o'rindiqlar",
+    "type": "colloc"
+   },
+   "physical activities": {
+    "uz": "jismoniy faoliyat",
+    "type": "colloc"
+   },
+   "enjoyable experience": {
+    "uz": "yoqimli tajriba",
+    "type": "colloc"
+   },
+   "room for improvement": {
+    "uz": "yaxshilanishga o'rin bor",
+    "type": "idiom"
+   },
+   "unfair disadvantages": {
+    "uz": "adolatsiz kamchiliklar",
+    "type": "colloc"
+   },
+   "online booking system": {
+    "uz": "onlayn bron qilish tizimi",
+    "type": "colloc"
+   },
+   "ticket-buying process": {
+    "uz": "chita sotib olish jarayoni",
+    "type": "colloc"
+   },
+   "do more harm than good": {
+    "uz": "foydadan ko'ra ko'proq zarar keltirmoq",
+    "type": "idiom"
+   },
+   "make a real difference": {
+    "uz": "sezilarli farq qilmoq",
+    "type": "idiom"
+   },
+   "making new ideas stick": {
+    "uz": "yangi g'oyalarni yodda qoldirmoq",
+    "type": "idiom"
+   },
+   "purposeful assignments": {
+    "uz": "maqsadli topshiriqlar",
+    "type": "colloc"
+   },
+   "a strong case in favour": {
+    "uz": "foydasiga kuchli dalil",
+    "type": "colloc"
+   },
+   "emailed me for feedback": {
+    "uz": "menga fikr so'rab xat yozishdi",
+    "type": "colloc"
+   },
+   "enthusiasm for learning": {
+    "uz": "o'rganishga ishtiyoq",
+    "type": "colloc"
+   },
+   "get a groan in response": {
+    "uz": "norozilik bilan kutib olinmoq",
+    "type": "idiom"
+   },
+   "affordable snack options": {
+    "uz": "arzon yengil tamaddilar",
+    "type": "colloc"
+   },
+   "could do with an upgrade": {
+    "uz": "yangilanishga muhtoj",
+    "type": "phrasal"
+   },
+   "independent study skills": {
+    "uz": "mustaqil o'qish ko'nikmalari",
+    "type": "colloc"
+   },
+   "deserve a special mention": {
+    "uz": "alohida e'tirofga loyiq",
+    "type": "colloc"
+   },
+   "more than willing to help": {
+    "uz": "yordam berishga bajonidil tayyor",
+    "type": "colloc"
+   },
+   "quick and straightforward": {
+    "uz": "tez va sodda",
+    "type": "colloc"
+   },
+   "taking my feedback on board": {
+    "uz": "fikrimni inobatga olmoq",
+    "type": "idiom"
+   }
+  }
+ },
+ "created_at": "2026-05-06T14:59:25.305658+00:00",
+ "updated_at": "2026-07-06T10:55:10.263216+00:00"
+}

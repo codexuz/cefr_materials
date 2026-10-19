@@ -1,0 +1,605 @@
+{
+ "id": 478,
+ "mock_type": "cefr-writing",
+ "mock_number": 102,
+ "title": "CEFR Writing Mock 102",
+ "status": "published",
+ "mock_data": {
+  "part1": {
+   "chip": "culture",
+   "topic": "Local museum event"
+  },
+  "tasks": {
+   "t2": {
+    "chip": "education",
+    "genre": "forum",
+    "title": "Teaching art and music in schools",
+    "prompt": "You are participating in an online discussion for students and teachers.\n\nThe question is:\n\n\"Do schools still need to teach art and music subjects?\"\n\nPost your response, giving reasons and examples.",
+    "sample": "The question of whether arts and music should remain <span class=\"ml-token academic\">core components</span> of the school curriculum is <span class=\"ml-token academic\">a perennial debate</span>, but I firmly believe their role is <span class=\"ml-token colloc\">more critical than ever</span>. In an era increasingly dominated by STEM, the arts provide <span class=\"ml-token academic\">an indispensable counterbalance</span>, fostering skills that are not easily quantifiable but are vital for <span class=\"ml-token academic\">holistic development</span>.\n\nFirstly, subjects like music, drama, and visual arts are fundamental to nurturing creativity and <span class=\"ml-token colloc\">critical thinking</span>. They teach students to interpret the world through different lenses, to solve problems with no single correct answer, and to innovate. For example, a student learning to improvise in a jazz ensemble is developing cognitive flexibility and collaborative skills that are <span class=\"ml-token academic\">eminently transferable</span> to any professional field.\n\nSecondly, the arts are a powerful medium for cultural understanding and emotional expression. They provide a space for students to explore their own identity and to develop empathy by engaging with the perspectives of others from different eras and cultures. This cultivation of <span class=\"ml-token academic\">emotional intelligence</span> is arguably as important as academic prowess.\n\nWhile some may argue that these subjects are luxuries in a <span class=\"ml-token academic\">results-driven</span> educational system, I contend they are necessities. They equip students not just to find jobs, but to lead <span class=\"ml-token colloc\">fulfilling and meaningful lives</span>.",
+    "target": "180–200 words",
+    "sampleA1": "Some people think art and music are not important at school. But I <span class=\"ml-token colloc\">do not agree</span>. Art and music are fun. They help students to be <span class=\"ml-token colloc\">creative and happy</span>. Maths is important too. But school is not only exams. I think schools must teach art and music.",
+    "sampleA2": "Some people think schools do not need art and music. But <span class=\"ml-token colloc\">I do not agree</span>. Art and music help students to be creative. They also help students relax. Maths and science are important too, but school is not only about exams. <span class=\"ml-token linking\">In conclusion</span>, I think schools should teach art and music because they are good for students.",
+    "sampleB1": "Some people think schools do not need art and music because science and maths are more useful. But <span class=\"ml-token colloc\">I do not agree</span>. First, art and music help students to be creative, and creativity is <span class=\"ml-token colloc\">useful in many jobs</span>. Second, these subjects help students relax and <span class=\"ml-token colloc\">show their feelings</span>. Of course, maths and science are important for work. But school should help the whole student, not only exams. <span class=\"ml-token linking\">In conclusion</span>, I think schools should still teach art and music because they are good for students.",
+    "sampleB2": "This is such a great question, and honestly it's one I <span class=\"ml-token colloc\">feel strongly about</span>. In my opinion, schools absolutely still need to teach art and music — perhaps now more than ever.\nFor a start, these subjects <span class=\"ml-token idiom\">do wonders for</span> creativity. When you paint a picture or learn an instrument, you train your brain to <span class=\"ml-token idiom\">think outside the box</span> and <span class=\"ml-token phrasal\">come up with</span> fresh ideas. That kind of creative thinking is incredibly useful, whether you end up as an engineer, a doctor or a business owner.\n<span class=\"ml-token linking\">On top of that</span>, art and music are brilliant for our well-being. After a stressful day of maths and science, picking up a guitar or sketching something helps students relax and express how they really feel.\nOf course, I get the other side — some people argue that exam subjects should <span class=\"ml-token colloc\">come first</span>. But surely a good school should <span class=\"ml-token colloc\">shape the whole person</span>, not just <span class=\"ml-token phrasal\">churn out</span> exam results?\nWhat does everyone else think? Did art or music classes make a real difference for you at school? I'd genuinely love to hear your stories in the comments below!",
+    "uzSample": "San'at va musiqa maktab o'quv dasturining asosiy qismlari bo'lib qolishi kerakmi degan savol doimiy bahs-munozaralarga sabab bo'ladi, ammo men ularning o'rni har qachongidan ham muhimroq ekanligiga qat'iy ishonaman. STEM fanlari tobora ustunlik qilayotgan bir davrda, san'at fanlari <mark>ajralmas muvozanatni</mark> ta'minlab, miqdoriy jihatdan o'lchash qiyin bo'lgan, ammo har tomonlama rivojlanish uchun hayotiy ahamiyatga ega bo'lgan ko'nikmalarni shakllantiradi.\n\nMusiqa, drama va tasviriy san'at kabi fanlar, birinchi navbatda, ijodkorlik va tanqidiy fikrlashni tarbiyalash uchun asosdir. Ular o'quvchilarga dunyoni turli nuqtai nazardan tushunishni, yagona to'g'ri javobi bo'lmagan muammolarni hal qilishni va yangilik yaratishni o'rgatadi. Masalan, jazz ansamblida improvizatsiya qilishni o'rganayotgan o'quvchi har qanday professional sohaga <mark>osonlik bilan o'tkaziladigan</mark> kognitiv moslashuvchanlik va hamkorlik ko'nikmalarini rivojlantiradi.\n\nIkkinchidan, san'at madaniy tushunish va hissiy ifoda uchun kuchli vositadir. Ular o'quvchilarga o'z shaxsiyatini o'rganish va turli davrlar va madaniyatlardagi boshqa odamlarning nuqtai nazarlari bilan tanishish orqali empatiyani rivojlantirish uchun maydon yaratadi. <mark>Hissiy intellektni rivojlantirish</mark>, shubhasiz, akademik salohiyat kabi muhimdir.\n\nBa'zilar bu fanlarni natijaga yo'naltirilgan ta'lim tizimida dabdaba deb hisoblashi mumkin, ammo men ularni zaruriyat deb bilaman. Ular o'quvchilarni nafaqat ish topishga, balki <mark>to'laqonli va mazmunli hayot kechirishga</mark> tayyorlaydi.",
+    "uzSampleA1": "Ba'zilar maktabda san'at va musiqa muhim emas deydi. Lekin men rozi emasman. San'at va musiqa qiziqarli. Ular o'quvchilarni ijodkor va baxtli qiladi. Matematika ham muhim. Lekin maktab faqat imtihon emas. Menimcha maktablar san'at va musiqani o'qitishi kerak.",
+    "uzSampleA2": "Ba'zilar maktablarga san'at va musiqa kerak emas deydi. Lekin men rozi emasman. San'at va musiqa o'quvchilarga ijodkor bo'lishga yordam beradi. Ular dam olishga ham yordam beradi. Matematika va fan ham muhim, lekin maktab faqat imtihon emas. Xulosa, menimcha maktablar san'at va musiqani o'qitishi kerak, chunki ular o'quvchilar uchun foydali.",
+    "uzSampleB1": "Ba'zilar maktablarga san'at va musiqa kerak emas deb o'ylaydi, chunki fan va matematika foydaliroq. Lekin men rozi emasman. Birinchidan, san'at va musiqa o'quvchilarga ijodkor bo'lishga yordam beradi, va ijodkorlik ko'p kasbda foydali. Ikkinchidan, bu fanlar o'quvchilarga dam olish va his-tuyg'ularini ko'rsatishga yordam beradi. Albatta, matematika va fan ish uchun muhim. Lekin maktab butun o'quvchiga yordam berishi kerak, faqat imtihon emas. Xulosa, menimcha maktablar san'at va musiqani o'qitishi kerak, chunki ular o'quvchilar uchun foydali.",
+    "uzSampleB2": "Ba'zilar maktablar tasviriy san'at va musiqani o'qitishni to'xtatishi kerak, chunki bu fanlar fan yoki matematikadan kamroq foydali deb o'ylaydi. Biroq, men bunga qat'iy qarshiman. Birinchidan, san'at va musiqa ijodkorlikni rivojlantiradi, bu esa bugungi kunda deyarli har bir kasbda muhim. Ikkinchidan, bu fanlar o'quvchilarga dam olish va his-tuyg'ularini ifodalashga yordam beradi, bu ularning ruhiy holatini yaxshilaydi. Albatta, akademik fanlar kasb uchun muhim, lekin yaxshi ta'lim faqat imtihon natijalarini emas, butun shaxsni rivojlantirishi kerak. Xulosa qilib aytganda, maktablar san'at va musiqani o'qitishda davom etishi kerak, chunki ular o'quvchilarni ijodkor, muvozanatli va baxtli qiladi."
+   },
+   "t11": {
+    "title": "Informal letter · to friend",
+    "prompt": "Write a letter to your friend, who is also interested in museums. Write about the event and ask if they would like to join you.",
+    "sample": "Hi Alex,\n\nHope you're well. I just received an email from the museum about a special event this Friday and <span class=\"ml-token idiom\">thought of you immediately</span>. They're offering guided tours and discounts in the shop, which <span class=\"ml-token idiom\">piqued my interest</span>. <span class=\"ml-token linking\">Given our shared love</span> for history, I thought this could be <span class=\"ml-token idiom\">a golden opportunity</span> for a <span class=\"ml-token colloc\">catch-up</span>. Are you free to join? Let me know what you think.\n\nBest,\n\nChris",
+    "target": "50 words",
+    "sampleA1": "Hi Jordan, We have a museum event next Friday. There is a tour and food. You like museums. Do you want to <span class=\"ml-token phrasal\">come with me</span>? Please tell me. Alex",
+    "sampleA2": "Hi Jordan, Our museum club has <span class=\"ml-token colloc\">a special event</span> next Friday. There is a tour and a talk about Egypt. I know you like museums. There is also food. Do you want to <span class=\"ml-token phrasal\">come with me</span>? Please tell me soon. Alex",
+    "sampleB1": "Hi Jordan, <span class=\"ml-token colloc\">I have some news</span>. Our museum club is having a special event next Friday. There will be <span class=\"ml-token colloc\">a guided tour</span> and a talk about ancient Egypt. I know you like museums, so I <span class=\"ml-token idiom\">thought of you</span>. There will also be food. Do you want to come with me? Please tell me soon. Best wishes, Alex",
+    "sampleB2": "Hi Aziz,\n<span class=\"ml-token colloc\">Guess what</span>? Our museum is <span class=\"ml-token phrasal\">putting on</span> a special event this Friday — guided tours all day and cheap books in the shop! I know you're <span class=\"ml-token idiom\">mad about history</span>, so I <span class=\"ml-token idiom\">thought of you straight away</span>. Fancy <span class=\"ml-token phrasal\">coming along</span> with me? We could <span class=\"ml-token colloc\">grab a coffee</span> afterwards. <span class=\"ml-token colloc\">Let me know</span>!\nCheers,\nDilnoza Karimova",
+    "uzSample": "Salom Aleks,\n\nUmid qilamanki, ishlaring yaxshi. Hozirgina muzeydan shu juma kuni bo'lib o'tadigan maxsus tadbir haqida xat oldim va <mark>darhol seni o'yladim</mark>. Ular ekskursiyalar va do'konda chegirmalar taklif qilishmoqda, bu esa <mark>mening qiziqishimni uyg'otdi</mark>. Tarixga bo'lgan umumiy mehrimizni hisobga olib, bu diydorlashish uchun <mark>ajoyib imkoniyat</mark> bo'ladi deb o'yladim. Bo'shmisan, qo'shilasanmi? Nima deb o'ylashingni menga bildirib qo'y.\n\nYaxshi tilaklar bilan,\n\nKris",
+    "uzSampleA1": "Salom Jordan, kelasi juma muzey tadbiri bor. Sayohat va ovqat bor. Sen muzeylarni yaxshi ko'rasan. Men bilan borasanmi? Menga ayt. Alex",
+    "uzSampleA2": "Salom Jordan, muzey klubimizda kelasi juma maxsus tadbir bor. Sayohat va Misr haqida ma'ruza bo'ladi. Sen muzeylarni yaxshi ko'rasan. Ovqat ham bor. Men bilan borasanmi? Tezroq ayt. Alex",
+    "uzSampleB1": "Salom Jordan, menda yangilik bor. Muzey klubimiz kelasi juma kuni maxsus tadbir o'tkazadi. Sayohat va qadimgi Misr haqida ma'ruza bo'ladi. Sen muzeylarni yaxshi ko'rasan, shuning uchun seni esladim. Ovqat ham bo'ladi. Men bilan borishni xohlaysanmi? Tezroq ayt. Alex",
+    "uzSampleB2": "Salom Jordan, bilasanmi? Muzey klubimiz kelasi juma kuni maxsus kechki tadbir o'tkazadi — sayohat va qadimgi Misr haqida ma'ruza bo'ladi. Sen tarixni qanchalik yaxshi ko'rishingni bilaman, shuning uchun darrov seni esladim. U yerda ovqat ham bo'ladi va odatda ko'rgazmada bo'lmaydigan buyumlarni ko'rish imkoni bor. Men bilan borishni xohlaysanmi? Tezroq ayt! Alex"
+   },
+   "t12": {
+    "title": "Formal letter · to manager",
+    "prompt": "Write a letter to the museum events manager. Explain your opinion about the planned event and suggest some ideas for future museum activities.",
+    "sample": "Dear Events Manager,\n\nThank you for your email regarding the special event this Friday. The planned activities are <span class=\"ml-token academic\">a commendable initiative</span>; the guided tours, in particular, offer a fantastic way to <span class=\"ml-token colloc\">engage more deeply</span> with the exhibits. The shop discounts are also <span class=\"ml-token colloc\">a welcome incentive</span> for visitors.\n\n<span class=\"ml-token linking\">Looking ahead</span>, I believe incorporating more interactive elements could further <span class=\"ml-token academic\">augment the visitor experience</span>. For instance, organising <span class=\"ml-token colloc\">hands-on workshops</span> related to current exhibitions, such as pottery or printmaking, would likely prove very popular. Furthermore, hosting lectures by <span class=\"ml-token academic\">esteemed experts</span> or curators could attract a dedicated audience and <span class=\"ml-token colloc\">foster a stronger community</span> around the museum. \n\nThank you for considering my feedback.\n\nYours sincerely,\n\nAlex Miller",
+    "target": "120–150 words",
+    "sampleA1": "Dear Sir or Madam, The event next Friday is <span class=\"ml-token colloc\">a good idea</span>. We can see many things. I have an idea. Please do the tour two times. You can also make workshops for children. Thank you. Yours faithfully, Alex Carter",
+    "sampleA2": "Dear Sir or Madam, I am writing about the event next Friday. I think it is <span class=\"ml-token colloc\">a good idea</span>. We can see rare things and learn a lot. I have some ideas too. You can do the tour at two times. <span class=\"ml-token linking\">For the future</span>, you can have workshops for children. Thank you. Yours faithfully, Alex Carter",
+    "sampleB1": "Dear Sir or Madam, I am writing about the special event next Friday. I think it is <span class=\"ml-token colloc\">a very good idea</span> because we can see rare things and learn from experts. But I have some ideas. Maybe you can do the tour at two times, so more members can come. <span class=\"ml-token linking\">For the future</span>, the museum could have <span class=\"ml-token colloc\">workshops for children</span> or talks by local historians. I think many people would like this. Thank you very much. Yours faithfully, Alex Carter",
+    "sampleB2": "Dear Events Manager,\nThank you for your email about the special event this Friday. I <span class=\"ml-token colloc\">would be delighted to attend</span>, and I think the planned activities are a great idea. The guided tours are a wonderful way to explore the collection in more depth, and the discounts in the shop are <span class=\"ml-token idiom\">a nice touch</span> that visitors are sure to appreciate.\n<span class=\"ml-token linking\">Looking ahead</span>, <span class=\"ml-token colloc\">I would like to suggest</span> a few ideas for future events. Firstly, it would be lovely to run <span class=\"ml-token colloc\">hands-on workshops</span>, such as painting or pottery, which would appeal to families with children. Secondly, the museum could host evening talks by local historians to <span class=\"ml-token colloc\">attract a wider audience</span>. An interactive exhibition using technology might also help to <span class=\"ml-token phrasal\">draw in</span> younger visitors.\nThank you for <span class=\"ml-token idiom\">taking my feedback on board</span>. <span class=\"ml-token colloc\">I look forward to hearing</span> about your plans.\nYours sincerely,\nBekzod Aliyev",
+    "uzSample": "Hurmatli Tadbirlar Menejeri,\n\nUshbu juma kungi maxsus tadbir haqidagi xatingiz uchun tashakkur. Rejalashtirilgan tadbirlar — bu <mark>maqtovga sazovor tashabbus</mark>; ayniqsa, ekskursiyalar eksponatlar bilan chuqurroq tanishishning ajoyib usulini taqdim etadi. Do'kondagi chegirmalar ham tashrif buyuruvchilar uchun yoqimli rag'batdir.\n\nKelajakka nazar tashlaydigan bo'lsak, menimcha, ko'proq interaktiv elementlarni kiritish <mark>tashrif buyuruvchilar tajribasini yanada boyitishi</mark> mumkin. Masalan, kulolchilik yoki bosma san'ati kabi joriy ko'rgazmalarga oid <mark>amaliy mahorat darslari</mark> tashkil etish katta ehtimol bilan juda ommalashadi. Bundan tashqari, <mark>hurmatli mutaxassislar</mark> yoki kuratorlar tomonidan ma'ruzalar o'tkazish maxsus auditoriyani jalb qilishi va muzey atrofida kuchliroq hamjamiyatni shakllantirishi mumkin.\n\nFikr-mulohazalarimni ko'rib chiqqaningiz uchun tashakkur.\n\nHurmat bilan,\n\nAleks Miller",
+    "uzSampleA1": "Hurmatli janob yoki xonim, kelasi juma tadbiri yaxshi g'oya. Biz ko'p narsa ko'ramiz. Menda g'oya bor. Iltimos, sayohatni ikki marta qiling. Bolalar uchun ham mashg'ulot qiling. Rahmat. Hurmat bilan, Alex Carter",
+    "uzSampleA2": "Hurmatli janob yoki xonim, kelasi juma tadbiri haqida yozmoqdaman. Menimcha, bu yaxshi g'oya. Biz noyob narsalarni ko'ramiz va ko'p narsa o'rganamiz. Menda ham g'oyalar bor. Sayohatni ikki vaqtda o'tkazsangiz bo'ladi. Kelajak uchun bolalar uchun mashg'ulotlar qiling. Rahmat. Hurmat bilan, Alex Carter",
+    "uzSampleB1": "Hurmatli janob yoki xonim, kelasi juma kungi maxsus tadbir haqida yozmoqdaman. Menimcha, bu juda yaxshi g'oya, chunki biz noyob narsalarni ko'ramiz va mutaxassislardan o'rganamiz. Lekin menda ba'zi g'oyalar bor. Balki sayohatni ikki vaqtda o'tkazarsiz, shunda ko'proq a'zo keladi. Kelajak uchun muzey bolalar uchun mashg'ulotlar yoki mahalliy tarixchilar ma'ruzasini o'tkazishi mumkin. Menimcha, ko'p odam buni yoqtiradi. Katta rahmat. Hurmat bilan, Alex Carter",
+    "uzSampleB2": "Hurmatli janob yoki xonim, muzey klubi kelasi juma kuniga rejalashtirgan maxsus kechki tadbir yuzasidan yozmoqdaman. Menimcha, bu ajoyib g'oya, chunki a'zolarga noyob buyumlarni ko'rish va mutaxassislardan o'rganish imkonini beradi. Biroq, bir nechta taklif bermoqchiman. Sayohatni ikki xil vaqtda o'tkazish foydali bo'lardi, shunda ko'proq a'zolar qatnasha oladi. Kelajakdagi tadbirlar uchun muzey bolalar uchun mashg'ulotlar yoki mahalliy tarixchilar bilan kechki suhbatlar tashkil qilishi mumkin. Bu g'oyalar ko'proq tashrifchini jalb qiladi deb o'ylayman. Mehnatingiz uchun rahmat. Hurmat bilan, Alex Carter"
+   },
+   "p1_context": "You are a member of a local museum club. You received an email from the museum events manager.",
+   "p1_scenario": "Dear Member,\n\nThis Friday, the museum will organize a special event for visitors. There will be guided tours around the museum, and the museum shop will offer discounts on books and souvenirs throughout the day.\n\nWe would like to know if you are interested in joining the event. What do you think about the planned activities? Are there any other events or services you would like the museum to organize in the future?\n\nWe appreciate your feedback and suggestions.\n\nKind regards,\n\nThe Events Manager"
+  },
+  "examDate": "2026-05-17",
+  "settings": {
+   "examTitle": "CEFR Writing"
+  },
+  "vocabulary": {
+   "task2": [
+    {
+     "en": "special event",
+     "uz": "maxsus tadbir"
+    },
+    {
+     "en": "guided tour",
+     "uz": "gid hamrohligidagi ekskursiya"
+    },
+    {
+     "en": "suggestion",
+     "uz": "taklif"
+    },
+    {
+     "en": "to develop skills",
+     "uz": "ko'nikmalarni rivojlantirish"
+    },
+    {
+     "en": "creative subjects",
+     "uz": "ijodiy fanlar"
+    },
+    {
+     "en": "in my opinion",
+     "uz": "mening fikrimcha"
+    },
+    {
+     "en": "to express oneself",
+     "uz": "o'zini ifoda etish"
+    },
+    {
+     "en": "critical thinking",
+     "uz": "tanqidiy fikrlash"
+    },
+    {
+     "en": "emotional development",
+     "uz": "hissiy rivojlanish"
+    },
+    {
+     "en": "academic performance",
+     "uz": "o'quv natijalari"
+    },
+    {
+     "en": "well-rounded education",
+     "uz": "har tomonlama ta'lim"
+    },
+    {
+     "en": "to foster creativity",
+     "uz": "ijodkorlikni rag'batlantirish"
+    },
+    {
+     "en": "core subjects",
+     "uz": "asosiy fanlar"
+    },
+    {
+     "en": "to give reasons",
+     "uz": "sabablarni keltirish"
+    },
+    {
+     "en": "to appreciate feedback",
+     "uz": "fikr-mulohazalarni qadrlash"
+    },
+    {
+     "en": "problem-solving skills",
+     "uz": "muammoni hal qilish qobiliyatlari"
+    },
+    {
+     "en": "to play a vital role",
+     "uz": "hayotiy muhim rol o'ynamoq"
+    },
+    {
+     "en": "an integral part of the curriculum",
+     "uz": "o'quv dasturining ajralmas qismi"
+    },
+    {
+     "en": "to broaden one's horizons",
+     "uz": "dunyoqarashni kengaytirish"
+    },
+    {
+     "en": "essential for cognitive development",
+     "uz": "kognitiv rivojlanish uchun zarur"
+    }
+   ],
+   "task11": [
+    {
+     "en": "event",
+     "uz": "tadbir"
+    },
+    {
+     "en": "to join",
+     "uz": "qo'shilmoq"
+    },
+    {
+     "en": "discount",
+     "uz": "chegirma"
+    },
+    {
+     "en": "souvenir",
+     "uz": "esdalik sovg'asi"
+    },
+    {
+     "en": "How about Friday?",
+     "uz": "Juma kuniga nima deysan?"
+    },
+    {
+     "en": "Let's go together.",
+     "uz": "Kettik, birga boramiz."
+    },
+    {
+     "en": "special event",
+     "uz": "maxsus tadbir"
+    },
+    {
+     "en": "guided tour",
+     "uz": "gid hamrohligidagi ekskursiya"
+    },
+    {
+     "en": "museum shop",
+     "uz": "muzey do'koni"
+    },
+    {
+     "en": "throughout the day",
+     "uz": "kun davomida"
+    },
+    {
+     "en": "I got an email",
+     "uz": "Menga elektron xat keldi"
+    },
+    {
+     "en": "to be interested in",
+     "uz": "qiziqmoq"
+    },
+    {
+     "en": "planned activities",
+     "uz": "rejalashtirilgan mashg'ulotlar"
+    },
+    {
+     "en": "to offer discounts",
+     "uz": "chegirmalar taklif qilmoq"
+    },
+    {
+     "en": "What do you think?",
+     "uz": "Bu haqda nima deb o'ylaysan?"
+    },
+    {
+     "en": "Let me know if you can make it.",
+     "uz": "Bora olsang, menga xabar ber."
+    },
+    {
+     "en": "I thought of you immediately.",
+     "uz": "Darhol sen haqingda o'yladim."
+    },
+    {
+     "en": "It sounds like a great plan.",
+     "uz": "Bu ajoyib rejaga o'xshaydi."
+    },
+    {
+     "en": "to be right up your alley",
+     "uz": "aynan senga mos bo'lmoq"
+    },
+    {
+     "en": "We could grab a coffee afterwards.",
+     "uz": "Keyin bir finjon qahva ichsak bo'lardi."
+    }
+   ],
+   "task12": [
+    {
+     "en": "events manager",
+     "uz": "tadbirlar menejeri"
+    },
+    {
+     "en": "guided tour",
+     "uz": "gid hamrohligidagi ekskursiya"
+    },
+    {
+     "en": "souvenir shop",
+     "uz": "esdalik sovg'alar do'koni"
+    },
+    {
+     "en": "to express my opinion",
+     "uz": "o'z fikrimni bildirmoq"
+    },
+    {
+     "en": "planned activities",
+     "uz": "rejalashtirilgan mashg'ulotlar"
+    },
+    {
+     "en": "I would like to suggest",
+     "uz": "Men taklif qilmoqchiman"
+    },
+    {
+     "en": "future events",
+     "uz": "kelajakdagi tadbirlar"
+    },
+    {
+     "en": "interactive exhibition",
+     "uz": "interaktiv ko'rgazma"
+    },
+    {
+     "en": "workshop for children",
+     "uz": "bolalar uchun mahorat darsi"
+    },
+    {
+     "en": "to attract a wider audience",
+     "uz": "kengroq auditoriyani jalb qilish"
+    },
+    {
+     "en": "valuable feedback",
+     "uz": "qimmatli fikr-mulohaza"
+    },
+    {
+     "en": "local community",
+     "uz": "mahalliy hamjamiyat"
+    },
+    {
+     "en": "to enhance the visitor experience",
+     "uz": "tashrif buyuruvchilar tajribasini boyitish"
+    },
+    {
+     "en": "a hands-on activity",
+     "uz": "amaliy mashg'ulot"
+    },
+    {
+     "en": "to cater to different interests",
+     "uz": "turli xil qiziqishlarga mos kelish"
+    },
+    {
+     "en": "a guest lecture",
+     "uz": "mehmon ma'ruzasi"
+    },
+    {
+     "en": "I am writing in response to your email",
+     "uz": "Sizning elektron xatingizga javoban yozyapman"
+    },
+    {
+     "en": "to generate more interest",
+     "uz": "ko'proq qiziqish uyg'otish"
+    },
+    {
+     "en": "I look forward to hearing from you",
+     "uz": "Sizdan javob kutib qolaman"
+    },
+    {
+     "en": "digital collection",
+     "uz": "raqamli kolleksiya"
+    }
+   ]
+  },
+  "targetLevel": "B1",
+  "tokenTranslations": {
+   "draw in": {
+    "uz": "jalb qilmoq",
+    "type": "phrasal"
+   },
+   "catch-up": {
+    "uz": "suhbatlashish",
+    "type": "colloc"
+   },
+   "churn out": {
+    "uz": "ketma-ket ishlab chiqarmoq",
+    "type": "phrasal"
+   },
+   "Guess what": {
+    "uz": "bilasanmi",
+    "type": "colloc"
+   },
+   "come first": {
+    "uz": "birinchi o'rinda turishi",
+    "type": "colloc"
+   },
+   "on display": {
+    "uz": "ko'rgazmada",
+    "type": "colloc"
+   },
+   "putting on": {
+    "uz": "tashkil qilmoqda",
+    "type": "phrasal"
+   },
+   "well-being": {
+    "uz": "farovonlik",
+    "type": "academic"
+   },
+   "Let me know": {
+    "uz": "menga xabar ber",
+    "type": "colloc"
+   },
+   "a good idea": {
+    "uz": "yaxshi g'oya",
+    "type": "colloc"
+   },
+   "a nice touch": {
+    "uz": "yoqimli qo'shimcha",
+    "type": "idiom"
+   },
+   "come up with": {
+    "uz": "o'ylab topmoq",
+    "type": "phrasal"
+   },
+   "come with me": {
+    "uz": "men bilan borish",
+    "type": "phrasal"
+   },
+   "coming along": {
+    "uz": "birga borish",
+    "type": "phrasal"
+   },
+   "do not agree": {
+    "uz": "rozi emasman",
+    "type": "colloc"
+   },
+   "In conclusion": {
+    "uz": "xulosa qilib",
+    "type": "linking"
+   },
+   "Looking ahead": {
+    "uz": "kelajakka nazar tashlab",
+    "type": "linking"
+   },
+   "a guided tour": {
+    "uz": "boshlab boriladigan sayohat",
+    "type": "colloc"
+   },
+   "grab a coffee": {
+    "uz": "bir finjon qahva ichish",
+    "type": "colloc"
+   },
+   "For the future": {
+    "uz": "kelajak uchun",
+    "type": "linking"
+   },
+   "I do not agree": {
+    "uz": "men rozi emasman",
+    "type": "colloc"
+   },
+   "On top of that": {
+    "uz": "bundan tashqari",
+    "type": "linking"
+   },
+   "do wonders for": {
+    "uz": "juda foydali ta'sir ko'rsatadi",
+    "type": "idiom"
+   },
+   "results-driven": {
+    "uz": "natijaga yo'naltirilgan",
+    "type": "academic"
+   },
+   "thought of you": {
+    "uz": "seni esladim",
+    "type": "idiom"
+   },
+   "a special event": {
+    "uz": "maxsus tadbir",
+    "type": "colloc"
+   },
+   "core components": {
+    "uz": "asosiy tarkibiy qismlar",
+    "type": "academic"
+   },
+   "I have some news": {
+    "uz": "menda yangilik bor",
+    "type": "colloc"
+   },
+   "a very good idea": {
+    "uz": "juda yaxshi g'oya",
+    "type": "colloc"
+   },
+   "esteemed experts": {
+    "uz": "hurmatli mutaxassislar",
+    "type": "academic"
+   },
+   "the whole person": {
+    "uz": "butun shaxs",
+    "type": "colloc"
+   },
+   "Some people think": {
+    "uz": "ba'zi odamlar o'ylaydi",
+    "type": "colloc"
+   },
+   "an excellent idea": {
+    "uz": "ajoyib g'oya",
+    "type": "colloc"
+   },
+   "critical thinking": {
+    "uz": "tanqidiy fikrlash",
+    "type": "colloc"
+   },
+   "mad about history": {
+    "uz": "tarixni juda yaxshi ko'radi",
+    "type": "idiom"
+   },
+   "a perennial debate": {
+    "uz": "doimiy bahs",
+    "type": "academic"
+   },
+   "creative and happy": {
+    "uz": "ijodkor va baxtli",
+    "type": "colloc"
+   },
+   "develop creativity": {
+    "uz": "ijodkorlikni rivojlantirish",
+    "type": "colloc"
+   },
+   "engage more deeply": {
+    "uz": "chuqurroq jalb bo'lish",
+    "type": "colloc"
+   },
+   "hands-on workshops": {
+    "uz": "amaliy mahorat darslari",
+    "type": "colloc"
+   },
+   "learn from experts": {
+    "uz": "mutaxassislardan o'rganish",
+    "type": "colloc"
+   },
+   "piqued my interest": {
+    "uz": "qiziqishimni uyg'otdi",
+    "type": "idiom"
+   },
+   "I strongly disagree": {
+    "uz": "men qat'iy qarshiman",
+    "type": "colloc"
+   },
+   "a welcome incentive": {
+    "uz": "xush kelibdigan rag'bat",
+    "type": "colloc"
+   },
+   "feel strongly about": {
+    "uz": "juda muhim deb bilaman",
+    "type": "colloc"
+   },
+   "show their feelings": {
+    "uz": "his-tuyg'ularini ko'rsatish",
+    "type": "colloc"
+   },
+   "useful in many jobs": {
+    "uz": "ko'p ishda foydali",
+    "type": "colloc"
+   },
+   "a golden opportunity": {
+    "uz": "oltin imkoniyat",
+    "type": "idiom"
+   },
+   "holistic development": {
+    "uz": "yaxlit rivojlanish",
+    "type": "academic"
+   },
+   "Given our shared love": {
+    "uz": "umumiy qiziqishimizni hisobga olib",
+    "type": "linking"
+   },
+   "attract more visitors": {
+    "uz": "ko'proq tashrifchi jalb qilish",
+    "type": "colloc"
+   },
+   "think outside the box": {
+    "uz": "noan'anaviy fikrlash",
+    "type": "idiom"
+   },
+   "Would you like to come": {
+    "uz": "borishni xohlaysanmi",
+    "type": "colloc"
+   },
+   "eminently transferable": {
+    "uz": "osongina o'tkaziladigan",
+    "type": "academic"
+   },
+   "emotional intelligence": {
+    "uz": "hissiy intellekt",
+    "type": "academic"
+   },
+   "shape the whole person": {
+    "uz": "butun shaxsni shakllantirish",
+    "type": "colloc"
+   },
+   "workshops for children": {
+    "uz": "bolalar uchun mashg'ulotlar",
+    "type": "colloc"
+   },
+   "I would like to suggest": {
+    "uz": "taklif qilmoqchiman",
+    "type": "colloc"
+   },
+   "more critical than ever": {
+    "uz": "har qachongidan muhimroq",
+    "type": "colloc"
+   },
+   "a commendable initiative": {
+    "uz": "maqtovga sazovor tashabbus",
+    "type": "academic"
+   },
+   "attract a wider audience": {
+    "uz": "kengroq auditoriyani jalb qilish",
+    "type": "colloc"
+   },
+   "I look forward to hearing": {
+    "uz": "javobingizni kutib qolaman",
+    "type": "colloc"
+   },
+   "immediately thought of you": {
+    "uz": "darrov seni esladim",
+    "type": "idiom"
+   },
+   "thought of you immediately": {
+    "uz": "darrov seni esladim",
+    "type": "idiom"
+   },
+   "foster a stronger community": {
+    "uz": "mustahkam jamoa shakllantirish",
+    "type": "colloc"
+   },
+   "taking my feedback on board": {
+    "uz": "fikrimni inobatga olganingiz",
+    "type": "idiom"
+   },
+   "thought of you straight away": {
+    "uz": "darhol seni esladim",
+    "type": "idiom"
+   },
+   "would be delighted to attend": {
+    "uz": "qatnashishdan mamnun bo'lardim",
+    "type": "colloc"
+   },
+   "augment the visitor experience": {
+    "uz": "tashrifchi tajribasini kuchaytirish",
+    "type": "academic"
+   },
+   "an indispensable counterbalance": {
+    "uz": "muhim muvozanat",
+    "type": "academic"
+   },
+   "fulfilling and meaningful lives": {
+    "uz": "mazmunli va ma'noli hayot",
+    "type": "colloc"
+   }
+  }
+ },
+ "created_at": "2026-05-17T16:25:26.084631+00:00",
+ "updated_at": "2026-07-06T10:58:25.637054+00:00"
+}

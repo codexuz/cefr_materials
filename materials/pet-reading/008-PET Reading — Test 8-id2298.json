@@ -1,0 +1,686 @@
+{
+ "id": 2298,
+ "mock_type": "pet-reading",
+ "mock_number": 8,
+ "title": "PET Reading — Test 8",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "sign-mcq",
+    "items": [
+     {
+      "id": 1,
+      "image": "https://audio.mock-stream.com/PET-Reading/test8/q1.png",
+      "answer": "B",
+      "prompt": " ",
+      "options": [
+       {
+        "text": "Tell the doctor if you need to park here.",
+        "letter": "A"
+       },
+       {
+        "text": "Only the doctor working today can park here.",
+        "letter": "B"
+       },
+       {
+        "text": "Park in this space only in an emergency.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "image": "https://audio.mock-stream.com/PET-Reading/test8/q2.png",
+      "answer": "B",
+      "prompt": " ",
+      "options": [
+       {
+        "text": "Heidi will start her new job in September.",
+        "letter": "A"
+       },
+       {
+        "text": "Ruth wants Heidi to help her find employment.",
+        "letter": "B"
+       },
+       {
+        "text": "Ruth has offered to talk to Heidi's boss about her.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 3,
+      "image": "https://audio.mock-stream.com/PET-Reading/test8/q3.png",
+      "answer": "C",
+      "prompt": " ",
+      "options": [
+       {
+        "text": "Cameras cannot be used near this building.",
+        "letter": "A"
+       },
+       {
+        "text": "You must look after your cameras here.",
+        "letter": "B"
+       },
+       {
+        "text": "This building is guarded by cameras.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 4,
+      "image": "https://audio.mock-stream.com/PET-Reading/test8/q4.png",
+      "answer": "C",
+      "prompt": "Where should Helena meet the others?",
+      "options": [
+       {
+        "text": "at the café",
+        "letter": "A"
+       },
+       {
+        "text": "at the theatre",
+        "letter": "B"
+       },
+       {
+        "text": "at the club",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 5,
+      "image": "https://audio.mock-stream.com/PET-Reading/test8/q5.png",
+      "answer": "A",
+      "prompt": " ",
+      "options": [
+       {
+        "text": "We offer a choice of flats to rent in this area.",
+        "letter": "A"
+       },
+       {
+        "text": "This is the best area to find a flat.",
+        "letter": "B"
+       },
+       {
+        "text": "Flats in this area do not cost a lot.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "image": "https://audio.mock-stream.com/PET-Reading/test8/q0.png",
+     "answer": "A",
+     "number": 0,
+     "prompt": "NO BICYCLES AGAINST GLASS PLEASE",
+     "options": [
+      {
+       "text": "Do not leave your bicycle touching the window.",
+       "letter": "A"
+      },
+      {
+       "text": "Do not ride your bicycle in this area.",
+       "letter": "B"
+      },
+      {
+       "text": "Broken glass may damage your bicycle tyres.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partNumber": 1,
+    "instruction": [
+     "Look at the text in each question.",
+     "What does it say?",
+     "Mark the letter next to the correct explanation – A, B or C – on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "match-people-texts",
+    "items": [
+     {
+      "id": 6,
+      "name": "Ray and three friends",
+      "image": "https://audio.mock-stream.com/PET-Reading/test8/p6.png",
+      "answer": "C",
+      "description": "Ray and three of his friends would like to spend a whole weekend driving around in nice scenery and enjoying some of the local food."
+     },
+     {
+      "id": 7,
+      "name": "Phil and Adam",
+      "image": "https://audio.mock-stream.com/PET-Reading/test8/p7.png",
+      "answer": "F",
+      "description": "Phil and Adam want to go on a comfortable trip which takes them quickly to an interesting city. Then they want to enjoy at least two days of sightseeing."
+     },
+     {
+      "id": 8,
+      "name": "Mike, Kathy and family",
+      "image": "https://audio.mock-stream.com/PET-Reading/test8/p8.png",
+      "answer": "D",
+      "description": "Mike, Kathy and their three children don't have much money, but they want a special day out this Saturday. They must be back home by 9 p.m."
+     },
+     {
+      "id": 9,
+      "name": "Kirsten",
+      "image": "https://audio.mock-stream.com/PET-Reading/test8/p9.png",
+      "answer": "H",
+      "description": "Kirsten is a Dutch student who is studying in Scotland. She doesn't drive, but wants a day trip to see some beautiful scenery and spend a little time by the sea."
+     },
+     {
+      "id": 10,
+      "name": "Clare and Robert",
+      "image": "https://audio.mock-stream.com/PET-Reading/test8/p10.png",
+      "answer": "A",
+      "description": "Clare and Robert want to enjoy some good food, but would also like to give their two young children a day to remember. They don't mind if they spend a lot of money."
+     }
+    ],
+    "label": "PART 2",
+    "texts": [
+     {
+      "body": "The chance to experience the oceans of the world. Children will love the observatory, with water all around them and enormous fish swimming above their heads! Afterwards you eat at a world-famous local restaurant before boarding the ferry at 9 p.m. Not cheap, but a great day out!",
+      "title": "Marine Life, France",
+      "letter": "A"
+     },
+     {
+      "body": "Sail out in the evening and enjoy over 12 hours in the Netherlands, returning the following night. After a good Dutch breakfast you travel by train direct to the heart of the wonderful city of Amsterdam. The sightseeing and places to shop will make this a day to remember. Weekends only.",
+      "title": "Amsterdamer",
+      "letter": "B"
+     },
+     {
+      "body": "Once you arrive in Ireland you're quickly on beautiful country roads, with friendly villages where you can stop for a delicious bite to eat. The special price allows you to take your car and up to five people away for 48 hours, and two nights' hotel accommodation can be arranged for a little extra.",
+      "title": "Ireland by Car",
+      "letter": "C"
+     },
+     {
+      "body": "Whether you want to buy or just look, you'll love this tour. The enormous Durosy shopping centre is a shopper's dream! You will find a great number of local goods on sale, and clothes and kitchen goods are excellent value. Free children's entertainment all day. Leaves 10:00, back at 19:00.",
+      "title": "French Hypermarket Day Trip",
+      "letter": "D"
+     },
+     {
+      "body": "For good value shopping, take our newest cruise-ferry and you needn't worry about getting off! Leaving at 11 a.m., our duty-free shopping centre, more a floating department store than an on-board shop, opens at midday. We're back by 4 p.m. Sorry, only four people per ticket.",
+      "title": "Shop Till You Drop",
+      "letter": "E"
+     },
+     {
+      "body": "A four-day trip. From England you cross to Belgium in just 100 minutes by hydrofoil! You are served food and drinks during the crossing, then continue your journey to Brussels, or another beautiful city, on the fast Belgian railway network.",
+      "title": "Belgium by Hydrofoil",
+      "letter": "F"
+     },
+     {
+      "body": "After a relaxing voyage, you visit a beautiful area which is famous for its good things to eat. There you can enjoy some sightseeing and choose from a number of wonderful restaurants. Sail back on the night crossing. Sorry, adults only!",
+      "title": "A Taste of the Good Life in France",
+      "letter": "G"
+     },
+     {
+      "body": "Explore the Northern Ireland countryside, including the amazing Mountains of Mourne and the small seaside holiday town of Newcastle. The ferry leaves the port in Scotland at 7:30 and arrives back at 22:20. Transport in Northern Ireland is by air-conditioned coach.",
+      "title": "Sea and Mountains in Northern Ireland",
+      "letter": "H"
+     }
+    ],
+    "partNumber": 2,
+    "textsTitle": "Short Trips",
+    "instruction": [
+     "The people below all want to go on a short trip.",
+     "On the opposite page there are descriptions of eight trips which a ferry company is offering.",
+     "Decide which place (letters A–H) would be the most suitable for each person or group of people (numbers 6–10).",
+     "For each of these numbers mark the correct letter on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "true-false",
+    "items": [
+     {
+      "id": 11,
+      "answer": "B",
+      "statement": "Nene Valley Railway carries goods between distant cities."
+     },
+     {
+      "id": 12,
+      "answer": "A",
+      "statement": "One adult and three children can buy a Family Fare."
+     },
+     {
+      "id": 13,
+      "answer": "B",
+      "statement": "The Railway is the only attraction in Nene Park."
+     },
+     {
+      "id": 14,
+      "answer": "B",
+      "statement": "The biggest steam engine at Wansford is French."
+     },
+     {
+      "id": 15,
+      "answer": "B",
+      "statement": "You can see the German engine only at certain times of the year."
+     },
+     {
+      "id": 16,
+      "answer": "A",
+      "statement": "Passengers must pay extra to see the train collection at Wansford."
+     },
+     {
+      "id": 17,
+      "answer": "A",
+      "statement": "The Railway has appeared in at least one film."
+     },
+     {
+      "id": 18,
+      "answer": "B",
+      "statement": "Groups of school children can only visit the railway in May or June."
+     },
+     {
+      "id": 19,
+      "answer": "A",
+      "statement": "A group of fifty pupils pays more per child than a group of sixty."
+     },
+     {
+      "id": 20,
+      "answer": "A",
+      "statement": "You can book a train for a private party."
+     }
+    ],
+    "label": "PART 3",
+    "passage": "About the Railway\nThe twelve kilometre-long Nene Valley Railway passes through the lovely Nene Park, from an Eastern terminus at Peterborough to the Railway's headquarters in Wansford (next to the A1 main road). A two-kilometre extension of the Railway takes passengers through Wansford Tunnel to the quiet beauty of Yarwell, the present Western end of the line.\n\nFares: adult £10.00, child £5.00, Family Fare (up to 2 adults and 3 children) £25.00. Special prices may apply on public holidays.\n\nNene Park\nWith golf courses and a large Caravan Club site, why not make it a complete day out for the family by visiting Nene Park? There are thousands of hectares of public parkland with boating lakes, picnic areas and a nature reserve, as well as a miniature railway.\n\nWansford\nWansford Station is the home of a unique collection of historic trains from many parts of Europe. This includes such famous types as the elegant De Glen Compound locomotive from France, and the German Class 52 Kriegslok (the largest working steam engine in Britain) as well as '92 Squadron' and 'Mayflower' which were built in Britain. You can see these engines all year round whether or not the Nene Valley Railway is running. The buffet, bar and souvenir shop, however, are only open on days when the train is running. A site entrance fee of £2.00 for adults and £1.00 for children is charged at Wansford.\n\nA Famous Railway\nNene Valley Railway is a favourite with film makers, due in particular to its ability to take on the appearance of a railway in any part of Europe. Octopussy, in the series of James Bond movies, is a good example of what can be done. Come and see where it was filmed.\n\nServices for Schools\nThe Railway runs special timetable services from May to July to allow school groups to visit the railway and for teachers to set projects. The work can be done while pupils are here in the classroom. A special educational pack is available, price £1.50 plus postage. At other times of the year, school parties can hire the train ('Teddy Bear') with up to 3 carriages to travel along the Railway on non-service days. One month's prior booking is requested. There are special low fares for groups of 60 or more pupils. Telephone 01780 784444 for further information.\n\nPrivate Hire of Trains\nThe Railway is a popular place for special family occasions or a company visit. It can provide the setting for a most interesting afternoon or evening out. Special programmes can be arranged to meet your wishes to include buffet, bar, entertainment, discos, etc. For further information please contact the General Manager at Wansford Station.",
+    "partNumber": 3,
+    "instruction": [
+     "Look at the sentences below about Nene Valley Railway.",
+     "Read the text on the opposite page to decide if each sentence is correct or incorrect.",
+     "If it is correct, mark A on your answer sheet.",
+     "If it is not correct, mark B on your answer sheet."
+    ],
+    "passageImage": "https://audio.mock-stream.com/PET-Reading/test8/passage3.jpg",
+    "passageTitle": "NENE VALLEY RAILWAY",
+    "questionsLabel": "QUESTIONS 11–20"
+   },
+   {
+    "type": "passage-mcq",
+    "items": [
+     {
+      "id": 21,
+      "answer": "A",
+      "prompt": "What is the writer trying to do in the text?",
+      "options": [
+       {
+        "text": "give her opinions about a new book",
+        "letter": "A"
+       },
+       {
+        "text": "give some information about new writers",
+        "letter": "B"
+       },
+       {
+        "text": "give some advice to writers",
+        "letter": "C"
+       },
+       {
+        "text": "give her opinion of newspaper journalists",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 22,
+      "answer": "A",
+      "prompt": "Why would somebody read the text?",
+      "options": [
+       {
+        "text": "to find out more details about something",
+        "letter": "A"
+       },
+       {
+        "text": "to learn what next year's collection will contain",
+        "letter": "B"
+       },
+       {
+        "text": "to find out about Alan Rusbridger's new novel",
+        "letter": "C"
+       },
+       {
+        "text": "to decide whether to complain about something",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 23,
+      "answer": "C",
+      "prompt": "What does the writer think of New Writing 3?",
+      "options": [
+       {
+        "text": "It's too long.",
+        "letter": "A"
+       },
+       {
+        "text": "It's very amusing.",
+        "letter": "B"
+       },
+       {
+        "text": "It's very good.",
+        "letter": "C"
+       },
+       {
+        "text": "It's too serious.",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 24,
+      "answer": "D",
+      "prompt": "How might you feel after reading Jane Harris's piece?",
+      "options": [
+       {
+        "text": "hungry",
+        "letter": "A"
+       },
+       {
+        "text": "excited",
+        "letter": "B"
+       },
+       {
+        "text": "unhappy",
+        "letter": "C"
+       },
+       {
+        "text": "sick",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 25,
+      "answer": "B",
+      "prompt": "Which of the following describes New Writing 3?",
+      "options": [
+       {
+        "body": "two novels, poems and articles for only £6.99",
+        "title": "Great value:",
+        "letter": "A"
+       },
+       {
+        "body": "the best of new writing for only £6.99",
+        "title": "Great value:",
+        "letter": "B"
+       },
+       {
+        "body": "poems by Tremain, Harris and Burnside for only £6.99",
+        "title": "Great value:",
+        "letter": "C"
+       },
+       {
+        "body": "newspapers for a whole year for only £6.99",
+        "title": "Great value:",
+        "letter": "D"
+       }
+      ],
+      "cardLayout": true
+     }
+    ],
+    "label": "PART 4",
+    "passage": "Some people have complained about this year's collection, New Writing 3, although I cannot understand why. Surely 500 pages of original writing of this quality, for £6.99, is pretty amazing?\n\nFiction – both parts of novels and complete short stories – makes up most of the book. There are some enjoyable pieces by famous writers, such as Candia McWilliam and Rose Tremain. It's a strange fact that the less well-known people seem to have written mainly about food. Take my advice about Jane Harris's Those Nails – this piece should definitely not be read just after meals. It contains some very unpleasant scenes which could turn your stomach!\n\nThere is fine work from nineteen poets, including R. S. Thomas and John Burnside. There are pieces from novels-in-progress by Jim Crace and Jane Rogers. Finally, there is a little non-fiction, which includes a very funny article by Alan Rusbridger on certain newspapers, and an extraordinary piece about herself from Ursula Owen. This is an exceptional collection and I for one can't wait to see what next year's choice will include.",
+    "partNumber": 4,
+    "instruction": [
+     "Read the text and questions below.",
+     "For each question, mark the letter next to the correct answer – A, B, C or D – on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 21–25"
+   },
+   {
+    "type": "passage-cloze",
+    "items": [
+     {
+      "id": 26,
+      "answer": "D",
+      "options": [
+       {
+        "text": "few",
+        "letter": "A"
+       },
+       {
+        "text": "any",
+        "letter": "B"
+       },
+       {
+        "text": "little",
+        "letter": "C"
+       },
+       {
+        "text": "much",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 27,
+      "answer": "B",
+      "options": [
+       {
+        "text": "for",
+        "letter": "A"
+       },
+       {
+        "text": "of",
+        "letter": "B"
+       },
+       {
+        "text": "with",
+        "letter": "C"
+       },
+       {
+        "text": "by",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 28,
+      "answer": "C",
+      "options": [
+       {
+        "text": "more",
+        "letter": "A"
+       },
+       {
+        "text": "other",
+        "letter": "B"
+       },
+       {
+        "text": "all",
+        "letter": "C"
+       },
+       {
+        "text": "these",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 29,
+      "answer": "A",
+      "options": [
+       {
+        "text": "end",
+        "letter": "A"
+       },
+       {
+        "text": "finish",
+        "letter": "B"
+       },
+       {
+        "text": "departure",
+        "letter": "C"
+       },
+       {
+        "text": "back",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 30,
+      "answer": "A",
+      "options": [
+       {
+        "text": "afterwards",
+        "letter": "A"
+       },
+       {
+        "text": "later",
+        "letter": "B"
+       },
+       {
+        "text": "next",
+        "letter": "C"
+       },
+       {
+        "text": "then",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 31,
+      "answer": "D",
+      "options": [
+       {
+        "text": "divide",
+        "letter": "A"
+       },
+       {
+        "text": "add",
+        "letter": "B"
+       },
+       {
+        "text": "mix",
+        "letter": "C"
+       },
+       {
+        "text": "share",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 32,
+      "answer": "A",
+      "options": [
+       {
+        "text": "every",
+        "letter": "A"
+       },
+       {
+        "text": "both",
+        "letter": "B"
+       },
+       {
+        "text": "any",
+        "letter": "C"
+       },
+       {
+        "text": "each",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 33,
+      "answer": "D",
+      "options": [
+       {
+        "text": "nervous",
+        "letter": "A"
+       },
+       {
+        "text": "fearful",
+        "letter": "B"
+       },
+       {
+        "text": "afraid",
+        "letter": "C"
+       },
+       {
+        "text": "frightening",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 34,
+      "answer": "C",
+      "options": [
+       {
+        "text": "damage",
+        "letter": "A"
+       },
+       {
+        "text": "crime",
+        "letter": "B"
+       },
+       {
+        "text": "mistake",
+        "letter": "C"
+       },
+       {
+        "text": "fault",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 35,
+      "answer": "A",
+      "options": [
+       {
+        "text": "amounts",
+        "letter": "A"
+       },
+       {
+        "text": "accounts",
+        "letter": "B"
+       },
+       {
+        "text": "numbers",
+        "letter": "C"
+       },
+       {
+        "text": "totals",
+        "letter": "D"
+       }
+      ]
+     }
+    ],
+    "label": "PART 5",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "prompt": "A few   B any   C little   D much"
+    },
+    "passage": "Cartoon films have very (0) ___ limits. If you can draw something, you can (26) ___ it move on the cinema screen. The use (27) ___ computers now allows new ideas and advanced computer programs means that cartoons are becoming exciting again for people of (28) ___ ages.\n\nBy the (29) ___ of the 1970s, the cinema world had decided that cartoons were only for children. But soon (30) ___ , one or two new directors had some original new ideas. They proved that it was possible to make films in which both adults and children could (31) ___ the fun.\n\nHowever, not (32) ___ cartoon films was successful. The Black Cauldron, for example, failed, mainly because it was too (33) ___ for children and too childish for adults. Directors learnt from this (34) ___ , and the film companies began to make large (35) ___ of money again.",
+    "partNumber": 5,
+    "instruction": [
+     "Read the text below and choose the correct word for each space.",
+     "For each question, mark the letter next to the correct word – A, B, C or D – on your answer sheet."
+    ],
+    "passageTitle": "CARTOON FILMS",
+    "questionsLabel": "QUESTIONS 26–35"
+   }
+  ],
+  "testInfo": {
+   "id": "pet-r-08",
+   "level": "B1",
+   "paper": "Paper 1 · Reading",
+   "parts": 5,
+   "title": "PET Reading — Test 8",
+   "totalTime": 50,
+   "totalQuestions": 35
+  }
+ },
+ "created_at": "2026-10-14T06:45:41.40851+00:00",
+ "updated_at": "2026-10-14T06:47:26.960228+00:00"
+}

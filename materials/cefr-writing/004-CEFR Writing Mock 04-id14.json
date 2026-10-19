@@ -1,0 +1,477 @@
+{
+ "id": 14,
+ "mock_type": "cefr-writing",
+ "mock_number": 4,
+ "title": "CEFR Writing Mock 04",
+ "status": "published",
+ "mock_data": {
+  "part1": {
+   "chip": "work",
+   "topic": "Group issue"
+  },
+  "tasks": {
+   "t2": {
+    "chip": "technology",
+    "genre": "forum",
+    "title": "Technology make us more alone or more connected",
+    "prompt": "You are participating in an online discussion forum. The topic is: “Does technology make us more alone or more connected?” Write your response, giving reasons and examples. Write 180-200 words.",
+    "sample": "```html\n<div class=\"forum-post\">\n    <p>Hey everyone,</p>\n    \n    <p>It's fascinating how <span class=\"ml-token colloc\">technology advancements</span> have transformed our lives, but when it comes to whether they make us feel more connected or alone, the answer isn't black and white. I mean, on one hand, technology has undeniably bridged the gap between people living continents apart. Social media platforms like Facebook, Instagram, and Twitter allow us to <span class=\"ml-token phrasal\">keep in touch</span> and share our lives, giving us the chance to maintain friendships that might have otherwise fizzled out. For instance, I've been able to reconnect with old school friends I haven't seen in years.</p>\n\n    <p>However, it's <span class=\"ml-token adv\">undeniably true</span> that technology can also make us feel isolated. We often find ourselves in the same room with our friends or family, but everyone’s eyes are glued to their screens, engrossed in their own digital world. It’s ironic, isn’t it? Sometimes, it feels like we're more connected to our devices than to the people around us.</p>\n\n    <p>Personally, I think the key here is balance. We <span class=\"ml-token modal\">should</span> <span class=\"ml-token colloc\">make conscious efforts</span> to use technology as a tool to enhance our connections, not replace them. Let's not forget the <span class=\"ml-token idiom\">power of a simple hello</span> in person!</p>\n\n    <p>What do you guys think? Are we more alone or more connected thanks to technology?</p>\n\n    <p>Looking forward to hearing your thoughts!</p>\n</div>\n```",
+    "target": "180–200 words",
+    "sampleA1": "<p>Hi! <br> I like phone. I talk to my mom. My mom is far. I see photos. Photos are good. I like my friends. Bye!</p>",
+    "sampleA2": "<p>Hello, <br> I think technology is good and bad. I can talk to my friends online. But sometimes I play games and I don't talk to my family. My family is sad. I think it is better to talk to people in person. But technology is also good because I can learn new things. I like videos about animals. Bye.</p>",
+    "sampleB1": "<p>Hi everyone,<br>I think technology is a difficult topic. On one hand, it helps us connect with people who live far away. For example, I can talk to my cousins in another country. Also, I can find information easily. <br><br>However, I also think technology can make us feel alone. Sometimes, people spend too much time on their phones and they don't talk to the people around them. This is not good. In my opinion, it is important to use technology in a balanced way. We should use it to connect with people, but we should also spend time with people in real life. It's important to find a good balance. What do you think?</p>",
+    "sampleB2": "Hey everyone,\nGreat topic — this one really <span class=\"ml-token colloc\">gets people talking</span>! Personally, I think technology is a bit of a <span class=\"ml-token idiom\">double-edged sword</span> when it comes to how connected we feel.\nOn the plus side, it has completely <span class=\"ml-token colloc\">broken down the barriers</span> of distance. Thanks to video calls and messaging apps, I can <span class=\"ml-token phrasal\">catch up with</span> my cousins abroad in seconds, and I've even reconnected with old classmates I'd <span class=\"ml-token phrasal\">lost touch with</span> years ago. For a lot of people, that constant contact is <span class=\"ml-token idiom\">a real lifeline</span>.\nThat said, I can't help feeling there's a downside too. How many times have you sat at dinner while everyone's <span class=\"ml-token idiom\">glued to their phones</span>? We're technically together, yet miles apart. Endless scrolling can leave us comparing our lives to everyone else's, which is <span class=\"ml-token idiom\">a fast track to</span> feeling low.\nAt the end of the day, I reckon it all <span class=\"ml-token phrasal\">comes down to</span> how we use it. Set a few boundaries, put the phone away now and then, and technology becomes a brilliant way to stay close to the people who matter.\n<span class=\"ml-token colloc\">What's your take</span>? Do you feel more connected or more alone these days? Looking forward to your replies!\nDilshod",
+    "uzSample": "<p>Hammaga salom,</p>\n\n<p>Texnologiya yutuqlari hayotimizni qanchalik o'zgartirgani hayratlanarli, lekin ular bizni ko'proq bog'langan his qildirishadimi yoki yolg'iz, degan savolga kelganda, javob bir tomonlama emas. Ya'ni, bir tomondan, texnologiya qit'alararo yashaydigan odamlar o'rtasidagi tafovutni bartaraf etdi, inkor etib bo'lmaydi. Facebook, Instagram va Twitter kabi ijtimoiy media platformalari bizga aloqada bo'lish va hayotimizni baham ko'rish imkonini beradi, bu esa boshqa yo'l bilan so'nib qolishi mumkin bo'lgan do'stlikni saqlab qolish imkoniyatini beradi. Misol uchun, men yillar davomida ko'rmagan eski maktabdoshlarim bilan qayta bog'lana oldim.</p>\n\n<p>Biroq, texnologiya bizni yolg'iz his qilishga majbur qilishi ham haqiqat ekanini inkor etib bo'lmaydi. Ko'pincha o'zimizni do'stlarimiz yoki oilamiz bilan bir xonada topamiz, lekin hamma o'z ekranlariga yopishib olgan, o'zlarining raqamli dunyosiga sho'ng'igan. Bu g'alati, shunday emasmi? Ba'zan, biz atrofimizdagi odamlarga qaraganda qurilmalarimizga ko'proq bog'langanmiz, deb tuyuladi.</p>\n\n<p>Shaxsan men, bu erda asosiy narsa muvozanat deb o'ylayman. Biz texnologiyadan aloqalarimizni kuchaytirish uchun vosita sifatida foydalanishga ongli ravishda harakat qilishimiz kerak, ularni almashtirish uchun emas. Shaxsan oddiy salomning kuchini unutmaylik!</p>\n\n<p>Sizlar nima deb o'ylaysizlar? Texnologiya tufayli biz ko'proq yolg'izmi yoki ko'proq bog'langanmizmi?</p>\n\n<p>Fikrlaringizni eshitishni intiqlik bilan kutaman!</p>",
+    "uzSampleA1": "<p>Salom! <br> Menga telefon yoqadi. Men onam bilan gaplashaman. Onam uzoqda. Men suratlarni ko'raman. Suratlar yaxshi. Menga do'stlarim yoqadi. Xayr!</p>",
+    "uzSampleA2": "<p>Salom, <br> Menimcha, texnologiya yaxshi ham, yomon ham. Men do'stlarim bilan onlayn gaplasha olaman. Lekin ba'zida men o'yinlar o'ynayman va oilam bilan gaplashmayman. Oilam xafa bo'ladi. Menimcha, odamlar bilan shaxsan gaplashish yaxshiroq. Lekin texnologiya ham yaxshi, chunki men yangi narsalarni o'rgana olaman. Menga hayvonlar haqidagi videolar yoqadi. Xayr.</p>",
+    "uzSampleB1": "<p>Hammaga salom,<br>Menimcha, texnologiya murakkab mavzu. Bir tomondan, u uzoqda yashaydigan odamlar bilan bog'lanishimizga yordam beradi. Misol uchun, men boshqa davlatdagi amakivachchalarim bilan gaplasha olaman. Shuningdek, men osongina ma'lumot topa olaman.<br><br>Biroq, menimcha, texnologiya bizni yolg'iz his qilishimizga ham olib kelishi mumkin. Ba'zan odamlar telefonlarida juda ko'p vaqt o'tkazadilar va atrofidagi odamlar bilan gaplashmaydilar. Bu yaxshi emas. Mening fikrimcha, texnologiyadan muvozanatli tarzda foydalanish muhim. Biz undan odamlar bilan bog'lanish uchun foydalanishimiz kerak, lekin biz haqiqiy hayotda ham odamlar bilan vaqt o'tkazishimiz kerak. Yaxshi muvozanatni topish muhim. Siz nima deb o'ylaysiz?</p>",
+    "uzSampleB2": "<p>Salom,<br>Texnologiya bizni yolg'izlatadimi yoki bog'laydimi degan savol murakkab va menimcha, javob o'rtada joylashgan. Texnologiya aloqa uchun misli ko'rilmagan imkoniyatlarni taqdim etishi inkor etib bo'lmaydi. Masalan, ijtimoiy media platformalari bizga geografik chegaralar bo'ylab odamlar bilan munosabatlarni saqlashga va o'tmishdagi shaxslar bilan qayta bog'lanishga imkon beradi. Men chet elga ko'chib ketgan do'stlarim bilan osonlikcha aloqada bo'lishim mumkin, bu ilgari mumkin bo'lmagan edi.<br><br>Biroq, onlayn muloqotning qulayligi yuzma-yuz aloqaning pasayishiga ham olib kelishi mumkin. Biz soatlab ijtimoiy tarmoqlarni ko'rib chiqishga, boshqalarning hayotini passiv kuzatishga sarflashimiz mumkin, atrofimizdagi odamlar bilan mazmunli suhbatlashish o'rniga. Bu, hatto boshqalar bilan o'ralashgan bo'lsak ham, yolg'izlik hissini yaratishi mumkin. Bundan tashqari, onlayn profillarning tartibga solinganligi yetishmovchilik va ijtimoiy taqqoslash hissini keltirib chiqarishi mumkin, bu esa yolg'izlik hissini yanada kuchaytiradi. Oxir oqibat, menimcha, texnologiyaning aloqa tuyg'usiga ta'siri biz uni qanday ishlatishni tanlashimizga bog'liq. Agar biz chinakam muloqot va ongli ishtirokni ustuvor deb bilsak, texnologiya munosabatlarni qurish va saqlash uchun kuchli vosita bo'lishi mumkin. Ammo agar biz unga yuzma-yuz muloqot va real dunyo tajribalarini almashtirishga ruxsat bersak, u, shubhasiz, yolg'izlik hissini kuchaytirishi mumkin.</p>"
+   },
+   "t11": {
+    "title": "informal letter · to friend",
+    "prompt": "Write a letter to your friend, who is also a member of the group. Write about your feelings and what you think the project coordinator should do. Write your response in about 50 words.",
+    "sample": "```html\nHey there!\n\nI've just got the email from the coordinator, and I'm pretty excited about it! I <span class=\"ml-token colloc\">honestly believe</span> we should focus on <span class=\"ml-token colloc\">community projects</span> that help both kids and the elderly. Maybe a mentoring program where seniors share their experiences with youngsters? That <span class=\"ml-token idiom\">kills two birds with one stone</span>! We <span class=\"ml-token modal\">could also</span> organize fun events to get more people interested. <span class=\"ml-token phrasal\">Spreading the word</span> through social media <span class=\"ml-token modal\">might be</span> a great way to pull in more volunteers. What do you think? \n\nCheers!\n```",
+    "target": "50–70 words",
+    "sampleA1": "<p>Hi! <br> I like help. Help kids. Help animals. More people help. Bye!</p>",
+    "sampleA2": "<p>Hi! <br> I want to help. I think we can help old people because they are sad. And we can help children too. More people can help if we ask them. It is good. Bye!</p>",
+    "sampleB1": "<p>Hi! <br> I saw the email about new projects. I think it's a good idea to help children. We could read to them or play games. Also, maybe we can help elderly people because they need help with shopping. To get more volunteers, we could put posters in the town. What do you think? <br> See you soon!</p>",
+    "sampleB2": "Hey Malika,\nDid you see the coordinator's email? I'm honestly <span class=\"ml-token colloc\">buzzing about it</span>! I reckon we should <span class=\"ml-token idiom\">throw our weight behind</span> helping elderly people — so many of them <span class=\"ml-token phrasal\">feel left out</span>. Maybe weekly visits, or a tech class so they can video-call their families? The coordinator should <span class=\"ml-token phrasal\">spread the word</span> online to <span class=\"ml-token phrasal\">pull in</span> more volunteers. Fancy <span class=\"ml-token phrasal\">teaming up</span> on this?\nSpeak soon,\nDilnoza",
+    "uzSample": "<p>Salom!</p>\n<p>Men hozirgina koordinatordan xat oldim va bundan juda xursandman! Men chin dildan bolalar va qariyalarga yordam beradigan jamiyat loyihalariga e'tibor qaratishimiz kerak deb o'ylayman. Ehtimol, keksa avlod yoshlar bilan o'z tajribalarini baham ko'radigan murabbiylik dasturi bo'lishi mumkin? Bu bir o'q bilan ikki quyonni uradi! Biz odamlarni qiziqtirish uchun qiziqarli tadbirlarni ham tashkil qila olamiz. Ijtimoiy tarmoqlar orqali xabarni tarqatish ko'proq ko'ngillilarni jalb qilishning ajoyib usuli bo'lishi mumkin. Siz nima deb o'ylaysiz?</p>\n<p>Xayr!</p>",
+    "uzSampleA1": "<p>Salom! <br> Yordam berishni xohlayman. Bolalarga yordam. Hayvonlarga yordam. Ko'proq odamlar yordam bersin. Xayr!</p>",
+    "uzSampleA2": "<p>Salom! <br> Men yordam berishni xohlayman. O'ylaymanki, biz keksa odamlarga yordam bera olamiz, chunki ular xafa. Va biz bolalarga ham yordam berishimiz mumkin. Agar biz ulardan so'rasak, ko'proq odamlar yordam berishi mumkin. Bu yaxshi. Xayr!</p>",
+    "uzSampleB1": "<p>Salom! <br> Men yangi loyihalar haqidagi elektron pochtani ko'rdim. Menimcha, bolalarga yordam berish yaxshi fikr. Biz ularga kitob o'qib berishimiz yoki o'yinlar o'ynashimiz mumkin. Shuningdek, biz keksa odamlarga ham yordam berishimiz mumkin, chunki ularga xarid qilishda yordam kerak. Ko'proq ko'ngillilarni jalb qilish uchun shaharga plakatlar osishimiz mumkin. Siz nima deb o'ylaysiz? <br> Tez orada ko'rishguncha!</p>",
+    "uzSampleB2": "<p>Salom,<br>Men hozirgina koordinatorning yangi ko'ngilli loyihalar haqidagi elektron xatini ko'rib qoldim. Menimcha, biz bolalar va qariyalar uchun foydali bo'lgan tashabbuslarga e'tibor qaratishimiz kerak. Ehtimol, biz avlodlararo tadbirlarni tashkil qila olamiz, masalan, qariyalar uyida o'qish sessiyalari yoki bolalar uchun murabbiylik dasturlari. Ko'proq ko'ngillilarni jalb qilish uchun biz ko'ngillilikning jamiyatga ijobiy ta'sirini ta'kidlashimiz kerak. O'tmishdagi muvaffaqiyatlarimizni namoyish etuvchi ijtimoiy media kampaniyasi juda samarali bo'lishi mumkin. Fikrlaringni menga bildir!<br>Eng yaxshi tilaklar bilan,</p>"
+   },
+   "t12": {
+    "title": "formal letter · to coordinator",
+    "prompt": "Write a letter to the project coordinator. Write about your feelings and what you think the coordinator should do. Write your response in 120-150 words.",
+    "sample": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <title>Volunteer Project Ideas</title>\n</head>\n<body>\n    <p>Dear Coordinator,</p>\n    <p>\n        I hope this message finds you well. I’m genuinely thrilled about the opportunity to contribute new ideas for our community. I believe we should focus on projects that support the <span class=\"ml-token colloc\">elderly population</span>. They often face loneliness and require assistance with daily tasks. Initiatives like organizing regular <span class=\"ml-token colloc\">social gatherings</span> or offering technology workshops to help them stay connected could be incredibly beneficial.\n    </p>\n    <p>\n        Moreover, why not set up an animal rescue program? Animals, especially strays, might be in dire need of care. It could <span class=\"ml-token modal\">greatly</span> enrich our community by fostering empathy and responsibility among volunteers.\n    </p>\n    <p>\n        To <span class=\"ml-token phrasal\">encourage people</span> to get involved, we could launch awareness campaigns in local schools and businesses. Offering small incentives, like certificates or public recognition, <span class=\"ml-token modal\">might</span> also motivate participation. I’m <span class=\"ml-token adv\">absolutely convinced</span> that by showcasing the emotional rewards of volunteering, we could <span class=\"ml-token phrasal\">draw in</span> more volunteers.\n    </p>\n    <p>\n        Thank you for considering these ideas. I look forward to seeing our community flourish.\n    </p>\n    <p>Warm regards,<br> Rayhona Salimova</p>\n</body>\n</html>",
+    "target": "120–150 words",
+    "sampleA1": "<p>Hi Coordinator,<br>I want help. Help animals. I like dogs and cats. I want people help too. It is good. Bye.</p>",
+    "sampleA2": "<p>Hi Coordinator,<br>I want to help. I think we can help children. They need help with school. We can read books with them. And we can play games. It is fun! More people can help if we ask them. Maybe we can give them food. Thank you.<br>Bye,Rayhona Salimova</p>",
+    "sampleB1": "<p>Dear Coordinator,<br>I am writing to you with some ideas for volunteer projects. I think it would be good to help elderly people. They sometimes need help with shopping or cleaning. We could visit them and talk to them. <br>Also, we could help animals. There are many stray cats and dogs. We could give them food and find homes for them. To get more people involved, we could put up posters and tell our friends. In my opinion, it is important to help others.<br>Thank you for reading my ideas.<br>Sincerely,<br>Rayhona Salimova</p>",
+    "sampleB2": "Dear Coordinator,\nI am writing to share how excited I am about the group's new plans, and to <span class=\"ml-token phrasal\">put forward</span> a few ideas of my own. In my view, we should <span class=\"ml-token colloc\">focus our energy on</span> supporting elderly people, many of whom struggle with loneliness and everyday tasks. Regular visits, along with simple technology classes, would help them <span class=\"ml-token phrasal\">stay in touch</span> with their families and feel part of the community again.\nTo <span class=\"ml-token idiom\">get more people on board</span>, I believe you should launch a short social media campaign showing the real difference our work makes. Offering flexible schedules and <span class=\"ml-token colloc\">clearly defined roles</span> would also make it far easier for busy people to <span class=\"ml-token phrasal\">sign up</span>.\nI am confident that, with a clear plan, we can <span class=\"ml-token phrasal\">bring in</span> plenty of new volunteers. Thank you for <span class=\"ml-token colloc\">taking my suggestions into account</span>.\nYours sincerely,\nBekzod Aliyev",
+    "uzSample": "<p>Hurmatli Koordinator,</p>\n<p>Umid qilamanki, ushbu xabar sizga yaxshi yetib borgan. Bizning jamiyatimiz uchun yangi g'oyalar kiritish imkoniyatidan chin dildan xursandman. Menimcha, biz keksa avlodni qo'llab-quvvatlaydigan loyihalarga e'tibor qaratishimiz kerak. Ular ko'pincha yolg'izlikka duch kelishadi va kundalik vazifalarda yordamga muhtoj bo'lishadi. Muntazam ijtimoiy uchrashuvlar tashkil etish yoki ularga aloqada bo'lishga yordam beradigan texnologiya bo'yicha seminarlar taklif qilish kabi tashabbuslar juda foydali bo'lishi mumkin.</p>\n<p>Bundan tashqari, nega hayvonlarni qutqarish dasturini tashkil qilmaymiz? Hayvonlar, ayniqsa, daydi hayvonlar, g'amxo'rlikka juda muhtoj bo'lishi mumkin. Bu ko'ngillilar o'rtasida hamdardlik va mas'uliyatni rivojlantirish orqali jamiyatimizni sezilarli darajada boyitishi mumkin.</p>\n<p>Odamlarni jalb qilish uchun biz mahalliy maktablar va korxonalarda xabardorlik kampaniyalarini boshlashimiz mumkin. Sertifikatlar yoki ommaviy e'tirof kabi kichik rag'batlantirishlar ham ishtirok etishga undashi mumkin. Ko'ngillilikning hissiy mukofotlarini namoyish etish orqali biz ko'proq ko'ngillilarni jalb qila olishimizga mutlaqo aminman.</p>\n<p>Ushbu g'oyalarni ko'rib chiqayotganingiz uchun tashakkur. Jamiyatimizning gullab-yashnashini ko'rishni intiqlik bilan kutaman.</p>\n<p>Ilg'or hurmat bilan,<br> Rayhona Salimova</p>",
+    "uzSampleA1": "<p>Salom, Koordinator,<br>Menga yordam kerak. Hayvonlarga yordam berish kerak. Menga itlar va mushuklar yoqadi. Odamlarga ham yordam berishlarini xohlayman. Bu yaxshi. Xayr.</p>",
+    "uzSampleA2": "<p>Salom Koordinator,<br>Men yordam berishni xohlayman. O'ylaymanki, biz bolalarga yordam bera olamiz. Ularga maktabda yordam kerak. Biz ular bilan kitob o'qishimiz mumkin. Va biz o'yinlar o'ynashimiz mumkin. Bu qiziqarli! Agar biz ulardan so'rasak, ko'proq odamlar yordam berishi mumkin. Balki biz ularga ovqat berishimiz mumkin. Rahmat.<br>Xayr,Rayhona Salimova</p>",
+    "uzSampleB1": "<p>Hurmatli Koordinator,<br>Men sizga ko'ngillilik loyihalari uchun ba'zi g'oyalar bilan murojaat qilyapman. O'ylashimcha, keksa odamlarga yordam berish yaxshi bo'lardi. Ularga ba'zan xarid qilish yoki tozalashda yordam kerak bo'ladi. Biz ularni ziyorat qilib, ular bilan gaplashishimiz mumkin.<br>Shuningdek, biz hayvonlarga yordam berishimiz mumkin. Ko'plab daydi mushuklar va itlar bor. Biz ularga ovqat berib, ular uchun uy topishimiz mumkin. Ko'proq odamlarni jalb qilish uchun biz plakatlar osib, do'stlarimizga aytishimiz mumkin. Mening fikrimcha, boshqalarga yordam berish muhim.<br>G'oyalarimni o'qiganingiz uchun rahmat.<br>Hurmat bilan,<br>Rayhona Salimova</p>",
+    "uzSampleB2": "<p>Hurmatli Koordinator,<br>Men volontyorlik harakatlarimizga yangi g'oyalar qo'shishga bo'lgan ishtiyoqimni bildirish uchun yozyapman. Menimcha, qimmatli e'tibor jamiyatimizdagi nochor bolalarni qo'llab-quvvatlashga qaratilishi kerak. Repetitorlik dasturlari, murabbiylik imkoniyatlari yoki hatto ko'ngilochar tadbirlarni tashkil etish ularning hayotiga sezilarli ta'sir ko'rsatishi mumkin.<br>Bundan tashqari, biz atrof-muhit tashabbuslarini ko'rib chiqishimiz kerak. Parklarni tozalash yoki daraxt ekish tadbirlarini tashkil etish nafaqat atrofimizni yaxshilaydi, balki ekologik mas'uliyat haqida xabardorlikni oshiradi. Kengroq ishtirokni rag'batlantirish uchun biz ijtimoiy tarmoqlardan volontyorlikning ijobiy natijalarini namoyish etish va olingan ko'nikmalarni ta'kidlash uchun foydalanishimiz mumkin.<br>Moslashuvchan volontyorlik jadvallarini va aniq belgilangan rollarni taklif qilish ham odamlarning o'z vaqtlarini ajratishini osonlashtiradi. Ushbu takliflarni amalga oshirish orqali biz jamiyatimizga ta'sirimizni kuchaytirishimiz va ko'proq ko'ngillilarni jalb qilishimizga ishonaman.<br>Hurmat bilan,<br>Rayhona Salimova</p>"
+   },
+   "p1_context": "You recently joined a youth volunteer group. You received this message from the project coordinator.",
+   "p1_scenario": "Dear Volunteer,\n\nWe are looking for new ways to help our community. What kind of volunteer projects would you like to take part in? Who could we help the most (children, elderly people, animals, etc.)? How can we encourage more people to get involved? Please reply with your ideas.\n\nThe Coordinator"
+  },
+  "examDate": "2026-03-01",
+  "settings": {
+   "logoUrl": "https://audio.mock-stream.com/img/ibb/WN0XY5Lv/logo.png",
+   "heading1": "Bilim va malakalarni baholash agentligi",
+   "heading2": "Chet tilini bilish darajasi",
+   "examTitle": "Writing exam",
+   "logoWording": "Mock Stream",
+   "testIdentifier": "mock_stream"
+  },
+  "vocabulary": {
+   "task2": [
+    {
+     "en": "The impact of technology on social connections is a double-edged sword,",
+     "uz": "Texnologiyaning ijtimoiy aloqalarga ta'siri ikki qirrali qilichdir,"
+    },
+    {
+     "en": "While technology facilitates global communication,",
+     "uz": "Texnologiya global aloqa imkonini bersa-da,"
+    },
+    {
+     "en": "Social media platforms have revolutionized how we interact,",
+     "uz": "Ijtimoiy media platformalari bizning muloqotimizni inqilob qildi,"
+    },
+    {
+     "en": "However, there is a growing concern about digital isolation,",
+     "uz": "Biroq, raqamli izolyatsiya haqida tashvish ortmoqda,"
+    },
+    {
+     "en": "The irony lies in the fact that,",
+     "uz": "Ajablanarlisi shundaki,"
+    },
+    {
+     "en": "Virtual interactions may lack emotional depth,",
+     "uz": "Virtual muloqotlarda hissiy chuqurlik yetishmasligi mumkin,"
+    },
+    {
+     "en": "On the other hand, technology bridges geographical gaps,",
+     "uz": "Boshqa tomondan, texnologiya geografik bo'shliqlarni bartaraf etadi,"
+    },
+    {
+     "en": "Video calls have become a lifeline for many,",
+     "uz": "Ko'pchilik uchun video qo'ng'iroqlar qutqaruv yo'li bo'ldi,"
+    },
+    {
+     "en": "One cannot overlook the issue of online harassment,",
+     "uz": "Onlayn tahqirlash masalasini e'tiborsiz qoldirib bo'lmaydi,"
+    },
+    {
+     "en": "Social networking sites contribute to feeling connected,",
+     "uz": "Ijtimoiy tarmoq saytlari bog'liq his qilishga yordam beradi,"
+    },
+    {
+     "en": "Yet, the superficial nature of online relationships,",
+     "uz": "Biroq, onlayn munosabatlarning yuzaki tabiati,"
+    },
+    {
+     "en": "It is crucial to balance digital and offline interactions,",
+     "uz": "Raqamli va oflayn muloqotlarni muvozanatlash muhimdir,"
+    },
+    {
+     "en": "Despite the benefits, technology can lead to isolation,",
+     "uz": "Foydasiga qaramay, texnologiya izolyatsiyaga olib kelishi mumkin,"
+    },
+    {
+     "en": "Ultimately, it is about how we use technology,",
+     "uz": "Oxir-oqibat, biz texnologiyadan qanday foydalanishimiz haqida,"
+    },
+    {
+     "en": "The key is mindful usage and setting boundaries,",
+     "uz": "Asosiy narsa ongli foydalanish va chegaralar belgilashdir,"
+    },
+    {
+     "en": "Technology offers unprecedented opportunities,",
+     "uz": "Texnologiya misli ko'rilmagan imkoniyatlar taklif etadi,"
+    },
+    {
+     "en": "The challenge is to harness it responsibly,",
+     "uz": "Mas'uliyat bilan foydalanish muammo hisoblanadi,"
+    },
+    {
+     "en": "Digital literacy plays a vital role,",
+     "uz": "Raqamli savodxonlik muhim rol o'ynaydi,"
+    },
+    {
+     "en": "Striking a balance is essential for mental well-being,",
+     "uz": "Ruhiy sog'liq uchun muvozanatni saqlash zarur,"
+    },
+    {
+     "en": "We must remain aware of the potential downsides,",
+     "uz": "Biz potentsial salbiy tomonlarni bilishimiz kerak,"
+    }
+   ],
+   "task11": [
+    {
+     "en": "Hey there,",
+     "uz": "Salom,"
+    },
+    {
+     "en": "I've been thinking a lot about this,",
+     "uz": "Bu haqda ko'p o'yladim,"
+    },
+    {
+     "en": "It would be awesome if we could help kids,",
+     "uz": "Bolalarga yordam bera olsak, ajoyib bo'lardi,"
+    },
+    {
+     "en": "I feel like we could make a big difference,",
+     "uz": "Menimcha, katta o'zgarish qilamiz,"
+    },
+    {
+     "en": "Maybe the coordinator could organize a fun event,",
+     "uz": "Balki koordinator qiziqarli tadbir uyushtirishi mumkin,"
+    },
+    {
+     "en": "We should definitely do something about it,",
+     "uz": "Albatta bu borada nimadir qilishimiz kerak,"
+    },
+    {
+     "en": "Let's chat soon,",
+     "uz": "Tez orada gaplashamiz,"
+    },
+    {
+     "en": "Catch you later,",
+     "uz": "Keyinroq ko'rishamiz,"
+    },
+    {
+     "en": "I’m really excited about this,",
+     "uz": "Bu haqda juda hayajondaman,"
+    },
+    {
+     "en": "What do you think?",
+     "uz": "Siz nima deb o'ylaysiz?"
+    },
+    {
+     "en": "We could start small,",
+     "uz": "Kichikdan boshlashimiz mumkin,"
+    },
+    {
+     "en": "I really care about this,",
+     "uz": "Men bu haqida juda qayg'uraman,"
+    },
+    {
+     "en": "Don't you think it's a great idea?",
+     "uz": "Bu ajoyib g'oya emasmi?"
+    },
+    {
+     "en": "Let's make it happen!",
+     "uz": "Buni amalga oshiraylik!"
+    },
+    {
+     "en": "I'm all in for this,",
+     "uz": "Men bu uchun tayyorman,"
+    }
+   ],
+   "task12": [
+    {
+     "en": "Dear Coordinator,",
+     "uz": "Hurmatli Koordinator,"
+    },
+    {
+     "en": "I am writing to express my enthusiasm for the new initiatives,",
+     "uz": "Yangi tashabbuslar uchun o'z minnatdorchiligimni bildirish uchun yozmoqdaman,"
+    },
+    {
+     "en": "I believe that focusing on children's education would be beneficial,",
+     "uz": "Bolalar ta'limiga e'tibor qaratish foydali bo'ladi deb o'ylayman,"
+    },
+    {
+     "en": "It is imperative that we engage the community more actively,",
+     "uz": "Hamjamiyatni yanada faol ishtirok etishimiz zarur,"
+    },
+    {
+     "en": "Organizing workshops could be a practical approach,",
+     "uz": "Seminarlar tashkil etish amaliy yondashuv bo'lishi mumkin,"
+    },
+    {
+     "en": "I suggest implementing regular volunteer meetings,",
+     "uz": "Men muntazam ko'ngilli yig'ilishlarni o'tkazishni taklif qilaman,"
+    },
+    {
+     "en": "Furthermore, we should consider outreach programs,",
+     "uz": "Bundan tashqari, biz tashqi dasturlarni ko'rib chiqishimiz kerak,"
+    },
+    {
+     "en": "This would greatly enhance our impact,",
+     "uz": "Bu bizning ta'sirimizni sezilarli darajada oshiradi,"
+    },
+    {
+     "en": "The focus should be on sustainable projects,",
+     "uz": "Diqqatni barqaror loyihalarga qaratish kerak,"
+    },
+    {
+     "en": "I am confident that this will attract more volunteers,",
+     "uz:": "Bu ko'ngillilarni ko'proq jalb qilishiga ishonaman,"
+    },
+    {
+     "en": "We could also partner with local schools,",
+     "uz": "Biz mahalliy maktablar bilan hamkorlik qilishimiz mumkin,"
+    },
+    {
+     "en": "I am looking forward to your feedback,",
+     "uz": "Sizning fikringizni kutmoqdaman,"
+    },
+    {
+     "en": "Thank you for considering my suggestions,",
+     "uz": "Mening takliflarimni ko'rib chiqqaningiz uchun rahmat,"
+    },
+    {
+     "en": "Yours sincerely,",
+     "uz": "Hurmat bilan,"
+    },
+    {
+     "en": "We must prioritize inclusive projects,",
+     "uz": "Biz inklyuziv loyihalarni ustuvor qilishimiz kerak,"
+    },
+    {
+     "en": "It would be advantageous to explore various avenues,",
+     "uz": "Turli yo'nalishlarni o'rganish foydali bo'ladi,"
+    },
+    {
+     "en": "I am eager to contribute to this cause,",
+     "uz": "Men bu ishga hissa qo'shishni istayman,"
+    },
+    {
+     "en": "It is essential to foster a sense of community,",
+     "uz": "Hamjamiyat tuyg'usini rivojlantirish zarur,"
+    },
+    {
+     "en": "This initiative holds great potential,",
+     "uz": "Ushbu tashabbus katta salohiyatga ega,"
+    },
+    {
+     "en": "Your leadership in this matter is crucial,",
+     "uz": "Bu masalada sizning yetakchiligingiz muhimdir,"
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "might": {
+    "uz": "mumkin",
+    "type": "modal"
+   },
+   "should": {
+    "uz": "kerak",
+    "type": "modal"
+   },
+   "draw in": {
+    "uz": "jalb qilmoq",
+    "type": "phrasal"
+   },
+   "greatly": {
+    "uz": "juda",
+    "type": "modal"
+   },
+   "pull in": {
+    "uz": "jalb qilmoq",
+    "type": "phrasal"
+   },
+   "sign up": {
+    "uz": "ro'yxatdan o'tmoq, qo'shilmoq",
+    "type": "phrasal"
+   },
+   "bring in": {
+    "uz": "jalb qilmoq, olib kelmoq",
+    "type": "phrasal"
+   },
+   "might be": {
+    "uz": "bo'lishi mumkin",
+    "type": "modal"
+   },
+   "could also": {
+    "uz": "shuningdek, mumkin",
+    "type": "modal"
+   },
+   "teaming up": {
+    "uz": "birlashib ish qilmoq",
+    "type": "phrasal"
+   },
+   "put forward": {
+    "uz": "taklif qilmoq, ilgari surmoq",
+    "type": "phrasal"
+   },
+   "catch up with": {
+    "uz": "aloqa qilib, xabar olib turmoq",
+    "type": "phrasal"
+   },
+   "comes down to": {
+    "uz": "... ga bog'liq bo'lmoq",
+    "type": "phrasal"
+   },
+   "feel left out": {
+    "uz": "o'zini chetda qolgandek his qilmoq",
+    "type": "phrasal"
+   },
+   "keep in touch": {
+    "uz": "aloqada bo'lmoq",
+    "type": "phrasal"
+   },
+   "stay in touch": {
+    "uz": "aloqada bo'lmoq",
+    "type": "phrasal"
+   },
+   "a fast track to": {
+    "uz": "... ga tezkor yo'l",
+    "type": "idiom"
+   },
+   "a real lifeline": {
+    "uz": "haqiqiy najot yo'li",
+    "type": "idiom"
+   },
+   "lost touch with": {
+    "uz": "aloqani yo'qotmoq",
+    "type": "phrasal"
+   },
+   "spread the word": {
+    "uz": "xabarni tarqatmoq",
+    "type": "phrasal"
+   },
+   "undeniably true": {
+    "uz": "shubhasiz haqiqat",
+    "type": "adv"
+   },
+   "What's your take": {
+    "uz": "Sizning fikringiz qanday?",
+    "type": "colloc"
+   },
+   "buzzing about it": {
+    "uz": "bundan juda hayajondaman",
+    "type": "colloc"
+   },
+   "encourage people": {
+    "uz": "odamlarni ruhlantirish",
+    "type": "phrasal"
+   },
+   "honestly believe": {
+    "uz": "ishonch bilan aytish",
+    "type": "colloc"
+   },
+   "social gatherings": {
+    "uz": "ijtimoiy yig'ilishlar",
+    "type": "colloc"
+   },
+   "Spreading the word": {
+    "uz": "tarqatish",
+    "type": "phrasal"
+   },
+   "community projects": {
+    "uz": "jamoat loyihalari",
+    "type": "colloc"
+   },
+   "double-edged sword": {
+    "uz": "ikki qirrali qilich",
+    "type": "idiom"
+   },
+   "elderly population": {
+    "uz": "keksa avlod",
+    "type": "colloc"
+   },
+   "focus our energy on": {
+    "uz": "kuchimizni ... ga qaratmoq",
+    "type": "colloc"
+   },
+   "gets people talking": {
+    "uz": "odamlarni muhokamaga undaydi",
+    "type": "colloc"
+   },
+   "absolutely convinced": {
+    "uz": "mutlaqo amin",
+    "type": "adv"
+   },
+   "clearly defined roles": {
+    "uz": "aniq belgilangan rollar",
+    "type": "colloc"
+   },
+   "glued to their phones": {
+    "uz": "telefonlariga yopishib olgan",
+    "type": "idiom"
+   },
+   "make conscious efforts": {
+    "uz": "ongli harakatlar qilmoq",
+    "type": "colloc"
+   },
+   "power of a simple hello": {
+    "uz": "oddiy salomning kuchi",
+    "type": "idiom"
+   },
+   "technology advancements": {
+    "uz": "texnologiya yutuqlari",
+    "type": "colloc"
+   },
+   "throw our weight behind": {
+    "uz": "bor kuchimiz bilan qo'llab-quvvatlamoq",
+    "type": "idiom"
+   },
+   "broken down the barriers": {
+    "uz": "to'siqlarni bartaraf etmoq",
+    "type": "colloc"
+   },
+   "get more people on board": {
+    "uz": "ko'proq odamni ishga jalb qilmoq",
+    "type": "idiom"
+   },
+   "kills two birds with one stone": {
+    "uz": "bir o'q bilan ikki quyonni urmoq",
+    "type": "idiom"
+   },
+   "taking my suggestions into account": {
+    "uz": "takliflarimni inobatga olganingiz",
+    "type": "colloc"
+   }
+  }
+ },
+ "created_at": "2026-05-06T14:59:06.768963+00:00",
+ "updated_at": "2026-07-06T10:54:36.797182+00:00"
+}

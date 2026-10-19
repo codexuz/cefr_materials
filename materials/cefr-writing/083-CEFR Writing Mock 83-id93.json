@@ -1,0 +1,645 @@
+{
+ "id": 93,
+ "mock_type": "cefr-writing",
+ "mock_number": 83,
+ "title": "CEFR Writing Mock 83",
+ "status": "published",
+ "mock_data": {
+  "part1": {
+   "chip": "culture",
+   "topic": "Language learning"
+  },
+  "tasks": {
+   "t2": {
+    "chip": "education",
+    "genre": "forum",
+    "title": "Learning a foreign language be compulsory in schools",
+    "prompt": "You are participating in an online discussion forum. The topic is: \"Should learning a foreign language be compulsory in schools?\" Write your response, giving reasons and examples. Write 180–200 words.",
+    "sample": "<p><span class=\"ml-token colloc\">Foreign language education</span> is debated in many countries. I <span class=\"ml-token adv\">strongly</span> believe language learning <span class=\"ml-token modal\">should</span> be compulsory in schools.</p>\n\n<p><span class=\"ml-token adv\">Firstly</span>, learning languages develops <span class=\"ml-token colloc\">cognitive abilities</span>. Research shows <span class=\"ml-token colloc\">bilingual children</span> have better problem-solving skills, improved memory, and enhanced <span class=\"ml-token colloc\">critical thinking</span>. These benefits extend beyond language itself.</p>\n\n<p><span class=\"ml-token adv\">Secondly</span>, languages open <span class=\"ml-token colloc\">career opportunities</span>. In our <span class=\"ml-token colloc\">globalized economy</span>, employers value multilingual candidates. Speaking additional languages can lead to international positions and higher salaries.</p>\n\n<p><span class=\"ml-token adv\">However</span>, critics argue that time <span class=\"ml-token modal\">could</span> be spent on other subjects. <span class=\"ml-token adv\">Additionally</span>, English dominance means many people don't need other languages. <span class=\"ml-token adv\">Nevertheless</span>, this view is shortsighted.</p>\n\n<p><span class=\"ml-token adv\">Furthermore</span>, language learning promotes <span class=\"ml-token colloc\">cultural understanding</span>. Students gain <span class=\"ml-token colloc\">appreciation</span> for different cultures, reducing prejudice and fostering <span class=\"ml-token colloc\">global citizenship</span>. This is <span class=\"ml-token adv\">increasingly</span> important in diverse societies.</p>\n\n<p><span class=\"ml-token adv\">In conclusion</span>, <span class=\"ml-token colloc\">compulsory language education</span> benefits individuals and society. Schools <span class=\"ml-token modal\">should</span> introduce languages early when children learn most <span class=\"ml-token adv\">naturally</span>.</p>",
+    "target": "180–200 words",
+    "sampleA1": "<p>Hi LinguaPro,</p>\n<p>I like the app. It is good. Lessons are easy. I learn words. I want French language. Bye.</p>",
+    "sampleA2": "<p>Hello LinguaPro,</p>\n<p>I like your app. The lessons are good and easy. I learn some words, and the exercises help me. I want to learn Spanish because my friend speaks Spanish. Maybe you can add more games? Thank you!</p>\n<p>Bye.</p>",
+    "sampleB1": "<p>Dear LinguaPro Team,</p>\n<p>Thank you for asking about the app. I think the lessons are quite good, and the teaching methods are helpful. The exercises are helping me to improve my vocabulary and grammar. </p>\n<p>I think learning a language is important in school. I think it can help you get a better job later. Also, it helps you understand other cultures. However, some people say it's not necessary. In my opinion, it should be compulsory. Maybe you could add more interactive exercises to the app. I also would like to see a German language option.</p>\n<p>Thanks again!</p>",
+    "sampleB2": "Great question — this is something I feel really strongly about!\nFor me, it's a definite yes. Learning a foreign language should absolutely be compulsory in schools, and here's why.\n<span class=\"ml-token linking\">First off</span>, languages <span class=\"ml-token idiom\">open doors</span>. In today's job market, being able to speak more than one language <span class=\"ml-token colloc\">gives you a real edge</span>, whether you're applying for a job abroad or dealing with clients from overseas. Employers <span class=\"ml-token phrasal\">pick up on</span> it straight away.\n<span class=\"ml-token linking\">On top of that</span>, studying a language <span class=\"ml-token idiom\">does wonders for</span> the brain. It sharpens your memory and boosts your problem-solving skills — benefits that <span class=\"ml-token phrasal\">spill over into</span> every other subject.\nI know some people argue that not everyone will use a second language, especially now that English is so widespread. Fair enough, but I reckon that misses <span class=\"ml-token idiom\">the bigger picture</span>: languages <span class=\"ml-token idiom\">break down barriers</span> and help us understand other cultures.\nAt the end of the day, making languages compulsory sets young people up for a more connected future, and the earlier they start, the easier it comes.\nSo what do you all think? Should it be compulsory right from primary school, or left as a choice? I'd love to hear your thoughts!",
+    "uzSample": "<p>Chet tillarni o'qitish ko'plab mamlakatlarda bahsga sabab bo'lmoqda. Men til o'rganish maktablarda majburiy bo'lishi kerak, deb qat'iy ishonaman.</p>\n\n<p>Birinchidan, tillarni o'rganish kognitiv qobiliyatlarni rivojlantiradi. Tadqiqotlar shuni ko'rsatadiki, ikki tilli bolalar muammolarni hal qilishda yaxshiroq, xotirasi kuchliroq va tanqidiy fikrlash qobiliyati yuqori bo'ladi. Bu afzalliklar tilning o'zidan tashqari ham ta'sir qiladi.</p>\n\n<p>Ikkinchidan, tillar kasbiy imkoniyatlarni ochadi. Global iqtisodiyotimizda ish beruvchilar ko'p tilli nomzodlarni qadrlashadi. Qo'shimcha tillarda gaplasha olish xalqaro lavozimlarga va yuqori maoshlarga olib kelishi mumkin.</p>\n\n<p>Biroq, tanqidchilar vaqtni boshqa fanlarga sarflash mumkinligini ta'kidlashadi. Bundan tashqari, ingliz tilining ustunligi ko'p odamlarga boshqa tillar kerak emasligini anglatadi. Shunga qaramay, bu qarash uzoqni ko'zlamaydi.</p>\n\n<p>Bundan tashqari, til o'rganish madaniy tushunishni rivojlantiradi. Talabalar turli madaniyatlarni qadrlashni o'rganadilar, bu esa xurofotni kamaytiradi va global fuqarolikni rivojlantiradi. Bu xilma-xil jamiyatlarda tobora muhim ahamiyat kasb etmoqda.</p>\n\n<p>Xulosa qilib aytganda, majburiy til ta'limi shaxslarga ham, jamiyatga ham foyda keltiradi. Maktablar bolalar eng tabiiy ravishda o'rganadigan erta yoshda tillarni o'rgatishni boshlashlari kerak.</p>",
+    "uzSampleA1": "<p>Salom, LinguaPro,</p>\n<p>Menga ilova yoqadi. U yaxshi. Darslar oson. Men so'zlar o'rganaman. Men fransuz tilini xohlayman. Xayr.</p>",
+    "uzSampleA2": "<p>Salom, LinguaPro,</p>\n<p>Sizning ilovangiz menga yoqadi. Darslar yaxshi va oson. Men ba'zi so'zlarni o'rganyapman va mashqlar menga yordam beryapti. Men ispan tilini o'rganmoqchiman, chunki do'stim ispan tilida gapiradi. Balki, yana o'yinlar qo'shishingiz mumkin? Rahmat!</p>\n<p>Xayr.</p>",
+    "uzSampleB1": "<p>Hurmatli LinguaPro jamoasi,</p>\n<p>Ilova haqida so'raganingiz uchun rahmat. Menimcha, darslar juda yaxshi va o'qitish usullari foydali. Mashqlar lug'at boyligim va grammatikamni yaxshilashga yordam beryapti.</p>\n<p>Menimcha, maktabda til o'rganish muhim. Menimcha, bu keyinchalik yaxshiroq ish topishingizga yordam berishi mumkin. Shuningdek, u boshqa madaniyatlarni tushunishga yordam beradi. Biroq, ba'zi odamlar buni zarur emas deyishadi. Mening fikrimcha, bu majburiy bo'lishi kerak. Ehtimol, ilovaga ko'proq interaktiv mashqlar qo'shishingiz mumkin. Men ham nemis tili variantini ko'rishni xohlardim.</p>\n<p>Yana bir bor rahmat!</p>",
+    "uzSampleB2": "<p>Hurmatli LinguaPro jamoasi,</p>\n<p>LinguaPro ilovasi bilan bog'liq tajribam yuzasidan qo'shimcha ma'lumot so'raganingiz uchun rahmat. Umuman olganda, darslar yaxshi tuzilgan va qiziqarli ekanligini aniqladim. O'qitish usullari odatda samarali va mashqlar tilni tushunishimni mustahkamlashda foydali bo'lmoqda.</p>\n<p>Maktablarda chet tilini o'rganish majburiy bo'lishi kerakmi degan kengroq savolga kelsak, menimcha, bu o'quv dasturining majburiy tarkibiy qismi bo'lishi kerak. Chet tilini o'rganish bir qator afzalliklarni taqdim etadi. Birinchidan, u kognitiv moslashuvchanlik va muammolarni hal qilish qobiliyatini oshiradi. Ikkinchidan, u madaniyatlararo tushunish va hamdardlikni rivojlantiradi, bu bizning o'zaro bog'langan dunyomizda tobora muhim ahamiyat kasb etmoqda. Ba'zilarning ta'kidlashicha, u boshqa muhim fanlardan chalg'itadi, ammo ko'p tillilikning shaxsiy va professional jihatdan afzalliklari kamchiliklardan ustundir. Bundan tashqari, tillarga erta ta'sir qilish ularni osonroq o'zlashtirishga yordam beradi. Ilova ichida suhbat amaliyoti uchun ko'proq imkoniyatlar qo'shishni taklif qilaman, ehtimol virtual almashinuv dasturlari orqali. Shuningdek, Mandarin yoki arab tillari kabi kamroq o'qitiladigan tillarni qo'llab-quvvatlashni ko'rishga qiziqardim.</p>\n<p>Hurmat bilan,</p>"
+   },
+   "t11": {
+    "title": "informal letter · to friend",
+    "prompt": "Write a letter to your friend, who wants to learn a foreign language. Write about your feelings and what you think they should do.",
+    "sample": "Hey!\n\nI know you've been wanting to learn Spanish. I've been using LinguaPro and it's <span class=\"ml-token adv\">absolutely</span> fantastic! The lessons are <span class=\"ml-token adv\">really</span> interactive and you can practice <span class=\"ml-token colloc\">speaking</span> with the app. It's <span class=\"ml-token adv\">so</span> much fun! You <span class=\"ml-token modal\">should</span> <span class=\"ml-token adv\">definitely</span> download it – it's free to start!\n\n<span class=\"ml-token phrasal\">Take care</span>!",
+    "target": "50–70 words",
+    "sampleA1": "<p>Hi Feruza,<br>I learn English. App good. Easy. I like.<br>You try?<br>Bye!</p>",
+    "sampleA2": "<p>Hi Feruza,<br>I use app for learn French. It is good and easy. The lessons are fun. I think you can try it because you want to learn Spanish. It helps me, and maybe it helps you too.<br>See you soon!</p>",
+    "sampleB1": "<p>Hi Feruza,<br>I wanted to tell you about this language app I've been using. It's called LinguaPro, and it's pretty good. I'm learning Italian, and the lessons are interesting. I think it could be useful for you since you want to learn German. It has exercises and everything. You should check it out!<br>Let me know what you think.<br>Best,<br>Muattar Salimova</p>",
+    "sampleB2": "Hey Feruza,\nSo you're finally going to learn Spanish — I'm <span class=\"ml-token colloc\">thrilled for you</span>! Honestly, <span class=\"ml-token colloc\">the best move I made</span> was downloading LinguaPro. The lessons are <span class=\"ml-token colloc\">short and snappy</span>, so you can <span class=\"ml-token phrasal\">squeeze them in</span> anywhere, and chatting with the app really <span class=\"ml-token colloc\">builds your confidence</span>. My advice? <span class=\"ml-token phrasal\">Keep at it</span> every single day, even for ten minutes. You'll <span class=\"ml-token idiom\">get the hang of it</span> <span class=\"ml-token idiom\">before you know it</span>!\n<span class=\"ml-token phrasal\">Take care</span>,\nDilnoza Karimova",
+    "uzSample": "<p>Salom!</p>\n<p>Bilaman, ispan tilini o'rganishni xohlaysan. Men LinguaPro'dan foydalanib kelyapman va u juda ajoyib! Darslar juda interaktiv va ilova bilan gapirishni mashq qilishing mumkin. Bu juda qiziqarli! Albatta yuklab olishing kerak - boshlash bepul!</p>\n<p>O'zingni asra!</p>",
+    "uzSampleA1": "<p>Salom, Feruza,<br>Men ingliz tilini o'rganaman. Dastur yaxshi. Oson. Menga yoqadi.<br>Sen ham urinib ko'rasanmi?<br>Xayr!</p>",
+    "uzSampleA2": "<p>Salom, Feruza,<br>Men fransuz tilini o'rganish uchun ilovadan foydalanaman. U yaxshi va oson. Darslar qiziqarli. Menimcha, siz uni sinab ko'rishingiz mumkin, chunki siz ispan tilini o'rganmoqchisiz. U menga yordam beradi va balki sizga ham yordam berar.<br>Tez orada ko'rishguncha!</p>",
+    "uzSampleB1": "<p>Salom Feruza,<br>Sizga men foydalanayotgan til o'rganish dasturi haqida aytmoqchi edim. U LinguaPro deb ataladi va u juda yaxshi. Men italyan tilini o'rganyapman va darslar qiziqarli. O'ylaymanki, bu siz uchun foydali bo'lishi mumkin, chunki siz nemis tilini o'rganmoqchisiz. Unda mashqlar va hamma narsa bor. Siz uni tekshirib ko'rishingiz kerak!<br>Fikringizni bildiring.<br>Eng yaxshi tilaklar bilan,<br>Muattar Salimova</p>",
+    "uzSampleB2": "<p>Salom Feruza,<br>Eslaysanmi, yapon tilini o'rganish haqida gapirayotgan eding? Men LinguaPro degan ilovadan foydalanayapman va rostini aytsam, bu juda katta o'zgarish bo'ldi. Darslar juda yaxshi tuzilgan va ular amaliy suhbat ko'nikmalariga e'tibor berishadi, bu menga juda foydali. O'ylaymanki, bu sen uchun juda mos keladi, chunki u murakkab grammatikani juda oson hazm bo'ladigan tarzda bo'laklarga ajratadi. Qolaversa, uni sinab ko'rish bepul, shuning uchun hech narsani yo'qotmaysan! Bir urinib ko'r va menga nima deb o'ylashingni ayt.<br>Xayr,<br>Muattar Salimova</p>"
+   },
+   "t12": {
+    "title": "formal letter · to recipient",
+    "prompt": "Write a letter to the language learning app. Write about your feelings and what you think they should do.",
+    "sample": "Dear LinguaPro Team,\n\nThank you for asking about my experience with your <span class=\"ml-token colloc\">language learning app</span>.\n\nI am <span class=\"ml-token adv\">thoroughly</span> impressed with the platform. The <span class=\"ml-token colloc\">bite-sized lessons</span> fit <span class=\"ml-token adv\">perfectly</span> into my busy schedule. The <span class=\"ml-token colloc\">speech recognition</span> feature has <span class=\"ml-token adv\">significantly</span> improved my pronunciation. The <span class=\"ml-token colloc\">gamification elements</span> keep me motivated daily.\n\n<span class=\"ml-token adv\">However</span>, I have some suggestions. The <span class=\"ml-token colloc\">grammar explanations</span> are <span class=\"ml-token adv\">sometimes</span> too brief for complex topics. <span class=\"ml-token adv\">Additionally</span>, the <span class=\"ml-token colloc\">conversation practice</span> with AI feels <span class=\"ml-token adv\">slightly</span> unnatural.\n\nI <span class=\"ml-token modal\">would</span> love to see more <span class=\"ml-token colloc\">cultural content</span> integrated into lessons. A <span class=\"ml-token colloc\">live tutoring</span> option with native speakers <span class=\"ml-token modal\">would</span> be valuable. <span class=\"ml-token adv\">Also</span>, adding <span class=\"ml-token colloc\">business language</span> courses <span class=\"ml-token modal\">would</span> attract professional learners.\n\n<span class=\"ml-token adv\">Overall</span>, LinguaPro has made learning enjoyable and effective.\n\nYours sincerely,\nMuattar Salimova",
+    "target": "120–150 words",
+    "sampleA1": "<p>Hi LinguaPro,<br>I like the app. It is good.<br>I learn English. The lessons are easy.<br>I want more words. Bye.</p>",
+    "sampleA2": "<p>Hi LinguaPro,<br>I like your app because it is fun. The lessons are short and I learn new words. But the exercises are sometimes difficult.<br>I want to learn more about food and travel. And I want to learn French too. Thank you.<br>Bye,<br>Muattar Salimova</p>",
+    "sampleB1": "<p>Dear LinguaPro Team,<br><br>Thank you for your email. I am using your app to learn Spanish, and I think it is quite good. The lessons are interesting, and I like the exercises. They help me to remember new words and grammar.<br><br>However, I think some things could be better. For example, the app needs more listening exercises. Also, it would be good if you added more cultural information about Spanish-speaking countries.<br><br>I would also like to see more languages available on the app. Maybe you could add Italian or Portuguese?<br><br>Overall, I am happy with LinguaPro. Thank you for making a good app.<br><br>Sincerely,<br>Muattar Salimova</p>",
+    "sampleB2": "Dear LinguaPro Team,\nThank you for <span class=\"ml-token phrasal\">reaching out</span> to ask how I have been getting on with your app.\n<span class=\"ml-token linking\">On the whole</span>, I have been <span class=\"ml-token colloc\">thoroughly impressed</span>. The bite-sized lessons <span class=\"ml-token colloc\">slot neatly into</span> my daily routine, and the speech-recognition feature has <span class=\"ml-token idiom\">done wonders for</span> my pronunciation. I also like how the exercises reinforce new vocabulary without ever feeling dull.\n<span class=\"ml-token linking\">That said</span>, there is <span class=\"ml-token colloc\">room for improvement</span>. The grammar explanations can be a little too brief when the topic gets tricky, and the conversation practice occasionally sounds a bit stilted.\n<span class=\"ml-token linking\">Going forward</span>, I would love to see live sessions with <span class=\"ml-token colloc\">native speakers</span>, along with more cultural content woven into the lessons. Adding languages such as Arabic would also broaden your appeal.\nOverall, LinguaPro has made learning genuinely enjoyable, and I <span class=\"ml-token phrasal\">look forward to</span> watching it grow.\nYours sincerely,\nBekzod Aliyev",
+    "uzSample": "<p>Hurmatli LinguaPro jamoasi,</p>\n<p>Sizning til o'rganish dasturingiz bilan bog'liq tajribam haqida so'raganingiz uchun rahmat.</p>\n<p>Men platformadan juda katta taassurot oldim. Kichik hajmdagi darslar mening band jadvalimga juda mos keladi. Nutqni aniqlash funksiyasi talaffuzimni sezilarli darajada yaxshiladi. O'yin elementlari meni har kuni motivatsiya qilib turadi.</p>\n<p>Biroq, mening ba'zi takliflarim bor. Grammatika tushuntirishlari ba'zan murakkab mavzular uchun juda qisqa. Bundan tashqari, sun'iy intellekt bilan suhbat amaliyoti biroz sun'iy tuyuladi.</p>\n<p>Darslarga ko'proq madaniy kontent integratsiya qilinganini ko'rishni juda xohlardim. Ona tilida so'zlashuvchilar bilan jonli repetitorlik imkoniyati qimmatli bo'lardi. Shuningdek, biznes tili kurslarini qo'shish professional o'rganuvchilarni jalb qiladi.</p>\n<p>Umuman olganda, LinguaPro o'rganishni qiziqarli va samarali qildi.</p>\n<p>Hurmat bilan,<br>Muattar Salimova</p>",
+    "uzSampleA1": "<p>Salom LinguaPro,<br>Menga ilova yoqadi. U yaxshi.<br>Men ingliz tilini o'rganyapman. Darslar oson.<br>Men ko'proq so'zlar xohlayman. Xayr.</p>",
+    "uzSampleA2": "<p>Salom LinguaPro,<br>Sizning ilovangiz menga yoqadi, chunki u qiziqarli. Darslar qisqa va men yangi so'zlarni o'rganaman. Lekin mashqlar ba'zan qiyin bo'ladi.<br>Men oziq-ovqat va sayohat haqida ko'proq bilishni xohlayman. Va men fransuz tilini ham o'rganmoqchiman. Rahmat.<br>Xayr,<br>Muattar Salimova</p>",
+    "uzSampleB1": "<p>Hurmatli LinguaPro jamoasi,<br><br>Elektron pochtangiz uchun rahmat. Men sizning ilovangizdan ispan tilini o'rganish uchun foydalanayapman va o'ylashimcha, u juda yaxshi. Darslar qiziqarli va mashqlar menga yoqadi. Ular yangi so'zlar va grammatikani eslab qolishimga yordam beradi.<br><br>Biroq, menimcha, ba'zi narsalar yaxshiroq bo'lishi mumkin. Misol uchun, ilovaga ko'proq tinglash mashqlari kerak. Shuningdek, agar siz ispan tilida so'zlashuvchi mamlakatlar haqida ko'proq madaniy ma'lumot qo'shsangiz, yaxshi bo'lardi.<br><br>Men ilovada ko'proq tillar mavjud bo'lishini ham xohlardim. Ehtimol, siz italyan yoki portugal tillarini qo'shishingiz mumkin?<br><br>Umuman olganda, men LinguaPro'dan mamnunman. Yaxshi ilova yaratganingiz uchun rahmat.<br><br>Hurmat bilan,<br>Muattar Salimova</p>",
+    "uzSampleB2": "<p>Hurmatli LinguaPro jamoasi,<br><br>Til o'rganish dasturingiz bo'yicha tajribam haqida so'raganingiz uchun rahmat. Aytishim kerakki, men uni shu paytgacha umuman olganda ijobiy va qiziqarli vosita deb topdim.<br><br>Darslarning tuzilishi mantiqiy va taklif etilayotgan mashqlarning xilma-xilligini qadrlayman. Ayniqsa, lug'at o'rganish bo'limlari menga juda foydali. Biroq, foydalanuvchi tajribasini yanada yaxshilash uchun takomillashtirilishi mumkin bo'lgan sohalar bor deb o'ylayman.<br><br>Xususan, dastur talaffuz mashqlari bo'yicha yanada kuchliroq fikr-mulohaza tizimidan foyda ko'radi deb hisoblayman. Hozirgi tizim yetarli bo'lsa-da, batafsil ko'rsatmalar juda qimmatli bo'ladi. Bundan tashqari, foydalanuvchilar o'zaro muloqot qilishlari va mashq qilishlari mumkin bo'lgan hamjamiyat forumining kiritilishi muhim afzallik bo'ladi.<br><br>Nihoyat, men yanada ilg'or grammatika modullarini qo'shishni ko'rib chiqishni taklif qilaman, ehtimol, idiomalar va nozik gap tuzilmalariga e'tibor qaratish kerakdir. Bu yuqori darajadagi mahoratga intilayotgan o'rganuvchilarga mos keladi.<br><br>E'tiboringiz uchun rahmat. LinguaPro rivojlanishda davom etishini ko'rishni intiqlik bilan kutaman.<br><br>Eng yaxshi tilaklar bilan,<br>Muattar Salimova</p>"
+   },
+   "p1_context": "You recently started using a new language learning application.",
+   "p1_scenario": "Dear User,\n\nThank you for choosing LinguaPro to learn a new language! We hope you're enjoying your learning journey.\nHow do you find our lessons and the app's teaching methods? Are the exercises helping you improve?\nWhat features or languages would you like us to add to enhance your learning experience?\n\nLinguaPro Team"
+  },
+  "examDate": "2025-12-27",
+  "settings": {
+   "logoUrl": "https://audio.mock-stream.com/img/ibb/WN0XY5Lv/logo.png",
+   "heading1": "Bilim va malakalarni baholash agentligi",
+   "heading2": "Chet tilini bilish darajasi",
+   "examTitle": "Writing exam",
+   "logoWording": "Mock Stream",
+   "testIdentifier": "mock_stream"
+  },
+  "vocabulary": {
+   "task2": [
+    {
+     "en": "foreign language education",
+     "uz": "chet tili ta'limi"
+    },
+    {
+     "en": "cognitive abilities",
+     "uz": "kognitiv qobiliyatlar"
+    },
+    {
+     "en": "bilingual children",
+     "uz": "ikki tilli bolalar"
+    },
+    {
+     "en": "critical thinking",
+     "uz": "tanqidiy fikrlash"
+    },
+    {
+     "en": "career opportunities",
+     "uz": "karyera imkoniyatlari"
+    },
+    {
+     "en": "globalized economy",
+     "uz": "globallashgan iqtisodiyot"
+    },
+    {
+     "en": "cultural understanding",
+     "uz": "madaniy tushunish"
+    },
+    {
+     "en": "global citizenship",
+     "uz": "global fuqarolik"
+    },
+    {
+     "en": "compulsory language education",
+     "uz": "majburiy til ta'limi"
+    },
+    {
+     "en": "problem-solving skills",
+     "uz": "muammolarni hal qilish ko'nikmalari"
+    },
+    {
+     "en": "improved memory",
+     "uz": "yaxshilangan xotira"
+    },
+    {
+     "en": "multilingual candidates",
+     "uz": "ko'p tilli nomzodlar"
+    },
+    {
+     "en": "international positions",
+     "uz": "xalqaro lavozimlar"
+    },
+    {
+     "en": "higher salaries",
+     "uz": "yuqori ish haqi"
+    },
+    {
+     "en": "English dominance",
+     "uz": "ingliz tilining ustunligi"
+    },
+    {
+     "en": "shortsighted view",
+     "uz": "tor ko'rish"
+    },
+    {
+     "en": "diverse societies",
+     "uz": "xilma-xil jamiyatlar"
+    },
+    {
+     "en": "learn naturally",
+     "uz": "tabiiy o'rganish"
+    },
+    {
+     "en": "in conclusion",
+     "uz": "xulosa qilib aytganda"
+    },
+    {
+     "en": "reducing prejudice",
+     "uz": "xurofotni kamaytirish"
+    }
+   ],
+   "task11": [
+    {
+     "en": "language learning",
+     "uz": "til o'rganish"
+    },
+    {
+     "en": "foreign language",
+     "uz": "chet tili"
+    },
+    {
+     "en": "absolutely fantastic",
+     "uz": "mutlaqo ajoyib"
+    },
+    {
+     "en": "interactive lessons",
+     "uz": "interaktiv darslar"
+    },
+    {
+     "en": "practice speaking",
+     "uz": "gapirish mashq qilish"
+    },
+    {
+     "en": "so much fun",
+     "uz": "juda qiziqarli"
+    },
+    {
+     "en": "definitely download",
+     "uz": "albatta yuklab oling"
+    },
+    {
+     "en": "free to start",
+     "uz": "boshlash bepul"
+    },
+    {
+     "en": "take care",
+     "uz": "o'zingizga g'amxo'rlik qiling"
+    },
+    {
+     "en": "learn Spanish",
+     "uz": "ispan tilini o'rganmoq"
+    },
+    {
+     "en": "easy to use",
+     "uz": "ishlatish oson"
+    },
+    {
+     "en": "great app",
+     "uz": "ajoyib ilova"
+    },
+    {
+     "en": "highly recommend",
+     "uz": "qattiq tavsiya qilmoq"
+    },
+    {
+     "en": "daily practice",
+     "uz": "kundalik mashq"
+    },
+    {
+     "en": "improve quickly",
+     "uz": "tez yaxshilanmoq"
+    },
+    {
+     "en": "vocabulary builder",
+     "uz": "lug'at yaratuvchi"
+    },
+    {
+     "en": "listening exercises",
+     "uz": "tinglash mashqlari"
+    },
+    {
+     "en": "progress tracking",
+     "uz": "rivojlanishni kuzatish"
+    },
+    {
+     "en": "let me know",
+     "uz": "menga xabar bering"
+    },
+    {
+     "en": "good luck",
+     "uz": "omad tilayman"
+    }
+   ],
+   "task12": [
+    {
+     "en": "language learning app",
+     "uz": "til o'rganish ilovasi"
+    },
+    {
+     "en": "bite-sized lessons",
+     "uz": "qisqa darslar"
+    },
+    {
+     "en": "speech recognition",
+     "uz": "nutqni aniqlash"
+    },
+    {
+     "en": "gamification elements",
+     "uz": "o'yin elementlari"
+    },
+    {
+     "en": "grammar explanations",
+     "uz": "grammatik tushuntirishlar"
+    },
+    {
+     "en": "conversation practice",
+     "uz": "suhbat amaliyoti"
+    },
+    {
+     "en": "cultural content",
+     "uz": "madaniy kontent"
+    },
+    {
+     "en": "live tutoring",
+     "uz": "jonli o'qitish"
+    },
+    {
+     "en": "business language",
+     "uz": "biznes tili"
+    },
+    {
+     "en": "thoroughly impressed",
+     "uz": "to'liq hayratda qoldim"
+    },
+    {
+     "en": "fit perfectly",
+     "uz": "mukammal mos keladi"
+    },
+    {
+     "en": "significantly improved",
+     "uz": "sezilarli darajada yaxshilandi"
+    },
+    {
+     "en": "keep motivated",
+     "uz": "motivatsiyani saqlash"
+    },
+    {
+     "en": "sometimes too brief",
+     "uz": "ba'zan juda qisqa"
+    },
+    {
+     "en": "slightly unnatural",
+     "uz": "biroz g'ayritabiiy"
+    },
+    {
+     "en": "native speakers",
+     "uz": "ona tilida so'zlovchilar"
+    },
+    {
+     "en": "professional learners",
+     "uz": "professional o'quvchilar"
+    },
+    {
+     "en": "Yours sincerely",
+     "uz": "Hurmat bilan"
+    },
+    {
+     "en": "enjoyable and effective",
+     "uz": "yoqimli va samarali"
+    },
+    {
+     "en": "learning journey",
+     "uz": "o'rganish sayohati"
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "so": {
+    "uz": "shunday",
+    "type": "adv"
+   },
+   "Also": {
+    "uz": "Shuningdek",
+    "type": "adv"
+   },
+   "could": {
+    "uz": "mumkin edi",
+    "type": "modal"
+   },
+   "would": {
+    "uz": "edi",
+    "type": "modal"
+   },
+   "really": {
+    "uz": "haqiqatan",
+    "type": "adv"
+   },
+   "should": {
+    "uz": "kerak",
+    "type": "modal"
+   },
+   "Firstly": {
+    "uz": "Birinchidan",
+    "type": "adv"
+   },
+   "However": {
+    "uz": "Biroq",
+    "type": "adv"
+   },
+   "Overall": {
+    "uz": "Umuman olganda",
+    "type": "adv"
+   },
+   "Honestly": {
+    "uz": "rostini aytsam",
+    "type": "adv"
+   },
+   "Secondly": {
+    "uz": "Ikkinchidan",
+    "type": "adv"
+   },
+   "slightly": {
+    "uz": "biroz",
+    "type": "adv"
+   },
+   "speaking": {
+    "uz": "gapirish",
+    "type": "colloc"
+   },
+   "strongly": {
+    "uz": "qattiq",
+    "type": "adv"
+   },
+   "First off": {
+    "uz": "avvalo, birinchidan",
+    "type": "linking"
+   },
+   "Take care": {
+    "uz": "o'zingni ehtiyot qil",
+    "type": "phrasal"
+   },
+   "That said": {
+    "uz": "shunday bo'lsa-da",
+    "type": "linking"
+   },
+   "naturally": {
+    "uz": "tabiiyki",
+    "type": "adv"
+   },
+   "perfectly": {
+    "uz": "mukammal",
+    "type": "adv"
+   },
+   "sometimes": {
+    "uz": "ba'zan",
+    "type": "adv"
+   },
+   "Keep at it": {
+    "uz": "davom ettiravermoq, tashlab qo'ymaslik",
+    "type": "phrasal"
+   },
+   "absolutely": {
+    "uz": "mutlaqo",
+    "type": "adv"
+   },
+   "bite-sized": {
+    "uz": "kichik, ozgina hajmdagi",
+    "type": "colloc"
+   },
+   "definitely": {
+    "uz": "albatta",
+    "type": "adv"
+   },
+   "fit around": {
+    "uz": "jadvalga bemalol mos tushmoq",
+    "type": "colloc"
+   },
+   "in no time": {
+    "uz": "juda tez orada",
+    "type": "idiom"
+   },
+   "open doors": {
+    "uz": "imkoniyatlar ochadi",
+    "type": "idiom"
+   },
+   "pick it up": {
+    "uz": "o'zlashtirib olmoq",
+    "type": "phrasal"
+   },
+   "pick up on": {
+    "uz": "sezib olmoq, payqamoq",
+    "type": "phrasal"
+   },
+   "thoroughly": {
+    "uz": "puxta",
+    "type": "adv"
+   },
+   "Furthermore": {
+    "uz": "Bundan tashqari",
+    "type": "adv"
+   },
+   "Additionally": {
+    "uz": "Qo'shimcha ravishda",
+    "type": "adv"
+   },
+   "Nevertheless": {
+    "uz": "Shunga qaramay",
+    "type": "adv"
+   },
+   "On the whole": {
+    "uz": "umuman olganda",
+    "type": "linking"
+   },
+   "appreciation": {
+    "uz": "qadrlash",
+    "type": "colloc"
+   },
+   "increasingly": {
+    "uz": "tobora",
+    "type": "adv"
+   },
+   "reaching out": {
+    "uz": "murojaat qilmoq",
+    "type": "phrasal"
+   },
+   "Going forward": {
+    "uz": "kelajakda, bundan buyon",
+    "type": "linking"
+   },
+   "In conclusion": {
+    "uz": "Xulosa qilib aytganda",
+    "type": "adv"
+   },
+   "Stick with it": {
+    "uz": "davom ettirmoq, tashlab qo'ymaslik",
+    "type": "phrasal"
+   },
+   "live tutoring": {
+    "uz": "jonli repetitorlik",
+    "type": "colloc"
+   },
+   "significantly": {
+    "uz": "sezilarli darajada",
+    "type": "adv"
+   },
+   "On top of that": {
+    "uz": "bundan tashqari",
+    "type": "linking"
+   },
+   "look forward to": {
+    "uz": "intiqlik bilan kutmoq",
+    "type": "phrasal"
+   },
+   "native speakers": {
+    "uz": "ona tilida so'zlashuvchilar",
+    "type": "colloc"
+   },
+   "spill over into": {
+    "uz": "boshqasiga ham yoyilmoq, ta'sir qilmoq",
+    "type": "phrasal"
+   },
+   "squeeze them in": {
+    "uz": "vaqt topib joylashtirmoq",
+    "type": "phrasal"
+   },
+   "cultural content": {
+    "uz": "madaniy kontent",
+    "type": "colloc"
+   },
+   "does wonders for": {
+    "uz": "uchun juda foydali",
+    "type": "idiom"
+   },
+   "done wonders for": {
+    "uz": "uchun ajoyib foyda keltirdi",
+    "type": "idiom"
+   },
+   "short and snappy": {
+    "uz": "qisqa va lo'nda",
+    "type": "colloc"
+   },
+   "slot neatly into": {
+    "uz": "bemalol mos tushmoq",
+    "type": "colloc"
+   },
+   "thrilled for you": {
+    "uz": "sen uchun juda xursandman",
+    "type": "colloc"
+   },
+   "business language": {
+    "uz": "ishbilarmonlik tili",
+    "type": "colloc"
+   },
+   "critical thinking": {
+    "uz": "tanqidiy fikrlash",
+    "type": "colloc"
+   },
+   "taking the plunge": {
+    "uz": "nihoyat qat'iy qaror qilmoq",
+    "type": "idiom"
+   },
+   "before you know it": {
+    "uz": "sezmay qolasan, juda tez",
+    "type": "idiom"
+   },
+   "bilingual children": {
+    "uz": "ikki tilli bolalar",
+    "type": "colloc"
+   },
+   "bite-sized lessons": {
+    "uz": "kichik darslar",
+    "type": "colloc"
+   },
+   "get the hang of it": {
+    "uz": "o'zlashtirib olmoq, uddasidan chiqmoq",
+    "type": "idiom"
+   },
+   "global citizenship": {
+    "uz": "jahon fuqaroligi",
+    "type": "colloc"
+   },
+   "globalized economy": {
+    "uz": "globallashgan iqtisodiyot",
+    "type": "colloc"
+   },
+   "speech recognition": {
+    "uz": "nutqni aniqlash",
+    "type": "colloc"
+   },
+   "the bigger picture": {
+    "uz": "kattaroq, umumiy manzara",
+    "type": "idiom"
+   },
+   "break down barriers": {
+    "uz": "to'siqlarni yo'q qiladi",
+    "type": "idiom"
+   },
+   "cognitive abilities": {
+    "uz": "bilish qobiliyatlari",
+    "type": "colloc"
+   },
+   "career opportunities": {
+    "uz": "kasbiy imkoniyatlar",
+    "type": "colloc"
+   },
+   "grammar explanations": {
+    "uz": "grammatika tushuntirishlari",
+    "type": "colloc"
+   },
+   "room for improvement": {
+    "uz": "yaxshilanishga o'rin bor",
+    "type": "colloc"
+   },
+   "the best move I made": {
+    "uz": "men qilgan eng to'g'ri ish",
+    "type": "colloc"
+   },
+   "thoroughly impressed": {
+    "uz": "juda katta taassurot oldim",
+    "type": "colloc"
+   },
+   "At the end of the day": {
+    "uz": "oxir-oqibat",
+    "type": "idiom"
+   },
+   "conversation practice": {
+    "uz": "suhbat amaliyoti",
+    "type": "colloc"
+   },
+   "gamification elements": {
+    "uz": "o'yinlashtirish elementlari",
+    "type": "colloc"
+   },
+   "gives you a real edge": {
+    "uz": "sizga jiddiy ustunlik beradi",
+    "type": "colloc"
+   },
+   "language learning app": {
+    "uz": "til o'rganish ilovasi",
+    "type": "colloc"
+   },
+   "builds your confidence": {
+    "uz": "o'ziga ishonchni oshiradi",
+    "type": "colloc"
+   },
+   "cultural understanding": {
+    "uz": "madaniy tushunish",
+    "type": "colloc"
+   },
+   "Foreign language education": {
+    "uz": "Chet til ta'limi",
+    "type": "colloc"
+   },
+   "compulsory language education": {
+    "uz": "majburiy til ta'limi",
+    "type": "colloc"
+   }
+  }
+ },
+ "created_at": "2026-05-06T15:00:55.112825+00:00",
+ "updated_at": "2026-07-06T10:57:41.237289+00:00"
+}

@@ -1,0 +1,503 @@
+{
+ "id": 513,
+ "mock_type": "cefr-listening",
+ "mock_number": 51,
+ "title": "CEFR Listening Mock Test 51",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "mcq-reply",
+    "title": "Part 1",
+    "answers": {
+     "1": "B",
+     "2": "C",
+     "3": "B",
+     "4": "C",
+     "5": "B",
+     "6": "A",
+     "7": "B",
+     "8": "B"
+    },
+    "audioFile": "https://audio.mock-stream.com/test51/PART 1.m4a",
+    "questions": [
+     {
+      "id": 1,
+      "options": [
+       {
+        "text": "What a relief.",
+        "letter": "A"
+       },
+       {
+        "text": "Oh, dear. Really?",
+        "letter": "B"
+       },
+       {
+        "text": "No, I don't think so.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "options": [
+       {
+        "text": "Phew, that's good to hear.",
+        "letter": "A"
+       },
+       {
+        "text": "Yes, I had a broken leg.",
+        "letter": "B"
+       },
+       {
+        "text": "No, I don't think so.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 3,
+      "options": [
+       {
+        "text": "I feel exhausted.",
+        "letter": "A"
+       },
+       {
+        "text": "Are you taking anything for the pain?",
+        "letter": "B"
+       },
+       {
+        "text": "Well, I usually go to the gym after work.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 4,
+      "options": [
+       {
+        "text": "What a relief.",
+        "letter": "A"
+       },
+       {
+        "text": "Yes, I've got a cold.",
+        "letter": "B"
+       },
+       {
+        "text": "Sure, Doctor.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 5,
+      "options": [
+       {
+        "text": "I can't get to sleep.",
+        "letter": "A"
+       },
+       {
+        "text": "Here, in this area.",
+        "letter": "B"
+       },
+       {
+        "text": "I feel sick.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 6,
+      "options": [
+       {
+        "text": "When did this problem start?",
+        "letter": "A"
+       },
+       {
+        "text": "What does it do?",
+        "letter": "B"
+       },
+       {
+        "text": "I've taken some aspirin.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 7,
+      "options": [
+       {
+        "text": "He's gone to the chemist.",
+        "letter": "A"
+       },
+       {
+        "text": "It really hurts when I walk.",
+        "letter": "B"
+       },
+       {
+        "text": "No, I don't think so.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 8,
+      "options": [
+       {
+        "text": "Where does it hurt?",
+        "letter": "A"
+       },
+       {
+        "text": "Do you do any exercise?",
+        "letter": "B"
+       },
+       {
+        "text": "Can I have a look?",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "partNumber": 1,
+    "instruction": "You will hear some sentences. You will hear each sentence twice. Choose the correct reply to each sentence (A, B, or C).",
+    "questionRange": "1-8"
+   },
+   {
+    "type": "gap-fill-form",
+    "title": "Part 2",
+    "answers": {
+     "9": "TENT",
+     "10": "MEALS",
+     "11": "PATH",
+     "12": "MAP",
+     "13": "RABBITS",
+     "14": "FLIGHT"
+    },
+    "audioFile": "https://audio.mock-stream.com/test51/PART 2.m4a",
+    "formTitle": "Working in a forest in New Zealand",
+    "partNumber": 2,
+    "formContent": [
+     {
+      "text": "Steve had accommodation in a shared",
+      "type": "item-gap",
+      "gapId": 9,
+      "gapSuffix": ""
+     },
+     {
+      "text": "Steve says it was important to have good",
+      "type": "item-gap",
+      "gapId": 10,
+      "gapSuffix": "at the end of each day."
+     },
+     {
+      "text": "Steve worked with a team that made a",
+      "type": "item-gap",
+      "gapId": 11,
+      "gapSuffix": "through the forest."
+     },
+     {
+      "text": "Steve also collected information needed for a",
+      "type": "item-gap",
+      "gapId": 12,
+      "gapSuffix": "of the forest area."
+     },
+     {
+      "text": "In the morning Steve was surprised to hear the sound of",
+      "type": "item-gap",
+      "gapId": 13,
+      "gapSuffix": "the forest."
+     },
+     {
+      "text": "When he did the trip, Steve only had to pay for his",
+      "type": "item-gap",
+      "gapId": 14,
+      "gapSuffix": ""
+     }
+    ],
+    "instruction": "You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. Write ONE WORD and/or A NUMBER for each answer.",
+    "questionRange": "9-14"
+   },
+   {
+    "type": "matching-speakers",
+    "title": "Part 3",
+    "answers": {
+     "15": "C",
+     "16": "A",
+     "17": "F",
+     "18": "E"
+    },
+    "options": [
+     {
+      "text": "There's always something to do.",
+      "letter": "A"
+     },
+     {
+      "text": "I like its architecture.",
+      "letter": "B"
+     },
+     {
+      "text": "It's very cosmopolitan.",
+      "letter": "C"
+     },
+     {
+      "text": "It reminds me of home.",
+      "letter": "D"
+     },
+     {
+      "text": "I like its parks.",
+      "letter": "E"
+     },
+     {
+      "text": "I like its general atmosphere.",
+      "letter": "F"
+     }
+    ],
+    "speakers": [
+     {
+      "id": 15,
+      "label": "Speaker 1"
+     },
+     {
+      "id": 16,
+      "label": "Speaker 2"
+     },
+     {
+      "id": 17,
+      "label": "Speaker 3"
+     },
+     {
+      "id": 18,
+      "label": "Speaker 4"
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test51/PART 3.m4a",
+    "partNumber": 3,
+    "instruction": "You will hear people talking about what they like about London. For questions 15-18 choose from the list A-F the reason each speaker gives for why they like the city so much. There are TWO EXTRA places which you do not need to use.",
+    "questionRange": "15-18"
+   },
+   {
+    "type": "map-labeling",
+    "title": "Part 4",
+    "answers": {
+     "19": "C",
+     "20": "B",
+     "21": "A",
+     "22": "G",
+     "23": "D"
+    },
+    "mapImage": "https://audio.mock-stream.com/test51/map.png?v=3",
+    "mapTitle": "",
+    "audioFile": "https://audio.mock-stream.com/test51/PART 4.m4a",
+    "mapLabels": [
+     "A",
+     "B",
+     "C",
+     "D",
+     "E",
+     "F",
+     "G"
+    ],
+    "questions": [
+     {
+      "id": 19,
+      "place": "Petting zoo"
+     },
+     {
+      "id": 20,
+      "place": "Toddler's Play Pool"
+     },
+     {
+      "id": 21,
+      "place": "Bouncy Castle and Fairy Palace"
+     },
+     {
+      "id": 22,
+      "place": "Winter Wonderland"
+     },
+     {
+      "id": 23,
+      "place": "Craft Zone"
+     }
+    ],
+    "partNumber": 4,
+    "instruction": "You will hear someone giving a talk. Label the places (19-23) on the map (A-G). There are TWO extra options which you do not need to use.",
+    "questionRange": "19-23"
+   },
+   {
+    "type": "mcq-extracts",
+    "title": "Part 5",
+    "answers": {
+     "24": "B",
+     "25": "C",
+     "26": "B",
+     "27": "A",
+     "28": "B",
+     "29": "C"
+    },
+    "extracts": [
+     {
+      "title": "Extract One",
+      "context": "",
+      "questions": [
+       {
+        "id": 24,
+        "text": "How did the man feel after watching a TV debate on the subject?",
+        "options": [
+         {
+          "text": "alarmed by the strength of feeling among the speakers",
+          "letter": "A"
+         },
+         {
+          "text": "dismayed by some of the speakers' level of knowledge",
+          "letter": "B"
+         },
+         {
+          "text": "surprised by the number of speakers taking part",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 25,
+        "text": "The woman thinks that articles about climate change should",
+        "options": [
+         {
+          "text": "be written by scientists.",
+          "letter": "A"
+         },
+         {
+          "text": "include some humour.",
+          "letter": "B"
+         },
+         {
+          "text": "be authenticated by specialists.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Extract Two",
+      "context": "",
+      "questions": [
+       {
+        "id": 26,
+        "text": "How does the man feel about the new training season?",
+        "options": [
+         {
+          "text": "concerned about his ability to learn new skills",
+          "letter": "A"
+         },
+         {
+          "text": "satisfied that his efforts have been worthwhile",
+          "letter": "B"
+         },
+         {
+          "text": "worried about the number of hours he has to put in",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 27,
+        "text": "What does the woman think about the forthcoming world championships?",
+        "options": [
+         {
+          "text": "She has confidence in the ability of certain team members.",
+          "letter": "A"
+         },
+         {
+          "text": "She's convinced that the team will do better than last year.",
+          "letter": "B"
+         },
+         {
+          "text": "She suspects that pilots have been given unrealistic targets.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Extract Three",
+      "context": "",
+      "questions": [
+       {
+        "id": 28,
+        "text": "The woman reveals her belief that",
+        "options": [
+         {
+          "text": "websites should monitor contributions.",
+          "letter": "A"
+         },
+         {
+          "text": "reading such reviews is a waste of time.",
+          "letter": "B"
+         },
+         {
+          "text": "those who write reviews are unscrupulous.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 29,
+        "text": "How does the man think he benefits from writing online reviews?",
+        "options": [
+         {
+          "text": "It allows him to share his opinions.",
+          "letter": "A"
+         },
+         {
+          "text": "It gives him practice in writing skills.",
+          "letter": "B"
+         },
+         {
+          "text": "It makes him read the books more closely.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test51/PART 5.m4a",
+    "partNumber": 5,
+    "instruction": "You will hear three extracts. Choose the correct answer (A, B, or C) for each question (24-29). There are TWO questions for each extract.",
+    "questionRange": "24-29"
+   },
+   {
+    "type": "sentence-completion",
+    "title": "Part 6",
+    "answers": {
+     "30": "PAPERLESS",
+     "31": "ROUTINE",
+     "32": "LAWYERS",
+     "33": "TEAMWORK",
+     "34": "ADVERTISING",
+     "35": "CREATIVE"
+    },
+    "audioFile": "https://audio.mock-stream.com/test51/PART 6.m4a",
+    "partNumber": 6,
+    "instruction": "You will hear a part of a lecture. For each question, fill in the missing information in the numbered space. Write no more than ONE WORD for each answer.",
+    "passageTitle": "THE OFFICE OF THE FUTURE",
+    "questionRange": "30-35",
+    "passageContent": "What's called the <span class=\"gap-input\" data-gap=\"30\">_____(30)_____</span> office is given as an example of one prediction that hasn't come true.<br><br>Francis Duffy, an architect by profession, identifies four types of office. Duffy gives the name 'The Hive' to the type of office where work of a <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span> nature is carried out.<br><br>'The Cell' is a type of office which suits people whose work requires concentration. Duffy thinks that people such as computer scientists and <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span> work well in a cell office.<br><br>The type of office which Duffy calls 'The Den' was designed to make interaction such as <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span> easier.<br><br>Duffy sees people involved in professions like <span class=\"gap-input\" data-gap=\"34\">_____(34)_____</span> and the media working well in a den office.<br><br>Duffy says 'The Club' is the type of office which would suit people doing what he calls <span class=\"gap-input\" data-gap=\"35\">_____(35)_____</span> work."
+   }
+  ],
+  "source": "Multi-Level Full Mock 5 (@MultiLevelRecord)",
+  "examDate": "2026-06-13",
+  "examType": "cefr",
+  "testInfo": {
+   "id": "cefr-listening-51",
+   "level": "B2",
+   "title": "CEFR Listening Mock Test 51",
+   "totalTime": 40,
+   "totalQuestions": 35
+  },
+  "mockNumber": 51
+ },
+ "created_at": "2026-06-13T16:59:46.243519+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

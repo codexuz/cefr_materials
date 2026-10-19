@@ -1,0 +1,688 @@
+{
+ "id": 441,
+ "mock_type": "cefr-reading",
+ "mock_number": 45,
+ "title": "CEFR Reading Mock 45",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "gap-fill-text",
+    "title": "PART 1",
+    "answers": {
+     "1": [
+      "Astronomers"
+     ],
+     "2": [
+      "Star"
+     ],
+     "3": [
+      "Planets"
+     ],
+     "4": [
+      "Look"
+     ],
+     "5": [
+      "Plants"
+     ],
+     "6": [
+      "Rock"
+     ]
+    },
+    "passage": {
+     "title": "Looking for a new Earth",
+     "content": "<p>For thousands of years, humans have explored the Earth. Nowadays, we are exploring space. Astronomers are the modern-day explorers. Currently, many <span class=\"gap\" data-gap=\"1\">_____(1)_____</span> are looking for new planets and new places for humans to live in the future. But where do astronomers start looking?</p><p>First of all, astronomers look for a star. That's because our own Earth orbits a star (the Sun). More importantly, it is the correct distance from the Sun for heat and light. So when astronomers have found the <span class=\"gap\" data-gap=\"2\">_____(2)_____</span> they look at the planets around it. In recent years, astronomers have found nearly 400 new planets with stars. Unfortunately, many of these <span class=\"gap\" data-gap=\"3\">_____(3)_____</span> are either too near to the star or too far away.</p><p>However, if the planet is in a good position, astronomers <span class=\"gap\" data-gap=\"4\">_____(4)_____</span> for three key things: water, air and rock. Water is important because all life needs water. Humans can drink it and they can also grow plants with water. And <span class=\"gap\" data-gap=\"5\">_____(5)_____</span> produce air for humans to breathe and food to eat. So all life on other planets will need water and air. <span class=\"gap\" data-gap=\"6\">_____(6)_____</span> on a planet is also important. That's because there is often water under the rocks.</p>"
+    },
+    "questions": [
+     {
+      "id": 1,
+      "hint": "Currently, many _____ are looking for new planets and new places for humans to live in the future."
+     },
+     {
+      "id": 2,
+      "hint": "So when astronomers have found the _____ they look at the planets around it."
+     },
+     {
+      "id": 3,
+      "hint": "Unfortunately, many of these _____ are either too near to the star or too far away."
+     },
+     {
+      "id": 4,
+      "hint": "However, if the planet is in a good position, astronomers _____ for three key things: water, air and rock."
+     },
+     {
+      "id": 5,
+      "hint": "And _____ produce air for humans to breathe and food to eat."
+     },
+     {
+      "id": 6,
+      "hint": "So all life on other planets will need water and air. _____ on a planet is also important."
+     }
+    ],
+    "partNumber": 1,
+    "instruction": "Read the text. Fill in each gap with ONE word. You must use a word which is somewhere in the rest of the text.",
+    "explanations": {
+     "q1": {
+      "text": "The passage introduces 'Astronomers' as the modern-day explorers. The next sentence explains that these explorers are the ones looking for new planets. That's why the correct answer is 'Astronomers'.",
+      "quote": "Astronomers are the modern-day explorers."
+     },
+     "q2": {
+      "text": "The text explains that the first step for astronomers is to find a star, because our Earth orbits a star. The gapped sentence describes what they do after this first step. That's why the correct answer is 'Star'.",
+      "quote": "First of all, astronomers look for a star."
+     },
+     "q3": {
+      "text": "The sentence just before the gap states that astronomers have found 'nearly 400 new planets'. The word 'these' in the gapped sentence refers back to this group of objects. That's why the correct answer is 'Planets'.",
+      "quote": "In recent years, astronomers have found nearly 400 new planets with stars."
+     },
+     "q4": {
+      "text": "The sentence describes the action astronomers perform when searching for key things on a planet. The verb that fits this action of searching is 'look'. That's why the correct answer is 'Look'.",
+      "quote": "First of all, astronomers look for a star."
+     },
+     "q5": {
+      "text": "The previous sentence mentions that humans can 'grow plants with water'. The gapped sentence then explains that these things produce air and food, which is what plants do. That's why the correct answer is 'Plants'.",
+      "quote": "Humans can drink it and they can also grow plants with water."
+     },
+     "q6": {
+      "text": "The passage lists three key things astronomers look for: water, air, and rock. The sentences before the gap discuss water and air, so the last item to be mentioned is rock. That's why the correct answer is 'Rock'.",
+      "quote": "However, if the planet is in a good position, astronomers _____(4)_____ for three key things: water, air and rock."
+     }
+    },
+    "questionRange": "1-6"
+   },
+   {
+    "type": "matching",
+    "texts": [
+     {
+      "title": "Q7",
+      "number": 7,
+      "content": "This picnic spot next to a quiet lake is peaceful and beautiful. You can lay out your blanket on soft grass, listen to calm waves, and enjoy the clean air. It’s the perfect place to relax and spend quality time with your loved ones."
+     },
+     {
+      "title": "Q8",
+      "number": 8,
+      "content": "This forest picnic area is calm and full of tall trees and greenery. Sunlight shines through the leaves, making it feel magical. You can enjoy nature’s beauty, hear birds singing, and have a quiet meal in a peaceful place."
+     },
+     {
+      "title": "Q9",
+      "number": 9,
+      "content": "If you want a simple and quick picnic, this park bench is perfect. Grab some snacks or a takeaway sandwich and enjoy your food while watching people and the park. It’s a nice spot in the middle of the city to rest and unwind."
+     },
+     {
+      "title": "Q10",
+      "number": 10,
+      "content": "A picnic on the beach gives you the full summer feeling. You can hear the waves, feel the warm sun, and smell the sea. Enjoy your food with a view of the ocean, build sandcastles, and relax under the sun."
+     },
+     {
+      "title": "Q11",
+      "number": 11,
+      "content": "Take your picnic to the top of a mountain for amazing views. After a good hike, enjoy the fresh mountain air and feel proud of reaching the top. It’s a perfect place for a picnic with a view you won’t forget."
+     },
+     {
+      "title": "Q12",
+      "number": 12,
+      "content": "Hidden in a quiet garden, this picnic spot is peaceful and surrounded by flowers and nice smells. It’s great for a calm afternoon with friends or a sweet date in a relaxing garden setting."
+     },
+     {
+      "title": "Q13",
+      "number": 13,
+      "content": "Have a picnic by a flowing river, sitting on soft grass. You can relax while listening to the water, watch boats pass by, and enjoy the lovely view. It’s perfect for a calm picnic in nature."
+     },
+     {
+      "title": "Q14",
+      "number": 14,
+      "content": "Try something different with a picnic on a rooftop. Enjoy amazing views of the city, feel the cool wind, and have a special meal. It’s great for a romantic night or celebrating a special event under the stars."
+     }
+    ],
+    "title": "Part 2",
+    "answers": {
+     "7": [
+      "E"
+     ],
+     "8": [
+      "F"
+     ],
+     "9": [
+      "G"
+     ],
+     "10": [
+      "J"
+     ],
+     "11": [
+      "C"
+     ],
+     "12": [
+      "I"
+     ],
+     "13": [
+      "H"
+     ],
+     "14": [
+      "B"
+     ]
+    },
+    "questions": [
+     {
+      "id": 7,
+      "textNumber": 7
+     },
+     {
+      "id": 8,
+      "textNumber": 8
+     },
+     {
+      "id": 9,
+      "textNumber": 9
+     },
+     {
+      "id": 10,
+      "textNumber": 10
+     },
+     {
+      "id": 11,
+      "textNumber": 11
+     },
+     {
+      "id": 12,
+      "textNumber": 12
+     },
+     {
+      "id": 13,
+      "textNumber": 13
+     },
+     {
+      "id": 14,
+      "textNumber": 14
+     }
+    ],
+    "partNumber": 2,
+    "statements": [
+     {
+      "text": "A cozy spot near a fireplace, perfect for enjoying a warm drink and a good book.",
+      "letter": "A"
+     },
+     {
+      "text": "A unique dining experience with breathtaking city views, a cool breeze, and a touch of romance.",
+      "letter": "B"
+     },
+     {
+      "text": "A breathtaking experience with panoramic views, fresh mountain air, and a feeling of accomplishment.",
+      "letter": "C"
+     },
+     {
+      "text": "A bustling marketplace with vibrant stalls, delicious street food, and a lively atmosphere.",
+      "letter": "D"
+     },
+     {
+      "text": "A tranquil spot by a lake, perfect for a relaxing afternoon with loved ones.",
+      "letter": "E"
+     },
+     {
+      "text": "A peaceful escape surrounded by towering trees and lush greenery, offering a magical atmosphere.",
+      "letter": "F"
+     },
+     {
+      "text": "A casual and convenient option, ideal for a quick bite and peoplewatching in the city.",
+      "letter": "G"
+     },
+     {
+      "text": "A leisurely picnic with a scenic backdrop, featuring a flowing river and the sound of water.",
+      "letter": "H"
+     },
+     {
+      "text": "A tranquil escape surrounded by blooming flowers and fragrant herbs, perfect for a romantic date.",
+      "letter": "I"
+     },
+     {
+      "text": "A quintessential summer experience with the sound of waves crashing and the warmth of the sun.",
+      "letter": "J"
+     }
+    ],
+    "instruction": "Read the texts 7-14 and the statements A-J. Decide which text matches with the situation described in the statements. Each statement can be used ONCE only. There are TWO extra statements which you do not need to use.",
+    "explanations": {},
+    "questionRange": "7-14",
+    "extraStatements": [
+     "A",
+     "D"
+    ],
+    "statementsFirst": true
+   },
+   {
+    "type": "matching-headings",
+    "title": "Part 3",
+    "answers": {
+     "15": [
+      "E"
+     ],
+     "16": [
+      "A"
+     ],
+     "17": [
+      "H"
+     ],
+     "18": [
+      "D"
+     ],
+     "19": [
+      "G"
+     ],
+     "20": [
+      "B"
+     ]
+    },
+    "passage": {
+     "title": "Canada’s Must-Visit Tourist Destinations",
+     "paragraphs": [
+      {
+       "number": "1",
+       "content": "If you go to the Insular Mountain Range of Vancouver Island and face the open Pacific Ocean, be ready to experience the magnificent natural and cultural heritage ot Canada's west coast. If you decide to go deeper into the island, you will find a lush coastal rainforest that gives way to bountiful and diverse intertidal and subtidal areas. And to top it all off, there are breathtaking beaches that make this an island paradise."
+      },
+      {
+       "number": "2",
+       "content": "The resort town of Whistler is about a two-hour drive from Vancouver. Whistler offers visitors fine food and spas, but mostly it is popular among tourists for the opportunities it offers for adventure. Whistler and Blackcomb Mountains make Whistler one of the best destinations in the world for firstclass skiing. The passage between the two mountains creates a unique terrain one mile above the village, providing a year-round skiable territory."
+      },
+      {
+       "number": "3",
+       "content": "A prized national treasure, Banff National Park is one of five national parks in the Canadian Rocky Mountains. It attracts millions of visitors each year for camping, hiking, biking, skiing, fishing or just relaxing. A full range of accommodation, restaurants and shops can be found in the resort. Two of the most famous and historic Canadian hotels, the Fairmont Banff Springs and the Chateau Lake Louise, are located in these towns as well."
+      },
+      {
+       "number": "4",
+       "content": "Niagara Falls is maybe the most famous in the world, attracting millions of tourists each year. However, it has a certain reputation for being partly a small-scale Las Vegas and a theme park, because in addition to Niagara Falls the tourists can visit a casino resort with fine hotels and restaurants. Although this area is improving very quickly and everyone can easily find what they like, the Niagara region as a whole is worth deeper exploration."
+      },
+      {
+       "number": "5",
+       "content": "Tourists are naturally drawn to tall buildings where they can get a bird’s eye view of a city. The CN tower, located in downtown Toronto, is the tallest free standing structure in the world. Unfortunately, elevated observation usually comes at an equally elevated price, and the CN Tower is no different. However, tourists love it and the glass elevator takes them to the glassfloored outdoor observation deck which is a real thrill for both kids and grownups."
+      },
+      {
+       "number": "6",
+       "content": "The 300 km long Cabot Trail is famous for its panorama views of the Atlantic Ocean. The trail is especially popular in the fall when the views are the most spectacular. Even though the drive into this area usually takes a few hours, once there, tourists can spend a day or two stopping in at one or two of the towns along the trail, relaxing and enjoying the magnificent nature all around."
+      }
+     ]
+    },
+    "headings": [
+     {
+      "text": "For adventurous skiers",
+      "letter": "A"
+     },
+     {
+      "text": "Especially good in autumn",
+      "letter": "B"
+     },
+     {
+      "text": "For the rich and lazy",
+      "letter": "C"
+     },
+     {
+      "text": "Not just for gamblers",
+      "letter": "D"
+     },
+     {
+      "text": "Like an island in heaven",
+      "letter": "E"
+     },
+     {
+      "text": "Film-makers like it",
+      "letter": "F"
+     },
+     {
+      "text": "Looking down from up there",
+      "letter": "G"
+     },
+     {
+      "text": "Probably the best one of five",
+      "letter": "H"
+     }
+    ],
+    "questions": [
+     {
+      "id": 15,
+      "text": "Paragraph 1"
+     },
+     {
+      "id": 16,
+      "text": "Paragraph 2"
+     },
+     {
+      "id": 17,
+      "text": "Paragraph 3"
+     },
+     {
+      "id": 18,
+      "text": "Paragraph 4"
+     },
+     {
+      "id": 19,
+      "text": "Paragraph 5"
+     },
+     {
+      "id": 20,
+      "text": "Paragraph 6"
+     }
+    ],
+    "partNumber": 3,
+    "instruction": "Read the text and choose the correct heading for each paragraph from the list of headings below.",
+    "explanations": {},
+    "extraHeadings": [
+     "C",
+     "F"
+    ],
+    "questionRange": "15-20"
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 4",
+    "answers": {
+     "21": [
+      "B"
+     ],
+     "22": [
+      "B"
+     ],
+     "23": [
+      "B"
+     ],
+     "24": [
+      "B"
+     ],
+     "25": [
+      "False",
+      "B"
+     ],
+     "26": [
+      "True",
+      "A"
+     ],
+     "27": [
+      "Not Given",
+      "C"
+     ],
+     "28": [
+      "True",
+      "A"
+     ],
+     "29": [
+      "Not Given",
+      "C"
+     ]
+    },
+    "passage": {
+     "title": "Emily",
+     "content": "<p>Emily woke up before her alarm went off and knew instantly something wasn’t quite right in the house. Bailey, her chocolate-coloured pet Labrador, should have been there at the bedroom door demanding food but there was no sound of him. She decided to get up and go and see where he was. It felt cold in the hall but she knew she had left the heating on last night. As she walked down the stairs she heard a noise in the kitchen; the strange feeling that something was wrong was getting stronger. What was going on? She got to the bottom of the stairs and opened the door to the living room, which led to the kitchen. Why was the door closed? She always left it open. Bailey was nowhere to be seen and his toys, which were usually all over the living room floor, were in a neat pile in the corner next to his basket. Had they been there when she had gone to bed last night? She couldn’t remember. She walked into the kitchen and turned the light on, it didn’t work, nothing happened. She stood very still and listened, nothing. There wasn’t a sound. That was really strange; she lived in the middle of a busy city, there were always people around. She woke up to the sound of traffic, car horns, police cars, her neighbours shouting in the house next door, how could there be silence at 8 o’clock on a Friday morning? She went back into the living room and turned the TV on, but again nothing happened. She went back into the kitchen and looked out of the window; it was a bright clear day. The back door was shut but when she tried the handle she realised it was unlocked. She walked out into the tiny back garden and opened the back gate; still nothing, not a sound and no sign of Bailey. She called him but he didn’t come. She went back into the house and what she realised she should have done as soon as she got up and called her mother. But there was no answer. She called her boyfriend but his mobile was switched off and she got the answer phone message. She tried a couple of other numbers but with equal success. She sat down on the sofa and thought about what she could do. She couldn’t decide if she should stay at home or go out and find someone. Just as she decided the best thing would be to stay at home and wait, there was a loud banging on the front door. She jumped up and ran to the door. “Who is it?” she shouted through the door. “It’s me,” came the reply. But she had no idea who “me” was. She didn’t want to open the door until she was sure she knew who it was, not with all the other strange things that were happening this morning, and she didn’t want to shout through the thick front door, so she walked back into the living room and tried to look through the front window to see who was standing at the front door. It was a man but she couldn’t make out who he was; he didn’t look familiar. He was tall and was wearing a big coat with a hood over his head. Just as she was thinking of running out the back door she saw that the man had Bailey with him, and Bailey seemed quite happy, which meant that the man had to be someone he knew and liked; he would have been barking otherwise. She still wasn’t taking any chances though; she put the safety latch on the door and opened it just enough to see who was there. She was instantly relieved; it was her brother, who lived just a few streets away. She opened the door all the way and let him in. As he walked through the door he was almost knocked over by Bailey jumping up and looking more pleased than ever to see her. “So what’s going on?” she asked her brother. He looked at her as if she was stupid. “Haven’t you heard?”</p>"
+    },
+    "partNumber": 4,
+    "instruction": "Read the following text for questions 21-29.",
+    "explanations": {},
+    "questionRange": "21-29",
+    "questionSections": [
+     {
+      "type": "mcq",
+      "title": "Questions 21-24: Multiple Choice",
+      "questions": [
+       {
+        "id": 21,
+        "text": "What was the first thing Emily noticed that made her feel something was wrong that morning?",
+        "options": [
+         {
+          "text": "The living room door was wide open",
+          "letter": "A"
+         },
+         {
+          "text": "Bailey wasn’t waiting outside her room asking for food",
+          "letter": "B"
+         },
+         {
+          "text": "She heard loud music coming from the kitchen",
+          "letter": "C"
+         },
+         {
+          "text": "The heating system wasn’t working",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 22,
+        "text": "Which part of the story shows that Emily was shocked by how quiet everything was?",
+        "options": [
+         {
+          "text": "She lives in a quiet place in the countryside",
+          "letter": "A"
+         },
+         {
+          "text": "She expected it to be noisier since it was a busy Friday morning",
+          "letter": "B"
+         },
+         {
+          "text": "That time of day is always quiet with no people or cars",
+          "letter": "C"
+         },
+         {
+          "text": "She got up much earlier than she usually does",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 23,
+        "text": "How did Emily realize that the power might be out?",
+        "options": [
+         {
+          "text": "She tried to turn on the heat but it didn’t work",
+          "letter": "A"
+         },
+         {
+          "text": "The kitchen lights wouldn’t come on",
+          "letter": "B"
+         },
+         {
+          "text": "She switched on the TV but only saw static",
+          "letter": "C"
+         },
+         {
+          "text": "The home phone had no signal",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 24,
+        "text": "What made Emily finally open the front door?",
+        "options": [
+         {
+          "text": "She clearly heard her brother calling her",
+          "letter": "A"
+         },
+         {
+          "text": "She saw that Bailey was calmly standing beside the man",
+          "letter": "B"
+         },
+         {
+          "text": "The man outside said he would break the door",
+          "letter": "C"
+         },
+         {
+          "text": "She remembered someone was supposed to visit",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "Choose the correct answer A, B, C, or D.",
+      "questionRange": "21-24"
+     },
+     {
+      "type": "tfni",
+      "title": "Questions 25-29: True/False/Not Given",
+      "options": [
+       "True",
+       "False",
+       "Not Given"
+      ],
+      "questions": [
+       {
+        "id": 25,
+        "text": "Emily finds Bailey’s toys lying scattered around the living room floor."
+       },
+       {
+        "id": 26,
+        "text": "Emily attempts several phone calls but cannot get through to anyone."
+       },
+       {
+        "id": 27,
+        "text": "The text states that Emily’s mother left her a message on the voicemail."
+       },
+       {
+        "id": 28,
+        "text": "The stranger at the door turns out to be Emily’s brother."
+       },
+       {
+        "id": 29,
+        "text": "Emily had locked the back door before going to bed."
+       }
+      ],
+      "instruction": "Decide if the following statements agree with the information given in the text.",
+      "questionRange": "25-29"
+     }
+    ]
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 5",
+    "answers": {
+     "30": [
+      "INSPIRE"
+     ],
+     "31": [
+      "PASTURES"
+     ],
+     "32": [
+      "PROTECT"
+     ],
+     "33": [
+      "INDIVIDUAL"
+     ],
+     "34": [
+      "C"
+     ],
+     "35": [
+      "D"
+     ]
+    },
+    "passage": {
+     "title": "MIGRATORY LIFESTYLE",
+     "content": "<p>Out of a world population of 7.5 billion, around 30 million people currently lead a migratory lifestyle. Every continent has nomadic groups, leading a life very different from the sedentary communities they come into contact with. Almost all migratory communities are in steady decline for a wide range of reasons: climate change, political unrest, forced resettlement and armed conflict have all impacted on these traditional communities, diminishing their numbers year on year. However, the lure of the travelling lifestyle is as strong as ever. The 'gypsy lifestyle' continues to inspire people - especially the young - who crave the freedom of unstructured movement. Backpacking has become almost a rite of passage for the young. 'Gap years' between school and university often stretch to two years, or even more, as young people become addicted to the culture of travelling light and moving on.</p><p>Traditional nomads may be seen as 'wanderers', but their movement is not as unstructured as it may appear. Most nomadic communities are, or were, herdsmen, leading their animals across fixed routes based on pastures. Their societies were based on strong bonds of kinship. According to 14th-century social historian lbn Khaldun, the Bedouin community owed their success in battle to osobiyyo or 'group feeling', which enhanced their ability to protect the group from outsiders. This, along with excellent horsemanship and the rigours of a harsh lifestyle, based around constant alertness needed to protect livestock, made them formidable adversaries in war when compared to their more settled counterparts.</p><p>Far from the desert-dwelling Bedouin live a different kind of nomad: the Moken, or sea gypsies, of the Mergui Archipelago between Myanmar and the islands of Thailand's North Andaman coast. During the dry season, they live on traditional houseboats, and during the monsoon season they build temporary villages on sheltered stretches of beach. Theirs is a culture of sharing and giving, to the extent that their language contains no words for individual possessions. These indigenous people have a great understanding of and respect for their environment, making use of over 80 plant species for food and more than 100 for shelter, handicrafts and other purposes. However, the Moken's lifestyle has more recently been affected by government restrictions on their hunter-gathering activities, and legal disputes over ownership of their traditional lands. Somewhat inevitably, they have become a focus for tourism in the area, which they have embraced to some extent as they try to adapt to the modern world. Nomadic communities exist in Europe too. In the tundras and taigas of northern Scandinavia live a reindeer-herding community, the Sami. Originally travelling freely across the areas which now belong to Norway, Sweden, Finland and Russia, this subculture has had its traditional lifestyle curtailed by the creation of national borders.</p>"
+    },
+    "partNumber": 5,
+    "instruction": "Read the following text for questions 30-35.",
+    "explanations": {
+     "q30": {
+      "text": "Javob matnda shu gapdan olinadi.",
+      "quote": "The 'gypsy lifestyle' continues to inspire people - especially the young - who crave the freedom of unstructured movement."
+     },
+     "q31": {
+      "text": "Javob matnda shu gapdan olinadi.",
+      "quote": "Most nomadic communities are, or were, herdsmen, leading their animals across fixed routes based on pastures."
+     },
+     "q32": {
+      "text": "Javob matnda shu gapdan olinadi.",
+      "quote": "According to 14th-century social historian lbn Khaldun, the Bedouin community owed their success in battle to osobiyyo or 'group feeling', which enhanced their "
+     },
+     "q33": {
+      "text": "Javob matnda shu gapdan olinadi.",
+      "quote": "Theirs is a culture of sharing and giving, to the extent that their language contains no words for individual possessions."
+     }
+    },
+    "questionRange": "30-35",
+    "questionSections": [
+     {
+      "type": "gap-fill",
+      "title": "Questions 30-33: Gap Fill",
+      "questions": [
+       {
+        "id": 30,
+        "hint": "lifestyles _____"
+       },
+       {
+        "id": 31,
+        "hint": "herders tend to choose their way taking _____"
+       },
+       {
+        "id": 32,
+        "hint": "had to be cautious all the time to _____"
+       },
+       {
+        "id": 33,
+        "hint": "animals. The Moken have no words for _____"
+       }
+      ],
+      "instruction": ", fill in the missing information in the numbered spaces.",
+      "summaryText": "Migratory lifestyles <span class=\"gap-input\" data-gap=\"30\">_____(30)_____</span> the youth who are eager to have unplanned travel. Nomadic herders tend to choose their way taking <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span> into account. The Bedouin community had to be cautious all the time to <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span> their farm animals. The Moken have no words for <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span> property.",
+      "summaryTitle": "MIGRATORY LIFESTYLE - Summary",
+      "questionRange": "30-33"
+     },
+     {
+      "type": "mcq",
+      "title": "Questions 34-35: Multiple Choice",
+      "questions": [
+       {
+        "id": 34,
+        "text": "According to the passage, the Moken …",
+        "options": [
+         {
+          "text": "hardly share their own possessions",
+          "letter": "A"
+         },
+         {
+          "text": "live on the sea during the rainy season",
+          "letter": "B"
+         },
+         {
+          "text": "changed their lifestyle because of restrictions",
+          "letter": "C"
+         },
+         {
+          "text": "escaped to become accustomed to the modern world",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 35,
+        "text": "What is the writer’s purpose in the reading passage?",
+        "options": [
+         {
+          "text": "to explain the future of backpacking culture",
+          "letter": "A"
+         },
+         {
+          "text": "to compare the success of different nomadic groups",
+          "letter": "B"
+         },
+         {
+          "text": "to criticize the lack of tolerance for travelling communities",
+          "letter": "C"
+         },
+         {
+          "text": "to highlight the current state of traditional travelling cultures",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "Choose the correct answer A, B, C, or D.",
+      "questionRange": "34-35"
+     }
+    ]
+   }
+  ],
+  "examDate": "2026-03-31",
+  "testInfo": {
+   "level": "B1-B2-C1",
+   "parts": 5,
+   "title": "CEFR Reading Mock 45",
+   "totalTime": 60,
+   "totalQuestions": 35
+  }
+ },
+ "created_at": "2026-05-15T13:54:59.283089+00:00",
+ "updated_at": "2026-10-12T01:50:01.022481+00:00"
+}

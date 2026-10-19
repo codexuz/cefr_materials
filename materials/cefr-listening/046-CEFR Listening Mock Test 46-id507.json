@@ -1,0 +1,528 @@
+{
+ "id": 507,
+ "mock_type": "cefr-listening",
+ "mock_number": 46,
+ "title": "CEFR Listening Mock Test 46",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "mcq-reply",
+    "title": "Part 1",
+    "answers": {
+     "1": "C",
+     "2": "A",
+     "3": "B",
+     "4": "B",
+     "5": "A",
+     "6": "B",
+     "7": "C",
+     "8": "A"
+    },
+    "audioFile": "https://audio.mock-stream.com/test46/PART 1.m4a",
+    "questions": [
+     {
+      "id": 1,
+      "options": [
+       {
+        "text": "Whose is it?",
+        "letter": "A"
+       },
+       {
+        "text": "I haven`t written anything.",
+        "letter": "B"
+       },
+       {
+        "text": "I`m afraid not.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "options": [
+       {
+        "text": "She`s very friendly.",
+        "letter": "A"
+       },
+       {
+        "text": "Listening to music.",
+        "letter": "B"
+       },
+       {
+        "text": "I hope so.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 3,
+      "options": [
+       {
+        "text": "I think so.",
+        "letter": "A"
+       },
+       {
+        "text": "I`ll help you.",
+        "letter": "B"
+       },
+       {
+        "text": "It isn`t open.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 4,
+      "options": [
+       {
+        "text": "I`m busy on Saturday.",
+        "letter": "A"
+       },
+       {
+        "text": "So do I.",
+        "letter": "B"
+       },
+       {
+        "text": "Not very often.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 5,
+      "options": [
+       {
+        "text": "Of course, I will.",
+        "letter": "A"
+       },
+       {
+        "text": "Yes, it is.",
+        "letter": "B"
+       },
+       {
+        "text": "You`re welcome.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 6,
+      "options": [
+       {
+        "text": "Not always.",
+        "letter": "A"
+       },
+       {
+        "text": "Not yet.",
+        "letter": "B"
+       },
+       {
+        "text": "Not often.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 7,
+      "options": [
+       {
+        "text": "It doesn`t matter.",
+        "letter": "A"
+       },
+       {
+        "text": "That`s a good idea.",
+        "letter": "B"
+       },
+       {
+        "text": "Put it in cold water.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 8,
+      "options": [
+       {
+        "text": "I`m afraid not. It`s dirty.",
+        "letter": "A"
+       },
+       {
+        "text": "I`m sorry. I`m busy.",
+        "letter": "B"
+       },
+       {
+        "text": "I`m not thirsty.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "partNumber": 1,
+    "instruction": "You will hear some sentences. You will hear each sentence twice. Choose the correct reply to each sentence (A, B, or C). Mark your answers on the answer sheet.",
+    "questionRange": "1-8"
+   },
+   {
+    "type": "gap-fill-form",
+    "title": "Part 2",
+    "answers": {
+     "9": "CHANGING",
+     "10": "SHORTS",
+     "11": "SHOES",
+     "12": "1.45",
+     "13": "BISCUIT",
+     "14": "SPEED"
+    },
+    "audioFile": "https://audio.mock-stream.com/test46/PART 2.m4a",
+    "formTitle": "SUNNINGTON SPORTS CAMP",
+    "partNumber": 2,
+    "formContent": [
+     {
+      "text": "Choice of afternoon activity",
+      "type": "heading"
+     },
+     {
+      "text": "Sign list outside",
+      "type": "item-gap",
+      "gapId": 9,
+      "gapSuffix": "room"
+     },
+     {
+      "text": "Clothes",
+      "type": "heading"
+     },
+     {
+      "text": "Wear track suit, but also bring",
+      "type": "item-gap",
+      "gapId": 10,
+      "gapSuffix": "and a T-shirt."
+     },
+     {
+      "text": "2 pairs of sports",
+      "type": "item-gap",
+      "gapId": 11,
+      "gapSuffix": ""
+     },
+     {
+      "text": "Food",
+      "type": "heading"
+     },
+     {
+      "text": "Lunch served in canteen every half-hour between 12.15 and",
+      "type": "item-gap",
+      "gapId": 12,
+      "gapSuffix": ""
+     },
+     {
+      "text": "Snack bar sells drinks, chocolate and",
+      "type": "item-gap",
+      "gapId": 13,
+      "gapSuffix": ""
+     },
+     {
+      "text": "Certificate",
+      "type": "heading"
+     },
+     {
+      "text": "Marks given for",
+      "type": "heading"
+     },
+     {
+      "text": "attitude: effort and team-work",
+      "type": "heading"
+     },
+     {
+      "text": "performance: strength,",
+      "type": "item-gap",
+      "gapId": 14,
+      "gapSuffix": "and skill"
+     }
+    ],
+    "instruction": "You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. Write ONE WORD and / or A NUMBER for each answer.",
+    "questionRange": "9-14"
+   },
+   {
+    "type": "matching-speakers",
+    "title": "Part 3",
+    "answers": {
+     "15": "D",
+     "16": "C",
+     "17": "E",
+     "18": "A"
+    },
+    "options": [
+     {
+      "text": "At the airport",
+      "letter": "A"
+     },
+     {
+      "text": "At the bank",
+      "letter": "B"
+     },
+     {
+      "text": "At school",
+      "letter": "C"
+     },
+     {
+      "text": "In the library",
+      "letter": "D"
+     },
+     {
+      "text": "On the road",
+      "letter": "E"
+     },
+     {
+      "text": "At the station",
+      "letter": "F"
+     }
+    ],
+    "speakers": [
+     {
+      "id": 15,
+      "label": "Speaker 1"
+     },
+     {
+      "id": 16,
+      "label": "Speaker 2"
+     },
+     {
+      "id": 17,
+      "label": "Speaker 3"
+     },
+     {
+      "id": 18,
+      "label": "Speaker 4"
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test46/PART 3.m4a",
+    "partNumber": 3,
+    "instruction": "You will hear people speaking in different situations. Match each speaker (15-18) to the place where the speaker is (A-F). There are TWO EXTRA places which you do not need to use. Mark your answers on the answer sheet.",
+    "questionRange": "15-18"
+   },
+   {
+    "type": "map-labeling",
+    "title": "Part 4",
+    "answers": {
+     "19": "C",
+     "20": "D",
+     "21": "A",
+     "22": "E",
+     "23": "F"
+    },
+    "mapImage": "https://audio.mock-stream.com/test46/map.png",
+    "mapTitle": "",
+    "audioFile": "https://audio.mock-stream.com/test46/PART 4.m4a",
+    "mapLabels": [
+     "A",
+     "B",
+     "C",
+     "D",
+     "E",
+     "F",
+     "G",
+     "H"
+    ],
+    "questions": [
+     {
+      "id": 19,
+      "place": "Modern art section"
+     },
+     {
+      "id": 20,
+      "place": "Classical art section"
+     },
+     {
+      "id": 21,
+      "place": "Landscape section"
+     },
+     {
+      "id": 22,
+      "place": "History of art"
+     },
+     {
+      "id": 23,
+      "place": "Digital art room"
+     }
+    ],
+    "partNumber": 4,
+    "instruction": "You will hear someone giving a talk. Label the places (19-23) on the map (A-H). There are THREE extra options which you do not need to use. Mark your answers on the answer sheet.",
+    "questionRange": "19-23"
+   },
+   {
+    "type": "mcq-extracts",
+    "title": "Part 5",
+    "answers": {
+     "24": "A",
+     "25": "C",
+     "26": "A",
+     "27": "B",
+     "28": "B",
+     "29": "A"
+    },
+    "extracts": [
+     {
+      "title": "Extract One",
+      "context": "",
+      "questions": [
+       {
+        "id": 24,
+        "text": "What did Wendy’s mum think of the film?",
+        "options": [
+         {
+          "text": "It was not her favourite film.",
+          "letter": "A"
+         },
+         {
+          "text": "She loved the film.",
+          "letter": "B"
+         },
+         {
+          "text": "She absolutely hated it.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 25,
+        "text": "Adrian mentions doing a course in order to show that…",
+        "options": [
+         {
+          "text": "he wants to change the subject.",
+          "letter": "A"
+         },
+         {
+          "text": "Mrs Turner is wrong about the dinosaurs.",
+          "letter": "B"
+         },
+         {
+          "text": "he knows what he is talking about.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Extract Two",
+      "context": "",
+      "questions": [
+       {
+        "id": 26,
+        "text": "What’s Anne’s problem?",
+        "options": [
+         {
+          "text": "She’s got no one to go out with.",
+          "letter": "A"
+         },
+         {
+          "text": "She’s angry with her boyfriend.",
+          "letter": "B"
+         },
+         {
+          "text": "She has hurt herself.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 27,
+        "text": "What does Mark do?",
+        "options": [
+         {
+          "text": "He gets angry with Anne.",
+          "letter": "A"
+         },
+         {
+          "text": "He tries to change the subject.",
+          "letter": "B"
+         },
+         {
+          "text": "He asks Sue about her boyfriend.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Extract Three",
+      "context": "",
+      "questions": [
+       {
+        "id": 28,
+        "text": "How does the man feel about the lottery?",
+        "options": [
+         {
+          "text": "It is silly but entertaining.",
+          "letter": "A"
+         },
+         {
+          "text": "There is nothing good about it.",
+          "letter": "B"
+         },
+         {
+          "text": "It is particularly bad for young people.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 29,
+        "text": "Who can play the national lottery?",
+        "options": [
+         {
+          "text": "anyone older than 18",
+          "letter": "A"
+         },
+         {
+          "text": "only 20 million people",
+          "letter": "B"
+         },
+         {
+          "text": "anyone",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test46/PART 5.m4a",
+    "partNumber": 5,
+    "instruction": "You will hear three extracts. Choose the correct answer (A, B or C) for each question (24-29). There are TWO questions for each extract. Mark your answers on the answer sheet.",
+    "questionRange": "24-29"
+   },
+   {
+    "type": "sentence-completion",
+    "title": "Part 6",
+    "answers": {
+     "30": "GERMAN",
+     "31": "GUIDE",
+     "32": "WORLD",
+     "33": "4",
+     "34": "ADVERTISING",
+     "35": "JOURNALISTS"
+    },
+    "audioFile": "https://audio.mock-stream.com/test46/PART 6.m4a",
+    "partNumber": 6,
+    "instruction": "You will hear a part of a lecture. For each question, fill in the missing information in the numbered space. Write no more than ONE WORD for each answer.",
+    "passageTitle": "Sylvia Short",
+    "questionRange": "30-35",
+    "passageContent": "Sylvia studied <span class=\"gap-input\" data-gap=\"30\">_____(30)_____</span> and Spanish at university.<br><br>After university, Sylvia worked as a <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span> in Italy.<br><br>The company which employs Sylvia is called <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span> Travel.<br><br>Sylvia worked for the company for <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span> months before becoming the manager’s assistant.<br><br>Part of Sylvia’s job is to organise the <span class=\"gap-input\" data-gap=\"34\">_____(34)_____</span> in newspapers and magazines.<br><br>Sylvia often has to deal with strange questions from <span class=\"gap-input\" data-gap=\"35\">_____(35)_____</span>"
+   }
+  ],
+  "source": "Multilevel Masterpiece - Listening mock test 7 (Bekzod_Turgunov)",
+  "examDate": "2026-06-13",
+  "examType": "cefr",
+  "testInfo": {
+   "id": "cefr-listening-46",
+   "level": "B2",
+   "title": "CEFR Listening Mock Test 46",
+   "totalTime": 40,
+   "totalQuestions": 35
+  },
+  "mockNumber": 46
+ },
+ "created_at": "2026-06-13T11:28:50.341808+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

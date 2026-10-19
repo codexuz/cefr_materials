@@ -1,0 +1,456 @@
+{
+ "id": 2282,
+ "mock_type": "ket-listening",
+ "mock_number": 20,
+ "title": "KET Listening — Test 20",
+ "status": "published",
+ "mock_data": {
+  "audio": {
+   "base": "https://audio.mock-stream.com/KET-Listening/test20/",
+   "files": {
+    "1": "PART1.m4a",
+    "2": "PART2.m4a",
+    "3": "PART3.m4a",
+    "4": "PART4.m4a",
+    "5": "PART5.m4a"
+   }
+  },
+  "parts": [
+   {
+    "type": "picture-mcq",
+    "items": [
+     {
+      "id": 1,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q1A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q1B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q1C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What are the boys going to do?"
+     },
+     {
+      "id": 2,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q2A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q2B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q2C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Which tent does the girl choose?"
+     },
+     {
+      "id": 3,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q3A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q3B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q3C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Which one is Ruth's bike?"
+     },
+     {
+      "id": 4,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q4A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q4B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q4C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What does Sarah's dad do?"
+     },
+     {
+      "id": 5,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q5A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q5B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q5C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Which picture is the woman asking about?"
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "image": "q0A.png",
+       "letter": "A"
+      },
+      {
+       "image": "q0B.png",
+       "letter": "B"
+      },
+      {
+       "image": "q0C.png",
+       "letter": "C"
+      }
+     ],
+     "question": "How many people were at the meeting?"
+    },
+    "imageBase": "https://audio.mock-stream.com/KET-Listening/test20/p1/",
+    "partNumber": 1,
+    "instruction": [
+     "You will hear five short conversations.",
+     "You will hear each conversation twice.",
+     "There is one question for each conversation.",
+     "For questions 1–5, put a tick (✓) under the right answer."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "matching-list",
+    "items": [
+     {
+      "id": 6,
+      "name": "books",
+      "answer": "E"
+     },
+     {
+      "id": 7,
+      "name": "plant",
+      "answer": "B"
+     },
+     {
+      "id": 8,
+      "name": "lamp",
+      "answer": "H"
+     },
+     {
+      "id": 9,
+      "name": "pillow",
+      "answer": "G"
+     },
+     {
+      "id": 10,
+      "name": "toy bear",
+      "answer": "F"
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "name": "computer",
+     "answer": "D",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "bed",
+      "letter": "A"
+     },
+     {
+      "text": "big cupboard",
+      "letter": "B"
+     },
+     {
+      "text": "small cupboard",
+      "letter": "C"
+     },
+     {
+      "text": "desk",
+      "letter": "D"
+     },
+     {
+      "text": "floor",
+      "letter": "E"
+     },
+     {
+      "text": "shelf",
+      "letter": "F"
+     },
+     {
+      "text": "sofa",
+      "letter": "G"
+     },
+     {
+      "text": "table",
+      "letter": "H"
+     }
+    ],
+    "scenario": "Kerri talking about her new room — where to put each thing",
+    "leftLabel": "Things",
+    "partNumber": 2,
+    "rightLabel": "Places",
+    "instruction": [
+     "Listen to Kerri talking to a friend about her new room.",
+     "Where do they decide to put her things?",
+     "For questions 6–10, write a letter A–H next to each thing.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-conversation",
+    "items": [
+     {
+      "id": 11,
+      "stem": "Where did Jim buy his walking shoes?",
+      "answer": "A",
+      "options": [
+       {
+        "text": "at the market",
+        "letter": "A"
+       },
+       {
+        "text": "in a supermarket",
+        "letter": "B"
+       },
+       {
+        "text": "in a shoe shop",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "stem": "The shoes cost Jim",
+      "answer": "B",
+      "options": [
+       {
+        "text": "£20.",
+        "letter": "A"
+       },
+       {
+        "text": "£48.",
+        "letter": "B"
+       },
+       {
+        "text": "£68.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "stem": "Jim says Sarah should take",
+      "answer": "C",
+      "options": [
+       {
+        "text": "a jacket.",
+        "letter": "A"
+       },
+       {
+        "text": "a sweater.",
+        "letter": "B"
+       },
+       {
+        "text": "a sun hat.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "stem": "How many T-shirts should Sarah take?",
+      "answer": "B",
+      "options": [
+       {
+        "text": "one",
+        "letter": "A"
+       },
+       {
+        "text": "five",
+        "letter": "B"
+       },
+       {
+        "text": "seven",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "stem": "Sarah should take her phone because she may want to",
+      "answer": "C",
+      "options": [
+       {
+        "text": "phone the hotel.",
+        "letter": "A"
+       },
+       {
+        "text": "phone home.",
+        "letter": "B"
+       },
+       {
+        "text": "phone for help.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "stem": "Last month, Jim went to",
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "text": "Italy.",
+       "letter": "A"
+      },
+      {
+       "text": "England.",
+       "letter": "B"
+      },
+      {
+       "text": "Austria.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partNumber": 3,
+    "instruction": [
+     "Listen to Jim talking to Sarah about things to take on holiday.",
+     "For questions 11–15, tick (✓) A, B or C.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "rows": [
+     {
+      "id": 16,
+      "label": "Name of book:",
+      "answer": "River"
+     },
+     {
+      "id": 17,
+      "label": "Written by:",
+      "answer": "COOPER",
+      "prefix": "Martin"
+     },
+     {
+      "id": 18,
+      "label": "Read:",
+      "answer": "123-127",
+      "suffix": "pages"
+     },
+     {
+      "id": 19,
+      "label": "Learn about:",
+      "answer": "fish"
+     },
+     {
+      "id": 20,
+      "label": "Finish by:",
+      "answer": "Friday"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 4",
+    "subtitle": "Subject: Biology",
+    "noteTitle": "Homework",
+    "partNumber": 4,
+    "instruction": [
+     "You will hear Sally asking a friend about some homework.",
+     "Listen and complete questions 16–20.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "rows": [
+     {
+      "id": 21,
+      "label": "Starting date:",
+      "answer": "5th",
+      "suffix": "July"
+     },
+     {
+      "id": 22,
+      "label": "Learn to play:",
+      "answer": "drums",
+      "prefix": "piano, guitar,"
+     },
+     {
+      "id": 23,
+      "label": "Classes start at:",
+      "answer": "9.15",
+      "suffix": "a.m."
+     },
+     {
+      "id": 24,
+      "label": "Cost of classes:",
+      "answer": "3.25",
+      "prefix": "£",
+      "suffix": "a day"
+     },
+     {
+      "id": 25,
+      "label": "Phone number:",
+      "answer": "217 3881"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 5",
+    "subtitle": "Place: Arts Centre",
+    "noteTitle": "Summer music school",
+    "partNumber": 5,
+    "instruction": [
+     "You will hear some information on the radio about a summer music school.",
+     "Listen and complete questions 21–25.",
+     "You will hear the information twice."
+    ],
+    "questionsLabel": "QUESTIONS 21–25"
+   }
+  ],
+  "testInfo": {
+   "id": "ket-l-20",
+   "level": "A2",
+   "paper": "Paper 2",
+   "parts": 5,
+   "title": "KET Listening — Test 20",
+   "totalTime": 30,
+   "totalQuestions": 25
+  }
+ },
+ "created_at": "2026-10-14T06:45:30.224939+00:00",
+ "updated_at": "2026-10-14T06:47:16.347965+00:00"
+}

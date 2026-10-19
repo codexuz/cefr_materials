@@ -1,0 +1,521 @@
+{
+ "id": 499,
+ "mock_type": "cefr-listening",
+ "mock_number": 44,
+ "title": "CEFR Listening Mock 44",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "mcq-reply",
+    "title": "Part 1",
+    "answers": {
+     "1": "A",
+     "2": "C",
+     "3": "C",
+     "4": "C",
+     "5": "C",
+     "6": "B",
+     "7": "B",
+     "8": "A"
+    },
+    "audioFile": "https://audio.mock-stream.com/test44/PART 1.m4a",
+    "questions": [
+     {
+      "id": 1,
+      "options": [
+       {
+        "text": "I go every weekend.",
+        "letter": "A"
+       },
+       {
+        "text": "Would you like to come to?",
+        "letter": "B"
+       },
+       {
+        "text": "I usually stay at home.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "options": [
+       {
+        "text": "Why don't you change them?",
+        "letter": "A"
+       },
+       {
+        "text": "I like your boots.",
+        "letter": "B"
+       },
+       {
+        "text": "Yes, I will give it back tomorrow.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 3,
+      "options": [
+       {
+        "text": "Because it's off.",
+        "letter": "A"
+       },
+       {
+        "text": "Press the button at the top.",
+        "letter": "B"
+       },
+       {
+        "text": "I would prefer to watch it at home.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 4,
+      "options": [
+       {
+        "text": "Please, do it.",
+        "letter": "A"
+       },
+       {
+        "text": "Twice a week.",
+        "letter": "B"
+       },
+       {
+        "text": "Take the bus.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 5,
+      "options": [
+       {
+        "text": "Because I can speak it.",
+        "letter": "A"
+       },
+       {
+        "text": "I'd like to go to Germany.",
+        "letter": "B"
+       },
+       {
+        "text": "When will you do it?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 6,
+      "options": [
+       {
+        "text": "Have you got the time?",
+        "letter": "A"
+       },
+       {
+        "text": "I have got a pen.",
+        "letter": "B"
+       },
+       {
+        "text": "Of course, you can.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 7,
+      "options": [
+       {
+        "text": "What a good idea!",
+        "letter": "A"
+       },
+       {
+        "text": "I love it.",
+        "letter": "B"
+       },
+       {
+        "text": "The theatre is over here.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 8,
+      "options": [
+       {
+        "text": "It isn`t. It is closed by that 6 pm.",
+        "letter": "A"
+       },
+       {
+        "text": "The office is far from here.",
+        "letter": "B"
+       },
+       {
+        "text": "I know when he will come.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "partNumber": 1,
+    "instruction": "You will hear some sentences. You will hear each sentence twice. Choose the correct reply to each sentence (A, B, or C). Mark your answers on the answer sheet.",
+    "questionRange": "1-8"
+   },
+   {
+    "type": "gap-fill-form",
+    "title": "Part 2",
+    "answers": {
+     "9": "WALKING",
+     "10": "PICNIC",
+     "11": "DINNER",
+     "12": "LAKE",
+     "13": "COOKING/FOOD",
+     "14": "185"
+    },
+    "audioFile": "https://audio.mock-stream.com/test44/PART 2.m4a",
+    "formTitle": "HOTELS IN THE NATIONAL PARK",
+    "partNumber": 2,
+    "formContent": [
+     {
+      "text": "The Marston Hotel",
+      "type": "section-header"
+     },
+     {
+      "text": "Good for people who like",
+      "type": "item-gap",
+      "gapId": 9,
+      "gapSuffix": "."
+     },
+     {
+      "text": "If you ask, the hotel will make you a",
+      "type": "item-gap",
+      "gapId": 10,
+      "gapSuffix": "lunch."
+     },
+     {
+      "text": "The Bristol Hotel",
+      "type": "section-header"
+     },
+     {
+      "text": "Price includes",
+      "type": "item-gap",
+      "gapId": 11,
+      "gapSuffix": "."
+     },
+     {
+      "text": "The Ferndale Hotel",
+      "type": "section-header"
+     },
+     {
+      "text": "Good view of",
+      "type": "item-gap",
+      "gapId": 12,
+      "gapSuffix": "."
+     },
+     {
+      "text": "Firtrees Hotel",
+      "type": "section-header"
+     },
+     {
+      "text": "Has won prizes for its",
+      "type": "item-gap",
+      "gapId": 13,
+      "gapSuffix": "."
+     },
+     {
+      "text": "Price of a double room £",
+      "type": "item-gap",
+      "gapId": 14,
+      "gapSuffix": "a night."
+     }
+    ],
+    "instruction": "You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. Write ONE WORD and / or A NUMBER for each answer.",
+    "questionRange": "9-14"
+   },
+   {
+    "type": "matching-speakers",
+    "title": "Part 3",
+    "answers": {
+     "15": "C",
+     "16": "D",
+     "17": "A",
+     "18": "E"
+    },
+    "options": [
+     {
+      "text": "In a street",
+      "letter": "A"
+     },
+     {
+      "text": "In a bank",
+      "letter": "B"
+     },
+     {
+      "text": "In an office",
+      "letter": "C"
+     },
+     {
+      "text": "On TV",
+      "letter": "D"
+     },
+     {
+      "text": "In a hospital",
+      "letter": "E"
+     },
+     {
+      "text": "In a shop",
+      "letter": "F"
+     }
+    ],
+    "speakers": [
+     {
+      "id": 15,
+      "label": "Speaker 1"
+     },
+     {
+      "id": 16,
+      "label": "Speaker 2"
+     },
+     {
+      "id": 17,
+      "label": "Speaker 3"
+     },
+     {
+      "id": 18,
+      "label": "Speaker 4"
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test44/PART 3.m4a",
+    "partNumber": 3,
+    "instruction": "You will hear people speaking in different situations. Match each speaker (15-18) to the place where the speaker is (A-F). There are TWO EXTRA places which you do not need to use. Mark your answers on the answer sheet.",
+    "questionRange": "15-18"
+   },
+   {
+    "type": "map-labeling",
+    "title": "Part 4",
+    "answers": {
+     "19": "D",
+     "20": "I",
+     "21": "H",
+     "22": "G",
+     "23": "E"
+    },
+    "mapImage": "https://audio.mock-stream.com/test44/map.png",
+    "mapTitle": "",
+    "audioFile": "https://audio.mock-stream.com/test44/PART 4.m4a",
+    "mapLabels": [
+     "A",
+     "B",
+     "C",
+     "D",
+     "E",
+     "F",
+     "G",
+     "H",
+     "I"
+    ],
+    "questions": [
+     {
+      "id": 19,
+      "place": "Mill"
+     },
+     {
+      "id": 20,
+      "place": "Museum"
+     },
+     {
+      "id": 21,
+      "place": "Laboratory"
+     },
+     {
+      "id": 22,
+      "place": "Café"
+     },
+     {
+      "id": 23,
+      "place": "Toilet"
+     }
+    ],
+    "partNumber": 4,
+    "instruction": "You will hear someone giving a talk. Label the places (19-23) on the map (A-H). There are TWO extra options which you do not need to use. Mark your answers on the answer sheet.",
+    "questionRange": "19-23"
+   },
+   {
+    "type": "mcq-extracts",
+    "title": "Part 5",
+    "answers": {
+     "24": "A",
+     "25": "C",
+     "26": "C",
+     "27": "B",
+     "28": "B",
+     "29": "C"
+    },
+    "extracts": [
+     {
+      "title": "Extract One",
+      "context": "",
+      "questions": [
+       {
+        "id": 24,
+        "text": "Ella suggests that her interest in lighting started with…",
+        "options": [
+         {
+          "text": "the lights she once saw at a theatre show.",
+          "letter": "A"
+         },
+         {
+          "text": "an outstanding light show at a rock concert.",
+          "letter": "B"
+         },
+         {
+          "text": "the effects of a fireworks display.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 25,
+        "text": "Ella says that the work of theatre lighting technicians…",
+        "options": [
+         {
+          "text": "can vary according to the director they're working with.",
+          "letter": "A"
+         },
+         {
+          "text": "can be more complex than she'd initially realised.",
+          "letter": "B"
+         },
+         {
+          "text": "can be important for people's understanding of a play.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Extract Two",
+      "context": "",
+      "questions": [
+       {
+        "id": 26,
+        "text": "What first made Lucy excited about maths?",
+        "options": [
+         {
+          "text": "taking part in a maths activity at school",
+          "letter": "A"
+         },
+         {
+          "text": "being able to use the basic maths skills she'd learnt",
+          "letter": "B"
+         },
+         {
+          "text": "recognising a link between maths and the natural world",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 27,
+        "text": "What does Lucy's dad suggest about some people attending his training sessions?",
+        "options": [
+         {
+          "text": "They don't realise that maths is easier than they think.",
+          "letter": "A"
+         },
+         {
+          "text": "A lack of confidence discourages them from using maths.",
+          "letter": "B"
+         },
+         {
+          "text": "Having to remember so much has put them off maths.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Extract Three",
+      "context": "",
+      "questions": [
+       {
+        "id": 28,
+        "text": "Katie says that for her, kitesurfing…",
+        "options": [
+         {
+          "text": "is something she wishes she could do more of.",
+          "letter": "A"
+         },
+         {
+          "text": "is great motivation for completing her school work.",
+          "letter": "B"
+         },
+         {
+          "text": "is a better alternative for keeping fit than running.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 29,
+        "text": "What advantage of the sport does Katie point out?",
+        "options": [
+         {
+          "text": "It's relatively low-cost at the beginning.",
+          "letter": "A"
+         },
+         {
+          "text": "It's easy to find somewhere to do it.",
+          "letter": "B"
+         },
+         {
+          "text": "It's possible to transport the kit yourself.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test44/PART 5.m4a",
+    "partNumber": 5,
+    "instruction": "You will hear three extracts. Choose the correct answer (A, B or C) for each question (24-29). There are TWO questions for each extract. Mark your answers on the answer sheet.",
+    "questionRange": "24-29"
+   },
+   {
+    "type": "sentence-completion",
+    "title": "Part 6",
+    "answers": {
+     "30": "MUD",
+     "31": "FEATHERS",
+     "32": "SHAPE",
+     "33": "MOON",
+     "34": "NECK",
+     "35": "EVIDENCE"
+    },
+    "audioFile": "https://audio.mock-stream.com/test44/PART 6.m4a",
+    "partNumber": 6,
+    "instruction": "You will hear a part of a lecture. For each question, fill in the missing information in the numbered space. Write no more than ONE WORD for each answer.",
+    "passageTitle": "Bird Migration Theory",
+    "questionRange": "30-35",
+    "passageContent": "Most birds are believed to migrate seasonally.<br><br><b>Hibernation theory</b><br>&bull; It was believed that birds hibernated underwater or buried themselves in <span class=\"gap-input\" data-gap=\"30\">_____(30)_____</span> .<br>&bull; This theory was later disproved by experiments on caged birds.<br><br><b>Transmutation theory</b><br>&bull; Aristotle believed birds changed from one species into another in summer and winter.<br>&ndash; In autumn he observed that redstarts experience the loss of <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span> and thought they then turned into robins.<br>&ndash; Aristotle's assumptions were logical because the two species of birds had a similar <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span> .<br><br><b>17th century</b><br>&bull; Charles Morton popularised the idea that birds fly to the <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span> in winter.<br><br><b>Scientific developments</b><br>&bull; In 1822, a stork was killed in Germany which had an African spear in its <span class=\"gap-input\" data-gap=\"34\">_____(34)_____</span> .<br>&ndash; previously there had been no <span class=\"gap-input\" data-gap=\"35\">_____(35)_____</span> that storks migrate to Africa"
+   }
+  ],
+  "source": "Multilevel Masterpiece - Listening mock test 6 (Bekzod_Turgunov)",
+  "examDate": "2026-06-05",
+  "examType": "cefr",
+  "testInfo": {
+   "id": "cefr-listening-44",
+   "level": "B2",
+   "title": "CEFR Listening Mock Test 44",
+   "totalTime": 40,
+   "totalQuestions": 35
+  },
+  "mockNumber": 44
+ },
+ "created_at": "2026-06-05T18:13:25.142314+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

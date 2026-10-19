@@ -1,0 +1,125 @@
+{
+ "id": 2303,
+ "mock_type": "pet-writing",
+ "mock_number": 5,
+ "title": "PET Writing — Test 5",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "sentence-transformation",
+    "items": [
+     {
+      "id": 1,
+      "first": "My parents prefer jazz to classical music.",
+      "answer": "is better",
+      "afterBlank": "than classical music.",
+      "beforeBlank": "My parents think jazz"
+     },
+     {
+      "id": 2,
+      "first": "My parents can only go swimming at the weekend.",
+      "answer": "able to",
+      "afterBlank": "go swimming.",
+      "beforeBlank": "On weekdays, my parents aren't"
+     },
+     {
+      "id": 3,
+      "first": "If I finish my homework, I can go out at the weekend.",
+      "answer": "unless",
+      "afterBlank": "I finish my homework.",
+      "beforeBlank": "I can't go out at the weekend"
+     },
+     {
+      "id": 4,
+      "first": "My sister watches more TV than me.",
+      "answer": "as much as",
+      "afterBlank": "my sister does.",
+      "beforeBlank": "I don't watch TV"
+     },
+     {
+      "id": 5,
+      "first": "My parents suggested going out for a meal.",
+      "answer": "don't",
+      "afterBlank": "we go out for a meal?'",
+      "beforeBlank": "My parents said, 'Why"
+     }
+    ],
+    "label": "PART 1",
+    "topic": "A family",
+    "example": {
+     "first": "My brother is older than me.",
+     "answer": "younger than",
+     "afterBlank": "my brother.",
+     "beforeBlank": "I am"
+    },
+    "partNumber": 1,
+    "instruction": [
+     "Here are some questions about a family.",
+     "For each question, complete the second sentence so that it means the same as the first, using no more than three words.",
+     "Write only the missing words on your answer sheet.",
+     "You may use this page for any rough work."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "writing-task",
+    "items": [
+     {
+      "id": 6,
+      "band": "5",
+      "answer": "Dear Jo\nAs you know, the other day I invited you next month. I'm sorry but I have to delay it because there is may friend's wedding party that day.\nCould you come here on 22th of October.\nYours sincerely\nKyoko"
+     }
+    ],
+    "label": "PART 2",
+    "prompt": "You have invited your English friend Jo to stay with you next month, but you now need to delay this visit.\n\nWrite a card to send to Jo. In your card, you should\n\n• apologise to Jo\n• explain why the visit has to be delayed\n• suggest when it would be convenient for Jo to come.\n\nWrite 35–45 words on your answer sheet.",
+    "wordCount": "35–45 words",
+    "partNumber": 2,
+    "questionsLabel": "QUESTION 6"
+   },
+   {
+    "type": "writing-task",
+    "items": [
+     {
+      "id": 7,
+      "band": "4",
+      "answer": "Carla looked at the car in surprise.\nWhen the driver noticed her, it was so late. She woke up at the driver's house in two or three hours. She asked him why he hadn't called an ambulance, but soon she found the answer before he explaines because he looks so young. She could guess that he had been driving without the license.\nThey talked each other about themselves. They fell in love by the time she leaves his house. They made a promise to see again before saying good-bye.",
+      "altSample": {
+       "q": 8,
+       "band": "5",
+       "text": "Hi, mate!!\nHow's it going? I was very busy this week. But. You know that I love films. I saw the film with the name of 'Bend it like Beckham' It's a very interesting film about football. An indian girl who wanted to play football was the main story. Her parents don't let her play. But she's a very good football player, she's better than a boy who doesn't know how to play football. Finally, she went to America for proffesional league. Santa Barbara. I'm not sure of the team name. Anyway, it's a happy ending for her and for her family.\nI recomended the film to Mike and Mike saw the film. He loved it. So I do recoment to you the film 'Bend it like Beckham'.\nIf I were you, I'd go the cinema right now. Have a good weekend. See you soon.\nBye."
+      }
+     }
+    ],
+    "label": "PART 3",
+    "choices": [
+     {
+      "id": 7,
+      "intro": "Your English teacher has asked you to write a story.\n\nYour story must begin with this sentence:",
+      "outro": "Write your story in about 100 words on your answer sheet.",
+      "highlight": "Carla looked at the car in surprise."
+     },
+     {
+      "id": 8,
+      "image": "https://audio.mock-stream.com/PET-Writing/test5/q8_ribbon.png",
+      "intro": "This is part of a letter you receive from an English friend.",
+      "outro": "Now write a letter to your friend.\nWrite your letter in about 100 words on your answer sheet."
+     }
+    ],
+    "wordCount": "about 100 words",
+    "partNumber": 3,
+    "questionsLabel": "QUESTIONS 7 or 8"
+   }
+  ],
+  "testInfo": {
+   "id": "pet-w-05",
+   "level": "B1",
+   "paper": "Paper 1 · Writing",
+   "parts": 3,
+   "title": "PET Writing — Test 5",
+   "totalTime": 45
+  }
+ },
+ "created_at": "2026-10-14T06:45:45.255085+00:00",
+ "updated_at": "2026-10-14T06:47:30.233421+00:00"
+}

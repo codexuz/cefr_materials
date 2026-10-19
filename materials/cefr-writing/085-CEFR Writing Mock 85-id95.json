@@ -1,0 +1,653 @@
+{
+ "id": 95,
+ "mock_type": "cefr-writing",
+ "mock_number": 85,
+ "title": "CEFR Writing Mock 85",
+ "status": "published",
+ "mock_data": {
+  "part1": {
+   "chip": "education",
+   "topic": "Online tutoring"
+  },
+  "tasks": {
+   "t2": {
+    "chip": "education",
+    "genre": "forum",
+    "title": "Online learning as effective as traditional classroom education",
+    "prompt": "You are participating in an online discussion forum. The topic is: \"Is online learning as effective as traditional classroom education?\" Write your response, giving reasons and examples. Write 180–200 words.",
+    "sample": "<p>The debate between <span class=\"ml-token colloc\">online and traditional learning</span> has intensified since the pandemic. I believe both have merits, though <span class=\"ml-token colloc\">traditional education</span> remains superior for most students.</p>\n\n<p><span class=\"ml-token adv\">Firstly</span>, online learning offers <span class=\"ml-token colloc\">unmatched flexibility</span>. Students can learn at their own pace, revisit recorded lessons, and study from anywhere. This benefits <span class=\"ml-token colloc\">working adults</span> and those with disabilities.</p>\n\n<p><span class=\"ml-token adv\">Secondly</span>, online education provides access to <span class=\"ml-token colloc\">global resources</span>. Students can learn from world-class institutions and experts regardless of location, democratizing quality education.</p>\n\n<p><span class=\"ml-token adv\">However</span>, traditional classrooms offer <span class=\"ml-token colloc\">social interaction</span> crucial for development. <span class=\"ml-token colloc\">Face-to-face discussions</span>, group projects, and peer relationships build essential <span class=\"ml-token colloc\">soft skills</span>. Online learning struggles to replicate this.</p>\n\n<p><span class=\"ml-token adv\">Furthermore</span>, many students lack <span class=\"ml-token colloc\">self-discipline</span> for online learning. Without classroom structure, distractions increase and motivation decreases. <span class=\"ml-token colloc\">Completion rates</span> for online courses are <span class=\"ml-token adv\">significantly</span> lower than traditional programs.</p>\n\n<p><span class=\"ml-token adv\">In conclusion</span>, a <span class=\"ml-token colloc\">hybrid approach</span> combining online flexibility with in-person interaction offers the best of both worlds for most learners.</p>",
+    "target": "180–200 words",
+    "sampleA1": "<p>Hi TutorConnect Team,<br><br>I like TutorConnect. Tutors are good. Math is hard, but tutor helps. Schedule is okay. I want more math tutors. <br><br>Bye</p>",
+    "sampleA2": "<p>Hello TutorConnect Team,<br><br>Thank you for the email. I like TutorConnect. The tutors are nice and they help me with my homework. It is easy to schedule lessons, and I like that I can do it from my computer. But sometimes the internet is slow. I want more help with science because science is difficult for me. And maybe some games on the website would be fun.<br><br>Thank you,<br>Bobur Umarov</p>",
+    "sampleB1": "<p>Dear TutorConnect Team,<br><br>I am writing to give you some feedback about my experience with TutorConnect. Overall, I think it's a useful platform. The tutoring sessions have been helpful, especially for my math class. I find the scheduling system quite convenient and easy to use. <br><br>However, there are a few things that could be improved. For example, I would like to see more tutors available for history. Also, it would be great if you could add a feature that allows students to share files with their tutors more easily. I think this would make the sessions even more productive.<br><br>In conclusion, I am satisfied with TutorConnect, but I believe these additions would make it even better.<br><br>Sincerely,<br>Bobur Umarov</p>",
+    "sampleB2": "Great topic — this one really <span class=\"ml-token colloc\">gets people talking</span>, so here's my take.\nPersonally, I think online learning can absolutely <span class=\"ml-token idiom\">hold its own</span>, but it isn't a straight swap for the classroom. <span class=\"ml-token linking\">On the plus side</span>, it's brilliantly flexible: you can <span class=\"ml-token colloc\">learn at your own pace</span>, replay recorded lessons, and study wherever suits you. For anyone juggling a part-time job or a long commute, that flexibility is a real <span class=\"ml-token colloc\">game-changer</span>. Platforms like TutorConnect also <span class=\"ml-token idiom\">open doors to</span> expert tutors you'd never come across locally.\n<span class=\"ml-token linking\">Having said that</span>, a physical classroom offers something a screen simply can't — genuine human connection. Face-to-face debates, group work and off-the-cuff questions keep you <span class=\"ml-token phrasal\">switched on</span>, and a good teacher notices straight away when you're <span class=\"ml-token phrasal\">falling behind</span>. Let's face it, it's all too easy to drift off when you're studying alone at home.\nFor me, the <span class=\"ml-token idiom\">sweet spot</span> is a mix of both: online convenience paired with the buzz of a real classroom.\nWhat's everyone else's experience? Has anyone here gone fully online — did your motivation hold up, or did you miss the classroom? I'd love to hear your thoughts!",
+    "uzSample": "<p>Onlayn va an'anaviy ta'lim o'rtasidagi bahs pandemiya davridan beri kuchaydi. Menimcha, ikkalasining ham afzalliklari bor, garchi an'anaviy ta'lim ko'pchilik talabalar uchun ustun bo'lib qolsa ham.</p>\n\n<p>Birinchidan, onlayn ta'lim beqiyos moslashuvchanlikni taklif etadi. Talabalar o'z tezligida o'rganishlari, yozib olingan darslarni qayta ko'rib chiqishlari va istalgan joydan o'qishlari mumkin. Bu ishlaydigan kattalar va nogironligi bo'lganlar uchun foydalidir.</p>\n\n<p>Ikkinchidan, onlayn ta'lim global resurslarga kirish imkoniyatini beradi. Talabalar joylashuvidan qat'i nazar, jahon darajasidagi muassasalar va mutaxassislardan o'rganishlari, sifatli ta'limni demokratlashtirishlari mumkin.</p>\n\n<p>Biroq, an'anaviy sinf xonalari rivojlanish uchun muhim bo'lgan ijtimoiy muloqotni taklif etadi. Yuzma-yuz muhokamalar, guruh loyihalari va tengdoshlar bilan munosabatlar muhim yumshoq ko'nikmalarni shakllantiradi. Onlayn ta'lim buni takrorlashga qiynaladi.</p>\n\n<p>Bundan tashqari, ko'plab talabalarda onlayn ta'lim uchun o'z-o'zini intizomga solish yetishmaydi. Sinf xonasining tuzilmasisiz, chalg'ituvchi omillar ko'payadi va motivatsiya pasayadi. Onlayn kurslar uchun yakunlash darajasi an'anaviy dasturlarga qaraganda sezilarli darajada past.</p>\n\n<p>Xulosa qilib aytganda, onlayn moslashuvchanlikni shaxsiy muloqot bilan birlashtirgan gibrid yondashuv ko'pchilik o'quvchilar uchun ikkala dunyoning eng yaxshi tomonlarini taklif etadi.</p>",
+    "uzSampleA1": "<p>Salom TutorConnect jamoasi,<br><br>Menga TutorConnect yoqadi. O'qituvchilar yaxshi. Matematika qiyin, lekin o'qituvchi yordam beradi. Jadval yaxshi. Men ko'proq matematika o'qituvchilarini xohlayman.<br><br>Xayr</p>",
+    "uzSampleA2": "<p>Salom TutorConnect jamoasi,<br><br>Elektron pochta uchun rahmat. Menga TutorConnect yoqadi. Tutorlar yaxshi va ular menga uy vazifalarimda yordam berishadi. Darslarni rejalashtirish oson va menga kompyuterimdan turib buni qila olishim yoqadi. Lekin ba'zida internet sekin ishlaydi. Menga fandan ko'proq yordam kerak, chunki fan menga qiyin. Va saytda ba'zi o'yinlar bo'lsa, qiziqarli bo'lardi.<br><br>Rahmat,<br>Bobur Umarov</p>",
+    "uzSampleB1": "<p>Hurmatli TutorConnect jamoasi,<br><br>Men sizga TutorConnect bilan bog'liq tajribam haqida fikr-mulohazalarimni bildirish uchun yozyapman. Umuman olganda, bu foydali platforma deb o'ylayman. Tutorlik mashg'ulotlari, ayniqsa matematika darsim uchun juda foydali bo'ldi. Men jadval tuzish tizimini juda qulay va ishlatish oson deb bilaman.<br><br>Biroq, yaxshilanishi mumkin bo'lgan bir nechta narsa bor. Misol uchun, men tarix fani bo'yicha ko'proq o'qituvchilar bo'lishini xohlardim. Shuningdek, agar siz talabalarga o'z o'qituvchilari bilan fayllarni osonroq baham ko'rish imkonini beradigan funksiyani qo'shsangiz, juda yaxshi bo'lardi. Menimcha, bu mashg'ulotlarni yanada samaraliroq qiladi.<br><br>Xulosa qilib aytganda, men TutorConnectdan mamnunman, lekin bu qo'shimchalar uni yanada yaxshiroq qiladi deb hisoblayman.<br><br>Hurmat bilan,<br>Bobur Umarov</p>",
+    "uzSampleB2": "<p>Hurmatli TutorConnect jamoasi,<br><br>Fikr-mulohazalarni to‘plash uchun murojaat qilganingiz uchun tashakkur. Men bir necha haftadan beri TutorConnect’dan foydalanib kelmoqdaman va platformaning samaradorligi va potentsial yaxshilanishlari bo‘yicha bir nechta kuzatuvlarim bor.<br><br>Ijobiy tomoni shundaki, repetitorlik mashg‘ulotlarining sifati odatda yuqori. Repetitorlar bilimli va murakkab tushunchalarni tushuntirishda mohir. Onlayn mashg‘ulotlarni rejalashtirish qulayligi ham muhim afzallikdir, ayniqsa mening band jadvalimni hisobga olsak. Biroq, men platformaning ishlashida ba’zi nomuvofiqliklarni sezdim. Ba’zida video aloqa beqaror bo‘lib qoladi, bu esa dars jarayonini buzishi mumkin.<br><br>Bundan tashqari, menimcha, platforma ilg‘or fizika yoki matematika kabi ko‘proq ixtisoslashgan fanlarni qo‘shishdan manfaatdor bo‘lishi mumkin. Mavjud repetitorlar doirasini kengaytirish yanada keng auditoriyani qamrab oladi. Hamkorlikdagi doska funksiyasi ham mashg‘ulotlarning interaktivligini oshiradi. Xulosa qilib aytganda, TutorConnect qimmatli xizmatni taqdim etadi, ammo bu muammolarni hal qilish, shubhasiz, foydalanuvchi tajribasini yaxshilaydi.<br><br>Hurmat bilan,<br>Bobur Umarov</p>"
+   },
+   "t11": {
+    "title": "informal letter · to friend",
+    "prompt": "Write a letter to your friend, who is struggling with math at school. Write about your feelings and what you think they should do.",
+    "sample": "Hey!\n\nI heard you're having trouble with math. I was in the same situation until I found TutorConnect! My tutor explains things <span class=\"ml-token adv\">so</span> clearly and I <span class=\"ml-token adv\">finally</span> understand algebra. My grades have <span class=\"ml-token adv\">really</span> improved! You <span class=\"ml-token modal\">should</span> <span class=\"ml-token adv\">definitely</span> try it – the first session is free!\n\n<span class=\"ml-token phrasal\">Take care</span>!",
+    "target": "50–70 words",
+    "sampleA1": "<p>Hi Otabek, <br> Math is bad. <br> I use TutorConnect. <br> It is good. <br> Bye!</p>",
+    "sampleA2": "<p>Hi Otabek,<br>I hear you have problem with math. That's bad! I am sad for you. I use TutorConnect and it is good. The teacher is nice and math is easy now. You should try it because it is good for you. Bye!</p>",
+    "sampleB1": "<p>Hi Otabek,<br>I heard you're finding math difficult at school. That's a shame! I've been using TutorConnect for a few weeks now, and it's really helped me. I think the tutors are good at explaining things. Also, it's easy to book lessons. Maybe you should try it? I think it could help you too. Let me know what you think!<br>Best,<br>Bobur Umarov</p>",
+    "sampleB2": "Hey Otabek,\nI was really sorry to hear you're <span class=\"ml-token idiom\">having a rough time</span> with maths — trust me, I've <span class=\"ml-token idiom\">been there myself</span>! Please don't <span class=\"ml-token phrasal\">beat yourself up</span> over it. What honestly saved me was TutorConnect: my tutor <span class=\"ml-token phrasal\">walks you through</span> everything <span class=\"ml-token colloc\">step by step</span> until <span class=\"ml-token idiom\">it clicks</span>. Why not <span class=\"ml-token idiom\">give it a shot</span>? The first lesson's free!\n<span class=\"ml-token phrasal\">Take care</span>,\nDilnoza Karimova",
+    "uzSample": "<p>Salom!</p>\n<p>Matematika bilan qiynalayotganingni eshitdim. TutorConnect'ni topmagunimcha men ham xuddi shunday vaziyatda edim! Mening repetitorim hamma narsani shunchalik aniq tushuntiradiki, men nihoyat algebrani tushundim. Baholarim ancha yaxshilandi! Albatta, sinab ko'rishing kerak – birinchi mashg'ulot bepul!</p>\n<p>O'zingni asra!</p>",
+    "uzSampleA1": "<p>Salom Otabek, <br> Matematika yomon. <br> Men TutorConnect'dan foydalanaman. <br> U yaxshi. <br> Xayr!</p>",
+    "uzSampleA2": "<p>Salom Otabek,<br>Eshitishimcha, matematikadan muammolaring bor ekan. Bu yomon! Sendan xafaman. Men TutorConnect'dan foydalanaman va u yaxshi. O'qituvchi yaxshi va matematika endi oson. Sen ham urinib ko'rishing kerak, chunki bu senga foydali. Xayr!</p>",
+    "uzSampleB1": "<p>Salom, Otabek,<br>Eshitishimcha, maktabda matematika bilan qiynalayotgan ekansan. Bu juda achinarli! Men bir necha haftadan beri TutorConnect'dan foydalanayapman va u menga juda yordam berdi. O'ylashimcha, o'qituvchilar narsalarni tushuntirishda yaxshi. Bundan tashqari, darslarni bron qilish oson. Balki sen ham urinib ko'rarsan? O'ylaymanki, bu senga ham yordam berishi mumkin. Fikringni bildir!<br>Eng yaxshi tilaklar bilan,<br>Bobur Umarov</p>",
+    "uzSampleB2": "<p>Salom Otabek,<br>Matematika bilan qiynalayotganingni eshitib juda xafa bo'ldim. Bu qanchalik asabiylashishini bilaman! Men yaqinda TutorConnect'dan foydalana boshladim va bu menga juda katta yordam berdi. Tutorlar murakkab tushunchalarni tushuntirishda juda yaxshi va men nihoyat o'zimga ko'proq ishonayapman. Rostini aytsam, buni tekshirib ko'rishga arziydi deb o'ylayman. Darslarni rejalashtirish juda qulay va ular turli fanlarni taklif qilishadi. Bu sizga yo'lga qaytishingiz uchun kerak bo'lgan yordam bo'lishi mumkin. Bu haqda ko'proq gaplashmoqchi bo'lsang, menga xabar ber.<br>Xurmat bilan,<br>Bobur Umarov</p>"
+   },
+   "t12": {
+    "title": "formal letter · to recipient",
+    "prompt": "Write a letter to the online tutoring platform. Write about your feelings and what you think they should do.",
+    "sample": "Dear TutorConnect Team,\n\nThank you for asking about my experience with your <span class=\"ml-token colloc\">online tutoring platform</span>.\n\nI am <span class=\"ml-token adv\">extremely</span> satisfied with the service. My tutor is <span class=\"ml-token adv\">highly</span> knowledgeable and explains complex concepts <span class=\"ml-token adv\">clearly</span>. The <span class=\"ml-token colloc\">video quality</span> is excellent, and the <span class=\"ml-token colloc\">interactive whiteboard</span> makes learning engaging. My grades have improved <span class=\"ml-token adv\">significantly</span>.\n\n<span class=\"ml-token adv\">However</span>, I have some suggestions. The <span class=\"ml-token colloc\">scheduling system</span> <span class=\"ml-token adv\">occasionally</span> shows incorrect availability. <span class=\"ml-token adv\">Additionally</span>, <span class=\"ml-token colloc\">session recordings</span> expire after one week, which is too short for exam revision.\n\nI <span class=\"ml-token modal\">would</span> appreciate <span class=\"ml-token colloc\">group tutoring</span> options at lower prices. A <span class=\"ml-token colloc\">practice test</span> library for each subject <span class=\"ml-token modal\">would</span> be helpful. <span class=\"ml-token adv\">Also</span>, offering <span class=\"ml-token colloc\">homework help</span> chat support <span class=\"ml-token modal\">would</span> benefit students between sessions.\n\n<span class=\"ml-token adv\">Overall</span>, TutorConnect has transformed my academic performance.\n\nYours sincerely,\nBobur Umarov",
+    "target": "120–150 words",
+    "sampleA1": "<p>Hi TutorConnect,</p><p>I like the tutors. They are good. Math is hard but now is easy. The website is okay. I want more help. Bye.</p>",
+    "sampleA2": "<p>Hello TutorConnect,</p><p>Thank you for the email. I like the tutors, and they help me with my homework. But sometimes the website is slow, and it is hard to find a tutor. I want more tutors for science because science is difficult. Also, I want the website to be faster. Thank you.</p><p>Bye,</p><p>Bobur Umarov</p>",
+    "sampleB1": "<p>Dear TutorConnect Team,</p><p>Thanks for asking about my experience with TutorConnect. Overall, I'm pretty happy with the platform. My tutor is really helpful, and I think the lessons are good. It's easy to schedule sessions, which is important for me.</p><p>However, there are a few things I think could be better. For example, sometimes it's hard to find a tutor who is available at the time I need. Also, I think it would be useful to have more practice quizzes on the website. I think that would help me a lot.</p><p>In my opinion, TutorConnect is a good service, but these changes would make it even better. Thanks for listening!</p><p>Sincerely,</p><p>Bobur Umarov</p>",
+    "sampleB2": "Dear TutorConnect Team,\nThank you for <span class=\"ml-token phrasal\">getting in touch</span> to ask how I'm finding your online tutoring platform.\n<span class=\"ml-token linking\">On the whole</span>, I'm really pleased with the service. My tutor knows the subject <span class=\"ml-token idiom\">inside out</span> and has <span class=\"ml-token idiom\">a real gift for</span> making difficult topics simple, so my grades have come on <span class=\"ml-token idiom\">in leaps and bounds</span> since I joined. The interactive whiteboard makes every lesson feel lively rather than a chore.\nThat said, there is still <span class=\"ml-token colloc\">room for improvement</span>. The scheduling system <span class=\"ml-token adv\">now and then</span> shows tutors as free when they aren't, which can be annoying. <span class=\"ml-token linking\">On top of that</span>, session recordings vanish after only a week — nowhere near long enough when I'm revising for exams.\nGoing forward, I'd love to see affordable group sessions and a practice-test library for each subject. A quick chat option for homework help would be <span class=\"ml-token idiom\">the icing on the cake</span>.\nYours sincerely,\nBekzod Aliyev",
+    "uzSample": "<p>Hurmatli TutorConnect jamoasi,</p>\n\n<p>Sizning onlayn repetitorlik platformangiz bilan bog'liq tajribam haqida so'raganingiz uchun rahmat.</p>\n\n<p>Men xizmatdan juda mamnunman. Mening repetitorim juda bilimli va murakkab tushunchalarni aniq tushuntirib beradi. Video sifati a'lo darajada va interaktiv doska o'rganishni qiziqarli qiladi. Mening baholarim sezilarli darajada yaxshilandi.</p>\n\n<p>Biroq, menda ba'zi takliflar bor. Ba'zan jadval tizimi noto'g'ri mavjudlikni ko'rsatadi. Bundan tashqari, sessiya yozuvlari bir haftadan keyin o'chib ketadi, bu imtihonni takrorlash uchun juda qisqa muddat.</p>\n\n<p>Men arzonroq narxlarda guruhli repetitorlik variantlarini qadrlagan bo'lardim. Har bir fan uchun amaliy testlar kutubxonasi foydali bo'lardi. Shuningdek, darslar orasida uy vazifalariga yordam beruvchi chat orqali qo'llab-quvvatlashni taklif qilish talabalarga foyda keltiradi.</p>\n\n<p>Umuman olganda, TutorConnect mening o'quv faoliyatimni o'zgartirdi.</p>\n\n<p>Hurmat bilan,<br>\nBobur Umarov</p>",
+    "uzSampleA1": "<p>Salom TutorConnect,</p><p>O'qituvchilar menga yoqadi. Ular yaxshi. Matematika qiyin edi, lekin endi oson. Veb-sayt yaxshi. Men ko'proq yordam xohlayman. Xayr.</p>",
+    "uzSampleA2": "<p>Salom TutorConnect,</p><p>Xat uchun rahmat. Menga o'qituvchilar yoqadi va ular uy vazifalarimda yordam berishadi. Lekin ba'zida veb-sayt sekin ishlaydi va o'qituvchini topish qiyin. Men fandan ko'proq o'qituvchilar bo'lishini xohlayman, chunki fan qiyin. Shuningdek, veb-sayt tezroq bo'lishini xohlayman. Rahmat.</p><p>Xayr,</p><p>Bobur Umarov</p>",
+    "uzSampleB1": "<p>Hurmatli TutorConnect jamoasi,</p><p>TutorConnect bilan tajribam haqida so'raganingiz uchun rahmat. Umuman olganda, platformadan juda mamnunman. Mening repetitorim juda foydali va darslar yaxshi deb o'ylayman. Sessiyalarni rejalashtirish oson, bu men uchun muhim.</p><p>Biroq, menimcha, yaxshiroq bo'lishi mumkin bo'lgan bir nechta narsa bor. Misol uchun, ba'zida menga kerak bo'lgan vaqtda repetitor topish qiyin. Shuningdek, veb-saytda ko'proq amaliyot testlari bo'lishi foydali bo'lardi deb o'ylayman. O'ylaymanki, bu menga juda yordam beradi.</p><p>Mening fikrimcha, TutorConnect yaxshi xizmat, lekin bu o'zgarishlar uni yanada yaxshiroq qiladi. Eshitganingiz uchun rahmat!</p><p>Hurmat bilan,</p><p>Bobur Umarov</p>",
+    "uzSampleB2": "<p>Hurmatli TutorConnect jamoasi,</p><p>Onlayn repetitorlik platformangizdan foydalanish tajribam haqida so'raganingiz uchun rahmat. Men xizmatdan foydalanishim bo'yicha fikr-mulohazalarimni bildirish uchun yozyapman.</p><p>Umuman olganda, platformani foydali deb topdim. Men ishlagan repetitorlar bilimli va murakkab mavzularni tushuntirishda mohir bo'lishdi. Platformaning interfeysi qulay va onlayn sessiyalarni rejalashtirish imkoniyati juda yaxshi. Biroq, yaxshilanishi mumkin bo'lgan sohalar ham mavjud.</p><p>Birinchidan, taklif qilinadigan fanlar doirasini kengaytirish mumkin. Asosiy fanlar yaxshi taqdim etilgan bo'lsa-da, ixtisoslashgan repetitorlik variantlari yetishmaydi. Ikkinchidan, qidiruv funksiyasini takomillashtirish mumkin, bu repetitorlarni ularning malakasi va tajribasiga qarab aniqroq filtrlash imkonini beradi. Nihoyat, talabalarga repetitorlik mashg'ulotlari haqida batafsil baho berish imkonini beradigan fikr-mulohaza tizimini joriy etishni taklif qilaman. Ushbu takliflar TutorConnectning umumiy qiymatini oshiradi.</p><p>Hurmat bilan,</p><p>Bobur Umarov</p>"
+   },
+   "p1_context": "You recently started using an online tutoring platform for academic support.",
+   "p1_scenario": "Dear Student,\n\nThank you for choosing TutorConnect for your learning needs! We hope our tutors are helping you succeed.\nHow do you find the quality of tutoring sessions and our platform features? Is scheduling sessions convenient?\nWhat subjects or features would you like us to add to improve your experience?\n\nTutorConnect Team"
+  },
+  "examDate": "2025-12-12",
+  "settings": {
+   "logoUrl": "https://audio.mock-stream.com/img/ibb/WN0XY5Lv/logo.png",
+   "heading1": "Bilim va malakalarni baholash agentligi",
+   "heading2": "Chet tilini bilish darajasi",
+   "examTitle": "Writing exam",
+   "logoWording": "Mock Stream",
+   "testIdentifier": "mock_stream"
+  },
+  "vocabulary": {
+   "task2": [
+    {
+     "en": "online and traditional learning",
+     "uz": "onlayn va an'anaviy o'qish"
+    },
+    {
+     "en": "traditional education",
+     "uz": "an'anaviy ta'lim"
+    },
+    {
+     "en": "unmatched flexibility",
+     "uz": "tengsiz moslashuvchanlik"
+    },
+    {
+     "en": "working adults",
+     "uz": "ishlaydigan kattalar"
+    },
+    {
+     "en": "global resources",
+     "uz": "global resurslar"
+    },
+    {
+     "en": "social interaction",
+     "uz": "ijtimoiy muloqot"
+    },
+    {
+     "en": "face-to-face discussions",
+     "uz": "yuzma-yuz muhokamalar"
+    },
+    {
+     "en": "soft skills",
+     "uz": "yumshoq ko'nikmalar"
+    },
+    {
+     "en": "self-discipline",
+     "uz": "o'z-o'zini boshqarish"
+    },
+    {
+     "en": "completion rates",
+     "uz": "tugatish darajalari"
+    },
+    {
+     "en": "hybrid approach",
+     "uz": "aralash yondashuv"
+    },
+    {
+     "en": "learn at own pace",
+     "uz": "o'z sur'atida o'qish"
+    },
+    {
+     "en": "recorded lessons",
+     "uz": "yozib olingan darslar"
+    },
+    {
+     "en": "world-class institutions",
+     "uz": "jahon darajasidagi muassasalar"
+    },
+    {
+     "en": "democratizing education",
+     "uz": "ta'limni demokratlashtirish"
+    },
+    {
+     "en": "group projects",
+     "uz": "guruh loyihalari"
+    },
+    {
+     "en": "peer relationships",
+     "uz": "tengdoshlar munosabatlari"
+    },
+    {
+     "en": "classroom structure",
+     "uz": "sinf tuzilmasi"
+    },
+    {
+     "en": "in conclusion",
+     "uz": "xulosa qilib aytganda"
+    },
+    {
+     "en": "best of both worlds",
+     "uz": "ikkala dunyoning eng yaxshisi"
+    }
+   ],
+   "task11": [
+    {
+     "en": "online tutoring",
+     "uz": "onlayn repetitorlik"
+    },
+    {
+     "en": "struggling with math",
+     "uz": "matematikadan qiynalmoq"
+    },
+    {
+     "en": "explains clearly",
+     "uz": "aniq tushuntiradi"
+    },
+    {
+     "en": "finally understand",
+     "uz": "nihoyat tushundim"
+    },
+    {
+     "en": "grades improved",
+     "uz": "baholar yaxshilandi"
+    },
+    {
+     "en": "definitely try",
+     "uz": "albatta sinab ko'ring"
+    },
+    {
+     "en": "first session free",
+     "uz": "birinchi seans bepul"
+    },
+    {
+     "en": "take care",
+     "uz": "o'zingizga g'amxo'rlik qiling"
+    },
+    {
+     "en": "having trouble",
+     "uz": "muammo bor"
+    },
+    {
+     "en": "same situation",
+     "uz": "bir xil vaziyat"
+    },
+    {
+     "en": "highly recommend",
+     "uz": "qattiq tavsiya qilmoq"
+    },
+    {
+     "en": "patient tutor",
+     "uz": "sabr-toqatli o'qituvchi"
+    },
+    {
+     "en": "personalized help",
+     "uz": "shaxsiy yordam"
+    },
+    {
+     "en": "affordable prices",
+     "uz": "arzon narxlar"
+    },
+    {
+     "en": "flexible schedule",
+     "uz": "moslashuvchan jadval"
+    },
+    {
+     "en": "expert teachers",
+     "uz": "mutaxassis o'qituvchilar"
+    },
+    {
+     "en": "one-on-one lessons",
+     "uz": "individual darslar"
+    },
+    {
+     "en": "academic support",
+     "uz": "akademik qo'llab-quvvatlash"
+    },
+    {
+     "en": "let me know",
+     "uz": "menga xabar bering"
+    },
+    {
+     "en": "good luck",
+     "uz": "omad tilayman"
+    }
+   ],
+   "task12": [
+    {
+     "en": "online tutoring platform",
+     "uz": "onlayn repetitorlik platformasi"
+    },
+    {
+     "en": "video quality",
+     "uz": "video sifati"
+    },
+    {
+     "en": "interactive whiteboard",
+     "uz": "interaktiv doska"
+    },
+    {
+     "en": "scheduling system",
+     "uz": "rejalashtirish tizimi"
+    },
+    {
+     "en": "session recordings",
+     "uz": "seans yozuvlari"
+    },
+    {
+     "en": "group tutoring",
+     "uz": "guruhli repetitorlik"
+    },
+    {
+     "en": "practice test",
+     "uz": "amaliyot testi"
+    },
+    {
+     "en": "homework help",
+     "uz": "uy vazifasi yordami"
+    },
+    {
+     "en": "extremely satisfied",
+     "uz": "juda mamnun"
+    },
+    {
+     "en": "highly knowledgeable",
+     "uz": "juda bilimli"
+    },
+    {
+     "en": "complex concepts",
+     "uz": "murakkab tushunchalar"
+    },
+    {
+     "en": "makes learning engaging",
+     "uz": "o'rganishni qiziqarli qiladi"
+    },
+    {
+     "en": "significantly improved",
+     "uz": "sezilarli darajada yaxshilandi"
+    },
+    {
+     "en": "incorrect availability",
+     "uz": "noto'g'ri mavjudlik"
+    },
+    {
+     "en": "exam revision",
+     "uz": "imtihonga tayyorgarlik"
+    },
+    {
+     "en": "lower prices",
+     "uz": "pastroq narxlar"
+    },
+    {
+     "en": "between sessions",
+     "uz": "seanslar orasida"
+    },
+    {
+     "en": "academic performance",
+     "uz": "akademik ko'rsatkichlar"
+    },
+    {
+     "en": "Yours sincerely",
+     "uz": "Hurmat bilan"
+    },
+    {
+     "en": "transformed my learning",
+     "uz": "o'qishimni o'zgartirdi"
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "so": {
+    "uz": "shunday qilib",
+    "type": "adv"
+   },
+   "Also": {
+    "uz": "Shuningdek",
+    "type": "adv"
+   },
+   "would": {
+    "uz": "bo'lardi",
+    "type": "modal"
+   },
+   "highly": {
+    "uz": "yuqori darajada",
+    "type": "adv"
+   },
+   "really": {
+    "uz": "haqiqatan ham",
+    "type": "adv"
+   },
+   "should": {
+    "uz": "kerak",
+    "type": "modal"
+   },
+   "Firstly": {
+    "uz": "Birinchidan",
+    "type": "adv"
+   },
+   "However": {
+    "uz": "Biroq",
+    "type": "adv"
+   },
+   "Overall": {
+    "uz": "Umuman olganda",
+    "type": "adv"
+   },
+   "clearly": {
+    "uz": "aniq",
+    "type": "adv"
+   },
+   "finally": {
+    "uz": "nihoyat",
+    "type": "adv"
+   },
+   "hold up": {
+    "uz": "yaxshi saqlanib qoldimi, pasaymadimi",
+    "type": "phrasal"
+   },
+   "Secondly": {
+    "uz": "Ikkinchidan",
+    "type": "adv"
+   },
+   "zone out": {
+    "uz": "chalg'ib ketish, diqqatni yo'qotish",
+    "type": "phrasal"
+   },
+   "Take care": {
+    "uz": "o'zingni asra",
+    "type": "phrasal"
+   },
+   "That said": {
+    "uz": "Shunga qaramay",
+    "type": "linking"
+   },
+   "extremely": {
+    "uz": "juda ham",
+    "type": "adv"
+   },
+   "it clicks": {
+    "uz": "birdan tushunarli bo'lib qoladi, miyaga yetib boradi",
+    "type": "idiom"
+   },
+   "picked up": {
+    "uz": "yaxshilandi, ko'tarildi",
+    "type": "phrasal"
+   },
+   "definitely": {
+    "uz": "albatta",
+    "type": "adv"
+   },
+   "inside out": {
+    "uz": "mukammal, ipidan ignasigacha biladi",
+    "type": "idiom"
+   },
+   "sweet spot": {
+    "uz": "eng maqbul nuqta, oltin o'rtalik",
+    "type": "idiom"
+   },
+   "Furthermore": {
+    "uz": "Bundan tashqari",
+    "type": "adv"
+   },
+   "In addition": {
+    "uz": "Bundan tashqari",
+    "type": "linking"
+   },
+   "soft skills": {
+    "uz": "ijtimoiy ko'nikmalar",
+    "type": "colloc"
+   },
+   "switched on": {
+    "uz": "diqqatni jamlagan, e'tiborli",
+    "type": "phrasal"
+   },
+   "Additionally": {
+    "uz": "Bundan tashqari",
+    "type": "adv"
+   },
+   "Give it a go": {
+    "uz": "bir sinab ko'r",
+    "type": "idiom"
+   },
+   "On the whole": {
+    "uz": "Umuman olganda",
+    "type": "linking"
+   },
+   "game-changer": {
+    "uz": "hamma narsani o'zgartiradigan katta yutuq",
+    "type": "colloc"
+   },
+   "hold its own": {
+    "uz": "o'z o'rniga ega, bemalol raqobatlasha oladi",
+    "type": "idiom"
+   },
+   "mulling over": {
+    "uz": "chuqur o'ylab yurgan",
+    "type": "phrasal"
+   },
+   "now and then": {
+    "uz": "vaqti-vaqti bilan",
+    "type": "adv"
+   },
+   "occasionally": {
+    "uz": "vaqti-vaqti bilan",
+    "type": "adv"
+   },
+   "reaching out": {
+    "uz": "murojaat qilganingiz, bog'langaningiz",
+    "type": "phrasal"
+   },
+   "step by step": {
+    "uz": "bosqichma-bosqich",
+    "type": "colloc"
+   },
+   "In conclusion": {
+    "uz": "Xulosa qilib aytganda",
+    "type": "adv"
+   },
+   "homework help": {
+    "uz": "uyga vazifalarda yordam",
+    "type": "colloc"
+   },
+   "open doors to": {
+    "uz": "... uchun yo'l ochadi, imkoniyat yaratadi",
+    "type": "idiom"
+   },
+   "practice test": {
+    "uz": "mashq testi",
+    "type": "colloc"
+   },
+   "significantly": {
+    "uz": "sezilarli darajada",
+    "type": "adv"
+   },
+   "video quality": {
+    "uz": "video sifati",
+    "type": "colloc"
+   },
+   "On top of that": {
+    "uz": "Bundan tashqari, ustiga-ustak",
+    "type": "linking"
+   },
+   "falling behind": {
+    "uz": "orqada qolayotgan",
+    "type": "phrasal"
+   },
+   "give it a shot": {
+    "uz": "bir sinab ko'r",
+    "type": "idiom"
+   },
+   "group tutoring": {
+    "uz": "guruhli repetitorlik",
+    "type": "colloc"
+   },
+   "working adults": {
+    "uz": "ishlaydigan kattalar",
+    "type": "colloc"
+   },
+   "a real gift for": {
+    "uz": "... ga alohida iqtidori bor",
+    "type": "idiom"
+   },
+   "finally clicked": {
+    "uz": "nihoyat miyamga yetib bordi, tushunarli bo'ldi",
+    "type": "idiom"
+   },
+   "hybrid approach": {
+    "uz": "gibrid yondashuv",
+    "type": "colloc"
+   },
+   "self-discipline": {
+    "uz": "o'z-o'zini intizomga solish",
+    "type": "colloc"
+   },
+   "Completion rates": {
+    "uz": "Tugatish darajasi",
+    "type": "colloc"
+   },
+   "Having said that": {
+    "uz": "Shunga qaramay, shu bilan birga",
+    "type": "linking"
+   },
+   "On the plus side": {
+    "uz": "Ijobiy tomoni",
+    "type": "linking"
+   },
+   "a real knack for": {
+    "uz": "... ga alohida iqtidori, mahorati bor",
+    "type": "idiom"
+   },
+   "beat yourself up": {
+    "uz": "o'zingni koyitma, o'zingni ayblama",
+    "type": "phrasal"
+   },
+   "getting in touch": {
+    "uz": "bog'langaningiz, murojaat qilganingiz",
+    "type": "phrasal"
+   },
+   "global resources": {
+    "uz": "global resurslar",
+    "type": "colloc"
+   },
+   "in the same boat": {
+    "uz": "bir xil ahvolda, o'xshash vaziyatda edim",
+    "type": "idiom"
+   },
+   "been there myself": {
+    "uz": "men ham o'sha ahvolda bo'lganman",
+    "type": "idiom"
+   },
+   "scheduling system": {
+    "uz": "jadval tuzish tizimi",
+    "type": "colloc"
+   },
+   "walks you through": {
+    "uz": "bosqichma-bosqich tushuntirib beradi",
+    "type": "phrasal"
+   },
+   "a blend of the two": {
+    "uz": "ikkalasining uyg'unligi",
+    "type": "colloc"
+   },
+   "session recordings": {
+    "uz": "dars yozuvlari",
+    "type": "colloc"
+   },
+   "social interaction": {
+    "uz": "ijtimoiy muloqot",
+    "type": "colloc"
+   },
+   "strongly recommend": {
+    "uz": "qat'iy tavsiya qilaman",
+    "type": "colloc"
+   },
+   "gets people talking": {
+    "uz": "odamlarni gapga soladi, muhokamaga sabab bo'ladi",
+    "type": "colloc"
+   },
+   "having a rough time": {
+    "uz": "qiyin kunlarni boshdan kechirayotgan, qiynalayotgan",
+    "type": "idiom"
+   },
+   "in leaps and bounds": {
+    "uz": "sakrab-sakrab, juda tez sur'atda",
+    "type": "idiom"
+   },
+   "room for improvement": {
+    "uz": "yaxshilanish uchun imkoniyat bor",
+    "type": "colloc"
+   },
+   "turned things around": {
+    "uz": "vaziyatni tubdan yaxshilab yubordi",
+    "type": "idiom"
+   },
+   "struggling with maths": {
+    "uz": "matematikadan qiynalayotgan",
+    "type": "colloc"
+   },
+   "the icing on the cake": {
+    "uz": "ajoyib qo'shimcha, hammasiga bezak",
+    "type": "idiom"
+   },
+   "throw in my two cents": {
+    "uz": "o'z fikrimni bildiraman",
+    "type": "idiom"
+   },
+   "traditional education": {
+    "uz": "an'anaviy ta'lim",
+    "type": "colloc"
+   },
+   "unmatched flexibility": {
+    "uz": "misli ko'rilmagan moslashuvchanlik",
+    "type": "colloc"
+   },
+   "breaks everything down": {
+    "uz": "hamma narsani mayda-mayda qilib tushuntiradi",
+    "type": "phrasal"
+   },
+   "interactive whiteboard": {
+    "uz": "interaktiv doska",
+    "type": "colloc"
+   },
+   "learn at your own pace": {
+    "uz": "o'z sur'atingizda o'rganish",
+    "type": "colloc"
+   },
+   "Face-to-face discussions": {
+    "uz": "Yuzma-yuz muhokamalar",
+    "type": "colloc"
+   },
+   "online tutoring platform": {
+    "uz": "onlayn repetitorlik platformasi",
+    "type": "colloc"
+   },
+   "online and traditional learning": {
+    "uz": "onlayn va an'anaviy ta'lim",
+    "type": "colloc"
+   }
+  }
+ },
+ "created_at": "2026-05-06T15:00:57.748687+00:00",
+ "updated_at": "2026-07-06T10:57:46.143005+00:00"
+}

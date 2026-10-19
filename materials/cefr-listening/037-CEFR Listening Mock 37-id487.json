@@ -1,0 +1,504 @@
+{
+ "id": 487,
+ "mock_type": "cefr-listening",
+ "mock_number": 37,
+ "title": "CEFR Listening Mock 37",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "mcq-reply",
+    "title": "Part 1",
+    "answers": {
+     "1": "A",
+     "2": "C",
+     "3": "B",
+     "4": "A",
+     "5": "B",
+     "6": "A",
+     "7": "B",
+     "8": "C"
+    },
+    "audioFile": "https://audio.mock-stream.com/test37/PART 1.m4a",
+    "questions": [
+     {
+      "id": 1,
+      "options": [
+       {
+        "text": "It's a pleasure to meet you too.",
+        "letter": "A"
+       },
+       {
+        "text": "I don't think she has met him.",
+        "letter": "B"
+       },
+       {
+        "text": "It wasn't.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "options": [
+       {
+        "text": "That's okay.",
+        "letter": "A"
+       },
+       {
+        "text": "I hope not.",
+        "letter": "B"
+       },
+       {
+        "text": "Don't mention it.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 3,
+      "options": [
+       {
+        "text": "I'll see you later.",
+        "letter": "A"
+       },
+       {
+        "text": "To the library.",
+        "letter": "B"
+       },
+       {
+        "text": "We can catch up later.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 4,
+      "options": [
+       {
+        "text": "Was it interesting?",
+        "letter": "A"
+       },
+       {
+        "text": "Haven't you?",
+        "letter": "B"
+       },
+       {
+        "text": "Could you do it for me?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 5,
+      "options": [
+       {
+        "text": "How's he?",
+        "letter": "A"
+       },
+       {
+        "text": "How do you know?",
+        "letter": "B"
+       },
+       {
+        "text": "What's the matter with you?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 6,
+      "options": [
+       {
+        "text": "No, I wasn't at the party.",
+        "letter": "A"
+       },
+       {
+        "text": "He looks nice.",
+        "letter": "B"
+       },
+       {
+        "text": "Yes, I remember Steve.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 7,
+      "options": [
+       {
+        "text": "Sure!",
+        "letter": "A"
+       },
+       {
+        "text": "Calm down!",
+        "letter": "B"
+       },
+       {
+        "text": "That's good!",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 8,
+      "options": [
+       {
+        "text": "Sure, I can!",
+        "letter": "A"
+       },
+       {
+        "text": "Sure, you do!",
+        "letter": "B"
+       },
+       {
+        "text": "Sure, we will!",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "partNumber": 1,
+    "instruction": "You will hear some sentences. You will hear each sentence twice. Choose the correct reply to each sentence (A, B, or C).",
+    "questionRange": "1-8"
+   },
+   {
+    "type": "gap-fill-form",
+    "title": "Part 2",
+    "answers": {
+     "9": "SAFETY",
+     "10": "PLAN",
+     "11": "JOINING",
+     "12": "PEAK",
+     "13": "GUESTS",
+     "14": "CARD"
+    },
+    "audioFile": "https://audio.mock-stream.com/test37/PART 2.m4a",
+    "formTitle": "JOINING THE LEISURE CLUB",
+    "partNumber": 2,
+    "formContent": [
+     {
+      "text": "The",
+      "type": "item-gap",
+      "gapId": 9,
+      "gapSuffix": "rules will be explained to you before you use the equipment."
+     },
+     {
+      "text": "You will be given a six-week",
+      "type": "item-gap",
+      "gapId": 10,
+      "gapSuffix": ""
+     },
+     {
+      "text": "There is a compulsory £90",
+      "type": "item-gap",
+      "gapId": 11,
+      "gapSuffix": "fee for members."
+     },
+     {
+      "text": "Gold members are given free entry to all the LP clubs. Premier members are given priority during",
+      "type": "item-gap",
+      "gapId": 12,
+      "gapSuffix": "hours."
+     },
+     {
+      "text": "Premier members can bring some",
+      "type": "item-gap",
+      "gapId": 13,
+      "gapSuffix": "every month."
+     },
+     {
+      "text": "Members should always take their photo",
+      "type": "item-gap",
+      "gapId": 14,
+      "gapSuffix": "with them."
+     }
+    ],
+    "instruction": "You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. Write ONE WORD and / or A NUMBER for each answer.",
+    "questionRange": "9-14"
+   },
+   {
+    "type": "matching-speakers",
+    "title": "Part 3",
+    "answers": {
+     "15": "F",
+     "16": "B",
+     "17": "A",
+     "18": "E"
+    },
+    "options": [
+     {
+      "text": "I made a mistake there at first.",
+      "letter": "A"
+     },
+     {
+      "text": "I was able to settle into a new area.",
+      "letter": "B"
+     },
+     {
+      "text": "I had no choice in the matter.",
+      "letter": "C"
+     },
+     {
+      "text": "I have recommended it to others.",
+      "letter": "D"
+     },
+     {
+      "text": "There are more benefits than disadvantages.",
+      "letter": "E"
+     },
+     {
+      "text": "I would prefer to have more freedom.",
+      "letter": "F"
+     }
+    ],
+    "speakers": [
+     {
+      "id": 15,
+      "label": "Speaker 1"
+     },
+     {
+      "id": 16,
+      "label": "Speaker 2"
+     },
+     {
+      "id": 17,
+      "label": "Speaker 3"
+     },
+     {
+      "id": 18,
+      "label": "Speaker 4"
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test37/PART 3.m4a",
+    "partNumber": 3,
+    "instruction": "You will hear people speaking in different situations. Match each speaker (15-18) to the description which they give about their accommodation (A-F). There are TWO EXTRA options which you do not need to use.",
+    "questionRange": "15-18"
+   },
+   {
+    "type": "map-labeling",
+    "title": "Part 4",
+    "answers": {
+     "19": "B",
+     "20": "E",
+     "21": "D",
+     "22": "C",
+     "23": "F"
+    },
+    "mapImage": "https://audio.mock-stream.com/test37/map.png",
+    "mapTitle": "GROUND FLOOR OF KINNEY HOTEL",
+    "audioFile": "https://audio.mock-stream.com/test37/PART 4.m4a",
+    "mapLabels": [
+     "A",
+     "B",
+     "C",
+     "D",
+     "E",
+     "F",
+     "G",
+     "H"
+    ],
+    "questions": [
+     {
+      "id": 19,
+      "place": "Art Gallery"
+     },
+     {
+      "id": 20,
+      "place": "Fountain"
+     },
+     {
+      "id": 21,
+      "place": "Restaurant"
+     },
+     {
+      "id": 22,
+      "place": "Bakery"
+     },
+     {
+      "id": 23,
+      "place": "Bar"
+     }
+    ],
+    "partNumber": 4,
+    "instruction": "You will hear someone giving a talk. Label the places (19-23) on the map (A-H). There are THREE extra options which you do not need to use.",
+    "questionRange": "19-23"
+   },
+   {
+    "type": "mcq-extracts",
+    "title": "Part 5",
+    "answers": {
+     "24": "C",
+     "25": "A",
+     "26": "C",
+     "27": "B",
+     "28": "B",
+     "29": "A"
+    },
+    "extracts": [
+     {
+      "title": "Extract One",
+      "context": "You hear two students, Nick and Gemma, talking about a student house.",
+      "questions": [
+       {
+        "id": 24,
+        "text": "What is Gemma's main hesitation about moving into the house?",
+        "options": [
+         {
+          "text": "She won't have a good social life.",
+          "letter": "A"
+         },
+         {
+          "text": "She won't get on with her housemates.",
+          "letter": "B"
+         },
+         {
+          "text": "She might be distracted from her studies.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 25,
+        "text": "How does Nick address Gemma's main concern?",
+        "options": [
+         {
+          "text": "He informs her of an agreement within the house.",
+          "letter": "A"
+         },
+         {
+          "text": "He promises to set up a study group in the house.",
+          "letter": "B"
+         },
+         {
+          "text": "He reassures her that guests are always welcome.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Extract Two",
+      "context": "You hear a mature student talking to a student finance advisor about a student loan.",
+      "questions": [
+       {
+        "id": 26,
+        "text": "The student has reservations about her ability to ...",
+        "options": [
+         {
+          "text": "secure a part-time job.",
+          "letter": "A"
+         },
+         {
+          "text": "find a suitable bank account.",
+          "letter": "B"
+         },
+         {
+          "text": "cover her living costs.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 27,
+        "text": "The student was previously aware that she would ...",
+        "options": [
+         {
+          "text": "need a letter of proof from her university.",
+          "letter": "A"
+         },
+         {
+          "text": "only have to start repaying her loan once she graduated.",
+          "letter": "B"
+         },
+         {
+          "text": "be required to pay interest from the date she received the loan.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Extract Three",
+      "context": "You hear a student talking to a member of the university Drama Club.",
+      "questions": [
+       {
+        "id": 28,
+        "text": "Why is Darren hesitating to join the Drama Club?",
+        "options": [
+         {
+          "text": "He's worried he might get nervous on stage.",
+          "letter": "A"
+         },
+         {
+          "text": "He doesn't want to over-commit himself.",
+          "letter": "B"
+         },
+         {
+          "text": "He dislikes certain types of performances.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 29,
+        "text": "How does Nina persuade Darren to join the club?",
+        "options": [
+         {
+          "text": "She points out a less obvious benefit.",
+          "letter": "A"
+         },
+         {
+          "text": "She claims it will boost his confidence.",
+          "letter": "B"
+         },
+         {
+          "text": "She says it's stressful but also challenging.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test37/PART 5.m4a",
+    "partNumber": 5,
+    "instruction": "You will hear three extracts. Choose the correct answer (A, B or C) for each question (24-29). There are TWO questions for each extract.",
+    "questionRange": "24-29"
+   },
+   {
+    "type": "sentence-completion",
+    "title": "Part 6",
+    "answers": {
+     "30": "SPACE",
+     "31": "CLIMBING",
+     "32": "HAT",
+     "33": "BOOTS",
+     "34": "INTEREST",
+     "35": "COMPETITIONS"
+    },
+    "audioFile": "https://audio.mock-stream.com/test37/PART 6.m4a",
+    "partNumber": 6,
+    "instruction": "You will hear a part of a lecture. For each question, fill in the missing information in the numbered space. Write no more than one word for each answer.",
+    "passageTitle": "CAVERS",
+    "questionRange": "30-35",
+    "passageContent": "Cavers explore underground places such as mines and tunnels as well as caves.<br><br>When cavers camp underground, they choose places which have <span class=\"gap-input\" data-gap=\"30\">_____(30)_____</span> and fresh air available.<br><br>In the UK, the place Mike likes best for caving is Wales.<br><br>As a physical activity, Mike compares caving to <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span>.<br><br>Cavers can pay as much as £20 for a suitable hard <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span>.<br><br>Cavers can pay as much as £50 for the right kind of lamp, which is worn on the head.<br><br>Mike recommends buying expensive <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span> to avoid having accidents.<br><br>Caving is a sport for people of all ages and backgrounds.<br><br>Some caves in Britain are called 'places of special <span class=\"gap-input\" data-gap=\"34\">_____(34)_____</span>'.<br><br>The need for safety explains why people don't organise caving <span class=\"gap-input\" data-gap=\"35\">_____(35)_____</span>."
+   }
+  ],
+  "source": null,
+  "examDate": "2026-05-30",
+  "examType": "cefr-listening",
+  "testInfo": {
+   "id": "cefr-listening-37",
+   "level": "B2",
+   "title": "CEFR Listening Mock Test 37",
+   "totalTime": 40,
+   "totalQuestions": 35
+  },
+  "mockNumber": 37
+ },
+ "created_at": "2026-05-30T13:12:39.379013+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

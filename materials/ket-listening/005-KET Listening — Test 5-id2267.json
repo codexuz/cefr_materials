@@ -1,0 +1,460 @@
+{
+ "id": 2267,
+ "mock_type": "ket-listening",
+ "mock_number": 5,
+ "title": "KET Listening — Test 5",
+ "status": "published",
+ "mock_data": {
+  "audio": {
+   "base": "https://audio.mock-stream.com/KET-Listening/test5/",
+   "files": {
+    "1": "PART1.m4a",
+    "2": "PART2.m4a",
+    "3": "PART3.m4a",
+    "4": "PART4.m4a",
+    "5": "PART5.m4a"
+   }
+  },
+  "parts": [
+   {
+    "type": "picture-mcq",
+    "items": [
+     {
+      "id": 1,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q1A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q1B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q1C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What will they eat for dinner this evening?"
+     },
+     {
+      "id": 2,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q2A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q2B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q2C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What time is it?"
+     },
+     {
+      "id": 3,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q3A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q3B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q3C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What's Michele going to read?"
+     },
+     {
+      "id": 4,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q4A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q4B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q4C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "How much did the tickets cost?"
+     },
+     {
+      "id": 5,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q5full.png",
+        "letter": "A",
+        "composite": true
+       },
+       {
+        "image": "q5full.png",
+        "letter": "B",
+        "composite": true
+       },
+       {
+        "image": "q5full.png",
+        "letter": "C",
+        "composite": true
+       }
+      ],
+      "question": "Where is the chemist's?"
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "image": "q0A.png",
+       "letter": "A"
+      },
+      {
+       "image": "q0B.png",
+       "letter": "B"
+      },
+      {
+       "image": "q0C.png",
+       "letter": "C"
+      }
+     ],
+     "question": "How many people were at the meeting?"
+    },
+    "imageBase": "https://audio.mock-stream.com/KET-Listening/test5/p1/",
+    "partNumber": 1,
+    "instruction": [
+     "You will hear five short conversations.",
+     "You will hear each conversation twice.",
+     "There is one question for each conversation.",
+     "For questions 1–5, put a tick (✓) under the right answer."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "matching-list",
+    "items": [
+     {
+      "id": 6,
+      "name": "Kate's mother",
+      "answer": "E"
+     },
+     {
+      "id": 7,
+      "name": "Tanya",
+      "answer": "F"
+     },
+     {
+      "id": 8,
+      "name": "Len",
+      "answer": "A"
+     },
+     {
+      "id": 9,
+      "name": "Tom",
+      "answer": "C"
+     },
+     {
+      "id": 10,
+      "name": "Kate's father",
+      "answer": "G"
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "name": "Sam",
+     "answer": "B",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "concert",
+      "letter": "A"
+     },
+     {
+      "text": "dentist's",
+      "letter": "B"
+     },
+     {
+      "text": "driving school",
+      "letter": "C"
+     },
+     {
+      "text": "golf club",
+      "letter": "D"
+     },
+     {
+      "text": "hairdresser's",
+      "letter": "E"
+     },
+     {
+      "text": "shops",
+      "letter": "F"
+     },
+     {
+      "text": "Spanish class",
+      "letter": "G"
+     },
+     {
+      "text": "tennis club",
+      "letter": "H"
+     }
+    ],
+    "scenario": "Kate telling Emma about her family — places",
+    "leftLabel": "PEOPLE",
+    "partNumber": 2,
+    "rightLabel": "PLACES",
+    "instruction": [
+     "Listen to Kate telling Emma about her family.",
+     "Where is each person going today?",
+     "For questions 6–10, write a letter A–H next to each person.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-conversation",
+    "items": [
+     {
+      "id": 11,
+      "stem": "How much money was in the bag?",
+      "answer": "A",
+      "options": [
+       {
+        "text": "£20",
+        "letter": "A"
+       },
+       {
+        "text": "£40",
+        "letter": "B"
+       },
+       {
+        "text": "£50",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "stem": "What else was in the bag?",
+      "answer": "C",
+      "options": [
+       {
+        "text": "credit card",
+        "letter": "A"
+       },
+       {
+        "text": "driving licence",
+        "letter": "B"
+       },
+       {
+        "text": "gloves",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "stem": "The bag was",
+      "answer": "A",
+      "options": [
+       {
+        "text": "old.",
+        "letter": "A"
+       },
+       {
+        "text": "expensive.",
+        "letter": "B"
+       },
+       {
+        "text": "big.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "stem": "What time did the woman lose the bag?",
+      "answer": "B",
+      "options": [
+       {
+        "text": "9.30",
+        "letter": "A"
+       },
+       {
+        "text": "10.00",
+        "letter": "B"
+       },
+       {
+        "text": "10.30",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "stem": "The policeman will telephone her in the",
+      "answer": "A",
+      "options": [
+       {
+        "text": "morning.",
+        "letter": "A"
+       },
+       {
+        "text": "afternoon.",
+        "letter": "B"
+       },
+       {
+        "text": "evening.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "stem": "Where did the woman lose her bag?",
+     "answer": "A",
+     "number": 0,
+     "options": [
+      {
+       "text": "in town",
+       "letter": "A"
+      },
+      {
+       "text": "on the bus",
+       "letter": "B"
+      },
+      {
+       "text": "at home",
+       "letter": "C"
+      }
+     ]
+    },
+    "partNumber": 3,
+    "instruction": [
+     "Listen to a woman talking to a policeman.",
+     "For questions 11–15, tick (✓) A, B or C.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "rows": [
+     {
+      "id": 16,
+      "label": "FROM:",
+      "answer": "HYDE",
+      "prefix": "Mr"
+     },
+     {
+      "id": 17,
+      "label": "Meeting about:",
+      "answer": "factory",
+      "prefix": "new"
+     },
+     {
+      "label": "On:",
+      "prefilled": "Wednesday"
+     },
+     {
+      "id": 18,
+      "label": "Time:",
+      "answer": "11.30"
+     },
+     {
+      "id": 19,
+      "label": "In:",
+      "answer": "21",
+      "suffix": "room"
+     },
+     {
+      "id": 20,
+      "label": "Please take:",
+      "answer": "photographs"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 4",
+    "subtitle": "TO: Miss Dixon",
+    "noteTitle": "Message",
+    "partNumber": 4,
+    "instruction": [
+     "You will hear a man speaking on the telephone.",
+     "He wants to speak to Miss Dixon, but she is not there.",
+     "Listen and complete questions 16–20.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "rows": [
+     {
+      "id": 21,
+      "label": "Breakfast at:",
+      "answer": "7.30"
+     },
+     {
+      "id": 22,
+      "label": "Meet in:",
+      "answer": "car park"
+     },
+     {
+      "id": 23,
+      "label": "Colour of lunch ticket:",
+      "answer": "pink"
+     },
+     {
+      "id": 24,
+      "label": "Get lunch ticket from:",
+      "answer": "office"
+     },
+     {
+      "id": 25,
+      "label": "Bring:",
+      "answer": "jacket"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 5",
+    "subtitle": "To: Loch Ness",
+    "noteTitle": "DAY TRIP",
+    "partNumber": 5,
+    "instruction": [
+     "You will hear a man talking about a day trip.",
+     "Listen and complete questions 21–25.",
+     "You will hear the information twice."
+    ],
+    "questionsLabel": "QUESTIONS 21–25"
+   }
+  ],
+  "testInfo": {
+   "id": "ket-l-5",
+   "level": "A2",
+   "paper": "Paper 2",
+   "parts": 5,
+   "title": "KET Listening — Test 5",
+   "totalTime": 30,
+   "totalQuestions": 25
+  }
+ },
+ "created_at": "2026-10-14T06:45:19.513827+00:00",
+ "updated_at": "2026-10-14T06:47:06.144534+00:00"
+}

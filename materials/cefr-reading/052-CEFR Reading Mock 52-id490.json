@@ -1,0 +1,644 @@
+{
+ "id": 490,
+ "mock_type": "cefr-reading",
+ "mock_number": 52,
+ "title": "CEFR Reading Mock 52",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "gap-fill-text",
+    "title": "PART 1",
+    "answers": {
+     "1": [
+      "stories",
+      "story"
+     ],
+     "2": [
+      "cartoons"
+     ],
+     "3": [
+      "fairy"
+     ],
+     "4": [
+      "troll"
+     ],
+     "5": [
+      "scenes"
+     ],
+     "6": [
+      "show"
+     ]
+    },
+    "passage": {
+     "title": "SHREK",
+     "content": "<p>Somewhere in a far-away magical kingdom, there lived a beautiful princess, a prince and animals who could talk like humans. This is a typical plot for many fairy tales and <span class=\"gap\" data-gap=\"1\">_____(1)_____</span>. In 1990, a short story for children about Shrek, a big green troll, appeared. Unlike previous heroes he looked ugly and scary but had a big, kind heart. In 2001, DreamWorks studio made the first animated Shrek cartoon. All the characters of the cartoons about Shrek are easy to remember and have a good sense of humour. The <span class=\"gap\" data-gap=\"2\">_____(2)_____</span> are full of episodes about friendship, good and evil, love and family values. The cartoons present an amusing mixture of traditional <span class=\"gap\" data-gap=\"3\">_____(3)_____</span> tales and real-life events familiar to everyone.</p><p>Maurice Tillet was a famous professional French boxer and wrestler of the 20th century. Unfortunately, at the age of twenty he got a rare disease which changed his body and appearance. It made him look like a huge <span class=\"gap\" data-gap=\"4\">_____(4)_____</span>. Few people know that Shrek's appearance copies that of Maurice Tillet. However, in contrast to the cartoon character, Maurice Tillet was highly intelligent — he spoke fourteen languages and was good at writing prose. Several scenes in cartoons about Shrek are based on <span class=\"gap\" data-gap=\"5\">_____(5)_____</span> from famous movies. During the fight between Fiona and Robin Hood's men, the camera moves as in 'The Matrix'. There are hints of the 'The Lord of the Rings' and 'Mission Impossible'.</p><p>The famous story was also made into a Broadway show, 'Shrek the Musical'. Technically, the musical <span class=\"gap\" data-gap=\"6\">_____(6)_____</span> is not the same as the film but it has its advantages. Children and adults enjoy seeing celebrities in the roles of Shrek and Princess Fiona.</p>"
+    },
+    "questions": [
+     {
+      "id": 1,
+      "hint": ""
+     },
+     {
+      "id": 2,
+      "hint": ""
+     },
+     {
+      "id": 3,
+      "hint": ""
+     },
+     {
+      "id": 4,
+      "hint": ""
+     },
+     {
+      "id": 5,
+      "hint": ""
+     },
+     {
+      "id": 6,
+      "hint": ""
+     }
+    ],
+    "partNumber": 1,
+    "instruction": "Read the text. Fill in each gap with ONE word. You must use a word which is somewhere in the rest of the text.",
+    "explanations": {},
+    "questionRange": "1-6"
+   },
+   {
+    "type": "matching",
+    "texts": [
+     {
+      "number": 7,
+      "content": "You're looking for a meal that has no meat."
+     },
+     {
+      "number": 8,
+      "content": "You're a student looking for a quiet place to study."
+     },
+     {
+      "number": 9,
+      "content": "You're on a date and want a romantic setting."
+     },
+     {
+      "number": 10,
+      "content": "You're a coffee enthusiast and want high-quality coffee."
+     },
+     {
+      "number": 11,
+      "content": "You're a dog owner and want to bring your furry friend with you."
+     },
+     {
+      "number": 12,
+      "content": "You're a health-conscious person and want nutritious options."
+     },
+     {
+      "number": 13,
+      "content": "You're a book lover and want a cafe with a library."
+     },
+     {
+      "number": 14,
+      "content": "You're a traveler and want to try local cuisine."
+     }
+    ],
+    "title": "PART 2",
+    "answers": {
+     "7": [
+      "A"
+     ],
+     "8": [
+      "D"
+     ],
+     "9": [
+      "G"
+     ],
+     "10": [
+      "B"
+     ],
+     "11": [
+      "J"
+     ],
+     "12": [
+      "H"
+     ],
+     "13": [
+      "E"
+     ],
+     "14": [
+      "C"
+     ]
+    },
+    "questions": [
+     {
+      "id": 7,
+      "textNumber": 7
+     },
+     {
+      "id": 8,
+      "textNumber": 8
+     },
+     {
+      "id": 9,
+      "textNumber": 9
+     },
+     {
+      "id": 10,
+      "textNumber": 10
+     },
+     {
+      "id": 11,
+      "textNumber": 11
+     },
+     {
+      "id": 12,
+      "textNumber": 12
+     },
+     {
+      "id": 13,
+      "textNumber": 13
+     },
+     {
+      "id": 14,
+      "textNumber": 14
+     }
+    ],
+    "partNumber": 2,
+    "statements": [
+     {
+      "text": "THE GREEN BEAN CAFE. We specialize in vegan and vegetarian cuisine with fresh, locally-sourced ingredients.",
+      "letter": "A"
+     },
+     {
+      "text": "THE BEAN ROASTERY. We roast our own coffee beans for a true coffee connoisseur experience.",
+      "letter": "B"
+     },
+     {
+      "text": "THE LOCAL FLAVOR CAFE. We serve authentic local dishes and drinks for a true taste of the area.",
+      "letter": "C"
+     },
+     {
+      "text": "THE STUDY CAFE. Our cozy atmosphere and free Wi-Fi make us the perfect spot for studying and working.",
+      "letter": "D"
+     },
+     {
+      "text": "THE BOOKWORM CAFE. Browse our collection of books while enjoying coffee and pastries.",
+      "letter": "E"
+     },
+     {
+      "text": "THE PARTY CAFE. We have a DJ and dance floor for a fun night out with friends.",
+      "letter": "F"
+     },
+     {
+      "text": "THE CANDLELIT CAFE. Enjoy a candlelit dinner with your loved one in our intimate and cozy cafe.",
+      "letter": "G"
+     },
+     {
+      "text": "THE FRESH BITES CAFE. We specialize in fresh, locally-sourced ingredients with various recipes. There are vegetarian options too.",
+      "letter": "H"
+     },
+     {
+      "text": "THE KIDS CORNER CAFE. Our menu has options for both kids and adults, and we have a play area for children.",
+      "letter": "I"
+     },
+     {
+      "text": "THE PAWSOME CAFE. We welcome pets and have a special menu just for them!",
+      "letter": "J"
+     }
+    ],
+    "instruction": "Read the texts 7-14 and the statements A-J. Decide which text matches the situation described in the statements. Each statement can be used ONCE only. There are TWO extra statements which you do not need to use.",
+    "explanations": {},
+    "questionRange": "7-14",
+    "extraStatements": [
+     "F",
+     "I"
+    ],
+    "statementsFirst": false
+   },
+   {
+    "type": "matching-headings",
+    "title": "PART 3",
+    "answers": {
+     "15": [
+      "C"
+     ],
+     "16": [
+      "F"
+     ],
+     "17": [
+      "G"
+     ],
+     "18": [
+      "A"
+     ],
+     "19": [
+      "D"
+     ],
+     "20": [
+      "H"
+     ]
+    },
+    "passage": {
+     "title": "List of Headings",
+     "paragraphs": [
+      {
+       "number": "I",
+       "content": "Nowadays, potatoes are the 'in' thing so far as health is concerned. In the 60s and 70s we were told to avoid them at all costs for fear of getting fat, but now they have been reinvented by the dieticians as a source of fibre and vitamins. Sensible people, like you and me, have always eaten them because they taste so good.",
+       "questionId": 15
+      },
+      {
+       "number": "II",
+       "content": "Organizing a holiday isn't the easiest task in the world; there are so many things to think about. Let's keep it simple by assuming that there's no overseas travel to arrange. That doesn't mean that you can also forget about injections and other health precautions entirely. What about sun blocker? What about regular medication prescribed by your doctor? My point, quite frankly, is that planning a holiday can be a real pain although a well-planned holiday can more than reward the pains you go to before you set out.",
+       "questionId": 16
+      },
+      {
+       "number": "III",
+       "content": "Symantec, McAfee and Trend Micro have the US market for anti-virus software sewed up between them. But here comes Russia's Kaspersky Lab trying to gain a foothold. The Moscow-based company opened a sales office outside of Boston in February and has signed up about 40 resellers. Kaspersky reacts quicker than the giants to new viruses and other forms of malware, and gets fixes out fast.",
+       "questionId": 17
+      },
+      {
+       "number": "IV",
+       "content": "Sitting in the office armchairs all-day long has become the norm for many of us. Stress and rush make us forget about regular food and stuff our stomachs with cheeseburgers and sodas, which don't do any good to our bodies. As a result, we rarely find time for exercises, gyms or balanced nutrition and it's one of the reasons why a lot of people are overweight nowadays. However, it is possible to change your lifestyle and lose your weight if you are willing to.",
+       "questionId": 18
+      },
+      {
+       "number": "V",
+       "content": "The Internet is a very effective medium for spreading ideas or news. It eliminates geographical boundaries, and Greenpeace is aware of it, and benefits from it. For instance, in 1995, Greenpeace utilised its site to publicise a route that the French use to send shipments to Japan. They also included the fax number of the French Embassy and of the newspaper Le Monde so that letters of protest could be sent.",
+       "questionId": 19
+      },
+      {
+       "number": "VI",
+       "content": "The biggest problem most people face in learning a new language is their own fear, like Stage Fear. They worry that they won't say things correctly or that they will look stupid so they don't talk at all. Don't do this. Actually, the fastest way to learn anything is to do it — again and again until you get it right. Like anything, learning English requires practice. Don't let your fear stop you from getting what you want.",
+       "questionId": 20
+      }
+     ]
+    },
+    "headings": [
+     {
+      "text": "Health Problem",
+      "letter": "A"
+     },
+     {
+      "text": "Significant Difference",
+      "letter": "B"
+     },
+     {
+      "text": "Fashions in Food",
+      "letter": "C"
+     },
+     {
+      "text": "New Weapon",
+      "letter": "D"
+     },
+     {
+      "text": "The Price of Success",
+      "letter": "E"
+     },
+     {
+      "text": "Holiday Regulations",
+      "letter": "F"
+     },
+     {
+      "text": "Strong Competitor",
+      "letter": "G"
+     },
+     {
+      "text": "Psychological Barrier",
+      "letter": "H"
+     }
+    ],
+    "questions": [
+     {
+      "id": 15,
+      "paragraphNumber": "I"
+     },
+     {
+      "id": 16,
+      "paragraphNumber": "II"
+     },
+     {
+      "id": 17,
+      "paragraphNumber": "III"
+     },
+     {
+      "id": 18,
+      "paragraphNumber": "IV"
+     },
+     {
+      "id": 19,
+      "paragraphNumber": "V"
+     },
+     {
+      "id": 20,
+      "paragraphNumber": "VI"
+     }
+    ],
+    "partNumber": 3,
+    "instruction": "Read the text and choose the correct heading for each paragraph from the list of headings below. There are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once.",
+    "explanations": {},
+    "extraHeadings": [
+     "B",
+     "E"
+    ],
+    "questionRange": "15-20"
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "PART 4",
+    "answers": {
+     "21": [
+      "C",
+      "makes natural disasters more probable."
+     ],
+     "22": [
+      "C",
+      "more negative than positive consequences."
+     ],
+     "23": [
+      "C",
+      "the overall amount of emissions must stay within a certain limit."
+     ],
+     "24": [
+      "D",
+      "is inevitable."
+     ],
+     "25": [
+      "True"
+     ],
+     "26": [
+      "False"
+     ],
+     "27": [
+      "Not Given"
+     ],
+     "28": [
+      "False"
+     ],
+     "29": [
+      "False"
+     ]
+    },
+    "passage": {
+     "title": "CATASTROPHIC CLIMATE CHANGE",
+     "content": "<p>The risk of catastrophic climate change is getting worse, according to a new study from scientists involved with the United Nations Intergovernmental Panel on Climate Change (IPCC). Threats — ranging from the destruction of coral reefs to more extreme weather events like hurricanes, droughts and floods — are becoming more likely at the temperature change already underway: as little as 1.8 degree Fahrenheit (1 degree Celsius) of warming in global average temperatures.</p><p>'Most people thought that the risks were going to be for certain species and poor people. But all of a sudden the European heatwave of 2003 comes along and kills 50,000 people; [Hurricane] Katrina comes along and there's a lot of data about the increased intensity of droughts and floods. Plus, the dramatic melting of Greenland that nobody can explain certainly has to increase your concern,' says climatologist Stephen Schneider of Stanford University, who co-authored the research published this week in the Proceedings of the National Academy of Sciences as well as in several IPCC reports. 'Everywhere we looked, there was evidence that what was believed to be likely has happened. Nature has been cooperating with climate change theory unfortunately.'</p><p>Schneider and his colleagues updated a graph, dubbed the 'burning embers,' that is designed to map the risks of damage from global warming. The initial version of the graph drawn in 2001 had the risks of climate change beginning to appear after 3.6 or 5.4 degrees F (2 to 3 degrees C) of warming, but the years since have shown that climate risks kick in with less warming.</p><p>According to the new graph, risks to 'unique and threatened systems' such as coral reefs and risks of extreme weather events become likely when temperatures rise by as little as 1.8 degrees F from 1990 levels, which is on course to occur by mid-century given the current concentrations of atmospheric greenhouse gases. In addition, risks of negative consequences such as increased droughts and the complete melting of ice caps in Greenland and Antarctica definitively outweigh any potential positives, such as longer growing seasons in countries such as Canada and Russia.</p><p>'We're definitely going to overshoot some of these temperatures where we see these very large vulnerabilities manifest,' says economist Gary Yohe of Wesleyan University in Middletown, Conn., another co-author. 'We're going to have to learn how to adapt.' Adaptation notwithstanding, Yohe and Schneider say that scientists must also figure out a way to reduce greenhouse gas emissions to reverse the heating trend to prevent further damage.</p><p>Several bills pending in Congress would set a so-called cap-and-trade policy under which an overall limit on pollution would be set — and companies with low output could sell their allowances to those that fail to cut emissions as long as the total stays within the total pollution cap. Any such federal policy would put a price on carbon dioxide pollution, which is currently free to vent into the atmosphere, Yohe note. He, however, favours a so-called carbon tax that would set a fixed price for such climate-changing pollution rather than the cap-and-trade proposals favoured by the Obama administration. 'It's a predictable price, not a thing that bounces around.'</p><p>But even with such policies in place — not only in the U.S. but across the globe — climate change is a foregone conclusion. Global average temperatures have already risen by at least 1.1 degrees Fahrenheit (0.6 degree C) and further warming of at least 0.7 degree F (0.4 degree C) is virtually certain, according to the IPCC. And a host of studies, including a recent one from the Massachusetts Institute of Technology, have shown that global warming is already worse than predicted even a few years ago. The question is: 'Will it be catastrophic or not?' 'We've dawdled, and if we dawdle more, it will get even worse,' Schneider says. 'It's time to move.'</p>"
+    },
+    "partNumber": 4,
+    "instruction": "Read the following text and choose the correct answer A, B, C, or D. Mark your answers on the answer sheet.",
+    "explanations": {},
+    "questionRange": "21-29",
+    "questionSections": [
+     {
+      "type": "mcq",
+      "title": "Questions 21-24: Multiple Choice",
+      "questions": [
+       {
+        "id": 21,
+        "text": "The current temperature change",
+        "options": [
+         {
+          "text": "is less than it was predicted.",
+          "letter": "A"
+         },
+         {
+          "text": "is too little to cause any concern.",
+          "letter": "B"
+         },
+         {
+          "text": "makes natural disasters more probable.",
+          "letter": "C"
+         },
+         {
+          "text": "has caused the catastrophic climate change.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 22,
+        "text": "Global warming has",
+        "options": [
+         {
+          "text": "only negative consequences.",
+          "letter": "A"
+         },
+         {
+          "text": "only positive consequences.",
+          "letter": "B"
+         },
+         {
+          "text": "more negative than positive consequences.",
+          "letter": "C"
+         },
+         {
+          "text": "more positive than negative consequences.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 23,
+        "text": "Cap-and-trade policy implies that",
+        "options": [
+         {
+          "text": "companies will have to cut their emissions.",
+          "letter": "A"
+         },
+         {
+          "text": "companies could sell their emissions.",
+          "letter": "B"
+         },
+         {
+          "text": "the overall amount of emissions must stay within a certain limit.",
+          "letter": "C"
+         },
+         {
+          "text": "companies will have to pay a fixed carbon tax.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 24,
+        "text": "According to the IPCC, global warming",
+        "options": [
+         {
+          "text": "is no worse than predicted a few years ago.",
+          "letter": "A"
+         },
+         {
+          "text": "will have catastrophic effect.",
+          "letter": "B"
+         },
+         {
+          "text": "is still uncertain.",
+          "letter": "C"
+         },
+         {
+          "text": "is inevitable.",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "For questions 21-24, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."
+     },
+     {
+      "type": "tfni",
+      "title": "Questions 25-29: True / False / Not Given",
+      "options": [
+       "True",
+       "False",
+       "Not Given"
+      ],
+      "questions": [
+       {
+        "id": 25,
+        "text": "The risk of catastrophic climate change is increasing."
+       },
+       {
+        "id": 26,
+        "text": "The European heatwave of 2003 caused the deaths of more than 50,000 people."
+       },
+       {
+        "id": 27,
+        "text": "The initial version of the \"burning embers\" graph showed that climate risks had already begun before 1990."
+       },
+       {
+        "id": 28,
+        "text": "According to the updated graph, risks to coral reefs become likely with a temperature rise of at least 2.0 degrees F."
+       },
+       {
+        "id": 29,
+        "text": "The IPCC predicts that global average temperatures will rise by at least 1.8 degrees F in the future."
+       }
+      ],
+      "instruction": "For questions 25-29, decide if the following statements agree with the information given in the text. Mark your answers on the answer sheet."
+     }
+    ]
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "PART 5",
+    "answers": {
+     "30": [
+      "aisles"
+     ],
+     "31": [
+      "experiments"
+     ],
+     "32": [
+      "loyalty"
+     ],
+     "33": [
+      "group"
+     ],
+     "34": [
+      "B",
+      "Make customers spend more time on shopping"
+     ],
+     "35": [
+      "A",
+      "Pretend to be a consultant for customers"
+     ]
+    },
+    "passage": {
+     "title": "THE PERSUADERS",
+     "content": "<p>We spend more time in them than we mean to, we buy 75 percent of our food from them and end up with products that we did not realize we wanted. Right from the start, supermarkets have been ahead of the game. For example, when Sainsbury introduced shopping baskets into its 1950s stores, it was a stroke of marketing genius. Now shoppers could browse and pick up items they previously would have ignored. Soon after came trolleys, and just as new roads attract more traffic, the same applied to trolley space. Pro Merlin Stone, IBM Professor of Relationship Marketing at Bristol Business School, says aisles are laid out to maximize profits. Stores pander to our money-rich, time-poor lifestyle. Low turnover products — clothes and electrical goods — are stocked at the back while high-turnover items command position at the front.</p><p>Stone believes supermarkets work hard to \"stall\" us because the more time we spend in them, the more we buy. Thus, great efforts are made to make the environment pleasant. Stores play music to relax us and some even pipe air from the in-store bakery around the shop. In the USA, fake aromas are sometimes used. The smell is both the most evocative and subliminal sense. In experiments, pleasant smells are effective in increasing our spending. A casino that fragranced only half its premise saw profit soar in the aroma-filled areas. The other success story from the supermarkets' perspective is the loyalty card. Punters may assume that they are being rewarded for their fidelity, but all the while they are trading information about their shopping habits. Loyal shoppers could be paying 30% more by sticking to their favourite shops for essential cosmetics.</p><p>No matter how savvy we think we are to their ploys, the ad industry still wins. Adverts focus on what products do or on how they make us feel. Researcher Laurette Dube, in the Journal of Advertising Research, says when attitudes are base on \"cognitive foundations\" (logical reasoning), advertisers use informative appeals. This works for products with a little emotional draw but high functionality, such as bleach. Where attitude is based on effect (i.e. emotions), ad teams try to tap into our feelings. Researchers at the University of Florida recently concluded that our emotional responses to adverts dominate over \"cognition\".</p><p>Advertisers play on our need to be safe (commercials for insurance), to belong (make a customer feel they are in the group in fashion ads) and for self-esteem (aspirational adverts). With time and space at a premium, celebrities are often used as a quick way of meeting these needs — either because the celeb epitomizes success or because they seem familiar and so make the product seem \"safe\". A survey of 4,000 campaigns found ads with celebs were 10 percent more effective than without. Humor also stimulates a rapid emotional response. Heiman Chung, writing in the International Journal of Advertising, found that funny ads were remembered for longer than straight ones. Combine humor with sexual imagery — as in Wonderbra's \"Hello Boys\" ads — and you are on to a winner.</p><p>Probably all of us could make a sale if the product was something we truly believed in, but professional salespeople are in a different league — the best of them can always sell different items to suitable customers in the best time. They do this by using very basic psychological techniques. Stripped to its simplest level, selling works by heightening the buyer's perception of how much they need a product or service. Buyers normally have certain requirements by which they will judge the suitability of a product. The seller, therefore, attempts to tease out what these conditions are and then explains how their products' benefit can meet these requirements.</p><p>Richard Hession, author of Be a Great Salesperson says it is human nature to prefer to speak rather listen, and good salespeople pander to this. They ask punters about their needs and offer to work with them to achieve their objectives. As a result, the buyer feels they are receiving a \"consultation\" rather than a sales pitch. All the while, the salesperson presents with a demeanour that takes it for granted that the sale will be made. Never will the words \"if you buy\" be used, but rather \"when you buy\".</p>"
+    },
+    "partNumber": 5,
+    "instruction": "Read the following text for questions 30-35.",
+    "explanations": {},
+    "questionRange": "30-35",
+    "questionSections": [
+     {
+      "type": "gap-fill",
+      "title": "Questions 30-33: Summary Completion",
+      "questions": [
+       {
+        "id": 30,
+        "hint": ""
+       },
+       {
+        "id": 31,
+        "hint": ""
+       },
+       {
+        "id": 32,
+        "hint": ""
+       },
+       {
+        "id": 33,
+        "hint": ""
+       }
+      ],
+      "instruction": "For questions 30-33, fill in the missing information in the numbered spaces. Write no more than ONE WORD and / or A NUMBER for each question.",
+      "summaryText": "<p>Trolleys are born for the increasing traffic in the supermarket. The width of <span class=\"gap-input\" data-gap=\"30\">_____(30)_____</span> in supermarkets is broadened in order to generate the most profits. Research from <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span>, satisfying aromas can motivate people to buy more products. Except for the effort of creating a comfortable surrounding, loyalty card is another card that supermarkets play to reward their regular customers. For example, loyal customers spend 30% more in their loved shops for everyday necessary <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span>. Clothes shops use advertisements to make the buyer think they are belonging to part of a <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span>; research from 4,000 campaigns reflect that humor advertisement received more emotional respect.</p>"
+     },
+     {
+      "type": "mcq",
+      "title": "Questions 34-35: Multiple Choice",
+      "questions": [
+       {
+        "id": 34,
+        "text": "What is the supermarket's purpose of using \"basket\" in paragraph A?",
+        "options": [
+         {
+          "text": "Create a convenient atmosphere of supermarket",
+          "letter": "A"
+         },
+         {
+          "text": "Make customers spend more time on shopping",
+          "letter": "B"
+         },
+         {
+          "text": "Relieve pressure on the supermarket's traffic",
+          "letter": "C"
+         },
+         {
+          "text": "More than half items bought need to be carried",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 35,
+        "text": "What's the opinion of Richard Hession?",
+        "options": [
+         {
+          "text": "Pretend to be a consultant for customers",
+          "letter": "A"
+         },
+         {
+          "text": "Prefer to speak a lot to customers",
+          "letter": "B"
+         },
+         {
+          "text": "Help buyers to choose their items",
+          "letter": "C"
+         },
+         {
+          "text": "Show great example for people",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "For questions 34-35, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."
+     }
+    ]
+   }
+  ],
+  "source": null,
+  "examDate": "2026-06-01",
+  "examType": "cefr-reading",
+  "testInfo": {
+   "id": "cefr-reading-52",
+   "level": "B2",
+   "title": "CEFR Reading Mock Test 52",
+   "totalTime": 60,
+   "totalQuestions": 35
+  },
+  "mockNumber": 52
+ },
+ "created_at": "2026-06-01T16:57:44.605999+00:00",
+ "updated_at": "2026-10-11T10:54:25.762211+00:00"
+}

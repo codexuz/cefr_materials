@@ -1,0 +1,569 @@
+{
+ "id": 81,
+ "mock_type": "cefr-writing",
+ "mock_number": 71,
+ "title": "CEFR Writing Mock 71",
+ "status": "published",
+ "mock_data": {
+  "part1": {
+   "chip": "health",
+   "topic": "Dental clinic"
+  },
+  "tasks": {
+   "t2": {
+    "chip": "food",
+    "genre": "forum",
+    "title": "Junk food advertising be banned",
+    "prompt": "You are participating in an online discussion forum. The topic is: \"Should junk food advertising be banned?\" Write your response, giving reasons and examples. Write 180–200 words.",
+    "sample": "<p><span class=\"ml-token colloc\">Junk food advertising</span> is everywhere, influencing our eating habits. I <span class=\"ml-token adv\">strongly</span> believe such advertising <span class=\"ml-token modal\">should</span> be banned or <span class=\"ml-token adv\">heavily</span> restricted.</p>\n\n<p><span class=\"ml-token adv\">Firstly</span>, <span class=\"ml-token colloc\">fast food advertisements</span> contribute to the <span class=\"ml-token colloc\">obesity epidemic</span>. These ads make <span class=\"ml-token colloc\">unhealthy foods</span> appear attractive and desirable, especially to children who cannot distinguish advertising from information. Countries with <span class=\"ml-token colloc\">advertising restrictions</span> have seen improvements in <span class=\"ml-token colloc\">public health</span>.</p>\n\n<p><span class=\"ml-token adv\">Secondly</span>, junk food companies spend billions on advertising while <span class=\"ml-token colloc\">healthy food</span> producers cannot compete. This creates an uneven playing field where processed foods dominate our <span class=\"ml-token colloc\">food environment</span>.</p>\n\n<p><span class=\"ml-token adv\">However</span>, opponents argue this limits <span class=\"ml-token colloc\">freedom of choice</span> and harms businesses. <span class=\"ml-token adv\">Nevertheless</span>, we already restrict advertising for cigarettes and alcohol for <span class=\"ml-token colloc\">public health reasons</span>. Junk food causes similar health problems.</p>\n\n<p><span class=\"ml-token adv\">Furthermore</span>, banning advertising doesn't ban the products – people can still choose to buy them. It simply removes <span class=\"ml-token colloc\">manipulative marketing</span> that exploits psychological weaknesses.</p>\n\n<p><span class=\"ml-token adv\">In conclusion</span>, <span class=\"ml-token colloc\">junk food advertising</span> bans <span class=\"ml-token modal\">would</span> protect <span class=\"ml-token colloc\">public health</span>, especially children's health, without removing personal choice.</p>",
+    "target": "180–200 words",
+    "sampleA1": "<p>Junk food? Bad. <br> Ads? Bad. <br> No ads! <br> I no like junk food.</p>",
+    "sampleA2": "<p>I think junk food is not good. <br> The ads are on TV and they are bad for kids. <br> Kids like the ads and they want to eat junk food. <br> It is not healthy. <br> Maybe no more ads because it is bad for health.</p>",
+    "sampleB1": "<p>I think advertising for junk food should be stopped. <br> It's not good for people, especially children, because they see the ads and they want to eat unhealthy things. <br> For example, there are many ads for sweets and crisps. <br> These foods are not good for your health. <br> Also, these companies spend a lot of money on advertising, so it's difficult for healthy food to compete. <br> However, some people say it's their choice what they eat. <br> In my opinion, it's important to protect people from unhealthy advertising.</p>",
+    "sampleB2": "Great topic — this is something I <span class=\"ml-token colloc\">feel really strongly about</span>!\nIn my opinion, <span class=\"ml-token colloc\">junk food advertising</span> should definitely be banned, or at least <span class=\"ml-token colloc\">heavily restricted</span>. The main problem is that these ads target children, who can't tell the difference between a genuine message and clever marketing. Bright colours, catchy jingles and free toys make unhealthy food look irresistible, and this is fuelling the <span class=\"ml-token colloc\">obesity epidemic</span> we see today.\nSome of you might argue that a ban takes away our <span class=\"ml-token colloc\">freedom of choice</span>. I understand that point, but we already ban advertising for cigarettes and alcohol, so why should junk food be any different? Banning the ads wouldn't stop anyone buying a burger — it would simply stop companies <span class=\"ml-token idiom\">pushing it down our throats</span>.\n<span class=\"ml-token linking\">On top of that</span>, healthy food producers can't compete with the millions that fast food chains pour into marketing. A ban would <span class=\"ml-token idiom\">level the playing field</span> and give people a fair chance to make better choices.\nWhat do you all think? Has anyone here actually changed their <span class=\"ml-token colloc\">eating habits</span> because of an advert? I'd love to hear your views!\nDilnoza Karimova",
+    "uzSample": "<p>Zararli ovqatlar reklamasi hamma joyda bo'lib, bizning ovqatlanish odatlarimizga ta'sir qilmoqda. Men bunday reklamalarni taqiqlash yoki qattiq cheklash kerak, deb hisoblayman.</p>\n\n<p>Birinchidan, tez tayyorlanadigan ovqatlar reklamasi semizlik epidemiyasiga hissa qo'shadi. Bu reklamalar sog'lom bo'lmagan ovqatlarni jozibali va istakli ko'rsatadi, ayniqsa reklamani ma'lumotdan ajrata olmaydigan bolalar uchun. Reklama cheklovlari bo'lgan mamlakatlarda aholi salomatligida yaxshilanishlar kuzatildi.</p>\n\n<p>Ikkinchidan, zararli ovqatlar kompaniyalari reklamaga milliardlab dollar sarflaydi, sog'lom oziq-ovqat ishlab chiqaruvchilari esa raqobatlasha olmaydi. Bu bizning oziq-ovqat muhitimizda qayta ishlangan ovqatlar hukmronlik qiladigan notekis vaziyatni yaratadi.</p>\n\n<p>Biroq, qarshilar buni tanlash erkinligini cheklaydi va biznesga zarar yetkazadi, deb ta'kidlaydi. Shunga qaramay, biz allaqachon aholi salomatligi sabablari tufayli sigaret va alkogol reklamalarini cheklaymiz. Zararli ovqatlar ham shunga o'xshash sog'liq muammolarini keltirib chiqaradi.</p>\n\n<p>Bundan tashqari, reklamani taqiqlash mahsulotlarni taqiqlamaydi - odamlar ularni sotib olishni tanlashi mumkin. Bu shunchaki psixologik zaifliklardan foydalanadigan manipulyativ marketingni olib tashlaydi.</p>\n\n<p>Xulosa qilib aytganda, zararli ovqatlar reklamasi taqiqlari shaxsiy tanlovni olib tashlamasdan, aholi salomatligini, ayniqsa bolalar salomatligini himoya qiladi.</p>",
+    "uzSampleA1": "<p>Tez tayyorlanadigan ovqatlar? Yomon. <br> Reklamalar? Yomon. <br> Reklama yo'q! <br> Menga tez tayyorlanadigan ovqatlar yoqmaydi.</p>",
+    "uzSampleA2": "<p>Menimcha, zararli ovqat yaxshi emas. <br> Reklamalar televizorda va ular bolalar uchun yomon. <br> Bolalarga reklamalar yoqadi va ular zararli ovqat yeyishni xohlashadi. <br> Bu sog'lom emas. <br> Ehtimol, endi reklamalar bo'lmasligi kerak, chunki bu sog'liq uchun yomon.</p>",
+    "uzSampleB1": "<p>Menimcha, zararli ovqatlar reklamasi to'xtatilishi kerak. <br> Bu odamlar uchun, ayniqsa bolalar uchun yaxshi emas, chunki ular reklamalarni ko'rishadi va zararli narsalarni yeyishni xohlashadi. <br> Misol uchun, shirinliklar va chips reklamalari juda ko'p. <br> Bu ovqatlar sizning sog'lig'ingiz uchun yaxshi emas. <br> Shuningdek, bu kompaniyalar reklamaga juda ko'p pul sarflashadi, shuning uchun sog'lom ovqatlar raqobat qilishlari qiyin. <br> Biroq, ba'zi odamlar nima yeyish ularning tanlovi deyishadi. <br> Mening fikrimcha, odamlarni zararli reklamadan himoya qilish muhim.</p>",
+    "uzSampleB2": "<p>Tez tayyorlanadigan ovqatlar reklamalarining keng tarqalishi jiddiy xavotirlarni uyg'otadi. Menimcha, ularni taqiqlash yoki sezilarli darajada cheklash uchun jiddiy asos bor. <br>Bu reklamalar ko'pincha zaif guruhlarni, ayniqsa bolalarni nishonga oladi, sog'lom bo'lmagan mahsulotlarni targ'ib qilish uchun jozibali vizual va chalg'ituvchi da'volardan foydalanadi. Bu noto'g'ri ovqatlanish odatlariga, semizlik va unga bog'liq kasalliklar darajasining oshishiga olib keladi. <br>Bundan tashqari, tez tayyorlanadigan ovqatlar reklamalarining haddan tashqari ko'pligi sog'lomroq alternativalarni targ'ib qiluvchi xabarlarni yo'qqa chiqaradi. Bu sog'lom bo'lmagan tanlovlar normal va istalgan bo'lib ko'rinadigan muhitni yaratadi. <br>Albatta, ba'zilar reklama taqiqlanishi tanlash erkinligini buzadi, deb ta'kidlaydi. Biroq, xuddi tamaki va alkogol reklamalarini tartibga solganimiz kabi, biz jamoat salomatligiga aniq zarar yetkazadigan mahsulotlarni targ'ib qilishni ham tartibga solishimiz kerak. Taqiqlash tanlovni butunlay yo'q qilmaydi, lekin u o'yin qoidalarini tenglashtiradi va iste'molchilarga yanada asosli qarorlar qabul qilish imkoniyatini beradi. Oxir oqibat, jamoat salomatligiga keltiriladigan foyda potentsial kamchiliklardan ustun turadi.</p>"
+   },
+   "t11": {
+    "title": "informal letter · to friend",
+    "prompt": "Write a letter to your friend, who is nervous about visiting the dentist. Write about your feelings and what you think they should do.",
+    "sample": "Hey!\n\nI know you've been <span class=\"ml-token phrasal\">putting off</span> that dentist appointment. I <span class=\"ml-token adv\">totally</span> understand – I was nervous too! But I <span class=\"ml-token adv\">just</span> went to BrightSmile and they were <span class=\"ml-token adv\">so</span> gentle and reassuring. The staff made me feel <span class=\"ml-token adv\">completely</span> relaxed. You <span class=\"ml-token modal\">should</span> <span class=\"ml-token adv\">definitely</span> try them!\n\n<span class=\"ml-token phrasal\">Take care</span>!",
+    "target": "50–70 words",
+    "sampleA1": "<p>Hi Gulchehra,<br>Dentist good. No scary! Staff nice. You go. Bye.</p>",
+    "sampleA2": "<p>Hi Gulchehra,<br>I went to the dentist. It was okay. I was scared, but it was not bad. The dentist was nice and the place was clean. You should go because it is important for your teeth. See you soon!</p>",
+    "sampleB1": "<p>Hi Gulchehra,<br>I know you're worried about going to the dentist. I felt the same way before my appointment! But honestly, it wasn't as bad as I thought. I went to a new clinic, BrightSmile, and they were really good. I think you should try them. It's important to take care of your teeth, and it's better to go sooner rather than later. Hope this helps!</p>",
+    "sampleB2": "Hi Gulchehra,\nI heard you've been <span class=\"ml-token colloc\">dreading</span> your dentist appointment — honestly, don't worry! I felt exactly the same before I went to BrightSmile last week, but the staff were <span class=\"ml-token adv\">so friendly</span> and it was <span class=\"ml-token colloc\">completely painless</span>. They <span class=\"ml-token phrasal\">talk you through</span> everything, so there's <span class=\"ml-token idiom\">nothing to worry about</span>. Just book it and <span class=\"ml-token idiom\">get it over with</span>. You'll feel so much better afterwards!\n<span class=\"ml-token phrasal\">Take care</span>,\nDilnoza Karimova",
+    "uzSample": "<p>Salom!</p>\n<p>Bilaman, tish doktori qabuliga borishni kechiktiryapsan. Seni butunlay tushunaman – men ham asabiylashgandim! Ammo men yaqinda BrightSmilega bordim va ular juda muloyim va ishontiruvchi edilar. Xodimlar meni butunlay xotirjam his qildirishdi. Albatta, ularni sinab ko'rishing kerak!</p>\n<p>O'zingni asra!</p>",
+    "uzSampleA1": "<p>Salom, Gulchehra,<br>Tish shifokori yaxshi. Qo'rqinchli emas! Xodimlar yaxshi. Sen bor. Xayr.</p>",
+    "uzSampleA2": "<p>Salom, Gulchehra,<br>Men tish shifokoriga bordim. Yaxshi bo'ldi. Men qo'rqqan edim, lekin yomon emas edi. Tish shifokori yaxshi edi va joy toza edi. Siz borishingiz kerak, chunki bu sizning tishlaringiz uchun muhim. Ko'rishguncha!</p>",
+    "uzSampleB1": "<p>Salom Gulchehra,<br>Bilaman, tish shifokoriga borishdan xavotirdasiz. Men ham uchrashuvimdan oldin xuddi shunday his qilgandim! Lekin rostini aytsam, men o'ylaganchalik yomon emas edi. Men yangi klinika, BrightSmilega bordim va ular juda yaxshi edi. O'ylaymanki, siz ularni sinab ko'rishingiz kerak. Tishlaringizga g'amxo'rlik qilish muhim va keyinroq borishdan ko'ra, erta borgan yaxshiroq. Umid qilaman, bu yordam beradi!</p>",
+    "uzSampleB2": "<p>Salom Gulchehra,<br>Eshitishimcha, yaqinlashib kelayotgan stomatologga borishingdan qo'rqayotgan ekansan, men seni butunlay tushunaman! Yaqinda men ham o'zimni qo'lga olib, yangi klinika, BrightSmilega borishimga to'g'ri keldi. Men juda xursand bo'ldim. Atmosfera tinchlantiruvchi edi va xodimlar juda sabrli bo'lib, hamma narsani aniq tushuntirishdi. Bilaman, sen xavotirdasan, lekin mening ijobiy tajribam borligini bilish sening tashvishlaringni yengillashtirishi mumkin. Men ularga murojaat qilishni tavsiya qilaman; profilaktika juda muhim va uni kechiktirish uzoq muddatda vaziyatni yanada yomonlashtiradi.<br>Eng yaxshi tilaklar bilan,<br>Javohir Tojiyev</p>"
+   },
+   "t12": {
+    "title": "formal letter · to recipient",
+    "prompt": "Write a letter to the dental clinic. Write about your feelings and what you think they should do.",
+    "sample": "Dear BrightSmile Team,\n\nThank you for asking about my recent <span class=\"ml-token colloc\">dental appointment</span>.\n\nI was <span class=\"ml-token adv\">pleasantly</span> surprised by my experience. The clinic was <span class=\"ml-token adv\">spotlessly</span> clean and modern. Your receptionist was <span class=\"ml-token adv\">incredibly</span> welcoming, which helped calm my nerves. The dentist explained every procedure <span class=\"ml-token adv\">clearly</span> and was <span class=\"ml-token adv\">very</span> gentle throughout.\n\n<span class=\"ml-token adv\">However</span>, I have some suggestions. The <span class=\"ml-token colloc\">waiting time</span> was longer than expected despite having an appointment. I <span class=\"ml-token modal\">would</span> suggest implementing a <span class=\"ml-token colloc\">text notification system</span> to alert patients when the dentist is ready.\n\n<span class=\"ml-token adv\">Additionally</span>, I <span class=\"ml-token modal\">would</span> appreciate if you offered <span class=\"ml-token colloc\">teeth whitening packages</span> and <span class=\"ml-token colloc\">flexible payment plans</span> for expensive treatments. Evening appointments <span class=\"ml-token modal\">would</span> also be helpful for working patients.\n\n<span class=\"ml-token adv\">Overall</span>, I am <span class=\"ml-token adv\">very</span> satisfied and <span class=\"ml-token modal\">will</span> return for my next check-up.\n\nYours sincerely,\nJavohir Tojiyev",
+    "target": "120–150 words",
+    "sampleA1": "<p>Hi BrightSmile!</p><br><p>I come to your clinic. It is good. The doctor is nice. I like the chair. Thank you. Bye!</p>",
+    "sampleA2": "<p>Hello BrightSmile,</p><br><p>Thank you for the email. My visit was good. The clinic is clean and the people are nice. I liked the doctor. But the waiting was long. Maybe you can make it faster. And more chairs in the waiting room. Thank you!</p><br><p>Bye,</p><br><p>Javohir Tojiyev</p>",
+    "sampleB1": "<p>Dear BrightSmile Team,</p><br><p>Thank you for your email. I'm writing to tell you about my visit to your clinic. I think the clinic is very nice and clean. The staff were also very friendly and helpful. The dentist explained everything very well, which I appreciated.</p><br><p>However, I think there are some things you could improve. For example, it was difficult to find parking. Also, I think you should offer more magazines to read while waiting. In my opinion, this would make the experience better.</p><br><p>Overall, I had a good experience. Thank you for your service.</p><br><p>Sincerely,<br>Javohir Tojiyev</p>",
+    "sampleB2": "Dear BrightSmile Team,\nThank you for your email asking about my recent visit to your clinic.\nOverall, I was very impressed with my experience. Your facilities were <span class=\"ml-token colloc\">spotlessly clean</span> and modern, and I felt <span class=\"ml-token idiom\">at ease</span> from the moment I walked in. The staff were <span class=\"ml-token colloc\">warm and welcoming</span>, and the dentist took the time to explain each step of the treatment, which really <span class=\"ml-token idiom\">put my mind at rest</span>.\nThe booking system was straightforward and easy to use, so I have no complaints there. However, <span class=\"ml-token modal\">I would suggest</span> a couple of improvements. It would be great if you could offer <span class=\"ml-token colloc\">evening appointments</span> for those of us who work full-time, as well as <span class=\"ml-token colloc\">flexible payment plans</span> for more expensive treatments.\n<span class=\"ml-token linking\">All in all</span>, I was thoroughly satisfied and will happily recommend you to my friends and family.\nYours sincerely,\nDilnoza Karimova",
+    "uzSample": "<p>Hurmatli BrightSmile jamoasi,</p>\n<p>Yaqinda bo'lib o'tgan tish davolashim haqida so'raganingiz uchun rahmat.</p>\n<p>Men tajribamdan juda mamnun bo'ldim. Klinika juda toza va zamonaviy edi. Qabulxonangizdagi xodim juda xushmuomala bo'lib, bu asablarimni tinchlantirishga yordam berdi. Tish shifokori har bir muolajani aniq tushuntirdi va davolanish davomida juda ehtiyotkor edi.</p>\n<p>Biroq, mening ba'zi takliflarim bor. Belgilangan vaqtimga qaramay, kutish vaqti kutilganidan uzoqroq bo'ldi. Shifokor tayyor bo'lganda bemorlarni ogohlantirish uchun SMS xabarnoma tizimini joriy etishni taklif qilaman.</p>\n<p>Bundan tashqari, agar siz tishni oqartirish paketlarini va qimmat davolash usullari uchun moslashuvchan to'lov rejalarini taklif qilsangiz, minnatdor bo'lardim. Kechki qabullar ishlaydigan bemorlar uchun ham foydali bo'lar edi.</p>\n<p>Umuman olganda, men juda mamnunman va keyingi tekshiruvim uchun albatta qaytib kelaman.</p>\n<p>Hurmat bilan,</p>\n<p>Javohir Tojiyev</p>",
+    "uzSampleA1": "<p>Salom, BrightSmile!</p><br><p>Men sizning klinikangizga kelaman. Yaxshi. Doktor yaxshi. Menga stul yoqadi. Rahmat. Xayr!</p>",
+    "uzSampleA2": "<p>Salom BrightSmile,</p><br><p>Elektron pochta uchun rahmat. Mening tashrifim yaxshi bo'ldi. Klinika toza va odamlar yaxshi. Menga doktor yoqdi. Lekin kutish uzoq bo'ldi. Balki siz buni tezroq qilishingiz mumkin. Va kutish xonasida ko'proq stullar bo'lsin. Rahmat!</p><br><p>Xayr,</p><br><p>Javohir Tojiyev</p>",
+    "uzSampleB1": "<p>Hurmatli BrightSmile jamoasi,</p><br><p>Elektron pochtangiz uchun rahmat. Sizga klinikangizga tashrifim haqida aytib bermoqchiman. O'ylashimcha, klinika juda yaxshi va toza. Xodimlar ham juda do'stona va yordam berishga tayyor edilar. Stomatolog hamma narsani juda yaxshi tushuntirdi, bu menga juda yoqdi.</p><br><p>Biroq, o'ylaymanki, siz yaxshilashingiz mumkin bo'lgan ba'zi narsalar bor. Masalan, mashina qo'yish joyini topish qiyin edi. Shuningdek, kutish vaqtida o'qish uchun ko'proq jurnallar taklif qilishingiz kerak deb o'ylayman. Mening fikrimcha, bu tajribani yanada yaxshilaydi.</p><br><p>Umuman olganda, men yaxshi tajribaga ega bo'ldim. Xizmatlaringiz uchun rahmat.</p><br><p>Hurmat bilan,<br>Javohir Tojiyev</p>",
+    "uzSampleB2": "<p>Hurmatli BrightSmile jamoasi,</p><br><p>Yaqinda bo'lib o'tgan uchrashuvim bo'yicha kuzatuv xatingiz uchun rahmat. Klinikangizdagi tajribam haqida fikr-mulohazalarimni bildirish uchun yozmoqdaman.</p><br><p>Umuman olganda, sharoitlar meni hayratga soldi; klinika zamonaviy va yaxshi saqlangan ko'rinardi. Xodimlar xushmuomala va professional edilar, bu esa ijobiy muhit yaratdi. Stomatolog tekshiruvni puxta o'tkazdi va taklif qilingan davolash rejasini aniq tushuntirdi.</p><br><p>Biroq, yaxshilanishi mumkin bo'lgan bir nechta sohalar mavjud. Birinchidan, onlayn bron qilish tizimi, ishlayotgan bo'lsa-da, yanada qulayroq bo'lishi mumkin. Men uni navigatsiya qilishda biroz chalkash deb topdim. Ikkinchidan, kechikishlar bo'lishi mumkinligini tushunsam ham, uchrashuvim taxminan 20 daqiqa kechikib boshlandi. Ehtimol, uchrashuv vaqtlarini aniqroq baholash foydali bo'lar edi.</p><br><p>Bundan tashqari, agar siz klinika ichida og'iz gigienasi mahsulotlarining kengroq assortimentini sotsangiz, foydali bo'lardi. Masalan, tishlararo cho'tkalar va ftorli og'iz chayish vositalarining tanlovi qimmatli qo'shimcha bo'lardi.</p><br><p>Xulosa qilib aytganda, men olgan xizmatimdan mamnun bo'ldim va kelajakdagi uchrashuvlar uchun qaytib kelishni o'ylab ko'raman. Ushbu takliflarga e'tiboringiz uchun rahmat.</p><br><p>Hurmat bilan,<br>Javohir Tojiyev</p>"
+   },
+   "p1_context": "You recently visited a new dental clinic for a check-up.",
+   "p1_scenario": "Dear Patient,\n\nThank you for choosing BrightSmile Dental Clinic for your dental care! We hope your visit was comfortable.\nHow did you find our facilities and the friendliness of our staff? Was the appointment booking system convenient?\nWhat additional services would you like us to offer to improve your experience?\n\nBrightSmile Team"
+  },
+  "examDate": "2026-03-04",
+  "settings": {
+   "logoUrl": "https://audio.mock-stream.com/img/ibb/WN0XY5Lv/logo.png",
+   "heading1": "Bilim va malakalarni baholash agentligi",
+   "heading2": "Chet tilini bilish darajasi",
+   "examTitle": "Writing exam",
+   "logoWording": "Mock Stream",
+   "testIdentifier": "mock_stream"
+  },
+  "vocabulary": {
+   "task2": [
+    {
+     "en": "junk food advertising",
+     "uz": "zararli ovqat reklamasi"
+    },
+    {
+     "en": "fast food advertisements",
+     "uz": "tez taom reklamalari"
+    },
+    {
+     "en": "obesity epidemic",
+     "uz": "semizlik epidemiyasi"
+    },
+    {
+     "en": "unhealthy foods",
+     "uz": "nosog'lom ovqatlar"
+    },
+    {
+     "en": "advertising restrictions",
+     "uz": "reklama cheklovlari"
+    },
+    {
+     "en": "public health",
+     "uz": "jamoat salomatligi"
+    },
+    {
+     "en": "healthy food",
+     "uz": "sog'lom ovqat"
+    },
+    {
+     "en": "food environment",
+     "uz": "oziq-ovqat muhiti"
+    },
+    {
+     "en": "freedom of choice",
+     "uz": "tanlov erkinligi"
+    },
+    {
+     "en": "public health reasons",
+     "uz": "jamoat salomatligi sabablari"
+    },
+    {
+     "en": "manipulative marketing",
+     "uz": "manipulyativ marketing"
+    },
+    {
+     "en": "psychological weaknesses",
+     "uz": "psixologik zaifliklar"
+    },
+    {
+     "en": "children's health",
+     "uz": "bolalar salomatligi"
+    },
+    {
+     "en": "personal choice",
+     "uz": "shaxsiy tanlov"
+    },
+    {
+     "en": "heavily restricted",
+     "uz": "qattiq cheklangan"
+    },
+    {
+     "en": "uneven playing field",
+     "uz": "tengsiz maydon"
+    },
+    {
+     "en": "processed foods",
+     "uz": "qayta ishlangan ovqatlar"
+    },
+    {
+     "en": "health problems",
+     "uz": "salomatlik muammolari"
+    },
+    {
+     "en": "in conclusion",
+     "uz": "xulosa qilib aytganda"
+    },
+    {
+     "en": "strongly believe",
+     "uz": "qat'iy ishonamanki"
+    }
+   ],
+   "task11": [
+    {
+     "en": "dental clinic",
+     "uz": "stomatologiya klinikasi"
+    },
+    {
+     "en": "putting off",
+     "uz": "kechiktirmoq"
+    },
+    {
+     "en": "nervous about",
+     "uz": "asabiylashmoq"
+    },
+    {
+     "en": "gentle and reassuring",
+     "uz": "muloyim va ishonchli"
+    },
+    {
+     "en": "completely relaxed",
+     "uz": "to'liq xotirjam"
+    },
+    {
+     "en": "definitely try",
+     "uz": "albatta sinab ko'ring"
+    },
+    {
+     "en": "take care",
+     "uz": "o'zingizga g'amxo'rlik qiling"
+    },
+    {
+     "en": "dentist appointment",
+     "uz": "stomatolog uchrashuvi"
+    },
+    {
+     "en": "dental check-up",
+     "uz": "tish tekshiruvi"
+    },
+    {
+     "en": "friendly staff",
+     "uz": "do'stona xodimlar"
+    },
+    {
+     "en": "modern equipment",
+     "uz": "zamonaviy jihozlar"
+    },
+    {
+     "en": "painless treatment",
+     "uz": "og'riqsiz davolash"
+    },
+    {
+     "en": "highly recommend",
+     "uz": "qattiq tavsiya qilmoq"
+    },
+    {
+     "en": "nothing to worry about",
+     "uz": "xavotirlanishga hojat yo'q"
+    },
+    {
+     "en": "professional care",
+     "uz": "professional parvarish"
+    },
+    {
+     "en": "comfortable experience",
+     "uz": "qulay tajriba"
+    },
+    {
+     "en": "clean facilities",
+     "uz": "toza sharoitlar"
+    },
+    {
+     "en": "worth visiting",
+     "uz": "tashrif buyurishga arziydi"
+    },
+    {
+     "en": "let me know",
+     "uz": "menga xabar bering"
+    },
+    {
+     "en": "good luck",
+     "uz": "omad tilayman"
+    }
+   ],
+   "task12": [
+    {
+     "en": "dental appointment",
+     "uz": "stomatolog uchrashuvi"
+    },
+    {
+     "en": "waiting time",
+     "uz": "kutish vaqti"
+    },
+    {
+     "en": "text notification system",
+     "uz": "matnli xabar tizimi"
+    },
+    {
+     "en": "teeth whitening packages",
+     "uz": "tishlarni oqartirish paketlari"
+    },
+    {
+     "en": "flexible payment plans",
+     "uz": "moslashuvchan to'lov rejalari"
+    },
+    {
+     "en": "pleasantly surprised",
+     "uz": "yoqimli hayratda qoldim"
+    },
+    {
+     "en": "spotlessly clean",
+     "uz": "dog'siz toza"
+    },
+    {
+     "en": "incredibly welcoming",
+     "uz": "juda mehribon"
+    },
+    {
+     "en": "calm my nerves",
+     "uz": "asabimni tinchlantirmoq"
+    },
+    {
+     "en": "explained clearly",
+     "uz": "aniq tushuntirdi"
+    },
+    {
+     "en": "very gentle",
+     "uz": "juda muloyim"
+    },
+    {
+     "en": "longer than expected",
+     "uz": "kutilganidan uzunroq"
+    },
+    {
+     "en": "I would suggest",
+     "uz": "Men taklif qilardim"
+    },
+    {
+     "en": "I would appreciate",
+     "uz": "Men minnatdor bo'lardim"
+    },
+    {
+     "en": "evening appointments",
+     "uz": "kechki uchrashuvlar"
+    },
+    {
+     "en": "working patients",
+     "uz": "ishlaydigan bemorlar"
+    },
+    {
+     "en": "very satisfied",
+     "uz": "juda mamnun"
+    },
+    {
+     "en": "next check-up",
+     "uz": "keyingi tekshiruv"
+    },
+    {
+     "en": "Yours sincerely",
+     "uz": "Hurmat bilan"
+    },
+    {
+     "en": "overall experience",
+     "uz": "umumiy tajriba"
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "so": {
+    "uz": "shunchalik",
+    "type": "adv"
+   },
+   "just": {
+    "uz": "faqat",
+    "type": "adv"
+   },
+   "very": {
+    "uz": "juda",
+    "type": "adv"
+   },
+   "will": {
+    "uz": "bo'ladi",
+    "type": "modal"
+   },
+   "would": {
+    "uz": "edi",
+    "type": "modal"
+   },
+   "should": {
+    "uz": "kerak",
+    "type": "modal"
+   },
+   "Firstly": {
+    "uz": "Birinchidan",
+    "type": "adv"
+   },
+   "However": {
+    "uz": "Biroq",
+    "type": "adv"
+   },
+   "Overall": {
+    "uz": "Umuman olganda",
+    "type": "adv"
+   },
+   "at ease": {
+    "uz": "o'zini xotirjam his qilmoq",
+    "type": "idiom"
+   },
+   "clearly": {
+    "uz": "aniq",
+    "type": "adv"
+   },
+   "heavily": {
+    "uz": "kuchli",
+    "type": "adv"
+   },
+   "totally": {
+    "uz": "butunlay",
+    "type": "adv"
+   },
+   "Secondly": {
+    "uz": "Ikkinchidan",
+    "type": "adv"
+   },
+   "dreading": {
+    "uz": "qo'rqib turmoq",
+    "type": "colloc"
+   },
+   "strongly": {
+    "uz": "qat'iy",
+    "type": "adv"
+   },
+   "Take care": {
+    "uz": "o'zingni ehtiyot qil",
+    "type": "phrasal"
+   },
+   "All in all": {
+    "uz": "umuman olganda",
+    "type": "linking"
+   },
+   "completely": {
+    "uz": "to'liq",
+    "type": "adv"
+   },
+   "definitely": {
+    "uz": "albatta",
+    "type": "adv"
+   },
+   "incredibly": {
+    "uz": "ajoyib tarzda",
+    "type": "adv"
+   },
+   "pleasantly": {
+    "uz": "yoqimli tarzda",
+    "type": "adv"
+   },
+   "spotlessly": {
+    "uz": "benuqson",
+    "type": "adv"
+   },
+   "Furthermore": {
+    "uz": "Bundan tashqari",
+    "type": "adv"
+   },
+   "putting off": {
+    "uz": "kechiktirmoq",
+    "type": "phrasal"
+   },
+   "so friendly": {
+    "uz": "juda samimiy",
+    "type": "adv"
+   },
+   "Additionally": {
+    "uz": "Qo'shimcha ravishda",
+    "type": "adv"
+   },
+   "Nevertheless": {
+    "uz": "Shunga qaramay",
+    "type": "adv"
+   },
+   "healthy food": {
+    "uz": "sog'lom ovqat",
+    "type": "colloc"
+   },
+   "waiting time": {
+    "uz": "kutish vaqti",
+    "type": "colloc"
+   },
+   "In conclusion": {
+    "uz": "Xulosa qilib aytganda",
+    "type": "adv"
+   },
+   "eating habits": {
+    "uz": "ovqatlanish odatlari",
+    "type": "colloc"
+   },
+   "public health": {
+    "uz": "jamoat salomatligi",
+    "type": "colloc"
+   },
+   "On top of that": {
+    "uz": "bundan tashqari",
+    "type": "linking"
+   },
+   "I would suggest": {
+    "uz": "men taklif qilardim",
+    "type": "modal"
+   },
+   "unhealthy foods": {
+    "uz": "zararli ovqatlar",
+    "type": "colloc"
+   },
+   "food environment": {
+    "uz": "oziq-ovqat muhiti",
+    "type": "colloc"
+   },
+   "get it over with": {
+    "uz": "ishni tugatib qo'ymoq",
+    "type": "idiom"
+   },
+   "obesity epidemic": {
+    "uz": "semizlik epidemiyasi",
+    "type": "colloc"
+   },
+   "spotlessly clean": {
+    "uz": "benuqson toza",
+    "type": "colloc"
+   },
+   "talk you through": {
+    "uz": "bosqichma-bosqich tushuntirib berish",
+    "type": "phrasal"
+   },
+   "freedom of choice": {
+    "uz": "tanlov erkinligi",
+    "type": "colloc"
+   },
+   "dental appointment": {
+    "uz": "tish shifokoriga uchrashuv",
+    "type": "colloc"
+   },
+   "heavily restricted": {
+    "uz": "qattiq cheklangan",
+    "type": "colloc"
+   },
+   "warm and welcoming": {
+    "uz": "iliq va mehmondo'st",
+    "type": "colloc"
+   },
+   "completely painless": {
+    "uz": "mutlaqo og'riqsiz",
+    "type": "colloc"
+   },
+   "put my mind at rest": {
+    "uz": "ko'nglimni tinchlantirdi",
+    "type": "idiom"
+   },
+   "evening appointments": {
+    "uz": "kechki qabullar",
+    "type": "colloc"
+   },
+   "Junk food advertising": {
+    "uz": "Zararli ovqat reklamasini",
+    "type": "colloc"
+   },
+   "junk food advertising": {
+    "uz": "zararli ovqat reklamasi",
+    "type": "colloc"
+   },
+   "public health reasons": {
+    "uz": "jamoat salomatligi sabablari",
+    "type": "colloc"
+   },
+   "flexible payment plans": {
+    "uz": "moslashuvchan to'lov rejalari",
+    "type": "colloc"
+   },
+   "manipulative marketing": {
+    "uz": "manipulyativ marketing",
+    "type": "colloc"
+   },
+   "nothing to worry about": {
+    "uz": "xavotirlanadigan narsa yo'q",
+    "type": "idiom"
+   },
+   "level the playing field": {
+    "uz": "sharoitlarni tenglashtirmoq",
+    "type": "idiom"
+   },
+   "advertising restrictions": {
+    "uz": "reklama cheklovlari",
+    "type": "colloc"
+   },
+   "fast food advertisements": {
+    "uz": "tez tayyorlanadigan ovqatlar reklamasi",
+    "type": "colloc"
+   },
+   "teeth whitening packages": {
+    "uz": "tish oqartirish paketlari",
+    "type": "colloc"
+   },
+   "text notification system": {
+    "uz": "sms xabarnoma tizimi",
+    "type": "colloc"
+   },
+   "feel really strongly about": {
+    "uz": "biror narsaga qattiq e'tiqod qilmoq",
+    "type": "colloc"
+   },
+   "pushing it down our throats": {
+    "uz": "zo'rlab qabul qildirishga urinmoq",
+    "type": "idiom"
+   }
+  }
+ },
+ "created_at": "2026-05-06T15:00:39.55124+00:00",
+ "updated_at": "2026-07-06T10:57:13.845749+00:00"
+}

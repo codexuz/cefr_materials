@@ -1,0 +1,545 @@
+{
+ "id": 37,
+ "mock_type": "cefr-writing",
+ "mock_number": 27,
+ "title": "CEFR Writing Mock 27",
+ "status": "published",
+ "mock_data": {
+  "part1": {
+   "chip": "",
+   "topic": "Mall management"
+  },
+  "tasks": {
+   "t2": {
+    "chip": "environment",
+    "genre": "article",
+    "title": "Governments invest more in renewable energy sources",
+    "prompt": "A student magazine announced an article writing contest. The best ones will be published in the magazine. Write your article on this topic: \"Should governments invest more in renewable energy sources?\" Write 180–200 words, giving reasons and examples.",
+    "sample": "<h2>Shopping Malls vs Online Shopping: A Changing Landscape</h2>\n\n<p>With the rise of <span class=\"ml-token colloc\">e-commerce</span>, many predict the death of <span class=\"ml-token colloc\">shopping malls</span>. However, I believe malls still have an important place in our lives – they just need to evolve.</p>\n\n<p><span class=\"ml-token adv\">Firstly</span>, malls offer a <span class=\"ml-token colloc\">social experience</span> that online shopping <span class=\"ml-token modal\">cannot</span> provide. People enjoy meeting friends, dining out, and <span class=\"ml-token colloc\">window shopping</span>. For many, a trip to the mall is an <span class=\"ml-token colloc\">outing</span>, not just a chore.</p>\n\n<p><span class=\"ml-token adv\">Moreover</span>, some purchases require a <span class=\"ml-token colloc\">physical experience</span>. Trying on clothes, testing electronics, or smelling perfumes <span class=\"ml-token modal\">cannot</span> be replicated online.</p>\n\n<p><span class=\"ml-token adv\">Additionally</span>, malls are <span class=\"ml-token adv\">increasingly</span> transforming into <span class=\"ml-token colloc\">entertainment hubs</span>. Those with cinemas, restaurants, and <span class=\"ml-token colloc\">event spaces</span> are thriving.</p>\n\n<p><span class=\"ml-token adv\">However</span>, malls that fail to adapt <span class=\"ml-token modal\">will</span> struggle. Offering unique experiences and services is essential.</p>\n\n<p><span class=\"ml-token adv\">Ultimately</span>, while online shopping offers <span class=\"ml-token colloc\">convenience</span>, malls offer <span class=\"ml-token colloc\">experience</span>. The most successful malls are those that understand this distinction and give shoppers reasons to visit in person.</p>",
+    "target": "180–200 words",
+    "sampleA1": "<p>Hi Mall,</p><p>I like cinema.  And food.  More food good.  Play area for kids is good.  Bye.</p>",
+    "sampleA2": "<p>Dear Mall,</p><p>I like the mall.  I want a cinema because I like movies. And I want more places to eat because I am hungry when I shop. The parking is bad, so better parking is good.  Maybe a play area for kids, but I don't have kids. Thank you.</p>",
+    "sampleB1": "<p>Dear Mall Management,</p><p>I am writing to give my opinion on the planned renovations. I think a cinema would be a great addition. Many people like to go to the movies, and it would bring more people to the mall. Also, improving the parking is very important. It's often difficult to find a space, especially on weekends. This makes me not want to visit.</p><p>I also think more restaurants would be good. There aren't enough choices now. However, I don't think a children's play area is necessary. There are already other things for kids to do. More shops would be better, especially clothes shops.</p><p>Thank you for considering my suggestions.</p>",
+    "sampleB2": "<h2>The Power to Change Our Future</h2>\n<p>Imagine a world where the air is clean and our energy never runs out. That world is <span class=\"ml-token idiom\">within reach</span> — but only if governments are willing to invest more in renewable energy sources.</p>\n<p>To begin with, fossil fuels are <span class=\"ml-token phrasal\">running out</span>, and burning them is warming the planet <span class=\"ml-token colloc\">at an alarming rate</span>. Solar, wind and hydro power, <span class=\"ml-token linking\">on the other hand</span>, are clean and virtually limitless. By pouring money into these technologies, governments can <span class=\"ml-token phrasal\">cut down on</span> harmful emissions and tackle climate change head-on.</p>\n<p><span class=\"ml-token linking\">What is more</span>, renewable energy <span class=\"ml-token colloc\">makes solid economic sense</span>. Building wind farms and solar plants creates thousands of jobs and reduces our reliance on expensive imported oil. Countries such as Denmark and Germany have already <span class=\"ml-token idiom\">reaped the benefits</span> and now export their expertise around the world.</p>\n<p>Of course, the initial costs are high, and critics argue the money could be better spent elsewhere. However, protecting our planet is an investment that will <span class=\"ml-token phrasal\">pay off</span> for generations to come.</p>\n<p>In short, governments must act now. A greener future is not a luxury — it is a necessity we simply cannot ignore.</p>",
+    "uzSample": "<h2>Savdo markazlari onlayn xaridlarga qarshi: O'zgaruvchan manzara</h2>\n\n<p>Elektron tijoratning rivojlanishi bilan ko'pchilik savdo markazlarining o'limini bashorat qilmoqda. Biroq, menimcha, savdo markazlari hali ham hayotimizda muhim o'ringa ega - ular shunchaki rivojlanishi kerak.</p>\n\n<p>Birinchidan, savdo markazlari onlayn xaridlar ta'minlay olmaydigan ijtimoiy tajribani taklif etadi. Odamlar do'stlar bilan uchrashish, ovqatlanish va vitrinalarni tomosha qilishdan zavqlanishadi. Ko'pchilik uchun savdo markaziga sayohat shunchaki uy vazifasi emas, balki sayrdir.</p>\n\n<p>Bundan tashqari, ba'zi xaridlar jismoniy tajribani talab qiladi. Kiyimni kiyib ko'rish, elektronika mahsulotlarini sinovdan o'tkazish yoki atirlarni hidlashni onlayn tarzda takrorlab bo'lmaydi.</p>\n\n<p>Bundan tashqari, savdo markazlari tobora ko'ngilochar markazlarga aylanib bormoqda. Kinoteatrlar, restoranlar va tadbirlar o'tkaziladigan joylarga ega bo'lganlar gullab-yashnamoqda.</p>\n\n<p>Biroq, moslasha olmagan savdo markazlari qiynaladi. Noyob tajribalar va xizmatlarni taklif qilish juda muhim.</p>\n\n<p>Oxir oqibat, onlayn xaridlar qulaylikni taklif qilsa-da, savdo markazlari tajribani taklif qiladi. Eng muvaffaqiyatli savdo markazlari bu farqni tushunadigan va xaridorlarga shaxsan tashrif buyurish uchun sabab beradiganlardir.</p>",
+    "uzSampleA1": "<p>Salom Mall,</p><p>Men kinoni yaxshi ko'raman. Va ovqatni. Ko'proq ovqat yaxshi. Bolalar uchun o'yin maydoni yaxshi. Xayr.</p>",
+    "uzSampleA2": "<p>Hurmatli savdo markazi,</p><p>Menga savdo markazi yoqadi. Men kinoteatr xohlayman, chunki menga filmlar yoqadi. Va men ko'proq ovqatlanish joylarini xohlayman, chunki men xarid qilganimda och qolaman. Mashinalar qo'yish joyi yomon, shuning uchun yaxshiroq mashinalar qo'yish joyi yaxshi. Ehtimol, bolalar uchun o'yin maydonchasi, lekin mening bolalarim yo'q. Rahmat.</p>",
+    "uzSampleB1": "<p>Hurmatli Savdo Markazi Rahbariyati,</p><p>Men rejalashtirilgan ta'mirlashlar haqida o'z fikrimni bildirish uchun yozyapman. Menimcha, kinoteatr ajoyib qo'shimcha bo'lardi. Ko'p odamlar kinoga borishni yaxshi ko'rishadi va bu savdo markaziga ko'proq odam olib keladi. Shuningdek, avtoturargohni yaxshilash juda muhim. Ko'pincha joy topish qiyin, ayniqsa dam olish kunlarida. Bu meni tashrif buyurishni xohlamay qolishimga sabab bo'ladi.</p><p>Menimcha, ko'proq restoranlar ham yaxshi bo'lardi. Hozirda tanlovlar yetarli emas. Biroq, men bolalar o'yin maydonchasi zarur deb o'ylamayman. Bolalar uchun allaqachon boshqa narsalar bor. Ko'proq do'konlar yaxshiroq bo'lardi, ayniqsa kiyim do'konlari.</p><p>Takliflarimni ko'rib chiqqaningiz uchun rahmat.</p>",
+    "uzSampleB2": "<p>Hurmatli savdo markazi rahbariyati,</p><p>Men savdo markazini ta'mirlash bo'yicha takliflarga o'z fikrlarimni bildirish uchun yozyapman. Menimcha, kinoteatr qo'shilishi va avtoturargohlarning yaxshilanishi savdo markazini jonlantirish va ko'proq tashrif buyuruvchilarni jalb qilish uchun juda muhimdir. Hozirgi vaqtda ko'ngilochar imkoniyatlarning yo'qligi savdo markazining jozibasini cheklaydi, ayniqsa onlayn xaridlar bilan taqqoslaganda.</p><p>Kinoteatr nafaqat ko'ngilochar maskan bo'lib xizmat qiladi, balki tashriflarni uzoqroq qilishga ham yordam beradi, bu esa boshqa do'konlarda xarajatlarning ko'payishiga olib kelishi mumkin. Bundan tashqari, avtoturargoh bilan bog'liq muammoni hal qilish juda muhim. Hozirgi vaqtda avtoturargoh joylarini topishdagi qiyinchilik ko'plab xaridorlar uchun jiddiy to'siqdir. Yaxshilangan avtoturargoh, ehtimol avtoturargoh qurish orqali, bu muammoni hal qiladi.</p><p>Qo'shimcha ovqatlanish joylari mamnuniyat bilan qabul qilinadi, lekin menimcha, turli xil didlarga mos keladigan turli xil oshxonalarni taqdim etishga e'tibor qaratish kerak. Bolalar o'yin maydonchasi yaxshi fikr, lekin kinoteatr va yaxshiroq avtoturargoh kabi ta'sirli emas. Oxir oqibat, ta'mirlash yanada qulay va yoqimli xarid qilish tajribasini yaratishga qaratilgan bo'lishi kerak.</p>"
+   },
+   "t11": {
+    "title": "informal message · to friend",
+    "prompt": "Write a message to a friend about the mall renovation plans. Share what you think.",
+    "sample": "Hey!\n\nDid you hear about the <span class=\"ml-token colloc\">mall renovation</span>? A cinema <span class=\"ml-token modal\">would</span> be <span class=\"ml-token adv\">amazing</span> – we wouldn't have to drive across town anymore! I think they <span class=\"ml-token modal\">should</span> <span class=\"ml-token adv\">definitely</span> improve the <span class=\"ml-token colloc\">parking</span> too, it's always so crowded. What do you want them to add?\n\nLet me know!",
+    "target": "50 words",
+    "sampleA1": "<p>Hi!<br>Mall new? Cinema good. Parking bad. I like cinema.<br>Bye!</p>",
+    "sampleA2": "<p>Hi!<br>The mall is new. They want to change it. I want a cinema and better parking because it is always full. What do you want?<br>See you!</p>",
+    "sampleB1": "<p>Hey!<br>Have you heard about the mall renovation plans? I think it's a good idea. I would like a cinema because it would be fun to go there. Also, the parking is terrible, so they should definitely improve that. What do you think they should do?<br>Talk soon!</p>",
+    "sampleB2": "<p>Hey!</p>\n<p>Did you hear the mall's finally <span class=\"ml-token colloc\">getting a makeover</span>? I'm <span class=\"ml-token idiom\">buzzing about it</span>! A cinema would be <span class=\"ml-token adv\">brilliant</span> — no more <span class=\"ml-token colloc\">trekking across town</span> just to catch a film. They really need to <span class=\"ml-token phrasal\">sort out</span> the parking too; it's <span class=\"ml-token idiom\">an absolute nightmare</span> on weekends. What would you add?</p>\n<p><span class=\"ml-token colloc\">Let me know</span>!</p>",
+    "uzSample": "<p>Salom!</p>\n<p>Savdo markazini ta'mirlash rejalari haqida eshitdingmi? Kino teatri bo'lsa, juda zo'r bo'lardi – biz endi shahar bo'ylab mashina haydashimizga to'g'ri kelmasdi! Menimcha, ular albatta avtoturargohni ham yaxshilashlari kerak, u doim juda gavjum. Seningcha, ular yana nimani qo'shishlari kerak?</p>\n<p>Xabar ber!</p>",
+    "uzSampleA1": "<p>Salom!<br>Savdo markazi yangi? Kino yaxshi. Mashinalar turar joyi yomon. Menga kino yoqadi.<br>Xayr!</p>",
+    "uzSampleA2": "<p>Salom!<br>Savdo markazi yangi. Ular uni o'zgartirmoqchi. Men kino va yaxshiroq to'xtash joyini xohlayman, chunki u har doim to'la bo'ladi. Sen nimani xohlaysan?<br>Ko'rishguncha!</p>",
+    "uzSampleB1": "<p>Salom!<br>Savdo markazini ta'mirlash rejalari haqida eshitdingizmi? Menimcha, bu yaxshi fikr. Men u yerga borish qiziqarli bo'lishi uchun kinoteatr bo'lishini xohlardim. Shuningdek, mashinalar qo'yish joyi juda yomon, shuning uchun ular buni albatta yaxshilashlari kerak. Sizningcha, ular nima qilishlari kerak?<br>Tez orada gaplashamiz!</p>",
+    "uzSampleB2": "<p>Salom!<br>Nima deb o'ylaysan? Savdo markazi katta ta'mirdan o'tyapti! Men bundan juda xursandman. Rostini aytsam, kinozal juda zo'r bo'lardi; bu narsa haqiqatan ham yetishmayapti. Yaxshilangan avtoturargoh ham juda muhim, joy topish har doim juda qiyin. Sening fikring qanday? Ular amalga oshirishini istagan aniq o'zgarishlar bormi?<br>Xabar ber!</p>"
+   },
+   "t12": {
+    "title": "formal letter · to mall management with",
+    "prompt": "Write a letter to the Mall Management with your suggestions.",
+    "sample": "<p>Dear Mall Management,</p>\n\n<p>Thank you for seeking <span class=\"ml-token colloc\">customer feedback</span> on the proposed renovation. I am pleased to share my thoughts.</p>\n\n<p><span class=\"ml-token adv\">Firstly</span>, adding a cinema <span class=\"ml-token modal\">would</span> be <span class=\"ml-token adv\">highly</span> beneficial. This <span class=\"ml-token modal\">would</span> transform the mall into a complete <span class=\"ml-token colloc\">entertainment destination</span> and attract more visitors.</p>\n\n<p><span class=\"ml-token adv\">Additionally</span>, improving <span class=\"ml-token colloc\">parking facilities</span> <span class=\"ml-token modal\">should</span> be a priority. The current parking area is often <span class=\"ml-token colloc\">overcrowded</span>, especially on weekends, which discourages shoppers.</p>\n\n<p><span class=\"ml-token adv\">Furthermore</span>, a <span class=\"ml-token colloc\">children's play area</span> <span class=\"ml-token modal\">would</span> make the mall more <span class=\"ml-token colloc\">family-friendly</span> and allow parents to shop while children are entertained.</p>\n\n<p><span class=\"ml-token adv\">Finally</span>, I <span class=\"ml-token modal\">would</span> suggest adding more <span class=\"ml-token colloc\">seating areas</span> throughout the mall for tired shoppers.</p>\n\n<p>Thank you for your commitment to improving our shopping experience.</p>\n\n<p>Yours sincerely,<br>A Regular Shopper</p>",
+    "target": "120–150 words",
+    "sampleA1": "<p>Hi Mall,</p><br><p>I want a play area. And more food.  Parking bad. Bye.</p>",
+    "sampleA2": "<p>Dear Mall,</p><br><p>I like the mall. I want a play area for kids because I have kids. And I want more food because I am hungry when I shop. Parking is bad, so you need more parking spaces. Thank you.</p><br><p>Bye,</p><br><p>A Shopper</p>",
+    "sampleB1": "<p>Dear Mall Management,</p><br><p>I am writing to give my ideas about the mall renovation. I think a cinema would be a good idea because it would give people more to do. Also, the parking is often difficult, so improving the parking facilities would be helpful. In my opinion, a children's play area is also a good idea for families. However, I think you should also consider adding more coffee shops.</p><br><p>Thank you for listening to my suggestions.</p><br><p>Sincerely,<br>A Regular Shopper</p>",
+    "sampleB2": "<p>Dear Mall Management,</p>\n<p>Thank you for inviting shoppers to share their views on the upcoming renovation. I would like to <span class=\"ml-token phrasal\">put forward</span> a few suggestions.</p>\n<p><span class=\"ml-token linking\">First and foremost</span>, I strongly support adding a cinema. It would turn the mall into a genuine <span class=\"ml-token colloc\">entertainment destination</span> and keep visitors on site for longer. Secondly, the <span class=\"ml-token colloc\">parking facilities</span> urgently need attention, as the current lot gets <span class=\"ml-token colloc\">overcrowded</span> at weekends and <span class=\"ml-token phrasal\">puts many customers off</span>. I would also welcome a children's play area, which would make the mall far more <span class=\"ml-token colloc\">family-friendly</span> and let parents shop in peace. Finally, a wider range of dining options would <span class=\"ml-token phrasal\">round things off</span> nicely.</p>\n<p>Thank you for <span class=\"ml-token idiom\">taking my feedback on board</span>. I look forward to seeing the changes.</p>\n<p>Yours sincerely,<br>Bekzod Aliyev</p>",
+    "uzSample": "<p>Hurmatli Savdo Markazi Rahbariyati,</p>\n\n<p>Taklif etilayotgan ta'mirlash bo'yicha mijozlarning fikrini so'raganingiz uchun tashakkur. O'z fikrlarimni baham ko'rishdan mamnunman.</p>\n\n<p>Birinchidan, kinoteatr qo'shish juda foydali bo'lardi. Bu savdo markazini to'liq ko'ngilochar maskanga aylantiradi va ko'proq tashrif buyuruvchilarni jalb qiladi.</p>\n\n<p>Bundan tashqari, avtoturargoh imkoniyatlarini yaxshilash ustuvor vazifa bo'lishi kerak. Hozirgi avtoturargoh, ayniqsa dam olish kunlari, ko'pincha gavjum bo'ladi, bu esa xaridorlarni cho'chitadi.</p>\n\n<p>Bundan tashqari, bolalar o'yin maydonchasi savdo markazini oilalar uchun qulayroq qiladi va ota-onalarga bolalar ko'ngilxushlik qilayotganda xarid qilish imkonini beradi.</p>\n\n<p>Nihoyat, charchagan xaridorlar uchun savdo markazi bo'ylab ko'proq o'tirish joylarini qo'shishni taklif qilaman.</p>\n\n<p>Xarid qilish tajribamizni yaxshilashga bo'lgan sadoqatingiz uchun tashakkur.</p>\n\n<p>Hurmat bilan,<br>Doimiy Xaridor</p>",
+    "uzSampleA1": "<p>Salom, Savdo markazi,</p><br><p>Men oʻyin maydonchasini xohlayman. Va ko'proq ovqat. Mashinalar to'xtash joyi yomon. Xayr.</p>",
+    "uzSampleA2": "<p>Hurmatli Savdo Markazi,</p><br><p>Menga savdo markazi yoqadi. Men bolalar uchun o'yin maydonchasini xohlayman, chunki mening bolalarim bor. Va men ko'proq ovqat xohlayman, chunki men xarid qilganimda och qolaman. Mashinalar qo'yish joyi yomon, shuning uchun sizga ko'proq mashinalar qo'yish joylari kerak. Rahmat.</p><br><p>Xayr,</p><br><p>Xaridor</p>",
+    "uzSampleB1": "<p>Hurmatli Savdo Markazi Rahbariyati,</p><br><p>Men savdo markazini ta'mirlash bo'yicha o'z g'oyalarimni bildirish uchun yozyapman. O'ylashimcha, kinozal yaxshi fikr bo'lardi, chunki bu odamlarga ko'proq mashg'ulotlar beradi. Shuningdek, avtoturargoh ko'pincha qiyin, shuning uchun avtoturargoh sharoitlarini yaxshilash foydali bo'ladi. Mening fikrimcha, bolalar o'yin maydonchasi ham oilalar uchun yaxshi g'oya. Biroq, siz ko'proq qahvaxonalar qo'shishni ham o'ylab ko'rishingiz kerak.</p><br><p>Takliflarimni tinglaganingiz uchun rahmat.</p><br><p>Hurmat bilan,<br>Doimiy Xaridor</p>",
+    "uzSampleB2": "<p>Hurmatli Savdo Markazi Rahbariyati,</p><br><p>Men sizning savdo markazini ta'mirlash bo'yicha takliflaringizga javoban yozyapman. Bir nechta yaxshilanishlar xarid qilish tajribasini sezilarli darajada oshiradi va tez-tez tashrif buyurishga undaydi, deb hisoblayman.</p><br><p>Birinchidan, qo'shimcha ovqatlanish joylari har doim mamnuniyat bilan qabul qilinsa-da, men kinoteatr qo'shilishini qat'iy qo'llab-quvvatlayman. Bu savdo markazini yanada keng qamrovli ko'ngilochar markazga aylantiradi, ayniqsa yoshlar va oilalar uchun jozibali bo'ladi. Ikkinchidan, hozirgi avtoturargoh holatini hal qilish juda muhim. Cheklangan joylar va ko'pincha tartibsiz joylashuv xaridorlarni, ayniqsa eng gavjum soatlarda, bezovta qiladi. Yaxshilangan avtoturargoh inshootlariga, ehtimol avtoturargohga yo'naltiruvchi tizimni ham qo'shish juda foydali bo'ladi. Nihoyat, bolalar uchun maxsus o'yin maydonchasi, shubhasiz, savdo markazini yosh bolali oilalar uchun yanada jozibali qiladi va ota-onalarga erkinroq xarid qilish imkonini beradi. Bundan tashqari, o'sib borayotgan ekologik xabardorlikka moslashish uchun quyosh panellari yoki yomg'ir suvini yig'ish kabi ekologik toza tashabbuslar uchun imkoniyatlarni o'rganishni taklif qilaman.</p><br><p>Takliflarimni ko'rib chiqqaningiz uchun tashakkur. Yaxshilanishlarni ko'rishni intiqlik bilan kutaman.</p><br><p>Hurmat bilan,<br>Xavotirli Xaridor</p>"
+   },
+   "p1_context": "You are a regular shopper at a local shopping mall.",
+   "p1_scenario": "Dear Valued Shoppers,\n\nOur mall is planning a major renovation. We are considering adding more dining options, creating a children's play area, improving parking facilities, and adding a cinema.\nWhich improvements would make you visit more often? What other changes would you like to see?\n\nThe Mall Management"
+  },
+  "examDate": "2026-04-17",
+  "settings": {
+   "logoUrl": "https://audio.mock-stream.com/img/ibb/WN0XY5Lv/logo.png",
+   "heading1": "Bilim va malakalarni baholash agentligi",
+   "heading2": "Chet tilini bilish darajasi",
+   "examTitle": "Writing exam",
+   "logoWording": "Mock Stream",
+   "testIdentifier": "mock_stream"
+  },
+  "vocabulary": {
+   "task2": [
+    {
+     "en": "e-commerce",
+     "uz": "elektron tijorat"
+    },
+    {
+     "en": "shopping malls",
+     "uz": "savdo markazlari"
+    },
+    {
+     "en": "social experience",
+     "uz": "ijtimoiy tajriba"
+    },
+    {
+     "en": "window shopping",
+     "uz": "ko'rib yurish"
+    },
+    {
+     "en": "outing",
+     "uz": "sayr"
+    },
+    {
+     "en": "physical experience",
+     "uz": "jismoniy tajriba"
+    },
+    {
+     "en": "trying on clothes",
+     "uz": "kiyim kiyib ko'rish"
+    },
+    {
+     "en": "entertainment hubs",
+     "uz": "ko'ngilochar markazlar"
+    },
+    {
+     "en": "event spaces",
+     "uz": "tadbir joylari"
+    },
+    {
+     "en": "adapt and evolve",
+     "uz": "moslashish va rivojlanish"
+    },
+    {
+     "en": "convenience",
+     "uz": "qulaylik"
+    },
+    {
+     "en": "experience",
+     "uz": "tajriba"
+    },
+    {
+     "en": "unique experiences",
+     "uz": "noyob tajribalar"
+    },
+    {
+     "en": "visit in person",
+     "uz": "shaxsan tashrif buyurish"
+    },
+    {
+     "en": "retail landscape",
+     "uz": "chakana savdo landshafti"
+    },
+    {
+     "en": "consumer behavior",
+     "uz": "iste'molchi xulqi"
+    },
+    {
+     "en": "brick-and-mortar stores",
+     "uz": "oddiy do'konlar"
+    },
+    {
+     "en": "shopping habits",
+     "uz": "xarid qilish odatlari"
+    },
+    {
+     "en": "thriving businesses",
+     "uz": "rivojlanayotgan bizneslar"
+    },
+    {
+     "en": "changing landscape",
+     "uz": "o'zgaruvchan landshaft"
+    }
+   ],
+   "task11": [
+    {
+     "en": "mall renovation",
+     "uz": "savdo markazi ta'mirlashi"
+    },
+    {
+     "en": "would be amazing",
+     "uz": "ajoyib bo'lardi"
+    },
+    {
+     "en": "drive across town",
+     "uz": "shahar bo'ylab haydash"
+    },
+    {
+     "en": "improve parking",
+     "uz": "to'xtash joyini yaxshilash"
+    },
+    {
+     "en": "always crowded",
+     "uz": "doim gavjum"
+    },
+    {
+     "en": "let me know",
+     "uz": "menga ayting"
+    },
+    {
+     "en": "sounds great",
+     "uz": "ajoyib eshitiladi"
+    },
+    {
+     "en": "good idea",
+     "uz": "yaxshi fikr"
+    },
+    {
+     "en": "more shops",
+     "uz": "ko'proq do'konlar"
+    },
+    {
+     "en": "better food",
+     "uz": "yaxshiroq taom"
+    },
+    {
+     "en": "really need",
+     "uz": "juda kerak"
+    },
+    {
+     "en": "about time",
+     "uz": "vaqti keldi"
+    },
+    {
+     "en": "what do you think",
+     "uz": "nima deb o'ylaysiz"
+    },
+    {
+     "en": "catch up",
+     "uz": "gaplashmoq"
+    },
+    {
+     "en": "weekend shopping",
+     "uz": "dam olish kuni xaridlari"
+    },
+    {
+     "en": "nice change",
+     "uz": "yaxshi o'zgarish"
+    },
+    {
+     "en": "go there",
+     "uz": "u yerga bormoq"
+    },
+    {
+     "en": "hang out",
+     "uz": "vaqt o'tkazmoq"
+    },
+    {
+     "en": "pretty excited",
+     "uz": "ancha hayajonlangan"
+    },
+    {
+     "en": "check it out",
+     "uz": "ko'rib chiqmoq"
+    }
+   ],
+   "task12": [
+    {
+     "en": "seeking customer feedback",
+     "uz": "mijoz fikr-mulohazasini so'ramoq"
+    },
+    {
+     "en": "proposed renovation",
+     "uz": "taklif qilingan ta'mirlash"
+    },
+    {
+     "en": "entertainment destination",
+     "uz": "ko'ngilochar joy"
+    },
+    {
+     "en": "attract visitors",
+     "uz": "tashrif buyuruvchilarni jalb qilmoq"
+    },
+    {
+     "en": "parking facilities",
+     "uz": "to'xtash joyi sharoitlari"
+    },
+    {
+     "en": "overcrowded",
+     "uz": "haddan tashqari gavjum"
+    },
+    {
+     "en": "discourages shoppers",
+     "uz": "xaridorlarni chalg'itmoq"
+    },
+    {
+     "en": "children's play area",
+     "uz": "bolalar o'yin maydoni"
+    },
+    {
+     "en": "family-friendly",
+     "uz": "oilaga mos"
+    },
+    {
+     "en": "seating areas",
+     "uz": "o'tirish joylari"
+    },
+    {
+     "en": "tired shoppers",
+     "uz": "charchagan xaridorlar"
+    },
+    {
+     "en": "shopping experience",
+     "uz": "xarid tajribasi"
+    },
+    {
+     "en": "regular shopper",
+     "uz": "doimiy xaridor"
+    },
+    {
+     "en": "yours sincerely",
+     "uz": "hurmat bilan"
+    },
+    {
+     "en": "priority improvement",
+     "uz": "ustuvor yaxshilash"
+    },
+    {
+     "en": "transform the mall",
+     "uz": "savdo markazini o'zgartirmoq"
+    },
+    {
+     "en": "dining options",
+     "uz": "ovqatlanish imkoniyatlari"
+    },
+    {
+     "en": "convenient access",
+     "uz": "qulay kirish"
+    },
+    {
+     "en": "commitment to improvement",
+     "uz": "yaxshilashga sodiqlik"
+    },
+    {
+     "en": "valued customer",
+     "uz": "qimmatli mijoz"
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "will": {
+    "uz": "-adi",
+    "type": "modal"
+   },
+   "would": {
+    "uz": "bo'lardi",
+    "type": "modal"
+   },
+   "cannot": {
+    "uz": "mumkin emas",
+    "type": "modal"
+   },
+   "highly": {
+    "uz": "juda",
+    "type": "adv"
+   },
+   "outing": {
+    "uz": "sayr",
+    "type": "colloc"
+   },
+   "should": {
+    "uz": "kerak",
+    "type": "modal"
+   },
+   "Finally": {
+    "uz": "Nihoyat",
+    "type": "adv"
+   },
+   "Firstly": {
+    "uz": "Birinchidan",
+    "type": "adv"
+   },
+   "However": {
+    "uz": "Biroq",
+    "type": "adv"
+   },
+   "amazing": {
+    "uz": "ajoyib",
+    "type": "adv"
+   },
+   "parking": {
+    "uz": "avtoturargoh",
+    "type": "colloc"
+   },
+   "pay off": {
+    "uz": "o'zini oqlaydi",
+    "type": "phrasal"
+   },
+   "Moreover": {
+    "uz": "Ustiga ustak",
+    "type": "adv"
+   },
+   "sort out": {
+    "uz": "hal qilmoq",
+    "type": "phrasal"
+   },
+   "brilliant": {
+    "uz": "zo'r",
+    "type": "adv"
+   },
+   "Ultimately": {
+    "uz": "Oxir-oqibat",
+    "type": "adv"
+   },
+   "definitely": {
+    "uz": "albatta",
+    "type": "adv"
+   },
+   "e-commerce": {
+    "uz": "elektron tijorat",
+    "type": "colloc"
+   },
+   "experience": {
+    "uz": "tajriba",
+    "type": "colloc"
+   },
+   "Furthermore": {
+    "uz": "Qolaversa",
+    "type": "adv"
+   },
+   "Let me know": {
+    "uz": "xabar ber",
+    "type": "colloc"
+   },
+   "convenience": {
+    "uz": "qulaylik",
+    "type": "colloc"
+   },
+   "cut down on": {
+    "uz": "kamaytirmoq",
+    "type": "phrasal"
+   },
+   "overcrowded": {
+    "uz": "haddan tashqari gavjum",
+    "type": "colloc"
+   },
+   "put forward": {
+    "uz": "ilgari surmoq / taklif qilmoq",
+    "type": "phrasal"
+   },
+   "running out": {
+    "uz": "tugab bormoqda",
+    "type": "phrasal"
+   },
+   "Additionally": {
+    "uz": "Bundan tashqari",
+    "type": "adv"
+   },
+   "What is more": {
+    "uz": "bundan tashqari",
+    "type": "linking"
+   },
+   "event spaces": {
+    "uz": "tadbir maydonlari",
+    "type": "colloc"
+   },
+   "increasingly": {
+    "uz": "tobora",
+    "type": "adv"
+   },
+   "within reach": {
+    "uz": "qo'l yetgulik / erishsa bo'ladigan",
+    "type": "idiom"
+   },
+   "seating areas": {
+    "uz": "o'tirish joylari",
+    "type": "colloc"
+   },
+   "shopping malls": {
+    "uz": "savdo markazlari",
+    "type": "colloc"
+   },
+   "family-friendly": {
+    "uz": "oilaga mos",
+    "type": "colloc"
+   },
+   "mall renovation": {
+    "uz": "savdo markazini ta'mirlash",
+    "type": "colloc"
+   },
+   "window shopping": {
+    "uz": "vitrinalarni tomosha qilish",
+    "type": "colloc"
+   },
+   "buzzing about it": {
+    "uz": "undan juda hayajonlanyapman",
+    "type": "idiom"
+   },
+   "round things off": {
+    "uz": "yakunlab qo'ymoq",
+    "type": "phrasal"
+   },
+   "customer feedback": {
+    "uz": "mijozlar fikri",
+    "type": "colloc"
+   },
+   "on the other hand": {
+    "uz": "boshqa tomondan",
+    "type": "linking"
+   },
+   "social experience": {
+    "uz": "ijtimoiy tajriba",
+    "type": "colloc"
+   },
+   "First and foremost": {
+    "uz": "eng avvalo",
+    "type": "linking"
+   },
+   "entertainment hubs": {
+    "uz": "ko'ngilochar maskanlar",
+    "type": "colloc"
+   },
+   "getting a makeover": {
+    "uz": "yangilanmoqda / ta'mirlanmoqda",
+    "type": "colloc"
+   },
+   "parking facilities": {
+    "uz": "avtoturargoh imkoniyatlari",
+    "type": "colloc"
+   },
+   "at an alarming rate": {
+    "uz": "xavotirli tezlikda",
+    "type": "colloc"
+   },
+   "physical experience": {
+    "uz": "jismoniy tajriba",
+    "type": "colloc"
+   },
+   "reaped the benefits": {
+    "uz": "samarasini ko'rgan",
+    "type": "idiom"
+   },
+   "children's play area": {
+    "uz": "bolalar o'yin maydonchasi",
+    "type": "colloc"
+   },
+   "trekking across town": {
+    "uz": "shahar bo'ylab yurish",
+    "type": "colloc"
+   },
+   "an absolute nightmare": {
+    "uz": "haqiqiy dahshat / juda yomon",
+    "type": "idiom"
+   },
+   "puts many customers off": {
+    "uz": "ko'p mijozlarni cho'chitadi",
+    "type": "phrasal"
+   },
+   "entertainment destination": {
+    "uz": "ko'ngilochar maskan",
+    "type": "colloc"
+   },
+   "makes solid economic sense": {
+    "uz": "iqtisodiy jihatdan juda mantiqli",
+    "type": "colloc"
+   },
+   "taking my feedback on board": {
+    "uz": "fikrimni inobatga olmoq",
+    "type": "idiom"
+   }
+  }
+ },
+ "created_at": "2026-05-06T14:59:37.215434+00:00",
+ "updated_at": "2026-07-06T10:55:32.147107+00:00"
+}

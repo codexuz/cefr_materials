@@ -1,0 +1,452 @@
+{
+ "id": 2264,
+ "mock_type": "ket-listening",
+ "mock_number": 2,
+ "title": "KET Listening — Test 2",
+ "status": "published",
+ "mock_data": {
+  "audio": {
+   "base": "https://audio.mock-stream.com/KET-Listening/test2/",
+   "files": {
+    "1": "PART1.m4a",
+    "2": "PART2.m4a",
+    "3": "PART3.m4a",
+    "4": "PART4.m4a",
+    "5": "PART5.m4a"
+   }
+  },
+  "parts": [
+   {
+    "type": "picture-mcq",
+    "items": [
+     {
+      "id": 1,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q1A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q1B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q1C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What is John going to do tonight?"
+     },
+     {
+      "id": 2,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q2A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q2B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q2C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Which is Ben's family?"
+     },
+     {
+      "id": 3,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q3A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q3B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q3C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Which bag does the woman buy?"
+     },
+     {
+      "id": 4,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q4A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q4B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q4C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "How much did the woman pay for the apples?"
+     },
+     {
+      "id": 5,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q5A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q5B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q5C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What time does the film start?"
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "image": "q0A.png",
+       "letter": "A"
+      },
+      {
+       "image": "q0B.png",
+       "letter": "B"
+      },
+      {
+       "image": "q0C.png",
+       "letter": "C"
+      }
+     ],
+     "question": "How many people were at the meeting?"
+    },
+    "imageBase": "https://audio.mock-stream.com/KET-Listening/test2/p1/",
+    "partNumber": 1,
+    "instruction": [
+     "You will hear five short conversations.",
+     "You will hear each conversation twice.",
+     "There is one question for each conversation.",
+     "For questions 1–5, put a tick (✓) under the right answer."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "matching-list",
+    "items": [
+     {
+      "id": 6,
+      "name": "television room",
+      "answer": "H"
+     },
+     {
+      "id": 7,
+      "name": "first floor bedrooms",
+      "answer": "C"
+     },
+     {
+      "id": 8,
+      "name": "second floor bedrooms",
+      "answer": "B"
+     },
+     {
+      "id": 9,
+      "name": "office",
+      "answer": "E"
+     },
+     {
+      "id": 10,
+      "name": "kitchen",
+      "answer": "F"
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "name": "dining room",
+     "answer": "G",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "dark blue",
+      "letter": "A"
+     },
+     {
+      "text": "light blue",
+      "letter": "B"
+     },
+     {
+      "text": "dark green",
+      "letter": "C"
+     },
+     {
+      "text": "light green",
+      "letter": "D"
+     },
+     {
+      "text": "grey",
+      "letter": "E"
+     },
+     {
+      "text": "red",
+      "letter": "F"
+     },
+     {
+      "text": "white",
+      "letter": "G"
+     },
+     {
+      "text": "light yellow",
+      "letter": "H"
+     }
+    ],
+    "scenario": "Liz and Michael — painting rooms in a hotel",
+    "leftLabel": "ROOMS",
+    "partNumber": 2,
+    "rightLabel": "COLOURS",
+    "instruction": [
+     "Listen to Liz and Michael talking about rooms in a hotel.",
+     "They are going to paint the rooms.",
+     "What colour are they going to paint each room?",
+     "For questions 6–10, write a letter A–H next to each room.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-conversation",
+    "items": [
+     {
+      "id": 11,
+      "stem": "Sarah usually starts work at",
+      "answer": "C",
+      "options": [
+       {
+        "text": "6.00.",
+        "letter": "A"
+       },
+       {
+        "text": "8.30.",
+        "letter": "B"
+       },
+       {
+        "text": "9.00.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "stem": "In the new job, Jane can earn",
+      "answer": "C",
+      "options": [
+       {
+        "text": "£160 a week.",
+        "letter": "A"
+       },
+       {
+        "text": "£180 a week.",
+        "letter": "B"
+       },
+       {
+        "text": "£210 a week.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "stem": "Sarah has lunch",
+      "answer": "A",
+      "options": [
+       {
+        "text": "in a café.",
+        "letter": "A"
+       },
+       {
+        "text": "in a park.",
+        "letter": "B"
+       },
+       {
+        "text": "at home.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "stem": "In the new job, Jane can have",
+      "answer": "A",
+      "options": [
+       {
+        "text": "3 weeks' holiday.",
+        "letter": "A"
+       },
+       {
+        "text": "4 weeks' holiday.",
+        "letter": "B"
+       },
+       {
+        "text": "5 weeks' holiday.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "stem": "The manager's name is Mr",
+      "answer": "B",
+      "options": [
+       {
+        "text": "Fawset.",
+        "letter": "A"
+       },
+       {
+        "text": "Fawcett.",
+        "letter": "B"
+       },
+       {
+        "text": "Fausett.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "stem": "Sarah's boss wants a new",
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "text": "manager.",
+       "letter": "A"
+      },
+      {
+       "text": "shop assistant.",
+       "letter": "B"
+      },
+      {
+       "text": "secretary.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partNumber": 3,
+    "instruction": [
+     "Listen to Sarah talking to her friend, Jane, about a new job.",
+     "For questions 11–15, tick (✓) A, B or C.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "rows": [
+     {
+      "id": 16,
+      "label": "Day:",
+      "answer": "Monday"
+     },
+     {
+      "id": 17,
+      "label": "Date:",
+      "answer": "January",
+      "suffix": "3rd"
+     },
+     {
+      "id": 18,
+      "label": "Classes begin at:",
+      "answer": "9.15"
+     },
+     {
+      "id": 19,
+      "label": "Address:",
+      "answer": "57",
+      "suffix": "London Road"
+     },
+     {
+      "id": 20,
+      "label": "Near:",
+      "answer": "the station"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 4",
+    "subtitle": "Name of school: International Language School\nNext course begins:",
+    "noteTitle": "Notebook",
+    "partNumber": 4,
+    "instruction": [
+     "You will hear a student telephoning a school.",
+     "Listen and complete questions 16–20.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "rows": [
+     {
+      "id": 21,
+      "label": "Banks open from:",
+      "answer": "9.30"
+     },
+     {
+      "id": 22,
+      "label": "to:",
+      "answer": "4.00"
+     },
+     {
+      "id": 23,
+      "label": "closed on:",
+      "answer": "Sunday"
+     },
+     {
+      "id": 24,
+      "label": "Bus to city centre — number:",
+      "answer": "21"
+     },
+     {
+      "id": 25,
+      "label": "cost:",
+      "answer": "60p"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 5",
+    "subtitle": "Guide's name: Jim",
+    "noteTitle": "Notes",
+    "partNumber": 5,
+    "instruction": [
+     "You will hear a tour guide talking about a town in Scotland.",
+     "Listen and complete questions 21–25.",
+     "You will hear the information twice."
+    ],
+    "questionsLabel": "QUESTIONS 21–25"
+   }
+  ],
+  "testInfo": {
+   "id": "ket-l-2",
+   "level": "A2",
+   "paper": "Paper 2",
+   "parts": 5,
+   "title": "KET Listening — Test 2",
+   "totalTime": 30,
+   "totalQuestions": 25
+  }
+ },
+ "created_at": "2026-10-14T06:45:17.548113+00:00",
+ "updated_at": "2026-10-14T06:47:04.185638+00:00"
+}

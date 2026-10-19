@@ -1,0 +1,512 @@
+{
+ "id": 506,
+ "mock_type": "cefr-listening",
+ "mock_number": 45,
+ "title": "CEFR Listening Mock Test 45",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "mcq-reply",
+    "title": "Part 1",
+    "answers": {
+     "1": "A",
+     "2": "C",
+     "3": "B",
+     "4": "A",
+     "5": "B",
+     "6": "B",
+     "7": "C",
+     "8": "B"
+    },
+    "audioFile": "https://audio.mock-stream.com/test45/PART 1.m4a",
+    "questions": [
+     {
+      "id": 1,
+      "options": [
+       {
+        "text": "I am from Dublin, but I live in London.",
+        "letter": "A"
+       },
+       {
+        "text": "I entered the university in Hong Kong.",
+        "letter": "B"
+       },
+       {
+        "text": "We didn't live with our parents.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "options": [
+       {
+        "text": "I didn't bring anything.",
+        "letter": "A"
+       },
+       {
+        "text": "I am not from London.",
+        "letter": "B"
+       },
+       {
+        "text": "I study here.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 3,
+      "options": [
+       {
+        "text": "I can't lend you any money.",
+        "letter": "A"
+       },
+       {
+        "text": "Why don't they support you?",
+        "letter": "B"
+       },
+       {
+        "text": "Do you live with your family?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 4,
+      "options": [
+       {
+        "text": "I've never gone to a football match.",
+        "letter": "A"
+       },
+       {
+        "text": "Were there many people?",
+        "letter": "B"
+       },
+       {
+        "text": "What about you?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 5,
+      "options": [
+       {
+        "text": "Did you drink any beverages?",
+        "letter": "A"
+       },
+       {
+        "text": "Was it tasty?",
+        "letter": "B"
+       },
+       {
+        "text": "Who did you go with?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 6,
+      "options": [
+       {
+        "text": "I didn`t buy any clothes in summer.",
+        "letter": "A"
+       },
+       {
+        "text": "No, I don`t have to.",
+        "letter": "B"
+       },
+       {
+        "text": "I can`t remember your name.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 7,
+      "options": [
+       {
+        "text": "We bought some sweets for the party.",
+        "letter": "A"
+       },
+       {
+        "text": "You can join us.",
+        "letter": "B"
+       },
+       {
+        "text": "I haven`t decided yet.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 8,
+      "options": [
+       {
+        "text": "My old computer was too outdated.",
+        "letter": "A"
+       },
+       {
+        "text": "I looked for the electronics markets in our city.",
+        "letter": "B"
+       },
+       {
+        "text": "The prices of computers are higher than the last year.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "partNumber": 1,
+    "instruction": "You will hear some sentences. You will hear each sentence twice. Choose the correct reply to each sentence (A, B, or C). Mark your answers on the answer sheet.",
+    "questionRange": "1-8"
+   },
+   {
+    "type": "gap-fill-form",
+    "title": "Part 2",
+    "answers": {
+     "9": [
+      "NORTH-WEST",
+      "NORTHWEST",
+      "NORTH WEST"
+     ],
+     "10": "POET",
+     "11": "STORIES",
+     "12": "WAITRESS",
+     "13": "CITY",
+     "14": "24"
+    },
+    "audioFile": "https://audio.mock-stream.com/test45/PART 2.m4a",
+    "formTitle": "TANYA PERRY",
+    "partNumber": 2,
+    "formContent": [
+     {
+      "text": "Born in London in 1948.",
+      "type": "section-header"
+     },
+     {
+      "text": "In 1952 family moved to",
+      "type": "item-gap",
+      "gapId": 9,
+      "gapSuffix": "."
+     },
+     {
+      "text": "At school with Jack Peters, the famous",
+      "type": "item-gap",
+      "gapId": 10,
+      "gapSuffix": "."
+     },
+     {
+      "text": "Wrote some",
+      "type": "item-gap",
+      "gapId": 11,
+      "gapSuffix": "while still at school."
+     },
+     {
+      "text": "During the early 1970s worked as a",
+      "type": "item-gap",
+      "gapId": 12,
+      "gapSuffix": "."
+     },
+     {
+      "text": "The film called “",
+      "type": "item-gap",
+      "gapId": 13,
+      "gapSuffix": "Life” won a prize at a French Film Festival."
+     },
+     {
+      "text": "Now has",
+      "type": "item-gap",
+      "gapId": 14,
+      "gapSuffix": "plays in print."
+     }
+    ],
+    "instruction": "You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. Write ONE WORD and / or A NUMBER for each answer.",
+    "questionRange": "9-14"
+   },
+   {
+    "type": "matching-speakers",
+    "title": "Part 3",
+    "answers": {
+     "15": "B",
+     "16": "C",
+     "17": "A",
+     "18": "E"
+    },
+    "options": [
+     {
+      "text": "In the hotel",
+      "letter": "A"
+     },
+     {
+      "text": "At the custom-house",
+      "letter": "B"
+     },
+     {
+      "text": "At the supermarket",
+      "letter": "C"
+     },
+     {
+      "text": "In the museum",
+      "letter": "D"
+     },
+     {
+      "text": "At the theatre",
+      "letter": "E"
+     },
+     {
+      "text": "At the cafe",
+      "letter": "F"
+     }
+    ],
+    "speakers": [
+     {
+      "id": 15,
+      "label": "Speaker 1"
+     },
+     {
+      "id": 16,
+      "label": "Speaker 2"
+     },
+     {
+      "id": 17,
+      "label": "Speaker 3"
+     },
+     {
+      "id": 18,
+      "label": "Speaker 4"
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test45/PART 3.m4a",
+    "partNumber": 3,
+    "instruction": "You will hear people speaking in different situations. Match each speaker (15-18) to the place where the speaker is (A-F). There are TWO EXTRA places which you do not need to use. Mark your answers on the answer sheet.",
+    "questionRange": "15-18"
+   },
+   {
+    "type": "map-labeling",
+    "title": "Part 4",
+    "answers": {
+     "19": "B",
+     "20": "A",
+     "21": "C",
+     "22": "E",
+     "23": "D"
+    },
+    "mapImage": "https://audio.mock-stream.com/test45/map.png",
+    "mapTitle": "",
+    "audioFile": "https://audio.mock-stream.com/test45/PART 4.m4a",
+    "mapLabels": [
+     "A",
+     "B",
+     "C",
+     "D",
+     "E",
+     "F",
+     "G",
+     "H"
+    ],
+    "questions": [
+     {
+      "id": 19,
+      "place": "Brown Hall"
+     },
+     {
+      "id": 20,
+      "place": "Blake Residence"
+     },
+     {
+      "id": 21,
+      "place": "Queens Building"
+     },
+     {
+      "id": 22,
+      "place": "Parkway Flats"
+     },
+     {
+      "id": 23,
+      "place": "Temple Rise"
+     }
+    ],
+    "partNumber": 4,
+    "instruction": "You will hear someone giving a talk. Label the places (19-23) on the map (A-H). There are TWO extra options which you do not need to use. Mark your answers on the answer sheet.",
+    "questionRange": "19-23"
+   },
+   {
+    "type": "mcq-extracts",
+    "title": "Part 5",
+    "answers": {
+     "24": "B",
+     "25": "C",
+     "26": "C",
+     "27": "B",
+     "28": "B",
+     "29": "A"
+    },
+    "extracts": [
+     {
+      "title": "Extract One",
+      "context": "",
+      "questions": [
+       {
+        "id": 24,
+        "text": "Why did John decide to enter the race?",
+        "options": [
+         {
+          "text": "He was encouraged by his father to take part.",
+          "letter": "A"
+         },
+         {
+          "text": "He wanted to prove his friends wrong.",
+          "letter": "B"
+         },
+         {
+          "text": "He was inspired by a celebrity's achievements.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 25,
+        "text": "One feature of John's training before the event was to…",
+        "options": [
+         {
+          "text": "get some rest between training sessions.",
+          "letter": "A"
+         },
+         {
+          "text": "leave himself enough time to build up his fitness.",
+          "letter": "B"
+         },
+         {
+          "text": "set targets that he felt were realistic.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Extract Two",
+      "context": "",
+      "questions": [
+       {
+        "id": 26,
+        "text": "What made Laura decide to go on the beach trip with her uncle?",
+        "options": [
+         {
+          "text": "She recently visited an exhibition about the area.",
+          "letter": "A"
+         },
+         {
+          "text": "She became interested in archaeology through internet research.",
+          "letter": "B"
+         },
+         {
+          "text": "She realised it was the best way to prepare for some schoolwork.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 27,
+        "text": "When Laura's uncle showed her some real dinosaur bones, she…",
+        "options": [
+         {
+          "text": "found it hard to imagine how big the creature had been.",
+          "letter": "A"
+         },
+         {
+          "text": "was disappointed to hear they hadn't been discovered locally.",
+          "letter": "B"
+         },
+         {
+          "text": "began to hope they'd find something similar during their beach trip.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Extract Three",
+      "context": "",
+      "questions": [
+       {
+        "id": 28,
+        "text": "Tom started playing the electric guitar because…",
+        "options": [
+         {
+          "text": "he was encouraged to do so by his parents.",
+          "letter": "A"
+         },
+         {
+          "text": "he found certain pieces of guitar music appealing.",
+          "letter": "B"
+         },
+         {
+          "text": "he failed to make progress on other instruments.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 29,
+        "text": "What did Tom love about his new electric guitar?",
+        "options": [
+         {
+          "text": "It filled him with confidence when he performed in public.",
+          "letter": "A"
+         },
+         {
+          "text": "It helped him make friends because he could play so well.",
+          "letter": "B"
+         },
+         {
+          "text": "It made him look like a rock star in his photos.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test45/PART 5.m4a",
+    "partNumber": 5,
+    "instruction": "You will hear three extracts. Choose the correct answer (A, B or C) for each question (24-29). There are TWO questions for each extract. Mark your answers on the answer sheet.",
+    "questionRange": "24-29"
+   },
+   {
+    "type": "sentence-completion",
+    "title": "Part 6",
+    "answers": {
+     "30": "TUNNELS",
+     "31": "SPACE",
+     "32": "WALES",
+     "33": "CLIMBING",
+     "34": "HAT",
+     "35": "LAMP"
+    },
+    "audioFile": "https://audio.mock-stream.com/test45/PART 6.m4a",
+    "partNumber": 6,
+    "instruction": "You will hear a part of a lecture. For each question, fill in the missing information in the numbered space. Write no more than ONE WORD for each answer.",
+    "passageTitle": "Caves",
+    "questionRange": "30-35",
+    "passageContent": "Cavers explore underground places such as mines and <span class=\"gap-input\" data-gap=\"30\">_____(30)_____</span> as well as caves.<br><br>When cavers camp underground, they choose places which have <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span> and fresh air available.<br><br>In the UK, the place Mike likes best for caving is <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span><br><br>As a physical activity, Mike compares caving to <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span><br><br>Cavers can pay as much as £20 for a suitable <span class=\"gap-input\" data-gap=\"34\">_____(34)_____</span><br><br>Cavers can pay as much as £50 for the right kind of <span class=\"gap-input\" data-gap=\"35\">_____(35)_____</span>, which is worn on the head."
+   }
+  ],
+  "source": "Multilevel Masterpiece - Listening mock test 5 (Bekzod_Turgunov)",
+  "examDate": "2026-06-12",
+  "examType": "cefr",
+  "testInfo": {
+   "id": "cefr-listening-45",
+   "level": "B2",
+   "title": "CEFR Listening Mock Test 45",
+   "totalTime": 40,
+   "totalQuestions": 35
+  },
+  "mockNumber": 45
+ },
+ "created_at": "2026-06-12T18:06:23.558523+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

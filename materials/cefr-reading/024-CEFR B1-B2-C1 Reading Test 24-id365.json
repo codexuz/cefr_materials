@@ -1,0 +1,797 @@
+{
+ "id": 365,
+ "mock_type": "cefr-reading",
+ "mock_number": 24,
+ "title": "CEFR B1-B2-C1 Reading Test 24",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "gap-fill-text",
+    "title": "Part 1",
+    "answers": {
+     "1": [
+      "Roads"
+     ],
+     "2": [
+      "Rails"
+     ],
+     "3": [
+      "Wheels"
+     ],
+     "4": [
+      "Horses"
+     ],
+     "5": [
+      "Made"
+     ],
+     "6": [
+      "First"
+     ]
+    },
+    "passage": {
+     "title": "The early idea of trains",
+     "content": "<p>Did you know that the idea for trains started in Germany? In 1550, some roads in Germany had wooden rails. They ran along the road. They were called \"wagon ways.\" These <span class=\"gap\" data-gap=\"1\">_____(1)_____</span> were used for wagons pulled by horses. They were easier than traveling on dirt roads.</p><p>In 1776, metal rails were made. The <span class=\"gap\" data-gap=\"2\">_____(2)_____</span> were made of iron. They were called \"tramways.\" They were very popular. They went all over Europe. A man named William Jesse had an idea. He made wheels with a groove, or cutout edge. These <span class=\"gap\" data-gap=\"3\">_____(3)_____</span> helped the wagons move faster on the iron rails. The wagons were still pulled by <span class=\"gap\" data-gap=\"4\">_____(4)_____</span>.</p><p>The steam engine came next. A man named Richard Trevithick wanted to move people and things from place to place without using animals. He <span class=\"gap\" data-gap=\"5\">_____(5)_____</span> the first steam engine. It could carry 10 tons of iron, 70 men, and five wagons for 9 miles in two hours.</p><p>A man named John Stevens put all of these ideas together. He is called the \"father of the American railroad.\" He showed how steam trains would work. He got the <span class=\"gap\" data-gap=\"6\">_____(6)_____</span> charter railroad. Each new idea has made traveling easier and faster.</p>"
+    },
+    "questions": [
+     {
+      "id": 1,
+      "hint": "These _____ were used for wagons"
+     },
+     {
+      "id": 2,
+      "hint": "The _____ were made of iron"
+     },
+     {
+      "id": 3,
+      "hint": "These _____ helped the wagons"
+     },
+     {
+      "id": 4,
+      "hint": "still pulled by _____"
+     },
+     {
+      "id": 5,
+      "hint": "He _____ the first steam engine"
+     },
+     {
+      "id": 6,
+      "hint": "He got the _____ charter railroad"
+     }
+    ],
+    "partNumber": 1,
+    "instruction": "Read the text. Fill in each gap with ONE word. You must use a word which is somewhere in the rest of the text.",
+    "explanations": {
+     "q1": {
+      "text": "The passage introduces 'roads in Germany' with wooden rails, which were then called 'wagon ways.' The word 'These' in the next sentence refers back to these specific pathways. That's why the correct answer is 'Roads'.",
+      "quote": "In 1550, some roads in Germany had wooden rails."
+     },
+     "q2": {
+      "text": "The passage states that in 1776, 'metal rails were made.' The sentence with the blank then specifies what kind of metal was used to make them, which was iron. That's why the correct answer is 'Rails'.",
+      "quote": "In 1776, metal rails were made."
+     },
+     "q3": {
+      "text": "The text explains that William Jesse 'made wheels with a groove.' The following sentence uses the word 'These' to refer back to what he created, explaining how they helped the wagons. That's why the correct answer is 'Wheels'.",
+      "quote": "He made wheels with a groove, or cutout edge."
+     },
+     "q4": {
+      "text": "The passage first mentions that wagons were 'pulled by horses.' The word 'still' in the sentence with the blank indicates that even with new rails and wheels, the power source had not changed yet. That's why the correct answer is 'Horses'.",
+      "quote": "These _____(1)_____ were used for wagons pulled by horses."
+     },
+     "q5": {
+      "text": "The text introduces Richard Trevithick and his goal to move things without animals. The sentence with the blank describes his key invention, the steam engine, implying he created it. That's why the correct answer is 'Made'.",
+      "quote": "A man named Richard Trevithick wanted to move people and things from place to place without using animals."
+     },
+     "q6": {
+      "text": "The passage gives John Stevens the title 'father of the American railroad.' This suggests he was the originator, which supports the idea that he received the initial charter for a railroad. That's why the correct answer is 'First'.",
+      "quote": "He is called the \"father of the American railroad.\""
+     }
+    },
+    "questionRange": "1-6"
+   },
+   {
+    "type": "matching",
+    "texts": [
+     {
+      "title": "Q7 Lime House and Country Park",
+      "number": 7,
+      "content": "The house attracts thousands of visitors, but this is a pleasant walk (for the fit) away from the crowds, through parkland, woods and up onto the hills. Popular with bird-watchers. Allow three hours. The house was built in 1570. Gardens closed to the public; information centre, cafe and souvenir shop open daily."
+     },
+     {
+      "title": "Q8 Devonshire Park",
+      "number": 8,
+      "content": "Take a really enjoyable walk in the countryside surrounding the park. Allow at least half a day, or make it a full day by visiting the adventure playground and farmyard (both great for young children). Stop at the cafe (open all day) or enjoy the fantastic gardens, with beautiful fountains. Guided walks available for small groups."
+     },
+     {
+      "title": "Q9 Hope Village",
+      "number": 9,
+      "content": "A leisurely way to spend an hour or two is by visiting the busy village of Hope with its lovely old cottages, traditional pubs and country gardens. A gentle walk towards the hills will soon bring you to superb views."
+     },
+     {
+      "title": "Q10 Cornford",
+      "number": 10,
+      "content": "This is an easy walk through a little-known valley beside clear streams with woodland flowers, birds and animals. See the 200-year-old buildings from the cloth-making industry now standing empty. Private tours can be arranged. Allow half a day for the walk."
+     },
+     {
+      "title": "Q11 Howden Lake",
+      "number": 11,
+      "content": "This two-hour walk attracts thousands of visitors. When the water is low, you can see a village which was flooded 300 years ago. Quiet cafe with beautiful views. Children can go sailing and windsurfing on the lake with trained instructors."
+     },
+     {
+      "title": "Q12 Stanton",
+      "number": 12,
+      "content": "This walk is definitely for very fit walkers only - the tracks get very slippery after rain. Allow six hours and start early. You are unlikely to meet another person all day. Fantastic views of farmland in the valleys below. Be sure to pack sandwiches - you will be up on the hilltops all day."
+     },
+     {
+      "title": "Q13 Strines",
+      "number": 13,
+      "content": "You need to be used to walking to successfully complete this seven-hour walk through the wildest scenery in the area. Follow a little-known footpath to the highest point for miles. The traditional pub down in the village serves hot food from 12.00 daily."
+     },
+     {
+      "title": "Q14 Langsett",
+      "number": 14,
+      "content": "After a steep climb, this is an exciting walk along easy paths, which are crowded at weekends. The views are dramatic and it is a popular place for family picnics. Guided walks start from the nearby village (10 am Sundays) and visit 800-year-old woodland and ruins dating back two thousand years."
+     }
+    ],
+    "title": "Part 2",
+    "answers": {
+     "7": [
+      "D"
+     ],
+     "8": [
+      "E"
+     ],
+     "9": [
+      "I"
+     ],
+     "10": [
+      "H"
+     ],
+     "11": [
+      "A"
+     ],
+     "12": [
+      "C"
+     ],
+     "13": [
+      "J"
+     ],
+     "14": [
+      "G"
+     ]
+    },
+    "questions": [
+     {
+      "id": 7,
+      "textNumber": 7
+     },
+     {
+      "id": 8,
+      "textNumber": 8
+     },
+     {
+      "id": 9,
+      "textNumber": 9
+     },
+     {
+      "id": 10,
+      "textNumber": 10
+     },
+     {
+      "id": 11,
+      "textNumber": 11
+     },
+     {
+      "id": 12,
+      "textNumber": 12
+     },
+     {
+      "id": 13,
+      "textNumber": 13
+     },
+     {
+      "id": 14,
+      "textNumber": 14
+     }
+    ],
+    "partNumber": 2,
+    "statements": [
+     {
+      "text": "You want to take your children with you to a short walk and have something outside.",
+      "letter": "A"
+     },
+     {
+      "text": "You want to go a walk in the city sightseeing places and are ready to spend the whole day.",
+      "letter": "B"
+     },
+     {
+      "text": "You want challenging walk and enjoy panoramic scenery from high.",
+      "letter": "C"
+     },
+     {
+      "text": "You want to visit a popular and peace place, and take something home.",
+      "letter": "D"
+     },
+     {
+      "text": "You enjoy walking outside the city and entertain your children during the day.",
+      "letter": "E"
+     },
+     {
+      "text": "You want to take small walks and entertain your children, and you want an apartment for a night.",
+      "letter": "F"
+     },
+     {
+      "text": "You are interested in ancient sightseeing and you want to spend time with your children in the open air.",
+      "letter": "G"
+     },
+     {
+      "text": "You want to walk in the nature and want to have tours.",
+      "letter": "H"
+     },
+     {
+      "text": "You want to walk less than two hours and visit old houses and enjoy scenery.",
+      "letter": "I"
+     },
+     {
+      "text": "You have walking experience and you like wild views and prefer to eat food in the village.",
+      "letter": "J"
+     }
+    ],
+    "instruction": "Read the texts 7-14 and the statements A-J. Decide which situation matches each text. Each statement can be used ONCE only. There are TWO extra statements you do not need to use.",
+    "explanations": {
+     "q7": {
+      "text": "The place is popular, attracting thousands, but the walk is peaceful and 'away from the crowds'. The souvenir shop allows you to buy something to take home. That's why the correct answer is D.",
+      "quote": ""
+     },
+     "q8": {
+      "text": "This walk is in the countryside, which is outside the city. It also offers an adventure playground and a farmyard, which the text says are 'great for young children'. That's why the correct answer is E.",
+      "quote": ""
+     },
+     "q9": {
+      "text": "The text suggests this walk takes 'an hour or two,' which is less than two hours. During the walk, you can see 'lovely old cottages' and enjoy 'superb views'. That's why the correct answer is I.",
+      "quote": "A leisurely way to spend an hour or two is by visiting the busy village of Hope with its lovely old cottages, traditional pubs and country gardens."
+     },
+     "q10": {
+      "text": "This walk takes you through a valley with streams, flowers, and animals, which is a walk in nature. The text also explicitly states that private tours are available. That's why the correct answer is H.",
+      "quote": "Private tours can be arranged."
+     },
+     "q11": {
+      "text": "This is a short, two-hour walk. It is suitable for children because they can participate in outdoor activities like sailing and windsurfing on the lake with instructors. That's why the correct answer is A.",
+      "quote": "Children can go sailing and windsurfing on the lake with trained instructors."
+     },
+     "q12": {
+      "text": "This walk is described as challenging, as it is 'for very fit walkers only'. It also offers 'fantastic views' from the hilltops, looking down on the valleys below. That's why the correct answer is C.",
+      "quote": ""
+     },
+     "q13": {
+      "text": "This walk requires experience ('you need to be used to walking') and takes you through the 'wildest scenery'. Afterwards, you can eat at the pub in the village. That's why the correct answer is J.",
+      "quote": "You need to be used to walking to successfully complete this seven-hour walk through the wildest scenery in the area."
+     },
+     "q14": {
+      "text": "This walk is good for families, as it's a popular spot for picnics. It also features ancient sights, including 800-year-old woodland and ruins that are two thousand years old. That's why the correct answer is G.",
+      "quote": "Guided walks start from the nearby village (10 am Sundays) and visit 800-year-old woodland and ruins dating back two thousand years."
+     }
+    },
+    "questionRange": "7-14",
+    "extraStatements": [
+     "B",
+     "F"
+    ],
+    "statementsFirst": true
+   },
+   {
+    "type": "matching-headings",
+    "title": "Part 3",
+    "answers": {
+     "15": [
+      "E"
+     ],
+     "16": [
+      "F"
+     ],
+     "17": [
+      "C"
+     ],
+     "18": [
+      "G"
+     ],
+     "19": [
+      "D"
+     ],
+     "20": [
+      "H"
+     ]
+    },
+    "passage": {
+     "title": "Can Hurricanes be Moderated or Diverted?",
+     "paragraphs": [
+      {
+       "number": "I",
+       "content": "Each year, massive swirling storms bringing along winds greater than 74 miles per hour wipe across tropical oceans and land on shorelines - usually devastating vast swaths of territory. When these rolling tempests strike densely inhabited territories, they have the power to kill thousands and cause property damage worth billions of dollars. But can we ever find a way to control these formidable forces of nature?",
+       "questionId": 15
+      },
+      {
+       "number": "II",
+       "content": "Our current studies are inspired by my past intuition when I was learning about chaos theory 30 years ago. The reason why long-range forecasting is complicated is that the atmosphere is highly sensitive to small influences and tiny mistakes can compound fast. However, if we intentionally applied slight inputs to a hurricane, we might create an influence that could affect the storms, either by steering them away from densely populated areas or by slowing them down.",
+       "questionId": 16
+      },
+      {
+       "number": "III",
+       "content": "To find out whether the sensitivity of the atmospheric system could be exploited to adjust hurricanes, our research team ran simulation experiments on computers for Hurricane Iniki that occurred in 1992. We first picked the spot where we wanted the storm to stop after six hours. Then we used this target to generate artificial observations and put these into the computer model.",
+       "questionId": 17
+      },
+      {
+       "number": "IV",
+       "content": "The most significant alteration turned out to be the initial temperatures and winds. In terms of structure, the initial and altered versions of Hurricane Iniki seemed almost the same, but changes in critical variables were so substantial that the later one veered off the track to the west during the first six hours of the simulation and then travelled due north, leaving Kauai untouched.",
+       "questionId": 18
+      },
+      {
+       "number": "V",
+       "content": "Future earth-orbiting solar power stations, equipped with large mirrors to focus the sun's rays and panels of photovoltaic cells to gather and send energy to the Earth, might be adapted to beam microwaves to be absorbed by water vapour molecules around the storm. The microwaves would cause these molecules to vibrate and heat up the surrounding air, which then leads to the hurricane slowing down or moving in a preferred direction.",
+       "questionId": 19
+      },
+      {
+       "number": "VI",
+       "content": "Simulations of hurricanes have implied that by changing precipitation, evaporation and air temperature, we could make a difference to a storm's route or abate its winds. Intervention could include cloud seeding and other rain-inducing elements to deprive a hurricane of the water it needs to grow and multiply from its eyewall, which is the essential characteristic of a severe tropical storm.",
+       "questionId": 20
+      }
+     ]
+    },
+    "headings": [
+     {
+      "text": "Hurricanes in history",
+      "letter": "A"
+     },
+     {
+      "text": "How hurricanes form",
+      "letter": "B"
+     },
+     {
+      "text": "How a laboratory exercise re-routed a hurricane",
+      "letter": "C"
+     },
+     {
+      "text": "Exciting ways to utilise future technologies",
+      "letter": "D"
+     },
+     {
+      "text": "Are hurricanes unbeatable?",
+      "letter": "E"
+     },
+     {
+      "text": "Re-visiting earlier ideas",
+      "letter": "F"
+     },
+     {
+      "text": "How lives might have been saved",
+      "letter": "G"
+     },
+     {
+      "text": "A range of low-tech methods",
+      "letter": "H"
+     }
+    ],
+    "questions": [
+     {
+      "id": 15,
+      "paragraphLetter": "I"
+     },
+     {
+      "id": 16,
+      "paragraphLetter": "II"
+     },
+     {
+      "id": 17,
+      "paragraphLetter": "III"
+     },
+     {
+      "id": 18,
+      "paragraphLetter": "IV"
+     },
+     {
+      "id": 19,
+      "paragraphLetter": "V"
+     },
+     {
+      "id": 20,
+      "paragraphLetter": "VI"
+     }
+    ],
+    "partNumber": 3,
+    "instruction": "Read the text and choose the correct heading for each paragraph from the list of headings below.",
+    "explanations": {
+     "q15": {
+      "text": "The paragraph describes the immense power of hurricanes and concludes by asking if we can ever manage these \"formidable forces of nature,\" directly questioning if they are unbeatable. That's why the correct answer is E.",
+      "quote": "But can we ever find a way to control these formidable forces of nature?"
+     },
+     "q16": {
+      "text": "The author states that the current research is based on an \"intuition\" from 30 years ago, showing that the work is a re-examination of a much older idea. That's why the correct answer is F.",
+      "quote": "Our current studies are inspired by my past intuition when I was learning about chaos theory 30 years ago."
+     },
+     "q17": {
+      "text": "This section details the method of a \"simulation experiment on computers,\" which is a form of laboratory exercise, to see if a hurricane could be adjusted or re-routed. That's why the correct answer is C.",
+      "quote": "To find out whether the sensitivity of the atmospheric system could be exploited to adjust hurricanes, our research team ran simulation experiments on computers for Hurricane Iniki that occurred in 1992."
+     },
+     "q18": {
+      "text": "The paragraph explains that the simulated hurricane changed course and missed the island of Kauai, demonstrating a way that the population could have been kept safe from the storm. That's why the correct answer is G.",
+      "quote": ""
+     },
+     "q19": {
+      "text": "This section describes how \"future earth-orbiting solar power stations\" could be used in a new way to control storms, which is a clear example of utilizing future technology. That's why the correct answer is D.",
+      "quote": ""
+     },
+     "q20": {
+      "text": "The paragraph mentions several methods of intervention, such as \"cloud seeding and other rain-inducing elements,\" which are established, less complex techniques compared to the futuristic ones discussed earlier. That's why the correct answer is H.",
+      "quote": ""
+     }
+    },
+    "extraHeadings": [
+     "A",
+     "B"
+    ],
+    "questionRange": "15-20"
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 4",
+    "answers": {
+     "21": [
+      "C"
+     ],
+     "22": [
+      "A"
+     ],
+     "23": [
+      "C"
+     ],
+     "24": [
+      "D"
+     ],
+     "25": [
+      "False",
+      "B"
+     ],
+     "26": [
+      "False",
+      "B"
+     ],
+     "27": [
+      "True",
+      "A"
+     ],
+     "28": [
+      "Not Given",
+      "C"
+     ],
+     "29": [
+      "Not Given",
+      "C"
+     ]
+    },
+    "passage": {
+     "title": "Smell and Human Experience",
+     "content": "<p><strong>A</strong> A survey conducted by Anthony Synott at Montreal's Concordia University asked participants to comment on how important smell was to them in their lives. It became apparent that smell can evoke strong emotional responses. A scent associated with a good experience can bring a rush of joy, while a foul odour or one associated with a bad memory may make us grimace with disgust. The perception of smell, therefore, consists not only of the sensations of the odours themselves, but of the experiences and emotions associated with them.</p><p><strong>B</strong> Odours are also essential cues in social bonding. In one well-known test, women and men were able to distinguish by smell alone clothing worn by their marriage partners from similar clothing worn by other people. Most of the subjects would probably never have given much thought to odour as a cue for identifying family members before being involved in the test, but as the experiment revealed, even when not consciously considered, smells register.</p><p><strong>C</strong> In spite of its importance to our emotional and sensory lives, smell is probably the most undervalued sense in many cultures. The reason often given for the low regard in which smell is held is that, in comparison with its importance among animals, the human sense of smell is feeble and undeveloped. While it is true that the olfactory powers of humans are nothing like as fine as those possessed by certain animals, they are still remarkably acute. Our noses are able to recognise thousands of smells, and to perceive odours which are present only in extremely small quantities.</p><p><strong>D</strong> Smell, however, is a highly elusive phenomenon. Odours, unlike colours, cannot be named in many languages because the specific vocabulary simply does not exist. Nor can odours be recorded: there is no effective way to either capture or store them over time. In the realm of olfaction, we must make do with descriptions and recollections.</p><p><strong>E</strong> Most research on smell undertaken to date has been of a physical scientific nature. Significant advances have been made in understanding the biological and chemical nature of olfaction, but many fundamental questions have yet to be answered. Researchers still need to decide whether smell is one sense or two, and how smells can be measured objectively given the nonphysical components. These questions mean that interest in the psychology of smell is inevitably set to play an increasingly important role for researchers.</p>"
+    },
+    "partNumber": 4,
+    "instruction": "Read the following text for questions 21-29.",
+    "explanations": {
+     "q21": {
+      "text": "The passage emphasizes how undervalued the sense of smell is. This implies we often take it for granted and would only become truly aware of its importance if our ability to use it was gone. That's why the correct answer is C.",
+      "quote": ""
+     },
+     "q22": {
+      "text": "The passage notes that subjects probably never thought about using smell to identify people before the test, showing that smells register even when we are not consciously aware of it. That's why the correct answer is A.",
+      "quote": ""
+     },
+     "q23": {
+      "text": "The writer presents the common belief that the human sense of smell is 'feeble', then immediately argues against it by stating our olfactory powers are 'remarkably acute'. That's why the correct answer is C.",
+      "quote": "While it is true that the olfactory powers of humans are nothing like as fine as those possessed by certain animals, they are still remarkably acute."
+     },
+     "q24": {
+      "text": "The writer states that 'many fundamental questions have yet to be answered' and researchers still need to decide basic things, like if smell is one sense or two. This shows it is not yet fully defined. That's why the correct answer is D.",
+      "quote": "Researchers still need to decide whether smell is one sense or two, and how smells can be measured objectively given the nonphysical components."
+     },
+     "q25": {
+      "text": "The passage states that the perception of smell depends on the 'experiences and emotions associated with them,' which are unique to each individual. Therefore, emotional responses to a scent will vary. That's why the correct answer is False.",
+      "quote": "The perception of smell, therefore, consists not only of the sensations of the odours themselves, but of the experiences and emotions associated with them."
+     },
+     "q26": {
+      "text": "The experiment in the passage demonstrated that people were able to successfully use smell to distinguish clothing worn by their partners from clothing worn by others. That's why the correct answer is False.",
+      "quote": ""
+     },
+     "q27": {
+      "text": "The passage claims that smell is 'the most undervalued sense in many cultures.' The phrase 'in many cultures' implies that this attitude is not the same everywhere in the world. That's why the correct answer is True.",
+      "quote": ""
+     },
+     "q28": {
+      "text": "The text describes an experiment where adults identified their partners by smell, but it includes no information at all about children identifying their mothers. No comparison can be made. That's why the correct answer is Not Given.",
+      "quote": ""
+     },
+     "q29": {
+      "text": "The passage states that interest in the psychology of smell is increasing. However, it does not provide information about researchers' interest levels in all other complex questions about smell. That's why the correct answer is Not Given.",
+      "quote": ""
+     }
+    },
+    "questionRange": "21-29",
+    "questionSections": [
+     {
+      "type": "mcq",
+      "title": "Questions 21-24: Multiple Choice",
+      "questions": [
+       {
+        "id": 21,
+        "text": "According to the introduction, we become aware of the importance of smell when",
+        "options": [
+         {
+          "text": "we discover a new smell.",
+          "letter": "A"
+         },
+         {
+          "text": "we experience a powerful smell.",
+          "letter": "B"
+         },
+         {
+          "text": "our ability to smell is damaged.",
+          "letter": "C"
+         },
+         {
+          "text": "we are surrounded by odours.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 22,
+        "text": "The experiment described in paragraph B",
+        "options": [
+         {
+          "text": "shows how we make use of smell without realising it.",
+          "letter": "A"
+         },
+         {
+          "text": "demonstrates that family members have a similar smell.",
+          "letter": "B"
+         },
+         {
+          "text": "proves that a sense of smell is learnt.",
+          "letter": "C"
+         },
+         {
+          "text": "compares the sense of smell in males and females.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 23,
+        "text": "What is the writer doing in paragraph C?",
+        "options": [
+         {
+          "text": "supporting other research",
+          "letter": "A"
+         },
+         {
+          "text": "making a proposal",
+          "letter": "B"
+         },
+         {
+          "text": "rejecting a common belief",
+          "letter": "C"
+         },
+         {
+          "text": "describing limitations",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 24,
+        "text": "What does the writer suggest about the study of smell in paragraph E?",
+        "options": [
+         {
+          "text": "The measurement of smell is becoming more accurate.",
+          "letter": "A"
+         },
+         {
+          "text": "Researchers believe smell is a purely physical reaction.",
+          "letter": "B"
+         },
+         {
+          "text": "Most smells are inoffensive.",
+          "letter": "C"
+         },
+         {
+          "text": "Smell is yet to be defined.",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "Choose the correct letter A, B, C or D.",
+      "questionRange": "21-24"
+     },
+     {
+      "type": "tfni",
+      "title": "Questions 25-29: True/False/Not Given",
+      "options": [
+       "True",
+       "False",
+       "Not Given"
+      ],
+      "questions": [
+       {
+        "id": 25,
+        "text": "The research shows that the same scent can awake the same emotions in each person."
+       },
+       {
+        "id": 26,
+        "text": "It is always difficult to identify an individual we know from their outfits among others."
+       },
+       {
+        "id": 27,
+        "text": "People all around the world do not show the same attitude towards smell."
+       },
+       {
+        "id": 28,
+        "text": "Children can identify their mothers better than women identify their husbands."
+       },
+       {
+        "id": 29,
+        "text": "Researchers have already lost interest in terms of finding answers to some complex questions."
+       }
+      ],
+      "instruction": "Decide if the following statements agree with the information given in the text.",
+      "questionRange": "25-29"
+     }
+    ]
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 5",
+    "answers": {
+     "30": [
+      "Fortress"
+     ],
+     "31": [
+      "Bullfights"
+     ],
+     "32": [
+      "Opera"
+     ],
+     "33": [
+      "salt"
+     ],
+     "34": [
+      "C"
+     ],
+     "35": [
+      "C"
+     ]
+    },
+    "passage": {
+     "title": "Stadiums: past, present and future",
+     "content": "<p><strong>A</strong> Stadiums are among the oldest forms of urban architecture: vast stadiums where the public could watch sporting events were at the centre of western city life as far back as the ancient Greek and Roman Empires, well before the construction of the great medieval cathedrals and the grand 19th- and 20th-century railway stations which dominated urban skylines in later eras. Today, however, stadiums are regarded with growing scepticism.</p><p><strong>B</strong> The amphitheatre of Arles in southwest France, with a capacity of 25,000 spectators, is perhaps the best example of just how versatile stadiums can be. Built by the Romans in 90 AD, it became a fortress with four towers after the fifth century, and was then transformed into a village containing more than 200 houses. During the 19th century, it was converted back into an arena for the staging of bullfights.</p><p><strong>C</strong> Another example is the imposing arena of Verona in northern Italy, currently considered one of the world's prime sites for opera. The area in the centre of the Italian town of Fucca, known as the Piazza dell'Anfiteatro, is yet another example of an amphitheatre becoming absorbed into the fabric of the city. The site evolved in a similar way to Arles and was progressively filled with buildings from the Middle Ages until the 19th century, variously used as houses, a salt depot and a prison. Today, the ruins remain embedded in shops and residences surrounding the public square.</p><p><strong>D</strong> There are many similarities between modern stadiums and ancient amphitheatres intended for games. But some flexibility was lost at the beginning of the 20th century, as stadiums were developed using new products such as steel and reinforced concrete, and made use of bright lights for night-time matches.</p>"
+    },
+    "partNumber": 5,
+    "instruction": "Read the following text for questions 30-35.",
+    "explanations": {
+     "q30": {
+      "text": "The passage states that after being built by the Romans, the amphitheatre of Arles 'became a fortress with four towers after the fifth century'. This was its first transformation. That's why the correct answer is 'Fortress'.",
+      "quote": "Built by the Romans in 90 AD, it became a fortress with four towers after the fifth century, and was then transformed into a village containing more than 200 houses."
+     },
+     "q31": {
+      "text": "The text explains that the amphitheatre of Arles underwent a final conversion in the 19th century, when it was turned back into an arena for 'the staging of bullfights'. That's why the correct answer is 'Bullfights'.",
+      "quote": "During the 19th century, it was converted back into an arena for the staging of bullfights."
+     },
+     "q32": {
+      "text": "The passage provides the arena of Verona as another example of a repurposed stadium, noting that it is 'currently considered one of the world's prime sites for opera'. That's why the correct answer is 'Opera'.",
+      "quote": "Another example is the imposing arena of Verona in northern Italy, currently considered one of the world's prime sites for opera."
+     },
+     "q33": {
+      "text": "The text describes how the amphitheatre in Fucca was used for many purposes, including as a 'salt depot', which is a place for storing salt. That's why the correct answer is 'salt'.",
+      "quote": "The site evolved in a similar way to Arles and was progressively filled with buildings from the Middle Ages until the 19th century, variously used as houses, a salt depot and a prison."
+     },
+     "q34": {
+      "text": "The text states that stadiums were central to city life 'well before' the great cathedrals and railway stations, which dominated skylines in 'later eras'. This means they gained prominence after stadiums. That's why the correct answer is C.",
+      "quote": ""
+     },
+     "q35": {
+      "text": "The passage states the site was 'progressively filled with buildings from the Middle Ages until the 19th century', meaning constructions from before 1800 shaped its evolution. That's why the correct answer is C.",
+      "quote": "The site evolved in a similar way to Arles and was progressively filled with buildings from the Middle Ages until the 19th century, variously used as houses, a salt depot and a prison."
+     }
+    },
+    "questionRange": "30-35",
+    "questionSections": [
+     {
+      "type": "gap-fill",
+      "title": "Questions 30-33: Summary Completion",
+      "questions": [
+       {
+        "id": 30,
+        "hint": "converted first into a _____"
+       },
+       {
+        "id": 31,
+        "hint": "spectators could watch _____"
+       },
+       {
+        "id": 32,
+        "hint": "venue where _____ is performed"
+       },
+       {
+        "id": 33,
+        "hint": "including the storage of _____"
+       }
+      ],
+      "instruction": "Complete the summary below. Choose ONE WORD ONLY from the passage for each answer.",
+      "summaryText": "The Roman stadiums of Europe have proved very versatile. The amphitheatre of Arles, for example, was converted first into a <span class=\"gap-input\" data-gap=\"30\">_____(30)_____</span>, then into a residential area and finally into an arena where spectators could watch <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span>. Meanwhile, the arena in Verona is famous today as a venue where <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span> is performed. The site of Lucca's amphitheatre has also been used for many purposes over the centuries, including the storage of <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span>.",
+      "summaryTitle": "Roman amphitheatres",
+      "questionRange": "30-33"
+     },
+     {
+      "type": "mcq",
+      "title": "Questions 34-35: Multiple Choice",
+      "questions": [
+       {
+        "id": 34,
+        "text": "Which is true about cathedrals and the grand railway?",
+        "options": [
+         {
+          "text": "Both were used as public places to watch sporting events by ancient Greeks and Romans.",
+          "letter": "A"
+         },
+         {
+          "text": "Both were regarded as masterpieces at the same time as stadiums in ancient times.",
+          "letter": "B"
+         },
+         {
+          "text": "Both gained reputation for high buildings after stadiums did.",
+          "letter": "C"
+         },
+         {
+          "text": "Both gained reputation for high buildings after the stadiums did in the 1740s.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 35,
+        "text": "The area, which is regarded as the Piazza dell' Anfiteatro, ...",
+        "options": [
+         {
+          "text": "was used only for one purpose.",
+          "letter": "A"
+         },
+         {
+          "text": "was known for its few constructions.",
+          "letter": "B"
+         },
+         {
+          "text": "was influenced by the constructions, which were erected before 1800.",
+          "letter": "C"
+         },
+         {
+          "text": "was known for its best houses and prison in that time.",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "For questions 34-35, choose the correct answer A, B, C or D.",
+      "questionRange": "34-35"
+     }
+    ]
+   }
+  ],
+  "examDate": "2026-04-19",
+  "testInfo": {
+   "level": "B1-B2-C1",
+   "parts": 5,
+   "title": "CEFR B1-B2-C1 Reading Test 24",
+   "totalTime": 60,
+   "totalQuestions": 35
+  }
+ },
+ "created_at": "2026-05-12T16:21:46.24516+00:00",
+ "updated_at": "2026-10-11T10:54:25.762211+00:00"
+}

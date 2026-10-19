@@ -1,0 +1,1030 @@
+{
+ "id": 2241,
+ "mock_type": "ket-reading-writing",
+ "mock_number": 7,
+ "title": "KET Reading & Writing — Test 7",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "match-notices",
+    "items": [
+     {
+      "id": 1,
+      "answer": "E",
+      "prompt": "These are cheaper if you buy several of them."
+     },
+     {
+      "id": 2,
+      "answer": "C",
+      "prompt": "You can't get many different meals here."
+     },
+     {
+      "id": 3,
+      "answer": "A",
+      "prompt": "Put this in a cold place."
+     },
+     {
+      "id": 4,
+      "answer": "G",
+      "prompt": "You are too late to get a seat for this show."
+     },
+     {
+      "id": 5,
+      "answer": "B",
+      "prompt": "This place is not open all night."
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "F",
+     "number": 0,
+     "prompt": "Don't bring your dog in here."
+    },
+    "notices": [
+     {
+      "text": "KEEP IN FRIDGE",
+      "letter": "A"
+     },
+     {
+      "text": "Door\nlocked at midnight —\nask for key before going\nout.",
+      "letter": "B"
+     },
+     {
+      "text": "SOUP AND HOT PIES ONLY",
+      "letter": "C"
+     },
+     {
+      "text": "TICKETS FOR OASIS\nCONCERT ON SALE HERE\nfrom 8 p.m.",
+      "letter": "D"
+     },
+     {
+      "text": "ALL THIS WEEK\nBUY 5\nGET 1 FREE",
+      "letter": "E"
+     },
+     {
+      "text": "NO ANIMALS IN\nRESTAURANT",
+      "letter": "F"
+     },
+     {
+      "text": "ALL TICKETS SOLD",
+      "letter": "G"
+     },
+     {
+      "text": "USE BY 19 JULY",
+      "letter": "H"
+     }
+    ],
+    "partNumber": 1,
+    "instruction": [
+     "Which notice (A–H) says this (1–5)?",
+     "For questions 1–5, mark the correct letter A–H on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "mcq-gap-fill-sentences",
+    "items": [
+     {
+      "id": 6,
+      "answer": "B",
+      "options": [
+       {
+        "text": "look",
+        "letter": "A"
+       },
+       {
+        "text": "watch",
+        "letter": "B"
+       },
+       {
+        "text": "listen",
+        "letter": "C"
+       }
+      ],
+      "sentence": "'Let's get a video and _____ it at my house this evening,' she said."
+     },
+     {
+      "id": 7,
+      "answer": "C",
+      "options": [
+       {
+        "text": "pity",
+        "letter": "A"
+       },
+       {
+        "text": "thing",
+        "letter": "B"
+       },
+       {
+        "text": "idea",
+        "letter": "C"
+       }
+      ],
+      "sentence": "'That's a great _____!' said Jane. 'I've got nothing else to do.'"
+     },
+     {
+      "id": 8,
+      "answer": "A",
+      "options": [
+       {
+        "text": "chose",
+        "letter": "A"
+       },
+       {
+        "text": "decided",
+        "letter": "B"
+       },
+       {
+        "text": "thought",
+        "letter": "C"
+       }
+      ],
+      "sentence": "They went to the video shop and _____ a film with their favourite actor in it."
+     },
+     {
+      "id": 9,
+      "answer": "C",
+      "options": [
+       {
+        "text": "plates",
+        "letter": "A"
+       },
+       {
+        "text": "cups",
+        "letter": "B"
+       },
+       {
+        "text": "cans",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Then they bought some _____ of cola to drink and a big bag of sweets."
+     },
+     {
+      "id": 10,
+      "answer": "A",
+      "options": [
+       {
+        "text": "enjoyed",
+        "letter": "A"
+       },
+       {
+        "text": "laughed",
+        "letter": "B"
+       },
+       {
+        "text": "liked",
+        "letter": "C"
+       }
+      ],
+      "sentence": "They took everything back to Lisa's house and _____ the film together."
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "text": "spoke",
+       "letter": "A"
+      },
+      {
+       "text": "talked",
+       "letter": "B"
+      },
+      {
+       "text": "called",
+       "letter": "C"
+      }
+     ],
+     "sentence": "Lisa _____ her friend Jane on the phone."
+    },
+    "partNumber": 2,
+    "instruction": [
+     "Read the sentences (6–10) about Lisa and her friend, Jane.",
+     "Choose the best word (A, B or C) for each space.",
+     "For questions 6–10, mark A, B or C on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-response",
+    "items": [
+     {
+      "id": 11,
+      "answer": "A",
+      "prompt": "Let's walk to the park.",
+      "options": [
+       {
+        "text": "All right.",
+        "letter": "A"
+       },
+       {
+        "text": "I think so.",
+        "letter": "B"
+       },
+       {
+        "text": "I'm sorry.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "answer": "B",
+      "prompt": "When did you arrive?",
+      "options": [
+       {
+        "text": "Tomorrow.",
+        "letter": "A"
+       },
+       {
+        "text": "Yesterday.",
+        "letter": "B"
+       },
+       {
+        "text": "For two days.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "answer": "C",
+      "prompt": "Shall I open the window?",
+      "options": [
+       {
+        "text": "Yes, I shall.",
+        "letter": "A"
+       },
+       {
+        "text": "Yes, you will.",
+        "letter": "B"
+       },
+       {
+        "text": "Yes, please.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "answer": "B",
+      "prompt": "I got a letter from Paul this morning.",
+      "options": [
+       {
+        "text": "I'm afraid not.",
+        "letter": "A"
+       },
+       {
+        "text": "That's nice.",
+        "letter": "B"
+       },
+       {
+        "text": "He's fine.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "answer": "C",
+      "prompt": "How's your sister?",
+      "options": [
+       {
+        "text": "She's Jane.",
+        "letter": "A"
+       },
+       {
+        "text": "She's at school.",
+        "letter": "B"
+       },
+       {
+        "text": "She's very well.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "answer": "B",
+     "number": 0,
+     "prompt": "What's the time?",
+     "options": [
+      {
+       "text": "Tuesday.",
+       "letter": "A"
+      },
+      {
+       "text": "Half past eight.",
+       "letter": "B"
+      },
+      {
+       "text": "1998.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partLetter": "a",
+    "partNumber": 3,
+    "instruction": [
+     "Complete the five conversations.",
+     "For questions 11–15, mark A, B or C on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "type": "match-dialogue",
+    "items": [
+     {
+      "id": 16,
+      "answer": "B"
+     },
+     {
+      "id": 17,
+      "answer": "F"
+     },
+     {
+      "id": 18,
+      "answer": "H"
+     },
+     {
+      "id": 19,
+      "answer": "A"
+     },
+     {
+      "id": 20,
+      "answer": "E"
+     }
+    ],
+    "example": {
+     "answer": "D",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "I'll take the cheaper one.",
+      "letter": "A"
+     },
+     {
+      "text": "Oh, it's for me. I want a guide book.",
+      "letter": "B"
+     },
+     {
+      "text": "I haven't got any children.",
+      "letter": "C"
+     },
+     {
+      "text": "Yes, please. I'd like a book about London.",
+      "letter": "D"
+     },
+     {
+      "text": "No, thank you. I want to use it now.",
+      "letter": "E"
+     },
+     {
+      "text": "That's very heavy. Have you got a smaller one?",
+      "letter": "F"
+     },
+     {
+      "text": "Is it a good book?",
+      "letter": "G"
+     },
+     {
+      "text": "That looks better. How much is it?",
+      "letter": "H"
+     }
+    ],
+    "dialogue": [
+     {
+      "line": "Good morning. Can I help you?",
+      "speaker": "Assistant"
+     },
+     {
+      "gap": 0,
+      "speaker": "Tourist"
+     },
+     {
+      "line": "For children or adults?",
+      "speaker": "Assistant"
+     },
+     {
+      "gap": 16,
+      "speaker": "Tourist"
+     },
+     {
+      "line": "A lot of tourists buy this one.",
+      "speaker": "Assistant"
+     },
+     {
+      "gap": 17,
+      "speaker": "Tourist"
+     },
+     {
+      "line": "What about this one with fewer pages?",
+      "speaker": "Assistant"
+     },
+     {
+      "gap": 18,
+      "speaker": "Tourist"
+     },
+     {
+      "line": "The hardback is £8, and the paperback £3.50.",
+      "speaker": "Assistant"
+     },
+     {
+      "gap": 19,
+      "speaker": "Tourist"
+     },
+     {
+      "line": "Fine. Shall I put it in a bag for you?",
+      "speaker": "Assistant"
+     },
+     {
+      "gap": 20,
+      "speaker": "Tourist"
+     },
+     {
+      "line": "Here you are. Thank you.",
+      "speaker": "Assistant"
+     },
+     {
+      "line": "Thanks. Goodbye.",
+      "speaker": "Tourist"
+     }
+    ],
+    "partLetter": "b",
+    "partNumber": 3,
+    "instruction": [
+     "Complete the conversation.",
+     "What does the tourist say to the shop assistant?",
+     "For questions 16–20, mark the correct letter A–H on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "type": "mcq-passage-stems",
+    "items": [
+     {
+      "id": 21,
+      "stem": "Before Rebecca climbed Everest, she worked for",
+      "answer": "B",
+      "options": [
+       {
+        "text": "a bookshop.",
+        "letter": "A"
+       },
+       {
+        "text": "a newspaper.",
+        "letter": "B"
+       },
+       {
+        "text": "a travel agent.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 22,
+      "stem": "Rebecca went to Everest",
+      "answer": "B",
+      "options": [
+       {
+        "text": "with her family.",
+        "letter": "A"
+       },
+       {
+        "text": "with a climbing group.",
+        "letter": "B"
+       },
+       {
+        "text": "without anyone.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 23,
+      "stem": "Rebecca didn't take much luggage because she",
+      "answer": "C",
+      "options": [
+       {
+        "text": "didn't have many things.",
+        "letter": "A"
+       },
+       {
+        "text": "had a bad back.",
+        "letter": "B"
+       },
+       {
+        "text": "had to carry it herself.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 24,
+      "stem": "Rebecca didn't wash on Everest because",
+      "answer": "B",
+      "options": [
+       {
+        "text": "it was too cold.",
+        "letter": "A"
+       },
+       {
+        "text": "there was not enough water.",
+        "letter": "B"
+       },
+       {
+        "text": "she is a dirty person.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 25,
+      "stem": "Rebecca carried water for",
+      "answer": "A",
+      "options": [
+       {
+        "text": "drinking.",
+        "letter": "A"
+       },
+       {
+        "text": "cooking.",
+        "letter": "B"
+       },
+       {
+        "text": "cleaning her teeth.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 26,
+      "stem": "Rebecca became famous when she",
+      "answer": "A",
+      "options": [
+       {
+        "text": "got to the highest place in the world.",
+        "letter": "A"
+       },
+       {
+        "text": "wrote a book about her trip.",
+        "letter": "B"
+       },
+       {
+        "text": "was on a television programme.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 27,
+      "stem": "After her trip, Rebecca",
+      "answer": "B",
+      "options": [
+       {
+        "text": "earned the same money.",
+        "letter": "A"
+       },
+       {
+        "text": "stayed in the same flat.",
+        "letter": "B"
+       },
+       {
+        "text": "did the same job.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 4",
+    "article": "Rebecca Stevens was the first woman to climb Mount Everest. Before she went up the highest mountain in the world, she was a journalist and lived in a small flat in south London.\n\nIn 1993, Rebecca left her job and her family and travelled to Asia with some other climbers. She found that life on Everest is hard. 'You must carry everything on your back,' she explained, 'so you can only take things that you will need. You can't wash on the mountain, and in the end I didn't even take a toothbrush. I am usually a clean person but there is no water, only snow. Water is very heavy so you only take enough to drink!'\n\nWhen Rebecca reached the top of Mount Everest on May 17 1993, it was the best moment of her life. Suddenly she became famous.\n\nNow she has written a book about the trip and people often ask her to talk about it. She has a new job too, on a science programme on television.\n\nRebecca is well known today and she has more money, but she still lives in the little flat in south London among her pictures and books about mountains!",
+    "example": {
+     "stem": "Everest is a",
+     "answer": "B",
+     "number": 0,
+     "options": [
+      {
+       "text": "country.",
+       "letter": "A"
+      },
+      {
+       "text": "mountain.",
+       "letter": "B"
+      },
+      {
+       "text": "town.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partNumber": 4,
+    "instruction": [
+     "Read the article about a young woman and then answer the questions.",
+     "For questions 21–27, mark A, B or C on the answer sheet."
+    ],
+    "articleTitle": "REBECCA STEVENS",
+    "questionsLabel": "QUESTIONS 21–27"
+   },
+   {
+    "type": "mcq-cloze-passage",
+    "items": [
+     {
+      "id": 28,
+      "answer": "A",
+      "options": [
+       {
+        "text": "than",
+        "letter": "A"
+       },
+       {
+        "text": "of",
+        "letter": "B"
+       },
+       {
+        "text": "like",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 29,
+      "answer": "B",
+      "options": [
+       {
+        "text": "on",
+        "letter": "A"
+       },
+       {
+        "text": "in",
+        "letter": "B"
+       },
+       {
+        "text": "at",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 30,
+      "answer": "A",
+      "options": [
+       {
+        "text": "few",
+        "letter": "A"
+       },
+       {
+        "text": "little",
+        "letter": "B"
+       },
+       {
+        "text": "lot",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 31,
+      "answer": "C",
+      "options": [
+       {
+        "text": "or",
+        "letter": "A"
+       },
+       {
+        "text": "and",
+        "letter": "B"
+       },
+       {
+        "text": "but",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 32,
+      "answer": "B",
+      "options": [
+       {
+        "text": "them",
+        "letter": "A"
+       },
+       {
+        "text": "their",
+        "letter": "B"
+       },
+       {
+        "text": "its",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 33,
+      "answer": "B",
+      "options": [
+       {
+        "text": "a",
+        "letter": "A"
+       },
+       {
+        "text": "an",
+        "letter": "B"
+       },
+       {
+        "text": "one",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 34,
+      "answer": "A",
+      "options": [
+       {
+        "text": "for",
+        "letter": "A"
+       },
+       {
+        "text": "to",
+        "letter": "B"
+       },
+       {
+        "text": "by",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 35,
+      "answer": "C",
+      "options": [
+       {
+        "text": "ate",
+        "letter": "A"
+       },
+       {
+        "text": "eats",
+        "letter": "B"
+       },
+       {
+        "text": "eat",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 5",
+    "example": {
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "text": "large",
+       "letter": "A"
+      },
+      {
+       "text": "larger",
+       "letter": "B"
+      },
+      {
+       "text": "largest",
+       "letter": "C"
+      }
+     ]
+    },
+    "passage": "The ostrich is the {0} bird in the world, and an adult can be more {28} 90 kilos. Most wild ostriches live {29} southern Africa, but there are only a {30} of them left. Like all birds, ostriches have wings, {31} they cannot fly. They use {32} wings to help them turn when they are running. Ostriches can run very fast, from 65 to 90 kilometres {33} hour, so it is very difficult {34} other animals to catch them.\n\nBaby ostriches are the same size as chickens and take about 3 years to become adults. Ostriches {35} plants and can live for many days without water.",
+    "partNumber": 5,
+    "instruction": [
+     "Read the article about the ostrich.",
+     "Choose the best word (A, B or C) for each space (28–35).",
+     "For questions 28–35, mark A, B or C on the answer sheet."
+    ],
+    "passageTitle": "THE OSTRICH",
+    "questionsLabel": "QUESTIONS 28–35"
+   },
+   {
+    "type": "vocab-first-letter",
+    "items": [
+     {
+      "id": 36,
+      "answer": "table",
+      "prompt": "People sit round this to eat their meals.",
+      "letters": 5,
+      "firstLetter": "t"
+     },
+     {
+      "id": 37,
+      "answer": "cupboard",
+      "prompt": "You can keep your clothes in this.",
+      "letters": 8,
+      "firstLetter": "c"
+     },
+     {
+      "id": 38,
+      "answer": "shower",
+      "prompt": "You wash yourself with soap and water in this.",
+      "letters": 6,
+      "firstLetter": "s"
+     },
+     {
+      "id": 39,
+      "answer": "window",
+      "prompt": "You look through this to see outside.",
+      "letters": 6,
+      "firstLetter": "w"
+     },
+     {
+      "id": 40,
+      "answer": "shelf",
+      "prompt": "People often put books or flowers on this.",
+      "letters": 5,
+      "firstLetter": "s"
+     }
+    ],
+    "label": "PART 6",
+    "example": {
+     "answer": "bed",
+     "number": 0,
+     "prompt": "You sleep in this at night.",
+     "firstLetter": "b"
+    },
+    "partNumber": 6,
+    "instruction": [
+     "Read the descriptions (36–40) of some things you can find in a house.",
+     "What is the word for each description?",
+     "The first letter is already there. There is one space for each other letter in the word.",
+     "For questions 36–40, write the words on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 36–40"
+   },
+   {
+    "type": "open-cloze-letter",
+    "items": [
+     {
+      "id": 41,
+      "answer": "to"
+     },
+     {
+      "id": 42,
+      "answer": "with"
+     },
+     {
+      "id": 43,
+      "answer": "at"
+     },
+     {
+      "id": 44,
+      "answer": "we"
+     },
+     {
+      "id": 45,
+      "answer": "this"
+     },
+     {
+      "id": 46,
+      "answer": "to"
+     },
+     {
+      "id": 47,
+      "answer": "am"
+     },
+     {
+      "id": 48,
+      "answer": "ask"
+     },
+     {
+      "id": 49,
+      "answer": "you"
+     },
+     {
+      "id": 50,
+      "answer": "about"
+     }
+    ],
+    "label": "PART 7",
+    "example": {
+     "answer": "like",
+     "number": 0
+    },
+    "letters": [
+     {
+      "body": "Would you (Example: like) to come {41} the cinema {42} me after school today? We can go to see Pocahontas at the ABC cinema. The film starts {43} 6 o'clock. Shall {44} meet outside the cinema?",
+      "header": "",
+      "closing": "Love,\nIsabella",
+      "greeting": "Dear Jacqueline,"
+     },
+     {
+      "body": "I am very sorry but I can't go to the cinema {45} evening. My mother has {46} work, and I {47} going to cook dinner.\n\nWhy don't you {48} Karen to go? I hope {49} like the film. You can tell me {50} about it tomorrow.",
+      "header": "",
+      "closing": "Love,\nJacqueline",
+      "greeting": "Dear Isabella,"
+     }
+    ],
+    "partNumber": 7,
+    "instruction": [
+     "Complete these letters.",
+     "Write ONE word for each space (41–50).",
+     "For questions 41–50, write your words on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 41–50"
+   },
+   {
+    "note": {
+     "body": "Dear Joe,\n\nWe like Oxford and I love my job there. We're renting a nice house at 23 Mount Road. We arrived in Leeds yesterday and will go back to Oxford tomorrow. I am here for a meeting and my wife, Keiko, has come too. She has a job as a teacher in Oxford. We will return to Japan next year.",
+     "dateLine": "Grange Hotel, Leeds\nSunday 14 April",
+     "signature": "Yours,\nToshi"
+    },
+    "rows": [
+     {
+      "label": "Name:",
+      "prefilled": "Toshi Ando"
+     },
+     {
+      "id": 51,
+      "label": "UK address:",
+      "answer": "23 Mount Road, Oxford"
+     },
+     {
+      "id": 52,
+      "label": "Nationality:",
+      "answer": "Japanese"
+     },
+     {
+      "id": 53,
+      "label": "Occupation:",
+      "answer": "computer engineer"
+     },
+     {
+      "id": 54,
+      "label": "Name of wife/husband:",
+      "answer": "Keiko Ando"
+     },
+     {
+      "id": 55,
+      "label": "Leaving date:",
+      "answer": "Monday 15th April"
+     }
+    ],
+    "type": "info-transfer-notes",
+    "label": "PART 8",
+    "notice": {
+     "body": "Toshi Ando\nEngineer\n\nDate and place of birth: 12.03.76\nTokyo, Japan\n\nMarried, no children",
+     "title": "OXFORD WORLD COMPUTERS"
+    },
+    "notesTitle": "HOTEL REGISTRATION FORM",
+    "partNumber": 8,
+    "instruction": [
+     "Read the letter and the information about Mr Ando, who is staying at a hotel in Leeds.",
+     "Fill in the Hotel Registration Form.",
+     "For questions 51–55, write the information on the answer sheet."
+    ],
+    "notesSubtitle": "",
+    "questionsLabel": "QUESTIONS 51–55"
+   },
+   {
+    "type": "writing-postcard",
+    "items": [
+     {
+      "id": 56,
+      "type": "free-text",
+      "answer": "Hi Susi\nWould you like to come to the party with me today? The party is in my house at 7.00pm. If you are not busy today, please call me as soon as posible.\nSee you!\nAlana",
+      "maxWords": 35,
+      "minWords": 25
+     }
+    ],
+    "label": "PART 9",
+    "footer": [
+     "Write 25–35 words.",
+     "Write your note on the answer sheet."
+    ],
+    "prompt": "",
+    "wordCount": "25–35 words",
+    "partNumber": 9,
+    "instruction": [
+     "You are going to have a party. Write a note to a friend:",
+     "— Ask your friend to come.",
+     "— Say when and where the party is."
+    ],
+    "questionsLabel": "QUESTION 56",
+    "promptSignature": ""
+   }
+  ],
+  "testInfo": {
+   "id": "ket-rw-07",
+   "level": "A2",
+   "paper": "Paper 1",
+   "parts": 9,
+   "title": "KET Reading & Writing — Test 7",
+   "totalTime": 70,
+   "totalQuestions": 56
+  }
+ },
+ "created_at": "2026-10-14T06:45:00.309713+00:00",
+ "updated_at": "2026-10-14T06:46:48.386661+00:00"
+}

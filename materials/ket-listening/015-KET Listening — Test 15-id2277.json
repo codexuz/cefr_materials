@@ -1,0 +1,458 @@
+{
+ "id": 2277,
+ "mock_type": "ket-listening",
+ "mock_number": 15,
+ "title": "KET Listening — Test 15",
+ "status": "published",
+ "mock_data": {
+  "audio": {
+   "base": "https://audio.mock-stream.com/KET-Listening/test15/",
+   "files": {
+    "1": "PART1.m4a",
+    "2": "PART2.m4a",
+    "3": "PART3.m4a",
+    "4": "PART4.m4a",
+    "5": "PART5.m4a"
+   }
+  },
+  "parts": [
+   {
+    "type": "picture-mcq",
+    "items": [
+     {
+      "id": 1,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q1A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q1B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q1C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What's George doing now?"
+     },
+     {
+      "id": 2,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q2A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q2B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q2C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Which room will the woman stay in?"
+     },
+     {
+      "id": 3,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q3A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q3B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q3C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What will the boy wear in the race?"
+     },
+     {
+      "id": 4,
+      "answer": "A",
+      "options": [
+       {
+        "text": "YELLOW",
+        "letter": "A"
+       },
+       {
+        "text": "GREEN",
+        "letter": "B"
+       },
+       {
+        "text": "ORANGE",
+        "letter": "C"
+       }
+      ],
+      "question": "What colour will the room be?"
+     },
+     {
+      "id": 5,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q5A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q5B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q5C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Where did Minnie and Richard first meet?"
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "image": "q0A.png",
+       "letter": "A"
+      },
+      {
+       "image": "q0B.png",
+       "letter": "B"
+      },
+      {
+       "image": "q0C.png",
+       "letter": "C"
+      }
+     ],
+     "question": "How many people were at the meeting?"
+    },
+    "imageBase": "https://audio.mock-stream.com/KET-Listening/test15/p1/",
+    "partNumber": 1,
+    "instruction": [
+     "You will hear five short conversations.",
+     "You will hear each conversation twice.",
+     "There is one question for each conversation.",
+     "For questions 1–5, put a tick (✓) under the right answer."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "matching-list",
+    "items": [
+     {
+      "id": 6,
+      "name": "Tuesday",
+      "answer": "B"
+     },
+     {
+      "id": 7,
+      "name": "Wednesday",
+      "answer": "F"
+     },
+     {
+      "id": 8,
+      "name": "Thursday",
+      "answer": "C"
+     },
+     {
+      "id": 9,
+      "name": "Friday",
+      "answer": "H"
+     },
+     {
+      "id": 10,
+      "name": "Saturday",
+      "answer": "G"
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "name": "Monday",
+     "answer": "D",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "badminton",
+      "letter": "A"
+     },
+     {
+      "text": "basketball",
+      "letter": "B"
+     },
+     {
+      "text": "football",
+      "letter": "C"
+     },
+     {
+      "text": "golf",
+      "letter": "D"
+     },
+     {
+      "text": "hockey",
+      "letter": "E"
+     },
+     {
+      "text": "swimming",
+      "letter": "F"
+     },
+     {
+      "text": "tennis",
+      "letter": "G"
+     },
+     {
+      "text": "volleyball",
+      "letter": "H"
+     }
+    ],
+    "scenario": "Jack and Mark talking about a new sports centre — sports per day",
+    "leftLabel": "Days",
+    "partNumber": 2,
+    "rightLabel": "Sports",
+    "instruction": [
+     "Listen to Jack and Mark talking about a new sports centre.",
+     "Which sport can they do each day at the centre?",
+     "For questions 6–10, write a letter A–H next to each day.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-conversation",
+    "items": [
+     {
+      "id": 11,
+      "stem": "Diane went to London by",
+      "answer": "B",
+      "options": [
+       {
+        "text": "car.",
+        "letter": "A"
+       },
+       {
+        "text": "bus.",
+        "letter": "B"
+       },
+       {
+        "text": "underground.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "stem": "Diane and her friends ate",
+      "answer": "B",
+      "options": [
+       {
+        "text": "Mexican food.",
+        "letter": "A"
+       },
+       {
+        "text": "Chinese food.",
+        "letter": "B"
+       },
+       {
+        "text": "Spanish food.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "stem": "Diane says the restaurant was",
+      "answer": "A",
+      "options": [
+       {
+        "text": "full.",
+        "letter": "A"
+       },
+       {
+        "text": "expensive.",
+        "letter": "B"
+       },
+       {
+        "text": "quiet.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "stem": "After the meal, Diane and her friends",
+      "answer": "C",
+      "options": [
+       {
+        "text": "sat and talked.",
+        "letter": "A"
+       },
+       {
+        "text": "saw a film.",
+        "letter": "B"
+       },
+       {
+        "text": "walked by the water.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "stem": "During Diane's trip to London,",
+      "answer": "C",
+      "options": [
+       {
+        "text": "it rained.",
+        "letter": "A"
+       },
+       {
+        "text": "it snowed.",
+        "letter": "B"
+       },
+       {
+        "text": "it was windy.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "stem": "Diane went to London yesterday",
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "text": "morning.",
+       "letter": "A"
+      },
+      {
+       "text": "afternoon.",
+       "letter": "B"
+      },
+      {
+       "text": "evening.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partNumber": 3,
+    "instruction": [
+     "Listen to Diane talking to a friend about a trip to London.",
+     "For questions 11–15, tick (✓) A, B or C.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "rows": [
+     {
+      "id": 16,
+      "label": "Name of film:",
+      "answer": "Cafe",
+      "prefix": "Blue"
+     },
+     {
+      "id": 17,
+      "label": "For people:",
+      "answer": "12",
+      "suffix": "years old or more"
+     },
+     {
+      "id": 18,
+      "label": "Cost:",
+      "answer": "5.99",
+      "prefix": "£"
+     },
+     {
+      "id": 19,
+      "label": "Video shop in:",
+      "answer": "Shirley",
+      "suffix": "Street"
+     },
+     {
+      "id": 20,
+      "label": "Opposite:",
+      "answer": "the bank"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 4",
+    "subtitle": "Actor in film: Brad Smith",
+    "noteTitle": "VIDEO",
+    "partNumber": 4,
+    "instruction": [
+     "You will hear a woman talking to a shop assistant about buying a video film for her daughter.",
+     "Listen and complete questions 16–20.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "rows": [
+     {
+      "id": 21,
+      "label": "Name:",
+      "answer": "Teale",
+      "prefix": "Dr Robert"
+     },
+     {
+      "id": 22,
+      "label": "Subject:",
+      "answer": "travel",
+      "prefix": "Space"
+     },
+     {
+      "id": 23,
+      "label": "Place:",
+      "answer": "hall",
+      "prefix": "School"
+     },
+     {
+      "id": 24,
+      "label": "Time of talk:",
+      "answer": "2.30",
+      "suffix": "p.m."
+     },
+     {
+      "id": 25,
+      "label": "Tickets for parents cost:",
+      "answer": "3.85",
+      "prefix": "£"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 5",
+    "subtitle": "Visiting Speaker\nDay: Thursday",
+    "noteTitle": "BLACKBURN SCHOOL",
+    "partNumber": 5,
+    "instruction": [
+     "You will hear some information about a visitor to a school.",
+     "Listen and complete questions 21–25.",
+     "You will hear the information twice."
+    ],
+    "questionsLabel": "QUESTIONS 21–25"
+   }
+  ],
+  "testInfo": {
+   "id": "ket-l-15",
+   "level": "A2",
+   "paper": "Paper 2",
+   "parts": 5,
+   "title": "KET Listening — Test 15",
+   "totalTime": 30,
+   "totalQuestions": 25
+  }
+ },
+ "created_at": "2026-10-14T06:45:26.385876+00:00",
+ "updated_at": "2026-10-14T06:47:12.846933+00:00"
+}

@@ -1,0 +1,508 @@
+{
+ "id": 498,
+ "mock_type": "cefr-listening",
+ "mock_number": 43,
+ "title": "CEFR Listening Mock 43",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "mcq-reply",
+    "title": "Part 1",
+    "answers": {
+     "1": "A",
+     "2": "B",
+     "3": "B",
+     "4": "A",
+     "5": "C",
+     "6": "C",
+     "7": "B",
+     "8": "B"
+    },
+    "audioFile": "https://audio.mock-stream.com/test43/PART 1.m4a",
+    "questions": [
+     {
+      "id": 1,
+      "options": [
+       {
+        "text": "I'll go with my children.",
+        "letter": "A"
+       },
+       {
+        "text": "I've just come.",
+        "letter": "B"
+       },
+       {
+        "text": "Nobody wants to.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "options": [
+       {
+        "text": "Yesterday, I saw them at the swimming-pool.",
+        "letter": "A"
+       },
+       {
+        "text": "She is the very girl we need.",
+        "letter": "B"
+       },
+       {
+        "text": "Her friend doesn't study well.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 3,
+      "options": [
+       {
+        "text": "I'll buy another one.",
+        "letter": "A"
+       },
+       {
+        "text": "I have made it myself.",
+        "letter": "B"
+       },
+       {
+        "text": "Your dress is too short.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 4,
+      "options": [
+       {
+        "text": "They usually discuss their family problems.",
+        "letter": "A"
+       },
+       {
+        "text": "A woman always had something to tell.",
+        "letter": "B"
+       },
+       {
+        "text": "Some of the women prefer listening to men.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 5,
+      "options": [
+       {
+        "text": "I suppose it began late.",
+        "letter": "A"
+       },
+       {
+        "text": "At that time, they were very far from the stadium.",
+        "letter": "B"
+       },
+       {
+        "text": "I think Nick didn't take part in it.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 6,
+      "options": [
+       {
+        "text": "Please take a piece of cake.",
+        "letter": "A"
+       },
+       {
+        "text": "Yes, ice cream please.",
+        "letter": "B"
+       },
+       {
+        "text": "Thanks, I haven't eaten my first piece yet.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 7,
+      "options": [
+       {
+        "text": "Oh, it is very difficult to get a good book these days.",
+        "letter": "A"
+       },
+       {
+        "text": "Pete is, but I read better than he does.",
+        "letter": "B"
+       },
+       {
+        "text": "We never read books during math lessons.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 8,
+      "options": [
+       {
+        "text": "We bought some chocolate for our children.",
+        "letter": "A"
+       },
+       {
+        "text": "I would like to open a bank account.",
+        "letter": "B"
+       },
+       {
+        "text": "He didn't come to the school yesterday.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "partNumber": 1,
+    "instruction": "You will hear some sentences. Choose the correct reply to each sentence (A, B, or C).",
+    "questionRange": "1-8"
+   },
+   {
+    "type": "gap-fill-form",
+    "title": "Part 2",
+    "answers": {
+     "9": "DETECTIVE",
+     "10": "PHOTOS",
+     "11": "ELECTRIC",
+     "12": "WINDOWS",
+     "13": "PAPER",
+     "14": "POLLUTION"
+    },
+    "audioFile": "https://audio.mock-stream.com/test43/PART 2.m4a",
+    "formTitle": "THE MODEL MAKER",
+    "partNumber": 2,
+    "formContent": [
+     {
+      "text": "Peter compares his job to the type of work done by a",
+      "type": "item-gap",
+      "gapId": 9,
+      "gapSuffix": "."
+     },
+     {
+      "text": "In Peter's hardest job, he was given some",
+      "type": "item-gap",
+      "gapId": 10,
+      "gapSuffix": "of the building to work from."
+     },
+     {
+      "text": "Peter says his models look best when they have",
+      "type": "item-gap",
+      "gapId": 11,
+      "gapSuffix": "light directed onto them."
+     },
+     {
+      "text": "The Marney House model took a long time to make because it had so many",
+      "type": "item-gap",
+      "gapId": 12,
+      "gapSuffix": "and roof tiles."
+     },
+     {
+      "text": "The roof tiles on the model of Marney House are made of",
+      "type": "item-gap",
+      "gapId": 13,
+      "gapSuffix": "."
+     },
+     {
+      "text": "Peter uses watercolour paint to reproduce the effects of the weather and",
+      "type": "item-gap",
+      "gapId": 14,
+      "gapSuffix": "."
+     }
+    ],
+    "instruction": "You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. Write ONE WORD and/or A NUMBER for each answer.",
+    "questionRange": "9-14"
+   },
+   {
+    "type": "matching-speakers",
+    "title": "Part 3",
+    "answers": {
+     "15": "D",
+     "16": "B",
+     "17": "F",
+     "18": "C",
+     "19": "A"
+    },
+    "options": [
+     {
+      "text": "to help other people",
+      "letter": "A"
+     },
+     {
+      "text": "to make some money",
+      "letter": "B"
+     },
+     {
+      "text": "to make a change from their work",
+      "letter": "C"
+     },
+     {
+      "text": "to meet new people",
+      "letter": "D"
+     },
+     {
+      "text": "to try to win a prize",
+      "letter": "E"
+     },
+     {
+      "text": "to overcome a fear",
+      "letter": "F"
+     }
+    ],
+    "speakers": [
+     {
+      "id": 15,
+      "label": "Speaker 1"
+     },
+     {
+      "id": 16,
+      "label": "Speaker 2"
+     },
+     {
+      "id": 17,
+      "label": "Speaker 3"
+     },
+     {
+      "id": 18,
+      "label": "Speaker 4"
+     },
+     {
+      "id": 19,
+      "label": "Speaker 5"
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test43/PART 3.m4a",
+    "partNumber": 3,
+    "instruction": "You will hear five short extracts in which people talk about deciding to take up new interests. For questions 15-19, choose from the list (A-F) the reason each speaker gives for deciding to take up their new interest. Use the letters only once. There is ONE EXTRA answer which you do not need to use.",
+    "questionRange": "15-19"
+   },
+   {
+    "type": "map-labeling",
+    "title": "Part 4",
+    "answers": {
+     "20": "G",
+     "21": "C",
+     "22": "B",
+     "23": "D",
+     "24": "A"
+    },
+    "mapImage": "https://audio.mock-stream.com/test43/map.png",
+    "mapTitle": "FARLEY HOUSE",
+    "audioFile": "https://audio.mock-stream.com/test43/PART 4.m4a",
+    "mapLabels": [
+     "A",
+     "B",
+     "C",
+     "D",
+     "E",
+     "F",
+     "G",
+     "H"
+    ],
+    "questions": [
+     {
+      "id": 20,
+      "place": "Farm shop"
+     },
+     {
+      "id": 21,
+      "place": "Disabled entry"
+     },
+     {
+      "id": 22,
+      "place": "Adventure playground"
+     },
+     {
+      "id": 23,
+      "place": "Kitchen gardens"
+     },
+     {
+      "id": 24,
+      "place": "The Temple of the Four Winds"
+     }
+    ],
+    "partNumber": 4,
+    "instruction": "You will hear someone giving a talk. Label the places (20-24) on the map (A-H). There are THREE extra options which you do not need to use.",
+    "questionRange": "20-24"
+   },
+   {
+    "type": "mcq-extracts",
+    "title": "Part 5",
+    "answers": {
+     "25": "B",
+     "26": "C",
+     "27": "C",
+     "28": "A",
+     "29": "B",
+     "30": "C"
+    },
+    "extracts": [
+     {
+      "title": "Extract One",
+      "context": "You hear two people discussing an emergency situation.",
+      "questions": [
+       {
+        "id": 25,
+        "text": "What are the people discussing?",
+        "options": [
+         {
+          "text": "a fire",
+          "letter": "A"
+         },
+         {
+          "text": "floods",
+          "letter": "B"
+         },
+         {
+          "text": "an earthquake",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 26,
+        "text": "What is the purpose of the discussion?",
+        "options": [
+         {
+          "text": "to prevent listeners from going to the place",
+          "letter": "A"
+         },
+         {
+          "text": "to get donations for the people affected by the situation",
+          "letter": "B"
+         },
+         {
+          "text": "to provide factual information about the current state of emergency",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Extract Two",
+      "context": "You hear two colleagues talking about another colleague who is leaving the company.",
+      "questions": [
+       {
+        "id": 27,
+        "text": "Both speakers agree that",
+        "options": [
+         {
+          "text": "the leaving colleague caused lower profits for the company.",
+          "letter": "A"
+         },
+         {
+          "text": "their colleague's decision to leave came as a surprise.",
+          "letter": "B"
+         },
+         {
+          "text": "working without the leaving colleague is going to be less enjoyable.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 28,
+        "text": "What is the speakers' attitude towards their work?",
+        "options": [
+         {
+          "text": "It lacks variety.",
+          "letter": "A"
+         },
+         {
+          "text": "It is too physically taxing.",
+          "letter": "B"
+         },
+         {
+          "text": "It can cause emotional strain.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Extract Three",
+      "context": "You hear a photographer trying to take a picture of an actress in a hotel.",
+      "questions": [
+       {
+        "id": 29,
+        "text": "What is the aim of the man?",
+        "options": [
+         {
+          "text": "to apologise",
+          "letter": "A"
+         },
+         {
+          "text": "to convince",
+          "letter": "B"
+         },
+         {
+          "text": "to clarify",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 30,
+        "text": "What is the actress's attitude to the conversation?",
+        "options": [
+         {
+          "text": "embarrassment",
+          "letter": "A"
+         },
+         {
+          "text": "surprise",
+          "letter": "B"
+         },
+         {
+          "text": "impatience",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test43/PART 5.m4a",
+    "partNumber": 5,
+    "instruction": "You will hear three extracts. Choose the correct answer (A, B or C) for each question (25-30). There are TWO questions for each extract.",
+    "questionRange": "25-30"
+   },
+   {
+    "type": "sentence-completion",
+    "title": "Part 6",
+    "answers": {
+     "31": "COLONY",
+     "32": "WOOD",
+     "33": "FEEDBACK",
+     "34": "STAIRCASE",
+     "35": "INTELLIGENCE"
+    },
+    "audioFile": "https://audio.mock-stream.com/test43/PART 6.m4a",
+    "partNumber": 6,
+    "instruction": "You will hear a part of a lecture. For each question, fill in the missing information in the numbered space. Write no more than ONE WORD for each answer.",
+    "passageTitle": "ROBOTS LIKE TERMITES",
+    "questionRange": "31-35",
+    "passageContent": "Jim says termites differ from bees in that a queen is not responsible for organising their building work.<br><br>Jim uses the word <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span> to refer to the group of robots he's created to function as independent units.<br><br>Jim observed termites depositing partially consumed <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span> in shared habitats, which activated a response from other termites.<br><br>Jim states that the robots receive <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span> to help them correct any errors they make.<br><br>Jim got a single robot to finish the construction of a <span class=\"gap-input\" data-gap=\"34\">_____(34)_____</span> when publicly demonstrating how simple structure building is performed.<br><br>Jim predicts that his robots will soon be able to move sandbags into position to help people cope with the threat of floods.<br><br>Jim compares both termites and his robots to brain cells, in that they all create a superior form of <span class=\"gap-input\" data-gap=\"35\">_____(35)_____</span>.<br><br>A group of Turkish researchers has observed Jim's work in the hope of coming up with a model they can learn from."
+   }
+  ],
+  "source": "CEFR Listening full mock (Test 3)",
+  "examDate": "2026-06-05",
+  "examType": "cefr",
+  "testInfo": {
+   "id": "cefr-listening-43",
+   "level": "B2",
+   "title": "CEFR Listening Mock Test 43",
+   "totalTime": 40,
+   "totalQuestions": 35
+  },
+  "mockNumber": 43
+ },
+ "created_at": "2026-06-05T03:45:02.741052+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

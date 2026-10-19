@@ -1,0 +1,482 @@
+{
+ "id": 137,
+ "mock_type": "ielts-writing",
+ "mock_number": 28,
+ "title": "IELTS Writing Mock 28",
+ "status": "published",
+ "mock_data": {
+  "tasks": {
+   "task1": {
+    "title": "Advertising staff qualifications",
+    "prompt": "The charts below show the qualifications of staff in an advertising company in 1990 and 2010.",
+    "wordGoal": 150,
+    "chartDesc": {
+     "title": "Qualifications of staff in an advertising company in 1990 and 2010",
+     "visuals": [
+      {
+       "kind": "pie chart",
+       "xAxis": "",
+       "yAxis": "",
+       "series": [
+        {
+         "name": "1990 Qualifications",
+         "points": [
+          {
+           "at": "PhD - Science",
+           "value": 13
+          },
+          {
+           "at": "PhD- Art",
+           "value": 2
+          },
+          {
+           "at": "Master - Science",
+           "value": 29
+          },
+          {
+           "at": "Master - Art",
+           "value": 21
+          },
+          {
+           "at": "First Degree - Science",
+           "value": 20
+          },
+          {
+           "at": "First Degree - Art",
+           "value": 15
+          }
+         ]
+        }
+       ],
+       "caption": "1990"
+      },
+      {
+       "kind": "pie chart",
+       "xAxis": "",
+       "yAxis": "",
+       "series": [
+        {
+         "name": "Second Year Qualifications (2010)",
+         "points": [
+          {
+           "at": "PhD - Science",
+           "value": 30
+          },
+          {
+           "at": "PhD- Art",
+           "value": 5
+          },
+          {
+           "at": "Master - Science",
+           "value": 29
+          },
+          {
+           "at": "Master - Art",
+           "value": 23
+          },
+          {
+           "at": "First Degree - Science",
+           "value": 11
+          },
+          {
+           "at": "First Degree - Art",
+           "value": 2
+          }
+         ]
+        }
+       ],
+       "caption": "1990"
+      }
+     ],
+     "overview": "Overall, staff qualifications shifted toward higher postgraduate degrees between the two periods. While Master's degrees remained the most stable category, PhDs grew significantly (especially in Science), while First Degrees saw a notable decline.",
+     "chartType": "pie chart",
+     "confidence": "high",
+     "unreadable": [
+      "The header text above the second pie chart is printed as '1990' despite representing 2010 per the prompt context."
+     ],
+     "keyFeatures": [
+      "From the first chart (1990), Master - Science was the largest category at 29%, followed by Master - Art at 21% and First Degree - Science at 20%.",
+      "In the first chart (1990), PhD - Art held the smallest share at only 2%, while PhD - Science made up 13%.",
+      "In the second chart, PhD - Science became the single largest category, rising to 30%, and PhD - Art rose to 5%.",
+      "First Degrees dropped significantly in the second chart: First Degree - Art fell from 15% to 2%, and First Degree - Science fell from 20% to 11%.",
+      "Master - Science remained identical at 29% in both charts, while Master - Art rose slightly from 21% to 23%."
+     ]
+    },
+    "chartType": "mixed",
+    "dataNature": "dynamic",
+    "instruction": "Summarise the information by selecting and reporting the main features, and make comparison where relevant.",
+    "sampleBand5": "<p>The two pie charts <mark>show information about</mark> the staff qualifications at an advertising company. They show the years 1990 and 2010. </p>\n<p>In 1990, most people had a degree, with 55%. Those with a professional qualification were 30%. The <mark>smallest number</mark> had no qualification, which was 15%. </p>\n<p>Looking at 2010, the percentage of staff with a degree <mark>was a lot less</mark>, only 35%. But the number of people with a professional qualification went up to 45%. The amount of people with no qualification also increased. It went up to 20%. <mark>It is clear that</mark> more people had professional qualifications in 2010 than in 1990. The proportion of people with degrees went down.</p>\n<p>Overall, the charts show a change in the qualifications of staff over the twenty years.</p>",
+    "sampleBand6": "<p>The pie charts <mark>give information about</mark> the different qualifications held by staff working at an advertising company in the years 1990 and 2010.</p>\n<p>Overall, what is <mark>immediately clear</mark> is that the proportion of staff with university degrees increased significantly over the period, while the percentage of those with no qualifications decreased. Also, the proportion of staff with professional qualifications saw a decline.</p>\n<p>In 1990, just 30% of staff held a university degree. This increased to 45% in 2010. Staff with no qualifications <mark>accounted for</mark> 40% of the total in 1990, but this figure fell to 25% twenty years later. <mark>Regarding</mark> staff with professional qualifications, there was a decrease from 20% in 1990 to 15% in 2010. The number of staff with other qualifications remained stable at 10% in both years.</p>\n<p>In conclusion, <mark>there was a shift</mark> towards a more highly educated workforce in the advertising company between 1990 and 2010.</p>",
+    "sampleBand7": "<p>The pie charts <mark>illustrate the proportion of</mark> staff with different qualifications working in an advertising company in the years 1990 and 2010.</p>\n<p>Overall, the most striking feature is that the company employed a significantly larger percentage of staff holding a postgraduate degree in 2010 compared to 1990. Conversely, the proportion of staff with no qualifications decreased substantially over the same period. <mark>It is also noticeable that</mark> the percentage of staff with a first degree remained relatively stable.</p>\n<p>In 1990, the largest group of employees, at 45%, had no qualifications. Those holding a first degree accounted for 33% of the workforce, while staff with a postgraduate qualification made up only 12%. The remaining 10% possessed a diploma. <mark>By 2010, however</mark>, the composition of the staff had changed considerably. The percentage of employees with no qualifications had fallen sharply to just 5%. Staff holding a postgraduate degree had <mark>risen dramatically</mark> to 40%, becoming the largest single group. There was only a slight increase in the percentage of staff with a first degree, to 35%, while those with a diploma increased to 20%. <mark>This suggests a shift in the company's hiring practices</mark> towards more highly qualified individuals.</p>",
+    "sampleBand8": "<p>The charts <mark>illustrate the proportion of</mark> employees with varying levels of academic qualifications working for an advertising company in the years 1990 and 2010.</p>\n\n<p>Overall, the data reveals a <mark>marked shift</mark> towards a more highly educated workforce over the two decades. While the percentage of staff with only a high school education or no qualifications decreased substantially, the proportion of those holding bachelor's or postgraduate degrees experienced <mark>considerable growth</mark>.</p>\n\n<p>In 1990, the largest segment of the workforce (40%) possessed only a high school qualification, while those with no qualifications accounted for 15%. In contrast, employees with a bachelor's degree constituted 30%, and those with a postgraduate degree represented a <mark>mere 15%</mark>. By 2010, the landscape had changed significantly. The percentage of staff with high school diplomas had <mark>plummeted to 10%</mark>, and those with no qualifications were negligible. Conversely, the proportion of employees holding a bachelor's degree had risen to 45%, and the percentage with postgraduate degrees had <mark>more than doubled</mark>, reaching 45%. This <mark>highlights a clear trend</mark> towards a workforce with advanced academic credentials. The company clearly <mark>prioritised higher education</mark> in its hiring practices in 2010.</p>",
+    "sampleBand9": "<p>The charts <mark>illustrate the distribution</mark> of academic qualifications among staff at an advertising firm in the years 1990 and 2010.</p>\n\n<p>Overall, the data reveals a <mark>significant shift</mark> towards a more highly educated workforce over the two decades. While staff with no qualifications or only a high school diploma constituted a considerable proportion in 1990, their numbers dwindled substantially by 2010. Conversely, the proportion of employees holding bachelor's and postgraduate degrees <mark>experienced a marked increase</mark>.</p>\n\n<p>In 1990, the largest segment of the advertising company's staff, at 30%, possessed no qualifications. Those with a high school diploma made up the next largest group, accounting for 28%. Employees holding a bachelor's degree represented 25% of the workforce, while those with postgraduate qualifications <mark>comprised a relatively small proportion</mark> of 17%. By 2010, however, the landscape had changed dramatically. The percentage of staff with no qualifications had <mark>plummeted to a mere</mark> 5%, and those with a high school diploma had decreased to 12%. <mark>In stark contrast</mark>, the proportion of bachelor's degree holders had risen to 40%, becoming the largest single group. Furthermore, the percentage of staff with postgraduate degrees <mark>had more than doubled</mark>, reaching 43% and becoming the second largest qualification group. This <mark>underscores a clear trend</mark> towards a more educated workforce.</p>\n\n<p>In conclusion, the data <mark>clearly demonstrates</mark> a considerable investment in higher education within the advertising company, resulting in a <mark>substantial upskilling</mark> of its staff between 1990 and 2010.</p>",
+    "timeMinutes": 20,
+    "chartDescImg": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/28.png",
+    "sampleAnswer": "The pie charts compare the educational qualifications of employees at an advertising company in 1990 and 2010. Overall, there was a significant shift toward higher educational attainment over the twenty-year period.\n\nIn 1990, the workforce was predominantly made up of staff with lower-level qualifications. Those with no formal qualifications accounted for the largest proportion at approximately 35%, while employees with only school-leaving certificates comprised around 30%. Workers holding diplomas represented about 20% of the staff, and university graduates made up the smallest group at roughly 15%.\n\nBy 2010, this pattern had changed dramatically. University degree holders had become the dominant group, representing approximately 40% of all employees. Diploma holders also increased their share to about 25%. In contrast, the proportion of staff with no qualifications fell sharply to just 10%, and those with only school certificates decreased to around 25%.\n\nThe data reveals a clear trend toward a more highly educated workforce in the advertising industry, likely reflecting both increased competition for jobs and the growing complexity of the field requiring higher qualifications.",
+    "chartImageUrl": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/28.png",
+    "uzSampleBand5": "<p>Ikkita doiraviy diagramma reklama kompaniyasidagi xodimlarning malakasi <mark>haqida ma'lumot beradi</mark>. Ular 1990 va 2010 yillarni ko'rsatadi.</p>\n<p>1990-yilda ko'pchilik odamlar diplomga ega bo'lgan, bu 55% ni tashkil etgan. Kasbiy malakaga ega bo'lganlar 30% edi. <mark>Eng kam soni</mark> hech qanday malakaga ega bo'lmaganlar edi, bu 15% edi.</p>\n<p>2010-yilga nazar tashlasak, diplomga ega xodimlarning foizi <mark>ancha kamroq edi</mark>, atigi 35%. Ammo kasbiy malakaga ega bo'lgan odamlarning soni 45% gacha ko'tarildi. Hech qanday malakaga ega bo'lmagan odamlarning soni ham oshdi. U 20% gacha ko'tarildi. <mark>Shu narsa aniqki</mark>, 2010-yilda 1990-yilga nisbatan ko'proq odam kasbiy malakaga ega bo'lgan. Diplomga ega odamlarning ulushi kamaydi.</p>\n<p>Umuman olganda, diagrammalar yigirma yil davomida xodimlarning malakasidagi o'zgarishni ko'rsatadi.</p>",
+    "uzSampleBand6": "<p>Doira diagrammalar <mark>reklama kompaniyasida ishlaydigan xodimlarning</mark> 1990 va 2010-yillardagi turli malakalariga oid <mark>ma'lumot beradi</mark>.</p>\n<p>Umuman olganda, <mark>darhol ko'zga tashlanadigan</mark> narsa shundaki, universitet diplomiga ega xodimlar ulushi vaqt o'tishi bilan sezilarli darajada oshdi, malakasi bo'lmaganlar foizi esa kamaydi. Shuningdek, professional malakaga ega xodimlar ulushi ham pasaygan.</p>\n<p>1990-yilda xodimlarning atigi 30 foizi universitet diplomiga ega bo'lgan. Bu ko'rsatkich 2010-yilda 45 foizga ko'tarildi. Malakasi bo'lmagan xodimlar 1990-yilda umumiy xodimlarning <mark>40 foizini tashkil etdi</mark>, ammo bu ko'rsatkich yigirma yil o'tib 25 foizga tushdi. Professional malakaga ega xodimlarga <mark>kelsak</mark>, 1990-yildagi 20 foizdan 2010-yilda 15 foizga pasayish kuzatildi. Boshqa malakalarga ega xodimlar soni har ikki yilda ham 10 foizda barqaror qoldi.</p>\n<p>Xulosa qilib aytganda, 1990-yildan 2010-yilgacha reklama kompaniyasida <mark>yuqori ma'lumotli ishchi kuchiga o'tish</mark> kuzatildi.</p>",
+    "uzSampleBand7": "<p>Doira diagrammalar 1990 va 2010-yillarda reklama kompaniyasida ishlaydigan turli malakaga ega xodimlarning <mark>nisbatini ko'rsatadi</mark>.</p>\n<p>Umuman olganda, eng ajralib turadigan jihati shundaki, kompaniya 2010-yilda 1990-yilga nisbatan aspirantura darajasiga ega bo'lgan xodimlarning sezilarli darajada yuqori foizini ish bilan ta'minlagan. Aksincha, hech qanday malakaga ega bo'lmagan xodimlarning ulushi shu davrda sezilarli darajada kamaydi. <mark>Shuni ham ta'kidlash joizki</mark>, birinchi darajaga ega bo'lgan xodimlarning foizi nisbatan barqaror bo'lib qoldi.</p>\n<p>1990-yilda eng katta xodimlar guruhi, 45% hech qanday malakaga ega emas edi. Birinchi darajaga ega bo'lganlar ishchi kuchining 33% ni tashkil etdi, aspirantura malakasiga ega bo'lgan xodimlar esa atigi 12% ni tashkil etdi. Qolgan 10% diplomga ega edi. <mark>Ammo, 2010-yilga kelib</mark>, xodimlarning tarkibi ancha o'zgardi. Hech qanday malakaga ega bo'lmagan xodimlarning foizi keskin pasayib, atigi 5% ni tashkil etdi. Aspirantura darajasiga ega bo'lgan xodimlar <mark>keskin o'sdi</mark> va 40% ni tashkil etib, eng katta guruhga aylandi. Birinchi darajaga ega bo'lgan xodimlarning foizida ozgina o'sish kuzatildi va 35% ni tashkil etdi, diplomga ega bo'lganlar esa 20% gacha ko'paydi. <mark>Bu kompaniyaning yollash amaliyotida</mark> yuqori malakali shaxslarga qaratilgan o'zgarishni ko'rsatadi.</p>",
+    "uzSampleBand8": "<p>Diagrammalar 1990 va 2010-yillarda reklama kompaniyasida ishlaydigan, turli darajadagi akademik malakaga ega bo'lgan xodimlarning <mark>nisbatini ko'rsatadi</mark>.</p>\n\n<p>Umuman olganda, ma'lumotlar ikki o'n yillik davomida yanada yuqori ma'lumotli ishchi kuchiga <mark>sezilarli o'zgarishni</mark> ko'rsatadi. Faqat o'rta maktab ma'lumotiga ega yoki hech qanday malakaga ega bo'lmagan xodimlar foizi sezilarli darajada kamaygan bo'lsa-da, bakalavr yoki aspirantura darajasiga ega bo'lganlarning ulushi <mark>ancha o'sishni</mark> boshdan kechirdi.</p>\n\n<p>1990-yilda ishchi kuchining eng katta qismi (40%) faqat o'rta maktab ma'lumotiga ega bo'lgan bo'lsa, hech qanday malakaga ega bo'lmaganlar 15% ni tashkil etdi. Aksincha, bakalavr darajasiga ega bo'lgan xodimlar 30% ni, aspirantura darajasiga ega bo'lganlar esa <mark>atigi 15%ni</mark> tashkil etdi. 2010-yilga kelib, vaziyat sezilarli darajada o'zgardi. O'rta maktab diplomiga ega bo'lgan xodimlar foizi <mark>10% gacha keskin tushib ketdi</mark>, hech qanday malakaga ega bo'lmaganlar esa ahamiyatsiz edi. Aksincha, bakalavr darajasiga ega bo'lgan xodimlar ulushi 45% gacha ko'tarildi va aspirantura darajasiga ega bo'lganlar foizi <mark>ikki barobardan ko'proqqa oshdi</mark>, 45% ga yetdi. Bu <mark>rivojlangan akademik ma'lumotga ega bo'lgan ishchi kuchiga aniq tendentsiyani ko'rsatadi</mark>. Kompaniya 2010-yilda ishga qabul qilish amaliyotida <mark>oliy ma'lumotga ustunlik berdi</mark>.</p>",
+    "uzSampleBand9": "<p>Diagrammalar 1990 va 2010-yillarda reklama firmasidagi xodimlar o'rtasida akademik malakalarning <mark>taqsimotini ko'rsatadi</mark>.</p>\n\n<p>Umuman olganda, ma'lumotlar ikki o'n yillik davomida yanada yuqori ma'lumotli ishchi kuchiga tomon <mark>sezilarli o'zgarishni</mark> ko'rsatadi. 1990-yilda hech qanday malakaga ega bo'lmagan yoki faqat o'rta maktab diplomiga ega bo'lgan xodimlar sezilarli qismni tashkil etgan bo'lsa, 2010-yilga kelib ularning soni sezilarli darajada kamaydi. Aksincha, bakalavr va aspirantura darajasiga ega bo'lgan xodimlar ulushi <mark>sezilarli o'sishni boshdan kechirdi</mark>.</p>\n\n<p>1990-yilda reklama kompaniyasi xodimlarining eng katta qismi, 30% hech qanday malakaga ega emas edi. O'rta maktab diplomiga ega bo'lganlar keyingi eng katta guruhni tashkil etib, 28% ni tashkil etdi. Bakalavr darajasiga ega bo'lgan xodimlar ishchi kuchining 25% ni tashkil etdi, aspirantura malakasiga ega bo'lganlar esa <mark>nisbatan kichik ulushni</mark> - 17% ni tashkil etdi. Biroq, 2010-yilga kelib, vaziyat keskin o'zgardi. Hech qanday malakaga ega bo'lmagan xodimlarning foizi <mark>faqatgina</mark> 5% ga tushib ketdi, o'rta maktab diplomiga ega bo'lganlar esa 12% gacha kamaydi. <mark>Bunga keskin zid ravishda</mark>, bakalavr darajasiga ega bo'lganlar ulushi 40% gacha ko'tarilib, eng katta guruhga aylandi. Bundan tashqari, aspirantura darajasiga ega bo'lgan xodimlar foizi <mark>ikki barobardan ko'proq oshdi</mark>, 43% ga yetdi va ikkinchi eng katta malaka guruhiga aylandi. Bu <mark>yanada ma'lumotli ishchi kuchiga qaratilgan aniq tendentsiyani ko'rsatadi</mark>.</p>\n\n<p>Xulosa qilib aytganda, ma'lumotlar reklama kompaniyasi ichida oliy ta'limga <mark>aniq sarmoya kiritilganligini</mark> ko'rsatadi, natijada 1990 va 2010-yillar oralig'ida uning xodimlarining <mark>malakasi sezilarli darajada oshdi</mark>.</p>",
+    "chartDescSource": "extracted-verified-2026-08-05"
+   },
+   "task2": {
+    "title": "Hosting international sports events",
+    "prompt": "Some people think that hosting an international sports event is good for the country, while some people think it is bad. Discuss both views and give your opinion.",
+    "wordGoal": 250,
+    "essayType": "balanced",
+    "instruction": "Discuss both views and give your opinion.",
+    "sampleBand5": "<p>Many countries want to host international sports events like the Olympics or the World Cup. Some people think this is a good thing, but others think it is not. This essay will talk about both sides <mark>and my opinion too</mark>.</p>\n\n<p>On the one hand, having a big sports event can be good for a country. It can bring in lots of tourists, and <mark>they spend money</mark> in the country. This helps businesses like hotels and restaurants. Also, the government might build new stadiums and roads, which can be used by people even after the event is over. It can also <mark>make people happy</mark> and proud of their country.</p>\n\n<p>However, there are also problems with hosting these events. It can cost a lot of money to build everything that is needed. Sometimes, the government has to borrow money, and then the country has debt. Also, some people might have to move from their homes to make way for the new stadiums. <mark>This is not fair</mark> to them. The security also needs to be very tight, which costs even more money.</p>\n\n<p>In conclusion, there are good and bad things about hosting big sports events. While it can bring money and make people happy, it can also be very expensive and cause problems for some people. I think it depends on the country and if they can really afford it. If they can, then it might be a good idea, but if they can’t, it is probably better to not do it. </p>",
+    "sampleBand6": "<p>Hosting international sports events, like the Olympics or the World Cup, is a <mark>topic of debate</mark>. Some people believe that these events bring many benefits to the host country, while others argue that the disadvantages outweigh the advantages. In this essay, I will discuss both sides of the argument and then give my opinion.</p>\n\n<p>On the one hand, there are several reasons why hosting a major sports event can be beneficial. Firstly, it can boost the economy. The influx of tourists <mark>can lead to increased spending</mark> in hotels, restaurants, and shops. Also, there is often a need to build new infrastructure, such as stadiums and transportation systems, which creates jobs and can improve the country's overall infrastructure in the long run. Secondly, these events can raise the country's profile on the international stage. This <mark>can attract foreign investment</mark> and improve the country's image. Finally, hosting such an event can inspire national pride and unity.</p>\n\n<p>However, there are also arguments against hosting international sports events. One major concern is the cost. Building new facilities and providing security can be very expensive, and sometimes the costs outweigh the economic benefits. There is also the risk of the facilities becoming <mark>underused after the event</mark>, leaving the country with a financial burden. Another issue is the potential for disruption to local communities. The influx of tourists can lead to overcrowding and increased traffic, and some residents may be displaced to make way for new construction.</p>\n\n<p>In conclusion, while there are potential benefits to hosting international sports events, such as economic growth and increased national pride, these must be weighed against the potential costs and disruptions. <mark>In my opinion</mark>, it is important for countries to carefully consider all the factors involved before deciding to host such an event. Perhaps smaller, less expensive events are a <mark>more sensible option</mark>.</p>",
+    "sampleBand7": "<p>International sporting events, such as the Olympics or the FIFA World Cup, are often a source of national pride and excitement. However, there are differing opinions regarding the overall impact of hosting such events. While some argue that they bring numerous benefits to the host country, others believe that the drawbacks outweigh the advantages. This essay will discuss both perspectives before presenting my own opinion.</p>\n\n<p>On the one hand, proponents of hosting international sporting events highlight the potential for economic growth. <mark>They argue that</mark> these events attract a large influx of tourists, which boosts the hospitality sector and generates revenue for local businesses. Furthermore, the construction of new stadiums and infrastructure <mark>can create job opportunities</mark>, both during the preparation phase and in the long term. <mark>In addition to this</mark>, hosting such events can enhance a country's international image, attracting foreign investment and promoting tourism in the years that follow. For example, the 2012 London Olympics is often cited as a success story, bringing significant economic benefits and boosting the UK's global profile.</p>\n\n<p>Conversely, critics argue that the costs associated with hosting international sporting events are often exorbitant and <mark>can place a significant burden on taxpayers</mark>. The construction of stadiums and other facilities can be extremely expensive, and there is no guarantee that these facilities will be fully utilized after the event. Furthermore, the increased security measures and logistical challenges <mark>can disrupt daily life</mark> for residents. There are also concerns about the potential for corruption and mismanagement of funds. Some argue that the money could be better spent on other priorities, such as education or healthcare. The experience of some host cities, like Athens after the 2004 Olympics, <mark>serves as a cautionary tale</mark> of unsustainable spending and long-term debt.</p>\n\n<p>In conclusion, while hosting international sporting events can bring economic benefits and enhance a country's image, it is crucial to weigh these advantages against the potential costs and risks. <mark>In my opinion</mark>, while the short-term gains can be appealing, the long-term consequences, particularly the financial burden on taxpayers, need to be carefully considered. A thorough cost-benefit analysis and a commitment to responsible financial management are essential to ensure that hosting such an event is truly beneficial for the host country.</p>",
+    "sampleBand8": "<p>The question of whether hosting international sporting events benefits a nation is a complex one, with valid arguments on both sides. While such events can undoubtedly bring economic and social advantages, there are also potential drawbacks that must be considered. This essay will explore both perspectives before offering a concluding opinion.</p>\n\n<p>On the one hand, proponents argue that hosting events like the Olympics or the World Cup can <mark>stimulate economic growth</mark>. The influx of tourists generates revenue for local businesses, boosting the hospitality and retail sectors. Furthermore, significant investment in infrastructure, such as new stadiums and transportation systems, can <mark>leave a lasting legacy</mark> for the host city and country. These improvements can enhance the quality of life for residents long after the event has concluded. In addition, hosting such an event can <mark>elevate a nation's profile</mark> on the world stage, attracting foreign investment and promoting tourism in the long term.</p>\n\n<p>However, critics contend that the economic benefits are often overstated and that the costs associated with hosting these events can <mark>outweigh the advantages</mark>. The construction of expensive facilities can place a significant burden on taxpayers, and there is no guarantee that these facilities will be used effectively after the event. Furthermore, the influx of tourists can put a strain on local resources and infrastructure, leading to congestion and increased prices for residents. There is also the risk of corruption and mismanagement associated with large-scale projects, which can <mark>undermine public trust</mark> in the government.</p>\n\n<p>In conclusion, while hosting international sporting events can offer certain economic and social benefits, it is crucial to <mark>adopt a measured approach</mark> and carefully weigh the potential costs and risks. In my opinion, the key to success lies in meticulous planning and transparent management, ensuring that the benefits are shared equitably and that the event leaves a positive and <mark>sustainable legacy</mark> for the host nation. Without careful consideration, the initial excitement can quickly turn into a financial burden, <mark>leaving a bitter aftertaste</mark> for the country and its citizens. It is therefore imperative to ensure that the long-term advantages are <mark>carefully balanced against</mark> the immediate costs.</p>",
+    "sampleBand9": "<p>The debate surrounding the merits of hosting large-scale international sporting events is a complex one, with compelling arguments on both sides. While some champion the economic and social benefits, others highlight the potential drawbacks and costs associated with such undertakings. This essay will explore both perspectives before offering a reasoned conclusion.</p>\n\n<p>Proponents of hosting events like the Olympics or the World Cup frequently point to the potential for economic stimulus. <mark>The influx of tourists</mark> generates revenue for local businesses, boosting the hospitality sector and creating temporary employment opportunities. Moreover, significant investments in infrastructure, such as new stadiums, transportation networks, and accommodation facilities, can <mark>leave a lasting legacy</mark> for the host nation, improving the quality of life for its citizens. Beyond the purely economic, these events can <mark>foster a sense of national pride</mark> and unity, showcasing the country's culture and values on a global stage. Furthermore, they can inspire younger generations to participate in sports and adopt healthier lifestyles.</p>\n\n<p>However, critics argue that the economic benefits are often overstated and that the costs associated with hosting such events can <mark>outweigh the advantages</mark>. The construction of large sporting venues can be incredibly expensive, often requiring significant public funding, which could be better allocated to essential services such as healthcare or education. Furthermore, the promised economic boost may not materialize if the event fails to attract sufficient tourists or if the infrastructure is not effectively utilized after the event concludes. There are also concerns about the environmental impact of these events, including increased carbon emissions and waste generation. <mark>Moreover, the displacement of local communities</mark> to make way for new facilities can lead to social unrest and inequality.</p>\n\n<p>In conclusion, while hosting international sports events can offer certain economic and social benefits, it is crucial to <mark>adopt a balanced perspective</mark> and carefully consider the potential drawbacks. The key lies in <mark>meticulous planning</mark> and ensuring that the long-term interests of the host nation are prioritized over short-term gains. Governments should conduct thorough cost-benefit analyses, engage with local communities, and implement sustainable practices to <mark>mitigate the negative impacts</mark>. Ultimately, whether hosting such an event is beneficial depends on the specific context and the effectiveness of the planning and execution. It requires a <mark>holistic approach</mark> that considers not only the economic potential but also the social, environmental, and ethical implications. The decision should be based on <mark>evidence-based policy making</mark> that promotes long-term sustainable development.</p>",
+    "timeMinutes": 40,
+    "sampleAnswer": "Hosting major international sporting events such as the Olympics or the World Cup is often seen as a matter of national pride. However, opinions are divided on whether such events truly benefit the host country. This essay will examine both perspectives before offering my own view.\n\nSupporters of hosting international sports events point to numerous potential benefits. Firstly, such events can boost the economy through increased tourism, as visitors spend money on accommodation, food, and entertainment. The construction of stadiums and infrastructure creates jobs and can lead to lasting improvements in transportation and facilities. Additionally, hosting a major event can raise a country's international profile, potentially attracting future investment and tourism. There are also intangible benefits, such as increased national unity and civic pride.\n\nOn the other hand, critics highlight significant drawbacks. The costs of hosting major events often exceed initial estimates by considerable margins, leaving host cities with substantial debts. Many purpose-built venues become underutilized after the event ends, becoming expensive \"white elephants\" that burden taxpayers. Furthermore, the benefits are often unevenly distributed, with local residents sometimes displaced to make way for development while large corporations reap the financial rewards. There are also environmental concerns related to construction and the carbon footprint of international travel.\n\nIn my opinion, whether hosting an international sports event is beneficial depends largely on how it is planned and managed. Countries that carefully control costs, build sustainable infrastructure with long-term uses, and ensure benefits are shared broadly can gain from hosting such events. However, those that overspend on temporary structures or neglect the needs of local communities may find the costs outweigh the benefits.\n\nIn conclusion, while international sporting events offer potential advantages, careful planning is essential to ensure they truly benefit the host nation.",
+    "uzSampleBand5": "<p>Ko'pgina davlatlar Olimpiya o'yinlari yoki Jahon chempionati kabi xalqaro sport tadbirlariga mezbonlik qilmoqchi. Ba'zilar buni yaxshi deb hisoblaydi, lekin boshqalar esa yo'q. Ushbu insho har ikki tomon haqida <mark>va mening fikrim haqida ham</mark> gapiradi.</p>\n\n<p>Bir tomondan, katta sport tadbirining bo'lishi mamlakat uchun yaxshi bo'lishi mumkin. Bu ko'plab sayyohlarni jalb qilishi mumkin va <mark>ular mamlakatda pul sarflaydilar</mark>. Bu mehmonxonalar va restoranlar kabi korxonalarga yordam beradi. Shuningdek, hukumat yangi stadionlar va yo'llar qurishi mumkin, ulardan tadbir tugaganidan keyin ham odamlar foydalanishi mumkin. Bu ham <mark>odamlarni xursand qilishi</mark> va o'z mamlakati bilan faxrlantirishi mumkin.</p>\n\n<p>Biroq, bu tadbirlarga mezbonlik qilishda ham muammolar mavjud. Kerak bo'ladigan hamma narsani qurish juda ko'p pulga tushishi mumkin. Ba'zan, hukumat pul qarz olishi kerak bo'ladi va keyin mamlakat qarzdor bo'lib qoladi. Shuningdek, ba'zi odamlar yangi stadionlarga yo'l ochish uchun o'z uylaridan ko'chib ketishlari mumkin. <mark>Bu adolatdan emas</mark> ular uchun. Xavfsizlik ham juda qattiq bo'lishi kerak, bu esa yanada ko'proq pulga tushadi.</p>\n\n<p>Xulosa qilib aytganda, katta sport tadbirlariga mezbonlik qilishning yaxshi va yomon tomonlari bor. Bu pul keltirishi va odamlarni xursand qilishi mumkin bo'lsa-da, bu juda qimmatga tushishi va ba'zi odamlar uchun muammolarni keltirib chiqarishi mumkin. Menimcha, bu mamlakatga bog'liq va ular buni haqiqatan ham qurbi yetadimi yoki yo'qmi. Agar ularning qurbi yetsa, unda bu yaxshi fikr bo'lishi mumkin, lekin agar ularning qurbi yetmasa, buni qilmaslik yaxshiroqdir.</p>",
+    "uzSampleBand6": "<p>Olimpiya o'yinlari yoki Jahon chempionati kabi xalqaro sport tadbirlariga mezbonlik qilish <mark>bahs mavzusi</mark> hisoblanadi. Ba'zi odamlar bu tadbirlar mezbon davlatga ko'plab foyda keltirishiga ishonishadi, boshqalar esa kamchiliklari afzalliklaridan ustun turadi, deb ta'kidlashadi. Ushbu inshoda men argumentning ikkala tomonini ham muhokama qilaman va keyin o'z fikrimni bildiraman.</p>\n\n<p>Bir tomondan, yirik sport tadbiriga mezbonlik qilishning bir qancha sabablari bor. Birinchidan, u iqtisodiyotni rivojlantirishi mumkin. Turistlarning oqimi <mark>mehmonxonalar, restoranlar va do'konlarda xarajatlarning ko'payishiga olib kelishi mumkin</mark>. Shuningdek, ko'pincha stadionlar va transport tizimlari kabi yangi infratuzilmani qurish zarurati tug'iladi, bu esa ish o'rinlarini yaratadi va uzoq muddatda mamlakatning umumiy infratuzilmasini yaxshilashi mumkin. Ikkinchidan, bu tadbirlar mamlakatning xalqaro maydondagi obro'sini oshirishi mumkin. Bu <mark>chet el investitsiyalarini jalb qilishi</mark> va mamlakatning imidjini yaxshilashi mumkin. Nihoyat, bunday tadbirga mezbonlik qilish milliy g'urur va birdamlikni ilhomlantirishi mumkin.</p>\n\n<p>Biroq, xalqaro sport tadbirlariga mezbonlik qilishga qarshi dalillar ham mavjud. Eng katta xavotirlardan biri - bu xarajat. Yangi inshootlar qurish va xavfsizlikni ta'minlash juda qimmatga tushishi mumkin, ba'zan xarajatlar iqtisodiy foydalardan oshib ketadi. Shuningdek, inshootlarning <mark>tadbirdan keyin kam foydalanilishi</mark> xavfi ham mavjud, bu esa mamlakatni moliyaviy yuk bilan qoldiradi. Yana bir muammo - mahalliy jamoalarning buzilishi ehtimoli. Turistlarning oqimi tirbandlik va transport harakatining ko'payishiga olib kelishi mumkin, ba'zi aholi yangi qurilishga yo'l ochish uchun ko'chirilishi mumkin.</p>\n\n<p>Xulosa qilib aytganda, xalqaro sport tadbirlariga mezbonlik qilishning iqtisodiy o'sish va milliy g'ururning oshishi kabi potentsial afzalliklari mavjud bo'lsa-da, bular potentsial xarajatlar va buzilishlarga qarshi tortilishi kerak. <mark>Mening fikrimcha</mark>, mamlakatlar bunday tadbirga mezbonlik qilish to'g'risida qaror qabul qilishdan oldin barcha omillarni diqqat bilan ko'rib chiqishlari muhim. Ehtimol, kichikroq, arzonroq tadbirlar <mark>yanada oqilona variant</mark> bo'lishi mumkin.</p>",
+    "uzSampleBand7": "<p>Xalqaro sport tadbirlari, masalan, Olimpiya o'yinlari yoki FIFA Jahon chempionati, ko'pincha milliy g'urur va hayajon manbai bo'ladi. Biroq, bunday tadbirlarni o'tkazishning umumiy ta'siri bo'yicha turli xil fikrlar mavjud. Ba'zilar bunday tadbirlar mezbon davlatga ko'plab foyda keltirsa, boshqalar kamchiliklar afzalliklardan ustun ekanligiga ishonishadi. Ushbu insho har ikki nuqtai nazarni mening shaxsiy fikrimni taqdim etishdan oldin muhokama qiladi.</p>\n\n<p>Bir tomondan, xalqaro sport tadbirlarini o'tkazish tarafdorlari iqtisodiy o'sish imkoniyatini ta'kidlaydilar. <mark>Ular ta'kidlashicha</mark>, bu tadbirlar ko'plab sayyohlarni jalb qiladi, bu esa mehmonxona sektorini rivojlantiradi va mahalliy biznes uchun daromad keltiradi. Bundan tashqari, yangi stadionlar va infratuzilmalarning qurilishi <mark>ish o'rinlarini yaratishi mumkin</mark>, ham tayyorgarlik bosqichida, ham uzoq muddatda. <mark>Bundan tashqari</mark>, bunday tadbirlarni o'tkazish mamlakatning xalqaro imijini yaxshilashi, xorijiy investitsiyalarni jalb qilishi va kelgusi yillarda turizmni rivojlantirishi mumkin. Misol uchun, 2012 yilgi London Olimpiadasi ko'pincha muvaffaqiyatli voqea sifatida tilga olinadi, bu sezilarli iqtisodiy foyda keltiradi va Buyuk Britaniyaning global obro'sini oshiradi.</p>\n\n<p>Aksincha, tanqidchilar xalqaro sport tadbirlarini o'tkazish bilan bog'liq xarajatlar ko'pincha haddan tashqari yuqori ekanligini va <mark>soliq to'lovchilarga sezilarli yuk bo'lishi mumkinligini</mark> ta'kidlaydilar. Stadionlar va boshqa inshootlarning qurilishi juda qimmatga tushishi mumkin va bu inshootlar tadbirdan keyin to'liq ishlatilishiga hech qanday kafolat yo'q. Bundan tashqari, kuchaytirilgan xavfsizlik choralari va logistika muammolari <mark>aholi uchun kundalik hayotni buzishi mumkin</mark>. Korrupsiya va mablag'larni noto'g'ri boshqarish xavfi ham mavjud. Ba'zilarning ta'kidlashicha, bu pullarni ta'lim yoki sog'liqni saqlash kabi boshqa ustuvor yo'nalishlarga sarflash yaxshiroq bo'lar edi. 2004 yilgi Olimpiadadan keyin Afina kabi ba'zi mezbon shaharlarning tajribasi <mark>barqaror bo'lmagan xarajatlar va uzoq muddatli qarzlar haqida ogohlantiruvchi hikoya bo'lib xizmat qiladi</mark>.</p>\n\n<p>Xulosa qilib aytganda, xalqaro sport tadbirlarini o'tkazish iqtisodiy foyda keltirishi va mamlakat imijini yaxshilashi mumkin bo'lsa-da, bu afzalliklarni potentsial xarajatlar va xavflarga qarshi tortish juda muhimdir. <mark>Mening fikrimcha</mark>, qisqa muddatli yutuqlar jozibador bo'lishi mumkin bo'lsa-da, uzoq muddatli oqibatlar, ayniqsa soliq to'lovchilarga tushadigan moliyaviy yuk, diqqat bilan ko'rib chiqilishi kerak. Bunday tadbirni o'tkazish mezbon davlat uchun haqiqatan ham foydali bo'lishini ta'minlash uchun xarajat-foyda tahlili va mas'uliyatli moliyaviy boshqaruvga sodiqlik zarur.</p>",
+    "uzSampleBand8": "<p>Xalqaro sport tadbirlarini o'tkazish mamlakatga foyda keltiradimi degan savol murakkab bo'lib, har ikki tomonda ham asosli dalillar mavjud. Bunday tadbirlar shubhasiz iqtisodiy va ijtimoiy afzalliklarni keltirishi mumkin bo'lsa-da, e'tiborga olinishi kerak bo'lgan potentsial kamchiliklar ham mavjud. Ushbu insho xulosa berishdan oldin har ikki nuqtai nazarni o'rganib chiqadi.</p>\n\n<p>Bir tomondan, tarafdorlar Olimpiya o'yinlari yoki Jahon chempionati kabi tadbirlarni o'tkazish <mark>iqtisodiy o'sishni rag'batlantirishi</mark> mumkinligini ta'kidlaydilar. Turistlarning oqimi mahalliy biznes uchun daromad keltiradi, mehmondo'stlik va chakana savdo sektorlarini rivojlantiradi. Bundan tashqari, yangi stadionlar va transport tizimlari kabi infratuzilmaga katta sarmoyalar mezbon shahar va mamlakat uchun <mark>bardavom meros qoldirishi</mark> mumkin. Ushbu yaxshilanishlar tadbir tugaganidan keyin ham aholining hayot sifatini yaxshilashi mumkin. Bundan tashqari, bunday tadbirni o'tkazish uzoq muddatda xorijiy investitsiyalarni jalb qilib va turizmni rivojlantirib, <mark>millatning nufuzini ko'tarishi</mark> mumkin.</p>\n\n<p>Biroq, tanqidchilar iqtisodiy foyda ko'pincha bo'rttirilganligini va bu tadbirlarni o'tkazish bilan bog'liq xarajatlar <mark>afzalliklardan ustun bo'lishi</mark> mumkinligini ta'kidlaydilar. Qimmatbaho inshootlar qurilishi soliq to'lovchilarga katta yuk bo'lishi mumkin va bu inshootlardan tadbirdan keyin samarali foydalanilishiga hech qanday kafolat yo'q. Bundan tashqari, turistlarning oqimi mahalliy resurslar va infratuzilmaga bosim o'tkazishi, tirbandlik va aholi uchun narxlarning oshishiga olib kelishi mumkin. Yirik loyihalar bilan bog'liq korruptsiya va noto'g'ri boshqaruv xavfi ham mavjud bo'lib, bu hukumatga bo'lgan <mark>jamoatchilik ishonchini susaytirishi</mark> mumkin.</p>\n\n<p>Xulosa qilib aytganda, xalqaro sport tadbirlarini o'tkazish muayyan iqtisodiy va ijtimoiy foyda keltirishi mumkin bo'lsa-da, potentsial xarajatlar va xavflarni <mark>o'lchovli yondashuvni qabul qilish</mark> va diqqat bilan tortish juda muhimdir. Mening fikrimcha, muvaffaqiyatning kaliti puxta rejalashtirish va shaffof boshqaruvda bo'lib, foydalarning adolatli taqsimlanishini va tadbir mezbon davlat uchun ijobiy va <mark>barqaror meros</mark> qoldirishini ta'minlaydi. Ehtiyotkorlik bilan ko'rib chiqilmasa, dastlabki hayajon tezda moliyaviy yukga aylanishi mumkin, bu mamlakat va uning fuqarolari uchun <mark>achchiq ta'm qoldirishi</mark> mumkin. Shuning uchun uzoq muddatli afzalliklarni zudlik bilan bo'ladigan xarajatlarga <mark>diqqat bilan muvozanatlash</mark>ni ta'minlash juda muhimdir.</p>",
+    "uzSampleBand9": "<p>Katta ko'lamli xalqaro sport tadbirlarini o'tkazishning afzalliklari haqidagi bahs murakkab bo'lib, har ikki tomonda ham ishonchli argumentlar mavjud. Ba'zilar iqtisodiy va ijtimoiy foydalarni himoya qilsalar, boshqalar bunday tadbirlar bilan bog'liq bo'lgan potentsial kamchiliklar va xarajatlarni ta'kidlaydilar. Ushbu insho har ikki nuqtai nazarni o'rganib chiqadi va keyin asosli xulosa taklif qiladi.</p>\n\n<p>Olimpiya o'yinlari yoki Jahon chempionati kabi tadbirlarni o'tkazish tarafdorlari ko'pincha iqtisodiy rag'batlantirish potentsialiga ishora qiladilar. <mark>Sayyohlar oqimi</mark> mahalliy biznes uchun daromad keltiradi, mehmondo'stlik sohasini rivojlantiradi va vaqtinchalik ish o'rinlarini yaratadi. Bundan tashqari, yangi stadionlar, transport tarmoqlari va turar joy inshootlari kabi infratuzilmaga kiritilgan muhim investitsiyalar mezbon davlat uchun <mark>bardavom meros qoldirishi</mark> mumkin, bu esa uning fuqarolari hayotining sifatini yaxshilaydi. Faqat iqtisodiy jihatdan tashqari, bu tadbirlar <mark>milliy g'urur tuyg'usini uyg'otishi</mark> va birlikni mustahkamlashi, mamlakatning madaniyati va qadriyatlarini global miqyosda namoyish etishi mumkin. Bundan tashqari, ular yosh avlodni sport bilan shug'ullanishga va sog'lom turmush tarzini qabul qilishga ilhomlantirishi mumkin.</p>\n\n<p>Biroq, tanqidchilar iqtisodiy foyda ko'pincha bo'rttirilganligini va bunday tadbirlarni o'tkazish bilan bog'liq xarajatlar <mark>afzalliklardan ustun bo'lishi</mark> mumkinligini ta'kidlaydilar. Katta sport maydonchalarini qurish juda qimmatga tushishi mumkin, ko'pincha sog'liqni saqlash yoki ta'lim kabi muhim xizmatlarga yaxshiroq yo'naltirilishi mumkin bo'lgan katta miqdordagi davlat mablag'larini talab qiladi. Bundan tashqari, agar tadbir etarli sayyohlarni jalb qila olmasa yoki infratuzilma tadbir yakunlanganidan keyin samarali foydalanilmasa, va'da qilingan iqtisodiy o'sish amalga oshmasligi mumkin. Ushbu tadbirlarning atrof-muhitga ta'siri, shu jumladan uglerod chiqindilarining ko'payishi va chiqindilarning hosil bo'lishi haqida ham xavotirlar mavjud. <mark>Bundan tashqari, yangi inshootlar uchun joy bo'shatish uchun mahalliy jamoalarning ko'chirilishi</mark> ijtimoiy norozilik va tengsizlikka olib kelishi mumkin.</p>\n\n<p>Xulosa qilib aytganda, xalqaro sport tadbirlarini o'tkazish ma'lum iqtisodiy va ijtimoiy foyda keltirishi mumkin bo'lsa-da, <mark>muvozanatli nuqtai nazarni qabul qilish</mark> va potentsial kamchiliklarni diqqat bilan ko'rib chiqish juda muhimdir. Asosiysi <mark>puxta rejalashtirish</mark> va mezbon davlatning uzoq muddatli manfaatlariga qisqa muddatli foydalardan ustun qo'yilishini ta'minlashdir. Hukumatlar xarajat-foyda tahlillarini o'tkazishlari, mahalliy jamoalar bilan hamkorlik qilishlari va <mark>salbiy oqibatlarni yumshatish</mark> uchun barqaror amaliyotlarni joriy etishlari kerak. Oxir oqibat, bunday tadbirni o'tkazish foydali bo'ladimi yoki yo'qmi, bu aniq kontekstga va rejalashtirish va amalga oshirishning samaradorligiga bog'liq. Bu nafaqat iqtisodiy potentsialni, balki ijtimoiy, ekologik va axloqiy oqibatlarni ham hisobga oladigan <mark>yaxlit yondashuvni</mark> talab qiladi. Qaror <mark>dalillarga asoslangan siyosatni ishlab chiqishga</mark> asoslanishi kerak, bu esa uzoq muddatli barqaror rivojlanishga yordam beradi.</p>"
+   }
+  },
+  "source": "IELTS Buddy",
+  "examDate": "2024-06-08",
+  "settings": {
+   "timeInfo": "60 Minutes",
+   "moduleTitle": "Academic Writing Module",
+   "testIdentifier": "Mock 28"
+  },
+  "vocabulary": {
+   "task1": [
+    {
+     "term": "Educational qualifications",
+     "meaning": "Academic degrees, diplomas, or certificates that a person has earned."
+    },
+    {
+     "term": "Educational attainment",
+     "meaning": "The highest level of education completed."
+    },
+    {
+     "term": "Predominantly",
+     "meaning": "Mainly; for the most part."
+    },
+    {
+     "term": "School-leaving certificates",
+     "meaning": "Qualifications obtained upon completing secondary education."
+    },
+    {
+     "term": "Dominant group",
+     "meaning": "The largest or most important category."
+    },
+    {
+     "term": "Fell sharply",
+     "meaning": "Decreased rapidly and significantly."
+    },
+    {
+     "term": "Highly educated workforce",
+     "meaning": "Employees with advanced levels of education."
+    },
+    {
+     "term": "Growing complexity",
+     "meaning": "Becoming more complicated or intricate over time."
+    }
+   ],
+   "task2": [
+    {
+     "term": "National pride",
+     "meaning": "A feeling of satisfaction and pleasure in one's country."
+    },
+    {
+     "term": "Boost the economy",
+     "meaning": "Stimulate economic growth and activity."
+    },
+    {
+     "term": "International profile",
+     "meaning": "A country's reputation and visibility worldwide."
+    },
+    {
+     "term": "Intangible benefits",
+     "meaning": "Advantages that cannot be physically measured."
+    },
+    {
+     "term": "White elephants",
+     "meaning": "Expensive possessions that are useless or troublesome to maintain."
+    },
+    {
+     "term": "Carbon footprint",
+     "meaning": "The total amount of greenhouse gases produced by activities."
+    },
+    {
+     "term": "Sustainable infrastructure",
+     "meaning": "Facilities designed to be useful and environmentally friendly long-term."
+    },
+    {
+     "term": "Outweigh the benefits",
+     "meaning": "Be more significant than the advantages."
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "mere 15%": {
+    "uz": "atigi 15%",
+    "type": "colloc"
+   },
+   "Regarding": {
+    "uz": "To'g'risida",
+    "type": "linking"
+   },
+   "marked shift": {
+    "uz": "sezilarli o'zgarish",
+    "type": "lexical"
+   },
+   "In my opinion": {
+    "uz": "Mening fikrimcha",
+    "type": "linking"
+   },
+   "accounted for": {
+    "uz": "tashkil etdi",
+    "type": "academic"
+   },
+   "was a lot less": {
+    "uz": "ancha kam edi",
+    "type": "colloc"
+   },
+   "They argue that": {
+    "uz": "Ular ta'kidlashicha",
+    "type": "academic"
+   },
+   "smallest number": {
+    "uz": "eng kichik son",
+    "type": "colloc"
+   },
+   "topic of debate": {
+    "uz": "munozara mavzusi",
+    "type": "lexical"
+   },
+   "By 2010, however": {
+    "uz": "Biroq, 2010 yilga kelib",
+    "type": "linking"
+   },
+   "It is clear that": {
+    "uz": "Shu narsa aniqki",
+    "type": "linking"
+   },
+   "This is not fair": {
+    "uz": "Bu adolatdan emas",
+    "type": "colloc"
+   },
+   "plummeted to 10%": {
+    "uz": "10% gacha keskin tushib ketdi",
+    "type": "colloc"
+   },
+   "they spend money": {
+    "uz": "ular pul sarflashadi",
+    "type": "colloc"
+   },
+   "In stark contrast": {
+    "uz": "Keskin farq bilan",
+    "type": "linking"
+   },
+   "holistic approach": {
+    "uz": "yaxlit yondashuv",
+    "type": "lexical"
+   },
+   "immediately clear": {
+    "uz": "darhol aniq",
+    "type": "colloc"
+   },
+   "make people happy": {
+    "uz": "odamlarni xursand qilish",
+    "type": "colloc"
+   },
+   "more than doubled": {
+    "uz": "ikki barobardan ko'proq oshdi",
+    "type": "colloc"
+   },
+   "significant shift": {
+    "uz": "muhim o'zgarish",
+    "type": "lexical"
+   },
+   "there was a shift": {
+    "uz": "o'zgarish bo'ldi",
+    "type": "colloc"
+   },
+   "and my opinion too": {
+    "uz": "mening fikrim ham",
+    "type": "colloc"
+   },
+   "risen dramatically": {
+    "uz": "keskin oshdi",
+    "type": "colloc"
+   },
+   "sustainable legacy": {
+    "uz": "bardavom meros",
+    "type": "lexical"
+   },
+   "In addition to this": {
+    "uz": "Bundan tashqari",
+    "type": "linking"
+   },
+   "considerable growth": {
+    "uz": "sezilarli o'sish",
+    "type": "lexical"
+   },
+   "meticulous planning": {
+    "uz": "puxta rejalashtirish",
+    "type": "lexical"
+   },
+   "plummeted to a mere": {
+    "uz": "atigi ga keskin tushib ketdi",
+    "type": "colloc"
+   },
+   "clearly demonstrates": {
+    "uz": "aniq ko'rsatadi",
+    "type": "academic"
+   },
+   "more sensible option": {
+    "uz": "yanada oqilona variant",
+    "type": "colloc"
+   },
+   "had more than doubled": {
+    "uz": "ikki barobardan ko'proq oshgan edi",
+    "type": "colloc"
+   },
+   "The influx of tourists": {
+    "uz": "Turistlarning oqimi",
+    "type": "lexical"
+   },
+   "can disrupt daily life": {
+    "uz": "kundalik hayotni buzishi mumkin",
+    "type": "lexical"
+   },
+   "give information about": {
+    "uz": "to'g'risida ma'lumot berish",
+    "type": "colloc"
+   },
+   "leave a lasting legacy": {
+    "uz": "bardavom meros qoldirish",
+    "type": "lexical"
+   },
+   "show information about": {
+    "uz": "to'g'risida ma'lumot ko'rsatish",
+    "type": "colloc"
+   },
+   "substantial upskilling": {
+    "uz": "jiddiy malaka oshirish",
+    "type": "academic"
+   },
+   "undermine public trust": {
+    "uz": "jamoatchilik ishonchini yo'qotish",
+    "type": "academic"
+   },
+   "outweigh the advantages": {
+    "uz": "afzalliklardan ustun keladi",
+    "type": "academic"
+   },
+   "highlights a clear trend": {
+    "uz": "aniq tendentsiyani ta'kidlaydi",
+    "type": "academic"
+   },
+   "adopt a measured approach": {
+    "uz": "o'lchovli yondashuvni qabul qilish",
+    "type": "academic"
+   },
+   "stimulate economic growth": {
+    "uz": "iqtisodiy o'sishni rag'batlantirish",
+    "type": "lexical"
+   },
+   "underscores a clear trend": {
+    "uz": "aniq tendentsiyani ta'kidlaydi",
+    "type": "academic"
+   },
+   "underused after the event": {
+    "uz": "voqeadan keyin kam ishlatilgan",
+    "type": "academic"
+   },
+   "It is also noticeable that": {
+    "uz": "Shuni ham ta'kidlash joizki",
+    "type": "linking"
+   },
+   "carefully balanced against": {
+    "uz": "ehtiyotkorlik bilan muvozanatlashgan",
+    "type": "academic"
+   },
+   "elevate a nation's profile": {
+    "uz": "millatning obro'sini ko'tarish",
+    "type": "lexical"
+   },
+   "illustrate the distribution": {
+    "uz": "taqsimotni ko'rsatish",
+    "type": "academic"
+   },
+   "leaving a bitter aftertaste": {
+    "uz": "achchiq ta'm qoldirib",
+    "type": "idiom"
+   },
+   "serves as a cautionary tale": {
+    "uz": "ogohlantiruvchi hikoya bo'lib xizmat qiladi",
+    "type": "idiom"
+   },
+   "adopt a balanced perspective": {
+    "uz": "muvozanatli nuqtai nazarni qabul qilish",
+    "type": "academic"
+   },
+   "can create job opportunities": {
+    "uz": "ish o'rinlari yaratishi mumkin",
+    "type": "lexical"
+   },
+   "evidence-based policy making": {
+    "uz": "dalillarga asoslangan siyosat yaratish",
+    "type": "academic"
+   },
+   "illustrate the proportion of": {
+    "uz": "ning nisbatini ko'rsatish",
+    "type": "academic"
+   },
+   "prioritised higher education": {
+    "uz": "oliy ta'limga ustuvor ahamiyat berildi",
+    "type": "academic"
+   },
+   "experienced a marked increase": {
+    "uz": "sezilarli o'sishni boshdan kechirdi",
+    "type": "academic"
+   },
+   "mitigate the negative impacts": {
+    "uz": "salbiy ta'sirlarni yumshatish",
+    "type": "academic"
+   },
+   "can attract foreign investment": {
+    "uz": "chet el investitsiyalarini jalb qilishi mumkin",
+    "type": "lexical"
+   },
+   "can lead to increased spending": {
+    "uz": "xarajatlarning oshishiga olib kelishi mumkin",
+    "type": "lexical"
+   },
+   "foster a sense of national pride": {
+    "uz": "milliy g'urur tuyg'usini rivojlantirish",
+    "type": "lexical"
+   },
+   "comprised a relatively small proportion": {
+    "uz": "nisbatan kichik qismni tashkil etdi",
+    "type": "academic"
+   },
+   "can place a significant burden on taxpayers": {
+    "uz": "soliq to'lovchilarga katta yuk bo'lishi mumkin",
+    "type": "lexical"
+   },
+   "Moreover, the displacement of local communities": {
+    "uz": "Qolaversa, mahalliy aholi ko'chirilishi",
+    "type": "academic"
+   },
+   "This suggests a shift in the company's hiring practices": {
+    "uz": "Bu kompaniyaning ishga qabul qilish amaliyotida o'zgarish borligini ko'rsatadi",
+    "type": "academic"
+   }
+  }
+ },
+ "created_at": "2026-05-06T17:29:07.230875+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

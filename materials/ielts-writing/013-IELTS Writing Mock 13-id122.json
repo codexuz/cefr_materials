@@ -1,0 +1,506 @@
+{
+ "id": 122,
+ "mock_type": "ielts-writing",
+ "mock_number": 13,
+ "title": "IELTS Writing Mock 13",
+ "status": "published",
+ "mock_data": {
+  "tasks": {
+   "task1": {
+    "title": "European cinemas over time",
+    "prompt": "The table shows the change in the number of cinemas in different regions in a European country between 2004 and 2009.",
+    "wordGoal": 150,
+    "chartDesc": {
+     "title": "",
+     "xAxis": "Columns representing years (2004, 2009) and Percentage Change",
+     "yAxis": "Rows representing regions (City Center, Near City Center, Suburb, Countryside, Total)",
+     "period": "2004 - 2009",
+     "series": [
+      {
+       "name": "City Center",
+       "points": [
+        {
+         "at": "2004",
+         "value": 1512
+        },
+        {
+         "at": "2009",
+         "value": 1620
+        },
+        {
+         "at": "Percentage Change",
+         "value": 7.14
+        }
+       ]
+      },
+      {
+       "name": "Near City Center",
+       "points": [
+        {
+         "at": "2004",
+         "value": 300
+        },
+        {
+         "at": "2009",
+         "value": 400
+        },
+        {
+         "at": "Percentage Change",
+         "value": 33.33
+        }
+       ]
+      },
+      {
+       "name": "Suburb",
+       "points": [
+        {
+         "at": "2004",
+         "value": 40
+        },
+        {
+         "at": "2009",
+         "value": 30
+        },
+        {
+         "at": "Percentage Change",
+         "value": -25
+        }
+       ]
+      },
+      {
+       "name": "Countryside",
+       "points": [
+        {
+         "at": "2004",
+         "value": 108
+        },
+        {
+         "at": "2009",
+         "value": 90
+        },
+        {
+         "at": "Percentage Change",
+         "value": -16.67
+        }
+       ]
+      },
+      {
+       "name": "Total",
+       "points": [
+        {
+         "at": "2004",
+         "value": 2100
+        },
+        {
+         "at": "2009",
+         "value": 2287
+        },
+        {
+         "at": "Percentage Change",
+         "value": 8.9
+        }
+       ]
+      }
+     ],
+     "overview": "Overall, the total number of cinemas in the country increased between 2004 and 2009. Cinemas located in urban areas (City Center and Near City Center) grew, while those in Suburb and Countryside regions declined.",
+     "chartType": "table",
+     "confidence": "high",
+     "unreadable": [],
+     "keyFeatures": [
+      "City Center had the highest number of cinemas in both years, rising from 1,512 in 2004 to 1,620 in 2009 (+7.14%).",
+      "Near City Center saw the largest relative growth, increasing by +33.33% from 300 to 400 cinemas.",
+      "Suburb had the fewest cinemas and experienced the largest relative drop, declining by -25% from 40 to 30.",
+      "Countryside cinemas dropped from 108 to 90 (-16.67%).",
+      "The Total number of cinemas grew from 2,100 to 2,287, representing an overall change of +8.9%."
+     ]
+    },
+    "chartType": "table",
+    "dataNature": "dynamic",
+    "instruction": "Summarise the information by selecting and reporting the main features, and make comparison where relevant.",
+    "sampleBand5": "<p>The table shows <mark>about</mark> the number of cinemas in some regions. It is from 2004 to 2009 in a European country.</p>\n<p>In the East region, the number of cinemas was 45 in 2004. <mark>Then</mark> it went up to 52 in 2009. The West region had 60 cinemas in 2004, but in 2009, there were 68. This is also an increase. The Central region <mark>had the most</mark> cinemas. There were 80 in 2004 and 95 in 2009. So, it increased a lot.</p>\n<p>The North region had 32 cinemas in 2004. In 2009, it had 30. This is a small decrease. <mark>For the South</mark>, the number was 50 in 2004, and it became 48 in 2009. This also decreased.</p>\n<p>Overall, most regions saw an increase in the number of cinemas, except for the North and South.</p>",
+    "sampleBand6": "<p>The table shows the changes in cinema numbers in different regions of a European country between 2004 and 2009. <mark>Overall, most regions saw a decrease</mark> in the number of cinemas, but some experienced an increase.</p>\n\n<p>Looking at the details, the North region had the <mark>highest number of cinemas</mark> in 2004, with 245. However, this figure dropped to 230 by 2009. The South also saw a decrease, from 180 to 165. Similarly, the East region's cinema numbers fell from 150 to 142. <mark>On the other hand</mark>, the West region showed an increase, rising from 120 to 135. </p>\n\n<p>The Central region <mark>remained relatively stable</mark>. In 2004, there were 95 cinemas, and this only decreased slightly to 92 in 2009. <mark>In conclusion</mark>, the majority of regions experienced a decline in the number of cinemas, while only the West showed growth. </p>",
+    "sampleBand7": "<p>The table <mark>illustrates the changes</mark> in cinema numbers across several regions of a European country between 2004 and 2009.</p>\n<p>Overall, the data reveals a <mark>general decline</mark> in the number of cinemas, although some regions experienced growth. The most significant decrease occurred in the Central region, while the Northern region saw the most substantial increase.</p>\n<p>Specifically, the number of cinemas in the Central region <mark>fell dramatically</mark> from 250 in 2004 to just 180 in 2009. The Southern region also experienced a decrease, from 180 to 150 cinemas. A slight decline was also seen in the Western region, dropping from 120 to 110. In contrast, the Northern region saw a <mark>considerable rise</mark> in cinema numbers, increasing from 80 to 120. The Eastern region showed only a marginal increase, going from 90 to 95.</p>\n<p>In summary, the <mark>predominant trend</mark> was a reduction in cinema numbers, with the Central region experiencing the greatest loss. However, the Northern region bucked this trend, <mark>demonstrating a significant expansion</mark> of its cinema infrastructure.</p>",
+    "sampleBand8": "<p>The table <mark>illustrates the fluctuations</mark> in the number of cinemas across several regions of a European country between 2004 and 2009.</p>\n\n<p>Overall, while some regions witnessed an increase in the number of cinemas, others experienced a decline. London and the South East <mark>exhibited contrasting trends</mark>, whereas the Midlands and the North largely followed similar patterns.</p>\n\n<p>Specifically, London saw a <mark>significant upswing</mark> in cinema numbers, rising from 190 in 2004 to 235 in 2009. In contrast, the South East experienced a <mark>considerable downturn</mark>, with the number of cinemas decreasing from 140 to 115 during the same period. The Midlands showed a slight reduction, from 95 to 88. The North <mark>mirrored this trend</mark>, declining from 80 cinemas to 72. The figures for Scotland <mark>remained relatively stable</mark>, starting at 70 and ending at 68.</p>\n\n<p>In summary, London was the only region to <mark>demonstrate substantial growth</mark> in cinema numbers, while the South East <mark>stood out as the region with the most pronounced decrease</mark>. Other regions experienced more moderate declines or remained relatively unchanged. <mark>It is also worth noting</mark> that London maintained the highest number of cinemas throughout the entire period.</p>",
+    "sampleBand9": "<p>The table <mark>delineates the fluctuations</mark> in cinema numbers across diverse regions within a European country between 2004 and 2009.</p>\n<p>An <mark>initial overview</mark> reveals a general decline in the total number of cinemas; however, regional variations <mark>present a more nuanced picture</mark>. While most regions experienced a reduction, one area witnessed growth.</p>\n<p>Specifically, the North region experienced a significant decrease, falling from 220 cinemas in 2004 to 185 in 2009. Similarly, the South region <mark>saw a marked contraction</mark>, with numbers dropping from 195 to 160. The West region also experienced a reduction, albeit a less pronounced one, declining from 150 to 138. The East region <mark>mirrored this trend</mark>, decreasing from 180 to 165.</p>\n<p>In stark contrast to these declines, the Central region <mark>bucked the overall trend</mark>, exhibiting growth from 120 cinemas in 2004 to 145 in 2009. This <mark>constituted a notable exception</mark> to the prevailing pattern of cinema closures. <mark>Overall, while the national cinematic landscape contracted</mark>, the Central region demonstrated resilience and expansion. The disparities highlight <mark>regional economic and cultural factors at play</mark> during this period.</p>",
+    "timeMinutes": 20,
+    "chartDescImg": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/13.png",
+    "sampleAnswer": "The table illustrates changes in the number of cinemas across five different regions in a European country over a five-year period from 2004 to 2009. Overall, the total number of cinemas in the country declined, with the most significant drops occurring in the Central and Southern regions, while the Northern region saw an increase.\n\nIn 2004, the Central region had the highest number of cinemas at 120, but this figure fell dramatically to 85 by 2009, representing the largest decrease among all regions. Similarly, the Southern region experienced a notable decline from 95 to 70 cinemas. The Eastern region also saw a reduction, with numbers dropping from 80 to 65.\n\nIn contrast, the Northern region was the only area to witness growth, with cinemas increasing from 60 to 75. The Western region remained relatively stable, with only a slight decrease from 75 to 72 cinemas. By 2009, the Central region, despite its decline, still maintained the highest number of cinemas, while the Eastern region had the fewest.",
+    "chartImageUrl": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/13.png",
+    "uzSampleBand5": "<p>Jadvalda <mark>taxminan</mark> ba'zi hududlardagi kinoteatrlar soni ko'rsatilgan. Bu Yevropa mamlakatida 2004-yildan 2009-yilgacha bo'lgan davr.</p>\n<p>Sharqiy hududda 2004-yilda kinoteatrlar soni 45 ta edi. <mark>Keyin</mark> 2009-yilda 52 taga ko'tarildi. G'arbiy hududda 2004-yilda 60 ta kinoteatr bor edi, lekin 2009-yilda 68 ta bo'ldi. Bu ham o'sish. Markaziy hududda <mark>eng ko'p</mark> kinoteatrlar bor edi. 2004-yilda 80 ta, 2009-yilda esa 95 ta edi. Shunday qilib, u juda ko'paydi.</p>\n<p>Shimoliy hududda 2004-yilda 32 ta kinoteatr bor edi. 2009-yilda esa 30 ta bo'ldi. Bu kichik pasayish. <mark>Janubga kelsak</mark>, 2004-yilda soni 50 ta edi va 2009-yilda 48 taga aylandi. Bu ham kamaydi.</p>\n<p>Umuman olganda, ko'pchilik hududlarda kinoteatrlar soni ko'paygan, faqat Shimoliy va Janubiy hududlar bundan mustasno.</p>",
+    "uzSampleBand6": "<p>Jadvalda Yevropa mamlakatining turli hududlarida 2004 va 2009-yillar oralig'ida kinoteatrlar sonidagi o'zgarishlar ko'rsatilgan. <mark>Umuman olganda, ko'pgina hududlarda kinoteatrlar soni kamaygan</mark>, lekin ba'zi hududlarda esa ko'payish kuzatildi.</p>\n\n<p>Tafsilotlarga e'tibor qaratadigan bo'lsak, Shimoliy hududda 2004-yilda <mark>eng ko'p kinoteatrlar</mark> mavjud bo'lgan, ya'ni 245 ta. Biroq, bu ko'rsatkich 2009-yilga kelib 230 taga tushdi. Janubiy hududda ham kamayish kuzatildi, 180 tadan 165 taga. Shunga o'xshash, Sharqiy hududdagi kinoteatrlar soni 150 tadan 142 taga kamaydi. <mark>Boshqa tomondan</mark>, G'arbiy hududda o'sish kuzatildi, 120 tadan 135 taga ko'tarildi.</p>\n\n<p>Markaziy hudud <mark>nisbatan barqaror bo'lib qoldi</mark>. 2004-yilda 95 ta kinoteatr bor edi va bu 2009-yilda biroz kamayib, 92 taga yetdi. <mark>Xulosa qilib aytganda</mark>, hududlarning aksariyati kinoteatrlar sonining kamayishini boshdan kechirdi, faqat G'arbiy hududda o'sish kuzatildi.</p>",
+    "uzSampleBand7": "<p>Jadval <mark>2004 yildan 2009 yilgacha bo'lgan davrda</mark> Yevropa mamlakatining bir nechta hududlarida kino teatrlari sonidagi <mark>o'zgarishlarni ko'rsatadi</mark>.</p>\n<p>Umuman olganda, ma'lumotlar kino teatrlari sonining <mark>umumiy pasayishini</mark> ko'rsatadi, garchi ba'zi hududlarda o'sish kuzatilgan bo'lsa ham. Eng sezilarli pasayish Markaziy hududda sodir bo'ldi, shimoliy hudud esa eng katta o'sishni ko'rsatdi.</p>\n<p>Xususan, Markaziy hududdagi kino teatrlari soni 2004 yildagi 250 tadan 2009 yilda atigi 180 tagacha <mark>keskin kamaydi</mark>. Janubiy hududda ham pasayish kuzatildi - 180 tadan 150 tagacha. G'arbiy hududda ham biroz pasayish kuzatildi va 120 tadan 110 tagacha tushdi. Aksincha, Shimoliy hududda kino teatrlari sonining <mark>sezilarli o'sishi</mark> kuzatildi va 80 tadan 120 tagacha ko'paydi. Sharqiy hududda faqat marginal o'sish kuzatildi - 90 tadan 95 tagacha.</p>\n<p>Xulosa qilib aytganda, <mark>ustuvor tendentsiya</mark> kino teatrlari sonining kamayishi bo'ldi, Markaziy hudud esa eng katta yo'qotishga uchradi. Biroq, Shimoliy hudud bu tendentsiyaga qarshi chiqdi va o'z kino infratuzilmasining <mark>sezilarli kengayishini namoyish etdi</mark>.</p>",
+    "uzSampleBand8": "<p>Jadval <mark>2004 yildan 2009 yilgacha bo'lgan davrda bir Yevropa davlatining bir nechta mintaqalarida kinoteatrlar sonining o'zgarishini ko'rsatadi</mark>.</p>\n\n<p>Umuman olganda, ba'zi mintaqalarda kinoteatrlar soni ko'paygan bo'lsa, boshqa mintaqalarda kamayish kuzatildi. London va Janubi-Sharq <mark>qarama-qarshi tendentsiyalarni namoyish etdi</mark>, Midlands va Shimol esa asosan o'xshash yo'nalishlarni kuzatdi.</p>\n\n<p>Xususan, Londonda kinoteatrlar sonida <mark>sezilarli o'sish</mark> kuzatildi, 2004 yildagi 190 tadan 2009 yilda 235 taga ko'tarildi. Aksincha, Janubi-Sharqda <mark>ancha pasayish</mark> kuzatildi, kinoteatrlar soni shu davrda 140 tadan 115 taga kamaydi. Midlandsda biroz qisqarish kuzatildi, 95 tadan 88 taga. Shimol <mark>bu tendentsiyani aks ettirdi</mark>, 80 ta kinoteatrdan 72 taga kamaydi. Shotlandiya bo'yicha ko'rsatkichlar <mark>nisbatan barqaror bo'lib qoldi</mark>, 70 tadan boshlanib, 68 ta bilan yakunlandi.</p>\n\n<p>Xulosa qilib aytganda, London kinoteatrlar sonida <mark>sezilarli o'sishni namoyish etgan</mark> yagona mintaqa bo'ldi, Janubi-Sharq esa <mark>eng aniq pasayishga ega bo'lgan mintaqa sifatida ajralib turdi</mark>. Boshqa mintaqalarda o'rtacha pasayishlar kuzatildi yoki nisbatan o'zgarmas bo'lib qoldi. <mark>Shuni ham ta'kidlash joizki</mark>, London butun davr davomida eng ko'p kinoteatrlar sonini saqlab qoldi.</p>",
+    "uzSampleBand9": "<p>Jadval 2004 yildan 2009 yilgacha bo'lgan davrda Yevropa mamlakatining turli hududlarida kinoteatrlar sonidagi <mark>o'zgarishlarni tasvirlaydi</mark>.</p>\n<p><mark>Dastlabki umumiy ko'rinish</mark> kinoteatrlar umumiy sonining pasayishini ko'rsatadi; ammo, hududiy o'zgarishlar <mark>yanada nozikroq holatni ko'rsatadi</mark>. Aksariyat hududlarda kamayish kuzatilgan bo'lsa, bir hudud o'sishga erishdi.</p>\n<p>Xususan, Shimoliy hududda sezilarli pasayish kuzatildi, 2004 yilda 220 ta kinoteatrdan 2009 yilda 185 taga tushdi. Xuddi shunday, Janubiy hududda ham <mark>sezilarli qisqarish kuzatildi</mark>, raqamlar 195 tadan 160 taga kamaydi. G'arbiy hududda ham pasayish kuzatildi, ammo unchalik sezilarli emas, 150 tadan 138 taga kamaydi. Sharqiy hudud ham <mark>bu tendentsiyani aks ettirdi</mark>, 180 tadan 165 taga kamaydi.</p>\n<p>Ushbu pasayishlarga keskin zid ravishda, Markaziy hudud <mark>umumiy tendentsiyaga zid bordi</mark>, 2004 yilda 120 ta kinoteatrdan 2009 yilda 145 taga o'sdi. Bu kinoteatrlarning yopilishining ustuvor namunasidan <mark>sezilarli istisno edi</mark>. <mark>Umuman olganda, milliy kinematografiya landshafti qisqargan bo'lsa-da</mark>, Markaziy hudud barqarorlik va kengayishni namoyish etdi. Farqlar bu davrda <mark>hududiy iqtisodiy va madaniy omillarning ta'sirini</mark> ta'kidlaydi.</p>",
+    "chartDescSource": "extracted-verified-2026-08-05"
+   },
+   "task2": {
+    "title": "Advertising overload",
+    "prompt": "Consumers are faced with an increasing number of advertising by competing companies. To what extent do you think consumers are affected? What measurements can be taken to tackle the problem?",
+    "wordGoal": 250,
+    "essayType": "two-part",
+    "instruction": "To what extent do you think consumers are affected? What measurements can be taken to tackle the problem?",
+    "sampleBand5": "<p>Nowadays, we see lots of adverts. Companies <mark>try to sell their products</mark> with many advertisements. I think this affects people in some ways. It also creates some problems for the people who buy things.</p>\n\n<p>One way people are affected is that they want things they don't really need. <mark>Because they see so many adverts</mark>, they think that they must have the newest phone or the best car. This makes them spend more money than they should. <mark>This is not a good thing for them</mark> because they might get into debt.</p>\n\n<p>Also, some adverts are not true. They say that a product is very good, but it is not. This makes people <mark>feel angry and upset</mark> when they buy something that is not as good as they thought. This can make them not trust companies anymore.</p>\n\n<p>To stop these problems, some things can be done. The government should check adverts to make sure they are true. Also, people should learn how to be more careful about what they buy. They should not just believe everything they see in adverts. They can ask their friends or read reviews before they buy something. This will help them make better choices. </p>\n\n<p>In conclusion, I think that adverts can affect people in bad ways. But if we are careful and the government helps, we can <mark>make things better for everyone</mark>.</p>",
+    "sampleBand6": "<p>In today’s world, consumers are constantly exposed to a large number of advertisements from different companies. This can have a significant impact on their choices and behaviors. <mark>To a certain extent</mark>, I believe that consumers are affected by this constant advertising, and there are some steps that can be taken to address the potential problems that arise.</p>\n\n<p>One major effect of constant advertising is that it can lead to <mark>impulsive buying habits</mark>. When people are repeatedly exposed to advertisements for certain products, they may feel a strong urge to buy them, even if they don't really need them. This can result in financial difficulties for some individuals. Another effect is that advertising can create unrealistic expectations. Companies often use attractive models and exaggerated claims to promote their products, which can lead to dissatisfaction when consumers find that the reality doesn't match the advertisement. <mark>Furthermore</mark>, too much advertising can simply become annoying and cause consumers to tune out completely, making the advertising ineffective.</p>\n\n<p>There are several measurements that could be taken to tackle these problems. Firstly, governments could implement stricter regulations on advertising. This could include limiting the number of advertisements that are shown during television programs or online, and ensuring that advertisements are not misleading or deceptive. Secondly, <mark>it would be beneficial to</mark> educate consumers about the effects of advertising. Schools and community organizations could offer courses on media literacy, teaching people how to critically evaluate advertisements and make informed purchasing decisions. <mark>Finally</mark>, companies could be encouraged to adopt more responsible advertising practices. This could involve focusing on the actual benefits of their products, rather than relying on manipulative tactics.</p>\n\n<p>In conclusion, I think consumers are definitely affected by the increasing number of advertisements. While advertising can be informative, it can also lead to negative consequences such as impulsive buying and unrealistic expectations. By implementing stricter regulations, educating consumers, and encouraging responsible advertising, we can <mark>mitigate the adverse effects</mark> of excessive advertising.</p>",
+    "sampleBand7": "<p>In today's world, consumers are constantly bombarded with advertisements from competing companies. While advertising can be informative, I believe that the sheer volume of it <mark>undeniably affects</mark> consumers in various ways, and certain measures should be taken to mitigate the potential negative impacts. </p>\n\n<p>One significant effect of excessive advertising is the <mark>potential for manipulation</mark>. Companies often employ persuasive techniques and <mark>exaggerated claims</mark> to entice consumers to purchase their products or services. This can lead individuals to make impulsive decisions or buy things they do not truly need, resulting in financial strain and dissatisfaction. Furthermore, the constant exposure to unrealistic portrayals of beauty and success in advertisements can contribute to feelings of inadequacy and low self-esteem, particularly among younger audiences. While some might argue that consumers have the agency to discern truth from fiction, the <mark>sheer pervasiveness</mark> of advertising can wear down even the most critical minds.</p>\n\n<p>To address this problem, several measures can be implemented. Firstly, governments should enforce stricter regulations on advertising, ensuring that claims are accurate and not misleading. This could involve establishing independent bodies to review advertisements and impose penalties on companies that violate the rules. Secondly, media literacy programs should be introduced in schools to equip young people with the skills to critically evaluate advertising messages. This would empower them to make informed decisions and resist the manipulative tactics employed by advertisers. Finally, consumers themselves can take proactive steps by being more mindful of their spending habits and <mark>actively seeking out</mark> unbiased information about products and services before making a purchase. <mark>Raising awareness</mark> about the potential effects of advertising is also crucial.</p>\n\n<p>In conclusion, the increasing number of advertisements does affect consumers, leading to potential manipulation and negative impacts on well-being. By implementing stricter regulations, promoting media literacy, and encouraging mindful consumerism, we can create a more balanced and informed marketplace where consumers are empowered to make responsible choices. Although complete elimination of advertising is unrealistic, these steps would <mark>go a long way</mark> in mitigating its potentially harmful effects.</p>",
+    "sampleBand8": "<p>The proliferation of advertising from competing companies has become an inescapable aspect of modern life. While advertising can provide consumers with valuable information, the sheer volume and often manipulative nature of these campaigns <mark>undeniably exert a significant influence</mark> on consumer behavior. This essay will explore the ways in which consumers are affected and propose measures to mitigate potentially negative consequences.</p>\n\n<p>One of the primary effects of pervasive advertising is the <mark>erosion of consumer autonomy</mark>. Constant exposure to persuasive messaging can subtly shape perceptions and desires, leading individuals to purchase products or services they might not otherwise need or want. This is particularly true when advertising targets vulnerable demographics, such as children, or employs sophisticated psychological techniques to bypass rational decision-making. Furthermore, the constant barrage of competing claims can create confusion and anxiety, making it difficult for consumers to <mark>make informed choices</mark> based on genuine needs and preferences.</p>\n\n<p>To address these issues, several measures can be implemented. Firstly, governments should strengthen regulations on advertising, particularly concerning misleading or deceptive practices. This includes <mark>imposing stricter standards</mark> on the accuracy of product claims and limiting the use of manipulative techniques. Secondly, media literacy education should be integrated into school curricula to equip individuals with the critical thinking skills necessary to <mark>evaluate advertising messages effectively</mark>. This would empower consumers to become more discerning and less susceptible to persuasive tactics. Finally, supporting independent consumer advocacy groups can provide unbiased information and advice, helping consumers navigate the complex marketplace and make choices that align with their best interests.</p>\n\n<p>In conclusion, the increasing prevalence of advertising has a demonstrable impact on consumers, often undermining their autonomy and creating confusion. However, by implementing stricter regulations, promoting media literacy, and supporting consumer advocacy, we can <mark>foster a more balanced and informed marketplace</mark> where consumers are empowered to make choices that genuinely benefit them. <mark>A multi-pronged approach</mark> is essential to ensure that advertising serves its intended purpose of providing information without unduly influencing consumer behavior. This requires <mark>a concerted effort</mark> from governments, educators, and consumer organizations alike to <mark>safeguard consumer interests</mark> in an increasingly commercialized world.</p>",
+    "sampleBand9": "<p>The proliferation of advertisements from competing companies has become an inescapable feature of modern life. While these advertisements provide information, their sheer volume and persuasive techniques <mark>undeniably exert a significant influence</mark> on consumers. This essay will explore the multifaceted ways in which consumers are affected and then suggest measures to mitigate the potential negative consequences.</p>\n\n<p>Firstly, the constant bombardment of advertisements can lead to <mark>a state of information overload</mark>. Faced with countless choices and often contradictory claims, consumers may experience decision fatigue, making it difficult to assess products rationally. Furthermore, advertising often relies on emotional appeals and aspirational imagery, <mark>cultivating a sense of inadequacy</mark> in individuals who feel they do not measure up to the advertised ideal. This can contribute to a culture of consumerism, where individuals are driven by a desire to acquire goods, regardless of their actual needs or financial circumstances. <mark>Moreover, the insidious nature of targeted advertising</mark>, fueled by data collection, raises serious privacy concerns and can manipulate consumers in subtle yet powerful ways.</p>\n\n<p>To address these issues, several measures can be implemented. Firstly, governments should strengthen regulations regarding truth in advertising, ensuring that claims are accurate and substantiated. This includes <mark>imposing stricter penalties</mark> for misleading or deceptive advertising practices. Secondly, media literacy programs should be integrated into educational curricula, empowering individuals to critically evaluate advertisements and resist manipulative techniques. These programs should focus on teaching consumers how to identify bias, assess the credibility of sources, and <mark>understand the underlying motivations</mark> of advertisers. Finally, promoting alternative models of consumption, such as collaborative consumption and minimalism, can help to shift societal values away from excessive consumerism. By encouraging individuals to prioritize experiences over possessions and to value sustainability, <mark>we can foster a more balanced and responsible approach</mark> to consumption.</p>\n\n<p>In conclusion, the pervasive nature of advertising has a profound impact on consumers, affecting their decision-making processes, emotional well-being, and societal values. While advertising can provide valuable information, it is crucial to implement measures that protect consumers from manipulation and promote responsible consumption habits. By strengthening regulations, promoting media literacy, and fostering alternative models of consumption, <mark>we can empower individuals to navigate the complex landscape of advertising</mark> and make informed choices that align with their values and needs. <mark>Such an approach is paramount</mark> to safeguarding consumer welfare in an increasingly commercialized world. <mark>Ultimately, a more discerning and critically aware consumer base benefits society as a whole</mark>.</p>",
+    "timeMinutes": 40,
+    "sampleAnswer": "In the modern marketplace, consumers are bombarded with an unprecedented volume of advertising from companies vying for their attention. This essay will discuss the significant impact this has on consumers and propose practical measures to address the issue.\n\nThe saturation of advertising profoundly affects consumers in several ways. Firstly, it can lead to decision fatigue, where the sheer number of choices and promotional messages makes it difficult for individuals to make informed purchasing decisions. This often results in impulse buying or brand loyalty based on advertising exposure rather than product quality. Secondly, excessive advertising can foster a culture of materialism, constantly reminding consumers of what they do not have and creating a sense of inadequacy. This can have detrimental effects on mental health, contributing to anxiety and dissatisfaction. Finally, advertising frequently targets vulnerable groups, including children and the elderly, who may be less equipped to critically evaluate commercial messages.\n\nTo mitigate these negative effects, several measures can be implemented. Governments could introduce stricter regulations on advertising content and placement, particularly during children's programming and on platforms frequented by young people. Additionally, educational initiatives could be developed to enhance media literacy, teaching consumers, especially young people, to critically analyze and question advertising claims. Consumers themselves can also take steps, such as using ad-blocking software and being more mindful of their consumption habits.\n\nIn conclusion, while advertising is a necessary component of a market economy, its unchecked proliferation has significant negative consequences for consumers. A combination of governmental regulation, education, and personal responsibility is needed to tackle this pervasive issue.",
+    "uzSampleBand5": "<p>Hozirgi kunda biz ko'plab reklamalarni ko'ramiz. Kompaniyalar ko'plab reklamalar orqali <mark>o'z mahsulotlarini sotishga harakat qiladilar</mark>. Menimcha, bu odamlarga ma'lum darajada ta'sir qiladi. Shuningdek, bu narsalarni sotib oladigan odamlar uchun ba'zi muammolarni yaratadi.</p>\n\n<p>Odamlarga ta'sir qiladigan bir usul shundaki, ular aslida kerak bo'lmagan narsalarni xohlashadi. <mark>Ular juda ko'p reklamalarni ko'rganliklari sababli</mark>, ular eng yangi telefonga yoki eng yaxshi mashinaga ega bo'lishlari kerak deb o'ylashadi. Bu ularni kerak bo'lganidan ko'ra ko'proq pul sarflashga majbur qiladi. <mark>Bu ular uchun yaxshi narsa emas</mark>, chunki ular qarzga botishi mumkin.</p>\n\n<p>Shuningdek, ba'zi reklamalar to'g'ri emas. Ular mahsulot juda yaxshi deyishadi, lekin unday emas. Bu odamlarni o'zlari o'ylaganchalik yaxshi bo'lmagan narsani sotib olganlarida <mark>g'azab va xafalik his qilishiga</mark> olib keladi. Bu ularni endi kompaniyalarga ishonmasliklariga sabab bo'lishi mumkin.</p>\n\n<p>Ushbu muammolarni to'xtatish uchun ba'zi narsalarni qilish mumkin. Hukumat reklamalarni tekshirishi kerak, ularning to'g'ri ekanligiga ishonch hosil qilish uchun. Shuningdek, odamlar nimani sotib olishda ehtiyotkor bo'lishni o'rganishlari kerak. Ular shunchaki reklamalarda ko'rgan hamma narsaga ishonmasliklari kerak. Ular do'stlaridan so'rashlari yoki biror narsa sotib olishdan oldin sharhlarni o'qishlari mumkin. Bu ularga yaxshiroq tanlov qilishga yordam beradi.</p>\n\n<p>Xulosa qilib aytganda, menimcha, reklamalar odamlarga yomon ta'sir qilishi mumkin. Ammo agar biz ehtiyot bo'lsak va hukumat yordam bersa, biz <mark>hamma uchun vaziyatni yaxshilashimiz</mark> mumkin.</p>",
+    "uzSampleBand6": "<p>Bugungi kunda iste'molchilar turli kompaniyalarning ko'plab reklamalariga doimiy ravishda duch kelishmoqda. Bu ularning tanlovi va xatti-harakatlariga sezilarli ta'sir ko'rsatishi mumkin. <mark>Ma'lum darajada</mark>, men iste'molchilar bu doimiy reklamadan ta'sirlanadi deb hisoblayman va yuzaga kelishi mumkin bo'lgan muammolarni hal qilish uchun ba'zi choralarni ko'rish mumkin.</p>\n\n<p>Doimiy reklamalarning asosiy ta'sirlaridan biri shundaki, u <mark>impulsiv xarid qilish odatlariga</mark> olib kelishi mumkin. Odamlar ma'lum bir mahsulotlar reklamalariga qayta-qayta duch kelganda, ularga haqiqatan ham kerak bo'lmasa ham, ularni sotib olishga kuchli istak sezishlari mumkin. Bu ba'zi shaxslar uchun moliyaviy qiyinchiliklarga olib kelishi mumkin. Yana bir ta'siri shundaki, reklama noreal kutilmalarni yaratishi mumkin. Kompaniyalar ko'pincha mahsulotlarini targ'ib qilish uchun jozibali modellardan va mubolag'ali da'volardan foydalanadilar, bu esa iste'molchilar haqiqat reklamaga mos kelmasligini aniqlaganda norozilikka olib kelishi mumkin. <mark>Bundan tashqari</mark>, haddan tashqari ko'p reklama shunchaki zerikarli bo'lib qolishi va iste'molchilarni butunlay o'chirishga olib kelishi mumkin, bu esa reklamani samarasiz qiladi.</p>\n\n<p>Ushbu muammolarni hal qilish uchun bir nechta chora-tadbirlar ko'rish mumkin. Birinchidan, hukumatlar reklamaga nisbatan qat'iyroq qoidalarni joriy qilishi mumkin. Bunga televizion dasturlar yoki onlayn paytida ko'rsatiladigan reklamalar sonini cheklash va reklamalar chalg'ituvchi yoki yolg'on bo'lmasligini ta'minlash kiradi. Ikkinchidan, <mark>iste'molchilarni reklamaning ta'siri haqida</mark> o'qitish foydali bo'lardi. Maktablar va jamoat tashkilotlari media savodxonligi bo'yicha kurslarni taklif qilishlari, odamlarni reklamalarni tanqidiy baholashga va xabardor xarid qilish qarorlarini qabul qilishga o'rgatishlari mumkin. <mark>Nihoyat</mark>, kompaniyalar yanada mas'uliyatli reklama amaliyotlarini qabul qilishga undalishi mumkin. Bunga manipulyativ taktikalarga tayanmasdan, mahsulotlarining haqiqiy afzalliklariga e'tibor qaratish kiradi.</p>\n\n<p>Xulosa qilib aytganda, men iste'molchilar reklamalar sonining ortib borayotganidan aniq ta'sirlanadi deb o'ylayman. Reklama ma'lumot berishi mumkin bo'lsa-da, u impulsiv xarid qilish va noreal kutilmalar kabi salbiy oqibatlarga ham olib kelishi mumkin. Qat'iyroq qoidalarni joriy qilish, iste'molchilarni o'qitish va mas'uliyatli reklamani rag'batlantirish orqali biz haddan tashqari ko'p reklamalarning <mark>salbiy ta'sirini kamaytirishimiz</mark> mumkin.</p>",
+    "uzSampleBand7": "<p>Bugungi kunda iste'molchilar doimiy ravishda raqobatdosh kompaniyalarning reklamalari bilan <mark>uzluksiz bombardimon qilinmoqda</mark>. Reklama ma'lumot berishi mumkin bo'lsa-da, menimcha, uning shunchaki hajmi iste'molchilarga turli yo'llar bilan <mark>shubhasiz ta'sir qiladi</mark> va salbiy oqibatlarni yumshatish uchun ma'lum choralar ko'rilishi kerak.</p>\n\n<p>Haddan tashqari reklamalarning muhim ta'sirlaridan biri bu <mark>manipulyatsiya qilish imkoniyatidir</mark>. Kompaniyalar ko'pincha iste'molchilarni o'z mahsulotlari yoki xizmatlarini sotib olishga undash uchun ishontirish usullari va <mark>mubolag'ali da'volardan</mark> foydalanadilar. Bu odamlarni shoshilinch qarorlar qabul qilishga yoki ular aslida kerak bo'lmagan narsalarni sotib olishga olib kelishi mumkin, natijada moliyaviy qiyinchilik va norozilik paydo bo'ladi. Bundan tashqari, reklamalarda go'zallik va muvaffaqiyatning noreal tasvirlariga doimiy ravishda duchor bo'lish, ayniqsa yoshlar orasida, yetishmovchilik hissi va o'ziga past baho berishga olib kelishi mumkin. Ba'zilar iste'molchilar haqiqatni uydirmadan ajrata olish imkoniyatiga ega deb bahslashishi mumkin bo'lsa-da, reklamalarning <mark>juda keng tarqalgani</mark> hatto eng tanqidiy ongni ham toliqtirishi mumkin.</p>\n\n<p>Ushbu muammoni hal qilish uchun bir nechta chora-tadbirlarni amalga oshirish mumkin. Birinchidan, hukumatlar reklamaga nisbatan qat'iyroq qoidalarni joriy etishi, da'volarning aniq va chalg'itmasligini ta'minlashi kerak. Bu reklamalarni ko'rib chiqish va qoidalarni buzgan kompaniyalarga jarima solish uchun mustaqil organlarni tashkil etishni o'z ichiga olishi mumkin. Ikkinchidan, yoshlarni reklama xabarlarini tanqidiy baholash ko'nikmalari bilan ta'minlash uchun maktablarda media savodxonligi dasturlari joriy etilishi kerak. Bu ularga asosli qarorlar qabul qilish va reklama beruvchilar tomonidan qo'llaniladigan manipulyatsion taktikaga qarshi turish imkonini beradi. Nihoyat, iste'molchilarning o'zlari xarid qilish odatlariga e'tiborli bo'lish va xarid qilishdan oldin mahsulotlar va xizmatlar haqida <mark>faol ravishda izlanish</mark> orqali faol qadamlar qo'yishlari mumkin. Reklamaning potentsial ta'siri haqida <mark>xabardorlikni oshirish</mark> ham juda muhim.</p>\n\n<p>Xulosa qilib aytganda, reklamalar sonining ko'payishi iste'molchilarga ta'sir qiladi, bu esa potentsial manipulyatsiya va farovonlikka salbiy ta'sir ko'rsatadi. Qat'iyroq qoidalarni joriy etish, media savodxonligini oshirish va ongli iste'molchilikni rag'batlantirish orqali biz iste'molchilarga mas'uliyatli tanlov qilish imkoniyatini beradigan yanada muvozanatli va xabardor bozor yaratishimiz mumkin. Reklamani butunlay yo'q qilish noreal bo'lsa-da, bu qadamlar uning potentsial zararli ta'sirini yumshatishda <mark>katta yordam beradi</mark>.</p>",
+    "uzSampleBand8": "<p>Raqobatdosh kompaniyalarning reklama tarqalishi zamonaviy hayotning ajralmas jihatiga aylandi. Reklama iste'molchilarga qimmatli ma'lumotlar berishi mumkin bo'lsa-da, bu kampaniyalarning katta hajmi va ko'pincha manipulyativ tabiati iste'molchilar xatti-harakatlariga <mark>shubhasiz, sezilarli ta'sir ko'rsatadi</mark>. Ushbu insho iste'molchilarga qanday ta'sir qilishini o'rganadi va salbiy oqibatlarni kamaytirish bo'yicha choralarni taklif qiladi.</p>\n\n<p>Reklamaning keng tarqalgan asosiy ta'sirlaridan biri bu <mark>iste'molchi mustaqilligining yemirilishidir</mark>. Doimiy ravishda ishontiruvchi xabarlarga duchor bo'lish sezilarli darajada idrok va istaklarni shakllantirishi, odamlarni boshqa holda ehtiyoj sezmagan yoki xohlamagan mahsulot yoki xizmatlarni sotib olishga olib kelishi mumkin. Bu, ayniqsa, reklama bolalar kabi zaif demografik guruhlarga qaratilgan yoki ratsional qaror qabul qilishni chetlab o'tish uchun murakkab psixologik usullardan foydalanganda to'g'ri keladi. Bundan tashqari, raqobatlashuvchi da'volarning doimiy hujumi chalkashlik va xavotirni keltirib chiqarishi mumkin, bu esa iste'molchilarga haqiqiy ehtiyoj va afzalliklar asosida <mark>asoslangan tanlov qilishni</mark> qiyinlashtiradi.</p>\n\n<p>Ushbu muammolarni hal qilish uchun bir nechta choralar ko'rilishi mumkin. Birinchidan, hukumatlar reklamani, xususan, noto'g'ri yoki aldov amaliyotiga oid qoidalarni kuchaytirishlari kerak. Bu mahsulot da'volarining aniqligiga <mark>qat'iy standartlar o'rnatishni</mark> va manipulyativ usullardan foydalanishni cheklashni o'z ichiga oladi. Ikkinchidan, ommaviy axborot vositalari savodxonligi bo'yicha ta'lim maktab o'quv dasturlariga integratsiya qilinishi kerak, bu odamlarni <mark>reklama xabarlarini samarali baholash</mark> uchun zarur bo'lgan tanqidiy fikrlash qobiliyatlari bilan ta'minlash kerak. Bu iste'molchilarga yanada farosatli bo'lishga va ishontiruvchi taktiklarga kamroq moyil bo'lishga imkon beradi. Nihoyat, mustaqil iste'molchilar huquqlarini himoya qilish guruhlarini qo'llab-quvvatlash xolis ma'lumot va maslahat berishi, iste'molchilarga murakkab bozorda yo'l topishga va ularning eng yaxshi manfaatlariga mos keladigan tanlov qilishga yordam beradi.</p>\n\n<p>Xulosa qilib aytganda, reklamalarning keng tarqalishi iste'molchilarga sezilarli ta'sir ko'rsatadi, ko'pincha ularning avtonomiyasini buzadi va chalkashlikni keltirib chiqaradi. Biroq, qat'iy qoidalarni joriy etish, media savodxonligini oshirish va iste'molchilar huquqlarini himoya qilishni qo'llab-quvvatlash orqali biz iste'molchilarga o'zlariga haqiqatan ham foyda keltiradigan tanlov qilish huquqiga ega bo'lgan <mark>yanada muvozanatli va xabardor bozorga ko'maklashishimiz</mark> mumkin. Reklama iste'molchilar xatti-harakatlariga asossiz ta'sir o'tkazmasdan, ma'lumot berish maqsadiga xizmat qilishini ta'minlash uchun <mark>ko'p qirrali yondashuv</mark> zarur. Buning uchun tobora tijoratlashtirilgan dunyoda <mark>iste'molchilar manfaatlarini himoya qilish</mark> uchun hukumatlar, o'qituvchilar va iste'molchi tashkilotlarining <mark>birgalikdagi sa'y-harakatlari</mark> talab etiladi.</p>",
+    "uzSampleBand9": "<p>Raqobatdosh kompaniyalarning reklamalari ko'payishi zamonaviy hayotning ajralmas xususiyatiga aylandi. Ushbu reklamalar ma'lumot bersa-da, ularning hajmi va ta'sirchan usullari iste'molchilarga <mark>shubhasiz sezilarli ta'sir ko'rsatadi</mark>. Ushbu insho iste'molchilarga ta'sir etuvchi ko'p qirrali usullarni o'rganadi va keyin salbiy oqibatlarni kamaytirish uchun choralarni taklif qiladi.</p>\n\n<p>Birinchidan, reklamalarning doimiy bombardimon qilinishi <mark>ma'lumotlarning haddan tashqari yuklanishiga</mark> olib kelishi mumkin. Cheksiz tanlovlar va ko'pincha ziddiyatli da'volarga duch kelgan iste'molchilar qaror qabul qilishda charchoqni his qilishlari mumkin, bu esa mahsulotlarni ratsional baholashni qiyinlashtiradi. Bundan tashqari, reklama ko'pincha hissiy murojaatlar va orzu qilinadigan tasvirlarga tayanadi, bu esa o'zlarini reklama qilingan idealga mos kelmaydigan shaxslarda <mark>qoniqmaslik hissini uyg'otadi</mark>. Bu iste'molchilik madaniyatiga hissa qo'shishi mumkin, bunda shaxslar o'zlarining haqiqiy ehtiyojlari yoki moliyaviy ahvolidan qat'i nazar, tovarlarni sotib olish istagi bilan harakat qiladilar. <mark>Bundan tashqari, ma'lumotlarni yig'ish bilan ta'minlangan maqsadli reklamalarning yashirin tabiati</mark> jiddiy maxfiylik muammolarini keltirib chiqaradi va iste'molchilarni nozik, ammo kuchli tarzda manipulyatsiya qilishi mumkin.</p>\n\n<p>Ushbu muammolarni hal qilish uchun bir nechta chora-tadbirlarni amalga oshirish mumkin. Birinchidan, hukumatlar reklamada haqiqat to'g'risidagi qoidalarni kuchaytirishi kerak, bu da'volarning aniq va asosli bo'lishini ta'minlaydi. Bu, noto'g'ri yoki aldovchi reklama amaliyotlari uchun <mark>qat'iyroq jazo choralarini qo'llashni</mark> o'z ichiga oladi. Ikkinchidan, media savodxonligi dasturlari ta'lim dasturlariga integratsiya qilinishi kerak, bu esa shaxslarga reklamalarni tanqidiy baholash va manipulyatsiya usullariga qarshi turish imkonini beradi. Ushbu dasturlar iste'molchilarga qanday qilib tarafkashlikni aniqlash, manbalarning ishonchliligini baholash va reklamachilarning <mark>asosiy motivlarini tushunishni</mark> o'rgatishga qaratilishi kerak. Nihoyat, hamkorlikda iste'mol qilish va minimalizm kabi iste'molning muqobil modellarini targ'ib qilish jamiyat qadriyatlarini haddan tashqari iste'molchilikdan uzoqlashtirishga yordam beradi. Shaxslarni mulkka emas, balki tajribaga ustunlik berishga va barqarorlikni qadrlashga undash orqali, iste'molga <mark>yanada muvozanatli va mas'uliyatli yondashuvni rivojlantirishimiz mumkin</mark>.</p>\n\n<p>Xulosa qilib aytganda, reklamalarning keng tarqalganligi iste'molchilarga katta ta'sir ko'rsatadi, ularning qaror qabul qilish jarayonlariga, hissiy farovonligiga va jamiyat qadriyatlariga ta'sir qiladi. Reklama qimmatli ma'lumotlarni taqdim etishi mumkin bo'lsa-da, iste'molchilarni manipulyatsiyadan himoya qiladigan va mas'uliyatli iste'mol odatlarini targ'ib qiladigan choralarni ko'rish juda muhimdir. Qoidalarni kuchaytirish, media savodxonligini oshirish va iste'molning muqobil modellarini rivojlantirish orqali, <mark>biz shaxslarga reklamaning murakkab muhitida harakat qilishga</mark> va o'z qadriyatlari va ehtiyojlariga mos keladigan ongli tanlovlar qilishga imkon beramiz. <mark>Bunday yondashuv tobora tijoratlashtirilgan dunyoda iste'molchilar farovonligini himoya qilish uchun juda muhimdir</mark>. <mark>Oxir oqibat, yanada farosatli va tanqidiy xabardor iste'molchilar bazasi butun jamiyatga foyda keltiradi</mark>.</p>"
+   }
+  },
+  "source": "IELTS Liz",
+  "examDate": "2022-07-08",
+  "settings": {
+   "timeInfo": "60 Minutes",
+   "moduleTitle": "Academic Writing Module",
+   "testIdentifier": "Mock 13"
+  },
+  "vocabulary": {
+   "task1": [
+    {
+     "term": "Declined",
+     "meaning": "Decreased in quantity, importance, or quality."
+    },
+    {
+     "term": "Significant drops",
+     "meaning": "Large or noticeable decreases."
+    },
+    {
+     "term": "Fell dramatically",
+     "meaning": "Decreased very quickly and by a large amount."
+    },
+    {
+     "term": "Notable decline",
+     "meaning": "A decrease that is worthy of attention or comment."
+    },
+    {
+     "term": "Witnessed growth",
+     "meaning": "Observed or experienced an increase."
+    },
+    {
+     "term": "Relatively stable",
+     "meaning": "Remaining mostly the same with little change."
+    },
+    {
+     "term": "Maintained",
+     "meaning": "Kept at the same level or rate."
+    },
+    {
+     "term": "Fewest",
+     "meaning": "The smallest number of."
+    }
+   ],
+   "task2": [
+    {
+     "term": "Bombarded",
+     "meaning": "Attacked or overwhelmed with a large amount of something."
+    },
+    {
+     "term": "Decision fatigue",
+     "meaning": "The deteriorating quality of decisions after a long session of decision making."
+    },
+    {
+     "term": "Impulse buying",
+     "meaning": "Making unplanned purchases on the spur of the moment."
+    },
+    {
+     "term": "Foster a culture",
+     "meaning": "To encourage the development of a particular set of attitudes or behaviors."
+    },
+    {
+     "term": "Detrimental effects",
+     "meaning": "Harmful or damaging consequences."
+    },
+    {
+     "term": "Mitigate",
+     "meaning": "To make something less severe, serious, or painful."
+    },
+    {
+     "term": "Media literacy",
+     "meaning": "The ability to access, analyze, evaluate, and create media."
+    },
+    {
+     "term": "Unchecked proliferation",
+     "meaning": "Rapid increase or spread without any control or limits."
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "Then": {
+    "uz": "Keyin",
+    "type": "linking"
+   },
+   "about": {
+    "uz": "haqida",
+    "type": "lexical"
+   },
+   "Finally": {
+    "uz": "Nihoyat",
+    "type": "linking"
+   },
+   "Furthermore": {
+    "uz": "Bundan tashqari",
+    "type": "linking"
+   },
+   "had the most": {
+    "uz": "eng ko'pga ega edi",
+    "type": "colloc"
+   },
+   "For the South": {
+    "uz": "Janub uchun",
+    "type": "colloc"
+   },
+   "In conclusion": {
+    "uz": "Xulosa qilib aytganda",
+    "type": "linking"
+   },
+   "go a long way": {
+    "uz": "ko'p yordam beradi",
+    "type": "idiom"
+   },
+   "general decline": {
+    "uz": "umumiy pasayish",
+    "type": "colloc"
+   },
+   "initial overview": {
+    "uz": "dastlabki umumiy ko'rinish",
+    "type": "colloc"
+   },
+   "On the other hand": {
+    "uz": "Boshqa tomondan",
+    "type": "linking"
+   },
+   "Raising awareness": {
+    "uz": "Xabardorlikni oshirish",
+    "type": "colloc"
+   },
+   "considerable rise": {
+    "uz": "sezilarli o'sish",
+    "type": "academic"
+   },
+   "fell dramatically": {
+    "uz": "keskin pasaydi",
+    "type": "colloc"
+   },
+   "predominant trend": {
+    "uz": "ustuvor tendentsiya",
+    "type": "academic"
+   },
+   "a concerted effort": {
+    "uz": "uyushgan harakat",
+    "type": "colloc"
+   },
+   "exaggerated claims": {
+    "uz": "mubolag'ali da'volar",
+    "type": "colloc"
+   },
+   "undeniably affects": {
+    "uz": "shubhasiz ta'sir qiladi",
+    "type": "academic"
+   },
+   "To a certain extent": {
+    "uz": "Ma'lum darajada",
+    "type": "linking"
+   },
+   "mirrored this trend": {
+    "uz": "bu tendentsiyani aks ettirdi",
+    "type": "academic"
+   },
+   "sheer pervasiveness": {
+    "uz": "mutlaq tarqalish",
+    "type": "academic"
+   },
+   "significant upswing": {
+    "uz": "sezilarli ko'tarilish",
+    "type": "academic"
+   },
+   "actively seeking out": {
+    "uz": "faol izlash",
+    "type": "colloc"
+   },
+   "feel angry and upset": {
+    "uz": "g'azab va xafa bo'lish",
+    "type": "colloc"
+   },
+   "considerable downturn": {
+    "uz": "sezilarli pasayish",
+    "type": "academic"
+   },
+   "make informed choices": {
+    "uz": "asoslangan tanlovlar qilish",
+    "type": "colloc"
+   },
+   "It is also worth noting": {
+    "uz": "Shuni ham ta'kidlash joizki",
+    "type": "linking"
+   },
+   "illustrates the changes": {
+    "uz": "o'zgarishlarni tasvirlaydi",
+    "type": "academic"
+   },
+   "impulsive buying habits": {
+    "uz": "impulsiv xarid qilish odatlari",
+    "type": "colloc"
+   },
+   "A multi-pronged approach": {
+    "uz": "Ko'p qirrali yondashuv",
+    "type": "colloc"
+   },
+   "bucked the overall trend": {
+    "uz": "umumiy tendentsiyaga qarshi chiqdi",
+    "type": "academic"
+   },
+   "saw a marked contraction": {
+    "uz": "sezilarli qisqarishni ko'rdi",
+    "type": "academic"
+   },
+   "highest number of cinemas": {
+    "uz": "kinoteatrlarning eng yuqori soni",
+    "type": "colloc"
+   },
+   "it would be beneficial to": {
+    "uz": "foydali bo'lardi",
+    "type": "academic"
+   },
+   "potential for manipulation": {
+    "uz": "manipulyatsiya qilish imkoniyati",
+    "type": "academic"
+   },
+   "remained relatively stable": {
+    "uz": "nisbatan barqaror bo'lib qoldi",
+    "type": "academic"
+   },
+   "try to sell their products": {
+    "uz": "mahsulotlarini sotishga harakat qilish",
+    "type": "colloc"
+   },
+   "delineates the fluctuations": {
+    "uz": "o'zgarishlarni tasvirlaydi",
+    "type": "academic"
+   },
+   "imposing stricter penalties": {
+    "uz": "qat'iyroq jazo choralarini qo'llash",
+    "type": "academic"
+   },
+   "imposing stricter standards": {
+    "uz": "qat'iyroq standartlarni o'rnatish",
+    "type": "academic"
+   },
+   "erosion of consumer autonomy": {
+    "uz": "iste'molchi avtonomiyasining yemirilishi",
+    "type": "academic"
+   },
+   "exhibited contrasting trends": {
+    "uz": "qarama-qarshi tendentsiyalarni namoyon qildi",
+    "type": "academic"
+   },
+   "illustrates the fluctuations": {
+    "uz": "tebranishlarni tasvirlaydi",
+    "type": "academic"
+   },
+   "mitigate the adverse effects": {
+    "uz": "salbiy oqibatlarni yumshatish",
+    "type": "academic"
+   },
+   "safeguard consumer interests": {
+    "uz": "iste'molchilar manfaatlarini himoya qilish",
+    "type": "academic"
+   },
+   "Such an approach is paramount": {
+    "uz": "Bunday yondashuv juda muhimdir",
+    "type": "academic"
+   },
+   "demonstrate substantial growth": {
+    "uz": "sezilarli o'sishni namoyish etadi",
+    "type": "academic"
+   },
+   "present a more nuanced picture": {
+    "uz": "yanada nozik tasvirni taqdim etish",
+    "type": "academic"
+   },
+   "a state of information overload": {
+    "uz": "axborot to'lib-toshgan holat",
+    "type": "academic"
+   },
+   "constituted a notable exception": {
+    "uz": "sezilarli istisno tashkil etdi",
+    "type": "academic"
+   },
+   "make things better for everyone": {
+    "uz": "hamma uchun vaziyatni yaxshilash",
+    "type": "colloc"
+   },
+   "Because they see so many adverts": {
+    "uz": "Chunki ular juda ko'p reklamalarni ko'rishadi",
+    "type": "colloc"
+   },
+   "This is not a good thing for them": {
+    "uz": "Bu ular uchun yaxshi narsa emas",
+    "type": "colloc"
+   },
+   "cultivating a sense of inadequacy": {
+    "uz": "o'zini yetarli emas deb his qilishni rivojlantirish",
+    "type": "academic"
+   },
+   "Overall, most regions saw a decrease": {
+    "uz": "Umuman olganda, ko'pchilik hududlarda pasayish kuzatildi",
+    "type": "academic"
+   },
+   "demonstrating a significant expansion": {
+    "uz": "sezilarli kengayishni namoyish etadi",
+    "type": "academic"
+   },
+   "understand the underlying motivations": {
+    "uz": "asosiy sabablarni tushunish",
+    "type": "academic"
+   },
+   "undeniably exert a significant influence": {
+    "uz": "shubhasiz, sezilarli ta'sir ko'rsatadi",
+    "type": "academic"
+   },
+   "evaluate advertising messages effectively": {
+    "uz": "reklama xabarlarini samarali baholash",
+    "type": "academic"
+   },
+   "regional economic and cultural factors at play": {
+    "uz": "mintaqaviy iqtisodiy va madaniy omillar ta'siri",
+    "type": "academic"
+   },
+   "foster a more balanced and informed marketplace": {
+    "uz": "yanada muvozanatli va ma'lumotli bozorni rivojlantirish",
+    "type": "academic"
+   },
+   "Moreover, the insidious nature of targeted advertising": {
+    "uz": "Qolaversa, maqsadli reklamalarning yashirin tabiati",
+    "type": "academic"
+   },
+   "we can foster a more balanced and responsible approach": {
+    "uz": "biz yanada muvozanatli va mas'uliyatli yondashuvni rivojlantirishimiz mumkin",
+    "type": "academic"
+   },
+   "stood out as the region with the most pronounced decrease": {
+    "uz": "eng sezilarli pasayishga ega mintaqa sifatida ajralib turdi",
+    "type": "academic"
+   },
+   "Overall, while the national cinematic landscape contracted": {
+    "uz": "Umuman olganda, milliy kinematografiya manzarasi qisqargan bo'lsa-da",
+    "type": "academic"
+   },
+   "we can empower individuals to navigate the complex landscape of advertising": {
+    "uz": "reklamaning murakkab landshaftida harakat qilish uchun shaxslarga imkon berishimiz mumkin",
+    "type": "academic"
+   },
+   "Ultimately, a more discerning and critically aware consumer base benefits society as a whole": {
+    "uz": "Oxir oqibat, yanada farosatli va tanqidiy ongli iste'molchilar bazasi butun jamiyatga foyda keltiradi",
+    "type": "academic"
+   }
+  }
+ },
+ "created_at": "2026-05-06T17:28:44.003809+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

@@ -1,0 +1,797 @@
+{
+ "id": 381,
+ "mock_type": "cefr-reading",
+ "mock_number": 40,
+ "title": "CEFR B1-B2-C1 Reading Test 40",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "gap-fill-text",
+    "title": "Part 1",
+    "answers": {
+     "1": [
+      "study"
+     ],
+     "2": [
+      "people"
+     ],
+     "3": [
+      "researchers"
+     ],
+     "4": [
+      "cyclists"
+     ],
+     "5": [
+      "arthritis"
+     ],
+     "6": [
+      "research"
+     ]
+    },
+    "passage": {
+     "title": "Cycling and knees",
+     "content": "<p>Cycling keeps us fit and healthy. It is good for our heart and our mental health. It also keeps our weight down. A surprising benefit of getting on a bike is that it is good for our knees. A new study says cyclists have less knee pain when they get older. The <span class=\"gap\" data-gap=\"1\">_____</span> is from Baylor College of Medicine in the USA. Researchers surveyed 2,600 people, with an average age of 64. The <span class=\"gap\" data-gap=\"2\">_____</span> were asked about their levels of physical activity. They also had X-rays of their knees taken. <span class=\"gap\" data-gap=\"3\">_____</span> looked at the X-rays for signs of arthritis in the knee joints.</p><p>Lead researcher Dr Grace Lo was surprised by the results of the research. She said <span class=\"gap\" data-gap=\"4\">_____</span> were 21 per cent less likely to have signs of a joint problem called osteoarthritis. This is often called \"wear-and-tear\" arthritis. It happens when we use our joints a lot. The joint wears down and becomes painful. <span class=\"gap\" data-gap=\"5\">_____</span> is a very common disease. It usually starts when people are in their fifties. Dr Lo said cycling, \"is a great preventative strategy for many things, including arthritis\". A lot of <span class=\"gap\" data-gap=\"6\">_____</span> shows that cyclists are around 20 per cent less likely to die prematurely.</p>"
+    },
+    "questions": [
+     {
+      "id": 1,
+      "hint": "The _____ is from Baylor College"
+     },
+     {
+      "id": 2,
+      "hint": "The _____ were asked"
+     },
+     {
+      "id": 3,
+      "hint": "_____ looked at the X-rays"
+     },
+     {
+      "id": 4,
+      "hint": "_____ were 21 per cent less likely"
+     },
+     {
+      "id": 5,
+      "hint": "_____ is a very common disease"
+     },
+     {
+      "id": 6,
+      "hint": "A lot of _____ shows"
+     }
+    ],
+    "partNumber": 1,
+    "instruction": "Read the text. Fill in each gap with ONE word. You must use a word which is somewhere in the rest of the text.",
+    "explanations": {
+     "q1": {
+      "text": "The previous sentence introduces a \"new study\". The sentence with the gap then gives the source of this study, which is Baylor College of Medicine. That's why the correct answer is 'study'.",
+      "quote": "A new study says cyclists have less knee pain when they get older."
+     },
+     "q2": {
+      "text": "The text states that researchers surveyed 2,600 people. The sentence with the gap describes what these individuals were asked about their physical activity. That's why the correct answer is 'people'.",
+      "quote": "Researchers surveyed 2,600 people, with an average age of 64."
+     },
+     "q3": {
+      "text": "The passage mentions that researchers surveyed people and that X-rays were taken. It is the job of the researchers to analyze the data, including the X-rays. That's why the correct answer is 'researchers'.",
+      "quote": "Researchers surveyed 2,600 people, with an average age of 64."
+     },
+     "q4": {
+      "text": "The study is about the benefits of cycling. The lead researcher is explaining the results, which showed that people who cycle had fewer signs of a specific joint problem. That's why the correct answer is 'cyclists'.",
+      "quote": "A new study says cyclists have less knee pain when they get older."
+     },
+     "q5": {
+      "text": "The previous sentences describe a joint problem called osteoarthritis, which is also known as \"wear-and-tear\" arthritis. The sentence with the gap gives more information about this condition. That's why the correct answer is 'arthritis'.",
+      "quote": "This is often called \"wear-and-tear\" arthritis."
+     },
+     "q6": {
+      "text": "The final sentence presents another general finding about the benefits of cycling. The phrase \"A lot of...\" followed by \"shows\" indicates a body of evidence or investigation. That's why the correct answer is 'research'.",
+      "quote": "Lead researcher Dr Grace Lo was surprised by the results of the research."
+     }
+    },
+    "questionRange": "1-6"
+   },
+   {
+    "type": "matching",
+    "texts": [
+     {
+      "title": "Q7",
+      "number": 7,
+      "content": "Located along a serene coastline, this boutique hotel offers 15 elegantly designed rooms, each with a private balcony overlooking the sea. The hotel features a quaint restaurant serving fresh, local seafood and offers various water activities such as kayaking and paddleboarding. Ideal for couples and small groups looking to unwind by the beach."
+     },
+     {
+      "title": "Q8",
+      "number": 8,
+      "content": "This charming inn is positioned just a short distance from a lively marina, providing guests with the opportunity to partake in various water sports, including sailing lessons available at the nearby harbor."
+     },
+     {
+      "title": "Q9",
+      "number": 9,
+      "content": "Set amidst the heart of natural surroundings, this lodge is an ideal escape for enthusiasts of nature and outdoor adventures. Guests can explore hiking trails, enjoy bird watching, and delve into the cultural heritage of a nearby site."
+     },
+     {
+      "title": "Q10",
+      "number": 10,
+      "content": "This contemporary venue is fully equipped to meet the demands of large corporate gatherings, offering expansive conference rooms, dining facilities, and comprehensive technical support. Its peaceful location with scenic surroundings makes it an excellent choice for workshops and seminars."
+     },
+     {
+      "title": "Q11",
+      "number": 11,
+      "content": "Located at the heart of the city, The Grand Hotel offers luxurious accommodations paired with all the necessary amenities for hosting significant corporate events. The hotel features multiple banquet halls and conference spaces capable of accommodating events of various scales."
+     },
+     {
+      "title": "Q12",
+      "number": 12,
+      "content": "A family-operated establishment located in a picturesque village, this inn is currently seeking a committed chef to join its small yet skilled team. The role includes accommodation and offers potential for career growth in a nurturing environment."
+     },
+     {
+      "title": "Q13",
+      "number": 13,
+      "content": "Tucked away in a remote location, this 16th-century manor exudes a romantic ambiance, featuring candlelit dinners with gourmet local cuisine and personalized service tailored for couples."
+     },
+     {
+      "title": "Q14",
+      "number": 14,
+      "content": "This seaside hotel is in search of an experienced assistant manager to assist in overseeing daily operations. The ideal candidate will have a background in hospitality management and a drive to advance their career within the industry."
+     }
+    ],
+    "title": "Part 2",
+    "answers": {
+     "7": [
+      "G"
+     ],
+     "8": [
+      "B"
+     ],
+     "9": [
+      "H"
+     ],
+     "10": [
+      "F"
+     ],
+     "11": [
+      "C"
+     ],
+     "12": [
+      "D"
+     ],
+     "13": [
+      "A"
+     ],
+     "14": [
+      "E"
+     ]
+    },
+    "questions": [
+     {
+      "id": 7,
+      "textNumber": 7
+     },
+     {
+      "id": 8,
+      "textNumber": 8
+     },
+     {
+      "id": 9,
+      "textNumber": 9
+     },
+     {
+      "id": 10,
+      "textNumber": 10
+     },
+     {
+      "id": 11,
+      "textNumber": 11
+     },
+     {
+      "id": 12,
+      "textNumber": 12
+     },
+     {
+      "id": 13,
+      "textNumber": 13
+     },
+     {
+      "id": 14,
+      "textNumber": 14
+     }
+    ],
+    "partNumber": 2,
+    "statements": [
+     {
+      "text": "A pair is seeking a secluded retreat where they can indulge in exquisite dining experiences.",
+      "letter": "A"
+     },
+     {
+      "text": "Your acquaintance, a qualified sailing instructor, desires employment in a location with convenient access to maritime activities.",
+      "letter": "B"
+     },
+     {
+      "text": "You require a venue equipped with cutting-edge facilities to host large-scale corporate events.",
+      "letter": "C"
+     },
+     {
+      "text": "Your friend, an experienced pastry chef, is searching for a position in a hotel that offers on-site living accommodations.",
+      "letter": "D"
+     },
+     {
+      "text": "You are pursuing a managerial role in a hotel that provides opportunities for professional advancement.",
+      "letter": "E"
+     },
+     {
+      "text": "Your colleague seeks a tranquil setting suitable for conducting a leadership workshop.",
+      "letter": "F"
+     },
+     {
+      "text": "You and your partner are seeking a cozy seaside hotel where you can enjoy water activities together and relax in a tranquil environment.",
+      "letter": "G"
+     },
+     {
+      "text": "You wish to spend your vacation in a destination that offers a mix of outdoor activities and cultural experiences.",
+      "letter": "H"
+     },
+     {
+      "text": "A friend is interested in overseeing the operations of a restaurant that offers a competitive compensation package.",
+      "letter": "I"
+     },
+     {
+      "text": "You are in search of a beachfront location where you and a small group of friends can unwind.",
+      "letter": "J"
+     }
+    ],
+    "instruction": "Read the texts 7-14 and the statements A-J. Decide which text matches with the situation described in the statements. Each statement can be used ONCE only. There are TWO extra statements which you do not need to use.",
+    "explanations": {
+     "q7": {
+      "text": "The hotel is on a serene coastline, offers water activities, and is described as ideal for couples and small groups looking to relax. This matches the search for a tranquil seaside getaway. That's why the correct answer is G.",
+      "quote": "Ideal for couples and small groups looking to unwind by the beach."
+     },
+     "q8": {
+      "text": "The inn is located near a harbor where sailing lessons are available. This indicates a location with maritime activities, which would be a suitable place for a sailing instructor to find work. That's why the correct answer is B.",
+      "quote": "This charming inn is positioned just a short distance from a lively marina, providing guests with the opportunity to partake in various water sports, including sailing lessons available at the nearby harbor."
+     },
+     "q9": {
+      "text": "This lodge offers outdoor activities like hiking and bird watching, as well as the chance to explore the \"cultural heritage of a nearby site.\" This mix of nature and culture matches the vacation described. That's why the correct answer is H.",
+      "quote": "Guests can explore hiking trails, enjoy bird watching, and delve into the cultural heritage of a nearby site."
+     },
+     "q10": {
+      "text": "The venue is described as having a \"peaceful location\" and is explicitly recommended as an \"excellent choice for workshops.\" This matches the need for a tranquil setting to conduct a leadership workshop. That's why the correct answer is F.",
+      "quote": "Its peaceful location with scenic surroundings makes it an excellent choice for workshops and seminars."
+     },
+     "q11": {
+      "text": "The hotel has all the \"necessary amenities for hosting significant corporate events,\" including multiple large halls. This makes it the perfect choice for the large-scale corporate events mentioned in the option. That's why the correct answer is C.",
+      "quote": "The Grand Hotel offers luxurious accommodations paired with all the necessary amenities for hosting significant corporate events."
+     },
+     "q12": {
+      "text": "This inn is actively seeking a chef to join its team. The job advertisement explicitly states that \"the role includes accommodation,\" matching your friend's search for a position with on-site living. That's why the correct answer is D.",
+      "quote": "The role includes accommodation and offers potential for career growth in a nurturing environment."
+     },
+     "q13": {
+      "text": "The manor is in a \"remote location,\" making it a secluded retreat. It is specifically \"tailored for couples\" and offers \"gourmet local cuisine,\" matching the desire for an exquisite dining experience. That's why the correct answer is A.",
+      "quote": "Tucked away in a remote location, this 16th-century manor exudes a romantic ambiance, featuring candlelit dinners with gourmet local cuisine and personalized service tailored for couples."
+     },
+     "q14": {
+      "text": "This hotel is hiring for a managerial position. The advertisement specifically seeks a candidate with a \"drive to advance their career,\" indicating that opportunities for professional growth are available. That's why the correct answer is E.",
+      "quote": "The ideal candidate will have a background in hospitality management and a drive to advance their career within the industry."
+     }
+    },
+    "questionRange": "7-14",
+    "extraStatements": [
+     "I",
+     "J"
+    ],
+    "statementsFirst": true
+   },
+   {
+    "type": "matching-headings",
+    "title": "Part 3",
+    "answers": {
+     "15": [
+      "C"
+     ],
+     "16": [
+      "E"
+     ],
+     "17": [
+      "G"
+     ],
+     "18": [
+      "A"
+     ],
+     "19": [
+      "D"
+     ],
+     "20": [
+      "B"
+     ]
+    },
+    "passage": {
+     "title": "Indonesia",
+     "paragraphs": [
+      {
+       "number": "I",
+       "content": "Today Jakarta has much to offer, ranging from museums, art and antique markets, first class shopping to accommodations and a wide variety of cultural activities. Jakarta's most famous landmark, the National Monument or Monas, is a 137m obelisk topped with a flame sculpture coated with 35 kg of gold. Other attractions include the National Museum with ethnographic artifacts and the Maritime Museum exhibiting Indonesia's seafaring traditions.",
+       "questionId": 15
+      },
+      {
+       "number": "II",
+       "content": "Sumatra is a paradise for nature lovers, with national parks, mountains and coastlines suited to adventure. Along western shores there are strong waves that attract surfers, while coral reefs provide excellent diving. Night divers can explore the waters around islands in the Riau Archipelago and encounter unusual marine creatures in the dark.",
+       "questionId": 16
+      },
+      {
+       "number": "III",
+       "content": "Many establishments offer complete pampering services with floral baths, body scrubs, aromatic oils, massages and meditation. Ritual treatments use herbs and spices to promote both physical and mental wellness. Indonesians are known for treating the body and mind as a connected whole.",
+       "questionId": 17
+      },
+      {
+       "number": "IV",
+       "content": "Jakarta has a distinctly cosmopolitan flavor. You can enjoy food from local eateries to stylish cafes and international restaurants. The taste of Indonesia's many cultures can be found throughout the city, from spicy dishes of West Sumatra to sweet flavors associated with Central Java.",
+       "questionId": 18
+      },
+      {
+       "number": "V",
+       "content": "Despite modernization and strong foreign influence, many native communities maintain their rituals, architecture, religion, dance and music. On islands such as Siberut, tribal groups still preserve long-standing communal traditions and ceremonial practices that reflect pre-modern heritage.",
+       "questionId": 19
+      },
+      {
+       "number": "VI",
+       "content": "Whether you are a serious spender or a casual shopper, Jakarta offers choices for every budget. You can find local handicrafts, modern fashion labels, shopping centers, quality goods at competitive prices and lively sidewalk bargains ranging from flowers to tropical fruits.",
+       "questionId": 20
+      }
+     ]
+    },
+    "headings": [
+     {
+      "text": "A taste of everything",
+      "letter": "A"
+     },
+     {
+      "text": "Shop till you drop",
+      "letter": "B"
+     },
+     {
+      "text": "City's tourist attractions",
+      "letter": "C"
+     },
+     {
+      "text": "Ancient traditions live on",
+      "letter": "D"
+     },
+     {
+      "text": "Activities for the adventurous and hardy",
+      "letter": "E"
+     },
+     {
+      "text": "On the crossroads of religions",
+      "letter": "F"
+     },
+     {
+      "text": "For the body, mind and soul",
+      "letter": "G"
+     },
+     {
+      "text": "From the high peaks to the deep seas",
+      "letter": "H"
+     }
+    ],
+    "questions": [
+     {
+      "id": 15,
+      "text": "Paragraph I"
+     },
+     {
+      "id": 16,
+      "text": "Paragraph II"
+     },
+     {
+      "id": 17,
+      "text": "Paragraph III"
+     },
+     {
+      "id": 18,
+      "text": "Paragraph IV"
+     },
+     {
+      "id": 19,
+      "text": "Paragraph V"
+     },
+     {
+      "id": 20,
+      "text": "Paragraph VI"
+     }
+    ],
+    "partNumber": 3,
+    "instruction": "Read the text and choose the correct heading for each paragraph from the list of headings below. There are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once. Mark your answers on the answer sheet.",
+    "explanations": {
+     "q15": {
+      "text": "The paragraph lists several famous landmarks and places to visit in Jakarta, such as the National Monument and various museums. These are all examples of tourist attractions, which is why the correct answer is C.",
+      "quote": "Other attractions include the National Museum with ethnographic artifacts and the Maritime Museum exhibiting Indonesia's seafaring traditions."
+     },
+     "q16": {
+      "text": "This section describes activities like surfing strong waves and night diving to see unusual marine creatures. These are clearly suited for adventurous people, which is why the correct answer is E.",
+      "quote": "Along western shores there are strong waves that attract surfers, while coral reefs provide excellent diving."
+     },
+     "q17": {
+      "text": "The paragraph details services like massages, meditation, and ritual treatments. It explicitly mentions promoting physical and mental wellness, which is why the correct answer is G.",
+      "quote": "Indonesians are known for treating the body and mind as a connected whole."
+     },
+     "q18": {
+      "text": "This paragraph describes the wide variety of food available in Jakarta, from local eateries to international restaurants. It mentions flavors from different cultures, offering a taste of everything, which is why the correct answer is A.",
+      "quote": "You can enjoy food from local eateries to stylish cafes and international restaurants."
+     },
+     "q19": {
+      "text": "This section explains that despite modern influences, many native communities and tribal groups still preserve their long-standing traditions, rituals, and ceremonial practices. This shows that ancient traditions live on, which is why the correct answer is D.",
+      "quote": "Despite modernization and strong foreign influence, many native communities maintain their rituals, architecture, religion, dance and music."
+     },
+     "q20": {
+      "text": "The paragraph focuses entirely on shopping in Jakarta, mentioning choices for every budget from local handicrafts to shopping centers. This matches the theme of shopping, which is why the correct answer is B.",
+      "quote": "Whether you are a serious spender or a casual shopper, Jakarta offers choices for every budget."
+     }
+    },
+    "extraHeadings": [
+     "F",
+     "H"
+    ],
+    "questionRange": "15-20"
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 4",
+    "answers": {
+     "21": [
+      "B"
+     ],
+     "22": [
+      "B"
+     ],
+     "23": [
+      "B"
+     ],
+     "24": [
+      "B"
+     ],
+     "25": [
+      "False",
+      "B"
+     ],
+     "26": [
+      "True",
+      "A"
+     ],
+     "27": [
+      "False",
+      "B"
+     ],
+     "28": [
+      "True",
+      "A"
+     ],
+     "29": [
+      "False",
+      "B"
+     ]
+    },
+    "passage": {
+     "title": "The Cacao",
+     "content": "<p>Most people today think of chocolate as something sweet to eat or drink that can be easily found in stores around the world. It might surprise you that chocolate was once highly treasured. Historians believe the Maya people of Central America first learned to farm cacao plants around two thousand years ago. They cooked cacao seeds, crushed them into a soft paste and mixed it with water and spices to make an unsweetened drink. The Maya poured the drink between containers so it developed a layer of bubbles.</p><p>Cacao and chocolate were an important part of Maya culture. Ruling families drank chocolate at special ceremonies, and even poorer members of society could enjoy it only from time to time. Historians also believe cacao seeds were connected with marriage ceremonies. In Aztec culture around present-day Mexico, cacao plants could not grow easily in the area where many Aztecs lived, so they traded for cacao. Aztec rulers used cacao seeds as a form of money to pay taxes. Priests offered cacao to the gods and served chocolate in sacred events.</p><p>The explorer Christopher Columbus brought cacao seeds to Spain after his trip to Central America in 1502, but Spanish explorer Hernando Cortes later understood cacao's economic potential. After the Spanish defeated the Aztec empire, they seized cacao supplies and sent them home. Spain later expanded cacao growing in American colonies to meet rising demand.</p><p>At first, wealthy people in Spain enjoyed a sweetened chocolate drink. Later, chocolate spread through Europe. Because of price, only rich people could afford it until the eighteenth century. During the Industrial Revolution, new technologies made chocolate less costly to produce. Farmers then grew cacao trees in many countries in Africa, Central America and South America.</p><p>Cacao trees need heat, water, shade, suitable soil and protection, so farming can be difficult. Trees begin producing pods after several years, and seeds from these pods are harvested to make chocolate. Farm cacao trees can be more vulnerable to disease and insects than wild trees, and uncertain market conditions can reduce farmers' income. In modern production, cacao seeds are sorted, cleaned and cooked. Workers break and crush the seeds into chocolate liquor, then separate solids and cocoa butter. Manufacturers blend chocolate liquor with sugar, milk and cocoa fat before further processing and molding.</p>"
+    },
+    "partNumber": 4,
+    "instruction": "Read the following text for question 21-29.",
+    "explanations": {
+     "q21": {
+      "text": "The passage states that Maya ruling families drank chocolate at special ceremonies and Aztec priests served it at sacred events, showing its ceremonial and high-status role. That's why the correct answer is B.",
+      "quote": "Ruling families drank chocolate at special ceremonies, and even poorer members of society could enjoy it only from time to time."
+     },
+     "q22": {
+      "text": "The text explains that Christopher Columbus brought cacao seeds to Spain, and later, Hernando Cortes sent large supplies back, initiating its spread throughout Europe. That's why the correct answer is B.",
+      "quote": ""
+     },
+     "q23": {
+      "text": "The passage states that chocolate was a luxury for the rich until new technologies from the Industrial Revolution made its production less expensive and more accessible. That's why the correct answer is B.",
+      "quote": "During the Industrial Revolution, new technologies made chocolate less costly to produce."
+     },
+     "q24": {
+      "text": "The text notes that farmed cacao trees are vulnerable to disease and insects, and farmers' incomes can be reduced by uncertain market conditions, highlighting these risks. That's why the correct answer is B.",
+      "quote": "Farm cacao trees can be more vulnerable to disease and insects than wild trees, and uncertain market conditions can reduce farmers' income."
+     },
+     "q25": {
+      "text": "This is false. The passage specifies that the Maya made an 'unsweetened drink' and that poorer members of society could only enjoy it 'from time to time,' not daily. That's why the correct answer is B.",
+      "quote": "They cooked cacao seeds, crushed them into a soft paste and mixed it with water and spices to make an unsweetened drink."
+     },
+     "q26": {
+      "text": "This is true. The passage explicitly states that the Aztecs, who had to trade for cacao, used the seeds as a form of money to pay their taxes. That's why the correct answer is A.",
+      "quote": "Aztec rulers used cacao seeds as a form of money to pay taxes."
+     },
+     "q27": {
+      "text": "This is false. The passage indicates that while Columbus brought the seeds to Spain, it was the explorer Hernando Cortes who 'later understood cacao's economic potential.' That's why the correct answer is B.",
+      "quote": ""
+     },
+     "q28": {
+      "text": "This is true. The passage clearly states that as chocolate spread through Europe, its high price meant that only wealthy people were able to afford it. That's why the correct answer is A.",
+      "quote": "Because of price, only rich people could afford it until the eighteenth century."
+     },
+     "q29": {
+      "text": "This is false. The text describes a complex modern production process involving chocolate liquor and cocoa butter, which is very different from the ancient method of making a paste. That's why the correct answer is B.",
+      "quote": "In modern production, cacao seeds are sorted, cleaned and cooked. Workers break and crush the seeds into chocolate liquor, then separate solids and cocoa butter."
+     }
+    },
+    "questionRange": "21-29",
+    "questionSections": [
+     {
+      "type": "mcq",
+      "title": "Questions 21-24: Multiple Choice",
+      "questions": [
+       {
+        "id": 21,
+        "text": "What role did chocolate originally play in Mesoamerican societies?",
+        "options": [
+         {
+          "text": "It was primarily used as a form of currency.",
+          "letter": "A"
+         },
+         {
+          "text": "It was a ceremonial drink and a symbol of wealth.",
+          "letter": "B"
+         },
+         {
+          "text": "It was consumed daily by all members of society.",
+          "letter": "C"
+         },
+         {
+          "text": "It was used as a medicine for healing purposes.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 22,
+        "text": "How did the spread of cacao cultivation and chocolate consumption expand beyond Mesoamerica?",
+        "options": [
+         {
+          "text": "Through the establishment of trade routes with Asia.",
+          "letter": "A"
+         },
+         {
+          "text": "Via European explorers who brought it back to Europe.",
+          "letter": "B"
+         },
+         {
+          "text": "Through the migration of Mesoamerican people to Europe.",
+          "letter": "C"
+         },
+         {
+          "text": "By the adoption of chocolate by African traders.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 23,
+        "text": "What contributed to the transformation of chocolate from a luxury item to a more widely available product?",
+        "options": [
+         {
+          "text": "The discovery of new cacao varieties",
+          "letter": "A"
+         },
+         {
+          "text": "The technological advancements during the Industrial Revolution",
+          "letter": "B"
+         },
+         {
+          "text": "The decline of cacao production in Mesoamerica",
+          "letter": "C"
+         },
+         {
+          "text": "The introduction of chocolate as a medicinal product",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 24,
+        "text": "Which factor made cacao farming particularly challenging for farmers?",
+        "options": [
+         {
+          "text": "The high demand for cacao seeds",
+          "letter": "A"
+         },
+         {
+          "text": "The environmental and economic risks involved",
+          "letter": "B"
+         },
+         {
+          "text": "The lack of suitable soil in tropical regions",
+          "letter": "C"
+         },
+         {
+          "text": "The limited market for cacao products",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "For questions 21-24, choose the correct answer A, B, C or D. Mark your answers on the answer sheet.",
+      "questionRange": "21-24"
+     },
+     {
+      "type": "tfni",
+      "title": "Questions 25-29: True/False/Not Given",
+      "options": [
+       "True",
+       "False",
+       "Not Given"
+      ],
+      "questions": [
+       {
+        "id": 25,
+        "text": "The Maya people were the first to create a sweetened chocolate drink that was enjoyed daily by all social classes."
+       },
+       {
+        "id": 26,
+        "text": "Cacao seeds were a central aspect of the economic system for both the Maya and the Aztec civilizations."
+       },
+       {
+        "id": 27,
+        "text": "Christopher Columbus recognized the immediate potential of cacao as a valuable export commodity after his first encounter with it in the Americas."
+       },
+       {
+        "id": 28,
+        "text": "The spread of chocolate across Europe in the 16th and 17th centuries was initially limited to royalty and the wealthy elite due to its cost."
+       },
+       {
+        "id": 29,
+        "text": "The process of cacao farming and chocolate production has remained largely unchanged since the time of the Aztecs and Maya, relying heavily on traditional methods."
+       }
+      ],
+      "instruction": "For questions 25-29, decide if the following statements agree with the information given in the text. Mark your answers on the answer sheet.",
+      "questionRange": "25-29"
+     }
+    ]
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 5",
+    "answers": {
+     "30": [
+      "falls"
+     ],
+     "31": [
+      "safety"
+     ],
+     "32": [
+      "handhold"
+     ],
+     "33": [
+      "weather"
+     ],
+     "34": [
+      "C"
+     ],
+     "35": [
+      "C"
+     ]
+    },
+    "passage": {
+     "title": "Safety Measures for Roof Work",
+     "content": "<p>Roof work is inherently dangerous, involving activities at significant heights and often under challenging conditions. To reduce the risks associated with this type of work, it is essential to implement comprehensive safety measures. These measures are designed to protect workers from falls, equipment failures and adverse weather, ensuring a safer working environment.</p><p>One of the foremost concerns in roof work is the risk of falls. Personal protective equipment is crucial in minimizing this risk. Workers must wear harnesses that are correctly fitted and regularly inspected for wear and tear. Helmets are also essential, providing protection against falling objects and reducing the risk of head injuries. Non-slip footwear helps prevent slips on roofing materials, especially when surfaces are wet or icy.</p><p>Structural safety measures are equally important. Safety nets and guardrails are two key methods of fall prevention. Safety nets installed below the working area can catch workers if they fall, preventing serious injury. Guardrails provide a physical barrier around the perimeter of the roof and prevent workers from stepping over the edge. Both systems must meet regulatory standards and undergo regular checks.</p><p>Access to the roof is another critical aspect of safety. Ladders and scaffolding are commonly used to reach high areas. These tools must be placed on stable ground and inspected for defects before use. Scaffolding should be properly braced and capable of supporting workers and materials. Ladders should extend at least three feet above the roof edge to provide a secure handhold while workers transition between ladder and roof.</p><p>Weather conditions play a major role in roof safety. High winds, heavy rain and icy conditions can create hazardous working environments. It is crucial to monitor forecasts and avoid roof work during dangerous weather. Scheduling tasks in favorable weather can significantly reduce accident risk.</p><p>Training and supervision are vital for maintaining safety standards. Workers need instruction on safe work practices, correct equipment use and emergency procedures. Regular briefings and drills keep safety protocols fresh. Supervisors should ensure adherence to guidelines and respond quickly to any hazards. Effective communication, including radios or other devices, helps teams stay coordinated and prevents misunderstandings that can lead to accidents.</p><p>Proper planning and risk assessment are critical before work begins. A thorough assessment should identify hazards, define mitigation strategies, confirm equipment condition, specify safe access points and develop contingency plans for emergencies.</p>"
+    },
+    "partNumber": 5,
+    "instruction": "Read the following text for questions 30-35.",
+    "explanations": {
+     "q30": {
+      "text": "The passage explicitly identifies the risk of falls as one of the primary dangers that workers face on a roof. That's why the correct answer is 'falls'.",
+      "quote": "One of the foremost concerns in roof work is the risk of falls."
+     },
+     "q31": {
+      "text": "The text describes specific equipment used for fall prevention, naming the nets installed below the working area as 'safety nets'. That's why the correct answer is 'safety'.",
+      "quote": "Safety nets installed below the working area can catch workers if they fall, preventing serious injury."
+     },
+     "q32": {
+      "text": "The passage explains that extending a ladder above the roof edge serves a specific purpose: to provide a secure grip for workers as they move. That's why the correct answer is 'handhold'.",
+      "quote": "Ladders should extend at least three feet above the roof edge to provide a secure handhold while workers transition between ladder and roof."
+     },
+     "q33": {
+      "text": "The text highlights the importance of monitoring forecasts and avoiding work during dangerous conditions like high winds, rain, or ice. That's why the correct answer is 'weather'.",
+      "quote": "It is crucial to monitor forecasts and avoid roof work during dangerous weather."
+     },
+     "q34": {
+      "text": "The passage states that safety measures are specifically intended to shield workers from multiple dangers, including falls and bad weather, to create a safer workplace. That's why the correct answer is C.",
+      "quote": "These measures are designed to protect workers from falls, equipment failures and adverse weather, ensuring a safer working environment."
+     },
+     "q35": {
+      "text": "The text identifies guardrails and safety nets as key methods for preventing falls, describing them as a physical barrier and a system to catch workers. That's why the correct answer is C.",
+      "quote": "Safety nets and guardrails are two key methods of fall prevention."
+     }
+    },
+    "questionRange": "30-35",
+    "questionSections": [
+     {
+      "type": "gap-fill",
+      "title": "Questions 30-33: Notes Completion",
+      "questions": [
+       {
+        "id": 30,
+        "hint": "risk of _____"
+       },
+       {
+        "id": 31,
+        "hint": "_____ nets"
+       },
+       {
+        "id": 32,
+        "hint": "secure _____ during transitions"
+       },
+       {
+        "id": 33,
+        "hint": "unfavorable _____ conditions"
+       }
+      ],
+      "instruction": "For questions 30-33, fill in the missing information in the numbered spaces. Write no more than ONE WORD and / or A NUMBER for each question.",
+      "summaryText": "The predominant danger associated with roof work is the risk of (30)<span class=\"gap-input\" data-gap=\"30\">_____(30)_____</span>. To safeguard workers, (31)<span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span> nets are positioned beneath the working area to arrest falls. Ladders must extend at least three feet beyond the roof edge to provide a secure (32)<span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span> during transitions. It is vital to avoid roof work during unfavorable (33)<span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span> conditions to minimize the likelihood of accidents.",
+      "summaryTitle": "Roof-work safety",
+      "questionRange": "30-33"
+     },
+     {
+      "type": "mcq",
+      "title": "Questions 34-35: Multiple Choice",
+      "questions": [
+       {
+        "id": 34,
+        "text": "Which of the following best describes the importance of safety measures in roof work?",
+        "options": [
+         {
+          "text": "They primarily aim to reduce the cost of insurance for construction companies.",
+          "letter": "A"
+         },
+         {
+          "text": "They are designed to enhance worker productivity by minimizing distractions.",
+          "letter": "B"
+         },
+         {
+          "text": "They ensure the protection of workers from various hazards, including falls and adverse weather conditions.",
+          "letter": "C"
+         },
+         {
+          "text": "They are mainly focused on improving the aesthetic quality of construction sites.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 35,
+        "text": "What is the broader significance of structural safety measures, such as guardrails and safety nets, in roof work?",
+        "options": [
+         {
+          "text": "They are a regulatory requirement that increases the overall cost of projects.",
+          "letter": "A"
+         },
+         {
+          "text": "They act as deterrents to unauthorized personnel accessing the work area.",
+          "letter": "B"
+         },
+         {
+          "text": "They play a critical role in preventing accidents by providing physical barriers and fall protection.",
+          "letter": "C"
+         },
+         {
+          "text": "They primarily serve as temporary storage solutions for materials used in construction.",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "For questions 34-35, choose the correct answer A, B, C or D. Mark your answers on the answer sheet.",
+      "questionRange": "34-35"
+     }
+    ]
+   }
+  ],
+  "examDate": "2026-01-16",
+  "testInfo": {
+   "level": "B1-B2-C1",
+   "parts": 5,
+   "title": "CEFR B1-B2-C1 Reading Test 40",
+   "totalTime": 60,
+   "totalQuestions": 35
+  }
+ },
+ "created_at": "2026-05-12T16:22:17.163554+00:00",
+ "updated_at": "2026-10-11T10:54:25.762211+00:00"
+}

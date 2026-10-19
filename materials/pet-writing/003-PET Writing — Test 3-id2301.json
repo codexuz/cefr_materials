@@ -1,0 +1,126 @@
+{
+ "id": 2301,
+ "mock_type": "pet-writing",
+ "mock_number": 3,
+ "title": "PET Writing — Test 3",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "sentence-transformation",
+    "items": [
+     {
+      "id": 1,
+      "first": "It costs nothing to attend a state school.",
+      "answer": "anything",
+      "afterBlank": "to attend a state school.",
+      "beforeBlank": "It doesn't cost"
+     },
+     {
+      "id": 2,
+      "first": "City schools are usually larger than schools in the country.",
+      "answer": "large as",
+      "afterBlank": "city schools.",
+      "beforeBlank": "Schools in the country are not as"
+     },
+     {
+      "id": 3,
+      "first": "Uniforms must be worn by children in some schools.",
+      "answer": "wear",
+      "afterBlank": "uniforms in some schools.",
+      "beforeBlank": "Children must"
+     },
+     {
+      "id": 4,
+      "first": "Each class has about thirty children.",
+      "answer": "there",
+      "afterBlank": "are about thirty children.",
+      "beforeBlank": "In each class"
+     },
+     {
+      "id": 5,
+      "first": "Children can buy hot lunches at most schools.",
+      "answer": "it is",
+      "afterBlank": "possible for children to buy hot lunches.",
+      "beforeBlank": "At most schools"
+     }
+    ],
+    "label": "PART 1",
+    "topic": "About schools in Britain",
+    "example": {
+     "first": "Most British children go to state schools.",
+     "answer": "all",
+     "afterBlank": "British children go to state schools.",
+     "beforeBlank": "Nearly"
+    },
+    "partNumber": 1,
+    "instruction": [
+     "Here are some sentences about schools in Britain.",
+     "For each question, complete the second sentence so that it means the same as the first.",
+     "Use no more than three words.",
+     "Write only the missing words on your answer sheet.",
+     "You may use this page for any rough work."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "writing-task",
+    "items": [
+     {
+      "id": 6,
+      "band": "5",
+      "answer": "Hi Charlie!\nI write to you about the book \"The Adventures of Tom Sawyer\". Can you lend it to me? I need to borrow this book because it was advised me by my friends and you also. I need it for 2 weeks.\nStas"
+     }
+    ],
+    "label": "PART 2",
+    "prompt": "You would like to borrow a book from your Australian friend Charlie.\n\nWrite an email to your friend Charlie. In your email, you should\n\n• tell Charlie which book you would like to borrow\n• explain why you need to borrow this book\n• say how long you need the book for.\n\nWrite 35–45 words on your answer sheet.",
+    "wordCount": "35–45 words",
+    "partNumber": 2,
+    "questionsLabel": "QUESTION 6"
+   },
+   {
+    "type": "writing-task",
+    "items": [
+     {
+      "id": 7,
+      "band": "5",
+      "answer": "Dear Alice,\nI'm very glad that you are going to come next year. I haven't seen you for a long time and I would like to make friends with your classmates very much. If the main question is when to come, I think the best answer is in May or in September Because it's not very hot but not cold too. The parks and squares are very beautiful in spring and autumn. I remember that you are keen on ancient architecture, so I think you'll enjoy walking along the old parts of our city. There is a lot of sightseeing in our area, saying nothing of amusement parks, theatres and museums with modern exhibitions. I think you'll find a lot to do. I'm really looking forward to seeing you.\nLove,\nKsenia",
+      "altSample": {
+       "q": 8,
+       "band": "5",
+       "text": "I was on the bus when I got a text message. It was from my friend Julia. She asked me to come to the railway station, and help her. I had to go out of the bus and walk there, because it wasn't far away from the bus stop. When I arrived at the railway station I saw Julia with … a kitten! I was greatly surprized. Julia said that she didn't knew what was wrong with her kitten. He was crying all the time. I thought a little and then understood that the kitten wanted to eat. Julia bought him some food so that he became happy. Is was a funny day!"
+      }
+     }
+    ],
+    "label": "PART 3",
+    "choices": [
+     {
+      "id": 7,
+      "image": "https://audio.mock-stream.com/PET-Writing/test3/q7_ribbon.png",
+      "intro": "This is part of a letter you receive from an English friend.",
+      "outro": "Now write a letter, answering your friend's questions.\nWrite your letter on your answer sheet."
+     },
+     {
+      "id": 8,
+      "intro": "Your English teacher wants you to write a story.\n\nYour story must begin with this sentence:",
+      "outro": "Write your story on your answer sheet.",
+      "highlight": "I was on the bus when I got a text message."
+     }
+    ],
+    "wordCount": "about 100 words",
+    "partNumber": 3,
+    "questionsLabel": "QUESTIONS 7 or 8"
+   }
+  ],
+  "testInfo": {
+   "id": "pet-w-03",
+   "level": "B1",
+   "paper": "Paper 1 · Writing",
+   "parts": 3,
+   "title": "PET Writing — Test 3",
+   "totalTime": 45
+  }
+ },
+ "created_at": "2026-10-14T06:45:43.916396+00:00",
+ "updated_at": "2026-10-14T06:47:28.925847+00:00"
+}

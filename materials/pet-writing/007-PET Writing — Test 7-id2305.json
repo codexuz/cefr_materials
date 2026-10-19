@@ -1,0 +1,128 @@
+{
+ "id": 2305,
+ "mock_type": "pet-writing",
+ "mock_number": 7,
+ "title": "PET Writing — Test 7",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "sentence-transformation",
+    "items": [
+     {
+      "id": 1,
+      "first": "Nearly every seat was taken in the cinema.",
+      "answer": "many seats",
+      "afterBlank": "in the cinema.",
+      "beforeBlank": "There weren't"
+     },
+     {
+      "id": 2,
+      "first": "Jane had a worse seat than Dave.",
+      "answer": "a better seat",
+      "afterBlank": "than Jane.",
+      "beforeBlank": "Dave had"
+     },
+     {
+      "id": 3,
+      "first": "Jane couldn't see the screen very well.",
+      "answer": "it difficult",
+      "afterBlank": "to see the screen.",
+      "beforeBlank": "Jane found"
+     },
+     {
+      "id": 4,
+      "first": "Dave said that he had seen the film before.",
+      "answer": "have already seen",
+      "afterBlank": "this film before.'",
+      "beforeBlank": "Dave said: 'I"
+     },
+     {
+      "id": 5,
+      "first": "They spent two hours watching the film.",
+      "answer": "lasted",
+      "afterBlank": "for two hours.",
+      "beforeBlank": "The film"
+     }
+    ],
+    "label": "PART 1",
+    "topic": "Going to the cinema",
+    "example": {
+     "first": "Dave and Jane have been to the cinema together.",
+     "answer": "has been",
+     "afterBlank": "to the cinema with Jane.",
+     "beforeBlank": "Dave"
+    },
+    "partNumber": 1,
+    "instruction": [
+     "Here are some sentences about going to the cinema.",
+     "For each question, complete the second sentence so that it means the same as the first, using no more than three words.",
+     "Write only the missing words on your answer sheet.",
+     "You may use this page for any rough work."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "writing-task",
+    "items": [
+     {
+      "id": 6,
+      "band": "5",
+      "answer": "Hello Joana. How are you?\nI hope you are fine.\nI have moved recently to this town because we have more opportunities to have a better life. We can travel to every where by public transport so faster as you can't imagine, and taxis are cheap too. If you want see the town you can buy a ticket for one day by bus and you could visit many monuments.\nThe problem are the pickpockets we have to be carefull."
+     }
+    ],
+    "label": "PART 2",
+    "prompt": "You have recently moved to a town and have bought this postcard of the town to send to your penfriend.\n\nIn your postcard to your penfriend, you should\n\n• explain why you have moved\n• tell your friend what facilities the town has\n• say what you dislike about living there.\n\nWrite 35–45 words on your answer sheet.",
+    "wordCount": "35–45 words",
+    "partNumber": 2,
+    "promptImage": "https://audio.mock-stream.com/PET-Writing/test7/q6_postcard.jpg",
+    "promptIntro": "You have recently moved to a town and have bought this postcard of the town to send to your penfriend.",
+    "promptOutro": "In your postcard to your penfriend, you should\n\n• explain why you have moved\n• tell your friend what facilities the town has\n• say what you dislike about living there.\n\nWrite 35–45 words on your answer sheet.",
+    "questionsLabel": "QUESTION 6"
+   },
+   {
+    "type": "writing-task",
+    "items": [
+     {
+      "id": 7,
+      "band": "4",
+      "answer": "It was a fantastic party. I hadn't expected it will be so cool! There were a lot of people from our school I hadn't see before. We danced, spoke, drank a bit and there was very friendly atmosphere. I met there my old friends I hadn't see since my birthday. All of us enjoied the party till the moment when parents of the hostes of the party suddenly came back from their trip they had started crying and even, one by one, we all jumped out of the house, and afterwards, having considered the situation decided don't pay much intention to the incident and to go to continue our evening at eauthore place",
+      "altSample": {
+       "q": 8,
+       "band": "4",
+       "text": "Hellollll\nDo you know about music? Well, I will answer, firts, in my country, there are a types of music very different, depends If you stay in a cold city or a sunny city you will meet differents styles, but I prefer the latin music, because I love to dance!!! In my country, frewently do many concerts, but, depends the styles, can be romantic, pop music, latin music, salsa ... electronic music, you can find and get your preferents. In my personal opinion, I prefer to listen to pop music, I like madonna, aerosmith, bon jovi and I like too spanish music, you know! I speak spanish ...\nAnd, I have a colection about the famous songs, I can give you, and you can say can listen to ... and then, you'll say me, what as you prefer? or what kind of music would you like? and why not, If you like latin music, If you want to learn to dance, I can teach you!! It's very easy, you only need to try!!! Well, I'll send you my colection and I hope your answer as soon as possible.\nKisses!!!"
+      }
+     }
+    ],
+    "label": "PART 3",
+    "choices": [
+     {
+      "id": 7,
+      "intro": "Your English teacher has asked you to write a story.\n\nYour story must begin with this sentence:",
+      "outro": "Write your story in about 100 words on your answer sheet.",
+      "highlight": "It was a fantastic party."
+     },
+     {
+      "id": 8,
+      "image": "https://audio.mock-stream.com/PET-Writing/test7/q8_ribbon.png",
+      "intro": "This is part of a letter you receive from an English friend.",
+      "outro": "Now write a letter, answering your friend's questions.\nWrite your letter in about 100 words on your answer sheet."
+     }
+    ],
+    "wordCount": "about 100 words",
+    "partNumber": 3,
+    "questionsLabel": "QUESTIONS 7 or 8"
+   }
+  ],
+  "testInfo": {
+   "id": "pet-w-07",
+   "level": "B1",
+   "paper": "Paper 1 · Writing",
+   "parts": 3,
+   "title": "PET Writing — Test 7",
+   "totalTime": 45
+  }
+ },
+ "created_at": "2026-10-14T06:45:46.554182+00:00",
+ "updated_at": "2026-10-14T06:47:31.5424+00:00"
+}

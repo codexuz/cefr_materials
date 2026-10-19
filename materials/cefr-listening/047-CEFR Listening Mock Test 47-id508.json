@@ -1,0 +1,502 @@
+{
+ "id": 508,
+ "mock_type": "cefr-listening",
+ "mock_number": 47,
+ "title": "CEFR Listening Mock Test 47",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "mcq-reply",
+    "title": "Part 1",
+    "answers": {
+     "1": "B",
+     "2": "A",
+     "3": "A",
+     "4": "A",
+     "5": "C",
+     "6": "B",
+     "7": "A",
+     "8": "B"
+    },
+    "audioFile": "https://audio.mock-stream.com/test47/PART 1.m4a",
+    "questions": [
+     {
+      "id": 1,
+      "options": [
+       {
+        "text": "Yes of course.",
+        "letter": "A"
+       },
+       {
+        "text": "I don't know.",
+        "letter": "B"
+       },
+       {
+        "text": "I don't think so.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "options": [
+       {
+        "text": "Aren't you hungry?",
+        "letter": "A"
+       },
+       {
+        "text": "Please give me a small plate.",
+        "letter": "B"
+       },
+       {
+        "text": "No, I'm having my dinner.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 3,
+      "options": [
+       {
+        "text": "Sorry about that.",
+        "letter": "A"
+       },
+       {
+        "text": "I'll tell you later.",
+        "letter": "B"
+       },
+       {
+        "text": "Where was it?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 4,
+      "options": [
+       {
+        "text": "It was better yesterday.",
+        "letter": "A"
+       },
+       {
+        "text": "I think it's today.",
+        "letter": "B"
+       },
+       {
+        "text": "You can do this every day.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 5,
+      "options": [
+       {
+        "text": "I suppose it's possible.",
+        "letter": "A"
+       },
+       {
+        "text": "He didn't tell me anything.",
+        "letter": "B"
+       },
+       {
+        "text": "I haven't looked at it yet.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 6,
+      "options": [
+       {
+        "text": "What about you?",
+        "letter": "A"
+       },
+       {
+        "text": "That's great, thanks.",
+        "letter": "B"
+       },
+       {
+        "text": "I don't know, sorry.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 7,
+      "options": [
+       {
+        "text": "Here it is.",
+        "letter": "A"
+       },
+       {
+        "text": "I need to do this.",
+        "letter": "B"
+       },
+       {
+        "text": "Well done!",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 8,
+      "options": [
+       {
+        "text": "I think so.",
+        "letter": "A"
+       },
+       {
+        "text": "Me too.",
+        "letter": "B"
+       },
+       {
+        "text": "I want to.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "partNumber": 1,
+    "instruction": "You will hear some sentences. You will hear each sentence twice. Choose the correct reply to each sentence (A, B, or C). Mark your answers on the answer sheet.",
+    "questionRange": "1-8"
+   },
+   {
+    "type": "gap-fill-form",
+    "title": "Part 2",
+    "answers": {
+     "9": "MARCH",
+     "10": "ENGLAND",
+     "11": "FATHER",
+     "12": "MONEY",
+     "13": "TRAINER",
+     "14": "APPLES"
+    },
+    "audioFile": "https://audio.mock-stream.com/test47/PART 2.m4a",
+    "formTitle": "Griffon the Horse",
+    "partNumber": 2,
+    "formContent": [
+     {
+      "text": "The international horse show will be held in the month of",
+      "type": "item-gap",
+      "gapId": 9,
+      "gapSuffix": ", just after Hannah's birthday."
+     },
+     {
+      "text": "The family will travel from Poland to the horse show in",
+      "type": "item-gap",
+      "gapId": 10,
+      "gapSuffix": "."
+     },
+     {
+      "text": "The person who will ride Griffon round the ring in the international show is Hannah's",
+      "type": "item-gap",
+      "gapId": 11,
+      "gapSuffix": "."
+     },
+     {
+      "text": "Two weeks ago Griffon won some",
+      "type": "item-gap",
+      "gapId": 12,
+      "gapSuffix": "as a prize."
+     },
+     {
+      "text": "Hannah's ambition is to work as a",
+      "type": "item-gap",
+      "gapId": 13,
+      "gapSuffix": "."
+     },
+     {
+      "text": "When Griffon wins a competition, he is given some",
+      "type": "item-gap",
+      "gapId": 14,
+      "gapSuffix": "by the family."
+     }
+    ],
+    "instruction": "You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. Write ONE WORD and / or A NUMBER for each answer.",
+    "questionRange": "9-14"
+   },
+   {
+    "type": "matching-speakers",
+    "title": "Part 3",
+    "answers": {
+     "15": "D",
+     "16": "A",
+     "17": "E",
+     "18": "B"
+    },
+    "options": [
+     {
+      "text": "At a fruit stand",
+      "letter": "A"
+     },
+     {
+      "text": "In a restaurant",
+      "letter": "B"
+     },
+     {
+      "text": "At the school canteen",
+      "letter": "C"
+     },
+     {
+      "text": "At the bakery",
+      "letter": "D"
+     },
+     {
+      "text": "At the butcher's shop",
+      "letter": "E"
+     },
+     {
+      "text": "At the station",
+      "letter": "F"
+     }
+    ],
+    "speakers": [
+     {
+      "id": 15,
+      "label": "Speaker 1"
+     },
+     {
+      "id": 16,
+      "label": "Speaker 2"
+     },
+     {
+      "id": 17,
+      "label": "Speaker 3"
+     },
+     {
+      "id": 18,
+      "label": "Speaker 4"
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test47/PART 3.m4a",
+    "partNumber": 3,
+    "instruction": "You will hear people speaking in different situations. Match each speaker (15-18) to the place where the speaker is (A-F). There are TWO EXTRA places which you do not need to use. Mark your answers on the answer sheet.",
+    "questionRange": "15-18"
+   },
+   {
+    "type": "map-labeling",
+    "title": "Part 4",
+    "answers": {
+     "19": "A",
+     "20": "E",
+     "21": "D",
+     "22": "F",
+     "23": "B"
+    },
+    "mapImage": "https://audio.mock-stream.com/test47/map.png",
+    "mapTitle": "",
+    "audioFile": "https://audio.mock-stream.com/test47/PART 4.m4a",
+    "mapLabels": [
+     "A",
+     "B",
+     "C",
+     "D",
+     "E",
+     "F"
+    ],
+    "questions": [
+     {
+      "id": 19,
+      "place": "Quiet reading"
+     },
+     {
+      "id": 20,
+      "place": "Computers"
+     },
+     {
+      "id": 21,
+      "place": "Newspapers & magazines"
+     },
+     {
+      "id": 22,
+      "place": "Reference books"
+     },
+     {
+      "id": 23,
+      "place": "Main library"
+     }
+    ],
+    "partNumber": 4,
+    "instruction": "You will hear someone giving a talk. Label the places (19-23) on the map (A-H). There is ONE extra option which you do not need to use. Mark your answers on the answer sheet.",
+    "questionRange": "19-23"
+   },
+   {
+    "type": "mcq-extracts",
+    "title": "Part 5",
+    "answers": {
+     "24": "C",
+     "25": "A",
+     "26": "A",
+     "27": "B",
+     "28": "B",
+     "29": "C"
+    },
+    "extracts": [
+     {
+      "title": "Extract One",
+      "context": "",
+      "questions": [
+       {
+        "id": 24,
+        "text": "The woman thinks Noel's ex-girlfriend…",
+        "options": [
+         {
+          "text": "spent too little time with him.",
+          "letter": "A"
+         },
+         {
+          "text": "always agreed with him.",
+          "letter": "B"
+         },
+         {
+          "text": "made all the couple's plans.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 25,
+        "text": "How do the speakers feel about Noel's new relationship? They're…",
+        "options": [
+         {
+          "text": "hopeful.",
+          "letter": "A"
+         },
+         {
+          "text": "worried.",
+          "letter": "B"
+         },
+         {
+          "text": "excited.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Extract Two",
+      "context": "",
+      "questions": [
+       {
+        "id": 26,
+        "text": "The speakers are discussing the…",
+        "options": [
+         {
+          "text": "shopping facilities in their local area.",
+          "letter": "A"
+         },
+         {
+          "text": "supermarket's car parking problems.",
+          "letter": "B"
+         },
+         {
+          "text": "growing number of High Street shops.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 27,
+        "text": "What's the man's reaction when the woman says she has problems parking?",
+        "options": [
+         {
+          "text": "He's not interested in her view.",
+          "letter": "A"
+         },
+         {
+          "text": "He thinks she has a good point.",
+          "letter": "B"
+         },
+         {
+          "text": "He's surprised by her comment.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Extract Three",
+      "context": "",
+      "questions": [
+       {
+        "id": 28,
+        "text": "The woman is calling because…",
+        "options": [
+         {
+          "text": "there's a problem with her map.",
+          "letter": "A"
+         },
+         {
+          "text": "she's run out of other options.",
+          "letter": "B"
+         },
+         {
+          "text": "she needs help in an emergency.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 29,
+        "text": "At the end of the conversation, the woman is…",
+        "options": [
+         {
+          "text": "relieved.",
+          "letter": "A"
+         },
+         {
+          "text": "grateful.",
+          "letter": "B"
+         },
+         {
+          "text": "embarrassed.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test47/PART 5.m4a",
+    "partNumber": 5,
+    "instruction": "You will hear three extracts. Choose the correct answer (A, B or C) for each question (24-29). There are TWO questions for each extract. Mark your answers on the answer sheet.",
+    "questionRange": "24-29"
+   },
+   {
+    "type": "sentence-completion",
+    "title": "Part 6",
+    "answers": {
+     "30": "NATIONAL",
+     "31": "FINAL",
+     "32": "GLASS",
+     "33": "INDUSTRIAL",
+     "34": "GUN",
+     "35": "WAITER"
+    },
+    "audioFile": "https://audio.mock-stream.com/test47/PART 6.m4a",
+    "partNumber": 6,
+    "instruction": "You will hear a part of a lecture. For each question, fill in the missing information in the numbered space. Write no more than ONE WORD for each answer.",
+    "passageTitle": "An evening's programme",
+    "questionRange": "30-35",
+    "passageContent": "<b>7.30 pm 'Art Review': Student Art Exhibition</b><br><br>This evening's programme is taking place at the <span class=\"gap-input\" data-gap=\"30\">_____(30)_____</span> museum in London.<br><br>The exhibition is of work by students in the <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span> year of their art course.<br><br>At the exhibition, you can see things as different as curtains and <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span><br><br>Some of the works of art have been made using <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span> technology.<br><br><b>8.00 pm Play: 'The Vanishing Lady'</b><br><br>In the play, a young couple on a train think they hear the sound of someone using a <span class=\"gap-input\" data-gap=\"34\">_____(34)_____</span><br><br>A <span class=\"gap-input\" data-gap=\"35\">_____(35)_____</span> tells the couple about an old lady whom he has seen."
+   }
+  ],
+  "source": "Multilevel Mood Listening - Mock Test 1 (Bekzod_Turgunov)",
+  "examDate": "2026-06-13",
+  "examType": "cefr",
+  "testInfo": {
+   "id": "cefr-listening-47",
+   "level": "B2",
+   "title": "CEFR Listening Mock Test 47",
+   "totalTime": 40,
+   "totalQuestions": 35
+  },
+  "mockNumber": 47
+ },
+ "created_at": "2026-06-13T14:26:02.438059+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

@@ -1,0 +1,233 @@
+{
+ "id": 600,
+ "mock_type": "ielts-writing",
+ "mock_number": 33,
+ "title": "IELTS Writing Mock 33",
+ "status": "published",
+ "mock_data": {
+  "tasks": {
+   "task1": {
+    "title": "Physical inactivity by age and gender in Australia",
+    "prompt": "The graph below shows the percentage of adults according to age and gender who do not do any physical activity in Australia.",
+    "wordGoal": 150,
+    "chartDesc": {
+     "title": "",
+     "xAxis": "Age groups",
+     "yAxis": "Percentage",
+     "period": "",
+     "series": [
+      {
+       "name": "Males",
+       "points": [
+        {
+         "at": "15–24",
+         "value": 14
+        },
+        {
+         "at": "25–34",
+         "value": 17
+        },
+        {
+         "at": "35–44",
+         "value": 27
+        },
+        {
+         "at": "45–54",
+         "value": 31
+        },
+        {
+         "at": "55–64",
+         "value": 43
+        },
+        {
+         "at": "65–74",
+         "value": 27
+        },
+        {
+         "at": "75+",
+         "value": 43
+        }
+       ]
+      },
+      {
+       "name": "Females",
+       "points": [
+        {
+         "at": "15–24",
+         "value": 18
+        },
+        {
+         "at": "25–34",
+         "value": 22
+        },
+        {
+         "at": "35–44",
+         "value": 26.5
+        },
+        {
+         "at": "45–54",
+         "value": 25
+        },
+        {
+         "at": "55–64",
+         "value": 37
+        },
+        {
+         "at": "65–74",
+         "value": 30
+        },
+        {
+         "at": "75+",
+         "value": 56
+        }
+       ]
+      }
+     ],
+     "overview": "Overall, the percentage of inactive adults generally tends to increase with age for both sexes, peaking at age 75 and over. Women show higher inactivity levels in younger age categories (15–34) and older categories (65+), while men have higher inactivity rates in middle-aged groups (45–64).",
+     "chartType": "bar chart",
+     "confidence": "medium",
+     "unreadable": [],
+     "keyFeatures": [
+      "Lowest rate of inactivity is recorded for males aged 15–24 at approximately 14%.",
+      "Highest rate of inactivity overall is among females aged 75+ at about 56%.",
+      "In the 45–54 and 55–64 age brackets, males have noticeably higher inactivity rates (31% and 43%) compared to females (25% and 37%).",
+      "In the 35–44 age group, inactivity rates for males and females are nearly identical at roughly 26.5–27%."
+     ]
+    },
+    "chartType": "bar_chart",
+    "dataNature": "static",
+    "instruction": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+    "sampleBand5": "",
+    "sampleBand6": "",
+    "sampleBand7": "<p>The bar chart illustrates the percentage of adults in Australia who <mark>do not do any physical activity</mark>, grouped by age and gender.</p>\n<p>Overall, it is clear that <mark>inactivity tends to increase</mark> with age for both men and women. In addition, women are generally <mark>less active than</mark> men, and the highest levels of inactivity are found among the oldest people.</p>\n<p>In the younger age groups, only 14% of males and 18% of females aged 15-24 did no exercise, which are <mark>the lowest figures</mark> on the chart. These percentages then <mark>climbed steadily</mark>, and by the age of 35-44 both genders had reached around 27%.</p>\n<p>In the older groups, however, <mark>the pattern became less regular</mark>. Men were more inactive than women between the ages of 45 and 64, <mark>peaking at</mark> 43% in the 55-64 group. Among those aged 65-74, by contrast, the male figure fell to 27%, while the female figure kept rising. <mark>The most striking point</mark> is the 75+ group, where inactivity among women reached 56%, <mark>far higher than</mark> the 43% recorded for men.</p>",
+    "sampleBand8": "",
+    "sampleBand9": "",
+    "timeMinutes": 20,
+    "chartDescImg": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/33.png",
+    "sampleAnswer": "",
+    "chartImageUrl": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/33.png",
+    "uzSampleBand5": "",
+    "uzSampleBand6": "",
+    "uzSampleBand7": "<p>Ushbu diagramma Avstraliyada <mark>jismoniy mashqlar bilan umuman shug'ullanmaydigan</mark> kattalarning foizini yosh va jins bo'yicha ko'rsatadi.</p>\n<p>Umuman olganda, ayon bo'ladiki, erkaklar va ayollarda ham <mark>harakatsizlik yosh ortishi bilan ko'payib boradi</mark>. Bundan tashqari, ayollar odatda erkaklarga <mark>qaraganda kamroq harakatchan</mark>, va harakatsizlikning eng yuqori darajasi eng keksa odamlarda kuzatiladi.</p>\n<p>Yosh guruhlarida 15-24 yoshli erkaklarning atigi 14% va ayollarning 18% hech qanday mashq qilmagan, bular diagrammadagi <mark>eng past ko'rsatkichlar</mark>dir. Keyin bu foizlar <mark>barqaror ravishda ko'tarildi</mark> va 35-44 yoshga kelib har ikkala jins ham taxminan 27% ga yetdi.</p>\n<p>Biroq keksa guruhlarda <mark>manzara kamroq muntazam bo'lib qoldi</mark>. 45 va 64 yosh oralig'ida erkaklar ayollarga qaraganda ko'proq harakatsiz bo'lib, 55-64 guruhida 43% bilan <mark>eng yuqori nuqtaga yetdi</mark>. 65-74 yoshdagilarda esa erkaklar ko'rsatkichi 27% ga tushdi, ayollarniki esa ko'tarilishda davom etdi. <mark>Eng ko'zga tashlanadigan jihat</mark> - bu 75+ guruhi bo'lib, unda ayollar orasidagi harakatsizlik 56% ga yetdi, bu erkaklar uchun qayd etilgan 43% dan <mark>ancha yuqori</mark>.</p>",
+    "uzSampleBand8": "",
+    "uzSampleBand9": "",
+    "chartDescSource": "extracted-verified-2026-08-05"
+   },
+   "task2": {
+    "title": "Imported versus locally produced food",
+    "prompt": "In many countries, more and more people choose to buy imported food rather than food produced locally. Why do people buy imported food? What could be done to encourage people to buy local food?",
+    "wordGoal": 250,
+    "essayType": "two-part",
+    "instruction": "Give reasons for your answer and include any relevant examples from your own knowledge or experience.",
+    "sampleBand5": "",
+    "sampleBand6": "",
+    "sampleBand7": "<p>Nowadays, imported food is <mark>becoming increasingly popular</mark>, and in many countries people prefer it to locally produced goods. This essay will look at the main reasons behind this trend and suggest some practical ways to encourage consumers to choose local products instead.</p>\n<p>There are several reasons why people buy food from abroad. Firstly, imported products are often cheaper because large companies can produce them <mark>on a huge scale</mark> in countries where <mark>labour costs are low</mark>. As a result, families <mark>on a tight budget</mark> naturally tend to choose these more affordable options. Secondly, importing food gives shoppers <mark>a much wider range</mark> of products to choose from. Many fruits and vegetables cannot be grown locally because of the climate, so buying them from abroad allows people to enjoy them <mark>all year round</mark> rather than only during one short season.</p>\n<p>However, several steps could be taken to promote local food. Firstly, governments could <mark>run advertising campaigns</mark> to remind people that buying local supports farmers and reduces the pollution caused by long-distance transport. In addition, giving <mark>financial support</mark>, such as subsidies, to local producers would help them lower their prices and <mark>compete with</mark> cheaper imported goods. Finally, schools and restaurants could be encouraged to use locally grown ingredients, which would gradually change people's eating habits.</p>\n<p>In conclusion, although people mainly buy imported food because it is cheaper and more varied, governments and communities can take <mark>practical measures</mark>, such as advertising and subsidies, to increase the popularity of local produce and support their own farmers.</p>",
+    "sampleBand8": "",
+    "sampleBand9": "",
+    "timeMinutes": 40,
+    "sampleAnswer": "",
+    "uzSampleBand5": "",
+    "uzSampleBand6": "",
+    "uzSampleBand7": "<p>Hozirgi kunda import qilingan oziq-ovqat <mark>tobora ommalashib bormoqda</mark> va ko'plab mamlakatlarda odamlar uni mahalliy ishlab chiqarilgan mahsulotlardan afzal ko'rmoqda. Ushbu inshoda bu tendentsiyaning asosiy sabablari ko'rib chiqiladi hamda iste'molchilarni buning o'rniga mahalliy mahsulotlarni tanlashga undashning ba'zi amaliy yo'llari taklif etiladi.</p>\n<p>Odamlar chet eldan oziq-ovqat sotib olishining bir necha sabablari bor. Birinchidan, import mahsulotlar ko'pincha arzonroq bo'ladi, chunki yirik kompaniyalar ularni <mark>ish haqi xarajatlari past</mark> bo'lgan mamlakatlarda <mark>juda katta miqyosda</mark> ishlab chiqara oladi. Natijada, <mark>cheklangan byudjet bilan</mark> yashaydigan oilalar tabiiy ravishda shu arzonroq variantlarni tanlaydi. Ikkinchidan, oziq-ovqatni import qilish xaridorlarga tanlash uchun <mark>ancha kengroq assortiment</mark> taqdim etadi. Ko'plab meva va sabzavotlarni iqlim tufayli mahalliy sharoitda yetishtirib bo'lmaydi, shuning uchun ularni chet eldan sotib olish odamlarga ulardan faqat bitta qisqa mavsumda emas, balki <mark>yil bo'yi</mark> bahramand bo'lish imkonini beradi.</p>\n<p>Biroq mahalliy oziq-ovqatni targ'ib qilish uchun bir qancha choralar ko'rilishi mumkin. Birinchidan, hukumatlar odamlarga mahalliy mahsulot sotib olish fermerlarni qo'llab-quvvatlashini va uzoq masofali transport keltirib chiqaradigan ifloslanishni kamaytirishini eslatish uchun <mark>reklama kampaniyalarini o'tkazishi</mark> mumkin. Bundan tashqari, mahalliy ishlab chiqaruvchilarga subsidiyalar kabi <mark>moliyaviy yordam</mark> berish ularga narxlarni pasaytirish va arzonroq import mahsulotlar <mark>bilan raqobatlashish</mark>ga yordam beradi. Nihoyat, maktablar va restoranlarni mahalliy yetishtirilgan mahsulotlardan foydalanishga undash mumkin, bu esa odamlarning ovqatlanish odatlarini asta-sekin o'zgartiradi.</p>\n<p>Xulosa qilib aytganda, garchi odamlar import qilingan oziq-ovqatni asosan arzonroq va xilma-xil bo'lgani uchun sotib olsalar-da, hukumatlar va jamiyatlar mahalliy mahsulot ommaviyligini oshirish va o'z fermerlarini qo'llab-quvvatlash uchun reklama va subsidiyalar kabi <mark>amaliy choralar</mark> ko'rishi mumkin.</p>",
+    "uzSampleBand8": "",
+    "uzSampleBand9": ""
+   }
+  },
+  "source": "CDI Report",
+  "examDate": "2026-07-03",
+  "settings": {
+   "logoUrl": "https://audio.mock-stream.com/img/ibb/WN0XY5Lv/logo.png",
+   "timeInfo": "⏱ Total time: 60 minutes | Task 1: 20 min (150 words) | Task 2: 40 min (250 words)",
+   "logoWording": "Mock Stream",
+   "moduleTitle": "Academic Writing Module",
+   "testIdentifier": "IELTS Mock 33"
+  },
+  "bandLabels": {
+   "7": "Band 6.5-7"
+  },
+  "vocabulary": {
+   "task1": [],
+   "task2": []
+  },
+  "tokenTranslations": {
+   "peaking at": {
+    "uz": "eng yuqori nuqtaga yetish (...da)",
+    "type": "colloc"
+   },
+   "compete with": {
+    "uz": "... bilan raqobatlashish",
+    "type": "phrasal"
+   },
+   "all year round": {
+    "uz": "yil bo'yi",
+    "type": "colloc"
+   },
+   "far higher than": {
+    "uz": "...ga qaraganda ancha yuqori",
+    "type": "colloc"
+   },
+   "on a huge scale": {
+    "uz": "juda katta miqyosda",
+    "type": "colloc"
+   },
+   "climbed steadily": {
+    "uz": "barqaror ravishda ko'tarildi",
+    "type": "colloc"
+   },
+   "less active than": {
+    "uz": "...ga qaraganda kamroq harakatchan",
+    "type": "colloc"
+   },
+   "financial support": {
+    "uz": "moliyaviy yordam",
+    "type": "colloc"
+   },
+   "on a tight budget": {
+    "uz": "cheklangan byudjet bilan",
+    "type": "idiom"
+   },
+   "a much wider range": {
+    "uz": "ancha kengroq assortiment",
+    "type": "colloc"
+   },
+   "practical measures": {
+    "uz": "amaliy choralar",
+    "type": "colloc"
+   },
+   "the lowest figures": {
+    "uz": "eng past ko'rsatkichlar",
+    "type": "academic"
+   },
+   "labour costs are low": {
+    "uz": "ish haqi xarajatlari past",
+    "type": "colloc"
+   },
+   "The most striking point": {
+    "uz": "Eng ko'zga tashlanadigan jihat",
+    "type": "colloc"
+   },
+   "run advertising campaigns": {
+    "uz": "reklama kampaniyalarini o'tkazish",
+    "type": "colloc"
+   },
+   "inactivity tends to increase": {
+    "uz": "harakatsizlik ortib borish tendentsiyasiga ega",
+    "type": "academic"
+   },
+   "becoming increasingly popular": {
+    "uz": "tobora ommalashib bormoqda",
+    "type": "colloc"
+   },
+   "do not do any physical activity": {
+    "uz": "jismoniy mashqlar bilan umuman shug'ullanmaslik",
+    "type": "colloc"
+   },
+   "the pattern became less regular": {
+    "uz": "manzara kamroq muntazam bo'lib qoldi",
+    "type": "academic"
+   }
+  }
+ },
+ "created_at": "2026-07-06T18:56:43.778288+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

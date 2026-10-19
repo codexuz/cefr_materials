@@ -1,0 +1,597 @@
+{
+ "id": 74,
+ "mock_type": "cefr-writing",
+ "mock_number": 64,
+ "title": "CEFR Writing Mock 64",
+ "status": "published",
+ "mock_data": {
+  "part1": {
+   "chip": "entertainment",
+   "topic": "Photography studio"
+  },
+  "tasks": {
+   "t2": {
+    "chip": "education",
+    "genre": "article",
+    "title": "University education be free for all students",
+    "prompt": "A student magazine announced an article writing contest. The best ones will be published in the magazine. Write your article on this topic: \"Should university education be free for all students?\" Write 180–200 words, giving reasons and examples.",
+    "sample": "<p>The cost of <span class=\"ml-token colloc\">university education</span> has become a <span class=\"ml-token colloc\">significant barrier</span> for many students. I <span class=\"ml-token adv\">strongly</span> believe education <span class=\"ml-token modal\">should</span> be free to ensure equal opportunities for all.</p>\n\n<p><span class=\"ml-token adv\">Firstly</span>, <span class=\"ml-token colloc\">free education</span> promotes <span class=\"ml-token colloc\">social equality</span>. Currently, students from <span class=\"ml-token colloc\">wealthy families</span> have easier access to higher education, while talented individuals from <span class=\"ml-token colloc\">lower-income backgrounds</span> often cannot afford <span class=\"ml-token colloc\">tuition fees</span>. Free universities <span class=\"ml-token modal\">would</span> allow everyone to develop their potential.</p>\n\n<p><span class=\"ml-token adv\">Secondly</span>, <span class=\"ml-token colloc\">student debt</span> has reached alarming levels. Many graduates spend decades repaying loans, delaying major life decisions like buying homes or starting families. Removing this burden <span class=\"ml-token modal\">would</span> benefit both individuals and the economy.</p>\n\n<p>Critics argue that <span class=\"ml-token colloc\">free education</span> is too expensive for governments. <span class=\"ml-token adv\">However</span>, countries like Germany and Norway offer free university education <span class=\"ml-token adv\">successfully</span>. The <span class=\"ml-token colloc\">long-term benefits</span> of a more <span class=\"ml-token colloc\">educated workforce</span> outweigh the costs.</p>\n\n<p><span class=\"ml-token adv\">Furthermore</span>, increased <span class=\"ml-token colloc\">corporate taxation</span> and <span class=\"ml-token colloc\">reduced military spending</span> <span class=\"ml-token modal\">could</span> fund free education without <span class=\"ml-token adv\">significantly</span> burdening taxpayers.</p>\n\n<p><span class=\"ml-token adv\">In conclusion</span>, <span class=\"ml-token colloc\">free university education</span> <span class=\"ml-token modal\">would</span> create a fairer society and produce more skilled professionals. Investment in education is investment in our future.</p>",
+    "target": "180–200 words",
+    "sampleA1": "<p>Hi!<br>I go to photo place. It is good. Photo man is nice. Photos good too.<br>Bye!</p>",
+    "sampleA2": "<p>Hello,<br>I went to SnapStudio. It was okay. The photographer was nice, and the studio was clean. But the photos were not so good. I wanted them to be brighter, and I don't like my hair in some pictures.<br>Maybe you can offer more packages with different backgrounds. And maybe you can help people with their hair and makeup before the photos.<br>Thank you!</p>",
+    "sampleB1": "<p>Dear SnapStudio Team,<br><br>Thank you for the photoshoot session. Overall, it was a positive experience, but there are a few things I wanted to mention.<br><br>The photographer was professional and made me feel comfortable. However, I think the lighting could have been better in some shots. Some of the photos were a bit too dark. The studio facilities were good, clean and well-equipped.<br><br>I was mostly happy with the final images, but some retouching could have improved them. Perhaps offering different retouching packages would be a good idea. Also, I think a package that includes prints would be attractive to some customers.<br><br>Thank you again for the service.<br><br>Sincerely,<br>Ozoda Nazarova</p>",
+    "sampleB2": "Should University Be Free for Everyone?\nImagine a bright student turning down their dream course simply because they can't afford it. Sadly, this happens all the time — which is why I <span class=\"ml-token colloc\">firmly believe</span> university education should be free for all.\n<span class=\"ml-token linking\">First and foremost</span>, free education <span class=\"ml-token idiom\">levels the playing field</span>. When money is taken out of the equation, talented young people from every background get a fair shot at success, rather than only those whose parents can <span class=\"ml-token idiom\">foot the bill</span>. Surely that makes for a fairer society.\n<span class=\"ml-token linking\">What's more</span>, graduates today are <span class=\"ml-token idiom\">drowning in debt</span>. Many spend years paying off loans instead of buying homes or starting businesses — major milestones that end up on hold for a decade. Scrapping tuition fees would lift that weight and give the whole economy a boost.\nOf course, critics point out that free education costs the state a fortune. Yet countries such as Germany and Norway manage it perfectly well, and a well-educated workforce <span class=\"ml-token phrasal\">pays off</span> <span class=\"ml-token idiom\">in the long run</span> through higher productivity and tax revenue.\n<span class=\"ml-token linking\">All things considered</span>, free university education is an investment worth making. After all, educating our young people today means building a brighter tomorrow for everyone.",
+    "uzSample": "<p>Universitet taʼlimi narxi koʻplab talabalar uchun jiddiy toʻsiq boʻlib qoldi. Men barcha uchun teng imkoniyatlarni taʼminlash uchun taʼlim bepul boʻlishi kerak, deb qatʼiy ishonaman.</p>\n\n<p>Birinchidan, bepul taʼlim ijtimoiy tenglikni ragʻbatlantiradi. Hozirda boy oilalardan chiqqan talabalar oliy taʼlimga osonroq erishadilar, kam daromadli oilalardan chiqqan isteʼdodli shaxslar esa koʻpincha oʻqish uchun toʻlovlarni toʻlashga qurbi yetmaydi. Bepul universitetlar har bir kishiga oʻz salohiyatini rivojlantirishga imkon beradi.</p>\n\n<p>Ikkinchidan, talabalarning qarzlari xavotirli darajaga yetdi. Koʻpgina bitiruvchilar kreditlarni toʻlash uchun oʻnlab yillar sarflaydilar, uy sotib olish yoki oila qurish kabi muhim hayotiy qarorlarni kechiktiradilar. Bu yukni olib tashlash ham shaxslarga, ham iqtisodiyotga foyda keltiradi.</p>\n\n<p>Tanqidchilarning taʼkidlashicha, bepul taʼlim hukumatlar uchun juda qimmatga tushadi. Biroq, Germaniya va Norvegiya kabi davlatlar bepul universitet taʼlimini muvaffaqiyatli taklif qilmoqda. Maʼlumotli ishchi kuchining uzoq muddatli foydalari xarajatlardan ustun turadi.</p>\n\n<p>Bundan tashqari, korporativ soliqni oshirish va harbiy xarajatlarni kamaytirish soliq toʻlovchilarga sezilarli darajada yuklamasdan bepul taʼlimni moliyalashtirishi mumkin.</p>\n\n<p>Xulosa qilib aytganda, bepul universitet taʼlimi yanada adolatli jamiyatni yaratadi va koʻproq malakali mutaxassislarni yetishtiradi. Taʼlimga sarmoya kiritish — bu kelajagimizga sarmoya kiritishdir.</p>",
+    "uzSampleA1": "<p>Salom!<br>Men fotosurat joyiga boraman. U yaxshi. Fotosuratchi yaxshi odam. Suratlar ham yaxshi.<br>Xayr!</p>",
+    "uzSampleA2": "<p>Salom,<br>Men SnapStudio'ga bordim. Yaxshi edi. Fotosuratchi yaxshi edi, va studiya toza edi. Lekin suratlar unchalik yaxshi emas edi. Men ularni yorqinroq bo'lishini xohlardim, va ba'zi suratlarda soch turmagim menga yoqmadi.<br>Balki siz turli xil fonlar bilan ko'proq paketlar taklif qilishingiz mumkin. Va balki siz odamlarga suratga tushishdan oldin sochlari va bo'yanishlariga yordam berishingiz mumkin.<br>Rahmat!</p>",
+    "uzSampleB1": "<p>Hurmatli SnapStudio jamoasi,<br><br>Fotosessiya uchun rahmat. Umuman olganda, bu ijobiy tajriba bo'ldi, lekin men aytmoqchi bo'lgan bir nechta narsalar bor.<br><br>Fotograf professional edi va o'zimni qulay his qilishimga yordam berdi. Biroq, menimcha, ba'zi kadrlarda yorug'lik yaxshiroq bo'lishi mumkin edi. Ba'zi fotosuratlar biroz qorong'i edi. Studiya jihozlari yaxshi, toza va yaxshi jihozlangan edi.<br><br>Men yakuniy tasvirlardan asosan xursand bo'ldim, lekin ba'zi retushlar ularni yaxshilashi mumkin edi. Ehtimol, turli retush paketlarini taklif qilish yaxshi fikr bo'lar edi. Shuningdek, menimcha, nashrlarni o'z ichiga olgan paket ba'zi mijozlar uchun jozibali bo'ladi.<br><br>Xizmat uchun yana bir bor rahmat.<br><br>Hurmat bilan,<br>Ozoda Nazarova</p>",
+    "uzSampleB2": "<p>Hurmatli SnapStudio jamoasi,<br><br>Men yaqinda bo'lib o'tgan fotosessiya tajribam bo'yicha fikr-mulohazalarimni bildirish uchun yozyapman. Sizning jamoangizning professionalligi va samaradorligini qadrlasam ham, takomillashtirish bo'yicha ba'zi takliflarim bor.<br><br>Fotograf mohir edi va men qadrlagan xotirjam muhit yaratdi. Biroq, pozalar bo'yicha berilgan yo'nalishlar aniqroq bo'lishi mumkin edi, deb his qildim. Ba'zi pozalar g'ayritabiiy tuyuldi va menimcha, ko'proq yo'l-yo'riq yaxshiroq tasvirlarga olib kelgan bo'lardi. Studiya sharoitlari yaxshi saqlangan va qulay muhitni ta'minlagan.<br><br>Yakuniy tasvirlarga kelsak, men umuman mamnun bo'ldim, garchi tahrirlash uslubi mening didimga to'liq mos kelmasa ham. Ehtimol, mijozlarga tahrirlash uslubini tanlash imkoniyatini (masalan, tabiiy, yuqori moda) taklif qilish mijozlar ehtiyojini qondirishni yaxshilashi mumkin. Bundan tashqari, kutilayotgan natijalar va uslubiy afzalliklarni muhokama qilish uchun suratga olishdan oldin maslahatlashuvni o'z ichiga olgan paket juda foydali bo'ladi.<br><br>Fikr-mulohazalarimni ko'rib chiqqaningiz uchun tashakkur. Ushbu takliflarni amalga oshirish sizning xizmatingiz sifatini yanada oshirishi mumkin, deb hisoblayman.<br><br>Hurmat bilan,<br>Ozoda Nazarova</p>"
+   },
+   "t11": {
+    "title": "informal letter · to friend",
+    "prompt": "Write a letter to your friend, who is planning a family photoshoot. Write about your feelings and what you think they should do.",
+    "sample": "Hey!\n\nI heard you're planning a <span class=\"ml-token colloc\">family photoshoot</span> – that's lovely! I <span class=\"ml-token adv\">recently</span> went to SnapStudio and the experience was <span class=\"ml-token adv\">absolutely</span> wonderful. The photographer was <span class=\"ml-token adv\">so</span> patient with us and the photos turned out <span class=\"ml-token colloc\">beautifully</span>. You <span class=\"ml-token modal\">should</span> <span class=\"ml-token adv\">definitely</span> book them for your session!\n\n<span class=\"ml-token phrasal\">Keep me posted</span>!",
+    "target": "50–70 words",
+    "sampleA1": "<p>Hi Nigora,<br>Photo studio good. Photos nice. I happy. You go! Bye.</p>",
+    "sampleA2": "<p>Hi Nigora,<br>I went to photo studio. It was good. The photos are nice and I like them. You want photos? You can go there too. It is good for family. Bye!</p>",
+    "sampleB1": "<p>Hi Nigora,<br>I heard about your family photoshoot plans! I actually just had a session at SnapStudio. I think it was a good experience overall. The photographer was friendly, and the studio was nice. I'd recommend checking them out if you're looking for a place. Let me know if you want more details!<br>Best,<br>Ozoda Nazarova</p>",
+    "sampleB2": "Hi Nigora,\nI heard you're planning a family photoshoot — <span class=\"ml-token colloc\">how exciting</span>! I actually booked one at SnapStudio last month and it <span class=\"ml-token colloc\">turned out brilliantly</span>. The photographer really <span class=\"ml-token idiom\">put us at ease</span>, so everyone looked <span class=\"ml-token colloc\">relaxed and natural</span>. <span class=\"ml-token adv\">Honestly</span>, <span class=\"ml-token idiom\">you can't go wrong</span> with them. My advice? <span class=\"ml-token colloc\">Book an early slot</span> while the kids are still fresh!\nSpeak soon,\nDilnoza Karimova",
+    "uzSample": "<p>Salom!</p>\n<p>Eshitishimcha, oilaviy fotosessiya rejalashtiryapsan – bu juda ajoyib! Men yaqinda SnapStudio’ga bordim va tajriba juda ajoyib bo‘ldi. Fotograflar biz bilan juda sabrli edi va fotosuratlar juda chiroyli chiqdi. Sessiyangiz uchun ularni albatta bron qiling!</p>\n<p>Meni xabardor qilib tur!</p>",
+    "uzSampleA1": "<p>Salom Nigora,<br>Foto studiya yaxshi. Suratlar chiroyli. Men xursandman. Siz boring! Xayr.</p>",
+    "uzSampleA2": "<p>Salom, Nigora,<br>Men fotostudiyaga bordim. Yaxshi edi. Rasmlar chiroyli va menga yoqdi. Sizga rasmlar kerakmi? Siz ham u yerga borishingiz mumkin. Bu oila uchun yaxshi. Xayr!</p>",
+    "uzSampleB1": "<p>Salom Nigora,<br>Oilaviy fotosuratga tushish rejalaringiz haqida eshitdim! Men yaqinda SnapStudio'da sessiya o'tkazdim. O'ylashimcha, bu umuman olganda yaxshi tajriba bo'ldi. Fotosuratchi do'stona edi va studiya ham yaxshi edi. Agar joy qidirayotgan bo'lsangiz, ularni tekshirib ko'rishni tavsiya qilaman. Batafsil ma'lumot kerak bo'lsa, menga xabar bering!<br>Eng yaxshi tilaklar bilan,<br>Ozoda Nazarova</p>",
+    "uzSampleB2": "<p>Salom Nigora,<br><br>Oila fotosessiyasi haqidagi rejalaringizni eshitib juda xursand bo'ldim! Yaqinda SnapStudio'da sessiya o'tkazdim va o'z tajribam bilan bo'lishmoqchiman. Ularning professionalligi va yakuniy suratlar sifati meni juda hayratda qoldirdi. Fotosuratchi hamma o'zini qulay his qilishiga erishishda juda mahoratli edi, bu esa suratlarda yaqqol ko'rinadi. Agar siz studiya qidirayotgan bo'lsangiz, ularni ko'rib chiqishni tavsiya qilaman. Oilangizga nima mos kelishini ko'rish uchun ularning paketlarini tekshirishga arziydi. Umid qilamanki, bu yordam beradi va natijalarni ko'rishni juda xohlardim!<br><br>Eng yaxshi tilaklar bilan,<br>Ozoda Nazarova</p>"
+   },
+   "t12": {
+    "title": "formal letter · to recipient",
+    "prompt": "Write a letter to the photography studio. Write about your feelings and what you think they should do.",
+    "sample": "Dear SnapStudio Team,\n\nThank you for reaching out about my recent <span class=\"ml-token colloc\">photography session</span>.\n\nI am <span class=\"ml-token adv\">extremely</span> happy with the results. Your photographer was <span class=\"ml-token adv\">incredibly</span> professional and made everyone feel comfortable. The <span class=\"ml-token colloc\">studio facilities</span> were modern and the variety of backdrops was impressive. The final images exceeded my expectations – they captured our personalities <span class=\"ml-token adv\">perfectly</span>.\n\n<span class=\"ml-token adv\">However</span>, I have a few suggestions. The <span class=\"ml-token colloc\">editing turnaround time</span> was longer than expected. I <span class=\"ml-token modal\">would</span> appreciate faster delivery or <span class=\"ml-token adv\">at least</span> a preview of unedited photos while waiting.\n\n<span class=\"ml-token adv\">Additionally</span>, I <span class=\"ml-token modal\">would</span> love if you offered <span class=\"ml-token colloc\">outdoor photography packages</span> at scenic locations. A <span class=\"ml-token colloc\">mini-session option</span> at lower prices <span class=\"ml-token modal\">would</span> also attract more customers.\n\n<span class=\"ml-token adv\">Overall</span>, the experience was memorable and I <span class=\"ml-token modal\">will</span> <span class=\"ml-token adv\">certainly</span> recommend SnapStudio to friends.\n\nYours sincerely,\nOzoda Nazarova",
+    "target": "120–150 words",
+    "sampleA1": "<p>Hi SnapStudio,</p>\r\n<p>Photo good. I like photo. Studio is ok. Bye.</p>",
+    "sampleA2": "<p>Hi SnapStudio,</p>\r\n<p>Thank you for the photos. I like them. The photographer was nice and the studio was good. But the photos took a long time. I think you need to be faster. And maybe you can have more photos outside? Because I like outside photos. Thanks!</p>\r\n<p>Bye,</p>\r\n<p>Ozoda Nazarova</p>",
+    "sampleB1": "<p>Dear SnapStudio Team,</p>\r\n<p>Thank you for your email. I wanted to tell you about my photoshoot. I think the photographer was very good and the studio was nice and clean. I really liked the photos, they look great!</p>\r\n<p>However, I think it took a long time to get the finished photos. Maybe you could make it faster? Also, I think it would be good if you had some cheaper packages, because the prices are a bit high. For example, maybe a shorter session for less money?</p>\r\n<p>Overall, I was happy with the experience and I would recommend you to other people.</p>\r\n<p>Thanks,</p>\r\n<p>Ozoda Nazarova</p>",
+    "sampleB2": "Dear SnapStudio Team,\nThank you for <span class=\"ml-token phrasal\">getting in touch</span> regarding my recent photography session. I am delighted to share some feedback.\n<span class=\"ml-token linking\">On the whole</span>, I was thoroughly impressed. Your photographer was warm and professional, and <span class=\"ml-token idiom\">put the whole family at ease</span> within minutes. The studio itself was spotless, and the range of backdrops gave us plenty of choice. The final images genuinely <span class=\"ml-token colloc\">exceeded my expectations</span>.\n<span class=\"ml-token linking\">That said</span>, I do have one suggestion. The editing took a fortnight, which felt rather long. A <span class=\"ml-token colloc\">quicker turnaround</span>, or a few unedited previews in the meantime, would make a real difference.\nI would also love to see outdoor packages at scenic spots — I'm sure they would <span class=\"ml-token colloc\">prove popular</span>. <span class=\"ml-token linking\">All in all</span>, it was a memorable experience, and I will happily recommend you to friends and family.\nYours sincerely,\nBekzod Aliyev",
+    "uzSample": "<p>Hurmatli SnapStudio jamoasi,</p>\n<p>Yaqinda boʻlib oʻtgan fotosessiya boʻyicha murojaatingiz uchun rahmat.</p>\n<p>Natijalardan juda mamnunman. Fotograflaringiz nihoyatda professional edi va hamma o'zini qulay his qildi. Studiya jihozlari zamonaviy va fonlarning xilma-xilligi hayratlanarli edi. Yakuniy suratlar mening kutganimdan ham oshib ketdi – ular bizning shaxsiyatimizni mukammal aks ettirdi.</p>\n<p>Biroq, mening bir nechta takliflarim bor. Tahrirlashning bajarilish muddati kutilganidan uzoqroq edi. Tezroq yetkazib berish yoki hech bo'lmaganda kutish vaqtida tahrirlanmagan fotosuratlarning oldindan ko'rinishini taqdim etsangiz, minnatdor bo'lardim.</p>\n<p>Bundan tashqari, agar siz manzarali joylarda ochiq havoda fotosessiya paketlarini taklif qilsangiz, juda xursand bo'lardim. Arzonroq narxlarda mini-sessiya varianti ham ko'proq mijozlarni jalb qiladi.</p>\n<p>Umuman olganda, tajriba unutilmas bo'ldi va men SnapStudio'ni do'stlarimga albatta tavsiya qilaman.</p>\n<p>Hurmat bilan,\nOzoda Nazarova</p>",
+    "uzSampleA1": "<p>Salom SnapStudio,</p>\n<p>Surat yaxshi. Menga surat yoqdi. Studiya yaxshi. Xayr.</p>",
+    "uzSampleA2": "<p>Salom SnapStudio,</p>\n<p>Suratlar uchun rahmat. Menga ular yoqdi. Fotosuratchi yaxshi edi va studiya ham yaxshi edi. Lekin suratlar juda ko'p vaqt oldi. Menimcha, siz tezroq bo'lishingiz kerak. Va balki siz ko'proq tashqi suratlar olishingiz mumkin? Chunki menga tashqi suratlar yoqadi. Rahmat!</p>\n<p>Xayr,</p>\n<p>Ozoda Nazarova</p>",
+    "uzSampleB1": "<p>Hurmatli SnapStudio jamoasi,</p>\n<p>Xatingiz uchun rahmat. Fotosessiyam haqida aytmoqchi edim. O'ylashimcha, fotograf juda yaxshi edi va studiya ham chiroyli va toza edi. Menga suratlar juda yoqdi, ular ajoyib ko'rinadi!</p>\n<p>Lekin, o'ylashimcha, tayyor suratlarni olish uchun juda ko'p vaqt ketdi. Balki, buni tezlashtirishingiz mumkin? Shuningdek, narxlar biroz qimmat bo'lgani uchun, arzonroq paketlaringiz bo'lsa yaxshi bo'lardi deb o'ylayman. Misol uchun, kamroq pulga qisqaroq sessiya bo'lishi mumkinmi?</p>\n<p>Umuman olganda, men tajribadan xursand bo'ldim va sizni boshqa odamlarga tavsiya qilaman.</p>\n<p>Rahmat,</p>\n<p>Ozoda Nazarova</p>",
+    "uzSampleB2": "<p>Hurmatli SnapStudio jamoasi,</p>\n<p>Yaqinda boʻlib oʻtgan fotosessiyam boʻyicha qayta aloqa uchun rahmat. Tajribam haqida fikr-mulohazalarimni bildirish uchun yozmoqdaman.</p>\n<p>Umuman olganda, fotosuratlarning sifati meni juda mamnun qildi. Fotografer mahoratli va professional edi, studiya muhiti yaxshi saqlangan. Ayniqsa, mavjud boʻlgan turli xil fonlarni qadrladim.</p>\n<p>Biroq, takliflarim bor. Birinchidan, yakuniy tahrirlangan rasmlarni kutish vaqti biroz ortiqcha edi. Puxta tahrirlash zarurligini tushunsam ham, tezroq muddat foydali bo'lar edi. Ehtimol, tezlashtirilgan tahrirlash xizmatini taklif qilish mumkin.</p>\n<p>Ikkinchidan, xizmat koʻrsatish turlarini kengaytirish koʻproq mijozlarni jalb qilishi mumkin deb oʻylayman. Misol uchun, tematik fotosessiyalarni taklif qilish yoki mahalliy vizajistlar bilan hamkorlik qilish jozibali boʻlishi mumkin. Bundan tashqari, doimiy mijozlar uchun sodiqlik dasturi biznesni davom ettirishga undashi mumkin.</p>\n<p>Ushbu kichik kamchiliklarga qaramay, ko'rsatilgan xizmatdan umuman mamnun bo'ldim va kelajakda SnapStudio-dan yana foydalanishni o'ylab ko'raman.</p>\n<p>Hurmat bilan,</p>\n<p>Ozoda Nazarova</p>"
+   },
+   "p1_context": "You recently had a photoshoot at a professional photography studio.",
+   "p1_scenario": "Dear Client,\n\nThank you for choosing SnapStudio for your photography session! We hope you loved your photos.\nHow was your experience with our photographer and studio facilities? Did the final images meet your expectations?\nWhat additional services or packages would you like us to offer?\n\nSnapStudio Team"
+  },
+  "examDate": "2025-12-18",
+  "settings": {
+   "logoUrl": "https://audio.mock-stream.com/img/ibb/WN0XY5Lv/logo.png",
+   "heading1": "Bilim va malakalarni baholash agentligi",
+   "heading2": "Chet tilini bilish darajasi",
+   "examTitle": "Writing exam",
+   "logoWording": "Mock Stream",
+   "testIdentifier": "mock_stream"
+  },
+  "vocabulary": {
+   "task2": [
+    {
+     "en": "university education",
+     "uz": "universitet ta'limi"
+    },
+    {
+     "en": "significant barrier",
+     "uz": "muhim to'siq"
+    },
+    {
+     "en": "free education",
+     "uz": "bepul ta'lim"
+    },
+    {
+     "en": "social equality",
+     "uz": "ijtimoiy tenglik"
+    },
+    {
+     "en": "wealthy families",
+     "uz": "badavlat oilalar"
+    },
+    {
+     "en": "lower-income backgrounds",
+     "uz": "kam daromadli oilalar"
+    },
+    {
+     "en": "tuition fees",
+     "uz": "o'qish to'lovlari"
+    },
+    {
+     "en": "student debt",
+     "uz": "talaba qarzi"
+    },
+    {
+     "en": "long-term benefits",
+     "uz": "uzoq muddatli foyda"
+    },
+    {
+     "en": "educated workforce",
+     "uz": "ma'lumotli ishchi kuchi"
+    },
+    {
+     "en": "corporate taxation",
+     "uz": "korporativ soliqlar"
+    },
+    {
+     "en": "reduced military spending",
+     "uz": "harbiy xarajatlarni kamaytirish"
+    },
+    {
+     "en": "fairer society",
+     "uz": "adolatli jamiyat"
+    },
+    {
+     "en": "skilled professionals",
+     "uz": "malakali mutaxassislar"
+    },
+    {
+     "en": "investment in education",
+     "uz": "ta'limga investitsiya"
+    },
+    {
+     "en": "equal opportunities",
+     "uz": "teng imkoniyatlar"
+    },
+    {
+     "en": "develop potential",
+     "uz": "salohiyatni rivojlantirmoq"
+    },
+    {
+     "en": "alarming levels",
+     "uz": "tashvishli darajalar"
+    },
+    {
+     "en": "in conclusion",
+     "uz": "xulosa qilib aytganda"
+    },
+    {
+     "en": "strongly believe",
+     "uz": "qat'iy ishonamanki"
+    }
+   ],
+   "task11": [
+    {
+     "en": "family photoshoot",
+     "uz": "oilaviy fotosessiya"
+    },
+    {
+     "en": "photography studio",
+     "uz": "fotostudiya"
+    },
+    {
+     "en": "absolutely wonderful",
+     "uz": "mutlaqo ajoyib"
+    },
+    {
+     "en": "patient photographer",
+     "uz": "sabrli fotograf"
+    },
+    {
+     "en": "turned out beautifully",
+     "uz": "chiroyli chiqdi"
+    },
+    {
+     "en": "definitely book",
+     "uz": "albatta band qiling"
+    },
+    {
+     "en": "keep me posted",
+     "uz": "menga xabar bering"
+    },
+    {
+     "en": "lovely memories",
+     "uz": "yoqimli xotiralar"
+    },
+    {
+     "en": "professional photos",
+     "uz": "professional suratlar"
+    },
+    {
+     "en": "highly recommend",
+     "uz": "qattiq tavsiya qilmoq"
+    },
+    {
+     "en": "great experience",
+     "uz": "ajoyib tajriba"
+    },
+    {
+     "en": "capture moments",
+     "uz": "lahzalarni suratga olmoq"
+    },
+    {
+     "en": "amazing results",
+     "uz": "ajoyib natijalar"
+    },
+    {
+     "en": "worth every penny",
+     "uz": "har bir tiyinga arziydi"
+    },
+    {
+     "en": "comfortable atmosphere",
+     "uz": "qulay muhit"
+    },
+    {
+     "en": "friendly service",
+     "uz": "do'stona xizmat"
+    },
+    {
+     "en": "special occasion",
+     "uz": "maxsus tadbir"
+    },
+    {
+     "en": "you should try",
+     "uz": "sinab ko'rishingiz kerak"
+    },
+    {
+     "en": "let me know",
+     "uz": "menga xabar bering"
+    },
+    {
+     "en": "take care",
+     "uz": "o'zingizga g'amxo'rlik qiling"
+    }
+   ],
+   "task12": [
+    {
+     "en": "photography session",
+     "uz": "fotosessiya"
+    },
+    {
+     "en": "studio facilities",
+     "uz": "studiya jihozlari"
+    },
+    {
+     "en": "editing turnaround time",
+     "uz": "tahrirlash muddati"
+    },
+    {
+     "en": "outdoor photography packages",
+     "uz": "ochiq havoda fotosessiya paketlari"
+    },
+    {
+     "en": "mini-session option",
+     "uz": "mini-sessiya varianti"
+    },
+    {
+     "en": "extremely happy",
+     "uz": "juda baxtli"
+    },
+    {
+     "en": "incredibly professional",
+     "uz": "juda professional"
+    },
+    {
+     "en": "modern facilities",
+     "uz": "zamonaviy jihozlar"
+    },
+    {
+     "en": "variety of backdrops",
+     "uz": "fonlar xilma-xilligi"
+    },
+    {
+     "en": "exceeded expectations",
+     "uz": "kutilganidan oshib ketdi"
+    },
+    {
+     "en": "captured perfectly",
+     "uz": "mukammal suratga olindi"
+    },
+    {
+     "en": "faster delivery",
+     "uz": "tezroq yetkazib berish"
+    },
+    {
+     "en": "unedited photos",
+     "uz": "tahrirlanmagan suratlar"
+    },
+    {
+     "en": "scenic locations",
+     "uz": "chiroyli joylar"
+    },
+    {
+     "en": "attract more customers",
+     "uz": "ko'proq mijozlarni jalb qilmoq"
+    },
+    {
+     "en": "memorable experience",
+     "uz": "esda qolarli tajriba"
+    },
+    {
+     "en": "certainly recommend",
+     "uz": "albatta tavsiya qilaman"
+    },
+    {
+     "en": "I would appreciate",
+     "uz": "Men minnatdor bo'lardim"
+    },
+    {
+     "en": "Yours sincerely",
+     "uz": "Hurmat bilan"
+    },
+    {
+     "en": "overall satisfied",
+     "uz": "umuman mamnun"
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "so": {
+    "uz": "shunday",
+    "type": "adv"
+   },
+   "will": {
+    "uz": "-moqchi",
+    "type": "modal"
+   },
+   "could": {
+    "uz": "mumkin",
+    "type": "modal"
+   },
+   "would": {
+    "uz": "iltimos qilmoq",
+    "type": "modal"
+   },
+   "should": {
+    "uz": "kerak",
+    "type": "modal"
+   },
+   "Firstly": {
+    "uz": "Birinchidan",
+    "type": "adv"
+   },
+   "However": {
+    "uz": "Biroq",
+    "type": "adv"
+   },
+   "Overall": {
+    "uz": "Umuman olganda",
+    "type": "adv"
+   },
+   "Honestly": {
+    "uz": "rostini aytsam",
+    "type": "adv"
+   },
+   "Secondly": {
+    "uz": "Ikkinchidan",
+    "type": "adv"
+   },
+   "at least": {
+    "uz": "hech bo'lmaganda",
+    "type": "adv"
+   },
+   "pays off": {
+    "uz": "o'zini oqlaydi",
+    "type": "phrasal"
+   },
+   "recently": {
+    "uz": "yaqinda",
+    "type": "adv"
+   },
+   "strongly": {
+    "uz": "qattiq",
+    "type": "adv"
+   },
+   "That said": {
+    "uz": "shunday bo'lsa-da",
+    "type": "linking"
+   },
+   "certainly": {
+    "uz": "aniq",
+    "type": "adv"
+   },
+   "extremely": {
+    "uz": "juda ham",
+    "type": "adv"
+   },
+   "perfectly": {
+    "uz": "mukammal tarzda",
+    "type": "adv"
+   },
+   "All in all": {
+    "uz": "xullas, umuman olganda",
+    "type": "linking"
+   },
+   "absolutely": {
+    "uz": "mutlaqo",
+    "type": "adv"
+   },
+   "definitely": {
+    "uz": "albatta",
+    "type": "adv"
+   },
+   "incredibly": {
+    "uz": "nihoyatda",
+    "type": "adv"
+   },
+   "Furthermore": {
+    "uz": "Bundan tashqari",
+    "type": "adv"
+   },
+   "What's more": {
+    "uz": "bundan tashqari",
+    "type": "linking"
+   },
+   "beautifully": {
+    "uz": "chiroyli qilib",
+    "type": "colloc"
+   },
+   "Additionally": {
+    "uz": "Qo'shimcha ravishda",
+    "type": "adv"
+   },
+   "On the whole": {
+    "uz": "umuman olganda",
+    "type": "linking"
+   },
+   "how exciting": {
+    "uz": "qanchalar hayajonli",
+    "type": "colloc"
+   },
+   "student debt": {
+    "uz": "talabalar qarzi",
+    "type": "colloc"
+   },
+   "successfully": {
+    "uz": "muvaffaqiyatli",
+    "type": "adv"
+   },
+   "tuition fees": {
+    "uz": "o'qish to'lovlari",
+    "type": "colloc"
+   },
+   "In conclusion": {
+    "uz": "Xulosa qilib aytganda",
+    "type": "adv"
+   },
+   "foot the bill": {
+    "uz": "xarajatni o'z zimmasiga oladi",
+    "type": "idiom"
+   },
+   "prove popular": {
+    "uz": "ommabop bo'lib chiqadi",
+    "type": "colloc"
+   },
+   "significantly": {
+    "uz": "sezilarli darajada",
+    "type": "adv"
+   },
+   "Keep me posted": {
+    "uz": "xabar berib tur",
+    "type": "phrasal"
+   },
+   "firmly believe": {
+    "uz": "qat'iy ishonaman",
+    "type": "colloc"
+   },
+   "free education": {
+    "uz": "bepul ta'lim",
+    "type": "colloc"
+   },
+   "put us at ease": {
+    "uz": "o'zimizni qulay his qildirdi",
+    "type": "idiom"
+   },
+   "in the long run": {
+    "uz": "uzoq muddatda",
+    "type": "idiom"
+   },
+   "social equality": {
+    "uz": "ijtimoiy tenglik",
+    "type": "colloc"
+   },
+   "drowning in debt": {
+    "uz": "qarzga botib qolgan",
+    "type": "idiom"
+   },
+   "getting in touch": {
+    "uz": "bog'langaningiz uchun",
+    "type": "phrasal"
+   },
+   "wealthy families": {
+    "uz": "boy oilalar",
+    "type": "colloc"
+   },
+   "family photoshoot": {
+    "uz": "oila fotosessiyasi",
+    "type": "colloc"
+   },
+   "studio facilities": {
+    "uz": "studiyaning qulayliklari",
+    "type": "colloc"
+   },
+   "Book an early slot": {
+    "uz": "erta vaqtga yozilib qo'ying",
+    "type": "colloc"
+   },
+   "First and foremost": {
+    "uz": "eng avvalo",
+    "type": "linking"
+   },
+   "corporate taxation": {
+    "uz": "korporativ soliqqa tortish",
+    "type": "colloc"
+   },
+   "educated workforce": {
+    "uz": "ma'lumotli ishchi kuchi",
+    "type": "colloc"
+   },
+   "long-term benefits": {
+    "uz": "uzoq muddatli foydalar",
+    "type": "colloc"
+   },
+   "quicker turnaround": {
+    "uz": "tezroq bajarish muddati",
+    "type": "colloc"
+   },
+   "you can't go wrong": {
+    "uz": "yanglishmaysiz",
+    "type": "idiom"
+   },
+   "mini-session option": {
+    "uz": "mini-sessiya varianti",
+    "type": "colloc"
+   },
+   "photography session": {
+    "uz": "fotosessiya",
+    "type": "colloc"
+   },
+   "relaxed and natural": {
+    "uz": "xotirjam va tabiiy",
+    "type": "colloc"
+   },
+   "significant barrier": {
+    "uz": "sezilarli to'siq",
+    "type": "colloc"
+   },
+   "university education": {
+    "uz": "oliy ma'lumot",
+    "type": "colloc"
+   },
+   "All things considered": {
+    "uz": "hammasini hisobga olganda",
+    "type": "linking"
+   },
+   "turned out brilliantly": {
+    "uz": "ajoyib chiqdi",
+    "type": "colloc"
+   },
+   "editing turnaround time": {
+    "uz": "tahrirlash muddati",
+    "type": "colloc"
+   },
+   "exceeded my expectations": {
+    "uz": "kutganimdan oshib ketdi",
+    "type": "colloc"
+   },
+   "levels the playing field": {
+    "uz": "teng sharoit yaratadi",
+    "type": "idiom"
+   },
+   "lower-income backgrounds": {
+    "uz": "kam daromadli oilalar",
+    "type": "colloc"
+   },
+   "free university education": {
+    "uz": "bepul oliy ta'lim",
+    "type": "colloc"
+   },
+   "reduced military spending": {
+    "uz": "harbiy xarajatlarning qisqarishi",
+    "type": "colloc"
+   },
+   "outdoor photography packages": {
+    "uz": "ochiq havoda suratga olish paketlari",
+    "type": "colloc"
+   },
+   "put the whole family at ease": {
+    "uz": "butun oilani erkin his qildirdi",
+    "type": "idiom"
+   }
+  }
+ },
+ "created_at": "2026-05-06T15:00:30.307982+00:00",
+ "updated_at": "2026-07-06T10:56:57.751593+00:00"
+}

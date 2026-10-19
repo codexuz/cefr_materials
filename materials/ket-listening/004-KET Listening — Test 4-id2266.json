@@ -1,0 +1,452 @@
+{
+ "id": 2266,
+ "mock_type": "ket-listening",
+ "mock_number": 4,
+ "title": "KET Listening — Test 4",
+ "status": "published",
+ "mock_data": {
+  "audio": {
+   "base": "https://audio.mock-stream.com/KET-Listening/test4/",
+   "files": {
+    "1": "PART1.m4a",
+    "2": "PART2.m4a",
+    "3": "PART3.m4a",
+    "4": "PART4.m4a",
+    "5": "PART5.m4a"
+   }
+  },
+  "parts": [
+   {
+    "type": "picture-mcq",
+    "items": [
+     {
+      "id": 1,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q1A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q1B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q1C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "When is the party?"
+     },
+     {
+      "id": 2,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q2A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q2B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q2C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Where are the glasses?"
+     },
+     {
+      "id": 3,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q3A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q3B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q3C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "How much are the shoes?"
+     },
+     {
+      "id": 4,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q4A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q4B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q4C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What will the weather be like in the afternoon?"
+     },
+     {
+      "id": 5,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q5A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q5B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q5C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What time will she take the train?"
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "image": "q0A.png",
+       "letter": "A"
+      },
+      {
+       "image": "q0B.png",
+       "letter": "B"
+      },
+      {
+       "image": "q0C.png",
+       "letter": "C"
+      }
+     ],
+     "question": "How many people were at the meeting?"
+    },
+    "imageBase": "https://audio.mock-stream.com/KET-Listening/test4/p1/",
+    "partNumber": 1,
+    "instruction": [
+     "You will hear five short conversations.",
+     "You will hear each conversation twice.",
+     "There is one question for each conversation.",
+     "For questions 1–5, put a tick (✓) under the right answer."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "matching-list",
+    "items": [
+     {
+      "id": 6,
+      "name": "Jon",
+      "answer": "E"
+     },
+     {
+      "id": 7,
+      "name": "Ann",
+      "answer": "F"
+     },
+     {
+      "id": 8,
+      "name": "Mother",
+      "answer": "B"
+     },
+     {
+      "id": 9,
+      "name": "Father",
+      "answer": "G"
+     },
+     {
+      "id": 10,
+      "name": "Paul",
+      "answer": "D"
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "name": "Kevin",
+     "answer": "A",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "book",
+      "letter": "A"
+     },
+     {
+      "text": "cassette",
+      "letter": "B"
+     },
+     {
+      "text": "football",
+      "letter": "C"
+     },
+     {
+      "text": "meal",
+      "letter": "D"
+     },
+     {
+      "text": "shirt",
+      "letter": "E"
+     },
+     {
+      "text": "theatre tickets",
+      "letter": "F"
+     },
+     {
+      "text": "tie",
+      "letter": "G"
+     },
+     {
+      "text": "video",
+      "letter": "H"
+     }
+    ],
+    "scenario": "Teresa talking to Paul — presents for his family",
+    "leftLabel": "PEOPLE",
+    "partNumber": 2,
+    "rightLabel": "PRESENTS",
+    "instruction": [
+     "Listen to Teresa talking to Paul about presents for his family.",
+     "What is she going to buy for each person?",
+     "For questions 6–10, write a letter A–H next to each person.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-conversation",
+    "items": [
+     {
+      "id": 11,
+      "stem": "What must Carlos take to the library?",
+      "answer": "B",
+      "options": [
+       {
+        "text": "a student card",
+        "letter": "A"
+       },
+       {
+        "text": "a teacher's letter",
+        "letter": "B"
+       },
+       {
+        "text": "a passport",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "stem": "How much will it cost Carlos to join?",
+      "answer": "A",
+      "options": [
+       {
+        "text": "10 euros",
+        "letter": "A"
+       },
+       {
+        "text": "15 euros",
+        "letter": "B"
+       },
+       {
+        "text": "20 euros",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "stem": "Carlos will get",
+      "answer": "C",
+      "options": [
+       {
+        "text": "2 library tickets.",
+        "letter": "A"
+       },
+       {
+        "text": "3 library tickets.",
+        "letter": "B"
+       },
+       {
+        "text": "4 library tickets.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "stem": "On Saturdays, the library opens at",
+      "answer": "B",
+      "options": [
+       {
+        "text": "10.30 a.m.",
+        "letter": "A"
+       },
+       {
+        "text": "11.00 a.m.",
+        "letter": "B"
+       },
+       {
+        "text": "2.30 p.m.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "stem": "The library is in",
+      "answer": "A",
+      "options": [
+       {
+        "text": "Murdoch Street.",
+        "letter": "A"
+       },
+       {
+        "text": "Murdosh Street.",
+        "letter": "B"
+       },
+       {
+        "text": "Murdock Street.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "stem": "The library is closed until",
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "text": "Tuesday.",
+       "letter": "A"
+      },
+      {
+       "text": "Wednesday.",
+       "letter": "B"
+      },
+      {
+       "text": "Thursday.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partNumber": 3,
+    "instruction": [
+     "Listen to Carlos asking for information about a library.",
+     "For questions 11–15, tick (✓) A, B or C.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "rows": [
+     {
+      "id": 16,
+      "label": "Trouble with car:",
+      "answer": "brakes"
+     },
+     {
+      "id": 17,
+      "label": "Office address:",
+      "answer": "Hill",
+      "prefix": "31",
+      "suffix": "Road"
+     },
+     {
+      "id": 18,
+      "label": "Customer's phone number:",
+      "answer": "350519"
+     },
+     {
+      "id": 19,
+      "label": "Time of appointment:",
+      "answer": "2.00"
+     },
+     {
+      "id": 20,
+      "label": "Colour of car:",
+      "answer": "red"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 4",
+    "subtitle": "Customer's name: Mary Wilson",
+    "noteTitle": "Jackson's Garage",
+    "partNumber": 4,
+    "instruction": [
+     "You will hear a woman telephoning a garage about her car.",
+     "Listen and complete questions 16–20.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "rows": [
+     {
+      "id": 21,
+      "label": "Last name:",
+      "answer": "Craig"
+     },
+     {
+      "id": 22,
+      "label": "Name of school:",
+      "answer": "Park",
+      "suffix": "School"
+     },
+     {
+      "id": 23,
+      "label": "From:",
+      "answer": "1984"
+     },
+     {
+      "id": 24,
+      "label": "To:",
+      "answer": "1990"
+     },
+     {
+      "id": 25,
+      "label": "Telephone number:",
+      "answer": "587 634"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 5",
+    "subtitle": "Please contact:\nFirst name: Janet",
+    "noteTitle": "Old School Friends",
+    "partNumber": 5,
+    "instruction": [
+     "You will hear a man talking on the radio.",
+     "Listen and complete questions 21–25.",
+     "You will hear the information twice."
+    ],
+    "questionsLabel": "QUESTIONS 21–25"
+   }
+  ],
+  "testInfo": {
+   "id": "ket-l-4",
+   "level": "A2",
+   "paper": "Paper 2",
+   "parts": 5,
+   "title": "KET Listening — Test 4",
+   "totalTime": 30,
+   "totalQuestions": 25
+  }
+ },
+ "created_at": "2026-10-14T06:45:18.898476+00:00",
+ "updated_at": "2026-10-14T06:47:05.506941+00:00"
+}

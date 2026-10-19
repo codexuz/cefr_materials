@@ -1,0 +1,786 @@
+{
+ "id": 345,
+ "mock_type": "cefr-reading",
+ "mock_number": 4,
+ "title": "CEFR B1-B2-C1 Reading Test 04",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "gap-fill-text",
+    "title": "Part 1",
+    "answers": {
+     "1": [
+      "started"
+     ],
+     "2": [
+      "university"
+     ],
+     "3": [
+      "happened"
+     ],
+     "4": [
+      "look"
+     ],
+     "5": [
+      "sister"
+     ],
+     "6": [
+      "twin"
+     ]
+    },
+    "passage": {
+     "title": "Twin Sister",
+     "content": "<p>Something very strange happened to Tamara. She never knew she had a twin sister until she started university! Tamara was born in Mexico. Her parents could not look after her so she went to live with a family in Manhattan, USA.</p>\n<p>When Tamara was twenty years old, she <span class=\"gap\" data-gap=\"1\">_____(1)_____</span> university in Long Island. She enjoyed her <span class=\"gap\" data-gap=\"2\">_____(2)_____</span> life as a student. But one day she was walking home from class, and a student smiled at her. \"Hello Adriana!\" said the student. \"I'm not Adriana,\" said Tamara. This <span class=\"gap\" data-gap=\"3\">_____(3)_____</span> to Tamara again and again. People Tamara didn't know kept calling her Adriana. It was very strange.</p>\n<p>One day, when a woman called her Adriana, Tamara asked \"Why do you keep calling me Adriana?\"</p>\n<p>The woman replied, \"You <span class=\"gap\" data-gap=\"4\">_____(4)_____</span> like my friend Adriana. You have the same face and the same hair. Is Adriana your <span class=\"gap\" data-gap=\"5\">_____(5)_____</span>?\" Tamara said that she did not have a sister called Adriana. But she was interested in this girl Adriana. Finally, she knew that Adriana is her <span class=\"gap\" data-gap=\"6\">_____(6)_____</span> sister.</p>"
+    },
+    "questions": [
+     {
+      "id": 1,
+      "hint": "verb - began attending"
+     },
+     {
+      "id": 2,
+      "hint": "noun - way of living"
+     },
+     {
+      "id": 3,
+      "hint": "verb - occurred"
+     },
+     {
+      "id": 4,
+      "hint": "verb - appear similar"
+     },
+     {
+      "id": 5,
+      "hint": "noun - family member"
+     },
+     {
+      "id": 6,
+      "hint": "adjective - identical sibling"
+     }
+    ],
+    "partNumber": 1,
+    "instruction": "Read the text. Fill in each gap with ONE word. You must use a word which is somewhere in the rest of the text.",
+    "explanations": {
+     "q1": {
+      "text": "The passage says Tamara learned about her sister after she began attending university. The verb 'started' means to begin, which fits the context of her beginning her studies. That's why the correct answer is 'started'.",
+      "quote": "She never knew she had a twin sister until she started university!"
+     },
+     "q2": {
+      "text": "The passage states that Tamara started university and was a student. The phrase describes her life during this period, which is her 'university life'. That's why the correct answer is 'university'.",
+      "quote": ""
+     },
+     "q3": {
+      "text": "The sentence describes the repeated event of people mistaking her for someone else. The verb 'happened' means 'occurred', which fits this context perfectly. That's why the correct answer is 'happened'.",
+      "quote": "Something very strange happened to Tamara."
+     },
+     "q4": {
+      "text": "The woman explains that Tamara has the same face and hair as her friend Adriana. The phrase 'look like' means to have a similar physical appearance. That's why the correct answer is 'look'.",
+      "quote": "You have the same face and the same hair."
+     },
+     "q5": {
+      "text": "The woman asks about the relationship between Tamara and Adriana because they look identical. The end of the story confirms they are related in this way. That's why the correct answer is 'sister'.",
+      "quote": ""
+     },
+     "q6": {
+      "text": "The story is about Tamara discovering she has an identical sibling she never knew about. The final sentence reveals their exact relationship. That's why the correct answer is 'twin'.",
+      "quote": ""
+     }
+    },
+    "questionRange": "1-6"
+   },
+   {
+    "type": "matching",
+    "texts": [
+     {
+      "title": "Dave's Pizzas on Grey Street",
+      "number": 7,
+      "content": "<p><strong>Phone 876451 to book a table</strong></p>\n<p>Pizzas from $6 each</p>\n<p><strong>Student Thursdays! Pizzas only $4.75!</strong></p>\n<p>Every day until 9.00 p.m.</p>"
+     },
+     {
+      "title": "World Food Café",
+      "number": 8,
+      "content": "<p>Dishes from all over the world</p>\n<p>Next to the museum</p>\n<p>Main courses – only £10!</p>\n<p>Monday – Saturday 11 a.m.-3 p.m.</p>\n<p>Visit: www.worldcafe.com</p>"
+     },
+     {
+      "title": "School Snack Shop",
+      "number": 9,
+      "content": "<p>Opposite the library</p>\n<p>Cheap snacks</p>\n<p>Soups 75p</p>\n<p>All cans 50p</p>\n<p>Every break time</p>\n<p>Email: jenny@snackshop.com</p>"
+     },
+     {
+      "title": "Summer Palace Restaurant",
+      "number": 10,
+      "content": "<p>The best Chinese food in town!</p>\n<p><strong>**Special meals for children**</strong></p>\n<p>Also 10 tables in our pretty garden</p>\n<p>To book a table – call 813729</p>"
+     },
+     {
+      "title": "Fast Food Café",
+      "number": 11,
+      "content": "<p>- opposite Star Cinema -</p>\n<p>Open 5p.m. – 11 p.m.</p>\n<p>Burgers! Chips! Pizzas!</p>\n<p>special takeaway lunch £5.50</p>\n<p><strong>closed Mondays</strong></p>"
+     },
+     {
+      "title": "Dino's Snacks",
+      "number": 12,
+      "content": "<p>MONDAY – SATURDAY</p>\n<p>6.00 a.m. – midnight</p>\n<p>TAKE AWAY & EAT IN</p>\n<p><strong>NO SMOKING</strong></p>\n<p>Sandwiches from £1.50 | Pizzas from £5.30 | Juices 90p</p>"
+     },
+     {
+      "title": "Small World Computer Café",
+      "number": 13,
+      "content": "<p>£1 for 30 minutes on computer</p>\n<p>Tuesday – Sunday 8 am – 8 pm</p>\n<p>Cake, cold drinks, coffee</p>\n<p>23 GEORGE STREET</p>"
+     },
+     {
+      "title": "Gloria's Sandwich Shop",
+      "number": 14,
+      "content": "<p><strong>We make 100 different sandwiches!</strong></p>\n<p>Hot soup | Orange juice | Coffee</p>\n<p>£2.80 each sandwich</p>\n<p>Car park behind shop</p>\n<p>Closed on Mondays</p>"
+     }
+    ],
+    "title": "Part 2",
+    "answers": {
+     "7": [
+      "F"
+     ],
+     "8": [
+      "B"
+     ],
+     "9": [
+      "I"
+     ],
+     "10": [
+      "J"
+     ],
+     "11": [
+      "D"
+     ],
+     "12": [
+      "E"
+     ],
+     "13": [
+      "C"
+     ],
+     "14": [
+      "G"
+     ]
+    },
+    "questions": [
+     {
+      "id": 7,
+      "text": "Text 7"
+     },
+     {
+      "id": 8,
+      "text": "Text 8"
+     },
+     {
+      "id": 9,
+      "text": "Text 9"
+     },
+     {
+      "id": 10,
+      "text": "Text 10"
+     },
+     {
+      "id": 11,
+      "text": "Text 11"
+     },
+     {
+      "id": 12,
+      "text": "Text 12"
+     },
+     {
+      "id": 13,
+      "text": "Text 13"
+     },
+     {
+      "id": 14,
+      "text": "Text 14"
+     }
+    ],
+    "partNumber": 2,
+    "statements": [
+     {
+      "text": "This café works only on Mondays.",
+      "letter": "A"
+     },
+     {
+      "text": "You can order international cuisines in this restaurant.",
+      "letter": "B"
+     },
+     {
+      "text": "You can buy snacks and rent a computer here.",
+      "letter": "C"
+     },
+     {
+      "text": "You can buy pizzas here every day except Monday.",
+      "letter": "D"
+     },
+     {
+      "text": "You are not allowed to smoke in this cafe.",
+      "letter": "E"
+     },
+     {
+      "text": "On a certain day a food is cheaper for only special customers.",
+      "letter": "F"
+     },
+     {
+      "text": "The café offers a good selection of sandwiches to you.",
+      "letter": "G"
+     },
+     {
+      "text": "The café is for only tourists.",
+      "letter": "H"
+     },
+     {
+      "text": "The shop sells you food when your lesson is over.",
+      "letter": "I"
+     },
+     {
+      "text": "You can order a food that is prepared for only kids.",
+      "letter": "J"
+     }
+    ],
+    "instruction": "Read the texts and the statements A-J. Decide which text matches with the situation described in the statements. Each statement can be used ONCE only. There are TWO extra statements which you do not need to use.",
+    "explanations": {
+     "q7": {
+      "text": "The text advertises a special price for pizzas on Thursdays, but only for students. This means a specific food is cheaper for a special group of customers on a certain day. That's why the correct answer is F.",
+      "quote": "Student Thursdays! Pizzas only $4.75!"
+     },
+     "q8": {
+      "text": "The restaurant advertises that it serves \"Dishes from all over the world.\" This means you can eat food from many different countries, which are international cuisines. That's why the correct answer is B.",
+      "quote": "Dishes from all over the world"
+     },
+     "q9": {
+      "text": "The shop is open \"Every break time.\" This is the time between lessons when students are free to buy snacks and drinks. That's why the correct answer is I.",
+      "quote": "Every break time"
+     },
+     "q10": {
+      "text": "The restaurant's advertisement clearly states that they offer \"Special meals for children.\" This means they have food specifically prepared for kids. That's why the correct answer is J.",
+      "quote": "Special meals for children"
+     },
+     "q11": {
+      "text": "This place sells pizzas, but the text also states that it is \"closed Mondays.\" This means you can buy pizza there on any other day of the week. That's why the correct answer is D.",
+      "quote": "closed Mondays"
+     },
+     "q12": {
+      "text": "The advertisement for this establishment includes the rule \"NO SMOKING.\" This means smoking is not permitted inside the cafe. That's why the correct answer is E.",
+      "quote": ""
+     },
+     "q13": {
+      "text": "This place offers computer use for a fee and also sells \"Cake, cold drinks, coffee,\" which are snacks. Therefore, you can both use a computer and buy snacks here. That's why the correct answer is C.",
+      "quote": ""
+     },
+     "q14": {
+      "text": "The shop's advertisement proudly states, \"We make 100 different sandwiches!\" This large number means they have a very good selection to choose from. That's why the correct answer is G.",
+      "quote": "We make 100 different sandwiches!"
+     }
+    },
+    "questionRange": "7-14",
+    "extraStatements": [
+     "A",
+     "H"
+    ]
+   },
+   {
+    "type": "matching-headings",
+    "title": "Part 3",
+    "answers": {
+     "15": [
+      "C"
+     ],
+     "16": [
+      "G"
+     ],
+     "17": [
+      "E"
+     ],
+     "18": [
+      "B"
+     ],
+     "19": [
+      "A"
+     ],
+     "20": [
+      "D"
+     ]
+    },
+    "passage": {
+     "title": "Western Theatre",
+     "paragraphs": [
+      {
+       "number": "I",
+       "content": "Modern Western theatre comes in large measure from ancient Greek drama, from which it takes technical terminology, classification into genres, and many of its themes, stock characters, and plot elements. The Greeks also developed the concepts of dramatic criticism, acting as a career, and theatre architecture. The theatre of ancient Greece consisted of three types of drama: tragedy, comedy, and the satyr play.",
+       "questionId": 15
+      },
+      {
+       "number": "II",
+       "content": "Western theatre developed and expanded considerably under the Romans. The Roman historian Livy wrote that the Romans first experienced theatre in the 4th century BC. The theatre of ancient Rome was a thriving and diverse art form, ranging from festival performances of street theatre, nude dancing, and acrobatics, to the staging of broadly appealing situation comedies, to the high-style, verbally elaborate tragedies.",
+       "questionId": 16
+      },
+      {
+       "number": "III",
+       "content": "Theatre took on many different forms in the West between the 15th and 19th centuries, including commedia dell'arte and melodrama. The general trend was away from the poetic drama of the Greeks and the Renaissance and toward a more naturalistic prose style of dialogue, especially following the Industrial Revolution. Theatre today, broadly defined, includes performances of plays and musicals, ballets, operas and various other forms.",
+       "questionId": 17
+      },
+      {
+       "number": "IV",
+       "content": "The eighteenth century in Britain introduced women to the stage, which would have been extremely inappropriate before. These women were looked at as celebrities but on the other hand, it was still very new and revolutionary that they were on the stage and some said they were unladylike and looked down on. Charles II did not like young men playing the parts of young women, so he asked that women play their own parts.",
+       "questionId": 18
+      },
+      {
+       "number": "V",
+       "content": "Theatre took a big pause during 1642 and 1660 in England because of Cromwell's Interregnum. Theatre was seen as something sinful and the Puritans tried very hard to drive it out of their society. Because of this stagnant period, once Charles II came back to the throne in 1660, theatre (among other arts) exploded because of a lot of influence from France, where Charles was in exile the years previous to his reign.",
+       "questionId": 19
+      },
+      {
+       "number": "VI",
+       "content": "Stagecraft is a term referring to the technical aspects of theatrical, film, and video production. It includes constructing scenery, hanging and focusing of lighting, design and procurement of costumes, makeup, props, stage management, and recording and mixing of sound. Considered a technical rather than an artistic field, it is equally crucial for the practical implementation of a designer's artistic idea.",
+       "questionId": 20
+      }
+     ]
+    },
+    "headings": [
+     {
+      "text": "Theatre and politics",
+      "letter": "A"
+     },
+     {
+      "text": "Ladies enter",
+      "letter": "B"
+     },
+     {
+      "text": "Origin of theatre",
+      "letter": "C"
+     },
+     {
+      "text": "Not the least important",
+      "letter": "D"
+     },
+     {
+      "text": "Varieties of theatres",
+      "letter": "E"
+     },
+     {
+      "text": "Stars for a repertoire",
+      "letter": "F"
+     },
+     {
+      "text": "A step to a wider variety",
+      "letter": "G"
+     },
+     {
+      "text": "Modern problems",
+      "letter": "H"
+     }
+    ],
+    "questions": [
+     {
+      "id": 15,
+      "paragraphNumber": "I"
+     },
+     {
+      "id": 16,
+      "paragraphNumber": "II"
+     },
+     {
+      "id": 17,
+      "paragraphNumber": "III"
+     },
+     {
+      "id": 18,
+      "paragraphNumber": "IV"
+     },
+     {
+      "id": 19,
+      "paragraphNumber": "V"
+     },
+     {
+      "id": 20,
+      "paragraphNumber": "VI"
+     }
+    ],
+    "partNumber": 3,
+    "instruction": "Read the text and choose the correct heading for each paragraph from the list of headings below. There are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once. Mark your answers on the answer sheet.",
+    "explanations": {
+     "q15": {
+      "text": "This paragraph explains that modern theatre has its roots in ancient Greek drama, from which it inherited many key elements. This directly addresses the topic of where theatre began, so the correct answer is C.",
+      "quote": "Modern Western theatre comes in large measure from ancient Greek drama, from which it takes technical terminology, classification into genres, and many of its themes, stock characters, and plot elements."
+     },
+     "q16": {
+      "text": "This paragraph describes how Roman theatre grew and became more diverse, including many new types of performances. This expansion represents a move to a wider variety of theatrical forms, which is why the correct answer is G.",
+      "quote": "The theatre of ancient Rome was a thriving and diverse art form, ranging from festival performances of street theatre, nude dancing, and acrobatics, to the staging of broadly appealing situation comedies, to the high-style, verbally elaborate tragedies."
+     },
+     "q17": {
+      "text": "The paragraph details the \"many different forms\" theatre took on over several centuries, such as commedia dell'arte and melodrama, and also mentions modern types like musicals and operas. This focus on different types makes E the correct answer.",
+      "quote": "Theatre took on many different forms in the West between the 15th and 19th centuries, including commedia dell'arte and melodrama."
+     },
+     "q18": {
+      "text": "This paragraph is entirely about the introduction of female actors to the British stage in the 18th century, a revolutionary change at the time. Therefore, the most fitting heading is B.",
+      "quote": "The eighteenth century in Britain introduced women to the stage, which would have been extremely inappropriate before."
+     },
+     "q19": {
+      "text": "The paragraph describes how theatre was stopped by a political event, Cromwell's Interregnum, and later revived when King Charles II returned to power. This shows the direct influence of politics on theatre, so the correct answer is A.",
+      "quote": "Theatre took a big pause during 1642 and 1660 in England because of Cromwell's Interregnum."
+     },
+     "q20": {
+      "text": "This paragraph defines stagecraft as the technical side of theatre and emphasizes its importance, stating that it is \"equally crucial\" to the artistic side. This highlights its significance, which is why the correct answer is D.",
+      "quote": "Considered a technical rather than an artistic field, it is equally crucial for the practical implementation of a designer's artistic idea."
+     }
+    },
+    "extraHeadings": [
+     "F",
+     "H"
+    ],
+    "questionRange": "15-20"
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 4",
+    "answers": {
+     "21": [
+      "C"
+     ],
+     "22": [
+      "A"
+     ],
+     "23": [
+      "A"
+     ],
+     "24": [
+      "B"
+     ],
+     "25": [
+      "False"
+     ],
+     "26": [
+      "False"
+     ],
+     "27": [
+      "True"
+     ],
+     "28": [
+      "Not Given"
+     ],
+     "29": [
+      "Not Given"
+     ]
+    },
+    "passage": {
+     "title": "Snakes",
+     "content": "<p>Snakes are elongated, legless, carnivorous reptiles that can be distinguished from legless lizards by their lack of eyelids and external ears. Many species of snakes have skulls with several more joints than their lizard ancestors, enabling them to swallow prey much larger than their heads with their highly mobile jaws. To accommodate their narrow bodies, snakes' paired organs (such as kidneys) appear one in front of the other instead of side by side, and most have only one functional lung.</p>\n\n<p>Living snakes are found on every continent except Antarctica, and on most smaller land masses, exceptions include some large islands, such as Ireland, Iceland, Greenland, the Hawaiian archipelago, and the islands of New Zealand, and many small islands of the Atlantic and central Pacific oceans. Additionally, sea snakes are widespread throughout the Indian and Pacific Oceans. More than 20 families are currently recognized. They range in size from the tiny, 10.4 cm (4.1 in)-long thread snake to the reticulated python of 6.95 meters (22.8 ft) in length. The fossil species Titanoboa cerrejonensis was 12.8 meters (42 ft) long. Snakes are thought to have evolved from either burrowing or aquatic lizards, perhaps during the Jurassic period.</p>\n\n<h4>Venom</h4>\n<p>Most species are nonvenomous and those that have venom use it primarily to kill and subdue prey rather than for self-defense. Some possess venom potent enough to cause painful injury or death to humans. The colloquial term \"poisonous snake\" is generally an incorrect label for snakes. A poison is inhaled or ingested, whereas venom produced by snakes is injected into its victim via fangs. It is worthwhile noting that certain birds, mammals, and other snakes (such as king snakes) that prey on venomous snakes have developed resistance and even immunity to certain venoms. Nonvenomous snakes either swallow prey alive or kill by constriction.</p>\n\n<h4>Feeding and diet</h4>\n<p>All snakes are strictly carnivorous, eating small animals including lizards, frogs, other snakes, small mammals, birds, eggs, fish, snails or insects. Because snakes cannot bite or tear their food to pieces, they must swallow prey whole. The body size of a snake has a major influence on its eating habits. Smaller snakes eat smaller prey. Juvenile pythons might start out feeding on lizards or mice and graduate to small deer or antelope as an adult, for example. After eating, snakes become inactive while the process of digestion takes place.</p>"
+    },
+    "partNumber": 4,
+    "instruction": "Read the following text for questions 21-29.",
+    "explanations": {
+     "q21": {
+      "text": "The passage explicitly states that snakes are distinguished from legless lizards by their lack of eyelids and external ears, which are outer ears. That's why the correct answer is C.",
+      "quote": "Snakes are elongated, legless, carnivorous reptiles that can be distinguished from legless lizards by their lack of eyelids and external ears."
+     },
+     "q22": {
+      "text": "To fit inside their narrow bodies, the text explains that snakes' organs that come in pairs are positioned one in front of the other, not side by side. That's why the correct answer is A.",
+      "quote": "To accommodate their narrow bodies, snakes' paired organs (such as kidneys) appear one in front of the other instead of side by side, and most have only one functional lung."
+     },
+     "q23": {
+      "text": "The passage refers to this snake as a 'fossil species'. Fossils are the remains of organisms from the distant past, meaning this snake is extinct. That's why the correct answer is A.",
+      "quote": "The fossil species Titanoboa cerrejonensis was 12.8 meters (42 ft) long."
+     },
+     "q24": {
+      "text": "The text lists kingsnakes as an example of a snake that preys on venomous snakes and has developed an immunity to their venom. That's why the correct answer is B.",
+      "quote": "It is worthwhile noting that certain birds, mammals, and other snakes (such as king snakes) that prey on venomous snakes have developed resistance and even immunity to certain venoms."
+     },
+     "q25": {
+      "text": "The passage states that snakes are found on every continent 'except Antarctica' and lists several large islands where they do not live, such as Ireland and Iceland. Therefore, the statement is false.",
+      "quote": ""
+     },
+     "q26": {
+      "text": "The passage states the 12.8-meter-long snake was a 'fossil species', meaning it is extinct. The longest living snake mentioned is the reticulated python at 6.95 meters. Therefore, the statement is false.",
+      "quote": "The fossil species Titanoboa cerrejonensis was 12.8 meters (42 ft) long."
+     },
+     "q27": {
+      "text": "The passage mentions that most snake species are nonvenomous. It then explains that these snakes kill prey by swallowing them alive or by constriction, not with venom. Therefore, the statement is true.",
+      "quote": "Nonvenomous snakes either swallow prey alive or kill by constriction."
+     },
+     "q28": {
+      "text": "The text says juvenile pythons 'might start out feeding on lizards or mice'. This is given as an example and does not mean they eat 'only' these animals. That's why the correct answer is Not Given.",
+      "quote": "Juvenile pythons might start out feeding on lizards or mice and graduate to small deer or antelope as an adult, for example."
+     },
+     "q29": {
+      "text": "The passage says snakes become 'inactive' while digesting. However, it does not state whether or not they are able to eat again during this time. That's why the correct answer is Not Given.",
+      "quote": "After eating, snakes become inactive while the process of digestion takes place."
+     }
+    },
+    "questionRange": "21-29",
+    "questionSections": [
+     {
+      "type": "mcq",
+      "title": "Questions 21-24: Multiple Choice",
+      "questions": [
+       {
+        "id": 21,
+        "text": "Snakes differ from reptiles by the absence of",
+        "options": [
+         {
+          "text": "legs and bones",
+          "letter": "A"
+         },
+         {
+          "text": "jaws and heads",
+          "letter": "B"
+         },
+         {
+          "text": "outer ears and eyelids",
+          "letter": "C"
+         },
+         {
+          "text": "skins and legs",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 22,
+        "text": "What does \"paired organs\" mean about snakes?",
+        "options": [
+         {
+          "text": "their double organs stay one behind the other.",
+          "letter": "A"
+         },
+         {
+          "text": "their lung is in front of a kidney.",
+          "letter": "B"
+         },
+         {
+          "text": "their heart and kidney are side by side.",
+          "letter": "C"
+         },
+         {
+          "text": "legs are situated close to the kidney.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 23,
+        "text": "Titanoboa cerrejonensis",
+        "options": [
+         {
+          "text": "lived in the past",
+          "letter": "A"
+         },
+         {
+          "text": "lived in the sea",
+          "letter": "B"
+         },
+         {
+          "text": "looked like lizards",
+          "letter": "C"
+         },
+         {
+          "text": "was 42 meters long",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 24,
+        "text": "Kingsnakes",
+        "options": [
+         {
+          "text": "swallow preys alive",
+          "letter": "A"
+         },
+         {
+          "text": "has immune against other snakes venom",
+          "letter": "B"
+         },
+         {
+          "text": "don't eat mammals",
+          "letter": "C"
+         },
+         {
+          "text": "cannot eat other snakes",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "For questions 21-24, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."
+     },
+     {
+      "type": "tfni",
+      "title": "Questions 25-29: True/False/Not Given",
+      "options": [
+       "True",
+       "False",
+       "Not Given"
+      ],
+      "questions": [
+       {
+        "id": 25,
+        "text": "Snakes can be found everywhere in the world."
+       },
+       {
+        "id": 26,
+        "text": "Some living snakes may be 12.8 meters (42 ft) long."
+       },
+       {
+        "id": 27,
+        "text": "Not all species kill their preys using venomous bites."
+       },
+       {
+        "id": 28,
+        "text": "Young python feed on only mice and lizards."
+       },
+       {
+        "id": 29,
+        "text": "Snakes don't eat other prey while digesting a recently eaten animal."
+       }
+      ],
+      "instruction": "For questions 25-29, decide if the following statements agree with the information given in the text."
+     }
+    ]
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 5",
+    "answers": {
+     "30": [
+      "boom",
+      "industry"
+     ],
+     "31": [
+      "homeless"
+     ],
+     "32": [
+      "threatens"
+     ],
+     "33": [
+      "incentives"
+     ],
+     "34": [
+      "A"
+     ],
+     "35": [
+      "A"
+     ]
+    },
+    "passage": {
+     "title": "San Francisco",
+     "content": "<p>The San Francisco of today has a rich and colorful history, starting in 1776, when it was founded by colonists from Spain, through The California Gold Rush of 1849, to being rebuilt after the 1906 earthquake and fire. In all this time it has seen some dark days, but none darker than the present. It became famous as the home of technology with its Silicon Valley, and the relationship the city has with this industry is the cause of all the pain, because of a proposal to levy a 'tech tax' on the companies that have fueled the city's transformation into a place that is increasingly uninhabitable for people on low or medium incomes.</p>\n\n<p>Under the plan, large tech employers in the city, potentially including Google, Twitter, Uber, Airbnb and Salesforce, would be required to pay a 1.5% payroll tax. The estimated $120 m in annual revenue would be used to fund affordable housing and services for the city's large homeless population - 57.4% of homes there are worth more than $1 m, but hundreds of people sleep in tents on the street every night.</p>\n\n<p>The rapid tech boom in the city threatens its ability to thrive and prosper because every week brings new outrages, whether it's the tenant in North Beach who, it emerged this week, received a notice informing him that his rent was increasing from $1,800 a month to $8,000, or the kindergarten teacher whose building was bought by two tech workers and, it was revealed this month, is now facing eviction for nuisance violations that include using appliances.</p>\n\n<p>The city is deeply divided politically between technological evangelists who believe passionately in an industry that has spurred the local economy and made the already rich even richer, and others who believe the sector's recent encroachment into the city is responsible for erasing the city's rich culture and sparking a housing crisis. Meanwhile, more than a few tech workers have gained viral notoriety for anti-homeless screeds, such as a February 2016 open letter that included the complaint, 'I shouldn't have to see the pain, struggle, and despair of homeless people to and from my way to work every day'</p>\n\n<p>A seminal moment came in 2011, when homegrown Twitter threatened to decamp somewhere cheaper and more business friendly. The city responded, first by offering a payroll tax break to companies like Twitter that located in its rundown Central Market neighborhood, and then by phasing out the payroll tax altogether and replacing it with a gross receipts tax-a popular change for tech companies that often have large workforces before they have any revenue.</p>\n\n<p>The companies that took advantage of San Francisco's tech-friendly incentives were, back then, just getting started. Today, that same stretch of the city, where Twitter put down roots, now hosts companies (Uber, Spotify, Dolby, Square, Zendesk, Yammer) whose valuations collectively approach $100 bn. Silicon Valley natives like Google, Linkedin, and even Apple are rapidly expanding into the city too.</p>\n\n<p>The tech tax would partially turn back the clock, bringing back the 1.5% payroll tax, but only for tech companies. But surprisingly, the proposal has met with fierce resistance. The city's tech, political, and media establishment have savaged the proposal, and its mayor called it a 'job-killing measure that would 'return this city back to the days of the Great Recession' The San Francisco Chronicle called the tax 'a dangerously dumb idea' that is 'profoundly reckless and self-defeating'.</p>"
+    },
+    "partNumber": 5,
+    "instruction": "Read the following text for questions 30-35.",
+    "explanations": {
+     "q30": {
+      "text": "The passage identifies the city's relationship with the technology industry as the primary cause of its current problems, making life difficult for many residents. That's why the correct answer is 'industry'.",
+      "quote": ""
+     },
+     "q31": {
+      "text": "The text explicitly states that the money raised from the proposed tax would be used to fund services for the city's large homeless population. That's why the correct answer is 'homeless'.",
+      "quote": ""
+     },
+     "q32": {
+      "text": "The passage uses this exact verb to describe how the rapid growth of the tech sector is endangering the city's future prosperity and well-being. That's why the correct answer is 'threatens'.",
+      "quote": ""
+     },
+     "q33": {
+      "text": "The passage uses this exact noun to refer to the special benefits, such as tax breaks, that the city offered to encourage tech companies to stay. That's why the correct answer is 'incentives'.",
+      "quote": "The companies that took advantage of San Francisco's tech-friendly incentives were, back then, just getting started."
+     },
+     "q34": {
+      "text": "The passage clearly states that the money from the proposed tax would be used to fund affordable housing and services for the homeless population. That's why the correct answer is A.",
+      "quote": ""
+     },
+     "q35": {
+      "text": "The passage explains the gross receipts tax was popular with new tech companies because they often had large workforces but had not yet generated any revenue. That's why the correct answer is A.",
+      "quote": ""
+     }
+    },
+    "questionRange": "30-35",
+    "questionSections": [
+     {
+      "type": "gap-fill",
+      "title": "Questions 30-33: Gap Filling Section",
+      "questions": [
+       {
+        "id": 30,
+        "hint": "noun - rapid growth"
+       },
+       {
+        "id": 31,
+        "hint": "adjective - without homes"
+       },
+       {
+        "id": 32,
+        "hint": "verb - puts at risk"
+       },
+       {
+        "id": 33,
+        "hint": "noun - benefits offered"
+       }
+      ],
+      "instruction": "Fill in the missing information in the numbered spaces. Write no more than ONE WORD and/or A NUMBER for each question.",
+      "summaryText": "<p>Technological <span class=\"gap-input\" data-gap=\"30\">_____(30)_____</span> is seen as an essential reason for most problems that local people are experiencing in San Francisco.</p>\n<p>The money generated from imposing a tax on the employers of big companies is usually used to support <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span> people.</p>\n<p>The author claims that high technological development in the city <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span> the opportunities for the city to flourish and make progress.</p>\n<p>The government of San Francisco offered several <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span> which were applied for encouraging even new technological companies.</p>"
+     },
+     {
+      "type": "mcq",
+      "title": "Questions 34-35: Multiple Choice",
+      "questions": [
+       {
+        "id": 34,
+        "text": "What, according to the writer, are the objectives of the people who advocate this plan in the second paragraph?",
+        "options": [
+         {
+          "text": "To raise enough money to build homes for the homeless.",
+          "letter": "A"
+         },
+         {
+          "text": "To finance community projects.",
+          "letter": "B"
+         },
+         {
+          "text": "To pay for keeping homeless people away from the tech area.",
+          "letter": "C"
+         },
+         {
+          "text": "To pay the homeless to move to another city.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 35,
+        "text": "Why, as the writer suggests in the sixth paragraph, did the city levy a receipts tax rather than a gross payroll tax in the past?",
+        "options": [
+         {
+          "text": "Because startups had large numbers of employees but limited sales.",
+          "letter": "A"
+         },
+         {
+          "text": "Because the city wanted to encourage investment.",
+          "letter": "B"
+         },
+         {
+          "text": "Because the city wanted to encourage the development of a rundown area.",
+          "letter": "C"
+         },
+         {
+          "text": "Because the city wanted to reduce unemployment.",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "For questions 34-35, choose the correct answer A, B, C, or D."
+     }
+    ]
+   }
+  ],
+  "examDate": "2025-11-28",
+  "testInfo": {
+   "parts": 5,
+   "title": "CEFR B1-B2-C1 Reading Test 04",
+   "totalTime": 60,
+   "totalQuestions": 35
+  }
+ },
+ "created_at": "2026-05-12T16:21:08.608729+00:00",
+ "updated_at": "2026-10-11T10:54:25.762211+00:00"
+}

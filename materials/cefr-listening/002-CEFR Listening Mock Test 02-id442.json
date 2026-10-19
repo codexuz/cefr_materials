@@ -1,0 +1,806 @@
+{
+ "id": 442,
+ "mock_type": "cefr-listening",
+ "mock_number": 2,
+ "title": "CEFR Listening Mock Test 02",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "mcq-reply",
+    "title": "Part 1",
+    "answers": {
+     "1": [
+      "C"
+     ],
+     "2": [
+      "B"
+     ],
+     "3": [
+      "A"
+     ],
+     "4": [
+      "B"
+     ],
+     "5": [
+      "C"
+     ],
+     "6": [
+      "C"
+     ],
+     "7": [
+      "B"
+     ],
+     "8": [
+      "A"
+     ]
+    },
+    "audioFile": "https://audio.mock-stream.com/test2/PART%201.m4a",
+    "questions": [
+     {
+      "id": 1,
+      "options": [
+       {
+        "text": "My favorite drink is Cola.",
+        "letter": "A"
+       },
+       {
+        "text": "It's one of the best I've ever seen.",
+        "letter": "B"
+       },
+       {
+        "text": "I am really interested in horror, action film.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "options": [
+       {
+        "text": "Because I love to improve my English skills.",
+        "letter": "A"
+       },
+       {
+        "text": "I would like to be a software engineer.",
+        "letter": "B"
+       },
+       {
+        "text": "I took classes for three years.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 3,
+      "options": [
+       {
+        "text": "Sorry. I'm afraid I don't have time.",
+        "letter": "A"
+       },
+       {
+        "text": "I'd like to go to a Japanese restaurant.",
+        "letter": "B"
+       },
+       {
+        "text": "I'd like to but I'm not free this weekend.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 4,
+      "options": [
+       {
+        "text": "I've only just arrived.",
+        "letter": "A"
+       },
+       {
+        "text": "Yes, it's very close.",
+        "letter": "B"
+       },
+       {
+        "text": "Once in a while.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 5,
+      "options": [
+       {
+        "text": "It takes half an hour.",
+        "letter": "A"
+       },
+       {
+        "text": "It takes an hour.",
+        "letter": "B"
+       },
+       {
+        "text": "Take the second road on the right.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 6,
+      "options": [
+       {
+        "text": "Please ask her to call me back.",
+        "letter": "A"
+       },
+       {
+        "text": "I worked as a police officer in 2015.",
+        "letter": "B"
+       },
+       {
+        "text": "I've been working here for five years.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 7,
+      "options": [
+       {
+        "text": "It's over here, next to gate 7.",
+        "letter": "A"
+       },
+       {
+        "text": "Yes, of course. Here you are.",
+        "letter": "B"
+       },
+       {
+        "text": "No, nothing. Just the normal allowance.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 8,
+      "options": [
+       {
+        "text": "If you go to the frozen food section, you'll find the meat there.",
+        "letter": "A"
+       },
+       {
+        "text": "With some friends in the Sheraton Hanoi Hotel.",
+        "letter": "B"
+       },
+       {
+        "text": "I'm here on business.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "partNumber": 1,
+    "transcript": "Exercise 18.\nSpeaker one.\nWhat kinds of films do you like?\nWhat kinds of films do you like?\nSpeaker two.\nWhat do you want to do after you graduate?\nWhat do you want to do after you graduate?\nSpeaker three.\nWill you join me for coffee tonight?\nWill you join me for coffee tonight?\nSpeaker four.\nIs it close to the subway station?\nIs it close to the subway station?\nSpeaker 5.\nCould you tell me how to get to the police station?\nCould you tell me how to get to the police station?\nSpeaker six.\nHow long have you been working here?\nHow long have you been working here?\nSpeaker seven.\nMay I have your passport, please?\nMay I have your passport, please?\nSpeaker eight.\nCould you tell me where the meat is?\nCould you tell me where the meat is?",
+    "instruction": "You will hear some sentences. You will hear each sentence twice. Choose the correct reply to each sentence (A, B, or C).",
+    "questionRange": "1-8",
+    "answerHighlights": {
+     "1": [
+      2
+     ],
+     "2": [
+      5
+     ],
+     "3": [
+      8
+     ],
+     "4": [
+      11
+     ],
+     "5": [
+      14
+     ],
+     "6": [
+      17
+     ],
+     "7": [
+      20
+     ],
+     "8": [
+      23
+     ]
+    }
+   },
+   {
+    "type": "gap-fill-form",
+    "title": "Part 2",
+    "answers": {
+     "9": [
+      "13th",
+      "thirteenth",
+      "13"
+     ],
+     "10": [
+      "park",
+      "Park"
+     ],
+     "11": [
+      "6",
+      "six"
+     ],
+     "12": [
+      "cycling",
+      "Cycling"
+     ],
+     "13": [
+      "map",
+      "Map"
+     ],
+     "14": [
+      "team",
+      "Team"
+     ]
+    },
+    "audioFile": "https://audio.mock-stream.com/test2/PART%202.m4a",
+    "formTitle": "Sports Festival",
+    "questions": [
+     {
+      "id": 9,
+      "hint": "30th June - ____ July"
+     },
+     {
+      "id": 10,
+      "hint": "Location: Prospect ____"
+     },
+     {
+      "id": 11,
+      "hint": "Time: 12 p.m. - ____ p.m."
+     },
+     {
+      "id": 12,
+      "hint": "extreme ____"
+     },
+     {
+      "id": 13,
+      "hint": "a timetable and a ____"
+     },
+     {
+      "id": 14,
+      "hint": "Indoor ____ games"
+     }
+    ],
+    "partNumber": 2,
+    "transcript": "Exercise 18.\nWrite one or two words, or a number, or a date, or a time.\nYou will hear a radio presenter talking about a sports festival.\nAre you wondering what to do over the summer holidays?\nThe International sports festival starts on the 30th of June, lasts for two weeks and ends on the 13th of July with prize giving and fireworks.\nIt's well worth attending.\nHere's why.\nThe fun starts on day one with a huge event in Prospect Park.\nOrganzers will arrive early to set up, but the event for the public begins at 12:00 p.m. and lasts all day until 6:00.\nThroughout the day, many different clubs and companies will be giving free workshops, which means you'll be able to try sports that you may never have tried before.\nSome of the highlights at the opening event include skateboarding and break dancing workshops.\nYou might also like to bring your bike and try some extreme cycling.\nBefore you start, an expert will check over your bike to make sure it's safe.\nThere will also be a bike race.\nTo find out more information about exact times of each workshop, look on our website.\nYou'll also be able to download a map which shows where everything will be in the park on the day.\nFor the remaining two weeks of the festival, you'll be able to enjoy further workshops and sessions in the area.\nlocations and events include water sports at River swimming complex, track events at the athletics stadium, and you can also take part in indoor team games at Central Leisure.\nThis festival is the first of its kind in our town, and I really recommend you see what it's all about.",
+    "formContent": [
+     {
+      "text": "The Date",
+      "type": "heading"
+     },
+     {
+      "text": "30th June -",
+      "type": "item-gap",
+      "gapId": 9,
+      "gapAfter": true,
+      "gapSuffix": "July"
+     },
+     {
+      "text": "The Opening Event",
+      "type": "heading"
+     },
+     {
+      "text": "Location: Prospect",
+      "type": "item-gap",
+      "gapId": 10,
+      "gapAfter": true
+     },
+     {
+      "text": "Time: 12 p.m. -",
+      "type": "item-gap",
+      "gapId": 11,
+      "gapAfter": true,
+      "gapSuffix": "p.m."
+     },
+     {
+      "text": "Workshops include: skateboarding, break-dancing, extreme",
+      "type": "item-gap",
+      "gapId": 12,
+      "gapAfter": true
+     },
+     {
+      "text": "Further Information",
+      "type": "heading"
+     },
+     {
+      "text": "Look on the website for a timetable and a",
+      "type": "item-gap",
+      "gapId": 13,
+      "gapAfter": true
+     },
+     {
+      "text": "Other Events",
+      "type": "heading"
+     },
+     {
+      "text": "Water sports: River Swimming Complex",
+      "type": "item"
+     },
+     {
+      "text": "Track events: Athletics Stadium",
+      "type": "item"
+     },
+     {
+      "text": "Indoor",
+      "type": "item-gap",
+      "gapId": 14,
+      "gapAfter": true,
+      "gapSuffix": "games: Central Leisure"
+     }
+    ],
+    "instruction": "You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. Write ONE WORD and/or A NUMBER for each answer.",
+    "questionRange": "9-14",
+    "answerHighlights": {
+     "9": [
+      4
+     ],
+     "10": [
+      7
+     ],
+     "11": [
+      8
+     ],
+     "12": [
+      11
+     ],
+     "13": [
+      15
+     ],
+     "14": [
+      17
+     ]
+    }
+   },
+   {
+    "type": "matching-speakers",
+    "title": "Part 3",
+    "answers": {
+     "15": [
+      "D"
+     ],
+     "16": [
+      "B"
+     ],
+     "17": [
+      "E"
+     ],
+     "18": [
+      "C"
+     ],
+     "19": [
+      "A"
+     ]
+    },
+    "options": [
+     {
+      "text": "Teenagers might not enjoy staying at this particular hotel.",
+      "letter": "A"
+     },
+     {
+      "text": "The hotel was quite expensive.",
+      "letter": "B"
+     },
+     {
+      "text": "A playground would have improved the facilities.",
+      "letter": "C"
+     },
+     {
+      "text": "The hotel needed to know if you wanted your children to eat early.",
+      "letter": "D"
+     },
+     {
+      "text": "There was no swimming pool available in the hotel.",
+      "letter": "E"
+     },
+     {
+      "text": "Children under ten were not allowed to stay at the hotel.",
+      "letter": "F"
+     }
+    ],
+    "speakers": [
+     {
+      "id": 15,
+      "label": "Speaker 1"
+     },
+     {
+      "id": 16,
+      "label": "Speaker 2"
+     },
+     {
+      "id": 17,
+      "label": "Speaker 3"
+     },
+     {
+      "id": 18,
+      "label": "Speaker 4"
+     },
+     {
+      "id": 19,
+      "label": "Speaker 5"
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test2/PART%203.m4a",
+    "partNumber": 3,
+    "transcript": "Narrator: Exercise 18.\nYou'll hear five different people talking about hotels they've recently stayed in with their children.\n\nNarrator: Speaker one.\nSpeaker 1: We chose this hotel because we knew that the owners had young children of their own.\nThe room could have been a bit bigger, but then it was quite inexpensive.\nThey provided an early supper if you told them in good time, so that the parents could eat in peace later in the cozy dining room.\nThere were hundreds of toys for the children to play with, a huge garden with a playground, ponds, and a playhouse.\nWe hardly saw our two all week.\n\nNarrator: Speaker two.\nSpeaker 2: We always have difficulty finding hotels which welcome our children.\nThis one was particularly good because the bedroom had a separate sitting room, so we weren't all squashed together in one room.\nAlthough it wasn't the cheapest around, far from it in fact, it was worth it.\nOur teenage kids love the outdoor heated swimming pool and the mountain bikes, which were provided free by the hotel.\nApparently, the owner's kids who've grown up and left home now, had been mad on mountain biking.\nThere was also an all weather tennis court.\nAnother thing we liked was the separate dining room for people with young families.\n\nNarrator: Speaker three.\nSpeaker 3: We'd had a bad experience the year before at a hotel which didn't cater for children.\nBut this year we were very impressed by the hospitality of the hotel.\nThe rooms were large enough to accommodate four beds comfortably, and there was an adventure playground in the garden for the younger kids.\nYou don't have to pay for children under 10 sharing the room.\nEven meals were free for them, so that was another bonus.\nThere was lots to do including horse riding and tennis, but if you wanted to swim, you had to go to the local leisure center, which the kids loved.\n\nNarrator: Speaker four.\nSpeaker 4: In the hotel we went to, we had a family suite, which was very spacious.\nThere was an outdoor heated pool and large grounds, so the kids spent most of the time in the pool.\nSo long as your children like swimming, you're all right, because, uh, there wasn't much else for them to do.\nI did think that they could have put in a playground, too.\nYoung children under 10 aren't allowed in the dining room, but there was an early supper for them.\nThis meant that we could have a quiet dinner for two when they were in bed.\n\nNarrator: Speaker five.\nSpeaker 5: What we liked about our hotel was its size. It was only a small hotel and we were looked after like family. The room had loads of soft toys, wooden toys, and and books, which the children loved. The guest lounge and conservatory was a child-free zone after 7:30, which suited us fine, because there was a special children's supper at 6:00, which meant that they could go to bed early and get a good night's sleep. Older children aren't really catered for, and this hotel is probably better for those with younger kids.\n\nNarrator: Now you'll hear part three again.\n\nNarrator: Speaker one.\nSpeaker 1: We chose this hotel because we knew that the owners had young children of their own.\nThe room could have been a bit bigger, but then it was quite inexpensive.\nThey provided an early supper if you told them in good time, so that the parents could eat in peace later in the cozy dining room.\nThere were hundreds of toys for the children to play with, a huge garden with a playground, ponds, and a playhouse.\nWe hardly saw our two all week.\n\nNarrator: Speaker two.\nSpeaker 2: We always have difficulty finding hotels which welcome our children.\nThis one was particularly good because the bedroom had a separate sitting room, so we weren't all squashed together in one room.\nAlthough it wasn't the cheapest around, far from it in fact, it was worth it.\nOur teenage kids love the outdoor heated swimming pool and the mountain bikes, which were provided free by the hotel.\nApparently, the owner's kids who've grown up and left home now, had been mad on mountain biking.\nThere was also an all weather tennis court.\nAnother thing we liked was the separate dining room for people with young families.\n\nNarrator: Speaker three.\nSpeaker 3: We'd had a bad experience the year before at a hotel which didn't cater for children.\nBut this year we were very impressed by the hospitality of the hotel.\nThe rooms were large enough to accommodate four beds comfortably, and there was an adventure playground in the garden for the younger kids.\nYou don't have to pay for children under 10 sharing the room.\nEven meals were free for them, so that was another bonus.\nThere was lots to do including horse riding and tennis, but if you wanted to swim, you had to go to the local leisure center, which the kids loved.\n\nNarrator: Speaker four.\nSpeaker 4: In the hotel we went to, we had a family suite, which was very spacious.\nThere was an outdoor heated pool and large grounds, so the kids spent most of the time in the pool.\nSo long as your children like swimming, you're all right, because, uh, there wasn't much else for them to do.\nI did think that they could have put in a playground, too.\nYoung children under 10 aren't allowed in the dining room, but there was an early supper for them.\nThis meant that we could have a quiet dinner for two when they were in bed.\n\nNarrator: Speaker five.\nSpeaker 5: What we liked about our hotel was its size. It was only a small hotel and we were looked after like family. The room had loads of soft toys, wooden toys, and and books, which the children loved. The guest lounge and conservatory was a child-free zone after 7:30, which suited us fine, because there was a special children's supper at 6:00, which meant that they could go to bed early and get a good night's sleep. Older children aren't really catered for, and this hotel is probably better for those with younger kids.",
+    "instruction": "You will hear five different people talking about hotels they have recently stayed in with their children. For questions 15-19, choose from the list (A-F) what each speaker says. Use the letters only once. There is ONE EXTRA letter which you do not need to use.",
+    "extraOptions": [
+     "F"
+    ],
+    "questionRange": "15-19",
+    "answerHighlights": {
+     "15": [
+      6
+     ],
+     "16": [
+      13
+     ],
+     "17": [
+      25
+     ],
+     "18": [
+      31
+     ],
+     "19": [
+      36
+     ]
+    }
+   },
+   {
+    "type": "map-labeling",
+    "title": "Part 4",
+    "answers": {
+     "20": [
+      "C"
+     ],
+     "21": [
+      "F"
+     ],
+     "22": [
+      "A"
+     ],
+     "23": [
+      "E"
+     ],
+     "24": [
+      "H"
+     ]
+    },
+    "mapImage": "https://audio.mock-stream.com/test2/Screenshot%202026-01-13%20101821.png",
+    "mapTitle": "Community Area Map",
+    "audioFile": "https://audio.mock-stream.com/test2/PART%204.m4a",
+    "mapLabels": [
+     "A",
+     "B",
+     "C",
+     "D",
+     "E",
+     "F",
+     "G",
+     "H",
+     "I"
+    ],
+    "questions": [
+     {
+      "id": 20,
+      "place": "New car park"
+     },
+     {
+      "id": 21,
+      "place": "New cricket pitch"
+     },
+     {
+      "id": 22,
+      "place": "Children's playground"
+     },
+     {
+      "id": 23,
+      "place": "Pavilion"
+     },
+     {
+      "id": 24,
+      "place": "Notice board"
+     }
+    ],
+    "partNumber": 4,
+    "transcript": "Narrator: Exercise 18.\nSpeaker 1: So, next on the agenda is proposals for improvements to the recreation ground. Councillor Thornton again.\nSpeaker 2: Well, since we managed to extend the recreation ground, we've spent some time talking to local people about how it could be made a more attractive and useful space. If you have a look at the map up on the screen, you can see the river up in the north, and the community hall near the entrance from the road. At present, cars can park between the community hall and that line of trees to the east, but this is quite dangerous for pedestrians. So, we're suggesting a new car park on the opposite side of the community hall, right next to it. We also have a new location for the cricket pitch. As we've now purchased additional space to the east of the recreation ground, beyond the trees, we plan to move it away from its current location, which is rather near the road, into this new area beyond the line of trees. This means there's less danger of stray balls hitting cars or pedestrians. We've got plans for a children's playground, which will be accessible by a footpath from the community hall, and will be alongside the river. We'd originally thought of having it close to the road, but we think this will be a more attractive location. The skateboard ramp is very popular with both younger and older children. We had considered moving this up towards the river, but in the end we decided to have it in the southeast corner near the road. The pavilion is very well used at present by both football players and cricketers. It will stay where it is now, to the left of the line of trees and near to the river, handy for both the football and cricket pitches. And finally, we'll be getting a new notice board for local information, and that will be directly on people's right as they go from the road into the recreation ground.\nNarrator: Now listen again.\nSpeaker 1: So, next on the agenda is proposals for improvements to the recreation ground. Councillor Thornton again.\nSpeaker 2: Well, since we managed to extend the recreation ground, we've spent some time talking to local people about how it could be made a more attractive and useful space. If you have a look at the map up on the screen, you can see the river up in the north, and the community hall near the entrance from the road. At present, cars can park between the community hall and that line of trees to the east, but this is quite dangerous for pedestrians. So, we're suggesting a new car park on the opposite side of the community hall, right next to it. We also have a new location for the cricket pitch. As we've now purchased additional space to the east of the recreation ground, beyond the trees, we plan to move it away from its current location, which is rather near the road, into this new area beyond the line of trees. This means there's less danger of stray balls hitting cars or pedestrians. We've got plans for a children's playground, which will be accessible by a footpath from the community hall, and will be alongside the river. We'd originally thought of having it close to the road, but we think this will be a more attractive location. The skateboard ramp is very popular with both younger and older children. We had considered moving this up towards the river, but in the end we decided to have it in the southeast corner near the road. The pavilion is very well used at present by both football players and cricketers. It will stay where it is now, to the left of the line of trees and near to the river, handy for both the football and cricket pitches. And finally, we'll be getting a new notice board for local information, and that will be directly on people's right as they go from the road into the recreation ground.",
+    "extraLabels": [
+     "B",
+     "D",
+     "G",
+     "I"
+    ],
+    "instruction": "You will hear someone giving a talk. Label the places on the map. There is ONE extra option which you do not need to use.",
+    "questionRange": "20-24",
+    "answerHighlights": {
+     "20": [
+      2
+     ],
+     "21": [
+      2
+     ],
+     "22": [
+      2
+     ],
+     "23": [
+      2
+     ],
+     "24": [
+      2
+     ]
+    }
+   },
+   {
+    "type": "mcq-extracts",
+    "title": "Part 5",
+    "answers": {
+     "25": [
+      "B"
+     ],
+     "26": [
+      "A"
+     ],
+     "27": [
+      "B"
+     ],
+     "28": [
+      "A"
+     ],
+     "29": [
+      "A"
+     ],
+     "30": [
+      "C"
+     ]
+    },
+    "extracts": [
+     {
+      "title": "Extract One",
+      "questions": [
+       {
+        "id": 25,
+        "text": "What do they agree about?",
+        "options": [
+         {
+          "text": "Affordable clothing is the better choice.",
+          "letter": "A"
+         },
+         {
+          "text": "Purchasing clothes is a bad idea.",
+          "letter": "B"
+         },
+         {
+          "text": "People should respect your clothing preferences.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 26,
+        "text": "The man believes that for many people shopping is",
+        "options": [
+         {
+          "text": "achieving social status.",
+          "letter": "A"
+         },
+         {
+          "text": "commenting on society.",
+          "letter": "B"
+         },
+         {
+          "text": "displaying your connection to a social group.",
+          "letter": "C"
+         }
+        ]
+       }
+      ],
+      "extractNumber": 1
+     },
+     {
+      "title": "Extract Two",
+      "questions": [
+       {
+        "id": 27,
+        "text": "What does he say about his music when he was a teen?",
+        "options": [
+         {
+          "text": "He didn't feel like sharing it.",
+          "letter": "A"
+         },
+         {
+          "text": "He felt quite self-confident about it.",
+          "letter": "B"
+         },
+         {
+          "text": "He was unwilling to ask for help with it.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 28,
+        "text": "What does he suggest about his recording contract?",
+        "options": [
+         {
+          "text": "It didn't guarantee him ongoing success.",
+          "letter": "A"
+         },
+         {
+          "text": "It didn't allow him to do music full-time.",
+          "letter": "B"
+         },
+         {
+          "text": "Its terms and conditions weren't too good.",
+          "letter": "C"
+         }
+        ]
+       }
+      ],
+      "extractNumber": 2
+     },
+     {
+      "title": "Extract Three",
+      "questions": [
+       {
+        "id": 29,
+        "text": "The man got his inspiration to start dancing from",
+        "options": [
+         {
+          "text": "one reaction to a performance he gave.",
+          "letter": "A"
+         },
+         {
+          "text": "getting encouraged by his friends.",
+          "letter": "B"
+         },
+         {
+          "text": "the physical effort associated with it.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 30,
+        "text": "The woman admits that as a teenager, she",
+        "options": [
+         {
+          "text": "could sometimes behave unreasonably.",
+          "letter": "A"
+         },
+         {
+          "text": "resented her parents' ambitions for her.",
+          "letter": "B"
+         },
+         {
+          "text": "managed to hide certain feelings.",
+          "letter": "C"
+         }
+        ]
+       }
+      ],
+      "extractNumber": 3
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test2/PART%205.m4a",
+    "partNumber": 5,
+    "transcript": "Narrator: Exercise 18. You hear two students talking about shopping for clothes. Now look at questions one and two.\nNarrator: Recently, a whole pile of my clothes got chucked out after a flatmate mistook them for rubbish. I was so upset.\nSpeaker 2: Oh, no.\nNarrator: I don't get me wrong. It wasn't that they held any particular significance for me or had any great value. It was the prospect of shopping for new stuff I couldn't face.\nSpeaker 2: Tell me about it. Even if there's like something I need to get, my trick is to put it off to the last possible moment. So, I'll have less chance to waste time on such a pointless activity. Maybe that's why people think our clothes are rubbish.\nNarrator: Yeah, but what gets me is that I reckon for a lot of people, the clothes aren't the point. It's more about the act of shopping. It's heavily linked to wanting to be the center of attention to clothes giving them a strong personal identity or whatever. It's basically a way of showing off. Too much importance is placed on clothes and appearance, but it's not like a political issue for me. It's just a game I'm not prepared to play.\nNarrator: Recently, a whole pile of my clothes got chucked out after a flatmate mistook them for rubbish. I was so upset.\nSpeaker 2: Oh, no.\nNarrator: I don't get me wrong. It wasn't that they held any particular significance for me or had any great value. It was the prospect of shopping for new stuff I couldn't face.\nSpeaker 2: Tell me about it. Even if there's like something I need to get, my trick is to put it off to the last possible moment. So, I'll have less chance to waste time on such a pointless activity. Maybe that's why people think our clothes are rubbish.\nNarrator: Yeah, but what gets me is that I reckon for a lot of people, the clothes aren't the point. It's more about the act of shopping. It's heavily linked to wanting to be the center of attention to clothes giving them a strong personal identity or whatever. It's basically a way of showing off. Too much importance is placed on clothes and appearance, but it's not like a political issue for me. It's just a game I'm not prepared to play.\nNarrator: Extract two. You hear part of an interview with a musician called Max. Now look at questions three and four.\nSpeaker 1: So, was music in the blood, Max?\nSpeaker 2: Do you mean, did my mom play the piano? Hardly. But I was well into the charts as a boy. In all honesty, I didn't think that being number one was something completely unattainable. I had a cockiness, but I kept it hidden from my peers. I'd hear a hit record and think, I could do that. From the age of 14, I fired off loads of demo discs I made in my bedroom. I had a folder where I kept all the rejection letters I got from record labels. It might have helped to share that with somebody, but I didn't. I just sulked, then had another go.\nSpeaker 1: Then when you did get a contract?\nSpeaker 2: I was vindicated. And it was a good deal in most respects too. Funny thing was though, if after my first hit, I'd thought I'd made it, I was soon disabused of that notion. If I was to add up everything I'd done up till that point, school, working in a factory, learning the guitar, making the demos. It doesn't compare. I've had to put in a lot of effort to capitalize on that breakthrough, I can tell you.\nSpeaker 1: So, was music in the blood, Max?\nSpeaker 2: Do you mean, did my mom play the piano? Hardly. But I was well into the charts as a boy. In all honesty, I didn't think that being number one was something completely unattainable. I had a cockiness, but I kept it hidden from my peers. I'd hear a hit record and think, I could do that. From the age of 14, I fired off loads of demo discs I made in my bedroom. I had a folder where I kept all the rejection letters I got from record labels. It might have helped to share that with somebody, but I didn't. I just sulked, then had another go.\nSpeaker 1: Then when you did get a contract?\nSpeaker 2: I was vindicated. And it was a good deal in most respects too. Funny thing was though, if after my first hit, I'd thought I'd made it, I was soon disabused of that notion. If I was to add up everything I'd done up till that point, school, working in a factory, learning the guitar, making the demos. It doesn't compare. I've had to put in a lot of effort to capitalize on that breakthrough, I can tell you.\nNarrator: Extract three. You hear part of a discussion program in which two dancers are talking about their careers. Now look at questions five and six.\nSpeaker 1: It's really interesting because I didn't dance when I was in Hong Kong. I didn't pick up dance till I went to high school in the US, and that was probably like when I was 16 years old. Again, I didn't do it consciously. It wasn't like something that I was waiting to do. One time I danced in a culture show and the dance director at my school, she asked, are you interested in really training? Like, you seem to have talent. And at that point, I was really not interested. I was an athlete, a three-season athlete. I was more interested in like hanging with the guys and doing what I was used to. But when I saw her perform, I was blown away and decided it was for me. And at college I majored in it. I trained classically.\nSpeaker 2: That's so unlike my experience. I mean, I was dancing almost before I could walk. And although I wouldn't say I was pressurized into it, my parents were like behind me every step of the way. So much so that I was on the point of rebellion on more than one occasion. Though I'm happy to say that particular storm never actually broke.\nSpeaker 1: It's really interesting because I didn't dance when I was in Hong Kong. I didn't pick up dance till I went to high school in the US, and that was probably like when I was 16 years old. Again, I didn't do it consciously. It wasn't like something that I was waiting to do. One time I danced in a culture show and the dance director at my school, she asked, are you interested in really training? Like, you seem to have talent. And at that point, I was really not interested. I was an athlete, a three-season athlete. I was more interested in like hanging with the guys and doing what I was used to. But when I saw her perform, I was blown away and decided it was for me. And at college I majored in it. I trained classically.\nSpeaker 2: That's so unlike my experience. I mean, I was dancing almost before I could walk. And although I wouldn't say I was pressurized into it, my parents were like behind me every step of the way. So much so that I was on the point of rebellion on more than one occasion. Though I'm happy to say that particular storm never actually broke.",
+    "instruction": "You will hear three extracts. Choose the correct answer (A, B or C) for each question. There are TWO questions for each extract. Mark your answers on the answer sheet.",
+    "questionRange": "25-30",
+    "answerHighlights": {
+     "25": [
+      3
+     ],
+     "26": [
+      5
+     ],
+     "27": [
+      13
+     ],
+     "28": [
+      13
+     ],
+     "29": [
+      21
+     ],
+     "30": [
+      22
+     ]
+    }
+   },
+   {
+    "type": "sentence-completion",
+    "title": "Part 6",
+    "answers": {
+     "31": [
+      "fort",
+      "Fort"
+     ],
+     "32": [
+      "legal",
+      "Legal"
+     ],
+     "33": [
+      "vision",
+      "Vision"
+     ],
+     "34": [
+      "wax",
+      "Wax"
+     ],
+     "35": [
+      "laser",
+      "Laser"
+     ],
+     "36": [
+      "ink",
+      "Ink"
+     ]
+    },
+    "audioFile": "https://audio.mock-stream.com/test2/PART%206.m4a",
+    "questions": [
+     {
+      "id": 31,
+      "hint": "At the site of an old ____"
+     },
+     {
+      "id": 32,
+      "hint": "documents of a ____ nature"
+     },
+     {
+      "id": 33,
+      "hint": "computer ____"
+     },
+     {
+      "id": 34,
+      "hint": "filled with ____"
+     },
+     {
+      "id": 35,
+      "hint": "using ____ photography"
+     },
+     {
+      "id": 36,
+      "hint": "written using ____"
+     }
+    ],
+    "partNumber": 6,
+    "transcript": "Exercise 18. You'll hear a short radio report about how technology is helping archeologists who want to learn more about some texts written over 2,000 years ago, known as Roman tablets.\n\nAt the time of the Roman Empire in Europe, around 2,000 years ago, it was common for information to be written not on paper, but on things called tablets. These were pieces of wood about the size and thickness of a typical modern envelope. Hundreds of such tablets have been unearthed from archeological sites throughout Europe and the Mediterranean world. Nearly 200 were found in one Roman fort alone. And like most of these discoveries, they have been placed in public collections, mainly in museums in Northern Europe, to be viewed, but not, unfortunately, to be read. This is because, although in some cases traces of writing can still be seen, most are now illegible to the naked eye. But that's all soon to change, because archeologists hope that with the help of new technology, their secrets may soon be revealed. Many of the tablets took the form of legal documents and letters written by Roman soldiers. An example, now at the British Museum, bears the name of the person who wrote it, and the name of the person who received it, plus the word transportation, which you can just make out. But the rest remains a mystery. Now, with the help of computer techniques, experts hope eventually to be able to read the whole letter. Professor Mike Brady, a leading figure in what's known as computer vision for many years, admits that this is the hardest project he's ever worked on. But the excitement of seeing the latest ideas in computing applied to such a very ancient problem has the archaeological community buzzing. So, in simple terms, why has the writing been preserved? And how will it be possible to undo the aging process? Well, the tablets were made with thin, hollow panels cut across them. Wax was poured into these, and the text was then written into this soft surface using an instrument with a fine metal point. In virtually all cases, the wax has perished, and all that can be detected on the surface of the tablet underneath are scratches. These are too faint to be read because they are distorted.\nFor some time, scientists have attempted to study them with laser photography, but this has proved fruitless. However, it is now hoped that by enhancing images of the tablets on computer, their original messages will become legible again. If this is the case, a whole new source of historical information will be opened up, and this promises advances and new knowledge for many decades to come. The new technology has already been used on texts in ink as well, and in the future, it will be applied to damaged surfaces of many kinds.\n\nNow you'll hear the recording again.\nAt the time of the Roman Empire in Europe, around 2,000 years ago, it was common for information to be written not on paper, but on things called tablets. These were pieces of wood about the size and thickness of a typical modern envelope. Hundreds of such tablets have been unearthed from archaeological sites throughout Europe and the Mediterranean world. Nearly 200 were found in one Roman fort alone. And like most of these discoveries, they have been placed in public collections, mainly in museums in Northern Europe, to be viewed, but not, unfortunately, to be read. This is because, although in some cases traces of writing can still be seen, most are now illegible to the naked eye. But that's all soon to change, because archaeologists hope that with the help of new technology, their secrets may soon be revealed. Many of the tablets took the form of legal documents and letters written by Roman soldiers. An example, now at the British Museum, bears the name of the person who wrote it, and the name of the person who received it, plus the word transportation, which you can just make out. But the rest remains a mystery. Now, with the help of computer techniques, experts hope eventually to be able to read the whole letter. Professor Mike Brady, a leading figure in what's known as computer vision for many years, admits that this is the hardest project he's ever worked on. But the excitement of seeing the latest ideas in computing applied to such a very ancient problem has the archaeological community buzzing. So, in simple terms, why has the writing been preserved? And how will it be possible to undo the aging process? Well, the tablets were made with thin, hollow panels cut across them. Wax was poured into these, and the text was then written into this soft surface using an instrument with a fine metal point. In virtually all cases, the wax has perished, and all that can be detected on the surface of the tablet underneath are scratches. These are too faint to be read because they are distorted.\nFor some time, scientists have attempted to study them with laser photography, but this has proved fruitless. However, it is now hoped that by enhancing images of the tablets on computer, their original messages will become legible again. If this is the case, a whole new source of historical information will be opened up, and this promises advances and new knowledge for many decades to come. The new technology has already been used on texts in ink as well, and in the future, it will be applied to damaged surfaces of many kinds.",
+    "instruction": "You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. Write ONE WORD and/or A NUMBER for each answer.",
+    "passageTitle": "Roman tablets",
+    "questionRange": "31-36",
+    "passageContent": "The speaker says that an Ancient Roman 'tablet' was about as thick as a present-day envelope.<br><br>At the site of an old <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span>, archaeologists discovered about 200 tablets.<br><br>Roman soldiers often used tablets writing letter or documents of a <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span> nature.<br><br>On one tablet mentioned, the word transportation is legible as well as people's names.<br><br>An expert in what's called computer <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span> says that the project is very challenging.<br><br>Panels on the tablets were once filled with <span class=\"gap-input\" data-gap=\"34\">_____(34)_____</span>, which provided the writing surface.<br><br>Efforts to analyze the original texts using <span class=\"gap-input\" data-gap=\"35\">_____(35)_____</span> photography were unsuccessful.<br><br>New technology is also being applied to other historical texts which were written using <span class=\"gap-input\" data-gap=\"36\">_____(36)_____</span>.",
+    "answerHighlights": {
+     "31": [
+      2
+     ],
+     "32": [
+      2
+     ],
+     "33": [
+      2
+     ],
+     "34": [
+      2
+     ],
+     "35": [
+      3
+     ],
+     "36": [
+      3
+     ]
+    }
+   }
+  ],
+  "examDate": "2026-02-10",
+  "testInfo": {
+   "level": "B1-B2-C1",
+   "parts": 6,
+   "title": "CEFR Listening Mock Test 02",
+   "totalTime": 40,
+   "totalQuestions": 35
+  }
+ },
+ "created_at": "2026-05-15T15:18:51.343106+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

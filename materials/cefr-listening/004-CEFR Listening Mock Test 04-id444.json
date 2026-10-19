@@ -1,0 +1,734 @@
+{
+ "id": 444,
+ "mock_type": "cefr-listening",
+ "mock_number": 4,
+ "title": "CEFR Listening Mock Test 04",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "mcq-reply",
+    "title": "Part 1",
+    "answers": {
+     "1": "C",
+     "2": "A",
+     "3": "B",
+     "4": "B",
+     "5": "A",
+     "6": "A",
+     "7": "B",
+     "8": "B"
+    },
+    "audioFile": "https://audio.mock-stream.com/test4/PART%201.m4a",
+    "questions": [
+     {
+      "id": 1,
+      "options": [
+       {
+        "text": "It's raining.",
+        "letter": "A"
+       },
+       {
+        "text": "No, we're out of stock.",
+        "letter": "B"
+       },
+       {
+        "text": "Yes, please. I'd like to try on this jumper.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "options": [
+       {
+        "text": "She's got a headache.",
+        "letter": "A"
+       },
+       {
+        "text": "She's gone to France.",
+        "letter": "B"
+       },
+       {
+        "text": "She's sleeping.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 3,
+      "options": [
+       {
+        "text": "Is dinner ready?",
+        "letter": "A"
+       },
+       {
+        "text": "Let's have it then?",
+        "letter": "B"
+       },
+       {
+        "text": "Shall we order a pizza?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 4,
+      "options": [
+       {
+        "text": "Yes, please.",
+        "letter": "A"
+       },
+       {
+        "text": "By credit card.",
+        "letter": "B"
+       },
+       {
+        "text": "The bill, please.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 5,
+      "options": [
+       {
+        "text": "It's made of leather.",
+        "letter": "A"
+       },
+       {
+        "text": "He's very well, thanks.",
+        "letter": "B"
+       },
+       {
+        "text": "She likes ice cream.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 6,
+      "options": [
+       {
+        "text": "Fine thanks.",
+        "letter": "A"
+       },
+       {
+        "text": "With my father.",
+        "letter": "B"
+       },
+       {
+        "text": "Forty-four.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 7,
+      "options": [
+       {
+        "text": "Who are you?",
+        "letter": "A"
+       },
+       {
+        "text": "Pleased to meet you.",
+        "letter": "B"
+       },
+       {
+        "text": "Don't mention it.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 8,
+      "options": [
+       {
+        "text": "I'm afraid not.",
+        "letter": "A"
+       },
+       {
+        "text": "Any time you like.",
+        "letter": "B"
+       },
+       {
+        "text": "That will be nice",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "partNumber": 1,
+    "transcript": "Exercise 24.\nSpeaker one.\nGood morning. Can I help you?\nGood morning. Can I help you?\nSpeaker two.\nWhat's the matter with Julie?\nWhat's the matter with Julie?\nSpeaker three.\nI've already made dinner.\nI've already made dinner.\nSpeaker four.\nThat's $68, please. How are you paying?\nThat's $68, please. How are you paying?\nSpeaker five.\nWhat's your new jacket like?\nWhat's your new jacket like?\nSpeaker six.\nHow is your mother?\nHow is your mother?\nSpeaker 7.\nTom, this is my wife, Penny.\nTom, this is my wife, Penny.\nSpeaker eight.\nWhen can we go shopping?\nWhen can we go shopping?",
+    "instruction": "You will hear some sentences. You will hear each sentence twice. Choose the correct reply to each sentence (A, B, or C).",
+    "questionRange": "1-8",
+    "answerHighlights": {
+     "1": [
+      2
+     ],
+     "2": [
+      5
+     ],
+     "3": [
+      8
+     ],
+     "4": [
+      11
+     ],
+     "5": [
+      14
+     ],
+     "6": [
+      17
+     ],
+     "7": [
+      20
+     ],
+     "8": [
+      23
+     ]
+    }
+   },
+   {
+    "type": "gap-fill-form",
+    "title": "Part 2",
+    "answers": {
+     "9": [
+      "5",
+      "five",
+      "Five",
+      "FIVE"
+     ],
+     "10": [
+      "make-up",
+      "Make-up",
+      "MAKE-UP",
+      "makeup",
+      "Makeup",
+      "MAKEUP"
+     ],
+     "11": [
+      "officer",
+      "Officer",
+      "OFFICER"
+     ],
+     "12": [
+      "director",
+      "Director",
+      "DIRECTOR"
+     ],
+     "13": [
+      "clothes",
+      "Clothes",
+      "CLOTHES"
+     ],
+     "14": [
+      "dinner",
+      "Dinner",
+      "DINNER"
+     ]
+    },
+    "audioFile": "https://audio.mock-stream.com/test4/PART%202.m4a",
+    "formTitle": "A Film Actor",
+    "questions": [
+     {
+      "id": 9,
+      "hint": "at ____ a.m."
+     },
+     {
+      "id": 10,
+      "hint": "does his ____"
+     },
+     {
+      "id": 11,
+      "hint": "police ____"
+     },
+     {
+      "id": 12,
+      "hint": "film ____"
+     },
+     {
+      "id": 13,
+      "hint": "usual ____"
+     },
+     {
+      "id": 14,
+      "hint": "has ____"
+     }
+    ],
+    "partNumber": 2,
+    "transcript": "Exercise 24.\nYou will hear a film actor called Roger talking on the school radio about his typical day on a film set.\nHi everyone. Today, I will tell you about my typical day filming. It sounds like a great job, but it really is very tiring. Every day, I get up at 4:00 in the morning, and I have to be ready by 4:30 to get in the car to the studio. In the winter, it's still dark, and as the studio is only half an hour away, I'm there at 5:00, and I don't get a chance to have a quick sleep.\nAs soon as I get to the studio, I go to the hairdresser who brushes my hair into the hairstyle of the character I am playing. This usually takes about half an hour. When she finishes doing my hair, I don't have to move from the chair, because the makeup lady comes to me and prepares me for filming.\nAt the moment, I'm playing a police officer, so I don't need a lot of makeup. In my last film, I played the part of a big monster, and I needed a lot of makeup, which took five hours to do. It wasn't comfortable sitting in the same chair for such a long time.\nAfter makeup, I am given my costume to put on. At this point, I am now ready to act, but it is never like that.\nThe film director is either late, or the engineers haven't finished with the scenery or lights. We don't usually start on time.\nWhen they are ready, I go into the studio and we act out the different scenes.\nThis takes all day until about 5:00 p.m. when they remove my makeup, and I get changed back into my normal clothes. A car then takes me home, where I have dinner and go to bed, usually about 10:00 p.m. Then, the same happens the next day, and every day during filming, and that's my typical day.\nNow, listen again.\nHi everyone. Today, I will tell you about my typical day filming. It sounds like a great job, but it really is very tiring. Every day, I get up at 4:00 in the morning, and I have to be ready by 4:30 to get in the car to the studio. In the winter, it's still dark, and as the studio is only half an hour away, I'm there at 5:00, and I don't get a chance to have a quick sleep.\nAs soon as I get to the studio, I go to the hairdresser who brushes my hair into the hairstyle of the character I am playing. This usually takes about half an hour. When she finishes doing my hair, I don't have to move from the chair, because the makeup lady comes to me and prepares me for filming.\nAt the moment, I'm playing a police officer, so I don't need a lot of makeup. In my last film, I played the part of a big monster, and I needed a lot of makeup, which took five hours to do. It wasn't comfortable sitting in the same chair for such a long time.\nAfter makeup, I am given my costume to put on. At this point, I am now ready to act, but it is never like that.\nThe film director is either late, or the engineers haven't finished with the scenery or lights. We don't usually start on time.\nWhen they are ready, I go into the studio and we act out the different scenes.\nThis takes all day until about 5:00 p.m. when they remove my makeup, and I get changed back into my normal clothes. A car then takes me home, where I have dinner and go to bed, usually about 10:00 p.m. Then, the same happens the next day, and every day during filming, and that's my typical day.",
+    "formContent": [
+     {
+      "text": "Roger arrives at the film studio at",
+      "type": "item-gap",
+      "gapId": 9,
+      "gapSuffix": "a.m."
+     },
+     {
+      "text": "A woman does his",
+      "type": "item-gap",
+      "gapId": 10,
+      "gapSuffix": "after someone has brushed his hair."
+     },
+     {
+      "text": "Roger is playing a police",
+      "type": "item-gap",
+      "gapId": 11,
+      "gapSuffix": "in this new film."
+     },
+     {
+      "text": "Filming is delayed because the film",
+      "type": "item-gap",
+      "gapId": 12,
+      "gapSuffix": "is often late."
+     },
+     {
+      "text": "When filming ends, Roger puts on his usual",
+      "type": "item-gap",
+      "gapId": 13
+     },
+     {
+      "text": "Roger has",
+      "type": "item-gap",
+      "gapId": 14,
+      "gapSuffix": "after he gets home and sleeps early."
+     }
+    ],
+    "instruction": "You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. Write ONE WORD and/or A NUMBER for each answer.",
+    "questionRange": "9-14",
+    "answerHighlights": {
+     "9": [
+      2
+     ],
+     "10": [
+      3,
+      4
+     ],
+     "11": [
+      4
+     ],
+     "12": [
+      6
+     ],
+     "13": [
+      8
+     ],
+     "14": [
+      8
+     ]
+    }
+   },
+   {
+    "type": "matching-speakers",
+    "title": "Part 3",
+    "answers": {
+     "15": "C",
+     "16": "B",
+     "17": "D",
+     "18": "F",
+     "19": "E"
+    },
+    "options": [
+     {
+      "text": "I didn't enjoy using it.",
+      "letter": "A"
+     },
+     {
+      "text": "I made a mistake.",
+      "letter": "B"
+     },
+     {
+      "text": "It's an unwanted prize.",
+      "letter": "C"
+     },
+     {
+      "text": "It takes up too much space.",
+      "letter": "D"
+     },
+     {
+      "text": "I've got something better.",
+      "letter": "E"
+     },
+     {
+      "text": "I have health problems.",
+      "letter": "F"
+     }
+    ],
+    "speakers": [
+     {
+      "id": 15,
+      "label": "Speaker 1"
+     },
+     {
+      "id": 16,
+      "label": "Speaker 2"
+     },
+     {
+      "id": 17,
+      "label": "Speaker 3"
+     },
+     {
+      "id": 18,
+      "label": "Speaker 4"
+     },
+     {
+      "id": 19,
+      "label": "Speaker 5"
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test4/PART%203.m4a",
+    "partNumber": 3,
+    "transcript": "Exercise 24. You'll hear part of a radio program called Morning Market. Five listeners have telephoned the program because they have something to sell.\nSpeaker 1. I've got a brand new rowing machine. I won it, actually, about two months ago, and it's still in its box. It's got an electric timer on it, which tells you how much rowing you've done and all that. So anyone who's into exercise can do lots of rowing and keep fit and healthy. It folds up really small, so, you know, it won't take up too much space in like a bedroom or anything. I mean, I'll never use it because I was after the holiday, which was won by whoever came first in the competition. So I'm looking for around 45 pounds. And my number is, uh, 773.\nSpeaker 2. I've got a kidney shaped bath, a color soft cream for sale. It's still in its original packing case because I ordered the wrong color. You know, it didn't go with the rest of the bathroom suite I'd got. So I contacted, you know, the suppliers, who said they'll send me a replacement, at a price, of course, but I've now got to get rid of this one. It cost originally 175 pounds and I'm letting it go for 50 if anyone's interested. Okay. My numbers are 01723.\nSpeaker 3. I've got a real bargain. It's a Leburstein electric organ and it's got two keyboards and a rhythm section. Uh, it's in good condition, plays quite well, and it's not difficult to use or anything. But what with us having a baby on the way, it's got to make way for more essential items, as we've only got a tiny flat at the moment. So, uh, as I say, if anyone wants it, they can make me an offer. The only problem is, anyone interested would have to come and collect it. The number to ring is 672443.\nSpeaker 4. Hello, I've got a lady's cycle for sale. I've got back trouble and I've been advised not to ride it. So rather than be tempted, I'll get rid of it. I hate the idea because we're not well served with public transport out here, and I used it quite a lot. But as I daren't ride it anymore, I think it would be a mistake to hang onto it, you know, in case I had second thoughts. So, it's a Raleigh chopper, pink, and I'd like 35 pounds for it, please. I can be contacted on 0181.\nSpeaker 5. I've got two frying pans, you know, the sort for cooking stir frying, and a seven-piece tool set to go with them. All boxed and everything. Anyway, they've hardly been used because at one time I was intending to do a lot of this type of cooking because I've only got a small kitchenette like, no oven, but I've been given a microwave instead now. It's so much easier to use. So, that's 10 pounds for both pans and the tools, and my number is 01745.\nNow you'll hear part three again.\nSpeaker 1. I've got a brand new rowing machine. I won it, actually, about two months ago, and it's still in its box. It's got an electric timer on it, which tells you how much rowing you've done and all that. So anyone who's into exercise can do lots of rowing and keep fit and healthy. It folds up really small, so, you know, it won't take up too much space in like a bedroom or anything. I mean, I'll never use it because I was after the holiday, which was won by whoeever came first in the competition. So I'm looking for around 45 pounds. And my number is, uh, 773.\nSpeaker 2. I've got a kidney shaped bath, a color soft cream for sale. It's still in its original packing case because I ordered the wrong color. You know, it didn't go with the rest of the bathroom suite I'd got. So I contacted, you know, the suppliers, who said they'll send me a replacement, at a price, of course, but I've now got to get rid of this one. It cost originally 175 pounds and I'm letting it go for 50 if anyone's interested. Okay. My numbers are 01723.\nSpeaker 3. I've got a real bargain. It's a Leburstein electric organ and it's got two keyboards and a rhythm section. Uh, it's in good condition, plays quite well, and it's not difficult to use or anything. But what with us having a baby on the way, it's got to make way for more essential items, as we've only got a tiny flat at the moment. So, uh, as I say, if anyone wants it, they can make me an offer. The only problem is, anyone interested would have to come and collect it. The number to ring is 672443.\nSpeaker 4. Hello, I've got a lady's cycle for sale. I've got back trouble and I've been advised not to ride it. So rather than be tempted, I'll get rid of it. I hate the idea because we're not well served with public transport out here, and I used it quite a lot. But as I daren't ride it anymore, I think it would be a mistake to hang onto it, you know, in case I had second thoughts. So, it's a Raleigh chopper, pink, and I'd like 35 pounds for it, please. I can be contacted on 0181.\nSpeaker 5. I've got two frying pans, you know, the sort for cooking stir frying, and a seven-piece tool set to go with them. All boxed and everything. Anyway, they've hardly been used because at one time I was intending to do a lot of this type of cooking because I've only got a small kitchenette like, no oven, but I've been given a microwave instead now. It's so much easier to use. So, that's 10 pounds for both pans and the tools, and my number is 01745.",
+    "instruction": "You will hear part of a radio programme called Morning Market. Five listeners have telephoned the programme because they have something to sell. For questions 15-19, choose which of the statements (A-F) matches the reason each of the people gives for selling their possession. Use the letters only once. Use the letters only once. There is ONE EXTRA letter which you do not need to use.",
+    "questionRange": "15-19",
+    "answerHighlights": {
+     "15": [
+      1
+     ],
+     "16": [
+      2
+     ],
+     "17": [
+      3
+     ],
+     "18": [
+      4
+     ],
+     "19": [
+      5
+     ]
+    }
+   },
+   {
+    "type": "map-labeling",
+    "title": "Part 4",
+    "answers": {
+     "20": "C",
+     "21": "F",
+     "22": "B",
+     "23": "G",
+     "24": "E"
+    },
+    "mapImage": "https://audio.mock-stream.com/test4/Screenshot%202026-01-13%20204245.png",
+    "mapTitle": "Campus Map",
+    "audioFile": "https://audio.mock-stream.com/test4/PART%204.m4a",
+    "mapLabels": [
+     "A",
+     "B",
+     "C",
+     "D",
+     "E",
+     "F",
+     "G"
+    ],
+    "questions": [
+     {
+      "id": 20,
+      "place": "student center"
+     },
+     {
+      "id": 21,
+      "place": "police station"
+     },
+     {
+      "id": 22,
+      "place": "Victoria park"
+     },
+     {
+      "id": 23,
+      "place": "public library"
+     },
+     {
+      "id": 24,
+      "place": "park hotel"
+     }
+    ],
+    "partNumber": 4,
+    "transcript": "Exercise 24.\nI know many of you have traveled quite a long way to join us to continue your studies here in Shipsbury. So, you'll want to get acquainted with our town and find your way around, as Shipsbury will be your home for the next few months. Here in the student center, we're just across London Road from the college's main campus, right on the corner of the High Street. If you haven't done so already, you'll need to register with the police. Be sure to take your passports and your letter from the college with you, and present yourself at the police station, which is a block away from the college at the corner of Park Lane and Sheep Street. Be sure to check out Victoria Park, which is half a block east of the police station. The park extends to the north, past London Road and as far as Church Lane. You're likely to spend quite a bit of time in the public library, which is located on Park Lane, between the police station and the park. Just north of the public library is the Park Hotel. This is the finest hotel for miles around and does a very tasty, very traditional English tea on Sunday afternoons. You'll need to book ahead, and it's well worth the price.\nNow listen again.\nI know many of you have traveled quite a long way to join us to continue your studies here in Shipsbury. So, you'll want to get acquainted with our town and find your way around, as Shipsbury will be your home for the next few months. Here in the student center, we're just across London Road from the college's main campus, right on the corner of the High Street. If you haven't done so already, you'll need to register with the police. Be sure to take your passports and your letter from the college with you and present yourself at the police station, which is a block away from the college at the corner of Park Lane and Sheep Street. Be sure to check out Victoria Park, which is half a block east of the police station. The park extends to the north, past London Road and as far as Church Lane. You're likely to spend quite a bit of time in the public library, which is located on Park Lane, between the police station and the park. Just north of the public library is the Park Hotel. This is the finest hotel for miles around and does a very tasty, very traditional English tea on Sunday afternoons. You'll need to book ahead, and it's well worth the price.",
+    "instruction": "You will hear someone giving a talk. Label the places on the map. There is ONE extra option which you do not need to use.",
+    "questionRange": "20-24",
+    "answerHighlights": {
+     "20": [
+      1
+     ],
+     "21": [
+      1
+     ],
+     "22": [
+      1
+     ],
+     "23": [
+      1
+     ],
+     "24": [
+      1
+     ]
+    }
+   },
+   {
+    "type": "mcq-extracts",
+    "title": "Part 5",
+    "answers": {
+     "25": "C",
+     "26": "B",
+     "27": "C",
+     "28": "A",
+     "29": "B",
+     "30": "C"
+    },
+    "extracts": [
+     {
+      "title": "Extract One",
+      "questions": [
+       {
+        "id": 25,
+        "text": "Nina compares praising children to rock climbing because in both activities",
+        "options": [
+         {
+          "text": "time is needed to get it right.",
+          "letter": "A"
+         },
+         {
+          "text": "trust plays an important role.",
+          "letter": "B"
+         },
+         {
+          "text": "mistakes can have unwanted consequences.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 26,
+        "text": "What advice does Dan give parents about praising children?",
+        "options": [
+         {
+          "text": "Focus on praising effort rather than results.",
+          "letter": "A"
+         },
+         {
+          "text": "Explain the reason for giving praise.",
+          "letter": "B"
+         },
+         {
+          "text": "Include praising personal qualities.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Extract Two",
+      "questions": [
+       {
+        "id": 27,
+        "text": "Robert had been put off taking up golf until now because he believed",
+        "options": [
+         {
+          "text": "it was practiced only by a privileged few.",
+          "letter": "A"
+         },
+         {
+          "text": "it provided relatively little exercise.",
+          "letter": "B"
+         },
+         {
+          "text": "it was perceived as old-fashioned.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 28,
+        "text": "What do they agree they should do next?",
+        "options": [
+         {
+          "text": "take up an opportunity to find out about a venue",
+          "letter": "A"
+         },
+         {
+          "text": "get more information about golf from a colleague",
+          "letter": "B"
+         },
+         {
+          "text": "look into the expense involved in playing golf",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Extract Three",
+      "questions": [
+       {
+        "id": 29,
+        "text": "According to the man, what element do music festival organizers often overlook?",
+        "options": [
+         {
+          "text": "having good communication between sound engineers and bands",
+          "letter": "A"
+         },
+         {
+          "text": "designing the grounds so that the sound is enhanced",
+          "letter": "B"
+         },
+         {
+          "text": "ensuring all the equipment is of the highest quality",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 30,
+        "text": "How did the woman first find out that a local band was good?",
+        "options": [
+         {
+          "text": "Other musicians were recommending them.",
+          "letter": "A"
+         },
+         {
+          "text": "Everyone was talking about them in one of the cafés.",
+          "letter": "B"
+         },
+         {
+          "text": "The number of people listening to them was increasing.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test4/PART%205.m4a",
+    "partNumber": 5,
+    "transcript": "Narrator: Exercise 24.\nNarrator: Extract one. You hear two sociologists, Nina Havers and Dan Hernandez, discussing praising children. Now look at questions one and two.\nNarrator:\nNarrator:\nSpeaker 1: My view on giving praise to children is simple. Approach it in the same way you'd approach rock climbing, with great caution. One false move or word can be disastrous. A child may get the wrong message if you say, for example, that poor homework is wonderful. And as for a rock climber, well, if they are led to believe that they are accomplished sports people when they aren't, they may find themselves in difficulty and their confidence in themselves and their instructor could be severely damaged. However, unlike rock climbing, how to praise a child in an effective way takes only moments to grasp.\nSpeaker 2: I agree. And you hear so much what I call empty praise when parents look absent-mindedly at their child's painting and just say, \"Wonderful.\" It should always be followed up with because, for example, it's full of detail. Children have very different personalities, but I found this sort of praise is always effective, no matter whether the child is naturally self-assured or not. And when children have really worked hard at something, it's up to adults to make the praise meaningful.\nSpeaker 1: That's very true.\nNarrator:\nSpeaker 1: My view on giving praise to children is simple. Approach it in the same way you'd approach rock climbing, with great caution. One false move or word can be disastrous. A child may get the wrong message if you say, for example, that poor homework is wonderful. And as for a rock climber, well, if they are led to believe that they are accomplished sports people when they aren't, they may find themselves in difficulty and their confidence in themselves and their instructor could be severely damaged. However, unlike rock climbing, how to praise a child in an effective way takes only moments to grasp.\nSpeaker 2: I agree. And you hear so much what I call empty praise, when parents look absent-mindedly at their child's painting and just say, \"Wonderful.\" It should always be followed up with because, for example, it's full of detail. Children have very different personalities, but I found this sort of praise is always effective, no matter whether the child is naturally self-assured or not. And when children have really worked hard at something, it's up to adults to make the praise meaningful.\nSpeaker 1: That's very true.\nNarrator: Extract two. You hear two friends, Martha and Robert, discussing golf. Now look at questions three and four.\nNarrator:\nSpeaker 1: Hi, Robert. Are you still thinking about taking up golf?\nSpeaker 2: Hi, Martha. Yes. And the more I think about it, the keener I am on the idea. I know it gives you a good workout, and I really need that because in my job I sit in front of a screen all day long. But I'd always thought of golf as kind of dated, you know, not cool. My uncle used to play at a very exclusive golf club and had to wear what I thought were ridiculous clothes to play in. Perhaps that's where I got my prejudiced ideas from.\nSpeaker 1: Probably. Well, I'm up for it if you are. I don't have a lot of extra cash to splash out though.\nSpeaker 2: You wouldn't need to if we joined the city golf club. I know what you mean though. Some private golf clubs can be pricey. I'll ask a guy I know at work about the city club. He's a golfer.\nSpeaker 1: Actually, they're having an open day when potential members can go along. I saw a poster somewhere. We could check it out then. Interested?\nSpeaker 2: You bet.\nNarrator:\nSpeaker 1: Hi, Robert. Are you still thinking about taking up golf?\nSpeaker 2: Hi, Martha. Yes. And the more I think about it, the keener I am on the idea. I know it gives you a good workout, and I really need that because in my job, I sit in front of a screen all day long. But I'd always thought of golf as kind of dated, you know, not cool. My uncle used to play at a very exclusive golf club and had to wear what I thought were ridiculous clothes to play in. Perhaps that's where I got my prejudiced ideas from.\nSpeaker 1: Probably. Well, I'm up for it if you are. I don't have a lot of extra cash to splash out though.\nSpeaker 2: You wouldn't need to if we joined the city golf club. I know what you mean though. Some private golf clubs can be pricey. I'll ask a guy I know at work about the city club. He's a golfer.\nSpeaker 1: Actually, they're having an open day when potential members can go along. I saw a poster somewhere. We could check it out then. Interested?\nSpeaker 2: You bet.\nNarrator: Extract three. You hear two friends talking about a summer music festival they have just been to. Now look at questions five and six.\nNarrator:\nSpeaker 1: That was the best festival ever. I mean, the lineup of bands was awesome, sure, but it was the organization as well that was first class.\nSpeaker 2: I've never been to a festival where the sound was so good. Do you think it was because they'd invested in the best sound system?\nSpeaker 1: I think that's a given at a music festival. Well, the best they can afford. What I noticed was the layout of the whole area. That had been landscaped to get the best acoustics. The importance of that often seems to be ignored or perhaps forgotten. I also liked the way the sound engineers checked everything and wouldn't let the band start until they were happy that everything was okay.\nSpeaker 2: That local band held their own against some big international names.\nSpeaker 1: Yeah, I didn't know anything about them until I heard someone chatting about them while I was getting coffee.\nSpeaker 2: And I only realized they were worth seeing when I went to the stage where they were playing and a huge crowd was gathering. I was so pleased for them, especially when one of the big names later said how great they were.\nNarrator:\nSpeaker 1: That was the best festival ever. I mean, the lineup of bands was awesome, sure, but it was the organization as well that was first class.\nSpeaker 2: I've never been to a festival where the sound was so good. Do you think it was because they'd invested in the best sound system?\nSpeaker 1: I think that's a given at a music festival. Well, the best they can afford. What I noticed was the layout of the whole area. That had been landscaped to get the best acoustics. The importance of that often seems to be ignored or perhaps forgotten. I also liked the way the sound engineers checked everything and wouldn't let the band start until they were happy that everything was okay.\nSpeaker 2: That local band held their own against some big international names.\nSpeaker 1: Yeah, I didn't know anything about them until I heard someone chatting about them while I was getting coffee.\nSpeaker 2: And I only realized they were worth seeing when I went to the stage where they were playing and a huge crowd was gathering. I was so pleased for them, especially when one of the big names later said how great they were.",
+    "instruction": "You will hear three extracts. Choose the correct answer (A, B or C) for each question. There are TWO questions for each extract. Mark your answers on the answer sheet.",
+    "questionRange": "25-30",
+    "answerHighlights": {
+     "25": [
+      5
+     ],
+     "26": [
+      5
+     ],
+     "27": [
+      14
+     ],
+     "28": [
+      14
+     ],
+     "29": [
+      16
+     ],
+     "30": [
+      33
+     ]
+    }
+   },
+   {
+    "type": "sentence-completion",
+    "title": "Part 6",
+    "answers": {
+     "31": [
+      "21",
+      "twenty-one",
+      "twentyone"
+     ],
+     "32": [
+      "wind",
+      "Wind",
+      "WIND"
+     ],
+     "33": [
+      "shoulders",
+      "Shoulders",
+      "SHOULDERS"
+     ],
+     "34": [
+      "smell",
+      "Smell",
+      "SMELL"
+     ],
+     "35": [
+      "mice",
+      "Mice",
+      "MICE"
+     ],
+     "36": [
+      "feather",
+      "Feather",
+      "FEATHER",
+      "feathers",
+      "Feathers"
+     ]
+    },
+    "audioFile": "https://audio.mock-stream.com/test4/PART%206.m4a",
+    "questions": [
+     {
+      "id": 31,
+      "hint": "total of ____ species"
+     },
+     {
+      "id": 32,
+      "hint": "relies on ____"
+     },
+     {
+      "id": 33,
+      "hint": "in its ____"
+     },
+     {
+      "id": 34,
+      "hint": "sense of ____"
+     },
+     {
+      "id": 35,
+      "hint": "____ attack nests"
+     },
+     {
+      "id": 36,
+      "hint": "for its ____"
+     }
+    ],
+    "partNumber": 6,
+    "transcript": "Exercise 24. You'll hear a student called Tim Farnham giving a class presentation about a seabird called the Albatross.\nHi, my name's Tim, and the topic of my presentation is a seabird called the Albatross. It's the largest seabird, and it's always been a great favorite with sailors. It's also well known because it features in a famous English poem. The word Albatross came into the English language via the Portuguese word Alcatraz, that was used for similar birds called Gannets. The famous American prison Island was also named after them. But the real origin of the word is thought to be Arabic, where it means diver. There's lots of different species of Albatross, and scientists are always arguing about exactly how many. Over the years, estimates have varied from 13 to as many as 80. Nowadays, a figure of 21 is widely accepted, with 19 of those identified as being in danger of extinction. The Albatross is mostly found in the southern hemisphere, and there's none in the North Atlantic. The bird travels long distances in search of its food, fish and squid mostly, and depends on the wind to a great extent. That's why you rarely find them in tropical areas where long periods of calm are common. The Albatross manages to cover such long distances by conserving energy. Apart from takeoff and landing, it rarely flaps its huge wings, and actually there's a locking mechanism in its shoulder that keeps the wings in place as it glides through the air. As you'd expect, the bird's got good eyesight and will swoop down when it sees signs of food near the surface of the water. What I didn't expect to find, however, was that it can also detect the smell of its food. This explains why it follows fishing boats that use dead fish as bait. Indeed, one of the reasons the albatross is such an endangered bird is that it tends to get caught up in fishing nets. Another reason the Albatross faces extinction is it takes a long time to reproduce. The bird can live for 60 years and only starts breeding from the age of five. Even then, each pair of birds only produces one egg per year. They build nests on remote uninhabited islands because animals like rats, which arrive at the same time as humans, will eat the eggs and predictably cats will kill the chicks. Apparently, even little mice can be a problem at nest sites, which is incredible. And, of course, the Albatross has always been killed by people. Sailors used to eat them, and at one time their feathers were highly valued, which was actually the main reason. Even the bird's bones were used in certain ceremonies by local populations, though that wasn't on a big scale. These days, plastic is the biggest enemy, and there's tons of it in the sea. Eating plastic doesn't in itself kill an albatross, but it tends to stay in the stomach and so cut down the amount of food the bird can digest, which then weakens it. Some dead birds have even been found with weird things like plastic cigarette lighters and toy soldiers in their stomachs, as well as the all too common bottle caps. There must be a way of stopping those getting into the sea. Anyway, before I go on to talk about the next\nHi, my name's Tim and the topic of my presentation is a seabird called the Albatross. It's the largest sea bird and it's always been a great favorite with sailors. It's also well known because it features in a famous English poem. The word Albatross came into the English language via the Portuguese word Alcatraz that was used for similar birds called Gannets. The famous American prison Island was also named after them. But the real origin of the word is thought to be Arabic where it means diver. There's lots of different species of albatross and scientists are always arguing about exactly how many. Over the years estimates have varied from 13 to as many as 80. Nowadays, a figure of 21 is widely accepted with 19 of those identified as being in danger of extinction. The albatross is mostly found in the southern hemisphere and there's none in the North Atlantic. The bird travels long distances in search of its food, fish and squid mostly, and depends on the wind to a great extent. That's why you rarely find them in tropical areas where long periods of calm are common. The albatross manages to cover such long distances by conserving energy. Apart from takeoff and landing it rarely flaps its huge wings, and actually there's a locking mechanism in its shoulder that keeps the wings in place as it glides through the air. As you'd expect, the bird's got good eyesight and will swoop down when it sees signs of food near the surface of the water. what I didn't expect to find however, was that it can also detect the smell of its food. This explains why it follows fishing boats that use dead fish as bait. Indeed, one of the reasons the Albatross is such an endangered bird is that it tends to get caught up in fishing nets. Another reason the Albatross faces extinction is it takes a long time to reproduce. The bird can live for 60 years and only starts breeding from the age of five. Even then, each pair of birds only produces one egg per year. They build nests on remote uninhabited islands because animals like rats, which arrive at the same time as humans, will eat the eggs and predictably cats will kill the chicks. Apparently\n\neven little mice can be a problem at nest sites which is incredible. And of course the Albatross has always been killed by people. Sailors used to eat them and at one time their feathers were highly valued, which was actually the main reason. Even the bird's bones were used in certain ceremonies by local populations, though that wasn't on a big scale. These days, plastic is the biggest enemy and there's tons of it in the sea. Eating plastic doesn't in itself kill an albatross, but it tends to stay in the stomach and so cut down the amount of food the bird can digest which then weakens it. Some dead birds have even been found with weird things like plastic cigarette lighters and toy soldiers in their stomachs as well as the all too common bottle caps. There must be a way of stopping those getting into the sea. Anyway, before I go on to talk about the next",
+    "instruction": "You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. Write ONE WORD and/or A NUMBER for each answer.",
+    "passageTitle": "The Albatross",
+    "questionRange": "31-36",
+    "passageContent": "Tim thinks that the name 'albatross' comes originally from a word in the Arabic language. There are currently though to be a total of <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span> species of albatross.<br><br>The fact that it relies on <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span> explains why the albatross isn't found in some areas.<br><br>By using a locking mechanism in its <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span>, the albatross can save energy when flying.<br><br>Tim explains that the albatross has a surprisingly good sense of <span class=\"gap-input\" data-gap=\"34\">_____(34)_____</span>.<br><br>Tim was surprised to discover that <span class=\"gap-input\" data-gap=\"35\">_____(35)_____</span> attack albatross nests.<br><br>The albatross used to be hunted mostly for its <span class=\"gap-input\" data-gap=\"36\">_____(36)_____</span> as well as for food.<br><br>Tim gives the example of bottle caps as plastic objects commonly eaten by albatrosses.",
+    "answerHighlights": {
+     "31": [
+      1
+     ],
+     "32": [
+      1
+     ],
+     "33": [
+      1
+     ],
+     "34": [
+      1
+     ],
+     "35": [
+      1
+     ],
+     "36": [
+      1
+     ]
+    }
+   }
+  ],
+  "examDate": "2026-01-28",
+  "testInfo": {
+   "id": "cefr-listening-04",
+   "level": "B2",
+   "title": "CEFR Listening Mock Test 04",
+   "totalTime": 40,
+   "totalQuestions": 36
+  }
+ },
+ "created_at": "2026-05-15T15:18:54.016443+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

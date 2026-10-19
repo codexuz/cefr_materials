@@ -1,0 +1,505 @@
+{
+ "id": 121,
+ "mock_type": "ielts-writing",
+ "mock_number": 12,
+ "title": "IELTS Writing Mock 12",
+ "status": "published",
+ "mock_data": {
+  "tasks": {
+   "task1": {
+    "title": "Australian students studying abroad",
+    "prompt": "The table below shows the number of Australian students studying abroad from 2004 to 2006.",
+    "wordGoal": 150,
+    "chartDesc": {
+     "title": "The number of Australian students studying aborad, 2004-2006",
+     "xAxis": "Countries (USA, New Zealand, UK, Germany, Japan)",
+     "yAxis": "number of students",
+     "period": "2004-2006",
+     "series": [
+      {
+       "name": "2004",
+       "points": [
+        {
+         "at": "USA",
+         "value": 2600
+        },
+        {
+         "at": "New Zealand",
+         "value": 2550
+        },
+        {
+         "at": "UK",
+         "value": 1500
+        },
+        {
+         "at": "Germany",
+         "value": 180
+        },
+        {
+         "at": "Japan",
+         "value": 200
+        }
+       ]
+      },
+      {
+       "name": "2005",
+       "points": [
+        {
+         "at": "USA",
+         "value": 2750
+        },
+        {
+         "at": "New Zealand",
+         "value": 2600
+        },
+        {
+         "at": "UK",
+         "value": 1600
+        },
+        {
+         "at": "Germany",
+         "value": 150
+        },
+        {
+         "at": "Japan",
+         "value": 150
+        }
+       ]
+      },
+      {
+       "name": "2006",
+       "points": [
+        {
+         "at": "USA",
+         "value": 2900
+        },
+        {
+         "at": "New Zealand",
+         "value": 2700
+        },
+        {
+         "at": "UK",
+         "value": 1600
+        },
+        {
+         "at": "Germany",
+         "value": 200
+        },
+        {
+         "at": "Japan",
+         "value": 190
+        }
+       ]
+      }
+     ],
+     "overview": "The USA and New Zealand were by far the most popular destinations for Australian students studying abroad, with numbers in both countries and the UK increasing over the three-year period, while Germany and Japan hosted significantly fewer students.",
+     "chartType": "bar chart",
+     "confidence": "medium",
+     "unreadable": [
+      "Exact numerical labels are not printed above the bars, requiring estimations based on the y-axis grid lines."
+     ],
+     "keyFeatures": [
+      "USA saw the highest number of Australian students, rising from approximately 2,600 in 2004 to nearly 2,900 in 2006.",
+      "New Zealand was the second most popular destination, increasing from around 2,550 in 2004 to 2,700 in 2006.",
+      "UK was third, standing at 1,500 in 2004 and rising slightly to 1,600 in both 2005 and 2006.",
+      "Germany and Japan had the lowest student figures, both remaining under 250 students throughout the period."
+     ]
+    },
+    "chartType": "table",
+    "dataNature": "dynamic",
+    "instruction": "Summarise the information by selecting and reporting the main features, and make comparison where relevant.",
+    "sampleBand5": "<p>The table shows the number of Australian students that studied abroad <mark>between 2004 and 2006</mark>. It shows information about their destinations.</p>\n<p>Overall, the number of students going to Asia increased, but other places <mark>were quite similar</mark>. The most popular place to study was the UK.</p>\n<p>In 2004, 6540 students went to the UK. This number <mark>went down a bit</mark> to 6490 in 2005, and then went up again to 6620 in 2006. The USA was also popular with 4530 students in 2004, 4400 in 2005, and 4280 in 2006. The number of students going to Asia increased. In 2004, 2970 students went to Asia, then 3210 in 2005, and 3540 in 2006. <mark>Other places didn't change very much</mark>. Europe had 3120, 3090, and 3180 students over the three years.</p>\n<p>So, more students went to Asia, and the UK was the most popular.</p>",
+    "sampleBand6": "<p>The table shows the number of Australian students who studied abroad <mark>between 2004 and 2006</mark>. It gives information about the total number of students and also the <mark>most popular destinations</mark> for study.</p>\n<p>Overall, the number of students <mark>increased slightly</mark> over the three years. The United States was the most popular destination in each year, although its numbers fluctuated. The United Kingdom was also a popular place to study. </p>\n<p>In 2004, 18,525 Australian students studied abroad. Of these, 4,853 went to the United States and 4,280 went to the United Kingdom. In 2005, the total number of students studying abroad rose to 19,400. The number going to the United States decreased to 4,780, but the number going to the United Kingdom <mark>remained relatively stable</mark> at 4,270. By 2006, the total had increased again to 20,950. The number of students in the United States <mark>saw an increase</mark> to 5,140, and the United Kingdom also saw a rise to 4,650.</p>",
+    "sampleBand7": "<p>The table <mark>illustrates the distribution</mark> of Australian students undertaking overseas studies between 2004 and 2006.</p>\n\n<p>Overall, the total number of students studying abroad <mark>experienced a steady increase</mark> during the period. The most popular destination was the USA, while other countries attracted significantly fewer students. Despite fluctuations, Asia remained a consistently favoured region.</p>\n\n<p>In 2004, 25,123 students studied abroad, rising to 26,544 in 2005 and reaching 27,876 in 2006. The USA <mark>accounted for the largest proportion</mark> of students, with 11,576 in 2004, increasing to 12,345 in 2006. In contrast, the UK hosted 5,432 students in 2004, which then <mark>saw a slight dip</mark> to 5,211 in 2005 before recovering to 5,555 in 06. New Zealand remained relatively stable, with around 2,500 students each year.</p>\n\n<p>Asia, encompassing countries other than those specified, had 5,567 students in 2004. This figure <mark>fluctuated slightly</mark>, decreasing to 5,432 in 2005, but rose again to 5,789 in 2006. Other destinations <mark>represented a comparatively small number</mark> of students, ranging from 300 to just over 400 throughout the three years.</p>",
+    "sampleBand8": "<p>The table <mark>elucidates the distribution of</mark> Australian students pursuing education abroad across various destinations from 2004 to 2006. A general overview reveals that the United States was the most favored destination, followed by the United Kingdom, while other countries collectively accounted for a smaller proportion.</p>\n\n<p>Specifically, the number of Australian students in the US <mark>exhibited a fluctuating trend</mark>, commencing at 6,120 in 2004, dipping to 5,870 in 2005, before <mark>rebounding to</mark> 6,210 in 2006. The UK, conversely, witnessed a consistent decline, starting with 4,580 students in 2004 and <mark>tapering off to</mark> 4,230 by 2006. This suggests a possible shift in student preferences or policy changes impacting student mobility.</p>\n\n<p>In contrast to the individual figures for the US and UK, the aggregate number of students studying in all other countries remained relatively stable. The figures were 3,040, 3,110, and 3,090 for 2004, 2005, and 2006 respectively, indicating a <mark>sustained, albeit modest</mark>, interest in diverse international study locations. <mark>It is worth noting that</mark> the US consistently hosted approximately double the number of Australian students compared to the UK, <mark>underscoring its prominence</mark> as a study destination. The data <mark>further suggests a degree of volatility</mark> in student choices, particularly noticeable in the US numbers, while other destinations maintained a more predictable pattern.</p>",
+    "sampleBand9": "<p>The table <mark>elucidates the distribution</mark> of Australian students undertaking overseas studies across various destinations between 2004 and 2006. <mark>A cursory glance reveals</mark> a general upward trend in the number of students studying abroad, with the United States and the United Kingdom being the most favoured locations.</p>\n\n<p>In 2004, the United States attracted the largest cohort of Australian students, numbering 7,543. This figure <mark>witnessed a marginal increase</mark> to 7,854 by 2006. The United Kingdom was the second most popular choice, with 6,980 students in 2004, escalating to 7,234 in 2006. New Zealand also saw a rise in student numbers, from 3,214 in 2004 to 3,567 in 2006.</p>\n\n<p>Conversely, other countries experienced fluctuating student populations. Canada's numbers <mark>underwent a slight dip</mark> from 2,134 in 2004 to 2,012 in 2005, before recovering to 2,245 in 2006. Similarly, Germany initially saw an increase from 1,023 to 1,156 between 2004 and 2005, but then experienced a decrease to 987 in 2006. France remained relatively stable, <mark>hovering around</mark> the 800 mark throughout the period. <mark>Of particular note</mark> is the category 'Other Countries,' which, while starting at 3,456 in 2004, <mark>experienced a substantial surge</mark> to 4,012 by 2006, suggesting a <mark>diversification of educational pursuits</mark> beyond the traditionally popular destinations. <mark>Overall, while the US and UK remained dominant</mark>, the data indicates a growing interest in exploring educational opportunities in a wider array of countries.</p>",
+    "timeMinutes": 20,
+    "chartDescImg": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/12.png",
+    "sampleAnswer": "The table provides data on the number of Australian students who pursued their studies in various foreign countries over a three-year period from 2004 to 2006. Overall, the USA and UK were the most popular destinations, while Japan attracted the fewest students. Most destinations saw an increase in student numbers, with a few notable exceptions.\n\nIn 2004, the USA was the leading destination with 10,500 Australian students, a figure that rose steadily to 11,200 by 2006. The UK followed closely, starting with 9,800 students and increasing to 10,500 over the same period. Germany also saw growth, albeit more modest, from 3,200 to 3,800 students.\n\nConversely, France experienced a slight decline, with numbers dropping from 4,500 in 2004 to 4,200 in 2006. China showed steady growth from 2,100 to 2,800, reflecting its increasing appeal as a study destination. Japan, while the least popular choice, saw a small increase from 1,500 to 1,700 students. By 2006, the total number of Australians studying in these six countries had increased compared to 2004.",
+    "chartImageUrl": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/12.png",
+    "uzSampleBand5": "<p>Jadvalda <mark>2004 yildan 2006 yilgacha bo'lgan davrda</mark> chet elda o'qigan avstraliyalik talabalar soni ko'rsatilgan. Unda ularning boradigan joylari haqida ma'lumot berilgan.</p>\n<p>Umuman olganda, Osiyoga boradigan talabalar soni oshdi, lekin boshqa joylar <mark>deyarli bir xil edi</mark>. O'qish uchun eng mashhur joy Buyuk Britaniya edi.</p>\n<p>2004 yilda 6540 nafar talaba Buyuk Britaniyaga borgan. Bu raqam 2005 yilda 6490 ga <mark>bir oz kamaydi</mark>, keyin 2006 yilda yana 6620 ga ko'tarildi. AQSh ham mashhur bo'lib, 2004 yilda 4530 talaba, 2005 yilda 4400 talaba va 2006 yilda 4280 talaba borgan. Osiyoga boradigan talabalar soni oshdi. 2004 yilda 2970 talaba Osiyoga borgan, keyin 2005 yilda 3210 talaba va 2006 yilda 3540 talaba borgan. <mark>Boshqa joylar unchalik o'zgarmadi</mark>. Yevropada uch yil davomida 3120, 3090 va 3180 talaba bo'lgan.</p>\n<p>Demak, Osiyoga ko'proq talabalar borgan va Buyuk Britaniya eng mashhuri bo'lgan.</p>",
+    "uzSampleBand6": "<p>Jadvalda <mark>2004 va 2006-yillar oralig'ida</mark> chet elda o'qigan avstraliyalik talabalar soni ko'rsatilgan. Unda talabalarning umumiy soni, shuningdek, o'qish uchun <mark>eng mashhur yo'nalishlar</mark> haqida ma'lumot berilgan.</p>\n<p>Umuman olganda, talabalar soni uch yil ichida <mark>biroz oshdi</mark>. Amerika Qo'shma Shtatlari har yili eng mashhur yo'nalish bo'lgan, ammo uning sonlari o'zgarib turgan. Buyuk Britaniya ham o'qish uchun mashhur joy edi.</p>\n<p>2004-yilda 18 525 nafar avstraliyalik talaba chet elda o'qigan. Ulardan 4 853 nafari Amerika Qo'shma Shtatlariga va 4 280 nafari Buyuk Britaniyaga borgan. 2005-yilda chet elda o'qiyotgan talabalarning umumiy soni 19 400 nafarga yetdi. Amerika Qo'shma Shtatlariga borayotganlar soni 4 780 nafarga kamaydi, ammo Buyuk Britaniyaga borayotganlar soni <mark>nisbatan barqaror qoldi</mark>, 4 270 nafarni tashkil etdi. 2006-yilga kelib, umumiy son yana 20 950 nafarga ko'paydi. Amerika Qo'shma Shtatlaridagi talabalar soni <mark>o'sishni ko'rdi</mark> va 5 140 nafarga yetdi, Buyuk Britaniyada ham o'sish kuzatildi va 4 650 nafarni tashkil etdi.</p>",
+    "uzSampleBand7": "<p>Jadval 2004 yildan 2006 yilgacha bo'lgan davrda chet elda o'qiyotgan avstraliyalik talabalarning <mark>taqsimotini ko'rsatadi</mark>.</p>\n\n<p>Umuman olganda, chet elda o'qiyotgan talabalarning umumiy soni <mark>davr mobaynida barqaror o'sishni boshdan kechirdi</mark>. Eng mashhur yo'nalish AQSh bo'lgan bo'lsa, boshqa mamlakatlar sezilarli darajada kamroq talabalarni jalb qildi. O'zgarishlarga qaramay, Osiyo doimiy ravishda afzal ko'rilgan mintaqa bo'lib qoldi.</p>\n\n<p>2004 yilda 25 123 nafar talaba chet elda o'qigan bo'lsa, 2005 yilda 26 544 nafarga va 2006 yilda 27 876 nafarga yetdi. AQSh talabalarning <mark>eng katta qismini tashkil etdi</mark>, 2004 yilda 11 576 nafardan 2006 yilda 12 345 nafargacha ko'paydi. Aksincha, Buyuk Britaniya 2004 yilda 5 432 nafar talabani qabul qildi, keyin 2005 yilda 5 211 nafargacha <mark>biroz pasayishni ko'rdi</mark>, 06 yilda esa 5 555 nafargacha tiklandi. Yangi Zelandiya har yili taxminan 2500 talaba bilan nisbatan barqaror bo'lib qoldi.</p>\n\n<p>Osiyo, ko'rsatilganlardan boshqa mamlakatlarni o'z ichiga olgan holda, 2004 yilda 5 567 nafar talabaga ega edi. Bu raqam <mark>biroz o'zgarib turdi</mark>, 2005 yilda 5 432 nafarga kamaydi, lekin 2006 yilda yana 5 789 nafarga ko'tarildi. Boshqa yo'nalishlar <mark>taqqoslaganda kamroq sonli</mark> talabalarni ifodaladi, ular uch yil davomida 300 dan sal ko'proq 400 gacha bo'lgan.</p>",
+    "uzSampleBand8": "<p>Jadval 2004 yildan 2006 yilgacha bo'lgan davrda turli yo'nalishlarda ta'lim olayotgan avstraliyalik talabalarning <mark>taqsimotini yoritib beradi</mark>. Umumiy nuqtai nazardan shuni ko'rish mumkinki, Amerika Qo'shma Shtatlari eng mashhur yo'nalish bo'lgan, undan keyin Buyuk Britaniya turgan, boshqa mamlakatlar esa birgalikda kichikroq qismni tashkil qilgan.</p>\n\n<p>Xususan, AQShdagi avstraliyalik talabalar soni <mark>o'zgaruvchan tendentsiyani namoyish etdi</mark>, 2004 yilda 6120 tadan boshlanib, 2005 yilda 5870 taga tushdi, keyin esa 2006 yilda <mark>qayta tiklanib</mark> 6210 taga yetdi. Buyuk Britaniya, aksincha, doimiy pasayishni kuzatdi, 2004 yilda 4580 talabadan boshlanib, 2006 yilga kelib <mark>4230 taga kamaydi</mark>. Bu talabalar preferentsiyalarida o'zgarish yoki talabalar harakatlanishiga ta'sir qiluvchi siyosat o'zgarishlarini ko'rsatishi mumkin.</p>\n\n<p>AQSh va Buyuk Britaniya uchun individual ko'rsatkichlardan farqli o'laroq, boshqa barcha mamlakatlarda ta'lim olayotgan talabalarning umumiy soni nisbatan barqaror bo'lib qoldi. Ko'rsatkichlar 2004 yil uchun 3040, 2005 yil uchun 3110 va 2006 yil uchun 3090 ni tashkil etdi, bu turli xalqaro o'qish joylariga <mark>doimiy, ammo kamtarona</mark> qiziqishni ko'rsatadi. <mark>Shuni ta'kidlash joizki</mark>, AQSh doimiy ravishda Buyuk Britaniyaga nisbatan taxminan ikki barobar ko'p avstraliyalik talabalarni qabul qilgan, bu uning o'qish joyi sifatida <mark>ustunligini ta'kidlaydi</mark>. Ma'lumotlar, shuningdek, talabalar tanlovida <mark>ma'lum bir beqarorlik darajasini</mark> ko'rsatadi, bu ayniqsa AQSh raqamlarida seziladi, boshqa yo'nalishlar esa ancha bashorat qilinadigan namunani saqlab qoldi.</p>",
+    "uzSampleBand9": "<p>Jadval 2004 yildan 2006 yilgacha bo'lgan davrda turli mamlakatlarda xorijiy ta'lim olayotgan avstraliyalik talabalarning <mark>taqsimotini yoritib beradi</mark>. <mark>Yuzaki nazar tashlasak</mark>, xorijda ta'lim olayotgan talabalar sonining umumiy o'sish tendentsiyasini ko'rishimiz mumkin, bunda Amerika Qo'shma Shtatlari va Buyuk Britaniya eng ko'p afzal ko'rilgan joylardir.</p>\n\n<p>2004 yilda Amerika Qo'shma Shtatlari eng ko'p avstraliyalik talabalarni o'ziga jalb qildi, ularning soni 7,543 nafarni tashkil etdi. Ushbu ko'rsatkich 2006 yilga kelib <mark>biroz o'sishni kuzatdi</mark> va 7,854 nafarga yetdi. Buyuk Britaniya ikkinchi eng mashhur tanlov bo'lib, 2004 yilda 6,980 talaba bo'lgan bo'lsa, 2006 yilda 7,234 nafarga ko'tarildi. Yangi Zelandiya ham talabalar sonining o'sishini kuzatdi, 2004 yilda 3,214 nafardan 2006 yilda 3,567 nafargacha.</p>\n\n<p>Aksincha, boshqa mamlakatlar talabalar sonining o'zgarishini boshdan kechirdi. Kanadada 2004 yilda 2,134 nafardan 2005 yilda 2,012 nafargacha <mark>biroz pasayish kuzatildi</mark>, so'ngra 2006 yilda 2,245 nafargacha tiklandi. Xuddi shunday, Germaniya dastlab 2004 yildan 2005 yilgacha 1,023 nafardan 1,156 nafargacha o'sishni ko'rdi, ammo keyin 2006 yilda 987 nafargacha kamaydi. Frantsiya nisbatan barqaror bo'lib, butun davr davomida 800 atrofida <mark>o'zgarib turdi</mark>. <mark>Shuni alohida ta'kidlash joizki</mark>, \"Boshqa mamlakatlar\" toifasi, 2004 yilda 3,456 nafardan boshlangan bo'lsa-da, 2006 yilga kelib 4,012 nafargacha <mark>sezilarli o'sishni boshdan kechirdi</mark>, bu an'anaviy mashhur joylardan tashqari <mark>ta'lim sohasidagi qiziqishlarning diversifikatsiyasini</mark> ko'rsatadi. <mark>Umuman olganda, AQSh va Buyuk Britaniya ustun bo'lib qolsa-da</mark>, ma'lumotlar mamlakatlarning kengroq doirasida ta'lim olish imkoniyatlarini o'rganishga qiziqish ortib borayotganini ko'rsatadi.</p>",
+    "chartDescSource": "extracted-verified-2026-08-05"
+   },
+   "task2": {
+    "title": "Advertising unnecessary products",
+    "prompt": "Some people say that the main of advertising is to improve the sales of products that people do not really need. To what extent do you agree or disagree?",
+    "wordGoal": 250,
+    "essayType": "opinion",
+    "instruction": "To what extent do you agree or disagree?",
+    "sampleBand5": "<p>Advertising is everywhere today. It can be on TV, on the internet, and even on the street. Some people think that advertising is mainly about selling things that people don't really need. I agree with this <mark>to some extent</mark>.</p>\n\n<p>On the one hand, advertising can be useful. It can tell people about new products that might help them. For example, if there is a new type of washing machine that uses less energy, advertising can let people know about it. This could help people save money and <mark>be more friendly to the environment</mark>. Also, advertising can create jobs for people who work in advertising companies.</p>\n\n<p>However, I think that advertising is often used to persuade people to buy things they don't need. Companies want to make money, so they will try to sell as many products as possible. They might use clever techniques to make people think that they need something, even if they don't. For example, a company might advertise a new type of snack food that is full of sugar and unhealthy ingredients. They might use <mark>attractive images</mark> and catchy slogans to make people want to buy it. Children are especially <mark>easily affected</mark> by this kind of advertising.</p>\n\n<p>In conclusion, while advertising can have some benefits, I think that the main purpose is often to sell products that people don't really need. Companies should be more responsible in their advertising and not try to <mark>trick people into buying things</mark> that they don't want or need. </p>",
+    "sampleBand6": "<p>Advertising is a big part of modern life. Some people believe <mark>the primary goal</mark> is to sell products that people don't really need. I partly agree with this view, but I also think advertising has other functions.</p>\n\n<p>On the one hand, it is true that advertising often tries to convince people to buy things they can live without. Companies use clever techniques, like <mark>appealing to our emotions</mark> or creating a sense of desire, to make us want their products. For example, advertisements for the latest smartphones often focus on the lifestyle benefits, rather than the actual features of the phone. This can lead people to make <mark>unnecessary purchases</mark>, which they might later regret. <mark>This is especially true</mark> for children, who are more easily influenced by advertising.</p>\n\n<p>However, advertising also plays a role in informing consumers about new products and services. It can help us to make better choices by providing us with information about different options. <mark>For instance</mark>, advertisements for energy-efficient appliances can raise awareness about environmental issues and encourage people to buy products that are better for the planet. Furthermore, advertising supports the media, as it provides revenue for newspapers, television, and websites. Without advertising, these media outlets would struggle to survive.</p>\n\n<p>In conclusion, while I agree that advertising can be used to persuade people to buy things they do not need, I also believe that it has other important functions. It can inform consumers, support the media, and even promote positive social change. <mark>It is therefore important</mark> to view advertising with a critical eye and to be aware of its potential influence on our purchasing decisions.</p>",
+    "sampleBand7": "<p>It is often argued that advertising primarily serves to boost sales of unnecessary products. While I acknowledge that advertising can be manipulative and encourage consumerism, I disagree with the assertion that its sole purpose is to sell superfluous items. I believe advertising plays a more complex and multifaceted role in modern society.</p>\n\n<p>Undoubtedly, advertising can <mark>exacerbate consumerism</mark>. Companies spend vast sums of money creating advertisements designed to make people desire products they may not actually need. Through clever marketing techniques, they can convince individuals that owning a particular item will improve their social status or overall happiness. This is particularly true in the case of luxury goods and fashion items, where advertising often <mark>taps into insecurities</mark> and aspirations. A potential downside is that it can lead to debt and financial instability for some individuals, as they strive to keep up with perceived societal expectations. This aspect of advertising can be considered detrimental.</p>\n\n<p>However, advertising also provides valuable information to consumers. It informs people about new products and services, allowing them to make informed choices about what they purchase. For example, advertisements for energy-efficient appliances can raise awareness about environmental issues and encourage people to <mark>adopt sustainable practices</mark>. Furthermore, advertising supports the economy by driving competition and innovation. Companies are incentivized to improve their products and services in order to stand out from the competition, which ultimately benefits consumers. Without advertising, it would be much harder for new businesses to <mark>gain a foothold</mark> in the market and challenge established brands.</p>\n\n<p>Moreover, advertising funds many of the media outlets we rely on for information and entertainment. Newspapers, television channels, and websites often depend on advertising revenue to stay afloat. While this can create conflicts of interest, it also ensures that these media outlets can continue to provide valuable services to the public. Without advertising, many of these services would either become much more expensive or cease to exist altogether. It is also used to <mark>raise public awareness</mark> of serious issues such as public health campaigns.</p>\n\n<p>In conclusion, while advertising can contribute to consumerism and the purchase of unnecessary items, it also serves several important functions. It provides information, drives competition, and supports media outlets. Therefore, I disagree that the main purpose of advertising is solely to improve the sales of products that people do not really need. It is a <mark>more nuanced phenomenon</mark> with both positive and negative aspects that <mark>warrants careful consideration</mark>.</p>",
+    "sampleBand8": "<p>It is often argued that advertising's primary function is to boost sales of products that consumers do not genuinely require. While I acknowledge that advertising can indeed manipulate consumer desires, I disagree with the notion that this is its sole or even main purpose. I believe advertising also plays a crucial role in informing consumers and fostering competition in the marketplace.</p>\n\n<p>Undoubtedly, advertising can be used to <mark>artificially stimulate demand</mark> for unnecessary items. Marketing campaigns often employ psychological techniques, such as associating products with status or happiness, to <mark>create a perceived need</mark> where none previously existed. For example, the relentless promotion of the latest smartphones, with only marginal improvements over previous models, encourages consumers to upgrade even if their current phone is perfectly functional. This <mark>consumerist culture</mark>, fueled by advertising, can lead to wasteful spending and a focus on material possessions.</p>\n\n<p>However, to suggest that this is advertising's only function is a gross oversimplification. Advertising also serves to inform consumers about the availability of new products and services, allowing them to make informed choices. For instance, advertisements for electric vehicles provide information about their environmental benefits and cost savings, potentially encouraging consumers to adopt more sustainable transportation options. Furthermore, advertising <mark>fosters a competitive environment</mark> between businesses, driving innovation and ultimately benefiting consumers through lower prices and improved quality. <mark>The constant vying for consumer attention</mark> incentivizes companies to develop better products and communicate their advantages effectively.</p>\n\n<p>Moreover, advertising can also play a positive role in promoting social causes and raising awareness about important issues. Public service announcements, for example, use advertising techniques to educate the public about health risks, encourage responsible behavior, and promote charitable giving. These campaigns demonstrate that advertising can be a <mark>powerful tool for social good</mark>, rather than simply a means of manipulating consumers. <mark>To disregard this facet of advertising</mark> is to present an incomplete and biased perspective.</p>\n\n<p>In conclusion, while I concede that advertising can be used to promote unnecessary consumption, I firmly believe that its role extends far beyond this. Advertising serves as a vital source of information, promotes competition, and can even be used to <mark>advance socially beneficial causes</mark>. Therefore, it is inaccurate to characterize its main purpose solely as boosting sales of products that people do not truly need. <mark>A more nuanced perspective is warranted</mark>.</p>",
+    "sampleBand9": "<p>The pervasive nature of advertising in modern society has sparked debate regarding its primary function. While some argue that it merely serves to boost sales of superfluous products, I contend that this is an overly simplistic and somewhat cynical view. Advertising, in my opinion, <mark>plays a more multifaceted role</mark>, encompassing not only sales enhancement but also informing consumers and fostering innovation.</p>\n\n<p>Undeniably, a significant portion of advertising is geared towards <mark>stimulating demand</mark> for goods and services that are not strictly essential. Marketing campaigns often employ persuasive techniques to create desires and perceived needs, <mark>capitalizing on psychological vulnerabilities</mark> to encourage consumption. The promotion of the latest gadgets, fashion trends, or convenience foods, for instance, frequently falls into this category. <mark>Critics rightly point out</mark> that such advertising can contribute to consumerism and wasteful spending, thereby having negative economic and environmental consequences. However, to solely attribute this purpose to all advertising <mark>is to overlook its broader contributions</mark>.</p>\n\n<p>On the other hand, advertising serves an important informational function. It alerts consumers to the availability of new products and services, providing details about their features, benefits, and prices. This information empowers individuals to make informed purchasing decisions, allowing them to <mark>weigh their options</mark> and choose products that best suit their needs and preferences. Furthermore, advertising can promote awareness of important social issues, such as health campaigns, environmental protection initiatives, or charitable causes. In these instances, it serves a public service role, <mark>disseminating vital information</mark> and encouraging responsible behavior.</p>\n\n<p>Moreover, advertising can <mark>act as a catalyst for innovation</mark>. In a competitive marketplace, companies are constantly striving to develop new and improved products that will appeal to consumers. Advertising provides a platform for showcasing these innovations, thereby incentivizing businesses to invest in research and development. The desire to create compelling advertising campaigns can also spur creativity and ingenuity, leading to the development of more effective and user-friendly products. Therefore, rather than simply promoting unnecessary consumption, advertising can <mark>fuel economic growth</mark> and improve the quality of life.</p>\n\n<p>In conclusion, while the role of advertising in promoting sales of non-essential items cannot be denied, it is crucial to recognize its broader functions. Advertising informs consumers, promotes social awareness, and <mark>drives innovation</mark>, thereby contributing to a more dynamic and prosperous society. <mark>A nuanced perspective</mark> acknowledges both the potential pitfalls and the positive contributions of this pervasive force in the modern world.</p>",
+    "timeMinutes": 40,
+    "sampleAnswer": "It is often argued that the primary purpose of advertising is to persuade consumers to purchase unnecessary goods. While I agree that a significant portion of advertising does aim to create demand for non-essential products, I believe that advertising also serves other legitimate and beneficial purposes.\n\nOn the one hand, it is undeniable that many advertisements are designed to generate desire for products that consumers would not otherwise consider essential. Marketing campaigns for luxury goods, fast food, and the latest technological gadgets often employ sophisticated psychological techniques to make people feel that their lives are incomplete without these items. This can lead to overconsumption, financial strain for individuals, and a culture of materialism that prioritizes possessions over well-being. In this sense, advertising can be seen as a manipulative force that exploits human insecurities.\n\nOn the other hand, advertising performs several valuable functions beyond pushing unnecessary products. It provides consumers with information about the range of goods and services available, enabling them to make more informed purchasing decisions. For instance, advertisements for new medicines, educational courses, or energy-efficient appliances inform the public about options that genuinely improve their quality of life. Furthermore, advertising is a crucial source of revenue for many media outlets and online platforms, allowing them to offer free content and services to users. Without advertising, many newspapers, websites, and social media platforms would not be financially viable.\n\nIn conclusion, while I acknowledge that much of advertising is geared towards selling non-essential products, it would be an oversimplification to say this is its only purpose. Advertising also educates consumers and supports the broader media ecosystem.",
+    "uzSampleBand5": "<p>Reklama bugungi kunda hamma joyda mavjud. Uni televizorda, internetda va hatto ko'chada ham ko'rish mumkin. Ba'zi odamlar reklamani asosan odamlarga kerak bo'lmagan narsalarni sotish haqida deb o'ylashadi. Men bunga <mark>qisman qo'shilaman</mark>.</p>\n\n<p>Bir tomondan, reklama foydali bo'lishi mumkin. U odamlarga yordam berishi mumkin bo'lgan yangi mahsulotlar haqida xabar berishi mumkin. Misol uchun, agar kamroq energiya sarflaydigan yangi turdagi kir yuvish mashinasi bo'lsa, reklama odamlarga bu haqda xabar berishi mumkin. Bu odamlarga pul tejashga va <mark>atrof-muhitga nisbatan do'stona bo'lishga</mark> yordam berishi mumkin. Bundan tashqari, reklama reklama kompaniyalarida ishlaydigan odamlar uchun ish o'rinlarini yaratishi mumkin.</p>\n\n<p>Biroq, menimcha, reklama ko'pincha odamlarni o'zlariga kerak bo'lmagan narsalarni sotib olishga ko'ndirish uchun ishlatiladi. Kompaniyalar pul ishlashni xohlashadi, shuning uchun ular imkon qadar ko'proq mahsulot sotishga harakat qilishadi. Ular odamlarni biror narsaga muhtoj deb o'ylashga majbur qilish uchun aqlli usullardan foydalanishlari mumkin, hatto ularga kerak bo'lmasa ham. Misol uchun, kompaniya tarkibida shakar va zararli ingredientlar ko'p bo'lgan yangi turdagi gazakni reklama qilishi mumkin. Ular odamlarni uni sotib olishni xohlash uchun <mark>jozibali tasvirlar</mark> va esda qolarli shiorlardan foydalanishlari mumkin. Bolalar, ayniqsa, bunday reklamadan <mark>oson ta'sirlanadi</mark>.</p>\n\n<p>Xulosa qilib aytganda, reklamaning ba'zi foydalari bo'lishi mumkin bo'lsa-da, menimcha, uning asosiy maqsadi ko'pincha odamlarga kerak bo'lmagan mahsulotlarni sotishdir. Kompaniyalar o'z reklamalarida mas'uliyatliroq bo'lishlari va odamlarni xohlamagan yoki kerak bo'lmagan narsalarni sotib olishga <mark>aldashga urinmasliklari kerak</mark>.</p>",
+    "uzSampleBand6": "<p>Reklama zamonaviy hayotning katta qismidir. Ba'zi odamlar <mark>asosiy maqsad</mark> odamlarga unchalik zarur bo'lmagan mahsulotlarni sotish deb hisoblashadi. Men bu fikrga qisman qo'shilaman, lekin reklamaning boshqa vazifalari ham bor deb o'ylayman.</p>\n\n<p>Bir tomondan, reklama ko'pincha odamlarni ularsiz yashay oladigan narsalarni sotib olishga ishontirishga harakat qilishi to'g'ri. Kompaniyalar bizni o'z mahsulotlarini xohlashimiz uchun <mark>bizning his-tuyg'ularimizga murojaat qilish</mark> yoki istak tuyg'usini yaratish kabi aqlli usullardan foydalanadi. Misol uchun, so'nggi smartfonlar uchun reklamalar ko'pincha telefonning haqiqiy xususiyatlaridan ko'ra, turmush tarzi afzalliklariga e'tibor qaratadi. Bu odamlarni keyinchalik afsuslanishi mumkin bo'lgan <mark>keraksiz xaridlarni</mark> amalga oshirishga olib kelishi mumkin. <mark>Bu ayniqsa</mark> reklama ta'siriga osonroq tushadigan bolalar uchun to'g'ri.</p>\n\n<p>Biroq, reklama iste'molchilarni yangi mahsulot va xizmatlar haqida xabardor qilishda ham rol o'ynaydi. Bu bizga turli xil variantlar haqida ma'lumot berish orqali yaxshiroq tanlov qilishimizga yordam beradi. <mark>Misol uchun</mark>, energiya tejaydigan asboblar uchun reklamalar atrof-muhit muammolari haqida xabardorlikni oshirishi va odamlarni sayyora uchun foydaliroq bo'lgan mahsulotlarni sotib olishga undashi mumkin. Bundan tashqari, reklama ommaviy axborot vositalarini qo'llab-quvvatlaydi, chunki u gazeta, televideniye va veb-saytlar uchun daromad manbai hisoblanadi. Reklamasiz bu ommaviy axborot vositalari yashab qolish uchun kurashishadi.</p>\n\n<p>Xulosa qilib aytganda, men reklama odamlarni ularga kerak bo'lmagan narsalarni sotib olishga ko'ndirish uchun ishlatilishi mumkinligiga qo'shilsam ham, uning boshqa muhim vazifalari ham bor deb hisoblayman. U iste'molchilarni xabardor qilishi, ommaviy axborot vositalarini qo'llab-quvvatlashi va hatto ijobiy ijtimoiy o'zgarishlarni rag'batlantirishi mumkin. <mark>Shuning uchun</mark> reklamaga tanqidiy ko'z bilan qarash va uning xarid qilish qarorlarimizga potentsial ta'siridan xabardor bo'lish muhimdir.</p>",
+    "uzSampleBand7": "<p>Ko'pincha reklama asosan keraksiz mahsulotlar sotuvini oshirishga xizmat qiladi, degan fikrlar aytiladi. Reklama manipulyativ bo'lishi va iste'molchilikni rag'batlantirishi mumkinligini tan olsam-da, uning yagona maqsadi ortiqcha narsalarni sotish, degan fikrga qo'shilmayman. Mening fikrimcha, reklama zamonaviy jamiyatda yanada murakkab va ko'p qirrali rol o'ynaydi.</p>\n\n<p>Shubhasiz, reklama <mark>iste'molchilikni kuchaytirishi</mark> mumkin. Kompaniyalar odamlarni aslida kerak bo'lmagan mahsulotlarni xohlashga undash uchun yaratilgan reklamalarga katta miqdorda pul sarflaydilar. Ular aqlli marketing usullari orqali odamlarni ma'lum bir narsaga egalik qilish ularning ijtimoiy mavqeini yoki umumiy baxtini yaxshilashiga ishontirishlari mumkin. Bu, ayniqsa, hashamatli buyumlar va moda narsalari uchun to'g'ri keladi, bu yerda reklama ko'pincha <mark>ishonchsizlikka ta'sir qiladi</mark> va orzularni o'ziga jalb qiladi. Potensial kamchilik shundaki, bu ba'zi shaxslar uchun qarzga va moliyaviy beqarorlikka olib kelishi mumkin, chunki ular jamiyatning kutilgan talablariga javob berishga intilishadi. Reklamaning bu jihati zararli deb hisoblanishi mumkin.</p>\n\n<p>Biroq, reklama iste'molchilarga qimmatli ma'lumotlarni ham taqdim etadi. U odamlarga yangi mahsulotlar va xizmatlar haqida ma'lumot beradi, bu ularga nima sotib olishlari haqida ongli ravishda qaror qabul qilishga imkon beradi. Misol uchun, energiya tejaydigan maishiy texnika vositalari reklamalari atrof-muhit muammolari haqida xabardorlikni oshirishi va odamlarni <mark>barqaror amaliyotlarni qabul qilishga</mark> undashi mumkin. Bundan tashqari, reklama raqobat va innovatsiyalarni rag'batlantirish orqali iqtisodiyotni qo'llab-quvvatlaydi. Kompaniyalar raqobatdan ajralib turish uchun o'z mahsulotlari va xizmatlarini yaxshilashga undaladi, bu esa oxir-oqibatda iste'molchilarga foyda keltiradi. Reklamasiz yangi korxonalar uchun bozorda <mark>o'z o'rnini topish</mark> va taniqli brendlarga qarshi chiqish ancha qiyin bo'lar edi.</p>\n\n<p>Bundan tashqari, reklama biz ma'lumot va ko'ngilochar manba sifatida foydalanadigan ko'plab ommaviy axborot vositalarini moliyalashtiradi. Gazetalar, telekanallar va veb-saytlar ko'pincha tirik qolish uchun reklama daromadlariga bog'liq. Bu manfaatlar to'qnashuvini keltirib chiqarishi mumkin bo'lsa-da, u ushbu ommaviy axborot vositalarining jamoatchilikka qimmatli xizmatlar ko'rsatishni davom ettirishini ham ta'minlaydi. Reklamasiz, bu xizmatlarning ko'pchiligi ancha qimmatga tushadi yoki umuman mavjud bo'lmaydi. U, shuningdek, jamoatchilik salomatligi kampaniyalari kabi jiddiy muammolar haqida <mark>jamoatchilik xabardorligini oshirish</mark> uchun ishlatiladi.</p>\n\n<p>Xulosa qilib aytganda, reklama iste'molchilikka va keraksiz narsalarni sotib olishga hissa qo'shishi mumkin bo'lsa-da, u bir nechta muhim funktsiyalarni ham bajaradi. U ma'lumot beradi, raqobatni rag'batlantiradi va ommaviy axborot vositalarini qo'llab-quvvatlaydi. Shuning uchun, men reklamaning asosiy maqsadi faqat odamlarga haqiqatan ham kerak bo'lmagan mahsulotlar sotuvini yaxshilash, degan fikrga qo'shilmayman. Bu <mark>yanada nozik hodisa</mark>, uning ijobiy va salbiy jihatlari bor, bu <mark>diqqat bilan ko'rib chiqishni talab qiladi</mark>.</p>",
+    "uzSampleBand8": "<p>Ko'pincha, reklamaning asosiy vazifasi iste'molchilarga haqiqatan ham kerak bo'lmagan mahsulotlarning sotuvini oshirishdan iborat, degan fikr ilgari suriladi. Reklama iste'molchilarning xohish-istaklarini manipulyatsiya qilishi mumkinligini tan olsam-da, bu uning yagona yoki hatto asosiy maqsadi, degan fikrga qo'shilmayman. Men reklama iste'molchilarni xabardor qilishda va bozorda raqobatni rivojlantirishda ham muhim rol o'ynaydi, deb hisoblayman.</p>\n\n<p>Shubhasiz, reklama keraksiz narsalarga bo'lgan <mark>talabni sun'iy ravishda oshirish</mark> uchun ishlatilishi mumkin. Marketing kampaniyalari ko'pincha mahsulotlarni maqom yoki baxt bilan bog'lash kabi psixologik usullardan foydalanib, ilgari mavjud bo'lmagan <mark>ehtiyojni shakllantiradi</mark>. Misol uchun, oxirgi smartfonlarning tinimsiz reklama qilinishi, oldingi modellarga nisbatan unchalik katta bo'lmagan yaxshilanishlar bilan, iste'molchilarni hozirgi telefoni mukammal ishlashiga qaramay, yangilashga undaydi. Reklama bilan kuchaytirilgan bu <mark>iste'molchilik madaniyati</mark> behuda xarajatlarga va moddiy boyliklarga e'tibor qaratishga olib kelishi mumkin.</p>\n\n<p>Biroq, bu reklamaning yagona vazifasi, deyish juda soddalashtirilgan baho. Reklama, shuningdek, iste'molchilarni yangi mahsulot va xizmatlarning mavjudligi to'g'risida xabardor qiladi va ularga asosli tanlov qilish imkonini beradi. Misol uchun, elektr transport vositalari uchun reklama ularning atrof-muhitga foydalari va xarajatlarni tejash to'g'risida ma'lumot beradi va bu iste'molchilarni yanada barqaror transport variantlarini qabul qilishga undashi mumkin. Bundan tashqari, reklama bizneslar o'rtasida <mark>raqobat muhitini yaratadi</mark>, innovatsiyalarni rag'batlantiradi va oxir-oqibat iste'molchilarga arzon narxlar va yaxshilangan sifat orqali foyda keltiradi. <mark>Iste'molchilarning e'tiborini qozonish uchun doimiy kurash</mark> kompaniyalarni yaxshiroq mahsulotlarni ishlab chiqishga va ularning afzalliklarini samarali yetkazishga undaydi.</p>\n\n<p>Bundan tashqari, reklama ijtimoiy sabablarni targ'ib qilishda va muhim masalalar bo'yicha xabardorlikni oshirishda ham ijobiy rol o'ynashi mumkin. Misol uchun, jamoat xizmatlari e'lonlari sog'liq uchun xavflar haqida jamoatchilikni xabardor qilish, mas'uliyatli xatti-harakatlarni rag'batlantirish va xayriya qilishni targ'ib qilish uchun reklama usullaridan foydalanadi. Ushbu kampaniyalar reklama iste'molchilarni manipulyatsiya qilish vositasi emas, balki <mark>ijtimoiy manfaat uchun kuchli vosita</mark> bo'lishi mumkinligini ko'rsatadi. <mark>Reklamaning bu jihatiga e'tibor bermaslik</mark> to'liq bo'lmagan va xolis bo'lmagan nuqtai nazarni taqdim etishdir.</p>\n\n<p>Xulosa qilib aytganda, reklama keraksiz iste'molni targ'ib qilish uchun ishlatilishi mumkinligini tan olsam-da, uning roli bundan ancha yuqori ekanligiga qat'iy ishonaman. Reklama muhim ma'lumot manbai bo'lib xizmat qiladi, raqobatni rag'batlantiradi va hatto <mark>ijtimoiy foydali sabablarni ilgari surish</mark> uchun ham ishlatilishi mumkin. Shuning uchun, uning asosiy maqsadini faqatgina odamlarga haqiqatan ham kerak bo'lmagan mahsulotlarning sotuvini oshirish deb ta'riflash noto'g'ri. <mark>Bunga nisbatan yanada nozikroq nuqtai nazar kerak</mark>.</p>",
+    "uzSampleBand9": "<p>Zamonaviy jamiyatda reklamalarning keng tarqalganligi uning asosiy vazifasi haqida bahs-munozaralarga sabab bo'ldi. Ba'zilarning fikricha, u faqatgina keraksiz mahsulotlarning sotuvini oshirishga xizmat qiladi, men esa bu haddan tashqari soddalashtirilgan va biroz kinoyali nuqtai nazar deb hisoblayman. Mening fikrimcha, reklama <mark>ko'p qirrali rol o'ynaydi</mark>, nafaqat sotuvni oshirish, balki iste'molchilarni xabardor qilish va innovatsiyalarni rag'batlantirishni ham o'z ichiga oladi.</p>\n\n<p>Shubhasiz, reklamalarning sezilarli qismi zarur bo'lmagan tovar va xizmatlarga <mark>talabni rag'batlantirishga</mark> qaratilgan. Marketing kampaniyalari ko'pincha istaklarni va sezilgan ehtiyojlarni yaratish uchun ishontirish usullaridan foydalanadi, iste'molni rag'batlantirish uchun <mark>psixologik zaifliklardan foydalanadi</mark>. Misol uchun, eng so'nggi gadjetlar, moda trendlari yoki qulay oziq-ovqat mahsulotlarini targ'ib qilish ko'pincha shu toifaga kiradi. <mark>Tanqidchilar to'g'ri ta'kidlashadi</mark>ki, bunday reklama iste'molchilik va isrofgarchilikka olib kelishi mumkin, shu bilan birga salbiy iqtisodiy va ekologik oqibatlarga olib keladi. Biroq, faqatgina shu maqsadni barcha reklamalarga bog'lash <mark>uning kengroq hissalarini e'tibordan chetda qoldirishdir</mark>.</p>\n\n<p>Boshqa tomondan, reklama muhim axborot funktsiyasini bajaradi. U iste'molchilarni yangi mahsulotlar va xizmatlarning mavjudligi haqida ogohlantiradi, ularning xususiyatlari, afzalliklari va narxlari haqida ma'lumot beradi. Bu ma'lumotlar shaxslarga xarid qilish bo'yicha asosli qarorlar qabul qilish imkonini beradi, ularga <mark>o'z imkoniyatlarini baholashga</mark> va ularning ehtiyojlari va afzalliklariga mos keladigan mahsulotlarni tanlashga imkon beradi. Bundan tashqari, reklama muhim ijtimoiy muammolar, masalan, sog'liqni saqlash kampaniyalari, atrof-muhitni muhofaza qilish tashabbuslari yoki xayriya tashkilotlari haqida xabardorlikni oshirishi mumkin. Bunday hollarda u jamoat xizmati rolini o'ynaydi, <mark>muhim ma'lumotlarni tarqatadi</mark> va mas'uliyatli xatti-harakatlarni rag'batlantiradi.</p>\n\n<p>Bundan tashqari, reklama <mark>innovatsiyalar uchun katalizator vazifasini bajarishi</mark> mumkin. Raqobatbardosh bozorda kompaniyalar doimiy ravishda iste'molchilarga yoqadigan yangi va takomillashtirilgan mahsulotlarni ishlab chiqishga intilishadi. Reklama ushbu innovatsiyalarni namoyish qilish uchun platforma taqdim etadi va shu bilan biznesni tadqiqot va ishlanmalarga investitsiya qilishga undaydi. Jozibali reklama kampaniyalarini yaratish istagi ham ijodkorlik va topqirlikni rag'batlantirishi, yanada samarali va foydalanuvchilar uchun qulay mahsulotlarni ishlab chiqishga olib kelishi mumkin. Shuning uchun, reklama shunchaki keraksiz iste'molni rag'batlantirish o'rniga, <mark>iqtisodiy o'sishga turtki berishi</mark> va hayot sifatini yaxshilashi mumkin.</p>\n\n<p>Xulosa qilib aytganda, reklamaning zarur bo'lmagan tovarlarni sotishni rag'batlantirishdagi rolini inkor etib bo'lmasa-da, uning kengroq funktsiyalarini tan olish muhimdir. Reklama iste'molchilarni xabardor qiladi, ijtimoiy xabardorlikni oshiradi va <mark>innovatsiyalarni rag'batlantiradi</mark>, shu bilan birga yanada dinamik va farovon jamiyatga hissa qo'shadi. <mark>Nozik nuqtai nazar</mark> zamonaviy dunyoda ushbu keng tarqalgan kuchning potentsial kamchiliklarini ham, ijobiy hissalarini ham tan oladi.</p>"
+   }
+  },
+  "source": "Cambridge IELTS 17",
+  "examDate": "2020-12-19",
+  "settings": {
+   "timeInfo": "60 Minutes",
+   "moduleTitle": "Academic Writing Module",
+   "testIdentifier": "Mock 12"
+  },
+  "vocabulary": {
+   "task1": [
+    {
+     "term": "Pursued their studies",
+     "meaning": "Continued or engaged in academic education."
+    },
+    {
+     "term": "Popular destinations",
+     "meaning": "Places that are favored or chosen by many people."
+    },
+    {
+     "term": "Rose steadily",
+     "meaning": "Increased at a gradual and consistent rate."
+    },
+    {
+     "term": "Modest growth",
+     "meaning": "A small or limited increase."
+    },
+    {
+     "term": "Experienced a decline",
+     "meaning": "Went through a decrease in number or amount."
+    },
+    {
+     "term": "Increasing appeal",
+     "meaning": "Becoming more attractive or interesting to people."
+    },
+    {
+     "term": "Least popular choice",
+     "meaning": "The option selected by the fewest number of people."
+    },
+    {
+     "term": "Reflecting",
+     "meaning": "Showing or indicating something."
+    }
+   ],
+   "task2": [
+    {
+     "term": "Generate demand",
+     "meaning": "To create a desire or need for a product or service."
+    },
+    {
+     "term": "Non-essential products",
+     "meaning": "Goods that are not necessary for basic living."
+    },
+    {
+     "term": "Psychological techniques",
+     "meaning": "Methods that influence thinking, feeling, or behavior."
+    },
+    {
+     "term": "Overconsumption",
+     "meaning": "Buying or using more than is necessary or sustainable."
+    },
+    {
+     "term": "Manipulative force",
+     "meaning": "A power that controls or influences people in a dishonest way."
+    },
+    {
+     "term": "Informed purchasing decisions",
+     "meaning": "Choices about buying based on good knowledge and understanding."
+    },
+    {
+     "term": "Financially viable",
+     "meaning": "Able to make enough money to survive or be successful."
+    },
+    {
+     "term": "Media ecosystem",
+     "meaning": "The interconnected network of media organizations and platforms."
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "For instance": {
+    "uz": "Misol uchun",
+    "type": "linking"
+   },
+   "rebounding to": {
+    "uz": "ga qaytish",
+    "type": "academic"
+   },
+   "to some extent": {
+    "uz": "qisman",
+    "type": "linking"
+   },
+   "easily affected": {
+    "uz": "oson ta'sirlanuvchan",
+    "type": "lexical"
+   },
+   "gain a foothold": {
+    "uz": "poydevorga ega bo'lish",
+    "type": "colloc"
+   },
+   "hovering around": {
+    "uz": "atrofida aylanib yurish",
+    "type": "colloc"
+   },
+   "saw an increase": {
+    "uz": "o'sish kuzatildi",
+    "type": "academic"
+   },
+   "tapering off to": {
+    "uz": "gacha kamayib borish",
+    "type": "academic"
+   },
+   "went down a bit": {
+    "uz": "biroz pasaydi",
+    "type": "colloc"
+   },
+   "saw a slight dip": {
+    "uz": "biroz pasayish kuzatildi",
+    "type": "academic"
+   },
+   "the primary goal": {
+    "uz": "asosiy maqsad",
+    "type": "lexical"
+   },
+   "attractive images": {
+    "uz": "jozibali tasvirlar",
+    "type": "lexical"
+   },
+   "drives innovation": {
+    "uz": "innovatsiyalarni harakatga keltiradi",
+    "type": "academic"
+   },
+   "Of particular note": {
+    "uz": "Alohida e'tiborga molik",
+    "type": "academic"
+   },
+   "increased slightly": {
+    "uz": "biroz oshdi",
+    "type": "academic"
+   },
+   "stimulating demand": {
+    "uz": "talabni rag'batlantirish",
+    "type": "lexical"
+   },
+   "were quite similar": {
+    "uz": "juda o'xshash edi",
+    "type": "colloc"
+   },
+   "consumerist culture": {
+    "uz": "iste'molchilik madaniyati",
+    "type": "lexical"
+   },
+   "fluctuated slightly": {
+    "uz": "biroz o'zgarib turdi",
+    "type": "academic"
+   },
+   "weigh their options": {
+    "uz": "o'z imkoniyatlarini baholash",
+    "type": "colloc"
+   },
+   "fuel economic growth": {
+    "uz": "iqtisodiy o'sishni jadallashtiradi",
+    "type": "academic"
+   },
+   "A nuanced perspective": {
+    "uz": "Batafsil nuqtai nazar",
+    "type": "academic"
+   },
+   "between 2004 and 2006": {
+    "uz": "2004 va 2006 yillar oralig'ida",
+    "type": "lexical"
+   },
+   "unnecessary purchases": {
+    "uz": "keraksiz xaridlar",
+    "type": "lexical"
+   },
+   "exacerbate consumerism": {
+    "uz": "iste'molchilikni kuchaytirish",
+    "type": "academic"
+   },
+   "raise public awareness": {
+    "uz": "jamoatchilik xabardorligini oshirish",
+    "type": "lexical"
+   },
+   "taps into insecurities": {
+    "uz": "ishonchsizliklardan foydalanadi",
+    "type": "colloc"
+   },
+   "underwent a slight dip": {
+    "uz": "biroz pasayishga uchradi",
+    "type": "academic"
+   },
+   "It is worth noting that": {
+    "uz": "Shuni ta'kidlash joizki",
+    "type": "linking"
+   },
+   "This is especially true": {
+    "uz": "Bu ayniqsa to'g'ri",
+    "type": "linking"
+   },
+   "create a perceived need": {
+    "uz": "seziladigan ehtiyojni yaratish",
+    "type": "academic"
+   },
+   "more nuanced phenomenon": {
+    "uz": "batafsilroq hodisa",
+    "type": "academic"
+   },
+   "A cursory glance reveals": {
+    "uz": "Yuzaki nazar tashlash shuni ko'rsatadi",
+    "type": "academic"
+   },
+   "sustained, albeit modest": {
+    "uz": "saqlanib qoldi, garchi kamtarona bo'lsa ham",
+    "type": "academic"
+   },
+   "Critics rightly point out": {
+    "uz": "Tanqidchilar to'g'ri ta'kidlashadi",
+    "type": "academic"
+   },
+   "It is therefore important": {
+    "uz": "Shuning uchun muhimdir",
+    "type": "linking"
+   },
+   "appealing to our emotions": {
+    "uz": "hissiyotlarimizga ta'sir qilish",
+    "type": "lexical"
+   },
+   "most popular destinations": {
+    "uz": "eng mashhur yo'nalishlar",
+    "type": "lexical"
+   },
+   "remained relatively stable": {
+    "uz": "nisbatan barqaror bo'lib qoldi",
+    "type": "academic"
+   },
+   "adopt sustainable practices": {
+    "uz": "barqaror amaliyotlarni qabul qilish",
+    "type": "academic"
+   },
+   "elucidates the distribution": {
+    "uz": "tarqatilishini izohlaydi",
+    "type": "academic"
+   },
+   "underscoring its prominence": {
+    "uz": "uning ahamiyatini ta'kidlash",
+    "type": "academic"
+   },
+   "illustrates the distribution": {
+    "uz": "tarqatilishini tasvirlaydi",
+    "type": "academic"
+   },
+   "artificially stimulate demand": {
+    "uz": "talabni sun'iy ravishda rag'batlantirish",
+    "type": "academic"
+   },
+   "exhibited a fluctuating trend": {
+    "uz": "o'zgaruvchan tendentsiyani namoyish etdi",
+    "type": "academic"
+   },
+   "experienced a steady increase": {
+    "uz": "doimiy o'sishni boshdan kechirdi",
+    "type": "academic"
+   },
+   "powerful tool for social good": {
+    "uz": "ijtimoiy yaxshilik uchun kuchli vosita",
+    "type": "lexical"
+   },
+   "witnessed a marginal increase": {
+    "uz": "kichik o'sish kuzatildi",
+    "type": "academic"
+   },
+   "elucidates the distribution of": {
+    "uz": "ning tarqatilishini izohlaydi",
+    "type": "academic"
+   },
+   "plays a more multifaceted role": {
+    "uz": "ko'p qirrali rol o'ynaydi",
+    "type": "academic"
+   },
+   "warrants careful consideration": {
+    "uz": "diqqat bilan ko'rib chiqishni talab qiladi",
+    "type": "academic"
+   },
+   "disseminating vital information": {
+    "uz": "muhim ma'lumotlarni tarqatish",
+    "type": "academic"
+   },
+   "experienced a substantial surge": {
+    "uz": "sezilarli o'sishni boshdan kechirdi",
+    "type": "academic"
+   },
+   "trick people into buying things": {
+    "uz": "odamlarni narsalarni sotib olishga aldash",
+    "type": "colloc"
+   },
+   "act as a catalyst for innovation": {
+    "uz": "innovatsiyalar uchun katalizator vazifasini o'taydi",
+    "type": "academic"
+   },
+   "fosters a competitive environment": {
+    "uz": "raqobatbardosh muhitni yaratadi",
+    "type": "academic"
+   },
+   "advance socially beneficial causes": {
+    "uz": "ijtimoiy foydali maqsadlarni ilgari surish",
+    "type": "academic"
+   },
+   "be more friendly to the environment": {
+    "uz": "atrof-muhitga ko'proq do'stona bo'lish",
+    "type": "colloc"
+   },
+   "Other places didn't change very much": {
+    "uz": "Boshqa joylarda unchalik o'zgarish bo'lmadi",
+    "type": "colloc"
+   },
+   "accounted for the largest proportion": {
+    "uz": "eng katta qismini tashkil etdi",
+    "type": "academic"
+   },
+   "To disregard this facet of advertising": {
+    "uz": "Reklamaning bu jihatiga e'tibor bermaslik",
+    "type": "academic"
+   },
+   "A more nuanced perspective is warranted": {
+    "uz": "Batafsilroq nuqtai nazar talab etiladi",
+    "type": "academic"
+   },
+   "diversification of educational pursuits": {
+    "uz": "ta'lim yo'nalishlarining diversifikatsiyasi",
+    "type": "academic"
+   },
+   "further suggests a degree of volatility": {
+    "uz": "yanada o'zgaruvchanlik darajasini ko'rsatadi",
+    "type": "academic"
+   },
+   "is to overlook its broader contributions": {
+    "uz": "uning kengroq hissasini e'tibordan chetda qoldirishdir",
+    "type": "academic"
+   },
+   "represented a comparatively small number": {
+    "uz": "nisbatan kam sonni tashkil etdi",
+    "type": "academic"
+   },
+   "The constant vying for consumer attention": {
+    "uz": "Iste'molchilar e'tibori uchun doimiy kurash",
+    "type": "academic"
+   },
+   "capitalizing on psychological vulnerabilities": {
+    "uz": "psixologik zaifliklardan foydalanish",
+    "type": "academic"
+   },
+   "Overall, while the US and UK remained dominant": {
+    "uz": "Umuman olganda, AQSh va Buyuk Britaniya hukmronligicha qolgan bo'lsa-da",
+    "type": "academic"
+   }
+  }
+ },
+ "created_at": "2026-05-06T17:28:42.467032+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

@@ -1,0 +1,126 @@
+{
+ "id": 2300,
+ "mock_type": "pet-writing",
+ "mock_number": 2,
+ "title": "PET Writing — Test 2",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "sentence-transformation",
+    "items": [
+     {
+      "id": 1,
+      "first": "Everyone in our family enjoys camping holidays.",
+      "answer": "enjoy",
+      "afterBlank": "camping holidays.",
+      "beforeBlank": "In our family, all of us"
+     },
+     {
+      "id": 2,
+      "first": "Camping is cheaper than staying in a hotel.",
+      "answer": "less",
+      "afterBlank": "than staying in a hotel.",
+      "beforeBlank": "Camping costs"
+     },
+     {
+      "id": 3,
+      "first": "The campsite we're going to is near the beach.",
+      "answer": "far away from",
+      "afterBlank": "the beach.",
+      "beforeBlank": "The campsite we're going to is not too"
+     },
+     {
+      "id": 4,
+      "first": "The campsite has a swimming pool.",
+      "answer": "there is",
+      "afterBlank": "a swimming pool.",
+      "beforeBlank": "At the campsite"
+     },
+     {
+      "id": 5,
+      "first": "I asked my friend if he wanted to come camping with us.",
+      "answer": "Do you",
+      "afterBlank": "want to come camping with us?'",
+      "beforeBlank": "I asked my friend: '"
+     }
+    ],
+    "label": "PART 1",
+    "topic": "Going camping",
+    "example": {
+     "first": "My cousin has lent me a very good tent.",
+     "answer": "borrowed",
+     "afterBlank": "a very good tent from my cousin.",
+     "beforeBlank": "I have"
+    },
+    "partNumber": 1,
+    "instruction": [
+     "Here are some sentences about going camping.",
+     "For each question, complete the second sentence so that it means the same as the first.",
+     "Use no more than three words.",
+     "Write only the missing words on your answer sheet.",
+     "You may use this page for any rough work."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "writing-task",
+    "items": [
+     {
+      "id": 6,
+      "band": "5",
+      "answer": "Hi, Alex\nI got your invitation. But I'm so sorry. I can't come because I will be out of city on this week-end for competitions. But I will be free next Saturday and we can celebrate your birthday together in a restaurant.\nSee you."
+     }
+    ],
+    "label": "PART 2",
+    "prompt": "Your friend Alex has invited you to a party this Saturday afternoon but you can't go.\n\nWrite an email to Alex. In your email, you should\n\n• apologise to Alex\n• explain why you can't go\n• suggest another day when you could meet.\n\nWrite 35–45 words on your answer sheet.",
+    "wordCount": "35–45 words",
+    "partNumber": 2,
+    "questionsLabel": "QUESTION 6"
+   },
+   {
+    "type": "writing-task",
+    "items": [
+     {
+      "id": 7,
+      "band": "5",
+      "answer": "Dear Jhon\nMy favourite subjects are Music and French literature because I've been playing the piano for 2 years. So, it makes it easier to be a sucessful person.\nI don't like history because if you want to learn it, you must memorise all the past events. It is very boring! I hate memorising. Also I don't get on with my history teacher in the school. We argue in about each history lesson. So, I become angry and I don't want to study for the exams which are supplied by him.\nI want to study French literature in the future because I am really interested in foreign languages and their literatures.\nI am waiting your answer.",
+      "altSample": {
+       "q": 8,
+       "band": "5",
+       "text": "I was really excited when I opened the letter. I knew it was from my brother. We hadn't seen each other for twenty-four years. Actually nobody had seen him since he escaped from prison. I opened the letter. There was a note and a necklace. I remembered the necklace; our mum had given one to me and my brother. They symbolized that we wouldn't leave each other until one of us would die. So the letter meant he would die. Then I read the note. There was written \"I'm so sorry. I wouldn't want to leave you alone but I have to. Now it is not necessary for me to live.\""
+      }
+     }
+    ],
+    "label": "PART 3",
+    "choices": [
+     {
+      "id": 7,
+      "image": "https://audio.mock-stream.com/PET-Writing/test2/q7_ribbon.png",
+      "intro": "This is part of a letter you receive from an English friend.",
+      "outro": "Now write a letter answering your friend's questions.\nWrite your letter on your answer sheet."
+     },
+     {
+      "id": 8,
+      "intro": "Your English teacher has asked you to write a story.\n\nYour story must begin with this sentence:",
+      "outro": "Write your story on your answer sheet.",
+      "highlight": "I was really excited when I opened the letter."
+     }
+    ],
+    "wordCount": "about 100 words",
+    "partNumber": 3,
+    "questionsLabel": "QUESTIONS 7 or 8"
+   }
+  ],
+  "testInfo": {
+   "id": "pet-w-02",
+   "level": "B1",
+   "paper": "Paper 1 · Writing",
+   "parts": 3,
+   "title": "PET Writing — Test 2",
+   "totalTime": 45
+  }
+ },
+ "created_at": "2026-10-14T06:45:42.946507+00:00",
+ "updated_at": "2026-10-14T06:47:28.25388+00:00"
+}

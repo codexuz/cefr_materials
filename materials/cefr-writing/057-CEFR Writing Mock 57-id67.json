@@ -1,0 +1,593 @@
+{
+ "id": 67,
+ "mock_type": "cefr-writing",
+ "mock_number": 57,
+ "title": "CEFR Writing Mock 57",
+ "status": "published",
+ "mock_data": {
+  "part1": {
+   "chip": "food",
+   "topic": "Farmers market"
+  },
+  "tasks": {
+   "t2": {
+    "chip": "technology",
+    "genre": "forum",
+    "title": "Handwriting still an important skill in the digital age",
+    "prompt": "You are participating in an online discussion forum. The topic is: \"Is handwriting still an important skill in the digital age?\" Write your response, giving reasons and examples. Write 180–200 words.",
+    "sample": "<p>In our <span class=\"ml-token adv\">increasingly</span> <span class=\"ml-token colloc\">digital world</span>, some question whether handwriting remains a <span class=\"ml-token colloc\">valuable skill</span>. I believe it continues to be important for several reasons.</p>\n\n<p><span class=\"ml-token adv\">Firstly</span>, research shows that handwriting improves <span class=\"ml-token colloc\">memory and learning</span>. When students write notes by hand rather than typing, they process and retain information more <span class=\"ml-token adv\">effectively</span>. The physical act of forming letters engages the brain <span class=\"ml-token adv\">differently</span> than pressing keys.</p>\n\n<p><span class=\"ml-token adv\">Secondly</span>, handwriting develops <span class=\"ml-token colloc\">fine motor skills</span> in children that are essential for other activities. These skills cannot be developed through typing alone. Schools <span class=\"ml-token modal\">should</span> continue teaching <span class=\"ml-token colloc\">cursive writing</span> despite the prevalence of computers.</p>\n\n<p><span class=\"ml-token adv\">Furthermore</span>, <span class=\"ml-token colloc\">handwritten messages</span> carry <span class=\"ml-token colloc\">personal significance</span> that typed text lacks. A handwritten thank-you note or birthday card shows thoughtfulness and effort that recipients <span class=\"ml-token adv\">genuinely</span> appreciate.</p>\n\n<p><span class=\"ml-token adv\">However</span>, I acknowledge that <span class=\"ml-token colloc\">typing skills</span> are <span class=\"ml-token adv\">equally</span> important in modern workplaces. The solution is teaching both skills rather than abandoning handwriting <span class=\"ml-token adv\">entirely</span>.</p>\n\n<p><span class=\"ml-token adv\">In conclusion</span>, while technology has transformed how we communicate, handwriting remains a <span class=\"ml-token colloc\">valuable skill</span> that benefits learning, development, and <span class=\"ml-token colloc\">personal expression</span>. We <span class=\"ml-token modal\">should</span> preserve this tradition alongside <span class=\"ml-token colloc\">digital literacy</span>.</p>",
+    "target": "180–200 words",
+    "sampleA1": "<p>Hi! <br> I like to write. It is fun. I can write my name. I like to draw too. Writing is good. Bye!</p>",
+    "sampleA2": "<p>Hello! <br> I think writing is important. I can write letters to my grandma. She likes it. And I can write shopping lists. But typing is also good because it is fast. I use the computer for school. So, writing and typing are both important, I think.</p>",
+    "sampleB1": "<p>I think handwriting is still important even though we use computers a lot now. For example, when I'm in class, I like to write notes because it helps me remember things better. Also, sometimes it's just easier to write something down quickly than to type it. <br><br>However, I know that typing is important too, especially for work. But I think kids should still learn how to write properly. It's a useful skill to have, and it's also nice to get a handwritten letter from someone. In my opinion, we shouldn't forget about handwriting just because we have computers.</p>",
+    "sampleB2": "Great topic — I've been thinking about this a lot lately!\nIn my opinion, handwriting is definitely still <span class=\"ml-token phrasal\">worth holding on to</span>, even though we type almost everything these days. <span class=\"ml-token linking\">For a start</span>, writing things down by hand really helps you remember them. Whenever I take notes in class by hand, the information seems to stick far better than when I type it on a laptop.\n<span class=\"ml-token linking\">On top of that</span>, handwriting adds a <span class=\"ml-token colloc\">personal touch</span> that a text message simply can't match. A handwritten birthday card means so much more than a quick message on your phone — it shows you actually made an effort.\nThat said, I completely get why some people think it's <span class=\"ml-token phrasal\">dying out</span>. Typing is faster, tidier, and let's be honest, most jobs <span class=\"ml-token phrasal\">revolve around</span> a keyboard nowadays. But I don't think it has to be <span class=\"ml-token idiom\">one or the other</span>. Schools should teach both, so kids can switch between them depending on the situation.\nSo, what do you all think? Is handwriting a skill worth saving, or are we <span class=\"ml-token idiom\">better off</span> letting it <span class=\"ml-token phrasal\">fade away</span>? I'd love to <span class=\"ml-token colloc\">hear your thoughts</span>!",
+    "uzSample": "<p>Bizning tobora raqamli dunyomizda ba'zilar qo'lyozuv qimmatli mahorat bo'lib qoladimi, degan savolni berishadi. Menimcha, u bir necha sabablarga ko'ra muhim bo'lib qolmoqda.</p>\n\n<p>Birinchidan, tadqiqotlar shuni ko'rsatadiki, qo'lyozuv xotira va o'rganishni yaxshilaydi. Talabalar yozuv mashinkasida terishdan ko'ra qo'lda yozuvlar yozganda, ular ma'lumotni yanada samaraliroq qayta ishlaydi va eslab qoladi. Harflarni shakllantirishning jismoniy harakati miyani tugmalarni bosishdan farqli ravishda jalb qiladi.</p>\n\n<p>Ikkinchidan, qo'lyozuv bolalarda boshqa faoliyatlar uchun zarur bo'lgan mayda motorika mahoratini rivojlantiradi. Bu ko'nikmalarni faqat terish orqali rivojlantirib bo'lmaydi. Kompyuterlar keng tarqalganiga qaramay, maktablar kursiv yozuvni o'rgatishni davom ettirishlari kerak.</p>\n\n<p>Bundan tashqari, qo'lda yozilgan xabarlar terilgan matnda yo'q bo'lgan shaxsiy ahamiyatga ega. Qo'lda yozilgan minnatdorchilik xati yoki tug'ilgan kun kartasi oluvchilar chin dildan qadrlaydigan o'ylanganlik va sa'y-harakatni ko'rsatadi.</p>\n\n<p>Biroq, men zamonaviy ish joylarida terish mahorati ham muhim ekanligini tan olaman. Yechim - qo'lyozuvdan butunlay voz kechishdan ko'ra, ikkala mahoratni ham o'rgatish.</p>\n\n<p>Xulosa qilib aytganda, texnologiya bizning muloqot uslubimizni o'zgartirgan bo'lsa-da, qo'lyozuv o'rganish, rivojlanish va shaxsiy ifoda uchun foydali bo'lgan qimmatli mahorat bo'lib qolmoqda. Biz bu an'anani raqamli savodxonlik bilan birga saqlashimiz kerak.</p>",
+    "uzSampleA1": "<p>Salom! <br> Men yozishni yaxshi ko'raman. Bu qiziqarli. Men o'z ismimni yoza olaman. Men rasm chizishni ham yaxshi ko'raman. Yozish yaxshi. Xayr!</p>",
+    "uzSampleA2": "<p>Salom! <br> Menimcha, yozish muhim. Men buvimga xatlar yozishim mumkin. Unga bu yoqadi. Va men xarid qilish ro'yxatlarini yozishim mumkin. Lekin terish ham yaxshi, chunki u tez. Men maktab uchun kompyuterdan foydalanaman. Shunday qilib, yozish ham, terish ham muhim, deb o'ylayman.</p>",
+    "uzSampleB1": "<p>Menimcha, qo'lyozuv hozir kompyuterlardan ko'p foydalansak ham, hali ham muhim. Misol uchun, men darsda bo'lganimda, yozuvlar yozishni yaxshi ko'raman, chunki bu menga narsalarni yaxshiroq eslab qolishga yordam beradi. Bundan tashqari, ba'zan biror narsani tezda yozib qo'yish, uni terishdan ko'ra osonroq bo'ladi. <br><br>Biroq, men bilaman, terish ham muhim, ayniqsa ish uchun. Lekin menimcha, bolalar hali ham to'g'ri yozishni o'rganishlari kerak. Bu foydali ko'nikma va kimdandir qo'lda yozilgan xat olish ham yoqimli. Mening fikrimcha, biz kompyuterlarimiz borligi uchun qo'lyozuvni unutmasligimiz kerak.</p>",
+    "uzSampleB2": "<p>Biz klaviaturalar va ekranlar hukmron bo'lgan raqamli asrda yashayotgan bo'lsak-da, men qo'lyozuv qimmatli ko'nikma sifatida o'z ahamiyatini saqlab qoladi, deb hisoblayman. Harflarni jismonan shakllantirish jarayoni terishdan farqli kognitiv jarayonlarni ishga soladi, bu esa xotira va tushunishni yaxshilashi mumkin. Tadqiqotlar shuni ko'rsatadiki, qo'lda eslatmalar olish noutbukda terishga qaraganda ma'lumotlarni yaxshiroq eslab qolishga olib keladi. <br><br>Bundan tashqari, qo'lyozuv raqamli aloqada ko'pincha etishmaydigan shaxsiy ta'sirni ta'minlaydi. Qo'lda yozilgan tabrik yoki xat elektron tarzda takrorlash qiyin bo'lgan o'ylanganlik va g'amxo'rlik darajasini ifodalaydi. Professional muhitda qo'lda yozilgan minnatdorchilik xati uzoq muddatli ijobiy taassurot qoldirishi mumkin. <br><br>Albatta, raqamli savodxonlik bugungi kunda juda muhim va terish bo'yicha malaka ko'plab ishlar uchun zarurdir. Biroq, qo'lyozuvni butunlay rad etish xato bo'ladi. Bu ijodkorlikni rivojlantiradigan, kognitiv funktsiyani yaxshilaydigan va shaxsiyroq aloqa shaklini ta'minlaydigan ko'nikma. Shuning uchun qo'lyozuvni raqamli ko'nikmalar bilan birga o'qitish va qadrlashni davom ettirish kerak.</p>"
+   },
+   "t11": {
+    "title": "informal letter · to friend",
+    "prompt": "Write a letter to your friend, who is interested in eating healthier. Write about your feelings and what you think they should do.",
+    "sample": "Hey!\n\nI remember you mentioned wanting to <span class=\"ml-token phrasal\">eat healthier</span>. I've started shopping at the <span class=\"ml-token colloc\">farmers market</span> and the difference is <span class=\"ml-token adv\">incredible</span>! The <span class=\"ml-token colloc\">fruits and vegetables</span> are so fresh and taste <span class=\"ml-token adv\">amazing</span>. Plus, you meet <span class=\"ml-token colloc\">local farmers</span> and learn where your food comes from. You'd <span class=\"ml-token adv\">absolutely</span> love it!\n\n<span class=\"ml-token phrasal\">Take care</span>!",
+    "target": "50–70 words",
+    "sampleA1": "<p>Hi Kamron,<br>Market good. Food good. I like fruit. You come!<br>Bye.</p>",
+    "sampleA2": "<p>Hi Kamron,<br>I go to the market. It is good! The food is fresh and I like it. You want to eat healthy, so you can go too. It is fun and the food is good. See you!<br>Bye,</p>",
+    "sampleB1": "<p>Hi Kamron,<br><br>I wanted to tell you about the farmers market. I started going recently, and I really like it. The food is very fresh, and it tastes better than the supermarket. You said you want to eat healthier, so I think you should try it. It's a good way to get fresh food. Maybe we can go together next time?<br><br>Best,<br>Javohir Rahimov</p>",
+    "sampleB2": "Hey Kamron!\nGuess what — I've finally started shopping at the local <span class=\"ml-token colloc\">farmers market</span>, and I honestly think <span class=\"ml-token colloc\">you'd love it</span>. The <span class=\"ml-token colloc\">fruit and veg</span> are so much fresher than the supermarket stuff, and you get to <span class=\"ml-token phrasal\">chat with</span> the farmers who grow it. Since you're <span class=\"ml-token colloc\">keen to</span> <span class=\"ml-token phrasal\">eat healthier</span>, why not <span class=\"ml-token phrasal\">come along</span> with me this Saturday? <span class=\"ml-token phrasal\">Let me know</span>!\nTake care,\nBekzod Aliyev",
+    "uzSample": "Salom!\n\nEsimda, sog'lomroq ovqatlanishni xohlayotganingni aytganding. Men dehqon bozorida xarid qila boshladim va farqi juda ajoyib! Meva va sabzavotlar juda yangi va ta'mi ajoyib. Qolaversa, mahalliy dehqonlar bilan tanishasiz va ovqatingiz qayerdan kelishini bilib olasiz. Senga bu juda yoqadi!\n\nO'zingni asra!",
+    "uzSampleA1": "<p>Salom Kamron,<br>Bozor yaxshi. Ovqat yaxshi. Menga meva yoqadi. Sen kel!<br>Xayr.</p>",
+    "uzSampleA2": "<p>Salom Kamron,<br>Men bozorga boraman. Bu yaxshi! Ovqatlar yangi va menga yoqadi. Sen sog'lom ovqatlanmoqchisan, shuning uchun sen ham borishing mumkin. Bu qiziqarli va ovqatlar yaxshi. Ko'rishguncha!<br>Xayr,</p>",
+    "uzSampleB1": "<p>Salom Kamron,<br><br>Sizga dehqon bozori haqida aytmoqchi edim. Yaqinda u yerga bora boshladim va menga juda yoqadi. Ovqat juda yangi va supermarketdagidan mazaliroq. Siz sog'lomroq ovqatlanishni xohlaysiz dedingiz, shuning uchun o'ylaymanki, siz ham urinib ko'rishingiz kerak. Bu yangi ovqat olishning yaxshi usuli. Balki keyingi safar birga borarmiz?<br><br>Eng yaxshi tilaklar bilan,<br>Javohir Rahimov</p>",
+    "uzSampleB2": "<p>Aziz Kamron,<br><br>Umid qilaman, bu xat sizga yaxshi yetib borgan.<br><br>Sizga yaqinda mahalliy fermerlar bozorida bo'lgan tajribamni baham ko'rmoqchiman. Sog'lom ovqatlanishga qiziqishingizni bilganim uchun, bu sizga qiziq bo'lishi mumkin deb o'yladim. Men u yerda bir necha haftadan beri xarid qilmoqdaman va mahsulotlarning sifati va yangiligidan chin dildan hayratdaman. Bu odatda supermarketlarda topadigan narsalardan ancha farq qiladi. Ishonchim komilki, mahalliy manbalardan olingan oziq-ovqatlarni ratsioningizga kiritish sog'liq maqsadlaringizga erishish yo'lida muhim qadam bo'ladi. Albatta, uni tekshirib ko'rishingiz kerak!<br><br>Eng yaxshi tilaklar bilan,<br>Javohir Rahimov</p>"
+   },
+   "t12": {
+    "title": "formal letter · to committee",
+    "prompt": "Write a letter to the farmers market committee. Write about your feelings and what you think they should do.",
+    "sample": "Dear Greenfield Market Committee,\n\nThank you for contacting me about my experience at your <span class=\"ml-token colloc\">farmers market</span>.\n\nI have been visiting for the past month and am <span class=\"ml-token adv\">delighted</span> with the quality of <span class=\"ml-token colloc\">produce available</span>. The fruits and vegetables are <span class=\"ml-token adv\">noticeably</span> fresher than <span class=\"ml-token colloc\">supermarket alternatives</span>, and I appreciate being able to speak <span class=\"ml-token adv\">directly</span> with the farmers who grow them. The prices are reasonable considering the <span class=\"ml-token colloc\">superior quality</span>.\n\n<span class=\"ml-token adv\">However</span>, I <span class=\"ml-token modal\">would</span> like to suggest some improvements. Extending the market hours into the afternoon <span class=\"ml-token modal\">would</span> accommodate people who work <span class=\"ml-token colloc\">Saturday mornings</span>. <span class=\"ml-token adv\">Additionally</span>, providing more <span class=\"ml-token colloc\">seating areas</span> <span class=\"ml-token modal\">would</span> allow visitors to enjoy purchased food on-site.\n\nI <span class=\"ml-token modal\">would</span> also welcome more variety, such as <span class=\"ml-token colloc\">artisan bread stalls</span> and <span class=\"ml-token colloc\">organic dairy products</span>.\n\nThe market has become a <span class=\"ml-token colloc\">highlight of my weekend</span>, and I will continue to <span class=\"ml-token phrasal\">support local farmers</span>.\n\nYours sincerely,\nJavohir Rahimov",
+    "target": "120–150 words",
+    "sampleA1": "<p>Hi Greenfield Market!</p><p>I like fruit. Good. Vegetables good. I want more apples. Bye.</p>",
+    "sampleA2": "<p>Dear Greenfield Market Committee,</p><p>Thank you for the letter. I like the market. The food is good and fresh. The prices are okay, but sometimes they are expensive. I want more cheese and bread. And more flowers! I will come again next week.</p><p>Thanks,</p><p>Javohir Rahimov</p>",
+    "sampleB1": "<p>Dear Greenfield Market Committee,</p><p>Thank you for asking about my experience at the farmers market. I think it's very good. The vegetables and fruit are fresh, and I like that I can buy local food. The prices are usually fair, but some things are expensive compared to the supermarket.</p><p>I think you could improve the market by having more things to buy. For example, I would like to see more cheese and maybe some homemade bread. Also, it would be good if the market was open later on Saturdays because I sometimes can't come in the morning. I will visit again soon.</p><p>Sincerely,<br>Javohir Rahimov</p>",
+    "sampleB2": "Dear Greenfield Market Committee,\nThank you for <span class=\"ml-token phrasal\">reaching out</span> to ask about my experience at the market. I have been shopping there every Saturday for the past month, and I am genuinely <span class=\"ml-token colloc\">delighted with</span> what you offer.\nThe produce is <span class=\"ml-token colloc\">noticeably fresher</span> than the <span class=\"ml-token colloc\">supermarket alternatives</span>, and I really value being able to <span class=\"ml-token colloc\">speak directly</span> with the farmers who grow it. <span class=\"ml-token linking\">On the whole</span>, the prices are fair given the <span class=\"ml-token colloc\">superior quality</span>.\nThat said, I <span class=\"ml-token modal\">would like to suggest</span> a couple of improvements. Extending the opening hours into the early afternoon would help those of us who work on Saturday mornings. It would also be wonderful to see more variety, such as <span class=\"ml-token colloc\">artisan bread stalls</span> and organic dairy products.\nThank you for all your hard work. I <span class=\"ml-token phrasal\">look forward to</span> continuing to support our local farmers.\nYours sincerely,\nDilnoza Karimova",
+    "uzSample": "<p>Hurmatli Greenfield bozor qo‘mitasi,</p>\n<p>Sizning fermerlar bozoringizdagi tajribam haqida men bilan bog‘langaningiz uchun rahmat.</p>\n<p>Men o‘tgan oy davomida tashrif buyurib kelmoqdaman va mavjud mahsulotlarning sifatidan juda mamnunman. Meva va sabzavotlar supermarketlardagi muqobillarga qaraganda ancha yangiroq ekanligi sezilarli, va ularni yetishtiradigan fermerlar bilan bevosita gaplasha olishimni qadrlayman. Narxlar yuqori sifatni hisobga olganda maqbul.</p>\n<p>Biroq, men ba'zi takliflarni kiritmoqchiman. Bozor ish vaqtini tushgacha uzaytirish shanba kuni ertalab ishlaydigan odamlarga mos keladi. Bundan tashqari, ko'proq o'tirish joylarini ta'minlash tashrif buyuruvchilarga sotib olingan ovqatlardan joyida bahramand bo'lish imkonini beradi.</p>\n<p>Men, shuningdek, hunarmandchilik non do'konlari va organik sut mahsulotlari kabi ko'proq xilma-xillikni xohlardim.</p>\n<p>Bozor mening dam olish kunlarimning eng yorqin voqeasiga aylandi va men mahalliy fermerlarni qo'llab-quvvatlashda davom etaman.</p>\n<p>Hurmat bilan,<br>Javohir Rahimov</p>",
+    "uzSampleA1": "<p>Salom, Greenfield Bozori!</p><p>Menga meva yoqadi. Yaxshi. Sabzavotlar yaxshi. Men ko'proq olma xohlayman. Xayr.</p>",
+    "uzSampleA2": "<p>Hurmatli Greenfield Bozor Qo‘mitasi,</p><p>Xat uchun rahmat. Menga bozor yoqadi. Ovqat yaxshi va yangi. Narxlar yaxshi, lekin ba'zida qimmat. Men ko'proq pishloq va non xohlayman. Va ko'proq gullar! Men kelasi hafta yana kelaman.</p><p>Rahmat,</p><p>Javohir Rahimov</p>",
+    "uzSampleB1": "<p>Hurmatli Greenfield Bozor Qo'mitasi,</p><p>Dehqon bozoridagi tajribam haqida so'raganingiz uchun rahmat. Menimcha, u juda yaxshi. Sabzavotlar va mevalar yangi, va menga mahalliy mahsulotlar sotib olishim mumkinligi yoqadi. Narxlar odatda adolatli, lekin ba'zi narsalar supermarketga nisbatan qimmatroq.</p><p>Menimcha, siz bozorda sotib olish uchun ko'proq narsalar bo'lishi bilan bozorni yaxshilashingiz mumkin. Misol uchun, men ko'proq pishloq va ehtimol uyda tayyorlangan nonni ko'rishni xohlardim. Shuningdek, bozor shanba kunlari kechroq ochilsa yaxshi bo'lardi, chunki ba'zan ertalab kelolmayman. Men tez orada yana tashrif buyuraman.</p><p>Hurmat bilan,<br>Javohir Rahimov</p>",
+    "uzSampleB2": "<p>Hurmatli Greenfield Bozor Qo'mitasi,</p><p>Greenfield Fermerlar Bozoriga oid fikr-mulohazalarni to'plash uchun murojaat qilganingiz uchun tashakkur. Men so'nggi bir necha haftadan beri doimiy ravishda tashrif buyuruvchiman va o'z fikrlarimni baham ko'rmoqchiman.</p><p>Umuman olganda, men mahsulotlarning sifati va yangiligidan hayratdaman. Bu supermarketlarda mavjud bo'lgan narsalardan sezilarli darajada ustun va men mahalliy qishloq xo'jaligini qo'llab-quvvatlashni qadrlayman. Narxlar odatda raqobatbardosh, garchi ba'zi narsalar biroz qimmatroqdek tuyuladi.</p><p>Ko'proq tez-tez tashrif buyurishni rag'batlantirish uchun bir nechta yaxshilanishlarni ko'rib chiqishni taklif qilaman. Birinchidan, bozor ish vaqtini uzaytirish, ehtimol erta tushgacha, shanba kuni ertalab majburiyatlari bo'lganlar uchun foydali bo'ladi. Ikkinchidan, mahsulot assortimentini diversifikatsiya qilish ko'proq xaridorlarni jalb qilishi mumkin. Men ayniqsa, ko'proq hunarmandchilik non mahsulotlari, mahalliy asal va hatto kichik partiyalarda tayyorlangan murabbolarni ko'rishdan manfaatdor bo'lardim.</p><p>Jamiyatimizni yangi, mahalliy mahsulotlar bilan ta'minlashga bo'lgan sadoqatingiz uchun tashakkur. Bozorda xarid qilishni davom ettirishni intiqlik bilan kutaman.</p><p>Hurmat bilan,<br>Javohir Rahimov</p>"
+   },
+   "p1_context": "You recently started shopping at a local farmers market.",
+   "p1_scenario": "Dear Customer,\n\nThank you for supporting our local Greenfield Farmers Market! We appreciate your patronage.\nHow do you find the variety and freshness of our produce? Are the prices fair compared to supermarkets?\nWhat additional products or improvements would encourage you to visit more regularly?\n\nGreenfield Market Committee"
+  },
+  "examDate": "2026-02-01",
+  "settings": {
+   "logoUrl": "https://audio.mock-stream.com/img/ibb/WN0XY5Lv/logo.png",
+   "heading1": "Bilim va malakalarni baholash agentligi",
+   "heading2": "Chet tilini bilish darajasi",
+   "examTitle": "Writing exam",
+   "logoWording": "Mock Stream",
+   "testIdentifier": "mock_stream"
+  },
+  "vocabulary": {
+   "task2": [
+    {
+     "en": "handwriting",
+     "uz": "qo'lyozma"
+    },
+    {
+     "en": "digital age",
+     "uz": "raqamli asr"
+    },
+    {
+     "en": "valuable skill",
+     "uz": "qimmatli ko'nikma"
+    },
+    {
+     "en": "memory and learning",
+     "uz": "xotira va o'rganish"
+    },
+    {
+     "en": "fine motor skills",
+     "uz": "nozik motorika ko'nikmalari"
+    },
+    {
+     "en": "cursive writing",
+     "uz": "yozuvni bog'lab yozish"
+    },
+    {
+     "en": "handwritten messages",
+     "uz": "qo'lda yozilgan xabarlar"
+    },
+    {
+     "en": "personal significance",
+     "uz": "shaxsiy ahamiyat"
+    },
+    {
+     "en": "typing skills",
+     "uz": "matn yozish ko'nikmalari"
+    },
+    {
+     "en": "digital literacy",
+     "uz": "raqamli savodxonlik"
+    },
+    {
+     "en": "personal expression",
+     "uz": "shaxsiy ifoda"
+    },
+    {
+     "en": "retain information",
+     "uz": "ma'lumotni saqlab qolmoq"
+    },
+    {
+     "en": "physical act",
+     "uz": "jismoniy harakat"
+    },
+    {
+     "en": "engage the brain",
+     "uz": "miyani jalb qilmoq"
+    },
+    {
+     "en": "thank-you note",
+     "uz": "minnatdorchilik xati"
+    },
+    {
+     "en": "thoughtfulness and effort",
+     "uz": "o'ychanlik va harakat"
+    },
+    {
+     "en": "modern workplaces",
+     "uz": "zamonaviy ish joylari"
+    },
+    {
+     "en": "preserve tradition",
+     "uz": "an'anani saqlamoq"
+    },
+    {
+     "en": "in conclusion",
+     "uz": "xulosa qilib aytganda"
+    },
+    {
+     "en": "furthermore",
+     "uz": "bundan tashqari"
+    }
+   ],
+   "task11": [
+    {
+     "en": "farmers market",
+     "uz": "dehqonlar bozori"
+    },
+    {
+     "en": "eat healthier",
+     "uz": "sog'lomroq ovqatlanmoq"
+    },
+    {
+     "en": "fruits and vegetables",
+     "uz": "mevalar va sabzavotlar"
+    },
+    {
+     "en": "local farmers",
+     "uz": "mahalliy fermerlar"
+    },
+    {
+     "en": "fresh produce",
+     "uz": "yangi mahsulotlar"
+    },
+    {
+     "en": "incredible difference",
+     "uz": "ajoyib farq"
+    },
+    {
+     "en": "amazing taste",
+     "uz": "ajoyib ta'm"
+    },
+    {
+     "en": "you'd love it",
+     "uz": "sizga yoqadi"
+    },
+    {
+     "en": "take care",
+     "uz": "o'zingizga g'amxo'rlik qiling"
+    },
+    {
+     "en": "healthy eating",
+     "uz": "sog'lom ovqatlanish"
+    },
+    {
+     "en": "organic food",
+     "uz": "organik oziq-ovqat"
+    },
+    {
+     "en": "support local",
+     "uz": "mahalliyni qo'llab-quvvatlash"
+    },
+    {
+     "en": "weekend shopping",
+     "uz": "dam olish kuni xaridi"
+    },
+    {
+     "en": "great quality",
+     "uz": "ajoyib sifat"
+    },
+    {
+     "en": "farm fresh",
+     "uz": "fermadan yangi"
+    },
+    {
+     "en": "highly recommend",
+     "uz": "qattiq tavsiya qilmoq"
+    },
+    {
+     "en": "worth visiting",
+     "uz": "tashrif buyurishga arziydi"
+    },
+    {
+     "en": "check it out",
+     "uz": "ko'rib chiqing"
+    },
+    {
+     "en": "let me know",
+     "uz": "menga xabar bering"
+    },
+    {
+     "en": "really good",
+     "uz": "juda yaxshi"
+    }
+   ],
+   "task12": [
+    {
+     "en": "farmers market",
+     "uz": "dehqonlar bozori"
+    },
+    {
+     "en": "produce available",
+     "uz": "mavjud mahsulotlar"
+    },
+    {
+     "en": "supermarket alternatives",
+     "uz": "supermarket alternativlari"
+    },
+    {
+     "en": "superior quality",
+     "uz": "yuqori sifat"
+    },
+    {
+     "en": "Saturday mornings",
+     "uz": "shanba ertalarilari"
+    },
+    {
+     "en": "seating areas",
+     "uz": "o'tirish joylari"
+    },
+    {
+     "en": "artisan bread stalls",
+     "uz": "hunarmand non do'konlari"
+    },
+    {
+     "en": "organic dairy products",
+     "uz": "organik sut mahsulotlari"
+    },
+    {
+     "en": "highlight of my weekend",
+     "uz": "dam olish kunimning eng yaxshi qismi"
+    },
+    {
+     "en": "support local farmers",
+     "uz": "mahalliy fermerlarni qo'llab-quvvatlash"
+    },
+    {
+     "en": "reasonable prices",
+     "uz": "maqbul narxlar"
+    },
+    {
+     "en": "market hours",
+     "uz": "bozor soatlari"
+    },
+    {
+     "en": "extend the hours",
+     "uz": "soatlarni uzaytirmoq"
+    },
+    {
+     "en": "I would like to suggest",
+     "uz": "Men taklif qilmoqchiman"
+    },
+    {
+     "en": "delighted with",
+     "uz": "xursand bo'lgan"
+    },
+    {
+     "en": "noticeably fresher",
+     "uz": "sezilarli darajada yangi"
+    },
+    {
+     "en": "speak directly",
+     "uz": "to'g'ridan-to'g'ri gaplashmoq"
+    },
+    {
+     "en": "welcome more variety",
+     "uz": "ko'proq xilma-xillikni qadrlayman"
+    },
+    {
+     "en": "Yours sincerely",
+     "uz": "Hurmat bilan"
+    },
+    {
+     "en": "continue visiting",
+     "uz": "tashrif buyurishni davom ettirmoq"
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "would": {
+    "uz": "edim",
+    "type": "modal"
+   },
+   "should": {
+    "uz": "kerak",
+    "type": "modal"
+   },
+   "Firstly": {
+    "uz": "Birinchidan",
+    "type": "adv"
+   },
+   "However": {
+    "uz": "Biroq",
+    "type": "adv"
+   },
+   "amazing": {
+    "uz": "hayratlanarli",
+    "type": "adv"
+   },
+   "equally": {
+    "uz": "teng ravishda",
+    "type": "adv"
+   },
+   "keen to": {
+    "uz": "juda xohlaydigan, ishtiyoqli",
+    "type": "colloc"
+   },
+   "Secondly": {
+    "uz": "Ikkinchidan",
+    "type": "adv"
+   },
+   "directly": {
+    "uz": "to'g'ridan-to'g'ri",
+    "type": "adv"
+   },
+   "entirely": {
+    "uz": "butunlay",
+    "type": "adv"
+   },
+   "Take care": {
+    "uz": "O'zingizni ehtiyot qiling",
+    "type": "phrasal"
+   },
+   "chat with": {
+    "uz": "bilan gaplashmoq, suhbatlashmoq",
+    "type": "phrasal"
+   },
+   "delighted": {
+    "uz": "xursand",
+    "type": "adv"
+   },
+   "dying out": {
+    "uz": "yo'qolib bormoqda",
+    "type": "phrasal"
+   },
+   "fade away": {
+    "uz": "asta-sekin yo'qolmoq",
+    "type": "phrasal"
+   },
+   "genuinely": {
+    "uz": "chinakamiga",
+    "type": "adv"
+   },
+   "absolutely": {
+    "uz": "albatta",
+    "type": "adv"
+   },
+   "better off": {
+    "uz": "yaxshiroq bo'lardik",
+    "type": "idiom"
+   },
+   "come along": {
+    "uz": "birga bormoq, qo'shilmoq",
+    "type": "phrasal"
+   },
+   "incredible": {
+    "uz": "ajoyib",
+    "type": "adv"
+   },
+   "noticeably": {
+    "uz": "sezilarli darajada",
+    "type": "adv"
+   },
+   "For a start": {
+    "uz": "avvalo, boshlanishiga",
+    "type": "linking"
+   },
+   "Furthermore": {
+    "uz": "Bundan tashqari",
+    "type": "adv"
+   },
+   "Let me know": {
+    "uz": "menga xabar ber",
+    "type": "phrasal"
+   },
+   "differently": {
+    "uz": "har xil",
+    "type": "adv"
+   },
+   "effectively": {
+    "uz": "samarali",
+    "type": "adv"
+   },
+   "Additionally": {
+    "uz": "Qo'shimcha ravishda",
+    "type": "adv"
+   },
+   "On the whole": {
+    "uz": "umuman olganda",
+    "type": "linking"
+   },
+   "increasingly": {
+    "uz": "tobora",
+    "type": "adv"
+   },
+   "reaching out": {
+    "uz": "murojaat qilmoq, bog'lanmoq",
+    "type": "phrasal"
+   },
+   "In conclusion": {
+    "uz": "Xulosa qilib aytganda",
+    "type": "adv"
+   },
+   "digital world": {
+    "uz": "raqamli dunyo",
+    "type": "colloc"
+   },
+   "eat healthier": {
+    "uz": "sog'lomroq ovqatlanmoq",
+    "type": "phrasal"
+   },
+   "fruit and veg": {
+    "uz": "meva va sabzavot",
+    "type": "colloc"
+   },
+   "local farmers": {
+    "uz": "mahalliy fermerlar",
+    "type": "colloc"
+   },
+   "seating areas": {
+    "uz": "o'tirish joylari",
+    "type": "colloc"
+   },
+   "typing skills": {
+    "uz": "terish mahorati",
+    "type": "colloc"
+   },
+   "you'd love it": {
+    "uz": "senga juda yoqadi",
+    "type": "colloc"
+   },
+   "On top of that": {
+    "uz": "bundan tashqari, ustiga-ustak",
+    "type": "linking"
+   },
+   "delighted with": {
+    "uz": "...dan juda mamnun",
+    "type": "colloc"
+   },
+   "farmers market": {
+    "uz": "dehqon bozori",
+    "type": "colloc"
+   },
+   "personal touch": {
+    "uz": "shaxsiy iliqlik, ta'sir",
+    "type": "colloc"
+   },
+   "revolve around": {
+    "uz": "atrofida aylanmoq, asoslanmoq",
+    "type": "phrasal"
+   },
+   "speak directly": {
+    "uz": "to'g'ridan-to'g'ri gaplashmoq",
+    "type": "colloc"
+   },
+   "valuable skill": {
+    "uz": "qimmatli mahorat",
+    "type": "colloc"
+   },
+   "cursive writing": {
+    "uz": "qo'lyozma",
+    "type": "colloc"
+   },
+   "look forward to": {
+    "uz": "intiqlik bilan kutmoq",
+    "type": "phrasal"
+   },
+   "digital literacy": {
+    "uz": "raqamli savodxonlik",
+    "type": "colloc"
+   },
+   "one or the other": {
+    "uz": "ikkovidan biri, u yoki bu",
+    "type": "idiom"
+   },
+   "superior quality": {
+    "uz": "yuqori sifat",
+    "type": "colloc"
+   },
+   "Saturday mornings": {
+    "uz": "shanba kunlari ertalab",
+    "type": "colloc"
+   },
+   "fine motor skills": {
+    "uz": "mayda motorika ko'nikmalari",
+    "type": "colloc"
+   },
+   "produce available": {
+    "uz": "mavjud mahsulotlar",
+    "type": "colloc"
+   },
+   "hear your thoughts": {
+    "uz": "fikringizni eshitmoq",
+    "type": "colloc"
+   },
+   "noticeably fresher": {
+    "uz": "sezilarli darajada yangiroq",
+    "type": "colloc"
+   },
+   "memory and learning": {
+    "uz": "xotira va o'rganish",
+    "type": "colloc"
+   },
+   "personal expression": {
+    "uz": "shaxsiy ifoda",
+    "type": "colloc"
+   },
+   "worth holding on to": {
+    "uz": "saqlab qolishga arziydi",
+    "type": "phrasal"
+   },
+   "artisan bread stalls": {
+    "uz": "hunarmand non rastalari",
+    "type": "colloc"
+   },
+   "handwritten messages": {
+    "uz": "qo'lyozma xabarlar",
+    "type": "colloc"
+   },
+   "fruits and vegetables": {
+    "uz": "meva va sabzavotlar",
+    "type": "colloc"
+   },
+   "personal significance": {
+    "uz": "shaxsiy ahamiyat",
+    "type": "colloc"
+   },
+   "support local farmers": {
+    "uz": "mahalliy fermerlarni qo'llab-quvvatlash",
+    "type": "phrasal"
+   },
+   "would like to suggest": {
+    "uz": "taklif qilmoqchiman",
+    "type": "modal"
+   },
+   "organic dairy products": {
+    "uz": "organik sut mahsulotlari",
+    "type": "colloc"
+   },
+   "highlight of my weekend": {
+    "uz": "dam olish kunlarimning eng yaxshi qismi",
+    "type": "colloc"
+   },
+   "supermarket alternatives": {
+    "uz": "supermarket muqobillari",
+    "type": "colloc"
+   }
+  }
+ },
+ "created_at": "2026-05-06T15:00:19.006429+00:00",
+ "updated_at": "2026-07-06T10:56:41.945127+00:00"
+}

@@ -1,0 +1,487 @@
+{
+ "id": 621,
+ "mock_type": "ielts-listening",
+ "mock_number": 96,
+ "title": "IELTS Listening Mock 96",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "gap-fill-form",
+    "title": "Early Learning Childcare Centre Enrolment Form",
+    "answers": {
+     "1": [
+      "4"
+     ],
+     "2": [
+      "46 Wombat"
+     ],
+     "3": [
+      "Thursday"
+     ],
+     "4": [
+      "8.30"
+     ],
+     "5": [
+      "red"
+     ],
+     "6": [
+      "lunch"
+     ],
+     "7": [
+      "glasses"
+     ],
+     "8": [
+      "Ball",
+      "BALL"
+     ],
+     "9": [
+      "aunt"
+     ],
+     "10": [
+      "month"
+     ]
+    },
+    "subParts": null,
+    "audioFile": "https://audio.mock-stream.com/ielts-listening/test96/part1.m4a",
+    "formTitle": "",
+    "partNumber": 1,
+    "formContent": "<div class=\"ielts-form-container\"><div class=\"form-section\"><div class=\"form-title\" style=\"text-align:center;font-weight:700;font-size:1.15em;margin-bottom:10px;\">Early Learning Childcare Centre<br>Enrolment Form</div><p style=\"font-style:italic;\">Example</p><p>Parent or guardian: Carol <span style=\"text-decoration:underline;\">Smith</span></p><p style=\"font-weight:700;margin-top:10px;\">Personal Details</p><p style=\"margin-top:6px;\">Child&rsquo;s name: Kate</p><p style=\"margin-top:6px;\">Age: <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"1\" style=\"width:130px;text-align:center;\"></p><p style=\"margin-top:6px;\">Address: <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"2\" style=\"width:130px;text-align:center;\"> Road, Woodside, 4032</p><p style=\"margin-top:6px;\">Phone: 3345 9865</p><p style=\"font-weight:700;margin-top:10px;\">Childcare Information</p><p style=\"margin-top:6px;\">Days enrolled for: Monday and <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"3\" style=\"width:130px;text-align:center;\"></p><p style=\"margin-top:6px;\">Start time: <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"4\" style=\"width:130px;text-align:center;\"> am</p><p style=\"margin-top:6px;\">Childcare group: the <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"5\" style=\"width:130px;text-align:center;\"> group</p><p style=\"margin-top:6px;\">Which meal/s are required each day? <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"6\" style=\"width:130px;text-align:center;\"></p><p style=\"margin-top:6px;\">Medical conditions: needs <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"7\" style=\"width:130px;text-align:center;\"></p><p style=\"margin-top:6px;\">Emergency contact: Jenny <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"8\" style=\"width:130px;text-align:center;\"> &nbsp;&nbsp;Phone: 3346 7523</p><p style=\"margin-top:6px;\">Relationship to child: <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"9\" style=\"width:130px;text-align:center;\"></p><p style=\"font-weight:700;margin-top:10px;\">Fees</p><p style=\"margin-top:6px;\">Will pay each <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"10\" style=\"width:130px;text-align:center;\"></p></div></div>",
+    "instruction": "You will hear a woman enrolling her child at a childcare centre.<br>Complete the form below. Write <strong>ONE WORD AND/OR A NUMBER</strong> for each answer.",
+    "questionRange": "1-10"
+   },
+   {
+    "type": "mixed",
+    "title": "Dolphin Conservation Trust",
+    "answers": {
+     "11": [
+      "C",
+      "E"
+     ],
+     "12": [
+      "C",
+      "E"
+     ],
+     "13": [
+      "B"
+     ],
+     "14": [
+      "A"
+     ],
+     "15": [
+      "C"
+     ],
+     "16": [
+      "B"
+     ],
+     "17": [
+      "C"
+     ],
+     "18": [
+      "D"
+     ],
+     "19": [
+      "D"
+     ],
+     "20": [
+      "A"
+     ]
+    },
+    "subParts": [
+     {
+      "type": "mcq-multi",
+      "options": [
+       {
+        "text": "Children make up most of the membership.",
+        "letter": "A"
+       },
+       {
+        "text": "It&rsquo;s the country&rsquo;s largest conservation organisation.",
+        "letter": "B"
+       },
+       {
+        "text": "It helps finance campaigns for changes in fishing practices.",
+        "letter": "C"
+       },
+       {
+        "text": "It employs several dolphin experts full-time.",
+        "letter": "D"
+       },
+       {
+        "text": "Volunteers help in various ways.",
+        "letter": "E"
+       }
+      ],
+      "instruction": "Questions 11 and 12<br>Choose <strong>TWO</strong> letters, <strong>A-E</strong>.<br>Which TWO things does Alice say about the Dolphin Conservation Trust?",
+      "questionIds": [
+       11,
+       12
+      ]
+     },
+     {
+      "type": "mcq",
+      "questions": [
+       {
+        "id": 13,
+        "text": "Why is Alice so pleased the Trust has won the Charity Commission award?",
+        "options": [
+         {
+          "text": "It has brought in extra money.",
+          "letter": "A"
+         },
+         {
+          "text": "It made the work of the trust better known.",
+          "letter": "B"
+         },
+         {
+          "text": "It has attracted more members.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 14,
+        "text": "Alice says oil exploration causes problems to dolphins because of",
+        "options": [
+         {
+          "text": "noise.",
+          "letter": "A"
+         },
+         {
+          "text": "oil leaks.",
+          "letter": "B"
+         },
+         {
+          "text": "movement of ships.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 15,
+        "text": "Alice became interested in dolphins when",
+        "options": [
+         {
+          "text": "she saw one swimming near her home.",
+          "letter": "A"
+         },
+         {
+          "text": "she heard a speaker at her school.",
+          "letter": "B"
+         },
+         {
+          "text": "she read a book about them.",
+          "letter": "C"
+         }
+        ]
+       }
+      ],
+      "instruction": "Questions 13-15<br>Choose the correct letter, <strong>A</strong>, <strong>B</strong>, or <strong>C</strong>."
+     },
+     {
+      "type": "matching",
+      "options": [
+       {
+        "text": "Moondancer",
+        "letter": "A"
+       },
+       {
+        "text": "Echo",
+        "letter": "B"
+       },
+       {
+        "text": "Kiwi",
+        "letter": "C"
+       },
+       {
+        "text": "Samson",
+        "letter": "D"
+       }
+      ],
+      "boxTitle": "Dolphins",
+      "questions": [
+       {
+        "id": 16,
+        "text": "It has not been seen this year."
+       },
+       {
+        "id": 17,
+        "text": "It is photographed more than the others."
+       },
+       {
+        "id": 18,
+        "text": "It is always very energetic."
+       },
+       {
+        "id": 19,
+        "text": "It is the newest one in the scheme."
+       },
+       {
+        "id": 20,
+        "text": "It has an unusual shape."
+       }
+      ],
+      "instruction": "Questions 16-20<br>Which dolphin does Alice make each of the following comments about?<br>Write the correct letter, <strong>A</strong>, <strong>B</strong>, <strong>C</strong> or <strong>D</strong>, next to questions 16-20."
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/ielts-listening/test96/part2.m4a",
+    "partNumber": 2,
+    "instruction": "You will hear a woman called Alice talking about the Dolphin Conservation Trust.",
+    "questionRange": "11-20"
+   },
+   {
+    "type": "mixed",
+    "title": "Theatre Studies Course",
+    "answers": {
+     "21": [
+      "C"
+     ],
+     "22": [
+      "A"
+     ],
+     "23": [
+      "A"
+     ],
+     "24": [
+      "B"
+     ],
+     "25": [
+      "B"
+     ],
+     "26": [
+      "E"
+     ],
+     "27": [
+      "D"
+     ],
+     "28": [
+      "A"
+     ],
+     "29": [
+      "G"
+     ],
+     "30": [
+      "C"
+     ]
+    },
+    "subParts": [
+     {
+      "type": "mcq",
+      "questions": [
+       {
+        "id": 21,
+        "text": "What helped Rob to prepare to play the character of a doctor?",
+        "options": [
+         {
+          "text": "the stories his grandfather told him",
+          "letter": "A"
+         },
+         {
+          "text": "the times when he watched his grandfather working",
+          "letter": "B"
+         },
+         {
+          "text": "the way he imagined his grandfather at work",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 22,
+        "text": "In the play&rsquo;s first scene, the boredom of village life was suggested by",
+        "options": [
+         {
+          "text": "repetition of words and phrases.",
+          "letter": "A"
+         },
+         {
+          "text": "scenery painted in dull colours.",
+          "letter": "B"
+         },
+         {
+          "text": "long pauses within conversations.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 23,
+        "text": "What has Rob learned about himself through working in a group?",
+        "options": [
+         {
+          "text": "He likes to have clear guidelines.",
+          "letter": "A"
+         },
+         {
+          "text": "He copes well with stress.",
+          "letter": "B"
+         },
+         {
+          "text": "He thinks he is a good leader.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 24,
+        "text": "To support the production, research material was used which described",
+        "options": [
+         {
+          "text": "political developments.",
+          "letter": "A"
+         },
+         {
+          "text": "changing social attitudes.",
+          "letter": "B"
+         },
+         {
+          "text": "economic transformations.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 25,
+        "text": "What problem did the students overcome in the final rehearsal?",
+        "options": [
+         {
+          "text": "one person forgetting their words",
+          "letter": "A"
+         },
+         {
+          "text": "an equipment failure",
+          "letter": "B"
+         },
+         {
+          "text": "the injury of one character",
+          "letter": "C"
+         }
+        ]
+       }
+      ],
+      "instruction": "Questions 21-25<br>Choose the correct letter, <strong>A</strong>, <strong>B</strong> or <strong>C</strong>."
+     },
+     {
+      "type": "matching",
+      "options": [
+       {
+        "text": "be on time",
+        "letter": "A"
+       },
+       {
+        "text": "get a letter of recommendation",
+        "letter": "B"
+       },
+       {
+        "text": "plan for the final year",
+        "letter": "C"
+       },
+       {
+        "text": "make sure the institution&rsquo;s focus is relevant",
+        "letter": "D"
+       },
+       {
+        "text": "show ability in Theatre Studies",
+        "letter": "E"
+       },
+       {
+        "text": "make travel arrangements and bookings",
+        "letter": "F"
+       },
+       {
+        "text": "ask for help",
+        "letter": "G"
+       }
+      ],
+      "boxTitle": "Action",
+      "questions": [
+       {
+        "id": 26,
+        "text": "in the second year of the course"
+       },
+       {
+        "id": 27,
+        "text": "when first choosing where to go"
+       },
+       {
+        "id": 28,
+        "text": "when sending in your choices"
+       },
+       {
+        "id": 29,
+        "text": "when writing your personal statement"
+       },
+       {
+        "id": 30,
+        "text": "when doing the year abroad"
+       }
+      ],
+      "instruction": "Questions 26-30<br>What action is needed for the following stages in doing the &lsquo;year abroad&rsquo; option?<br>Choose <strong>FIVE</strong> answers from the box and write the correct letter, <strong>A-G</strong>, next to questions 26-30."
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/ielts-listening/test96/part3.m4a",
+    "partNumber": 3,
+    "instruction": "You will hear a student called Rob talking to his tutor about a Theatre Studies course.",
+    "questionRange": "21-30"
+   },
+   {
+    "type": "gap-fill-form",
+    "title": "'Self-regulatory focus theory' and leadership",
+    "answers": {
+     "31": [
+      "achievement",
+      "achievements"
+     ],
+     "32": [
+      "personality",
+      "character"
+     ],
+     "33": [
+      "Situational",
+      "situational"
+     ],
+     "34": [
+      "friend"
+     ],
+     "35": [
+      "aspirations",
+      "ambitions"
+     ],
+     "36": [
+      "style"
+     ],
+     "37": [
+      "development"
+     ],
+     "38": [
+      "vision"
+     ],
+     "39": [
+      "structures"
+     ],
+     "40": [
+      "innovation",
+      "innovations"
+     ]
+    },
+    "subParts": null,
+    "audioFile": "https://audio.mock-stream.com/ielts-listening/test96/part4.m4a",
+    "formTitle": "",
+    "partNumber": 4,
+    "formContent": "<div class=\"ielts-form-container\"><div class=\"form-section\"><div class=\"form-title\" style=\"text-align:center;font-weight:700;font-size:1.2em;margin-bottom:10px;\">&lsquo;Self-regulatory focus theory&rsquo; and leadership</div><p style=\"font-weight:700;\">Self-regulatory focus theory</p><p style=\"margin-top:6px;\">People&rsquo;s focus is to approach pleasure or avoid pain</p><p>Promotion goals focus on <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"31\" style=\"width:130px;text-align:center;\"></p><p>Prevention goals emphasise avoiding punishment</p><p style=\"font-weight:700;margin-top:10px;\">Factors that affect people&rsquo;s focus</p><p style=\"margin-top:6px;\">The Chronic Factor</p><p style=\"padding-left:18px;\">&bull;&nbsp; comes from one&rsquo;s <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"32\" style=\"width:130px;text-align:center;\"></p><p style=\"margin-top:6px;\">The <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"33\" style=\"width:130px;text-align:center;\"> Factor</p><p style=\"padding-left:18px;\">&bull;&nbsp; we are more likely to focus on promotion goals when with a <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"34\" style=\"width:130px;text-align:center;\"></p><p style=\"padding-left:18px;\">&bull;&nbsp; we are more likely to focus on prevention goals with our boss</p><p style=\"font-weight:700;margin-top:10px;\">How people&rsquo;s focus affects them</p><p style=\"margin-top:6px;\">Promotion Focus: People think about an ideal version of themselves, their <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"35\" style=\"width:130px;text-align:center;\"> and their gains.</p><p style=\"margin-top:6px;\">Prevention Focus: People think about their &lsquo;ought&rsquo; self and their obligations</p><p style=\"font-weight:700;margin-top:10px;\">Leaders</p><p style=\"margin-top:6px;\">Leadership behaviour and <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"36\" style=\"width:130px;text-align:center;\"> affects people&rsquo;s focus</p><p style=\"font-style:italic;margin-top:8px;\">Transformational Leaders:</p><p style=\"padding-left:18px;\">&bull;&nbsp; pay special attention to the <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"37\" style=\"width:130px;text-align:center;\"> of their followers</p><p style=\"padding-left:18px;\">&bull;&nbsp; passionately communicate a clear <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"38\" style=\"width:130px;text-align:center;\"></p><p style=\"padding-left:18px;\">&bull;&nbsp; inspire promotion focus in followers</p><p style=\"font-style:italic;margin-top:8px;\">Transactional Leaders:</p><p style=\"padding-left:18px;\">&bull;&nbsp; create <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"39\" style=\"width:130px;text-align:center;\"> to make expectations clear</p><p style=\"padding-left:18px;\">&bull;&nbsp; emphasise the results of a mistake</p><p style=\"padding-left:18px;\">&bull;&nbsp; inspire prevention focus in followers</p><p style=\"font-weight:700;margin-top:10px;\">Conclusion</p><p style=\"margin-top:6px;\">Promotion Focus is good for jobs requiring <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"40\" style=\"width:130px;text-align:center;\"></p><p>Prevention Focus is good for work such as a surgeon</p><p>Leaders&rsquo; actions affect which focus people use</p></div></div>",
+    "instruction": "You will hear part of a lecture about self-regulatory focus theory and leadership.<br>Complete the notes below. Write <strong>ONE WORD ONLY</strong> for each answer.",
+    "questionRange": "31-40"
+   }
+  ],
+  "source": "Cambridge 10 · Academic Listening Test 3",
+  "examDate": "",
+  "testInfo": {
+   "title": "IELTS Listening Practice Test",
+   "sections": 4,
+   "totalTime": 40,
+   "totalQuestions": 40
+  }
+ },
+ "created_at": "2026-07-13T07:51:51.017247+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

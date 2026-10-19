@@ -1,0 +1,452 @@
+{
+ "id": 124,
+ "mock_type": "ielts-writing",
+ "mock_number": 15,
+ "title": "IELTS Writing Mock 15",
+ "status": "published",
+ "mock_data": {
+  "tasks": {
+   "task1": {
+    "title": "Tea and coffee imports",
+    "prompt": "The graph below shows the amount of tea and coffee imported by four different countries in tonnes in 2007.",
+    "wordGoal": 150,
+    "chartDesc": {
+     "title": "The import of tea and coffee, 2007",
+     "xAxis": "Country",
+     "yAxis": "Amount in tonnes",
+     "period": "2007",
+     "series": [
+      {
+       "name": "Coffee",
+       "points": [
+        {
+         "at": "Canada",
+         "value": 80000
+        },
+        {
+         "at": "UK",
+         "value": 20000
+        },
+        {
+         "at": "USA",
+         "value": 40000
+        },
+        {
+         "at": "Germany",
+         "value": 50000
+        }
+       ]
+      },
+      {
+       "name": "Tea",
+       "points": [
+        {
+         "at": "UK",
+         "value": 160000
+        },
+        {
+         "at": "USA",
+         "value": 120000
+        },
+        {
+         "at": "Germany",
+         "value": 40000
+        }
+       ]
+      }
+     ],
+     "overview": "The UK imported by far the highest quantity of tea (160,000 tonnes), whereas Canada imported the highest quantity of coffee (80,000 tonnes). Overall, tea imports significantly exceeded coffee imports in the UK and USA, while Canada and Germany imported more coffee than tea.",
+     "chartType": "bar chart",
+     "confidence": "high",
+     "unreadable": [
+      "Exact figure for Canada's tea imports (bar is just below 20,000 tonnes gridline)"
+     ],
+     "keyFeatures": [
+      "UK was the largest importer of tea at 160,000 tonnes, compared to just 20,000 tonnes of coffee.",
+      "USA imported 120,000 tonnes of tea and 40,000 tonnes of coffee.",
+      "Canada was the biggest coffee importer at 80,000 tonnes.",
+      "Germany had the most balanced imports, with 50,000 tonnes of coffee and 40,000 tonnes of tea."
+     ]
+    },
+    "chartType": "bar_chart",
+    "dataNature": "static",
+    "instruction": "Summarise the information by selecting and reporting the main features, and make comparison where relevant.",
+    "sampleBand5": "<p>The bar graph shows <mark>how much tea and coffee</mark> was brought into four countries in 2007. The amounts are in tonnes.</p>\n<p>It is clear that Germany imported the most of both drinks. <mark>Then comes</mark> France, and after that is Japan. The UK imported the least.</p>\n<p>Germany imported about 80,000 tonnes of coffee and over 40,000 tonnes of tea. France imported around 60,000 tonnes of coffee and about 30,000 tonnes of tea. Japan's coffee imports were about 20,000 tonnes and <mark>it imported</mark> just under 20,000 tonnes of tea. The UK imported the least amount of coffee, at about 10,000 tonnes, and also the least tea, at just above 10,000 tonnes.</p>\n<p><mark>In general</mark>, all of the countries imported more coffee than tea.</p>",
+    "sampleBand6": "<p>The bar graph shows the amount of tea and coffee that were imported <mark>by four different countries</mark> in the year 2007. The units are measured in tonnes.</p>\n<p>Overall, what stands out from the graph is that Germany and France imported more coffee than tea. On the other hand, the UK and Japan imported more tea than coffee. <mark>It is also noticeable</mark> that Germany had the highest amount of coffee imports.</p>\n<p>Looking at the details, Germany imported around 600 tonnes of coffee, which was the highest. France imported about 480 tonnes of coffee, which was the second highest. The UK imported approximately 430 tonnes of tea, and Japan imported around 390 tonnes of tea. <mark>Regarding the tea imports</mark>, Germany and France both imported <mark>a similar amount</mark>, at around 200 tonnes each. The UK's coffee import was about 200 tonnes, and Japan's coffee import was the lowest, <mark>at approximately</mark> 150 tonnes.</p>",
+    "sampleBand7": "<p>The bar graph <mark>illustrates the quantities</mark> of tea and coffee imported into four countries in the year 2007, measured in tonnes.</p>\n<p>Overall, it is <mark>immediately apparent</mark> that Germany and France imported the largest amounts of both beverages. The UK imported more tea than coffee, while Japan's imports were relatively low for both commodities. There were also <mark>significant differences</mark> between tea and coffee consumption in each country.</p>\n<p>Germany's coffee imports were the highest, reaching approximately 125,000 tonnes, while its tea imports were around 80,000 tonnes. France also imported a substantial amount of coffee, at roughly 95,000 tonnes, and its tea imports were the second highest at about 75,000 tonnes. The UK, <mark>in contrast</mark>, imported considerably more tea (around 90,000 tonnes) than coffee (approximately 60,000 tonnes).</p>\n<p>Japan had the lowest import figures for both beverages, with coffee imports <mark>standing at</mark> approximately 20,000 tonnes and tea imports at around 30,000 tonnes. Thus, Japan's total imports were <mark>significantly lower compared to</mark> the other three countries. While there are <mark>some discrepancies</mark> in the amounts, coffee was generally favoured over tea in Germany, France, and Japan.</p>",
+    "sampleBand8": "<p>The bar graph <mark>illustrates the quantities</mark> of tea and coffee imported by four nations in the year 2007. Units are measured in tonnes.</p>\n\n<p>An <mark>overview of the data</mark> reveals that Germany and the United States imported significantly more coffee than tea, while the opposite was true for Russia and Japan. Germany was the largest importer of both commodities <mark>by a considerable margin</mark>.</p>\n\n<p>Specifically, Germany imported approximately 700,000 tonnes of coffee, <mark>dwarfing the figures</mark> for the other countries. The United States imported roughly 550,000 tonnes. In contrast, Russia imported about 200,000 tonnes of coffee, and Japan imported the least, at just over 100,000 tonnes. Concerning tea imports, Germany again led with around 400,000 tonnes. <mark>A similar trend can be observed</mark> in Russia, which imported approximately 380,000 tonnes of tea. The United States imported about 250,000 tonnes, while Japan's tea imports were the lowest, <mark>hovering around</mark> 300,000 tonnes.</p>\n\n<p>In conclusion, the data indicates a strong preference for coffee in Germany and the USA, whilst tea was more popular in Russia and Japan. Germany was the <mark>pre-eminent importer</mark> of both beverages <mark>across all four nations</mark>.</p>",
+    "sampleBand9": "<p>The bar graph <mark>illustrates the quantities of</mark> tea and coffee imported by four nations in the year 2007, measured in tonnes. <mark>An overarching trend</mark> reveals a significantly higher demand for coffee than tea across all countries, with Germany and the USA being the primary importers of both beverages.</p>\n\n<p>Specifically, the USA imported the largest amount of coffee, <mark>reaching approximately</mark> 800,000 tonnes, while Germany followed with around 600,000 tonnes. The UK and Japan imported considerably less, at roughly 200,000 and 150,000 tonnes respectively. In contrast, tea imports were substantially lower across the board. Germany imported the most tea, at approximately 180,000 tonnes. <mark>Subsequently</mark>, the USA imported around 150,000 tonnes, while the UK and Japan imported the least, <mark>registering at</mark> 100,000 and 80,000 tonnes respectively.</p>\n\n<p><mark>It is noteworthy that</mark> the difference between coffee and tea imports was most pronounced in the USA, where coffee imports <mark>outstripped those of tea by a factor of more than five</mark>. Similarly, Germany showed a considerable preference for coffee, while the UK and Japan, despite importing less overall, still exhibited a clear preference for coffee over tea. <mark>In essence</mark>, the data underscores a global inclination towards coffee consumption compared to tea in these four countries in 2007.</p>",
+    "timeMinutes": 20,
+    "chartDescImg": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/15.png",
+    "sampleAnswer": "The bar chart compares the quantity of tea and coffee, measured in tonnes, imported by four countries—the UK, France, Germany, and the USA—in 2007. Overall, the USA imported the largest amount of both beverages, while the UK showed a strong preference for tea over coffee.\n\nThe USA was the leading importer of both commodities, bringing in approximately 350,000 tonnes of coffee and 250,000 tonnes of tea. Germany ranked second in coffee imports with around 280,000 tonnes, but its tea imports were significantly lower at roughly 80,000 tonnes. France showed a similar pattern, importing about 200,000 tonnes of coffee compared to only 60,000 tonnes of tea.\n\nIn contrast, the UK displayed the opposite trend, with tea imports vastly exceeding coffee. British tea imports stood at approximately 180,000 tonnes, more than double its coffee imports of around 70,000 tonnes. This made the UK the only country among the four where tea consumption clearly outweighed coffee. Notably, Germany and France showed a clear preference for coffee, while the UK was the only nation to favor tea.",
+    "chartImageUrl": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/15.png",
+    "uzSampleBand5": "<p>Bar grafda 2007-yilda to‘rtta davlatga <mark>qancha choy va qahva</mark> olib kirilgani ko‘rsatilgan. Miqdorlar tonnada.</p>\n<p>Shuni aniq ko‘rish mumkinki, Germaniya ikkala ichimlikni ham eng ko‘p import qilgan. <mark>Keyingi o‘rinda</mark> Fransiya, undan keyin esa Yaponiya turadi. Buyuk Britaniya eng kam import qilgan.</p>\n<p>Germaniya taxminan 80 000 tonna qahva va 40 000 tonnadan ortiq choy import qilgan. Fransiya taxminan 60 000 tonna qahva va taxminan 30 000 tonna choy import qilgan. Yaponiyaning qahva importi taxminan 20 000 tonnani tashkil etdi va <mark>u</mark> 20 000 tonnadan kamroq choy import qildi. Buyuk Britaniya eng kam miqdorda qahva, taxminan 10 000 tonna, shuningdek, eng kam choy, 10 000 tonnadan sal ko'proq import qildi.</p>\n<p><mark>Umuman olganda</mark>, barcha davlatlar choyga qaraganda ko'proq qahva import qilgan.</p>",
+    "uzSampleBand6": "<p>Ustunli grafikda 2007 yilda <mark>to'rtta turli mamlakat tomonidan</mark> import qilingan choy va qahva miqdori ko'rsatilgan. O'lchov birliklari tonnalarda.</p>\n<p>Umuman olganda, grafikdan ko'rinib turibdiki, Germaniya va Frantsiya choydan ko'ra ko'proq qahva import qilgan. Boshqa tomondan, Buyuk Britaniya va Yaponiya qahvadan ko'ra ko'proq choy import qilgan. <mark>Shuni ham ta'kidlash joizki</mark>, Germaniya qahva importi bo'yicha eng yuqori ko'rsatkichga ega edi.</p>\n<p>Tafsilotlarga e'tibor qaratadigan bo'lsak, Germaniya taxminan 600 tonna qahva import qilgan, bu eng yuqori ko'rsatkich edi. Frantsiya taxminan 480 tonna qahva import qilgan, bu ikkinchi eng yuqori ko'rsatkich edi. Buyuk Britaniya taxminan 430 tonna choy, Yaponiya esa taxminan 390 tonna choy import qilgan. <mark>Choy importiga kelsak</mark>, Germaniya va Frantsiya ikkalasi ham <mark>o'xshash miqdorda</mark>, har biri taxminan 200 tonna import qilgan. Buyuk Britaniyaning qahva importi taxminan 200 tonnani, Yaponiyaning qahva importi esa eng past, <mark>taxminan</mark> 150 tonnani tashkil etdi.</p>",
+    "uzSampleBand7": "<p>Ustunli grafik <mark>2007-yilda to'rt davlatga import qilingan</mark> choy va kofe miqdorini tonnada ko'rsatadi.</p>\n<p>Umuman olganda, Germaniya va Fransiya ikkala ichimlikning ham eng ko'p miqdorini import qilgani <mark>darhol ayon bo'ladi</mark>. Buyuk Britaniya kofega nisbatan ko'proq choy import qilgan bo'lsa, Yaponiya importi ikkala mahsulot bo'yicha ham nisbatan past bo'lgan. Har bir davlatda choy va kofe iste'moli o'rtasida ham <mark>sezilarli farqlar</mark> mavjud edi.</p>\n<p>Germaniyaning kofe importi eng yuqori bo'lib, taxminan 125 000 tonnaga yetdi, choy importi esa taxminan 80 000 tonnani tashkil etdi. Fransiya ham taxminan 95 000 tonna miqdorida katta miqdorda kofe import qildi, uning choy importi esa taxminan 75 000 tonna bilan ikkinchi o'rinda turadi. Buyuk Britaniya esa, <mark>aksincha</mark>, kofega (taxminan 60 000 tonna) nisbatan ancha ko'p choy (taxminan 90 000 tonna) import qildi.</p>\n<p>Yaponiya ikkala ichimlik bo'yicha ham eng past import ko'rsatkichlariga ega bo'lib, kofe importi <mark>taxminan</mark> 20 000 tonnani, choy importi esa taxminan 30 000 tonnani tashkil etdi. Shunday qilib, Yaponiyaning umumiy importi boshqa uch davlatga <mark>nisbatan ancha past edi</mark>. Miqdorlarda <mark>ba'zi nomuvofiqliklar</mark> mavjud bo'lsa-da, Germaniya, Fransiya va Yaponiyada kofe odatda choydan afzal ko'rilgan.</p>",
+    "uzSampleBand8": "<p>Ustunli diagramma to'rtta davlat tomonidan 2007-yilda import qilingan choy va qahva <mark>miqdorlarini ko'rsatadi</mark>. O'lchov birliklari tonnada.</p>\n\n<p><mark>Ma'lumotlarga umumiy nazar</mark> shuni ko'rsatadiki, Germaniya va AQSh choyga nisbatan ancha ko'p qahva import qilgan, Rossiya va Yaponiyada esa buning aksi edi. Germaniya har ikki mahsulotning eng yirik importchisi edi, <mark>sezilarli farq bilan</mark>.</p>\n\n<p>Xususan, Germaniya taxminan 700,000 tonna qahva import qildi, bu <mark>boshqa davlatlar ko'rsatkichlarini ancha ortda qoldiradi</mark>. AQSh taxminan 550,000 tonna import qildi. Aksincha, Rossiya taxminan 200,000 tonna qahva import qildi, Yaponiya esa eng kam, atigi 100,000 tonnadan sal ko'proq import qildi. Choy importiga kelsak, Germaniya yana taxminan 400,000 tonna bilan yetakchilik qildi. <mark>Shunga o'xshash tendentsiyani kuzatish mumkin</mark> Rossiyada ham, u taxminan 380,000 tonna choy import qildi. AQSh taxminan 250,000 tonna import qildi, Yaponiyaning choy importi esa eng past bo'lib, <mark>taxminan</mark> 300,000 tonnani tashkil etdi.</p>\n\n<p>Xulosa qilib aytganda, ma'lumotlar Germaniya va AQShda qahvaga kuchli moyillik borligini, Rossiya va Yaponiyada esa choy ko'proq mashhur ekanligini ko'rsatadi. Germaniya har ikki ichimlikning <mark>eng muhim importchisi</mark> edi <mark>barcha to'rtta davlat bo'ylab</mark>.</p>",
+    "uzSampleBand9": "<p>Ustunli diagramma 2007-yilda to‘rtta davlat tomonidan import qilingan choy va qahva <mark>miqdorlarini ko'rsatadi</mark>, o‘lchov birligi tonnada. <mark>Umumiy tendentsiya</mark> barcha mamlakatlarda choyga qaraganda qahvaga bo'lgan talabning sezilarli darajada yuqori ekanligini ko'rsatadi, Germaniya va AQSh ikkala ichimlikning asosiy importchilari hisoblanadi.</p>\n\n<p>Xususan, AQSh eng ko'p miqdorda qahva import qildi, <mark>taxminan</mark> 800,000 tonnaga yetdi, undan keyin Germaniya taxminan 600,000 tonna bilan. Buyuk Britaniya va Yaponiya ancha kam import qildi, mos ravishda taxminan 200,000 va 150,000 tonna. Aksincha, choy importi umuman olganda ancha past edi. Germaniya eng ko'p choy import qildi, taxminan 180,000 tonna. <mark>Keyinchalik</mark>, AQSh taxminan 150,000 tonna import qildi, Buyuk Britaniya va Yaponiya esa eng kam import qildi, <mark>ko'rsatkich</mark> mos ravishda 100,000 va 80,000 tonnani tashkil etdi.</p>\n\n<p><mark>Shuni ta'kidlash joizki</mark>, qahva va choy importi o'rtasidagi farq AQShda eng sezilarli bo'ldi, bu yerda qahva importi <mark>choy importidan besh barobardan ham ko'proq oshib ketdi</mark>. Xuddi shunday, Germaniya ham qahvaga katta afzallik ko'rsatdi, Buyuk Britaniya va Yaponiya esa, umumiy miqdorda kamroq import qilgan bo'lsa ham, choyga nisbatan qahvani aniq afzal ko'rishdi. <mark>Aslida</mark>, ma'lumotlar 2007-yilda ushbu to'rtta davlatda choyga nisbatan qahva iste'moliga global moyillikni ta'kidlaydi.</p>",
+    "chartDescSource": "extracted-verified-2026-08-05"
+   },
+   "task2": {
+    "title": "Youth and outdoor activities",
+    "prompt": "Many young people do not spend their holidays and weekends doing outdoor activities like hiking and climbing in natural environments. Why is this the case? How can they be encouraged to go out in natural environments?",
+    "wordGoal": 250,
+    "essayType": "two-part",
+    "instruction": "Why is this the case? How can they be encouraged to go out in natural environments?",
+    "sampleBand5": "<p>Nowadays, many young people do not like <mark>going outside in nature</mark>. They prefer to stay at home and play games or watch TV. There are a few reasons for this, and some ways we can help them to enjoy the outdoors again.</p>\n\n<p>One reason is that <mark>technology is very good now</mark>. Young people have computers, tablets, and phones. They can play games with their friends online, and they can watch movies and TV shows whenever they want. It is very easy to be entertained at home, so they don't need to go outside. Also, some parents are worried about their children's safety. They think it is safer for them to stay at home than to go out and play in the park or the woods.</p>\n\n<p>Another reason is that some outdoor activities are <mark>quite difficult</mark>. Hiking and climbing can be tiring, and some young people are not very fit. They might prefer to do something easier, like playing video games. Also, outdoor activities can be expensive. You might need to buy special clothes and equipment, and some activities, like rock climbing, require lessons. </p>\n\n<p>To encourage young people to go outside, we need to make it more fun and easier. Schools and parents can <mark>take young people on trips</mark> to parks and forests. They can also organize games and activities that are fun and easy to do. The government can also help by making parks and forests safer and more accessible. If we make it easier and more fun for young people to go outside, they will be more likely to do it.</p>",
+    "sampleBand6": "<p>It is true that many young people today <mark>prefer to spend</mark> their free time indoors, rather than engaging in outdoor activities like hiking or climbing. There are several reasons for this trend, and some ways to encourage them to reconnect with nature.</p>\n\n<p>One key reason is the <mark>growing popularity of technology</mark>. Young people are increasingly drawn to smartphones, computers, and video games. These devices offer instant entertainment and social connection, making it easy to spend hours indoors. Another factor is the pressure to succeed academically. Many students feel they need to dedicate their weekends and holidays to studying in order to get good grades. This leaves them with little time or energy for outdoor pursuits. Furthermore, some parents <mark>may be overprotective</mark> and discourage their children from going out alone in natural environments, due to safety concerns. They might think it is too dangerous.</p>\n\n<p>However, there are ways to encourage young people to experience the benefits of nature. Firstly, schools could incorporate outdoor activities into the curriculum. For example, hiking trips or environmental projects could be organized as part of the science or physical education programs. Secondly, local communities could invest in creating more accessible and appealing natural spaces, such as well-maintained hiking trails or parks. <mark>It is also important to</mark> promote the benefits of outdoor activities through social media campaigns and educational programs. Showcasing the fun, adventure, and health benefits of spending time in nature could help to change young people's perceptions. Finally, parents can play a role by encouraging their children to participate in outdoor activities and <mark>leading by example</mark>, showing them that spending time in nature can be enjoyable. They can take them camping or short hikes.</p>\n\n<p>In conclusion, the increasing use of technology, academic pressure, and parental concerns contribute to young people's lack of interest in outdoor activities. By integrating nature into education, improving access to natural spaces, and promoting the benefits of outdoor experiences, we can <mark>hopefully inspire</mark> the younger generation to reconnect with the natural world.</p>",
+    "sampleBand7": "<p>In contemporary society, a discernible trend is the <mark>diminished participation</mark> of young people in outdoor pursuits such as hiking and climbing. This essay will explore the reasons behind this phenomenon and suggest methods to encourage greater engagement with natural environments.</p>\n\n<p>Several factors contribute to this trend. Firstly, the <mark>proliferation of technology</mark> and digital entertainment offers a readily available and often more appealing alternative. Young individuals are increasingly drawn to video games, social media, and online streaming services, which provide instant gratification and social connection from the comfort of their homes. Secondly, academic pressures and the competitive job market place a significant emphasis on academic achievement and career development. This often leaves young people with limited free time and a perception that outdoor activities are less valuable than studying or gaining professional experience. Furthermore, parental concerns regarding safety and the accessibility of natural spaces can also deter young people from <mark>venturing into</mark> the outdoors. Parents may prefer their children to engage in structured, supervised activities rather than unsupervised exploration of potentially hazardous environments.</p>\n\n<p>To reverse this trend, a multi-faceted approach is required. Schools could integrate outdoor education programs into the curriculum, providing opportunities for students to experience the benefits of nature firsthand. These programs should not only focus on physical activities but also on environmental awareness and conservation. Secondly, community initiatives could promote and facilitate access to natural spaces. This might involve improving public transportation to parks and nature reserves, organizing guided hikes and climbing expeditions, and creating safe and well-maintained trails. <mark>Moreover</mark>, leveraging technology to promote outdoor activities could be effective. For instance, creating engaging mobile apps that highlight hiking trails, provide information about local flora and fauna, and gamify the experience could appeal to digitally savvy young people. Finally, it is crucial to <mark>raise awareness among parents</mark> about the physical and mental health benefits of outdoor activities, encouraging them to support their children's participation.</p>\n\n<p>In conclusion, the decreased involvement of young people in outdoor activities is a complex issue stemming from technological advancements, academic pressures, and safety concerns. However, through a combination of educational initiatives, community support, and innovative uses of technology, it is possible to <mark>cultivate a greater appreciation</mark> for nature and encourage young people to embrace the outdoors. <mark>Such efforts are vital</mark> for their well-being and the preservation of our natural environment.</p>",
+    "sampleBand8": "<p>In contemporary society, a noticeable trend is the declining participation of young people in outdoor pursuits such as hiking and climbing. This phenomenon is attributable to a confluence of factors, primarily related to lifestyle changes and technological advancements. However, <mark>concerted efforts</mark> can be made to re-engage them with the natural world.</p>\n\n<p>One primary reason for this disengagement is the <mark>allure of sedentary entertainment</mark>. The proliferation of digital devices and online gaming provides readily accessible and often addictive forms of recreation. Young individuals are increasingly drawn to the virtual world, offering instant gratification and social interaction without the perceived challenges or discomfort of physical activity. Furthermore, academic pressures and the <mark>competitive job market</mark> often leave young people with limited free time, which they may prefer to spend on academic pursuits or career-related activities rather than outdoor adventures. <mark>This is compounded by</mark> a perceived lack of safety or accessibility in some natural environments, with parental concerns and limited transportation options further restricting opportunities for outdoor exploration.</p>\n\n<p>To encourage young people to <mark>reconnect with nature</mark>, a multi-faceted approach is required. Firstly, educational initiatives can play a crucial role in fostering an appreciation for the environment. Schools can incorporate outdoor learning experiences into their curriculum, such as field trips to national parks or nature reserves, thereby highlighting the benefits of physical activity and environmental stewardship. Secondly, promoting outdoor activities as social events can be highly effective. Organising group hikes, camping trips, or outdoor sports events can create a sense of community and make these activities more appealing. Finally, ensuring the safety and accessibility of natural environments is paramount. Investing in well-maintained trails, clear signage, and accessible transportation options can <mark>remove barriers to participation</mark>. Furthermore, campaigns highlighting the mental and physical health benefits of spending time in nature can <mark>counteract the appeal</mark> of sedentary alternatives.</p>\n\n<p>In conclusion, the declining engagement of young people in outdoor activities is a complex issue stemming from lifestyle changes and technological advancements. However, by implementing educational initiatives, promoting social engagement, and ensuring the safety and accessibility of natural environments, it is possible to <mark>cultivate a renewed appreciation</mark> for the natural world and encourage young people to embrace the physical and mental well-being that outdoor adventures can provide.</p>",
+    "sampleBand9": "<p>It is undeniable that fewer young people today engage in outdoor pursuits such as hiking and climbing, <mark>opting instead for</mark> indoor or screen-based activities. This trend stems from a confluence of factors, but can be counteracted through targeted interventions.</p>\n\n<p>One primary reason for this shift is the <mark>pervasive influence of technology</mark>. The digital realm offers instant gratification and a seemingly endless array of entertainment options, from video games and social media to streaming services. These platforms are designed to be highly addictive, <mark>competing fiercely for</mark> young people's attention and time. Furthermore, many young people are under immense academic pressure. The emphasis on achieving high grades often leads to a prioritization of studying and extracurricular activities that enhance their academic profiles, leaving little room for leisure activities, particularly those that require significant time and effort, such as hiking or climbing. <mark>Compounding this issue</mark> is the increasing urbanization of society. With more people living in cities, access to natural environments is often limited, requiring significant travel time and expense. This can be a major deterrent, especially for young people who may lack the resources or independence to venture far from home. In some families, there may also be a lack of awareness of the benefits of outdoor activities, or even a perception that they are dangerous or unappealing.</p>\n\n<p>To encourage young people to reconnect with nature, a multi-faceted approach is required. Firstly, schools and community organizations should promote outdoor education programs that <mark>instill an appreciation for</mark> the natural world. These programs could include guided hikes, camping trips, and environmental awareness workshops. Secondly, governments and local authorities should invest in improving access to natural environments, such as by creating more parks and green spaces in urban areas, and by providing affordable transportation options to reach more remote locations. Thirdly, social media could be leveraged to showcase the positive aspects of outdoor activities. Influencers and organizations could share inspiring content that highlights the fun, adventure, and health benefits of spending time in nature. <mark>By reframing outdoor activities</mark> as exciting and accessible, it may be possible to shift young people's perceptions and encourage them to <mark>embrace the great outdoors</mark>. Finally, families can play a crucial role by making outdoor activities a regular part of their routines, setting a positive example and fostering a love of nature from a young age. <mark>Ultimately, a concerted effort</mark> from individuals, communities, and governments is needed to reverse the trend of young people disengaging from the natural world and <mark>reap the myriad benefits</mark> that outdoor activities offer.</p>",
+    "timeMinutes": 40,
+    "sampleAnswer": "In recent years, there has been a noticeable decline in the number of young people who engage in outdoor activities such as hiking and climbing during their free time. This essay will explore the reasons behind this trend and suggest ways to encourage youth to spend more time in nature.\n\nSeveral factors contribute to the reluctance of young people to participate in outdoor pursuits. Firstly, the proliferation of digital entertainment, including video games, social media, and streaming services, provides an easily accessible and highly engaging alternative to outdoor activities. Many young people find it more convenient and immediately gratifying to stay indoors with their devices. Secondly, urbanization has reduced the availability of natural spaces, making it more difficult for city-dwelling youth to access hiking trails and climbing spots. Finally, safety concerns and a lack of outdoor skills, often due to a childhood spent indoors, can make the prospect of venturing into nature seem daunting.\n\nTo reverse this trend, a multi-pronged approach is necessary. Schools should incorporate outdoor education into the curriculum, teaching students essential skills such as navigation, camping, and environmental awareness. Governments and local authorities could invest in creating more accessible green spaces and nature reserves near urban centers, reducing the barrier to entry. Furthermore, parents and influencers could play a role by modelling an active, outdoor lifestyle and organizing family or group excursions.\n\nIn conclusion, while the allure of digital technology and the challenges of urban living have drawn young people away from nature, targeted educational and infrastructural initiatives can help rekindle their interest in the natural world.",
+    "uzSampleBand5": "<p>Bugungi kunda ko'plab yoshlar <mark>tabiat qo'yniga chiqishni yoqtirishmaydi</mark>. Ular uyda qolib o'yin o'ynashni yoki televizor ko'rishni afzal ko'rishadi. Buning bir nechta sabablari bor va biz ularga yana ochiq havoda dam olishga yordam berishimiz mumkin.</p>\n\n<p>Buning bir sababi shundaki, <mark>texnologiya hozir juda yaxshi</mark>. Yoshlarda kompyuterlar, planshetlar va telefonlar bor. Ular do'stlari bilan onlayn o'yinlar o'ynashlari mumkin va ular xohlagan vaqtda film va seriallar ko'rishlari mumkin. Uyda ko'ngil ochish juda oson, shuning uchun ularga tashqariga chiqishning hojati yo'q. Bundan tashqari, ba'zi ota-onalar farzandlarining xavfsizligidan xavotirda. Ular uchun parkda yoki o'rmonda o'ynagandan ko'ra uyda qolish xavfsizroq deb o'ylashadi.</p>\n\n<p>Yana bir sababi shundaki, ba'zi ochiq havoda qilinadigan mashg'ulotlar <mark>ancha qiyin</mark>. Piyoda yurish va toqqa chiqish charchatishi mumkin va ba'zi yoshlar juda ham jismonan baquvvat emas. Ular video o'yinlar o'ynash kabi osonroq narsani qilishni afzal ko'rishlari mumkin. Bundan tashqari, ochiq havoda qilinadigan mashg'ulotlar qimmat bo'lishi mumkin. Sizga maxsus kiyim va jihozlar sotib olishingiz kerak bo'lishi mumkin va toqqa chiqish kabi ba'zi mashg'ulotlar uchun darslar talab etiladi.</p>\n\n<p>Yoshlarni tashqariga chiqishga undash uchun biz buni yanada qiziqarli va osonroq qilishimiz kerak. Maktablar va ota-onalar <mark>yoshlarni sayohatlarga olib borishlari</mark> mumkin, masalan parklar va o'rmonlarga. Ular, shuningdek, qiziqarli va oson bajariladigan o'yinlar va mashg'ulotlarni tashkil qilishlari mumkin. Hukumat ham parklar va o'rmonlarni xavfsizroq va osonroq qilib yordam berishi mumkin. Agar biz yoshlar uchun tashqariga chiqishni osonroq va qiziqarliroq qilsak, ular buni qilish ehtimoli ko'proq bo'ladi.</p>",
+    "uzSampleBand6": "<p>Bugungi kunda ko'plab yoshlar <mark>ko'proq vaqtini sarflashni afzal ko'rishadi</mark> ochiq havoda sayr qilish yoki tog'ga chiqish kabi mashg'ulotlarga emas, balki uyda. Bu tendentsiyaning bir nechta sabablari bor va ularni tabiat bilan qayta bog'lanishga undashning ba'zi yo'llari mavjud.</p>\n\n<p>Asosiy sabablardan biri <mark>texnologiyaning tobora ommalashib borayotgani</mark>. Yoshlar tobora ko'proq smartfonlar, kompyuterlar va video o'yinlarga qiziqishmoqda. Ushbu qurilmalar tezkor ko'ngilochar va ijtimoiy aloqalarni taklif etadi, bu esa soatlab uyda o'tirishni osonlashtiradi. Yana bir omil - akademik muvaffaqiyatga erishish bosimi. Ko'pgina talabalar yaxshi baho olish uchun dam olish kunlari va ta'tillarini o'qishga bag'ishlashlari kerak deb hisoblashadi. Bu ularga ochiq havoda mashg'ulotlar uchun kam vaqt yoki kuch qoldiradi. Bundan tashqari, ba'zi ota-onalar <mark>haddan tashqari himoyalovchi bo'lishi mumkin</mark> va xavfsizlik nuqtai nazaridan bolalarini tabiiy muhitda yolg'iz yurishdan qaytarishi mumkin. Ular bu juda xavfli deb o'ylashlari mumkin.</p>\n\n<p>Biroq, yoshlarni tabiatning afzalliklarini his qilishga undashning yo'llari mavjud. Birinchidan, maktablar o'quv dasturiga ochiq havoda mashg'ulotlarni kiritishi mumkin. Misol uchun, sayr qilish yoki atrof-muhit loyihalari fan yoki jismoniy tarbiya dasturlarining bir qismi sifatida tashkil etilishi mumkin. Ikkinchidan, mahalliy jamoalar obodonlashtirilgan piyoda yo'laklari yoki parklar kabi yanada qulay va jozibali tabiiy hududlarni yaratishga sarmoya kiritishlari mumkin. <mark>Shuningdek, muhim</mark> ijtimoiy media kampaniyalari va ta'lim dasturlari orqali ochiq havoda mashg'ulotlarning afzalliklarini targ'ib qilish. Tabiatda vaqt o'tkazishning qiziqarli, sarguzashtli va sog'liq uchun foydali tomonlarini ko'rsatish yoshlarning tasavvurini o'zgartirishga yordam berishi mumkin. Nihoyat, ota-onalar bolalarini ochiq havoda mashg'ulotlarda ishtirok etishga undash va <mark>o'z namunalari bilan ko'rsatish</mark>, tabiatda vaqt o'tkazish qiziqarli bo'lishi mumkinligini ko'rsatish orqali rol o'ynashi mumkin. Ular ularni lagerga olib borishlari yoki qisqa sayrlarga olib chiqishlari mumkin.</p>\n\n<p>Xulosa qilib aytganda, texnologiyadan ortiqcha foydalanish, akademik bosim va ota-onalarning xavotirlari yoshlarning ochiq havoda mashg'ulotlarga qiziqishining yo'qligiga sabab bo'ladi. Tabiatni ta'limga integratsiya qilish, tabiiy hududlarga kirishni yaxshilash va ochiq havoda tajribalarning afzalliklarini targ'ib qilish orqali biz <mark>umid qilamizki, ilhomlantira olamiz</mark> yosh avlodni tabiat olami bilan qayta bog'lanishga.</p>",
+    "uzSampleBand7": "<p>Zamonaviy jamiyatda yoshlarning piyoda yurish va toqqa chiqish kabi ochiq havoda mashg'ulotlarda <mark>ishtiroki kamayishi</mark> sezilarli tendentsiyadir. Ushbu insho ushbu hodisaning sabablarini o'rganadi va tabiiy muhit bilan ko'proq aloqani rag'batlantirish usullarini taklif qiladi.</p>\n\n<p>Ushbu tendentsiyaga bir nechta omillar ta'sir qiladi. Birinchidan, <mark>texnologiyaning keng tarqalishi</mark> va raqamli ko'ngilochar vositalar oson va ko'pincha jozibaliroq alternativani taklif etadi. Yoshlar tobora ko'proq video o'yinlar, ijtimoiy media va onlayn translyatsiya xizmatlariga qiziqishmoqda, ular uylarining qulayligida tezkor qoniqish va ijtimoiy aloqani ta'minlaydi. Ikkinchidan, akademik bosim va raqobatbardosh mehnat bozori akademik yutuqlar va martaba rivojlanishiga katta e'tibor qaratadi. Bu ko'pincha yoshlarga cheklangan bo'sh vaqt qoldiradi va ochiq havoda mashg'ulotlar o'qish yoki professional tajriba orttirishdan kamroq ahamiyatga ega degan tushunchani shakllantiradi. Bundan tashqari, ota-onalarning xavfsizlik va tabiiy hududlarning ochiqligi haqidagi xavotirlari ham yoshlarning ochiq havoga <mark>chiqishiga</mark> to'sqinlik qilishi mumkin. Ota-onalar o'z farzandlarining potentsial xavfli muhitni nazoratsiz o'rganishdan ko'ra, tuzilgan, nazorat qilinadigan tadbirlarda ishtirok etishini afzal ko'rishlari mumkin.</p>\n\n<p>Ushbu tendentsiyani o'zgartirish uchun ko'p qirrali yondashuv talab etiladi. Maktablar o'quv dasturiga ochiq havoda ta'lim dasturlarini integratsiya qilib, o'quvchilarga tabiatning afzalliklarini bevosita his qilish imkoniyatini berishi mumkin. Ushbu dasturlar nafaqat jismoniy faoliyatga, balki atrof-muhitni muhofaza qilish va ekologik xabardorlikka ham qaratilishi kerak. Ikkinchidan, jamiyat tashabbuslari tabiiy hududlarga kirishni rag'batlantirishi va osonlashtirishi mumkin. Bunga bog'lar va qo'riqxonalarga jamoat transportini yaxshilash, gidlar bilan yurish va toqqa chiqish ekspeditsiyalarini tashkil etish, xavfsiz va yaxshi saqlangan yo'laklar yaratish kiradi. <mark>Bundan tashqari</mark>, ochiq havoda mashg'ulotlarni targ'ib qilish uchun texnologiyadan foydalanish samarali bo'lishi mumkin. Masalan, piyoda yurish yo'llarini ta'kidlaydigan, mahalliy flora va fauna haqida ma'lumot beradigan va tajribani o'yinlashtiradigan qiziqarli mobil ilovalarni yaratish raqamli savodxonlikka ega yoshlarga yoqishi mumkin. Nihoyat, ota-onalar o'rtasida ochiq havoda mashg'ulotlarning jismoniy va ruhiy salomatlik uchun foydalari haqida <mark>xabardorlikni oshirish</mark> muhim, bu ularni farzandlarining ishtirokini qo'llab-quvvatlashga undaydi.</p>\n\n<p>Xulosa qilib aytganda, yoshlarning ochiq havoda mashg'ulotlarda ishtirokining kamayishi texnologik yutuqlar, akademik bosim va xavfsizlik bilan bog'liq muammolardan kelib chiqadigan murakkab masala hisoblanadi. Biroq, ta'lim tashabbuslari, jamiyatni qo'llab-quvvatlash va texnologiyadan innovatsion foydalanish orqali tabiatga nisbatan <mark>katta e'tiqodni rivojlantirish</mark> va yoshlarni ochiq havoni qabul qilishga undash mumkin. <mark>Bunday sa'y-harakatlar</mark> ularning farovonligi va tabiiy muhitimizni saqlash uchun juda muhimdir.</p>",
+    "uzSampleBand8": "<p>Zamonaviy jamiyatda yoshlarning piyoda yurish va toqqa chiqish kabi ochiq havoda mashg'ulotlarda ishtiroki kamayib borayotgani sezilarli tendentsiyadir. Bu hodisa bir qator omillar, asosan, turmush tarzining o'zgarishi va texnologik yutuqlar bilan bog'liq. Biroq, ularni tabiat bilan qayta bog'lash uchun <mark>birgalikdagi sa'y-harakatlar</mark> qilinishi mumkin.</p>\n\n<p>Bu aloqaning uzilishining asosiy sabablaridan biri <mark>harakatsiz ko'ngilochar vositalarning jozibadorligidir</mark>. Raqamli qurilmalar va onlayn o'yinlarning ko'payishi oson va ko'pincha odat tusiga kiradigan ko'ngilochar shakllarni taqdim etadi. Yoshlar tobora virtual dunyoga intilishadi, bu esa jismoniy faollikning qiyinchiliklari yoki noqulayliklarisiz tezkor qoniqish va ijtimoiy aloqani taklif qiladi. Bundan tashqari, akademik bosim va <mark>raqobatbardosh mehnat bozori</mark> ko'pincha yoshlarga cheklangan bo'sh vaqt qoldiradi, ular uni ochiq havoda sarguzashtlardan ko'ra akademik izlanishlarga yoki kasbiy faoliyatga sarflashni afzal ko'rishlari mumkin. <mark>Bunga</mark> ba'zi tabiiy muhitlarda xavfsizlik yoki qulaylikning yo'qligi, ota-onalarning tashvishlari va transport imkoniyatlarining cheklanganligi ochiq havoda tadqiqot o'tkazish imkoniyatlarini yanada cheklaydi.</p>\n\n<p>Yoshlarni <mark>tabiat bilan qayta bog'lash</mark> uchun ko'p qirrali yondashuv talab etiladi. Birinchidan, ta'lim tashabbuslari atrof-muhitga nisbatan hurmatni shakllantirishda muhim rol o'ynashi mumkin. Maktablar o'quv dasturiga ochiq havoda o'qish tajribasini, masalan, milliy bog'lar yoki tabiat qo'riqxonalariga sayohatlarni kiritishi mumkin, shu bilan jismoniy faollik va atrof-muhitni muhofaza qilishning afzalliklarini ta'kidlaydi. Ikkinchidan, ochiq havoda mashg'ulotlarni ijtimoiy tadbirlar sifatida targ'ib qilish juda samarali bo'lishi mumkin. Guruhiy sayrlar, lager sayohatlari yoki ochiq havoda sport tadbirlarini tashkil etish jamoatchilik tuyg'usini yaratishi va bu faoliyatni yanada jozibador qilishi mumkin. Nihoyat, tabiiy muhitlarning xavfsizligi va qulayligini ta'minlash juda muhimdir. Yaxshi saqlangan yo'llarga, aniq ko'rsatkichlarga va qulay transport imkoniyatlariga sarmoya kiritish <mark>ishtirok etishga to'sqinlik qiluvchi omillarni bartaraf etishi</mark> mumkin. Bundan tashqari, tabiatda vaqt o'tkazishning ruhiy va jismoniy salomatlik uchun foydalari haqida kampaniyalar olib borish <mark>harakatsiz alternativlarning jozibasiga qarshi tura oladi</mark>.</p>\n\n<p>Xulosa qilib aytganda, yoshlarning ochiq havoda mashg'ulotlarda ishtirokining kamayishi turmush tarzining o'zgarishi va texnologik yutuqlardan kelib chiqadigan murakkab muammodir. Biroq, ta'lim tashabbuslarini amalga oshirish, ijtimoiy ishtirokni rag'batlantirish va tabiiy muhitlarning xavfsizligi va qulayligini ta'minlash orqali tabiatga nisbatan <mark>yangilangan hurmatni rivojlantirish</mark> va yoshlarni ochiq havoda sarguzashtlar taqdim etishi mumkin bo'lgan jismoniy va ruhiy farovonlikni qabul qilishga undash mumkin.</p>",
+    "uzSampleBand9": "<pInkorni bo'lmaydiki, bugungi kunda kamroq yoshlar sayohat va alpinizm kabi ochiq havoda mashg'ulotlar bilan shug'ullanmoqda, <mark>buning o'rniga</mark> yopiq yoki ekranga asoslangan mashg'ulotlarni tanlashmoqda. Bu tendentsiya omillar uyg'unligidan kelib chiqadi, ammo maqsadli aralashuvlar orqali unga qarshi kurashish mumkin.</p>\n\n<p>Bu o'zgarishning asosiy sabablaridan biri <mark>texnologiyaning keng tarqalgan ta'siri</mark>dir. Raqamli olam video o'yinlar va ijtimoiy tarmoqlardan tortib, striming xizmatlarigacha bo'lgan cheksiz ko'ngilochar variantlarni taklif etadi va tezkor qoniqish hosil qiladi. Ushbu platformalar juda qaramlikni keltirib chiqaradigan qilib yaratilgan, <mark>yoshlarning e'tibori va vaqti uchun qattiq raqobatlashadi</mark>. Bundan tashqari, ko'plab yoshlar katta akademik bosim ostida. Yuqori baholarga erishishga urg'u berish ko'pincha o'qishni va ularning akademik profillarini yaxshilaydigan darsdan tashqari mashg'ulotlarni birinchi o'ringa qo'yishga olib keladi, bu esa bo'sh vaqt uchun, ayniqsa sayohat yoki alpinizm kabi sezilarli vaqt va kuch talab qiladigan mashg'ulotlar uchun kam joy qoldiradi. <mark>Bu muammoni yanada kuchaytiradigan</mark> jamiyatning tobora urbanizatsiya bo'lishidir. Ko'proq odamlar shaharlarda yashayotganligi sababli, tabiiy muhitlarga kirish ko'pincha cheklangan bo'lib, sezilarli sayohat va xarajatlarni talab qiladi. Bu, ayniqsa, uyidan uzoqroqqa borish uchun resurslari yoki mustaqilligi bo'lmagan yoshlar uchun asosiy to'siq bo'lishi mumkin. Ba'zi oilalarda ochiq havoda mashg'ulotlarning afzalliklari haqida xabardorlikning etishmasligi, hatto ularning xavfli yoki yoqimsiz ekanligi haqida tushuncha bo'lishi mumkin.</p>\n\n<p>Yoshlarni tabiat bilan qayta bog'lanishga undash uchun ko'p qirrali yondashuv talab etiladi. Birinchidan, maktablar va jamoat tashkilotlari tabiat dunyosiga <mark>hurmat uyg'otadigan</mark> ochiq havoda ta'lim dasturlarini targ'ib qilishlari kerak. Ushbu dasturlarga ekskursiya bilan sayohatlar, lager sayohatlari va atrof-muhitni muhofaza qilish bo'yicha seminarlar kirishi mumkin. Ikkinchidan, hukumatlar va mahalliy hokimiyatlar shaharlarda ko'proq parklar va yashil hududlar yaratish va uzoqroq joylarga borish uchun arzon transport variantlarini taqdim etish orqali tabiiy muhitlarga kirishni yaxshilashga sarmoya kiritishlari kerak. Uchinchidan, ijtimoiy tarmoqlardan ochiq havoda mashg'ulotlarning ijobiy jihatlarini namoyish qilish uchun foydalanish mumkin. Influenserlar va tashkilotlar tabiatda vaqt o'tkazishning qiziqarli, sarguzashtli va salomatlik uchun foydali tomonlarini yorituvchi ilhomlantiruvchi kontentni baham ko'rishlari mumkin. <mark>Ochiq havoda mashg'ulotlarni</mark> qiziqarli va oson deb qayta ta'riflash orqali yoshlarning fikrini o'zgartirish va ularni <mark>tabiat qo'ynini qabul qilishga</mark> undash mumkin. Nihoyat, oilalar ochiq havoda mashg'ulotlarni o'zlarining kundalik tartiblarining doimiy qismiga aylantirib, ijobiy o'rnak ko'rsatib va yoshlikdan tabiatga muhabbatni rivojlantirib, muhim rol o'ynashi mumkin. <mark>Oxir-oqibat, yoshlarning</mark> tabiat dunyosidan uzoqlashish tendentsiyasini o'zgartirish va ochiq havoda mashg'ulotlar taklif qiladigan <mark>ko'plab afzalliklardan bahramand bo'lish</mark> uchun shaxslar, jamoalar va hukumatlarning birgalikdagi sa'y-harakatlari zarur.</p>"
+   }
+  },
+  "source": "British Council",
+  "examDate": "2021-05-15",
+  "settings": {
+   "timeInfo": "60 Minutes",
+   "moduleTitle": "Academic Writing Module",
+   "testIdentifier": "Mock 15"
+  },
+  "vocabulary": {
+   "task1": [
+    {
+     "term": "Commodities",
+     "meaning": "Raw materials or primary agricultural products that can be bought and sold."
+    },
+    {
+     "term": "Leading importer",
+     "meaning": "The country that brings in the most of a particular good from abroad."
+    },
+    {
+     "term": "Significantly lower",
+     "meaning": "Much less in amount or degree."
+    },
+    {
+     "term": "Displayed the opposite trend",
+     "meaning": "Showed a pattern that was the reverse of what was expected or seen elsewhere."
+    },
+    {
+     "term": "Vastly exceeding",
+     "meaning": "Being much greater than in number or amount."
+    },
+    {
+     "term": "Clear preference",
+     "meaning": "An obvious liking for one thing over another."
+    },
+    {
+     "term": "Outweighed",
+     "meaning": "Was greater in importance or amount than something else."
+    },
+    {
+     "term": "Favor",
+     "meaning": "To prefer or give an advantage to."
+    }
+   ],
+   "task2": [
+    {
+     "term": "Noticeable decline",
+     "meaning": "A decrease that is easy to see or observe."
+    },
+    {
+     "term": "Proliferation",
+     "meaning": "A rapid increase in numbers or spread."
+    },
+    {
+     "term": "Immediately gratifying",
+     "meaning": "Providing instant pleasure or satisfaction."
+    },
+    {
+     "term": "Urbanization",
+     "meaning": "The process of making an area more urban; the growth of cities."
+    },
+    {
+     "term": "Daunting",
+     "meaning": "Seeming difficult to deal with; intimidating."
+    },
+    {
+     "term": "Multi-pronged approach",
+     "meaning": "A strategy that addresses a problem from several different angles."
+    },
+    {
+     "term": "Barrier to entry",
+     "meaning": "An obstacle that makes it difficult to start doing something."
+    },
+    {
+     "term": "Rekindle their interest",
+     "meaning": "To cause someone to become interested in something again."
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "Moreover": {
+    "uz": "Bundan tashqari",
+    "type": "linking"
+   },
+   "In essence": {
+    "uz": "Aslida",
+    "type": "linking"
+   },
+   "In general": {
+    "uz": "Umuman olganda",
+    "type": "linking"
+   },
+   "Then comes": {
+    "uz": "Keyin esa",
+    "type": "linking"
+   },
+   "in contrast": {
+    "uz": "farqli o'laroq",
+    "type": "linking"
+   },
+   "it imported": {
+    "uz": "u import qildi",
+    "type": "colloc"
+   },
+   "standing at": {
+    "uz": "ga teng",
+    "type": "colloc"
+   },
+   "Subsequently": {
+    "uz": "Keyinchalik",
+    "type": "linking"
+   },
+   "registering at": {
+    "uz": "ro'yxatdan o'tish",
+    "type": "colloc"
+   },
+   "venturing into": {
+    "uz": "kirishish",
+    "type": "academic"
+   },
+   "hovering around": {
+    "uz": "atrofida aylanib yurish",
+    "type": "colloc"
+   },
+   "prefer to spend": {
+    "uz": "sarflashni afzal ko'rish",
+    "type": "colloc"
+   },
+   "quite difficult": {
+    "uz": "juda qiyin",
+    "type": "colloc"
+   },
+   "a similar amount": {
+    "uz": "shunga o'xshash miqdor",
+    "type": "colloc"
+   },
+   "at approximately": {
+    "uz": "taxminan",
+    "type": "colloc"
+   },
+   "concerted efforts": {
+    "uz": "birgalikdagi sa'y-harakatlar",
+    "type": "colloc"
+   },
+   "hopefully inspire": {
+    "uz": "umid qilamanki, ilhomlantiradi",
+    "type": "colloc"
+   },
+   "leading by example": {
+    "uz": "o'z namunasida ko'rsatish",
+    "type": "idiom"
+   },
+   "opting instead for": {
+    "uz": "buning o'rniga tanlash",
+    "type": "academic"
+   },
+   "some discrepancies": {
+    "uz": "ba'zi nomuvofiqliklar",
+    "type": "academic"
+   },
+   "An overarching trend": {
+    "uz": "Umumiy tendentsiya",
+    "type": "academic"
+   },
+   "dwarfing the figures": {
+    "uz": "raqamlarni mitti qilib ko'rsatish",
+    "type": "lexical"
+   },
+   "immediately apparent": {
+    "uz": "darhol ko'rinib turibdi",
+    "type": "academic"
+   },
+   "overview of the data": {
+    "uz": "ma'lumotlarga umumiy nazar",
+    "type": "academic"
+   },
+   "pre-eminent importer": {
+    "uz": "eng muhim importyor",
+    "type": "academic"
+   },
+   "It is also noticeable": {
+    "uz": "Shuni ham ta'kidlash joizki",
+    "type": "academic"
+   },
+   "It is noteworthy that": {
+    "uz": "Shuni ta'kidlash lozimki",
+    "type": "academic"
+   },
+   "This is compounded by": {
+    "uz": "Bunga sabab",
+    "type": "academic"
+   },
+   "counteract the appeal": {
+    "uz": "jalb etishga qarshi kurashish",
+    "type": "lexical"
+   },
+   "may be overprotective": {
+    "uz": "haddan tashqari himoyachi bo'lishi mumkin",
+    "type": "colloc"
+   },
+   "reconnect with nature": {
+    "uz": "tabiat bilan qayta bog'lanish",
+    "type": "lexical"
+   },
+   "Compounding this issue": {
+    "uz": "Bu muammoni yanada murakkablashtirib",
+    "type": "academic"
+   },
+   "Such efforts are vital": {
+    "uz": "Bunday harakatlar juda muhim",
+    "type": "academic"
+   },
+   "competing fiercely for": {
+    "uz": "qizg'in kurash olib borish",
+    "type": "colloc"
+   },
+   "competitive job market": {
+    "uz": "raqobatbardosh ish bozori",
+    "type": "lexical"
+   },
+   "reaching approximately": {
+    "uz": "taxminan yetib borish",
+    "type": "colloc"
+   },
+   "It is also important to": {
+    "uz": "Shuni ham ta'kidlash muhimki",
+    "type": "academic"
+   },
+   "across all four nations": {
+    "uz": "barcha to'rtta davlat bo'ylab",
+    "type": "colloc"
+   },
+   "going outside in nature": {
+    "uz": "tabiatda tashqariga chiqish",
+    "type": "colloc"
+   },
+   "how much tea and coffee": {
+    "uz": "qancha choy va qahva",
+    "type": "colloc"
+   },
+   "significant differences": {
+    "uz": "sezilarli farqlar",
+    "type": "academic"
+   },
+   "by a considerable margin": {
+    "uz": "sezilarli farq bilan",
+    "type": "colloc"
+   },
+   "diminished participation": {
+    "uz": "qisqargan ishtirok",
+    "type": "lexical"
+   },
+   "reap the myriad benefits": {
+    "uz": "ko'plab foydalarni olish",
+    "type": "lexical"
+   },
+   "Regarding the tea imports": {
+    "uz": "Choy importiga kelsak",
+    "type": "academic"
+   },
+   "embrace the great outdoors": {
+    "uz": "tabiat qo'yniga otilish",
+    "type": "idiom"
+   },
+   "illustrates the quantities": {
+    "uz": "miqdorlarni ko'rsatadi",
+    "type": "academic"
+   },
+   "take young people on trips": {
+    "uz": "yoshlarni sayohatlarga olib borish",
+    "type": "colloc"
+   },
+   "by four different countries": {
+    "uz": "to'rtta turli davlat tomonidan",
+    "type": "colloc"
+   },
+   "instill an appreciation for": {
+    "uz": "qadrlashni singdirish",
+    "type": "lexical"
+   },
+   "proliferation of technology": {
+    "uz": "texnologiyaning ko'payishi",
+    "type": "lexical"
+   },
+   "technology is very good now": {
+    "uz": "texnologiya hozir juda yaxshi",
+    "type": "colloc"
+   },
+   "illustrates the quantities of": {
+    "uz": "miqdorlarini ko'rsatadi",
+    "type": "academic"
+   },
+   "raise awareness among parents": {
+    "uz": "ota-onalar o'rtasida xabardorlikni oshirish",
+    "type": "lexical"
+   },
+   "Ultimately, a concerted effort": {
+    "uz": "Oxir oqibat, birgalikdagi sa'y-harakatlar",
+    "type": "academic"
+   },
+   "A similar trend can be observed": {
+    "uz": "Shunga o'xshash tendentsiyani kuzatish mumkin",
+    "type": "academic"
+   },
+   "By reframing outdoor activities": {
+    "uz": "Ochiq havoda mashg'ulotlarni qayta ko'rib chiqish orqali",
+    "type": "academic"
+   },
+   "significantly lower compared to": {
+    "uz": "ga nisbatan sezilarli darajada past",
+    "type": "academic"
+   },
+   "cultivate a greater appreciation": {
+    "uz": "kattaroq qadrlashni rivojlantirish",
+    "type": "lexical"
+   },
+   "cultivate a renewed appreciation": {
+    "uz": "yangilangan qadrlashni rivojlantirish",
+    "type": "lexical"
+   },
+   "growing popularity of technology": {
+    "uz": "texnologiyaning o'sib borayotgan mashhurligi",
+    "type": "lexical"
+   },
+   "remove barriers to participation": {
+    "uz": "ishtirok etishdagi to'siqlarni olib tashlash",
+    "type": "lexical"
+   },
+   "allure of sedentary entertainment": {
+    "uz": "harakatsiz ko'ngil ochishning jozibasi",
+    "type": "lexical"
+   },
+   "pervasive influence of technology": {
+    "uz": "texnologiyaning keng tarqalgan ta'siri",
+    "type": "lexical"
+   },
+   "outstripped those of tea by a factor of more than five": {
+    "uz": "choynikidan besh barobar ko'p bo'ldi",
+    "type": "academic"
+   }
+  }
+ },
+ "created_at": "2026-05-06T17:28:47.028199+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

@@ -1,0 +1,176 @@
+{
+ "id": 689,
+ "mock_type": "ielts-writing",
+ "mock_number": 62,
+ "title": "IELTS Writing Mock 62",
+ "status": "published",
+ "mock_data": {
+  "tasks": {
+   "task1": {
+    "title": "Export earnings of one country in 2015 and 2016",
+    "prompt": "The chart below shows the value of one country's exports in various categories during 2015 and 2016. The table shows the percentage change in each category of exports in 2016 compared with 2015.",
+    "wordGoal": "150",
+    "chartDesc": {
+     "title": "Export Earnings (2015–2016)",
+     "visuals": [
+      {
+       "kind": "bar chart",
+       "xAxis": "Product Category",
+       "yAxis": "$ billions",
+       "series": [
+        {
+         "name": "2015",
+         "points": [
+          {
+           "at": "Petroleum products",
+           "value": 61
+          },
+          {
+           "at": "Engineered goods",
+           "value": 57
+          },
+          {
+           "at": "Gems and jewellery",
+           "value": 43
+          },
+          {
+           "at": "Agricultural products",
+           "value": 31
+          },
+          {
+           "at": "Textiles",
+           "value": 26
+          }
+         ]
+        },
+        {
+         "name": "2016",
+         "points": [
+          {
+           "at": "Petroleum products",
+           "value": 63
+          },
+          {
+           "at": "Engineered goods",
+           "value": 62
+          },
+          {
+           "at": "Gems and jewellery",
+           "value": 41
+          },
+          {
+           "at": "Agricultural products",
+           "value": 31
+          },
+          {
+           "at": "Textiles",
+           "value": 31
+          }
+         ]
+        }
+       ],
+       "caption": "Export Earnings (2015–2016)"
+      },
+      {
+       "kind": "table",
+       "xAxis": "",
+       "yAxis": "",
+       "series": [
+        {
+         "name": "Percentage change",
+         "points": [
+          {
+           "at": "Petroleum products",
+           "value": 3
+          },
+          {
+           "at": "Engineered goods",
+           "value": 8.5
+          },
+          {
+           "at": "Gems and jewellery",
+           "value": -5.18
+          },
+          {
+           "at": "Agricultural products",
+           "value": 0.81
+          },
+          {
+           "at": "Textiles",
+           "value": 15.24
+          }
+         ]
+        }
+       ],
+       "caption": "Percentage change in values (2015–2016)"
+      }
+     ],
+     "overview": "Overall, export earnings increased across all product categories except for gems and jewellery, which experienced a decline. Petroleum products and engineered goods generated the highest total revenues, while textiles recorded the highest proportional growth from 2015 to 2016.",
+     "chartType": "mixed",
+     "confidence": "high",
+     "unreadable": [],
+     "keyFeatures": [
+      "From the bar chart, Petroleum products were the highest earner in both years, rising from around $61 billion in 2015 to $63 billion in 2016 (a 3% increase according to the table).",
+      "Engineered goods saw substantial growth, rising from approximately $57 billion to $62 billion, representing an 8.5% increase.",
+      "From the table, Textiles registered the largest percentage gain at 15.24%, with earnings in the bar chart rising from about $26 billion to $31 billion.",
+      "Gems and jewellery was the only category to drop, falling by 5.18% in the table (from around $43 billion to $41 billion in the bar chart).",
+      "Agricultural products remained nearly stable, with a minor increase of 0.81%, staying at approximately $31 billion in both years."
+     ]
+    },
+    "chartType": "mixed",
+    "dataNature": "static",
+    "instruction": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+    "sampleBand5": "",
+    "sampleBand6": "",
+    "sampleBand7": "",
+    "sampleBand8": "",
+    "sampleBand9": "",
+    "timeMinutes": "20",
+    "chartDescImg": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/62.png",
+    "sampleAnswer": "",
+    "chartImageUrl": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/62.png",
+    "uzSampleBand5": "",
+    "uzSampleBand6": "",
+    "uzSampleBand7": "",
+    "uzSampleBand8": "",
+    "uzSampleBand9": "",
+    "chartDescSource": "extracted-verified-2026-08-05"
+   },
+   "task2": {
+    "title": "Loss of species versus other environmental problems",
+    "prompt": "Some people say that the main environmental problem of our time is the loss of particular species of plants and animals. Others say that there are more important environmental problems.\n\nDiscuss both these views and give your own opinion.",
+    "wordGoal": "250",
+    "essayType": "balanced",
+    "instruction": "Give reasons for your answer and include any relevant examples from your own knowledge or experience.",
+    "sampleBand5": "",
+    "sampleBand6": "",
+    "sampleBand7": "",
+    "sampleBand8": "",
+    "sampleBand9": "",
+    "timeMinutes": "40",
+    "sampleAnswer": "",
+    "uzSampleBand5": "",
+    "uzSampleBand6": "",
+    "uzSampleBand7": "",
+    "uzSampleBand8": "",
+    "uzSampleBand9": ""
+   }
+  },
+  "source": "Cambridge IELTS 14 · Test 2",
+  "examDate": "",
+  "settings": {
+   "logoUrl": "https://audio.mock-stream.com/img/ibb/WN0XY5Lv/logo.png",
+   "timeInfo": "⏱ Total time: 60 minutes | Task 1: 20 min (150 words) | Task 2: 40 min (250 words)",
+   "logoWording": "Mock Stream",
+   "moduleTitle": "Academic Writing Module",
+   "testIdentifier": "IELTS Mock 62"
+  },
+  "vocabulary": {
+   "task1": [],
+   "task2": []
+  },
+  "tokenTranslations": {}
+ },
+ "created_at": "2026-07-16T18:41:13.839903+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

@@ -1,0 +1,414 @@
+{
+ "id": 2308,
+ "mock_type": "pet-listening",
+ "mock_number": 2,
+ "title": "PET Listening — Test 2",
+ "status": "published",
+ "mock_data": {
+  "audio": {
+   "base": "https://audio.mock-stream.com/PET-Listening/test2/",
+   "files": {
+    "1": "PART1.m4a",
+    "2": "PART2.m4a",
+    "3": "PART3.m4a",
+    "4": "PART4.m4a"
+   }
+  },
+  "parts": [
+   {
+    "type": "picture-mcq",
+    "items": [
+     {
+      "id": 1,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q1A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q1B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q1C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What can't the woman find?"
+     },
+     {
+      "id": 2,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q2A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q2B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q2C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What is the weather forecast for tomorrow?"
+     },
+     {
+      "id": 3,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q3A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q3B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q3C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What did the boy buy?"
+     },
+     {
+      "id": 4,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q4A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q4B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q4C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Which present has the girl bought her mother?"
+     },
+     {
+      "id": 5,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q5A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q5B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q5C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Which TV programme will they watch together?"
+     },
+     {
+      "id": 6,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q6A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q6B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q6C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What time is the swimming lesson today?"
+     },
+     {
+      "id": 7,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q7A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q7B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q7C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Which subject does the boy like best?"
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "options": [
+      {
+       "image": "q0A.png",
+       "letter": "A"
+      },
+      {
+       "image": "q0B.png",
+       "letter": "B"
+      },
+      {
+       "image": "q0C.png",
+       "letter": "C"
+      }
+     ],
+     "question": "Where is the girl's hat?"
+    },
+    "imageBase": "https://audio.mock-stream.com/PET-Listening/test2/p1/",
+    "partNumber": 1,
+    "instruction": [
+     "There are seven questions in this part.",
+     "For each question there are three pictures and a short recording.",
+     "For each question, choose the correct answer A, B or C."
+    ],
+    "questionsLabel": "QUESTIONS 1–7"
+   },
+   {
+    "type": "mcq-conversation",
+    "items": [
+     {
+      "id": 8,
+      "stem": "Simon's mum decided to take him to the climbing centre because",
+      "answer": "A",
+      "options": [
+       {
+        "text": "she had enjoyed going there.",
+        "letter": "A"
+       },
+       {
+        "text": "her friend had recommended it.",
+        "letter": "B"
+       },
+       {
+        "text": "Simon had been there with his school.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 9,
+      "stem": "Before he went to the centre, Simon was",
+      "answer": "C",
+      "options": [
+       {
+        "text": "worried about going climbing there.",
+        "letter": "A"
+       },
+       {
+        "text": "interested in seeing the climbing wall.",
+        "letter": "B"
+       },
+       {
+        "text": "disappointed to hear it was all indoors.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 10,
+      "stem": "Simon says that at the centre there were",
+      "answer": "B",
+      "options": [
+       {
+        "text": "lots of people when it opened.",
+        "letter": "A"
+       },
+       {
+        "text": "many different types of people.",
+        "letter": "B"
+       },
+       {
+        "text": "no other people his age.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 11,
+      "stem": "What did Simon think about the climbing wall?",
+      "answer": "C",
+      "options": [
+       {
+        "text": "He thought it looked very high.",
+        "letter": "A"
+       },
+       {
+        "text": "He was afraid he might fall.",
+        "letter": "B"
+       },
+       {
+        "text": "He found the foot holes helpful.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "stem": "Why was Simon unhappy with his first climb?",
+      "answer": "A",
+      "options": [
+       {
+        "text": "He was slower than everyone else.",
+        "letter": "A"
+       },
+       {
+        "text": "He found it hurt his arms.",
+        "letter": "B"
+       },
+       {
+        "text": "He didn't get to the top.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "stem": "What does Simon feel he learnt from climbing at the centre?",
+      "answer": "B",
+      "options": [
+       {
+        "text": "how to improve his fitness",
+        "letter": "A"
+       },
+       {
+        "text": "to think before he does something",
+        "letter": "B"
+       },
+       {
+        "text": "the best way to work with other people",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 2",
+    "partNumber": 2,
+    "instruction": [
+     "You will hear an interview with a teenager called Simon about going to an indoor climbing centre that has a climbing wall.",
+     "For each question, choose the correct answer A, B or C."
+    ],
+    "questionsLabel": "QUESTIONS 8–13"
+   },
+   {
+    "rows": [
+     {
+      "id": 14,
+      "label": "The international horse show will be held in the month of",
+      "answer": "March",
+      "suffix": ", just after Hannah's birthday."
+     },
+     {
+      "id": 15,
+      "label": "The family will travel from Poland to the horse show in",
+      "answer": "England"
+     },
+     {
+      "id": 16,
+      "label": "The person who will ride Griffon round the ring in the international show is Hannah's",
+      "answer": "father"
+     },
+     {
+      "id": 17,
+      "label": "Two weeks ago Griffon won some",
+      "answer": "money",
+      "suffix": "as a prize."
+     },
+     {
+      "id": 18,
+      "label": "Hannah's ambition is to work as a",
+      "answer": "trainer"
+     },
+     {
+      "id": 19,
+      "label": "When Griffon wins a competition, he is given some",
+      "answer": "apples",
+      "suffix": "by the family."
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 3",
+    "noteTitle": "Griffon the Horse",
+    "partNumber": 3,
+    "instruction": [
+     "You will hear a girl called Hannah talking about her family's champion horse called Griffon.",
+     "For each question, fill in the missing information in the numbered space."
+    ],
+    "questionsLabel": "QUESTIONS 14–19"
+   },
+   {
+    "type": "true-false",
+    "items": [
+     {
+      "id": 20,
+      "answer": "A",
+      "statement": "Miranda accepts what her sister's side of the room looks like."
+     },
+     {
+      "id": 21,
+      "answer": "B",
+      "statement": "Jamie complains that his brother refuses to share his electronic equipment."
+     },
+     {
+      "id": 22,
+      "answer": "A",
+      "statement": "Miranda is annoyed about some things that her sister tells their mother."
+     },
+     {
+      "id": 23,
+      "answer": "A",
+      "statement": "Miranda was surprised that she felt lonely when her sister was away."
+     },
+     {
+      "id": 24,
+      "answer": "B",
+      "statement": "Despite sharing a bedroom, Jamie finds he can still easily do his homework."
+     },
+     {
+      "id": 25,
+      "answer": "A",
+      "statement": "Jamie and Miranda can both share problems with their brother or sister."
+     }
+    ],
+    "label": "PART 4",
+    "scenario": "Jamie and Miranda — sharing a bedroom with a brother or sister",
+    "partNumber": 4,
+    "instruction": [
+     "Look at the six sentences for this part.",
+     "You will hear a conversation between a boy called Jamie and a girl called Miranda about sharing a bedroom with a brother or sister.",
+     "Decide if each sentence is correct or incorrect.",
+     "If it is correct, choose the letter A for YES. If it is not correct, choose the letter B for NO."
+    ],
+    "questionsLabel": "QUESTIONS 20–25"
+   }
+  ],
+  "testInfo": {
+   "id": "pet-l-02",
+   "level": "B1",
+   "paper": "Paper 2 · Listening",
+   "parts": 4,
+   "title": "PET Listening — Test 2",
+   "totalTime": 35,
+   "totalQuestions": 25
+  }
+ },
+ "created_at": "2026-10-14T06:45:48.547631+00:00",
+ "updated_at": "2026-10-14T06:47:34.145054+00:00"
+}

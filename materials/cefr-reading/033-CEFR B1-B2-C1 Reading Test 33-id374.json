@@ -1,0 +1,797 @@
+{
+ "id": 374,
+ "mock_type": "cefr-reading",
+ "mock_number": 33,
+ "title": "CEFR B1-B2-C1 Reading Test 33",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "gap-fill-text",
+    "title": "Part 1",
+    "answers": {
+     "1": [
+      "Genes"
+     ],
+     "2": [
+      "Each"
+     ],
+     "3": [
+      "Affect"
+     ],
+     "4": [
+      "Internet"
+     ],
+     "5": [
+      "App"
+     ],
+     "6": [
+      "Babies"
+     ]
+    },
+    "passage": {
+     "title": "Animal Behavior and Genes",
+     "content": "<p>Have you ever wondered why animals act the way they do? Their genes play a huge role in shaping their behavior. All the (1)<span class=\"gap\" data-gap=\"1\">_____(1)_____</span> together act like a big book of instructions. They tell the body what to do and the mind how to behave. There are different versions of the same gene; each version comes from (2)<span class=\"gap\" data-gap=\"2\">_____(2)_____</span> parent. These variants can affect things like the color of the eyes or the texture of the hair. They can also (3)<span class=\"gap\" data-gap=\"3\">_____(3)_____</span> memory and how the animals respond to their surroundings. Imagine these variants like having two apps on your phone for doing the same task, like for listening to music.</p><p>But here's the fascinating part: it's not just about having these genes. The environment around them can switch these genes on or off. Think about it like using one of the music apps for streaming and the other for listening to downloaded songs. If you have a good internet connection (environment), it is better to use the first app. Where there is poor (4)<span class=\"gap\" data-gap=\"4\">_____(4)_____</span> connection (different environment), you prefer the other (5)<span class=\"gap\" data-gap=\"5\">_____(5)_____</span>.</p><p>We call the on- and off-switches epigenetics. This is like an extra layer on top of genes that can also change how animals behave. For instance, when rat moms take care of their babies, it can change how their (6)<span class=\"gap\" data-gap=\"6\">_____(6)_____</span> act when they grow up and become moms themselves. So, the environment plays a big role in behavior, too!</p>"
+    },
+    "questions": [
+     {
+      "id": 1,
+      "hint": "All the _____ together act like a big book of instructions"
+     },
+     {
+      "id": 2,
+      "hint": "each version comes from _____ parent"
+     },
+     {
+      "id": 3,
+      "hint": "They can also _____ memory"
+     },
+     {
+      "id": 4,
+      "hint": "Where there is poor _____ connection"
+     },
+     {
+      "id": 5,
+      "hint": "you prefer the other _____"
+     },
+     {
+      "id": 6,
+      "hint": "it can change how their _____ act"
+     }
+    ],
+    "partNumber": 1,
+    "instruction": "Read the text. Fill in each gap with ONE word. You must use a word which is somewhere in the rest of the text.",
+    "explanations": {
+     "q1": {
+      "text": "The previous sentence introduces genes as the topic. This sentence continues that thought, explaining that all the genes together act like instructions. That's why the correct answer is 'Genes'.",
+      "quote": "Their genes play a huge role in shaping their behavior."
+     },
+     "q2": {
+      "text": "The sentence describes how different versions of a gene are inherited. The phrase 'each version' implies a one-to-one relationship, with one version coming from every parent. That's why the correct answer is 'each'.",
+      "quote": ""
+     },
+     "q3": {
+      "text": "The passage is listing what gene variants can do, like changing eye color. The gapped sentence adds another item to this list, requiring a verb that means 'to influence'. That's why the correct answer is 'affect'.",
+      "quote": "These variants can affect things like the color of the eyes or the texture of the hair."
+     },
+     "q4": {
+      "text": "The passage uses an analogy of two music apps. It states that a good 'internet connection' is needed for one app, so a poor connection must also be an 'internet' connection. That's why the correct answer is 'internet'.",
+      "quote": "If you have a good internet connection (environment), it is better to use the first app."
+     },
+     "q5": {
+      "text": "The analogy in the passage is about choosing between two music apps. If you don't use the first app in a certain situation, you would logically choose the other one. That's why the correct answer is 'app'.",
+      "quote": "Imagine these variants like having two apps on your phone for doing the same task, like for listening to music."
+     },
+     "q6": {
+      "text": "The sentence explains how a mother rat's care influences her offspring. The pronoun 'their' refers back to the 'babies' mentioned at the start of the sentence. That's why the correct answer is 'babies'.",
+      "quote": ""
+     }
+    },
+    "questionRange": "1-6"
+   },
+   {
+    "type": "matching",
+    "texts": [
+     {
+      "title": "Q7",
+      "number": 7,
+      "content": "SHEPHERD'S BUSH NO CHAIN £699,950 Recently refurbished 5 bed-room Victorian 3 storey, bay fronted house finished to an exceptional standard. 5 mins to underground. Viewing highly recommended. Contact: 07802 23577"
+     },
+     {
+      "title": "Q8",
+      "number": 8,
+      "content": "desert springs SPAIN'S ONLY DESERT GOLF RESORT - WHERE OWNERSHIP MEANS MEMBERSHIP. Apartments £137,000 Townhouses £198,000 Villas £200,000 CONTACT: 01242 680116"
+     },
+     {
+      "title": "Q9",
+      "number": 9,
+      "content": "Assisted Living offers more than just a new home! Enjoy a lifestyle suitable to both your current and future needs. Care, Catering and Housekeeping services incl. Two-bedroom apartments and houses from £250,000 BROAD OAK MANOR CARE CENTRE 01992 558 669"
+     },
+     {
+      "title": "Q10",
+      "number": 10,
+      "content": "Playa marques luxury villas on the Almanzora coast of south east Spain. Driest and sunniest area of Spain. Relaxing tranquil environment. High quality specification. Townhouse from: £203,000 Villas from: £340,000 Contact: 01242 680116 www.almanzora.com"
+     },
+     {
+      "title": "Q11",
+      "number": 11,
+      "content": "simply stunning belvederecreek.com River Oaks Homes These stunning new homes are available at our riverside development, Belvedere Creek, in the heart of Faversham, Kent or the tranquil woodland setting of Beauport Park. From: £149,500 for more details: 01424 855078 www.riveroakshomes.co.uk"
+     },
+     {
+      "title": "Q12",
+      "number": 12,
+      "content": "Excelsior Mills Superb apartments in an historic county mill! Only a few apartments remain in this unique conversion of an historic country mill. Retaining many original features and are individually designed. BRITANNIA DEVELOPMENTS Sales Office: 01422 825672 www.britannia-developments.com"
+     },
+     {
+      "title": "Q13",
+      "number": 13,
+      "content": "HOMES TO LOVE IN THE EAST Tudor Homes is one of the most exciting property developers in the Eastern region. Our individually designed homes are available from just £171,950. New homes now available in: Holbeach, Moulton Seas End, Chatteris and Wisbech Call our Sales Line today 01775 715550 www.tudorhomes.com"
+     },
+     {
+      "title": "Q14",
+      "number": 14,
+      "content": "HOMES TO LOVE ALL OVER LINCOLNSHIRE Wide open spaces, beautiful countryside and charming villages 2-6 bedroom houses available £108,000 to £225,000 Isn't it time you escaped to Lincolnshire Sales Office: 01775 710600"
+     }
+    ],
+    "title": "Part 2",
+    "answers": {
+     "7": [
+      "E"
+     ],
+     "8": [
+      "B"
+     ],
+     "9": [
+      "G"
+     ],
+     "10": [
+      "F"
+     ],
+     "11": [
+      "J"
+     ],
+     "12": [
+      "H"
+     ],
+     "13": [
+      "I"
+     ],
+     "14": [
+      "D"
+     ]
+    },
+    "questions": [
+     {
+      "id": 7,
+      "textNumber": 7
+     },
+     {
+      "id": 8,
+      "textNumber": 8
+     },
+     {
+      "id": 9,
+      "textNumber": 9
+     },
+     {
+      "id": 10,
+      "textNumber": 10
+     },
+     {
+      "id": 11,
+      "textNumber": 11
+     },
+     {
+      "id": 12,
+      "textNumber": 12
+     },
+     {
+      "id": 13,
+      "textNumber": 13
+     },
+     {
+      "id": 14,
+      "textNumber": 14
+     }
+    ],
+    "partNumber": 2,
+    "statements": [
+     {
+      "text": "You need a Victorian apartment with a single bed.",
+      "letter": "A"
+     },
+     {
+      "text": "The buyer becomes a member on this site.",
+      "letter": "B"
+     },
+     {
+      "text": "These apartments are suitable for romantic couples.",
+      "letter": "C"
+     },
+     {
+      "text": "You want to escape to a beautiful countryside.",
+      "letter": "D"
+     },
+     {
+      "text": "You want something closer to the underground.",
+      "letter": "E"
+     },
+     {
+      "text": "You want to live in a villa near the coast.",
+      "letter": "F"
+     },
+     {
+      "text": "A fully serviced retirement home.",
+      "letter": "G"
+     },
+     {
+      "text": "You can buy an apartment which is located in a historical site.",
+      "letter": "H"
+     },
+     {
+      "text": "These eastern houses are designed unique.",
+      "letter": "I"
+     },
+     {
+      "text": "These houses are near a river and a forest.",
+      "letter": "J"
+     }
+    ],
+    "instruction": "Read the texts 7-14 and the statements A-J. Decide which text matches with the situation described in the statements. Each statement can be used ONCE only. There are TWO extra statements which you do not need to use.",
+    "explanations": {
+     "q7": {
+      "text": "The advertisement states that the house is only a five-minute walk from the nearest underground station, making it very convenient for public transport. That's why the correct answer is E.",
+      "quote": "5 mins to underground."
+     },
+     "q8": {
+      "text": "The advertisement's slogan clearly states that buying a property at this resort automatically grants you membership, which is a key feature of the offer. That's why the correct answer is B.",
+      "quote": "SPAIN'S ONLY DESERT GOLF RESORT - WHERE OWNERSHIP MEANS MEMBERSHIP."
+     },
+     "q9": {
+      "text": "This property is described as 'Assisted Living' and includes services like care, catering, and housekeeping, which are typical of a fully serviced retirement home. That's why the correct answer is G.",
+      "quote": "Care, Catering and Housekeeping services incl."
+     },
+     "q10": {
+      "text": "The advertisement is for 'luxury villas' and specifies their location as being 'on the Almanzora coast'. This is a perfect match for someone wanting a villa by the sea. That's why the correct answer is F.",
+      "quote": "Playa marques luxury villas on the Almanzora coast of south east Spain."
+     },
+     "q11": {
+      "text": "The ad states that the new homes are available in two different locations: a 'riverside development' and a 'woodland setting'. This means they are near both a river and a forest. That's why the correct answer is J.",
+      "quote": "These stunning new homes are available at our riverside development, Belvedere Creek, in the heart of Faversham, Kent or the tranquil woodland setting of Beauport Park."
+     },
+     "q12": {
+      "text": "The advertisement describes the apartments as being located in a 'historic country mill'. This means the building itself is a historical site, matching the description. That's why the correct answer is H.",
+      "quote": "Superb apartments in an historic county mill!"
+     },
+     "q13": {
+      "text": "The advertisement is for homes in the 'Eastern region' and explicitly states that they are 'individually designed'. This means each home is unique. That's why the correct answer is I.",
+      "quote": "Our individually designed homes are available from just £171,950."
+     },
+     "q14": {
+      "text": "The ad highlights the 'beautiful countryside' of Lincolnshire and directly asks the reader if it's time to 'escape' there. This matches the desire to move to the country. That's why the correct answer is D.",
+      "quote": "Wide open spaces, beautiful countryside and charming villages"
+     }
+    },
+    "questionRange": "7-14",
+    "extraStatements": [
+     "A",
+     "C"
+    ],
+    "statementsFirst": true
+   },
+   {
+    "type": "matching-headings",
+    "title": "Part 3",
+    "answers": {
+     "15": [
+      "A"
+     ],
+     "16": [
+      "E"
+     ],
+     "17": [
+      "C"
+     ],
+     "18": [
+      "G"
+     ],
+     "19": [
+      "H"
+     ],
+     "20": [
+      "B"
+     ]
+    },
+    "passage": {
+     "title": "Sand Dunes",
+     "paragraphs": [
+      {
+       "number": "I",
+       "content": "One of the main problems posed by sand dunes is their encroachment on human habitats. Sand dunes move by different means, all of them aided by the wind. Sand dunes threaten buildings and crops in Africa, the Middle East, and China. Preventing sand dunes from overwhelming cities and agricultural areas has become a priority for the United Nations Environment Program. On the other hand, dune habitats provide niches for highly specialized plants and animals, including numerous rare and endangered species.",
+       "questionId": 15
+      },
+      {
+       "number": "II",
+       "content": "Sand is usually composed of hard minerals such as quartz that cannot be broken down into silt or clay. Yellow, brown and reddish shades of sand indicate their presence of iron compounds. Red sand is composed of quartz coated by a layer of iron oxide. White sands are nearly pure gypsum. Sand with a high percentage of silicate can be used in glassmaking. Sandstone is created by sand, mixed with lime, chalk or some other material that acts as a binding agent, that is deposited in layers at the bottom of a sea or other area and pressed together into rock by the great pressure of sediments that are deposited on top of it over thousands or millions of years.",
+       "questionId": 16
+      },
+      {
+       "number": "III",
+       "content": "The most common dune form on Earth and on Mars is crescentic. Crescent-shaped mounds are generally wider than they are long. The slipfaces are on the concave sides of the dunes. These dunes form under winds that blow consistently from one direction, and they also are known as barchans or transverse dunes. Some types of crescentic dunes move more quickly over desert surfaces than any other type of dune. A group of dunes moved more than 100 metres per year between 1954 and 1959 the China’s Ningxia Province, and similar speeds have been recorded in the Western Desert of Egypt. The largest crescentic dunes on Earth, with mean crest-to-crest widths of more than 3 kilometres, are in China’s Taklamakan Desert.",
+       "questionId": 17
+      },
+      {
+       "number": "IV",
+       "content": "Radially symmetrical, star dunes are pyramidal sand mounds with slipfaces on there or more arms that radiate from the high center of the mound. They tend to accumulate in areas with multidirectional wind regimes. Star dunes grow upward rather than laterally. They dominate the Grand Erg Oriental of the Sahara. In other deserts, they occur around the margins of the sand seas, particularly near topographic barriers. In the southeast Badain Jaran Desert of China, the star dunes are up to 500 metres tall and may be the tallest dunes on Earth. Straight or slightly sinuous sand ridges typically much longer than they are wide are known as linear dunes. They may be more than 160 kilometres (99 mi) long. Some linear dunes merge to form Y-shaped compound dunes. Many forms in bidirectional wind regimes. The long axes of these dunes extend in the resultant direction of sand movement. Linear loess hills known as pahas are superficially similar.",
+       "questionId": 18
+      },
+      {
+       "number": "V",
+       "content": "Once sand begins to pile up, ripples and dunes can form. Wind continues to move sand up to the top of the pile until the pile is so steep that it collapses under its own weight. The collapsing sand comes to rest when it reaches just the right steepness to keep the dune stable. This angle, usually about 30-34°, is called the angle of repose. Every pile of loose particles has a unique angle of repose, depending upon the properties of the material it’s made of, such as the grain size and roundness. Ripples grow into dunes with the increase of wind and sand input.",
+       "questionId": 19
+      },
+      {
+       "number": "VI",
+       "content": "The repeating cycle of sand inching up the windward side to the dune crest, then slipping down the dune’s slip face allows the dune to inch forward, migrating in the direction the wind blows. As you might guess, all of this climbing then slipping leaves its mark on the internal structure of the dune. The image on the right shows fossil sand dune structure preserved in the Merced Formation at Fort Funston, Golden Gate National Recreation Area. The sloping lines or laminations you see are the preserved slip faces of a migrating sand dune. This structure is called cross-bedding and can be the result of either wind or water currents. The larger the cross-bedded structure, however, the more likely it is to be formed by wind, rather than water.",
+       "questionId": 20
+      }
+     ]
+    },
+    "headings": [
+     {
+      "text": "potential threat to buildings and crops despite of benefit",
+      "letter": "A"
+     },
+     {
+      "text": "the cycle of sand moving forward with wind",
+      "letter": "B"
+     },
+     {
+      "text": "the most common sand type.",
+      "letter": "C"
+     },
+     {
+      "text": "scientists simulate sand move and build model in lab",
+      "letter": "D"
+     },
+     {
+      "text": "sand composition explanation",
+      "letter": "E"
+     },
+     {
+      "text": "singing sand dunes",
+      "letter": "F"
+     },
+     {
+      "text": "other types of sand dunes",
+      "letter": "G"
+     },
+     {
+      "text": "reasons why sand dunes form",
+      "letter": "H"
+     }
+    ],
+    "questions": [
+     {
+      "id": 15,
+      "text": "Paragraph I"
+     },
+     {
+      "id": 16,
+      "text": "Paragraph II"
+     },
+     {
+      "id": 17,
+      "text": "Paragraph III"
+     },
+     {
+      "id": 18,
+      "text": "Paragraph IV"
+     },
+     {
+      "id": 19,
+      "text": "Paragraph V"
+     },
+     {
+      "id": 20,
+      "text": "Paragraph VI"
+     }
+    ],
+    "partNumber": 3,
+    "instruction": "Read the text and choose the correct heading for each paragraph from the list of headings below. There are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once.",
+    "explanations": {
+     "q15": {
+      "text": "This paragraph describes how sand dunes are a problem for human habitats and agriculture, but also notes that they provide important niches for rare species, thus covering both threat and benefit. That's why the correct answer is A.",
+      "quote": "Sand dunes threaten buildings and crops in Africa, the Middle East, and China."
+     },
+     "q16": {
+      "text": "This paragraph details the various minerals and compounds that sand is made of, such as quartz and iron, and explains how these components determine the sand's color and properties. That's why the correct answer is E.",
+      "quote": "Sand is usually composed of hard minerals such as quartz that cannot be broken down into silt or clay."
+     },
+     "q17": {
+      "text": "The paragraph opens by explicitly stating that the crescentic dune is the most frequently occurring type on Earth, and then continues to describe its features and movement. That's why the correct answer is C.",
+      "quote": "The most common dune form on Earth and on Mars is crescentic."
+     },
+     "q18": {
+      "text": "This paragraph introduces and describes several other forms of sand dunes, such as star dunes and linear dunes, detailing their unique shapes and the wind conditions that form them. That's why the correct answer is G.",
+      "quote": "Radially symmetrical, star dunes are pyramidal sand mounds with slipfaces on there or more arms that radiate from the high center of the mound."
+     },
+     "q19": {
+      "text": "This section explains the physical process of how dunes are created, detailing how wind piles sand up until it collapses under its own weight to a stable angle, called the angle of repose. That's why the correct answer is H.",
+      "quote": "Once sand begins to pile up, ripples and dunes can form."
+     },
+     "q20": {
+      "text": "This paragraph describes the mechanism of dune migration as a repeating cycle where sand moves up the windward side and slips down the other, causing the dune to move forward. That's why the correct answer is B.",
+      "quote": "The repeating cycle of sand inching up the windward side to the dune crest, then slipping down the dune’s slip face allows the dune to inch forward, migrating in the direction the wind blows."
+     }
+    },
+    "extraHeadings": [
+     "D",
+     "F"
+    ],
+    "questionRange": "15-20"
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 4",
+    "answers": {
+     "21": [
+      "D"
+     ],
+     "22": [
+      "B"
+     ],
+     "23": [
+      "C"
+     ],
+     "24": [
+      "B"
+     ],
+     "25": [
+      "True",
+      "A"
+     ],
+     "26": [
+      "True",
+      "A"
+     ],
+     "27": [
+      "Not Given",
+      "C"
+     ],
+     "28": [
+      "Not Given",
+      "C"
+     ],
+     "29": [
+      "False",
+      "B"
+     ]
+    },
+    "passage": {
+     "title": "Chloe Kelling Interview",
+     "content": "<p>I arrive for my interview with Chloe Kelling and I’m asked to wait in the garden. I hardly have time to start looking round at the carefully tended flowerbeds when Chloe appears. Every bit as tall and striking as I’d expected, Chloe emerges from the house wearing an oversized man’s jacket, a delicately patterned top and jeans. Chloe is known for her slightly quirky sense of fashion and, of course, she looks great as she makes her way towards me through the flowerbeds.</p><p>‘Let’s talk in my office,’ she says, leading the way not back to the house, but instead to an ancient caravan parked up next to it. As we climb inside the compact little van, the smell of fresh baking greets us. A tiny table is piled high with cupcakes, each iced in a different colour. Chloe’s been busy, and there’s a real sense of playing tea parties in a secret den! But what else should I have expected from a woman with such a varied and interesting career?</p><p>Chloe originally trained as a make-up artist, having left her home in the country at nineteen to try and make her name as a model in London, and soon got work in adverts and the fashion business. ‘I went to Japan to work for a short period, but felt very homesick at first,’ she recalls. ‘It was very demanding work and, though I met loads of nice people, it was too much to take in at nineteen. If I’d stayed longer, I might have settled in better.’</p><p>Alongside the modelling, Chloe was also beginning to make contacts in the music business. ‘I’d been the typical kid, singing with a hairbrush in front of the mirror, dreaming of being a star one day,’ she laughs. She joined a girl band which ‘broke up before we got anywhere’, before becoming the lead singer with the band Whoosh, which features on a best-selling clubbing album. Unusually though, Chloe also sings with two other bands, one based in Sweden and another in London, and each of these has a distinct style.</p><p>It was her work with Whoosh that originally led to Chloe’s link with Sweden. She was offered a song-writing job there with a team that was responsible for songs for some major stars, but gradually became more involved in writing music for her own band.</p><p>Although she now divides her time between London and Sweden, her first stay there turned out to be much longer than she’d bargained for. ‘The rooms are very tall over there and so people have these rather high beds that you climb up to,’ she explains. ‘I fell as I climbed up the ladder and cracked three ribs. Although the people at the hospital were very kind, I was stuck there for a while, which was very frustrating. Sneezing and laughing were so painful at first, let alone singing!’</p><p>It was while recovering from her injuries that Chloe hit upon the idea of staging what she calls vintage fairs. ‘It was snowing in Sweden and I wanted something nice to look forward to.’ Chloe had always loved vintage clothes, particularly from the 1950s, and decided to stage an event for others who shared her passion. The first fair was held in her home village and featured stalls selling all sorts of clothes and crafts dating back to the 1950s. It was a huge hit, with 300 people turning up.</p><p>‘When I had the idea of the first fair, it was only meant to be a one-off, but we had so many compliments, I decided to go ahead with more,’ says Chloe. ‘There’s something for all ages and people find old things have more character than stuff you buy in modern shops. It also fits perfectly with the idea of recycling.’ Looking round Chloe’s caravan, I can see what she means.</p>"
+    },
+    "partNumber": 4,
+    "instruction": "Read the following text for question 21-29.",
+    "explanations": {
+     "q21": {
+      "text": "Chloe says the work in Japan was demanding and that the experience was \"too much to take in at nineteen.\" This suggests she felt she was too young to handle it all. That's why the correct answer is D.",
+      "quote": "It was very demanding work and, though I met loads of nice people, it was too much to take in at nineteen."
+     },
+     "q22": {
+      "text": "The passage describes Chloe as a \"typical kid, singing with a hairbrush in front of the mirror, dreaming of being a star one day.\" This shows she had a long-standing desire to be a singer. That's why the correct answer is B.",
+      "quote": "‘I’d been the typical kid, singing with a hairbrush in front of the mirror, dreaming of being a star one day,’ she laughs."
+     },
+     "q23": {
+      "text": "The text explains that in Sweden, people have high beds. Chloe states that she was injured when she fell from the ladder while climbing up to her bed. That's why the correct answer is C.",
+      "quote": "I fell as I climbed up the ladder and cracked three ribs."
+     },
+     "q24": {
+      "text": "Chloe says the first fair was meant to be a one-off event, but she decided to continue because she \"had so many compliments.\" This shows she was influenced by positive customer reactions. That's why the correct answer is B.",
+      "quote": "‘When I had the idea of the first fair, it was only meant to be a one-off, but we had so many compliments, I decided to go ahead with more,’ says Chloe."
+     },
+     "q25": {
+      "text": "The passage explicitly states that while Chloe was working as a model, she was also starting to build connections within the music industry. That's why the correct answer is True.",
+      "quote": "Alongside the modelling, Chloe was also beginning to make contacts in the music business."
+     },
+     "q26": {
+      "text": "When talking about her work trip to Japan, Chloe recalls that she \"felt very homesick at first.\" This directly confirms that she missed being at home. That's why the correct answer is True.",
+      "quote": "‘I went to Japan to work for a short period, but felt very homesick at first,’ she recalls."
+     },
+     "q27": {
+      "text": "The passage describes Chloe's accident and her idea for vintage fairs while in Sweden, but it does not mention her buying jackets or any other clothing there. That's why the correct answer is Not Given.",
+      "quote": ""
+     },
+     "q28": {
+      "text": "The text says Chloe sings in bands based in London and Sweden, but it doesn't give any details about her travelling with them for tours or concerts. That's why the correct answer is Not Given.",
+      "quote": ""
+     },
+     "q29": {
+      "text": "The passage says Chloe \"hit upon the idea\" of vintage fairs while recovering from an injury, and that the first one was meant to be a \"one-off.\" This shows it was a new idea, not a long-held ambition. That's why the correct answer is False.",
+      "quote": ""
+     }
+    },
+    "questionRange": "21-29",
+    "questionSections": [
+     {
+      "type": "mcq",
+      "title": "Questions 21-24: Multiple Choice",
+      "questions": [
+       {
+        "id": 21,
+        "text": "What does Chloe say about her trip to Japan?",
+        "options": [
+         {
+          "text": "She soon got used to her life there.",
+          "letter": "A"
+         },
+         {
+          "text": "She felt lonely most of the time there.",
+          "letter": "B"
+         },
+         {
+          "text": "She wishes she'd done the work better.",
+          "letter": "C"
+         },
+         {
+          "text": "She wasn't old enough to appreciate it fully.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 22,
+        "text": "In the fourth paragraph, we find out that Chloe",
+        "options": [
+         {
+          "text": "gave up modelling to become a singer.",
+          "letter": "A"
+         },
+         {
+          "text": "had always had ambitions to be a singer.",
+          "letter": "B"
+         },
+         {
+          "text": "has now left the first successful band she joined.",
+          "letter": "C"
+         },
+         {
+          "text": "sings in three bands that have a very similar sound.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 23,
+        "text": "Chloe ended up in hospital in Sweden after",
+        "options": [
+         {
+          "text": "breaking a rib whilst trying to move her bed.",
+          "letter": "A"
+         },
+         {
+          "text": "hurting her leg in a fall from her bed.",
+          "letter": "B"
+         },
+         {
+          "text": "falling off a ladder in her bedroom.",
+          "letter": "C"
+         },
+         {
+          "text": "tripping over in her room at night.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 24,
+        "text": "What does Chloe say about her 'vintage fairs'?",
+        "options": [
+         {
+          "text": "Her main aim is to raise awareness of environmental issues.",
+          "letter": "A"
+         },
+         {
+          "text": "She has responded to positive feedback from customers.",
+          "letter": "B"
+         },
+         {
+          "text": "Certain shops are now showing interest in the idea.",
+          "letter": "C"
+         },
+         {
+          "text": "They are mostly popular with older people.",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "For questions 21-24, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet.",
+      "questionRange": "21-24"
+     },
+     {
+      "type": "tfni",
+      "title": "Questions 25-29: True/False/Not Given",
+      "options": [
+       "True",
+       "False",
+       "Not Given"
+      ],
+      "questions": [
+       {
+        "id": 25,
+        "text": "When Chloe was modelling, she was also in the music business."
+       },
+       {
+        "id": 26,
+        "text": "When she traveled Japan for the first time, she missed her home very much."
+       },
+       {
+        "id": 27,
+        "text": "When she was in Sweden, she bought jackets."
+       },
+       {
+        "id": 28,
+        "text": "She traveled a lot with her music band."
+       },
+       {
+        "id": 29,
+        "text": "She has always wanted to stage vintage fairs."
+       }
+      ],
+      "instruction": "For questions 25-29, decide if the following statements agree with the information given in the text. Mark your answers on the answer sheet.",
+      "questionRange": "25-29"
+     }
+    ]
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 5",
+    "answers": {
+     "30": [
+      "Boundaries"
+     ],
+     "31": [
+      "Authoritative"
+     ],
+     "32": [
+      "Permissive"
+     ],
+     "33": [
+      "Story"
+     ],
+     "34": [
+      "D"
+     ],
+     "35": [
+      "A"
+     ]
+    },
+    "passage": {
+     "title": "Henry program",
+     "content": "<p><b>City’s Henry programme gives children choices while helping parents stay in the driving seat</b></p><p>Leeds has become the first city in the UK to report a drop in childhood obesity after introducing a programme called ‘Henry’ to help parents set boundaries for their children and put them off sweets and junk food. Only a few cities in the world, notably Amsterdam, have managed to cut child obesity. As in Amsterdam, the decline in Leeds is most marked among families living in the most deprived areas, where the problem is worst and hardest to tackle.</p><p>‘The improvement in the most deprived children in Leeds is startling,’ said Susan Jebb, a professor of diet and population health at Oxford University, whose team has analysed the city’s data. Over four years, obesity has dropped from 11.5% to 10.5% and the trajectory is steadily downwards. Among the more affluent families, there was also a decline from 6.8% to 6%. Overall the drop was from 9.4% to 8.8%. The data comes from the national child measurement programme (NCMP), which requires all children to be weighed at the start and end of primary school. The biggest decline in obesity in Leeds is 6.4% in the reception class, at about the age of four.</p><p>No such data has been reported elsewhere in the UK, where childhood obesity is a major concern. The measurement programme shares the progress made in each city with those considered comparable. For Leeds, the 15 closest ‘neighbours’ at the start of its study period in 2009 were Sheffield, Kirklees, Bristol, Newcastle upon Tyne, Coventry, Bolton, Wakefield, Derby, Bradford, Dudley, Medway, Liverpool, Swindon, County Durham and Warrington. The obesity rates there and across the country have not shifted. Susan Jebb added that the dropping rate in Leeds appeared to be a trend. ‘This is four years, not one rogue data point,’ she said at the European Congress on Obesity in Glasgow where she presented the research.</p><p>Jebb, a former government adviser, says they cannot be sure what has turned the tide in Leeds - but it could involve a programme called ‘Henry’ that the city introduced as the core of its obesity strategy in 2009, focusing particularly on the youngest children and poorest families. ‘Henry’ (Health, Exercise, Nutrition for the Really Young) supports parents in setting boundaries for their children and taking a positive stance on issues from healthy eating to bedtimes.</p><p>‘Henry’s’ chief executive, Kim Roberts, said the drop in obesity in Leeds was ‘unprecedented … The indicators are that this isn’t happening in other cities’. The programme encourages authoritative rather than authoritarian parenting, she said. ‘Authoritarian parenting is when children are told what to eat and what to do, such as being banned from leaving the table until they have eaten their sprouts,’ said Roberts. ‘Permissive parenting is asking children what they want to do. But ‘Henry’ encourages a third approach known as authoritative parenting, where parents make it clear they are in charge, but also respond to their children.’ Instead of being asked what vegetable they want with dinner, children might be asked whether they would like carrots or broccoli. Instead of being told to go to bed, they are asked where they want to read their story beforehand.</p><p>Lisa, who joined a ‘Henry’ parenting course when her oldest daughter was two, is enthusiastic about her family’s experience of the programme. She learned a lot about healthy eating, saved money by planning meals and lost two stone herself. ‘I think it made me a better parent because of all the parenting skills stuff. I was able to share some of the ideas with my partner and as a result the kids became calmer and happier, which helped us feel less stressed too,’ she said.</p><p>Janice Burberry, the head of public health at Leeds city council, said the early years were a good time to intervene to support families. ‘Parents want to do the best for their children,’ she said. ‘We wanted to focus on prevention because it’s very, very difficult when obesity has taken hold to tackle it. We understand that there is no magic bullet here. Parents are experts in their own lives, and they know what they can and can’t achieve. The strategy of ‘Henry’ is about sitting alongside parents and thinking through what’s right for them.’</p><p>The public health minister, Seema Kennedy, was enthusiastic. ‘There are some fantastic pockets of work happening in early years already, and while still in the early phases, it is encouraging to see what can be achieved locally through interventions like this,’ she said. ‘I know how hard it can be for busy parents to make healthy choices for their families, so anything that can make it easier is a real lifeline.’</p>"
+    },
+    "partNumber": 5,
+    "instruction": "Read the following text for questions 30-35.",
+    "explanations": {
+     "q30": {
+      "text": "The passage states that the 'Henry' programme supports parents in establishing rules for their children on issues like healthy eating and bedtimes. That's why the correct answer is 'Boundaries'.",
+      "quote": "'Henry' (Health, Exercise, Nutrition for the Really Young) supports parents in setting boundaries for their children and taking a positive stance on issues from healthy eating to bedtimes."
+     },
+     "q31": {
+      "text": "The text contrasts different parenting styles and explicitly states that the 'Henry' programme promotes a specific approach where parents are in charge but also responsive. That's why the correct answer is 'Authoritative'.",
+      "quote": "But ‘Henry’ encourages a third approach known as authoritative parenting, where parents make it clear they are in charge, but also respond to their children."
+     },
+     "q32": {
+      "text": "The passage defines the parenting style where children are simply asked what they want to do, which implies a high degree of freedom. That's why the correct answer is 'Permissive'.",
+      "quote": "Permissive parenting is asking children what they want to do."
+     },
+     "q33": {
+      "text": "The text provides an example of authoritative parenting related to bedtime, where a child is given a choice about where to enjoy their bedtime reading. That's why the correct answer is 'Story'.",
+      "quote": "Instead of being told to go to bed, they are asked where they want to read their story beforehand."
+     },
+     "q34": {
+      "text": "The passage analyzes the NCMP data from Leeds and specifies that the most significant reduction in obesity was seen in the youngest children measured. That's why the correct answer is D.",
+      "quote": "The biggest decline in obesity in Leeds is 6.4% in the reception class, at about the age of four."
+     },
+     "q35": {
+      "text": "The entire article is about the drop in childhood obesity in Leeds and the central role the 'Henry' programme is thought to have played in this success. That's why the correct answer is A.",
+      "quote": "Leeds has become the first city in the UK to report a drop in childhood obesity after introducing a programme called ‘Henry’ to help parents set boundaries for their children and put them off sweets and junk food."
+     }
+    },
+    "questionRange": "30-35",
+    "questionSections": [
+     {
+      "type": "gap-fill",
+      "title": "Questions 30-33: Notes Completion",
+      "questions": [
+       {
+        "id": 30,
+        "hint": "encourages parents to set firm _____"
+       },
+       {
+        "id": 31,
+        "hint": "help people become more _____ as parents"
+       },
+       {
+        "id": 32,
+        "hint": "freedom of choice as in a _____ parenting style"
+       },
+       {
+        "id": 33,
+        "hint": "where a _____ should be enjoyed"
+       }
+      ],
+      "instruction": "For questions 30-33, fill in the missing information in the numbered spaces. Write no more than ONE WORD and / or A NUMBER for each question.",
+      "summaryText": "‘Henry’ was used in Leeds from 2009 in the fight against childhood obesity. The programme focuses on situations such as mealtimes and bedtimes, and it encourages parents to set firm <span class=\"gap-input\" data-gap=\"30\">_____(30)_____</span> during these periods. According to Kim Roberts, ‘Henry’ aims to help people become more <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span> as parents. In this way, they do not instruct children to do things, nor give them total freedom of choice as in a <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span> parenting style. Instead, they allow children to make some decisions for themselves. This might be a choice of vegetable at the dinner table or a decision about where a <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span> should be enjoyed in the evening.",
+      "summaryTitle": "The 'Henry' programme",
+      "questionRange": "30-33"
+     },
+     {
+      "type": "mcq",
+      "title": "Questions 34-35: Multiple Choice",
+      "questions": [
+       {
+        "id": 34,
+        "text": "According to the writer, the NCMP data indicate that",
+        "options": [
+         {
+          "text": "children should be weighed more frequently.",
+          "letter": "A"
+         },
+         {
+          "text": "most primary school children need to lose weight.",
+          "letter": "B"
+         },
+         {
+          "text": "children from wealthy families have less weight to lose than others.",
+          "letter": "C"
+         },
+         {
+          "text": "the youngest children show the highest levels of weight loss.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 35,
+        "text": "Which title is the most suitable for the text?",
+        "options": [
+         {
+          "text": "A look at what 'Henry' has achieved in Leeds",
+          "letter": "A"
+         },
+         {
+          "text": "'Henry's the best,' according to Leeds children",
+          "letter": "B"
+         },
+         {
+          "text": "Leeds parents discuss how 'Henry' has helped them",
+          "letter": "C"
+         },
+         {
+          "text": "It's all about saying 'no', according to 'Henry'",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "For questions 34-35, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet.",
+      "questionRange": "34-35"
+     }
+    ]
+   }
+  ],
+  "examDate": "2026-05-18",
+  "testInfo": {
+   "level": "B1-B2-C1",
+   "parts": 5,
+   "title": "CEFR B1-B2-C1 Reading Test 33",
+   "totalTime": 60,
+   "totalQuestions": 35
+  }
+ },
+ "created_at": "2026-05-12T16:22:03.739947+00:00",
+ "updated_at": "2026-10-11T10:54:25.762211+00:00"
+}

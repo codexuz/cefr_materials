@@ -1,0 +1,927 @@
+{
+ "id": 2260,
+ "mock_type": "ket-reading-writing",
+ "mock_number": 26,
+ "title": "KET Reading & Writing — Test 26",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "match-notices",
+    "items": [
+     {
+      "id": 1,
+      "answer": "C",
+      "prompt": "For this price, you can get close to some animals."
+     },
+     {
+      "id": 2,
+      "answer": "G",
+      "prompt": "There are two ways to get information about this."
+     },
+     {
+      "id": 3,
+      "answer": "B",
+      "prompt": "This activity is for a small group of people."
+     },
+     {
+      "id": 4,
+      "answer": "F",
+      "prompt": "This place isn't for adults or teenagers."
+     },
+     {
+      "id": 5,
+      "answer": "D",
+      "prompt": "It is not possible to see these animals today."
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "H",
+     "number": 0,
+     "prompt": "It is not safe to do these things."
+    },
+    "notices": [
+     {
+      "text": "Zoo shop\nGreat prices on all animal books",
+      "letter": "A"
+     },
+     {
+      "text": "Meet the penguins!\n2p.m. / 6p.m.\nOnly 6 tickets available for each time",
+      "letter": "B"
+     },
+     {
+      "text": "Spend a day with elephants or giraffes\n£25\nAdults only",
+      "letter": "C"
+     },
+     {
+      "text": "Monkey house closed\nuntil next June",
+      "letter": "D"
+     },
+     {
+      "text": "Fish from South America\nChildren – please do not hit the glass",
+      "letter": "E"
+     },
+     {
+      "text": "Playground\nFor children aged 3–11 only\n£2.50 per child",
+      "letter": "F"
+     },
+     {
+      "text": "Birthday parties at the Zoo\nFor prices, visit reception or go online",
+      "letter": "G"
+     },
+     {
+      "text": "Standing or climbing on the\nzoo walls is dangerous",
+      "letter": "H"
+     }
+    ],
+    "partNumber": 1,
+    "instruction": [
+     "Which notice (A–H) says this (1–5)?",
+     "For questions 1–5, mark the correct letter A–H on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "mcq-gap-fill-sentences",
+    "items": [
+     {
+      "id": 6,
+      "answer": "C",
+      "options": [
+       {
+        "text": "joins",
+        "letter": "A"
+       },
+       {
+        "text": "enjoys",
+        "letter": "B"
+       },
+       {
+        "text": "practises",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Sharon _____ at her tennis club four times a week."
+     },
+     {
+      "id": 7,
+      "answer": "A",
+      "options": [
+       {
+        "text": "enters",
+        "letter": "A"
+       },
+       {
+        "text": "takes",
+        "letter": "B"
+       },
+       {
+        "text": "earns",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Sharon _____ lots of competitions and often plays very well in them."
+     },
+     {
+      "id": 8,
+      "answer": "B",
+      "options": [
+       {
+        "text": "told",
+        "letter": "A"
+       },
+       {
+        "text": "asked",
+        "letter": "B"
+       },
+       {
+        "text": "spoken",
+        "letter": "C"
+       }
+      ],
+      "sentence": "It's Sharon's birthday soon and she has _____ her parents for a new racket."
+     },
+     {
+      "id": 9,
+      "answer": "A",
+      "options": [
+       {
+        "text": "upset",
+        "letter": "A"
+       },
+       {
+        "text": "difficult",
+        "letter": "B"
+       },
+       {
+        "text": "worst",
+        "letter": "C"
+       }
+      ],
+      "sentence": "When Sharon loses a match, she always feels very _____."
+     },
+     {
+      "id": 10,
+      "answer": "B",
+      "options": [
+       {
+        "text": "copy",
+        "letter": "A"
+       },
+       {
+        "text": "improve",
+        "letter": "B"
+       },
+       {
+        "text": "know",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Sharon's friend has just started playing tennis and Sharon is helping her to _____."
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "text": "nearly",
+       "letter": "A"
+      },
+      {
+       "text": "possibly",
+       "letter": "B"
+      },
+      {
+       "text": "quite",
+       "letter": "C"
+      }
+     ],
+     "sentence": "Sharon has played tennis since she was a little girl and is now _____ good."
+    },
+    "partNumber": 2,
+    "instruction": [
+     "Read the sentences about a girl who plays tennis.",
+     "Choose the best word (A, B or C) for each space.",
+     "For questions 6–10, mark A, B or C on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-response",
+    "items": [
+     {
+      "id": 11,
+      "answer": "A",
+      "prompt": "How did you get to the party?",
+      "options": [
+       {
+        "text": "I caught a bus.",
+        "letter": "A"
+       },
+       {
+        "text": "It was great thanks.",
+        "letter": "B"
+       },
+       {
+        "text": "On Wednesday I think.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "answer": "B",
+      "prompt": "Yuri phoned me yesterday from Japan.",
+      "options": [
+       {
+        "text": "Who's calling?",
+        "letter": "A"
+       },
+       {
+        "text": "How is she?",
+        "letter": "B"
+       },
+       {
+        "text": "Can I leave a message?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "answer": "C",
+      "prompt": "Is that Stella's new mobile?",
+      "options": [
+       {
+        "text": "I can't find one.",
+        "letter": "A"
+       },
+       {
+        "text": "She didn't answer.",
+        "letter": "B"
+       },
+       {
+        "text": "She hasn't bought one yet.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "answer": "C",
+      "prompt": "I'm going clothes shopping tomorrow.",
+      "options": [
+       {
+        "text": "Are they in the town centre?",
+        "letter": "A"
+       },
+       {
+        "text": "How long is it?",
+        "letter": "B"
+       },
+       {
+        "text": "What do you need to get?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "answer": "B",
+      "prompt": "The library's closed already.",
+      "options": [
+       {
+        "text": "It's a pity you can't.",
+        "letter": "A"
+       },
+       {
+        "text": "I can wait until tomorrow.",
+        "letter": "B"
+       },
+       {
+        "text": "Can I borrow it?",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "prompt": "Where do you come from?",
+     "options": [
+      {
+       "text": "New York.",
+       "letter": "A"
+      },
+      {
+       "text": "School.",
+       "letter": "B"
+      },
+      {
+       "text": "Home.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partLetter": "a",
+    "partNumber": 3,
+    "instruction": [
+     "Complete the five conversations.",
+     "For questions 11–15, mark A, B or C on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "type": "match-dialogue",
+    "items": [
+     {
+      "id": 16,
+      "answer": "D"
+     },
+     {
+      "id": 17,
+      "answer": "E"
+     },
+     {
+      "id": 18,
+      "answer": "G"
+     },
+     {
+      "id": 19,
+      "answer": "B"
+     },
+     {
+      "id": 20,
+      "answer": "A"
+     }
+    ],
+    "example": {
+     "answer": "H",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "No problem – I have to work the next day anyway.",
+      "letter": "A"
+     },
+     {
+      "text": "That's fine. You know the way to my house, don't you?",
+      "letter": "B"
+     },
+     {
+      "text": "How many people are going to be there?",
+      "letter": "C"
+     },
+     {
+      "text": "Oh, OK then. How are you getting there?",
+      "letter": "D"
+     },
+     {
+      "text": "Great, I'll go with you, then. What about a present?",
+      "letter": "E"
+     },
+     {
+      "text": "It's quite an expensive one.",
+      "letter": "F"
+     },
+     {
+      "text": "Thanks. I'll give you some money for that, and I'll get a card.",
+      "letter": "G"
+     },
+     {
+      "text": "I haven't decided yet.",
+      "letter": "H"
+     }
+    ],
+    "dialogue": [
+     {
+      "line": "Hi Sarah, are you going to Grace's party tomorrow?",
+      "speaker": "Alice"
+     },
+     {
+      "gap": 0,
+      "speaker": "Sarah"
+     },
+     {
+      "line": "Oh, come on! It'll be fun.",
+      "speaker": "Alice"
+     },
+     {
+      "gap": 16,
+      "speaker": "Sarah"
+     },
+     {
+      "line": "I'm driving, and there's still space in my car.",
+      "speaker": "Alice"
+     },
+     {
+      "gap": 17,
+      "speaker": "Sarah"
+     },
+     {
+      "line": "I've bought one – we can say it's from both of us.",
+      "speaker": "Alice"
+     },
+     {
+      "gap": 18,
+      "speaker": "Sarah"
+     },
+     {
+      "line": "Great – I'll write my name on it. Shall I pick you up at 7 o'clock?",
+      "speaker": "Alice"
+     },
+     {
+      "gap": 19,
+      "speaker": "Sarah"
+     },
+     {
+      "line": "Of course! By the way, I can't stay too late at the party.",
+      "speaker": "Alice"
+     },
+     {
+      "gap": 20,
+      "speaker": "Sarah"
+     },
+     {
+      "line": "Me too!",
+      "speaker": "Alice"
+     }
+    ],
+    "partLetter": "b",
+    "partNumber": 3,
+    "instruction": [
+     "Complete the conversation.",
+     "What does Sarah say to Alice?",
+     "For questions 16–20, mark the correct letter A–H on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "type": "match-three-texts",
+    "items": [
+     {
+      "id": 21,
+      "answer": "C",
+      "prompt": "Who has more than one computer in his room?"
+     },
+     {
+      "id": 22,
+      "answer": "A",
+      "prompt": "Who would like more pictures on the walls?"
+     },
+     {
+      "id": 23,
+      "answer": "B",
+      "prompt": "Who has pictures of himself doing sport?"
+     },
+     {
+      "id": 24,
+      "answer": "A",
+      "prompt": "Who shares his room with someone else?"
+     },
+     {
+      "id": 25,
+      "answer": "C",
+      "prompt": "Who talks to friends when he's in his room?"
+     },
+     {
+      "id": 26,
+      "answer": "A",
+      "prompt": "Who sometimes has visitors to his room?"
+     },
+     {
+      "id": 27,
+      "answer": "A",
+      "prompt": "Who studies in his bedroom?"
+     }
+    ],
+    "label": "PART 4",
+    "texts": [
+     {
+      "body": "Robert likes his room to be tidy, but it's difficult as it's his brother's bedroom too. When Robert is alone in the room he does his homework or listens to music. On the walls there are a few small posters. Robert wants to have more, and to paint the walls yellow, but his mother doesn't agree. There are photographs of family holidays and of his sister's children. 'I like my room best when they're here. It gets untidy, but I don't mind.'",
+      "title": "Robert",
+      "letter": "A"
+     },
+     {
+      "body": "James's bedroom is painted in his favourite colour, yellow. He loves rugby, and there are several photos of him playing in the school team. 'After school I like to come up here to play computer games. My room's like my safe place. I can relax here.' James keeps his room tidy. His school work is on one shelf, and on another he has all his books.",
+      "title": "James",
+      "letter": "B"
+     },
+     {
+      "body": "'After school I come up here and chat to everyone I know on the computer,' says Harry. 'I never work in here – I study in the kitchen.' He has a big desk with a laptop in the middle, a PC on one side and a lamp on the other. On the walls there are two posters of his favourite tennis stars. 'I don't do much sport but I like watching tennis.'",
+      "title": "Harry",
+      "letter": "C"
+     }
+    ],
+    "example": {
+     "answer": "B",
+     "number": 0,
+     "prompt": "Whose room has yellow walls?"
+    },
+    "heading": "My Bedroom",
+    "partNumber": 4,
+    "instruction": [
+     "Read the article about the bedrooms of three teenagers and then answer the questions.",
+     "For questions 21–27, mark A, B or C on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 21–27"
+   },
+   {
+    "type": "mcq-cloze-passage",
+    "items": [
+     {
+      "id": 28,
+      "answer": "B",
+      "options": [
+       {
+        "text": "on",
+        "letter": "A"
+       },
+       {
+        "text": "in",
+        "letter": "B"
+       },
+       {
+        "text": "at",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 29,
+      "answer": "A",
+      "options": [
+       {
+        "text": "fast",
+        "letter": "A"
+       },
+       {
+        "text": "faster",
+        "letter": "B"
+       },
+       {
+        "text": "fastest",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 30,
+      "answer": "A",
+      "options": [
+       {
+        "text": "after",
+        "letter": "A"
+       },
+       {
+        "text": "until",
+        "letter": "B"
+       },
+       {
+        "text": "during",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 31,
+      "answer": "C",
+      "options": [
+       {
+        "text": "who",
+        "letter": "A"
+       },
+       {
+        "text": "where",
+        "letter": "B"
+       },
+       {
+        "text": "which",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 32,
+      "answer": "B",
+      "options": [
+       {
+        "text": "try",
+        "letter": "A"
+       },
+       {
+        "text": "trying",
+        "letter": "B"
+       },
+       {
+        "text": "tried",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 33,
+      "answer": "C",
+      "options": [
+       {
+        "text": "ever",
+        "letter": "A"
+       },
+       {
+        "text": "yet",
+        "letter": "B"
+       },
+       {
+        "text": "how",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 34,
+      "answer": "C",
+      "options": [
+       {
+        "text": "already",
+        "letter": "A"
+       },
+       {
+        "text": "exactly",
+        "letter": "B"
+       },
+       {
+        "text": "often",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 35,
+      "answer": "A",
+      "options": [
+       {
+        "text": "of",
+        "letter": "A"
+       },
+       {
+        "text": "by",
+        "letter": "B"
+       },
+       {
+        "text": "to",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 5",
+    "example": {
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "text": "is",
+       "letter": "A"
+      },
+      {
+       "text": "has",
+       "letter": "B"
+      },
+      {
+       "text": "are",
+       "letter": "C"
+      }
+     ]
+    },
+    "passage": "Most wild cheetahs {0} found in eastern and south-western Africa. When running, they can go from 0 to 100 kilometres an hour {28} only three seconds. They can't run this {29} for very long, however, and usually stop {30} about a minute. Cheetahs can also see very well, {31} is useful when they are {32} to catch small animals.\n\nFemale cheetahs usually have three cubs at a time. These stay with their mother for between one and a half to two years. They spend most of this time playing together or learning {33} to catch small animals. Male cheetahs live alone or in small groups, {34} with their brothers. Cheetahs are not as big as other members {35} the cat family, such as lions or tigers, and only weigh 45–60 kilograms.",
+    "partNumber": 5,
+    "instruction": [
+     "Read the article about cheetahs.",
+     "Choose the best word (A, B or C) for each space.",
+     "For questions 28–35, mark A, B or C on your answer sheet."
+    ],
+    "passageTitle": "Cheetahs",
+    "questionsLabel": "QUESTIONS 28–35"
+   },
+   {
+    "type": "vocab-first-letter",
+    "items": [
+     {
+      "id": 36,
+      "answer": "plane",
+      "prompt": "You go on this when you fly from one place to another.",
+      "letters": 5,
+      "firstLetter": "p"
+     },
+     {
+      "id": 37,
+      "answer": "station",
+      "prompt": "You go to this place when you need to catch a train or coach.",
+      "letters": 7,
+      "firstLetter": "s"
+     },
+     {
+      "id": 38,
+      "answer": "passport",
+      "prompt": "When you arrive in a new country, you may have to show this.",
+      "letters": 8,
+      "firstLetter": "p"
+     },
+     {
+      "id": 39,
+      "answer": "map",
+      "prompt": "If you look at this, it will help you find your way around a new city.",
+      "letters": 3,
+      "firstLetter": "m"
+     },
+     {
+      "id": 40,
+      "answer": "airport",
+      "prompt": "You arrive here when you fly into another country.",
+      "letters": 7,
+      "firstLetter": "a"
+     }
+    ],
+    "label": "PART 6",
+    "example": {
+     "answer": "ticket",
+     "number": 0,
+     "prompt": "You need to buy this before you travel on a bus or train.",
+     "firstLetter": "t"
+    },
+    "partNumber": 6,
+    "instruction": [
+     "Read the descriptions of some travel words.",
+     "What is the word for each one?",
+     "The first letter is already there. There is one space for each other letter in the word.",
+     "For questions 36–40, write the words on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 36–40"
+   },
+   {
+    "type": "open-cloze-letter",
+    "items": [
+     {
+      "id": 41,
+      "answer": "to"
+     },
+     {
+      "id": 42,
+      "answer": "or"
+     },
+     {
+      "id": 43,
+      "answer": "if"
+     },
+     {
+      "id": 44,
+      "answer": "ago"
+     },
+     {
+      "id": 45,
+      "answer": "because"
+     },
+     {
+      "id": 46,
+      "answer": "on"
+     },
+     {
+      "id": 47,
+      "answer": "a"
+     },
+     {
+      "id": 48,
+      "answer": "Do"
+     },
+     {
+      "id": 49,
+      "answer": "is"
+     },
+     {
+      "id": 50,
+      "answer": "him"
+     }
+    ],
+    "label": "PART 7",
+    "example": {
+     "answer": "you",
+     "number": 0
+    },
+    "letters": [
+     {
+      "body": "I hope (Example: you) are well. I was trying {41} call you yesterday but you didn't answer. Is your phone broken, {42} have you lost it again? Anyway, I wanted to ask {43} you can come to my birthday party next Saturday. My birthday was actually two weeks {44}, but I couldn't have the party then {45} lots of people were {46} holiday.\n\nI've invited {47} few people from our swimming club, as well as my friends from school. {48} you think your brother {49} free that day? Please invite {50} to come too. The party's at my house and starts at 8 p.m.",
+      "header": "From: Parveen\nTo:   Marta",
+      "closing": "Parveen",
+      "greeting": "Hi Marta,"
+     }
+    ],
+    "partNumber": 7,
+    "instruction": [
+     "Complete the email.",
+     "Write ONE word for each space.",
+     "For questions 41–50, write the words on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 41–50"
+   },
+   {
+    "note": {
+     "body": "",
+     "dateLine": "",
+     "signature": ""
+    },
+    "rows": [
+     {
+      "label": "Cinema:",
+      "prefilled": "Redwood"
+     },
+     {
+      "id": 51,
+      "label": "Film:",
+      "answer": "Rosy's Story"
+     },
+     {
+      "id": 52,
+      "label": "Day:",
+      "answer": "Saturday"
+     },
+     {
+      "id": 53,
+      "label": "Time:",
+      "answer": "8",
+      "suffix": "p.m."
+     },
+     {
+      "id": 54,
+      "label": "Number of tickets to get:",
+      "answer": "3"
+     },
+     {
+      "id": 55,
+      "label": "Price per person:",
+      "answer": "5",
+      "suffix": "£"
+     }
+    ],
+    "type": "info-transfer-notes",
+    "label": "PART 8",
+    "notice": {
+     "body": "REDWOOD CINEMA\nSpecial showings this weekend\n\nRosy's Story:  Saturday 8 p.m.\n               Sunday 3 p.m.\n\nStorm:         Saturday 9 p.m.\n               Sunday 7 p.m.\n\nAdults: £8.00\nStudents/Children: £5.00\n\n—————————————\nFrom: Ines\nTo:   Lin\n\nMy sister's visiting this weekend, so there'll be three of us going to the cinema instead of two. I've already seen Storm, so let's see the other film. Let's go in the evening, because we need to study during the day. Could you buy the tickets, as you live nearer? Don't forget to show your university ID so we get in cheaper.",
+     "title": "Redwood Cinema + Email"
+    },
+    "notesTitle": "Lin's notes",
+    "partNumber": 8,
+    "instruction": [
+     "Read the advertisement and the email.",
+     "Fill in the information in Lin's notes.",
+     "For questions 51–55, write the information on your answer sheet."
+    ],
+    "notesSubtitle": "Cinema this weekend",
+    "questionsLabel": "QUESTIONS 51–55"
+   },
+   {
+    "type": "writing-postcard",
+    "items": [
+     {
+      "id": 56,
+      "type": "free-text",
+      "answer": "Hi Charley\nHow are you? I'm going to ask you one thing, can you come to La Antilla next Saturday? Because I'm planning a picnic. And if you can come, can you bring sweets and potatoes chips?\nSee you\nMaria",
+      "maxWords": 35,
+      "minWords": 25
+     }
+    ],
+    "label": "PART 9",
+    "footer": [
+     "Write 25–35 words.",
+     "Write the email on your answer sheet."
+    ],
+    "prompt": "You are planning a picnic for next Saturday. Write an email to your English friend, Charley.",
+    "wordCount": "25–35 words",
+    "partNumber": 9,
+    "instruction": [
+     "You are planning a picnic for next Saturday. Write an email to your English friend, Charley:",
+     "• invite Charley to come",
+     "• say where Charley should meet you",
+     "• tell Charley what to bring"
+    ],
+    "questionsLabel": "QUESTION 56",
+    "promptSignature": ""
+   }
+  ],
+  "testInfo": {
+   "id": "ket-rw-26",
+   "level": "A2",
+   "paper": "Paper 1",
+   "parts": 9,
+   "title": "KET Reading & Writing — Test 26",
+   "totalTime": 70,
+   "totalQuestions": 56
+  }
+ },
+ "created_at": "2026-10-14T06:45:14.160596+00:00",
+ "updated_at": "2026-10-14T06:47:01.512518+00:00"
+}

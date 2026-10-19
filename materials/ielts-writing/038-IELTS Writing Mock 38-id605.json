@@ -1,0 +1,179 @@
+{
+ "id": 605,
+ "mock_type": "ielts-writing",
+ "mock_number": 38,
+ "title": "IELTS Writing Mock 38",
+ "status": "published",
+ "mock_data": {
+  "tasks": {
+   "task1": {
+    "title": "Average snow depth by month at a Canadian ski resort over three years",
+    "prompt": "The chart below shows the depth of snow (cm) in a particular ski resort in Canada in three years.",
+    "wordGoal": 150,
+    "chartDesc": {
+     "title": "Average snow depth by month",
+     "xAxis": "Month",
+     "yAxis": "Average snow depth (cm)",
+     "period": "3 years",
+     "series": [
+      {
+       "name": "year one",
+       "points": [
+        {
+         "at": "nov",
+         "value": 100
+        },
+        {
+         "at": "Dec",
+         "value": 135
+        },
+        {
+         "at": "Jan",
+         "value": 150
+        },
+        {
+         "at": "Feb",
+         "value": 450
+        },
+        {
+         "at": "Mar",
+         "value": 460
+        },
+        {
+         "at": "Apr",
+         "value": 400
+        }
+       ]
+      },
+      {
+       "name": "year two",
+       "points": [
+        {
+         "at": "nov",
+         "value": 80
+        },
+        {
+         "at": "Dec",
+         "value": 65
+        },
+        {
+         "at": "Jan",
+         "value": 115
+        },
+        {
+         "at": "Feb",
+         "value": 385
+        },
+        {
+         "at": "Mar",
+         "value": 385
+        },
+        {
+         "at": "Apr",
+         "value": 465
+        }
+       ]
+      },
+      {
+       "name": "year three",
+       "points": [
+        {
+         "at": "nov",
+         "value": 110
+        },
+        {
+         "at": "Dec",
+         "value": 140
+        },
+        {
+         "at": "Jan",
+         "value": 165
+        },
+        {
+         "at": "Feb",
+         "value": 335
+        },
+        {
+         "at": "Mar",
+         "value": 335
+        },
+        {
+         "at": "Apr",
+         "value": 285
+        }
+       ]
+      }
+     ],
+     "overview": "Across all three years, snow depth was markedly lower from November to January (below 170 cm) before increasing dramatically from February to April, where depths generally exceeded 300 cm.",
+     "chartType": "bar chart",
+     "confidence": "medium",
+     "unreadable": [
+      "Exact numerical values are not printed above bars and are estimated visually relative to the 50 cm y-axis increments."
+     ],
+     "keyFeatures": [
+      "Snow depth jumped significantly between January (115–165 cm) and February (335–450 cm) in all three years.",
+      "Year two recorded the highest overall snow depth, reaching approximately 465 cm in April.",
+      "Year one peaked in March at around 460 cm before falling to 400 cm in April.",
+      "Year three peaked at around 335 cm in both February and March before declining to 285 cm in April."
+     ]
+    },
+    "chartType": "bar_chart",
+    "dataNature": "static",
+    "instruction": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+    "sampleBand5": "",
+    "sampleBand6": "",
+    "sampleBand7": "",
+    "sampleBand8": "",
+    "sampleBand9": "",
+    "timeMinutes": 20,
+    "chartDescImg": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/38.png",
+    "sampleAnswer": "",
+    "chartImageUrl": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/38.png",
+    "uzSampleBand5": "",
+    "uzSampleBand6": "",
+    "uzSampleBand7": "",
+    "uzSampleBand8": "",
+    "uzSampleBand9": "",
+    "chartDescSource": "extracted-verified-2026-08-05"
+   },
+   "task2": {
+    "title": "Paternity leave for fathers",
+    "prompt": "All fathers should be entitled to time-off from work when their children are born. To what extent do you agree or disagree?",
+    "wordGoal": 250,
+    "essayType": "opinion",
+    "instruction": "Give reasons for your answer and include any relevant examples from your own knowledge or experience.",
+    "sampleBand5": "",
+    "sampleBand6": "",
+    "sampleBand7": "",
+    "sampleBand8": "",
+    "sampleBand9": "",
+    "timeMinutes": 40,
+    "sampleAnswer": "",
+    "uzSampleBand5": "",
+    "uzSampleBand6": "",
+    "uzSampleBand7": "",
+    "uzSampleBand8": "",
+    "uzSampleBand9": ""
+   }
+  },
+  "source": "CDI Report",
+  "examDate": "2026-07-01",
+  "settings": {
+   "logoUrl": "https://audio.mock-stream.com/img/ibb/WN0XY5Lv/logo.png",
+   "timeInfo": "⏱ Total time: 60 minutes | Task 1: 20 min (150 words) | Task 2: 40 min (250 words)",
+   "logoWording": "Mock Stream",
+   "moduleTitle": "Academic Writing Module",
+   "testIdentifier": "IELTS Mock 38"
+  },
+  "bandLabels": {
+   "7": "Band 6.5-7"
+  },
+  "vocabulary": {
+   "task1": [],
+   "task2": []
+  },
+  "tokenTranslations": {}
+ },
+ "created_at": "2026-07-07T04:49:47.601411+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

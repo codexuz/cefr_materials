@@ -1,0 +1,412 @@
+{
+ "id": 2311,
+ "mock_type": "pet-listening",
+ "mock_number": 5,
+ "title": "PET Listening — Test 5",
+ "status": "published",
+ "mock_data": {
+  "audio": {
+   "base": "https://audio.mock-stream.com/PET-Listening/test5/",
+   "files": {
+    "1": "PART1.m4a",
+    "2": "PART2.m4a",
+    "3": "PART3.m4a",
+    "4": "PART4.m4a"
+   }
+  },
+  "parts": [
+   {
+    "type": "picture-mcq",
+    "items": [
+     {
+      "id": 1,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q1A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q1B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q1C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Where will the girls meet?"
+     },
+     {
+      "id": 2,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q2A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q2B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q2C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Which chair does the man want?"
+     },
+     {
+      "id": 3,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q3A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q3B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q3C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Which picture shows what the girls need?"
+     },
+     {
+      "id": 4,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q4A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q4B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q4C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Which picture shows what happened?"
+     },
+     {
+      "id": 5,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q5A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q5B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q5C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What is Sarah's mother doing?"
+     },
+     {
+      "id": 6,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q6A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q6B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q6C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What luggage is the man taking on holiday?"
+     },
+     {
+      "id": 7,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q7A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q7B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q7C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Which photograph does the man like?"
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "options": [
+      {
+       "text": "(example pictures from book pp.18 — student sees A as worked example)",
+       "letter": "A"
+      },
+      {
+       "text": "",
+       "letter": "B"
+      },
+      {
+       "text": "",
+       "letter": "C"
+      }
+     ],
+     "question": "What's the time?"
+    },
+    "imageBase": "https://audio.mock-stream.com/PET-Listening/test5/p1/",
+    "partNumber": 1,
+    "instruction": [
+     "There are seven questions in this part.",
+     "For each question there are three pictures and a short recording.",
+     "Choose the correct picture and put a tick (✓) in the box below it."
+    ],
+    "questionsLabel": "QUESTIONS 1–7"
+   },
+   {
+    "type": "mcq-conversation",
+    "items": [
+     {
+      "id": 8,
+      "stem": "This week's prize is",
+      "answer": "C",
+      "options": [
+       {
+        "text": "a music cassette.",
+        "letter": "A"
+       },
+       {
+        "text": "two concert tickets.",
+        "letter": "B"
+       },
+       {
+        "text": "a classical CD.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 9,
+      "stem": "The person who wrote the music lived in",
+      "answer": "B",
+      "options": [
+       {
+        "text": "Italy.",
+        "letter": "A"
+       },
+       {
+        "text": "Spain.",
+        "letter": "B"
+       },
+       {
+        "text": "France.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 10,
+      "stem": "What else shares the title of this music?",
+      "answer": "B",
+      "options": [
+       {
+        "text": "a garden",
+        "letter": "A"
+       },
+       {
+        "text": "a play",
+        "letter": "B"
+       },
+       {
+        "text": "a park",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 11,
+      "stem": "What did people do when they first heard the music?",
+      "answer": "A",
+      "options": [
+       {
+        "text": "Some left before the end.",
+        "letter": "A"
+       },
+       {
+        "text": "Only a few clapped.",
+        "letter": "B"
+       },
+       {
+        "text": "Some asked for their money back.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "stem": "This piece of music has been",
+      "answer": "B",
+      "options": [
+       {
+        "text": "played in the cinema.",
+        "letter": "A"
+       },
+       {
+        "text": "used in advertising.",
+        "letter": "B"
+       },
+       {
+        "text": "used for a TV play.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "stem": "If you know the competition answer you should ring",
+      "answer": "C",
+      "options": [
+       {
+        "text": "0108 937 224.",
+        "letter": "A"
+       },
+       {
+        "text": "0018 739 242.",
+        "letter": "B"
+       },
+       {
+        "text": "0018 937 224.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 2",
+    "partNumber": 2,
+    "instruction": [
+     "You will hear part of a radio programme about classical music.",
+     "For each question, put a tick (✓) in the correct box."
+    ],
+    "questionsLabel": "QUESTIONS 8–13"
+   },
+   {
+    "rows": [
+     {
+      "id": 14,
+      "label": "Favourite subject:",
+      "answer": "science"
+     },
+     {
+      "id": 15,
+      "label": "Favourite sport:",
+      "answer": "running"
+     },
+     {
+      "id": 16,
+      "label": "Usual transport:",
+      "answer": "bicycle"
+     },
+     {
+      "id": 17,
+      "label": "On Saturday:",
+      "answer": "helps his uncle"
+     },
+     {
+      "id": 18,
+      "label": "On",
+      "answer": "Mondays",
+      "suffix": ": Young Farmers' Group"
+     },
+     {
+      "id": 19,
+      "label": "Future job:",
+      "answer": "farmer"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 3",
+    "noteTitle": "Information sheet · Mike Davis, age 15",
+    "partNumber": 3,
+    "instruction": [
+     "You will hear a radio programme in which young people from different parts of the country are interviewed.",
+     "For each question, fill in the missing information in the numbered space."
+    ],
+    "questionsLabel": "QUESTIONS 14–19"
+   },
+   {
+    "type": "true-false",
+    "items": [
+     {
+      "id": 20,
+      "answer": "A",
+      "statement": "Jim's bicycle needs to be mended."
+     },
+     {
+      "id": 21,
+      "answer": "B",
+      "statement": "He's keen to start saving money."
+     },
+     {
+      "id": 22,
+      "answer": "B",
+      "statement": "His mother thinks a mountain bike is suitable for their area."
+     },
+     {
+      "id": 23,
+      "answer": "A",
+      "statement": "She encourages Jim to manage his money better."
+     },
+     {
+      "id": 24,
+      "answer": "B",
+      "statement": "His mother offers to lend him some money."
+     },
+     {
+      "id": 25,
+      "answer": "A",
+      "statement": "Jim is disappointed by his mother's suggestion."
+     }
+    ],
+    "label": "PART 4",
+    "scenario": "Jim and his mother — about Jim's bicycle",
+    "partNumber": 4,
+    "instruction": [
+     "Look at the six sentences for this part.",
+     "You will hear a conversation between a boy, Jim, and his mother.",
+     "Decide if each sentence is correct or incorrect.",
+     "If it is correct, put a tick (✓) in the box under A for YES. If it is not correct, put a tick (✓) in the box under B for NO."
+    ],
+    "questionsLabel": "QUESTIONS 20–25"
+   }
+  ],
+  "testInfo": {
+   "id": "pet-l-05",
+   "level": "B1",
+   "paper": "Paper 2 · Listening",
+   "parts": 4,
+   "title": "PET Listening — Test 5",
+   "totalTime": 35,
+   "totalQuestions": 25
+  }
+ },
+ "created_at": "2026-10-14T06:45:50.483734+00:00",
+ "updated_at": "2026-10-14T06:47:36.152036+00:00"
+}

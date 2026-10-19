@@ -1,0 +1,628 @@
+{
+ "id": 561,
+ "mock_type": "ielts-listening",
+ "mock_number": 68,
+ "title": "IELTS Listening Mock 68",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "gap-fill-form",
+    "title": "Volunteer work application form",
+    "answers": {
+     "1": [
+      "travel"
+     ],
+     "2": [
+      "teaching"
+     ],
+     "3": [
+      "9.15",
+      "9.15am"
+     ],
+     "4": [
+      "guide"
+     ],
+     "5": [
+      "coach"
+     ],
+     "6": [
+      "garden"
+     ],
+     "7": [
+      "guitar"
+     ],
+     "8": [
+      "farm"
+     ],
+     "9": [
+      "friends"
+     ],
+     "10": [
+      "supermarket"
+     ]
+    },
+    "audioFile": "https://audio.mock-stream.com/ielts-listening/test68/part1.m4a",
+    "formTitle": "",
+    "questions": [
+     {
+      "id": 1
+     },
+     {
+      "id": 2
+     },
+     {
+      "id": 3
+     },
+     {
+      "id": 4
+     },
+     {
+      "id": 5
+     },
+     {
+      "id": 6
+     },
+     {
+      "id": 7
+     },
+     {
+      "id": 8
+     },
+     {
+      "id": 9
+     },
+     {
+      "id": 10
+     }
+    ],
+    "partNumber": 1,
+    "transcript": "S1: William interviews Grace for volunteer work. Email graceb@travel.co.nz (1). Used to be in teaching, has a diploma in teaching (2; was also a bank teller). Can't start before 8.15 or work past 3; agreed hours 9.15am to 2pm Mon-Fri, so from 9.15 (3). Experience: volunteer city guide at the Rugby World Cup in Auckland (4); volunteer netball team coach at university (5). Hobbies: works in her garden (6), flower arranging, plays the guitar (7, would like to try flute). Work offered: helping on a farm (8) for a month, or community centre with elderly people. Why volunteer: wants to make more friends (9) + help others. Heard about agency: saw an advertisement at the supermarket (10).",
+    "formContent": "<div class=\"ielts-form-container\"><div class=\"form-section\"><div class=\"form-title\" style=\"text-align:center;font-weight:700;\">Volunteer work application form: Grace Brown</div><table style=\"width:100%;border-collapse:collapse;\" border=\"0\" cellpadding=\"5\"><tr><td style=\"font-weight:600;width:230px;vertical-align:top;\">Mobile phone number:</td><td>021 636 7189</td></tr><tr><td style=\"font-weight:600;width:230px;vertical-align:top;\">Email address:</td><td>graceb@<input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"1\" style=\"width:150px;text-align:center;\">.co.nz</td></tr><tr><td style=\"font-weight:600;width:230px;vertical-align:top;\"><strong>Qualification</strong></td><td>a diploma in <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"2\" style=\"width:150px;text-align:center;\"></td></tr><tr><td style=\"font-weight:600;width:230px;vertical-align:top;\"><strong>Agreed work hours</strong></td><td>from <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"3\" style=\"width:150px;text-align:center;\"> am to 2pm Monday to Friday</td></tr></table><h4>Volunteer work experience</h4><ul><li>a volunteer city <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"4\" style=\"width:150px;text-align:center;\"></li><li>a volunteer netball team <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"5\" style=\"width:150px;text-align:center;\"></li><li>at Rugby World Cup</li></ul><h4>Hobbies</h4><ul><li>likes to work in her <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"6\" style=\"width:150px;text-align:center;\"></li><li>enjoys flower arranging</li><li>plays the <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"7\" style=\"width:150px;text-align:center;\"></li></ul><h4>Type of work offered</h4><ul><li>working on a <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"8\" style=\"width:150px;text-align:center;\"> for a month</li><li>working in a community centre with elderly people</li></ul><h4>Why is she interested in volunteering?</h4><ul><li>wants to have more <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"9\" style=\"width:150px;text-align:center;\"></li><li>wants to help others</li></ul><h4>Where did she hear about the agency?</h4><ul><li>saw an advertisement at the <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"10\" style=\"width:150px;text-align:center;\"></li></ul></div></div>",
+    "instruction": "You will hear a man interviewing a woman called Grace who is applying to do volunteer work.<br>Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+    "questionRange": "1-10",
+    "answerHighlights": {}
+   },
+   {
+    "type": "mixed",
+    "title": "Strawberry farm",
+    "answers": {
+     "11": [
+      "C"
+     ],
+     "12": [
+      "A"
+     ],
+     "13": [
+      "A"
+     ],
+     "14": [
+      "B"
+     ],
+     "15": [
+      "C"
+     ],
+     "16": [
+      "H"
+     ],
+     "17": [
+      "B"
+     ],
+     "18": [
+      "G"
+     ],
+     "19": [
+      "A"
+     ],
+     "20": [
+      "E"
+     ]
+    },
+    "subParts": [
+     {
+      "type": "mcq",
+      "questions": [
+       {
+        "id": 11,
+        "text": "What should employees bring to work?",
+        "options": [
+         {
+          "text": "gloves",
+          "letter": "A"
+         },
+         {
+          "text": "lunch",
+          "letter": "B"
+         },
+         {
+          "text": "water",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 12,
+        "text": "If employees can't come to work one day, they should",
+        "options": [
+         {
+          "text": "contact the duty manager.",
+          "letter": "A"
+         },
+         {
+          "text": "leave a phone message at the farm office.",
+          "letter": "B"
+         },
+         {
+          "text": "call their team leader.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 13,
+        "text": "One problem with customers that may occur now is that",
+        "options": [
+         {
+          "text": "they sometimes fail to return baskets.",
+          "letter": "A"
+         },
+         {
+          "text": "they eat the fruit before paying.",
+          "letter": "B"
+         },
+         {
+          "text": "they can be unsure about prices.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 14,
+        "text": "One of the benefits of working at the strawberry farm is that",
+        "options": [
+         {
+          "text": "employees' friends are entitled to a small discount.",
+          "letter": "A"
+         },
+         {
+          "text": "employees can have a quantity of fresh fruit for free.",
+          "letter": "B"
+         },
+         {
+          "text": "employees don't pay the full price for gift items in the shop.",
+          "letter": "C"
+         }
+        ]
+       }
+      ],
+      "instruction": "Questions 11-14<br>Choose the correct letter, <strong>A</strong>, <strong>B</strong> or <strong>C</strong>."
+     },
+     {
+      "type": "map-labeling",
+      "mapImage": "https://audio.mock-stream.com/ielts-listening/test68/strawberry-farm-map.png",
+      "mapTitle": "Map of strawberry farm",
+      "mapLabels": [
+       "A",
+       "B",
+       "C",
+       "D",
+       "E",
+       "F",
+       "G",
+       "H",
+       "I",
+       "J"
+      ],
+      "questions": [
+       {
+        "id": 15,
+        "place": "Staff room"
+       },
+       {
+        "id": 16,
+        "place": "Administration"
+       },
+       {
+        "id": 17,
+        "place": "Packing shed"
+       },
+       {
+        "id": 18,
+        "place": "Staff car park"
+       },
+       {
+        "id": 19,
+        "place": "Ripe strawberries"
+       },
+       {
+        "id": 20,
+        "place": "Unripe strawberries"
+       }
+      ],
+      "instruction": "Questions 15-20<br>Label the map below. Write the correct letter, <strong>A-J</strong>, next to questions 15-20."
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/ielts-listening/test68/part2.m4a",
+    "questions": [],
+    "partNumber": 2,
+    "transcript": "S2: owner Peter Blakewell briefs new employees at the strawberry farm. Bring your own water (11=C; lunch/sandwiches provided, gloves at the packing shed). If you can't come in, contact the duty manager directly (12=A; no point phoning the office). Current customer problem = people taking baskets and not returning them (13=A; the price-confusion problem was 'dealt with' with signs this year). Benefit = take home a free carton of strawberries (14=B; family get 15% off fruit, no gift-shop discount). MAP (A-J): Staff room = middle of the row of three buildings above the main building = C (15). Administration = top-left room of the main building = H (16). Packing shed = bigger of the two buildings below the four water tanks = B (17). Staff car park = left of the main building, nearest the bottom = G (18). Ripe strawberries = L-shaped section top-left = A (19). Unripe strawberries = above commercial growing area 1, visible from the cafe = E (20).",
+    "instruction": "You will hear the owner of a strawberry farm talking to a group of new employees.",
+    "questionRange": "11-20",
+    "answerHighlights": {}
+   },
+   {
+    "type": "mixed",
+    "title": "Kathy's dissertation on water pumps",
+    "answers": {
+     "21": [
+      "B"
+     ],
+     "22": [
+      "A"
+     ],
+     "23": [
+      "B"
+     ],
+     "24": [
+      "C"
+     ],
+     "25": [
+      "C"
+     ],
+     "26": [
+      "A"
+     ],
+     "27": [
+      "F"
+     ],
+     "28": [
+      "C"
+     ],
+     "29": [
+      "A"
+     ],
+     "30": [
+      "B"
+     ]
+    },
+    "subParts": [
+     {
+      "type": "mcq",
+      "questions": [
+       {
+        "id": 21,
+        "text": "What part of Kathy's dissertation has the tutor just read?",
+        "options": [
+         {
+          "text": "her results section",
+          "letter": "A"
+         },
+         {
+          "text": "her introductory chapter",
+          "letter": "B"
+         },
+         {
+          "text": "her review of the literature",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 22,
+        "text": "What did the tutor like about Kathy's work?",
+        "options": [
+         {
+          "text": "the organisation",
+          "letter": "A"
+         },
+         {
+          "text": "the style of writing",
+          "letter": "B"
+         },
+         {
+          "text": "the use of resources",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 23,
+        "text": "Kathy and the tutor agree that she needs to",
+        "options": [
+         {
+          "text": "do some more library research.",
+          "letter": "A"
+         },
+         {
+          "text": "record more data.",
+          "letter": "B"
+         },
+         {
+          "text": "narrow down her topic.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 24,
+        "text": "Why does the tutor give an example from his own experience?",
+        "options": [
+         {
+          "text": "to show how successful he has become",
+          "letter": "A"
+         },
+         {
+          "text": "to illustrate how times have changed",
+          "letter": "B"
+         },
+         {
+          "text": "to encourage Kathy to do something similar",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 25,
+        "text": "Kathy would like the tutor to advise her on her",
+        "options": [
+         {
+          "text": "layout.",
+          "letter": "A"
+         },
+         {
+          "text": "bibliography.",
+          "letter": "B"
+         },
+         {
+          "text": "appendices.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 26,
+        "text": "What is Kathy going to do next?",
+        "options": [
+         {
+          "text": "try out some software",
+          "letter": "A"
+         },
+         {
+          "text": "go to a seminar",
+          "letter": "B"
+         },
+         {
+          "text": "design a new type of pump",
+          "letter": "C"
+         }
+        ]
+       }
+      ],
+      "instruction": "Questions 21-26<br>Choose the correct letter, <strong>A</strong>, <strong>B</strong> or <strong>C</strong>."
+     },
+     {
+      "type": "matching",
+      "options": [
+       {
+        "text": "broadens practical experience of the field",
+        "letter": "A"
+       },
+       {
+        "text": "chance to publicise own work",
+        "letter": "B"
+       },
+       {
+        "text": "effective way of keeping up-to-date",
+        "letter": "C"
+       },
+       {
+        "text": "looks good on a CV",
+        "letter": "D"
+       },
+       {
+        "text": "provides useful access to resources",
+        "letter": "E"
+       },
+       {
+        "text": "way to make useful contacts",
+        "letter": "F"
+       }
+      ],
+      "boxTitle": "Benefits",
+      "questions": [
+       {
+        "id": 27,
+        "text": "going to Mechanical Engineers' Society meetings"
+       },
+       {
+        "id": 28,
+        "text": "visiting different workplaces"
+       },
+       {
+        "id": 29,
+        "text": "getting some work experience abroad"
+       },
+       {
+        "id": 30,
+        "text": "attending an international conference"
+       }
+      ],
+      "instruction": "Questions 27-30<br>How will Kathy benefit from doing each of the following activities?<br>Choose <strong>FOUR</strong> answers from the box and write the correct letter, <strong>A-F</strong>, next to questions 27-30."
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/ielts-listening/test68/part3.m4a",
+    "questions": [],
+    "partNumber": 3,
+    "transcript": "S3: engineering student Kathy and her tutor discuss her dissertation on water pumps. Tutor read her first/introductory chapter (21=B). Liked the clear overall structure/organisation (22=A; sentences too long/complex). She needs to take additional measurements = record more data (23=B; more library work NOT essential; topic range already well judged). Tutor shares how he got his first research post by approaching a visiting professor - to encourage Kathy to do similar (chat with James Higgins) (24=C). She'll handle the bibliography herself but wants guidance on the appendices (25=C). Next she'll investigate the latest CAD software (26=A). Activities->benefits: Mechanical Engineers' Society meetings = networking/make useful contacts (27=F); visiting different workplaces = keep up-to-date with the cutting edge (28=C); work experience abroad = broadens practical experience (29=A); international conference = present her dissertation = publicise own work (30=B).",
+    "instruction": "You will hear an engineering student called Kathy discussing a piece of work with her tutor.",
+    "questionRange": "21-30",
+    "answerHighlights": {}
+   },
+   {
+    "type": "mixed",
+    "title": "American Salt Marshes",
+    "answers": {
+     "31": [
+      "ocean"
+     ],
+     "32": [
+      "depth"
+     ],
+     "33": [
+      "plants",
+      "plant"
+     ],
+     "34": [
+      "rice"
+     ],
+     "35": [
+      "B"
+     ],
+     "36": [
+      "A"
+     ],
+     "37": [
+      "B"
+     ],
+     "38": [
+      "A"
+     ],
+     "39": [
+      "shellfish"
+     ],
+     "40": [
+      "spring"
+     ]
+    },
+    "subParts": [
+     {
+      "type": "gap-fill-form",
+      "questions": [
+       {
+        "id": 31
+       },
+       {
+        "id": 32
+       },
+       {
+        "id": 33
+       },
+       {
+        "id": 34
+       }
+      ],
+      "formContent": "<div class=\"ielts-form-container\"><div class=\"form-section\"><div class=\"form-title\" style=\"text-align:center;font-weight:700;\">American Salt Marshes</div><ul><li>The salt content in marshes can be as high as that of the <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"31\" style=\"width:150px;text-align:center;\">.</li><li>At different times of the day, there are changes in salinity and in the <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"32\" style=\"width:150px;text-align:center;\"> and warmth of the water.</li><li>Animals such as worms and shrimps feed on the <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"33\" style=\"width:150px;text-align:center;\"> that grows in the marsh.</li><li>Marshland in the US has been used in the past for <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"34\" style=\"width:150px;text-align:center;\"> cultivation.</li></ul></div></div>",
+      "instruction": "Questions 31-34<br>Complete the sentences below. Write ONE WORD ONLY for each answer."
+     },
+     {
+      "type": "mcq",
+      "questions": [
+       {
+        "id": 35,
+        "text": "The speaker says that one result of erecting artificial walls in salt marshes is that",
+        "options": [
+         {
+          "text": "water levels can get too high.",
+          "letter": "A"
+         },
+         {
+          "text": "wildlife has less space.",
+          "letter": "B"
+         },
+         {
+          "text": "water quality is difficult to control.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 36,
+        "text": "Some people have complained about the building of dykes because",
+        "options": [
+         {
+          "text": "access for walkers is reduced.",
+          "letter": "A"
+         },
+         {
+          "text": "the insect population has increased.",
+          "letter": "B"
+         },
+         {
+          "text": "the natural beauty of the area is affected.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 37,
+        "text": "In the 20th century, a large proportion of marshes in America became",
+        "options": [
+         {
+          "text": "salt extraction sites.",
+          "letter": "A"
+         },
+         {
+          "text": "residential areas.",
+          "letter": "B"
+         },
+         {
+          "text": "protected insect reserves.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 38,
+        "text": "There are now laws which help to prevent",
+        "options": [
+         {
+          "text": "the erosion of soil.",
+          "letter": "A"
+         },
+         {
+          "text": "the building of more walls.",
+          "letter": "B"
+         },
+         {
+          "text": "the extinction of wildlife.",
+          "letter": "C"
+         }
+        ]
+       }
+      ],
+      "instruction": "Questions 35-38<br>Choose the correct letter, <strong>A</strong>, <strong>B</strong> or <strong>C</strong>."
+     },
+     {
+      "type": "gap-fill-form",
+      "questions": [
+       {
+        "id": 39
+       },
+       {
+        "id": 40
+       }
+      ],
+      "formContent": "<div class=\"ielts-form-container\"><div class=\"form-section\"><div class=\"form-title\" style=\"text-align:center;font-weight:700;\">The Horseshoe Crab</div><ul><li>Most common food: <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"39\" style=\"width:150px;text-align:center;\"></li><li>Time of year when female lays eggs: <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"40\" style=\"width:150px;text-align:center;\"></li></ul></div></div>",
+      "instruction": "Questions 39 and 40<br>Complete the notes below. Write NO MORE THAN TWO WORDS for each answer."
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/ielts-listening/test68/part4.m4a",
+    "questions": [],
+    "partNumber": 4,
+    "transcript": "S4: lecture on American salt marshes + the horseshoe crab. Salinity ranges from ocean (31) strength to almost fresh. The depth (32) and warmth of the water change through the day. Worms and shrimps feed on the plants (33) growing in the marsh. 200 years ago marshland was used for rice (34) cultivation. Artificial walls/dikes restrict water movement so the natural habitat of aquatic life is reduced = wildlife has less space (35=B). People complain about dikes because access for walkers is reduced (36=A; not beauty, insects happy). In the mid-20th century over half the marshes were destroyed, filled to create land for housing = residential areas (37=B). State laws now protect marshes as a barrier limiting land lost to the sea = prevent erosion of soil (38=A). Horseshoe crab: main food = shellfish (39, also worms); female lays eggs in spring (40, before the sand heats up).",
+    "instruction": "You will hear part of a lecture about American salt marshes and the horseshoe crab.",
+    "questionRange": "31-40",
+    "answerHighlights": {}
+   }
+  ],
+  "source": "Original Exams",
+  "examDate": "2026-06-15",
+  "testInfo": {
+   "title": "IELTS Listening Practice Test 68",
+   "totalTime": 40,
+   "totalQuestions": 40
+  }
+ },
+ "created_at": "2026-06-15T18:58:45.095471+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

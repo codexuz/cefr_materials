@@ -1,0 +1,913 @@
+{
+ "id": 2255,
+ "mock_type": "ket-reading-writing",
+ "mock_number": 21,
+ "title": "KET Reading & Writing — Test 21",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "match-notices",
+    "items": [
+     {
+      "id": 1,
+      "answer": "B",
+      "prompt": "You can learn how to paint here."
+     },
+     {
+      "id": 2,
+      "answer": "F",
+      "prompt": "If you go shopping here this week, you'll pay much less than usual."
+     },
+     {
+      "id": 3,
+      "answer": "D",
+      "prompt": "This place is not open every day."
+     },
+     {
+      "id": 4,
+      "answer": "A",
+      "prompt": "You won't have to wait long before you get your pictures."
+     },
+     {
+      "id": 5,
+      "answer": "G",
+      "prompt": "Someone has just painted a door in this building."
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "E",
+     "number": 0,
+     "prompt": "You can buy photographs in this shop that were taken by someone who lives nearby."
+    },
+    "notices": [
+     {
+      "text": "Passport photographs\nare ready in 5 minutes",
+      "letter": "A"
+     },
+     {
+      "text": "Monica's art class will\nbe in room 21 today",
+      "letter": "B"
+     },
+     {
+      "text": "City Museum\nTalk on 19th-century artists\nWednesday, 6.30 pm   £2",
+      "letter": "C"
+     },
+     {
+      "text": "The Art Centre Library is\nnow closed on Fridays",
+      "letter": "D"
+     },
+     {
+      "text": "Winton Stores\nPostcards by our college\nphotographer on sale inside",
+      "letter": "E"
+     },
+     {
+      "text": "Homestore\nall paint half-price – for one month only",
+      "letter": "F"
+     },
+     {
+      "text": "Wet Paint!\nPlease use other entrance",
+      "letter": "G"
+     },
+     {
+      "text": "Burley Art Club\nSale of paintings starts Monday",
+      "letter": "H"
+     }
+    ],
+    "partNumber": 1,
+    "instruction": [
+     "Which notice (A–H) says this (1–5)?",
+     "For questions 1–5, mark the correct letter A–H on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "mcq-gap-fill-sentences",
+    "items": [
+     {
+      "id": 6,
+      "answer": "A",
+      "options": [
+       {
+        "text": "book",
+        "letter": "A"
+       },
+       {
+        "text": "take",
+        "letter": "B"
+       },
+       {
+        "text": "spend",
+        "letter": "C"
+       }
+      ],
+      "sentence": "For some campsites, you have to phone and _____ before you go."
+     },
+     {
+      "id": 7,
+      "answer": "C",
+      "options": [
+       {
+        "text": "angry",
+        "letter": "A"
+       },
+       {
+        "text": "busy",
+        "letter": "B"
+       },
+       {
+        "text": "noisy",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Some people play loud music on campsites so it can be very _____."
+     },
+     {
+      "id": 8,
+      "answer": "B",
+      "options": [
+       {
+        "text": "doing",
+        "letter": "A"
+       },
+       {
+        "text": "having",
+        "letter": "B"
+       },
+       {
+        "text": "putting",
+        "letter": "C"
+       }
+      ],
+      "sentence": "One of the nicest things about camping is _____ breakfast outside."
+     },
+     {
+      "id": 9,
+      "answer": "A",
+      "options": [
+       {
+        "text": "break",
+        "letter": "A"
+       },
+       {
+        "text": "hurt",
+        "letter": "B"
+       },
+       {
+        "text": "fall",
+        "letter": "C"
+       }
+      ],
+      "sentence": "It is better to use plastic cups and plates for camping because they don't _____ easily."
+     },
+     {
+      "id": 10,
+      "answer": "C",
+      "options": [
+       {
+        "text": "careful",
+        "letter": "A"
+       },
+       {
+        "text": "clear",
+        "letter": "B"
+       },
+       {
+        "text": "sure",
+        "letter": "C"
+       }
+      ],
+      "sentence": "One problem with camping is making _____ insects don't get into the tent."
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "answer": "B",
+     "number": 0,
+     "options": [
+      {
+       "text": "keep",
+       "letter": "A"
+      },
+      {
+       "text": "stay",
+       "letter": "B"
+      },
+      {
+       "text": "travel",
+       "letter": "C"
+      }
+     ],
+     "sentence": "A lot of families prefer to _____ on a campsite because it is cheaper than a hotel."
+    },
+    "partNumber": 2,
+    "instruction": [
+     "Read the sentences about camping.",
+     "Choose the best word (A, B or C) for each space.",
+     "For questions 6–10, mark A, B or C on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-response",
+    "items": [
+     {
+      "id": 11,
+      "answer": "B",
+      "prompt": "Is it a good film?",
+      "options": [
+       {
+        "text": "That's right.",
+        "letter": "A"
+       },
+       {
+        "text": "It's OK.",
+        "letter": "B"
+       },
+       {
+        "text": "I don't agree.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "answer": "A",
+      "prompt": "I'm going to Tom's party tonight.",
+      "options": [
+       {
+        "text": "Can I go too?",
+        "letter": "A"
+       },
+       {
+        "text": "Let's go.",
+        "letter": "B"
+       },
+       {
+        "text": "Was it good?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "answer": "C",
+      "prompt": "When did you lose your watch?",
+      "options": [
+       {
+        "text": "Once a week.",
+        "letter": "A"
+       },
+       {
+        "text": "For six days.",
+        "letter": "B"
+       },
+       {
+        "text": "A month ago.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "answer": "A",
+      "prompt": "Sorry, I don't understand you.",
+      "options": [
+       {
+        "text": "Let me explain.",
+        "letter": "A"
+       },
+       {
+        "text": "I don't know.",
+        "letter": "B"
+       },
+       {
+        "text": "What does it mean?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "answer": "C",
+      "prompt": "Shall we ask Paul to come with us?",
+      "options": [
+       {
+        "text": "I believe it.",
+        "letter": "A"
+       },
+       {
+        "text": "I'm sure.",
+        "letter": "B"
+       },
+       {
+        "text": "If you like.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "prompt": "Where do you come from?",
+     "options": [
+      {
+       "text": "New York.",
+       "letter": "A"
+      },
+      {
+       "text": "School.",
+       "letter": "B"
+      },
+      {
+       "text": "Home.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partLetter": "a",
+    "partNumber": 3,
+    "instruction": [
+     "Complete the five conversations.",
+     "For questions 11–15, mark A, B or C on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "type": "match-dialogue",
+    "items": [
+     {
+      "id": 16,
+      "answer": "E"
+     },
+     {
+      "id": 17,
+      "answer": "G"
+     },
+     {
+      "id": 18,
+      "answer": "C"
+     },
+     {
+      "id": 19,
+      "answer": "H"
+     },
+     {
+      "id": 20,
+      "answer": "D"
+     }
+    ],
+    "example": {
+     "answer": "B",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "I have to go home at 6 o'clock.",
+      "letter": "A"
+     },
+     {
+      "text": "Yes, I haven't seen you for so long.",
+      "letter": "B"
+     },
+     {
+      "text": "I've heard it's really big.",
+      "letter": "C"
+     },
+     {
+      "text": "Is he still living in the same house?",
+      "letter": "D"
+     },
+     {
+      "text": "It should arrive early afternoon.",
+      "letter": "E"
+     },
+     {
+      "text": "How long will we stay with him there?",
+      "letter": "F"
+     },
+     {
+      "text": "I think I'll be tired. Shall we just stay at home?",
+      "letter": "G"
+     },
+     {
+      "text": "Great! What should I bring to wear?",
+      "letter": "H"
+     }
+    ],
+    "dialogue": [
+     {
+      "line": "Hi Jennifer, it will be lovely to see you on Friday.",
+      "speaker": "Lily"
+     },
+     {
+      "gap": 0,
+      "speaker": "Jennifer"
+     },
+     {
+      "line": "What time is your train?",
+      "speaker": "Lily"
+     },
+     {
+      "gap": 16,
+      "speaker": "Jennifer"
+     },
+     {
+      "line": "OK. I'll meet you. Would you like to go out that evening?",
+      "speaker": "Lily"
+     },
+     {
+      "gap": 17,
+      "speaker": "Jennifer"
+     },
+     {
+      "line": "If you want to. Then on Saturday we can go to the new shopping centre.",
+      "speaker": "Lily"
+     },
+     {
+      "gap": 18,
+      "speaker": "Jennifer"
+     },
+     {
+      "line": "And in the evening we can go to Oliver's party.",
+      "speaker": "Lily"
+     },
+     {
+      "gap": 19,
+      "speaker": "Jennifer"
+     },
+     {
+      "line": "Oh anything. It doesn't matter.",
+      "speaker": "Lily"
+     },
+     {
+      "gap": 20,
+      "speaker": "Jennifer"
+     },
+     {
+      "line": "Yes. It's a good place for a party. See you Friday, then.",
+      "speaker": "Lily"
+     }
+    ],
+    "partLetter": "b",
+    "partNumber": 3,
+    "instruction": [
+     "Complete the telephone conversation between two friends.",
+     "What does Jennifer say to Lily?",
+     "For questions 16–20, mark the correct letter A–H on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "type": "mcq-passage-rws",
+    "items": [
+     {
+      "id": 21,
+      "answer": "A",
+      "statement": "David Johnson had problems during a swimming competition in the USA."
+     },
+     {
+      "id": 22,
+      "answer": "C",
+      "statement": "After 1983, many people swam between Santa Cruz Island and the Californian coast."
+     },
+     {
+      "id": 23,
+      "answer": "A",
+      "statement": "In January 2004, David was the first person of his age to swim across the Cook Strait."
+     },
+     {
+      "id": 24,
+      "answer": "A",
+      "statement": "David practised for more than a year to swim across the Cook Strait."
+     },
+     {
+      "id": 25,
+      "answer": "B",
+      "statement": "David was in New Zealand for a long time before he swam across the Cook Strait."
+     },
+     {
+      "id": 26,
+      "answer": "C",
+      "statement": "David's wife was in the boat beside him when he swam the Cook Strait."
+     },
+     {
+      "id": 27,
+      "answer": "B",
+      "statement": "David had to stop for a short time while swimming the Cook Strait."
+     }
+    ],
+    "label": "PART 4",
+    "article": "David Johnson has loved swimming all his life. When he was 27, he swam in a race near his home in the USA. The sea was very cold and David started to feel unwell. He was taken to hospital but he soon got better and started swimming again. In 1983, he became the first person to swim from Santa Cruz Island to the Californian coast.\n\nIn January 2004, at the age of 52, David crossed New Zealand's Cook Strait in 9 hours and 38 minutes. The oldest swimmer before David was only 42 years old. David spent over a year getting ready to swim the Strait. Then, he and his wife flew to New Zealand so that David could practise for a few weeks there. But, only days after they arrived, the weather improved so David decided to start his swim. He did it with the help of a team. 'They were great,' David said. 'They were in a boat next to me all the time! After a few hours, I thought about stopping but I didn't and went on swimming.'\n\nAfterwards, David and his wife travelled around New Zealand before returning to the USA.",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "statement": "David Johnson has always enjoyed swimming."
+    },
+    "partNumber": 4,
+    "instruction": [
+     "Read the article about a man who swam across New Zealand's Cook Strait.",
+     "Are sentences 21–27 'Right' (A) or 'Wrong' (B)?",
+     "If there is not enough information to answer 'Right' (A) or 'Wrong' (B), choose 'Doesn't say' (C).",
+     "For questions 21–27, mark A, B or C on your answer sheet."
+    ],
+    "articleTitle": "David swims the Cook Strait",
+    "questionsLabel": "QUESTIONS 21–27"
+   },
+   {
+    "type": "mcq-cloze-passage",
+    "items": [
+     {
+      "id": 28,
+      "answer": "B",
+      "options": [
+       {
+        "text": "since",
+        "letter": "A"
+       },
+       {
+        "text": "before",
+        "letter": "B"
+       },
+       {
+        "text": "until",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 29,
+      "answer": "A",
+      "options": [
+       {
+        "text": "more",
+        "letter": "A"
+       },
+       {
+        "text": "much",
+        "letter": "B"
+       },
+       {
+        "text": "most",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 30,
+      "answer": "C",
+      "options": [
+       {
+        "text": "by",
+        "letter": "A"
+       },
+       {
+        "text": "at",
+        "letter": "B"
+       },
+       {
+        "text": "on",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 31,
+      "answer": "B",
+      "options": [
+       {
+        "text": "should",
+        "letter": "A"
+       },
+       {
+        "text": "need",
+        "letter": "B"
+       },
+       {
+        "text": "must",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 32,
+      "answer": "A",
+      "options": [
+       {
+        "text": "still",
+        "letter": "A"
+       },
+       {
+        "text": "yet",
+        "letter": "B"
+       },
+       {
+        "text": "already",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 33,
+      "answer": "B",
+      "options": [
+       {
+        "text": "have",
+        "letter": "A"
+       },
+       {
+        "text": "are",
+        "letter": "B"
+       },
+       {
+        "text": "were",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 34,
+      "answer": "C",
+      "options": [
+       {
+        "text": "fastest",
+        "letter": "A"
+       },
+       {
+        "text": "fast",
+        "letter": "B"
+       },
+       {
+        "text": "faster",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 35,
+      "answer": "A",
+      "options": [
+       {
+        "text": "enough",
+        "letter": "A"
+       },
+       {
+        "text": "all",
+        "letter": "B"
+       },
+       {
+        "text": "many",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 5",
+    "example": {
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "text": "starting",
+       "letter": "A"
+      },
+      {
+       "text": "started",
+       "letter": "B"
+      },
+      {
+       "text": "start",
+       "letter": "C"
+      }
+     ]
+    },
+    "passage": "It is a good idea to {0} your homework early. If you can do it {28} your evening meal, you will have {29} time later to do things that you enjoy, like talking {30} the phone.\n\nIt is also better to do homework as soon as possible after the teacher has given it to you. Then, if the homework is difficult and you {31} time to think about it, you {32} have time to do it.\n\nAlways turn off your mobile phone and the television when you {33} doing homework. You will work a lot {34} without them. Make sure you have a quiet place to work, with {35} light and a comfortable chair.",
+    "partNumber": 5,
+    "instruction": [
+     "Read the article about doing homework.",
+     "Choose the best word (A, B or C) for each space.",
+     "For questions 28–35, mark A, B or C on your answer sheet."
+    ],
+    "passageTitle": "Doing homework",
+    "questionsLabel": "QUESTIONS 28–35"
+   },
+   {
+    "type": "vocab-first-letter",
+    "items": [
+     {
+      "id": 36,
+      "answer": "fridge",
+      "prompt": "This keeps food and drink cold.",
+      "letters": 6,
+      "firstLetter": "f"
+     },
+     {
+      "id": 37,
+      "answer": "knife",
+      "prompt": "You use this to cut things.",
+      "letters": 5,
+      "firstLetter": "k"
+     },
+     {
+      "id": 38,
+      "answer": "boil",
+      "prompt": "You do this to water to make it hot enough for a cup of coffee.",
+      "letters": 4,
+      "firstLetter": "b"
+     },
+     {
+      "id": 39,
+      "answer": "sugar",
+      "prompt": "Some people put this in their drinks to make them sweet.",
+      "letters": 5,
+      "firstLetter": "s"
+     },
+     {
+      "id": 40,
+      "answer": "potato",
+      "prompt": "You can make chips with this vegetable.",
+      "letters": 6,
+      "firstLetter": "p"
+     }
+    ],
+    "label": "PART 6",
+    "example": {
+     "answer": "meal",
+     "number": 0,
+     "prompt": "Breakfast, lunch and dinner are all examples of this.",
+     "firstLetter": "m"
+    },
+    "partNumber": 6,
+    "instruction": [
+     "Read the descriptions of some things you can find in a kitchen.",
+     "What is the word for each one?",
+     "The first letter is already there. There is one space for each other letter in the word.",
+     "For questions 36–40, write the words on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 36–40"
+   },
+   {
+    "type": "open-cloze-letter",
+    "items": [
+     {
+      "id": 41,
+      "answer": "this"
+     },
+     {
+      "id": 42,
+      "answer": "very"
+     },
+     {
+      "id": 43,
+      "answer": "had"
+     },
+     {
+      "id": 44,
+      "answer": "to"
+     },
+     {
+      "id": 45,
+      "answer": "we"
+     },
+     {
+      "id": 46,
+      "answer": "There"
+     },
+     {
+      "id": 47,
+      "answer": "our"
+     },
+     {
+      "id": 48,
+      "answer": "them"
+     },
+     {
+      "id": 49,
+      "answer": "a"
+     },
+     {
+      "id": 50,
+      "answer": "never"
+     }
+    ],
+    "label": "PART 7",
+    "example": {
+     "answer": "for",
+     "number": 0
+    },
+    "letters": [
+     {
+      "body": "Thank you (Example: for) the lovely birthday present. I already had some CDs by the same singer but I didn't have {41} one. I like it {42} much.\n\nI {43} a lovely time on my birthday. My parents took me {44} a Japanese restaurant for lunch. The food was excellent and {45} all enjoyed it. {46} were some famous actors sitting near to {47} table. I asked {48} to write their names on my menu. They wrote: 'To Sunniya with love on your birthday'. It was {49} great day, I {50} forget meeting them.",
+      "closing": "Love,\nSunniya",
+      "greeting": "Dear Giulia,"
+     }
+    ],
+    "partNumber": 7,
+    "instruction": [
+     "Complete the letter.",
+     "Write ONE word for each space.",
+     "For questions 41–50, write the words on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 41–50"
+   },
+   {
+    "note": {
+     "body": "",
+     "dateLine": "",
+     "signature": ""
+    },
+    "rows": [
+     {
+      "label": "Name of cinema:",
+      "prefilled": "Cinemax"
+     },
+     {
+      "id": 51,
+      "label": "Name of film:",
+      "answer": "Moon Race"
+     },
+     {
+      "id": 52,
+      "label": "Day:",
+      "answer": "Saturday"
+     },
+     {
+      "id": 53,
+      "label": "Start time:",
+      "answer": "8.45",
+      "suffix": "pm"
+     },
+     {
+      "id": 54,
+      "label": "Cost per person:",
+      "answer": "5.50",
+      "suffix": "£"
+     },
+     {
+      "id": 55,
+      "label": "Place to meet Jed:",
+      "answer": "café opposite"
+     }
+    ],
+    "type": "info-transfer-notes",
+    "label": "PART 8",
+    "notice": {
+     "body": "Cinemax Cinema\nMonday 8 – Sunday 14 June\n\nBLUE JUICE\n4.30 pm | 7.15 pm | 8.30 pm\n\nMoon Race\n3.45 pm | 8.45 pm\n\nTickets: £4.75\n£5.50 for films after 6 pm\n\n—————————————\nFrom: Jed\nTo:   Anna\n\nCan you book our tickets? I'm working Friday evening but can go on Saturday. I don't want to see Blue Juice – I think the other film is better. Shall we go at the latter time? Then we can eat before it starts. I'll wait for you in the café opposite at 7.30.",
+     "title": "Cinemax Cinema + Email"
+    },
+    "notesTitle": "Anna's notes",
+    "partNumber": 8,
+    "instruction": [
+     "Read the advertisement and the email.",
+     "Fill in the information in Anna's notes.",
+     "For questions 51–55, write the information on your answer sheet."
+    ],
+    "notesSubtitle": "Cinema visit",
+    "questionsLabel": "QUESTIONS 51–55"
+   },
+   {
+    "type": "writing-postcard",
+    "items": [
+     {
+      "id": 56,
+      "type": "free-text",
+      "answer": "DEAR SAM,\nTOMORROW YOU SHOULD ARRIVE AT 6.00p.m.\nYOU SHOULD BRING SOME MONEY FOR THE TICKET OF THE CINEMA.\nWHEN YOU ARRIVE AT THE STATION PHONE ME AND I'LL COME TO PICK YOU UP!\nLOVE FROM LUCA",
+      "maxWords": 35,
+      "minWords": 25
+     }
+    ],
+    "label": "PART 9",
+    "footer": [
+     "Write 25–35 words.",
+     "Write the note on your answer sheet."
+    ],
+    "prompt": "Your friend Sam is coming to your house tomorrow evening. Write a note to Sam.",
+    "wordCount": "25–35 words",
+    "partNumber": 9,
+    "instruction": [
+     "Your friend Sam is coming to your house tomorrow evening. Write a note to Sam.",
+     "Tell Sam:",
+     "• what time to come",
+     "• what to bring",
+     "• how to get to your house."
+    ],
+    "questionsLabel": "QUESTION 56",
+    "promptSignature": ""
+   }
+  ],
+  "testInfo": {
+   "id": "ket-rw-21",
+   "level": "A2",
+   "paper": "Paper 1",
+   "parts": 9,
+   "title": "KET Reading & Writing — Test 21",
+   "totalTime": 70,
+   "totalQuestions": 56
+  }
+ },
+ "created_at": "2026-10-14T06:45:10.68177+00:00",
+ "updated_at": "2026-10-14T06:46:57.834177+00:00"
+}

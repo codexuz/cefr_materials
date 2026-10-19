@@ -1,0 +1,439 @@
+{
+ "id": 132,
+ "mock_type": "ielts-writing",
+ "mock_number": 23,
+ "title": "IELTS Writing Mock 23",
+ "status": "published",
+ "mock_data": {
+  "tasks": {
+   "task1": {
+    "title": "Liverton Docks redevelopment",
+    "prompt": "The diagram shows how Liverton Docks have changed since 1980.",
+    "wordGoal": 150,
+    "chartDesc": {
+     "title": "Liverton Docks",
+     "views": [
+      {
+       "name": "1980",
+       "features": [
+        "warehouse (top left)",
+        "crane (top middle-left)",
+        "warehouse (top middle-right)",
+        "crane (top right)",
+        "river (middle, flowing west)",
+        "ship (5 ships in river)",
+        "crane (bottom left)",
+        "warehouse (bottom middle)",
+        "to the coast (arrow pointing right)"
+       ]
+      },
+      {
+       "name": "Now",
+       "features": [
+        "education centre (labeled with 1: replace)",
+        "sailing club (labeled with 2: newly built)",
+        "kid's playground",
+        "Ship Museum (in river)",
+        "bridge (across river)",
+        "Flood Barrier (across river)",
+        "river",
+        "River walk (along south riverbank)",
+        "Hotel (labeled with 1: replace)",
+        "Apartments (labeled with 2: newly built)",
+        "parking",
+        "to the coast (arrow pointing right)",
+        "Key: 1 = replace, 2 = newly built"
+       ]
+      }
+     ],
+     "changes": [
+      "Top-left warehouse replaced by education centre",
+      "Top cranes and second warehouse removed and replaced/added with sailing club and kid's playground",
+      "Commercial ships replaced by a Ship Museum",
+      "Bridge and Flood Barrier constructed across the river",
+      "Bottom-left crane replaced by a Hotel",
+      "Bottom warehouse area converted into Apartments",
+      "Parking built to the east of Apartments",
+      "River walk added along the southern side of the river"
+     ],
+     "overview": "From 1980 to the present, Liverton Docks was completely transformed from an industrial commercial port featuring warehouses, cranes, and working ships into a recreational, educational, and residential area.",
+     "chartType": "map",
+     "unchanged": [
+      "River path",
+      "Direction 'to the coast' arrow"
+     ],
+     "confidence": "high",
+     "unreadable": [],
+     "keyFeatures": [
+      "Removal of industrial facilities (warehouses and cranes)",
+      "Addition of educational and leisure facilities (education centre, sailing club, kid's playground, Ship Museum)",
+      "Addition of residential and commercial features (Hotel, Apartments, parking, River walk)",
+      "Infrastructure developments across the river (bridge, Flood Barrier)"
+     ]
+    },
+    "chartType": "map",
+    "dataNature": "dynamic",
+    "instruction": "Summarise the information by selecting and reporting the main features, and make comparison where relevant.",
+    "sampleBand5": "<p>The diagram <mark>shows the changes</mark> in Liverton Docks from 1980 to now.</p>\n<p>In 1980, there was a port and some warehouses. There was also a road and some land <mark>next to the water</mark>. The port was used for boats. <mark>After that</mark>, things changed a lot. The port is now gone.</p>\n<p>The warehouses were changed into apartments. The road is still there. There is now a hotel and a shopping centre where the land was. Also there is a carpark. The apartments are near the water. The shopping center is next to the apartments. The hotel is near the road and carpark. <mark>It is a very different place now</mark>.</p>\n<p>So, the docks are now a place for people to live and shop and stay in a hotel. There is no port anymore.</p>",
+    "sampleBand6": "<p>The diagram <mark>shows how</mark> Liverton Docks has changed between 1980 and today. Overall, the docks have been redeveloped, with industry being replaced by <mark>areas for leisure</mark> and housing.</p>\n\n<p>In 1980, the docks were mainly industrial. There were large warehouses along the north side, and a shipyard in the south-east corner. A road ran along the west side. Today, the warehouses have been demolished and replaced with apartments. <mark>In addition to this</mark>, the shipyard has been removed and a leisure centre has been built in its place. <mark>It is also noticeable that</mark> a car park has been constructed next to the leisure centre. The road remains in the same place, however, a roundabout has been added at the north end.</p>\n\n<p>Furthermore, the area to the east of the docks has also been transformed. Previously, this area was used for industry, but now it contains a marina and a shopping centre. The changes <mark>suggest a shift</mark> from industry to residential and recreational use.</p>",
+    "sampleBand7": "<p>The diagram <mark>illustrates the transformation</mark> of Liverton Docks from 1980 to the present day. <mark>Overall</mark>, the area has undergone significant redevelopment, shifting from primarily industrial use to a more mixed-use space incorporating residential and recreational facilities.</p>\n\n<p>In 1980, the docks were dominated by large warehouses and cargo handling areas. The northern section contained a substantial amount of <mark>undeveloped land</mark>. By contrast, the present layout shows that the warehouses have been demolished and replaced with apartment buildings. The previously undeveloped land in the north is now a park. <mark>Furthermore</mark>, the large cargo area has been converted into a marina, suggesting a shift towards leisure activities.</p>\n\n<p>A key change is the introduction of residential areas where previously there were none. The southern section, which contained smaller industrial buildings in 1980, now features a shopping centre. <mark>It is also noticeable that</mark> the road network has been improved and expanded to accommodate the increased traffic flow associated with the new developments. <mark>In summary</mark>, Liverton Docks has been transformed from a purely industrial zone into a modern, mixed-use area with housing, recreation, and commercial facilities.</p>",
+    "sampleBand8": "<p>The diagram <mark>illustrates the transformation</mark> of Liverton Docks from 1980 to the present day. <mark>Overall</mark>, the area has undergone substantial redevelopment, shifting from primarily industrial use to a mixed-use zone with residential and recreational facilities.</p>\n\n<p>In 1980, the docks were dominated by cargo handling infrastructure, featuring large warehouses and cranes. <mark>A striking change</mark> is the complete removal of these industrial elements. The warehouses have been demolished and replaced by apartment buildings, indicating a shift towards residential occupancy. Notably, the network of railway lines that previously served the warehouses has also been removed.</p>\n\n<p>Furthermore, the quayside, once dedicated to loading and unloading cargo, has been <mark>repurposed as a pedestrian promenade</mark>, enhancing the area's appeal for leisure activities. A new marina has been constructed, providing mooring for private boats and yachts, <mark>signifying a move towards</mark> a more affluent clientele. The former open storage areas have been transformed into a park, offering green spaces and recreational amenities for residents and visitors alike. <mark>It is also worth noting that</mark> the road access has been improved and expanded to accommodate the increased traffic volume associated with the new developments. This <mark>comprehensive regeneration</mark> has fundamentally altered the character of Liverton Docks.</p>",
+    "sampleBand9": "<p>The diagram <mark>illustrates the transformation</mark> of Liverton Docks from 1980 to the present day. <mark>Overall</mark>, the area has undergone significant redevelopment, transitioning from a primarily industrial zone to a mixed-use space with residential and recreational facilities.</p>\n\n<p>In 1980, the docks were characterized by extensive areas dedicated to industry. <mark>Notably</mark>, the northern section featured a large cargo handling area and several warehouses. To the south, a shipyard occupied a considerable portion of the waterfront. These industrial elements have been <mark>completely repurposed</mark> in the subsequent period. The cargo handling area has been replaced by apartment buildings, creating a residential zone. The warehouses have been converted into shops, introducing a commercial element to the area. </p>\n\n<p>The southern shipyard has experienced a similar transformation. It has been replaced by a leisure area, <mark>comprising</mark> a marina and a sailing club. This development signifies a shift from industrial activity to recreational use. Furthermore, a new road has been constructed, improving access to the docks and <mark>facilitating connectivity</mark> to the surrounding areas. <mark>It is also worth noting that</mark> the water area appears to have remained largely unchanged, retaining its original dimensions. <mark>In essence</mark>, Liverton Docks has evolved from a predominantly industrial site to a modern, multi-functional space <mark>catering to the needs of residents and visitors alike</mark>, a <mark>testament to urban regeneration</mark>.</p>",
+    "timeMinutes": 20,
+    "chartDescImg": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/23.png",
+    "sampleAnswer": "The two maps illustrate the transformation of Liverton Docks from 1980 to the present day. Overall, the area has undergone significant redevelopment, changing from an industrial port into a modern mixed-use district with residential, commercial, and leisure facilities.\n\nIn 1980, the docks were primarily an industrial area. The waterfront was dominated by warehouses and a large shipyard on the eastern side. A railway line ran through the northern part of the site, connecting to the industrial facilities. The western section contained factory buildings, while a small residential area was located in the northwest corner.\n\nBy the present day, the area has been completely transformed. The warehouses have been converted into a shopping center and apartment blocks. The former shipyard has been replaced by a marina with moorings for private boats. The railway line has been removed and replaced by a new road network. Where the factories once stood, there is now a hotel and a public park with green spaces. The residential area has expanded significantly, and new amenities including restaurants and a cinema have been added along the waterfront promenade.",
+    "chartImageUrl": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/23.png",
+    "uzSampleBand5": "<p>Diagramma Liverton Doklarida 1980-yildan hozirgi kungacha bo'lgan <mark>o'zgarishlarni ko'rsatadi</mark>.</p>\n<p>1980-yilda port va bir nechta omborlar bor edi. Shuningdek, yo'l va <mark>suvning yonida</mark> bir oz yer ham bor edi. Port qayiqlar uchun ishlatilgan. <mark>Shundan so'ng</mark>, vaziyat juda ko'p o'zgardi. Port endi yo'q.</p>\n<p>Omborlar kvartiralarga aylantirildi. Yo'l hali ham o'sha yerda. Endi yer bo'lgan joyda mehmonxona va savdo markazi bor. Shuningdek, avtoturargoh ham bor. Kvartiralar suvga yaqin joylashgan. Savdo markazi kvartiralarning yonida. Mehmonxona yo'l va avtoturargohga yaqin. <mark>Bu hozir juda boshqacha joy</mark>.</p>\n<p>Shunday qilib, doklar endi odamlar yashaydigan, xarid qiladigan va mehmonxonada qoladigan joy. Endi hech qanday port yo'q.</p>",
+    "uzSampleBand6": "<p>Diagram <mark>Liverton doklari qanday qilib</mark> 1980 va bugungi kun o'rtasida o'zgarganini <mark>ko'rsatadi</mark>. Umuman olganda, doklar qayta qurilgan, sanoat <mark>dam olish joylari</mark> va turar joylar bilan almashtirilgan.</p>\n\n<p>1980 yilda doklar asosan sanoat edi. Shimoliy tomonda katta omborlar, janubi-sharqiy burchakda esa kemasozlik zavodi bor edi. G'arbiy tomondan yo'l o'tgan. Bugungi kunda omborlar buzib tashlangan va ularning o'rniga kvartiralar qurilgan. <mark>Bundan tashqari</mark>, kemasozlik zavodi olib tashlangan va uning o'rniga dam olish markazi qurilgan. <mark>Shuni ham ta'kidlash kerakki</mark>, dam olish markazi yonida avtoturargoh qurilgan. Yo'l o'sha joyida qolgan, ammo shimoliy uchida aylanma yo'l qo'shilgan.</p>\n\n<p>Bundan tashqari, doklarning sharqiy qismi ham o'zgartirilgan. Ilgari bu hudud sanoat uchun ishlatilgan, ammo endi u yerda marina va xarid qilish markazi mavjud. O'zgarishlar sanoatdan turar joy va dam olish maqsadlariga <mark>o'tishni ko'rsatadi</mark>.</p>",
+    "uzSampleBand7": "<p>Diagram Liverton Doklarining 1980 yildan hozirgi kungacha bo'lgan <mark>o'zgarishini ko'rsatadi</mark>. <mark>Umuman olganda</mark>, hudud sezilarli qayta qurishdan o'tgan, asosan sanoat maqsadlaridan turar-joy va dam olish inshootlarini o'z ichiga olgan aralash foydalanish maydoniga o'tgan.</p>\n\n<p>1980 yilda doklarda katta omborlar va yuk tashish joylari ustunlik qilgan. Shimoliy qismida sezilarli miqdorda <mark>o'zlashtirilmagan yer</mark> mavjud edi. Aksincha, hozirgi tartib omborlar buzib tashlanganini va ularning o'rniga ko'p qavatli uylar qurilganini ko'rsatadi. Shimoldagi avval o'zlashtirilmagan yer hozir parkdir. <mark>Bundan tashqari</mark>, katta yuk maydoni marinaga aylantirildi, bu dam olish tadbirlariga o'tishni ko'rsatadi.</p>\n\n<p>Asosiy o'zgarish shundaki, ilgari bo'lmagan joylarda turar-joy hududlari paydo bo'ldi. 1980 yilda janubiy qismida kichikroq sanoat binolari joylashgan bo'lsa, endi u savdo markaziga ega. <mark>Shuni ham ta'kidlash joizki</mark>, yangi qurilishlar bilan bog'liq bo'lgan transport oqimining ko'payishini ta'minlash uchun yo'l tarmog'i yaxshilandi va kengaytirildi. <mark>Xulosa qilib aytganda</mark>, Liverton Doklari faqat sanoat zonasi bo'lishdan uy-joy, dam olish va tijorat inshootlari bo'lgan zamonaviy, aralash foydalanish maydoniga aylandi.</p>",
+    "uzSampleBand8": "<p>Diagram Liverton Doklarining 1980-yildan hozirgi kungacha bo'lgan <mark>o'zgarishini tasvirlaydi</mark>. <mark>Umuman olganda</mark>, hudud sezilarli qayta qurishdan o'tgan, asosan sanoat foydalanishidan turar-joy va dam olish inshootlari bo'lgan aralash foydalanish zonasiga o'tgan.</p>\n\n<p>1980-yilda doklarda katta omborlar va kranlar bilan yuk tashish infratuzilmasi ustunlik qilgan. <mark>Eng e'tiborga molik o'zgarish</mark> ushbu sanoat elementlarining to'liq olib tashlanishidir. Omborlar buzib tashlangan va ularning o'rniga kvartiralar qurilgan, bu turar-joy egaligiga o'tishni ko'rsatadi. E'tiborlisi shundaki, ilgari omborlarga xizmat ko'rsatgan temir yo'l liniyalari tarmog'i ham olib tashlangan.</p>\n\n<p>Bundan tashqari, bir vaqtlar yuk ortish va tushirishga bag'ishlangan qirg'oq <mark>piyodalar sayr qilish joyiga aylantirildi</mark>, bu hududning dam olish faoliyati uchun jozibasini oshiradi. Yangi marina qurildi, bu xususiy qayiqlar va yaxtalar uchun to'xtash joyini ta'minlaydi, bu <mark>yanada badavlat mijozlarga qarab harakatni anglatadi</mark>. Sobiq ochiq saqlash joylari parkga aylantirildi, bu yerda aholi va tashrif buyuruvchilar uchun yashil maydonlar va dam olish imkoniyatlari mavjud. <mark>Shuni ham ta'kidlash joizki</mark> yo'l kirishi yaxshilandi va yangi qurilishlar bilan bog'liq bo'lgan transport hajmining oshishini qondirish uchun kengaytirildi. Bu <mark>keng qamrovli yangilanish</mark> Liverton Doklarining xarakterini tubdan o'zgartirdi.</p>",
+    "uzSampleBand9": "<p>Diagram Liverton Docksning 1980-yildan hozirgi kungacha bo'lgan <mark>o'zgarishini ko'rsatadi</mark>. <mark>Umuman olganda</mark>, hudud sezilarli qayta qurishdan o'tdi, asosan sanoat zonasidan turar-joy va dam olish maskanlari bilan aralash foydalanish maydoniga aylandi.</p>\n\n<p>1980-yilda doklar sanoatga bag'ishlangan keng maydonlar bilan ajralib turardi. <mark>Ayniqsa</mark>, shimoliy qismida katta yuk tashish maydoni va bir nechta omborlar mavjud edi. Janubda kemasozlik zavodi qirg'oqning sezilarli qismini egallagan. Ushbu sanoat elementlari keyingi davrda <mark>butunlay qayta ishlatilgan</mark>. Yuk tashish maydoni turar joy binolari bilan almashtirilib, turar joy zonasini yaratdi. Omborlar do'konlarga aylantirilib, hududga tijorat elementini kiritdi.</p>\n\n<p>Janubiy kemasozlik zavodi ham shunga o'xshash o'zgarishlarni boshidan kechirdi. U dam olish maskani bilan almashtirildi, <mark>tarkibiga</mark> marina va yelkanli klub kiradi. Bu rivojlanish sanoat faoliyatidan dam olish maqsadlariga o'tishni anglatadi. Bundan tashqari, doklarga kirishni yaxshilash va atrof-muhit bilan <mark>bog'liqlikni osonlashtirish</mark> uchun yangi yo'l qurildi. <mark>Shuni ham ta'kidlash joizki</mark>, suv maydoni asosan o'zgarmagan ko'rinadi va o'zining asl o'lchamlarini saqlab qolgan. <mark>Aslida</mark>, Liverton Docks asosan sanoat maydonidan zamonaviy, ko'p funktsiyali maydonga aylanib, <mark>aholi va mehmonlarning ehtiyojlarini qondiradi</mark>, bu <mark>shahar regeneratsiyasining dalilidir</mark>.</p>",
+    "chartDescSource": "extracted-verified-2026-08-05"
+   },
+   "task2": {
+    "title": "International news in schools",
+    "prompt": "Some people think secondary school students should study international news as one of their subjects, while others believe that this is a waste of valuable school time. Discuss both these views and give your own opinion.",
+    "wordGoal": 250,
+    "essayType": "balanced",
+    "instruction": "Discuss both these views and give your own opinion.",
+    "sampleBand5": "<p>Some people think that high school students should learn about international news in school. Other people think it is not a good idea and <mark>it is waste of time</mark>. This essay will talk about both sides of the argument and give my opinion.</p>\n\n<p>On the one hand, learning about international news <mark>is important for students</mark>. They can learn about what is happening in the world. For example, they can learn about wars and natural disasters. This can help them to become <mark>more better citizens</mark> and understand different cultures. Also, if students know about international news, they can be more prepared for the future. Maybe they will work in a job that involves international relations, or they might travel to other countries.</p>\n\n<p>However, other people think that international news is not important for high school students. They think that students should focus on other subjects, like math and science. These subjects are more important for getting a job. Also, some people think that international news is too complicated for high school students to understand. <mark>It can confuse them</mark> and make them feel worried about the world.</p>\n\n<p>In my opinion, I think that high school students should learn about international news, but it should not take up too much time. It should be part of a class, like social studies, and the teacher should explain the news in a way that is easy to understand. <mark>Like, they should make it fun</mark>. This way, students can learn about the world without feeling overwhelmed.</p>",
+    "sampleBand6": "<p>There is a debate about whether or not secondary school students should study international news as part of their curriculum. Some people think it is a good idea, while others believe it is <mark>not a good use of time</mark>. This essay will discuss both sides of this argument and then give my own opinion.</p>\n\n<p>On the one hand, there are several reasons why studying international news could be beneficial. Firstly, it can help students to become more <mark>aware of different cultures</mark> and perspectives. This is important in today's globalized world, where people from different countries are increasingly interacting with each other. Secondly, understanding international news can help students <mark>develop critical thinking skills</mark>. They can learn to analyze information from different sources and form their own opinions. Finally, knowing about current events around the world can make students more engaged citizens who are better equipped to participate in discussions about important global issues.</p>\n\n<p>However, there are also arguments against including international news in the school curriculum. One common argument is that secondary school students already have a lot to learn, and adding another subject would put too much pressure on them. Also, some people might say that international news is not as important as other subjects, such as math or science, which are essential for future careers. It could be argued that school time is <mark>better spent on</mark> these core subjects. Furthermore, some teachers might not feel qualified to teach international news, which could lead to students receiving inaccurate or biased information.</p>\n\n<p>In my opinion, while there are valid concerns about adding international news to the curriculum, the benefits outweigh the drawbacks. Schools could consider incorporating international news into existing subjects like history or social studies, rather than creating a separate course. Also, teachers can use <mark>reliable resources</mark> to make sure the information they give is correct and unbiased. Therefore, I think that, with careful planning, studying international news can be a valuable experience for secondary school students, helping them to become more informed and engaged global citizens, even if it <mark>requires some changes</mark> to the current curriculum.</p>",
+    "sampleBand7": "<p>The question of whether secondary school students should study international news as a compulsory subject is a contentious one. While some argue that it is a <mark>valuable use of</mark> school time, others contend that it is an unnecessary addition to an already crowded curriculum. This essay will explore both perspectives before presenting my own opinion.</p>\n\n<p>Proponents of including international news in the curriculum often argue that it is crucial for fostering <mark>global citizenship</mark>. By learning about current events in other countries, students can develop a better understanding of different cultures, political systems, and social issues. This, in turn, can help them to become more informed and engaged citizens of the world. Furthermore, studying international news can enhance critical thinking skills as students learn to analyze different perspectives and evaluate sources of information. Some might suggest that this is especially important in today's increasingly interconnected world, where global events can have a significant impact on local communities.</p>\n\n<p>However, there are also valid arguments against making international news a compulsory subject. One common concern is that secondary school curricula are already packed with essential subjects such as mathematics, science, and literature. Adding another subject, particularly one that may be perceived as less directly relevant to future career prospects, could <mark>place undue pressure</mark> on students. Moreover, some educators might argue that international news is best learned through independent reading and research, rather than through structured classroom lessons. They believe that students should be encouraged to pursue their own interests and learn about the world at their own pace.</p>\n\n<p>In my opinion, while there are benefits to studying international news, making it a compulsory subject is not necessarily the best approach. I believe that schools should instead focus on integrating international perspectives into existing subjects, such as history and social studies. This would allow students to learn about global issues in a more holistic and engaging way, without adding to their workload. Furthermore, schools could offer optional extracurricular activities, such as debate clubs or Model United Nations, for students who are particularly interested in international affairs. This would provide a <mark>more flexible and personalized</mark> approach to learning about the world. Perhaps it would be useful to <mark>assess the current curriculum</mark> to identify areas that could be improved.</p>\n\n<p>In conclusion, while understanding international news is undoubtedly important, it is not necessarily essential to make it a compulsory subject in secondary schools. A more integrated and flexible approach, which <mark>incorporates global perspectives</mark> into existing subjects and offers optional extracurricular activities, may be a more effective way to educate students about the world.</p>",
+    "sampleBand8": "<p>The question of whether secondary school students should study international news is a contentious one. While some argue that it is a valuable use of school time, others maintain that it detracts from more essential subjects. This essay will discuss both perspectives before presenting my own opinion.</p>\n\n<p>Proponents of incorporating international news into the curriculum believe that it is crucial for <mark>fostering global citizenship</mark>. By learning about current events in other countries, students can develop a broader understanding of different cultures, political systems, and economic realities. This exposure can <mark>cultivate empathy and critical thinking skills</mark>, enabling them to engage with complex global issues in a more informed and nuanced way. Furthermore, knowledge of international affairs is increasingly relevant in today's interconnected world, where economic and political decisions in one country can have far-reaching consequences for others. Students who are <mark>conversant with global trends</mark> are better prepared to navigate the challenges and opportunities of the 21st century.</p>\n\n<p>Conversely, those who oppose the inclusion of international news argue that secondary school curricula are already overloaded, and that time spent on current events would be better dedicated to core subjects such as mathematics, science, and literature. They contend that these subjects provide students with foundational knowledge and skills that are essential for academic success and future careers. Moreover, some argue that international news can be <mark>overwhelming and anxiety-inducing</mark> for young people, particularly if it focuses on negative events such as conflicts and disasters. Concerns also exist about the potential for bias in news reporting and the difficulty of presenting complex issues in an objective and balanced manner. <mark>A further argument</mark> is that families and individuals can pursue international news independently through various media outlets, rendering its inclusion in the school curriculum redundant.</p>\n\n<p>In my opinion, while the concerns about curriculum overload and potential bias are valid, the benefits of studying international news outweigh the drawbacks. Schools can address these concerns by integrating international news into existing subjects, such as history, geography, and social studies, rather than creating a separate course. Furthermore, teachers can play a crucial role in <mark>facilitating critical analysis</mark> of news sources and encouraging students to consider multiple perspectives. Overall, I believe that equipping students with a <mark>solid understanding of global affairs</mark> is an essential investment in their future and the future of our world. By <mark>carefully curating and contextualizing</mark> international news, schools can empower students to become informed, engaged, and responsible global citizens. <mark>Striking a balance</mark> between core subjects and global awareness is key.</p>",
+    "sampleBand9": "<p>The question of whether international news should be a mandatory subject in secondary schools is a topic of considerable debate. While some argue that it represents a <mark>misallocation of valuable educational time</mark>, others maintain that it is essential for fostering informed and globally aware citizens. This essay will explore both perspectives before offering my own view.</p>\n\n<p>Proponents of integrating international news into the curriculum often emphasize its role in <mark>cultivating global citizenship</mark>. In an increasingly interconnected world, understanding international affairs is crucial for comprehending global challenges such as climate change, economic interdependence, and political instability. <mark>Exposure to diverse perspectives</mark> and cultural contexts can broaden students' horizons, promote empathy, and encourage critical thinking about complex global issues. Furthermore, familiarity with international news can equip students with the knowledge and skills necessary to participate actively in democratic processes and contribute to informed decision-making on issues with international implications. <mark>A nuanced understanding</mark> of global events can also foster a sense of responsibility towards the global community.</p>\n\n<p>Conversely, opponents argue that dedicating valuable school time to international news is impractical and potentially detrimental to students' academic progress in core subjects. They contend that secondary school curricula are already overloaded with essential subjects such as mathematics, science, and literature. Introducing international news as a mandatory subject could divert resources and attention away from these fundamental areas, potentially hindering students' overall academic performance. Moreover, some argue that the complexities of international news may be overwhelming or even anxiety-inducing for young students, particularly if presented without adequate context or guidance. Concerns are also sometimes raised about the potential for biased or sensationalized reporting, which could <mark>distort students' perceptions</mark> of global events.</p>\n\n<p>In my opinion, while the concerns raised by opponents are valid, the benefits of incorporating international news into secondary education outweigh the potential drawbacks. Rather than making it a separate, mandatory subject, schools could integrate international news into existing subjects such as history, social studies, or even language arts. This approach would allow students to <mark>develop a more holistic understanding</mark> of global issues without overburdening the curriculum. Furthermore, teachers can play a crucial role in providing context, facilitating critical analysis, and promoting balanced perspectives. <mark>By carefully curating and presenting international news</mark>, schools can empower students to become informed, engaged, and responsible global citizens. The key lies in <mark>striking a balance</mark> between providing students with essential knowledge and fostering critical thinking skills. <mark>Given the increasing interconnectedness of our world</mark>, equipping students with a solid understanding of international affairs is an investment in their future and the future of our global society.\n</p>",
+    "timeMinutes": 40,
+    "sampleAnswer": "Whether international news should be incorporated into secondary school curricula is a topic of considerable debate. While some see it as an essential educational component, others view it as an unnecessary distraction. This essay will examine both perspectives before presenting my own view.\n\nAdvocates for teaching international news argue that it prepares students for life in an increasingly globalized world. Understanding current events helps young people develop critical thinking skills as they learn to analyze information from various sources and distinguish fact from opinion. Additionally, exposure to global issues can foster empathy and cultural awareness, encouraging students to become informed, responsible citizens. In an age of misinformation, teaching students how to consume news critically is arguably more important than ever.\n\nOn the other hand, critics contend that valuable school time should be devoted to core academic subjects that directly contribute to students' future careers and further education. They argue that international news is constantly changing and therefore difficult to examine fairly, and that students can easily access news outside of school hours. Furthermore, there are concerns that teachers might inadvertently introduce political bias when discussing current affairs, potentially influencing students' viewpoints inappropriately.\n\nIn my opinion, studying international news should be part of the secondary school curriculum, but as an integrated component rather than a standalone subject. News literacy can be effectively incorporated into existing subjects such as social studies, languages, and media studies. This approach would allow students to develop important analytical skills while also covering essential academic content. The key is to teach students how to evaluate news critically rather than simply presenting current events.",
+    "uzSampleBand5": "<p>Ba'zi odamlar o'rta maktab o'quvchilari maktabda xalqaro yangiliklar haqida bilishlari kerak deb o'ylashadi. Boshqa odamlar esa bu yaxshi fikr emas va <mark>vaqtni behuda sarflash</mark> deb hisoblashadi. Ushbu insho bahsning ikkala tomoni haqida gapiradi va o'z fikrimni bildiradi.</p>\n\n<p>Bir tomondan, xalqaro yangiliklar haqida bilish <mark>o'quvchilar uchun muhim</mark>. Ular dunyoda nima bo'layotgani haqida bilib olishlari mumkin. Misol uchun, ular urushlar va tabiiy ofatlar haqida bilishlari mumkin. Bu ularga <mark>yanada yaxshiroq fuqarolar</mark> bo'lishga va turli madaniyatlarini tushunishga yordam berishi mumkin. Bundan tashqari, agar o'quvchilar xalqaro yangiliklar haqida bilishsa, ular kelajakka yaxshiroq tayyorlanishlari mumkin. Ehtimol, ular xalqaro aloqalarni o'z ichiga olgan ishda ishlashadi yoki boshqa mamlakatlarga sayohat qilishlari mumkin.</p>\n\n<p>Biroq, boshqa odamlar xalqaro yangiliklar o'rta maktab o'quvchilari uchun muhim emas deb o'ylashadi. Ular o'quvchilar matematika va fizika kabi boshqa fanlarga e'tibor qaratishlari kerak deb hisoblashadi. Bu fanlar ishga kirish uchun muhimroq. Shuningdek, ba'zi odamlar xalqaro yangiliklar o'rta maktab o'quvchilari uchun tushunish juda murakkab deb o'ylashadi. <mark>Bu ularni chalkashtirib yuborishi</mark> va dunyo haqida xavotirlantirishi mumkin.</p>\n\n<p>Mening fikrimcha, men o'rta maktab o'quvchilari xalqaro yangiliklar haqida bilishlari kerak deb o'ylayman, lekin bu juda ko'p vaqtni olmasligi kerak. Bu ijtimoiy fanlar kabi darsning bir qismi bo'lishi kerak va o'qituvchi yangiliklarni tushunish oson bo'lgan tarzda tushuntirishi kerak. <mark>Masalan, ular buni qiziqarli qilishlari kerak</mark>. Shunday qilib, o'quvchilar o'zlarini haddan tashqari his qilmasdan dunyo haqida bilib olishlari mumkin.</p>",
+    "uzSampleBand6": "<p>O‘rta maktab o‘quvchilari o‘quv dasturining bir qismi sifatida xalqaro yangiliklarni o‘rganishi kerakmi yoki yo‘qmi, degan bahs mavjud. Ba'zilar bu yaxshi fikr deb hisoblasa, boshqalar esa bu <mark>vaqtdan unumli foydalanish emas</mark> deb hisoblaydi. Ushbu insho ushbu bahsning ikkala tomonini muhokama qiladi va keyin o'z fikrimni bildiraman.</p>\n\n<p>Bir tomondan, xalqaro yangiliklarni o'rganishning bir qancha foydali sabablari bor. Birinchidan, bu o'quvchilarga <mark>turli madaniyatlar haqida xabardor bo'lishga</mark> va qarashlarni kengaytirishga yordam berishi mumkin. Bu bugungi globallashgan dunyoda muhim, chunki turli mamlakatlardan kelgan odamlar tobora bir-biri bilan muloqot qilishmoqda. Ikkinchidan, xalqaro yangiliklarni tushunish o'quvchilarga <mark>tanqidiy fikrlash qobiliyatlarini rivojlantirishga</mark> yordam berishi mumkin. Ular turli manbalardan ma'lumotlarni tahlil qilishni va o'z fikrlarini shakllantirishni o'rganishlari mumkin. Nihoyat, dunyo bo'ylab dolzarb voqealar haqida bilish o'quvchilarni muhim global masalalar bo'yicha munozaralarda ishtirok etishga yaxshiroq tayyor bo'lgan faol fuqarolarga aylantirishi mumkin.</p>\n\n<p>Biroq, xalqaro yangiliklarni maktab o'quv dasturiga kiritishga qarshi argumentlar ham mavjud. Keng tarqalgan argumentlardan biri shundaki, o'rta maktab o'quvchilari allaqachon ko'p narsalarni o'rganishlari kerak va yana bir fanni qo'shish ularga juda ko'p bosim o'tkazadi. Bundan tashqari, ba'zilar xalqaro yangiliklar kelajakdagi martaba uchun zarur bo'lgan matematika yoki fizika kabi boshqa fanlar kabi muhim emas deyishlari mumkin. Maktab vaqti <mark>ushbu asosiy fanlarga sarflash uchun yaxshiroq</mark> deyish mumkin. Bundan tashqari, ba'zi o'qituvchilar o'zlarini xalqaro yangiliklarni o'qitishga malakali his qilmasligi mumkin, bu esa o'quvchilarning noto'g'ri yoki xolis ma'lumot olishiga olib kelishi mumkin.</p>\n\n<p>Mening fikrimcha, xalqaro yangiliklarni o'quv dasturiga qo'shish haqida asosli xavotirlar mavjud bo'lsa-da, foydalari kamchiliklaridan ustun turadi. Maktablar xalqaro yangiliklarni alohida kurs yaratishdan ko'ra, tarix yoki ijtimoiy fanlar kabi mavjud fanlarga kiritishni ko'rib chiqishi mumkin. Bundan tashqari, o'qituvchilar berayotgan ma'lumotlarning to'g'ri va xolis ekanligiga ishonch hosil qilish uchun <mark>ishonchli manbalardan</mark> foydalanishlari mumkin. Shuning uchun, mening fikrimcha, puxta rejalashtirish bilan xalqaro yangiliklarni o'rganish o'rta maktab o'quvchilari uchun qimmatli tajriba bo'lishi mumkin, bu ularga <mark>ayrim o'zgarishlarni talab qilsa ham</mark>, hozirgi o'quv dasturiga qaramay, ko'proq xabardor va faol global fuqarolarga aylanishlariga yordam beradi.</p>",
+    "uzSampleBand7": "<p>O'rta maktab o'quvchilari uchun xalqaro yangiliklarni majburiy fan sifatida o'qitish masalasi bahsli hisoblanadi. Ba'zilar buni maktab vaqtidan <mark>unumli foydalanish</mark> deb hisoblasa, boshqalar buni allaqachon gavjum o'quv dasturiga keraksiz qo'shimcha deb ta'kidlaydi. Ushbu insho ikkala nuqtai nazarni ham o'rganib chiqadi va o'z fikrimni bildiradi.</p>\n\n<p>O'quv dasturiga xalqaro yangiliklarni kiritish tarafdorlari, bu <mark>global fuqarolikni</mark> rivojlantirish uchun muhim ekanligini ta'kidlaydilar. Boshqa mamlakatlardagi so'nggi voqealar haqida bilib, o'quvchilar turli madaniyatlar, siyosiy tizimlar va ijtimoiy muammolar haqida yaxshiroq tushunchaga ega bo'lishlari mumkin. Bu, o'z navbatida, ularga dunyoning yanada xabardor va faol fuqarolariga aylanishga yordam beradi. Bundan tashqari, xalqaro yangiliklarni o'rganish tanqidiy fikrlash qobiliyatini oshirishi mumkin, chunki o'quvchilar turli nuqtai nazarlarni tahlil qilishni va ma'lumot manbalarini baholashni o'rganadilar. Ba'zilar, bu bugungi kunda tobora o'zaro bog'langan dunyoda ayniqsa muhim, deb aytishlari mumkin, chunki global voqealar mahalliy jamiyatlarga sezilarli ta'sir ko'rsatishi mumkin.</p>\n\n<p>Biroq, xalqaro yangiliklarni majburiy fan qilishga qarshi ham asosli dalillar mavjud. Eng ko'p uchraydigan tashvishlardan biri shundaki, o'rta maktab o'quv dasturlari matematika, fan va adabiyot kabi muhim fanlar bilan allaqachon to'lib toshgan. Yana bir fanni qo'shish, ayniqsa kelajakdagi martaba istiqbollariga unchalik aloqador bo'lmagan fan, o'quvchilarga <mark>keraksiz bosim o'tkazishi</mark> mumkin. Bundan tashqari, ba'zi o'qituvchilar xalqaro yangiliklarni tuzilgan darslardan ko'ra, mustaqil o'qish va tadqiqot orqali yaxshiroq o'rganish mumkinligini ta'kidlashlari mumkin. Ularning fikricha, o'quvchilar o'z qiziqishlarini davom ettirishga va dunyo haqida o'z sur'atlarida o'rganishga undalishi kerak.</p>\n\n<p>Mening fikrimcha, xalqaro yangiliklarni o'rganishning afzalliklari bo'lsa-da, uni majburiy fan qilish unchalik yaxshi yondashuv emas. Menimcha, maktablar buning o'rniga xalqaro nuqtai nazarlarni tarix va ijtimoiy fanlar kabi mavjud fanlarga integratsiya qilishga e'tibor qaratishi kerak. Bu o'quvchilarga ish yukini oshirmasdan, global muammolar haqida yanada yaxlit va qiziqarli tarzda o'rganishga imkon beradi. Bundan tashqari, maktablar xalqaro ishlar bilan ayniqsa qiziquvchan o'quvchilar uchun bahs klublari yoki Model Birlashgan Millatlar Tashkiloti kabi ixtiyoriy darsdan tashqari mashg'ulotlarni taklif qilishlari mumkin. Bu dunyo haqida o'rganishga <mark>yanada moslashuvchan va shaxsiy</mark> yondashuvni ta'minlaydi. Ehtimol, yaxshilanishi mumkin bo'lgan sohalarni aniqlash uchun <mark>joriy o'quv dasturini baholash</mark> foydali bo'lishi mumkin.</p>\n\n<p>Xulosa qilib aytganda, xalqaro yangiliklarni tushunish, shubhasiz, muhim bo'lsa-da, uni o'rta maktablarda majburiy fan qilish shart emas. Mavjud fanlarga <mark>global nuqtai nazarlarni kiritadigan</mark> va ixtiyoriy darsdan tashqari mashg'ulotlarni taklif qiladigan yanada integratsiyalashgan va moslashuvchan yondashuv o'quvchilarni dunyo haqida o'qitishning yanada samarali usuli bo'lishi mumkin.</p>",
+    "uzSampleBand8": "<p>Oʻrta maktab oʻquvchilari xalqaro yangiliklarni oʻrganishi kerakmi yoki yoʻqmi degan savol bahsli masaladir. Baʼzilar buni maktab vaqtidan unumli foydalanish deb hisoblasa, boshqalar bu muhimroq fanlardan chalgʻitadi, deb taʼkidlaydi. Ushbu inshoda men oʻz fikrimni bildirishdan oldin har ikki nuqtai nazarni muhokama qilaman.</p>\n\n<p>Xalqaro yangiliklarni oʻquv dasturiga kiritish tarafdorlari buni <mark>global fuqarolikni rivojlantirish</mark> uchun juda muhim deb hisoblashadi. Boshqa mamlakatlardagi voqealar haqida bilib, talabalar turli madaniyatlar, siyosiy tizimlar va iqtisodiy voqeliklar haqida kengroq tushunchaga ega boʻlishlari mumkin. Bu taʼsir <mark>hamdardlik va tanqidiy fikrlash qobiliyatlarini rivojlantirishi</mark>, ularga murakkab global muammolarni yanada asosli va nozik tarzda hal qilish imkonini beradi. Bundan tashqari, xalqaro ishlar haqida bilim bugungi oʻzaro bogʻliq dunyoda tobora dolzarb boʻlib bormoqda, bunda bir mamlakatdagi iqtisodiy va siyosiy qarorlar boshqalarga uzoq taʼsir koʻrsatishi mumkin. <mark>Global tendentsiyalardan xabardor</mark> boʻlgan talabalar 21-asrning muammolari va imkoniyatlarini hal qilishga yaxshiroq tayyorlanadi.</p>\n\n<p>Aksincha, xalqaro yangiliklarni kiritishga qarshi boʻlganlar oʻrta maktab oʻquv dasturlari allaqachon yuklangan va joriy voqealarga sarflangan vaqt matematika, fan va adabiyot kabi asosiy fanlarga bagʻishlangan boʻlishi yaxshiroq, deb taʼkidlaydilar. Ularning taʼkidlashicha, bu fanlar talabalarni akademik muvaffaqiyat va kelajakdagi martaba uchun zarur boʻlgan fundamental bilim va koʻnikmalar bilan taʼminlaydi. Bundan tashqari, baʼzilarning taʼkidlashicha, xalqaro yangiliklar, ayniqsa, mojarolar va ofatlar kabi salbiy voqealarga eʼtibor qaratsa, yoshlar uchun <mark>tazyiq oʻtkazuvchi va xavotir uygʻotuvchi</mark> boʻlishi mumkin. Yangiliklar xabarida xolislik boʻlishi va murakkab masalalarni obʼektiv va muvozanatli tarzda taqdim etish qiyinligi haqida ham xavotirlar mavjud. <mark>Bundan tashqari, yana bir argument</mark> shundaki, oilalar va shaxslar turli ommaviy axborot vositalari orqali xalqaro yangiliklarni mustaqil ravishda kuzatishi mumkin, bu esa uni maktab oʻquv dasturiga kiritishni ortiqcha qiladi.</p>\n\n<p>Mening fikrimcha, oʻquv dasturining haddan tashqari yuklanishi va potentsial xolislik haqidagi xavotirlar oʻrinli boʻlsa-da, xalqaro yangiliklarni oʻrganishning foydalari kamchiliklaridan ustun turadi. Maktablar ushbu xavotirlarni xalqaro yangiliklarni alohida kurs yaratishdan koʻra, tarix, geografiya va ijtimoiy fanlar kabi mavjud fanlarga integratsiya qilish orqali hal qilishi mumkin. Bundan tashqari, oʻqituvchilar yangiliklar manbalarini <mark>tanqidiy tahlil qilishni osonlashtirishda</mark> va talabalarni turli nuqtai nazarlarni koʻrib chiqishga undashda muhim rol oʻynashi mumkin. Umuman olganda, men talabalarni <mark>global ishlar haqida mustahkam tushuncha</mark> bilan taʼminlash ularning kelajagiga va dunyomiz kelajagiga muhim sarmoya, deb hisoblayman. Xalqaro yangiliklarni <mark>diqqat bilan saralab, kontekstlashtirib</mark>, maktablar talabalarga maʼlumotli, faol va masʼuliyatli global fuqarolar boʻlish imkoniyatini berishi mumkin. Asosiy fanlar va global xabardorlik oʻrtasida <mark>muvozanatni saqlash</mark> muhim.</p>",
+    "uzSampleBand9": "<p>Xalqaro yangiliklarni o'rta maktablarda majburiy fan sifatida o'qitish masalasi jiddiy bahslarga sabab bo'lmoqda. Ba'zilar buni <mark>qimmatli ta'lim vaqtini noto'g'ri sarflash</mark> deb hisoblasa, boshqalar esa bu xabardor va global ongiga ega fuqarolarni shakllantirish uchun zarur deb ta'kidlaydi. Ushbu inshoda men o'z nuqtai nazarimni bildirishdan oldin ikkala nuqtai nazarni ham ko'rib chiqaman.</p>\n\n<p>Xalqaro yangiliklarni o'quv dasturiga kiritish tarafdorlari ko'pincha uning <mark>global fuqarolikni rivojlantirishdagi</mark> rolini ta'kidlaydilar. Tobora o'zaro bog'liq bo'lib borayotgan dunyoda xalqaro ishlarni tushunish iqlim o'zgarishi, iqtisodiy o'zaro bog'liqlik va siyosiy beqarorlik kabi global muammolarni anglash uchun juda muhimdir. <mark>Turli nuqtai nazarlarga duch kelish</mark> va madaniy kontekstlar talabalarning ufqini kengaytirishi, hamdardlikni rivojlantirishi va murakkab global masalalar haqida tanqidiy fikrlashni rag'batlantirishi mumkin. Bundan tashqari, xalqaro yangiliklar bilan tanishish talabalarni demokratik jarayonlarda faol ishtirok etish va xalqaro ahamiyatga ega bo'lgan masalalar bo'yicha asosli qarorlar qabul qilish uchun zarur bo'lgan bilim va ko'nikmalar bilan ta'minlashi mumkin. Global voqealarni <mark>chuqur tushunish</mark> global hamjamiyatga nisbatan mas'uliyat hissini ham uyg'otishi mumkin.</p>\n\n<p>Aksincha, qarshilar qimmatli maktab vaqtini xalqaro yangiliklarga ajratish amaliy emas va talabalarning asosiy fanlardagi o'quv jarayoniga salbiy ta'sir ko'rsatishi mumkin deb ta'kidlaydilar. Ularning fikricha, o'rta maktab o'quv dasturlari matematika, fan va adabiyot kabi muhim fanlar bilan allaqachon to'lib toshgan. Xalqaro yangiliklarni majburiy fan sifatida kiritish resurslarni va e'tiborni ushbu asosiy sohalardan chalg'itishi va talabalarning umumiy o'quv ko'rsatkichlariga to'sqinlik qilishi mumkin. Bundan tashqari, ba'zilarning ta'kidlashicha, xalqaro yangiliklarning murakkabligi yosh talabalar uchun haddan tashqari og'ir yoki hatto xavotirli bo'lishi mumkin, ayniqsa etarli kontekst yoki yo'l-yo'riq ko'rsatilmasa. Ba'zan xolis bo'lmagan yoki shov-shuvli xabarlar haqida ham xavotirlar ko'tariladi, bu esa talabalarning global voqealarni <mark>noto'g'ri idrok etishiga</mark> olib kelishi mumkin.</p>\n\n<p>Mening fikrimcha, qarshilarning xavotirlari o'rinli bo'lsa-da, xalqaro yangiliklarni o'rta ta'limga kiritishning afzalliklari potentsial kamchiliklardan ustun turadi. Uni alohida, majburiy fan qilish o'rniga, maktablar xalqaro yangiliklarni tarix, ijtimoiy fanlar yoki hatto til va adabiyot kabi mavjud fanlarga integratsiya qilishi mumkin. Ushbu yondashuv talabalarga o'quv dasturini ortiqcha yuklamasdan global muammolarni <mark>yanada yaxlit tushunishga</mark> imkon beradi. Bundan tashqari, o'qituvchilar kontekstni ta'minlash, tanqidiy tahlilni osonlashtirish va muvozanatli nuqtai nazarlarni targ'ib qilishda muhim rol o'ynashi mumkin. <mark>Xalqaro yangiliklarni diqqat bilan saralab va taqdim etish</mark> orqali maktablar talabalarni xabardor, faol va mas'uliyatli global fuqarolarga aylantirishi mumkin. Muhim jihati talabalarni zarur bilimlar bilan ta'minlash va tanqidiy fikrlash ko'nikmalarini rivojlantirish o'rtasida <mark>muvozanatni saqlashdir</mark>. <mark>Dunyomizning tobora o'zaro bog'liqligini hisobga olgan holda</mark>, talabalarni xalqaro ishlar bo'yicha mustahkam bilim bilan ta'minlash ularning kelajagiga va global jamiyatimiz kelajagiga sarmoyadir.\n</p>"
+   }
+  },
+  "source": "British Council",
+  "examDate": "2024-08-31",
+  "settings": {
+   "timeInfo": "60 Minutes",
+   "moduleTitle": "Academic Writing Module",
+   "testIdentifier": "Mock 23"
+  },
+  "vocabulary": {
+   "task1": [
+    {
+     "term": "Transformation",
+     "meaning": "A thorough or dramatic change in form or appearance."
+    },
+    {
+     "term": "Redevelopment",
+     "meaning": "The action of developing something again or differently."
+    },
+    {
+     "term": "Mixed-use district",
+     "meaning": "An area that combines residential, commercial, and leisure spaces."
+    },
+    {
+     "term": "Waterfront",
+     "meaning": "A part of a town that borders a body of water."
+    },
+    {
+     "term": "Marina",
+     "meaning": "A specially designed harbor with moorings for boats."
+    },
+    {
+     "term": "Moorings",
+     "meaning": "Places where boats can be tied up or anchored."
+    },
+    {
+     "term": "Amenities",
+     "meaning": "Desirable features of a building or place."
+    },
+    {
+     "term": "Promenade",
+     "meaning": "A paved public walk, typically along a waterfront."
+    }
+   ],
+   "task2": [
+    {
+     "term": "Curricula",
+     "meaning": "The subjects comprising a course of study in a school (plural of curriculum)."
+    },
+    {
+     "term": "Globalized world",
+     "meaning": "A world in which countries are increasingly interconnected."
+    },
+    {
+     "term": "Critical thinking skills",
+     "meaning": "The ability to analyze information objectively and make reasoned judgments."
+    },
+    {
+     "term": "Cultural awareness",
+     "meaning": "Understanding and appreciation of different cultures."
+    },
+    {
+     "term": "Misinformation",
+     "meaning": "False or inaccurate information, especially that which is deliberately intended to deceive."
+    },
+    {
+     "term": "Political bias",
+     "meaning": "Prejudice in favor of or against one political party or viewpoint."
+    },
+    {
+     "term": "News literacy",
+     "meaning": "The ability to use critical thinking skills to evaluate news content."
+    },
+    {
+     "term": "Standalone subject",
+     "meaning": "A subject taught independently rather than as part of another course."
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "Notably": {
+    "uz": "Ayniqsa",
+    "type": "linking"
+   },
+   "Overall": {
+    "uz": "Umuman olganda",
+    "type": "linking"
+   },
+   "shows how": {
+    "uz": "Qanday ekanligini ko'rsatadi",
+    "type": "lexical"
+   },
+   "After that": {
+    "uz": "Shundan keyin",
+    "type": "linking"
+   },
+   "In essence": {
+    "uz": "Aslida",
+    "type": "linking"
+   },
+   "In summary": {
+    "uz": "Xulosa qilib aytganda",
+    "type": "linking"
+   },
+   "comprising": {
+    "uz": "Tashkil etuvchi",
+    "type": "academic"
+   },
+   "Furthermore": {
+    "uz": "Bundan tashqari",
+    "type": "linking"
+   },
+   "better spent on": {
+    "uz": "ga yaxshiroq sarflangan",
+    "type": "lexical"
+   },
+   "suggest a shift": {
+    "uz": "O'zgarishni taklif qiladi",
+    "type": "academic"
+   },
+   "valuable use of": {
+    "uz": "dan qimmatli foydalanish",
+    "type": "lexical"
+   },
+   "undeveloped land": {
+    "uz": "Rivojlanmagan yer",
+    "type": "lexical"
+   },
+   "A striking change": {
+    "uz": "Ajablanarli o'zgarish",
+    "type": "colloc"
+   },
+   "areas for leisure": {
+    "uz": "Hordiq chiqarish uchun joylar",
+    "type": "lexical"
+   },
+   "next to the water": {
+    "uz": "Suv bo'yida",
+    "type": "lexical"
+   },
+   "shows the changes": {
+    "uz": "O'zgarishlarni ko'rsatadi",
+    "type": "lexical"
+   },
+   "A further argument": {
+    "uz": "Bundan tashqari yana bir argument",
+    "type": "academic"
+   },
+   "Striking a balance": {
+    "uz": "Muvozanatni saqlash",
+    "type": "colloc"
+   },
+   "global citizenship": {
+    "uz": "Global fuqarolik",
+    "type": "lexical"
+   },
+   "reliable resources": {
+    "uz": "Ishonchli manbalar",
+    "type": "lexical"
+   },
+   "striking a balance": {
+    "uz": "Muvozanatni saqlash",
+    "type": "colloc"
+   },
+   "In addition to this": {
+    "uz": "Bundan tashqari",
+    "type": "linking"
+   },
+   "It can confuse them": {
+    "uz": "Bu ularni chalkashtirib yuborishi mumkin",
+    "type": "lexical"
+   },
+   "it is waste of time": {
+    "uz": "Bu vaqtni behuda sarflash",
+    "type": "lexical"
+   },
+   "more better citizens": {
+    "uz": "Yaxshiroq fuqarolar",
+    "type": "lexical"
+   },
+   "place undue pressure": {
+    "uz": "Keraksiz bosim o'tkazish",
+    "type": "lexical"
+   },
+   "completely repurposed": {
+    "uz": "Butunlay qayta maqsadga yo'naltirilgan",
+    "type": "lexical"
+   },
+   "requires some changes": {
+    "uz": "Ba'zi o'zgarishlarni talab qiladi",
+    "type": "lexical"
+   },
+   "not a good use of time": {
+    "uz": "Vaqtni yaxshi ishlatish emas",
+    "type": "lexical"
+   },
+   "A nuanced understanding": {
+    "uz": "Nozik tushunish",
+    "type": "academic"
+   },
+   "facilitating connectivity": {
+    "uz": "Bog'liqlikni osonlashtirish",
+    "type": "academic"
+   },
+   "is important for students": {
+    "uz": "Talabalar uchun muhim",
+    "type": "lexical"
+   },
+   "signifying a move towards": {
+    "uz": "ga tomon harakatni anglatadi",
+    "type": "academic"
+   },
+   "It is also noticeable that": {
+    "uz": "Shuni ham ta'kidlash joizki",
+    "type": "linking"
+   },
+   "comprehensive regeneration": {
+    "uz": "Har tomonlama qayta tiklash",
+    "type": "lexical"
+   },
+   "aware of different cultures": {
+    "uz": "Turli madaniyatlardan xabardor",
+    "type": "lexical"
+   },
+   "It is also worth noting that": {
+    "uz": "Shuni ham aytib o'tish kerakki",
+    "type": "linking"
+   },
+   "fostering global citizenship": {
+    "uz": "Global fuqarolikni rag'batlantirish",
+    "type": "academic"
+   },
+   "Like, they should make it fun": {
+    "uz": "Masalan, ular buni qiziqarli qilishlari kerak",
+    "type": "idiom"
+   },
+   "assess the current curriculum": {
+    "uz": "Joriy o'quv dasturini baholash",
+    "type": "academic"
+   },
+   "conversant with global trends": {
+    "uz": "Global tendentsiyalardan xabardor",
+    "type": "lexical"
+   },
+   "distort students' perceptions": {
+    "uz": "Talabalarning idrokini buzish",
+    "type": "academic"
+   },
+   "cultivating global citizenship": {
+    "uz": "Global fuqarolikni rivojlantirish",
+    "type": "academic"
+   },
+   "facilitating critical analysis": {
+    "uz": "Tanqidiy tahlilni osonlashtirish",
+    "type": "academic"
+   },
+   "illustrates the transformation": {
+    "uz": "O'zgarishni ko'rsatadi",
+    "type": "academic"
+   },
+   "more flexible and personalized": {
+    "uz": "Ko'proq moslashuvchan va shaxsiy",
+    "type": "lexical"
+   },
+   "testament to urban regeneration": {
+    "uz": "Shahar qayta tiklanishining dalili",
+    "type": "lexical"
+   },
+   "Exposure to diverse perspectives": {
+    "uz": "Turli xil nuqtai nazarlarga duchor bo'lish",
+    "type": "academic"
+   },
+   "It is a very different place now": {
+    "uz": "Hozir bu butunlay boshqacha joy",
+    "type": "lexical"
+   },
+   "develop critical thinking skills": {
+    "uz": "Tanqidiy fikrlash qobiliyatlarini rivojlantirish",
+    "type": "academic"
+   },
+   "incorporates global perspectives": {
+    "uz": "Global nuqtai nazarlarni o'z ichiga oladi",
+    "type": "academic"
+   },
+   "overwhelming and anxiety-inducing": {
+    "uz": "Haddan tashqari va xavotirga soluvchi",
+    "type": "lexical"
+   },
+   "repurposed as a pedestrian promenade": {
+    "uz": "Piyodalar sayilgohi sifatida qayta maqsadga yo'naltirilgan",
+    "type": "lexical"
+   },
+   "develop a more holistic understanding": {
+    "uz": "Yaxlitroq tushunchani rivojlantirish",
+    "type": "academic"
+   },
+   "solid understanding of global affairs": {
+    "uz": "Global ishlar haqida mustahkam tushuncha",
+    "type": "academic"
+   },
+   "carefully curating and contextualizing": {
+    "uz": "Diqqat bilan saralash va kontekstlashtirish",
+    "type": "academic"
+   },
+   "misallocation of valuable educational time": {
+    "uz": "Qimmatli ta'lim vaqtini noto'g'ri taqsimlash",
+    "type": "academic"
+   },
+   "cultivate empathy and critical thinking skills": {
+    "uz": "Empatiya va tanqidiy fikrlash qobiliyatlarini rivojlantirish",
+    "type": "academic"
+   },
+   "Given the increasing interconnectedness of our world": {
+    "uz": "Dunyo tobora bog'lanib borayotganini hisobga olsak",
+    "type": "academic"
+   },
+   "catering to the needs of residents and visitors alike": {
+    "uz": "Aholi va mehmonlarning ehtiyojlarini birdek qondirish",
+    "type": "lexical"
+   },
+   "By carefully curating and presenting international news": {
+    "uz": "Xalqaro yangiliklarni diqqat bilan saralab va taqdim etish orqali",
+    "type": "academic"
+   }
+  }
+ },
+ "created_at": "2026-05-06T17:28:59.506692+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

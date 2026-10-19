@@ -1,0 +1,293 @@
+{
+ "id": 475,
+ "mock_type": "ielts-writing",
+ "mock_number": 32,
+ "title": "IELTS Writing Mock 32",
+ "status": "published",
+ "mock_data": {
+  "tasks": {
+   "task1": {
+    "title": "Student opinions on university services",
+    "prompt": "The pie charts show the results of a survey conducted by a university on the opinions of full-time and part-time students about its services.",
+    "wordGoal": 150,
+    "chartDesc": {
+     "title": "How are you happy with IT support offered? / How are you happy with current opening hours?",
+     "xAxis": "Satisfaction level and student status",
+     "yAxis": "Percentage of responses (%)",
+     "period": "",
+     "series": [
+      {
+       "name": "IT support offered - Full-time students",
+       "points": [
+        {
+         "at": "Not at all",
+         "value": 15
+        },
+        {
+         "at": "Quite happy",
+         "value": 31
+        },
+        {
+         "at": "Very happy",
+         "value": 54
+        }
+       ]
+      },
+      {
+       "name": "IT support offered - Part-time students",
+       "points": [
+        {
+         "at": "Not at all",
+         "value": 45
+        },
+        {
+         "at": "Quite happy",
+         "value": 35
+        },
+        {
+         "at": "Very happy",
+         "value": 20
+        }
+       ]
+      },
+      {
+       "name": "Current opening hours - Full-time students",
+       "points": [
+        {
+         "at": "Not at all",
+         "value": 1
+        },
+        {
+         "at": "Quite happy",
+         "value": 12
+        },
+        {
+         "at": "Very happy",
+         "value": 87
+        }
+       ]
+      },
+      {
+       "name": "Current opening hours - Part-time students",
+       "points": [
+        {
+         "at": "Not at all",
+         "value": 5
+        },
+        {
+         "at": "Quite happy",
+         "value": 23
+        },
+        {
+         "at": "Very happy",
+         "value": 72
+        }
+       ]
+      }
+     ],
+     "overview": "Overall, full-time students reported higher levels of satisfaction than part-time students across both services, and current opening hours received much higher overall satisfaction ratings than IT support.",
+     "chartType": "pie chart",
+     "confidence": "high",
+     "unreadable": [],
+     "verifiedBy": "human-checked",
+     "keyFeatures": [
+      "A majority of both full-time (87%) and part-time (72%) students were 'Very happy' with current opening hours, while only 1% of full-time students were 'Not at all' happy.",
+      "Part-time students were most dissatisfied with IT support, with 45% expressing 'Not at all' happy, compared to only 15% of full-time students.",
+      "Over half of full-time students (54%) were 'Very happy' with IT support, whereas only 20% of part-time students felt the same."
+     ]
+    },
+    "chartType": "pie_chart",
+    "dataNature": "static",
+    "instruction": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+    "sampleBand7": "The two pie charts illustrate the satisfaction levels of full-time and part-time university students regarding the institution's current opening hours. \n\nOverall, it is immediately clear that full-time students are significantly more satisfied with the opening times than their part-time counterparts, who expressed widespread dissatisfaction.\n\nLooking at the data for full-time students, a clear majority expressed positive feelings. Specifically, 62% reported being 'very happy' with the hours, and a further 27% were 'quite happy'. This means that in total, almost nine out of ten full-time students were content. In stark contrast, only a small minority, representing 11% of this group, were 'not at all happy'.\n\nThe sentiment among part-time students was almost the reverse. The overwhelming majority, at 61%, were 'not at all happy' with the opening hours. Approximately a third of these students (34%) felt 'quite happy', while a negligible 5% reported being 'very happy', a figure dramatically lower than the 62% of full-time students who shared this positive view.",
+    "timeMinutes": 20,
+    "chartDescImg": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/mock32-university-survey-v2.png",
+    "sampleAnswer": "",
+    "chartImageUrl": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/mock32-university-survey-v2.png",
+    "uzSampleBand7": "Ushbu ikkita doiraviy diagramma universitetning to'liq va qisman band bo'lgan talabalarining o'quv yurtining joriy ish soatlari bo'yicha qoniqish darajasini ko'rsatadi.\n\nUmuman olganda, to'liq band talabalar ish vaqtlaridan qisman band talabalarga qaraganda ancha ko'proq mamnun ekanligi yaqqol ko'rinib turibdi, qisman band talabalar esa keng tarqalgan norozilikni bildirgan.\n\nTo'liq band talabalar ma'lumotlariga qaraydigan bo'lsak, ularning aksariyati ijobiy fikr bildirgan. Aniqrog'i, 62% ish soatlaridan \"juda mamnun\" ekanligini, yana 27% esa \"ancha mamnun\" ekanligini aytgan. Bu shuni anglatadiki, jami hisobda deyarli har o'nta to'liq band talabadan to'qqiztasi qoniqish hosil qilgan. Bunga zid o'laroq, ushbu guruhning atigi 11% ni tashkil etuvchi kichik bir qismi \"umuman mamnun emas\" edi.\n\nQisman band talabalar orasidagi kayfiyat deyarli teskari edi. Ularning katta qismi, ya'ni 61%, ish soatlaridan \"umuman mamnun emas\" edi. Ushbu talabalarning taxminan uchdan bir qismi (34%) \"ancha mamnun\" ekanligini his qilgan bo'lsa, atigi 5% \"juda mamnun\" ekanligini bildirgan, bu ko'rsatkich to'liq band talabalar orasidagi 62% lik ijobiy fikr bilan solishtirganda ancha pastdir.",
+    "chartDescSource": "extracted-verified-2026-08-05"
+   },
+   "task2": {
+    "title": "Influence of advertisements on consumers",
+    "prompt": "Some people only find advertisements amusing or annoying, and they believe consumers are not influenced by advertisements when they shop. To what extent do you agree or disagree?",
+    "wordGoal": 250,
+    "essayType": "opinion",
+    "instruction": "Give reasons for your answer and include any relevant examples from your own knowledge or experience. Write at least 250 words.",
+    "sampleBand7": "Advertisements are an omnipresent feature of modern life, and many people view them as either a source of amusement or a simple annoyance. It is often argued that consumers are savvy enough to ignore these messages when making purchasing decisions. However, I strongly disagree with this perspective, as I believe advertising employs sophisticated techniques that profoundly influence consumer behaviour, often subconsciously.\n\nOne of the primary ways advertisements shape our choices is by building brand familiarity. Through constant repetition across various media, brands become embedded in our collective consciousness. This does not mean a person will rush out to buy a product after seeing one commercial. Rather, when faced with a choice in a supermarket, they are more likely to select the brand they recognise over an unfamiliar one. This is because familiarity creates a sense of trust and reliability. For instance, a shopper might choose a well-known brand of toothpaste like Colgate over a store's own brand, not because of a specific ad, but because decades of advertising have made the name synonymous with dental care.\n\nFurthermore, advertising excels at creating aspirational desires. Commercials rarely focus solely on the practical features of a product; instead, they sell a lifestyle or an emotion. They associate their products with concepts like happiness, success, beauty, or social status. A car advertisement, for example, might feature scenic mountain roads and themes of freedom, influencing the consumer to associate the vehicle with adventure rather than just transportation. Similarly, fashion brands use celebrity endorsements to suggest that their clothing will make the consumer more glamorous or popular, tapping into deep-seated psychological needs for acceptance and admiration.\n\nIn conclusion, while individual advertisements can certainly be dismissed as entertaining or irritating, their cumulative effect is far from negligible. By fostering subconscious brand recognition and linking products to powerful emotional desires, advertising is a formidable force in shaping consumer choices. Therefore, the notion that people are immune to its influence is a significant underestimation of the industry's pervasive power.",
+    "timeMinutes": 40,
+    "uzSampleBand7": "Reklamalar zamonaviy hayotning ajralmas bir qismidir va ko'pchilik ularni yo ko'ngilxushlik manbai, yo shunchaki g'ashga teguvchi narsa deb biladi. Ko'pincha iste'molchilar xarid qilish qarorlarini qabul qilishda bu xabarlarni e'tiborsiz qoldirish uchun yetarlicha aqlli deb ta'kidlanadi. Biroq, men bu nuqtai nazarga mutlaqo qo'shilmayman, chunki menimcha, reklama iste'molchilarning xatti-harakatlariga, ko'pincha ongsiz ravishda, chuqur ta'sir ko'rsatadigan murakkab usullarni qo'llaydi.\n\nReklamalarning tanlovimizni shakllantirishining asosiy usullaridan biri bu brend bilan tanishlikni yaratishdir. Turli ommaviy axborot vositalarida doimiy takrorlanish orqali brendlar bizning umumiy ongimizga singib ketadi. Bu biror kishi bitta reklamani ko'rganidan keyin mahsulotni sotib olishga shoshiladi degani emas. Aksincha, supermarketda tanlovga duch kelganda, ular notanish brenddan ko'ra o'zlari tanigan brendni tanlash ehtimoli ko'proq. Buning sababi, tanishlik ishonch va ishonchlilik hissini yaratadi. Masalan, xaridor do'konning o'z brendidan ko'ra Colgate kabi taniqli tish pastasi brendini tanlashi mumkin, buning sababi ma'lum bir reklama emas, balki o'nlab yillar davomidagi reklama bu nomni stomatologik parvarish bilan sinonimga aylantirganidir.\n\nBundan tashqari, reklama orzu-istaklarni yaratishda ustunlik qiladi. Reklamalar kamdan-kam hollarda faqat mahsulotning amaliy xususiyatlariga e'tibor qaratadi; aksincha, ular turmush tarzini yoki hissiyotni sotadilar. Ular o'z mahsulotlarini baxt, muvaffaqiyat, go'zallik yoki ijtimoiy mavqe kabi tushunchalar bilan bog'laydilar. Masalan, avtomobil reklamasida go'zal tog' yo'llari va erkinlik mavzulari aks ettirilishi mumkin, bu esa iste'molchiga avtomobilni shunchaki transport vositasi emas, balki sarguzasht bilan bog'lashga ta'sir qiladi. Xuddi shunday, moda brendlari o'z kiyimlari iste'molchini yanada jozibali yoki ommabop qilishini taklif qilish uchun mashhurlar ishtirokidan foydalanadilar va qabul qilinish va hayratga tushish kabi chuqur psixologik ehtiyojlarga ta'sir o'tkazadilar.\n\nXulosa qilib aytganda, alohida reklamalarni ko'ngilochar yoki zerikarli deb hisoblash mumkin bo'lsa-da, ularning umumiy ta'siri ahamiyatsiz emas. Ongsiz ravishda brendni tanib olishni rivojlantirish va mahsulotlarni kuchli hissiy istaklarga bog'lash orqali reklama iste'molchilar tanlovini shakllantirishda qudratli kuchdir. Shu sababli, odamlar uning ta'siridan himoyalangan degan tushuncha ushbu sohaning keng tarqalgan qudratini jiddiy ravishda past baholashdir."
+   }
+  },
+  "source": "Action Plan for IELTS",
+  "examDate": "2026-05-17",
+  "settings": {},
+  "vocabulary": {
+   "task1": [
+    {
+     "en": "full-time students",
+     "uz": "kunduzgi ta'lim talabalari"
+    },
+    {
+     "en": "part-time students",
+     "uz": "sirtqi ta'lim talabalari"
+    },
+    {
+     "en": "level of satisfaction",
+     "uz": "qoniqish darajasi"
+    },
+    {
+     "en": "expressed satisfaction",
+     "uz": "qoniqish bildirdi"
+    },
+    {
+     "en": "the overwhelming majority",
+     "uz": "mutlaq ko'pchilik"
+    },
+    {
+     "en": "constituted the largest segment",
+     "uz": "eng katta qismni tashkil etdi"
+    },
+    {
+     "en": "a significant proportion",
+     "uz": "sezilarli ulush"
+    },
+    {
+     "en": "a negligible percentage",
+     "uz": "arzimas foiz"
+    },
+    {
+     "en": "accounted for roughly half",
+     "uz": "taxminan yarmini tashkil etdi"
+    },
+    {
+     "en": "a contrasting picture emerges",
+     "uz": "qarama-qarshi manzara yuzaga keladi"
+    },
+    {
+     "en": "a similar pattern was observed",
+     "uz": "shunga o'xshash holat kuzatildi"
+    },
+    {
+     "en": "in comparison with",
+     "uz": "bilan taqqoslaganda"
+    },
+    {
+     "en": "the figures for part-timers",
+     "uz": "sirtqi ta'lim talabalari uchun ko'rsatkichlar"
+    },
+    {
+     "en": "were broadly positive",
+     "uz": "umuman ijobiy edi"
+    },
+    {
+     "en": "opinions were divided",
+     "uz": "fikrlar ikkiga bo'lingan edi"
+    },
+    {
+     "en": "the respective proportions",
+     "uz": "tegishli nisbatlar"
+    },
+    {
+     "en": "a mere one percent",
+     "uz": "atigi bir foiz"
+    },
+    {
+     "en": "three distinct categories",
+     "uz": "uch xil toifa"
+    },
+    {
+     "en": "regarding the university's services",
+     "uz": "universitet xizmatlariga kelsak"
+    },
+    {
+     "en": "a notable difference",
+     "uz": "sezilarli farq"
+    }
+   ],
+   "task2": [
+    {
+     "en": "consumer behaviour",
+     "uz": "iste'molchi xulq-atvori"
+    },
+    {
+     "en": "purchasing decisions",
+     "uz": "xarid qilish qarorlari"
+    },
+    {
+     "en": "to shape preferences",
+     "uz": "afzalliklarni shakllantirish"
+    },
+    {
+     "en": "brand recognition",
+     "uz": "brendning tanilishi"
+    },
+    {
+     "en": "subtle influence",
+     "uz": "sezilarsiz ta'sir"
+    },
+    {
+     "en": "target audience",
+     "uz": "maqsadli auditoriya"
+    },
+    {
+     "en": "persuasive techniques",
+     "uz": "ishontirish usullari"
+    },
+    {
+     "en": "inundated with advertisements",
+     "uz": "reklamalar bilan to'lib-toshgan"
+    },
+    {
+     "en": "to create a desire for",
+     "uz": "...ga bo'lgan istakni uyg'otmoq"
+    },
+    {
+     "en": "impulse buying",
+     "uz": "o'ylamasdan xarid qilish"
+    },
+    {
+     "en": "subconscious impact",
+     "uz": "ongsiz darajadagi ta'sir"
+    },
+    {
+     "en": "to build brand loyalty",
+     "uz": "brendga sodiqlikni shakllantirish"
+    },
+    {
+     "en": "skeptical of advertising claims",
+     "uz": "reklama da'volariga shubha bilan qarash"
+    },
+    {
+     "en": "an informed consumer",
+     "uz": "xabardor iste'molchi"
+    },
+    {
+     "en": "to underestimate the power of",
+     "uz": "...ning kuchini past baholamoq"
+    },
+    {
+     "en": "to a large extent",
+     "uz": "katta darajada"
+    },
+    {
+     "en": "while it is true that",
+     "uz": "garchi ... to'g'ri bo'lsa-da"
+    },
+    {
+     "en": "on the contrary",
+     "uz": "aksincha"
+    },
+    {
+     "en": "a compelling argument",
+     "uz": "ishonarli dalil"
+    },
+    {
+     "en": "play a crucial role in",
+     "uz": "...da hal qiluvchi rol o'ynamoq"
+    }
+   ]
+  }
+ },
+ "created_at": "2026-05-16T22:11:50.631457+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

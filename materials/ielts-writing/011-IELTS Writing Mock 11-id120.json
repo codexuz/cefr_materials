@@ -1,0 +1,638 @@
+{
+ "id": 120,
+ "mock_type": "ielts-writing",
+ "mock_number": 11,
+ "title": "IELTS Writing Mock 11",
+ "status": "published",
+ "mock_data": {
+  "tasks": {
+   "task1": {
+    "title": "Banana prices in four countries",
+    "prompt": "The line graph shows the price of banana in Japan, France, Germany, and the USA from 1994 to 2004.",
+    "wordGoal": 150,
+    "chartDesc": {
+     "title": "Banana prices, 1994 to 2004",
+     "xAxis": "Year (1994 to 2004)",
+     "yAxis": "US $ per kilogram",
+     "period": "1994 to 2004",
+     "series": [
+      {
+       "name": "Japan",
+       "points": [
+        {
+         "at": "1994",
+         "value": 1.9
+        },
+        {
+         "at": "1995",
+         "value": 2.8
+        },
+        {
+         "at": "1996",
+         "value": 2
+        },
+        {
+         "at": "1997",
+         "value": 1.9
+        },
+        {
+         "at": "1998",
+         "value": 2
+        },
+        {
+         "at": "1999",
+         "value": 2.2
+        },
+        {
+         "at": "2000",
+         "value": 2.1
+        },
+        {
+         "at": "2001",
+         "value": 1.6
+        },
+        {
+         "at": "2002",
+         "value": 2.1
+        },
+        {
+         "at": "2003",
+         "value": 2.2
+        },
+        {
+         "at": "2004",
+         "value": 2.5
+        }
+       ]
+      },
+      {
+       "name": "France",
+       "points": [
+        {
+         "at": "1994",
+         "value": 1.7
+        },
+        {
+         "at": "1995",
+         "value": 1.7
+        },
+        {
+         "at": "1996",
+         "value": 1.7
+        },
+        {
+         "at": "1997",
+         "value": 1.7
+        },
+        {
+         "at": "1998",
+         "value": 1.55
+        },
+        {
+         "at": "1999",
+         "value": 1.7
+        },
+        {
+         "at": "2000",
+         "value": 1.2
+        },
+        {
+         "at": "2001",
+         "value": 1.8
+        },
+        {
+         "at": "2002",
+         "value": 1.6
+        },
+        {
+         "at": "2003",
+         "value": 1
+        },
+        {
+         "at": "2004",
+         "value": 1.6
+        }
+       ]
+      },
+      {
+       "name": "Germany",
+       "points": [
+        {
+         "at": "1994",
+         "value": 1.4
+        },
+        {
+         "at": "1995",
+         "value": 1.3
+        },
+        {
+         "at": "1996",
+         "value": 1.5
+        },
+        {
+         "at": "1997",
+         "value": 1.5
+        },
+        {
+         "at": "1998",
+         "value": 1.4
+        },
+        {
+         "at": "1999",
+         "value": 1.55
+        },
+        {
+         "at": "2000",
+         "value": 1.15
+        },
+        {
+         "at": "2001",
+         "value": 1.4
+        },
+        {
+         "at": "2002",
+         "value": 1.3
+        },
+        {
+         "at": "2003",
+         "value": 1.2
+        },
+        {
+         "at": "2004",
+         "value": 1.2
+        }
+       ]
+      },
+      {
+       "name": "USA",
+       "points": [
+        {
+         "at": "1994",
+         "value": 0.75
+        },
+        {
+         "at": "1995",
+         "value": 1.2
+        },
+        {
+         "at": "1996",
+         "value": 1.2
+        },
+        {
+         "at": "1997",
+         "value": 1
+        },
+        {
+         "at": "1998",
+         "value": 1.2
+        },
+        {
+         "at": "1999",
+         "value": 1.1
+        },
+        {
+         "at": "2000",
+         "value": 1.1
+        },
+        {
+         "at": "2001",
+         "value": 1.1
+        },
+        {
+         "at": "2002",
+         "value": 1.1
+        },
+        {
+         "at": "2003",
+         "value": 1.1
+        },
+        {
+         "at": "2004",
+         "value": 1.1
+        }
+       ]
+      }
+     ],
+     "overview": "Overall, Japan consistently recorded the highest banana prices throughout most of the period despite significant fluctuations, while the USA generally had the lowest prices. Prices in France, Germany, and the USA remained relatively steady overall, with notable temporary dips and spikes.",
+     "chartType": "line graph",
+     "confidence": "medium",
+     "unreadable": [
+      "Numerical labels for exact point values are not printed directly on the data points; values are estimated from y-axis grid increments of 0.50."
+     ],
+     "keyFeatures": [
+      "Japan had the highest overall price peak in 1995 at around $2.80 per kg.",
+      "Japan experienced a major drop to $1.60 per kg in 2001, temporarily falling below France ($1.80 per kg), before recovering to $2.50 per kg in 2004.",
+      "USA started as the lowest price in 1994 at $0.75 per kg and remained constant at $1.10 per kg from 1999 to 2004.",
+      "France experienced a notable drop to $1.00 per kg in 2003, which was its lowest point and briefly lower than the USA."
+     ]
+    },
+    "chartType": "line_graph",
+    "dataNature": "dynamic",
+    "instruction": "Summarise the information by selecting and reporting the main features, and make comparison where relevant.",
+    "sampleBand5": "<p>The line graph shows the price of bananas <mark>in four countries</mark> between 1994 and 2004. The countries are Japan, France, Germany and the USA.</p>\n<p>Overall, the price of bananas <mark>was different</mark> in each country. Japan had the highest price. The USA had the lowest price. The price in France and Germany were similar.</p>\n<p>In Japan, the price started at around 70 yen. Then it went down to around 50 yen <mark>in the end of the period</mark>. In France and Germany, the prices were quite similar. They started at around 40 francs and marks, and then they went up and down. In the USA, the price was much lower. It started at about 20 dollars and stayed low. <mark>It did not change much</mark>.</p>\n<p>The price of bananas in Japan was very different <mark>compared to</mark> the other countries. The USA was the cheapest place to buy bananas.</p>",
+    "sampleBand6": "<p>The line graph <mark>shows information about</mark> banana prices in four countries: Japan, France, Germany and the USA, between 1994 and 2004.</p>\n<p>Overall, the price of bananas <mark>fluctuated over the period</mark> in all four countries. However, the price in Japan was much higher than in the other three countries. The price in the USA was generally the lowest.</p>\n<p>In Japan, the price started at around $8 in 1994. It then <mark>went up and down</mark>, reaching a peak of just over $10 in 2001, before falling to about $7 in 2004. In France, the price began at approximately $3.5 and <mark>saw a gradual increase</mark> to around $5 by 2004. Germany's banana prices showed a similar trend to France, starting at about $3 and ending at around $4.5.</p>\n<p>The USA had the lowest banana prices. It started at about $2 in 1994, <mark>with some small fluctuations</mark>, and finished at roughly $2.5 in 2004. The price remained relatively stable compared to the other three countries.</p>",
+    "sampleBand7": "<p>The line graph <mark>illustrates the fluctuations</mark> in banana prices across four countries - Japan, France, Germany, and the USA - over a decade, from 1994 to 2004.</p>\n\n<p>Overall, banana prices <mark>exhibited considerable variation</mark> across the nations. While Japan experienced the highest prices, the USA consistently had the lowest. Furthermore, the prices in France and Germany showed <mark>a broadly similar pattern</mark>.</p>\n\n<p>Specifically, the price of bananas in Japan began at approximately $0.70 in 1994, then <mark>underwent a period of decline</mark> until 1997, before increasing sharply to reach a peak of around $0.80 in 2000. Subsequently, prices decreased again, finishing at approximately $0.60 in 2004. In contrast, banana prices in the USA started at around $0.20 and <mark>remained relatively stable</mark> throughout the period, with only minor fluctuations.</p>\n\n<p>The price trends in France and Germany were quite similar, starting at around $0.50 and $0.40 respectively. Both countries experienced a gradual increase in prices over the period, with Germany <mark>experiencing a slightly more pronounced rise</mark> than France, ending at approximately $0.60 and $0.50 respectively in 2004.</p>",
+    "sampleBand8": "<p>The line graph <mark>illustrates the fluctuating prices</mark> of bananas in four countries – Japan, France, Germany, and the USA – over a ten-year period, from 1994 to 2004.</p>\n<p>Overall, banana prices <mark>exhibited considerable variation</mark> across the nations. While Japan experienced the highest prices, the USA consistently maintained the lowest. Furthermore, the prices in France and Germany generally followed similar trends, <mark>remaining within a comparable range</mark>.</p>\n<p>In 1994, Japan's banana prices <mark>stood at a high point</mark> of approximately $7 per kilogram, before declining sharply to around $5 by 1997. After a slight increase, the price <mark>stabilized at roughly</mark> $4 between 2000 and 2004. In contrast, the USA saw a gradual decrease from around $0.70 in 1994 to $0.40 in 2004. The prices in France and Germany <mark>commenced at similar levels</mark> of around $1.70 and $2 respectively. Both countries experienced a dip around 1997, followed by a <mark>subsequent recovery</mark>, with prices ending the period at approximately $2.20 and $2.30.</p>\n<p>It is <mark>worth noting</mark> that despite some fluctuations, the price gap between Japan and the other three countries <mark>remained significant</mark> throughout the entire period.</p>",
+    "sampleBand9": "<p>The line graph <mark>depicts fluctuations</mark> in the price of bananas in four countries – Japan, France, Germany, and the USA – over a decade, from 1994 to 2004.</p>\n\n<p>Overall, banana prices in Japan experienced the most significant volatility, while the USA saw the least. Furthermore, prices in France and Germany followed relatively similar trajectories, although <mark>divergences emerged</mark> towards the end of the period.</p>\n\n<p>In 1994, Japan had the highest banana price, <mark>commencing at</mark> approximately $0.70. This figure then <mark>underwent a dramatic decline</mark>, plummeting to around $0.40 by 1996. Subsequently, it <mark>oscillated considerably</mark>, peaking at $0.60 in 2000 before falling again to finish at around $0.45 in 2004. In contrast, the USA's banana price remained relatively stable, <mark>hovering around</mark> $0.20 throughout the entire period, with only minor variations.</p>\n\n<p>France and Germany exhibited similar patterns. Both began at around $0.50, with slight increases until 1997. After that, they both experienced a dip, followed by a gradual increase. However, while Germany's price <mark>plateaued</mark> at approximately $0.60 from 2002 to 2004, France's price <mark>witnessed a further uptick</mark>, reaching nearly $0.65 by the end of the period. It is <mark>worthy of note</mark> that the prices in all countries except the USA <mark>converged to a tighter range</mark> towards the end of the period.</p>",
+    "timeMinutes": 20,
+    "chartDescImg": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/11.png",
+    "sampleAnswer": "The line graph compares banana prices per kilogram in four countries—Japan, France, Germany, and the USA—over a ten-year period from 1994 to 2004. Overall, Japan consistently had the highest banana prices, while the USA maintained the lowest. Prices in all four countries showed varying degrees of fluctuation throughout the decade.\n\nIn 1994, Japanese banana prices started at approximately $2.50 per kilogram, making it the most expensive market. This figure rose sharply to nearly $3.00 by 1996 before declining gradually to around $2.20 by 2004. France began the period with prices around $1.80, which peaked at $2.00 in 1998, then fell to approximately $1.50 by 2004.\n\nGermany's prices mirrored a similar pattern to France, starting at roughly $1.50 and fluctuating between $1.40 and $1.70 throughout the decade, ending at about $1.40. The USA had the most stable and lowest prices, beginning at approximately $1.00 and remaining relatively constant, finishing the period at around $0.90 per kilogram. By 2004, the gap between Japanese and American banana prices had narrowed but remained significant.",
+    "chartImageUrl": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/11.png",
+    "uzSampleBand5": "<p>Chiziqli grafik bananlarning narxini <mark>to'rt mamlakatda</mark> 1994 yildan 2004 yilgacha bo'lgan davrda ko'rsatadi. Mamlakatlar Yaponiya, Fransiya, Germaniya va AQSh.</p>\n<p>Umuman olganda, banan narxi <mark>har bir mamlakatda har xil edi</mark>. Yaponiyada narx eng yuqori edi. AQShda narx eng past edi. Fransiya va Germaniyadagi narxlar o'xshash edi.</p>\n<p>Yaponiyada narx taxminan 70 iyendan boshlandi. Keyin u taxminan 50 iyengacha tushdi <mark>davr oxirida</mark>. Fransiya va Germaniyada narxlar juda o'xshash edi. Ular taxminan 40 frank va markadan boshlandi, keyin esa ko'tarilib tushdi. AQShda narx ancha past edi. U taxminan 20 dollardan boshlandi va pastligicha qoldi. <mark>U unchalik o'zgarmadi</mark>.</p>\n<p>Yaponiyada banan narxi boshqa mamlakatlarga <mark>nisbatan</mark> juda farq qilardi. AQSh banan sotib olish uchun eng arzon joy edi.</p>",
+    "uzSampleBand6": "<p>Chiziqli grafika 1994 yildan 2004 yilgacha bo'lgan davrda to'rtta davlatdagi: Yaponiya, Fransiya, Germaniya va AQShdagi banan narxlari haqida <mark>ma'lumot beradi</mark>.</p>\n<p>Umuman olganda, banan narxi to'rtta davlatda ham <mark>davr mobaynida o'zgarib turdi</mark>. Biroq, Yaponiyadagi narx boshqa uchta davlatdagidan ancha yuqori edi. AQShdagi narx odatda eng past edi.</p>\n<p>Yaponiyada narx 1994 yilda taxminan 8 dollardan boshlangan. Keyin u <mark>ko'tarilib va tushib turdi</mark>, 2001 yilda 10 dollardan sal ko'proq cho'qqiga chiqdi, keyin 2004 yilda taxminan 7 dollargacha tushdi. Fransiyada narx taxminan 3,5 dollardan boshlandi va 2004 yilga kelib <mark>asta-sekin o'sishni kuzatdi</mark> va taxminan 5 dollarga yetdi. Germaniyadagi banan narxlari Fransiyaga o'xshash tendentsiyani ko'rsatdi, taxminan 3 dollardan boshlanib, taxminan 4,5 dollarda yakunlandi.</p>\n<p>AQShda banan narxlari eng past edi. U 1994 yilda taxminan 2 dollardan boshlangan, <mark>biroz o'zgarishlar bilan</mark>, va 2004 yilda taxminan 2,5 dollarda yakunlangan. Narx boshqa uchta davlatga nisbatan nisbatan barqaror bo'lib qoldi.</p>",
+    "uzSampleBand7": "<p>Chiziqli grafika 1994 yildan 2004 yilgacha bo'lgan o'n yillik davrda to'rtta davlat – Yaponiya, Fransiya, Germaniya va AQShda banan narxlaridagi <mark>o'zgarishlarni ko'rsatadi</mark>.</p>\n\n<p>Umuman olganda, banan narxlari turli davlatlarda <mark>sezilarli farqlarni namoyish etdi</mark>. Yaponiyada eng yuqori narxlar kuzatilgan bo'lsa, AQShda doimiy ravishda eng past narxlar bo'lgan. Bundan tashqari, Fransiya va Germaniyadagi narxlar <mark>asosan o'xshash tendentsiyani</mark> ko'rsatdi.</p>\n\n<p>Xususan, Yaponiyada banan narxi 1994 yilda taxminan 0,70 dollardan boshlangan, keyin 1997 yilgacha <mark>pasayish davrini boshidan kechirdi</mark>, so'ngra keskin o'sib, 2000 yilda taxminan 0,80 dollarga yetdi. Keyinchalik, narxlar yana pasayib, 2004 yilda taxminan 0,60 dollarga yetdi. Aksincha, AQShda banan narxlari taxminan 0,20 dollardan boshlandi va davr davomida faqat kichik o'zgarishlar bilan <mark>nisbatan barqaror bo'lib qoldi</mark>.</p>\n\n<p>Fransiya va Germaniyadagi narx tendentsiyalari juda o'xshash bo'lib, mos ravishda taxminan 0,50 dollar va 0,40 dollardan boshlandi. Ikkala davlat ham davr davomida narxlarning asta-sekin o'sishini kuzatdi, Germaniyada Fransiya bilan solishtirganda <mark>biroz sezilarliroq o'sish kuzatildi</mark> va 2004 yilda mos ravishda taxminan 0,60 dollar va 0,50 dollarga yetdi.</p>",
+    "uzSampleBand8": "<p>Chiziqli grafika 1994-yildan 2004-yilgacha bo'lgan o'n yillik davr mobaynida to'rtta davlat – Yaponiya, Fransiya, Germaniya va AQShda banan narxlarining <mark>o'zgaruvchanligini ko'rsatadi</mark>.</p>\n<p>Umuman olganda, banan narxlari mamlakatlar bo'ylab <mark>sezilarli darajada farq qildi</mark>. Yaponiyada eng yuqori narxlar kuzatilgan bo'lsa, AQSh doimiy ravishda eng past narxlarni ushlab turdi. Bundan tashqari, Fransiya va Germaniyadagi narxlar odatda shunga o'xshash tendentsiyalarga ega bo'lib, <mark>taqqoslanadigan diapazonda qoldi</mark>.</p>\n<p>1994-yilda Yaponiyada banan narxlari kilogrammi uchun taxminan 7 dollarni tashkil etib, <mark>yuqori nuqtada edi</mark>, 1997-yilga kelib esa keskin pasayib, taxminan 5 dollarga tushdi. Ozgina o'sishdan so'ng, narx 2000-yildan 2004-yilgacha <mark>taxminan</mark> 4 dollarda barqarorlashdi. Aksincha, AQShda 1994-yilda taxminan 0,70 dollardan 2004-yilda 0,40 dollarga asta-sekin pasayish kuzatildi. Fransiya va Germaniyadagi narxlar mos ravishda taxminan 1,70 va 2 dollar <mark>atrofida bir xil darajada boshlandi</mark>. Ikkala davlat ham 1997-yil atrofida pasayishni boshdan kechirdi, undan so'ng <mark>keyingi tiklanish</mark> bo'ldi, narxlar davrni taxminan 2,20 va 2,30 dollarda yakunladi.</p>\n<p><mark>Shuni ta'kidlash joizki</mark>, ba'zi o'zgarishlarga qaramay, Yaponiya va qolgan uch davlat o'rtasidagi narx farqi butun davr davomida <mark>sezilarli bo'lib qoldi</mark>.</p>",
+    "uzSampleBand9": "<p>Chiziqli grafikda to'rt davlat – Yaponiya, Fransiya, Germaniya va AQSh – bo'ylab banan narxining 1994 yildan 2004 yilgacha bo'lgan o'n yillik davrdagi <mark>o'zgarishlari tasvirlangan</mark>.</p>\n\n<p>Umuman olganda, Yaponiyada banan narxlari eng sezilarli o'zgaruvchanlikni boshdan kechirdi, AQShda esa eng kam o'zgarishlar kuzatildi. Bundan tashqari, Fransiya va Germaniyadagi narxlar nisbatan o'xshash yo'nalishlarni kuzatdi, garchi davr oxiriga kelib <mark>farqlar paydo bo'lgan bo'lsa ham</mark>.</p>\n\n<p>1994 yilda Yaponiyada banan narxi eng yuqori bo'lib, taxminan 0,70 dollardan <mark>boshlangan</mark>. Keyin bu ko'rsatkich <mark>keskin pasayishga uchradi</mark> va 1996 yilga kelib taxminan 0,40 dollargacha tushib ketdi. Keyinchalik, u <mark>sezilarli darajada tebranib turdi</mark>, 2000 yilda 0,60 dollargacha ko'tarildi, so'ngra 2004 yilda yana pasayib, taxminan 0,45 dollarda yakunlandi. Aksincha, AQShda banan narxi nisbatan barqaror bo'lib, butun davr davomida faqat kichik o'zgarishlar bilan taxminan 0,20 dollar atrofida <mark>saqlanib qoldi</mark>.</p>\n\n<p>Fransiya va Germaniya o'xshash tendentsiyalarni namoyish etdi. Ikkalasi ham taxminan 0,50 dollardan boshlandi va 1997 yilgacha biroz o'sdi. Shundan so'ng, ikkalasi ham pasayishni boshdan kechirdi, so'ngra asta-sekin o'sish kuzatildi. Biroq, Germaniya narxi 2002 yildan 2004 yilgacha taxminan 0,60 dollarda <mark>barqarorlashgan</mark> bo'lsa, Fransiya narxi davr oxiriga kelib deyarli 0,65 dollarga yetib, <mark>yanada o'sishni kuzatdi</mark>. Shuni <mark>ta'kidlash joizki</mark>, AQShdan tashqari barcha davlatlardagi narxlar davr oxiriga kelib <mark>torroq diapazonda yaqinlashdi</mark>.</p>",
+    "chartDescSource": "extracted-verified-2026-08-05"
+   },
+   "task2": {
+    "title": "Social skills for job success",
+    "prompt": "Most employers nowadays put increasing emphasis on social skills. Some people believe that social skills are important in addition to good qualification for job success. To what extent do you agree or disagree?",
+    "wordGoal": 250,
+    "essayType": "opinion",
+    "instruction": "To what extent do you agree or disagree?",
+    "sampleBand5": "<p>In today's world, companies want workers with good social skills. Some think these skills are just as important as having good qualifications to get a job. I think that while both are important, qualifications are still more important.</p>\n\n<p>Having good qualifications means you have the knowledge and skills to do the job well. If you are a doctor, you need to know medicine. If you are an engineer, you need to know how to build things. Without these skills, you cannot do the job, no matter how friendly you are. <mark>Social skills are also good</mark>, but they are not the main thing. For example, a software developer needs to know programming languages. <mark>Social skills are useful</mark> for teamwork, but the most important thing is that they can write good code.</p>\n\n<p>However, social skills are becoming more and more important. <mark>Companies need people who</mark> can work well together. If you can talk to people and work as a team, it makes the company better. Also, many jobs involve talking to customers. If you are friendly and helpful, the customers will be happy and the company will make more money. But even in these jobs, you still need to know something about the product or service you are selling.</p>\n\n<p>To conclude, I think that both qualifications and social skills are important for job success. However, I believe qualifications are still the most important thing. You need to have the skills to do the job first. Then, if you also have good social skills, it will help you to be even more successful. But without the qualifications, social skills <mark>are not enough for success</mark>.</p>",
+    "sampleBand6": "<p>In today's competitive job market, employers often look for more than just qualifications. While academic achievements are undoubtedly important, the ability to interact effectively with others, <mark>or social skills</mark>, is increasingly valued. I largely agree that these skills play a crucial role, alongside qualifications, in determining success in a job.</p>\n\n<p>Firstly, good qualifications demonstrate a person's knowledge and competence in a particular field. A degree or certification shows that an individual has the necessary training and understanding to perform the technical aspects of their job. However, <mark>technical expertise alone is not always enough</mark>. Many jobs require teamwork and collaboration, and without strong social skills, an individual may struggle to work effectively with colleagues.</p>\n\n<p>Secondly, social skills are essential for building relationships, both within the workplace and with clients or customers. An employee with good communication and interpersonal skills can <mark>effectively represent</mark> their company and build trust with stakeholders. This can lead to increased sales, improved customer satisfaction, and a stronger company reputation. <mark>For example</mark>, a salesperson with excellent product knowledge but poor communication skills may struggle to close deals.</p>\n\n<p>However, it is important to acknowledge that qualifications remain a fundamental requirement for most jobs. <mark>It would be difficult</mark> to argue that social skills can completely compensate for a lack of relevant knowledge or training. A surgeon, for instance, needs extensive medical qualifications regardless of their bedside manner.</p>\n\n<p>In conclusion, while qualifications provide the foundation for job performance, social skills are increasingly important for success in the modern workplace. The ability to communicate effectively, build relationships, and work collaboratively are all valuable assets that can complement technical expertise and contribute to a more successful career. <mark>Therefore, I believe that</mark> a combination of both qualifications and social skills is the key to achieving job success.</p>",
+    "sampleBand7": "<p>In today's competitive job market, employers are increasingly prioritising candidates who possess strong social skills, alongside traditional qualifications. While academic achievements and technical expertise remain crucial, I believe that social skills are <mark>undeniably important</mark> for professional success, and I largely agree with the statement.</p>\n\n<p>Firstly, strong social skills <mark>facilitate effective teamwork</mark>. Most jobs require collaboration with colleagues, and individuals who can communicate clearly, listen actively, and resolve conflicts constructively are more likely to contribute positively to team projects. For example, a highly qualified engineer might struggle to implement their designs effectively if they cannot explain their ideas clearly to the construction team or <mark>address concerns raised by stakeholders</mark>. This can lead to delays, misunderstandings, and ultimately, project failure.</p>\n\n<p>Secondly, social skills are essential for building and maintaining client relationships. In many industries, success depends on the ability to <mark>cultivate rapport</mark> with clients and understand their needs. A salesperson with excellent product knowledge but poor interpersonal skills may struggle to close deals, as clients are more likely to trust and work with someone who is personable and empathetic. Furthermore, strong communication skills are vital for <mark>managing client expectations</mark> and resolving complaints effectively, which can enhance customer loyalty and generate positive word-of-mouth referrals.</p>\n\n<p>Of course, qualifications and technical skills are undeniably important. A surgeon, for instance, needs highly specialized medical knowledge and practical skills to perform operations successfully. However, even in such technical fields, social skills are becoming increasingly valued. A surgeon who can communicate effectively with patients, <mark>allaying their fears</mark> and explaining complex medical procedures in a clear and compassionate manner, is likely to be more successful and build stronger patient relationships.</p>\n\n<p>In conclusion, while qualifications remain a fundamental requirement for most jobs, social skills are increasingly recognised as <mark>a vital complement</mark>. They enhance teamwork, foster client relationships, and contribute to overall professional success. Therefore, I believe that employers are justified in placing increasing emphasis on social skills during the hiring process, as these attributes are <mark>indispensable for navigating</mark> the complexities of the modern workplace.</p>",
+    "sampleBand8": "<p>In contemporary employment landscapes, there is a discernible trend towards prioritising candidates who not only possess impeccable academic credentials but also exhibit strong interpersonal skills. While academic qualifications remain undeniably crucial, I wholeheartedly agree that social skills are increasingly vital for achieving professional success. This essay will explore why <mark>competence in interpersonal interactions</mark> is now considered a critical attribute in the modern workplace.</p>\n\n<p>Firstly, many jobs today necessitate extensive collaboration and teamwork. Regardless of how qualified an individual may be, their inability to effectively communicate and cooperate with colleagues can significantly hinder project outcomes. For instance, a brilliant software engineer might struggle to integrate their code into a larger system if they lack the ability to <mark>articulate their design choices clearly</mark> and address concerns raised by other team members. In contrast, an individual with slightly less technical expertise but possessing excellent communication and conflict-resolution skills is more likely to contribute positively to a collaborative environment, ultimately leading to <mark>enhanced team performance</mark>.</p>\n\n<p>Secondly, in client-facing roles, social skills are paramount for building rapport and fostering long-term relationships. A salesperson with a deep understanding of their product but lacking empathy and the ability to <mark>establish genuine connections</mark> with clients will likely struggle to secure deals. Customers are more inclined to trust and engage with individuals who demonstrate active listening skills, exhibit genuine interest in their needs, and can effectively address their concerns. Therefore, in such roles, social skills can often <mark>outweigh purely technical proficiency</mark>.</p>\n\n<p>Furthermore, the modern workplace is increasingly diverse, requiring employees to navigate interactions with individuals from various cultural backgrounds and perspectives. Individuals with strong social intelligence are better equipped to adapt their communication style, understand cultural nuances, and <mark>foster inclusive environments</mark>. This adaptability is not only beneficial for internal team dynamics but also crucial for engaging with international clients and partners, thereby expanding a company’s global reach. </p>\n\n<p>In conclusion, while academic qualifications provide a solid foundation of knowledge and expertise, social skills are undeniably essential for navigating the complexities of the modern workplace. The ability to collaborate effectively, build relationships, and adapt to diverse environments are increasingly valued by employers, making social skills <mark>an indispensable asset</mark> for career advancement. The <mark>synergy between academic prowess and social adeptness</mark> is, therefore, the most effective recipe for enduring success in today’s competitive job market. <mark>Neglecting either aspect</mark> would be a disservice to any aspiring professional.</p>",
+    "sampleBand9": "<p>In today's increasingly competitive job market, the relative importance of social skills alongside academic qualifications is a subject of considerable debate. While a strong academic background remains fundamentally important, I <mark>unequivocally believe</mark> that social skills are now equally, if not more, crucial for achieving professional success. This essay will explore the reasons for this viewpoint, focusing on the collaborative nature of modern workplaces and the increasing emphasis on customer relations.</p>\n\n<p>Firstly, the modern workplace is rarely a solitary environment. <mark>Teamwork and collaboration</mark> are essential for innovation and problem-solving. Even individuals with exceptional technical skills can struggle if they lack the ability to communicate effectively, build rapport with colleagues, and navigate interpersonal dynamics. A highly qualified engineer, for example, might possess groundbreaking ideas, but without the social intelligence to <mark>articulate these ideas persuasively</mark> or work constructively within a team, their potential impact is significantly diminished. This highlights the vital role of social skills in fostering a productive and harmonious work environment. Furthermore, the capacity to resolve conflicts amicably and negotiate effectively are <mark>indispensable assets</mark> in any collaborative setting, allowing projects to progress smoothly and efficiently.</p>\n\n<p>Secondly, the increasing emphasis on customer service and client relations across various industries underscores the value of social skills. In many roles, employees are the face of the company, and their ability to build trust and establish positive relationships with clients is paramount. A marketing executive, for instance, may have a deep understanding of market trends and consumer behavior, but without strong interpersonal skills, they may struggle to <mark>secure lucrative deals</mark> or maintain long-term client relationships. The ability to empathize with clients' needs, actively listen to their concerns, and <mark>tailor solutions accordingly</mark> are all crucial social skills that contribute directly to business success. <mark>Consequently</mark>, employers are increasingly prioritizing candidates who demonstrate these abilities, recognizing their direct impact on profitability and brand reputation.</p>\n\n<p>In conclusion, while academic qualifications provide the foundational knowledge and technical expertise necessary for many jobs, social skills are <mark>indisputably essential</mark> for navigating the complexities of the modern workplace and building successful professional relationships. The ability to collaborate effectively, communicate persuasively, and build rapport with clients are all <mark>critical determinants</mark> of career success in today's competitive environment. Therefore, I strongly agree that social skills are not merely an added bonus, but a <mark>fundamental requirement</mark>, standing shoulder to shoulder with qualifications for success in the professional sphere. <mark>To that end</mark>, educational institutions and professional development programs should place greater emphasis on cultivating these crucial interpersonal abilities.</p>",
+    "timeMinutes": 40,
+    "sampleAnswer": "In the contemporary job market, there is a growing consensus among employers that social skills are as vital as formal qualifications for achieving professional success. I strongly agree with this viewpoint, as the modern workplace increasingly requires employees who can collaborate effectively and communicate with diverse groups of people.\n\nFirstly, strong social skills are essential for teamwork, which is a cornerstone of most modern organizations. While academic qualifications demonstrate a candidate's knowledge and technical expertise, they do not necessarily indicate an ability to work harmoniously with colleagues. An employee who can navigate interpersonal dynamics, resolve conflicts amicably, and contribute positively to team morale is often more valuable than one who possesses superior technical skills but struggles to cooperate with others. In fields such as healthcare, sales, and project management, the ability to build rapport with clients and colleagues is directly linked to performance outcomes.\n\nSecondly, social skills are crucial for leadership and career advancement. Professionals who aspire to managerial roles must be able to motivate their teams, negotiate with stakeholders, and represent their organizations effectively. These competencies are not typically gained through academic study but are developed through social interaction and experience. A highly qualified individual who lacks these skills may find their career progression stalled, while a socially adept person may rise quickly through the ranks.\n\nIn conclusion, I firmly believe that social skills are an indispensable complement to formal qualifications in the pursuit of job success. In an era of increased collaboration and globalization, the ability to connect with others on a human level is a defining characteristic of a successful professional.",
+    "uzSampleBand5": "<p>Bugungi kunda kompaniyalar yaxshi ijtimoiy ko'nikmalarga ega bo'lgan xodimlarni xohlashadi. Ba'zilarning fikricha, bu ko'nikmalar ishga kirish uchun yaxshi malakaga ega bo'lish bilan bir xil darajada muhim. Menimcha, ikkalasi ham muhim bo'lsa-da, malaka hali ham muhimroq.</p>\n\n<p>Yaxshi malakaga ega bo'lish sizda ishni yaxshi bajarish uchun bilim va ko'nikmalar borligini anglatadi. Agar siz shifokor bo'lsangiz, tibbiyotni bilishingiz kerak. Agar siz muhandis bo'lsangiz, narsalarni qanday qurishni bilishingiz kerak. Bu ko'nikmalarsiz siz qanchalik do'stona bo'lsangiz ham, ishni qila olmaysiz. <mark>Ijtimoiy ko'nikmalar ham yaxshi</mark>, lekin ular asosiy narsa emas. Misol uchun, dasturiy ta'minot ishlab chiqaruvchisi dasturlash tillarini bilishi kerak. <mark>Ijtimoiy ko'nikmalar foydali</mark> jamoada ishlash uchun, lekin eng muhimi, ular yaxshi kod yoza olishlari kerak.</p>\n\n<p>Biroq, ijtimoiy ko'nikmalar tobora muhim bo'lib bormoqda. <mark>Kompaniyalarga birgalikda yaxshi ishlay oladigan</mark> odamlar kerak. Agar siz odamlar bilan gaplasha olsangiz va jamoa bo'lib ishlasangiz, bu kompaniyani yaxshilaydi. Shuningdek, ko'plab ishlar mijozlar bilan gaplashishni o'z ichiga oladi. Agar siz do'stona va yordam beruvchi bo'lsangiz, mijozlar xursand bo'lishadi va kompaniya ko'proq pul topadi. Ammo hatto bu ishlarda ham siz sotayotgan mahsulot yoki xizmat haqida nimadir bilishingiz kerak.</p>\n\n<p>Xulosa qilib aytganda, menimcha, malaka ham, ijtimoiy ko'nikmalar ham ishda muvaffaqiyat qozonish uchun muhim. Biroq, men malaka hali ham eng muhim narsa deb hisoblayman. Avvalambor, sizda ishni bajarish uchun ko'nikmalar bo'lishi kerak. Keyin, agar sizda yaxshi ijtimoiy ko'nikmalar ham bo'lsa, bu sizga yanada muvaffaqiyatli bo'lishga yordam beradi. Ammo malakasiz ijtimoiy ko'nikmalar <mark>muvaffaqiyat uchun yetarli emas</mark>.</p>",
+    "uzSampleBand6": "<p>Bugungi raqobatbardosh mehnat bozorida ish beruvchilar ko'pincha malakadan ko'proq narsani qidiradilar. Akademik yutuqlar shubhasiz muhim bo'lsa-da, boshqalar bilan samarali muloqot qilish qobiliyati, <mark>yoki ijtimoiy ko'nikmalar</mark>, tobora qadrlanmoqda. Men, asosan, bu ko'nikmalar ishda muvaffaqiyatni aniqlashda malaka bilan bir qatorda muhim rol o'ynashiga qo'shilaman.</p>\n\n<p>Birinchidan, yaxshi malaka insonning ma'lum bir sohadagi bilim va kompetentligini ko'rsatadi. Diplom yoki sertifikat shaxsning o'z ishining texnik jihatlarini bajarish uchun zaruriy tayyorgarligi va tushunchasiga ega ekanligini ko'rsatadi. Biroq, <mark>faqat texnik tajriba har doim ham etarli emas</mark>. Ko'pgina ishlar jamoaviy ish va hamkorlikni talab qiladi va kuchli ijtimoiy ko'nikmalarsiz shaxs hamkasblar bilan samarali ishlashda qiynalishi mumkin.</p>\n\n<p>Ikkinchidan, ijtimoiy ko'nikmalar ish joyida ham, mijozlar yoki xaridorlar bilan ham munosabatlar o'rnatish uchun juda muhimdir. Yaxshi muloqot va shaxslararo ko'nikmalarga ega bo'lgan xodim o'z kompaniyasini <mark>samarali taqdim eta oladi</mark> va manfaatdor tomonlar bilan ishonch o'rnata oladi. Bu savdo hajmining oshishiga, mijozlar ehtiyojining qondirilishiga va kompaniyaning obro'sining mustahkamlanishiga olib kelishi mumkin. <mark>Misol uchun</mark>, mahsulot haqida a'lo darajada bilimga ega, ammo muloqot ko'nikmalari past bo'lgan sotuvchi bitimlarni yopishda qiynalishi mumkin.</p>\n\n<p>Biroq, malaka ko'pchilik ishlar uchun asosiy talab bo'lib qolishini tan olish muhim. Ijtimoiy ko'nikmalar tegishli bilim yoki tayyorgarlikning etishmasligini to'liq qoplashi mumkin deb ta'kidlash <mark>qiyin bo'lardi</mark>. Masalan, jarroh o'zining bemor bilan muomalasi qanday bo'lishidan qat'i nazar, keng tibbiy malakaga ega bo'lishi kerak.</p>\n\n<p>Xulosa qilib aytganda, malaka ish faoliyati uchun asos bo'lsa-da, ijtimoiy ko'nikmalar zamonaviy ish joyida muvaffaqiyatga erishish uchun tobora muhim ahamiyat kasb etmoqda. Samarali muloqot qilish, munosabatlar o'rnatish va hamkorlikda ishlash qobiliyati texnik tajribani to'ldirishi va yanada muvaffaqiyatli kareraga hissa qo'shishi mumkin bo'lgan qimmatli aktivlardir. <mark>Shuning uchun, men ishonamanki</mark>, malaka va ijtimoiy ko'nikmalarning kombinatsiyasi ishda muvaffaqiyatga erishishning kalitidir.</p>",
+    "uzSampleBand7": "<p>Bugungi raqobatbardosh mehnat bozorida ish beruvchilar an'anaviy malakalarga qo'shimcha ravishda kuchli ijtimoiy ko'nikmalarga ega bo'lgan nomzodlarga tobora ko'proq e'tibor qaratmoqdalar. Akademik yutuqlar va texnik tajriba muhim bo'lib qolayotgan bo'lsa-da, men ijtimoiy ko'nikmalar kasbiy muvaffaqiyat uchun <mark>shubhasiz muhim</mark> deb hisoblayman va men ushbu bayonotga asosan qo'shilaman.</p>\n\n<p>Birinchidan, kuchli ijtimoiy ko'nikmalar <mark>samarali jamoaviy ishni osonlashtiradi</mark>. Ko'pgina ishlar hamkasblar bilan hamkorlikni talab qiladi va aniq muloqot qila oladigan, faol tinglaydigan va ziddiyatlarni konstruktiv hal qila oladigan shaxslar jamoaviy loyihalarga ijobiy hissa qo'shish ehtimoli ko'proq. Misol uchun, yuqori malakali muhandis o'z g'oyalarini qurilish jamoasiga aniq tushuntira olmasa yoki <mark>manfaatdor tomonlar tomonidan bildirilgan xavotirlarni hal qila olmasa</mark>, o'z dizaynlarini samarali amalga oshirishda qiynalishi mumkin. Bu kechikishlarga, tushunmovchiliklarga va oxir-oqibat, loyihaning muvaffaqiyatsizligiga olib kelishi mumkin.</p>\n\n<p>Ikkinchidan, ijtimoiy ko'nikmalar mijozlar bilan munosabatlarni o'rnatish va saqlash uchun zarurdir. Ko'pgina sohalarda muvaffaqiyat mijozlar bilan <mark>yaqin aloqalarni rivojlantirish</mark> va ularning ehtiyojlarini tushunish qobiliyatiga bog'liq. Mahsulot haqida mukammal bilimlarga ega, ammo shaxslararo ko'nikmalari past bo'lgan sotuvchi bitimlarni yopishda qiynalishi mumkin, chunki mijozlar shaxsiy va hamdard bo'lgan odamga ishonish va u bilan ishlash ehtimoli ko'proq. Bundan tashqari, kuchli aloqa ko'nikmalari <mark>mijozlarning umidlarini boshqarish</mark> va shikoyatlarni samarali hal qilish uchun muhimdir, bu esa mijozlarning sadoqatini oshirishi va ijobiy og'zaki tavsiyalarni yaratishi mumkin.</p>\n\n<p>Albatta, malaka va texnik ko'nikmalar shubhasiz muhimdir. Misol uchun, jarroh operatsiyalarni muvaffaqiyatli bajarish uchun yuqori darajada ixtisoslashgan tibbiy bilim va amaliy ko'nikmalarga ega bo'lishi kerak. Biroq, hatto bunday texnik sohalarda ham ijtimoiy ko'nikmalar tobora ko'proq qadrlanmoqda. Bemorlar bilan samarali muloqot qila oladigan, ularning <mark>qo'rquvlarini bartaraf etadigan</mark> va murakkab tibbiy muolajalarni aniq va rahmdil tarzda tushuntira oladigan jarroh ko'proq muvaffaqiyatga erishishi va bemorlar bilan yanada mustahkam aloqalar o'rnatishi mumkin.</p>\n\n<p>Xulosa qilib aytganda, malakalar ko'pgina ishlar uchun asosiy talab bo'lib qolayotgan bo'lsa-da, ijtimoiy ko'nikmalar tobora ko'proq <mark>muhim qo'shimcha</mark> sifatida tan olinmoqda. Ular jamoaviy ishni yaxshilaydi, mijozlar bilan munosabatlarni mustahkamlaydi va umumiy kasbiy muvaffaqiyatga hissa qo'shadi. Shuning uchun, men ish beruvchilarning yollash jarayonida ijtimoiy ko'nikmalarga tobora ko'proq e'tibor qaratishlari o'rinli deb hisoblayman, chunki bu xususiyatlar zamonaviy ish joyining murakkabliklarini <mark>boshqarish uchun zarurdir</mark>.</p>",
+    "uzSampleBand8": "<p>Zamonaviy ish bilan ta'minlash sohalarida nafaqat beqiyos akademik malakaga ega bo'lgan, balki kuchli shaxslararo ko'nikmalarni namoyon etadigan nomzodlarga ustunlik berish tendentsiyasi sezilarli. Akademik malakalar inkor etib bo'lmaydigan darajada muhim bo'lib qolsa-da, men ijtimoiy ko'nikmalar kasbiy muvaffaqiyatga erishish uchun tobora muhim ahamiyat kasb etayotganiga to'liq qo'shilaman. Ushbu insho <mark>shaxslararo munosabatlardagi kompetensiya</mark> nima uchun zamonaviy ish joyida muhim xususiyat deb hisoblanishini o'rganadi.</p>\n\n<p>Birinchidan, bugungi kunda ko'plab ishlar keng hamkorlik va jamoaviy ishni talab qiladi. Shaxs qanchalik malakali bo'lishidan qat'iy nazar, ularning hamkasblar bilan samarali muloqot qilish va hamkorlik qilish qobiliyati loyiha natijalariga sezilarli darajada to'sqinlik qilishi mumkin. Misol uchun, ajoyib dasturiy ta'minot muhandisi, agar u <mark>dizayn tanlovlarini aniq ifoda etish</mark> va boshqa jamoa a'zolari tomonidan ko'tarilgan tashvishlarni hal qilish qobiliyatiga ega bo'lmasa, o'z kodini kattaroq tizimga integratsiya qilishda qiynalishi mumkin. Aksincha, texnik tajribasi biroz kamroq, ammo a'lo darajadagi muloqot va mojarolarni hal qilish ko'nikmalariga ega bo'lgan shaxs hamkorlik muhitiga ijobiy hissa qo'shishi ehtimoli ko'proq, bu esa oxir-oqibat <mark>jamoaning ishlashini yaxshilashga</mark> olib keladi.</p>\n\n<p>Ikkinchidan, mijozlar bilan yuzma-yuz ishlaydigan rollarda ijtimoiy ko'nikmalar o'zaro munosabatlarni o'rnatish va uzoq muddatli munosabatlarni rivojlantirish uchun juda muhimdir. O'z mahsulotini chuqur tushunadigan, ammo hamdardlik va mijozlar bilan <mark>chinakam aloqalarni o'rnatish</mark> qobiliyatiga ega bo'lmagan sotuvchi bitimni tuzishda qiynalishi mumkin. Mijozlar faol tinglash ko'nikmalarini namoyish etadigan, ularning ehtiyojlariga chinakam qiziqish ko'rsatadigan va ularning tashvishlarini samarali hal qila oladigan odamlarga ishonishga va ular bilan muloqot qilishga ko'proq moyil. Shuning uchun, bunday rollarda ijtimoiy ko'nikmalar ko'pincha <mark>faqat texnik mahoratdan ustun turishi</mark> mumkin.</p>\n\n<p>Bundan tashqari, zamonaviy ish joyi tobora xilma-xil bo'lib, xodimlardan turli madaniy kelib chiqishi va nuqtai nazariga ega bo'lgan shaxslar bilan munosabatlarni boshqarishni talab qiladi. Kuchli ijtimoiy intellektga ega bo'lgan shaxslar o'zlarining muloqot uslubini moslashtirishga, madaniy nozikliklarni tushunishga va <mark>inklyuziv muhitni rivojlantirishga</mark> yaxshiroq qodir. Ushbu moslashuvchanlik nafaqat ichki jamoa dinamikasi uchun foydali, balki xalqaro mijozlar va sheriklar bilan aloqa o'rnatish uchun ham juda muhim, shu bilan kompaniyaning global qamrovini kengaytiradi.</p>\n\n<p>Xulosa qilib aytganda, akademik malakalar bilim va tajribaning mustahkam asosini ta'minlasa-da, ijtimoiy ko'nikmalar zamonaviy ish joyining murakkabliklarini boshqarish uchun shubhasiz zarurdir. Samarali hamkorlik qilish, munosabatlar o'rnatish va turli muhitlarga moslashish qobiliyati ish beruvchilar tomonidan tobora qadrlanadi, bu esa ijtimoiy ko'nikmalarni martaba o'sishi uchun <mark>ajralmas aktivga</mark> aylantiradi. Shuning uchun <mark>akademik mahorat va ijtimoiy layoqat o'rtasidagi sinergiya</mark> bugungi raqobatbardosh mehnat bozorida uzoq muddatli muvaffaqiyatning eng samarali retseptidir. <mark>Har qanday jihatga beparvo bo'lish</mark> har qanday intiluvchan mutaxassisga nisbatan xizmat qilmaslik bo'ladi.</p>",
+    "uzSampleBand9": "<p>Bugungi kunda tobora kuchayib borayotgan raqobatbardosh ish bozorida ijtimoiy ko'nikmalarning akademik malakalar bilan bir qatorda nisbiy ahamiyati jiddiy bahs mavzusi bo'lib qolmoqda. Kuchli akademik tayyorgarlik fundamental jihatdan muhim bo'lib qolsa-da, men <mark>qatiy ishonaman</mark>ki, ijtimoiy ko'nikmalar hozir professional muvaffaqiyatga erishish uchun teng, agar undan ham muhimroq bo'lmasa, shunday ahamiyatga ega. Ushbu insho ushbu nuqtai nazarning sabablarini o'rganadi, zamonaviy ish joylarining hamkorlik xususiyatiga va mijozlar bilan munosabatlarga tobora ko'proq e'tibor qaratadi.</p>\n\n<p>Birinchidan, zamonaviy ish joyi kamdan-kam hollarda yolg'iz muhit bo'ladi. <mark>Jamoada ishlash va hamkorlik</mark> innovatsiyalar va muammolarni hal qilish uchun zarurdir. Hatto ajoyib texnik ko'nikmalarga ega bo'lgan odamlar ham samarali muloqot qila olmasalar, hamkasblar bilan aloqa o'rnata olmasalar va shaxslararo dinamikada harakat qila olmasalar, qiynalishlari mumkin. Misol uchun, yuqori malakali muhandis yangi g'oyalarga ega bo'lishi mumkin, ammo ushbu g'oyalarni <mark>ishontiruvchi tarzda ifoda etish</mark> yoki jamoada konstruktiv ishlash uchun ijtimoiy intellektga ega bo'lmasa, ularning potentsial ta'siri sezilarli darajada kamayadi. Bu ijtimoiy ko'nikmalarning samarali va uyg'un ish muhitini yaratishdagi muhim rolini ta'kidlaydi. Bundan tashqari, har qanday hamkorlik muhitida nizolarni do'stona hal qilish va samarali muzokara olib borish qobiliyati <mark>ajralmas boylik</mark> bo'lib, loyihalarning muammosiz va samarali rivojlanishiga imkon beradi.</p>\n\n<p>Ikkinchidan, turli sohalarda mijozlarga xizmat ko'rsatish va mijozlar bilan munosabatlarga tobora ko'proq e'tibor qaratilishi ijtimoiy ko'nikmalarning qadrini ta'kidlaydi. Ko'p rollarda xodimlar kompaniyaning yuzi hisoblanadi va ularning mijozlar bilan ishonch hosil qilish va ijobiy munosabatlar o'rnatish qobiliyati juda muhimdir. Misol uchun, marketing bo'yicha rahbar bozor tendentsiyalari va iste'molchilar xatti-harakatlarini chuqur tushunishi mumkin, ammo kuchli shaxslararo ko'nikmalarsiz ular <mark>daromadli bitimlar tuzish</mark> yoki uzoq muddatli mijozlar bilan munosabatlarni saqlab qolish uchun kurashishlari mumkin. Mijozlarning ehtiyojlariga hamdardlik bildirish, ularning tashvishlarini faol tinglash va <mark>shunga mos ravishda echimlarni moslashtirish</mark> biznes muvaffaqiyatiga bevosita hissa qo'shadigan barcha muhim ijtimoiy ko'nikmalardir. <mark>Natijada</mark>, ish beruvchilar ushbu qobiliyatlarni namoyish etuvchi nomzodlarga tobora ko'proq ustunlik berishadi, chunki ularning rentabellik va brend obro'siga bevosita ta'sirini tan olishadi.</p>\n\n<p>Xulosa qilib aytganda, akademik malakalar ko'plab ishlar uchun zarur bo'lgan asosiy bilim va texnik tajribani ta'minlasa-da, ijtimoiy ko'nikmalar zamonaviy ish joyining murakkabliklarini boshqarish va muvaffaqiyatli professional munosabatlar o'rnatish uchun <mark>shubhasiz zarur</mark>dir. Samarali hamkorlik qilish, ishonarli tarzda muloqot qilish va mijozlar bilan aloqa o'rnatish qobiliyati bugungi raqobatbardosh muhitda martaba muvaffaqiyatining <mark>muhim omillari</mark>dir. Shuning uchun, men ijtimoiy ko'nikmalar shunchaki qo'shimcha bonus emas, balki professional sohada muvaffaqiyat uchun malakalar bilan bir qatorda turadigan <mark>fundamental talab</mark> ekanligiga qat'iy qo'shilaman. <mark>Shu maqsadda</mark>, ta'lim muassasalari va professional rivojlanish dasturlari ushbu muhim shaxslararo qobiliyatlarni rivojlantirishga ko'proq e'tibor qaratishlari kerak.</p>"
+   }
+  },
+  "source": "IELTS Buddy",
+  "examDate": "2021-04-03",
+  "settings": {
+   "timeInfo": "60 Minutes",
+   "moduleTitle": "Academic Writing Module",
+   "testIdentifier": "Mock 11"
+  },
+  "vocabulary": {
+   "task1": [
+    {
+     "term": "Per kilogram",
+     "meaning": "For each unit of weight equal to 1000 grams."
+    },
+    {
+     "term": "Consistently",
+     "meaning": "In a steady, unchanging manner over a period of time."
+    },
+    {
+     "term": "Fluctuation",
+     "meaning": "An irregular rising and falling in number or amount."
+    },
+    {
+     "term": "Rose sharply",
+     "meaning": "Increased quickly and by a large amount."
+    },
+    {
+     "term": "Declining gradually",
+     "meaning": "Decreasing slowly over time."
+    },
+    {
+     "term": "Mirrored a pattern",
+     "meaning": "Showed a similar trend or shape as something else."
+    },
+    {
+     "term": "Remained relatively constant",
+     "meaning": "Stayed at more or less the same level."
+    },
+    {
+     "term": "The gap narrowed",
+     "meaning": "The difference between two things became smaller."
+    }
+   ],
+   "task2": [
+    {
+     "term": "Contemporary job market",
+     "meaning": "The current state of employment opportunities and hiring trends."
+    },
+    {
+     "term": "Growing consensus",
+     "meaning": "An increasing level of general agreement among a group."
+    },
+    {
+     "term": "Interpersonal dynamics",
+     "meaning": "The way people interact and relate to one another in a group."
+    },
+    {
+     "term": "Resolve conflicts amicably",
+     "meaning": "To settle disagreements in a friendly and peaceful manner."
+    },
+    {
+     "term": "Build rapport",
+     "meaning": "To establish a positive and trusting relationship with someone."
+    },
+    {
+     "term": "Career advancement",
+     "meaning": "Progress or promotion to a higher position in one's job."
+    },
+    {
+     "term": "Indispensable complement",
+     "meaning": "Something that is essential and adds value to another thing."
+    },
+    {
+     "term": "Socially adept",
+     "meaning": "Skilled at interacting with other people."
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "plateaued": {
+    "uz": "tekislandi",
+    "type": "lexical"
+   },
+   "For example": {
+    "uz": "Misol uchun",
+    "type": "linking"
+   },
+   "To that end": {
+    "uz": "Shu maqsadda",
+    "type": "linking"
+   },
+   "compared to": {
+    "uz": "bilan solishtirganda",
+    "type": "lexical"
+   },
+   "Consequently": {
+    "uz": "Natijada",
+    "type": "linking"
+   },
+   "worth noting": {
+    "uz": "shuni ta'kidlash joizki",
+    "type": "lexical"
+   },
+   "commencing at": {
+    "uz": "boshlanishi...",
+    "type": "academic"
+   },
+   "was different": {
+    "uz": "boshqacha edi",
+    "type": "lexical"
+   },
+   "worthy of note": {
+    "uz": "e'tiborga loyiq",
+    "type": "lexical"
+   },
+   "hovering around": {
+    "uz": "atrofida aylanib yurish",
+    "type": "lexical"
+   },
+   "or social skills": {
+    "uz": "yoki ijtimoiy ko'nikmalar",
+    "type": "lexical"
+   },
+   "went up and down": {
+    "uz": "yuqoriga va pastga ko'tarildi",
+    "type": "lexical"
+   },
+   "cultivate rapport": {
+    "uz": "hurmatni rivojlantirish",
+    "type": "academic"
+   },
+   "in four countries": {
+    "uz": "to'rtta davlatda",
+    "type": "lexical"
+   },
+   "a vital complement": {
+    "uz": "muhim qo'shimcha",
+    "type": "lexical"
+   },
+   "divergences emerged": {
+    "uz": "farqlar paydo bo'ldi",
+    "type": "academic"
+   },
+   "subsequent recovery": {
+    "uz": "keyingi tiklanish",
+    "type": "lexical"
+   },
+   "allaying their fears": {
+    "uz": "ularning qo'rquvlarini bartaraf etish",
+    "type": "academic"
+   },
+   "depicts fluctuations": {
+    "uz": "tebranishlarni tasvirlaydi",
+    "type": "academic"
+   },
+   "indispensable assets": {
+    "uz": "ajralmas boyliklar",
+    "type": "lexical"
+   },
+   "remained significant": {
+    "uz": "ahamiyatli bo'lib qoldi",
+    "type": "lexical"
+   },
+   "undeniably important": {
+    "uz": "shubhasiz muhim",
+    "type": "lexical"
+   },
+   "It would be difficult": {
+    "uz": "Bu qiyin bo'lardi",
+    "type": "lexical"
+   },
+   "critical determinants": {
+    "uz": "muhim omillar",
+    "type": "academic"
+   },
+   "effectively represent": {
+    "uz": "samarali vakillik qilish",
+    "type": "academic"
+   },
+   "stabilized at roughly": {
+    "uz": "taxminan ... da barqarorlashdi",
+    "type": "lexical"
+   },
+   "stood at a high point": {
+    "uz": "yuqori nuqtada turdi",
+    "type": "lexical"
+   },
+   "unequivocally believe": {
+    "uz": "qatiy ishonaman",
+    "type": "lexical"
+   },
+   "It did not change much": {
+    "uz": "U unchalik o'zgarmadi",
+    "type": "lexical"
+   },
+   "an indispensable asset": {
+    "uz": "ajralmas boylik",
+    "type": "lexical"
+   },
+   "indisputably essential": {
+    "uz": "shubhasiz muhim",
+    "type": "academic"
+   },
+   "saw a gradual increase": {
+    "uz": "asta-sekin o'sish kuzatildi",
+    "type": "lexical"
+   },
+   "secure lucrative deals": {
+    "uz": "foydali bitimlar tuzish",
+    "type": "academic"
+   },
+   "fundamental requirement": {
+    "uz": "asosiy talab",
+    "type": "lexical"
+   },
+   "oscillated considerably": {
+    "uz": "sezilarli darajada tebranib turdi",
+    "type": "academic"
+   },
+   "shows information about": {
+    "uz": "haqida ma'lumot ko'rsatadi",
+    "type": "lexical"
+   },
+   "Neglecting either aspect": {
+    "uz": "Har ikki jihatga e'tiborsizlik qaratilsa",
+    "type": "lexical"
+   },
+   "Social skills are useful": {
+    "uz": "Ijtimoiy ko'nikmalar foydali",
+    "type": "lexical"
+   },
+   "in the end of the period": {
+    "uz": "davrning oxirida",
+    "type": "lexical"
+   },
+   "Companies need people who": {
+    "uz": "Kompaniyalarga shunday odamlar kerakki, ular...",
+    "type": "colloc"
+   },
+   "Therefore, I believe that": {
+    "uz": "Shuning uchun men ishonamanki",
+    "type": "linking"
+   },
+   "a broadly similar pattern": {
+    "uz": "keng o'xshash naqsh",
+    "type": "lexical"
+   },
+   "enhanced team performance": {
+    "uz": "jamoaning yaxshilangan ishlashi",
+    "type": "academic"
+   },
+   "Teamwork and collaboration": {
+    "uz": "Jamoaviy ish va hamkorlik",
+    "type": "lexical"
+   },
+   "are not enough for success": {
+    "uz": "muvaffaqiyat uchun yetarli emas",
+    "type": "lexical"
+   },
+   "fluctuated over the period": {
+    "uz": "davr mobaynida tebranib turdi",
+    "type": "academic"
+   },
+   "remained relatively stable": {
+    "uz": "nisbatan barqaror bo'lib qoldi",
+    "type": "lexical"
+   },
+   "witnessed a further uptick": {
+    "uz": "keyingi o'sish kuzatildi",
+    "type": "academic"
+   },
+   "Social skills are also good": {
+    "uz": "Ijtimoiy ko'nikmalar ham yaxshi",
+    "type": "lexical"
+   },
+   "commenced at similar levels": {
+    "uz": "o'xshash darajalarda boshlandi",
+    "type": "academic"
+   },
+   "converged to a tighter range": {
+    "uz": "torroq diapazonga yaqinlashdi",
+    "type": "academic"
+   },
+   "illustrates the fluctuations": {
+    "uz": "tebranishlarni tasvirlaydi",
+    "type": "academic"
+   },
+   "indispensable for navigating": {
+    "uz": "yo'nalish olish uchun zarur",
+    "type": "academic"
+   },
+   "managing client expectations": {
+    "uz": "mijozlar umidlarini boshqarish",
+    "type": "academic"
+   },
+   "tailor solutions accordingly": {
+    "uz": "shunga mos ravishda yechimlarni moslashtirish",
+    "type": "academic"
+   },
+   "underwent a dramatic decline": {
+    "uz": "keskin pasayishni boshdan kechirdi",
+    "type": "academic"
+   },
+   "with some small fluctuations": {
+    "uz": "ba'zi kichik tebranishlar bilan",
+    "type": "lexical"
+   },
+   "establish genuine connections": {
+    "uz": "chinakam aloqalarni o'rnatish",
+    "type": "academic"
+   },
+   "facilitate effective teamwork": {
+    "uz": "samarali jamoaviy ishni osonlashtirish",
+    "type": "academic"
+   },
+   "foster inclusive environments": {
+    "uz": "inklyuziv muhitni yaratish",
+    "type": "academic"
+   },
+   "underwent a period of decline": {
+    "uz": "pasayish davrini boshdan kechirdi",
+    "type": "academic"
+   },
+   "exhibited considerable variation": {
+    "uz": "sezilarli o'zgarishlarni namoyish etdi",
+    "type": "academic"
+   },
+   "illustrates the fluctuating prices": {
+    "uz": "tebranuvchi narxlarni tasvirlaydi",
+    "type": "academic"
+   },
+   "articulate these ideas persuasively": {
+    "uz": "bu g'oyalarni ishonarli tarzda ifodalash",
+    "type": "academic"
+   },
+   "remaining within a comparable range": {
+    "uz": "taqqoslanadigan diapazonda qolish",
+    "type": "academic"
+   },
+   "outweigh purely technical proficiency": {
+    "uz": "sof texnik mahoratdan ustun turadi",
+    "type": "academic"
+   },
+   "address concerns raised by stakeholders": {
+    "uz": "manfaatdor tomonlar tomonidan ko'tarilgan tashvishlarni hal qilish",
+    "type": "academic"
+   },
+   "articulate their design choices clearly": {
+    "uz": "dizayn tanlovlarini aniq ifodalash",
+    "type": "academic"
+   },
+   "competence in interpersonal interactions": {
+    "uz": "shaxslararo munosabatlardagi malaka",
+    "type": "academic"
+   },
+   "experiencing a slightly more pronounced rise": {
+    "uz": "biroz ko'proq yaqqol ko'tarilishni boshdan kechirish",
+    "type": "academic"
+   },
+   "technical expertise alone is not always enough": {
+    "uz": "faqat texnik tajriba har doim ham yetarli emas",
+    "type": "academic"
+   },
+   "synergy between academic prowess and social adeptness": {
+    "uz": "akademik mahorat va ijtimoiy moslashuvchanlik o'rtasidagi sinergiya",
+    "type": "academic"
+   }
+  }
+ },
+ "created_at": "2026-05-06T17:28:40.969842+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

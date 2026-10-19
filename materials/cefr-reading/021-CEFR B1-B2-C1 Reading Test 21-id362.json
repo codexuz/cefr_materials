@@ -1,0 +1,741 @@
+{
+ "id": 362,
+ "mock_type": "cefr-reading",
+ "mock_number": 21,
+ "title": "CEFR B1-B2-C1 Reading Test 21",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "gap-fill-text",
+    "title": "Part 1",
+    "answers": {
+     "1": [
+      "police"
+     ],
+     "2": [
+      "London"
+     ],
+     "3": [
+      "call"
+     ],
+     "4": [
+      "car"
+     ],
+     "5": [
+      "Metropolitan"
+     ],
+     "6": [
+      "horses"
+     ],
+     "7": [
+      "branch"
+     ],
+     "8": [
+      "dogs"
+     ],
+     "9": [
+      "crime",
+      "crimes"
+     ]
+    },
+    "passage": {
+     "title": "Scotland Yard",
+     "content": "<p>Scotland Yard is the headquarters of the Metropolitan Police in London. To most people, its name immediately brings to mind the picture of a detective — cool, efficient, ready to track down any criminal, or a helmeted <span class=\"gap\" data-gap=\"1\">_____(1)_____</span> constable — that familiar figure of the London scene and trusty helper of every traveller from overseas.</p><p>Scotland Yard is situated on the Thames Embankment close to the Houses of Parliament and the familiar clock tower of Big Ben, and its jurisdiction extends over 740 square miles with the exception of the ancient City of <span class=\"gap\" data-gap=\"2\">_____(2)_____</span>, which possesses its own separate police force.</p><p>One of the most successful developments in Scotland Yard’s crime detection and emergency service has been the “999 system”. On receipt of a call the 999 Room operator ascertains by electronic device the position of the nearest available police car, which is contacted by radio. Almost instantly a message is also sent by teleprinter to the police station concerned so that within seconds of a <span class=\"gap\" data-gap=\"3\">_____(3)_____</span> for assistance being received, a police <span class=\"gap\" data-gap=\"4\">_____(4)_____</span> is on its way to the scene. An old-established section of the <span class=\"gap\" data-gap=\"5\">_____(5)_____</span> police is the Mounted Branch, with its strength of about 200 horses stabled at strategic points. These <span class=\"gap\" data-gap=\"6\">_____(6)_____</span> are particularly suited to ceremonial occasions, for they are accustomed to military bands.</p><p>An interesting branch of Scotland Yard is the <span class=\"gap\" data-gap=\"7\">_____(7)_____</span> of Police Dogs, first used as an experiment in 1939. Now these <span class=\"gap\" data-gap=\"8\">_____(8)_____</span> are an important part of the Force. One dog, for example, can search a warehouse in ten minutes, whereas the same search would take six men an hour.</p><p>There is also the River Police, or Thames Division, which deals with all <span class=\"gap\" data-gap=\"9\">_____(9)_____</span>s occurring within its river boundaries.</p><p>There are two other departments of Scotland Yard – the Witness Room (known as the Rogues’ Gallery) where a photographic record of known and suspected criminals is kept, and the Museum, which contains murder relics and forgery exhibits.</p>"
+    },
+    "questions": [
+     {
+      "id": 1,
+      "hint": "a helmeted _____ constable"
+     },
+     {
+      "id": 2,
+      "hint": "the ancient City of _____"
+     },
+     {
+      "id": 3,
+      "hint": "within seconds of a _____ for assistance"
+     },
+     {
+      "id": 4,
+      "hint": "a police _____ is on its way"
+     },
+     {
+      "id": 5,
+      "hint": "section of the _____ police"
+     },
+     {
+      "id": 6,
+      "hint": "These _____ are particularly suited"
+     },
+     {
+      "id": 7,
+      "hint": "the _____ of Police Dogs"
+     },
+     {
+      "id": 8,
+      "hint": "Now these _____ are an important part"
+     },
+     {
+      "id": 9,
+      "hint": "deals with all _____s occurring"
+     }
+    ],
+    "partNumber": 1,
+    "instruction": "Read the text. Fill in each gap with ONE word. You must use a word which is somewhere in the rest of the text.",
+    "explanations": {
+     "q1": {
+      "text": "The passage introduces Scotland Yard as the headquarters of the Metropolitan Police. A constable is a rank within this police force, making 'police' the correct word to describe them. That's why the correct answer is 'police'.",
+      "quote": "Scotland Yard is the headquarters of the Metropolitan Police in London."
+     },
+     "q2": {
+      "text": "The passage states that Scotland Yard is the police force for London. It then mentions an exception to its jurisdiction, which is the historically separate 'City of London'. That's why the correct answer is 'London'.",
+      "quote": "Scotland Yard is the headquarters of the Metropolitan Police in London."
+     },
+     "q3": {
+      "text": "The text describes the '999 system' for emergencies. The process begins 'On receipt of a call', which is a request for assistance from the police. That's why the correct answer is 'call'.",
+      "quote": "On receipt of a call the 999 Room operator ascertains by electronic device the position of the nearest available police car, which is contacted by radio."
+     },
+     "q4": {
+      "text": "The passage explains that after a 999 call, an operator finds the 'nearest available police car' and contacts it by radio to send it to the scene of the emergency. That's why the correct answer is 'car'.",
+      "quote": "On receipt of a call the 999 Room operator ascertains by electronic device the position of the nearest available police car, which is contacted by radio."
+     },
+     "q5": {
+      "text": "The first sentence identifies the police force being discussed as the 'Metropolitan Police'. The Mounted Branch is described as a section within this larger organization. That's why the correct answer is 'Metropolitan'.",
+      "quote": "Scotland Yard is the headquarters of the Metropolitan Police in London."
+     },
+     "q6": {
+      "text": "The sentence immediately before the gap introduces the Mounted Branch, specifying its 'strength of about 200 horses'. The word 'These' in the next sentence refers back to these animals. That's why the correct answer is 'horses'.",
+      "quote": "An old-established section of the _____(5)_____ police is the Mounted Branch, with its strength of about 200 horses stabled at strategic points."
+     },
+     "q7": {
+      "text": "The passage introduces this section of Scotland Yard by calling it an 'interesting branch'. This parallels the earlier mention of the 'Mounted Branch', indicating it is a specific division. That's why the correct answer is 'branch'.",
+      "quote": "An interesting branch of Scotland Yard is the _____(7)_____ of Police Dogs, first used as an experiment in 1939."
+     },
+     "q8": {
+      "text": "The sentence just before the one with the gap introduces the 'branch of Police Dogs'. The word 'these' in the following sentence clearly refers back to the dogs that make up this unit. That's why the correct answer is 'dogs'.",
+      "quote": "An interesting branch of Scotland Yard is the _____(7)_____ of Police Dogs, first used as an experiment in 1939."
+     },
+     "q9": {
+      "text": "The passage describes Scotland Yard's role in 'crime detection'. The River Police is a division of this force, so its job is to deal with crimes that occur on the river. That's why the correct answer is 'crime'.",
+      "quote": "One of the most successful developments in Scotland Yard’s crime detection and emergency service has been the “999 system”."
+     }
+    },
+    "questionRange": "1-9"
+   },
+   {
+    "type": "matching",
+    "texts": [
+     {
+      "title": "Person 10",
+      "number": 10,
+      "content": "Cristina would like to visit a museum and see people making things. She wants to buy some souvenirs to take home."
+     },
+     {
+      "title": "Person 11",
+      "number": 11,
+      "content": "John is studying Art History and is particularly interested in the old masters from Holland and their paintings. He has only time on Sundays."
+     },
+     {
+      "title": "Person 12",
+      "number": 12,
+      "content": "Alan is a teacher and wants to spend a day looking at scientific discoveries and modern inventions. His 8-year-old daughter will probably go with him."
+     },
+     {
+      "title": "Person 13",
+      "number": 13,
+      "content": "Sandra would like to visit a museum, which has exhibitions of ceramics from the past. She wants to have lunch there as well."
+     },
+     {
+      "title": "Person 14",
+      "number": 14,
+      "content": "Stephen is a student and wants to combine a visit to a museum with a walk in the open air. He would also like to attend a practical demonstration there."
+     }
+    ],
+    "title": "Part 2",
+    "answers": {
+     "10": [
+      "B"
+     ],
+     "11": [
+      "E"
+     ],
+     "12": [
+      "D"
+     ],
+     "13": [
+      "G"
+     ],
+     "14": [
+      "A"
+     ]
+    },
+    "questions": [
+     {
+      "id": 10,
+      "textNumber": 10
+     },
+     {
+      "id": 11,
+      "textNumber": 11
+     },
+     {
+      "id": 12,
+      "textNumber": 12
+     },
+     {
+      "id": 13,
+      "textNumber": 13
+     },
+     {
+      "id": 14,
+      "textNumber": 14
+     }
+    ],
+    "partNumber": 2,
+    "statements": [
+     {
+      "text": "The Open Air Museum: The Open Air Museum is one of the oldest and largest in the world. Spread across 54 acres of land, the museum houses more than 40 farms, houses, and mills from the period between 1740-1950. The museum offers presentations on a daily basis nearly all year long.",
+      "letter": "A"
+     },
+     {
+      "text": "The Museum of Crafts: The mission of the Museum of Crafts is to enhance the appreciation and understanding of England’s past by presenting the culture, history, and lives of ordinary people through demonstration and exhibition and of the trades and crafts. The museum shop offers an excellent range of fun and educational gift items.",
+      "letter": "B"
+     },
+     {
+      "text": "Museum of Fine Arts: Organised by the MFA, this splendid exhibition proposes a new approach to understanding 18th-century Dutch painting. It includes 35 carefully selected, beautifully preserved portraits, landscapes, genre scenes, and seascapes borrowed from European private and public collections. The museum is open daily except for Sundays.",
+      "letter": "C"
+     },
+     {
+      "text": "The Museum of Technology: At MOT, the Museum of Technology, people of all ages can see and do amazing things every day. Ride in the only hydrogen car open to the public, witness what’s next in 3D Printing the Future. There are child-friendly options available, and families are always welcome.",
+      "letter": "D"
+     },
+     {
+      "text": "Museum of Arts and Design (MAD): The outstanding exhibition, Dutch Painting in the Age of Rembrandt, will be on view at the Museum of Arts and Design (MAD) until October 26. Anyone should make an effort to see this display of beautiful 17th-century art. The exhibition is open seven days a week.",
+      "letter": "E"
+     },
+     {
+      "text": "The National Railway Museum: Based on the site of the biggest passenger railway station in the world, the National Railway Museum truly is a museum for everybody. Kids, small and big, will be fascinated by the exhibitions, while the enormous collection of historic working machinery and vintage vehicles is fascinating.",
+      "letter": "F"
+     },
+     {
+      "text": "Middleport Pottery: Travel back in time and discover the history of Dutch pottery, including a fabulous collection of “Gouda plateel.” The top pieces of it are being exhibited in room 28. See items from Gouda on display and visit the museum shop and café.",
+      "letter": "G"
+     },
+     {
+      "text": "The Kroneberg Porcelain Museum: The Kroneberg Porcelain Museum exhibits examples of the well-known porcelain factory’s production from 1867-1983. You will find unique artwork from different periods and countless examples of household china. Our cafe is temporarily closed due to a gas leak.",
+      "letter": "H"
+     }
+    ],
+    "instruction": "The people below in 10–14 all want to visit a museum. Look at the descriptions of eight museums (A–H). Decide which museum would be most suitable for each person.",
+    "explanations": {
+     "q10": {
+      "text": "Cristina wants to see people making things and buy souvenirs. This museum offers demonstrations of trades and crafts, and has a shop for gifts. That's why the correct answer is B.",
+      "quote": ""
+     },
+     "q11": {
+      "text": "John needs a museum with Dutch paintings that is open on Sundays. This museum has an exhibition of 17th-century Dutch art and is open seven days a week. That's why the correct answer is E.",
+      "quote": ""
+     },
+     "q12": {
+      "text": "Alan wants to see modern inventions with his daughter. This museum focuses on technology and specifically states that it has child-friendly options available. That's why the correct answer is D.",
+      "quote": ""
+     },
+     "q13": {
+      "text": "Sandra is looking for a museum with historical ceramics and a place to eat lunch. This location exhibits Dutch pottery and has a café. That's why the correct answer is G.",
+      "quote": ""
+     },
+     "q14": {
+      "text": "Stephen wants an outdoor museum experience combined with a practical demonstration. This museum is set in the open air and offers daily presentations. That's why the correct answer is A.",
+      "quote": ""
+     }
+    },
+    "questionRange": "10-14",
+    "extraStatements": [
+     "C",
+     "F",
+     "H"
+    ],
+    "statementsFirst": false
+   },
+   {
+    "type": "matching-headings",
+    "title": "Part 3",
+    "answers": {
+     "15": [
+      "vi"
+     ],
+     "16": [
+      "viii"
+     ],
+     "17": [
+      "v"
+     ],
+     "18": [
+      "x"
+     ],
+     "19": [
+      "ii"
+     ],
+     "20": [
+      "i"
+     ],
+     "21": [
+      "iii"
+     ]
+    },
+    "passage": {
+     "title": "Beneficial Work Practices for the Keyboard Operator",
+     "paragraphs": [
+      {
+       "number": "A",
+       "content": "Sensible work practices are an important factor in the prevention of muscular fatigue; discomfort or pain in the arms, neck, hands or back; or eye strain which can be associated with constant or regular work at a keyboard and visual display unit (VDU).",
+       "questionId": 15
+      },
+      {
+       "number": "B",
+       "content": "It is vital that the employer pays attention to the physical setting such as workplace design, the office environment, and placement of monitors as well as the organisation of the work and individual work habits. Operators must be able to recognise work-related health problems and be given the opportunity to participate in the management of these. Operators should take note of and follow the preventive measures outlined below.",
+       "questionId": 16
+      },
+      {
+       "number": "C",
+       "content": "The typist must be comfortably accommodated in a chair that is adjustable for height with a back rest that is also easily adjustable both for angle and height. The back rest and sitting ledge (with a curved edge) should preferably be cloth-covered to avoid excessive perspiration.",
+       "questionId": 17
+      },
+      {
+       "number": "D",
+       "content": "When the keyboard operator is working from a paper file or manuscript, it should be at the same distance from the eyes as the screen. The most convenient position can be found by using some sort of holder. Individual arrangement will vary according to whether the operator spends more time looking at the VDU or the paper – whichever the eyes are focused on for the majority of time should be put directly in front of the operator.",
+       "questionId": 18
+      },
+      {
+       "number": "E",
+       "content": "While keying, it is advisable to have frequent but short pauses of around thirty to sixty seconds to proofread. When doing this, relax your hands. After you have been keying for sixty minutes, you should have a ten minute change of activity. During this spell it is important that you do not remain seated but stand up or walk around. This period could be profitably used to do filing or collect and deliver documents.",
+       "questionId": 19
+      },
+      {
+       "number": "F",
+       "content": "Generally, the best position for a VDU is at right angles to the window. If this is not possible then glare from the window can be controlled by blinds, curtains or movable screens. Keep the face of the VDU vertical to avoid glare from overhead lighting.",
+       "questionId": 20
+      },
+      {
+       "number": "G",
+       "content": "Unsatisfactory work practices or working conditions may result in aches or pain. Symptoms should be reported to your supervisor early on so that the cause of the trouble can be corrected and the operator should seek medical attention.",
+       "questionId": 21
+      }
+     ]
+    },
+    "headings": [
+     {
+      "text": "How can reflection problems be avoided?",
+      "letter": "i"
+     },
+     {
+      "text": "How long should I work without a break?",
+      "letter": "ii"
+     },
+     {
+      "text": "What if I experience any problems?",
+      "letter": "iii"
+     },
+     {
+      "text": "When is the best time to do filing chores?",
+      "letter": "iv"
+     },
+     {
+      "text": "What makes a good seat?",
+      "letter": "v"
+     },
+     {
+      "text": "What are the common health problems?",
+      "letter": "vi"
+     },
+     {
+      "text": "What is the best kind of lighting to have?",
+      "letter": "vii"
+     },
+     {
+      "text": "What are the roles of management and workers?",
+      "letter": "viii"
+     },
+     {
+      "text": "Why does a VDU create eye fatigue?",
+      "letter": "ix"
+     },
+     {
+      "text": "Where should I place the documents?",
+      "letter": "x"
+     }
+    ],
+    "questions": [
+     {
+      "id": 15,
+      "paragraphLetter": "A"
+     },
+     {
+      "id": 16,
+      "paragraphLetter": "B"
+     },
+     {
+      "id": 17,
+      "paragraphLetter": "C"
+     },
+     {
+      "id": 18,
+      "paragraphLetter": "D"
+     },
+     {
+      "id": 19,
+      "paragraphLetter": "E"
+     },
+     {
+      "id": 20,
+      "paragraphLetter": "F"
+     },
+     {
+      "id": 21,
+      "paragraphLetter": "G"
+     }
+    ],
+    "partNumber": 3,
+    "instruction": "Read the text and choose the correct heading for each paragraph from the list of headings below. There are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once.",
+    "explanations": {
+     "q15": {
+      "text": "This paragraph lists the physical issues that can arise from working with a VDU, such as fatigue, pain, and eye strain. These are all examples of work-related health problems, which is why the correct answer is vi.",
+      "quote": "Sensible work practices are an important factor in the prevention of muscular fatigue; discomfort or pain in the arms, neck, hands or back; or eye strain which can be associated with constant or regular work at a keyboard and visual display unit (VDU)."
+     },
+     "q16": {
+      "text": "This section outlines the responsibilities of both the employer (management) and the operators (workers) in preventing health issues. It details what each party should do, which is why the correct answer is viii.",
+      "quote": "It is vital that the employer pays attention to the physical setting such as workplace design, the office environment, and placement of monitors as well as the organisation of the work and individual work habits."
+     },
+     "q17": {
+      "text": "This paragraph describes the ideal features of a chair for a typist, including an adjustable height and backrest, a curved edge, and cloth covering. This details what makes a good seat, so the correct answer is v.",
+      "quote": "The typist must be comfortably accommodated in a chair that is adjustable for height with a back rest that is also easily adjustable both for angle and height."
+     },
+     "q18": {
+      "text": "This section advises on the best placement for paper files or manuscripts, stating they should be at the same distance from the eyes as the screen. This answers the question about document placement, so the correct answer is x.",
+      "quote": "When the keyboard operator is working from a paper file or manuscript, it should be at the same distance from the eyes as the screen."
+     },
+     "q19": {
+      "text": "This paragraph gives specific advice on work duration and breaks, recommending short pauses while keying and a ten-minute break after sixty minutes of work. This answers the question about work duration, so the correct answer is ii.",
+      "quote": "After you have been keying for sixty minutes, you should have a ten minute change of activity."
+     },
+     "q20": {
+      "text": "This section focuses on avoiding glare, which is a reflection problem, from windows and overhead lights. It suggests solutions like positioning the VDU and using blinds, which is why the correct answer is i.",
+      "quote": "If this is not possible then glare from the window can be controlled by blinds, curtains or movable screens."
+     },
+     "q21": {
+      "text": "This paragraph explains what to do if you experience aches or pain, which are problems. It advises reporting symptoms to a supervisor and seeking medical help, which is why the correct answer is iii.",
+      "quote": "Symptoms should be reported to your supervisor early on so that the cause of the trouble can be corrected and the operator should seek medical attention."
+     }
+    },
+    "extraHeadings": [
+     "iv",
+     "vii",
+     "ix"
+    ],
+    "questionRange": "15-21"
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 4",
+    "answers": {
+     "22": [
+      "True"
+     ],
+     "23": [
+      "True"
+     ],
+     "24": [
+      "Not Given"
+     ],
+     "25": [
+      "False"
+     ],
+     "26": [
+      "False"
+     ],
+     "27": [
+      "D"
+     ],
+     "28": [
+      "A"
+     ],
+     "29": [
+      "B"
+     ],
+     "30": [
+      "C"
+     ]
+    },
+    "passage": {
+     "title": "The Potential to Sniff Out Disease",
+     "content": "<p><em>The fact diseases have a smell comes as no surprise – but finding someone or something that can detect them at an early stage could hold huge potential for medicine.</em></p><p>Breath, bodily odours and urine are all amazingly revealing about general health. Even the humble cold can give off an odour, thanks to the thick bacteria-ridden mucus that ends up in the back of the throat. The signs are not apparent to everyone – but some super-smellers are very sensitive to the odours. Joy Milne, for example, noticed her husband’s smell had changed shortly before he was diagnosed with Parkinson’s disease.</p><p>Humans can detect nearly 10,000 different smells. Formed by chemicals in the air, they are absorbed by little hairs, made of extremely sensitive nerve fibres, hanging from the nose’s olfactory receptors. And the human sense of smell is 10,000 times more sensitive than the sense of taste. But dogs, as the old joke might have had it, smell even better.</p><p>Their ability to detect four times as many odours as humans makes them a potential early warning system for a range of diseases. Research suggesting dogs could sniff out cancers, for example, was first published about 10 years ago. And there have been many tales of dogs repeatedly sniffing an area of their owner’s body, only for it to turn out to be hiding a tumour.</p><p>What they are smelling are the “volatile molecules” given off by cells when they become cancerous. Some studies suggest dogs can be 93% accurate. Others suggest they can detect very small tumours before clinical tests can. And yet more studies have produced mixed results.</p><p><em>Does cancer smell?</em></p><p>At Milton Keynes University Hospital, a small team has recently begun to collect human urine samples to test dogs’ ability to detect the smell of prostate cancer. The patients had symptoms such as difficulty urinating or a change in flow, which could turn out to be prostate, bladder or liver cancer.</p><p>Rowena Fletcher, head of research and development at the hospital, says the role of the dogs – which have been trained by Medical Detection Dogs – is to pick out samples that smell of cancer. Further down the line, a clinical test will show if the dogs’ diagnosis is correct. She says the potential for using dogs in this way is far-reaching – even if it is not practical to have a dog in every surgery.</p><p>“We hope one day that there could be an electronic machine on every GP’s desk which could test a urine sample for diseases by smelling it,” she says. “But first we need to pick up the pattern of what the dogs are smelling.”</p><p>And that’s the key. Dogs can’t tell us what their noses are detecting, but scientists believe that different cancers could produce different smells, although some might also be very similar.</p><p><em>Electronic noses</em></p><p>Lab tests to understand what these highly-trained dogs are smelling could then inform the development of ‘electronic noses’ to detect the same molecules. These might then give rise to better diagnostic tests in the future. The potential for using smell to test for a wide range of diseases is huge, Ms Fletcher says.</p><p>Bacteria, cancers and chronic diseases could all have their own odour – which may be imperceptible to only the most sensitive humans, but obvious to dogs. It may be possible in the future to use disease odours as the basis for a national screening programme or to test everybody at risk of a certain cancer in a particular age group.</p><p>However, there are fewer than 20 dogs in the UK trained to detect cancer at present. Training more will take more funding and time. On the positive side, all dogs are eligible to be trained provided they are keen on searching and hunting. Whatever their breed or size, it’s our four-legged friend’s astounding sense of smell which could unlock a whole new way of detecting human diseases.</p>"
+    },
+    "partNumber": 4,
+    "instruction": "Read the following text for questions 22–30.",
+    "explanations": {
+     "q22": {
+      "text": "The passage explicitly states that even a common illness like a cold can produce a distinct odour due to the bacteria-filled mucus it creates. That's why the correct answer is True.",
+      "quote": "Even the humble cold can give off an odour, thanks to the thick bacteria-ridden mucus that ends up in the back of the throat."
+     },
+     "q23": {
+      "text": "The text makes a direct comparison between the human senses of smell and taste. It states that smell is 10,000 times more sensitive than taste. That's why the correct answer is True.",
+      "quote": "And the human sense of smell is 10,000 times more sensitive than the sense of taste."
+     },
+     "q24": {
+      "text": "The passage discusses the smelling abilities of dogs in detail, but it never mentions cats at all. Therefore, there is no information in the text to confirm or deny the statement. That's why the correct answer is Not Given.",
+      "quote": ""
+     },
+     "q25": {
+      "text": "The passage states that scientists believe different cancers produce different smells. While some may be similar, the core idea presented is that the smells are distinct, not the same. That's why the correct answer is False.",
+      "quote": ""
+     },
+     "q26": {
+      "text": "The passage gives a specific number for trained cancer-detecting dogs in the UK. It says there are 'fewer than 20,' which directly contradicts the statement 'more than 20'. That's why the correct answer is False.",
+      "quote": "However, there are fewer than 20 dogs in the UK trained to detect cancer at present."
+     },
+     "q27": {
+      "text": "The text mentions several studies with varying conclusions. It states some found high accuracy, others found early detection, and 'more studies have produced mixed results'. That's why the correct answer is D.",
+      "quote": "And yet more studies have produced mixed results."
+     },
+     "q28": {
+      "text": "The passage describes a specific hospital study where researchers are testing dogs' abilities. It clearly states that the team has begun to 'collect human urine samples' for the dogs to smell. That's why the correct answer is A.",
+      "quote": "At Milton Keynes University Hospital, a small team has recently begun to collect human urine samples to test dogs’ ability to detect the smell of prostate cancer."
+     },
+     "q29": {
+      "text": "The text explains that an 'electronic nose' would be a machine developed to smell and test samples for diseases, potentially for a doctor's office. This describes a diagnostic gadget. That's why the correct answer is B.",
+      "quote": ""
+     },
+     "q30": {
+      "text": "The article's central theme is the medical potential of detecting diseases through smell, covering humans, dogs, and future technology. It emphasizes the broad importance of this diagnostic method. That's why the correct answer is C.",
+      "quote": "The potential for using smell to test for a wide range of diseases is huge, Ms Fletcher says."
+     }
+    },
+    "questionRange": "22-30",
+    "questionSections": [
+     {
+      "type": "tfni",
+      "title": "Questions 22–26: True/False/Not Given",
+      "options": [
+       "True",
+       "False",
+       "Not Given"
+      ],
+      "questions": [
+       {
+        "id": 22,
+        "text": "You can have a specific smell even due to simple cold."
+       },
+       {
+        "id": 23,
+        "text": "Human sense of taste is 10,000 less sensitive than human sense of smell."
+       },
+       {
+        "id": 24,
+        "text": "Dogs and cats can sniff out different diseases."
+       },
+       {
+        "id": 25,
+        "text": "Doctors believe that different cancers might have the same specific smell."
+       },
+       {
+        "id": 26,
+        "text": "There are more than 20 dogs in the UK trained to detect cancer."
+       }
+      ],
+      "instruction": "Do the following statements agree with the information in the reading text? Write TRUE if the statement agrees with the information, FALSE if the statement contradicts the information, NOT GIVEN if there is no information on this.",
+      "questionRange": "22-26"
+     },
+     {
+      "type": "mcq",
+      "title": "Questions 27–30: Multiple Choice",
+      "questions": [
+       {
+        "id": 27,
+        "text": "All the studies suggest that dogs:",
+        "options": [
+         {
+          "text": "Can be 93% accurate",
+          "letter": "A"
+         },
+         {
+          "text": "Can detect very small tumours",
+          "letter": "B"
+         },
+         {
+          "text": "Can’t detect tumours at all",
+          "letter": "C"
+         },
+         {
+          "text": "Different studies have shown different results",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 28,
+        "text": "What scientists give dogs to detect cancer?",
+        "options": [
+         {
+          "text": "Urine samples",
+          "letter": "A"
+         },
+         {
+          "text": "Bacterias",
+          "letter": "B"
+         },
+         {
+          "text": "Different odours",
+          "letter": "C"
+         },
+         {
+          "text": "Nothing",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 29,
+        "text": "What’s an electronic nose?",
+        "options": [
+         {
+          "text": "A specific tool for dogs",
+          "letter": "A"
+         },
+         {
+          "text": "A gadget to diagnose diseases",
+          "letter": "B"
+         },
+         {
+          "text": "A recovery tool for ill patients",
+          "letter": "C"
+         },
+         {
+          "text": "An artificial nose",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 30,
+        "text": "The main objective of this passage is to:",
+        "options": [
+         {
+          "text": "Bring awareness to the cancer problem",
+          "letter": "A"
+         },
+         {
+          "text": "Show us how good dogs are at detecting cancer",
+          "letter": "B"
+         },
+         {
+          "text": "Show us how important it can be to be able to diagnose a disease by an odour",
+          "letter": "C"
+         },
+         {
+          "text": "Tell us about new technologies",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "Choose the correct letter, A, B, C or D. Write the correct letter in boxes 27–30 on your answer sheet.",
+      "questionRange": "27-30"
+     }
+    ]
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 5",
+    "answers": {
+     "31": [
+      "most local residents"
+     ],
+     "32": [
+      "commercial district"
+     ],
+     "33": [
+      "amphoras"
+     ],
+     "34": [
+      "field season"
+     ],
+     "35": [
+      "scholars"
+     ]
+    },
+    "passage": {
+     "title": "Trash Talk — Sorting through a mountain of pottery to track the Roman oil trade",
+     "content": "<p><strong>A.</strong> In the middle of Rome’s trendiest neighborhood, surrounded by sushi restaurants and nightclubs with names like Rodeo Steakhouse and Love Story, sits the ancient world’s biggest garbage dump—a 150-foot-tall mountain of discarded Roman amphoras, the shipping drums of the ancient world. It takes about 20 minutes to walk around Monte Testaccio, from the Latin <em>testa</em> and Italian <em>cocci</em>, both meaning “potsherd.” But despite its size—almost a mile in circumference—it’s easy to walk by and not really notice unless you are headed for some excellent pizza at Velavevodetto, a restaurant literally stuck into the mountain’s side. Most local residents don’t know what’s underneath the grass, dust, and scattering of trees. Monte Testaccio looks like a big hill, and in Rome people are accustomed to hills.</p><p><strong>B.</strong> Monte Testaccio stands near the Tiber River in what was ancient Rome’s commercial district. Many types of imported foodstuffs, including oil, were brought into the city and then stored for later distribution in the large warehouses that lined the river. So, professor, just how many amphoras are there?” I ask José Remesal of the University of Barcelona, co-director of the Monte Testaccio excavations. It’s the same question that must occur to everyone who visits the site when they realize that the crunching sounds their footfalls make are not from walking on fallen leaves, but on pieces of amphoras. (Don’t worry, even the small pieces are very sturdy.) Remesal replies in his deep baritone, “Something like 25 million complete ones. Of course, it’s difficult to be exact,” he adds with a typical Mediterranean shrug. I, for one, find it hard to believe that the whole mountain is made of amphoras without any soil or rubble. Seeing the incredulous look on my face as I peer down into a 10-foot-deep trench, Remesal says, “Yes, it’s really only amphoras.” I can’t imagine another site in the world where archaeologists find so much—about a ton of pottery every day. On most Mediterranean excavations, pottery washing is an activity reserved for blisteringly hot afternoons when digging is impossible. Here, it is the only activity for most of Remesal’s team, an international group of specialists and students from Spain and the United States. During each year’s two-week field season, they wash and sort thousands of amphoras handles, bodies, shoulders, necks, and tops, counting and cataloguing, and always looking for stamped names, painted names, and numbers that tell each amphora’s story.</p><p><strong>C.</strong> Although scholars worked at Monte Testaccio beginning in the late 19th century, it’s only within the past 30 years that they have embraced the role amphoras can play in understanding the nature of the Roman imperial economy. According to Remesal, the main challenge archaeologists and economic historians face is the lack of “serial documentation,” that is, documents for consecutive years that reflect a true chronology. This is what makes Monte Testaccio a unique record of Roman commerce and provides a vast amount of datable evidence in a clear and unambiguous sequence. “There’s no other place where you can study economic history, food production and distribution, and how the state controlled the transport of a product,” Remesal says. “It’s really remarkable.”</p>"
+    },
+    "partNumber": 5,
+    "instruction": "Read the text below and answer Questions 31–35.",
+    "explanations": {
+     "q31": {
+      "text": "The passage states that the people living in the area are not aware of what the hill is actually made of. That's why the correct answer is 'most local residents'.",
+      "quote": "Most local residents don’t know what’s underneath the grass, dust, and scattering of trees."
+     },
+     "q32": {
+      "text": "The text explicitly identifies the location of Monte Testaccio within ancient Rome as the area for business and trade. That's why the correct answer is 'commercial district'.",
+      "quote": "Monte Testaccio stands near the Tiber River in what was ancient Rome’s commercial district."
+     },
+     "q33": {
+      "text": "The narrator finds it hard to believe the mountain is made only of pottery, but Professor Remesal confirms it is. That's why the correct answer is 'amphoras'.",
+      "quote": "Seeing the incredulous look on my face as I peer down into a 10-foot-deep trench, Remesal says, “Yes, it’s really only amphoras.”"
+     },
+     "q34": {
+      "text": "The passage describes the specific two-week period each year when the archaeological team works at the site sorting pottery. That's why the correct answer is 'field season'.",
+      "quote": ""
+     },
+     "q35": {
+      "text": "The passage mentions that academic experts began studying the site in the late 1800s, even though modern understanding has evolved more recently. That's why the correct answer is 'scholars'.",
+      "quote": ""
+     }
+    },
+    "questionRange": "31-35",
+    "questionSections": [
+     {
+      "type": "gap-fill",
+      "title": "Questions 31–35: Sentence Completion",
+      "questions": [
+       {
+        "id": 31,
+        "hint": "It is unknown for _____"
+       },
+       {
+        "id": 32,
+        "hint": "ancient Rome’s _____"
+       },
+       {
+        "id": 33,
+        "hint": "whole mountain is made of _____"
+       },
+       {
+        "id": 34,
+        "hint": "each year’s two-week _____"
+       },
+       {
+        "id": 35,
+        "hint": "_____ started working at Monte Testaccio"
+       }
+      ],
+      "instruction": "Complete the sentences below. Write NO MORE THAN THREE WORDS from the passage for each answer.",
+      "summaryText": "It is unknown for <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span> what’s underneath the grass, dust, and scattering of trees.<br>Monte Testaccio stands near the ancient Rome’s <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span>.<br>Remesal doesn’t believe that the whole mountain is made of <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span> without any soil or rubble.<br>Remesal’s team washes and sorts thousands of amphoras each year’s two-week <span class=\"gap-input\" data-gap=\"34\">_____(34)_____</span>.<br><span class=\"gap-input\" data-gap=\"35\">_____(35)_____</span> started working at Monte Testaccio in the late 19th century.",
+      "summaryTitle": "Questions 31–35: Sentence Completion",
+      "questionRange": "31-35"
+     }
+    ]
+   }
+  ],
+  "examDate": "2025-12-29",
+  "testInfo": {
+   "level": "B1-B2-C1",
+   "parts": 5,
+   "title": "CEFR B1-B2-C1 Reading Test 21",
+   "totalTime": 60,
+   "totalQuestions": 35
+  }
+ },
+ "created_at": "2026-05-12T16:21:40.708366+00:00",
+ "updated_at": "2026-10-11T10:31:33.381435+00:00"
+}

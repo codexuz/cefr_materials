@@ -1,0 +1,452 @@
+{
+ "id": 2273,
+ "mock_type": "ket-listening",
+ "mock_number": 11,
+ "title": "KET Listening — Test 11",
+ "status": "published",
+ "mock_data": {
+  "audio": {
+   "base": "https://audio.mock-stream.com/KET-Listening/test11/",
+   "files": {
+    "1": "PART1.m4a",
+    "2": "PART2.m4a",
+    "3": "PART3.m4a",
+    "4": "PART4.m4a",
+    "5": "PART5.m4a"
+   }
+  },
+  "parts": [
+   {
+    "type": "picture-mcq",
+    "items": [
+     {
+      "id": 1,
+      "answer": "A",
+      "options": [
+       {
+        "text": "June",
+        "letter": "A"
+       },
+       {
+        "text": "July",
+        "letter": "B"
+       },
+       {
+        "text": "September",
+        "letter": "C"
+       }
+      ],
+      "question": "When will they go on holiday?"
+     },
+     {
+      "id": 2,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q2A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q2B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q2C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "How is Patti going to travel?"
+     },
+     {
+      "id": 3,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q3A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q3B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q3C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What will Sam do?"
+     },
+     {
+      "id": 4,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q4A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q4B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q4C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What was the weather like in Portugal?"
+     },
+     {
+      "id": 5,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q5A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q5B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q5C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What has the girl broken?"
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "image": "q0A.png",
+       "letter": "A"
+      },
+      {
+       "image": "q0B.png",
+       "letter": "B"
+      },
+      {
+       "image": "q0C.png",
+       "letter": "C"
+      }
+     ],
+     "question": "How many people were at the meeting?"
+    },
+    "imageBase": "https://audio.mock-stream.com/KET-Listening/test11/p1/",
+    "partNumber": 1,
+    "instruction": [
+     "You will hear five short conversations.",
+     "You will hear each conversation twice.",
+     "There is one question for each conversation.",
+     "For questions 1–5, put a tick (✓) under the right answer."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "matching-list",
+    "items": [
+     {
+      "id": 6,
+      "name": "Martin",
+      "answer": "E"
+     },
+     {
+      "id": 7,
+      "name": "Joanna",
+      "answer": "G"
+     },
+     {
+      "id": 8,
+      "name": "Amy",
+      "answer": "B"
+     },
+     {
+      "id": 9,
+      "name": "James",
+      "answer": "C"
+     },
+     {
+      "id": 10,
+      "name": "Robert",
+      "answer": "H"
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "name": "Peter",
+     "answer": "D",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "coat",
+      "letter": "A"
+     },
+     {
+      "text": "dress",
+      "letter": "B"
+     },
+     {
+      "text": "hat",
+      "letter": "C"
+     },
+     {
+      "text": "jacket",
+      "letter": "D"
+     },
+     {
+      "text": "jeans",
+      "letter": "E"
+     },
+     {
+      "text": "shirt",
+      "letter": "F"
+     },
+     {
+      "text": "sweater",
+      "letter": "G"
+     },
+     {
+      "text": "t-shirt",
+      "letter": "H"
+     }
+    ],
+    "scenario": "Patrick talking to his mother about a photo — what each person is wearing",
+    "leftLabel": "PEOPLE",
+    "partNumber": 2,
+    "rightLabel": "THEIR CLOTHES",
+    "instruction": [
+     "Listen to Patrick talking to his mother about a photo of his old school friends.",
+     "What is each person wearing?",
+     "For questions 6–10, write a letter A–H next to each person.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-conversation",
+    "items": [
+     {
+      "id": 11,
+      "stem": "The show begins at",
+      "answer": "B",
+      "options": [
+       {
+        "text": "1.15.",
+        "letter": "A"
+       },
+       {
+        "text": "2.00.",
+        "letter": "B"
+       },
+       {
+        "text": "3.30.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "stem": "A child's ticket costs",
+      "answer": "B",
+      "options": [
+       {
+        "text": "25p.",
+        "letter": "A"
+       },
+       {
+        "text": "75p.",
+        "letter": "B"
+       },
+       {
+        "text": "£1.50.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "stem": "The holiday reading course is for",
+      "answer": "B",
+      "options": [
+       {
+        "text": "4 weeks.",
+        "letter": "A"
+       },
+       {
+        "text": "6 weeks.",
+        "letter": "B"
+       },
+       {
+        "text": "10 weeks.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "stem": "This year from the library, children can win",
+      "answer": "A",
+      "options": [
+       {
+        "text": "a pen.",
+        "letter": "A"
+       },
+       {
+        "text": "a school bag.",
+        "letter": "B"
+       },
+       {
+        "text": "a book.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "stem": "Jenny should meet Mark again",
+      "answer": "C",
+      "options": [
+       {
+        "text": "next week.",
+        "letter": "A"
+       },
+       {
+        "text": "tomorrow.",
+        "letter": "B"
+       },
+       {
+        "text": "today.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "stem": "The children's show is at",
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "text": "the theatre.",
+       "letter": "A"
+      },
+      {
+       "text": "the shopping centre.",
+       "letter": "B"
+      },
+      {
+       "text": "the library.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partNumber": 3,
+    "instruction": [
+     "Listen to Jenny asking Mark about school holiday activities.",
+     "For questions 11–15, tick (✓) A, B or C.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "rows": [
+     {
+      "id": 16,
+      "label": "Day:",
+      "answer": "Wednesday"
+     },
+     {
+      "id": 17,
+      "label": "Starting time:",
+      "answer": "7.30"
+     },
+     {
+      "id": 18,
+      "label": "Price of each lesson:",
+      "answer": "20",
+      "prefix": "£"
+     },
+     {
+      "id": 19,
+      "label": "Teacher's name:",
+      "answer": "Capel",
+      "prefix": "Mrs"
+     },
+     {
+      "id": 20,
+      "label": "Room number:",
+      "answer": "328"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 4",
+    "subtitle": "Class: Beginners",
+    "noteTitle": "GUITAR LESSONS FOR JUDY",
+    "partNumber": 4,
+    "instruction": [
+     "You will hear Judy asking about music lessons.",
+     "Listen and complete questions 16–20.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "rows": [
+     {
+      "id": 21,
+      "label": "Visit:",
+      "answer": "film museum"
+     },
+     {
+      "id": 22,
+      "label": "Leave at:",
+      "answer": "8.45"
+     },
+     {
+      "id": 23,
+      "label": "Meet in:",
+      "answer": "car park"
+     },
+     {
+      "id": 24,
+      "label": "Cost:",
+      "answer": "6.70",
+      "prefix": "£"
+     },
+     {
+      "id": 25,
+      "label": "Bring:",
+      "answer": "pencils"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 5",
+    "subtitle": "Day: Saturday",
+    "noteTitle": "SCHOOL TRIP",
+    "partNumber": 5,
+    "instruction": [
+     "You will hear a teacher talking about a school trip.",
+     "Listen and complete questions 21–25.",
+     "You will hear the information twice."
+    ],
+    "questionsLabel": "QUESTIONS 21–25"
+   }
+  ],
+  "testInfo": {
+   "id": "ket-l-11",
+   "level": "A2",
+   "paper": "Paper 2",
+   "parts": 5,
+   "title": "KET Listening — Test 11",
+   "totalTime": 30,
+   "totalQuestions": 25
+  }
+ },
+ "created_at": "2026-10-14T06:45:23.823243+00:00",
+ "updated_at": "2026-10-14T06:47:10.01774+00:00"
+}

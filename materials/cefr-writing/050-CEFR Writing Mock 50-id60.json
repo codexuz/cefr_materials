@@ -1,0 +1,593 @@
+{
+ "id": 60,
+ "mock_type": "cefr-writing",
+ "mock_number": 50,
+ "title": "CEFR Writing Mock 50",
+ "status": "published",
+ "mock_data": {
+  "part1": {
+   "chip": "entertainment",
+   "topic": "Photography academy"
+  },
+  "tasks": {
+   "t2": {
+    "chip": "",
+    "genre": "forum",
+    "title": "Students have part-time jobs while studying",
+    "prompt": "You are participating in an online discussion forum. The topic is: \"Should students have part-time jobs while studying?\" Write your response, giving reasons and examples. Write 180–200 words.",
+    "sample": "<p>What a great discussion! As someone who's been learning <span class=\"ml-token colloc\">photography</span>, I have strong views on this.</p>\n\n<p><span class=\"ml-token adv\">Undoubtedly</span>, <span class=\"ml-token colloc\">skill</span> matters far more than equipment. A <span class=\"ml-token colloc\">skilled photographer</span> with a smartphone <span class=\"ml-token modal\">can</span> capture better images than a beginner with a $5,000 camera.</p>\n\n<p><span class=\"ml-token adv\">Firstly</span>, photography is about <span class=\"ml-token colloc\">understanding light</span>, composition, and timing. These are <span class=\"ml-token colloc\">learned skills</span>, not something you <span class=\"ml-token modal\">can</span> buy.</p>\n\n<p><span class=\"ml-token adv\">Moreover</span>, <span class=\"ml-token colloc\">constraints</span> <span class=\"ml-token modal\">can</span> actually boost <span class=\"ml-token colloc\">creativity</span>. Working with limited equipment forces you to think more creatively about <span class=\"ml-token colloc\">problem-solving</span>.</p>\n\n<p><span class=\"ml-token adv\">However</span>, equipment <span class=\"ml-token adv\">does</span> matter at advanced levels. Professional work often requires <span class=\"ml-token colloc\">specialized gear</span> for specific situations.</p>\n\n<p><span class=\"ml-token adv\">Additionally</span>, better equipment <span class=\"ml-token modal\">can</span> make the learning process easier and more enjoyable.</p>\n\n<p>My advice: <span class=\"ml-token colloc\">master the basics</span> with whatever you have before investing in expensive gear. The camera doesn't take the photo – you do!</p>\n\n<p>What equipment do you use?</p>",
+    "target": "180–200 words",
+    "sampleA1": "<p>Hi!<br>The class is good. I like photos. Teacher is nice. Bye!</p>",
+    "sampleA2": "<p>Hello,<br>I like the photography workshop. It was good. The teacher was good and the practical was fun. But the cameras were not very good. I want to learn about taking photos of animals next time. Thank you.</p>",
+    "sampleB1": "<p>Hi,<br>I really enjoyed the photography workshop! I thought the teaching was good, and the practical sessions were very helpful. However, some of the equipment wasn't great. A few of the cameras didn't work properly. I think it would be good to have some newer cameras next time.<br><br>In the future, I'd like to learn more about portrait photography. I'm also interested in learning about how to edit photos using software like Photoshop. Overall, it was a great workshop, and I learned a lot. Thanks!</p>",
+    "sampleB2": "Great topic — this is something I've thought about a lot!\nIn my opinion, students should definitely <span class=\"ml-token phrasal\">take on</span> a part-time job while studying, as long as they don't <span class=\"ml-token phrasal\">overdo it</span>. Working a few hours a week teaches you skills that you simply can't <span class=\"ml-token phrasal\">pick up</span> in a classroom, like managing your time and dealing with all sorts of people.\n<span class=\"ml-token linking\">On top of that</span>, having your own money makes a huge difference. Instead of relying on your parents for everything, you learn to budget and <span class=\"ml-token idiom\">stand on your own two feet</span>. My cousin, for example, worked in a café during university and it really boosted her confidence.\nThat said, there is a limit. If a job starts <span class=\"ml-token phrasal\">eating into</span> your study time, your grades <span class=\"ml-token modal\">are bound to</span> suffer, and that defeats the whole point of being at university.\n<span class=\"ml-token idiom\">At the end of the day</span>, it comes down to balance. A part-time job can be a brilliant experience, but studies have to come first.\nWhat do you all think? Has anyone here <span class=\"ml-token colloc\">juggled work and studying</span>? I'd love to hear your stories!",
+    "uzSample": "<p>Qanday ajoyib muhokama! Fotografiyani o'rganayotgan odam sifatida, bu borada mening qat'iy fikrlarim bor.</p>\n\n<p>Shubhasiz, mahorat uskunadan ko'ra ancha muhim. Smartfonga ega bo'lgan mahoratli fotograf 5000 dollarlik kameraga ega bo'lgan yangi boshlovchiga qaraganda yaxshiroq suratga olishi mumkin.</p>\n\n<p>Birinchidan, fotografiya yorug'likni, kompozitsiyani va vaqtni tushunish haqida. Bular sotib olish mumkin bo'lgan narsa emas, balki o'rganilgan ko'nikmalardir.</p>\n\n<p>Bundan tashqari, cheklovlar aslida ijodkorlikni oshirishi mumkin. Cheklangan uskunalar bilan ishlash sizni muammolarni hal qilish haqida ko'proq ijodiy fikrlashga majbur qiladi.</p>\n\n<p>Biroq, uskunalar ilg'or darajalarda ahamiyatga ega. Professional ish ko'pincha muayyan vaziyatlar uchun maxsus jihozlarni talab qiladi.</p>\n\n<p>Bundan tashqari, yaxshiroq uskunalar o'rganish jarayonini osonroq va qiziqarliroq qilishi mumkin.</p>\n\n<p>Mening maslahatim: qimmatbaho jihozlarga sarmoya kiritishdan oldin, qo'lingizda bor narsa bilan asoslarni o'zlashtiring. Suratni kamera emas, siz olasiz!</p>\n\n<p>Siz qanday uskunadan foydalanasiz?</p>",
+    "uzSampleA1": "<p>Salom!<br>Sinf yaxshi. Menga rasmlar yoqadi. O'qituvchi yaxshi. Xayr!</p>",
+    "uzSampleA2": "<p>Salom,<br>Menga fotosurat ustaxonasi yoqdi. Yaxshi bo'ldi. O'qituvchi yaxshi edi va amaliy mashg'ulot qiziqarli bo'ldi. Lekin kameralar juda yaxshi emas edi. Keyingi safar hayvonlarning suratlarini olishni o'rganmoqchiman. Rahmat.</p>",
+    "uzSampleB1": "<p>Salom,<br>Fotografiya bo'yicha seminar menga juda yoqdi! O'qitish yaxshi deb o'yladim va amaliy mashg'ulotlar juda foydali bo'ldi. Biroq, ba'zi uskunalar unchalik yaxshi emas edi. Bir nechta kameralar yaxshi ishlamadi. O'ylashimcha, keyingi safar yangiroq kameralar bo'lishi yaxshi bo'lardi.<br><br>Kelajakda men portret fotografiyasi haqida ko'proq bilishni xohlayman. Shuningdek, Photoshop kabi dasturlar yordamida fotosuratlarni qanday tahrirlashni o'rganishga qiziqaman. Umuman olganda, bu ajoyib seminar bo'ldi va men ko'p narsalarni o'rgandim. Rahmat!</p>",
+    "uzSampleB2": "<p>Hurmatli Creative Lens Academy,<br><br>Yaxshi tuzilgan va qiziqarli fotosuratlar bo'yicha seminar uchun rahmat. O'qitish sifati umuman yuqori ekanligini aniqladim, o'qituvchi mavzuga aniq ishtiyoq ko'rsatdi. Amaliy mashg'ulotlar bebaho bo'lib, nazariy tushunchalarni mustahkamlagan amaliy tajriba berdi. Biroq, taqdim etilgan uskunalar har xil edi. Ba'zi kameralar a'lo holatda bo'lsa, boshqalari aniq eskirgan va ta'mirlash yoki almashtirishga muhtoj edi. Bu nomutanosiblik umumiy tajribani biroz buzdi.<br><br>Kelajakdagi seminarlarga kelsak, men ayniqsa kompozitsiyaning ilg'or usullariga qaratilgan kursga qiziqardim, ehtimol mavhum fotosurat yoki uzoq muddatli ekspozitsiya usullarini o'rganish. Bundan tashqari, fotosuratning axloqiy jihatlariga, ayniqsa ko'cha fotosurati va fotojurnalistikada bag'ishlangan sessiya qimmatli qo'shimcha bo'ladi. Yana bir bor rag'batlantiruvchi dam olish kunlari uchun rahmat.</p>"
+   },
+   "t11": {
+    "title": "informal letter · to friend",
+    "prompt": "Write a letter to your friend, who is interested in photography. Write about your feelings and what you think they should do.",
+    "sample": "Hey!\n\nI <span class=\"ml-token adv\">just</span> did an <span class=\"ml-token adv\">amazing</span> <span class=\"ml-token colloc\">photography workshop</span>! Learned so much about <span class=\"ml-token colloc\">composition</span> and <span class=\"ml-token colloc\">lighting</span>. My photos have <span class=\"ml-token adv\">already</span> improved! The instructor was <span class=\"ml-token adv\">really</span> helpful.\n\nYou'd <span class=\"ml-token adv\">absolutely</span> love it! <span class=\"ml-token modal\">Should</span> I send you the link?",
+    "target": "50 words",
+    "sampleA1": "<p>Hi Zarina,<br>Photo class good. I like it. Teacher good. Photos fun. You go!<br>Bye.</p>",
+    "sampleA2": "<p>Hi Zarina,<br>I went to a photo class. It was good and I liked it. The teacher was nice and I learned some things. You like photos, so maybe you can go too. It is fun! But it is not cheap.<br>See you later,</p>",
+    "sampleB1": "<p>Hi Zarina,<br>I wanted to tell you about the photography workshop I went to. It was really interesting! The teaching was good, and I learned a lot about taking better photos. I think you would enjoy it because you like photography too.<br>In my opinion, you should try to find a similar workshop. It's a good way to improve your skills. Let me know what you think!<br>Best,<br>Malika Umarova</p>",
+    "sampleB2": "Hey Zarina,\nI've <span class=\"ml-token phrasal\">just got back</span> from a weekend photography workshop and I'm <span class=\"ml-token idiom\">still buzzing</span>! I <span class=\"ml-token phrasal\">picked up</span> so much about lighting and composition. Honestly, you'd love it — it's <span class=\"ml-token idiom\">right up your street</span>. You should <span class=\"ml-token phrasal\">sign up</span> for the next one. I'll <span class=\"ml-token colloc\">send you the link</span>!\nLove,\nMalika Umarova",
+    "uzSample": "<p>Salom!</p>\n<p>Men yaqinda ajoyib fotosuratlar bo'yicha seminar o'tkazdim! Kompozitsiya va yorug'lik haqida juda ko'p narsalarni o'rgandim. Mening suratlarim allaqachon yaxshilandi! O'qituvchi juda foydali edi.</p>\n<p>Sizga bu juda yoqadi! Sizga havola yuboraymi?</p>",
+    "uzSampleA1": "<p>Salom Zarina,<br>Foto dars yaxshi. Menga yoqadi. O'qituvchi yaxshi. Suratlar qiziqarli. Sen bor!<br>Xayr.</p>",
+    "uzSampleA2": "<p>Salom Zarina,<br>Men fotosurat darsiga bordim. Yaxshi bo'ldi va menga yoqdi. O'qituvchi yaxshi edi va men ba'zi narsalarni o'rgandim. Senga fotosuratlar yoqadi, shuning uchun balki sen ham borishing mumkin. Bu qiziqarli! Lekin arzon emas.<br>Keyinroq ko'rishguncha,</p>",
+    "uzSampleB1": "<p>Salom Zarina,<br>Men sizga o'zim borgan fotosurat ustaxonasi haqida aytib bermoqchiman. U juda qiziqarli edi! O'qitish yaxshi edi va men yaxshiroq suratga olish haqida ko'p narsalarni o'rgandim. Menimcha, sizga ham yoqadi, chunki siz ham fotosuratni yaxshi ko'rasiz.<br>Mening fikrimcha, siz ham shunga o'xshash ustaxonani topishga harakat qilishingiz kerak. Bu sizning mahoratingizni oshirishning yaxshi usuli. Fikringizni menga bildiring!<br>Eng yaxshi tilaklar bilan,<br>Malika Umarova</p>",
+    "uzSampleB2": "<p>Salom Zarina,<br>Sizga dam olish kunlari qatnashgan fotosurat ustaxonasi haqida yozmoqdaman. Bu ajoyib bo'ldi! Men kompozitsiyani tushunishimni ancha yaxshiladim va amaliy mashg'ulotlar juda foydali bo'ldi. Sizning fotosuratga qiziqishingizni hisobga olib, darhol sizni o'yladim.<br>Rostini aytsam, o'ylaymanki, siz undan ko'p narsa olasiz. Bu sizning mahoratingizni oshirish va boshqa ishtiyoqmandlar bilan uchrashishning ajoyib usuli. Agar qiziqsangiz, sizga ba'zi tafsilotlarni yuborishim mumkin. Menga xabar bering!<br>Eng yaxshi tilaklar bilan,<br>Malika Umarova</p>"
+   },
+   "t12": {
+    "title": "formal letter · to recipient",
+    "prompt": "Write a letter to the photography academy. Write about your feelings and what you think they should do.",
+    "sample": "<p>Dear Creative Lens Academy,</p>\n\n<p>Thank you for a <span class=\"ml-token adv\">truly</span> inspiring weekend. The workshop <span class=\"ml-token adv\">greatly</span> improved my photography skills.</p>\n\n<p><span class=\"ml-token adv\">Firstly</span>, the <span class=\"ml-token colloc\">instructor</span> was <span class=\"ml-token colloc\">exceptional</span>. Complex techniques were explained in an <span class=\"ml-token colloc\">accessible</span> way, and the <span class=\"ml-token colloc\">hands-on practice</span> reinforced the theory.</p>\n\n<p><span class=\"ml-token adv\">However</span>, I have some suggestions. The <span class=\"ml-token colloc\">group size</span> was <span class=\"ml-token adv\">rather</span> large, limiting <span class=\"ml-token colloc\">individual attention</span>. Smaller groups <span class=\"ml-token modal\">would</span> allow more <span class=\"ml-token colloc\">personalized feedback</span>.</p>\n\n<p><span class=\"ml-token adv\">Additionally</span>, providing <span class=\"ml-token colloc\">follow-up resources</span> like video tutorials <span class=\"ml-token modal\">would</span> help participants continue learning at home.</p>\n\n<p><span class=\"ml-token adv\">Furthermore</span>, offering <span class=\"ml-token colloc\">advanced workshops</span> for returning students <span class=\"ml-token modal\">would</span> be <span class=\"ml-token adv\">greatly</span> appreciated.</p>\n\n<p>I <span class=\"ml-token modal\">will</span> <span class=\"ml-token adv\">definitely</span> recommend your academy to fellow <span class=\"ml-token colloc\">photography enthusiasts</span>.</p>\n\n<p>With gratitude,<br>An Aspiring Photographer</p>",
+    "target": "120–150 words",
+    "sampleA1": "<p>Hi Creative Lens!</p><p>Thank you. Good class. Teacher good. Camera okay. I like photos. Bye.</p>",
+    "sampleA2": "<p>Dear Creative Lens Academy,</p><p>Thank you for the class. It was good. The teacher was nice and I learned some things. The cameras were okay, but some were old. I want to learn about taking photos of animals next time. I like taking photos. Thank you. </p><p>Bye,</p><p>Me</p>",
+    "sampleB1": "<p>Dear Creative Lens Academy,</p><p>Thank you for the photography workshop. I enjoyed it very much. I think the teacher was very good and explained things clearly. The practical sessions were also helpful because we could try out what we learned.</p><p>However, I think the equipment could be better. Some of the cameras were quite old. Also, I would like to see a workshop about taking photos at night in the future. I think that would be interesting.</p><p>Overall, it was a good experience and I would recommend it to others.</p><p>Sincerely,</p><p>A Participant</p>",
+    "sampleB2": "Dear Creative Lens Academy,\nI am writing to share my feedback following the weekend photography workshop I recently attended.\n<span class=\"ml-token linking\">On the whole</span>, I was <span class=\"ml-token colloc\">thoroughly impressed</span>. The teaching quality was excellent, and the instructor explained tricky concepts in a way that was <span class=\"ml-token colloc\">easy to follow</span>. The practical sessions were <span class=\"ml-token colloc\">the highlight</span>, as they gave us plenty of <span class=\"ml-token colloc\">hands-on experience</span>.\nThat said, I feel the equipment <span class=\"ml-token phrasal\">let the course down</span> slightly. Several of the cameras were outdated, which made it hard to <span class=\"ml-token phrasal\">keep up</span> during the exercises, so I would <span class=\"ml-token colloc\">strongly recommend</span> investing in newer models.\nFor future workshops, I would love to see a session on night photography, as I think many participants would find it both <span class=\"ml-token colloc\">challenging and rewarding</span>.\nThank you for a memorable weekend.\nYours faithfully,\nBekzod Aliyev",
+    "uzSample": "<p>Hurmatli \"Creative Lens\" Akademiyasi,</p>\n\n<p>Ajoyib dam olish kunlari uchun tashakkur. Seminar mening fotografiya mahoratimni sezilarli darajada oshirdi.</p>\n\n<p>Avvalo, o'qituvchi juda a'lo edi. Murakkab texnikalar tushunarli tarzda izohlandi va amaliy mashg'ulotlar nazariyani mustahkamladi.</p>\n\n<p>Biroq, mening ba'zi takliflarim bor. Guruh hajmi juda katta edi, bu esa har bir ishtirokchiga yetarlicha e'tibor berishni chekladi. Kichikroq guruhlar shaxsiy fikr-mulohazalarni ko'proq olish imkonini beradi.</p>\n\n<p>Bundan tashqari, video darsliklar kabi qo'shimcha manbalarni taqdim etish ishtirokchilarga uyda o'qishni davom ettirishga yordam beradi.</p>\n\n<p>Shuningdek, qaytib kelgan talabalar uchun ilg'or seminarlar taklif qilish juda mamnuniyat bilan qabul qilinadi.</p>\n\n<p>Men sizning akademiyangizni boshqa fotografiya ixlosmandlariga albatta tavsiya qilaman.</p>\n\n<p>Minatdorchilik bilan,<br>Intiluvchan Fotograf</p>",
+    "uzSampleA1": "<p>Salom, Creative Lens!</p><p>Rahmat. Dars yaxshi. O'qituvchi yaxshi. Kamera yaxshi. Menga suratlar yoqadi. Xayr.</p>",
+    "uzSampleA2": "<p>Hurmatli \"Creative Lens\" Akademiyasi,</p><p>Dars uchun rahmat. Yaxshi bo'ldi. O'qituvchi yaxshi edi va men ba'zi narsalarni o'rgandim. Kameralar yaxshi edi, lekin ba'zilari eski edi. Keyingi safar hayvonlarning suratlarini olishni o'rganmoqchiman. Suratga olishni yaxshi ko'raman. Rahmat. </p><p>Xayr,</p><p>Men</p>",
+    "uzSampleB1": "<p>Hurmatli \"Creative Lens\" Akademiyasi,</p><p>Fotografiya bo'yicha seminar uchun rahmat. Menga juda yoqdi. O'qituvchi juda yaxshi edi va hamma narsani aniq tushuntirdi deb o'ylayman. Amaliy mashg'ulotlar ham foydali bo'ldi, chunki biz o'rgangan narsalarimizni sinab ko'rishimiz mumkin edi.</p><p>Biroq, menimcha, uskunalar yaxshiroq bo'lishi mumkin edi. Ba'zi kameralar ancha eski edi. Shuningdek, kelajakda tunda suratga olish bo'yicha seminar bo'lishini xohlardim. Menimcha, bu qiziqarli bo'lardi.</p><p>Umuman olganda, bu yaxshi tajriba bo'ldi va men buni boshqalarga tavsiya qilaman.</p><p>Hurmat bilan,</p><p>Ishtirokchi</p>",
+    "uzSampleB2": "<p>Hurmatli \"Creative Lens\" Akademiyasi,</p><p>Yaqinda bo'lib o'tgan fotosuratlar bo'yicha seminar uchun rahmat. Men uni fotosurat texnikasi haqidagi tushunchamni sezilarli darajada yaxshilagan qimmatli tajriba deb topdim.</p><p>Ayniqsa, o'qituvchining murakkab tushunchalarni aniq va qiziqarli tarzda yetkazish qobiliyati meni hayratga soldi. Amaliy mashg'ulotlar ham foydali bo'ldi, biz o'rgangan nazariyani qo'llash uchun yetarli imkoniyat yaratdi.</p><p>Shunga qaramay, men yaxshilash mumkin bo'lgan bir nechta sohalar bor deb hisoblayman. Birinchidan, mavjud uskunalar assortimenti kengaytirilishi mumkin. Asosiy narsalar qamrab olingan bo'lsa-da, yanada ixtisoslashgan linzalar va aksessuarlarga kirish o'rganish tajribasini yaxshilaydi. Ikkinchidan, men kelajakda portret fotosuratiga, xususan, tabiiy va haqiqiy ifodalarni suratga olish texnikasiga qaratilgan seminarda qatnashishdan manfaatdor bo'lardim.</p><p>Umuman olganda, men seminardan juda mamnun bo'ldim va albatta sizning akademiyangiz tomonidan tashkil etilgan kelajakdagi tadbirlarda qatnashishni o'ylab ko'raman.</p><p>Hurmat bilan,</p><p>Qoniqish hosil qilgan ishtirokchi</p>"
+   },
+   "p1_context": "You recently attended a weekend photography workshop.",
+   "p1_scenario": "Dear Participant,\n\nThank you for attending our Creative Lens Photography Workshop! We hope you found it inspiring.\nHow did you find the teaching quality and practical sessions? Was the equipment provided adequate?\nWhat topics would you like covered in future workshops?\n\nCreative Lens Academy"
+  },
+  "examDate": "2026-02-09",
+  "settings": {
+   "logoUrl": "https://audio.mock-stream.com/img/ibb/WN0XY5Lv/logo.png",
+   "heading1": "Bilim va malakalarni baholash agentligi",
+   "heading2": "Chet tilini bilish darajasi",
+   "examTitle": "Writing exam",
+   "logoWording": "Mock Stream",
+   "testIdentifier": "mock_stream"
+  },
+  "vocabulary": {
+   "task2": [
+    {
+     "en": "photography",
+     "uz": "fotografiya"
+    },
+    {
+     "en": "skill",
+     "uz": "mahorat"
+    },
+    {
+     "en": "skilled photographer",
+     "uz": "malakali fotograf"
+    },
+    {
+     "en": "understanding light",
+     "uz": "yorug'likni tushunish"
+    },
+    {
+     "en": "composition",
+     "uz": "kompozitsiya"
+    },
+    {
+     "en": "learned skills",
+     "uz": "o'rganilgan ko'nikmalar"
+    },
+    {
+     "en": "constraints",
+     "uz": "cheklovlar"
+    },
+    {
+     "en": "boost creativity",
+     "uz": "ijodkorlikni oshirish"
+    },
+    {
+     "en": "problem-solving",
+     "uz": "muammolarni hal qilish"
+    },
+    {
+     "en": "specialized gear",
+     "uz": "maxsus jihozlar"
+    },
+    {
+     "en": "professional work",
+     "uz": "professional ish"
+    },
+    {
+     "en": "advanced levels",
+     "uz": "yuqori darajalar"
+    },
+    {
+     "en": "master the basics",
+     "uz": "asoslarni o'zlashtirmoq"
+    },
+    {
+     "en": "expensive gear",
+     "uz": "qimmat jihozlar"
+    },
+    {
+     "en": "learning process",
+     "uz": "o'rganish jarayoni"
+    },
+    {
+     "en": "capture better images",
+     "uz": "yaxshiroq rasmlar olmoq"
+    },
+    {
+     "en": "timing",
+     "uz": "vaqtni belgilash"
+    },
+    {
+     "en": "working with limited",
+     "uz": "cheklangan bilan ishlash"
+    },
+    {
+     "en": "investing in",
+     "uz": "sarmoya kiritish"
+    },
+    {
+     "en": "strong views",
+     "uz": "qat'iy fikrlar"
+    }
+   ],
+   "task11": [
+    {
+     "en": "photography workshop",
+     "uz": "fotografiya seminari"
+    },
+    {
+     "en": "composition",
+     "uz": "kompozitsiya"
+    },
+    {
+     "en": "lighting",
+     "uz": "yoritish"
+    },
+    {
+     "en": "already improved",
+     "uz": "allaqachon yaxshilangan"
+    },
+    {
+     "en": "really helpful",
+     "uz": "juda foydali"
+    },
+    {
+     "en": "absolutely love it",
+     "uz": "albatta yoqadi"
+    },
+    {
+     "en": "send the link",
+     "uz": "havolani yubormoq"
+    },
+    {
+     "en": "learned so much",
+     "uz": "juda ko'p narsani o'rgandim"
+    },
+    {
+     "en": "great instructor",
+     "uz": "ajoyib o'qituvchi"
+    },
+    {
+     "en": "hands-on practice",
+     "uz": "amaliy mashq"
+    },
+    {
+     "en": "worth every penny",
+     "uz": "har bir tiyinga arziydi"
+    },
+    {
+     "en": "highly recommend",
+     "uz": "juda tavsiya qilaman"
+    },
+    {
+     "en": "let me know",
+     "uz": "menga ayting"
+    },
+    {
+     "en": "sign up",
+     "uz": "ro'yxatdan o'tmoq"
+    },
+    {
+     "en": "amazing experience",
+     "uz": "ajoyib tajriba"
+    },
+    {
+     "en": "really fun",
+     "uz": "juda qiziqarli"
+    },
+    {
+     "en": "met cool people",
+     "uz": "ajoyib odamlar bilan tanishdim"
+    },
+    {
+     "en": "great tips",
+     "uz": "ajoyib maslahatlar"
+    },
+    {
+     "en": "can't wait",
+     "uz": "sabrsizlik bilan kutaman"
+    },
+    {
+     "en": "next level",
+     "uz": "keyingi daraja"
+    }
+   ],
+   "task12": [
+    {
+     "en": "truly inspiring",
+     "uz": "haqiqatan ilhomlantiruvchi"
+    },
+    {
+     "en": "instructor",
+     "uz": "o'qituvchi"
+    },
+    {
+     "en": "exceptional",
+     "uz": "ajoyib"
+    },
+    {
+     "en": "accessible explanation",
+     "uz": "tushunarli tushuntirish"
+    },
+    {
+     "en": "hands-on practice",
+     "uz": "amaliy mashq"
+    },
+    {
+     "en": "reinforced theory",
+     "uz": "nazariyani mustahkamladi"
+    },
+    {
+     "en": "group size",
+     "uz": "guruh hajmi"
+    },
+    {
+     "en": "individual attention",
+     "uz": "individual e'tibor"
+    },
+    {
+     "en": "personalized feedback",
+     "uz": "shaxsiy fikr-mulohaza"
+    },
+    {
+     "en": "follow-up resources",
+     "uz": "keyingi resurslar"
+    },
+    {
+     "en": "video tutorials",
+     "uz": "video darsliklar"
+    },
+    {
+     "en": "advanced workshops",
+     "uz": "ilg'or seminarlar"
+    },
+    {
+     "en": "photography enthusiasts",
+     "uz": "fotografiya ishqibozlari"
+    },
+    {
+     "en": "aspiring photographer",
+     "uz": "bo'lajak fotograf"
+    },
+    {
+     "en": "with gratitude",
+     "uz": "minnatdorlik bilan"
+    },
+    {
+     "en": "greatly improved",
+     "uz": "katta yaxshilangan"
+    },
+    {
+     "en": "complex techniques",
+     "uz": "murakkab texnikalar"
+    },
+    {
+     "en": "returning students",
+     "uz": "qaytayotgan talabalar"
+    },
+    {
+     "en": "definitely recommend",
+     "uz": "albatta tavsiya qilaman"
+    },
+    {
+     "en": "continue learning",
+     "uz": "o'rganishni davom ettirish"
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "can": {
+    "uz": "mumkin",
+    "type": "modal"
+   },
+   "does": {
+    "uz": "qiladimi",
+    "type": "adv"
+   },
+   "just": {
+    "uz": "faqat",
+    "type": "adv"
+   },
+   "will": {
+    "uz": "-adi",
+    "type": "modal"
+   },
+   "skill": {
+    "uz": "mahorat",
+    "type": "colloc"
+   },
+   "truly": {
+    "uz": "chinakamiga",
+    "type": "adv"
+   },
+   "would": {
+    "uz": "bo'lar edi",
+    "type": "modal"
+   },
+   "Should": {
+    "uz": "kerak",
+    "type": "modal"
+   },
+   "rather": {
+    "uz": "aks holda",
+    "type": "adv"
+   },
+   "really": {
+    "uz": "haqiqatan",
+    "type": "adv"
+   },
+   "Firstly": {
+    "uz": "Avvalo",
+    "type": "adv"
+   },
+   "However": {
+    "uz": "Biroq",
+    "type": "adv"
+   },
+   "already": {
+    "uz": "allaqachon",
+    "type": "adv"
+   },
+   "amazing": {
+    "uz": "ajoyib",
+    "type": "adv"
+   },
+   "greatly": {
+    "uz": "juda",
+    "type": "adv"
+   },
+   "keep up": {
+    "uz": "ulgurmoq",
+    "type": "phrasal"
+   },
+   "pick up": {
+    "uz": "o'rganib olmoq",
+    "type": "phrasal"
+   },
+   "sign up": {
+    "uz": "ro'yxatdan o'tmoq",
+    "type": "phrasal"
+   },
+   "take on": {
+    "uz": "ish bilan shug'ullanmoq",
+    "type": "phrasal"
+   },
+   "Moreover": {
+    "uz": "Qolaversa",
+    "type": "adv"
+   },
+   "lighting": {
+    "uz": "yoritish",
+    "type": "colloc"
+   },
+   "overdo it": {
+    "uz": "haddan oshirib yubormoq",
+    "type": "phrasal"
+   },
+   "picked up": {
+    "uz": "o'rganib oldim",
+    "type": "phrasal"
+   },
+   "absolutely": {
+    "uz": "mutlaqo",
+    "type": "adv"
+   },
+   "accessible": {
+    "uz": "qulay",
+    "type": "colloc"
+   },
+   "creativity": {
+    "uz": "ijodkorlik",
+    "type": "colloc"
+   },
+   "definitely": {
+    "uz": "albatta",
+    "type": "adv"
+   },
+   "group size": {
+    "uz": "guruh hajmi",
+    "type": "colloc"
+   },
+   "instructor": {
+    "uz": "o'qituvchi",
+    "type": "colloc"
+   },
+   "Furthermore": {
+    "uz": "Qolaversa",
+    "type": "adv"
+   },
+   "Undoubtedly": {
+    "uz": "Shubhasiz",
+    "type": "adv"
+   },
+   "composition": {
+    "uz": "kompozitsiya",
+    "type": "colloc"
+   },
+   "constraints": {
+    "uz": "cheklashlar",
+    "type": "colloc"
+   },
+   "eating into": {
+    "uz": "vaqtni yeb qo'ymoq",
+    "type": "phrasal"
+   },
+   "exceptional": {
+    "uz": "favqulodda",
+    "type": "colloc"
+   },
+   "photography": {
+    "uz": "fotosurat",
+    "type": "colloc"
+   },
+   "Additionally": {
+    "uz": "Bundan tashqari",
+    "type": "adv"
+   },
+   "On the whole": {
+    "uz": "Umuman olganda",
+    "type": "linking"
+   },
+   "are bound to": {
+    "uz": "muqarrar ravishda ... bo'ladi",
+    "type": "modal"
+   },
+   "just got back": {
+    "uz": "endigina qaytdim",
+    "type": "phrasal"
+   },
+   "still buzzing": {
+    "uz": "hali ham hayajondaman",
+    "type": "idiom"
+   },
+   "the highlight": {
+    "uz": "eng yaxshi qismi",
+    "type": "colloc"
+   },
+   "On top of that": {
+    "uz": "Bundan tashqari",
+    "type": "linking"
+   },
+   "easy to follow": {
+    "uz": "tushunish oson",
+    "type": "colloc"
+   },
+   "learned skills": {
+    "uz": "o'rganilgan ko'nikmalar",
+    "type": "colloc"
+   },
+   "problem-solving": {
+    "uz": "muammolarni hal qilish",
+    "type": "colloc"
+   },
+   "specialized gear": {
+    "uz": "maxsus uskunalar",
+    "type": "colloc"
+   },
+   "hands-on practice": {
+    "uz": "amaliy mashg'ulot",
+    "type": "colloc"
+   },
+   "master the basics": {
+    "uz": "asoslarni o'zlashtirish",
+    "type": "colloc"
+   },
+   "send you the link": {
+    "uz": "sizga havolani yuborish",
+    "type": "colloc"
+   },
+   "advanced workshops": {
+    "uz": "malaka oshirish kurslari",
+    "type": "colloc"
+   },
+   "strongly recommend": {
+    "uz": "qat'iy tavsiya qilaman",
+    "type": "colloc"
+   },
+   "follow-up resources": {
+    "uz": "qo'shimcha manbalar",
+    "type": "colloc"
+   },
+   "hands-on experience": {
+    "uz": "amaliy tajriba",
+    "type": "colloc"
+   },
+   "let the course down": {
+    "uz": "kursning saviyasini tushirdi",
+    "type": "phrasal"
+   },
+   "understanding light": {
+    "uz": "yorug'likni tushunish",
+    "type": "colloc"
+   },
+   "individual attention": {
+    "uz": "individual e'tibor",
+    "type": "colloc"
+   },
+   "photography workshop": {
+    "uz": "fotosuratlar bo'yicha seminar",
+    "type": "colloc"
+   },
+   "right up your street": {
+    "uz": "aynan sizga mos",
+    "type": "idiom"
+   },
+   "skilled photographer": {
+    "uz": "tajribali fotosuratchi",
+    "type": "colloc"
+   },
+   "thoroughly impressed": {
+    "uz": "juda hayratlandim",
+    "type": "colloc"
+   },
+   "At the end of the day": {
+    "uz": "Oxir-oqibat",
+    "type": "idiom"
+   },
+   "personalized feedback": {
+    "uz": "shaxsiy fikr-mulohazalar",
+    "type": "colloc"
+   },
+   "photography enthusiasts": {
+    "uz": "fotosuratga ishqibozlar",
+    "type": "colloc"
+   },
+   "challenging and rewarding": {
+    "uz": "qiyin va foydali",
+    "type": "colloc"
+   },
+   "juggled work and studying": {
+    "uz": "ish va o'qishni birga olib borgan",
+    "type": "colloc"
+   },
+   "stand on your own two feet": {
+    "uz": "o'z oyog'ida turish, mustaqil bo'lish",
+    "type": "idiom"
+   }
+  }
+ },
+ "created_at": "2026-05-06T15:00:09.051508+00:00",
+ "updated_at": "2026-07-06T10:56:26.118054+00:00"
+}

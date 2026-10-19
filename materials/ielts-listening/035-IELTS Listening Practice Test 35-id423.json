@@ -1,0 +1,861 @@
+{
+ "id": 423,
+ "mock_type": "ielts-listening",
+ "mock_number": 35,
+ "title": "IELTS Listening Practice Test 35",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "gap-fill-form",
+    "title": "Student inquiry about house rental",
+    "answers": {
+     "1": [
+      "5 May",
+      "5th May",
+      "May 5",
+      "May 5th",
+      "5th of May",
+      "the 5th of May"
+     ],
+     "2": [
+      "1700",
+      "1,700"
+     ],
+     "3": [
+      "credit check",
+      "Credit check",
+      "Credit Check"
+     ],
+     "4": [
+      "kitchen",
+      "Kitchen"
+     ],
+     "5": [
+      "dishwasher",
+      "Dishwasher"
+     ],
+     "6": [
+      "garage",
+      "Garage"
+     ],
+     "7": [
+      "water",
+      "Water"
+     ],
+     "8": [
+      "recycling",
+      "Recycling"
+     ],
+     "9": [
+      "window",
+      "Window"
+     ],
+     "10": [
+      "Dresler",
+      "dresler",
+      "Dressler",
+      "dressler",
+      "DRESLER"
+     ]
+    },
+    "audioFile": "https://audio.mock-stream.com/IELTS%20listening/test35/TEST%207%20(1).m4a",
+    "formTitle": "Rented Properties Information About a House",
+    "partNumber": 1,
+    "transcript": "Narrator: Test four. This is the IELTS listening test.\nYou will hear a number of different recordings and you will have to answer questions on what you hear.\nThere will be time for you to read the instructions and questions and you will have a chance to check your work.\nAll the recordings will be played once only.\nThe test is in four parts.\nAt the end of the test, you will be given 10 minutes to transfer your answers to the answer sheet.\nNow turn to part one.\n\nPart one.\nYou will hear a student calling a landlord to rent a house.\nFirst, you have some time to look at questions one to six.\n\nNow listen carefully and answer questions one to six.\n\nStudent: Hello.\nLandlord: Oh, hello.\nStudent: I wanted to inquire about the house you're going to let out. Is it still available?\nLandlord: Yes. May I ask where you heard about it? Was it in an advert?\nStudent: Right, it was.\nLandlord: Okay. What do you want to know?\nStudent: Well, I'm going to share the house with two friends. We've been staying on campus, but we're going to graduate, so we need to find a house as soon as possible. Anyway, could you tell me the exact date when you can move in?\nLandlord: Well, the contract with my current tenant is due next week on May the 3rd, and I need a day to clean and check the things in the house. So, I think the house will be ready on the 5th of May. Is that okay?\nStudent: Yes, that will be fine. And what we're most concerned about is the rent. We'd like something around $500 a month for each of us, but we could go up to $600 if we have to, but we can't go beyond that.\nLandlord: You are lucky. The rent will be $1,700 in total, which is within your budget. You'll need to pay monthly to me by cash or credit card. I don't mind. And you'll have to pay me $1,500 as a deposit before you move in. The deposit is as insurance in case you break something.\nStudent: Okay, that's reasonable.\nLandlord: Oh, I nearly forgot. One important thing is that you'll be required to provide a credit check to guarantee your ability to pay the rent every month. This will charge you $15.\nStudent: No problem. How about the facilities?\nLandlord: First, there are three bedrooms combined with two bathrooms. Then there is a shared kitchen, which was refurbished several months ago. By the way, do you cook yourselves?\nStudent: Yeah, we like cooking. Do we have to buy our own cookers?\nLandlord: Basic facilities for cooking are available, but if you want a dishwasher, I'm sorry, it needs to be added later.\nStudent: I think the basic facilities are enough for us. Is there any place we can park, as one of my friends has a private car?\nLandlord: Yes, there is a garage, which not only provides space for your car, but also has a special section where you can do some of your work. It's very quiet for you to concentrate.\nStudent: It sounds so special.\n\nNarrator: Before you hear the rest of the conversation, you have some time to look at questions 7 to 10.\n\nNow listen and answer questions 7 to 10.\n\nLandlord: There are some other utilities I have to tell you. There is a garden in front of the house, in which you will find some interesting plants and beautiful flowers.\nStudent: Do we have to take care of these plants and flowers?\nLandlord: Well, you don't have to worry about that. There will be a professional gardener to do the landscaping in the garden regularly, but you do need to help water the grass once a week. Is it a problem for you?\nStudent: Of course not. We'd like to do that.\nLandlord: Another thing is, in this district, every household is arranged with a cleaner responsible for cleaning up the rubbish and recycling, but this service will cost you $15 every month.\nStudent: What other bills do we have to pay?\nLandlord: Bills for electricity, water, and gas will also be covered by yourselves.\nStudent: Okay. One more question. Is air conditioning available in the house?\nLandlord: If you mean central air conditioning, I'm afraid there isn't at the moment, but each room has a conditioning unit which is installed on the window.\nStudent: That will be fine. Anyway, I think it's a good place to live in. Can we go and see the house, please?\nLandlord: Yes, of course. May I have your name and phone number?\nStudent: Yes, I'm Sam Dresler. That's S-A-M D-R-E-S-L-E-R.\nLandlord: Okay, Sam Dresler, I've got that down.\nStudent: And my phone number is 67534571.\nLandlord: Thank you very much. I'll contact you after discussing it with my two friends.\nStudent: No problem. Bye.\nLandlord: Bye.\n\nNarrator: That is the end of part one.\nYou now have one minute to check your answers to part one.",
+    "formContent": "<div class=\"ielts-form-container\">\n  <div class=\"form-section\">\n    <p><strong>Available date:</strong> <input type=\"text\" autocomplete=\"off\" class=\"gap-input\" data-q=\"1\" placeholder=\"1\" style=\"width:160px; text-align:center;\" /></p>\n  </div>\n\n  <div class=\"form-section\">\n    <h4>Prices:</h4>\n    <p>Rent: $<input type=\"text\" autocomplete=\"off\" class=\"gap-input\" data-q=\"2\" placeholder=\"2\" style=\"width:120px; text-align:center;\" /> per month</p>\n    <p>Deposit: $1500</p>\n    <p><input type=\"text\" autocomplete=\"off\" class=\"gap-input\" data-q=\"3\" placeholder=\"3\" style=\"width:160px; text-align:center;\" />: $15</p>\n  </div>\n\n  <div class=\"form-section\">\n    <h4>Facilities:</h4>\n    <p>3 bedrooms and 2 bathrooms</p>\n    <p>A remodelled <input type=\"text\" autocomplete=\"off\" class=\"gap-input\" data-q=\"4\" placeholder=\"4\" style=\"width:140px; text-align:center;\" /></p>\n    <p>No <input type=\"text\" autocomplete=\"off\" class=\"gap-input\" data-q=\"5\" placeholder=\"5\" style=\"width:140px; text-align:center;\" /></p>\n    <p>A <input type=\"text\" autocomplete=\"off\" class=\"gap-input\" data-q=\"6\" placeholder=\"6\" style=\"width:140px; text-align:center;\" /> with a work area</p>\n  </div>\n\n  <div class=\"form-section\">\n    <h4>Utilities:</h4>\n    <p>The landlord will provide landscaping service, but the tenants must <input type=\"text\" autocomplete=\"off\" class=\"gap-input\" data-q=\"7\" placeholder=\"7\" style=\"width:120px; text-align:center;\" /> the grass</p>\n    <p>The tenants should pay $15 for trashing and <input type=\"text\" autocomplete=\"off\" class=\"gap-input\" data-q=\"8\" placeholder=\"8\" style=\"width:140px; text-align:center;\" /> service</p>\n    <p>The tenants should pay for electricity, water and gas bills</p>\n  </div>\n\n  <div class=\"form-section\">\n    <h4>Other information:</h4>\n    <p>There is no central air conditioning, but there is a <input type=\"text\" autocomplete=\"off\" class=\"gap-input\" data-q=\"9\" placeholder=\"9\" style=\"width:140px; text-align:center;\" /> conditioning unit</p>\n    <p><strong>Name of landlord:</strong> Sam <input type=\"text\" autocomplete=\"off\" class=\"gap-input\" data-q=\"10\" placeholder=\"10\" style=\"width:140px; text-align:center;\" /></p>\n  </div>\n</div>",
+    "instruction": "Questions 1-10\n\nComplete the notes below.\n\nWrite ONE WORD AND/OR A NUMBER for each answer.",
+    "questionRange": "1-10",
+    "answerHighlights": {
+     "1": [
+      18
+     ],
+     "2": [
+      20
+     ],
+     "3": [
+      22
+     ],
+     "4": [
+      26
+     ],
+     "5": [
+      28
+     ],
+     "6": [
+      30
+     ],
+     "7": [
+      36
+     ],
+     "8": [
+      38
+     ],
+     "9": [
+      42
+     ],
+     "10": [
+      44
+     ]
+    }
+   },
+   {
+    "type": "mixed",
+    "title": "Fun City theme park information",
+    "answers": {
+     "11": [
+      "C",
+      "c"
+     ],
+     "12": [
+      "B",
+      "b"
+     ],
+     "13": [
+      "B",
+      "b"
+     ],
+     "14": [
+      "A",
+      "a"
+     ],
+     "15": [
+      "A",
+      "a"
+     ],
+     "16": [
+      "A",
+      "a"
+     ],
+     "17": [
+      "A",
+      "a"
+     ],
+     "18": [
+      "C",
+      "c"
+     ],
+     "19": [
+      "F",
+      "f"
+     ],
+     "20": [
+      "G",
+      "g"
+     ]
+    },
+    "subParts": [
+     {
+      "type": "mcq-reply",
+      "questions": [
+       {
+        "id": 11,
+        "text": "When does the riding in the park open?",
+        "options": [
+         {
+          "text": "9.00 am",
+          "letter": "A"
+         },
+         {
+          "text": "9.30 am",
+          "letter": "B"
+         },
+         {
+          "text": "10.00 am",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 12,
+        "text": "How much does a Family fast-line Track ticket cost if you book online?",
+        "options": [
+         {
+          "text": "£78",
+          "letter": "A"
+         },
+         {
+          "text": "£95",
+          "letter": "B"
+         },
+         {
+          "text": "£113",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 13,
+        "text": "What is suggested when you plan to go to the lake in the park?",
+        "options": [
+         {
+          "text": "take a camera",
+          "letter": "A"
+         },
+         {
+          "text": "go there in summer",
+          "letter": "B"
+         },
+         {
+          "text": "take waterproof clothes",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 14,
+        "text": "What is special about the rollercoaster bike?",
+        "options": [
+         {
+          "text": "it uses special materials",
+          "letter": "A"
+         },
+         {
+          "text": "it is the most exciting activity",
+          "letter": "B"
+         },
+         {
+          "text": "it is designed for families",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 15,
+        "text": "What should they bring to the resort?",
+        "options": [
+         {
+          "text": "food for the picnic",
+          "letter": "A"
+         },
+         {
+          "text": "cameras",
+          "letter": "B"
+         },
+         {
+          "text": "bottled water",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 16,
+        "text": "What activity is recommended toward the end of a day trip?",
+        "options": [
+         {
+          "text": "watching fireworks",
+          "letter": "A"
+         },
+         {
+          "text": "going fishing",
+          "letter": "B"
+         },
+         {
+          "text": "joining the circus",
+          "letter": "C"
+         }
+        ]
+       }
+      ],
+      "instruction": "Questions 11-16\n\nChoose the correct letter, A, B or C."
+     },
+     {
+      "type": "matching-speakers",
+      "options": [
+       {
+        "text": "doesn't have a long wait",
+        "letter": "A"
+       },
+       {
+        "text": "is suitable for all families",
+        "letter": "B"
+       },
+       {
+        "text": "is suitable for children",
+        "letter": "C"
+       },
+       {
+        "text": "is suitable for young adults",
+        "letter": "D"
+       },
+       {
+        "text": "is based on a real story",
+        "letter": "E"
+       },
+       {
+        "text": "is the most frightening one",
+        "letter": "F"
+       },
+       {
+        "text": "has a surprising ending",
+        "letter": "G"
+       }
+      ],
+      "speakers": [
+       {
+        "id": 17,
+        "label": "Cowboy Show"
+       },
+       {
+        "id": 18,
+        "label": "Driving School Ride"
+       },
+       {
+        "id": 19,
+        "label": "Rollercoaster Jumping"
+       },
+       {
+        "id": 20,
+        "label": "Magic Show"
+       }
+      ],
+      "instruction": "Questions 17-20\n\nWhat comment is made about each of the following activities?\n\nChoose FOUR answers from the box and write the correct letter, A-G, next to Questions 17-20."
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/IELTS%20listening/test35/TEST%207%20(2).m4a",
+    "questions": [
+     {
+      "id": 11
+     },
+     {
+      "id": 12
+     },
+     {
+      "id": 13
+     },
+     {
+      "id": 14
+     },
+     {
+      "id": 15
+     },
+     {
+      "id": 16
+     },
+     {
+      "id": 17
+     },
+     {
+      "id": 18
+     },
+     {
+      "id": 19
+     },
+     {
+      "id": 20
+     }
+    ],
+    "partNumber": 2,
+    "transcript": "Narrator: Part two.\nYou will hear an introduction to a theme park in Fun City.\nFirst, you have some time to look at questions 11 to 16.\n\nNow, listen carefully and answer questions 11 to 16.\n\nPresenter: Welcome to our radio program, Travel with me. Today, I'll recommend you a fantastic place. It's the theme park in Fun City. It has been awarded the most popular tourist attraction in the city. So, just follow me to find something interesting there. The park opens at 9:30 every morning. For the first activity, I definitely advise you shouldn't miss the riding in the park. The actual riding begins at 10:00 a.m. But I suggest you arrive a little earlier before the opening time. Otherwise, there might be a long wait.\nAnd how much, you may ask, does an entrance ticket cost? Well, there are two types of tickets, basic tickets and family fast line track tickets. You can either buy a ticket at the ticket office near the main entrance to the park or reserve from the official website in advance. The latter is preferable as it always offers a discount. For example, the original price for a basic ticket is £89. But if you buy it online, it only costs £78. For the family fast line track ticket, you only have to pay £95 on the internet instead of its original price £113.\nVisiting the lake in the park is also a good choice. There is a new refreshment room beside the lake, and the latest thing, it was only finished last month, is the splash ride. It is a new area and pretty exciting. Forget about wearing waterproofs because you'll still get wet, and don't take cameras either. As a result, I strongly advise that the best time to visit the lake is in the hottest season, in case you catch a cold.\nAnother activity you'll find exciting is riding the roller coaster bike. I suggest families with children go for a try as it's always favored by them. This roller coaster bike is different from the normal one in that it's made of wood, so it's lighter. The person who designed it has won a special prize for innovation.\nFor those who are not interested in these exciting activities, there is a resort for you. You can sit there talking, relaxing, or taking photos. Please remember, this section is for a picnic. So, you have to prepare your own snacks. But don't worry about drinks since free bottled water is available there.\nOh, one more thing is, it's better to take a picnic blanket to sit on. After the picnic, if there is some time left, you can take part in some other interesting activities you like, such as watching the circus or going fishing. At the end of the one day trip, there is a special event for you, the firework display. You'll enjoy a spectacular show in the sky. Everyone is cheering. I think it's a must for you with a perfect ending of the day.\n\nNarrator: Before you hear the rest of the talk, you have some time to look at questions 17 to 20.\n\nNow, listen and answer questions 17 to 20.\n\nPresenter: Okay, that was something about the most basic information. And now, here's some more practical information about four popular activities on the brochure of the theme park because some people want to know whether they're worth trying.\nWell, let's first look at the cowboy show. It's a dance show by a group of boys wearing cowboy boots and hats. What they perform tells the stories of cowboy's life. Rest assured that you don't need to queue for hours to get in. So, please come and enjoy it.\nThen there is the driving school ride. In this activity, you can try a variety of vehicles. But please note that this one is only for those below 1.2 meters. The staff will measure your height at the entrance. Parents can just have a rest on the chair and watch their kids playing. You don't have to be worried about safety as everyone is guided by a coach throughout the process.\nAs to roller coaster jumping, it is the scariest activity as you will experience the vertical dropping. So, it might be a good choice for those who like extreme sports. Of course, children are not allowed to join in.\nThe last one is the magic show. I'm sure you'll be attracted by the charm of the magician. You can hear the audience burst into applause throughout the show. Please promise me, don't leave early because just as horror stories won't tell you until the end, there is something unexpected waiting for you. I'm sure you won't regret it.\n\nNarrator: That is the end of part two.\nYou now have 30 seconds to check your answers to part two.",
+    "instruction": "Questions 11-20",
+    "questionRange": "11-20",
+    "answerHighlights": {
+     "11": [
+      7
+     ],
+     "12": [
+      9
+     ],
+     "13": [
+      12
+     ],
+     "14": [
+      14
+     ],
+     "15": [
+      16
+     ],
+     "16": [
+      18
+     ],
+     "17": [
+      22
+     ],
+     "18": [
+      24
+     ],
+     "19": [
+      26
+     ],
+     "20": [
+      28
+     ]
+    }
+   },
+   {
+    "type": "mixed",
+    "title": "Job market and hiring strategies",
+    "answers": {
+     "21": [
+      "A",
+      "a",
+      "C",
+      "c"
+     ],
+     "22": [
+      "A",
+      "a",
+      "C",
+      "c"
+     ],
+     "23": [
+      "C",
+      "c",
+      "E",
+      "e"
+     ],
+     "24": [
+      "C",
+      "c",
+      "E",
+      "e"
+     ],
+     "25": [
+      "C",
+      "c",
+      "E",
+      "e"
+     ],
+     "26": [
+      "C",
+      "c",
+      "E",
+      "e"
+     ],
+     "27": [
+      "A",
+      "a",
+      "C",
+      "c",
+      "E",
+      "e"
+     ],
+     "28": [
+      "A",
+      "a",
+      "C",
+      "c",
+      "E",
+      "e"
+     ],
+     "29": [
+      "A",
+      "a",
+      "C",
+      "c",
+      "E",
+      "e"
+     ],
+     "30": [
+      "clothes",
+      "Clothes",
+      "clothing",
+      "Clothing"
+     ]
+    },
+    "subParts": [
+     {
+      "type": "mcq-multi",
+      "count": 2,
+      "options": [
+       {
+        "text": "degree of motivation",
+        "letter": "A"
+       },
+       {
+        "text": "practical experience",
+        "letter": "B"
+       },
+       {
+        "text": "eagerness to learn",
+        "letter": "C"
+       },
+       {
+        "text": "educational qualifications",
+        "letter": "D"
+       },
+       {
+        "text": "other areas of interests outside work",
+        "letter": "E"
+       }
+      ],
+      "instruction": "Questions 21-22\n\nChoose TWO letters, A-E.\n\nWhich TWO aspects should people just graduating from secondary schools emphasise?",
+      "questionIds": [
+       21,
+       22
+      ]
+     },
+     {
+      "type": "mcq-multi",
+      "count": 2,
+      "options": [
+       {
+        "text": "they have limited working time",
+        "letter": "A"
+       },
+       {
+        "text": "they are more expensive to retrain",
+        "letter": "B"
+       },
+       {
+        "text": "they are very mature",
+        "letter": "C"
+       },
+       {
+        "text": "they lack confidence",
+        "letter": "D"
+       },
+       {
+        "text": "they have difficulty in re-adjusting to work",
+        "letter": "E"
+       }
+      ],
+      "instruction": "Questions 23-24\n\nChoose TWO letters, A-E.\n\nWhich TWO of the following are mentioned about women returned to work after raising children?",
+      "questionIds": [
+       23,
+       24
+      ]
+     },
+     {
+      "type": "mcq-multi",
+      "count": 2,
+      "options": [
+       {
+        "text": "people who have worked for a rival company",
+        "letter": "A"
+       },
+       {
+        "text": "people who have worked for their previous company for a long time",
+        "letter": "B"
+       },
+       {
+        "text": "people who were sacked by a previous company",
+        "letter": "C"
+       },
+       {
+        "text": "people who have been unemployed for a long time",
+        "letter": "D"
+       },
+       {
+        "text": "people who quit their job because it was unsuitable",
+        "letter": "E"
+       }
+      ],
+      "instruction": "Questions 25-26\n\nChoose TWO letters, A-E.\n\nWhich TWO types of people do employers always avoid hiring?",
+      "questionIds": [
+       25,
+       26
+      ]
+     },
+     {
+      "type": "mcq-multi",
+      "count": 3,
+      "options": [
+       {
+        "text": "a lack of experience relevant to new industries",
+        "letter": "A"
+       },
+       {
+        "text": "higher costs of employment",
+        "letter": "B"
+       },
+       {
+        "text": "comparatively old age",
+        "letter": "C"
+       },
+       {
+        "text": "lack of work experience",
+        "letter": "D"
+       },
+       {
+        "text": "the difficulty of retraining",
+        "letter": "E"
+       },
+       {
+        "text": "the reputation of the previous company",
+        "letter": "F"
+       },
+       {
+        "text": "previous skills which are useless",
+        "letter": "G"
+       }
+      ],
+      "instruction": "Questions 27-29\n\nChoose THREE letters, A-G.\n\nWhich THREE factors are mentioned as reasons why people avoid hiring retrenched workers?",
+      "questionIds": [
+       27,
+       28,
+       29
+      ]
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/IELTS%20listening/test35/TEST%207%20(3).m4a",
+    "questions": [
+     {
+      "id": 21
+     },
+     {
+      "id": 22
+     },
+     {
+      "id": 23
+     },
+     {
+      "id": 24
+     },
+     {
+      "id": 25
+     },
+     {
+      "id": 26
+     },
+     {
+      "id": 27
+     },
+     {
+      "id": 28
+     },
+     {
+      "id": 29
+     },
+     {
+      "id": 30
+     }
+    ],
+    "partNumber": 3,
+    "transcript": "Narrator: Part three.\nYou will hear a student called Sansa discussing the job market and employers' hiring strategies with her tutor.\nFirst, you have some time to look at questions 21 to 26.\n\nNarrator: Now, listen carefully and answer questions 21 to 26.\n\nTutor: For today's session, we're going to look at the job market and employers' hiring strategies. It mainly takes great people to generate and execute efficient strategies and ideas. In fact, a company's growth is strongly supported by its human resources. Therefore, we'll look at the determining factors for recruitment, the traits of a successful applicant, and the possible reasons for rejection. First, let's take a look at the job market for students who have just graduated from secondary schools.\nSansa: So, what should they focus on when applying for a job? Is education the most important factor in recruitment?\nTutor: Well, actually, the degree is not that important. It's not the only factor that personnel managers take into consideration. Some employees with years of work experience still have a competitive edge over fresh graduates with a higher educational degree. However, with neither an impressive educational background nor practical experience, secondary school graduates should stress that they have great enthusiasm for work. Employees who are interested in their job often work hard and are willing to take more responsibilities.\nSansa: What else should they highlight during a job interview?\nTutor: Well, it is wise for them to demonstrate that they possess valuable characteristics, such as curiosity, willingness to learn new stuff, and good interpersonal skills. Companies favor applicants who are easygoing and fit in quickly.\nSansa: Right. But I guess things get harder for women to re-enter the workforce and reconnect after raising children at home.\nTutor: Absolutely. After taking an extended absence from work, women with young children have to strike a good balance between work and family. Changes have to be made within the family to ensure they have sufficient working hours. Apart from that, they are working with totally new colleagues in an unfamiliar workplace. After even two or three years of absence, they face challenges of rusty or obsolete skills. Even though they're quite confident in themselves, they often find it hard to adapt to these changes. But on the other hand, many employers find these mature women valuable assets in the workplace. They are excellent role models for younger employees as being quite motivated and with strong work ethic.\nSansa: Um, indeed, employers not only need qualified but also flexible and well-trained employees. Given the experience, perspectives, and stability, these women are offered unique opportunities in today's workplace.\nTutor: Yes, exactly.\nSansa: So what kind of people do companies generally find unwelcoming? Will they consider candidates from a rival company?\nTutor: Well, actually, hiring employees from a competing firm is not a taboo. Highly skilled workers are always welcomed, no matter where they're from. What concerns employers the most is how they left the previous company that they had worked for years. If they have been fired, they must have done something wrong during the previous job.\nSansa: What about people who remain unemployed for a considerable period of time?\nTutor: Well, this type of employee isn't at the bottom of the employment list. The reason why they remain unemployed is the key. Most companies cast doubts on applicants who left the job simply because they didn't like the working hours or the work assigned.\n\nNarrator: Before you hear the rest of the discussion, you have some time to look at questions 27 to 30.\n\nNarrator: Now, listen and answer questions 27 to 30.\n\nTutor: Have you read any articles about worker retrenchment?\nSansa: Yes. Worker retrenchment on a massive scale is sometimes introduced as one of the short-term measures to resuscitate the industry through the reduction of overhead costs. Workers are also laid off as companies restructure and reform. But what happens to these retrenched workers afterwards? Is it easy for them to find another job?\nTutor: Well, generally companies are reluctant to hire them.\nSansa: Why is that? They must have plenty of work experience in the previous industry. Isn't that a strength for them in the job market?\nTutor: Actually, new industries are eager to hire experienced workers, but retrenched workers know nothing about other industries, and it also costs employers more to retrain them. They need training courses to acquire relevant skills and qualifications for a new career.\nSansa: Our government is providing public training programs to help them identify their current skills and acquire new skills to improve their career options. Isn't that right?\nTutor: Yes, but retrenched workers are generally too old. They are less motivated and energized at work. Companies thus prefer younger employees to them. They are also reluctant to adjust and are unwilling to be retrained.\nSansa: Do retrenched workers from companies with big names have an advantage over other job applicants?\nTutor: No. Employers today value skills more than where they're previously from.\nSansa: Right. So what are the most common factors of rejection during application?\nTutor: Applicants are rejected mainly for three reasons. First, they have experience and skills that are irrelevant to the industry. Even experienced workers may receive rejection letters. Wearing appropriate clothes and how they look during an interview are key to a successful interview. No matter how good their presentation skills are, a shirt with stains or informal clothes like a pair of jeans only means the applicants aren't taking the interview seriously.\nSansa: Yes, during an interview, formal dress is key to a good start and will inevitably affect how people evaluate you later. What's the third factor? Let me guess. Is it interpersonal skills?\nTutor: Yes. Companies are eager to hire people who can work well with others and fit in quickly. It's difficult to work in an environment full of conflicts. Therefore, people who don't get along well with others are often rejected.\nSansa: I see.\n\nNarrator: That is the end of part three.\nYou now have 30 seconds to check your answers to part three.",
+    "instruction": "Questions 21-30",
+    "extraGapFill": {
+     "formTitle": "Reasons for rejection during the application process",
+     "formContent": "<div class=\"ielts-form-container\">\n  <div class=\"form-section\">\n    <ul>\n      <li>Unsuitable experience and skills</li>\n      <li>Applicants' inappropriate <input type=\"text\" autocomplete=\"off\" class=\"gap-input\" data-q=\"30\" placeholder=\"30\" style=\"width:140px; text-align:center;\" /> and appearance</li>\n      <li>Poor social skills</li>\n    </ul>\n  </div>\n</div>",
+     "instruction": "Question 30\n\nComplete the notes below.\n\nWrite ONE WORD ONLY for the answer."
+    },
+    "questionRange": "21-30",
+    "answerHighlights": {
+     "21": [
+      8
+     ],
+     "22": [
+      10
+     ],
+     "23": [
+      14
+     ],
+     "24": [
+      14
+     ],
+     "25": [
+      18
+     ],
+     "26": [
+      20
+     ],
+     "27": [
+      24
+     ],
+     "28": [
+      26
+     ],
+     "29": [
+      28
+     ],
+     "30": [
+      32
+     ]
+    }
+   },
+   {
+    "type": "mixed",
+    "title": "Lecture on organic farming",
+    "answers": {
+     "31": [
+      "sustainable",
+      "Sustainable"
+     ],
+     "32": [
+      "sales",
+      "Sales"
+     ],
+     "33": [
+      "energy",
+      "Energy"
+     ],
+     "34": [
+      "insects",
+      "Insects"
+     ],
+     "35": [
+      "potatoes",
+      "Potatoes"
+     ],
+     "36": [
+      "10%",
+      "10 percent",
+      "10%",
+      "ten percent"
+     ],
+     "37": [
+      "grass",
+      "Grass"
+     ],
+     "38": [
+      "A",
+      "a"
+     ],
+     "39": [
+      "C",
+      "c"
+     ],
+     "40": [
+      "A",
+      "a"
+     ]
+    },
+    "subParts": [
+     {
+      "type": "gap-fill-form",
+      "formTitle": "Organic Farming",
+      "formContent": "<div class=\"ielts-form-container\">\n  <div class=\"form-section\">\n    <h4>Advantages:</h4>\n    <p>Organic farming is <input type=\"text\" autocomplete=\"off\" class=\"gap-input\" data-q=\"31\" placeholder=\"31\" style=\"width:140px; text-align:center;\" /></p>\n    <p>It can boost the <input type=\"text\" autocomplete=\"off\" class=\"gap-input\" data-q=\"32\" placeholder=\"32\" style=\"width:140px; text-align:center;\" /> of organic food products</p>\n    <p>It can save necessary <input type=\"text\" autocomplete=\"off\" class=\"gap-input\" data-q=\"33\" placeholder=\"33\" style=\"width:140px; text-align:center;\" /> for producing pesticides and fertilisers</p>\n  </div>\n\n  <div class=\"form-section\">\n    <h4>Comparison with traditional farming:</h4>\n    <p><input type=\"text\" autocomplete=\"off\" class=\"gap-input\" data-q=\"34\" placeholder=\"34\" style=\"width:140px; text-align:center;\" /> which double in number may attack organic vegetables</p>\n    <p>Production of organic vegetables such as tomatoes and <input type=\"text\" autocomplete=\"off\" class=\"gap-input\" data-q=\"35\" placeholder=\"35\" style=\"width:140px; text-align:center;\" /> is 40% lower</p>\n    <p>Winter weed production is <input type=\"text\" autocomplete=\"off\" class=\"gap-input\" data-q=\"36\" placeholder=\"36\" style=\"width:140px; text-align:center;\" /> lower than it used to be</p>\n    <p>Production of organic products for animals including organic <input type=\"text\" autocomplete=\"off\" class=\"gap-input\" data-q=\"37\" placeholder=\"37\" style=\"width:140px; text-align:center;\" /> keeps the same</p>\n  </div>\n</div>",
+      "instruction": "Questions 31-37\n\nComplete the notes below.\n\nWrite ONE WORD AND/OR A NUMBER for each answer."
+     },
+     {
+      "type": "mcq-reply",
+      "questions": [
+       {
+        "id": 38,
+        "text": "What happened to organic farming in India?",
+        "options": [
+         {
+          "text": "Yields increased.",
+          "letter": "A"
+         },
+         {
+          "text": "Farmers were reluctant to accept it.",
+          "letter": "B"
+         },
+         {
+          "text": "Farmers could apply it successfully by following instructions.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 39,
+        "text": "The conclusion in the international organic farming review focuses on",
+        "options": [
+         {
+          "text": "whether people are interested in organic farming",
+          "letter": "A"
+         },
+         {
+          "text": "comparing different methods of organic farming in different countries",
+          "letter": "B"
+         },
+         {
+          "text": "whether organic farming is beneficial to wildlife",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 40,
+        "text": "According to the speaker, what is the main advantage of organic farming?",
+        "options": [
+         {
+          "text": "It depends on consumers.",
+          "letter": "A"
+         },
+         {
+          "text": "It can produce food of more nutritional value.",
+          "letter": "B"
+         },
+         {
+          "text": "It can protect the environment.",
+          "letter": "C"
+         }
+        ]
+       }
+      ],
+      "instruction": "Questions 38-40\n\nChoose the correct letter, A, B or C."
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/IELTS%20listening/test35/TEST%207%20(4).m4a",
+    "questions": [
+     {
+      "id": 31
+     },
+     {
+      "id": 32
+     },
+     {
+      "id": 33
+     },
+     {
+      "id": 34
+     },
+     {
+      "id": 35
+     },
+     {
+      "id": 36
+     },
+     {
+      "id": 37
+     },
+     {
+      "id": 38
+     },
+     {
+      "id": 39
+     },
+     {
+      "id": 40
+     }
+    ],
+    "partNumber": 4,
+    "transcript": "Narrator: Part four.\nYou will hear part of a lecture on organic farming.\nFirst, you have some time to look at questions 31 to 40.\n\nNow, listen carefully and answer questions 31 to 40.\n\nLecturer: Hi everyone. What I'm going to talk about today is organic farming. Let's first look at what organic farming is. It can be defined as one or more systems of production which don't use synthetic fertilizers, man-made pesticides, herbicides, antibiotics, or livestock feed additives to grow crops and raise animals. Virtually all organic farmers prefer to use renewable resources and recycling to give what conventional farmers might consider waste back to the soil of mother nature. From this, we can see organic farming is a sustainable production system, which is one of its advantages.\nOrganic farmers use numerous techniques to promote the quality of life of plants and animals within existing ecosystems and minimize pollution that occurs with all conventional farming practices. Another benefit is that with the increasing consumer demand for a healthier, more nutritionally balanced product, the sales of organically produced food are promoted. According to the research, it has become the fastest growing sector of agriculture and has shown an annual increase of at least 20% during the last six years.\nWhat's more, both chemical fertilizers and synthetic pesticides consume non-renewable resources such as oil and coal, but the development of organic farming can lower the demand for these fertilizers and pesticides. So, it is conducive to the conservation of essential energy. At the same time, it also can reduce industrial pollution caused by the production of these chemical substances.\nOrganic farming differs greatly from the traditional one in a number of ways. Let's discuss it from the perspective of agricultural biodiversity. Firstly, for instance, earthworms are an important indicator of soil fertility. Studies have shown that the density and species number of earthworms in organically managed soils are three times as high as those in conventional fields. Moreover, the biodiversity in organic farming can also be reflected in the number of insects, which is twice as many as those in traditional farms. This might be highly related to the fact that organic vegetables are grown without any human-made pesticides, making these vegetables more likely to be damaged.\nThe other main difference between organic and traditional farming lies in crop yields, one of the biggest concerns of organic farmers. Organic farms, though possibly well adapted for certain local environments, produce less food per unit of land. For example, organic vegetables like tomatoes and potatoes yielded are 40% less than conventional ones. In addition, research has also found the number of weeds produced in winter is about 90% at present, which has decreased by 10% than before.\nHowever, lower crop yields in organic farming are still inevitable at the moment. Anyway, organic farming is a new direction for agricultural development. These days, a variety of organic products are cultivated not only for humans, but also for animals. For example, organic grass. It is commonly used in organic farms to feed cows. Because of the non-use of synthetic fertilizers or pesticides, it can protect cows from diseases brought by large-scale breeding, thus ensuring the quality of raw milk. But an interesting phenomenon is that its production has remained constant these years, which is quite unique compared with other types of crops.\nResearch on organic farming has covered various aspects and involved many countries. According to one study, organic farming was proposed in India in the early 1960s, when it was faced with acute shortages of food grains due to the ever increasing population and natural disasters. Although it could not be applied successfully at first, as farmers had been familiar with conventional instructions, proponents of organic farming claimed that organic agriculture emphasized biodiversity and effective soil management could enhance the capacity to mitigate and even reverse the effects of climate change. So, India needed organic farming along with modern scientific agriculture. The study shows that in 2016, India became the country with the largest number of organic products and the production of crops kept growing year on year.\nAnother international review about organic farming presents in the first part that people today have become increasingly interested in organic food, and this opinion is quite the same as that of other articles. But what impressed me most was the volume of the investigation the author did in different countries. He conducted a survey in 99 countries, of which 66 are convinced that organic farming is beneficial to animals, while eight hold the opposite opinion, and the remaining 25 say it is inconclusive. Therefore, the last part of the review is mainly talking about whether organic farming brings positive effects to animals. We can see there are different views about the advantages of organic farming. Some may think it can provide more nutritious and healthier food, others may say it can protect the natural environment and benefit wildlife. However, as far as I'm concerned, it's you, the ones who buy organic products that will decide what they can bring to you, because market demand determines everything.\nOkay, that's all I want to say. Now, let's open it up for discussion.\n\nNarrator: That is the end of part four.\nYou now have one minute to check your answers to part four.",
+    "instruction": "Questions 31-40",
+    "questionRange": "31-40",
+    "answerHighlights": {
+     "31": [
+      6
+     ],
+     "32": [
+      8
+     ],
+     "33": [
+      10
+     ],
+     "34": [
+      13
+     ],
+     "35": [
+      15
+     ],
+     "36": [
+      16
+     ],
+     "37": [
+      18
+     ],
+     "38": [
+      20
+     ],
+     "39": [
+      22
+     ],
+     "40": [
+      24
+     ]
+    }
+   }
+  ],
+  "examDate": "2026-03-25",
+  "testInfo": {
+   "title": "IELTS Listening Practice Test 35",
+   "totalTime": 40,
+   "totalQuestions": 40
+  }
+ },
+ "created_at": "2026-05-14T13:04:21.160929+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

@@ -1,0 +1,911 @@
+{
+ "id": 2261,
+ "mock_type": "ket-reading-writing",
+ "mock_number": 27,
+ "title": "KET Reading & Writing — Test 27",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "match-notices",
+    "items": [
+     {
+      "id": 1,
+      "answer": "G",
+      "prompt": "You shouldn't go in through the front entrance of the shop."
+     },
+     {
+      "id": 2,
+      "answer": "E",
+      "prompt": "Extra staff are needed here for weekend work."
+     },
+     {
+      "id": 3,
+      "answer": "H",
+      "prompt": "Please ask the shop assistants if you need any help."
+     },
+     {
+      "id": 4,
+      "answer": "D",
+      "prompt": "You cannot buy a pet here on Saturday or Sunday afternoon."
+     },
+     {
+      "id": 5,
+      "answer": "A",
+      "prompt": "These are cheaper at the moment."
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "C",
+     "number": 0,
+     "prompt": "There is no cost to leave your car here if you use a shop."
+    },
+    "notices": [
+     {
+      "text": "This month only – 60% discount\non all pet care magazines",
+      "letter": "A"
+     },
+     {
+      "text": "Special offer!\nFree toy with every box of dog food",
+      "letter": "B"
+     },
+     {
+      "text": "Animal World\nFree parking for customers\n(Monday – Saturday)",
+      "letter": "C"
+     },
+     {
+      "text": "Pete's Pets\n8 a.m. – 6 p.m. weekdays\n8 a.m. – midday weekends",
+      "letter": "D"
+     },
+     {
+      "text": "Wanted – Sales Assistants\nSaturday to Sunday 11 a.m. – 6 p.m.\n£9 per hour",
+      "letter": "E"
+     },
+     {
+      "text": "Japanese goldfish for sale",
+      "letter": "F"
+     },
+     {
+      "text": "ALL CUSTOMERS\nDURING BUILDING WORK USE\nSIDE DOOR ONLY",
+      "letter": "G"
+     },
+     {
+      "text": "Bags of animal food too heavy?\nOur staff will carry them for you",
+      "letter": "H"
+     }
+    ],
+    "partNumber": 1,
+    "instruction": [
+     "Which notice (A–H) says this (1–5)?",
+     "For questions 1–5, mark the correct letter A–H on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "mcq-gap-fill-sentences",
+    "items": [
+     {
+      "id": 6,
+      "answer": "B",
+      "options": [
+       {
+        "text": "doing",
+        "letter": "A"
+       },
+       {
+        "text": "trying",
+        "letter": "B"
+       },
+       {
+        "text": "using",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Joe enjoys _____ different dishes on the menu."
+     },
+     {
+      "id": 7,
+      "answer": "C",
+      "options": [
+       {
+        "text": "busy",
+        "letter": "A"
+       },
+       {
+        "text": "crowded",
+        "letter": "B"
+       },
+       {
+        "text": "full",
+        "letter": "C"
+       }
+      ],
+      "sentence": "The pizza restaurant is often _____ of people at the weekends."
+     },
+     {
+      "id": 8,
+      "answer": "B",
+      "options": [
+       {
+        "text": "fast",
+        "letter": "A"
+       },
+       {
+        "text": "friendly",
+        "letter": "B"
+       },
+       {
+        "text": "careful",
+        "letter": "C"
+       }
+      ],
+      "sentence": "The waiters at the restaurant are really _____ to their customers."
+     },
+     {
+      "id": 9,
+      "answer": "A",
+      "options": [
+       {
+        "text": "cost",
+        "letter": "A"
+       },
+       {
+        "text": "spend",
+        "letter": "B"
+       },
+       {
+        "text": "pay",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Joe and his friends often share a pizza, so the meal doesn't _____ too much."
+     },
+     {
+      "id": 10,
+      "answer": "A",
+      "options": [
+       {
+        "text": "like",
+        "letter": "A"
+       },
+       {
+        "text": "want",
+        "letter": "B"
+       },
+       {
+        "text": "decide",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Joe thinks he would _____ to work in a restaurant when he is older."
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "text": "great",
+       "letter": "A"
+      },
+      {
+       "text": "lovely",
+       "letter": "B"
+      },
+      {
+       "text": "favourite",
+       "letter": "C"
+      }
+     ],
+     "sentence": "Joe and his friends often go to their _____ pizza restaurant in town."
+    },
+    "partNumber": 2,
+    "instruction": [
+     "Read the sentences about going to a restaurant.",
+     "Choose the best word (A, B or C) for each space.",
+     "For questions 6–10, mark A, B or C on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-response",
+    "items": [
+     {
+      "id": 11,
+      "answer": "C",
+      "prompt": "The TV's broken!",
+      "options": [
+       {
+        "text": "No, certainly not!",
+        "letter": "A"
+       },
+       {
+        "text": "Not too much.",
+        "letter": "B"
+       },
+       {
+        "text": "Not again!",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "answer": "C",
+      "prompt": "Does that shop sell chocolate?",
+      "options": [
+       {
+        "text": "Yes, I'd like to very much.",
+        "letter": "A"
+       },
+       {
+        "text": "No, I don't think you can.",
+        "letter": "B"
+       },
+       {
+        "text": "Only the expensive kind.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "answer": "C",
+      "prompt": "Do you know Raj?",
+      "options": [
+       {
+        "text": "Will he mind?",
+        "letter": "A"
+       },
+       {
+        "text": "I'm sure he doesn't.",
+        "letter": "B"
+       },
+       {
+        "text": "Not very well.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "answer": "B",
+      "prompt": "I don't speak much French.",
+      "options": [
+       {
+        "text": "It's not really enough.",
+        "letter": "A"
+       },
+       {
+        "text": "That won't be a problem.",
+        "letter": "B"
+       },
+       {
+        "text": "I'm afraid I don't want to.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "answer": "A",
+      "prompt": "Is everything OK with your meal?",
+      "options": [
+       {
+        "text": "The soup's a bit cold.",
+        "letter": "A"
+       },
+       {
+        "text": "How much does it cost?",
+        "letter": "B"
+       },
+       {
+        "text": "Steak, chips and salad please.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "prompt": "Where do you come from?",
+     "options": [
+      {
+       "text": "New York.",
+       "letter": "A"
+      },
+      {
+       "text": "School.",
+       "letter": "B"
+      },
+      {
+       "text": "Home.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partLetter": "a",
+    "partNumber": 3,
+    "instruction": [
+     "Complete the five conversations.",
+     "For questions 11–15, mark A, B or C on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "type": "match-dialogue",
+    "items": [
+     {
+      "id": 16,
+      "answer": "E"
+     },
+     {
+      "id": 17,
+      "answer": "H"
+     },
+     {
+      "id": 18,
+      "answer": "G"
+     },
+     {
+      "id": 19,
+      "answer": "C"
+     },
+     {
+      "id": 20,
+      "answer": "A"
+     }
+    ],
+    "example": {
+     "answer": "D",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "Maybe we'll be better!",
+      "letter": "A"
+     },
+     {
+      "text": "Yes. Shall I ask the teacher?",
+      "letter": "B"
+     },
+     {
+      "text": "Me too. Wasn't your father in one with his friends?",
+      "letter": "C"
+     },
+     {
+      "text": "Hi Toby. How are you?",
+      "letter": "D"
+     },
+     {
+      "text": "Yes. Are you going to do them?",
+      "letter": "E"
+     },
+     {
+      "text": "My friend Susie is a really good singer.",
+      "letter": "F"
+     },
+     {
+      "text": "They want to make sure we are interested before we start paying.",
+      "letter": "G"
+     },
+     {
+      "text": "I think the teacher said they are free the first term.",
+      "letter": "H"
+     }
+    ],
+    "dialogue": [
+     {
+      "line": "Hi, Xavier. It's Toby here.",
+      "speaker": "Toby"
+     },
+     {
+      "gap": 0,
+      "speaker": "Xavier"
+     },
+     {
+      "line": "I'm fine, thanks. Listen, do you know about the new guitar lessons at school?",
+      "speaker": "Toby"
+     },
+     {
+      "gap": 16,
+      "speaker": "Xavier"
+     },
+     {
+      "line": "Well, I might, but I'll have to find out the cost of the instrument and lessons first.",
+      "speaker": "Toby"
+     },
+     {
+      "gap": 17,
+      "speaker": "Xavier"
+     },
+     {
+      "line": "Really? Do you know why that is?",
+      "speaker": "Toby"
+     },
+     {
+      "gap": 18,
+      "speaker": "Xavier"
+     },
+     {
+      "line": "That sounds great! I've always wanted to be in a band.",
+      "speaker": "Toby"
+     },
+     {
+      "gap": 19,
+      "speaker": "Xavier"
+     },
+     {
+      "line": "Yes, but I don't think they were very good.",
+      "speaker": "Toby"
+     },
+     {
+      "gap": 20,
+      "speaker": "Xavier"
+     },
+     {
+      "line": "I'm sure you're right!",
+      "speaker": "Toby"
+     }
+    ],
+    "partLetter": "b",
+    "partNumber": 3,
+    "instruction": [
+     "Complete the conversation.",
+     "What does Xavier say to Toby?",
+     "For questions 16–20, mark the correct letter A–H on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "type": "mcq-passage-rws",
+    "items": [
+     {
+      "id": 21,
+      "answer": "B",
+      "statement": "Erden began his journey around the world in 2012."
+     },
+     {
+      "id": 22,
+      "answer": "A",
+      "statement": "Erden travelled around the world by bike, boat and on foot."
+     },
+     {
+      "id": 23,
+      "answer": "B",
+      "statement": "The plan to climb the mountains was made after Erden started the journey."
+     },
+     {
+      "id": 24,
+      "answer": "A",
+      "statement": "It was difficult for Erden to be by himself for so long while he was rowing."
+     },
+     {
+      "id": 25,
+      "answer": "C",
+      "statement": "Erden already spoke a little Spanish before he began his trip."
+     },
+     {
+      "id": 26,
+      "answer": "B",
+      "statement": "Erden was able to use his water machine every day."
+     },
+     {
+      "id": 27,
+      "answer": "B",
+      "statement": "As soon as he returned, Erden began planning his next adventure."
+     }
+    ],
+    "label": "PART 4",
+    "article": "Erden Eruç is Turkish but now lives in Seattle, USA, with his wife Nancy. In July 2012, he completed an amazing 5-year journey, becoming the first person ever to travel all the way around the world with no help from engines or sails. All he used were his own arms and legs, to cycle, row, and walk around the world.\n\nHis plan before beginning the trip was to climb the highest mountain on each of the six continents that he went through. Unfortunately he was only able to climb three of them because of bad weather and money problems.\n\nErden spent a lot of his time on the trip rowing his boat. His journey across the Pacific Ocean took 312 days. Being alone for that much time was not at all easy, but he kept busy by listening to music and studying Spanish. He took dried food with him and had a water machine to make fresh water out of seawater. However, it only worked on sunny days.\n\nErden is sure he will have more adventures one day. But at the moment all he wants to do is rest, think about his trip and spend time with Nancy.",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "statement": "Erden Eruç comes from Turkey."
+    },
+    "partNumber": 4,
+    "instruction": [
+     "Read the article about Erden Eruç, a famous explorer.",
+     "Are sentences 21–27 'Right' (A) or 'Wrong' (B)?",
+     "If there is not enough information to answer 'Right' (A) or 'Wrong' (B), choose 'Doesn't say' (C).",
+     "For questions 21–27, mark A, B or C on your answer sheet."
+    ],
+    "articleTitle": "An Amazing Adventure",
+    "questionsLabel": "QUESTIONS 21–27"
+   },
+   {
+    "type": "mcq-cloze-passage",
+    "items": [
+     {
+      "id": 28,
+      "answer": "B",
+      "options": [
+       {
+        "text": "at",
+        "letter": "A"
+       },
+       {
+        "text": "to",
+        "letter": "B"
+       },
+       {
+        "text": "by",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 29,
+      "answer": "A",
+      "options": [
+       {
+        "text": "much",
+        "letter": "A"
+       },
+       {
+        "text": "more",
+        "letter": "B"
+       },
+       {
+        "text": "most",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 30,
+      "answer": "C",
+      "options": [
+       {
+        "text": "need",
+        "letter": "A"
+       },
+       {
+        "text": "needed",
+        "letter": "B"
+       },
+       {
+        "text": "needing",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 31,
+      "answer": "A",
+      "options": [
+       {
+        "text": "themselves",
+        "letter": "A"
+       },
+       {
+        "text": "yourselves",
+        "letter": "B"
+       },
+       {
+        "text": "ourselves",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 32,
+      "answer": "C",
+      "options": [
+       {
+        "text": "except",
+        "letter": "A"
+       },
+       {
+        "text": "if",
+        "letter": "B"
+       },
+       {
+        "text": "so",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 33,
+      "answer": "A",
+      "options": [
+       {
+        "text": "every",
+        "letter": "A"
+       },
+       {
+        "text": "all",
+        "letter": "B"
+       },
+       {
+        "text": "each",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 34,
+      "answer": "B",
+      "options": [
+       {
+        "text": "a",
+        "letter": "A"
+       },
+       {
+        "text": "the",
+        "letter": "B"
+       },
+       {
+        "text": "one",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 35,
+      "answer": "C",
+      "options": [
+       {
+        "text": "what",
+        "letter": "A"
+       },
+       {
+        "text": "which",
+        "letter": "B"
+       },
+       {
+        "text": "that",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 5",
+    "example": {
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "text": "large",
+       "letter": "A"
+      },
+      {
+       "text": "larger",
+       "letter": "B"
+      },
+      {
+       "text": "largest",
+       "letter": "C"
+      }
+     ]
+    },
+    "passage": "African elephants are the {0} land animals on earth. They live together in family groups and move from place {28} place looking for food and water. They do not sleep {29} and can walk an amazing 80km without {30} a rest. Adult elephants eat up to 130kg of food a day. They eat plants of almost any size, from grass to trees.\n\nElephants must have water for cleaning {31} as well as for drinking, {32} they prefer to live as close to rivers and lakes as possible. Female elephants have a baby {33} four years. Other elephants in {34} same group help the females to look after the babies. This shows {35} family groups are very important for these wonderful animals.",
+    "partNumber": 5,
+    "instruction": [
+     "Read the article about African elephants.",
+     "Choose the best word (A, B or C) for each space.",
+     "For questions 28–35, mark A, B or C on your answer sheet."
+    ],
+    "passageTitle": "The African Elephant",
+    "questionsLabel": "QUESTIONS 28–35"
+   },
+   {
+    "type": "vocab-first-letter",
+    "items": [
+     {
+      "id": 36,
+      "answer": "wallet",
+      "prompt": "This is often made of leather and men keep their money in it.",
+      "letters": 6,
+      "firstLetter": "w"
+     },
+     {
+      "id": 37,
+      "answer": "bank",
+      "prompt": "You may go here to get some cash before you go shopping.",
+      "letters": 4,
+      "firstLetter": "b"
+     },
+     {
+      "id": 38,
+      "answer": "chemist",
+      "prompt": "If you need medicine, you can buy it at this shop.",
+      "letters": 7,
+      "firstLetter": "c"
+     },
+     {
+      "id": 39,
+      "answer": "café",
+      "prompt": "If you are tired after shopping, you can have something to eat or drink here.",
+      "letters": 4,
+      "firstLetter": "c"
+     },
+     {
+      "id": 40,
+      "answer": "bus",
+      "prompt": "After shopping, you may catch this to go home.",
+      "letters": 3,
+      "firstLetter": "b"
+     }
+    ],
+    "label": "PART 6",
+    "example": {
+     "answer": "assistant",
+     "number": 0,
+     "prompt": "This person works in a shop and can help you find what you need.",
+     "firstLetter": "a"
+    },
+    "partNumber": 6,
+    "instruction": [
+     "Read the descriptions of some words about shopping.",
+     "What is the word for each one?",
+     "The first letter is already there. There is one space for each other letter in the word.",
+     "For questions 36–40, write the words on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 36–40"
+   },
+   {
+    "type": "open-cloze-letter",
+    "items": [
+     {
+      "id": 41,
+      "answer": "what"
+     },
+     {
+      "id": 42,
+      "answer": "have"
+     },
+     {
+      "id": 43,
+      "answer": "of"
+     },
+     {
+      "id": 44,
+      "answer": "if"
+     },
+     {
+      "id": 45,
+      "answer": "a"
+     },
+     {
+      "id": 46,
+      "answer": "am"
+     },
+     {
+      "id": 47,
+      "answer": "why"
+     },
+     {
+      "id": 48,
+      "answer": "Can"
+     },
+     {
+      "id": 49,
+      "answer": "by"
+     },
+     {
+      "id": 50,
+      "answer": "from"
+     }
+    ],
+    "label": "PART 7",
+    "example": {
+     "answer": "to",
+     "number": 0
+    },
+    "letters": [
+     {
+      "body": "Do you remember I wanted (Example: to) invite you, Sasha and John to my new house? Well, {41} about next Saturday evening? We {42} a beautiful garden with lots {43} trees. We may have a barbeque outside {44} it doesn't rain. My mother is {45} really good cook and I {46} going to help her make the food.\n\nAfterwards, {47} don't we watch a film? {48} you bring a DVD with you as I haven't got many here?\n\nJohn's coming {49} bike and Sasha is getting a lift {50} her father. I hope you'll be able to come too.\n\nLet me know soon!",
+      "header": "From: Conny\nTo:   Marcia",
+      "closing": "Conny",
+      "greeting": "Hi Marcia,"
+     }
+    ],
+    "partNumber": 7,
+    "instruction": [
+     "Complete the email.",
+     "Write ONE word for each space.",
+     "For questions 41–50, write the words on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 41–50"
+   },
+   {
+    "note": {
+     "body": "",
+     "dateLine": "",
+     "signature": ""
+    },
+    "rows": [
+     {
+      "label": "Place:",
+      "prefilled": "Liston Sports Centre"
+     },
+     {
+      "id": 51,
+      "label": "Time lesson starts:",
+      "answer": "4",
+      "suffix": "p.m."
+     },
+     {
+      "id": 52,
+      "label": "Price:",
+      "answer": "85",
+      "suffix": "£"
+     },
+     {
+      "id": 53,
+      "label": "Day:",
+      "answer": "Thursday"
+     },
+     {
+      "id": 54,
+      "label": "Name of our teacher:",
+      "answer": "Julie"
+     },
+     {
+      "id": 55,
+      "label": "Number of people:",
+      "answer": "2"
+     }
+    ],
+    "type": "info-transfer-notes",
+    "label": "PART 8",
+    "notice": {
+     "body": "Liston Sports Centre\nAfter-school swimming lessons\n4 p.m. to 5 p.m. daily\n\nTom is teaching the over 18s this term so\nJulie is teaching these classes:\n\nLevel   Day\n1       Monday\n2       Tuesday\n3       Wednesday\n4       Thursday\n5       Friday\n\nPrices:\nAges 11–14   £65\n     15–18   £85\n\n—————————————\nFrom: Suli\nTo:   Paulo\n\nThanks for booking our swimming lessons! We were level 3 last term so we'll be level 4 now, and we've both turned 15, which means it's a bit more expensive. Don't forget Lena can't come this time, so there'll be two of us instead of three.",
+     "title": "Liston Sports Centre + Email"
+    },
+    "notesTitle": "Paulo's Notes",
+    "partNumber": 8,
+    "instruction": [
+     "Read the notice and the email.",
+     "Fill in the information in Paulo's notes.",
+     "For questions 51–55, write the information on your answer sheet."
+    ],
+    "notesSubtitle": "Swimming Course",
+    "questionsLabel": "QUESTIONS 51–55"
+   },
+   {
+    "type": "writing-postcard",
+    "items": [
+     {
+      "id": 56,
+      "type": "free-text",
+      "answer": "Hi Sami!\nThe concert is in the front of Palas Jasi. It's start at 6pm, but we cam be there at 5pm because will be crowded. We will get there by a taxi.\nYour friend, Rares",
+      "maxWords": 35,
+      "minWords": 25
+     }
+    ],
+    "label": "PART 9",
+    "footer": [
+     "Write 25–35 words.",
+     "Write the email on your answer sheet."
+    ],
+    "prompt": "Please tell me about the concert next Friday. Where is it? What time does it start? How are we going to get there?",
+    "wordCount": "25–35 words",
+    "partNumber": 9,
+    "instruction": [
+     "Read this email from your English friend Sami.",
+     "Write an email to Sami and answer the questions."
+    ],
+    "questionsLabel": "QUESTION 56",
+    "promptSignature": "Sami"
+   }
+  ],
+  "testInfo": {
+   "id": "ket-rw-27",
+   "level": "A2",
+   "paper": "Paper 1",
+   "parts": 9,
+   "title": "KET Reading & Writing — Test 27",
+   "totalTime": 70,
+   "totalQuestions": 56
+  }
+ },
+ "created_at": "2026-10-14T06:45:14.816847+00:00",
+ "updated_at": "2026-10-14T06:47:02.219494+00:00"
+}

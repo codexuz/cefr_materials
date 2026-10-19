@@ -1,0 +1,505 @@
+{
+ "id": 12,
+ "mock_type": "cefr-writing",
+ "mock_number": 2,
+ "title": "CEFR Writing Mock 02",
+ "status": "published",
+ "mock_data": {
+  "part1": {
+   "chip": "education",
+   "topic": "Library issue"
+  },
+  "tasks": {
+   "t2": {
+    "chip": "entertainment",
+    "genre": "article",
+    "title": "Movies or television influence people's behaviour",
+    "prompt": "On Facebook, you read a post about television and movies, and decided to express your opinion. The topic is: “How do movies or television influence people's behaviour?”\n\nWrite your response, giving reasons and examples. Write 180-200 words.",
+    "sample": "```html\n<div class=\"forum-post\">\n    <p>Hey everyone,</p>\n    <p>I wanted to chime in on this interesting topic about movies and TV shows and their impact on our behavior. I've got to say, there's definitely a strong <span class=\"ml-token colloc\">influence on people's</span> habits and mindsets, and I've noticed it quite a bit myself. For starters, these forms of media can significantly shape our perspectives. Take a gripping documentary; it <span class=\"ml-token phrasal\">opens our eyes</span> to issues we might never have considered. I remember watching a series about environmental conservation. It <span class=\"ml-token phrasal\">changed my habits</span> overnight—I started recycling and using less plastic. I mean, talk about an immediate impact!</p>\n    <p>Moreover, the way TV shows and films <span class=\"ml-token colloc\">portray relationships</span> and social norms can often <span class=\"ml-token phrasal\">lead to</span> shifts in how we view our personal lives. Romantic comedies, for instance, sometimes set unrealistic expectations about love. As a result, people might feel pressured to mimic these on-screen romances, which isn't always healthy. On the flip side, seeing strong, independent characters can <span class=\"ml-token phrasal\">boost one's confidence</span>.</p>\n    <p>Finally, let's not forget about the influence on language and fashion. Popular shows often introduce new lingo or trends that quickly become part of our daily lives. So, while movies and TV can be a source of entertainment, their power to <span class=\"ml-token colloc\">shape behaviors</span> and attitudes is undeniable. What does everyone else think?</p>\n    <p>Cheers,</p>\n    <p>A TV Enthusiast</p>\n</div>\n```",
+    "target": "180–200 words",
+    "sampleA1": "<p>Hi! Movies good. TV good. I like movies. I like TV. People watch TV. People watch movies. I think TV is fun. Bye!</p>",
+    "sampleA2": "<p>Hello. I like TV and movies. I think TV and movies are good. My friends like TV and movies too. They watch TV and movies every day. I think movies can change people because they see new things. But TV is just fun. I like to watch comedies because they are funny.</p>",
+    "sampleB1": "<p>Hi everyone,<br>I want to say something about movies and television. I think they can change how people act. For example, if you watch a movie about being kind, you might be kinder to others. Also, TV shows can show us different ways of living. I saw a show about people helping animals, and I started to volunteer at an animal shelter. However, sometimes movies and TV can show bad things, and that's not good. In my opinion, it depends on what you watch. We should watch things that make us better people. What do you think?</p>",
+    "sampleB2": "<p>Have you ever left the cinema feeling ready to <span class=\"ml-token idiom\">take on the world</span>? If so, you already know that what we watch shapes how we act.</p>\n<p>Firstly, films and television give us powerful <span class=\"ml-token colloc\">role models</span> to look up to. When a character battles hardship and comes out on top, viewers are often inspired to <span class=\"ml-token phrasal\">keep going</span> during tough times in their own lives. A gripping documentary can be just as influential; after watching one on plastic waste, I <span class=\"ml-token phrasal\">cut down on</span> single-use bottles almost overnight.</p>\n<p>On the other hand, the screen does not always <span class=\"ml-token idiom\">bring out the best in us</span>. Shows that make reckless or unhealthy behaviour look glamorous can quietly <span class=\"ml-token phrasal\">rub off on</span> younger viewers, who may copy what they see <span class=\"ml-token idiom\">without a second thought</span>.</p>\n<p>So where does that leave us? The key, I believe, is <span class=\"ml-token academic\">media literacy</span>. If we learn to watch with a critical eye rather than soaking up everything passively, television and film can <span class=\"ml-token idiom\">broaden our horizons</span> instead of narrowing them. Next time you settle down to watch, ask yourself: is this shaping me, or am I in charge?</p>",
+    "uzSample": "<p>Hammaga salom,</p>\n<p>Men kino va teleseriallar hamda ularning xulq-atvorimizga ta'siri haqidagi ushbu qiziqarli mavzuga o'z fikrimni qo'shmoqchiman. Shuni aytishim kerakki, ularning odamlarning odatlari va dunyoqarashiga ta'siri juda kuchli va men buni o'zimda ham sezganman. Avvalo, bu media shakllari bizning nuqtai nazarimizni sezilarli darajada shakllantirishi mumkin. Birorta hayajonli hujjatli filmni olaylik; u biz hech qachon o'ylamagan muammolarga ko'zimizni ochadi. Esimda, atrof-muhitni muhofaza qilish haqida bir serial ko'rgan edim. U mening odatlarimni bir kechada o'zgartirdi — men qayta ishlashni boshladim va plastikdan kamroq foydalandim. Aytmoqchimanki, bu darhol ta'sir!</p>\n<p>Bundan tashqari, teleseriallar va filmlar munosabatlar va ijtimoiy me'yorlarni tasvirlash usuli ko'pincha shaxsiy hayotimizga bo'lgan qarashlarimizning o'zgarishiga olib kelishi mumkin. Masalan, romantik komediyalar ba'zan sevgi haqida noreal kutishlarni keltirib chiqaradi. Natijada, odamlar ekrandagi romantikani takrorlashga majbur bo'lishi mumkin, bu har doim ham sog'lom emas. Boshqa tomondan, kuchli, mustaqil personajlarni ko'rish o'ziga bo'lgan ishonchni oshirishi mumkin.</p>\n<p>Va nihoyat, til va moda ta'sirini unutmaylik. Ommabop seriallar ko'pincha yangi jargon yoki trendlarni taqdim etadi, ular tezda kundalik hayotimizning bir qismiga aylanadi. Shunday qilib, kino va televideniye ko'ngilochar manba bo'lishi bilan birga, ularning xatti-harakatlar va munosabatlarni shakllantirish kuchi inkor etib bo'lmaydi. Boshqalar nima deb o'ylaydi?</p>\n<p>Xayr,</p>\n<p>Televideniye ishqibozi</p>",
+    "uzSampleA1": "<p>Salom! Kinolar yaxshi. Televizor yaxshi. Menga kinolar yoqadi. Menga televizor yoqadi. Odamlar televizor ko'radi. Odamlar kino ko'radi. Men o'ylaymanki, televizor qiziqarli. Xayr!</p>",
+    "uzSampleA2": "<p>Salom. Men televizor va kinolarni yaxshi ko'raman. Menimcha, televizor va kinolar yaxshi. Mening do'stlarim ham televizor va kinolarni yaxshi ko'rishadi. Ular har kuni televizor va kino ko'rishadi. Menimcha, kinolar odamlarni o'zgartirishi mumkin, chunki ular yangi narsalarni ko'rishadi. Lekin televizor shunchaki qiziqarli. Men komediyalarni ko'rishni yaxshi ko'raman, chunki ular kulguli.</p>",
+    "uzSampleB1": "<p>Hammaga salom,<br>Men kino va televideniye haqida bir narsa demoqchiman. Menimcha, ular odamlarning xatti-harakatlarini o'zgartirishi mumkin. Misol uchun, agar siz mehribon bo'lish haqida film ko'rsangiz, boshqalarga nisbatan mehribonroq bo'lishingiz mumkin. Shuningdek, teleshoular bizga turli xil hayot tarzlarini ko'rsatishi mumkin. Men hayvonlarga yordam berayotgan odamlar haqida bir ko'rsatuvni ko'rdim va hayvonlar boshpanasida ko'ngilli bo'lib ishlay boshladim. Biroq, ba'zida kino va televideniye yomon narsalarni ko'rsatishi mumkin va bu yaxshi emas. Mening fikrimcha, bu sizning nimani tomosha qilishingizga bog'liq. Bizni yaxshiroq inson qiladigan narsalarni tomosha qilishimiz kerak. Siz nima deb o'ylaysiz?</p>",
+    "uzSampleB2": "<p>Hammaga salom,<br>Men kino va televideniyaning odamlarning xulq-atvoriga qanday ta'sir qilishi haqida o'z fikrlarimni baham ko'rmoqchiman. Menimcha, ularning ta'siri juda katta, ular bizning dunyoqarashimizni shakllantiradi va hatto harakatlarimizni ham boshqaradi. Misol uchun, hujjatli filmlar bizni boshqa paytlarda e'tibor bermasligimiz mumkin bo'lgan voqeliklar bilan tanishtirishi va turmush tarzimizda o'zgarishlarga olib kelishi mumkin. Men tez moda va uning atrof-muhitga ta'siri haqidagi filmni tomosha qilganim esimda, bu meni xarid qilish odatlarimni qayta ko'rib chiqishga undadi.<br>Bundan tashqari, ekranda ko'rgan qahramonlarimiz ko'pincha ijobiy va salbiy namuna bo'lib xizmat qiladi. Agar filmda qiyinchiliklarni mehnat va qat'iyatlilik orqali yengib o'tgan qahramon tasvirlansa, bu tomoshabinlarni o'z hayotida davom etishga ilhomlantirishi mumkin. Aksincha, ba'zi ko'rsatuvlarda nosog'lom xatti-harakatlarning jozibador qilib ko'rsatilishi ba'zi tomoshabinlar uchun bu xatti-harakatlarni normallashtirishi mumkin.<br>Xulosa qilib aytganda, kino va televidenie ko'ngilochar va ma'lumot beruvchi bo'lishi mumkin bo'lsa-da, ularning xatti-harakatlarimizga potentsial ta'siridan xabardor bo'lish juda muhim. Tanqidiy ko'rish va chuqur mulohaza yuritish biz potentsial zararli xabarlarni passiv ravishda o'zlashtirmasligimizni ta'minlash uchun zarurdir. Bu haqda sizning fikrlaringiz qanday?</p>"
+   },
+   "t11": {
+    "title": "informal letter · to friend",
+    "prompt": "Write a letter to your friend, who is also a member of the library. Write about your feelings and what you think the library management should do. Write your response in about 50 words.",
+    "sample": "```html\n<!DOCTYPE html>\n<html>\n<head>\n    <style>\n        .adv { color: orange; font-style: italic; }\n        .phrasal { color: green; text-decoration: underline; }\n        .colloc { color: blue; font-weight: bold; }\n        .idiom { color: purple; text-decoration: underline; }\n    </style>\n</head>\n<body>\n    <p>Hey there,</p>\n    <p>Guess what? The library's <span class=\"ml-token phrasal\">shaking things up</span> this term, and they're asking for suggestions! I'm <span class=\"ml-token adv\">honestly excited</span> about this. I reckon we <span class=\"ml-token modal\">should suggest</span> getting more <span class=\"ml-token colloc\">non-fiction reads</span>, especially on technology and history. How cool would that be? Also, it <span class=\"ml-token modal\">might be</span> great if they <span class=\"ml-token phrasal\">set up</span> more <span class=\"ml-token colloc\">quiet study zones</span>. And what do you think about some <span class=\"ml-token colloc\">reading events</span>? It'd be a <span class=\"ml-token idiom\">win-win situation</span>—more engagement, more fun!</p>\n    <p>Cheers,</p>\n    <p>Sardor Salimov</p>\n</body>\n</html>\n```",
+    "target": "50–70 words",
+    "sampleA1": "<p>Hi Ulugbek,<br>Library change. I like books. Buy more books. Bye.</p>",
+    "sampleA2": "<p>Hi Ulugbek,<br>The library wants new books! I want more books about animals and I want more chairs because it is difficult to study. Maybe they can have a party? What do you think? Write soon.<br>Bye,<br>Sardor Salimov</p>",
+    "sampleB1": "<p>Dear Ulugbek,<br>Did you see the email from the library? They want our ideas! I think it would be good if they bought some new novels and maybe some magazines too. Also, the library is sometimes noisy, so perhaps they could make a quiet area for studying. What do you think about having a book club? Let me know your ideas.<br>Best,<br>Sardor Salimov</p>",
+    "sampleB2": "<p>Hey Ulugbek,</p>\n<p>Have you seen the librarian's email about the changes? Honestly, I'm <span class=\"ml-token idiom\">pumped about it</span>! <span class=\"ml-token colloc\">I reckon</span> we should <span class=\"ml-token phrasal\">push for</span> more novels and a few <span class=\"ml-token colloc\">cosy corners</span> to study in — the place <span class=\"ml-token colloc\">gets so noisy</span> sometimes. A <span class=\"ml-token colloc\">book club</span> would be brilliant too, don't you think? Let me jot down our ideas and we'll <span class=\"ml-token phrasal\">send them in</span> together.</p>\n<p><span class=\"ml-token idiom\">Catch you later</span>,</p>\n<p>Dilnoza Karimova</p>",
+    "uzSample": "<p>Salom,</p>\n<p>Nima deb oʻylaysan? Kutubxona bu semestr \"shov-shuv ko'tarmoqda\" va ular takliflar so'rashyapti! Rostini aytsam, bundan juda xursandman. Menimcha, biz ko'proq badiiy bo'lmagan adabiyotlar, ayniqsa texnologiya va tarix bo'yicha kitoblar olishni taklif qilishimiz kerak. Bu qanchalik zo'r bo'lardi-a? Shuningdek, agar ular ko'proq tinch o'qish zonalarini tashkil qilishsa, juda yaxshi bo'lardi. Va siz o'qish tadbirlari haqida nima deb o'ylaysiz? Bu ikki tomon uchun ham foydali bo'lardi - ko'proq ishtirok, ko'proq qiziqarli!</p>\n<p>Xayr,</p>\n<p>Sardor Salimov</p>",
+    "uzSampleA1": "<p>Salom Ulugbek,<br>Kutubxona o'zgarishi. Men kitoblarni yaxshi ko'raman. Ko'proq kitoblar sotib oling. Xayr.</p>",
+    "uzSampleA2": "<p>Salom, Ulugbek,<br>Kutubxona yangi kitoblar xohlaydi! Men hayvonlar haqida ko'proq kitoblar xohlayman va ko'proq stullar xohlayman, chunki o'qish qiyin. Balki ular ziyofat o'tkazishlari mumkin? Siz nima deb o'ylaysiz? Tezroq yozing.<br>Xayr,<br>Sardor Salimov</p>",
+    "uzSampleB1": "<p>Salom Ulugbek,<br>Kutubxonadan kelgan elektron pochtani ko'rdingmi? Ular bizning fikrlarimizni so'rashyapti! Menimcha, ular yangi romanlar va balki ba'zi jurnallar ham sotib olishsa yaxshi bo'lardi. Shuningdek, kutubxona ba'zan shovqinli bo'ladi, shuning uchun ular o'qish uchun tinch joy tashkil qilishlari mumkin. Kitob klubiga ega bo'lish haqida nima deb o'ylaysan? Menga o'z fikrlaringni bildir.<br>Eng yaxshi tilaklar bilan,<br>Sardor Salimov</p>",
+    "uzSampleB2": "<p>Salom Ulugbek,<br>Kutubxonachining bo'lajak o'zgarishlar haqidagi elektron pochtasini ko'rdingizmi? Menda bir nechta fikrlar bor va sizning fikringizni ham eshitishga qiziqaman. Birinchidan, menimcha, kutubxona ijtimoiy fanlar bo'yicha kengroq akademik jurnallarga sarmoya kiritishi kerak. Ikkinchidan, o'qish joylarini yaxshilash mumkin; ehtimol, ular elektr rozetkalari bilan jihozlangan ko'proq individual stollar qo'shishlari mumkin. Nihoyat, muntazam ravishda mualliflar bilan suhbatlar yoki seminarlar tashkil etish ishtirokni sezilarli darajada oshirishi mumkin. Sizning fikrlaringiz qanday?<br>Hurmat bilan,<br>Sardor Salimov</p>"
+   },
+   "t12": {
+    "title": "formal letter · to librarian",
+    "prompt": "Write a letter to the librarian. Write about your feelings and what you think the library management should do. Write your response in 120-150 words.",
+    "sample": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Letter to Librarian</title>\n</head>\n<body>\n    <p>Dear Librarian,</p>\n\n    <p>I’m <span class=\"ml-token adv\">truly impressed</span> by the initiative to <span class=\"ml-token phrasal\">bring about</span> changes in our library. It's heartening to see that you're keen on making it a better place for us. In terms of books, I think expanding our <span class=\"ml-token colloc\">collection of contemporary fiction</span> and non-fiction would <span class=\"ml-token modal\">greatly</span> enrich the library's offerings. There’s an increasing interest amongst students in these genres, and keeping up with <span class=\"ml-token colloc\">literary trends</span> would be <span class=\"ml-token idiom\">a feather in our cap</span>.</p>\n\n    <p>Furthermore, to enhance our study environment, I suggest introducing more comfortable seating and perhaps creating <span class=\"ml-token colloc\">designated quiet zones</span>. This would <span class=\"ml-token phrasal\">cater to</span> different student preferences and improve overall focus.</p>\n\n    <p>Lastly, I am <span class=\"ml-token adv\">definitely supportive</span> of organizing reading events or contests. They would not only foster a <span class=\"ml-token colloc\">love of reading</span> but also build a sense of community among students. Competitions could <span class=\"ml-token phrasal\">motivate students</span> to engage more with the library's resources.</p>\n\n    <p>Thank you for considering our input. I <span class=\"ml-token modal\">hope</span> these suggestions prove helpful.</p>\n\n    <p>Warm regards,</p>\n    <p>A Concerned Student</p>\n</body>\n</html>",
+    "target": "120–150 words",
+    "sampleA1": "<p>Hi Librarian,<br>I like books. Buy more books. Red books are good.  I like to read here. Bye.</p>",
+    "sampleA2": "<p>Hi Librarian,<br>I like the library. I want more books and magazines because I like to read.  The chairs are not good.  They are old.  Maybe new chairs?  And maybe a reading club? That would be fun. Thank you. Bye.</p>",
+    "sampleB1": "<p>Dear Librarian,<br><br>I am writing to give you some ideas about the library. I think it is a good idea to make changes.  I would like to see more books, especially new books about science and technology because I am studying engineering.  Also, the library could be better if it was quieter. Sometimes it is hard to concentrate.  Maybe you could have a special quiet area? I also think reading events are a good idea.  Maybe a book club or something similar. Thank you for listening.<br><br>Sincerely,<br>A Student</p>",
+    "sampleB2": "<p>Dear Librarian,</p>\n<p>I am writing in response to your message about the upcoming changes, and I am delighted that you are seeking our views.</p>\n<p>Firstly, I would <span class=\"ml-token colloc\">strongly encourage</span> the library to <span class=\"ml-token phrasal\">invest in</span> a wider range of up-to-date books, particularly recent fiction and titles on science and technology, as these are <span class=\"ml-token colloc\">in high demand</span> among students.</p>\n<p>Secondly, the study environment could be improved considerably. Setting aside a few <span class=\"ml-token colloc\">quiet study areas</span>, along with more desks and power sockets, would help us to <span class=\"ml-token idiom\">knuckle down</span> and concentrate.</p>\n<p>Finally, I am <span class=\"ml-token idiom\">all in favour of</span> organising reading events or contests. Author talks and friendly competitions would <span class=\"ml-token colloc\">foster a love of reading</span> and bring students together.</p>\n<p>Thank you for taking our suggestions <span class=\"ml-token idiom\">on board</span>. I am confident these changes would make the library a far more welcoming place.</p>\n<p>Yours sincerely,</p>\n<p>Bekzod Aliyev</p>",
+    "uzSample": "<p>Hurmatli kutubxonachi,</p>\n\n<p>Kutubxonamizda o'zgarishlar qilish tashabbusingiz meni chin dildan hayratga soldi. Sizning uni biz uchun yanada yaxshi joyga aylantirishga intilayotganingizni ko'rish juda quvonarli. Kitoblar borasida, menimcha, zamonaviy badiiy va badiiy bo'lmagan adabiyotlar to'plamimizni kengaytirish kutubxonaning takliflarini sezilarli darajada boyitadi. Talabalar orasida ushbu janrlarga qiziqish ortib bormoqda va adabiy tendentsiyalardan xabardor bo'lish biz uchun katta yutuq bo'ladi.</p>\n\n<p>Bundan tashqari, o'qish muhitini yaxshilash uchun men yanada qulay o'rindiqlar qo'yishni va, ehtimol, alohida tinch zonalar yaratishni taklif qilaman. Bu talabalarning turli xil xohishlariga mos keladi va umumiy diqqatni jamlashni yaxshilaydi.</p>\n\n<p>Va nihoyat, men o'qish tadbirlari yoki tanlovlar tashkil etilishini albatta qo'llab-quvvatlayman. Ular nafaqat o'qishga muhabbatni rivojlantiradi, balki talabalar o'rtasida hamjamiyat tuyg'usini ham yaratadi. Tanlovlar talabalarni kutubxona resurslari bilan ko'proq shug'ullanishga undashi mumkin.</p>\n\n<p>Fikrimizni inobatga olganingiz uchun tashakkur. Umid qilamanki, bu takliflar foydali bo'ladi.</p>\n\n<p>Samimiy hurmat bilan,</p>\n<p>Bezg'alangan talaba</p>",
+    "uzSampleA1": "<p>Salom kutubxonachi,<br>Men kitoblarni yaxshi ko'raman. Ko'proq kitob sotib oling. Qizil kitoblar yaxshi. Men bu yerda o'qishni yaxshi ko'raman. Xayr.</p>",
+    "uzSampleA2": "<p>Salom Kutubxonachi,<br>Menga kutubxona yoqadi. Men ko'proq kitoblar va jurnallar xohlayman, chunki o'qishni yaxshi ko'raman. Stullar yaxshi emas. Ular eski. Balki yangi stullar kerakdir? Va balki o'quv klubi kerakdir? Bu qiziqarli bo'lardi. Rahmat. Xayr.</p>",
+    "uzSampleB1": "<p>Hurmatli kutubxonachi,<br><br>Sizga kutubxona haqida ba'zi fikrlarimni bildirish uchun yozyapman. O'zgarishlar qilish yaxshi fikr deb o'ylayman. Men ko'proq kitoblar, ayniqsa fan va texnologiya haqidagi yangi kitoblarni ko'rishni xohlayman, chunki men muhandislik bo'yicha o'qiyapman. Shuningdek, kutubxona tinchroq bo'lsa, yaxshiroq bo'lardi. Ba'zan diqqatni jamlash qiyin. Ehtimol, sizda maxsus tinch zona bo'lishi mumkin? Menimcha, kitob o'qish tadbirlari ham yaxshi fikr. Ehtimol, kitob klubi yoki shunga o'xshash narsa. E'tiboringiz uchun rahmat.<br><br>Hurmat bilan,<br>Talaba</p>",
+    "uzSampleB2": "<p>Hurmatli kutubxonachi,<br><br>Men kutubxonadagi ehtimoliy o'zgarishlar haqidagi xabaringizga javoban yozyapman. Fikr bildirish imkoniyati uchun minnatdorman. Menimcha, kutubxona, ayniqsa ijtimoiy fanlar va gumanitar fanlar sohalarida, akademik jurnallarning yangilangan to'plamidan foyda ko'rishi mumkin. Talabalarning akademik muvaffaqiyati uchun dolzarb tadqiqotlarga kirish juda muhim.<br><br>Bundan tashqari, shovqin darajasi muammosini hal qilish orqali o'qish muhitini yaxshilash mumkin. Muayyan joylarda ovoz o'tkazmaslik choralarini ko'rish yoki maxsus tinch zonalarini belgilash, diqqatni jamlab o'qish uchun qulayroq muhit yaratadi. Nihoyat, men o'qish tadbirlarini tashkil etish g'oyasini qat'iy qo'llab-quvvatlayman. Ehtimol, mualliflar bilan suhbatlar yoki tematik kitob muhokamalari seriyasi hamjamiyat tuyg'usini kuchaytirishi va adabiyotga kengroq jalb qilishga yordam berishi mumkin. Ushbu tadbirlar odatda kutubxona resurslaridan foydalanmaydigan talabalarni ham jalb qilishi mumkin.<br><br>Ushbu takliflarni ko'rib chiqayotganingiz uchun tashakkur.<br><br>Hurmat bilan,<br>Talaba</p>"
+   },
+   "p1_context": "You are a student at your college. You received this message from the librarian.",
+   "p1_scenario": "Dear Students,\n\nWe are planning to make some changes in the library this term.\n\nWhat kinds of books or materials would you like us to buy? How can we make the library a better place to study? Should we organize reading events or contests?\n\nPlease share your ideas by email.\n\nThe Librarian"
+  },
+  "examDate": "2025-11-29",
+  "settings": {
+   "logoUrl": "https://audio.mock-stream.com/img/ibb/WN0XY5Lv/logo.png",
+   "heading1": "Bilim va malakalarni baholash agentligi",
+   "heading2": "Chet tilini bilish darajasi",
+   "examTitle": "Writing exam",
+   "logoWording": "Mock Stream",
+   "testIdentifier": "mock_stream"
+  },
+  "vocabulary": {
+   "task2": [
+    {
+     "en": "media influence",
+     "uz": "omma ta'siri"
+    },
+    {
+     "en": "social behavior",
+     "uz": "ijtimoiy xulq"
+    },
+    {
+     "en": "role models",
+     "uz": "o'rnak bo'ladigan shaxslar"
+    },
+    {
+     "en": "depict lifestyles",
+     "uz": "turmush tarzini tasvirlash"
+    },
+    {
+     "en": "affect perceptions",
+     "uz": "tushunchalarga ta'sir qilish"
+    },
+    {
+     "en": "emotional impact",
+     "uz": "emotsional ta'sir"
+    },
+    {
+     "en": "shaping attitudes",
+     "uz": "munosabatlarni shakllantirish"
+    },
+    {
+     "en": "influence trends",
+     "uz": "tendentsiyalarga ta'sir qilish"
+    },
+    {
+     "en": "cultural norms",
+     "uz": "madaniy me'yorlar"
+    },
+    {
+     "en": "behavioral patterns",
+     "uz": "xulq-atvor turlari"
+    },
+    {
+     "en": "representation",
+     "uz": "vakillik"
+    },
+    {
+     "en": "engage audiences",
+     "uz": "tomoshabinlarni jalb qilish"
+    },
+    {
+     "en": "drive consumer habits",
+     "uz": "iste'mol odatlarini boshqarish"
+    },
+    {
+     "en": "persuasive narratives",
+     "uz": "ishonchli hikoyalar"
+    },
+    {
+     "en": "critical thinking",
+     "uz": "tanqidiy fikrlash"
+    },
+    {
+     "en": "inform public opinion",
+     "uz": "jamoat fikrini shakllantirish"
+    },
+    {
+     "en": "visual storytelling",
+     "uz": "vizual hikoya qilish"
+    },
+    {
+     "en": "construct reality",
+     "uz": "haqiqatni qurish"
+    },
+    {
+     "en": "entertainment value",
+     "uz": "ko'ngilochar qiymat"
+    },
+    {
+     "en": "media literacy",
+     "uz": "omma savodxonligi"
+    }
+   ],
+   "task11": [
+    {
+     "en": "Hey buddy!",
+     "uz": "Salom do'stim!"
+    },
+    {
+     "en": "I'm really excited",
+     "uz": "Men juda hayajonlandim"
+    },
+    {
+     "en": "library updates",
+     "uz": "kutubxona yangiliklari"
+    },
+    {
+     "en": "more comfy chairs",
+     "uz": "ko'proq qulay stullar"
+    },
+    {
+     "en": "chill zone",
+     "uz": "dam olish zonasi"
+    },
+    {
+     "en": "grab some new books",
+     "uz": "yangi kitoblar olish"
+    },
+    {
+     "en": "study vibes",
+     "uz": "o'qish muhitlari"
+    },
+    {
+     "en": "book contests",
+     "uz": "kitob tanlovlari"
+    },
+    {
+     "en": "read-a-thon",
+     "uz": "o'qish marafoni"
+    },
+    {
+     "en": "cozy spots",
+     "uz": "qulay joylar"
+    },
+    {
+     "en": "snack corner",
+     "uz": "atirlar burchagi"
+    },
+    {
+     "en": "extra outlets",
+     "uz": "qo'shimcha rozetkalar"
+    },
+    {
+     "en": "reading events",
+     "uz": "o'qish tadbirlari"
+    },
+    {
+     "en": "better lighting",
+     "uz": "yaxshi yoritish"
+    },
+    {
+     "en": "fun activities",
+     "uz": "qiziqarli faoliyatlar"
+    },
+    {
+     "en": "catch up soon",
+     "uz": "yaqinda ko'rishamiz"
+    }
+   ],
+   "task12": [
+    {
+     "en": "Dear Librarian,",
+     "uz": "Hurmatli Kutubxonachi,"
+    },
+    {
+     "en": "I am writing to express",
+     "uz": "Men ifoda etmoqchiman"
+    },
+    {
+     "en": "enhancing the library experience",
+     "uz": "kutubxona tajribasini yaxshilash"
+    },
+    {
+     "en": "consider acquiring",
+     "uz": "sotib olishni ko'rib chiqing"
+    },
+    {
+     "en": "latest publications",
+     "uz": "so'nggi nashrlar"
+    },
+    {
+     "en": "academic resources",
+     "uz": "akademik manbalar"
+    },
+    {
+     "en": "improve study environment",
+     "uz": "o'qish muhitini yaxshilash"
+    },
+    {
+     "en": "comfortable seating arrangements",
+     "uz": "qulay o'tirish tartiblari"
+    },
+    {
+     "en": "host interactive events",
+     "uz": "interaktiv tadbirlar o'tkazish"
+    },
+    {
+     "en": "reading challenges",
+     "uz": "o'qish sinovlari"
+    },
+    {
+     "en": "broaden our horizons",
+     "uz": "dunyoqarashimizni kengaytirish"
+    },
+    {
+     "en": "quiet study areas",
+     "uz": "jim o'qish joylari"
+    },
+    {
+     "en": "additional power outlets",
+     "uz": "qo'shimcha quvvat rozetkalar"
+    },
+    {
+     "en": "aesthetic improvements",
+     "uz": "estetik yaxshilanishlar"
+    },
+    {
+     "en": "foster a love for reading",
+     "uz": "o'qishga muhabbatni rivojlantirish"
+    },
+    {
+     "en": "sincerely",
+     "uz": "samimiyat bilan"
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "hope": {
+    "uz": "umid qilaman",
+    "type": "modal"
+   },
+   "set up": {
+    "uz": "tashkil etmoq",
+    "type": "phrasal"
+   },
+   "greatly": {
+    "uz": "juda katta",
+    "type": "modal"
+   },
+   "lead to": {
+    "uz": "olib kelmoq",
+    "type": "phrasal"
+   },
+   "I reckon": {
+    "uz": "menimcha",
+    "type": "colloc"
+   },
+   "cater to": {
+    "uz": "xizmat ko'rsatmoq",
+    "type": "phrasal"
+   },
+   "might be": {
+    "uz": "bo'lishi mumkin",
+    "type": "modal"
+   },
+   "on board": {
+    "uz": "e'tiborga, inobatga olmoq",
+    "type": "idiom"
+   },
+   "push for": {
+    "uz": "yoqlab chiqmoq, talab qilmoq",
+    "type": "phrasal"
+   },
+   "book club": {
+    "uz": "kitobxonlar klubi",
+    "type": "colloc"
+   },
+   "invest in": {
+    "uz": "mablag' ajratmoq, sarmoya kiritmoq",
+    "type": "phrasal"
+   },
+   "keep going": {
+    "uz": "davom etmoq, to'xtamaslik",
+    "type": "phrasal"
+   },
+   "rub off on": {
+    "uz": "ta'sir o'tkazmoq, yuqmoq",
+    "type": "phrasal"
+   },
+   "bring about": {
+    "uz": "amalga oshirmoq",
+    "type": "phrasal"
+   },
+   "cut down on": {
+    "uz": "kamaytirmoq",
+    "type": "phrasal"
+   },
+   "role models": {
+    "uz": "o'rnak bo'ladigan shaxslar",
+    "type": "colloc"
+   },
+   "cosy corners": {
+    "uz": "shinam burchaklar",
+    "type": "colloc"
+   },
+   "knuckle down": {
+    "uz": "astoydil ishga kirishmoq",
+    "type": "idiom"
+   },
+   "send them in": {
+    "uz": "yuborib qo'ymoq",
+    "type": "phrasal"
+   },
+   "gets so noisy": {
+    "uz": "juda shovqinli bo'lib ketadi",
+    "type": "colloc"
+   },
+   "in high demand": {
+    "uz": "talab yuqori, ...ga talab katta",
+    "type": "colloc"
+   },
+   "media literacy": {
+    "uz": "media savodxonligi",
+    "type": "academic"
+   },
+   "opens our eyes": {
+    "uz": "ko'zimizni ochadi",
+    "type": "phrasal"
+   },
+   "reading events": {
+    "uz": "kitobxonlik tadbirlari",
+    "type": "colloc"
+   },
+   "should suggest": {
+    "uz": "tavsiya qilish kerak",
+    "type": "modal"
+   },
+   "Catch you later": {
+    "uz": "keyinroq ko'rishamiz",
+    "type": "idiom"
+   },
+   "literary trends": {
+    "uz": "adabiy tendensiyalar",
+    "type": "colloc"
+   },
+   "love of reading": {
+    "uz": "kitobga muhabbat",
+    "type": "colloc"
+   },
+   "pumped about it": {
+    "uz": "juda hayajonlanganman",
+    "type": "idiom"
+   },
+   "shape behaviors": {
+    "uz": "xulq-atvorni shakllantirmoq",
+    "type": "colloc"
+   },
+   "truly impressed": {
+    "uz": "chindan ta'sirlangan",
+    "type": "adv"
+   },
+   "all in favour of": {
+    "uz": "to'liq tarafdoriman",
+    "type": "idiom"
+   },
+   "honestly excited": {
+    "uz": "chin dildan hayajonlangan",
+    "type": "adv"
+   },
+   "changed my habits": {
+    "uz": "odatlarimni o'zgartirdi",
+    "type": "phrasal"
+   },
+   "motivate students": {
+    "uz": "talabalarni rag'batlantirmoq",
+    "type": "phrasal"
+   },
+   "non-fiction reads": {
+    "uz": "badiiy bo'lmagan asarlar",
+    "type": "colloc"
+   },
+   "quiet study areas": {
+    "uz": "jim o'qish joylari",
+    "type": "colloc"
+   },
+   "quiet study zones": {
+    "uz": "jim o'qish joylari",
+    "type": "colloc"
+   },
+   "shaking things up": {
+    "uz": "o'zgarishlar qilish",
+    "type": "phrasal"
+   },
+   "take on the world": {
+    "uz": "dunyoni zabt etishga tayyor",
+    "type": "idiom"
+   },
+   "win-win situation": {
+    "uz": "ikki tomon uchun ham foydali vaziyat",
+    "type": "idiom"
+   },
+   "strongly encourage": {
+    "uz": "qat'iy tavsiya qilaman",
+    "type": "colloc"
+   },
+   "a feather in our cap": {
+    "uz": "biz uchun faxr",
+    "type": "idiom"
+   },
+   "broaden our horizons": {
+    "uz": "dunyoqarashimizni kengaytirmoq",
+    "type": "idiom"
+   },
+   "definitely supportive": {
+    "uz": "albatta qo'llab-quvvatlovchi",
+    "type": "adv"
+   },
+   "influence on people's": {
+    "uz": "odamlarning ...ga ta'siri",
+    "type": "colloc"
+   },
+   "portray relationships": {
+    "uz": "munosabatlarni tasvirlamoq",
+    "type": "colloc"
+   },
+   "boost one's confidence": {
+    "uz": "o'ziga bo'lgan ishonchni oshirmoq",
+    "type": "phrasal"
+   },
+   "designated quiet zones": {
+    "uz": "ajratilgan jim zonalar",
+    "type": "colloc"
+   },
+   "bring out the best in us": {
+    "uz": "bizdagi eng yaxshi fazilatlarni namoyon qiladi",
+    "type": "idiom"
+   },
+   "foster a love of reading": {
+    "uz": "kitobga muhabbatni uyg'otmoq",
+    "type": "colloc"
+   },
+   "without a second thought": {
+    "uz": "ikkilanmasdan, o'ylab o'tirmay",
+    "type": "idiom"
+   },
+   "collection of contemporary fiction": {
+    "uz": "zamonaviy adabiyotlar to'plami",
+    "type": "colloc"
+   }
+  }
+ },
+ "created_at": "2026-05-06T14:59:04.166738+00:00",
+ "updated_at": "2026-07-06T10:54:32.091036+00:00"
+}

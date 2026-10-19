@@ -1,0 +1,567 @@
+{
+ "id": 1486,
+ "mock_type": "vocabulary",
+ "mock_number": 18,
+ "title": "AI & Machine Learning — Advanced",
+ "status": "published",
+ "mock_data": {
+  "slug": "artificial-intelligence01-advanced",
+  "type": "vocabulary",
+  "level": "advanced",
+  "imageUrl": "https://audio.mock-stream.com/cefr-vocab/artificial-intelligence01/image.jpg",
+  "questions": [
+   {
+    "def": "«Precision» va «recall» model qanchalik yaxshi ishlashini — «performance»ni oʻlchaydi.",
+    "type": "Fill in the blank:",
+    "level": "C1–C2",
+    "correct": "performance",
+    "options": [
+     "performance",
+     "creation",
+     "bias",
+     "structure"
+    ],
+    "meanings": {
+     "bias": "xolis emaslik",
+     "creation": "yaratilishi",
+     "structure": "tuzilishi"
+    },
+    "question": "The algorithm's <b>___</b> was evaluated using precision and recall."
+   },
+   {
+    "def": "«Augment» — biror narsani kuchaytirib, imkonini oshirmoq; «enhance» shu maʼnoda.",
+    "type": "Find the SYNONYM:",
+    "level": "C1–C2",
+    "correct": "enhance",
+    "options": [
+     "enhance",
+     "reduce",
+     "replace",
+     "ignore"
+    ],
+    "meanings": {
+     "ignore": "e'tibor qilmaslik",
+     "reduce": "kamaytirish",
+     "replace": "o'zgartirish"
+    },
+    "question": "What is a synonym for <b>augment</b>?"
+   },
+   {
+    "def": "«Deterministic» natijasi oldindan aniq, «stochastic» esa tasodifga bogʻliq.",
+    "type": "Find the ANTONYM:",
+    "level": "C1–C2",
+    "correct": "stochastic",
+    "options": [
+     "stochastic",
+     "predictable",
+     "certain",
+     "defined"
+    ],
+    "meanings": {
+     "certain": "aniq",
+     "defined": "belgilangan",
+     "predictable": "oldindan aytish mumkin"
+    },
+    "question": "What is the opposite of <b>deterministic</b>?"
+   },
+   {
+    "def": "«Hyperparameter» oʻqitishdan oldin qoʻlda belgilanadi, oʻqish davomida emas.",
+    "type": "What does it mean?",
+    "level": "C1–C2",
+    "correct": "Parameter set before learning",
+    "options": [
+     "Parameter set before learning",
+     "Parameter learned during training",
+     "A type of neural network",
+     "A measure of data quality"
+    ],
+    "meanings": {
+     "A type of neural network": "Neyron tarmoq turi",
+     "A measure of data quality": "Ma'lumotlar sifatini o'lchash",
+     "Parameter learned during training": "O'qitish jarayonida o'rganilgan parametr"
+    },
+    "question": "What does <b>hyperparameter</b> mean?"
+   },
+   {
+    "def": "«Deploy a model to production» — tayyor modelni real ishga joylashtirmoq.",
+    "type": "Complete the collocation:",
+    "level": "C1–C2",
+    "correct": "Deploy",
+    "options": [
+     "Deploy",
+     "Delete",
+     "Design",
+     "Derive"
+    ],
+    "meanings": {
+     "Delete": "o'chirish",
+     "Derive": "hosil qilish",
+     "Design": "loyihalashtirish"
+    },
+    "question": "Once testing is finished, engineers <b>___</b> a model to production."
+   },
+   {
+    "def": "«On the cutting edge» — rivojlanishning eng ilgʻor nuqtasida boʻlish.",
+    "type": "What does this phrase mean?",
+    "level": "C1–C2",
+    "correct": "Most advanced stage",
+    "options": [
+     "Most advanced stage",
+     "Just starting",
+     "Very expensive",
+     "Not important"
+    ],
+    "meanings": {
+     "Just starting": "Endi boshlanmoqda",
+     "Not important": "Muhim emas",
+     "Very expensive": "Juda qimmat"
+    },
+    "question": "The AI development is <b>on the cutting edge</b>."
+   },
+   {
+    "def": "«Generalize» — yangi maʼlumotda ham toʻgʻri ishlay olmoq; yod olish buning aksi.",
+    "type": "Fill in the blank:",
+    "level": "C1–C2",
+    "correct": "generalize",
+    "options": [
+     "generalize",
+     "memorize",
+     "isolate",
+     "ignore"
+    ],
+    "meanings": {
+     "ignore": "e'tibor qilmaslik",
+     "isolate": "ajratish",
+     "memorize": "yodlash"
+    },
+    "question": "The AI system needs to <b>___</b> from new data."
+   },
+   {
+    "def": "«Iterate» — bir amalni qayta-qayta bajarmoq, yaʼni «repeat».",
+    "type": "Find the SYNONYM:",
+    "level": "C1–C2",
+    "correct": "repeat",
+    "options": [
+     "repeat",
+     "stop",
+     "begin",
+     "skip"
+    ],
+    "meanings": {
+     "skip": "o'tkazib yuborish",
+     "stop": "to'xtatish",
+     "begin": "boshlash"
+    },
+    "question": "What is a synonym for <b>iterate</b>?"
+   },
+   {
+    "def": "«Opacity» — ichini koʻrib boʻlmaslik, «transparency»ning toʻgʻri ziddi.",
+    "type": "Find the ANTONYM:",
+    "level": "C1–C2",
+    "correct": "opacity",
+    "options": [
+     "opacity",
+     "clarity",
+     "openness",
+     "honesty"
+    ],
+    "meanings": {
+     "clarity": "aniqlik",
+     "honesty": "halollik",
+     "openness": "ochiq-oydinlik"
+    },
+    "question": "What is the opposite of <b>transparency</b>?"
+   },
+   {
+    "def": "«Feature engineering» — xom maʼlumotdan model uchun kirish oʻzgaruvchilari yasash.",
+    "type": "What does it mean?",
+    "level": "C1–C2",
+    "correct": "Creating input variables",
+    "options": [
+     "Creating input variables",
+     "Optimizing model speed",
+     "Reducing data size",
+     "Debugging code"
+    ],
+    "meanings": {
+     "Debugging code": "Kodda xatolarni tuzatish",
+     "Reducing data size": "Ma'lumotlar hajmini kamaytirish",
+     "Optimizing model speed": "Model tezligini optimallashtirish"
+    },
+    "question": "What does <b>feature engineering</b> mean?"
+   },
+   {
+    "def": "«Fine-tune» — algoritmni kichik oʻzgartirishlar bilan aniq sozlamoq.",
+    "type": "Complete the collocation:",
+    "level": "C1–C2",
+    "correct": "Fine-tune",
+    "options": [
+     "Fine-tune",
+     "Ignore",
+     "Destroy",
+     "Forget"
+    ],
+    "meanings": {
+     "Forget": "unutish",
+     "Ignore": "e'tibor qilmaslik",
+     "Destroy": "buzish"
+    },
+    "question": "<b>___</b> the algorithm."
+   },
+   {
+    "def": "«A long shot» — muvaffaqiyat ehtimoli juda past boʻlgan urinish.",
+    "type": "What does this phrase mean?",
+    "level": "C1–C2",
+    "correct": "Unlikely to succeed",
+    "options": [
+     "Unlikely to succeed",
+     "Very easy",
+     "Highly profitable",
+     "Quick to finish"
+    ],
+    "meanings": {
+     "Very easy": "Juda oson",
+     "Quick to finish": "Tez tugallash",
+     "Highly profitable": "Juda foydali"
+    },
+    "question": "The project is <b>a long shot</b>."
+   },
+   {
+    "def": "Avvalgi barcha natijalardan oshgani «remarkable» — gʻayrioddiy ekanini bildiradi.",
+    "type": "Fill in the blank:",
+    "level": "C1–C2",
+    "correct": "remarkable",
+    "options": [
+     "remarkable",
+     "minimal",
+     "average",
+     "erroneous"
+    ],
+    "meanings": {
+     "average": "o'rtacha",
+     "minimal": "minimal",
+     "erroneous": "xato"
+    },
+    "question": "The AI model showed <b>___</b> predictive power, beating every previous benchmark."
+   },
+   {
+    "def": "«Robust» — zarbaga dosh beradigan, tez buzilmaydigan; «resilient» shu maʼnoda.",
+    "type": "Find the SYNONYM:",
+    "level": "C1–C2",
+    "correct": "resilient",
+    "options": [
+     "resilient",
+     "fragile",
+     "weak",
+     "unstable"
+    ],
+    "meanings": {
+     "weak": "zaif",
+     "fragile": "mo'rt",
+     "unstable": "noturg'un"
+    },
+    "question": "What is a synonym for <b>robust</b>?"
+   },
+   {
+    "def": "«Un-» prefiksi inkor qiladi: «unsupervised learning»da javoblar belgilanmaydi.",
+    "type": "Find the ANTONYM:",
+    "level": "C1–C2",
+    "correct": "unsupervised",
+    "options": [
+     "unsupervised",
+     "reinforced",
+     "active",
+     "passive"
+    ],
+    "meanings": {
+     "active": "faol",
+     "passive": "passiv",
+     "reinforced": "kuchaytirilgan"
+    },
+    "question": "What is the opposite of <b>supervised</b> learning?"
+   },
+   {
+    "def": "«Gradient descent» — xatoni bosqichma-bosqich kamaytiruvchi optimallashtirish usuli.",
+    "type": "What does it mean?",
+    "level": "C1–C2",
+    "correct": "Optimization algorithm",
+    "options": [
+     "Optimization algorithm",
+     "Type of neural network",
+     "Data visualization technique",
+     "Method of data storage"
+    ],
+    "meanings": {
+     "Method of data storage": "Ma'lumotlarni saqlash usuli",
+     "Type of neural network": "Neyron tarmoq turi",
+     "Data visualization technique": "Ma'lumotlarni vizualizatsiya qilish usuli"
+    },
+    "question": "What does <b>gradient descent</b> mean?"
+   },
+   {
+    "def": "«Address a bottleneck» — tizimni sekinlashtirayotgan tor joyni bartaraf etmoq.",
+    "type": "Complete the collocation:",
+    "level": "C1–C2",
+    "correct": "bottleneck",
+    "options": [
+     "bottleneck",
+     "solution",
+     "reward",
+     "chance"
+    ],
+    "meanings": {
+     "chance": "imkoniyat",
+     "request": "so'rov",
+     "solution": "yechim"
+    },
+    "question": "Address a <b>___</b>."
+   },
+   {
+    "def": "«Drill down» — maʼlumotni chuqurroq, tafsilotigacha tekshirmoq.",
+    "type": "What does this phrase mean?",
+    "level": "C1–C2",
+    "correct": "Investigate in detail",
+    "options": [
+     "Investigate in detail",
+     "Delete some data",
+     "Summarize the data",
+     "Ignore some data"
+    ],
+    "meanings": {
+     "Delete some data": "Ba'zi ma'lumotlarni o'chirish",
+     "Ignore some data": "Ba'zi ma'lumotlarga e'tibor qilmaslik",
+     "Summarize the data": "Ma'lumotlarni jamlash"
+    },
+    "question": "Let's <b>drill down</b> into the data."
+   },
+   {
+    "def": "Millionlab foydalanuvchiga xizmat qilish uchun «scalability» — kengaya olish kerak.",
+    "type": "Fill in the blank:",
+    "level": "C1–C2",
+    "correct": "scalability",
+    "options": [
+     "scalability",
+     "complexity",
+     "simplicity",
+     "verbosity"
+    ],
+    "meanings": {
+     "verbosity": "ko'p so'zlik",
+     "complexity": "murakkablik",
+     "simplicity": "sodda"
+    },
+    "question": "The algorithm's <b>___</b> is crucial, because it must serve millions of users at once."
+   },
+   {
+    "def": "«Heuristic» — tajribaga asoslangan amaliy qoida, yaʼni «rule-of-thumb».",
+    "type": "Find the SYNONYM:",
+    "level": "C1–C2",
+    "correct": "rule-of-thumb",
+    "options": [
+     "rule-of-thumb",
+     "exact",
+     "precise",
+     "systematic"
+    ],
+    "meanings": {
+     "exact": "aniq",
+     "precise": "to'g'ri",
+     "systematic": "tizimli"
+    },
+    "question": "What is a synonym for <b>heuristic</b>?"
+   },
+   {
+    "def": "«Overfitting» ortiqcha moslashish, «underfitting» esa yetarlicha oʻrganmaslik.",
+    "type": "Find the ANTONYM:",
+    "level": "C1–C2",
+    "correct": "underfitting",
+    "options": [
+     "underfitting",
+     "optimizing",
+     "generalizing",
+     "memorizing"
+    ],
+    "meanings": {
+     "memorizing": "yodlash",
+     "optimizing": "optimallashtirish",
+     "generalizing": "umumlashtirish"
+    },
+    "question": "What is the opposite of <b>overfitting</b>?"
+   },
+   {
+    "def": "«Natural language processing» — sunʼiy intellektning inson tilini qayta ishlashi.",
+    "type": "What does it mean?",
+    "level": "C1–C2",
+    "correct": "AI processing human language",
+    "options": [
+     "AI processing human language",
+     "Programming language for AI",
+     "Type of database",
+     "Method of data encryption"
+    ],
+    "meanings": {
+     "Type of database": "Ma'lumotlar bazasi turi",
+     "Method of data encryption": "Ma'lumotlarni shifrlash usuli",
+     "Programming language for AI": "Sun'iy intellekt uchun dasturlash tili"
+    },
+    "question": "What does <b>natural language processing</b> mean?"
+   },
+   {
+    "def": "«Mitigate» faqat salbiy narsani yumshatadi, shuning uchun «bias» bilan birikadi.",
+    "type": "Complete the collocation:",
+    "level": "C1–C2",
+    "correct": "bias",
+    "options": [
+     "bias",
+     "success",
+     "accuracy",
+     "speed"
+    ],
+    "meanings": {
+     "speed": "tezlik",
+     "success": "muvaffaqiyat",
+     "accuracy": "aniqlik"
+    },
+    "question": "Mitigate <b>___</b>."
+   },
+   {
+    "def": "«A game changer» — vaziyatni tubdan oʻzgartirib yuboradigan narsa.",
+    "type": "What does this phrase mean?",
+    "level": "C1–C2",
+    "correct": "Fundamentally alters something",
+    "options": [
+     "Fundamentally alters something",
+     "Very simple solution",
+     "Extremely expensive",
+     "Completely useless"
+    ],
+    "meanings": {
+     "Completely useless": "Butunlay foydasiz",
+     "Extremely expensive": "O'ta qimmat",
+     "Very simple solution": "Juda oddiy yechim"
+    },
+    "question": "The AI is <b>a game changer</b>."
+   },
+   {
+    "def": "«Preprocess» — tahlildan oldin maʼlumotni tozalab, tartibga solmoq.",
+    "type": "Fill in the blank:",
+    "level": "C1–C2",
+    "correct": "preprocessed",
+    "options": [
+     "preprocessed",
+     "ignored",
+     "hidden",
+     "deleted"
+    ],
+    "meanings": {
+     "hidden": "yashirilgan",
+     "deleted": "o'chirilgan",
+     "ignored": "e'tiborga olinmagan"
+    },
+    "question": "The data was <b>___</b> to remove inconsistencies."
+   },
+   {
+    "def": "«Anomaly» — umumiy qatordan keskin chiqib turgan qiymat, yaʼni «outlier».",
+    "type": "Find the SYNONYM:",
+    "level": "C1–C2",
+    "correct": "outlier",
+    "options": [
+     "outlier",
+     "norm",
+     "average",
+     "example"
+    ],
+    "meanings": {
+     "norm": "me'yor",
+     "average": "o'rtacha",
+     "example": "misol"
+    },
+    "question": "What is a synonym for <b>anomaly</b>?"
+   },
+   {
+    "def": "«Converge» yaqinlashmoq, «diverge» esa uzoqlashmoq — shuning uchun zid.",
+    "type": "Find the ANTONYM:",
+    "level": "C1–C2",
+    "correct": "divergence",
+    "options": [
+     "divergence",
+     "agreement",
+     "similarity",
+     "approximation"
+    ],
+    "meanings": {
+     "agreement": "kelishuv",
+     "similarity": "o'xshashlik",
+     "approximation": "yaqinlashuv"
+    },
+    "question": "What is the opposite of <b>convergence</b>?"
+   },
+   {
+    "def": "«Reinforcement learning»da model mukofot orqali, sinov va xato bilan oʻrganadi.",
+    "type": "What does it mean?",
+    "level": "C1–C2",
+    "correct": "Learning through trial and error",
+    "options": [
+     "Learning through trial and error",
+     "Learning from labeled data",
+     "Learning from unlabeled data",
+     "Learning without any data"
+    ],
+    "meanings": {
+     "Learning without any data": "Hech qanday ma'lumotsiz o'rganish",
+     "Learning from labeled data": "Belgilangan ma'lumotlardan o'rganish",
+     "Learning from unlabeled data": "Belgilanmagan ma'lumotlardan o'rganish"
+    },
+    "question": "What does <b>reinforcement learning</b> mean?"
+   },
+   {
+    "def": "«State-of-the-art accuracy» — hozirgi eng yuqori, eng ilgʻor darajadagi aniqlik.",
+    "type": "Complete the collocation:",
+    "level": "C1–C2",
+    "correct": "state-of-the-art",
+    "options": [
+     "state-of-the-art",
+     "mediocrity",
+     "the impossible",
+     "status quo"
+    ],
+    "meanings": {
+     "mediocrity": "o'rtamiyonalik",
+     "status quo": "mavjud holat",
+     "the impossible": "imkonsiz narsa"
+    },
+    "question": "The new model managed to achieve <b>___</b> accuracy on three benchmarks."
+   },
+   {
+    "def": "«A black box» — natijasi koʻrinadi, lekin ichki ishlashi tushunarsiz tizim.",
+    "type": "What does this phrase mean?",
+    "level": "C1–C2",
+    "correct": "Its inner workings are opaque",
+    "options": [
+     "Its inner workings are opaque",
+     "It is very simple",
+     "It is very large",
+     "It is easily understood"
+    ],
+    "meanings": {
+     "It is very large": "U juda katta",
+     "It is very simple": "U juda oddiy",
+     "It is easily understood": "Uni tushunish oson"
+    },
+    "question": "The AI is <b>a black box</b>."
+   }
+  ],
+  "topicBase": "artificial-intelligence01",
+  "levelLabel": "Advanced",
+  "displayName": "AI & Machine Learning",
+  "imageCredit": {
+   "url": "https://www.pexels.com/photo/white-paper-in-gray-typewriter-4578660/",
+   "source": "Pexels",
+   "creator": "Markus Winkler",
+   "license": "Pexels License",
+   "creatorUrl": "https://www.pexels.com/@markus-winkler-1430818"
+  }
+ },
+ "created_at": "2026-07-18T13:34:01.743009+00:00",
+ "updated_at": "2026-10-08T02:18:15.907348+00:00"
+}

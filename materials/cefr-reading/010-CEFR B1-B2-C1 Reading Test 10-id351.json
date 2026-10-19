@@ -1,0 +1,784 @@
+{
+ "id": 351,
+ "mock_type": "cefr-reading",
+ "mock_number": 10,
+ "title": "CEFR B1-B2-C1 Reading Test 10",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "gap-fill-text",
+    "title": "Part 1",
+    "answers": {
+     "1": [
+      "group"
+     ],
+     "2": [
+      "members"
+     ],
+     "3": [
+      "left"
+     ],
+     "4": [
+      "popular",
+      "popularity",
+      "famous"
+     ],
+     "5": [
+      "shop"
+     ],
+     "6": [
+      "music"
+     ]
+    },
+    "passage": {
+     "title": "The Beatles",
+     "content": "<p>The Fab Four, the famous Liverpool musical <span class=\"gap\" data-gap=\"1\">_____(1)_____</span> commonly known as The Beatles, reached the peak of their popularity in the 1960s. McCartney was a brilliant guitarist, so they let him join the group at once. The group changed its name several times, from Johnny and the Moondogs to Long John and the Silver Beatles and finally The Beatles. The short title is in itself a smart mixture of two words. The beat is a synonym for musical rhythm, while the beetles describe insects producing sounds using their shiny wings.</p>\n<p>Lennon, Harrison, McCartney and Starr were the core members of The Beatles while the other <span class=\"gap\" data-gap=\"2\">_____(2)_____</span> constantly changed. Many guitarists and drummers joined but finally <span class=\"gap\" data-gap=\"3\">_____(3)_____</span> the group. The style changed too. When The Beatles left Britain to perform in Europe, they turned from folk to rock-n-roll to win over the public. They also played foreign music and composed their own songs. Soon the group issued their first single, My Bonnie, which became <span class=\"gap\" data-gap=\"4\">_____(4)_____</span> in Liverpool. A customer once asked for it in a music shop, but there were no copies left. When Epstein, the <span class=\"gap\" data-gap=\"5\">_____(5)_____</span> owner, finally got the disc, he was surprised to hear a good quality <span class=\"gap\" data-gap=\"6\">_____(6)_____</span> by the group that played in the club next to his shop. The same month he signed the first contract with The Beatles as their musical agent.</p>"
+    },
+    "questions": [
+     {
+      "id": 1,
+      "hint": "noun - band"
+     },
+     {
+      "id": 2,
+      "hint": "noun - people in band"
+     },
+     {
+      "id": 3,
+      "hint": "verb - departed"
+     },
+     {
+      "id": 4,
+      "hint": "adjective - well-known"
+     },
+     {
+      "id": 5,
+      "hint": "noun - store"
+     },
+     {
+      "id": 6,
+      "hint": "noun - song/record"
+     }
+    ],
+    "partNumber": 1,
+    "instruction": "Read the text. Fill in each gap with ONE word. You must use a word which is somewhere in the rest of the text.",
+    "explanations": {
+     "q1": {
+      "text": "The passage repeatedly uses this word to describe the band, such as when McCartney was allowed to join them. This shows it is the correct term for the musical band; that's why the correct answer is 'group'.",
+      "quote": "McCartney was a brilliant guitarist, so they let him join the group at once."
+     },
+     "q2": {
+      "text": "The sentence contrasts the main, or \"core members,\" with the other people in the band who changed often. This makes 'members' the logical word to describe all the people in the group; that's why the correct answer is 'members'.",
+      "quote": ""
+     },
+     "q3": {
+      "text": "The sentence creates a contrast between the musicians who \"joined\" and what they did \"finally.\" The opposite of joining is leaving, which fits the context of them not staying permanently; that's why the correct answer is 'left'.",
+      "quote": ""
+     },
+     "q4": {
+      "text": "The passage explains that a customer could not buy the single because there were no copies available. This high demand shows that the song was very well-known and liked; that's why the correct answer is 'popular'.",
+      "quote": "A customer once asked for it in a music shop, but there were no copies left."
+     },
+     "q5": {
+      "text": "The text first mentions a customer in a \"music shop\" and then introduces Epstein as the owner who got the record. This directly connects Epstein to the ownership of that place; that's why the correct answer is 'shop'.",
+      "quote": "A customer once asked for it in a music shop, but there were no copies left."
+     },
+     "q6": {
+      "text": "Epstein listened to the disc, which was the single \"My Bonnie.\" A disc contains a recording of a song or performance, and the passage states the band composed their own songs; that's why the correct answer is 'music'.",
+      "quote": "They also played foreign music and composed their own songs."
+     }
+    },
+    "questionRange": "1-6"
+   },
+   {
+    "type": "matching",
+    "texts": [
+     {
+      "title": "Sarah",
+      "number": 7,
+      "content": "<p>Sarah is a fashion-forward college student who is looking for trendy summer clothes. She wants to find a store with a variety of options and affordable prices. She usually goes shopping at 7pm.</p>"
+     },
+     {
+      "title": "John",
+      "number": 8,
+      "content": "<p>John is a businessman who needs a new suit for an upcoming conference. He wants a store with high-quality suits and excellent customer service. He goes back to his house at 5 pm and goes shopping while returning.</p>"
+     },
+     {
+      "title": "Maria",
+      "number": 9,
+      "content": "<p>Maria is a busy mom who wants to buy clothes for her kids. She needs a store that offers a range of sizes and styles for both boys and girls. She would like a shop which is 24/7.</p>"
+     },
+     {
+      "title": "Tom",
+      "number": 10,
+      "content": "<p>Tom is a fitness enthusiast who wants to buy new workout clothes. He needs a store that offers comfortable and durable activewear. He goes shopping on Thursdays afternoon.</p>"
+     },
+     {
+      "title": "Emily",
+      "number": 11,
+      "content": "<p>Emily is a bride-to-be who wants to buy a wedding dress. She needs a store that offers a wide range of options and personalized service. She is planning to make herself available on Wednesday afternoon.</p>"
+     },
+     {
+      "title": "Jake",
+      "number": 12,
+      "content": "<p>Jake is a music enthusiast who wants to buy band merchandise. He needs a store that offers a variety of options from different bands. He can go shopping anytime.</p>"
+     },
+     {
+      "title": "Tina",
+      "number": 13,
+      "content": "<p>Tina is a fashion blogger who wants to buy unique and trendy clothes for her blog. She needs a store that offers one-of-a-kind items. She can't go shopping on Sunday.</p>"
+     },
+     {
+      "title": "Mike",
+      "number": 14,
+      "content": "<p>Mike is a sports fan who wants to buy a jersey of his favourite team. He needs a store that offers a variety of options from different sports. He can go shopping everyday but he has no time when he is at work.</p>"
+     }
+    ],
+    "title": "Part 2",
+    "answers": {
+     "7": [
+      "D"
+     ],
+     "8": [
+      "I"
+     ],
+     "9": [
+      "F"
+     ],
+     "10": [
+      "J"
+     ],
+     "11": [
+      "H"
+     ],
+     "12": [
+      "C"
+     ],
+     "13": [
+      "B"
+     ],
+     "14": [
+      "G"
+     ]
+    },
+    "questions": [
+     {
+      "id": 7,
+      "textNumber": 7
+     },
+     {
+      "id": 8,
+      "textNumber": 8
+     },
+     {
+      "id": 9,
+      "textNumber": 9
+     },
+     {
+      "id": 10,
+      "textNumber": 10
+     },
+     {
+      "id": 11,
+      "textNumber": 11
+     },
+     {
+      "id": 12,
+      "textNumber": 12
+     },
+     {
+      "id": 13,
+      "textNumber": 13
+     },
+     {
+      "id": 14,
+      "textNumber": 14
+     }
+    ],
+    "partNumber": 2,
+    "statements": [
+     {
+      "text": "LOCAL TREASURES. At Local Treasures, we offer a wide selection of souvenirs that reflect the local culture and heritage. From handmade crafts to locally sourced snacks, we have everything you need to take a piece of our town back home with you. Don't miss our summer clearance sale! Open every day from 9 AM to 6 PM.",
+      "letter": "A"
+     },
+     {
+      "text": "CHIC BOUTIQUE. At Chic Boutique, we pride ourselves on offering unique and trendy clothing items that you won't find anywhere else. From vintage-inspired dresses to edgy accessories, we have it all. Visit us now and enjoy our summer sale! Open Monday to Saturday from 10 AM to 7 PM.",
+      "letter": "B"
+     },
+     {
+      "text": "ROCK SHOP. At Rock Shop, we have everything for the music lover in you! From T-shirts to vinyl records, we offer a wide range of merchandise from your favorite bands. Don't miss our clearance sale on selected items. Open every day from 11 AM to 8 PM.",
+      "letter": "C"
+     },
+     {
+      "text": "SUMMER BREEZE. Get ready for summer with our latest collection! From colorful sundresses to cute shorts, Summer Breeze has everything you need to stay stylish and comfortable. Don't miss our special discounts on selected items. Open every day from 10 AM to 8 PM.",
+      "letter": "D"
+     },
+     {
+      "text": "CURVES IN STYLE. At Curves in Style, we believe that every woman should feel confident and stylish, no matter her size. That's why we offer a variety of plus-size clothing options in various styles and sizes. Visit us now and enjoy our summer sale! Open Tuesday to Sunday from 11 AM to 8 PM.",
+      "letter": "E"
+     },
+     {
+      "text": "KIDS' KINGDOM. At Kids' Kingdom, we cater to all your children's clothing needs. From cute baby clothes to trendy outfits for older kids, our store has it all. Don't miss our back-to-school sale! Open every day from 10 AM to 7 PM.",
+      "letter": "F"
+     },
+     {
+      "text": "SPORTS CENTRAL. At Sports Central, we have everything for the ultimate sports fan! From jerseys to hats, we offer a wide selection of merchandise from your favorite teams in various sports. Don't miss our summer discount! Open every day from 9 AM to 9 PM.",
+      "letter": "G"
+     },
+     {
+      "text": "BRIDAL BLISS. At Bridal Bliss, we understand that finding the perfect wedding dress is crucial for your big day. Our expert staff will help you find the dress of your dreams from our extensive collection of designer gowns. Book your appointment now and enjoy our summer discount! Open Tuesday to Saturday from 11 AM to 7 PM.",
+      "letter": "H"
+     },
+     {
+      "text": "TAILOR MADE. At Tailor Made, we understand the importance of a well-tailored suit. Our experienced staff will help you find the perfect fit from our extensive collection of premium suits, shirts, and accessories. Visit us today and take advantage of our summer sale! Open Monday to Saturday from 9 AM to 6 PM.",
+      "letter": "I"
+     },
+     {
+      "text": "FIT NATION. Get ready to hit the gym with our collection of high-quality activewear. From leggings to sports bras, Fit Nation has everything you need to stay comfortable and stylish while you workout. Don't miss our summer clearance sale! Open Monday to Friday from 8 AM to 9 PM.",
+      "letter": "J"
+     }
+    ],
+    "instruction": "Read the texts 7-14 and the statements A-J. Decide which text matches with the situation described in the statements. Each statement can be used ONCE only. There are TWO extra statements which you do not need to use. Mark your answers on the answer sheet.",
+    "explanations": {
+     "q7": {
+      "text": "Sarah wants trendy summer clothes and shops at 7pm. Summer Breeze sells summer items like sundresses and is open until 8pm, which fits her needs and schedule perfectly. That's why the correct answer is D.",
+      "quote": ""
+     },
+     "q8": {
+      "text": "John is a businessman who needs a new suit and shops after 5pm. Tailor Made specializes in premium suits and is open until 6pm, making it the ideal choice for him. That's why the correct answer is I.",
+      "quote": ""
+     },
+     "q9": {
+      "text": "Maria needs to buy clothes for her children. Kids' Kingdom is the only store that specifically caters to children's clothing needs, offering a variety of items for different ages. That's why the correct answer is F.",
+      "quote": ""
+     },
+     "q10": {
+      "text": "Tom is a fitness enthusiast looking for workout clothes. Fit Nation sells high-quality activewear and is open on Thursday afternoons, matching both his needs and his schedule. That's why the correct answer is J.",
+      "quote": ""
+     },
+     "q11": {
+      "text": "Emily is a bride-to-be who needs a wedding dress and personalized service. Bridal Bliss specializes in wedding dresses and has expert staff, and it is open on Wednesday afternoon. That's why the correct answer is H.",
+      "quote": ""
+     },
+     "q12": {
+      "text": "Jake is a music enthusiast who wants to buy merchandise from different bands. Rock Shop is a store for music lovers that offers a wide range of band merchandise. That's why the correct answer is C.",
+      "quote": ""
+     },
+     "q13": {
+      "text": "Tina is a fashion blogger who wants unique, one-of-a-kind items. Chic Boutique offers exactly that and is closed on Sunday, which fits her shopping restriction. That's why the correct answer is B.",
+      "quote": ""
+     },
+     "q14": {
+      "text": "Mike is a sports fan who wants to buy a team jersey. Sports Central is a store for sports fans that offers a wide selection of merchandise, including jerseys, from various teams. That's why the correct answer is G.",
+      "quote": ""
+     }
+    },
+    "questionRange": "7-14",
+    "extraStatements": [
+     "A",
+     "E"
+    ]
+   },
+   {
+    "type": "matching-headings",
+    "title": "Part 3",
+    "answers": {
+     "15": [
+      "D"
+     ],
+     "16": [
+      "H"
+     ],
+     "17": [
+      "E"
+     ],
+     "18": [
+      "A"
+     ],
+     "19": [
+      "G"
+     ],
+     "20": [
+      "B"
+     ]
+    },
+    "passage": {
+     "title": "Becoming Successful",
+     "paragraphs": [
+      {
+       "number": "I",
+       "content": "One of the first steps in the process of becoming successful is to make the decision to achieve something. All of us know that nothing can move forward until that first decision to do so is made. The initial action is always the decision to go ahead, which many people tend to overlook. So, decide on moving forward, put your decision down in writing, just to keep it in focus, and then carry on from there.",
+       "questionId": 15
+      },
+      {
+       "number": "II",
+       "content": "Having clarity of vision and purpose is perhaps one of the most important factors of achieving success. The fact is that most people simply have no idea about what they really want. Clarity means understanding exactly what you want and how it will affect your life. Once you acquire clarity of vision and purpose, the next vital step of becoming successful is determining aims you want to achieve.",
+       "questionId": 16
+      },
+      {
+       "number": "III",
+       "content": "You should be able to accomplish what you set out to do with unwavering concentration. Life is full of distractions — TV, family, e-mail and telephones — all of which can be completely overwhelming. How can you concentrate on your goals? Willpower is one of the factors although willpower alone will not be sufficient to achieve your aims. One of the best ways is to make a plan and then stick to it.",
+       "questionId": 17
+      },
+      {
+       "number": "IV",
+       "content": "Before beginning any new activity, examine it to see if it will help in moving you nearer to your goals. If a certain activity can be put away for a later time, defer it. If that activity can be done by somebody else, delegate it. And if it does not really need to be done at all, it can be deleted. This kind of close examination of each activity will help in keeping you focused on the things that are really important.",
+       "questionId": 18
+      },
+      {
+       "number": "V",
+       "content": "Success often involves being willing to pay the price that everything has. The price may not be in monetary terms. It could be sacrifice, effort, time, and also money, or maybe something else. The point is that in order to become successful, you must be ready to work hard and to put all your effort into achieving your purpose. Success takes a lot of dedication.",
+       "questionId": 19
+      },
+      {
+       "number": "VI",
+       "content": "Lack of confidence is one of the biggest hurdles that many people need to get over in order to become successful. People often think they are not good enough or not smart enough, which can actually prevent them from finding the success they seek. It is common knowledge that if you think you can do something, you will, and conversely, if you think that it cannot be done, it will lead to failure.",
+       "questionId": 20
+      }
+     ]
+    },
+    "headings": [
+     {
+      "text": "Remembering the 3D's",
+      "letter": "A"
+     },
+     {
+      "text": "Having Self-Belief",
+      "letter": "B"
+     },
+     {
+      "text": "Taking Action",
+      "letter": "C"
+     },
+     {
+      "text": "Choosing a Course of Action",
+      "letter": "D"
+     },
+     {
+      "text": "Staying Focused",
+      "letter": "E"
+     },
+     {
+      "text": "Investing Money",
+      "letter": "F"
+     },
+     {
+      "text": "Having Commitment",
+      "letter": "G"
+     },
+     {
+      "text": "Setting Goals",
+      "letter": "H"
+     }
+    ],
+    "questions": [
+     {
+      "id": 15,
+      "paragraphNumber": "I"
+     },
+     {
+      "id": 16,
+      "paragraphNumber": "II"
+     },
+     {
+      "id": 17,
+      "paragraphNumber": "III"
+     },
+     {
+      "id": 18,
+      "paragraphNumber": "IV"
+     },
+     {
+      "id": 19,
+      "paragraphNumber": "V"
+     },
+     {
+      "id": 20,
+      "paragraphNumber": "VI"
+     }
+    ],
+    "partNumber": 3,
+    "instruction": "Read the text and choose the correct heading for each paragraph from the list of headings below. There are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once.",
+    "explanations": {
+     "q15": {
+      "text": "This paragraph explains that the first step towards success is making a decision to move forward and achieve something. This is the same as choosing a course of action, so the correct answer is D.",
+      "quote": "One of the first steps in the process of becoming successful is to make the decision to achieve something."
+     },
+     "q16": {
+      "text": "The paragraph states that after you understand what you want, the next step is to decide on the specific aims you want to achieve. This process is known as setting goals; that's why the correct answer is H.",
+      "quote": "Once you acquire clarity of vision and purpose, the next vital step of becoming successful is determining aims you want to achieve."
+     },
+     "q17": {
+      "text": "This paragraph discusses the need for 'unwavering concentration' and avoiding distractions to accomplish your tasks. This is the definition of staying focused, which is why the correct answer is E.",
+      "quote": "You should be able to accomplish what you set out to do with unwavering concentration."
+     },
+     "q18": {
+      "text": "The text advises managing activities by deciding whether to 'defer', 'delegate', or 'delete' them. These three actions, all starting with 'D', are the '3D's' mentioned in the heading, so the correct answer is A.",
+      "quote": "If a certain activity can be put away for a later time, defer it. If that activity can be done by somebody else, delegate it. And if it does not really need to be done at all, it can be deleted."
+     },
+     "q19": {
+      "text": "This paragraph explains that success requires hard work, effort, and dedication to achieve your purpose. These qualities are all aspects of commitment, which is why the correct answer is G.",
+      "quote": "Success takes a lot of dedication."
+     },
+     "q20": {
+      "text": "The paragraph identifies a 'lack of confidence' as a major hurdle and states that believing you can do something is crucial for success. This is the definition of self-belief; that's why the correct answer is B.",
+      "quote": "Lack of confidence is one of the biggest hurdles that many people need to get over in order to become successful."
+     }
+    },
+    "extraHeadings": [
+     "C",
+     "F"
+    ],
+    "questionRange": "15-20"
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 4",
+    "answers": {
+     "21": [
+      "C"
+     ],
+     "22": [
+      "C"
+     ],
+     "23": [
+      "D"
+     ],
+     "24": [
+      "B"
+     ],
+     "25": [
+      "Not Given"
+     ],
+     "26": [
+      "False"
+     ],
+     "27": [
+      "Not Given"
+     ],
+     "28": [
+      "True"
+     ],
+     "29": [
+      "False"
+     ]
+    },
+    "passage": {
+     "title": "SCOUTS",
+     "content": "On January 24, 1908, the Boy Scout movement started in England with the publication of Robert Baden-Powell's handbook Scouting for Boys. The name Baden-Powell, a brave officer, was already well-known to many English boys, and thousands of them eagerly bought the handbook. By the end of April, numerous Boy Scout troops had appeared across Britain. In 1900, General Baden-Powell became a national hero in Britain for his 217-day defence of Mafeking in the Second Boer War in South Africa. Soon after, his military field manual, Aids to Scouting, written for British soldiers in 1899, became popular with a younger audience. Boys loved the lessons on tracking and observation and organized outdoor games using the book. Hearing this, Baden-Powell decided to write a non-military field manual for teenagers that would also emphasize the importance of morality and good deeds. First, however, he decided to try out some of his ideas on an actual group of boys. On July 25, 1907, he took a diverse group of 21 boys to Brownsea Island in Dorset, where they set up camp for two weeks. With the aid of other instructors, he taught the boys about camping, observation, deduction, woodcraft, boating, life saving, and good manners. Many of these lessons were learned through original games that were very popular with the boys. The first Boy Scout meeting was a great success. Soon the handbook Scouting for Boys appeared. With the success of Scouting for Boys, Baden-Powell set up a central Boy Scouts' office, which registered new Scouts and designed a uniform. By the end of 1908, there were 60,000 Boy Scouts, and troops began to appear in British Commonwealth countries across the globe. The Scout movement supported the boys in their physical, mental and spiritual development. The boys learned to work together to achieve goals, they also gave a promise to live by certain rules, and to help others when they could. In September 1909, the first national Boy Scout meeting was held at the Crystal Palace in London. Ten thousand Scouts showed up, including a group of uniformed girls who called themselves the Girl Scouts. A year later, Baden-Powell organized the Girl Guides as a separate organization. The American version of the Boy Scouts has its origins in an event that occurred in London in 1909. Chicago publisher William Boyce lost his way in the fog. So he stopped under a street light to read his map when he was approached by a young British boy. The boy asked the man if he could help and William Boyce explained that he had got lost. After guiding Boyce to his destination, the boy refused a tip, explaining that as a Boy Scout he would not accept payment for doing a good deed. This anonymous gesture inspired Boyce to organize several regional U.S. youth organizations. The Scouts movement soon spread throughout the country. In 1912, Juliette Gordon Low founded the Girl Scouts of America in Savannah, Georgia. In 1920 the first international Boy Scout Jamboree was held in London, and Robert Baden-Powell got the title Chief Scout of the World. The founder of the Scout organization died in 1941.\n\nNowadays, the Scouts Movement exists in 216 different countries all over the world, there are more than 28 million boy scouts and over 10 million girl scouts."
+    },
+    "partNumber": 4,
+    "instruction": "Read the following text and choose the correct answer A, B, C, or D. Mark your answers on the answer sheet.",
+    "explanations": {
+     "q21": {
+      "text": "Baden-Powell's first manual, \"Aids to Scouting,\" was written for soldiers. He only decided to write for a younger audience after seeing they enjoyed his military book. That's why the correct answer is C.",
+      "quote": "Hearing this, Baden-Powell decided to write a non-military field manual for teenagers that would also emphasize the importance of morality and good deeds."
+     },
+     "q22": {
+      "text": "The first sentence of the passage explicitly states the year the Boy Scout movement started, which was marked by the publication of this handbook. That's why the correct answer is C.",
+      "quote": "On January 24, 1908, the Boy Scout movement started in England with the publication of Robert Baden-Powell's handbook Scouting for Boys."
+     },
+     "q23": {
+      "text": "The passage states that after a group of girls appeared at a 1909 meeting, Baden-Powell officially created their organization a year later. That's why the correct answer is D.",
+      "quote": "A year later, Baden-Powell organized the Girl Guides as a separate organization."
+     },
+     "q24": {
+      "text": "The passage provides the year of Robert Baden-Powell's death near the end of the text, directly stating the information given in the answer. That's why the correct answer is B.",
+      "quote": "The founder of the Scout organization died in 1941."
+     },
+     "q25": {
+      "text": "The passage discusses the creation of the Boy Scout movement, but it does not provide any information about the origin of the word \"scout\" itself. That's why the correct answer is Not Given.",
+      "quote": ""
+     },
+     "q26": {
+      "text": "The passage describes the first experimental camp on Brownsea Island and explicitly concludes that the event was very successful. That's why the correct answer is False.",
+      "quote": "The first Boy Scout meeting was a great success."
+     },
+     "q27": {
+      "text": "The text mentions that the Boy Scouts had rules and that the Girl Guides was a separate organization, but it never compares their specific rules. That's why the correct answer is Not Given.",
+      "quote": ""
+     },
+     "q28": {
+      "text": "The passage explains that William Boyce was so moved by a Scout's good deed in London that it motivated him to create similar youth groups in the United States. That's why the correct answer is True.",
+      "quote": "This anonymous gesture inspired Boyce to organize several regional U.S. youth organizations."
+     },
+     "q29": {
+      "text": "The text states that Robert Baden-Powell received his title in 1920. A later sentence mentions he died in 1941, meaning he was alive when he received the title. That's why the correct answer is False.",
+      "quote": "In 1920 the first international Boy Scout Jamboree was held in London, and Robert Baden-Powell got the title Chief Scout of the World."
+     }
+    },
+    "questionRange": "21-29",
+    "questionSections": [
+     {
+      "type": "mcq",
+      "title": "Questions 21-24: Multiple Choice",
+      "questions": [
+       {
+        "id": 21,
+        "text": "It is stated that Robert Baden-Powell ...",
+        "options": [
+         {
+          "text": "was a popular name in the 19th century",
+          "letter": "A"
+         },
+         {
+          "text": "was a secondary school teacher",
+          "letter": "B"
+         },
+         {
+          "text": "didn't write books for a younger audience initially",
+          "letter": "C"
+         },
+         {
+          "text": "fought many wars but couldn't win one",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 22,
+        "text": "When was \"Scouting for Boys\" published?",
+        "options": [
+         {
+          "text": "1900",
+          "letter": "A"
+         },
+         {
+          "text": "1907",
+          "letter": "B"
+         },
+         {
+          "text": "1908",
+          "letter": "C"
+         },
+         {
+          "text": "1920",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 23,
+        "text": "The Girl Scouts first showed up ...",
+        "options": [
+         {
+          "text": "In 1912, USA",
+          "letter": "A"
+         },
+         {
+          "text": "as a movement against the Boy Scouts",
+          "letter": "B"
+         },
+         {
+          "text": "By the end of 1908",
+          "letter": "C"
+         },
+         {
+          "text": "In 1910",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 24,
+        "text": "We can infer from the passage that ...",
+        "options": [
+         {
+          "text": "There were various authors of the Boy Scouts who organized teenagers at the same time.",
+          "letter": "A"
+         },
+         {
+          "text": "Robert Baden-Powell died in 1941",
+          "letter": "B"
+         },
+         {
+          "text": "Although London was the centre of the Boy Scouts, there were more than 60,000 scouts in 1920.",
+          "letter": "C"
+         },
+         {
+          "text": "Unlike military handbooks, Scouting for Boys wasn't published in London",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "For questions 21-24, choose the correct answer A, B, C, or D."
+     },
+     {
+      "type": "tfni",
+      "title": "Questions 25-29: True/False/Not Given",
+      "options": [
+       "True",
+       "False",
+       "Not Given"
+      ],
+      "questions": [
+       {
+        "id": 25,
+        "text": "The word scout was invented by Robert Baden-Powell."
+       },
+       {
+        "id": 26,
+        "text": "The first camp organized by Robert Baden-Powell on an island was a failure."
+       },
+       {
+        "id": 27,
+        "text": "The Boy Scouts' rules and the Girl Scouts' rules were different."
+       },
+       {
+        "id": 28,
+        "text": "William Boyce founded the Boy Scouts organization in the USA because he was impressed by the behavior of a British Scout."
+       },
+       {
+        "id": 29,
+        "text": "Robert Baden-Powell was awarded the title Chief Scout of the World after his death."
+       }
+      ],
+      "instruction": "For questions 25-29, decide if the following statements agree with the information given in the text."
+     }
+    ]
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 5",
+    "answers": {
+     "30": [
+      "covering"
+     ],
+     "31": [
+      "chocolate"
+     ],
+     "32": [
+      "cocoa"
+     ],
+     "33": [
+      "mold"
+     ],
+     "34": [
+      "B"
+     ],
+     "35": [
+      "D"
+     ]
+    },
+    "passage": {
+     "title": "The Cacao: a Sweet History",
+     "content": "<p><strong>Chapter 1</strong> Most people today think of chocolate as something sweet to eat or drink that can be easily found in stores around the world. It might surprise you that chocolate was once highly treasured. The tasty secret of the cacao (Kah Kow) tree was discovered 2,000 years ago in the tropical rainforests of the Americas. The story of how chocolate grew from a local Mesoamerican beverage into a global sweet encompasses many cultures and continents.</p>\n\n<p><strong>Chapter 2</strong> Historians believe the Maya people of Central America first learned to farm cacao plants around two thousand years ago. The Maya took cacao trees from the rainforests and grew them in their gardens. They cooked cacao seeds, then crushed them into a soft paste. They mixed the paste with water and flavorful spices to make an unsweetened chocolate drink. The Maya poured the chocolate drink back and forth between two containers so that the liquid would have a layer of bubbles or foam. Cacao and chocolate were an important part of Maya culture. There are often images of cacao plants on Maya buildings and art objects. Ruling families drank chocolate at special ceremonies. And, even poorer members of society could enjoy the drink once in a while. Historians believe that cacao seeds were also used in marriage ceremonies as a sign of the union between a husband and a wife. The Aztec culture in current-day Mexico also prized chocolate. But, cacao plants could not grow in the area where the Aztecs lived. So, they traded to get cacao. They even used cacao seeds as a form of money to pay taxes. Chocolate also played a special role in both Maya and Aztec royal and religious events. Priests presented cacao seeds and offerings to the gods and served chocolate drinks during sacred ceremonies. Only the very wealthy in Aztec societies could afford to drink chocolate because cacao was so valuable. The Aztec ruler Montezuma was believed to drink fifty cups of chocolate every day. Some experts believe the word for chocolate came from the Aztec word \"xocolatl,\" which in the Nahuatl language means \"bitter water.\" Others believe the word \"chocolate\" was created by combining Mayan and Nahuatl words.</p>\n\n<p><strong>Chapter 3</strong> The explorer Christopher Columbus brought cacao seeds to Spain after his trip to Central America in 1502. But it was the Spanish explorer Hernando Cortes who understood that chocolate could be a valuable investment. In 1519, Cortes arrived in current-day Mexico. He believed the chocolate drink would become popular with Spaniards. After the Spanish soldiers defeated the Aztec empire, they were able to seize the supplies of cacao and send them home. Spain later began planting cacao in its colonies in the Americans in order to satisfy the large demand for chocolate. The wealthy people of Spain first enjoyed a sweetened version of chocolate drink. Later, the popularity of the drink spread throughout Europe. The English, Dutch and French began to plant cacao trees in their own colonies. Chocolate remained a drink that only wealthy people could afford to drink until the eighteenth century. During the period known as the Industrial Revolution, new technologies helped make chocolate less costly to produce.</p>\n\n<p><strong>Chapter 4</strong> Farmers grow cacao trees in many countries in Africa, Central and South America. The trees grow in the shady areas of the rainforests near the Earth's equator. But these trees can be difficult to grow. They require an exact amount of water, warmth, soil and protection. After about five years, cacao trees start producing large fruits called pods, which grow near the trunk of the tree. The seeds inside the pods are harvested to make chocolate. There are several kinds of cacao trees. Most of the world's chocolate is made from the seed of the forastero tree. But farmers can also grow criollo or trinitario cacao plants. Cacao trees grown on farms are much more easily threatened by diseases and insects than wild trees. Growing cacao is very hard work for farmers. They sell their harvest on a futures market. This means that economic conditions beyond their control can affect the amount of money they will earn. Today, chocolate industry officials, activists, and scientists are working with farmers. They are trying to make sure that cacao can be grown in a way that is fair to the timers and safe for the environment.</p>\n\n<p><strong>Chapter 5</strong> To become chocolate, cacao seeds go through a long production process in a factory. Workers must sort, clean and cook the seeds. Then they break off the covering of the seeds so that only the inside fruit, or nibs, remain. Workers crush the nibs into a soft substance called chocolate liquor. This gets separated into cocoa solids and fat called cocoa butter. Chocolate makers have their own special recipes in which they combine chocolate liquor with exact amounts of sugar, milk and cocoa fat. They finely crush this \"crumb\" mixture in order to make it smooth. The mixture then goes through two more processes before it is shaped into a mold form.</p>\n\n<p>Chocolate making is big business. The market value of the yearly cacao crop around the world is more than five billion dollars. Chocolate is especially popular in Europe and the United States. For example, in 2005, the United States bought 1.4 billion dollars' worth of cocoa products. Each year, Americans eat an average of more than five kilograms of chocolate per person. Speciality shops that sell costly chocolates are also very popular. Many offer chocolate lovers the chance to taste chocolates grown in different areas of the world.</p>"
+    },
+    "partNumber": 5,
+    "instruction": "Read the following text for questions 30-35.",
+    "explanations": {
+     "q30": {
+      "text": "The passage describes how chocolate is made. It states that workers remove the outer layer of the seeds, leaving only the inner part called nibs. That's why the correct answer is 'covering'.",
+      "quote": "Then they break off the covering of the seeds so that only the inside fruit, or nibs, remain."
+     },
+     "q31": {
+      "text": "The text explains that crushed nibs become 'chocolate liquor'. This liquor is then separated into 'cocoa solids' and 'cocoa butter', which are the main components. That's why the correct answer is 'cocoa'.",
+      "quote": "This gets separated into cocoa solids and fat called cocoa butter."
+     },
+     "q32": {
+      "text": "The passage states that 'cocoa fat' is added to the mixture. This fat is a key component derived from the chocolate liquor to make the final product. That's why the correct answer is 'chocolate'.",
+      "quote": "Chocolate makers have their own special recipes in which they combine chocolate liquor with exact amounts of sugar, milk and cocoa fat."
+     },
+     "q33": {
+      "text": "In the description of the final steps of chocolate making, the passage states that the mixture is given its final shape in a specific container. That's why the correct answer is 'mold'.",
+      "quote": "The mixture then goes through two more processes before it is shaped into a mold form."
+     },
+     "q34": {
+      "text": "Chapter 4 describes the cacao tree and its fruit. It specifies that the part of the tree harvested for chocolate production are the seeds found inside the pods. That's why the correct answer is B.",
+      "quote": "The seeds inside the pods are harvested to make chocolate."
+     },
+     "q35": {
+      "text": "Chapter 5 explains the chocolate production process. It mentions that the outer layer of the cacao seed is removed, and only the inner part is used. That's why the correct answer is D.",
+      "quote": "Then they break off the covering of the seeds so that only the inside fruit, or nibs, remain."
+     }
+    },
+    "questionRange": "30-35",
+    "questionSections": [
+     {
+      "type": "gap-fill",
+      "title": "Questions 30-33: Gap Fill",
+      "questions": [
+       {
+        "id": 30
+       },
+       {
+        "id": 31
+       },
+       {
+        "id": 32
+       },
+       {
+        "id": 33
+       }
+      ],
+      "instruction": "For questions 30-33, fill in the missing information in the numbered spaces. Write no more than ONE WORD and/or A NUMBER for each question.",
+      "summaryText": "<p>↓ sorting, cleaning and cooking ridding seeds of their <span class=\"gap-input\" data-gap=\"30\">_____(30)_____</span></p>\n<p style=\"text-align:center;\">Nibs</p>\n<p style=\"text-align:center;\">↓ crushing</p>\n<p style=\"text-align:center;\"><span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span> liquor</p>\n<p style=\"text-align:center;\">↓</p>\n<p>Add sugar, milk and <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span> fat.</p>\n<p style=\"text-align:center;\">Crumb mixture</p>\n<p style=\"text-align:center;\">↓</p>\n<p>Crush finely then come into a shape in a <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span></p>\n<p style=\"text-align:center;\">Chocolate</p>",
+      "summaryTitle": "CACAO SEEDS"
+     },
+     {
+      "type": "mcq",
+      "title": "Questions 34-35: Multiple Choice",
+      "questions": [
+       {
+        "id": 34,
+        "text": "Which of this following information is stated in Chapter 4?",
+        "options": [
+         {
+          "text": "average chocolate consumption by people in the US per person per year",
+          "letter": "A"
+         },
+         {
+          "text": "the part of cacao trees used to produce chocolate",
+          "letter": "B"
+         },
+         {
+          "text": "where the first sweetened chocolate drink appeared",
+          "letter": "C"
+         },
+         {
+          "text": "how ancient American civilizations obtained cacao",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 35,
+        "text": "Which of the following statements agree with the information given in the passage?",
+        "options": [
+         {
+          "text": "use cacao and chocolate in ceremonies were restricted Maya royal families",
+          "letter": "A"
+         },
+         {
+          "text": "The Spanish explorer Hernando Cortes invested in chocolate and chocolate drinks.",
+          "letter": "B"
+         },
+         {
+          "text": "The forastero tree produces the best chocolate.",
+          "letter": "C"
+         },
+         {
+          "text": "some parts in cacao seed are get rid of during the chocolate process",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "For questions 34-35, choose the correct answer A, B, C, or D."
+     }
+    ]
+   }
+  ],
+  "examDate": "2026-04-21",
+  "testInfo": {
+   "parts": 5,
+   "title": "CEFR B1-B2-C1 Reading Test 10",
+   "totalTime": 60,
+   "totalQuestions": 35
+  }
+ },
+ "created_at": "2026-05-12T16:21:19.612566+00:00",
+ "updated_at": "2026-10-11T10:54:25.762211+00:00"
+}

@@ -1,0 +1,529 @@
+{
+ "id": 133,
+ "mock_type": "ielts-writing",
+ "mock_number": 24,
+ "title": "IELTS Writing Mock 24",
+ "status": "published",
+ "mock_data": {
+  "tasks": {
+   "task1": {
+    "title": "Australian education by gender",
+    "prompt": "The charts below show the percentage of male and female students of different age groups who studied in Australia for full-time and part-time education in 2006.",
+    "wordGoal": 150,
+    "chartDesc": {
+     "title": "",
+     "visuals": [
+      {
+       "kind": "bar chart",
+       "xAxis": "Age groups",
+       "yAxis": "Percentage",
+       "series": [
+        {
+         "name": "Part-time",
+         "points": [
+          {
+           "at": "15-19",
+           "value": 12
+          },
+          {
+           "at": "20-24",
+           "value": 40
+          },
+          {
+           "at": "25-29",
+           "value": 8
+          },
+          {
+           "at": "30+",
+           "value": 8
+          }
+         ]
+        },
+        {
+         "name": "Full-time",
+         "points": [
+          {
+           "at": "15-19",
+           "value": 8
+          },
+          {
+           "at": "20-24",
+           "value": 12
+          },
+          {
+           "at": "25-29",
+           "value": 6
+          },
+          {
+           "at": "30+",
+           "value": 10
+          }
+         ]
+        }
+       ],
+       "caption": "Males"
+      },
+      {
+       "kind": "bar chart",
+       "xAxis": "Age groups",
+       "yAxis": "Percentage",
+       "series": [
+        {
+         "name": "Part-time",
+         "points": [
+          {
+           "at": "15-19",
+           "value": 17
+          },
+          {
+           "at": "20-24",
+           "value": 42
+          },
+          {
+           "at": "25-29",
+           "value": 8
+          },
+          {
+           "at": "30+",
+           "value": 6
+          }
+         ]
+        },
+        {
+         "name": "Full-time",
+         "points": [
+          {
+           "at": "15-19",
+           "value": 7
+          },
+          {
+           "at": "20-24",
+           "value": 13
+          },
+          {
+           "at": "25-29",
+           "value": 8
+          },
+          {
+           "at": "30+",
+           "value": 12
+          }
+         ]
+        }
+       ],
+       "caption": "Females"
+      }
+     ],
+     "overview": "Across most age groups for both male and female students in 2006, part-time education was more common than full-time education, with the highest proportion of part-time students found in the 20-24 age group for both genders. The only age group where full-time study surpassed part-time study for both males and females was the 30+ category.",
+     "chartType": "mixed",
+     "confidence": "high",
+     "unreadable": [],
+     "keyFeatures": [
+      "In the Males chart, part-time studying peaked at 40% in the 20-24 age group, whereas full-time studying peaked in the same group at 12%.",
+      "In the Females chart, part-time studying reached its highest proportion in the 20-24 group at 42%, with full-time studying at 13%.",
+      "In the 30+ age group, full-time students outnumbered part-time students in both charts (10% full-time vs 8% part-time in Males; 12% full-time vs 6% part-time in Females).",
+      "The lowest rate of part-time study for females was in the 30+ group (6%), whereas for males it was shared between the 25-29 and 30+ age groups (8% each)."
+     ]
+    },
+    "chartType": "mixed",
+    "dataNature": "static",
+    "instruction": "Summarise the information by selecting and reporting the main features, and make comparison where relevant.",
+    "sampleBand5": "<p>The two charts <mark>show information</mark> about students in Australia. They are divided by age and gender and if they studied full-time or part-time in 2006.</p>\n<p>From the charts, <mark>it can be seen</mark> that there were more male students studying full-time in the 15-19 age group. The percentage of female students studying full-time in the 20-24 age group was <mark>also higher</mark>. For part-time study, the percentage of males was greater in the 25-29 and 30-34 age groups.</p>\n<p>There were some similarities. For example, in the 35-39 age group, the percentages for male and female full-time students were similar. Also, in the 20-24 age group, the percentage of male and female part-time students were nearly the same.</p>\n<p>Overall, the charts show that the percentages of male and female students studying either full-time or part-time <mark>was different</mark> depending on their age group.</p>",
+    "sampleBand6": "<p>The charts <mark>give information</mark> about the percentage of male and female students in different age groups who studied in Australia in 2006. The data is divided into full-time and part-time study.</p>\n<p>Overall, the charts show that <mark>more people studied full-time</mark> than part-time. Also, the largest group of students were aged 15-19 years. The proportion of students decreases as the age increases, which is a general trend.</p>\n<p>Looking at the full-time education, the 15-19 age group <mark>had the highest percentage</mark> for both males and females, at around 45% and 47% respectively. The percentage of students in the older age groups, 20-24 and 25-29, declines considerably. The percentage of males and females are <mark>quite similar</mark> in all age groups. For part-time education, the 25-29 age group had a slightly higher percentage compared to other age groups. However, the numbers are much lower than full-time study.</p>\n<p>In conclusion, the most popular type of study was full-time, and the most common age group was 15-19. <mark>There were not big differences</mark> between the numbers of male and female students.</p>",
+    "sampleBand7": "<p>The charts <mark>illustrate the proportions</mark> of male and female students in different age brackets who undertook full-time and part-time studies in Australia during 2006.</p>\n<p>Overall, full-time education was <mark>more prevalent</mark> than part-time education for both genders. In addition, the 20-24 age group represented the largest proportion of students in both full-time and part-time categories.</p>\n<p>Specifically, among those in full-time education, the 20-24 age group accounted for the highest percentage, with around 40% of males and slightly less than 40% of females. The 25-29 age group comprised the second largest proportion for both genders, at approximately 15%. <mark>In contrast</mark>, the proportion of students aged 30 and over was markedly lower, at below 10% for both males and females. The under 19 age group also represented a smaller percentage than the 20-24 group.</p>\n<p>In terms of part-time education, the 20-24 age group also <mark>constituted the largest share</mark>, with around 30% of females and just over 20% of males. The older age groups, particularly those aged 30 and above, showed <mark>a somewhat higher participation rate</mark> in part-time studies compared to full-time studies, <mark>albeit still lower than</mark> the 20-24 age group. <mark>Notably</mark>, the under 19 age group had the lowest representation in part-time education.</p>",
+    "sampleBand8": "<p>The charts <mark>illustrate the proportion</mark> of male and female students across different age brackets who pursued full-time and part-time studies in Australia during 2006.</p>\n<p>Overall, the data reveals that full-time education was <mark>considerably more prevalent</mark> than part-time study across all age groups and genders. Furthermore, the 20-24 age group represented the <mark>largest demographic</mark> participating in both full-time and part-time education.</p>\n<p>In terms of full-time studies, the 20-24 age group showed the highest percentage, with approximately 35% of males and slightly over 30% of females participating. This was followed by the 15-19 age group, with around 28% of males and 25% of females. The older age groups, specifically the 25-29 and 30+ categories, <mark>demonstrated a significantly lower</mark> participation rate, with percentages <mark>hovering between</mark> 5% and 10% for both genders.</p>\n<p>Regarding part-time education, the trends were similar, with the 20-24 age group <mark>accounting for the largest share</mark>. However, the percentages were markedly lower compared to full-time studies. Approximately 12% of males and 10% of females in the 20-24 age range pursued part-time education. The remaining age groups showed a <mark>relatively consistent</mark> participation rate of around 5% or less for both males and females, <mark>indicating a limited engagement</mark> with part-time studies outside the young adult demographic. The figures for those 30+ were <mark>negligible</mark>.</p>",
+    "sampleBand9": "<p>The charts <mark>illustrate the proportion</mark> of male and female students in different age brackets undertaking full-time and part-time studies in Australia during 2006.</p>\n\n<p>An <mark>overarching trend</mark> is that full-time education was more prevalent across all age groups and genders compared to part-time study. Furthermore, for both full-time and part-time studies, the 15-19 age group consistently represented the <mark>largest student demographic</mark>, while those aged 30 and over constituted the smallest. </p>\n\n<p>Specifically, in full-time education, the 15-19 age group accounted for the highest percentage, with males at approximately 48% and females at around 44%. This was <mark>in stark contrast to</mark> the 30+ category, where males comprised only about 3% and females around 2%. A similar pattern was observed in part-time education. The 15-19 age group again had the highest percentages, with males and females at roughly 18% and 22% respectively. Conversely, the 30+ age group registered the lowest figures, with both genders <mark>hovering around</mark> 2%.</p>\n\n<p>In summary, the data reveals a <mark>clear preference</mark> for full-time study, especially among younger individuals. The older age groups demonstrated a <mark>relative lack of participation</mark> in both full-time and part-time education, <mark>irrespective of gender</mark>. While slight gender disparities existed, they were <mark>generally minimal</mark> and did not significantly alter the <mark>overall picture</mark> of student demographics. The charts <mark>emphatically underscore</mark> the age-related trends in Australian education during the specified year.</p>",
+    "timeMinutes": 20,
+    "chartDescImg": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/24.png",
+    "sampleAnswer": "The bar charts compare the proportions of male and female students in Australia who pursued full-time and part-time education across different age groups in 2006. Overall, younger students predominantly chose full-time study, while part-time education was more common among older age groups, with notable gender differences.\n\nFor full-time education, similar patterns emerged for both genders: the highest participation rates were among students under 25, with approximately 35% of males and 38% of females in this age bracket studying full-time. These figures declined sharply with age, dropping to around 5% for both genders in the 40-49 age group.\n\nPart-time education showed different trends. Female students aged 25-39 had the highest participation rate at roughly 20%, compared to about 15% for males in the same age group. In the 40-49 bracket, part-time study rates were similar for both genders at approximately 10%. Notably, students over 50 showed very low participation in both full-time and part-time education, with rates below 5% for both genders.\n\nThe data suggests that younger students preferred full-time study, while older students, particularly women, were more likely to choose part-time options.",
+    "chartImageUrl": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/24.png",
+    "uzSampleBand5": "<p>Ikkita jadval Avstraliyadagi talabalar haqida <mark>ma'lumot ko'rsatadi</mark>. Ular yosh va jinsga, shuningdek, 2006-yilda kunduzgi yoki sirtqi ta'lim olganliklariga qarab bo'lingan.</p>\n<p>Jadvallardan <mark>ko'rinib turibdiki</mark>, 15-19 yosh guruhida kunduzgi ta'lim olayotgan erkak talabalar ko'proq bo'lgan. 20-24 yosh guruhida kunduzgi ta'lim olayotgan ayol talabalarning foizi ham <mark>yuqoriroq edi</mark>. Sirtqi ta'limda esa, erkaklarning foizi 25-29 va 30-34 yosh guruhlarida yuqori bo'lgan.</p>\n<p>Ba'zi o'xshashliklar ham bor edi. Misol uchun, 35-39 yosh guruhida kunduzgi ta'lim olayotgan erkak va ayol talabalarning foizlari bir xil edi. Shuningdek, 20-24 yosh guruhida sirtqi ta'lim olayotgan erkak va ayol talabalarning foizlari deyarli bir xil edi.</p>\n<p>Umuman olganda, jadvallar shuni ko'rsatadiki, kunduzgi yoki sirtqi ta'lim olayotgan erkak va ayol talabalarning foizlari ularning yosh guruhiga qarab <mark>farqli edi</mark>.</p>",
+    "uzSampleBand6": "<p>Diagrammalar 2006 yilda Avstraliyada tahsil olgan turli yoshdagi erkak va ayol talabalarning foizlari haqida <mark>ma'lumot beradi</mark>. Ma'lumotlar kunduzgi va kechki o'qishga bo'lingan.</p>\n<p>Umuman olganda, diagrammalar shuni ko'rsatadiki, kechki o'qishga qaraganda <mark>kunduzgi o'qishda ko'proq odam tahsil olgan</mark>. Shuningdek, talabalarning eng katta guruhi 15-19 yoshdagilar edi. Talabalar ulushi yosh oshishi bilan kamayib boradi, bu umumiy tendentsiya hisoblanadi.</p>\n<p>Kunduzgi ta'limga nazar tashlasak, 15-19 yoshdagi guruh erkaklar va ayollar uchun mos ravishda taxminan 45% va 47% bilan <mark>eng yuqori foizga ega edi</mark>. Katta yoshdagi guruhlardagi, 20-24 va 25-29 yoshdagilarning foizi sezilarli darajada kamayadi. Barcha yosh guruhlarida erkaklar va ayollarning foizi <mark>juda o'xshash</mark>. Kechki ta'lim uchun 25-29 yoshdagi guruh boshqa yosh guruhlariga nisbatan biroz yuqori foizga ega edi. Biroq, raqamlar kunduzgi o'qishga qaraganda ancha past.</p>\n<p>Xulosa qilib aytganda, eng mashhur o'qish turi kunduzgi, eng ko'p tarqalgan yosh guruhi esa 15-19 yosh edi. Erkak va ayol talabalar soni o'rtasida <mark>katta farqlar yo'q edi</mark>.</p>",
+    "uzSampleBand7": "<p>Diagrammalar 2006-yilda Avstraliyada kunduzgi va kechki ta’lim olgan turli yoshdagi erkak va ayol talabalarning <mark>nisbatlarini ko'rsatadi</mark>.</p>\n<p>Umuman olganda, kunduzgi ta’lim har ikki jins vakillari uchun ham kechki ta’limga qaraganda <mark>ko'proq tarqalgan</mark> edi. Bundan tashqari, 20-24 yosh guruhi kunduzgi va kechki toifalardagi talabalarning eng katta qismini tashkil etdi.</p>\n<p>Xususan, kunduzgi ta’lim olayotganlar orasida 20-24 yosh guruhi eng yuqori foizni tashkil etdi, erkaklarning taxminan 40 foizi va ayollarning 40 foizidan biroz kamroq qismi. 25-29 yosh guruhi har ikki jins uchun ham taxminan 15% ni tashkil etgan holda ikkinchi o'rinda turdi. <mark>Bunga javoban</mark>, 30 va undan katta yoshdagi talabalarning ulushi sezilarli darajada pastroq bo'lib, erkaklar va ayollar uchun 10% dan kamni tashkil etdi. 19 yoshgacha bo'lgan guruh ham 20-24 yosh guruhiga nisbatan kamroq foizni tashkil etdi.</p>\n<p>Kechki ta’lim nuqtai nazaridan, 20-24 yosh guruhi ham <mark>eng katta ulushni tashkil etdi</mark>, ayollarning taxminan 30 foizi va erkaklarning 20 foizdan sal ko'proq qismi. Katta yoshdagilar, ayniqsa 30 va undan katta yoshdagilar, kunduzgi ta’limga nisbatan kechki ta’limda <mark>bir oz yuqoriroq ishtirok darajasini</mark> ko'rsatdilar, <mark>garchi hali ham</mark> 20-24 yosh guruhidan past bo'lsa-da. <mark>Shuni ta'kidlash joizki</mark>, 19 yoshgacha bo'lgan guruh kechki ta'limda eng kam vakillikka ega edi.</p>",
+    "uzSampleBand8": "<p>Diagrammalar 2006-yilda Avstraliyada kunduzgi va sirtqi ta'lim olgan turli yoshdagi erkak va ayol talabalarning <mark>nisbatini ko'rsatadi</mark>.</p>\n<p>Umuman olganda, ma'lumotlar shuni ko'rsatadiki, kunduzgi ta'lim barcha yosh guruhlari va jinslar orasida sirtqi o'qishga qaraganda <mark>ancha keng tarqalgan</mark>. Bundan tashqari, 20-24 yoshli guruh kunduzgi va sirtqi ta'limda ishtirok etayotgan <mark>eng katta demografik</mark> guruhni tashkil etdi.</p>\n<p>Kunduzgi o'qishga kelsak, 20-24 yoshli guruh eng yuqori foizni ko'rsatdi, unda erkaklarning taxminan 35% va ayollarning 30% dan sal ko'prog'i ishtirok etdi. Undan keyin 15-19 yoshli guruh, erkaklarning taxminan 28% va ayollarning 25% ishtirok etdi. Katta yoshdagi guruhlar, xususan, 25-29 va 30+ toifalari, ishtirok etish darajasi <mark>sezilarli darajada pastroqni ko'rsatdi</mark>, foizlar har ikkala jins uchun ham 5% dan 10% gacha <mark>tebranib turdi</mark>.</p>\n<p>Sirtqi ta'limga kelsak, tendentsiyalar o'xshash edi, 20-24 yoshli guruh <mark>eng katta ulushni tashkil etdi</mark>. Biroq, foizlar kunduzgi o'qishga nisbatan sezilarli darajada past edi. 20-24 yoshdagi erkaklarning taxminan 12% va ayollarning 10% sirtqi ta'lim oldi. Qolgan yosh guruhlari erkaklar va ayollar uchun taxminan 5% yoki undan kamroq <mark>nisbatan barqaror</mark> ishtirok etish darajasini ko'rsatdi, bu yosh kattalar demografiyasidan tashqari sirtqi o'qish bilan <mark>cheklangan aloqani ko'rsatadi</mark>. 30+ yoshdagilar uchun ko'rsatkichlar <mark>e'tiborga molik emas edi</mark>.</p>",
+    "uzSampleBand9": "<p>Diagrammalar 2006-yilda Avstraliyada kunduzgi va sirtqi ta’lim olayotgan erkak va ayol talabalarning turli yosh guruhlaridagi <mark>nisbatini ko'rsatadi</mark>.</p>\n\n<p><mark>Umumiy tendensiya</mark> shundan iboratki, kunduzgi ta’lim barcha yosh guruhlari va jinslar orasida sirtqi ta’limga nisbatan koʻproq tarqalgan. Bundan tashqari, kunduzgi va sirtqi ta’limning ikkala shakli uchun ham 15-19 yosh guruhlari doimiy ravishda <mark>eng katta talabalar demografiyasini</mark> tashkil etgan, 30 va undan katta yoshdagilar esa eng kichigini tashkil qilgan.</p>\n\n<p>Xususan, kunduzgi ta’limda 15-19 yosh guruhlari eng yuqori foizni tashkil etdi, erkaklar taxminan 48% va ayollar taxminan 44%. Bu 30+ toifasidan <mark>keskin farq qildi</mark>, bu yerda erkaklar atigi 3% ni, ayollar esa taxminan 2% ni tashkil etdi. Sirtqi ta’limda ham shunga oʻxshash holat kuzatildi. 15-19 yosh guruhlari yana eng yuqori foizlarga ega boʻlib, erkaklar va ayollar mos ravishda taxminan 18% va 22% ni tashkil etdi. Aksincha, 30+ yosh guruhlari eng past koʻrsatkichlarni qayd etdi, har ikki jins <mark>taxminan</mark> 2% atrofida edi.</p>\n\n<p>Xulosa qilib aytganda, ma'lumotlar, ayniqsa, yoshlar orasida kunduzgi ta'limga <mark>aniq ustunlikni</mark> ko'rsatadi. Katta yoshdagi guruhlar kunduzgi va sirtqi ta'limda <mark>nisbatan kam ishtirok etishni</mark> namoyish etdi, <mark>jinsidan qat'i nazar</mark>. Jinslar o'rtasida ozgina farqlar mavjud bo'lsa-da, ular <mark>odatda minimal</mark> edi va talabalar demografiyasining <mark>umumiy manzarasini</mark> sezilarli darajada o'zgartirmadi. Diagrammalar ko'rsatilgan yilda Avstraliya ta'limidagi yoshga bog'liq tendensiyalarni <mark>qizg'in ta'kidlaydi</mark>.</p>",
+    "chartDescSource": "extracted-verified-2026-08-05"
+   },
+   "task2": {
+    "title": "Single global legal system",
+    "prompt": "Some people think it is better for one single legal system throughout the world. Others say countries should have their own law. Discuss both views and give your opinion.",
+    "wordGoal": 250,
+    "essayType": "balanced",
+    "instruction": "Discuss both views and give your opinion.",
+    "sampleBand5": "<p>In this world, some people think that one law for all countries is a good idea. <mark>Other people think different</mark> and say that each country needs its own laws. This essay will talk about both of these ideas.</p>\n\n<p>Some people think that one law for all is better. <mark>They might say</mark> it makes things easier because everyone knows what the rules are no matter where they go. This could help with things like business and travel. If everyone followed the same laws, there would be less confusion. Also, it could help to make sure that everyone is treated fairly, because the same rules would apply to everyone.</p>\n\n<p>However, there are also reasons why countries should have their own laws. Every country has its own culture and traditions. What works in one country might not work in another. For example, some countries have different religions, and their laws might be based on their religious beliefs. Also, some countries have different economic situations, so their laws need to be different. <mark>It is also can be</mark> difficult to agree on one law that everyone likes.</p>\n\n<p>In my opinion, <mark>I think it is better</mark> for countries to have their own laws. While it might be easier to have one law for all, it is more important to respect different cultures and traditions. Trying to make everyone follow the same rules could lead to problems and make people unhappy. So, I think it's important for each country to decide what is best for its own people, even if <mark>this is more hard</mark>.</p>",
+    "sampleBand6": "<p>The question of whether the world should adopt a single legal system is a complex one. Some argue that a unified legal framework would bring numerous benefits, while others maintain that individual countries should retain their own distinct laws. Both perspectives have valid points, and <mark>in my opinion</mark>, the best approach lies in finding a balance between the two.</p>\n\n<p>On the one hand, the idea of a single global legal system has some appeal. <mark>Proponents of this view</mark> suggest that it could simplify international relations, reduce conflicts between nations, and ensure greater consistency in the application of justice. For example, international trade disputes could be resolved more efficiently if all countries adhered to the same set of commercial laws. Furthermore, a unified legal system could potentially offer greater protection for human rights, <mark>ensuring that</mark> fundamental freedoms are respected everywhere. However, the practicalities of implementing such a system are daunting, and it is unlikely to be accepted by all countries.</p>\n\n<p>On the other hand, the argument for maintaining separate national legal systems is based on the idea that each country has its own unique history, culture, and values. These factors shape the development of a nation's laws, reflecting its particular needs and priorities. Imposing a single legal system on all countries would disregard these differences and could lead to social and political instability. <mark>It is also important to consider</mark> that some laws may be more effective in certain cultural contexts than in others. Trying to force a universal standard could therefore be counterproductive.</p>\n\n<p>In conclusion, while a single global legal system might offer some advantages, the challenges of implementation and the importance of respecting national sovereignty make it an <mark>unrealistic and undesirable goal</mark>. A more pragmatic approach would be to focus on promoting greater cooperation and harmonization between existing legal systems, while allowing each country to retain its own distinct legal identity.\n</p>",
+    "sampleBand7": "<p>The question of whether the world should adopt a single legal system or if individual countries should maintain their own laws is a complex one with valid arguments on both sides. While a unified legal framework might seem appealing in some respects, the practical and cultural implications suggest that maintaining diverse legal systems is, on balance, a more appropriate approach.</p>\n\n<p>Advocates of a single global legal system often point to the potential for increased fairness and consistency. <mark>In their view</mark>, a universal set of laws could reduce discrepancies in justice and ensure that individuals are treated equally regardless of their nationality or location. This could be particularly beneficial in areas such as international trade and human rights, where a common legal framework could streamline processes and <mark>promote greater accountability</mark>. Furthermore, a single system could potentially simplify legal proceedings and reduce the costs associated with cross-border disputes. However, this perspective often <mark>overlooks the significant challenges</mark> involved in creating and enforcing such a system, given the vast differences in cultural norms and values across the globe.</p>\n\n<p>On the other hand, the argument for maintaining individual legal systems emphasizes the importance of cultural sensitivity and national sovereignty. Laws are often deeply rooted in a country's history, traditions, and social norms. Imposing a uniform legal code could therefore be seen as an infringement on a nation's right to self-determination and a disregard for its unique cultural identity. Moreover, what is considered just or acceptable in one society may be entirely different in another. For instance, laws relating to family matters, religious practices, or social customs often vary considerably across different cultures. <mark>To disregard these differences</mark> in favor of a one-size-fits-all approach could lead to widespread resentment and social unrest. It is also worth noting that legal systems evolve over time to reflect the changing needs and values of a society. A single, rigid system might struggle to adapt to these changes, potentially leading to stagnation and injustice.</p>\n\n<p>In conclusion, while the idea of a single global legal system may offer some theoretical advantages, the practical difficulties and potential cultural repercussions make it an <mark>unrealistic and undesirable</mark> goal. I believe that it is essential to respect the diversity of legal traditions around the world and to allow individual countries to maintain their own legal systems, <mark>tailored to their specific needs and circumstances</mark>. International cooperation and the harmonization of certain laws in specific areas, such as trade, are certainly valuable, but a complete overhaul of the world's legal landscape is, in my opinion, <mark>both impractical and unwise</mark>.</p>",
+    "sampleBand8": "<p>The debate surrounding the standardization of legal systems globally versus the maintenance of independent national laws is a complex one, with compelling arguments on both sides. While a universal legal framework might seem appealing in terms of consistency and fairness, the preservation of national legal sovereignty is equally important for reflecting cultural nuances and historical contexts. This essay will explore both perspectives before arriving at a reasoned conclusion.</p>\n\n<p>Proponents of a single global legal system often emphasize the potential for <mark>enhanced international cooperation</mark> in areas such as trade, human rights, and environmental protection. A unified legal code could streamline cross-border transactions, reduce legal ambiguities, and <mark>facilitate the prosecution of</mark> transnational crimes like terrorism and cybercrime. Moreover, a universal legal standard could promote greater equality and justice worldwide, ensuring that fundamental rights are protected regardless of nationality or location. The establishment of international courts, such as the International Criminal Court, represents a step in this direction, although their jurisdiction remains limited.</p>\n\n<p>Conversely, those who advocate for the preservation of distinct national legal systems argue that laws should reflect the unique cultural, historical, and social circumstances of each country. Imposing a uniform legal code could <mark>undermine national sovereignty</mark> and disregard deeply held beliefs and traditions. Laws relating to family matters, religious practices, and property rights, for example, are often closely intertwined with cultural values and may not be easily harmonized across different societies. Furthermore, different countries face different challenges and priorities, and their legal systems need to be flexible enough to address these specific needs. <mark>A 'one-size-fits-all' approach</mark> to lawmaking could therefore prove ineffective and even counterproductive.</p>\n\n<p>In my opinion, while the idea of a single global legal system has certain merits, it is ultimately unrealistic and undesirable. A more pragmatic approach would be to focus on <mark>promoting greater harmonization and cooperation</mark> between national legal systems, rather than attempting to impose a uniform code. This could involve sharing best practices, developing common legal principles, and establishing mechanisms for resolving cross-border legal disputes. International treaties and conventions can also play a crucial role in setting minimum standards and promoting convergence in specific areas of law. <mark>Striking a balance</mark> between global cooperation and national sovereignty is essential to ensure that legal systems are both effective and culturally appropriate. <mark>Such an equilibrium</mark> will inevitably foster greater respect for the rule of law internationally.</p>\n\n<p>In conclusion, while a universal legal system presents theoretical advantages regarding global cooperation, the practical realities of cultural diversity and national sovereignty necessitate the continued existence of independent national legal frameworks, albeit with increased collaboration and harmonization efforts. <mark>This nuanced perspective</mark> acknowledges the value of both global interconnectedness and local autonomy.</p>",
+    "sampleBand9": "<p>The debate surrounding the ideal structure of global legal systems is complex, pitting the allure of universal consistency against the deeply ingrained principles of national sovereignty and cultural specificity. While some advocate for a single, unified legal framework applicable worldwide, others maintain that individual countries should retain their distinct legal systems. Both perspectives warrant careful consideration.</p>\n\n<p>Proponents of a single global legal system often highlight its potential to <mark>streamline international relations</mark> and trade. With standardized laws governing commerce, intellectual property, and human rights, cross-border transactions would become significantly less complicated, fostering economic growth and collaboration. Furthermore, a universal legal code could potentially eradicate legal loopholes and ensure that individuals are afforded the same fundamental rights and protections regardless of their nationality or location. For instance, <mark>harmonizing laws pertaining to</mark> environmental protection could lead to more effective global efforts to combat climate change and preserve biodiversity. However, this view <mark>overlooks the nuanced realities</mark> of diverse cultural and societal norms.</p>\n\n<p>Conversely, the argument for maintaining distinct national legal systems rests on the premise that laws should reflect the unique historical, cultural, and social contexts of each country. Legal systems are often deeply intertwined with a nation's identity and values, and imposing a uniform system could lead to cultural clashes and social unrest. Moreover, different countries face different challenges and require tailored legal solutions. For example, laws relating to land ownership or resource management may need to vary significantly depending on a country's geographical location and economic structure. <mark>To override these specificities</mark> would be to disregard the carefully constructed legal frameworks that have evolved over centuries. This is not to say that national systems are perfect; rather, it suggests that reform should be <mark>contextually sensitive</mark> and locally driven.</p>\n\n<p>In my opinion, while the idea of a single global legal system holds a certain appeal in terms of efficiency and equality, it is ultimately impractical and potentially detrimental. A more realistic and desirable approach would be to <mark>foster greater cooperation and harmonization</mark> between national legal systems, while respecting their individual characteristics. This could involve establishing common principles and standards in certain areas, such as human rights and international trade, while allowing countries to retain autonomy over other areas of law. <mark>Such a balanced approach</mark> would allow for greater global coherence without sacrificing the <mark>vital cultural and societal nuances</mark> that underpin national legal systems. It is, in short, a matter of <mark>striking a delicate balance</mark> between universality and particularity. <mark>A one-size-fits-all solution</mark> would not work.</p>",
+    "timeMinutes": 40,
+    "sampleAnswer": "The question of whether the world should adopt a unified legal system or maintain individual national laws is a complex one with significant implications for global governance. This essay will examine both perspectives before presenting my own view.\n\nAdvocates for a single global legal system argue that it would promote equality and justice on an international scale. With uniform laws, individuals would have the same rights and protections regardless of where they live, eliminating the disparities that currently exist between countries. A unified system could also simplify international trade and travel, reduce legal complexities for multinational businesses, and make it easier to address global challenges such as climate change, terrorism, and cybercrime that transcend national boundaries.\n\nOn the other hand, proponents of national legal systems emphasize the importance of cultural diversity and sovereignty. Laws reflect a society's unique values, traditions, and historical experiences; imposing a single system would ignore these differences and potentially lead to conflict. Furthermore, different countries face different challenges and have varying resources, so laws need to be tailored to local conditions. There are also practical concerns about who would create and enforce global laws, and whether such a system could be truly democratic.\n\nIn my opinion, while some degree of international legal cooperation is necessary and beneficial—particularly in areas like human rights, trade, and environmental protection—a completely unified global legal system is neither practical nor desirable. The diversity of human cultures and societies is a strength, and laws should reflect this diversity while still upholding fundamental universal principles. A balanced approach that combines international standards with national autonomy would be most effective.",
+    "uzSampleBand5": "<p>Bu dunyoda ba'zi odamlar barcha mamlakatlar uchun bitta qonun yaxshi fikr deb hisoblashadi. <mark>Boshqa odamlar boshqacha fikrda</mark> va har bir mamlakatga o'z qonunlari kerakligini aytishadi. Ushbu insho ushbu ikki fikr haqida gapiradi.</p>\n\n<p>Ba'zi odamlar barcha uchun bitta qonun yaxshiroq deb hisoblashadi. <mark>Ular aytishi mumkinki,</mark> bu narsalarni osonlashtiradi, chunki hamma qayerga borishidan qat'i nazar, qoidalar nima ekanligini biladi. Bu biznes va sayohat kabi narsalarda yordam berishi mumkin. Agar hamma bir xil qonunlarga rioya qilsa, chalkashlik kamroq bo'ladi. Shuningdek, bu hamma adolatli munosabatda bo'lishini ta'minlashga yordam berishi mumkin, chunki bir xil qoidalar hammaga tegishli bo'ladi.</p>\n\n<p>Biroq, mamlakatlar o'z qonunlariga ega bo'lishi kerakligi uchun ham sabablar bor. Har bir mamlakatning o'z madaniyati va an'analari bor. Bir mamlakatda ishlaydigan narsa boshqasida ishlamasligi mumkin. Misol uchun, ba'zi mamlakatlarda turli dinlar bor va ularning qonunlari diniy e'tiqodlariga asoslangan bo'lishi mumkin. Shuningdek, ba'zi mamlakatlarda turli iqtisodiy vaziyatlar mavjud, shuning uchun ularning qonunlari boshqacha bo'lishi kerak. <mark>Shuningdek, bo'lishi mumkin</mark> hammaga yoqadigan bitta qonun haqida kelishish qiyin.</p>\n\n<p>Mening fikrimcha, <mark>menimcha, mamlakatlar o'z qonunlariga ega bo'lishi yaxshiroq</mark>. Barcha uchun bitta qonunga ega bo'lish osonroq bo'lishi mumkin bo'lsa-da, turli madaniyatlar va an'analarni hurmat qilish muhimroqdir. Hammani bir xil qoidalarga rioya qilishga majburlash muammolarga olib kelishi va odamlarni baxtsiz qilishi mumkin. Shunday qilib, menimcha, har bir mamlakat o'z xalqi uchun nima yaxshi ekanligini hal qilishi muhim, hatto <mark>bu qiyinroq bo'lsa ham</mark>.</p>",
+    "uzSampleBand6": "<p>Dunyo yagona huquqiy tizimni qabul qilishi kerakmi degan savol murakkab masala. Ba'zilar yagona huquqiy asos ko'plab afzalliklarni keltirishi mumkinligini ta'kidlasa, boshqalar esa har bir davlat o'ziga xos qonunlarini saqlab qolishi kerakligini aytadi. Ikkala nuqtai nazar ham asosli dalillarga ega va <mark>mening fikrimcha</mark>, eng yaxshi yondashuv ikkalasi o'rtasida muvozanatni topishdan iborat.</p>\n\n<p>Bir tomondan, yagona global huquqiy tizim g'oyasi biroz jozibador. <mark>Ushbu nuqtai nazarning tarafdorlari</mark> bu xalqaro munosabatlarni soddalashtirishi, davlatlar o'rtasidagi nizolarni kamaytirishi va adolatni qo'llashda katta izchillikni ta'minlashi mumkinligini taklif qilishadi. Masalan, agar barcha davlatlar bir xil tijorat qonunlariga rioya qilsa, xalqaro savdo nizolari samaraliroq hal qilinishi mumkin. Bundan tashqari, yagona huquqiy tizim inson huquqlarini himoya qilishni kuchaytirishi, <mark>shuni ta'minlash mumkinki</mark> fundamental erkinliklar hamma joyda hurmat qilinadi. Biroq, bunday tizimni joriy etishning amaliyligi juda qiyin va uni barcha davlatlar qabul qilishi dargumon.</p>\n\n<p>Boshqa tomondan, alohida milliy huquqiy tizimlarni saqlab qolish haqidagi argument har bir mamlakatning o'ziga xos tarixi, madaniyati va qadriyatlari bor degan fikrga asoslanadi. Bu omillar millat qonunlarining rivojlanishiga ta'sir ko'rsatib, uning o'ziga xos ehtiyojlari va ustuvorliklarini aks ettiradi. Barcha davlatlarga yagona huquqiy tizimni joriy etish bu farqlarga e'tibor bermaydi va ijtimoiy va siyosiy beqarorlikka olib kelishi mumkin. <mark>Shuni ham hisobga olish muhimki</mark> ba'zi qonunlar ba'zi madaniy sharoitlarda boshqalarga qaraganda samaraliroq bo'lishi mumkin. Shuning uchun universal standartni majburlash qarama-qarshi natija berishi mumkin.</p>\n\n<p>Xulosa qilib aytganda, yagona global huquqiy tizim ba'zi afzalliklarni taqdim etishi mumkin bo'lsa-da, uni amalga oshirishdagi qiyinchiliklar va milliy suverenitetni hurmat qilish muhimligi uni <mark>amaliy bo'lmagan va istalmagan maqsadga</mark> aylantiradi. Amaliyroq yondashuv mavjud huquqiy tizimlar o'rtasida hamkorlikni kuchaytirishga va uyg'unlashtirishga e'tibor qaratish, shu bilan birga har bir davlatga o'ziga xos huquqiy o'zligini saqlab qolishga imkon berish bo'ladi.\n</p>",
+    "uzSampleBand7": "<p>Dunyo yagona huquqiy tizimni qabul qilishi kerakmi yoki har bir davlat o'z qonunlarini saqlab qolishi kerakmi degan savol murakkab bo'lib, har ikki tomon uchun ham asosli dalillar mavjud. Yagona huquqiy asos ba'zi jihatlarda jozibador tuyulishi mumkin bo'lsa-da, amaliy va madaniy oqibatlar turli huquqiy tizimlarni saqlab qolish, umuman olganda, yanada maqbul yondashuv ekanligini ko'rsatadi.</p>\n\n<p>Yagona global huquqiy tizim tarafdorlari ko'pincha adolat va izchillikni oshirish potentsialiga ishora qiladilar. <mark>Ularning fikricha</mark>, universal qonunlar to'plami adolatdagi nomuvofiqliklarni kamaytirishi va shaxslarning millati yoki joylashuvidan qat'i nazar, teng munosabatda bo'lishini ta'minlashi mumkin. Bu, ayniqsa, xalqaro savdo va inson huquqlari kabi sohalarda foydali bo'lishi mumkin, bu erda umumiy huquqiy asos jarayonlarni soddalashtirishi va <mark>hisobdorlikni oshirishi</mark> mumkin. Bundan tashqari, yagona tizim sud jarayonlarini soddalashtirishi va transchegaraviy nizolar bilan bog'liq xarajatlarni kamaytirishi mumkin. Biroq, bu nuqtai nazar ko'pincha butun dunyo bo'ylab madaniy me'yorlar va qadriyatlardagi katta farqlarni hisobga olgan holda, bunday tizimni yaratish va amalga oshirish bilan bog'liq <mark>muhim muammolarni e'tibordan chetda qoldiradi</mark>.</p>\n\n<p>Boshqa tomondan, individual huquqiy tizimlarni saqlab qolish bo'yicha bahs madaniy sezgirlik va milliy suverenitetning muhimligini ta'kidlaydi. Qonunlar ko'pincha mamlakat tarixi, an'analari va ijtimoiy me'yorlariga chuqur o'rnashgan. Shuning uchun yagona huquqiy kodeksni joriy etish millatning o'z taqdirini o'zi belgilash huquqiga tajovuz va uning o'ziga xos madaniy o'ziga xosligiga e'tiborsizlik sifatida qaralishi mumkin. Bundan tashqari, bir jamiyatda adolatli yoki maqbul deb hisoblangan narsa boshqa jamiyatda butunlay boshqacha bo'lishi mumkin. Masalan, oilaviy masalalar, diniy amaliyotlar yoki ijtimoiy urf-odatlar bilan bog'liq qonunlar turli madaniyatlarda sezilarli darajada farq qiladi. <mark>Bu farqlarga e'tibor bermaslik</mark> va barchaga mos keladigan yondashuvni qo'llash keng tarqalgan norozilik va ijtimoiy tartibsizliklarga olib kelishi mumkin. Shuni ham ta'kidlash joizki, huquqiy tizimlar jamiyatning o'zgaruvchan ehtiyojlari va qadriyatlarini aks ettirish uchun vaqt o'tishi bilan rivojlanadi. Yagona, qat'iy tizim bu o'zgarishlarga moslashishda qiynalishi mumkin, bu esa turg'unlik va adolatsizlikka olib kelishi mumkin.</p>\n\n<p>Xulosa qilib aytganda, yagona global huquqiy tizim g'oyasi ba'zi nazariy afzalliklarni taklif qilishi mumkin bo'lsa-da, amaliy qiyinchiliklar va potentsial madaniy oqibatlar uni <mark>amalga oshirib bo'lmaydigan va istalmagan</mark> maqsadga aylantiradi. Men dunyo bo'ylab huquqiy an'analarning xilma-xilligini hurmat qilish va har bir davlatga o'ziga xos ehtiyojlari va sharoitlariga <mark>moslashtirilgan</mark> o'z huquqiy tizimlarini saqlab qolishga ruxsat berish muhim deb hisoblayman. Xalqaro hamkorlik va savdo kabi ayrim sohalarda ayrim qonunlarni uyg'unlashtirish, albatta, qimmatli, ammo mening fikrimcha, dunyo huquqiy manzarasini to'liq qayta ko'rib chiqish <mark>ham amaliy emas, ham oqilona emas</mark>.</p>",
+    "uzSampleBand8": "<p>Global huquqiy tizimlarni standartlashtirish va mustaqil milliy qonunlarni saqlab qolish bo'yicha bahs murakkab bo'lib, har ikki tomonda ham asosli dalillar mavjud. Universal huquqiy tizim izchillik va adolat nuqtai nazaridan jozibali ko'rinishi mumkin bo'lsa-da, milliy huquqiy suverenitetni saqlash madaniy nuanslar va tarixiy kontekstlarni aks ettirish uchun bir xil darajada muhimdir. Ushbu insho har ikki nuqtai nazarni o'rganib, so'ngra asosli xulosaga keladi.</p>\n\n<p>Yagona global huquqiy tizim tarafdorlari ko'pincha savdo, inson huquqlari va atrof-muhitni muhofaza qilish kabi sohalarda <mark>xalqaro hamkorlikni kuchaytirish</mark> imkoniyatini ta'kidlaydilar. Yagona huquqiy kodeks transchegaraviy operatsiyalarni soddalashtirishi, huquqiy noaniqliklarni kamaytirishi va terrorizm va kiberjinoyatchilik kabi transmilliy jinoyatlarni <mark>ta'qib qilishni osonlashtirishi</mark> mumkin. Bundan tashqari, universal huquqiy standart butun dunyoda tenglik va adolatni kuchaytirishi, millati yoki joylashuvidan qat'i nazar, asosiy huquqlarning himoya qilinishini ta'minlashi mumkin. Xalqaro jinoiy sud kabi xalqaro sudlarning tashkil etilishi bu yo'nalishdagi qadamdir, garchi ularning yurisdiksiyasi cheklangan bo'lsa ham.</p>\n\n<p>Aksincha, alohida milliy huquqiy tizimlarni saqlab qolish tarafdorlari qonunlar har bir mamlakatning o'ziga xos madaniy, tarixiy va ijtimoiy sharoitlarini aks ettirishi kerak deb ta'kidlaydilar. Yagona huquqiy kodeksni joriy etish <mark>milliy suverenitetga putur yetkazishi</mark> va chuqur e'tiqod va an'analarga befarq bo'lishi mumkin. Masalan, oilaviy masalalar, diniy amaliyotlar va mulk huquqlari bilan bog'liq qonunlar ko'pincha madaniy qadriyatlar bilan chambarchas bog'liq bo'lib, turli jamiyatlarda osonlikcha uyg'unlashtirilmasligi mumkin. Bundan tashqari, turli mamlakatlar turli xil muammolar va ustuvorliklarga duch keladi va ularning huquqiy tizimlari ushbu o'ziga xos ehtiyojlarni qondirish uchun etarlicha moslashuvchan bo'lishi kerak. Qonunchilikka <mark>'barchaga bir xil yondashuv'</mark> samarasiz va hatto zararli bo'lishi mumkin.</p>\n\n<p>Mening fikrimcha, yagona global huquqiy tizim g'oyasi ma'lum afzalliklarga ega bo'lsa-da, u oxir-oqibatda noreal va nomaqbuldir. Amaliyroq yondashuv yagona kodeksni joriy etishga urinish o'rniga, milliy huquqiy tizimlar o'rtasida <mark>kattaroq uyg'unlik va hamkorlikni rag'batlantirishga</mark> qaratilgan bo'lishi kerak. Bu eng yaxshi amaliyotlarni baham ko'rish, umumiy huquqiy tamoyillarni ishlab chiqish va transchegaraviy huquqiy nizolarni hal qilish mexanizmlarini yaratishni o'z ichiga olishi mumkin. Xalqaro shartnomalar va konventsiyalar ham minimal standartlarni belgilashda va huquqning muayyan sohalarida konvergentsiyani rag'batlantirishda muhim rol o'ynashi mumkin. Global hamkorlik va milliy suverenitet o'rtasida <mark>muvozanatga erishish</mark> huquqiy tizimlarning samarali va madaniy jihatdan mos bo'lishini ta'minlash uchun zarurdir. <mark>Bunday muvozanat</mark> xalqaro miqyosda qonun ustuvorligiga nisbatan katta hurmatni shakllantiradi.</p>\n\n<p>Xulosa qilib aytganda, universal huquqiy tizim global hamkorlik borasida nazariy afzalliklarga ega bo'lsa-da, madaniy xilma-xillik va milliy suverenitetning amaliy voqeliklari mustaqil milliy huquqiy tizimlarning mavjudligini talab qiladi, garchi hamkorlik va uyg'unlashtirish harakatlari kuchaytirilgan bo'lsa ham. <mark>Ushbu nozik nuqtai nazar</mark> global o'zaro bog'liqlik va mahalliy avtonomiyaning qadrini tan oladi.</p>",
+    "uzSampleBand9": "<p>Global huquqiy tizimlarning ideal tuzilishi atrofidagi munozaralar murakkab boʻlib, universal izchillik jozibasi bilan milliy suverenitet va madaniy oʻziga xoslikning chuqur oʻrnashgan tamoyillarini toʻqnash keladi. Ba'zilar butun dunyo bo'ylab qo'llaniladigan yagona, birlashgan huquqiy asosni yoqlashsa, boshqalar alohida davlatlar o'zlarining alohida huquqiy tizimlarini saqlab qolishlari kerak deb hisoblashadi. Ikkala nuqtai nazar ham ehtiyotkorlik bilan ko'rib chiqishga arziydi.</p>\n\n<p>Yagona global huquqiy tizim tarafdorlari ko'pincha uning <mark>xalqaro munosabatlarni soddalashtirish</mark> va savdo qilish salohiyatini ta'kidlashadi. Tijorat, intellektual mulk va inson huquqlarini tartibga soluvchi standartlashtirilgan qonunlar bilan transchegaraviy operatsiyalar ancha soddalashadi, iqtisodiy o'sish va hamkorlikni rag'batlantiradi. Bundan tashqari, universal huquqiy kodeks huquqiy bo'shliqlarni yo'q qilishi va shaxslarga millati yoki joylashgan joyidan qat'i nazar, bir xil asosiy huquqlar va himoya ta'minlanishini ta'minlashi mumkin. Misol uchun, <mark>atrof-muhitni muhofaza qilishga oid qonunlarni uyg'unlashtirish</mark> iqlim o'zgarishiga qarshi kurashish va biologik xilma-xillikni saqlash bo'yicha global sa'y-harakatlarning samaraliroq bo'lishiga olib kelishi mumkin. Biroq, bu nuqtai nazar turli madaniy va ijtimoiy me'yorlarning <mark>nozik haqiqatlarini e'tibordan chetda qoldiradi</mark>.</p>\n\n<p>Aksincha, alohida milliy huquqiy tizimlarni saqlab qolish bo'yicha argument har bir mamlakatning o'ziga xos tarixiy, madaniy va ijtimoiy kontekstini aks ettirishi kerakligi haqidagi premissaga asoslanadi. Huquqiy tizimlar ko'pincha millatning o'ziga xosligi va qadriyatlari bilan chambarchas bog'liq bo'lib, yagona tizimni joriy etish madaniy to'qnashuvlarga va ijtimoiy tartibsizliklarga olib kelishi mumkin. Bundan tashqari, turli mamlakatlar turli xil muammolarga duch kelishadi va moslashtirilgan huquqiy echimlarni talab qilishadi. Misol uchun, yerga egalik qilish yoki resurslarni boshqarish bilan bog'liq qonunlar mamlakatning geografik joylashuvi va iqtisodiy tuzilishiga qarab sezilarli darajada farq qilishi mumkin. <mark>Bu o'ziga xosliklarni bekor qilish</mark> asrlar davomida rivojlangan, ehtiyotkorlik bilan qurilgan huquqiy asoslarni e'tiborsiz qoldirish bo'ladi. Bu milliy tizimlar mukammal degani emas; balki, islohot <mark>kontekstga sezgir</mark> va mahalliy darajada amalga oshirilishi kerakligini ko'rsatadi.</p>\n\n<p>Mening fikrimcha, yagona global huquqiy tizim g'oyasi samaradorlik va tenglik nuqtai nazaridan ma'lum bir jozibaga ega bo'lsa-da, bu oxir-oqibat amaliy emas va potentsial zararli bo'lishi mumkin. Ancha real va maqbul yondashuv milliy huquqiy tizimlar o'rtasida <mark>katta hamkorlik va uyg'unlikni rag'batlantirish</mark> bo'ladi, shu bilan birga ularning individual xususiyatlarini hurmat qilish kerak. Bu inson huquqlari va xalqaro savdo kabi ba'zi sohalarda umumiy tamoyillar va standartlarni belgilashni o'z ichiga olishi mumkin, shu bilan birga mamlakatlarga qonunning boshqa sohalari ustidan avtonomiyani saqlab qolishga imkon beradi. <mark>Bunday muvozanatli yondashuv</mark> milliy huquqiy tizimlarni qo'llab-quvvatlaydigan <mark>muhim madaniy va ijtimoiy nozikliklarni</mark> qurbon qilmasdan, global birlikka erishishga imkon beradi. Qisqasi, bu universallik va o'ziga xoslik o'rtasida <mark>nozik muvozanatni topish</mark> masalasidir. <mark>Barcha uchun mos yechim</mark> ishlamaydi.</p>"
+   }
+  },
+  "source": "Mentor IELTS",
+  "examDate": "2021-08-07",
+  "settings": {
+   "timeInfo": "60 Minutes",
+   "moduleTitle": "Academic Writing Module",
+   "testIdentifier": "Mock 24"
+  },
+  "vocabulary": {
+   "task1": [
+    {
+     "term": "Proportions",
+     "meaning": "The relative size or extent of something compared to the whole."
+    },
+    {
+     "term": "Predominantly",
+     "meaning": "Mainly; for the most part."
+    },
+    {
+     "term": "Participation rates",
+     "meaning": "The percentage of people taking part in an activity."
+    },
+    {
+     "term": "Declined sharply",
+     "meaning": "Decreased rapidly and significantly."
+    },
+    {
+     "term": "Age bracket",
+     "meaning": "A range of ages grouped together for statistical purposes."
+    },
+    {
+     "term": "Notable",
+     "meaning": "Worthy of attention; significant."
+    },
+    {
+     "term": "Gender differences",
+     "meaning": "Variations between males and females."
+    },
+    {
+     "term": "Part-time options",
+     "meaning": "Choices for working or studying less than full-time hours."
+    }
+   ],
+   "task2": [
+    {
+     "term": "Unified legal system",
+     "meaning": "A single set of laws applied everywhere."
+    },
+    {
+     "term": "Global governance",
+     "meaning": "The way international affairs are managed across nations."
+    },
+    {
+     "term": "Disparities",
+     "meaning": "Great differences or inequalities."
+    },
+    {
+     "term": "Multinational businesses",
+     "meaning": "Companies that operate in several countries."
+    },
+    {
+     "term": "Transcend",
+     "meaning": "Go beyond the limits of something."
+    },
+    {
+     "term": "Sovereignty",
+     "meaning": "A country's supreme power or authority over itself."
+    },
+    {
+     "term": "Tailored to",
+     "meaning": "Made or adapted for a particular purpose or person."
+    },
+    {
+     "term": "National autonomy",
+     "meaning": "The right of a nation to govern itself independently."
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "Notably": {
+    "uz": "E'tiborga molik",
+    "type": "linking"
+   },
+   "negligible": {
+    "uz": "e'tiborga olinmasa ham bo'ladi",
+    "type": "lexical"
+   },
+   "In contrast": {
+    "uz": "Farqli o'laroq",
+    "type": "linking"
+   },
+   "also higher": {
+    "uz": "shuningdek yuqoriroq",
+    "type": "lexical"
+   },
+   "In their view": {
+    "uz": "Ularning fikricha",
+    "type": "lexical"
+   },
+   "ensuring that": {
+    "uz": "ta'minlash",
+    "type": "linking"
+   },
+   "in my opinion": {
+    "uz": "mening fikrimcha",
+    "type": "lexical"
+   },
+   "quite similar": {
+    "uz": "juda o'xshash",
+    "type": "lexical"
+   },
+   "was different": {
+    "uz": "farqli edi",
+    "type": "lexical"
+   },
+   "They might say": {
+    "uz": "Ular aytishi mumkin",
+    "type": "lexical"
+   },
+   "it can be seen": {
+    "uz": "ko'rish mumkin",
+    "type": "lexical"
+   },
+   "more prevalent": {
+    "uz": "kengroq tarqalgan",
+    "type": "lexical"
+   },
+   "hovering around": {
+    "uz": "atrofida aylanib yurish",
+    "type": "lexical"
+   },
+   "overall picture": {
+    "uz": "umumiy manzara",
+    "type": "lexical"
+   },
+   "clear preference": {
+    "uz": "aniq ustunlik",
+    "type": "lexical"
+   },
+   "give information": {
+    "uz": "ma'lumot berish",
+    "type": "lexical"
+   },
+   "hovering between": {
+    "uz": "orasida aylanib yurish",
+    "type": "lexical"
+   },
+   "show information": {
+    "uz": "ma'lumot ko'rsatish",
+    "type": "lexical"
+   },
+   "It is also can be": {
+    "uz": "Bu ham bo'lishi mumkin",
+    "type": "lexical"
+   },
+   "generally minimal": {
+    "uz": "odatda minimal",
+    "type": "lexical"
+   },
+   "overarching trend": {
+    "uz": "asosiy tendentsiya",
+    "type": "lexical"
+   },
+   "this is more hard": {
+    "uz": "bu qiyinroq",
+    "type": "lexical"
+   },
+   "Striking a balance": {
+    "uz": "Muvozanatga erishish",
+    "type": "colloc"
+   },
+   "Such an equilibrium": {
+    "uz": "Bunday muvozanat",
+    "type": "lexical"
+   },
+   "largest demographic": {
+    "uz": "eng katta demografik guruh",
+    "type": "lexical"
+   },
+   "I think it is better": {
+    "uz": "Menimcha, bu yaxshiroq",
+    "type": "lexical"
+   },
+   "in stark contrast to": {
+    "uz": "ga keskin zid ravishda",
+    "type": "linking"
+   },
+   "relatively consistent": {
+    "uz": "nisbatan barqaror",
+    "type": "lexical"
+   },
+   "contextually sensitive": {
+    "uz": "kontekstga sezgir",
+    "type": "academic"
+   },
+   "irrespective of gender": {
+    "uz": "jinsidan qat'i nazar",
+    "type": "lexical"
+   },
+   "Proponents of this view": {
+    "uz": "Bu fikr tarafdorlari",
+    "type": "lexical"
+   },
+   "albeit still lower than": {
+    "uz": "garchi hali ham pastroq bo'lsa ham",
+    "type": "linking"
+   },
+   "emphatically underscore": {
+    "uz": "qat'iy ta'kidlash",
+    "type": "academic"
+   },
+   "Such a balanced approach": {
+    "uz": "Bunday muvozanatli yondashuv",
+    "type": "lexical"
+   },
+   "This nuanced perspective": {
+    "uz": "Ushbu nozik nuqtai nazar",
+    "type": "lexical"
+   },
+   "illustrate the proportion": {
+    "uz": "nisbatni ko'rsatish",
+    "type": "lexical"
+   },
+   "had the highest percentage": {
+    "uz": "eng yuqori foizga ega edi",
+    "type": "lexical"
+   },
+   "illustrate the proportions": {
+    "uz": "nisbatlarni ko'rsatish",
+    "type": "lexical"
+   },
+   "both impractical and unwise": {
+    "uz": "ham amaliyotsiz, ham aqlsiz",
+    "type": "lexical"
+   },
+   "considerably more prevalent": {
+    "uz": "ancha keng tarqalgan",
+    "type": "lexical"
+   },
+   "largest student demographic": {
+    "uz": "eng katta talabalar demografik guruhi",
+    "type": "lexical"
+   },
+   "striking a delicate balance": {
+    "uz": "nozik muvozanatga erishish",
+    "type": "colloc"
+   },
+   "unrealistic and undesirable": {
+    "uz": "amalga oshirib bo'lmaydigan va istalmagan",
+    "type": "lexical"
+   },
+   "A one-size-fits-all solution": {
+    "uz": "\"Hamma uchun bir xil\" yechim",
+    "type": "colloc"
+   },
+   "Other people think different": {
+    "uz": "Boshqa odamlar boshqacha fikrda",
+    "type": "lexical"
+   },
+   "constituted the largest share": {
+    "uz": "eng katta ulushni tashkil qildi",
+    "type": "lexical"
+   },
+   "facilitate the prosecution of": {
+    "uz": "ta'qib qilishni osonlashtirish",
+    "type": "academic"
+   },
+   "more people studied full-time": {
+    "uz": "ko'proq odamlar kunduzgi bo'limda o'qishdi",
+    "type": "lexical"
+   },
+   "A 'one-size-fits-all' approach": {
+    "uz": "\"Hamma uchun bir xil\" yondashuv",
+    "type": "colloc"
+   },
+   "There were not big differences": {
+    "uz": "Katta farqlar yo'q edi",
+    "type": "lexical"
+   },
+   "To disregard these differences": {
+    "uz": "Bu farqlarga e'tibor bermaslik",
+    "type": "lexical"
+   },
+   "harmonizing laws pertaining to": {
+    "uz": "ga tegishli qonunlarni uyg'unlashtirish",
+    "type": "academic"
+   },
+   "promote greater accountability": {
+    "uz": "yanada katta javobgarlikni targ'ib qilish",
+    "type": "academic"
+   },
+   "relative lack of participation": {
+    "uz": "ishtirokning nisbiy yetishmasligi",
+    "type": "lexical"
+   },
+   "undermine national sovereignty": {
+    "uz": "milliy suverenitetga putur yetkazish",
+    "type": "academic"
+   },
+   "To override these specificities": {
+    "uz": "Bu o'ziga xosliklarni bekor qilish",
+    "type": "lexical"
+   },
+   "indicating a limited engagement": {
+    "uz": "cheklangan ishtirokni ko'rsatadi",
+    "type": "lexical"
+   },
+   "overlooks the nuanced realities": {
+    "uz": "nozik voqeliklarni e'tibordan chetda qoldiradi",
+    "type": "lexical"
+   },
+   "It is also important to consider": {
+    "uz": "Buni ham hisobga olish muhim",
+    "type": "lexical"
+   },
+   "accounting for the largest share": {
+    "uz": "eng katta ulushni tashkil etadi",
+    "type": "lexical"
+   },
+   "unrealistic and undesirable goal": {
+    "uz": "amalga oshirib bo'lmaydigan va istalmagan maqsad",
+    "type": "lexical"
+   },
+   "demonstrated a significantly lower": {
+    "uz": "sezilarli darajada pastroqni ko'rsatdi",
+    "type": "lexical"
+   },
+   "enhanced international cooperation": {
+    "uz": "kuchaytirilgan xalqaro hamkorlik",
+    "type": "academic"
+   },
+   "streamline international relations": {
+    "uz": "xalqaro munosabatlarni soddalashtirish",
+    "type": "academic"
+   },
+   "vital cultural and societal nuances": {
+    "uz": "muhim madaniy va ijtimoiy nozikliklar",
+    "type": "academic"
+   },
+   "a somewhat higher participation rate": {
+    "uz": "bir oz yuqoriroq ishtirok darajasi",
+    "type": "lexical"
+   },
+   "overlooks the significant challenges": {
+    "uz": "muhim muammolarni e'tibordan chetda qoldiradi",
+    "type": "lexical"
+   },
+   "foster greater cooperation and harmonization": {
+    "uz": "yanada katta hamkorlik va uyg'unlikni rivojlantirish",
+    "type": "academic"
+   },
+   "promoting greater harmonization and cooperation": {
+    "uz": "yanada katta uyg'unlik va hamkorlikni targ'ib qilish",
+    "type": "academic"
+   },
+   "tailored to their specific needs and circumstances": {
+    "uz": "ularning aniq ehtiyojlari va sharoitlariga moslashtirilgan",
+    "type": "lexical"
+   }
+  }
+ },
+ "created_at": "2026-05-06T17:29:01.111864+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

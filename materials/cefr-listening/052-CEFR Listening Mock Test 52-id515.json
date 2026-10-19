@@ -1,0 +1,511 @@
+{
+ "id": 515,
+ "mock_type": "cefr-listening",
+ "mock_number": 52,
+ "title": "CEFR Listening Mock Test 52",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "mcq-reply",
+    "title": "Part 1",
+    "answers": {
+     "1": "A",
+     "2": "B",
+     "3": "A",
+     "4": "A",
+     "5": "B",
+     "6": "A",
+     "7": "C",
+     "8": "A"
+    },
+    "audioFile": "https://audio.mock-stream.com/test52/PART 1.m4a",
+    "questions": [
+     {
+      "id": 1,
+      "options": [
+       {
+        "text": "No, go ahead.",
+        "letter": "A"
+       },
+       {
+        "text": "No, it's not.",
+        "letter": "B"
+       },
+       {
+        "text": "They're nice clothes.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "options": [
+       {
+        "text": "No, she isn't.",
+        "letter": "A"
+       },
+       {
+        "text": "I think she's upstairs.",
+        "letter": "B"
+       },
+       {
+        "text": "It's worn out.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 3,
+      "options": [
+       {
+        "text": "Yes, that's fine.",
+        "letter": "A"
+       },
+       {
+        "text": "Yes, it's true.",
+        "letter": "B"
+       },
+       {
+        "text": "I'll take some.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 4,
+      "options": [
+       {
+        "text": "Formal dress only",
+        "letter": "A"
+       },
+       {
+        "text": "It's expensive.",
+        "letter": "B"
+       },
+       {
+        "text": "Angie checked for me.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 5,
+      "options": [
+       {
+        "text": "Yes, I'll be brief.",
+        "letter": "A"
+       },
+       {
+        "text": "No, mine is in the office.",
+        "letter": "B"
+       },
+       {
+        "text": "Just in case.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 6,
+      "options": [
+       {
+        "text": "He said to meet him there.",
+        "letter": "A"
+       },
+       {
+        "text": "I haven't seen our waiter.",
+        "letter": "B"
+       },
+       {
+        "text": "Yes, I'm going to weigh it.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 7,
+      "options": [
+       {
+        "text": "Yes, it is.",
+        "letter": "A"
+       },
+       {
+        "text": "No, he doesn't mind.",
+        "letter": "B"
+       },
+       {
+        "text": "I'd like to speak to the manager.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 8,
+      "options": [
+       {
+        "text": "No, I'm going to go after work.",
+        "letter": "A"
+       },
+       {
+        "text": "I enjoyed the banquet.",
+        "letter": "B"
+       },
+       {
+        "text": "No, she didn't.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "partNumber": 1,
+    "instruction": "You will hear some sentences. You will hear each sentence twice. Choose the correct reply to each sentence (A, B, or C).",
+    "questionRange": "1-8"
+   },
+   {
+    "type": "gap-fill-form",
+    "title": "Part 2",
+    "answers": {
+     "9": [
+      "300"
+     ],
+     "10": "MUSIC",
+     "11": "YOURSELF",
+     "12": "CHANNEL",
+     "13": "DESCRIPTION",
+     "14": "YEARS"
+    },
+    "audioFile": "https://audio.mock-stream.com/test52/PART 2.m4a",
+    "formTitle": "How to become famous on YouTube",
+    "partNumber": 2,
+    "formContent": [
+     {
+      "text": "About",
+      "type": "item-gap",
+      "gapId": 9,
+      "gapSuffix": "hours of videos are uploaded onto YouTube every minute."
+     },
+     {
+      "text": "Videos about",
+      "type": "item-gap",
+      "gapId": 10,
+      "gapSuffix": "are usually more popular than all other types."
+     },
+     {
+      "text": "People want to find out about the video presenter so be",
+      "type": "item-gap",
+      "gapId": 11,
+      "gapSuffix": "."
+     },
+     {
+      "text": "Add at least ten videos to your",
+      "type": "item-gap",
+      "gapId": 12,
+      "gapSuffix": "before telling people about it."
+     },
+     {
+      "text": "Make sure each new video has a",
+      "type": "item-gap",
+      "gapId": 13,
+      "gapSuffix": ", which is easy to understand."
+     },
+     {
+      "text": "And be patient! It may take 2 or 3",
+      "type": "item-gap",
+      "gapId": 14,
+      "gapSuffix": "to become well known."
+     }
+    ],
+    "instruction": "You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. Write ONE WORD and/or A NUMBER for each answer.",
+    "questionRange": "9-14"
+   },
+   {
+    "type": "matching-speakers",
+    "title": "Part 3",
+    "answers": {
+     "15": "D",
+     "16": "F",
+     "17": "B",
+     "18": "C"
+    },
+    "options": [
+     {
+      "text": "a pet animal",
+      "letter": "A"
+     },
+     {
+      "text": "human contact",
+      "letter": "B"
+     },
+     {
+      "text": "having energy",
+      "letter": "C"
+     },
+     {
+      "text": "a sense of space",
+      "letter": "D"
+     },
+     {
+      "text": "a life of luxury",
+      "letter": "E"
+     },
+     {
+      "text": "a particular food",
+      "letter": "F"
+     }
+    ],
+    "speakers": [
+     {
+      "id": 15,
+      "label": "Speaker 1"
+     },
+     {
+      "id": 16,
+      "label": "Speaker 2"
+     },
+     {
+      "id": 17,
+      "label": "Speaker 3"
+     },
+     {
+      "id": 18,
+      "label": "Speaker 4"
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test52/PART 3.m4a",
+    "partNumber": 3,
+    "instruction": "You will hear people talking about things they miss. Match each speak (15-18) to the thing where each person misses (A-F). There are TWO EXTRA places which you do not need to use.",
+    "questionRange": "15-18"
+   },
+   {
+    "type": "map-labeling",
+    "title": "Part 4",
+    "answers": {
+     "19": "G",
+     "20": "C",
+     "21": "D",
+     "22": "B",
+     "23": "H"
+    },
+    "mapImage": "https://audio.mock-stream.com/test52/map.png?v=2",
+    "mapTitle": "",
+    "audioFile": "https://audio.mock-stream.com/test52/PART 4.m4a",
+    "mapLabels": [
+     "A",
+     "B",
+     "C",
+     "D",
+     "E",
+     "F",
+     "G",
+     "H",
+     "I"
+    ],
+    "questions": [
+     {
+      "id": 19,
+      "place": "School"
+     },
+     {
+      "id": 20,
+      "place": "Sports center"
+     },
+     {
+      "id": 21,
+      "place": "Clinic"
+     },
+     {
+      "id": 22,
+      "place": "Community centre"
+     },
+     {
+      "id": 23,
+      "place": "Supermarket"
+     }
+    ],
+    "partNumber": 4,
+    "instruction": "You will hear someone giving a talk. Label the places (19-23) on the map (A-I). There are FOUR extra options which you do not need to use.",
+    "questionRange": "19-23"
+   },
+   {
+    "type": "mcq-extracts",
+    "title": "Part 5",
+    "answers": {
+     "24": "A",
+     "25": "C",
+     "26": "C",
+     "27": "B",
+     "28": "C",
+     "29": "C"
+    },
+    "extracts": [
+     {
+      "title": "Extract One",
+      "context": "",
+      "questions": [
+       {
+        "id": 24,
+        "text": "The woman's receipt for the jacket was",
+        "options": [
+         {
+          "text": "printed out for her.",
+          "letter": "A"
+         },
+         {
+          "text": "emailed to her.",
+          "letter": "B"
+         },
+         {
+          "text": "left in the shop.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 25,
+        "text": "What is the man's response to the woman's request?",
+        "options": [
+         {
+          "text": "He offers her a refund.",
+          "letter": "A"
+         },
+         {
+          "text": "He doesn't know what to do.",
+          "letter": "B"
+         },
+         {
+          "text": "He explains the company policy.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Extract Two",
+      "context": "",
+      "questions": [
+       {
+        "id": 26,
+        "text": "The conversation is between",
+        "options": [
+         {
+          "text": "a teacher and student.",
+          "letter": "A"
+         },
+         {
+          "text": "two classroom teachers.",
+          "letter": "B"
+         },
+         {
+          "text": "a parent and head teacher.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 27,
+        "text": "At the end of the conversation the woman is",
+        "options": [
+         {
+          "text": "relieved.",
+          "letter": "A"
+         },
+         {
+          "text": "angry.",
+          "letter": "B"
+         },
+         {
+          "text": "grateful.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Extract Three",
+      "context": "",
+      "questions": [
+       {
+        "id": 28,
+        "text": "The speakers",
+        "options": [
+         {
+          "text": "are next-door neighbours.",
+          "letter": "A"
+         },
+         {
+          "text": "are close friends.",
+          "letter": "B"
+         },
+         {
+          "text": "have never met before.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 29,
+        "text": "The woman believes the man has",
+        "options": [
+         {
+          "text": "made a mistake.",
+          "letter": "A"
+         },
+         {
+          "text": "been impolite.",
+          "letter": "B"
+         },
+         {
+          "text": "solved the problem.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test52/PART 5.m4a",
+    "partNumber": 5,
+    "instruction": "You will hear three extracts. Choose the correct answer (A, B or C) for each question (24-29). There are TWO questions for each extract.",
+    "questionRange": "24-29"
+   },
+   {
+    "type": "sentence-completion",
+    "title": "Part 6",
+    "answers": {
+     "30": "OVER-TUTORING",
+     "31": "UNPREDICTABLE",
+     "32": [
+      "75,000",
+      "75.000",
+      "75000"
+     ],
+     "33": "DISADVANTAGED",
+     "34": "MATERIALS",
+     "35": "CONTRADICTORY"
+    },
+    "audioFile": "https://audio.mock-stream.com/test52/PART 6.m4a",
+    "partNumber": 6,
+    "instruction": "You will hear a part of a lecture. For each question, fill in the missing information in the numbered space. Write no more than ONE WORD for each answer.",
+    "passageTitle": "STUDYING FOR THE 11-PLUS EXAM",
+    "questionRange": "30-35",
+    "passageContent": "According to experts, the <span class=\"gap-input\" data-gap=\"30\">_____(30)_____</span> of children does not significantly help them to pass exams.<br><br>English grammar schools receive five applications on average for every place they have.<br><br>Mike Walker says that the 11-plus questions are <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span>.<br><br>Every year approximately <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span> children take the 11-plus exam.<br><br>According to a recent study, grammar schools tend to have more children from fairly wealthy families than children from <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span> backgrounds.<br><br>In schools that aren't grammar schools, 12 per cent of children receive free school meals.<br><br>You have to pay nearly £300 in extra costs for <span class=\"gap-input\" data-gap=\"34\">_____(34)_____</span> for the Internet tutoring course.<br><br>Opinions on the effectiveness of courses as preparation for the 11-plus exam are <span class=\"gap-input\" data-gap=\"35\">_____(35)_____</span>"
+   }
+  ],
+  "source": "Full Mock Test 1 (@MultiLevelRecord)",
+  "examDate": "2026-06-14",
+  "examType": "cefr",
+  "testInfo": {
+   "id": "cefr-listening-52",
+   "level": "B2",
+   "title": "CEFR Listening Mock Test 52",
+   "totalTime": 40,
+   "totalQuestions": 35
+  },
+  "mockNumber": 52
+ },
+ "created_at": "2026-06-13T19:13:51.436338+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

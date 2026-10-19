@@ -1,0 +1,785 @@
+{
+ "id": 483,
+ "mock_type": "cefr-reading",
+ "mock_number": 48,
+ "title": "CEFR Reading Mock 48",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "gap-fill-text",
+    "title": "READING PART 1",
+    "answers": {
+     "1": [
+      "Clever"
+     ],
+     "2": [
+      "Strong"
+     ],
+     "3": [
+      "Watch",
+      "listen"
+     ],
+     "4": [
+      "Eggs"
+     ],
+     "5": [
+      "Dogs"
+     ],
+     "6": [
+      "Proud"
+     ]
+    },
+    "passage": {
+     "title": "The Clever Fox and the Proud Wolf",
+     "content": "<p>In a deep forest, a clever fox and a proud wolf lived as neighbors. The <span class=\"gap\" data-gap=\"1\">_____(1)_____</span> fox was small but quick, while the proud wolf was strong. One winter, the forest became quite cold. The wolf growled, \"I am <span class=\"gap\" data-gap=\"2\">_____(2)_____</span>! I will take what I need.\" He stormed toward a nearby farm. The clever fox shook his head. \"Strength alone is not enough. Watch and learn.\" The proud wolf didn't <span class=\"gap\" data-gap=\"3\">_____(3)_____</span> and leaped over the fence. But before he could steal a hen, the farmer's dogs attacked. The proud wolf barely escaped, limping back into the trees. The clever fox waited until nightfall. He crept to the farm and dug a small hole under the wall to get eggs. One by one, he got <span class=\"gap\" data-gap=\"4\">_____(4)_____</span>, leaving no trace. The next morning, the proud wolf groaned, \"How did you escape farmer's <span class=\"gap\" data-gap=\"5\">_____(5)_____</span>?\" The clever fox smiled. \"Wisdom finds a way where strength fails.\" From that day, the <span class=\"gap\" data-gap=\"6\">_____(6)_____</span> wolf listened more and boasted less, and the clever fox had a friend who valued more than just power.</p>"
+    },
+    "questions": [
+     {
+      "id": 1,
+      "hint": "The _____(1)_____ fox was small but quick, while the proud wolf was strong."
+     },
+     {
+      "id": 2,
+      "hint": "The wolf growled, 'I am _____(2)_____!'"
+     },
+     {
+      "id": 3,
+      "hint": "The proud wolf didn't _____(3)_____ and leaped over the fence."
+     },
+     {
+      "id": 4,
+      "hint": "One by one, he got _____(4)_____, leaving no trace."
+     },
+     {
+      "id": 5,
+      "hint": "'How did you escape farmer's _____(5)_____?'"
+     },
+     {
+      "id": 6,
+      "hint": "From that day, the _____(6)_____ wolf listened more and boasted less."
+     }
+    ],
+    "partNumber": 1,
+    "instruction": "Read the text. Fill in each gap with ONE word. You must use a word which is somewhere in the rest of the text.",
+    "explanations": {
+     "q1": {
+      "text": "The passage opens by introducing 'a clever fox and a proud wolf'. The gap describes the fox that is small and quick — same one. That is why the correct answer is 'clever'.",
+      "quote": "a clever fox and a proud wolf lived as neighbors"
+     },
+     "q2": {
+      "text": "Earlier the passage says 'the proud wolf was strong'. The wolf boasting 'I am ___!' refers to that same trait. That is why the correct answer is 'strong'.",
+      "quote": "the proud wolf was strong"
+     },
+     "q3": {
+      "text": "The clever fox tells the wolf 'Watch and learn'. The next sentence says the wolf 'didn't ___' — i.e. he didn't watch. That is why the correct answer is 'watch'.",
+      "quote": "Watch and learn"
+     },
+     "q4": {
+      "text": "The previous sentence says he 'dug a small hole under the wall to get eggs'. He got the eggs one by one. That is why the correct answer is 'eggs'.",
+      "quote": "to get eggs. One by one, he got"
+     },
+     "q5": {
+      "text": "Earlier 'the farmer's dogs attacked'. The wolf asks how the fox escaped those same dogs. That is why the correct answer is 'dogs'.",
+      "quote": "the farmer's dogs attacked"
+     },
+     "q6": {
+      "text": "The whole story has been calling him 'the proud wolf'. The closing line refers back to that same wolf, who is now humbler. That is why the correct answer is 'proud'.",
+      "quote": "the proud wolf"
+     }
+    },
+    "questionRange": "1-6"
+   },
+   {
+    "type": "matching",
+    "texts": [
+     {
+      "number": 7,
+      "content": "📱 The Future in Your Hands – Nova X Ultra\n\nExperience lightning-fast performance, a stunning 120Hz display, and a pro-grade camera as well as the most powerful processor in a sleek design. 5G-ready & all-day battery for nonstop action. Pre-order now & get free wireless earbuds!\nCall 01234 567890."
+     },
+     {
+      "number": 8,
+      "content": "🔋 Power That Lasts – Titan Max 5G\n\nTired of your phone dying midday? The Titan Max 5G features a 6000mAh battery, fast charging. Stay connected all day, every day. Now with trade-in offers!\nCall 03456 789012."
+     },
+     {
+      "number": 9,
+      "content": "💎 Luxury Meets Performance – Astra Elite Fold\n\nUnfold the future with the Astra Elite Fold. A flexible AMOLED screen and a premium design make this a game-changer. Exclusive launch offer: free case & stylus! Shop now at 05678 901234."
+     },
+     {
+      "number": 10,
+      "content": "🎮 Ultimate Gaming Beast – Shadow Xtreme\n\nBuilt for serious gamers, the Shadow Xtreme boasts a 240Hz refresh rate, Snapdragon Elite gaming processor, and immersive stereo sound. Dominate the battlefield!\nOrder today: 02345 678901."
+     },
+     {
+      "number": 11,
+      "content": "📸 Capture Every Moment with the PixelZoom Pro\n\nLove photography? The PixelZoom Pro delivers crystal-clear 108MP shots, night mode like never before, and AI-enhanced editing tools. Limited-time discount available!\nOrder today at 09876 543210."
+     },
+     {
+      "number": 12,
+      "content": "🤖 Smarter Than Ever – Omega AI Phone\n\nMeet the first smartphone powered by next-gen AI! The Omega AI Phone adapts to your habits, automates tasks, and enhances security like never before. Limited stock—reserve yours today! Call 08901 234567."
+     },
+     {
+      "number": 13,
+      "content": "📞 The Best Budget Phone – Swift Mini 5G\n\nAffordable, fast, and reliable! The Swift Mini 5G offers smooth performance, a vibrant display, and a great camera—all at a fraction of the price. Introductory deal: free screen protector! Order now: 07890 123456."
+     },
+     {
+      "number": 14,
+      "content": "🛡️ Rugged & Waterproof – Boulder Pro 8\nAdventure-ready and built to last, the Boulder Pro 8 is shockproof, waterproof, and dust-resistant. Perfect for outdoor lovers, with GPS tracking & emergency SOS features. On sale now!\nCall 06789 012345."
+     }
+    ],
+    "title": "Part 2",
+    "answers": {
+     "7": [
+      "J"
+     ],
+     "8": [
+      "G"
+     ],
+     "9": [
+      "C"
+     ],
+     "10": [
+      "B"
+     ],
+     "11": [
+      "H"
+     ],
+     "12": [
+      "A"
+     ],
+     "13": [
+      "E"
+     ],
+     "14": [
+      "D"
+     ]
+    },
+    "questions": [
+     {
+      "id": 7,
+      "textNumber": 7
+     },
+     {
+      "id": 8,
+      "textNumber": 8
+     },
+     {
+      "id": 9,
+      "textNumber": 9
+     },
+     {
+      "id": 10,
+      "textNumber": 10
+     },
+     {
+      "id": 11,
+      "textNumber": 11
+     },
+     {
+      "id": 12,
+      "textNumber": 12
+     },
+     {
+      "id": 13,
+      "textNumber": 13
+     },
+     {
+      "id": 14,
+      "textNumber": 14
+     }
+    ],
+    "partNumber": 2,
+    "statements": [
+     {
+      "text": "Bill is a fan of cutting-edge technology, especially artificial intelligence. He needs a phone that is smarter than the devices on the market today.",
+      "letter": "A"
+     },
+     {
+      "text": "Jack is a gamer. He needs a powerful and durable phone with the best quality speaker.",
+      "letter": "B"
+     },
+     {
+      "text": "Arthur needs a phone with the brightest and best quality screen.",
+      "letter": "C"
+     },
+     {
+      "text": "Sean travels a lot. He needs something both powerful and strong.",
+      "letter": "D"
+     },
+     {
+      "text": "Dutch likes to save money. He wants a quality and powerful device that is worth the money.",
+      "letter": "E"
+     },
+     {
+      "text": "Lenny works at the office. He needs a phone with retro design.",
+      "letter": "F"
+     },
+     {
+      "text": "Xavier doesn't like to be tied down to a charger. He needs a device that can charge for a shorter period of time and last a long time.",
+      "letter": "G"
+     },
+     {
+      "text": "Abigail travels a lot and takes pictures of many places. She needs a camera that is large in size.",
+      "letter": "H"
+     },
+     {
+      "text": "Mary needs a device with a GPS and lots AI-enhanced photo editors.",
+      "letter": "I"
+     },
+     {
+      "text": "Jon needs a device that is powerful in all aspects with durable battery.",
+      "letter": "J"
+     }
+    ],
+    "instruction": "Read the texts 7-14 and the statements A-J. Decide which text matches with the situation described in the statements. Each statement can be used ONCE only. There are TWO extra statements which you do not need to use.",
+    "explanations": {
+     "q7": {
+      "text": "Nova X Ultra advertises 'lightning-fast performance', the 'most powerful processor', AND 'all-day battery'. That is exactly what Jon wants — powerful in all aspects with durable battery. That is why the correct answer is J.",
+      "quote": "lightning-fast performance, a stunning 120Hz display, and a pro-grade camera as well as the most powerful processor"
+     },
+     "q8": {
+      "text": "Titan Max 5G features a 6000mAh battery with fast charging — short charge time, long-lasting. Xavier (G) wants exactly that.",
+      "quote": "6000mAh battery, fast charging. Stay connected all day, every day."
+     },
+     "q9": {
+      "text": "Astra Elite Fold's flexible AMOLED screen and premium design are about the screen quality. Arthur (C) needs the brightest, best quality screen.",
+      "quote": "A flexible AMOLED screen and a premium design"
+     },
+     "q10": {
+      "text": "Shadow Xtreme is 'Built for serious gamers' with a 240Hz refresh rate and immersive stereo sound. Jack (B) is a gamer who wants powerful + best quality speaker.",
+      "quote": "Built for serious gamers ... immersive stereo sound"
+     },
+     "q11": {
+      "text": "PixelZoom Pro is a 108MP camera phone — a high-megapixel, large-sensor camera. Abigail (H) needs a camera that is large in size.",
+      "quote": "crystal-clear 108MP shots, night mode like never before"
+     },
+     "q12": {
+      "text": "Omega AI Phone is 'the first smartphone powered by next-gen AI' that 'adapts to your habits'. Bill (A) wants the smartest phone on the market.",
+      "quote": "Meet the first smartphone powered by next-gen AI!"
+     },
+     "q13": {
+      "text": "Swift Mini 5G is 'The Best Budget Phone' — affordable, fast, reliable, 'at a fraction of the price'. Dutch (E) wants a quality device worth the money.",
+      "quote": "Affordable, fast, and reliable! ... at a fraction of the price"
+     },
+     "q14": {
+      "text": "Boulder Pro 8 is shockproof, waterproof, dust-resistant — built for travel and rough use. Sean (D) travels and needs something both powerful and strong.",
+      "quote": "shockproof, waterproof, and dust-resistant. Perfect for outdoor lovers"
+     }
+    },
+    "questionRange": "7-14",
+    "extraStatements": [
+     "F",
+     "I"
+    ],
+    "statementsFirst": true
+   },
+   {
+    "type": "matching-headings",
+    "title": "Part 3",
+    "answers": {
+     "15": [
+      "C"
+     ],
+     "16": [
+      "A"
+     ],
+     "17": [
+      "F"
+     ],
+     "18": [
+      "B"
+     ],
+     "19": [
+      "H"
+     ],
+     "20": [
+      "G"
+     ]
+    },
+    "passage": {
+     "title": "SCHOOLS IN UK",
+     "paragraphs": [
+      {
+       "number": "I",
+       "content": "All students in the UK have to do PE or Physical Education at school until they are 16. The schools offer different activities. The most popular sport is football which is played by boys and girls. Students also play rugby, field hockey, and netball or do individual physical activities like athletics or gymnastics. Today, some schools also offer dance, fitness, or frisbee. The school sports facilities are always available to the students at lunchtime and after classes.",
+       "questionId": 15
+      },
+      {
+       "number": "II",
+       "content": "Unfortunately, this school subject is not very popular with British students. The British government is considering different ways to deal with this problem. One idea is to introduce foreign languages from the age of 5. Another plan is to give students more choice. The languages traditionally studied in British schools are French, Spanish and German. Now the government wants to include Arabic and Chinese in the school curriculum.",
+       "questionId": 16
+      },
+      {
+       "number": "III",
+       "content": "Mobile phones are permitted at school in the UK but students are not allowed to use them in class. School students can use their phones at break time. Teachers can take away phones if these rules are broken. However, according to some teachers, students don't always follow the rules. The lessons are sometimes disrupted when students send texts, receive calls, look at social networking sites or watch videos.",
+       "questionId": 17
+      },
+      {
+       "number": "IV",
+       "content": "School lunches are a hot topic in the UK these days. Some students have lunch at home or take a packed lunch to school but more than a third of British school pupils have lunch in the school canteen. There is usually a main course, a dessert and a drink. School dinners must include fruit and vegetables, protein (for example meat, fish or cheese) and carbohydrates (for example rice or pasta). Parents often pay for their children's food in advance online.",
+       "questionId": 18
+      },
+      {
+       "number": "V",
+       "content": "UK schools are allowed to discipline pupils who behave badly. The list of serious and not-so-serious types of bad behaviour may include: missing school without permission from parents, not doing homework, wearing unsuitable clothes for school, cheating in exams, bullying, etc. There are several ways students can be punished. Sometimes the student has to write a sentence, for example 'I must not shout in class', many times (for example, 100 times) on a sheet of paper.",
+       "questionId": 19
+      },
+      {
+       "number": "VI",
+       "content": "A school prom is a formal party to celebrate an important date such as the end of secondary school. The idea is to have fun with your school friends and celebrate your time and achievements at school. Proms are held in June or July, around the end of exam time or the end of term. A secondary school prom often involves a big party and nice dresses. Most schools arrange a special dinner in the school hall.",
+       "questionId": 20
+      }
+     ]
+    },
+    "headings": [
+     {
+      "text": "To change the situation with foreign languages",
+      "letter": "A"
+     },
+     {
+      "text": "Eating at school",
+      "letter": "B"
+     },
+     {
+      "text": "Keeping fit at school",
+      "letter": "C"
+     },
+     {
+      "text": "A break to stop and look around",
+      "letter": "D"
+     },
+     {
+      "text": "Accepting foreign students to British schools",
+      "letter": "E"
+     },
+     {
+      "text": "Gadgets in British schools",
+      "letter": "F"
+     },
+     {
+      "text": "The enjoyable school event",
+      "letter": "G"
+     },
+     {
+      "text": "To make them behave well",
+      "letter": "H"
+     }
+    ],
+    "questions": [
+     {
+      "id": 15,
+      "paragraphNumber": "I"
+     },
+     {
+      "id": 16,
+      "paragraphNumber": "II"
+     },
+     {
+      "id": 17,
+      "paragraphNumber": "III"
+     },
+     {
+      "id": 18,
+      "paragraphNumber": "IV"
+     },
+     {
+      "id": 19,
+      "paragraphNumber": "V"
+     },
+     {
+      "id": 20,
+      "paragraphNumber": "VI"
+     }
+    ],
+    "partNumber": 3,
+    "instruction": "Read the text and choose the correct heading for each paragraph from the list of headings below. There are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once.",
+    "explanations": {
+     "q15": {
+      "text": "The paragraph is all about PE, sports, athletics and physical activities at school — keeping fit. That is why the correct answer is C.",
+      "quote": "All students in the UK have to do PE or Physical Education at school"
+     },
+     "q16": {
+      "text": "The paragraph discusses how the government wants to fix the unpopularity of foreign-language learning. That is why the correct answer is A.",
+      "quote": "The British government is considering different ways to deal with this problem."
+     },
+     "q17": {
+      "text": "The paragraph is about mobile phones at school — i.e. gadgets in British schools. That is why the correct answer is F.",
+      "quote": "Mobile phones are permitted at school in the UK"
+     },
+     "q18": {
+      "text": "The paragraph covers school lunches, canteens and what dinners must include. That is why the correct answer is B.",
+      "quote": "School lunches are a hot topic in the UK"
+     },
+     "q19": {
+      "text": "The paragraph describes how schools discipline pupils who behave badly. That is why the correct answer is H.",
+      "quote": "UK schools are allowed to discipline pupils who behave badly."
+     },
+     "q20": {
+      "text": "The school prom is a celebration / enjoyable school event marking the end of secondary school. That is why the correct answer is G.",
+      "quote": "A school prom is a formal party to celebrate an important date"
+     }
+    },
+    "extraHeadings": [
+     "D",
+     "E"
+    ],
+    "questionRange": "15-20"
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 4",
+    "answers": {
+     "21": [
+      "B",
+      "Pollutants which heat the atmosphere."
+     ],
+     "22": [
+      "D",
+      "reflecting the light of the sun."
+     ],
+     "23": [
+      "A",
+      "ice reaches its minimum."
+     ],
+     "24": [
+      "C",
+      "Reducing greenhouse emissions."
+     ],
+     "25": [
+      "True"
+     ],
+     "26": [
+      "False"
+     ],
+     "27": [
+      "False"
+     ],
+     "28": [
+      "Not Given"
+     ],
+     "29": [
+      "Not Given"
+     ]
+    },
+    "passage": {
+     "title": "Global sea ice hit record low in February, scientists say",
+     "content": "<p><strong>Paragraph 1.</strong> Global sea ice fell to a record low in February, scientists have said, a symptom of an atmosphere fouled by planet-heating pollutants. The combined area of ice around the north and south poles hit a new daily minimum in early February and stayed below the previous record for the rest of the month, the EU's Copernicus Climate Change Service (C3S) said on Thursday. \"One of the consequences of a warmer world is melting sea ice,\" said the C3S deputy director, Samantha Burgess. \"The record or near-record low sea ice cover at both poles has pushed global sea ice cover to an all-time minimum.\"</p><p><strong>Paragraph 2.</strong> The agency found the area of sea ice hit its lowest monthly level for February in the Arctic, at 8% below average, and its fourth-lowest monthly level for February in the Antarctic, at 26% below average. Its satellite observations stretch back to the late 1970s and its historical observations to the middle of the 20th century. Scientists had already observed an extreme heat anomaly in the north pole at the start of February, which caused temperatures to soar more than 20C above average and cross the threshold for ice to melt. They described the latest broken record as \"particularly worrying\" because ice reflects sunlight and cools the planet. \"The lack of sea ice means darker ocean surfaces and the ability of the Earth to absorb more sunlight, which accelerates the warming,\" said Mika Rantanen, a climate scientist at the Finnish Meteorological Institute.</p><p><strong>Paragraph 3.</strong> The strong winter warming event in the Arctic in early February had prevented sea ice from growing normally, he added. \"I believe that this meteorological event, combined with the long-term decline of sea ice due to anthropogenic climate change, was the primary cause of the lowest Arctic Sea ice extent on record.\" Global sea ice extent varies throughout the year but typically reaches its annual minimum in February, when it is summer in the southern hemisphere. C3S said February 2025 was the third hottest February it had seen. Global temperatures were 1.59C hotter than preindustrial levels, making it the 19th month in the past 20 that was more than 1.5C above preindustrial levels.</p><p><strong>Paragraph 4.</strong> Earth observation programmes such as C3S rely on the reanalysis of billions of measurements from satellites, ships, aircraft and weather stations to create snapshots of the state of the climate. The agency cautioned that the margins above 1.5C were small in several months, and could differ slightly in other datasets. The broken sea ice record comes after last year was confirmed as the hottest year on record and a Guardian analysis of C3S data revealed that two-thirds of the world's surface was seared by record-breaking monthly heat in 2024. The El Niño weather pattern in the first half of the year added to the background heating effect of fossil fuel pollution, which traps sunlight.</p><p><strong>Paragraph 5.</strong> El Niño has since subsided and morphed into a weak form of its cooler counterpart, La Niña. The World Meteorological Organization said on Thursday they expected the La Niña that emerged in December to be short-lived. Richard Allan, a climate scientist at the University of Reading, said the long-term prognosis for Arctic Sea ice was grim. \"The region continues to rapidly heat up, and can only be saved with rapid and massive cuts to greenhouse gas emissions,\" he said. \"That will also limit the growing severity of weather extremes and long-term sea level rise across the world.\"</p><p><strong>Paragraph 6.</strong> The headline of this article was amended on 6 March 2025 to clarify that global sea ice cover in February fell to its lowest level on record. The use of the term \"all-time minimum\" in the earlier headline referred to the minimum temperature across all months — not just February — since the satellite record began, rather than the entirety of history.</p>"
+    },
+    "partNumber": 4,
+    "instruction": "Read the following text for questions 21-29.",
+    "explanations": {
+     "q21": {
+      "text": "The opening sentence describes the record-low ice as 'a symptom of an atmosphere fouled by planet-heating pollutants'. That is why the correct answer is B.",
+      "quote": "a symptom of an atmosphere fouled by planet-heating pollutants"
+     },
+     "q22": {
+      "text": "The paragraph says 'ice reflects sunlight and cools the planet' — that's exactly how ice helps. That is why the correct answer is D.",
+      "quote": "ice reflects sunlight and cools the planet"
+     },
+     "q23": {
+      "text": "Paragraph 3 says global sea ice typically reaches its annual minimum in February, when it is summer in the southern hemisphere. That is why the correct answer is A.",
+      "quote": "typically reaches its annual minimum in February, when it is summer in the southern hemisphere"
+     },
+     "q24": {
+      "text": "Richard Allan says the region 'can only be saved with rapid and massive cuts to greenhouse gas emissions'. That is why the correct answer is C.",
+      "quote": "can only be saved with rapid and massive cuts to greenhouse gas emissions"
+     },
+     "q25": {
+      "text": "Samantha Burgess says 'One of the consequences of a warmer world is melting sea ice' — global warming is causing ice to melt. That is why the correct answer is True.",
+      "quote": "One of the consequences of a warmer world is melting sea ice"
+     },
+     "q26": {
+      "text": "The text says El Niño 'morphed into a weak form of its cooler counterpart, La Niña' — La Niña is described as weak, not stronger. That is why the correct answer is False.",
+      "quote": "morphed into a weak form of its cooler counterpart, La Niña"
+     },
+     "q27": {
+      "text": "Richard Allan mentions 'weather extremes and long-term sea level rise' — not specifically 'heavy rains'. The statement falsely narrows it to rains. That is why the correct answer is False.",
+      "quote": "limit the growing severity of weather extremes and long-term sea level rise"
+     },
+     "q28": {
+      "text": "The Guardian analysis is only quoted for the claim that two-thirds of the world's surface was seared by record-breaking monthly heat in 2024 — nothing about humans living without ice. That is why the correct answer is Not Given.",
+      "quote": ""
+     },
+     "q29": {
+      "text": "The text describes melting ice as a long-term trend but also says sea ice 'varies throughout the year' and reaches its annual minimum in February — it grows back. Nothing says it is permanently gone. That is why the correct answer is Not Given.",
+      "quote": ""
+     }
+    },
+    "questionRange": "21-29",
+    "questionSections": [
+     {
+      "type": "mcq",
+      "title": "Questions 21-24: Multiple Choice",
+      "questions": [
+       {
+        "id": 21,
+        "text": "What's the main reason for global ice decline?",
+        "options": [
+         {
+          "text": "A symptom which is unknown to scientists.",
+          "letter": "A"
+         },
+         {
+          "text": "Pollutants which heat the atmosphere.",
+          "letter": "B"
+         },
+         {
+          "text": "Combined areas of ice.",
+          "letter": "C"
+         },
+         {
+          "text": "Colder climate.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 22,
+        "text": "Ice helps the planet by …",
+        "options": [
+         {
+          "text": "reducing pollutants.",
+          "letter": "A"
+         },
+         {
+          "text": "making oceans darker.",
+          "letter": "B"
+         },
+         {
+          "text": "increasing temperatures.",
+          "letter": "C"
+         },
+         {
+          "text": "reflecting the light of the sun.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 23,
+        "text": "According to paragraph 3, during February in the southern hemisphere …",
+        "options": [
+         {
+          "text": "ice reaches its minimum.",
+          "letter": "A"
+         },
+         {
+          "text": "ice stops melting.",
+          "letter": "B"
+         },
+         {
+          "text": "winter becomes warm.",
+          "letter": "C"
+         },
+         {
+          "text": "sea freezes fast.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 24,
+        "text": "According to Richard Allan, which factor can save Arctic Sea ice meltdowns?",
+        "options": [
+         {
+          "text": "Limiting weather extremes.",
+          "letter": "A"
+         },
+         {
+          "text": "Making cooler environment.",
+          "letter": "B"
+         },
+         {
+          "text": "Reducing greenhouse emissions.",
+          "letter": "C"
+         },
+         {
+          "text": "Trapping sunlight with the help of fossil fuels.",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "For questions 21-24, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."
+     },
+     {
+      "type": "tfni",
+      "title": "Questions 25-29: True/False/Not Given",
+      "options": [
+       "True",
+       "False",
+       "Not Given"
+      ],
+      "questions": [
+       {
+        "id": 25,
+        "text": "According to Samantha Burgess, global warming is causing ice to melt fast."
+       },
+       {
+        "id": 26,
+        "text": "La Nina is much stronger than El Nino."
+       },
+       {
+        "id": 27,
+        "text": "According to Richard Allan, melting ice will lead to extreme heavy rains throughout the world."
+       },
+       {
+        "id": 28,
+        "text": "Guardian analysis states that humans will have to live without ice in the near future."
+       },
+       {
+        "id": 29,
+        "text": "Satellites show that melting ice is a permanent occurrence."
+       }
+      ],
+      "instruction": "For questions 25-29, decide if the following statements agree with the information given in the text. Mark your answers on the answer sheet."
+     }
+    ]
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 5",
+    "answers": {
+     "30": [
+      "Rome"
+     ],
+     "31": [
+      "Persia"
+     ],
+     "32": [
+      "Mallorca"
+     ],
+     "33": [
+      "Japan"
+     ],
+     "34": [
+      "B",
+      "difficulties in cultivating process"
+     ],
+     "35": [
+      "B",
+      "Some merits of pearls make them more valuable than others."
+     ]
+    },
+    "passage": {
+     "title": "The Pearl",
+     "content": "<p>The pearl has always had a special status in the rich and powerful all through history. For instance, women from ancient Rome went to bed with pearls on them, so that they could remind themselves how wealthy they were after waking up. Pearls used to have more commercial value than diamonds until jewellers learnt to cut gems. In the eastern countries like Persia, ground pearl powders could be used as a medicine to cure anything including heart diseases and epilepsy. Pearls can generally be divided into three categories: natural, cultured and imitation. When an irritant (such as a grain of sand) gets inside a certain type of oyster, mussel, or clam, the mollusc will secrete a fluid as a means of defence to coat the irritant. Gradually, layers are accumulated around the irritant until a lustrous natural pearl is formed.</p><p><strong>Paragraph 1.</strong> A cultured pearl undergoes the same process. There is only one difference between cultured pearls and natural ones: in cultured pearls, the irritant is a head called 'mother of pearl' and is placed in the oyster through surgical implantation. This results in much larger cores in cultivated pearls than those in natural pearls. As long as there are enough layers of nacre (the secreted fluid covering the irritant) to create a gorgeous, gem-quality pearl, the size of the nucleus wouldn't make a difference to beauty or durability.</p><p><strong>Paragraph 2.</strong> Pearls can come from both salt and freshwater sources. Typically, pearls from salt water usually have high quality, although several freshwater pearls are considered high in quality, too. In addition, freshwater pearls often have irregular shapes, with a puffed rice appearance. Nevertheless, it is the individual merits that determine the pearl's value more than the sources of pearls. Saltwater pearl oysters are usually cultivated in protected lagoons or volcanic atolls, while most freshwater cultured pearls sold today come from China. There are a number of options for producing cultured pearls: use fresh water or sea water shells, transplant the graft into the mantle or into the gonad, add a spherical bead or do it nonbeaded.</p><p><strong>Paragraph 3.</strong> No matter which method is used to get pearls, the process usually takes several years. Mussels must reach a mature age, which may take up almost three years, and then be transplanted an irritant. When the irritant is put in place, it takes approximately another three years for a pearl to reach its full size. Sometimes, the irritant may be rejected. As a result, the pearl may be seriously deformed, or the oyster may directly die from such numerous complications as diseases. At the end of a 5- to 10-year circle, only half of the oysters may have made it through. Among the pearls that are actually produced in the end, only about 5% of them will be high-quality enough for the jewellery makers.</p><p><strong>Paragraph 4.</strong> Imitation pearls are of another different story. The Island of Mallorca in Spain is renowned for its imitation pearl industry. In most cases, a bead is dipped into a solution made from fish scales. But this coating is quite thin and often wears off. One way to distinguish the imitation pearls is to have a bite on it. Fake pearls glide through your teeth, while the layers of nacre on the real pearls feel gritty.</p><p><strong>Paragraph 5.</strong> Several factors are taken into account to evaluate a pearl: size, shape, colour, the quality of surface and luster. Generally, the three types of pearls come in such order (with the value decreasing): natural pearls, cultured pearls and imitation pearls (which basically are worthless). For jewellers, one way to tell whether a pearl is natural or cultured is to send it to a gem lab and perform an X-ray on it. High-quality natural pearls are extremely rare. Japan's Akoya pearls are one of the glossiest pearls out there, while the south sea water of Australia is a cradle to bigger pearls.</p><p><strong>Paragraph 6.</strong> Historically, the pearls with the highest quality around the globe are found in the Persian Gulf, particularly around Bahrain. These pearls have to be hand-harvested by divers with no advanced equipment. Unfortunately, when the large reserve of oil was discovered in the early 1930s, Persian Gulf's natural pearl industry came to a sudden end because the contaminated water destroyed the once pristine pearls. In the present days, India probably has the largest stock of natural pearls. However, it is quite an irony that a large part of India's stock of natural pearls are originally from Bahrain.</p>"
+    },
+    "partNumber": 5,
+    "instruction": "Read the following text for questions 30-35.",
+    "explanations": {
+     "q30": {
+      "text": "The passage says 'women from ancient Rome went to bed with pearls on them'. That is why the correct answer is Rome.",
+      "quote": "women from ancient Rome went to bed with pearls on them"
+     },
+     "q31": {
+      "text": "The passage says 'In the eastern countries like Persia, ground pearl powders could be used as a medicine'. That is why the correct answer is Persia.",
+      "quote": "In the eastern countries like Persia, ground pearl powders could be used as a medicine"
+     },
+     "q32": {
+      "text": "The passage says 'The Island of Mallorca in Spain is renowned for its imitation pearl industry'. That is why the correct answer is Mallorca.",
+      "quote": "The Island of Mallorca in Spain is renowned for its imitation pearl industry"
+     },
+     "q33": {
+      "text": "Paragraph 5 says 'Japan's Akoya pearls are one of the glossiest pearls out there' — Japan is the country that manufactures the glitteriest pearls in the summary. That is why the correct answer is Japan.",
+      "quote": "Japan's Akoya pearls are one of the glossiest pearls out there"
+     },
+     "q34": {
+      "text": "Paragraph 3 explains how long cultivation takes, that irritants may be rejected, oysters die, and only 5% of produced pearls are gem-quality — i.e. the difficulties of cultivation. That is why the correct answer is B.",
+      "quote": "the process usually takes several years ... only half of the oysters may have made it through"
+     },
+     "q35": {
+      "text": "Paragraph 5 lists 'size, shape, colour, the quality of surface and luster' as the factors that determine a pearl's value — so different merits make some pearls more valuable than others. That is why the correct answer is B.",
+      "quote": "Several factors are taken into account to evaluate a pearl: size, shape, Colour, the quality of surface and luster."
+     }
+    },
+    "questionRange": "30-35",
+    "questionSections": [
+     {
+      "type": "gap-fill",
+      "title": "Questions 30-33: Gap Filling Section",
+      "questions": [
+       {
+        "id": 30,
+        "hint": "...were treated as gems for women in ancient _____(30)_____."
+       },
+       {
+        "id": 31,
+        "hint": "Pearls were even used as a medicine for people in _____(31)_____."
+       },
+       {
+        "id": 32,
+        "hint": "_____(32)_____ Island is famous for its imitation pearl industry."
+       },
+       {
+        "id": 33,
+        "hint": "_____(33)_____ often manufactures some of the glitteriest pearls."
+       }
+      ],
+      "instruction": "For questions 30-33, fill in the missing information in the numbered spaces. Write no more than ONE WORD and / or A NUMBER for each question.",
+      "summaryText": "<p>In history, pearls have had great importance within the men of wealth and power, which were treated as gems for women in ancient <span class=\"gap-input\" data-gap=\"30\">_____(30)_____</span>. Also, pearls were even used as a medicine for people in <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span>. There are essentially three types of pearls: natural, cultured and imitation. Most freshwater cultured pearls sold today come from China while <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span> Island is famous for its imitation pearl industry. Good-quality natural pearls are exceedingly unusual. <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span> often manufactures some of the glitteriest pearls while Australia produces larger size ones due to the favorable environment along the coastline.</p>"
+     },
+     {
+      "type": "mcq",
+      "title": "Questions 34-35: Multiple Choice",
+      "questions": [
+       {
+        "id": 34,
+        "text": "What is the author talking about in paragraph 3?",
+        "options": [
+         {
+          "text": "ancient stories around pearls and its customers",
+          "letter": "A"
+         },
+         {
+          "text": "difficulties in cultivating process",
+          "letter": "B"
+         },
+         {
+          "text": "factors which decide the value of natural pearls",
+          "letter": "C"
+         },
+         {
+          "text": "a growth mechanism that distinguishes cultured pearls from natural ones",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 35,
+        "text": "What can be concluded from the passage?",
+        "options": [
+         {
+          "text": "It's quite wrong to hunt pearls as it damages the ecosystem.",
+          "letter": "A"
+         },
+         {
+          "text": "Some merits of pearls make them more valuable than others.",
+          "letter": "B"
+         },
+         {
+          "text": "The quality of a pearl is determined only by its size.",
+          "letter": "C"
+         },
+         {
+          "text": "Nowadays, the Persian Gulf pearl industry is increasing.",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "For questions 34-35, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."
+     }
+    ]
+   }
+  ],
+  "testInfo": {
+   "id": "cefr-reading-48",
+   "level": "B2",
+   "title": "CEFR Reading Mock Test 48",
+   "totalTime": 60,
+   "totalQuestions": 35
+  }
+ },
+ "created_at": "2026-05-27T14:05:27.013455+00:00",
+ "updated_at": "2026-10-11T10:54:25.762211+00:00"
+}

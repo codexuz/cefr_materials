@@ -1,0 +1,428 @@
+{
+ "id": 127,
+ "mock_type": "ielts-writing",
+ "mock_number": 18,
+ "title": "IELTS Writing Mock 18",
+ "status": "published",
+ "mock_data": {
+  "tasks": {
+   "task1": {
+    "title": "Carbonated drinks production",
+    "prompt": "The diagram below shows the process for producing bottled and canned carbonate drinks.",
+    "wordGoal": 150,
+    "chartDesc": {
+     "title": "",
+     "stages": [
+      {
+       "n": 1,
+       "label": "Stage 1 Water cleaning",
+       "detail": "Raw water passes through a filter, a water softener, and treatment with chemicals before being pumped to the next stage."
+      },
+      {
+       "n": 2,
+       "label": "Stage 2 Heating evaporation and carbonation",
+       "detail": "The water passes through electric heaters and a cooling pipe, then carbon dioxide is added to create carbonated water."
+      },
+      {
+       "n": 3,
+       "label": "Stage 3 Mixing",
+       "detail": "Carbonated water flows into a mixing tank where colouring, syrup, and flavouring are added."
+      },
+      {
+       "n": 4,
+       "label": "Stage 4 Filtering and filling",
+       "detail": "The mixed liquid passes through another filter and is filled into either bottles or cans, which are then boxed."
+      },
+      {
+       "n": 5,
+       "label": "Stage 5 Packaging",
+       "detail": "The boxed drinks are loaded into a truck and delivered to the supermarket."
+      }
+     ],
+     "overview": "The diagram illustrates a 5-stage linear process for manufacturing carbonated drinks, starting with raw water treatment and ending with the packaging and delivery of bottled and canned products to supermarkets.",
+     "chartType": "process",
+     "confidence": "high",
+     "unreadable": [],
+     "keyFeatures": [
+      "Linear five-stage process from raw materials to final retail delivery.",
+      "Stage 4 branches into two parallel packaging formats: bottles and cans."
+     ]
+    },
+    "chartType": "process",
+    "dataNature": "static",
+    "instruction": "Summarise the information by selecting and reporting the main features, and make comparison where relevant.",
+    "sampleBand5": "<p>The diagram shows how to make fizzy drinks in bottles and cans. <mark>It is about</mark> a process with many steps.</p>\n<p>First, water goes into a filter. Then, it goes to be mixed with syrup. <mark>After that</mark>, the mixture is carbonated. <mark>This means</mark> they add gas. The next step is putting the drink into bottles or cans. The bottles and cans are sealed. Then, they are labelled so people know what the drink is.</p>\n<p>After labelling, the bottles and cans are packed into boxes. Finally, the boxes are transported to shops. The whole process is quite long. From start to finish, it takes a while to make the drinks ready for selling.</p>\n<p>Making drinks in bottles and cans is similar, but they use different containers. The other steps <mark>are almost the same</mark>.</p>",
+    "sampleBand6": "<p>The diagram <mark>shows the different steps</mark> involved in making both bottled and canned carbonate drinks. <mark>Overall, the process</mark> involves several stages, starting with water treatment and ending with the distribution of the finished product.</p>\n<p>To begin, the water is treated, and then it goes into a mixing tank. At the same time, sugar and flavourings are added to another mixing tank. After that, both mixtures are combined. Next, the mixed liquid is carbonated before being <mark>put into</mark> either bottles or cans. If the drink is going into bottles, they are capped, while cans are sealed. Finally, these are labelled and then they are ready for distribution to shops and other places.</p>\n<p>The main difference is that the mixture goes into bottles or cans, but the other steps are <mark>largely similar</mark>. Also, the bottle get a cap and the cans are sealed, but this is just a small difference in the whole process. <mark>It is a fairly</mark> straightforward process from start to finish.</p>",
+    "sampleBand7": "<p>The diagram <mark>illustrates the stages involved in</mark> the production of both bottled and canned carbonated drinks. <mark>Overall, the process comprises</mark> several key steps, beginning with water treatment and culminating in packaging and distribution for retail.</p>\n\n<p>Initially, water undergoes a purification process involving filtration and treatment to ensure its suitability for beverage production. This treated water is then mixed with syrup and carbon dioxide in a blending tank, resulting in the carbonated drink. <mark>Subsequently, the mixture</mark> is either directed to a bottling line or a canning line, depending on the desired packaging.</p>\n\n<p>In the bottling line, the carbonated drink is filled into sterilized bottles, which are then capped and labeled. Similarly, in the canning line, the drink is filled into cans, which are sealed and labeled. <mark>Following this stage</mark>, both bottled and canned drinks are packaged into cartons or crates. Finally, these packaged products are transported to retail outlets for sale to consumers. <mark>Despite the difference in packaging</mark>, the core steps of water treatment, mixing, and final distribution remain consistent for both types of beverages. <mark>It is also worth noting that</mark> quality control likely occurs at multiple points throughout the entire production.</p>",
+    "sampleBand8": "<p>The diagram <mark>illustrates the multi-stage process</mark> involved in the production of both bottled and canned carbonated beverages. Overall, the process encompasses several key stages, from water treatment and ingredient mixing to packaging and distribution.</p>\n\n<p>Initially, the process begins with water purification, whereby water is treated to ensure its <mark>suitability for beverage production</mark>. Subsequently, sugar and flavouring are added to the purified water in mixing tanks to create the desired syrup. This syrup is then combined with carbon dioxide to produce the carbonated drink. <mark>A pivotal step</mark> involves the filling and sealing of either bottles or cans with the prepared beverage.</p>\n\n<p>The packaging stage <mark>diverges depending on the chosen container</mark>. For bottled drinks, bottles are filled, capped, and labelled before being packed into crates. Conversely, canned drinks undergo a similar filling process, after which the cans are sealed and labelled. Finally, regardless of whether the drink is bottled or canned, the packaged products are prepared for distribution to consumers. The final stage is <mark>remarkably similar</mark>, with crates and packs of canned drinks prepared for delivery to market. <mark>The entire operation</mark> is a streamlined manufacturing process.</p>\n\n<p>In essence, while the initial and final phases are similar, the <mark>distinguishing factor lies in</mark> the packaging method employed, dictating the specific steps involved in preparing the beverages for distribution. This <mark>detailed procedure</mark> guarantees the consistent quality of the final product.</p>",
+    "sampleBand9": "<p>The diagram <mark>elucidates the multi-stage process</mark> involved in the production of both bottled and canned carbonated drinks. <mark>At first glance</mark>, the process shares several core steps, although divergences appear in the final packaging stages.</p>\n\n<p>Initially, raw water undergoes a purification process, <mark>entailing both filtration and sterilisation</mark>, before being transferred to mixing tanks. Simultaneously, sugar is dissolved in purified water to create a syrup. This syrup is then combined with flavouring and the purified water in the mixing tanks, ensuring a <mark>homogenous mixture</mark>. Following this, carbon dioxide is introduced into the mixture under pressure, thus creating the carbonated beverage.</p>\n\n<p>Subsequently, the process diverges based on the intended packaging. For bottled drinks, the carbonated liquid is directly channelled into sterilised bottles, which are then capped and labelled. Conversely, for canned drinks, the carbonated liquid is filled into aluminium cans, which are then sealed. Both bottled and canned drinks then proceed to the final stage, which is packaging and distribution. <mark>Ultimately, the process culminates in</mark> the drinks being ready for market distribution. <mark>It is noteworthy that</mark> the core steps of water purification, mixing, and carbonation remain consistent regardless of the final packaging format, with the <mark>key differentiation lying in</mark> the container filling and sealing procedures.</p>",
+    "timeMinutes": 20,
+    "chartDescImg": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/18.png",
+    "sampleAnswer": "The diagram illustrates the manufacturing process for carbonated beverages, showing how they are packaged in both bottles and cans. Overall, the process involves several stages, from water treatment to final packaging, with some steps shared between the two container types.\n\nThe process begins with water being drawn from a source and undergoing filtration and purification. Simultaneously, a syrup mixture is prepared by combining sugar, flavorings, and other ingredients in a separate tank. These two components are then mixed together in a blending vessel.\n\nAt the next stage, carbon dioxide is injected into the blended liquid under high pressure to create carbonation. This is a critical step that gives the drinks their characteristic fizz. The carbonated mixture then follows two parallel pathways depending on the final packaging.\n\nFor bottled drinks, the liquid is transferred to a bottle-filling machine where empty bottles are filled, capped, and labeled. For canned drinks, a similar process occurs with a can-filling machine, followed by sealing. Finally, both bottled and canned products are packed into cases and transported to a warehouse for distribution.",
+    "chartImageUrl": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/18.png",
+    "uzSampleBand5": "<p>Diagram shishalarda va bankalarda gazli ichimliklarni qanday tayyorlashni ko'rsatadi. <mark>U</mark> ko'p bosqichli jarayon haqida.</p>\n<p>Avval suv filtrga kiradi. Keyin, u sirop bilan aralashtiriladi. <mark>Shundan so'ng</mark>, aralashma karbonatlanadi. <mark>Bu degani</mark> ular gaz qo'shadilar. Keyingi qadam ichimlikni shishalarga yoki bankalarga solish. Shishalar va bankalar muhrlanadi. Keyin, ular yorliqlanadi, shunda odamlar ichimlik nima ekanligini bilishadi.</p>\n<p>Yorliqlangandan so'ng, shishalar va bankalar qutilarga qadoqlanadi. Nihoyat, qutilar do'konlarga tashiladi. Butun jarayon juda uzoq. Boshidan oxirigacha ichimliklarni sotishga tayyorlash biroz vaqt talab etadi.</p>\n<p>Shishalarda va bankalarda ichimliklar tayyorlash o'xshash, ammo ular turli xil idishlardan foydalanadilar. Boshqa qadamlar <mark>deyarli bir xil</mark>.</p>",
+    "uzSampleBand6": "<p>Diagrammada <mark>gazlangan ichimliklarni butilkalarga ham, bankalarga ham qanday qilib tayyorlashning turli bosqichlari</mark> ko'rsatilgan. <mark>Umuman olganda, jarayon</mark> bir necha bosqichlarni o'z ichiga oladi, suvni tozalashdan boshlab tayyor mahsulotni tarqatish bilan yakunlanadi.</p>\n<p>Avvalambor, suv tozalanadi va keyin aralashtirish tankiga tushadi. Shu bilan birga, shakar va xushbo'ylashtiruvchilar boshqa aralashtirish tankiga qo'shiladi. Shundan so'ng, ikkala aralashma birlashtiriladi. Keyin, aralashtirilgan suyuqlik <mark>butilkalarga yoki bankalarga solinishidan</mark> oldin karbonatlanadi. Agar ichimlik butilkalarga solinayotgan bo'lsa, ular qopqoq bilan yopiladi, bankalar esa muhrlanadi. Nihoyat, bular etiketlanadi va keyin do'konlarga va boshqa joylarga tarqatishga tayyor bo'ladi.</p>\n<p>Asosiy farq shundaki, aralashma butilkalarga yoki bankalarga solinadi, ammo boshqa bosqichlar <mark>asosan bir xil</mark>. Shuningdek, butilkalar qopqoq bilan yopiladi va bankalar muhrlanadi, ammo bu butun jarayonda kichik farq xolos. <mark>Bu boshidan oxirigacha juda</mark> oddiy jarayon.</p>",
+    "uzSampleBand7": "<p>Diagram <mark>gazlangan ichimliklarning butilkalarda va bankalarda ishlab chiqarilish bosqichlarini tasvirlaydi</mark>. <mark>Umuman olganda, jarayon</mark> bir nechta asosiy bosqichlardan iborat bo'lib, suvni tozalashdan boshlanadi va chakana savdo uchun qadoqlash va tarqatish bilan yakunlanadi.</p>\n\n<p>Dastlab, suv ichimlik ishlab chiqarish uchun yaroqliligini ta'minlash uchun filtrlash va tozalashni o'z ichiga olgan tozalash jarayonidan o'tadi. Keyin bu tozalangan suv sirop va karbonat angidrid bilan aralashtirish idishida aralashtiriladi, natijada gazlangan ichimlik hosil bo'ladi. <mark>Keyin, aralashma</mark> kerakli qadoqlashga qarab, butilkalash liniyasiga yoki konserva liniyasiga yo'naltiriladi.</p>\n\n<p>Butilkalash liniyasida gazlangan ichimlik sterilizatsiya qilingan butilkalarga to'ldiriladi, so'ngra qopqoqlanadi va etiketlanadi. Xuddi shunday, konserva liniyasida ichimlik bankalarga to'ldiriladi, ular muhrlanadi va etiketlanadi. <mark>Ushbu bosqichdan so'ng</mark>, butilkalangan va konservalangan ichimliklar kartonlarga yoki qutilarga qadoqlanadi. Nihoyat, bu qadoqlangan mahsulotlar iste'molchilarga sotish uchun chakana savdo nuqtalariga tashiladi. <mark>Qadoqlashdagi farqga qaramay</mark>, suvni tozalash, aralashtirish va yakuniy tarqatishning asosiy bosqichlari ikkala turdagi ichimliklar uchun ham bir xil bo'lib qoladi. <mark>Shuni ham ta'kidlash joizki</mark>, sifat nazorati butun ishlab chiqarish davomida bir nechta nuqtalarda sodir bo'lishi mumkin.</p>",
+    "uzSampleBand8": "<p>Diagrama gazlangan ichimliklarni butilkalarga ham, bankalarga ham qadoqlashning <mark>ko‘p bosqichli jarayonini ko‘rsatib beradi</mark>. Umuman olganda, jarayon suvni tozalash va ingredientlarni aralashtirishdan tortib, qadoqlash va tarqatishgacha bo‘lgan bir nechta asosiy bosqichlarni o‘z ichiga oladi.</p>\n\n<p>Dastlab, jarayon suvni tozalashdan boshlanadi, bunda suv ichimlik ishlab chiqarish uchun <mark>yaroqliligini ta'minlash maqsadida tozalanadi</mark>. Keyin, kerakli siropni yaratish uchun tozalangan suvga shakar va xushbo'ylashtiruvchi moddalar aralashtirish tanklarida qo'shiladi. So'ngra, bu sirop gazlangan ichimlikni ishlab chiqarish uchun karbonat angidrid bilan birlashtiriladi. <mark>Muhim qadam</mark> tayyorlangan ichimlik bilan butilkalarni yoki bankalarni to'ldirish va yopishni o'z ichiga oladi.</p>\n\n<p>Qadoqlash bosqichi <mark>tanlangan idishga qarab farq qiladi</mark>. Butilkalarga qadoqlangan ichimliklar uchun butilkalar to'ldiriladi, qopqoqlanadi va etiketlanadi, so'ngra qutilarga joylanadi. Aksincha, bankalarga qadoqlangan ichimliklar xuddi shunday to'ldirish jarayonidan o'tadi, shundan so'ng bankalar yopiladi va etiketlanadi. Nihoyat, ichimlik butilkalarga qadoqlanganmi yoki bankalarga qadoqlanganmi, qadoqlangan mahsulotlar iste'molchilarga tarqatish uchun tayyorlanadi. Yakuniy bosqich <mark>ajoyib darajada o'xshash</mark>, qutilar va bankalarga qadoqlangan ichimliklar bozorga yetkazib berishga tayyorlanadi. <mark>Butun operatsiya</mark> soddalashtirilgan ishlab chiqarish jarayonidir.</p>\n\n<p>Aslida, boshlang'ich va yakuniy bosqichlar o'xshash bo'lsa-da, <mark>asosiy farq</mark> qadoqlash usulida bo'lib, ichimliklarni tarqatish uchun tayyorlashda ishtirok etadigan aniq bosqichlarni belgilaydi. Ushbu <mark>batafsil tartib</mark> yakuniy mahsulotning doimiy sifatini kafolatlaydi.</p>",
+    "uzSampleBand9": "<p>Diagramma <mark>gazlangan ichimliklarni butilkalarga ham, bankalarga ham qadoqlashning ko'p bosqichli jarayonini tushuntiradi</mark>. <mark>Bir qarashda</mark>, jarayon bir nechta asosiy bosqichlarni o'z ichiga oladi, ammo yakuniy qadoqlash bosqichlarida farqlar paydo bo'ladi.</p>\n\n<p>Dastlab, xom suv tozalash jarayonidan o'tadi, <mark>bu filtratsiya va sterilizatsiyani o'z ichiga oladi</mark>, so'ngra aralashtirish tanklariga o'tkaziladi. Shu bilan birga, shakar tozalangan suvda eritilib, sirop hosil qilinadi. Keyin bu sirop xushbo'y moddalar va tozalangan suv bilan aralashtirish tanklarida birlashtirilib, <mark>bir hil aralashma</mark> ta'minlanadi. Shundan so'ng, aralashmaga bosim ostida karbonat angidrid kiritiladi va shu bilan gazlangan ichimlik yaratiladi.</p>\n\n<p>Keyinchalik, jarayon mo'ljallangan qadoqlashga qarab farqlanadi. Butilkaga solingan ichimliklar uchun gazlangan suyuqlik to'g'ridan-to'g'ri sterilizatsiya qilingan butilkalarga yo'naltiriladi, so'ngra qopqoqlanadi va etiketlanadi. Aksincha, bankaga solingan ichimliklar uchun gazlangan suyuqlik alyuminiy bankalarga to'ldiriladi, so'ngra muhrlanadi. Keyin butilkalarga ham, bankalarga ham solingan ichimliklar yakuniy bosqichga o'tadi, bu qadoqlash va tarqatishdir. <mark>Oxir-oqibat, jarayon</mark> ichimliklarning bozorga tarqatishga tayyor bo'lishi bilan yakunlanadi. <mark>Shuni ta'kidlash kerakki</mark>, suvni tozalash, aralashtirish va karbonatlashning asosiy bosqichlari yakuniy qadoqlash formatidan qat'i nazar, doimiy bo'lib qoladi, <mark>asosiy farq</mark> idishni to'ldirish va muhrlash tartiblarida yotadi.</p>",
+    "chartDescSource": "extracted-verified-2026-08-05"
+   },
+   "task2": {
+    "title": "Capping the highest salaries",
+    "prompt": "In many countries, a small number of people earn extremely high salaries. Some people believe that this is good for the country, but others think that governments should not allow salaries above a certain level. Discuss both these views and give your own opinion.",
+    "wordGoal": 250,
+    "essayType": "balanced",
+    "instruction": "Discuss both these views and give your own opinion.",
+    "sampleBand5": "<p>In many countries, some people get very big salaries. Some people think this is a good thing for the country. Other people think the government should stop people getting paid too much. I will talk about both sides.</p>\n\n<p>Some people think it is good if some people earn lots of money. <mark>They might say</mark> that these people are very important for the economy. <mark>Maybe</mark> they own big companies, and they give jobs to other people. If they are rich, they can invest in the country. This can help the country become richer too. Also, if people know they can earn a lot of money, <mark>they will try hard</mark> and this is good for everyone.</p>\n\n<p>However, other people think that it is not fair if some people earn so much more than others. They might say that it makes society unequal. <mark>It is maybe not good</mark> if some people have a lot, and other people have very little. The government could use the money to help poor people, or to build schools and hospitals. If the government stops people earning too much, it could make things fairer.</p>\n\n<p>In my opinion, <mark>I think both sides have some good points</mark>. It is important to reward people who work hard and create jobs. But it is also important to make sure that everyone has a fair chance in life. Maybe the government could tax rich people more, and use that money to help people who are not so lucky. This could be a good way to balance things.</p>",
+    "sampleBand6": "<p>In many countries, there is a debate about whether it is a positive thing that some people earn very high salaries, or whether governments should <mark>put a limit on</mark> how much people can earn. Some people think that high salaries are good for the country, while others disagree. This essay will discuss both sides of this argument and give my own opinion.</p>\n\n<p>On the one hand, some people believe that high salaries are beneficial for the country. They might argue that <mark>these high earners</mark> contribute a lot to the economy through taxes. The more they earn, the more tax they pay, which can then be used to fund public services like schools and hospitals. Also, high salaries can <mark>act as an incentive</mark> for people to work harder and be more innovative. People will be more motivated to create new businesses and invent new technologies if they know they have the potential to earn a lot of money. Therefore, this can lead to economic growth and prosperity.</p>\n\n<p>However, other people think that governments should not allow salaries above a certain level. They might say that <mark>very high salaries contribute to inequality</mark> in society. When a small number of people earn a lot of money, it can create a large gap between the rich and the poor. This can lead to social problems, such as crime and unrest. Furthermore, some people believe that high salaries are not always earned fairly. For example, some executives may earn huge bonuses even when their companies are not performing well. This can be seen as unfair and can damage public trust in businesses.</p>\n\n<p>In my opinion, while high salaries can bring some benefits, such as increased tax revenue and innovation, it is important to consider the potential negative effects on society. I think that governments should <mark>consider policies to address</mark> income inequality, such as progressive taxation or investing in education and training for people from disadvantaged backgrounds. This could help to ensure that everyone has the opportunity to succeed, regardless of their background.\n</p>",
+    "sampleBand7": "<p>The disparity in income, with a small segment of the population earning exceptionally high salaries, is a topic of considerable debate. While some argue that this benefits the nation, others contend that governments should impose limitations on excessive remuneration. This essay will explore both perspectives before presenting my own.</p>\n\n<p>Proponents of high salaries often suggest that they are a <mark>driving force behind economic growth</mark>. They argue that individuals earning substantial incomes contribute significantly to the tax base, thereby funding public services and infrastructure projects. Furthermore, the prospect of earning a high salary can incentivise innovation and entrepreneurship, leading to the development of new industries and job creation. It is also believed that these high earners often <mark>engage in philanthropic activities</mark>, donating to charities and supporting community initiatives. However, this argument often <mark>overlooks the potential for</mark> wealth concentration and its negative consequences.</p>\n\n<p>Conversely, those who advocate for salary caps believe that excessive income inequality can lead to social unrest and instability. They argue that when a small number of individuals accumulate vast wealth, it can create a sense of unfairness and resentment among the rest of the population. This can lead to social divisions and even political instability. Moreover, some believe that excessive salaries are often unjustified and are the result of <mark>market failures or exploitation</mark>. They suggest that governments should intervene to ensure a more equitable distribution of wealth. The introduction of salary caps, however, could <mark>stifle ambition</mark> and discourage talented individuals from pursuing certain careers. </p>\n\n<p>In my opinion, while the pursuit of high salaries can indeed stimulate economic activity, governments should implement measures to mitigate the negative consequences of extreme income inequality. Rather than imposing strict salary caps, which could be counterproductive, a more effective approach would be to implement progressive taxation policies and invest in education and social programs to <mark>level the playing field</mark>. This would allow individuals to benefit from their hard work and innovation while ensuring that everyone has the opportunity to succeed. It is crucial to strike a balance between incentivising achievement and promoting social equity.</p>\n\n<p>In conclusion, both sides of this argument have valid points. While high salaries can contribute to economic growth, it is important to address the potential negative consequences of income inequality through <mark>judicious government intervention</mark>, rather than outright bans.</p>",
+    "sampleBand8": "<p>The disparity in income, with a select few earning exceptionally high salaries, is a subject of ongoing debate. While some argue that such high earnings are beneficial for a nation's economy, others contend that governments should impose limits on income. This essay will explore both perspectives before presenting my own viewpoint.</p>\n\n<p>Proponents of high salaries often argue that they <mark>incentivize innovation and productivity</mark>. The prospect of earning substantial wealth can motivate individuals to work harder, take risks, and develop groundbreaking ideas. These innovations can, in turn, lead to economic growth and create new job opportunities. Furthermore, high earners contribute significantly to the tax base, providing governments with the resources to fund public services such as healthcare and education. For instance, entrepreneurs who create successful tech companies often generate substantial revenue and employment, benefiting the entire country.</p>\n\n<p>Conversely, those who advocate for salary caps argue that <mark>extreme income inequality</mark> can lead to social unrest and instability. When a small percentage of the population controls a disproportionate share of the wealth, it can create a sense of unfairness and resentment among those who are struggling to make ends meet. This can manifest in various forms, such as protests, strikes, and even political instability. Moreover, some argue that excessively high salaries are often unjustified and reflect a <mark>misallocation of resources</mark>. They believe that these resources could be better used to address social problems such as poverty and inequality.</p>\n\n<p>In my opinion, while high salaries can indeed drive innovation and economic growth, it is crucial for governments to address the potential negative consequences of extreme income inequality. A <mark>progressive taxation system</mark>, where higher earners pay a larger percentage of their income in taxes, can help to redistribute wealth and fund essential public services. Additionally, governments should invest in education and training programs to ensure that everyone has the opportunity to <mark>improve their economic prospects</mark>, regardless of their background. <mark>Striking a balance</mark> between incentivizing success and promoting social equity is essential for creating a prosperous and stable society.</p>\n\n<p>In conclusion, while the argument that high salaries are beneficial to a country by encouraging innovation and contributing to the tax base holds merit, the potential for social unrest and the misallocation of resources cannot be ignored. Therefore, a combination of policies, including progressive taxation and investments in education, is necessary to <mark>mitigate the negative effects</mark> of income inequality and ensure a more equitable society where <mark>opportunities are available to all</mark>.</p>",
+    "sampleBand9": "<p>The issue of whether or not to impose limits on high salaries is a subject of considerable debate. While some argue that <mark>unfettered earnings</mark> benefit a nation, others contend that governments should intervene to prevent excessive income disparities. This essay will explore both perspectives before offering my own view.</p>\n\n<p>Proponents of allowing extremely high salaries often argue that such earnings serve as a powerful incentive for innovation and economic growth. They believe that the <mark>potential for immense financial reward</mark> encourages individuals to take risks, invest in new ventures, and work harder, ultimately leading to job creation and increased tax revenue for the government. Furthermore, they contend that successful entrepreneurs and top executives are often the driving force behind major industries, and their high salaries are simply a reflection of their exceptional contributions. <mark>Restricting income in this way</mark> could stifle innovation and discourage talented individuals from pursuing ambitious goals, potentially harming the overall economy.</p>\n\n<p>Conversely, those who advocate for salary caps argue that extreme income inequality can have detrimental social and economic consequences. They point out that <mark>vast disparities in wealth</mark> can lead to social unrest, increased crime rates, and a sense of unfairness and injustice. Moreover, they argue that high salaries are often not a true reflection of an individual's contribution to society, but rather a result of market forces, <mark>corporate power structures</mark>, and, at times, unethical practices. From this perspective, governments have a responsibility to ensure a more equitable distribution of wealth and to protect vulnerable members of society. They might propose progressive taxation or other mechanisms to <mark>redistribute wealth downwards</mark> and fund essential public services.</p>\n\n<p>In my opinion, while the <mark>incentive argument holds some merit</mark>, the potential negative consequences of extreme income inequality outweigh the benefits. Governments should not necessarily impose strict salary caps, which could indeed stifle innovation. However, they should implement policies that promote fairer distribution of wealth, such as progressive taxation, investment in education and healthcare, and measures to combat corporate greed and tax evasion. A <mark>balanced approach that encourages innovation</mark> while mitigating the risks of excessive income disparity is crucial for a healthy and prosperous society. Ultimately, <mark>a more egalitarian economic landscape</mark> fosters greater social cohesion and long-term stability.</p>",
+    "timeMinutes": 40,
+    "sampleAnswer": "The issue of income inequality, particularly the existence of extremely high earners, is a contentious topic in many societies. Some view substantial salaries as beneficial, while others advocate for government-imposed caps. This essay will explore both viewpoints before offering my perspective.\n\nProponents of allowing high salaries argue that they serve as powerful incentives. When individuals see the potential for significant financial rewards, they are motivated to innovate, take risks, and work harder. This entrepreneurial spirit can drive economic growth, create jobs, and lead to technological advancements that benefit society as a whole. Furthermore, high earners typically pay more in taxes, contributing significantly to public coffers and funding essential services. Limiting salaries could stifle ambition and potentially lead to a brain drain, as talented individuals might relocate to countries without such restrictions.\n\nConversely, those who favor salary caps point to the negative consequences of extreme wealth concentration. Vast income disparities can lead to social division, resentment, and a sense of injustice among the general population. When a small elite accumulates disproportionate wealth, it can also translate into undue political influence, potentially undermining democratic processes. Critics also question whether anyone truly deserves salaries hundreds of times greater than the average worker, regardless of their role or talents.\n\nIn my opinion, while outright salary caps may be difficult to implement and could have unintended consequences, progressive taxation and policies that ensure fair wages for all workers are more practical solutions. The goal should be to maintain incentives for success while preventing the kind of extreme inequality that harms social cohesion.",
+    "uzSampleBand5": "<p>Ko'p mamlakatlarda ba'zi odamlar juda katta maosh oladilar. Ba'zi odamlar bu mamlakat uchun yaxshi narsa deb o'ylashadi. Boshqa odamlar esa hukumat odamlarga haddan tashqari ko'p pul to'lashni to'xtatishi kerak deb o'ylashadi. Men ikki tomon haqida ham gapiraman.</p>\n\n<p>Ba'zi odamlar ba'zi odamlar ko'p pul topishi yaxshi deb o'ylashadi. <mark>Ular aytishlari mumkin</mark> bu odamlar iqtisodiyot uchun juda muhim. <mark>Ehtimol,</mark> ular katta kompaniyalarga egalik qilishadi va boshqa odamlarga ish o'rinlari berishadi. Agar ular boy bo'lsa, ular mamlakatga sarmoya kiritishi mumkin. Bu mamlakatga ham boyroq bo'lishga yordam berishi mumkin. Shuningdek, agar odamlar ko'p pul topishlari mumkinligini bilishsa, <mark>ular qattiq harakat qilishadi</mark> va bu hamma uchun yaxshi.</p>\n\n<p>Biroq, boshqa odamlar ba'zi odamlar boshqalarga qaraganda ancha ko'p pul topishi adolatdan emas deb o'ylashadi. Ular bu jamiyatni tengsiz qiladi deyishlari mumkin. <mark>Balki yaxshi emasdir</mark> agar ba'zi odamlarda ko'p narsa bo'lsa, boshqa odamlarda esa juda kam. Hukumat pulni kambag'al odamlarga yordam berish yoki maktablar va kasalxonalar qurish uchun ishlatishi mumkin. Agar hukumat odamlarga haddan tashqari ko'p pul topishni to'xtatsa, bu vaziyatni adolatliroq qilishi mumkin.</p>\n\n<p>Mening fikrimcha, <mark>menimcha, har ikki tomonda ham yaxshi tomonlar bor</mark>. Qattiq mehnat qiladigan va ish o'rinlari yaratadigan odamlarni taqdirlash muhim. Ammo har bir insonning hayotda adolatli imkoniyatga ega bo'lishini ta'minlash ham muhim. Ehtimol, hukumat boy odamlardan ko'proq soliq olishi va bu pulni omadi kelmagan odamlarga yordam berish uchun ishlatishi mumkin. Bu muvozanatni saqlashning yaxshi usuli bo'lishi mumkin.</p>",
+    "uzSampleBand6": "<p>Ko'pgina mamlakatlarda ayrim odamlarning juda yuqori maosh olishi ijobiy holatmi yoki hukumatlar odamlarning qancha pul topishi mumkinligiga <mark>cheklash qo'yishi kerakmi</mark> degan bahs mavjud. Ba'zi odamlar yuqori maoshlar mamlakat uchun foydali deb hisoblasa, boshqalari bunga qo'shilmaydi. Ushbu insho ushbu bahsning har ikki tomonini muhokama qiladi va o'z fikrimni bildiradi.</p>\n\n<p>Bir tomondan, ba'zi odamlar yuqori maoshlar mamlakat uchun foydali ekanligiga ishonishadi. Ular <mark>bu yuqori daromad oluvchilar</mark> soliqlar orqali iqtisodiyotga katta hissa qo'shadi, deb ta'kidlashlari mumkin. Ular qancha ko'p pul topsalar, shuncha ko'p soliq to'laydilar, bu esa maktablar va kasalxonalar kabi davlat xizmatlarini moliyalashtirish uchun ishlatilishi mumkin. Bundan tashqari, yuqori maoshlar odamlarni ko'proq ishlashga va innovatsion bo'lishga <mark>rag'batlantirishi mumkin</mark>. Agar odamlar ko'p pul topish imkoniyatiga ega ekanliklarini bilsalar, yangi biznes yaratishga va yangi texnologiyalarni ixtiro qilishga ko'proq motivatsiya bo'ladi. Shuning uchun bu iqtisodiy o'sish va farovonlikka olib kelishi mumkin.</p>\n\n<p>Biroq, boshqa odamlar hukumatlar ma'lum darajadan yuqori maoshlarga ruxsat bermasligi kerak deb o'ylashadi. Ular <mark>juda yuqori maoshlar jamiyatda tengsizlikka hissa qo'shadi</mark> deyishlari mumkin. Oz sonli odamlar ko'p pul topsa, boylar va kambag'allar o'rtasida katta tafovut yaratishi mumkin. Bu jinoyatchilik va tartibsizliklar kabi ijtimoiy muammolarga olib kelishi mumkin. Bundan tashqari, ba'zi odamlar yuqori maoshlar har doim ham adolatli topilmaydi deb hisoblashadi. Misol uchun, ba'zi rahbarlar kompaniyalari yaxshi ishlamayotgan bo'lsa ham, katta bonuslar olishlari mumkin. Bu adolatsizlik deb qaralishi va biznesga bo'lgan jamoatchilik ishonchini buzishi mumkin.</p>\n\n<p>Mening fikrimcha, yuqori maoshlar soliq tushumlarining oshishi va innovatsiyalar kabi ba'zi foyda keltirishi mumkin bo'lsa-da, jamiyatga salbiy ta'sirini ham hisobga olish muhim. Menimcha, hukumatlar daromad tengsizligini <mark>hal qilish uchun siyosatlarni ko'rib chiqishi</mark> kerak, masalan, progressiv soliqqa tortish yoki imkoniyati cheklangan oilalardan chiqqan odamlar uchun ta'lim va o'qitishga sarmoya kiritish. Bu har bir kishining kelib chiqishidan qat'i nazar, muvaffaqiyatga erishish imkoniyatiga ega bo'lishini ta'minlashga yordam berishi mumkin.</p>",
+    "uzSampleBand7": "<p>Daromadlardagi tafovut, aholining kichik bir qismi juda yuqori maosh olishi, jiddiy bahslarga sabab bo'layotgan mavzudir. Ba'zilarning fikricha, bu mamlakatga foyda keltiradi, boshqalar esa hukumatlar haddan tashqari yuqori to'lovlarga cheklovlar qo'yishi kerak, deb hisoblashadi. Ushbu insho har ikki nuqtai nazarni o'rganib chiqadi va keyin o'z fikrimni bildiradi.</p>\n\n<p>Yuqori maoshlar tarafdorlari ko'pincha ularni <mark>iqtisodiy o'sishning harakatlantiruvchi kuchi</mark> deb ta'kidlashadi. Ularning ta'kidlashicha, katta daromad oladigan shaxslar soliq bazasiga katta hissa qo'shadi va shu bilan davlat xizmatlari va infratuzilma loyihalarini moliyalashtiradi. Bundan tashqari, yuqori maosh olish istiqboli innovatsiyalar va tadbirkorlikni rag'batlantirishi, yangi sohalar va ish o'rinlarini yaratishga olib kelishi mumkin. Shuningdek, bu yuqori daromad oluvchilar ko'pincha <mark>xayriya faoliyati bilan shug'ullanishadi</mark>, xayriya tashkilotlariga xayriya qilishadi va jamiyat tashabbuslarini qo'llab-quvvatlashadi, deb ishoniladi. Biroq, bu argument ko'pincha boylikning jamg'arilishi <mark>uchun imkoniyatni e'tibordan chetda qoldiradi</mark> va uning salbiy oqibatlariga e'tibor bermaydi.</p>\n\n<p>Aksincha, maosh chegaralarini yoqlab chiqadiganlar haddan tashqari daromad tengsizligi ijtimoiy tartibsizlik va beqarorlikka olib kelishi mumkinligiga ishonishadi. Ularning ta'kidlashicha, oz sonli odamlar katta boylik to'plaganida, bu aholining qolgan qismi orasida adolatsizlik va norozilik hissini yaratishi mumkin. Bu ijtimoiy bo'linishlarga va hatto siyosiy beqarorlikka olib kelishi mumkin. Bundan tashqari, ba'zilar haddan tashqari yuqori maoshlar ko'pincha asossiz va <mark>bozorning buzilishi yoki ekspluatatsiya</mark> natijasidir, deb hisoblashadi. Ular hukumatlar boylikni yanada adolatli taqsimlashni ta'minlash uchun aralashishi kerakligini ta'kidlashadi. Maosh chegaralarini kiritish, ammo, <mark>intilishni bo'g'ishi</mark> va iste'dodli shaxslarni muayyan kasblarni tanlashdan qaytarishi mumkin.</p>\n\n<p>Mening fikrimcha, yuqori maoshga intilish iqtisodiy faollikni rag'batlantirishi mumkin bo'lsa-da, hukumatlar haddan tashqari daromad tengsizligining salbiy oqibatlarini kamaytirish uchun choralar ko'rishi kerak. Qattiq maosh chegaralarini o'rnatish o'rniga, bu aksincha ta'sir ko'rsatishi mumkin, yanada samaraliroq yondashuv progressiv soliq siyosatini amalga oshirish va ta'lim va ijtimoiy dasturlarga sarmoya kiritish orqali <mark>o'yin qoidalarini tenglashtirish</mark> bo'ladi. Bu shaxslarga o'z mehnati va innovatsiyalaridan foyda olishga imkon beradi, shu bilan birga har bir kishining muvaffaqiyatga erishish imkoniyatiga ega bo'lishini ta'minlaydi. Yutuqlarni rag'batlantirish va ijtimoiy adolatni targ'ib qilish o'rtasida muvozanatni saqlash juda muhimdir.</p>\n\n<p>Xulosa qilib aytganda, ushbu argumentning har ikki tomonida ham asosli fikrlar mavjud. Yuqori maoshlar iqtisodiy o'sishga hissa qo'shishi mumkin bo'lsa-da, daromad tengsizligining potentsial salbiy oqibatlarini to'g'ridan-to'g'ri taqiqlashdan ko'ra, <mark>hukumatning oqilona aralashuvi</mark> orqali hal qilish muhimdir.</p>",
+    "uzSampleBand8": "<p>Daromadlardagi tafovut, ya'ni bir nechta odamning juda yuqori maosh olishi doimiy bahs mavzusi bo'lib kelmoqda. Ba'zilar bunday yuqori daromadlar mamlakat iqtisodiyoti uchun foydali deb hisoblasa, boshqalar hukumatlar daromadga cheklovlar qo'yishi kerakligini ta'kidlaydi. Ushbu insho har ikki nuqtai nazarni o'rganib, shaxsiy fikrimni bildiradi.</p>\n\n<p>Yuqori maoshlarni yoqlovchilar ko'pincha ular <mark>innovatsiya va unumdorlikni rag'batlantiradi</mark> deb ta'kidlaydilar. Katta boylik orttirish istiqboli odamlarni ko'proq ishlashga, xavf ostiga qo'yishga va yangi g'oyalarni ishlab chiqishga undashi mumkin. Bu yangiliklar, o'z navbatida, iqtisodiy o'sishga olib kelishi va yangi ish o'rinlarini yaratishi mumkin. Bundan tashqari, yuqori daromad oluvchilar soliq bazasiga katta hissa qo'shadi va hukumatlarni sog'liqni saqlash va ta'lim kabi davlat xizmatlarini moliyalashtirish uchun resurslar bilan ta'minlaydi. Misol uchun, muvaffaqiyatli texnologiya kompaniyalarini yaratgan tadbirkorlar ko'pincha butun mamlakatga foyda keltiradigan katta daromad va bandlikni yaratadilar.</p>\n\n<p>Aksincha, maoshlarga cheklovlar tarafdorlari <mark>daromadlardagi haddan tashqari tengsizlik</mark> ijtimoiy tartibsizlik va beqarorlikka olib kelishi mumkinligini ta'kidlaydilar. Aholining kichik bir qismi boylikning nomutanosib ulushini nazorat qilganda, bu kun kechirishga qiynalayotganlar orasida adolatsizlik va norozilik hissini yaratishi mumkin. Bu turli shakllarda, masalan, noroziliklar, ish tashlashlar va hatto siyosiy beqarorlikda namoyon bo'lishi mumkin. Bundan tashqari, ba'zilarning ta'kidlashicha, juda yuqori maoshlar ko'pincha asossizdir va <mark>resurslarning noto'g'ri taqsimlanishini</mark> aks ettiradi. Ularning fikricha, bu resurslardan qashshoqlik va tengsizlik kabi ijtimoiy muammolarni hal qilish uchun yaxshiroq foydalanish mumkin.</p>\n\n<p>Mening fikrimcha, yuqori maoshlar haqiqatan ham innovatsiyalar va iqtisodiy o'sishga turtki bo'lishi mumkin bo'lsa-da, hukumatlar haddan tashqari daromad tengsizligining salbiy oqibatlarini bartaraf etishlari juda muhimdir. <mark>Progressiv soliq tizimi</mark>, unda yuqori daromad oluvchilar daromadlarining katta foizini soliq sifatida to'laydilar, boylikni qayta taqsimlashga va muhim davlat xizmatlarini moliyalashtirishga yordam berishi mumkin. Bundan tashqari, hukumatlar har bir inson o'z <mark>iqtisodiy istiqbollarini yaxshilash</mark> imkoniyatiga ega bo'lishi uchun ta'lim va o'quv dasturlariga sarmoya kiritishi kerak, kelib chiqishidan qat'i nazar. Muvaffaqiyatni rag'batlantirish va ijtimoiy tenglikni targ'ib qilish o'rtasida <mark>muvozanatni saqlash</mark> farovon va barqaror jamiyatni yaratish uchun zarurdir.</p>\n\n<p>Xulosa qilib aytganda, yuqori maoshlar innovatsiyalarni rag'batlantirish va soliq bazasiga hissa qo'shish orqali mamlakat uchun foydali ekanligi haqidagi argument o'rinli bo'lsa-da, ijtimoiy tartibsizlik va resurslarning noto'g'ri taqsimlanishi ehtimolini e'tiborsiz qoldirib bo'lmaydi. Shuning uchun, progressiv soliq solish va ta'limga investitsiyalar, shu jumladan, siyosatning kombinatsiyasi daromadlar tengsizligining <mark>salbiy oqibatlarini yumshatish</mark> va <mark>imkoniyatlar barchaga mavjud bo'lgan</mark> yanada adolatli jamiyatni ta'minlash uchun zarurdir.</p>",
+    "uzSampleBand9": "<p>Yuqori maoshlarga cheklovlar o'rnatish yoki o'rnatmaslik masalasi jiddiy bahs mavzusi hisoblanadi. Ba'zilar <mark>cheklanmagan daromadlar</mark> davlatga foyda keltiradi, deb hisoblasa, boshqalar hukumatlar haddan tashqari daromad tafovutlarining oldini olish uchun aralashishi kerak, deb ta'kidlaydi. Ushbu insho har ikkala nuqtai nazarni o'rganib chiqadi va shundan so'ng o'z fikrimni bildiradi.</p>\n\n<p>O'ta yuqori maoshlarga ruxsat berish tarafdorlari, odatda, bunday daromadlar innovatsiya va iqtisodiy o'sish uchun kuchli rag'bat vazifasini o'taydi, deb ta'kidlaydilar. Ular <mark>ulkan moliyaviy mukofot olish imkoniyati</mark> shaxslarni xavf-xatarlarga borishga, yangi korxonalarga sarmoya kiritishga va qattiqroq ishlashga undaydi, bu esa oxir-oqibatda ish o'rinlarini yaratishga va hukumat uchun soliq tushumlarini ko'paytirishga olib keladi, deb hisoblashadi. Bundan tashqari, ular muvaffaqiyatli tadbirkorlar va yuqori lavozimli rahbarlar ko'pincha yirik sanoatlarning harakatlantiruvchi kuchidir va ularning yuqori maoshlari shunchaki ularning favqulodda hissalarining aksidir, deb ta'kidlaydilar. <mark>Daromadni bunday cheklash</mark> innovatsiyalarni bo'g'ishi va iste'dodli shaxslarni ambitsiyali maqsadlarni amalga oshirishdan to'xtatishi, bu esa umuman iqtisodiyotga zarar etkazishi mumkin.</p>\n\n<p>Aksincha, maoshlarga chegara o'rnatishni yoqlovchilar daromadlar tengsizligi ijtimoiy va iqtisodiy oqibatlarga olib kelishi mumkinligini ta'kidlaydilar. Ular <mark>boylikdagi ulkan tafovutlar</mark> ijtimoiy tartibsizliklarga, jinoyatchilik darajasining oshishiga, adolatsizlik va haqsizlik tuyg'usiga olib kelishi mumkinligini ta'kidlaydilar. Bundan tashqari, ularning ta'kidlashicha, yuqori maoshlar ko'pincha shaxsning jamiyatga qo'shgan hissasi to'g'risida haqiqiy aks etmaydi, balki bozor kuchlari, <mark>korporativ hokimiyat tuzilmalari</mark> va ba'zida axloqsiz amaliyotlar natijasidir. Shu nuqtai nazardan olganda, hukumatlar boylikni yanada adolatli taqsimlashni ta'minlash va jamiyatning zaif a'zolarini himoya qilish mas'uliyatiga ega. Ular progressiv soliqqa tortish yoki <mark>boylikni pastga qayta taqsimlash</mark> va muhim davlat xizmatlarini moliyalashtirish uchun boshqa mexanizmlarni taklif qilishlari mumkin.</p>\n\n<p>Mening fikrimcha, <mark>rag'batlantirish argumenti ma'lum darajada ahamiyatga ega bo'lsa-da</mark>, daromadlar tengsizligining salbiy oqibatlari afzalliklardan ustun turadi. Hukumatlar innovatsiyalarni bo'g'ib qo'yishi mumkin bo'lgan qat'iy maosh chegaralarini o'rnatmasligi kerak. Biroq, ular boylikni adolatli taqsimlashga yordam beradigan siyosatlarni, masalan, progressiv soliqqa tortish, ta'lim va sog'liqni saqlashga investitsiyalar, korporativ ochko'zlik va soliq to'lashdan bo'yin tovlashga qarshi kurashish choralarini amalga oshirishlari kerak. Sog'lom va farovon jamiyat uchun <mark>innovatsiyalarni rag'batlantiradigan</mark> va ayni paytda ortiqcha daromad tafovutlari xavfini kamaytiradigan <mark>muvozanatli yondashuv</mark> muhimdir. Oxir oqibat, <mark>yanada teng huquqli iqtisodiy landshaft</mark> ijtimoiy birdamlik va uzoq muddatli barqarorlikni mustahkamlaydi.</p>"
+   }
+  },
+  "source": "Mentor IELTS",
+  "examDate": "2020-03-07",
+  "settings": {
+   "timeInfo": "60 Minutes",
+   "moduleTitle": "Academic Writing Module",
+   "testIdentifier": "Mock 18"
+  },
+  "vocabulary": {
+   "task1": [
+    {
+     "term": "Manufacturing process",
+     "meaning": "The steps involved in producing a finished product."
+    },
+    {
+     "term": "Filtration and purification",
+     "meaning": "Methods to remove impurities and make something clean."
+    },
+    {
+     "term": "Blending vessel",
+     "meaning": "A container where different substances are mixed together."
+    },
+    {
+     "term": "Carbonation",
+     "meaning": "The process of dissolving carbon dioxide in a liquid to create bubbles."
+    },
+    {
+     "term": "Characteristic fizz",
+     "meaning": "The typical bubbling sound and sensation of a carbonated drink."
+    },
+    {
+     "term": "Parallel pathways",
+     "meaning": "Two or more processes happening at the same time."
+    },
+    {
+     "term": "Sealing",
+     "meaning": "The act of closing a container tightly to prevent leakage."
+    },
+    {
+     "term": "Distribution",
+     "meaning": "The action of sharing or spreading out products to customers."
+    }
+   ],
+   "task2": [
+    {
+     "term": "Income inequality",
+     "meaning": "The unequal distribution of income within a population."
+    },
+    {
+     "term": "Contentious",
+     "meaning": "Causing or likely to cause an argument; controversial."
+    },
+    {
+     "term": "Entrepreneurial spirit",
+     "meaning": "The drive to start and grow a business, taking on risk for reward."
+    },
+    {
+     "term": "Public coffers",
+     "meaning": "The funds or financial reserves of a government."
+    },
+    {
+     "term": "Brain drain",
+     "meaning": "The emigration of highly trained or intelligent people from a country."
+    },
+    {
+     "term": "Wealth concentration",
+     "meaning": "The accumulation of a large proportion of assets by a small group."
+    },
+    {
+     "term": "Democratic processes",
+     "meaning": "The methods and systems by which a democracy functions."
+    },
+    {
+     "term": "Social cohesion",
+     "meaning": "The bonds that bring people together in a society."
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "Maybe": {
+    "uz": "Balki",
+    "type": "linking"
+   },
+   "put into": {
+    "uz": "ichiga solmoq",
+    "type": "academic"
+   },
+   "After that": {
+    "uz": "Shundan so'ng",
+    "type": "linking"
+   },
+   "This means": {
+    "uz": "Bu degani",
+    "type": "linking"
+   },
+   "It is about": {
+    "uz": "Bu haqida",
+    "type": "academic"
+   },
+   "A pivotal step": {
+    "uz": "Hal qiluvchi qadam",
+    "type": "colloc"
+   },
+   "It is a fairly": {
+    "uz": "Bu ancha",
+    "type": "academic"
+   },
+   "They might say": {
+    "uz": "Ular aytishi mumkin",
+    "type": "academic"
+   },
+   "put a limit on": {
+    "uz": "...ga chek qo'yish",
+    "type": "academic"
+   },
+   "At first glance": {
+    "uz": "Birinchi qarashda",
+    "type": "linking"
+   },
+   "largely similar": {
+    "uz": "asosan o'xshash",
+    "type": "academic"
+   },
+   "stifle ambition": {
+    "uz": "intilishni bo'g'moq",
+    "type": "lexical"
+   },
+   "Striking a balance": {
+    "uz": "Muvozanatga erishish",
+    "type": "colloc"
+   },
+   "detailed procedure": {
+    "uz": "batafsil tartib",
+    "type": "colloc"
+   },
+   "homogenous mixture": {
+    "uz": "bir hil aralashma",
+    "type": "lexical"
+   },
+   "remarkably similar": {
+    "uz": "ajoyib darajada o'xshash",
+    "type": "academic"
+   },
+   "these high earners": {
+    "uz": "bu yuqori daromad oluvchilar",
+    "type": "academic"
+   },
+   "they will try hard": {
+    "uz": "ular qattiq harakat qilishadi",
+    "type": "academic"
+   },
+   "act as an incentive": {
+    "uz": "rag'bat vazifasini o'tamoq",
+    "type": "colloc"
+   },
+   "are almost the same": {
+    "uz": "deyarli bir xil",
+    "type": "academic"
+   },
+   "unfettered earnings": {
+    "uz": "cheklanmagan daromad",
+    "type": "lexical"
+   },
+   "Following this stage": {
+    "uz": "Ushbu bosqichdan so'ng",
+    "type": "linking"
+   },
+   "It is maybe not good": {
+    "uz": "Bu balki yaxshi emasdir",
+    "type": "academic"
+   },
+   "Overall, the process": {
+    "uz": "Umuman olganda, jarayon",
+    "type": "linking"
+   },
+   "The entire operation": {
+    "uz": "Butun operatsiya",
+    "type": "academic"
+   },
+   "It is noteworthy that": {
+    "uz": "Shuni ta'kidlash lozimki",
+    "type": "linking"
+   },
+   "level the playing field": {
+    "uz": "o'yin maydonini tekislash",
+    "type": "idiom"
+   },
+   "Subsequently, the mixture": {
+    "uz": "Keyinchalik, aralashma",
+    "type": "linking"
+   },
+   "extreme income inequality": {
+    "uz": "o'ta daromad tengsizligi",
+    "type": "lexical"
+   },
+   "shows the different steps": {
+    "uz": "turli xil bosqichlarni ko'rsatadi",
+    "type": "academic"
+   },
+   "corporate power structures": {
+    "uz": "korporativ hokimiyat tuzilmalari",
+    "type": "lexical"
+   },
+   "misallocation of resources": {
+    "uz": "resurslarning noto'g'ri taqsimlanishi",
+    "type": "lexical"
+   },
+   "vast disparities in wealth": {
+    "uz": "boylikdagi katta tafovutlar",
+    "type": "lexical"
+   },
+   "overlooks the potential for": {
+    "uz": "... imkoniyatini e'tibordan chetda qoldiradi",
+    "type": "academic"
+   },
+   "progressive taxation system": {
+    "uz": "progressiv soliq tizimi",
+    "type": "lexical"
+   },
+   "It is also worth noting that": {
+    "uz": "Shuni ham ta'kidlash joizki",
+    "type": "linking"
+   },
+   "consider policies to address": {
+    "uz": "muammolarni hal qilish uchun siyosatni ko'rib chiqish",
+    "type": "academic"
+   },
+   "key differentiation lying in": {
+    "uz": "asosiy farq ...da",
+    "type": "academic"
+   },
+   "distinguishing factor lies in": {
+    "uz": "farqlovchi omil ...da",
+    "type": "academic"
+   },
+   "mitigate the negative effects": {
+    "uz": "salbiy oqibatlarni yumshatish",
+    "type": "academic"
+   },
+   "redistribute wealth downwards": {
+    "uz": "boylikni pastga qayta taqsimlash",
+    "type": "lexical"
+   },
+   "Overall, the process comprises": {
+    "uz": "Umuman olganda, jarayon o'z ichiga oladi",
+    "type": "linking"
+   },
+   "Restricting income in this way": {
+    "uz": "Daromadni bunday cheklash",
+    "type": "academic"
+   },
+   "market failures or exploitation": {
+    "uz": "bozorning ishdan chiqishi yoki ekspluatatsiya",
+    "type": "lexical"
+   },
+   "improve their economic prospects": {
+    "uz": "o'zlarining iqtisodiy istiqbollarini yaxshilash",
+    "type": "academic"
+   },
+   "judicious government intervention": {
+    "uz": "aqlga sig'adigan hukumat aralashuvi",
+    "type": "lexical"
+   },
+   "elucidates the multi-stage process": {
+    "uz": "ko'p bosqichli jarayonni tushuntiradi",
+    "type": "academic"
+   },
+   "engage in philanthropic activities": {
+    "uz": "xayriya faoliyati bilan shug'ullanish",
+    "type": "academic"
+   },
+   "illustrates the stages involved in": {
+    "uz": "...da ishtirok etadigan bosqichlarni ko'rsatadi",
+    "type": "academic"
+   },
+   "opportunities are available to all": {
+    "uz": "imkoniyatlar hamma uchun mavjud",
+    "type": "academic"
+   },
+   "Despite the difference in packaging": {
+    "uz": "Qadoqlashdagi farqga qaramay",
+    "type": "linking"
+   },
+   "illustrates the multi-stage process": {
+    "uz": "ko'p bosqichli jarayonni ko'rsatadi",
+    "type": "academic"
+   },
+   "incentive argument holds some merit": {
+    "uz": "rag'batlantirish argumenti ma'lum bir asosga ega",
+    "type": "academic"
+   },
+   "suitability for beverage production": {
+    "uz": "ichimliklar ishlab chiqarish uchun yaroqliligi",
+    "type": "lexical"
+   },
+   "driving force behind economic growth": {
+    "uz": "iqtisodiy o'sishning harakatlantiruvchi kuchi",
+    "type": "lexical"
+   },
+   "Ultimately, the process culminates in": {
+    "uz": "Oxir-oqibat, jarayon ... bilan yakunlanadi",
+    "type": "linking"
+   },
+   "a more egalitarian economic landscape": {
+    "uz": "yanada teng huquqli iqtisodiy manzara",
+    "type": "lexical"
+   },
+   "potential for immense financial reward": {
+    "uz": "ulkan moliyaviy mukofot olish imkoniyati",
+    "type": "lexical"
+   },
+   "incentivize innovation and productivity": {
+    "uz": "innovatsiya va mahsuldorlikni rag'batlantirish",
+    "type": "academic"
+   },
+   "I think both sides have some good points": {
+    "uz": "O'ylashimcha, har ikki tomonda ham yaxshi jihatlar bor",
+    "type": "academic"
+   },
+   "diverges depending on the chosen container": {
+    "uz": "tanlangan idishga qarab farqlanadi",
+    "type": "academic"
+   },
+   "entailing both filtration and sterilisation": {
+    "uz": "ham filtrlash, ham sterilizatsiya qilishni talab qiladi",
+    "type": "academic"
+   },
+   "very high salaries contribute to inequality": {
+    "uz": "juda yuqori maoshlar tengsizlikka olib keladi",
+    "type": "lexical"
+   },
+   "balanced approach that encourages innovation": {
+    "uz": "innovatsiyalarni rag'batlantiradigan muvozanatli yondashuv",
+    "type": "lexical"
+   }
+  }
+ },
+ "created_at": "2026-05-06T17:28:51.666966+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

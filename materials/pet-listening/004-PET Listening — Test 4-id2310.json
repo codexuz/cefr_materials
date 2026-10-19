@@ -1,0 +1,413 @@
+{
+ "id": 2310,
+ "mock_type": "pet-listening",
+ "mock_number": 4,
+ "title": "PET Listening — Test 4",
+ "status": "published",
+ "mock_data": {
+  "audio": {
+   "base": "https://audio.mock-stream.com/PET-Listening/test4/",
+   "files": {
+    "1": "PART1.m4a",
+    "2": "PART2.m4a",
+    "3": "PART3.m4a",
+    "4": "PART4.m4a"
+   }
+  },
+  "parts": [
+   {
+    "type": "picture-mcq",
+    "items": [
+     {
+      "id": 1,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q1A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q1B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q1C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "When will Jack's mum pick him up?"
+     },
+     {
+      "id": 2,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q2A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q2B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q2C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Which postcard will they send?"
+     },
+     {
+      "id": 3,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q3A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q3B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q3C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What do they decide to buy?"
+     },
+     {
+      "id": 4,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q4A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q4B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q4C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What has the girl forgotten to bring?"
+     },
+     {
+      "id": 5,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q5A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q5B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q5C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "How does the man want his son to help him?"
+     },
+     {
+      "id": 6,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q6A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q6B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q6C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Which TV programme is on at nine o'clock tonight?"
+     },
+     {
+      "id": 7,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q7A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q7B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q7C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What will the boy do first?"
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "options": [
+      {
+       "image": "q0A.png",
+       "letter": "A"
+      },
+      {
+       "image": "q0B.png",
+       "letter": "B"
+      },
+      {
+       "image": "q0C.png",
+       "letter": "C"
+      }
+     ],
+     "question": "Where is the girl's hat?"
+    },
+    "imageBase": "https://audio.mock-stream.com/PET-Listening/test4/p1/",
+    "partNumber": 1,
+    "instruction": [
+     "There are seven questions in this part.",
+     "For each question, there are three pictures and a short recordings.",
+     "For each question, choose the correct answer A, B or C."
+    ],
+    "questionsLabel": "QUESTIONS 1–7"
+   },
+   {
+    "type": "mcq-conversation",
+    "items": [
+     {
+      "id": 8,
+      "stem": "Maria decided to take up gymnastics",
+      "answer": "A",
+      "options": [
+       {
+        "text": "at a gymnastics competition.",
+        "letter": "A"
+       },
+       {
+        "text": "in a sports lesson at the school.",
+        "letter": "B"
+       },
+       {
+        "text": "when she read a book about a gymnast.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 9,
+      "stem": "When did Maria realise she could be champion gymnast?",
+      "answer": "C",
+      "options": [
+       {
+        "text": "when she won some local competitions",
+        "letter": "A"
+       },
+       {
+        "text": "as soon as she started to practise gymnastics",
+        "letter": "B"
+       },
+       {
+        "text": "when a well-known coach offered to teach her",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 10,
+      "stem": "Why does Maria think success has not changed her?",
+      "answer": "A",
+      "options": [
+       {
+        "text": "She believes she's a sensible person.",
+        "letter": "A"
+       },
+       {
+        "text": "Her parents help her live a normal life.",
+        "letter": "B"
+       },
+       {
+        "text": "People tell her she's the same as before.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 11,
+      "stem": "What does Maria say about school?",
+      "answer": "B",
+      "options": [
+       {
+        "text": "She feels too tired to study.",
+        "letter": "A"
+       },
+       {
+        "text": "She has little time with school friends.",
+        "letter": "B"
+       },
+       {
+        "text": "She is allowed to miss some lessons.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "stem": "What does Maria do in her free time?",
+      "answer": "A",
+      "options": [
+       {
+        "text": "make videos",
+        "letter": "A"
+       },
+       {
+        "text": "go to concerts",
+        "letter": "B"
+       },
+       {
+        "text": "watch cartoon films",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "stem": "What is Maria's favourite thing in her room at home?",
+      "answer": "C",
+      "options": [
+       {
+        "text": "a poster of a band with a singer",
+        "letter": "A"
+       },
+       {
+        "text": "a glass case with her cups and prizes",
+        "letter": "B"
+       },
+       {
+        "text": "a picture of herself with another gymnast",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 2",
+    "partNumber": 2,
+    "instruction": [
+     "You will hear an interview with a champion gymnast called Maria Anderson.",
+     "For each question, choose the correct answer A, B or C."
+    ],
+    "questionsLabel": "QUESTIONS 8–13"
+   },
+   {
+    "rows": [
+     {
+      "id": 14,
+      "label": "The competition for 11-14s is called the",
+      "answer": "Tiger",
+      "suffix": "Prize."
+     },
+     {
+      "id": 15,
+      "label": "The topic for this year is",
+      "answer": "Change"
+     },
+     {
+      "id": 16,
+      "label": "The title of last year's winning poem was",
+      "answer": "Trains"
+     },
+     {
+      "id": 17,
+      "label": "This year the prize money available is",
+      "answer": "2000",
+      "suffix": "euros."
+     },
+     {
+      "id": 18,
+      "label": "If successful, the school will spend the money on the",
+      "answer": "library"
+     },
+     {
+      "id": 19,
+      "label": "For further help, see the",
+      "answer": "website"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 3",
+    "noteTitle": "Poetry Competition for Schools",
+    "partNumber": 3,
+    "instruction": [
+     "You will hear a schoolteacher talking to a group of students about a national poetry competition.",
+     "For each question, fill in the missing information in the numbered space."
+    ],
+    "questionsLabel": "QUESTIONS 14–19"
+   },
+   {
+    "type": "true-false",
+    "items": [
+     {
+      "id": 20,
+      "answer": "A",
+      "statement": "Claire could see the band clearly from where she sat."
+     },
+     {
+      "id": 21,
+      "answer": "A",
+      "statement": "Lucas thinks Candy Floss gave a great performance during the concert."
+     },
+     {
+      "id": 22,
+      "answer": "B",
+      "statement": "Claire feels the band's dancing was better in the summer."
+     },
+     {
+      "id": 23,
+      "answer": "B",
+      "statement": "Lucas and Claire have the same opinion about the band's costumes."
+     },
+     {
+      "id": 24,
+      "answer": "A",
+      "statement": "Claire is planning to buy the next album by Candy Floss."
+     },
+     {
+      "id": 25,
+      "answer": "B",
+      "statement": "Lucas thinks tickets for the next concert will be difficult to get."
+     }
+    ],
+    "label": "PART 4",
+    "scenario": "Lucas and Claire — after a Candy Floss concert",
+    "partNumber": 4,
+    "instruction": [
+     "Look at the six sentences for this part.",
+     "You will hear a conversation between a boy called Lucas and a girl called Claire who have just been to a concert by a band called Candy Floss.",
+     "Decide if each sentence is correct or incorrect.",
+     "If it is correct, choose the letter A for YES. If it is not correct, choose the letter B for NO."
+    ],
+    "questionsLabel": "QUESTIONS 20–25"
+   }
+  ],
+  "testInfo": {
+   "id": "pet-l-04",
+   "level": "B1",
+   "paper": "Paper 2 · Listening",
+   "parts": 4,
+   "title": "PET Listening — Test 4",
+   "totalTime": 35,
+   "totalQuestions": 25
+  }
+ },
+ "created_at": "2026-10-14T06:45:49.807309+00:00",
+ "updated_at": "2026-10-14T06:47:35.472054+00:00"
+}

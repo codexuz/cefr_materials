@@ -1,0 +1,912 @@
+{
+ "id": 2262,
+ "mock_type": "ket-reading-writing",
+ "mock_number": 28,
+ "title": "KET Reading & Writing — Test 28",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "match-notices",
+    "items": [
+     {
+      "id": 1,
+      "answer": "E",
+      "prompt": "This is cheaper than usual if you buy something else."
+     },
+     {
+      "id": 2,
+      "answer": "G",
+      "prompt": "If you become a member, you will get a discount."
+     },
+     {
+      "id": 3,
+      "answer": "A",
+      "prompt": "If you want to buy a book, speak to this person."
+     },
+     {
+      "id": 4,
+      "answer": "B",
+      "prompt": "This place is open in the evenings."
+     },
+     {
+      "id": 5,
+      "answer": "D",
+      "prompt": "You cannot enter here at the moment."
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "H",
+     "number": 0,
+     "prompt": "You can't pay by card."
+    },
+    "notices": [
+     {
+      "text": "Arabic and French dictionaries for sale\nGreat prices!\nContact David",
+      "letter": "A"
+     },
+     {
+      "text": "Student café\nHot meals served until 10 p.m.\neveryday",
+      "letter": "B"
+     },
+     {
+      "text": "Learning Centre\nEvery student can borrow up to 5 books",
+      "letter": "C"
+     },
+     {
+      "text": "Closed for cleaning\nPlease use toilets upstairs\nnear the café.",
+      "letter": "D"
+     },
+     {
+      "text": "With every coffee,\nget a sandwich for £1!\n(normal price £2.50)",
+      "letter": "E"
+     },
+     {
+      "text": "Football practice\nWednesday 7 p.m. – 8 p.m.\nCall Bryan on 0489 967622",
+      "letter": "F"
+     },
+     {
+      "text": "College Gym\nJoin now for 12 months and only\npay for 10",
+      "letter": "G"
+     },
+     {
+      "text": "College Café\nSorry, cash only – no credit cards",
+      "letter": "H"
+     }
+    ],
+    "partNumber": 1,
+    "instruction": [
+     "Which notice (A–H) says this (1–5)?",
+     "For questions 1–5, mark the correct letter A–H on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "mcq-gap-fill-sentences",
+    "items": [
+     {
+      "id": 6,
+      "answer": "C",
+      "options": [
+       {
+        "text": "said",
+        "letter": "A"
+       },
+       {
+        "text": "told",
+        "letter": "B"
+       },
+       {
+        "text": "asked",
+        "letter": "C"
+       }
+      ],
+      "sentence": "She _____ her friend Sarah if she would like to go too."
+     },
+     {
+      "id": 7,
+      "answer": "B",
+      "options": [
+       {
+        "text": "paid",
+        "letter": "A"
+       },
+       {
+        "text": "booked",
+        "letter": "B"
+       },
+       {
+        "text": "offered",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Helen called the theatre and _____ two tickets."
+     },
+     {
+      "id": 8,
+      "answer": "A",
+      "options": [
+       {
+        "text": "seats",
+        "letter": "A"
+       },
+       {
+        "text": "chairs",
+        "letter": "B"
+       },
+       {
+        "text": "sofas",
+        "letter": "C"
+       }
+      ],
+      "sentence": "She chose some _____ near the stage."
+     },
+     {
+      "id": 9,
+      "answer": "C",
+      "options": [
+       {
+        "text": "cup",
+        "letter": "A"
+       },
+       {
+        "text": "part",
+        "letter": "B"
+       },
+       {
+        "text": "slice",
+        "letter": "C"
+       }
+      ],
+      "sentence": "At the theatre Helen and Sarah went to the café for a drink and a _____ of cake."
+     },
+     {
+      "id": 10,
+      "answer": "A",
+      "options": [
+       {
+        "text": "view",
+        "letter": "A"
+       },
+       {
+        "text": "way",
+        "letter": "B"
+       },
+       {
+        "text": "place",
+        "letter": "C"
+       }
+      ],
+      "sentence": "They had a good _____ of the stage from where they sat."
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "text": "enjoyed",
+       "letter": "A"
+      },
+      {
+       "text": "thought",
+       "letter": "B"
+      },
+      {
+       "text": "wanted",
+       "letter": "C"
+      }
+     ],
+     "sentence": "Helen _____ to go to the theatre with a friend."
+    },
+    "partNumber": 2,
+    "instruction": [
+     "Read the sentences about going to the theatre.",
+     "Choose the best word (A, B or C) for each space.",
+     "For questions 6–10, mark A, B or C on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-response",
+    "items": [
+     {
+      "id": 11,
+      "answer": "C",
+      "prompt": "Don't forget to buy some fresh bread on your way home.",
+      "options": [
+       {
+        "text": "Not at all.",
+        "letter": "A"
+       },
+       {
+        "text": "I hope so.",
+        "letter": "B"
+       },
+       {
+        "text": "I'll try not to.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "answer": "B",
+      "prompt": "Can you help me with my homework?",
+      "options": [
+       {
+        "text": "How do you know about that?",
+        "letter": "A"
+       },
+       {
+        "text": "How long is it going to take?",
+        "letter": "B"
+       },
+       {
+        "text": "How often do you go there?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "answer": "A",
+      "prompt": "Remember to take your keys with you.",
+      "options": [
+       {
+        "text": "I've got them already.",
+        "letter": "A"
+       },
+       {
+        "text": "I haven't been there yet.",
+        "letter": "B"
+       },
+       {
+        "text": "They're going out now.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "answer": "B",
+      "prompt": "We have to turn left at the next traffic lights.",
+      "options": [
+       {
+        "text": "Not very often.",
+        "letter": "A"
+       },
+       {
+        "text": "I don't agree.",
+        "letter": "B"
+       },
+       {
+        "text": "It's not much.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "answer": "B",
+      "prompt": "Who's our maths teacher this year?",
+      "options": [
+       {
+        "text": "I don't think so.",
+        "letter": "A"
+       },
+       {
+        "text": "No one's told us yet.",
+        "letter": "B"
+       },
+       {
+        "text": "He doesn't like it.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "prompt": "Where do you come from?",
+     "options": [
+      {
+       "text": "New York.",
+       "letter": "A"
+      },
+      {
+       "text": "School.",
+       "letter": "B"
+      },
+      {
+       "text": "Home.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partLetter": "a",
+    "partNumber": 3,
+    "instruction": [
+     "Complete the five conversations.",
+     "For questions 11–15, mark A, B or C on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "type": "match-dialogue",
+    "items": [
+     {
+      "id": 16,
+      "answer": "F"
+     },
+     {
+      "id": 17,
+      "answer": "C"
+     },
+     {
+      "id": 18,
+      "answer": "G"
+     },
+     {
+      "id": 19,
+      "answer": "B"
+     },
+     {
+      "id": 20,
+      "answer": "A"
+     }
+    ],
+    "example": {
+     "answer": "D",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "Can we make it half an hour earlier?",
+      "letter": "A"
+     },
+     {
+      "text": "Alright, I'll give you the money tomorrow.",
+      "letter": "B"
+     },
+     {
+      "text": "Have you seen them before?",
+      "letter": "C"
+     },
+     {
+      "text": "No, I'm not doing anything. Why?",
+      "letter": "D"
+     },
+     {
+      "text": "Are they playing at the same time on Sunday?",
+      "letter": "E"
+     },
+     {
+      "text": "That sounds like a great idea! Who do you want to see?",
+      "letter": "F"
+     },
+     {
+      "text": "OK, I'll do that. Shall we book tickets?",
+      "letter": "G"
+     },
+     {
+      "text": "It's not too expensive, is it?",
+      "letter": "H"
+     }
+    ],
+    "dialogue": [
+     {
+      "line": "Are you busy this Saturday?",
+      "speaker": "Lisa"
+     },
+     {
+      "gap": 0,
+      "speaker": "Danika"
+     },
+     {
+      "line": "Would you like to go to a concert?",
+      "speaker": "Lisa"
+     },
+     {
+      "gap": 16,
+      "speaker": "Danika"
+     },
+     {
+      "line": "Well, 'Rex' are playing in town this weekend.",
+      "speaker": "Lisa"
+     },
+     {
+      "gap": 17,
+      "speaker": "Danika"
+     },
+     {
+      "line": "Lots of times! You should listen to them online before we go.",
+      "speaker": "Lisa"
+     },
+     {
+      "gap": 18,
+      "speaker": "Danika"
+     },
+     {
+      "line": "We'll need to. Lots of people will want to go. I can get them on Wednesday.",
+      "speaker": "Lisa"
+     },
+     {
+      "gap": 19,
+      "speaker": "Danika"
+     },
+     {
+      "line": "Great. Shall I meet you at the bus station on Saturday at about 8 p.m.?",
+      "speaker": "Lisa"
+     },
+     {
+      "gap": 20,
+      "speaker": "Danika"
+     },
+     {
+      "line": "Sure, no problem. It will be awesome!",
+      "speaker": "Lisa"
+     }
+    ],
+    "partLetter": "b",
+    "partNumber": 3,
+    "instruction": [
+     "Complete the conversation between two friends.",
+     "What does Danika say to Lisa?",
+     "For questions 16–20, mark the correct letter A–H on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "type": "mcq-passage-rws",
+    "items": [
+     {
+      "id": 21,
+      "answer": "A",
+      "statement": "There are lots of places for David to do his sport in his area."
+     },
+     {
+      "id": 22,
+      "answer": "B",
+      "statement": "Martin says that David is nearly as good at rowing as him."
+     },
+     {
+      "id": 23,
+      "answer": "A",
+      "statement": "Wendy helps Martin and David by doing the driving."
+     },
+     {
+      "id": 24,
+      "answer": "B",
+      "statement": "The Rawsons paid the same price for all their boats."
+     },
+     {
+      "id": 25,
+      "answer": "C",
+      "statement": "Wendy is unhappy about how many boats there are in the garage."
+     },
+     {
+      "id": 26,
+      "answer": "C",
+      "statement": "David found a teacher to help him learn to row on the sea."
+     },
+     {
+      "id": 27,
+      "answer": "B",
+      "statement": "It is possible for David to row on his favourite rivers all year."
+     }
+    ],
+    "label": "PART 4",
+    "article": "David Rawson, 15, is one of the best rowers of his age in the USA. He comes from Connecticut, and spends most of his free time practising on the many rivers near his home.\n\nDavid's dad Martin also enjoys rowing. 'David's much better than me, but I go with him when I can,' he says. David's mother, Wendy, doesn't go rowing herself but she is happy to take them to and from the rivers in her car.\n\nIt's an expensive sport. The Rawsons have seven boats, costing between $1500 and $4000 each. But you can see how important rowing is to the family when you go to their home. There are many photos of David rowing and several rowing boats in the garage.\n\nAbout 18 months ago, David started rowing on the sea. This sport is similar to surfing except that you sit on a special boat instead of standing on a board. David loves it, and it means he can continue with his sport in the summer when his favourite rivers don't have enough water in them.\n\nNext year David is hoping to go to the Premier Rowing Academy where he'll study rowing as well as all the usual school subjects.",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "statement": "David Rawson is better than most other rowers of his age in his country."
+    },
+    "partNumber": 4,
+    "instruction": [
+     "Read the article about a teenage rower.",
+     "Are sentences 21–27 'Right' (A) or 'Wrong' (B)?",
+     "If there is not enough information to answer 'Right' (A) or 'Wrong' (B), choose 'Doesn't say' (C).",
+     "For questions 21–27, mark A, B or C on your answer sheet."
+    ],
+    "articleTitle": "David Rawson",
+    "questionsLabel": "QUESTIONS 21–27"
+   },
+   {
+    "type": "mcq-cloze-passage",
+    "items": [
+     {
+      "id": 28,
+      "answer": "C",
+      "options": [
+       {
+        "text": "large",
+        "letter": "A"
+       },
+       {
+        "text": "larger",
+        "letter": "B"
+       },
+       {
+        "text": "largest",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 29,
+      "answer": "B",
+      "options": [
+       {
+        "text": "your",
+        "letter": "A"
+       },
+       {
+        "text": "their",
+        "letter": "B"
+       },
+       {
+        "text": "its",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 30,
+      "answer": "C",
+      "options": [
+       {
+        "text": "since",
+        "letter": "A"
+       },
+       {
+        "text": "from",
+        "letter": "B"
+       },
+       {
+        "text": "during",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 31,
+      "answer": "A",
+      "options": [
+       {
+        "text": "too",
+        "letter": "A"
+       },
+       {
+        "text": "enough",
+        "letter": "B"
+       },
+       {
+        "text": "even",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 32,
+      "answer": "B",
+      "options": [
+       {
+        "text": "caught",
+        "letter": "A"
+       },
+       {
+        "text": "catch",
+        "letter": "B"
+       },
+       {
+        "text": "catching",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 33,
+      "answer": "A",
+      "options": [
+       {
+        "text": "has",
+        "letter": "A"
+       },
+       {
+        "text": "can",
+        "letter": "B"
+       },
+       {
+        "text": "should",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 34,
+      "answer": "B",
+      "options": [
+       {
+        "text": "by",
+        "letter": "A"
+       },
+       {
+        "text": "until",
+        "letter": "B"
+       },
+       {
+        "text": "to",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 35,
+      "answer": "A",
+      "options": [
+       {
+        "text": "which",
+        "letter": "A"
+       },
+       {
+        "text": "what",
+        "letter": "B"
+       },
+       {
+        "text": "where",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 5",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "options": [
+      {
+       "text": "in",
+       "letter": "A"
+      },
+      {
+       "text": "on",
+       "letter": "B"
+      },
+      {
+       "text": "at",
+       "letter": "C"
+      }
+     ]
+    },
+    "passage": "There are seventeen kinds of penguin {0} the world. Emperor penguins are the {28} of them all. They spend {29} lives in the Antarctic and are the only animals to stay there {30} the winter. Other animals find it {31} cold.\n\nThe female Emperor penguin lays one egg a year in winter. Then she leaves to go and {32} fish. The male keeps the egg with him on the ice. He {33} to keep it warm. He does this by putting it on his feet.\n\nHe looks after the egg {34} the baby penguin comes out. {35} usually takes about 65 days. Around that time, the female Emperor penguin returns to look after the baby chick. The hungry male can finally go into the sea to eat some fish.",
+    "partNumber": 5,
+    "instruction": [
+     "Read the article about Emperor penguins.",
+     "Choose the best word (A, B or C) for each space.",
+     "For questions 28–35, mark A, B or C on your answer sheet."
+    ],
+    "passageTitle": "Emperor Penguins",
+    "questionsLabel": "QUESTIONS 28–35"
+   },
+   {
+    "type": "vocab-first-letter",
+    "items": [
+     {
+      "id": 36,
+      "answer": "presents",
+      "prompt": "You are often given lots of these on your birthday.",
+      "letters": 8,
+      "firstLetter": "p"
+     },
+     {
+      "id": 37,
+      "answer": "dress",
+      "prompt": "A girl may wear this to a party.",
+      "letters": 5,
+      "firstLetter": "d"
+     },
+     {
+      "id": 38,
+      "answer": "juice",
+      "prompt": "This drink is made from fruit and is often served at parties.",
+      "letters": 5,
+      "firstLetter": "j"
+     },
+     {
+      "id": 39,
+      "answer": "games",
+      "prompt": "At a children's party, people often play these.",
+      "letters": 5,
+      "firstLetter": "g"
+     },
+     {
+      "id": 40,
+      "answer": "card",
+      "prompt": "You write a message in this and give it to someone on their birthday.",
+      "letters": 4,
+      "firstLetter": "c"
+     }
+    ],
+    "label": "PART 6",
+    "example": {
+     "answer": "music",
+     "number": 0,
+     "prompt": "You listen to this when you dance.",
+     "firstLetter": "m"
+    },
+    "partNumber": 6,
+    "instruction": [
+     "Read the descriptions of some words about a birthday party.",
+     "What is the word for each one?",
+     "The first letter is already there. There is one space for each other letter in the word.",
+     "For questions 36–40, write the words on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 36–40"
+   },
+   {
+    "type": "open-cloze-letter",
+    "items": [
+     {
+      "id": 41,
+      "answer": "me"
+     },
+     {
+      "id": 42,
+      "answer": "a"
+     },
+     {
+      "id": 43,
+      "answer": "than"
+     },
+     {
+      "id": 44,
+      "answer": "no"
+     },
+     {
+      "id": 45,
+      "answer": "much"
+     },
+     {
+      "id": 46,
+      "answer": "Do"
+     },
+     {
+      "id": 47,
+      "answer": "to"
+     },
+     {
+      "id": 48,
+      "answer": "or"
+     },
+     {
+      "id": 49,
+      "answer": "of"
+     },
+     {
+      "id": 50,
+      "answer": "it"
+     }
+    ],
+    "label": "PART 7",
+    "example": {
+     "answer": "in",
+     "number": 0
+    },
+    "letters": [
+     {
+      "body": "How are things (Example: in) London? I had a great time staying with you. Thank you for looking after {41}. You are {42} great cook and your family were really kind to me. And my English is much better now {43} it was before.\n\nMy flight home was fine – there were {44} delays at all. It's good to be back, but I miss you all very {45}!\n\n{46} you remember my friend Jenny? I think she came {47} visit me at your house once {48} twice. Well, she took some great photos {49} us on our last day at the language school. I'm sending you one with this email. I hope you like {50}.",
+      "header": "From: Rosario\nTo:   Melissa",
+      "closing": "Rosario",
+      "greeting": "Dear Melissa,"
+     }
+    ],
+    "partNumber": 7,
+    "instruction": [
+     "Complete the email.",
+     "Write ONE word for each space.",
+     "For questions 41–50, write the words on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 41–50"
+   },
+   {
+    "note": {
+     "body": "",
+     "dateLine": "",
+     "signature": ""
+    },
+    "rows": [
+     {
+      "label": "Name of bookshop:",
+      "prefilled": "Hill's bookshop"
+     },
+     {
+      "id": 51,
+      "label": "Name of book to buy:",
+      "answer": "Better Photos"
+     },
+     {
+      "id": 52,
+      "label": "Price I'll pay:",
+      "answer": "12.50",
+      "suffix": "£"
+     },
+     {
+      "id": 53,
+      "label": "Writer of book:",
+      "answer": "David Fox"
+     },
+     {
+      "id": 54,
+      "label": "Ben's work number:",
+      "answer": "786861"
+     },
+     {
+      "id": 55,
+      "label": "Date Ben wants the book:",
+      "answer": "10 June"
+     }
+    ],
+    "type": "info-transfer-notes",
+    "label": "PART 8",
+    "notice": {
+     "body": "Hill's bookshop\nJust arrived!\n\n'Better Photos', by David Fox,\nwriter of last year's best-selling book\n'Learn Photography'\n\nUsual price – £15.00\nBuy here for £12.50\n\n'This book's great!' – said fashion\nphotographer Jonny Clarke.\n\n—————————————\nFrom: Ben\nTo:   Sophie\n\nMy mum wants David Fox's latest book for her birthday. Can you get it from the bookshop near you because it's cheaper there? Her birthday's on June 11, so I need it on June 10 please. If there's a problem, call me at the office on 786 861. My new mobile number is 07920 3449.",
+     "title": "Hill's bookshop + Email"
+    },
+    "notesTitle": "Sophie's Notes",
+    "partNumber": 8,
+    "instruction": [
+     "Read the advertisement and the email.",
+     "Fill in the information in Sophie's notes.",
+     "For questions 51–55, write the information on your answer sheet."
+    ],
+    "notesSubtitle": "Trip to bookshop",
+    "questionsLabel": "QUESTIONS 51–55"
+   },
+   {
+    "type": "writing-postcard",
+    "items": [
+     {
+      "id": 56,
+      "type": "free-text",
+      "answer": "Hey Jo,\nParis is wonderful.\nYesterday I visited the eiffel tower, which is very impressive.\nThe weather is lovely, it is always sunny and about 25°C.\nI will be back in 2 weeks.\nSee you,\nAnna",
+      "maxWords": 35,
+      "minWords": 25
+     }
+    ],
+    "label": "PART 9",
+    "footer": [
+     "Write 25–35 words.",
+     "Write the postcard on your answer sheet."
+    ],
+    "prompt": "You are on holiday. Write a postcard to your English friend, Jo.",
+    "wordCount": "25–35 words",
+    "partNumber": 9,
+    "instruction": [
+     "You are on holiday. Write a postcard to your English friend, Jo:",
+     "• tell Jo what you did yesterday",
+     "• describe the weather",
+     "• say when you are coming home"
+    ],
+    "questionsLabel": "QUESTION 56",
+    "promptSignature": ""
+   }
+  ],
+  "testInfo": {
+   "id": "ket-rw-28",
+   "level": "A2",
+   "paper": "Paper 1",
+   "parts": 9,
+   "title": "KET Reading & Writing — Test 28",
+   "totalTime": 70,
+   "totalQuestions": 56
+  }
+ },
+ "created_at": "2026-10-14T06:45:15.827899+00:00",
+ "updated_at": "2026-10-14T06:47:02.929772+00:00"
+}

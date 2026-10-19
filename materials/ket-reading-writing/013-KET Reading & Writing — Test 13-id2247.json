@@ -1,0 +1,909 @@
+{
+ "id": 2247,
+ "mock_type": "ket-reading-writing",
+ "mock_number": 13,
+ "title": "KET Reading & Writing — Test 13",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "match-notices",
+    "items": [
+     {
+      "id": 1,
+      "answer": "G",
+      "prompt": "These cost less than usual."
+     },
+     {
+      "id": 2,
+      "answer": "D",
+      "prompt": "This is a bad time to be ill."
+     },
+     {
+      "id": 3,
+      "answer": "A",
+      "prompt": "Be careful where you put this."
+     },
+     {
+      "id": 4,
+      "answer": "E",
+      "prompt": "You will need to take a heavy sweater or jacket with you."
+     },
+     {
+      "id": 5,
+      "answer": "C",
+      "prompt": "You will not be able to wash yourself here for a few days."
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "H",
+     "number": 0,
+     "prompt": "You can take your old shirts or trousers here."
+    },
+    "notices": [
+     {
+      "text": "KEEP THIS MEDICINE\nAWAY FROM CHILDREN",
+      "letter": "A"
+     },
+     {
+      "text": "Check your holiday insurance now\nbefore you go away",
+      "letter": "B"
+     },
+     {
+      "text": "SORRY!\nNo showers in the Sports Centre this week",
+      "letter": "C"
+     },
+     {
+      "text": "Dr Jenkins is on holiday\nuntil Friday",
+      "letter": "D"
+     },
+     {
+      "text": "TODAY\nDay trip to the mountains\nWear something warm!",
+      "letter": "E"
+     },
+     {
+      "text": "CAR WASH – £4\nWe'll make it look like new",
+      "letter": "F"
+     },
+     {
+      "text": "All our winter holidays —\n25% cheaper",
+      "letter": "G"
+     },
+     {
+      "text": "We buy and sell\nsecond-hand clothes.",
+      "letter": "H"
+     }
+    ],
+    "partNumber": 1,
+    "instruction": [
+     "Which notice (A–H) says this (1–5)?",
+     "For questions 1–5, mark the correct letter A–H on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "mcq-gap-fill-sentences",
+    "items": [
+     {
+      "id": 6,
+      "answer": "B",
+      "options": [
+       {
+        "text": "phoned",
+        "letter": "A"
+       },
+       {
+        "text": "invited",
+        "letter": "B"
+       },
+       {
+        "text": "said",
+        "letter": "C"
+       }
+      ],
+      "sentence": "She _____ all of them to dinner at her house on Saturday evening."
+     },
+     {
+      "id": 7,
+      "answer": "A",
+      "options": [
+       {
+        "text": "piece",
+        "letter": "A"
+       },
+       {
+        "text": "slice",
+        "letter": "B"
+       },
+       {
+        "text": "part",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Louise wrote the things she needed to buy for the meal on a _____ of paper."
+     },
+     {
+      "id": 8,
+      "answer": "B",
+      "options": [
+       {
+        "text": "full",
+        "letter": "A"
+       },
+       {
+        "text": "busy",
+        "letter": "B"
+       },
+       {
+        "text": "difficult",
+        "letter": "C"
+       }
+      ],
+      "sentence": "She was _____ on Saturday morning so she went shopping in the afternoon."
+     },
+     {
+      "id": 9,
+      "answer": "B",
+      "options": [
+       {
+        "text": "waited",
+        "letter": "A"
+       },
+       {
+        "text": "spent",
+        "letter": "B"
+       },
+       {
+        "text": "passed",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Louise _____ two hours cooking the meal."
+     },
+     {
+      "id": 10,
+      "answer": "C",
+      "options": [
+       {
+        "text": "right",
+        "letter": "A"
+       },
+       {
+        "text": "sure",
+        "letter": "B"
+       },
+       {
+        "text": "ready",
+        "letter": "C"
+       }
+      ],
+      "sentence": "When the meal was _____, everyone sat down to eat."
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "options": [
+      {
+       "text": "made",
+       "letter": "A"
+      },
+      {
+       "text": "started",
+       "letter": "B"
+      },
+      {
+       "text": "played",
+       "letter": "C"
+      }
+     ],
+     "sentence": "Last week, Louise _____ some friends at her new school."
+    },
+    "partNumber": 2,
+    "instruction": [
+     "Read the sentences about cooking a meal.",
+     "Choose the best word (A, B or C) for each space.",
+     "For questions 6–10, mark A, B or C on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-response",
+    "items": [
+     {
+      "id": 11,
+      "answer": "C",
+      "prompt": "Are you sure the match starts at two?",
+      "options": [
+       {
+        "text": "It started well.",
+        "letter": "A"
+       },
+       {
+        "text": "It's all right.",
+        "letter": "B"
+       },
+       {
+        "text": "I think so.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "answer": "C",
+      "prompt": "I saw the new Spielberg film last night.",
+      "options": [
+       {
+        "text": "Did I go?",
+        "letter": "A"
+       },
+       {
+        "text": "Has he come?",
+        "letter": "B"
+       },
+       {
+        "text": "Was it good?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "answer": "B",
+      "prompt": "How did the accident happen?",
+      "options": [
+       {
+        "text": "I can't go there.",
+        "letter": "A"
+       },
+       {
+        "text": "I didn't see it.",
+        "letter": "B"
+       },
+       {
+        "text": "I don't know how to.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "answer": "A",
+      "prompt": "Hello, I'd like to speak to Mr Green, please.",
+      "options": [
+       {
+        "text": "Sorry, can you say that again?",
+        "letter": "A"
+       },
+       {
+        "text": "I'm sorry, I'll call again later.",
+        "letter": "B"
+       },
+       {
+        "text": "I'm afraid I don't know.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "answer": "A",
+      "prompt": "May I leave now?",
+      "options": [
+       {
+        "text": "When we've finished.",
+        "letter": "A"
+       },
+       {
+        "text": "Until tomorrow.",
+        "letter": "B"
+       },
+       {
+        "text": "I don't agree.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "prompt": "Where do you come from?",
+     "options": [
+      {
+       "text": "New York.",
+       "letter": "A"
+      },
+      {
+       "text": "School.",
+       "letter": "B"
+      },
+      {
+       "text": "Home.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partLetter": "a",
+    "partNumber": 3,
+    "instruction": [
+     "Complete the five conversations.",
+     "For questions 11–15, mark A, B or C on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "type": "match-dialogue",
+    "items": [
+     {
+      "id": 16,
+      "answer": "G"
+     },
+     {
+      "id": 17,
+      "answer": "F"
+     },
+     {
+      "id": 18,
+      "answer": "A"
+     },
+     {
+      "id": 19,
+      "answer": "E"
+     },
+     {
+      "id": 20,
+      "answer": "H"
+     }
+    ],
+    "example": {
+     "answer": "C",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "I see. Can I get something to eat in this hotel?",
+      "letter": "A"
+     },
+     {
+      "text": "Would you show me the room?",
+      "letter": "B"
+     },
+     {
+      "text": "I'm looking for a single room.",
+      "letter": "C"
+     },
+     {
+      "text": "What time does it finish?",
+      "letter": "D"
+     },
+     {
+      "text": "If I stay here, can I leave my suitcase in my room tomorrow afternoon?",
+      "letter": "E"
+     },
+     {
+      "text": "That's rather expensive. Are there any other hotels near here?",
+      "letter": "F"
+     },
+     {
+      "text": "Just for one night.",
+      "letter": "G"
+     },
+     {
+      "text": "OK. I'll take the room.",
+      "letter": "H"
+     }
+    ],
+    "dialogue": [
+     {
+      "line": "Good evening, can I help you?",
+      "speaker": "Receptionist"
+     },
+     {
+      "gap": 0,
+      "speaker": "Tom"
+     },
+     {
+      "line": "I'm afraid all our single rooms are full. How long do you want to stay?",
+      "speaker": "Receptionist"
+     },
+     {
+      "gap": 16,
+      "speaker": "Tom"
+     },
+     {
+      "line": "I have a double room for £60.",
+      "speaker": "Receptionist"
+     },
+     {
+      "gap": 17,
+      "speaker": "Tom"
+     },
+     {
+      "line": "I'm sure they're full too. There are a lot of tourists in town at the moment.",
+      "speaker": "Receptionist"
+     },
+     {
+      "gap": 18,
+      "speaker": "Tom"
+     },
+     {
+      "line": "I'm afraid the restaurant is closed. Breakfast starts at 7 tomorrow.",
+      "speaker": "Receptionist"
+     },
+     {
+      "gap": 19,
+      "speaker": "Tom"
+     },
+     {
+      "line": "Your room must be empty by 12 o'clock. But you can put your luggage in reception.",
+      "speaker": "Receptionist"
+     },
+     {
+      "gap": 20,
+      "speaker": "Tom"
+     },
+     {
+      "line": "Would you write your name in the book, please?",
+      "speaker": "Receptionist"
+     }
+    ],
+    "partLetter": "b",
+    "partNumber": 3,
+    "instruction": [
+     "Complete the conversation.",
+     "What does Tom say to the receptionist?",
+     "For questions 16–20, mark the correct letter A–H on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "type": "mcq-passage-rws",
+    "items": [
+     {
+      "id": 21,
+      "answer": "A",
+      "statement": "Bill returned to the United States after living in England for a long time."
+     },
+     {
+      "id": 22,
+      "answer": "A",
+      "statement": "Bill thinks it will be good for his children to live in more than one country."
+     },
+     {
+      "id": 23,
+      "answer": "C",
+      "statement": "Bill's daughter didn't want to go to college in England."
+     },
+     {
+      "id": 24,
+      "answer": "B",
+      "statement": "Bill has just visited England to finish writing his new book."
+     },
+     {
+      "id": 25,
+      "answer": "A",
+      "statement": "Bill is happy with the things he has to do to sell his books."
+     },
+     {
+      "id": 26,
+      "answer": "C",
+      "statement": "Bill has travelled to many different places in the United States."
+     },
+     {
+      "id": 27,
+      "answer": "B",
+      "statement": "It cost Bill a lot of money to travel around England for six weeks."
+     }
+    ],
+    "label": "PART 4",
+    "article": "I was born in the United States but I have written several travel books about England. I lived there with my wife and four children for 20 years, but for the last three years we have lived in the United States. Our children are now learning about life in the United States. I'm sure they will be happier because they have lived in two countries. I like Britain and I want to return, but my daughter, Felicity, is going to start college here soon, so it won't be for another four years.\n\nI have just been to England for six weeks to work on a radio programme about the English language and also to talk about the book I've just written. Most writers don't like doing this; they don't like travelling around the country, selling their book. I don't mind it. I like visiting new places and meeting lots of people. It's very different from the life I have in the United States when I'm writing. In England, people drove me around in big cars and I stayed in expensive hotels. It was good because I didn't have to pay any bills. Everyone was kind to me and it was fun.",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "statement": "Bill has written about a country he has visited."
+    },
+    "partNumber": 4,
+    "instruction": [
+     "Read the article about Bill Bryson, a writer.",
+     "Are sentences 21–27 'Right' (A) or 'Wrong' (B)?",
+     "If there is not enough information to answer 'Right' (A) or 'Wrong' (B), choose 'Doesn't say' (C).",
+     "For questions 21–27, mark A, B or C on your answer sheet."
+    ],
+    "articleTitle": "Bill Bryson",
+    "questionsLabel": "QUESTIONS 21–27"
+   },
+   {
+    "type": "mcq-cloze-passage",
+    "items": [
+     {
+      "id": 28,
+      "answer": "A",
+      "options": [
+       {
+        "text": "in",
+        "letter": "A"
+       },
+       {
+        "text": "on",
+        "letter": "B"
+       },
+       {
+        "text": "at",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 29,
+      "answer": "B",
+      "options": [
+       {
+        "text": "are",
+        "letter": "A"
+       },
+       {
+        "text": "can",
+        "letter": "B"
+       },
+       {
+        "text": "have",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 30,
+      "answer": "B",
+      "options": [
+       {
+        "text": "eats",
+        "letter": "A"
+       },
+       {
+        "text": "eat",
+        "letter": "B"
+       },
+       {
+        "text": "ate",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 31,
+      "answer": "B",
+      "options": [
+       {
+        "text": "by",
+        "letter": "A"
+       },
+       {
+        "text": "like",
+        "letter": "B"
+       },
+       {
+        "text": "to",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 32,
+      "answer": "A",
+      "options": [
+       {
+        "text": "more",
+        "letter": "A"
+       },
+       {
+        "text": "most",
+        "letter": "B"
+       },
+       {
+        "text": "many",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 33,
+      "answer": "C",
+      "options": [
+       {
+        "text": "this",
+        "letter": "A"
+       },
+       {
+        "text": "that",
+        "letter": "B"
+       },
+       {
+        "text": "these",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 34,
+      "answer": "A",
+      "options": [
+       {
+        "text": "bigger",
+        "letter": "A"
+       },
+       {
+        "text": "big",
+        "letter": "B"
+       },
+       {
+        "text": "biggest",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 35,
+      "answer": "A",
+      "options": [
+       {
+        "text": "for",
+        "letter": "A"
+       },
+       {
+        "text": "since",
+        "letter": "B"
+       },
+       {
+        "text": "during",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 5",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "options": [
+      {
+       "text": "the",
+       "letter": "A"
+      },
+      {
+       "text": "an",
+       "letter": "B"
+      },
+      {
+       "text": "a",
+       "letter": "C"
+      }
+     ]
+    },
+    "passage": "We can find crocodiles in tropical parts of {0} world, for example Africa, South America and Northern Australia.\n\nThey spend most of the time {28} slow-moving water but they {29} move fast through the water and on land.\n\nYou often see crocodiles together in large groups. They {30} everything they catch, {31} fish, birds and small animals. And sometimes they make a meal of large animals or even people.\n\nThere are {32} than ten types of crocodile. They all have very sharp teeth. They often lose {33} teeth, but soon get new ones.\n\nCrocodiles are usually about 3.5 metres long, but some are much {34}. Crocodiles live {35} a long time. The oldest one kept in a zoo was 66 years old.",
+    "partNumber": 5,
+    "instruction": [
+     "Read the article about crocodiles.",
+     "Choose the best word (A, B or C) for each space.",
+     "For questions 28–35, mark A, B or C on your answer sheet."
+    ],
+    "passageTitle": "CROCODILES",
+    "questionsLabel": "QUESTIONS 28–35"
+   },
+   {
+    "type": "vocab-first-letter",
+    "items": [
+     {
+      "id": 36,
+      "answer": "dictionary",
+      "prompt": "If you don't understand a word, you can look in this.",
+      "letters": 10,
+      "firstLetter": "d"
+     },
+     {
+      "id": 37,
+      "answer": "magazine",
+      "prompt": "You can buy this every week and read about many interesting subjects in it.",
+      "letters": 8,
+      "firstLetter": "m"
+     },
+     {
+      "id": 38,
+      "answer": "diary",
+      "prompt": "If you write about your daily life in this, you may not want anyone to read it.",
+      "letters": 5,
+      "firstLetter": "d"
+     },
+     {
+      "id": 39,
+      "answer": "message",
+      "prompt": "You write this for your mother when you answer the phone for her.",
+      "letters": 7,
+      "firstLetter": "m"
+     },
+     {
+      "id": 40,
+      "answer": "newspaper",
+      "prompt": "People buy this every morning to read about what has happened in the world.",
+      "letters": 9,
+      "firstLetter": "n"
+     }
+    ],
+    "label": "PART 6",
+    "example": {
+     "answer": "postcard",
+     "number": 0,
+     "prompt": "When your friends go on holiday, they send you this.",
+     "firstLetter": "p"
+    },
+    "partNumber": 6,
+    "instruction": [
+     "Read the descriptions of some things you can read.",
+     "What is the word for each one?",
+     "The first letter is already there. There is one space for each other letter in the word.",
+     "For questions 36–40, write the words on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 36–40"
+   },
+   {
+    "type": "open-cloze-letter",
+    "items": [
+     {
+      "id": 41,
+      "answer": "about"
+     },
+     {
+      "id": 42,
+      "answer": "when"
+     },
+     {
+      "id": 43,
+      "answer": "was"
+     },
+     {
+      "id": 44,
+      "answer": "like"
+     },
+     {
+      "id": 45,
+      "answer": "next"
+     },
+     {
+      "id": 46,
+      "answer": "lot"
+     },
+     {
+      "id": 47,
+      "answer": "have"
+     },
+     {
+      "id": 48,
+      "answer": "What"
+     },
+     {
+      "id": 49,
+      "answer": "Are"
+     },
+     {
+      "id": 50,
+      "answer": "one"
+     }
+    ],
+    "label": "PART 7",
+    "example": {
+     "answer": "be",
+     "number": 0
+    },
+    "letters": [
+     {
+      "body": "It's good to (Example: be) back home in my country but I still think {41} all the friends I made in our English class, especially you. I cried {42} I left England because my visit {43} too short. I would {44} to return to England but {45} time I will stay in a different city.\n\nI have started English classes again here. I learnt a {46} of things in England but I know I {47} to study even harder.\n\n{48} about you? {49} you still looking for a job? I hope you find {50} soon.",
+      "header": "Paris",
+      "closing": "Love,\nSophie",
+      "greeting": "Dear Maria,"
+     }
+    ],
+    "partNumber": 7,
+    "instruction": [
+     "Complete the letter.",
+     "Write ONE word for each space.",
+     "For questions 41–50, write the words on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 41–50"
+   },
+   {
+    "note": {
+     "body": "",
+     "dateLine": "",
+     "signature": ""
+    },
+    "rows": [
+     {
+      "label": "Name of passenger:",
+      "prefilled": "Jane Harvey"
+     },
+     {
+      "id": 51,
+      "label": "Travelling from:",
+      "answer": "Manchester"
+     },
+     {
+      "id": 52,
+      "label": "Date of journey:",
+      "answer": "14 March"
+     },
+     {
+      "id": 53,
+      "label": "Time journey started:",
+      "answer": "12.45"
+     },
+     {
+      "id": 54,
+      "label": "What did you lose?",
+      "answer": "handbag"
+     },
+     {
+      "id": 55,
+      "label": "Daytime phone number:",
+      "answer": "723419"
+     }
+    ],
+    "type": "info-transfer-notes",
+    "label": "PART 8",
+    "notice": {
+     "body": "The Manager\nNorth Line Trains\nLondon\n\n16 March\n\nDear Sir,\n\nOn 14 March, I got on the 12.45 train to London at Manchester station. I had a suitcase and a handbag with me. When I got off the train at 14.50, I did not have my handbag.\n\nHas anyone found it? Please phone me on 723419 or, after 6 p.m., on 796327.\n\nJane Harvey",
+     "title": "Letter from Jane Harvey"
+    },
+    "notesTitle": "LOST PROPERTY REPORT FORM",
+    "partNumber": 8,
+    "instruction": [
+     "Read the letter from Jane Harvey.",
+     "Fill in the information on the Lost Property Report Form.",
+     "For questions 51–55, write the information on your answer sheet."
+    ],
+    "notesSubtitle": "",
+    "questionsLabel": "QUESTIONS 51–55"
+   },
+   {
+    "type": "writing-postcard",
+    "items": [
+     {
+      "id": 56,
+      "type": "free-text",
+      "answer": "Hello Spenser! We can eat in 'La Farinda' restaurant. I can come at nine oclock. You can park your car in a free car park behind of the restaurant.\nKisses, Anna",
+      "maxWords": 35,
+      "minWords": 25
+     }
+    ],
+    "label": "PART 9",
+    "footer": [
+     "Write 25–35 words.",
+     "Write the note on your answer sheet."
+    ],
+    "prompt": "Let's meet for dinner near your house on Saturday.\n\nWhere shall we eat? What time can you come? Where can I park my car?",
+    "wordCount": "25–35 words",
+    "partNumber": 9,
+    "instruction": [
+     "Read this note from your friend, Spencer.",
+     "Write Spencer a note. Answer the questions."
+    ],
+    "questionsLabel": "QUESTION 56",
+    "promptSignature": "Spencer"
+   }
+  ],
+  "testInfo": {
+   "id": "ket-rw-13",
+   "level": "A2",
+   "paper": "Paper 1",
+   "parts": 9,
+   "title": "KET Reading & Writing — Test 13",
+   "totalTime": 70,
+   "totalQuestions": 56
+  }
+ },
+ "created_at": "2026-10-14T06:45:05.074134+00:00",
+ "updated_at": "2026-10-14T06:46:52.476552+00:00"
+}

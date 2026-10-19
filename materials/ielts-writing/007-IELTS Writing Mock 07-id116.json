@@ -1,0 +1,481 @@
+{
+ "id": 116,
+ "mock_type": "ielts-writing",
+ "mock_number": 7,
+ "title": "IELTS Writing Mock 07",
+ "status": "published",
+ "mock_data": {
+  "tasks": {
+   "task1": {
+    "title": "Reasons for UK university study",
+    "prompt": "The charts below show the reasons of students to study a particular in a UK university in the year 1987 and 2007.",
+    "wordGoal": 150,
+    "chartDesc": {
+     "title": "Reasons why students chose a college or university, UK",
+     "visuals": [
+      {
+       "kind": "pie chart",
+       "xAxis": "",
+       "yAxis": "",
+       "series": [
+        {
+         "name": "Reasons",
+         "points": [
+          {
+           "at": "Quality of resources",
+           "value": 21
+          },
+          {
+           "at": "Suitable degree courses",
+           "value": 35
+          },
+          {
+           "at": "Close to parental home",
+           "value": 10
+          },
+          {
+           "at": "Quality teaching",
+           "value": 15
+          },
+          {
+           "at": "Good sports and social activities",
+           "value": 19
+          }
+         ]
+        }
+       ],
+       "caption": "1987"
+      },
+      {
+       "kind": "pie chart",
+       "xAxis": "",
+       "yAxis": "",
+       "series": [
+        {
+         "name": "Reasons",
+         "points": [
+          {
+           "at": "Quality of resources",
+           "value": 17
+          },
+          {
+           "at": "Suitable degree courses",
+           "value": 37
+          },
+          {
+           "at": "Close to parental home",
+           "value": 22
+          },
+          {
+           "at": "Quality teaching",
+           "value": 18
+          },
+          {
+           "at": "Good sports and social activities",
+           "value": 6
+          }
+         ]
+        }
+       ],
+       "caption": "2007"
+      }
+     ],
+     "overview": "In both 1987 and 2007, suitable degree courses remained the most popular reason for choosing a university in the UK. Over the 20-year period, selection based on close proximity to parental home more than doubled, while decision-making based on good sports and social activities fell significantly.",
+     "chartType": "pie chart",
+     "confidence": "high",
+     "unreadable": [],
+     "keyFeatures": [
+      "From the 1987 chart, suitable degree courses was the highest category at 35%, followed by quality of resources at 21% and good sports and social activities at 19%.",
+      "From the 1987 chart, quality teaching and close to parental home were the lowest reasons at 15% and 10% respectively.",
+      "From the 2007 chart, suitable degree courses remained the top choice, rising slightly to 37%.",
+      "From the 2007 chart, close to parental home increased substantially from 10% in 1987 to 22% in 2007, making it the second most common reason.",
+      "From the 2007 chart, good sports and social activities dropped sharply from 19% in 1987 down to 6% in 2007, becoming the least common reason.",
+      "From both charts, quality of resources fell from 21% in 1987 to 17% in 2007, whereas quality teaching rose slightly from 15% to 18%."
+     ]
+    },
+    "chartType": "mixed",
+    "dataNature": "dynamic",
+    "instruction": "Summarise the information by selecting and reporting the main features, and make comparison where relevant.",
+    "sampleBand5": "<p>The pie charts show the reasons why students study in UK universities in 1987 and 2007. <mark>It shows different reasons</mark> for their choices.</p>\n<p>In 1987, the main reason was job opportunities, at 40%. Course content was also important, with 25%. <mark>Career prospects was</mark> 15% and reputation of the university was 10%. Other reasons were only 10%. The year 2007 was different.</p>\n<p>In 2007, the biggest reason was still job opportunities, but it decreased to 30%. Course content was the same, 25%. But the reputation of the university increased a lot, to 20%. Career prospects were 15%, <mark>same as before</mark>. Other reasons increased to 10%. This shows that university reputation became more important, and job opportunities became <mark>a little less</mark> important over the 20 years.</p>",
+    "sampleBand6": "<p>The pie charts <mark>give information about</mark> the reasons why students chose to study at UK universities in 1987 and 2007. Overall, career opportunities were the main reason in both years, but other reasons changed.</p>\n\n<p>In 1987, the <mark>most popular reason</mark> was career prospects at 34%. The second biggest reason was interest in the subject, which accounted for 22%. Advice from teachers and family made up 18% of the reasons. <mark>The remaining reasons</mark>, better salary and other reasons, made up 13% each.</p>\n\n<p>By 2007, career prospects had increased to 40%. Interest in subject dropped to 15%. However, salary increased to 20%, <mark>showing a shift in priorities</mark>. Advice from teachers and family decreased to 10%. <mark>The 'other' reasons</mark> category saw a significant increase to 15% which could suggest new factors influencing student choices in 2007.</p>",
+    "sampleBand7": "<p>The pie charts <mark>illustrate the primary reasons</mark> why students chose to study at UK universities in 1987 and 2007. Overall, career prospects were the dominant motivation in both years, although its significance increased, while the influence of other factors generally declined.</p>\n\n<p>In 1987, the largest proportion of students, 33%, were driven by career prospects. This was followed by an interest in the subject, accounting for 27% of responses. The university's reputation was the next most important factor at 18%, while better qualifications and other reasons made up 12% and 10% respectively. </p>\n\n<p>By 2007, the <mark>proportion of students</mark> citing career prospects as their main reason had risen significantly to 45%. Interest in the subject remained a key motivator, but had decreased to 21%. Similarly, the university's reputation saw a drop to 15%. <mark>A notable decrease</mark> was observed in the percentage of students seeking better qualifications, which fell to 9%. Interestingly, other reasons remained relatively stable, accounting for 10% of the responses. <mark>It is evident that</mark> career prospects became an increasingly important factor <mark>over this period</mark>, while the others became less so.</p>",
+    "sampleBand8": "<p>The charts <mark>illustrate the varying motivations</mark> behind students' choices of a particular degree at UK universities in 1987 and 2007. Overall, career prospects were the dominant factor in both years, although its significance <mark>shifted considerably</mark>. Furthermore, interest in the subject saw a decline, while the influence of advice from school teachers rose.</p>\n\n<p>In 1987, career prospects <mark>constituted the primary driver</mark>, accounting for 45% of students' decisions. Interest in the subject followed at 34%, with advice from school teachers playing a relatively minor role at 12%. Influence from family and friends was the least significant reason, at only 9%. By 2007, the percentage of students citing career prospects as the reason for their choice <mark>had surged to</mark> 61%. Conversely, the proportion of students motivated by their interest in the subject <mark>had dwindled to</mark> 17%. </p>\n\n<p>Interestingly, the influence of school teachers <mark>more than doubled</mark>, climbing to 25% in 2007. While still the least influential factor, family and friends saw a slight increase to 17%. In conclusion, while career aspirations <mark>remained paramount</mark>, the importance of subject interest decreased substantially, and the role of educational advisors became more pronounced over the two decades.</p>",
+    "sampleBand9": "<p>The charts <mark>illustrate the primary motivations</mark> for students choosing a particular field of study at UK universities in 1987 and 2007. Overall, while career prospects and interest in the subject remained significant factors, the relative importance of each shifted considerably over the two decades.</p>\n\n<p>In 1987, <mark>the paramount reason</mark> for selecting a specific course was career opportunities, cited by 45% of students. Interest in the subject followed closely at 38%, demonstrating a <mark>strong correlation</mark> between personal passion and vocational aims. Advice from teachers and family played a minor role, accounting for 10% and 7% respectively. By 2007, however, the landscape had altered. While career prospects remained important, their influence diminished to 33%. Interest in the subject <mark>gained considerable ground</mark>, becoming the most significant factor at 40%. </p>\n\n<p><mark>A noteworthy shift</mark> occurred in the influence of external advisors. Teacher influence <mark>experienced a marked decline</mark>, falling to a mere 5%. Conversely, family advice saw a modest increase to 12%. This suggests a possible change in the perceived value of different sources of guidance. <mark>In summary</mark>, the key driver for course selection evolved from primarily career-focused to more intrinsically motivated by 2007, with the role of teachers waning and families gaining slightly in influence. The <mark>data underscores a shifting paradigm</mark> in student priorities. <mark>The trends are quite divergent</mark>. <mark>It can be clearly seen that</mark> interest in the topic <mark>became more pronounced</mark> over the period.</p>",
+    "timeMinutes": 20,
+    "chartDescImg": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/7.png",
+    "sampleAnswer": "The bar charts compare the primary motivations for students enrolling at a specific UK university in 1987 and 2007. Overall, it is evident that while interest in the subject remained the dominant factor in both years, there was a significant shift toward employment-related motivations by 2007. Conversely, more personal or social reasons for studying saw a decline in popularity over the twenty-year period.\n\nIn 1987, 'Interest in the subject' was the single most cited reason, with nearly 45% of students choosing this option. By 2007, this figure dropped slightly to approximately 40%, yet it remained the most prevalent motivation. In contrast, 'Career prospects' saw a substantial increase, rising from just under 20% in 1987 to nearly 35% in 2007, highlighting a growing focus on the professional utility of higher education.\n\nOther motivations such as 'Parental pressure' and 'Social life' experienced a downward trend. Parental influence fell from 15% to a mere 5%, while the desire for a social life as a primary driver decreased from 10% to around 7%. Interestingly, 'Lack of other options' emerged as a more significant factor in 2007, doubling from 5% to 10%. This suggests that for a tenth of the student body, university had become a default choice rather than a proactive pursuit.",
+    "chartImageUrl": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/7.png",
+    "uzSampleBand5": "<p>Doira diagrammalari 1987 va 2007-yillarda talabalarning Buyuk Britaniya universitetlarida o'qish sabablarini ko'rsatadi. <mark>U ularning tanlovi uchun turli sabablarni ko'rsatadi</mark>.</p>\n<p>1987-yilda asosiy sabab ish imkoniyatlari edi, 40%. Kurs mazmuni ham muhim edi, 25%. <mark>Karyera istiqbollari</mark> 15% va universitetning obro'si 10% edi. Boshqa sabablar atigi 10% edi. 2007-yil boshqacha edi.</p>\n<p>2007-yilda eng katta sabab hali ham ish imkoniyatlari edi, lekin u 30% gacha kamaydi. Kurs mazmuni bir xil edi, 25%. Lekin universitetning obro'si juda oshdi, 20% gacha. Karyera istiqbollari 15% edi, <mark>oldingidek</mark>. Boshqa sabablar 10% gacha oshdi. Bu universitet obro'si muhimroq bo'lib qolganini va ish imkoniyatlari 20 yil davomida <mark>biroz kamroq</mark> muhim bo'lib qolganini ko'rsatadi.</p>",
+    "uzSampleBand6": "<p>Doira diagrammalar <mark>Britaniya universitetlarida o'qishni tanlash</mark> sabablari haqida 1987 va 2007 yillardagi ma'lumotlarni <mark>taqdim etadi</mark>. Umuman olganda, har ikki yilda ham martaba imkoniyatlari asosiy sabab bo'lgan, ammo boshqa sabablar o'zgargan.</p>\n\n<p>1987 yilda <mark>eng mashhur sabab</mark> martaba istiqbollari bo'lib, 34% ni tashkil etgan. Ikkinchi eng katta sabab fanga qiziqish bo'lib, 22% ni tashkil etgan. O'qituvchilar va oilaning maslahati sabablarning 18% ini tashkil etdi. <mark>Qolgan sabablar</mark>, yaxshiroq maosh va boshqa sabablar, har biri 13% dan tashkil etdi.</p>\n\n<p>2007 yilga kelib, martaba istiqbollari 40% gacha o'sdi. Fanga qiziqish 15% gacha kamaydi. Biroq, maosh 20% gacha oshdi, bu <mark>ustuvorliklardagi o'zgarishni ko'rsatadi</mark>. O'qituvchilar va oilaning maslahati 10% gacha kamaydi. <mark>'Boshqa' sabablar</mark> toifasi sezilarli darajada 15% gacha o'sdi, bu 2007 yilda talabalar tanloviga ta'sir qiluvchi yangi omillarni ko'rsatishi mumkin.</p>",
+    "uzSampleBand7": "<p>Doira diagrammalari 1987 va 2007-yillarda talabalarning Buyuk Britaniya universitetlarida o'qishni tanlashining <mark>asosiy sabablarini ko'rsatadi</mark>. Umuman olganda, karera istiqbollari har ikki yilda ham asosiy motivatsiya bo'lgan, garchi uning ahamiyati ortgan bo'lsa-da, boshqa omillarning ta'siri odatda kamaygan.</p>\n\n<p>1987-yilda talabalarning eng katta qismi, 33 foizi karera istiqbollari bilan boshqarilgan. Undan so'ng fanga qiziqish kelgan, bu javoblarning 27 foizini tashkil qilgan. Universitetning obro'si keyingi eng muhim omil bo'lib, 18 foizni tashkil qilgan, yaxshiroq malaka va boshqa sabablar mos ravishda 12 foiz va 10 foizni tashkil qilgan.</p>\n\n<p>2007-yilga kelib, karera istiqbollarini asosiy sabab sifatida ko'rsatgan <mark>talabalar ulushi</mark> sezilarli darajada oshib, 45 foizga yetdi. Fanga qiziqish asosiy motivatsiya bo'lib qoldi, lekin 21 foizga kamaydi. Xuddi shunday, universitetning obro'si ham pasayib, 15 foizni tashkil qildi. Yaxshiroq malaka olishga intilayotgan talabalar foizida <mark>sezilarli kamayish</mark> kuzatildi, bu 9 foizga tushdi. Qizig'i shundaki, boshqa sabablar nisbatan barqaror bo'lib, javoblarning 10 foizini tashkil qildi. <mark>Shuni ta'kidlash joizki</mark>, karera istiqbollari <mark>bu davr mobaynida</mark> tobora muhim omilga aylandi, qolganlari esa kamroq ahamiyatga ega bo'ldi.</p>",
+    "uzSampleBand8": "<p>Diagrammalar 1987 va 2007-yillarda Buyuk Britaniya universitetlarida talabalarning muayyan darajani tanlashiga <mark>turli xil sabablarni ko'rsatadi</mark>. Umuman olganda, karyera istiqbollari har ikki yilda ham asosiy omil bo'lgan, garchi uning ahamiyati <mark>sezilarli darajada o'zgargan</mark> bo'lsa ham. Bundan tashqari, fanga qiziqish pasaygan bo'lsa, maktab o'qituvchilarining maslahati ta'siri oshgan.</p>\n\n<p>1987-yilda karyera istiqbollari talabalarning qarorlarining 45 foizini tashkil etib, <mark>asosiy turtki bo'lgan</mark>. Fanga qiziqish 34% bilan keyingi o'rinda turgan, maktab o'qituvchilarining maslahati esa 12% bilan nisbatan ahamiyatsiz rol o'ynagan. Oila va do'stlarning ta'siri atigi 9% bilan eng kam ahamiyatga ega bo'lgan. 2007-yilga kelib, karyera istiqbollarini tanlash sababi sifatida ko'rsatgan talabalar ulushi <mark>61% gacha ko'tarildi</mark>. Aksincha, fanga qiziqishi tufayli rag'batlantirilgan talabalar ulushi <mark>17% gacha kamaydi</mark>.</p>\n\n<p>Qizig'i shundaki, maktab o'qituvchilarining ta'siri <mark>ikki barobardan ko'proqqa oshdi</mark> va 2007-yilda 25% ga yetdi. Hali ham eng kam ta'sir ko'rsatuvchi omil bo'lsa-da, oila va do'stlar ta'siri biroz oshib, 17% ga yetdi. Xulosa qilib aytganda, karyera umidlari <mark>ustuvor bo'lib qolgan</mark> bo'lsa-da, fanga qiziqishning ahamiyati sezilarli darajada kamaydi va ta'lim maslahatchilarining roli ikki o'n yillik davomida sezilarli darajada oshdi.</p>",
+    "uzSampleBand9": "<p>Diagrammalar 1987 va 2007-yillarda Buyuk Britaniya universitetlarida talabalarning muayyan o'quv yo'nalishini tanlashdagi <mark>asosiy sabablarni ko'rsatadi</mark>. Umuman olganda, kasbiy istiqbollar va fanga qiziqish muhim omil bo'lib qolgan bo'lsa-da, har birining nisbiy ahamiyati ikki o'n yillik davomida sezilarli darajada o'zgardi.</p>\n\n<p>1987-yilda, muayyan kursni tanlashning <mark>eng muhim sababi</mark> kasbiy imkoniyatlar edi, bu talabalarning 45% tomonidan qayd etilgan. Fanga qiziqish 38% bilan yaqinlashdi, bu shaxsiy ishtiyoq va kasbiy maqsadlar o'rtasidagi <mark>kuchli bog'liqlikni</mark> ko'rsatadi. O'qituvchilar va oilaning maslahati kichik rol o'ynadi, mos ravishda 10% va 7% ni tashkil etdi. Biroq, 2007-yilga kelib, vaziyat o'zgardi. Kasbiy istiqbollar muhimligicha qolgan bo'lsa-da, ularning ta'siri 33% gacha kamaydi. Fanga qiziqish <mark>sezilarli darajada o'sdi</mark> va 40% bilan eng muhim omilga aylandi.</p>\n\n<p><mark>Tashqi maslahatchilar ta'sirida sezilarli o'zgarish</mark> yuz berdi. O'qituvchilarning ta'siri <mark>sezilarli pasayishni boshdan kechirdi</mark> va atigi 5% gacha tushib ketdi. Aksincha, oilaning maslahati biroz oshib, 12% ni tashkil etdi. Bu turli xil yo'l-yo'riq manbalarining qadriyatiga bo'lgan qarashda o'zgarish bo'lishi mumkinligini ko'rsatadi. <mark>Xulosa qilib aytganda</mark>, kurs tanlash uchun asosiy omil 2007-yilga kelib, asosan kasbga yo'naltirilganlikdan ko'ra, ichki motivatsiya bilan bog'liq bo'lib, o'qituvchilarning roli susaygan va oilalarning ta'siri biroz oshgan. <mark>Ma'lumotlar talabalarning ustuvorliklaridagi o'zgarishni tasdiqlaydi</mark>. <mark>Tendensiyalar juda xilma-xildir</mark>. <mark>Shuni aniq ko'rish mumkinki</mark>, mavzuga qiziqish <mark>davr mobaynida yanada kuchaygan</mark>.</p>",
+    "chartDescSource": "extracted-verified-2026-08-05"
+   },
+   "task2": {
+    "title": "Unemployment vs unsatisfying jobs",
+    "prompt": "It is better for people to be unemployed than people to be employed but they do not enjoy. To what extent do you agree or disagree?",
+    "wordGoal": 250,
+    "essayType": "opinion",
+    "instruction": "To what extent do you agree or disagree?",
+    "sampleBand5": "<p>Some people think that it is not good to work if you do not like the job. <mark>I think this is true to some extent</mark>, but it is also important to have a job for money and other things. </p>\n\n<p>If you are unemployed, you might be happier because you are not doing something you hate. You can spend your time doing things you enjoy, like hobbies or seeing friends. <mark>But, if you have no job</mark>, you will not have money. This can cause stress and problems. You need money for food, rent, and other important things. So, being unemployed can be hard. </p>\n\n<p>On the other hand, if you are employed but do not like your job, you will have money. <mark>This is a good thing</mark>, but you might be unhappy. You might feel stressed and tired all the time. This can affect your health and your relationships. Some people think it is better to be poor and happy than rich and sad. But, it is also hard to be poor. </p>\n\n<p>It is important to try and find a job that you enjoy. <mark>This is not always easy</mark>, but it is worth trying. If you cannot find a job you love, you can try to find a job that you do not hate. Or, you can try to make your job better by talking to your boss or finding new challenges. </p>\n\n<p>In conclusion, I think it is better to be employed, even if you do not enjoy the job. This is because you need money to live. But, it is also important to try and find a job that makes you happy. <mark>I hope one day everyone can find a job they like</mark>. </p>",
+    "sampleBand6": "<p>Some people believe that it is preferable to be unemployed than to have a job that you dislike. While I understand the reasons for this view, I mostly disagree. I think being employed, even if the job isn't perfect, is generally better.</p>\n\n<p>On the one hand, being unemployed can <mark>have its advantages</mark>. If someone hates their job, it can cause a lot of stress and unhappiness. This can affect their health and relationships. Therefore, it might seem better to be unemployed and <mark>look for something more suitable</mark>. Furthermore, unemployment can provide an opportunity to retrain or start a business. This can lead to a more fulfilling career in the long run, even if <mark>it takes some time</mark>.</p>\n\n<p>However, I think there are more benefits to being employed, even in a job you don't love. Firstly, a job provides financial security. This is very important for paying bills and supporting yourself and your family. Unemployment can cause financial hardship and stress. Secondly, work provides a sense of purpose and routine. This can be important for mental health. <mark>Even if the job is boring</mark>, it can still give you a reason to get up in the morning and be productive. Thirdly, being employed can open doors to new opportunities. You can learn new skills, meet new people, and gain experience that can help you <mark>find a better job later on</mark>.</p>\n\n<p>In conclusion, while I understand that being in a job you hate can be difficult, I believe that the benefits of employment, such as financial security and a sense of purpose, outweigh the negatives. Therefore, I think it is generally better to be employed than unemployed, even if the job is not ideal. People can always <mark>actively seek a more satisfying position</mark> while employed.\n</p>",
+    "sampleBand7": "<p>The question of whether it is preferable to be unemployed rather than employed in an unfulfilling job is a complex one. While both situations present challenges, I believe that unemployment is generally the less desirable option, although I recognise that there are circumstances where a dissatisfying job can <mark>take a significant toll</mark> on an individual's well-being.</p>\n\n<p>One of the primary reasons I disagree with the statement is the financial strain that unemployment places on individuals and families. Without a steady income, people may struggle to afford basic necessities such as housing, food, and healthcare. This can lead to significant stress and anxiety, <mark>potentially impacting their mental and physical health</mark>. While a job one dislikes is not ideal, it at least provides financial security and the ability to meet essential needs. Furthermore, even a job that is not inherently enjoyable can offer opportunities for skill development and networking, <mark>which can be beneficial in the long run</mark>.</p>\n\n<p>However, I acknowledge that there are situations where the negative impacts of a dissatisfying job outweigh the benefits of employment. If a job is extremely stressful, toxic, or morally objectionable, it can have a detrimental effect on a person's mental and emotional well-being. In such cases, <mark>it may be justifiable to leave the job</mark>, even without another one lined up. This is because prolonged exposure to such an environment can lead to burnout, depression, and other serious health problems. It is crucial, however, to have a plan in place to address the financial challenges of unemployment, such as seeking government assistance or exploring alternative income streams.</p>\n\n<p>Moreover, it is important to consider the individual's personality and values. Some people are more resilient and better able to cope with a dissatisfying job than others. Others may find it easier to tolerate a job they dislike if it allows them to pursue their passions and interests outside of work. Ultimately, the decision of whether to remain in an unfulfilling job or to become unemployed is a personal one that depends on a variety of factors. <mark>There is no one-size-fits-all answer</mark>.</p>\n\n<p>In conclusion, while I appreciate that there are downsides to being employed in a job that one does not enjoy, I believe that the financial and practical benefits of employment generally outweigh the drawbacks. However, it is important to recognise that there are circumstances where the negative impacts of a dissatisfying job can be so severe that unemployment becomes the preferable option. <mark>A carefully considered approach</mark> is needed in each individual case.</p>",
+    "sampleBand8": "<p>The question of whether unemployment is preferable to unfulfilling employment is a complex one, sparking considerable debate. While the financial hardships associated with joblessness cannot be ignored, I firmly believe that being unemployed is, in many respects, a better alternative than remaining in a job that brings no satisfaction. This is because prolonged unhappiness at work can have <mark>detrimental effects on mental and physical well-being</mark>, and unemployment can provide opportunities for personal growth and career re-evaluation.</p>\n\n<p>Firstly, enduring a job one dislikes can significantly impact an individual's mental and physical health. The <mark>constant stress and lack of fulfillment</mark> can lead to anxiety, depression, and even burnout. This, in turn, can manifest in physical ailments such as insomnia, digestive problems, and a weakened immune system. For instance, a friend of mine worked for years in a high-pressure sales job that he found deeply unsatisfying. The resulting stress led to chronic migraines and ultimately forced him to take a leave of absence. In contrast, unemployment, while stressful in its own way, can offer a chance to <mark>recuperate and prioritize self-care</mark>, potentially leading to improved overall health.</p>\n\n<p>Secondly, unemployment can serve as a catalyst for positive change and personal development. While the initial period may be challenging, it can also provide a valuable opportunity to <mark>reassess one's career goals and explore new avenues</mark>. Individuals can use this time to acquire new skills, pursue further education, or even start their own businesses. For example, someone who loses their job in a declining industry might use the opportunity to retrain in a field with better prospects, such as technology or renewable energy. Furthermore, unemployment can free up time for pursuing personal interests and hobbies, which can boost self-esteem and provide a sense of purpose. <mark>Such experiences can be profoundly transformative</mark>, leading to a more fulfilling and meaningful life.</p>\n\n<p>Of course, the financial difficulties associated with unemployment are undeniable, and governments and individuals must actively seek solutions to mitigate these challenges. However, the long-term consequences of remaining in a soul-crushing job can be equally, if not more, damaging. Therefore, while acknowledging the hardships of unemployment, I maintain that it is ultimately preferable to being trapped in a job that <mark>offers no personal satisfaction or sense of purpose</mark>. It provides a chance for recovery, reflection, and the pursuit of a more fulfilling career path, something which an unfulfilling job rarely, if ever, allows. <mark>The potential for personal and professional reinvention</mark> makes unemployment, in this context, a more advantageous position.</p>\n\n<p>In conclusion, although the financial burden of being unemployed is a significant concern, the potential for improved mental and physical health, coupled with opportunities for personal and professional growth, make unemployment a more desirable option than remaining in a job that <mark>actively diminishes one's well-being</mark>. <mark>This perspective acknowledges the inherent value</mark> of individual happiness and fulfillment in the context of work.</p>",
+    "sampleBand9": "<p>The assertion that unemployment is preferable to engaging in unfulfilling employment is a nuanced one, demanding careful consideration. While the detrimental psychological effects of a dissatisfying job cannot be ignored, I contend that, on balance, being employed, even in an unenjoyable role, generally offers more advantages than being unemployed. This essay will explore both perspectives before articulating my position.</p>\n\n<p>On the one hand, the argument for unemployment being the lesser of two evils <mark>hinges on the profound impact</mark> of job dissatisfaction on mental well-being. Spending a significant portion of one's life in a role that <mark>inspires little to no enthusiasm</mark> can lead to chronic stress, anxiety, and even depression. This, in turn, can negatively affect personal relationships, physical health, and overall quality of life. Furthermore, an individual trapped in an unfulfilling job may experience a sense of stagnation, hindering personal growth and preventing them from pursuing more meaningful opportunities. <mark>The psychological toll</mark> can be so substantial that unemployment, with its potential for introspection, retraining, and a renewed sense of purpose, may indeed seem like a more attractive option.</p>\n\n<p>However, the benefits of even an unfulfilling job should not be dismissed. Firstly, employment provides financial security, enabling individuals to meet their basic needs and support their families. This is particularly crucial in societies where social safety nets are weak or nonexistent. Secondly, employment offers a sense of structure and routine, which can be beneficial for mental health, providing a sense of purpose and social interaction. Even in a less-than-ideal role, individuals can develop valuable skills, build professional networks, and gain experience that <mark>enhances their future employability</mark>. Moreover, the financial stability afforded by employment allows individuals to <mark>pursue personal interests and hobbies</mark> outside of work, providing a much-needed sense of fulfillment and balance. Finally, <mark>it stands to reason that</mark> an individual can actively seek better employment opportunities while currently employed, a much easier task than job searching while unemployed.</p>\n\n<p>In conclusion, while I acknowledge the detrimental effects of unfulfilling employment on mental well-being, I firmly believe that the benefits of being employed, even in a less-than-ideal role, generally outweigh the advantages of unemployment. The financial security, structure, skill development, and opportunities for personal growth and future advancement that employment provides are simply too significant to ignore. <mark>Therefore, it is my considered opinion that</mark> while striving for fulfilling employment is undoubtedly a worthwhile goal, being employed, even if unenjoyable, is generally the more advantageous position. <mark>This perspective is not to diminish the importance of</mark> prioritising mental well-being, but rather to highlight the multifaceted benefits of employment beyond mere financial gain.</p>",
+    "timeMinutes": 40,
+    "sampleAnswer": "The question of whether an unsatisfactory job is preferable to having no job at all is a complex one, touching upon economic necessity and psychological well-being. While I acknowledge that chronic job dissatisfaction can lead to severe mental health issues, I largely disagree with the notion that unemployment is a better alternative, primarily due to the financial and social repercussions of being without work.\n\nOn the one hand, proponents of the idea that unemployment is better often point to the corrosive effects of a toxic work environment. Spending forty hours a week in a role that one loathes can lead to burnout, depression, and a diminished sense of self-worth. In such cases, the stress of the job may outweigh the salary earned, potentially damaging one's health and personal relationships. From a purely psychological standpoint, being free from a debilitating work environment allows an individual the mental space to recover and seek a more fulfilling career path.\n\nHowever, the reality of unemployment is often far more grueling than a disliked job. Financial stability is the cornerstone of a functional life; without a steady income, individuals face the immediate stress of being unable to meet basic needs like housing and nutrition. Furthermore, a long-term gap in a CV can make future employment significantly harder to secure, creating a cycle of poverty and exclusion. Employment, even if unrewarding, provides a structured routine and a sense of social participation that is often lost when one is out of work. In most societies, a job also provides access to vital benefits such as healthcare and pension contributions.\n\nIn conclusion, while I agree that no one should remain in a miserable job indefinitely, I believe that being employed in an unenjoyable role is generally a more sustainable position than being unemployed. The practical and financial advantages of work typically provide a more secure foundation for eventually transitioning to a more satisfying career than the precarious state of unemployment ever could.",
+    "uzSampleBand5": "<p>Ba'zi odamlar, agar ish sizga yoqmasa, ishlash yaxshi emas deb hisoblashadi. <mark>Menimcha, bu ma'lum darajada to'g'ri</mark>, lekin pul va boshqa narsalar uchun ham ishga ega bo'lish muhimdir.</p>\n\n<p>Agar siz ishsiz bo'lsangiz, siz yoqtirmaydigan ish bilan shug'ullanmaganingiz uchun baxtliroq bo'lishingiz mumkin. Siz vaqtingizni sevimli mashg'ulotlar yoki do'stlar bilan uchrashish kabi yoqtirgan ishlaringizga sarflashingiz mumkin. <mark>Ammo, agar sizda ish bo'lmasa</mark>, sizda pul bo'lmaydi. Bu stress va muammolarni keltirib chiqarishi mumkin. Sizga oziq-ovqat, ijara va boshqa muhim narsalar uchun pul kerak. Shunday qilib, ishsiz bo'lish qiyin bo'lishi mumkin.</p>\n\n<p>Boshqa tomondan, agar siz ish bilan ta'minlangan bo'lsangiz, lekin ishingiz sizga yoqmasa, sizda pul bo'ladi. <mark>Bu yaxshi narsa</mark>, lekin siz baxtsiz bo'lishingiz mumkin. Siz doimo stressda va charchoq his qilishingiz mumkin. Bu sizning sog'lig'ingizga va munosabatlaringizga ta'sir qilishi mumkin. Ba'zi odamlar boy va qayg'uli bo'lgandan ko'ra, kambag'al va baxtli bo'lish yaxshiroq deb o'ylashadi. Lekin kambag'al bo'lish ham qiyin.</p>\n\n<p>Sizga yoqadigan ishni topishga harakat qilish muhim. <mark>Bu har doim ham oson emas</mark>, lekin harakat qilishga arziydi. Agar siz sevimli ishingizni topa olmasangiz, siz yomon ko'rmaydigan ishni topishga harakat qilishingiz mumkin. Yoki, siz xo'jayiningiz bilan gaplashib yoki yangi qiyinchiliklarni topib, ishingizni yaxshilashga harakat qilishingiz mumkin.</p>\n\n<p>Xulosa qilib aytganda, menimcha, hatto ish sizga yoqmasa ham, ish bilan ta'minlangan bo'lish yaxshiroqdir. Chunki siz yashash uchun pulga muhtojsiz. Lekin, sizni baxtli qiladigan ishni topishga harakat qilish ham muhim. <mark>Umid qilamanki, bir kun kelib hamma o'ziga yoqqan ishni topadi</mark>.</p>",
+    "uzSampleBand6": "<p>Ba'zi odamlar yoqtirmaydigan ishda ishlagandan ko'ra, ishsiz bo'lish afzalroq deb hisoblashadi. Men bu fikrning sabablarini tushunsam-da, asosan unga qo'shilmayman. Menimcha, ish mukammal bo'lmasa ham, ishlash odatda yaxshiroqdir.</p>\n\n<p>Bir tomondan, ishsiz bo'lishning <mark>o'z afzalliklari bo'lishi mumkin</mark>. Agar kimdir o'z ishini yomon ko'rsa, bu juda ko'p stress va baxtsizlikka olib kelishi mumkin. Bu ularning sog'lig'i va munosabatlariga ta'sir qilishi mumkin. Shuning uchun, ishsiz bo'lish va <mark>ko'proq mos keladigan narsani qidirish</mark> yaxshiroq bo'lib tuyulishi mumkin. Bundan tashqari, ishsizlik qayta tayyorlanish yoki biznes boshlash imkoniyatini berishi mumkin. Bu uzoq muddatda yanada mazmunli martabaga olib kelishi mumkin, hatto <mark>biroz vaqt talab qilinsa ham</mark>.</p>\n\n<p>Biroq, menimcha, ishlayotgan bo'lishning ko'proq foydalari bor, hatto yoqtirmaydigan ishda ham. Birinchidan, ish moliyaviy xavfsizlikni ta'minlaydi. Bu to'lovlarni to'lash va o'zingizni va oilangizni boqish uchun juda muhimdir. Ishsizlik moliyaviy qiyinchilik va stressga olib kelishi mumkin. Ikkinchidan, ish maqsad va tartib tuyg'usini beradi. Bu ruhiy salomatlik uchun muhim bo'lishi mumkin. <mark>Ish zerikarli bo'lsa ham</mark>, u hali ham ertalab turish va unumli bo'lish uchun sabab berishi mumkin. Uchinchidan, ishlash yangi imkoniyatlar eshiklarini ochishi mumkin. Siz yangi ko'nikmalarni o'rganishingiz, yangi odamlar bilan tanishishingiz va <mark>keyinroq yaxshiroq ish topishga</mark> yordam beradigan tajribaga ega bo'lishingiz mumkin.</p>\n\n<p>Xulosa qilib aytganda, yoqtirmaydigan ishda bo'lish qiyin bo'lishi mumkinligini tushunsam-da, ishning afzalliklari, masalan, moliyaviy xavfsizlik va maqsad tuyg'usi, salbiy tomonlardan ustun turadi deb hisoblayman. Shuning uchun, menimcha, ish ideal bo'lmasa ham, ishsiz bo'lgandan ko'ra ishlash odatda yaxshiroqdir. Odamlar har doim ishlayotgan paytda <mark>ko'proq qoniqarli lavozimni faol ravishda qidirishlari</mark> mumkin.\n</p>",
+    "uzSampleBand7": "<p>Qoniqarsiz ishda ishlagandan ko'ra ishsiz bo'lish afzalmi degan savol murakkabdir. Ikkala vaziyat ham qiyinchiliklar tug'dirsa-da, men ishsizlik odatda kamroq maqbul variant deb hisoblayman, garchi qoniqarsiz ish shaxsning farovonligiga <mark>jiddiy ta'sir ko'rsatishi</mark> mumkin bo'lgan holatlar mavjudligini tan olaman.</p>\n\n<p>Men bayonotga qo'shilmasligimning asosiy sabablaridan biri bu ishsizlikning shaxslar va oilalarga yuklaydigan moliyaviy yukidir. Doimiy daromadsiz odamlar uy-joy, oziq-ovqat va sog'liqni saqlash kabi asosiy ehtiyojlarni qondirishga qiynalishi mumkin. Bu jiddiy stress va tashvishga olib kelishi mumkin, bu <mark>ularning ruhiy va jismoniy salomatligiga ta'sir qilishi mumkin</mark>. Yoqtirmaydigan ish ideal bo'lmasa-da, u hech bo'lmaganda moliyaviy xavfsizlikni va asosiy ehtiyojlarni qondirish qobiliyatini ta'minlaydi. Bundan tashqari, hatto unchalik yoqimli bo'lmagan ish ham mahoratni rivojlantirish va aloqa o'rnatish imkoniyatlarini taqdim etishi mumkin, <mark>bu uzoq muddatda foydali bo'lishi mumkin</mark>.</p>\n\n<p>Biroq, men shunday vaziyatlar borki, qoniqarsiz ishning salbiy ta'siri bandlikning afzalliklaridan ustun kelishini tan olaman. Agar ish juda stressli, zaharli yoki axloqiy jihatdan nomaqbul bo'lsa, u odamning ruhiy va hissiy farovonligiga zararli ta'sir ko'rsatishi mumkin. Bunday hollarda, <mark>boshqa ish topilmagan taqdirda ham, ishdan ketish oqlanishi mumkin</mark>. Buning sababi shundaki, bunday muhitga uzoq vaqt ta'sir qilish charchoq, depressiya va boshqa jiddiy sog'liq muammolariga olib kelishi mumkin. Biroq, ishsizlikning moliyaviy qiyinchiliklarini hal qilish uchun reja tuzish juda muhim, masalan, hukumat yordamini izlash yoki muqobil daromad oqimlarini o'rganish.</p>\n\n<p>Bundan tashqari, shaxsning shaxsiyati va qadriyatlarini hisobga olish muhim. Ba'zi odamlar qoniqarsiz ishga boshqalarga qaraganda ko'proq chidamli va yaxshiroq bardosh bera oladi. Boshqalar, agar bu ularga ishdan tashqari o'z qiziqishlari va ehtiroslarini ro'yobga chiqarishga imkon bersa, yoqtirmaydigan ishga toqat qilishni osonroq topishlari mumkin. Oxir oqibat, qoniqarsiz ishda qolish yoki ishsiz bo'lish to'g'risidagi qaror turli omillarga bog'liq bo'lgan shaxsiy qarordir. <mark>Barcha uchun mos javob yo'q</mark>.</p>\n\n<p>Xulosa qilib aytganda, men yoqtirmaydigan ishda ishlashning kamchiliklari borligini qadrlasam ham, bandlikning moliyaviy va amaliy afzalliklari odatda kamchiliklardan ustun turadi deb hisoblayman. Biroq, shuni tan olish muhimki, qoniqarsiz ishning salbiy ta'siri shunchalik jiddiy bo'lishi mumkinki, ishsizlik afzalroq variantga aylanadi. <mark>Har bir alohida holatda ehtiyotkorlik bilan ko'rib chiqilgan yondashuv</mark> zarur.</p>",
+    "uzSampleBand8": "<p>Ishsizlikning qoniqarsiz ishdan afzalroqmi degan savol murakkab bo'lib, jiddiy bahslarga sabab bo'lmoqda. Ishsizlik bilan bog'liq moliyaviy qiyinchiliklarni inkor etib bo'lmasa-da, men ishonamanki, ishsiz bo'lish ko'p jihatdan hech qanday qoniqish keltirmaydigan ishda qolishdan ko'ra yaxshiroq alternativ hisoblanadi. Chunki ishda uzoq vaqt davomida baxtsiz bo'lish <mark>ruhiy va jismoniy salomatlikka zararli ta'sir ko'rsatishi</mark> mumkin, ishsizlik esa shaxsiy o'sish va karyerani qayta baholash uchun imkoniyatlar yaratishi mumkin.</p>\n\n<p>Birinchidan, yoqtirmagan ishda bardosh berish insonning ruhiy va jismoniy salomatligiga sezilarli ta'sir ko'rsatishi mumkin. <mark>Doimiy stress va qoniqishning yo'qligi</mark> xavotir, depressiya va hatto charchoqqa olib kelishi mumkin. Bu, o'z navbatida, uyqusizlik, ovqat hazm qilish muammolari va immunitet tizimining zaiflashishi kabi jismoniy kasalliklarda namoyon bo'lishi mumkin. Misol uchun, mening bir do'stim yuqori bosimli savdo ishida bir necha yil ishladi, bu unga juda yoqmadi. Natijada kelib chiqqan stress surunkali migrenga olib keldi va oxir-oqibat uni ta'tilga chiqishga majbur qildi. Aksincha, ishsizlik, o'ziga xos tarzda stressli bo'lsa-da, <mark>o'zini tiklash va o'ziga g'amxo'rlik qilishga ustuvor ahamiyat berish</mark> imkoniyatini beradi, bu esa umuman salomatlikning yaxshilanishiga olib kelishi mumkin.</p>\n\n<p>Ikkinchidan, ishsizlik ijobiy o'zgarish va shaxsiy rivojlanish uchun katalizator bo'lib xizmat qilishi mumkin. Dastlabki davr qiyin bo'lishi mumkin bo'lsa-da, u <mark>o'z karyera maqsadlarini qayta baholash va yangi yo'llarni o'rganish</mark> uchun qimmatli imkoniyatni ham berishi mumkin. Odamlar bu vaqtdan yangi ko'nikmalarni o'rganish, qo'shimcha ta'lim olish yoki hatto o'z biznesini boshlash uchun foydalanishlari mumkin. Misol uchun, pasayib borayotgan sohada ishini yo'qotgan odam texnologiya yoki qayta tiklanadigan energiya kabi yaxshiroq istiqbolga ega bo'lgan sohada qayta tayyorlash imkoniyatidan foydalanishi mumkin. Bundan tashqari, ishsizlik shaxsiy qiziqishlar va hobbilarni davom ettirish uchun vaqtni bo'shatishi mumkin, bu esa o'ziga bo'lgan ishonchni oshirishi va maqsad hissini ta'minlashi mumkin. <mark>Bunday tajribalar juda katta o'zgarishlarga olib kelishi</mark>, yanada mazmunli va foydali hayotga olib kelishi mumkin.</p>\n\n<p>Albatta, ishsizlik bilan bog'liq moliyaviy qiyinchiliklarni inkor etib bo'lmaydi va hukumatlar va shaxslar bu muammolarni yumshatish uchun faol choralar ko'rishlari kerak. Biroq, ruhni ezuvchi ishda qolishning uzoq muddatli oqibatlari teng darajada, agar undan ham ko'proq bo'lmasa, zararli bo'lishi mumkin. Shuning uchun, ishsizlikning qiyinchiliklarini tan olgan holda, menimcha, bu oxir-oqibat <mark>hech qanday shaxsiy qoniqish yoki maqsad hissini bermaydigan</mark> ishda qolib ketishdan afzalroqdir. Bu tiklanish, fikr yuritish va yanada to'liq karyera yo'lini izlash uchun imkoniyat beradi, bu esa qoniqarsiz ish kamdan-kam hollarda, agar umuman bo'lsa, imkon beradi. <mark>Shaxsiy va professional qayta tiklanish potentsiali</mark> ishsizlikni bu kontekstda yanada afzallikli holatga keltiradi.</p>\n\n<p>Xulosa qilib aytganda, ishsiz bo'lishning moliyaviy yuklamasi jiddiy tashvish tug'dirsa-da, ruhiy va jismoniy salomatlikni yaxshilash potentsiali, shaxsiy va professional o'sish imkoniyatlari bilan birgalikda ishsizlikni <mark>insonning farovonligini faol ravishda kamaytiradigan</mark> ishda qolishdan ko'ra maqbulroq variantga aylantiradi. <mark>Bu nuqtai nazar ish kontekstida</mark> shaxsiy baxt va qoniqishning o'ziga xos qadrini tan oladi.</p>",
+    "uzSampleBand9": "<p>Ishsizlikning qoniqarsiz ish bilan shug'ullanishdan afzalroq ekanligi haqidagi da'vo nozik masala bo'lib, ehtiyotkorlik bilan ko'rib chiqishni talab qiladi. Qoniqarsiz ishning salbiy psixologik ta'sirlarini inkor etib bo'lmasa-da, men shuni ta'kidlaymanki, umuman olganda, ish bilan ta'minlanganlik, hatto yoqimsiz rolda ham, ishsiz bo'lishdan ko'ra ko'proq afzalliklarni taqdim etadi. Ushbu insho mening pozitsiyamni aniqlashdan oldin ikkala nuqtai nazarni ham o'rganadi.</p>\n\n<p>Bir tomondan, ishsizlikning ikki yomonlikdan eng kichigi ekanligi haqidagi argument <mark>ruhiy farovonlikka chuqur ta'siri bilan bog'liqdir</mark>. O'z hayotining muhim qismini <mark>deyarli hech qanday ishtiyoq uyg'otmaydigan</mark> rolda o'tkazish surunkali stress, tashvish va hatto depressiyaga olib kelishi mumkin. Bu, o'z navbatida, shaxsiy munosabatlarga, jismoniy salomatlikka va hayot sifatiga salbiy ta'sir ko'rsatishi mumkin. Bundan tashqari, qoniqarsiz ishda qolib ketgan shaxs turg'unlikni his qilishi, shaxsiy o'sishga to'sqinlik qilishi va yanada mazmunli imkoniyatlarni izlashga yo'l qo'ymaydi. <mark>Psixologik to'lov</mark> shunchalik katta bo'lishi mumkinki, ishsizlik, uning introspeksiya, qayta tayyorlash va maqsadning yangilangan tuyg'usi bilan haqiqatan ham jozibaliroq variant bo'lib ko'rinishi mumkin.</p>\n\n<p>Biroq, hatto qoniqarsiz ishning afzalliklarini ham rad etmaslik kerak. Birinchidan, ish bilan ta'minlanganlik moliyaviy xavfsizlikni ta'minlaydi, bu esa odamlarga o'zlarining asosiy ehtiyojlarini qondirish va oilalarini qo'llab-quvvatlash imkoniyatini beradi. Bu, ayniqsa, ijtimoiy xavfsizlik tarmoqlari zaif yoki mavjud bo'lmagan jamiyatlarda juda muhimdir. Ikkinchidan, ish bilan ta'minlanganlik tuzilma va tartib tuyg'usini taklif qiladi, bu ruhiy salomatlik uchun foydali bo'lishi mumkin, maqsad va ijtimoiy o'zaro ta'sir tuyg'usini ta'minlaydi. Hatto ideal bo'lmagan rolda ham, odamlar qimmatli ko'nikmalarni rivojlantirishi, professional tarmoqlarni qurishi va kelajakda <mark>ishga joylashish imkoniyatini oshiradigan</mark> tajribaga ega bo'lishi mumkin. Bundan tashqari, ish bilan ta'minlanganlik tomonidan taqdim etilgan moliyaviy barqarorlik odamlarga ishdan tashqari <mark>shaxsiy qiziqishlari va sevimli mashg'ulotlari bilan shug'ullanishga</mark> imkon beradi, bu esa juda zarur bo'lgan to'liqlik va muvozanat tuyg'usini ta'minlaydi. Nihoyat, <mark>shuni ta'kidlash joizki</mark>, shaxs hozirda ish bilan ta'minlangan holda yaxshiroq ish imkoniyatlarini faol ravishda izlashi mumkin, bu ishsiz holda ish qidirishdan ko'ra ancha osonroq vazifa.</p>\n\n<p>Xulosa qilib aytganda, men qoniqarsiz ishning ruhiy farovonlikka salbiy ta'sirini tan olsam-da, men ish bilan ta'minlanganlikning afzalliklari, hatto ideal bo'lmagan rolda ham, odatda ishsizlikning afzalliklaridan ustun turishiga qat'iy ishonaman. Ish bilan ta'minlanganlik ta'minlaydigan moliyaviy xavfsizlik, tuzilma, ko'nikmalarni rivojlantirish va shaxsiy o'sish va kelajakda rivojlanish imkoniyatlari shunchaki e'tibordan chetda qoldirib bo'lmaydi. <mark>Shuning uchun mening fikrimcha</mark>, qoniqarli ishga intilish, shubhasiz, arziydigan maqsad bo'lsa-da, ish bilan ta'minlanganlik, hatto yoqimsiz bo'lsa ham, odatda eng foydali pozitsiyadir. <mark>Ushbu nuqtai nazar ruhiy farovonlikni</mark> ustuvor vazifa sifatida belgilash muhimligini kamaytirish emas, balki ish bilan ta'minlanganlikning faqat moliyaviy foydadan tashqari ko'p qirrali afzalliklarini ta'kidlashdir.</p>"
+   }
+  },
+  "source": "Actual exam 2023-06-24",
+  "examDate": "2023-06-24",
+  "settings": {
+   "timeInfo": "60 Minutes",
+   "moduleTitle": "Academic Writing Module",
+   "testIdentifier": "Mock 07"
+  },
+  "vocabulary": {
+   "task1": [
+    {
+     "term": "Primary motivations",
+     "meaning": "Main reasons or drivers for doing something."
+    },
+    {
+     "term": "Dominant factor",
+     "meaning": "The most important or influential element in a situation."
+    },
+    {
+     "term": "Professional utility",
+     "meaning": "The usefulness of something (e.g., a degree) for one's career."
+    },
+    {
+     "term": "Prevalent",
+     "meaning": "Widespread or common in a particular area or at a particular time."
+    },
+    {
+     "term": "Downward trend",
+     "meaning": "A general direction in which something is developing or changing for the worse or decreasing."
+    },
+    {
+     "term": "Default choice",
+     "meaning": "A selection made because no other better option was available or chosen."
+    },
+    {
+     "term": "Proactive pursuit",
+     "meaning": "Actively seeking or following something with purpose."
+    },
+    {
+     "term": "Cited",
+     "meaning": "Quoted as an evidence or justification."
+    }
+   ],
+   "task2": [
+    {
+     "term": "Economic necessity",
+     "meaning": "The state of being required by financial circumstances."
+    },
+    {
+     "term": "Psychological well-being",
+     "meaning": "A state of mental health and happiness."
+    },
+    {
+     "term": "Corrosive effects",
+     "meaning": "The way in which something harmful gradually weakens or destroys a person or thing."
+    },
+    {
+     "term": "Financial repercussions",
+     "meaning": "The consequences (usually negative) of a financial situation."
+    },
+    {
+     "term": "Debilitating",
+     "meaning": "Making someone very weak and infirm."
+    },
+    {
+     "term": "Cornerstone",
+     "meaning": "Something that is extremely important and on which everything else depends."
+    },
+    {
+     "term": "Unenjoyable role",
+     "meaning": "A job or position that one does not like."
+    },
+    {
+     "term": "Precarious state",
+     "meaning": "A situation that is not securely held or in position and likely to fall or collapse."
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "In summary": {
+    "uz": "Xulosa qilib aytganda",
+    "type": "linking"
+   },
+   "a little less": {
+    "uz": "biroz kamroq",
+    "type": "lexical"
+   },
+   "had surged to": {
+    "uz": "gacha ko'tarilgan edi",
+    "type": "lexical"
+   },
+   "same as before": {
+    "uz": "oldingidek",
+    "type": "lexical"
+   },
+   "had dwindled to": {
+    "uz": "gacha kamayib ketgan edi",
+    "type": "lexical"
+   },
+   "over this period": {
+    "uz": "bu davr mobaynida",
+    "type": "lexical"
+   },
+   "more than doubled": {
+    "uz": "ikki barobardan ko'proqqa oshdi",
+    "type": "lexical"
+   },
+   "A notable decrease": {
+    "uz": "Sezilarli kamayish",
+    "type": "lexical"
+   },
+   "A noteworthy shift": {
+    "uz": "E'tiborga molik o'zgarish",
+    "type": "lexical"
+   },
+   "It is evident that": {
+    "uz": "Shu narsa ayonki",
+    "type": "linking"
+   },
+   "it takes some time": {
+    "uz": "biroz vaqt talab etiladi",
+    "type": "lexical"
+   },
+   "remained paramount": {
+    "uz": "muhimligicha qoldi",
+    "type": "lexical"
+   },
+   "strong correlation": {
+    "uz": "kuchli bog'liqlik",
+    "type": "lexical"
+   },
+   "The 'other' reasons": {
+    "uz": "'Boshqa' sabablar",
+    "type": "lexical"
+   },
+   "have its advantages": {
+    "uz": "o'zining afzalliklariga ega",
+    "type": "lexical"
+   },
+   "most popular reason": {
+    "uz": "eng mashhur sabab",
+    "type": "lexical"
+   },
+   "Career prospects was": {
+    "uz": "Kasbiy istiqbollar edi",
+    "type": "lexical"
+   },
+   "This is a good thing": {
+    "uz": "Bu yaxshi narsa",
+    "type": "lexical"
+   },
+   "shifted considerably": {
+    "uz": "sezilarli darajada o'zgardi",
+    "type": "lexical"
+   },
+   "the paramount reason": {
+    "uz": "eng muhim sabab",
+    "type": "lexical"
+   },
+   "The remaining reasons": {
+    "uz": "Qolgan sabablar",
+    "type": "lexical"
+   },
+   "The psychological toll": {
+    "uz": "Psixologik zarar",
+    "type": "lexical"
+   },
+   "became more pronounced": {
+    "uz": "yanada yaqqolroq bo'ldi",
+    "type": "lexical"
+   },
+   "give information about": {
+    "uz": "... haqida ma'lumot berish",
+    "type": "lexical"
+   },
+   "proportion of students": {
+    "uz": "talabalarning nisbati",
+    "type": "lexical"
+   },
+   "But, if you have no job": {
+    "uz": "Lekin, agar ishingiz bo'lmasa",
+    "type": "linking"
+   },
+   "This is not always easy": {
+    "uz": "Bu har doim ham oson emas",
+    "type": "lexical"
+   },
+   "take a significant toll": {
+    "uz": "katta zarar yetkazadi",
+    "type": "idiom"
+   },
+   "it stands to reason that": {
+    "uz": "shundan kelib chiqadiki",
+    "type": "linking"
+   },
+   "Even if the job is boring": {
+    "uz": "Hatto ish zerikarli bo'lsa ham",
+    "type": "linking"
+   },
+   "It shows different reasons": {
+    "uz": "Bu turli sabablarni ko'rsatadi",
+    "type": "lexical"
+   },
+   "find a better job later on": {
+    "uz": "keyinroq yaxshiroq ish topish",
+    "type": "lexical"
+   },
+   "gained considerable ground": {
+    "uz": "sezilarli darajada o'sdi",
+    "type": "lexical"
+   },
+   "It can be clearly seen that": {
+    "uz": "Shuni aniq ko'rish mumkinki",
+    "type": "linking"
+   },
+   "experienced a marked decline": {
+    "uz": "sezilarli pasayishni boshdan kechirdi",
+    "type": "academic"
+   },
+   "hinges on the profound impact": {
+    "uz": "chuqur ta'sirga bog'liq",
+    "type": "academic"
+   },
+   "showing a shift in priorities": {
+    "uz": "ustuvorliklarning o'zgarishini ko'rsatmoqda",
+    "type": "lexical"
+   },
+   "The trends are quite divergent": {
+    "uz": "Tendentsiyalar juda farqli",
+    "type": "academic"
+   },
+   "constituted the primary driver": {
+    "uz": "asosiy omilni tashkil etdi",
+    "type": "academic"
+   },
+   "illustrate the primary reasons": {
+    "uz": "asosiy sabablarni ko'rsatadi",
+    "type": "academic"
+   },
+   "A carefully considered approach": {
+    "uz": "Puxta o'ylangan yondashuv",
+    "type": "colloc"
+   },
+   "inspires little to no enthusiasm": {
+    "uz": "deyarli hech qanday ishtiyoq uyg'otmaydi",
+    "type": "lexical"
+   },
+   "look for something more suitable": {
+    "uz": "yanada mosroq narsani qidirish",
+    "type": "lexical"
+   },
+   "illustrate the primary motivations": {
+    "uz": "asosiy motivatsiyalarni ko'rsatadi",
+    "type": "academic"
+   },
+   "illustrate the varying motivations": {
+    "uz": "turli xil motivatsiyalarni ko'rsatadi",
+    "type": "academic"
+   },
+   "I think this is true to some extent": {
+    "uz": "Menimcha, bu ma'lum darajada to'g'ri",
+    "type": "linking"
+   },
+   "enhances their future employability": {
+    "uz": "ularning kelajakdagi ish bilan ta'minlanishini oshiradi",
+    "type": "academic"
+   },
+   "recuperate and prioritize self-care": {
+    "uz": "tiklanish va o'ziga g'amxo'rlik qilishga ustunlik berish",
+    "type": "academic"
+   },
+   "There is no one-size-fits-all answer": {
+    "uz": "Hamma uchun bir xil javob yo'q",
+    "type": "idiom"
+   },
+   "actively diminishes one's well-being": {
+    "uz": "inson farovonligini faol ravishda kamaytiradi",
+    "type": "academic"
+   },
+   "data underscores a shifting paradigm": {
+    "uz": "ma'lumotlar o'zgaruvchan paradigmaga urg'u beradi",
+    "type": "academic"
+   },
+   "pursue personal interests and hobbies": {
+    "uz": "shaxsiy qiziqishlar va sevimli mashg'ulotlar bilan shug'ullanish",
+    "type": "academic"
+   },
+   "it may be justifiable to leave the job": {
+    "uz": "ishni tashlab ketish oqlanishi mumkin",
+    "type": "academic"
+   },
+   "constant stress and lack of fulfillment": {
+    "uz": "doimiy stress va qoniqish yetishmasligi",
+    "type": "lexical"
+   },
+   "which can be beneficial in the long run": {
+    "uz": "bu uzoq muddatda foydali bo'lishi mumkin",
+    "type": "lexical"
+   },
+   "actively seek a more satisfying position": {
+    "uz": "ko'proq qoniqish hosil qiladigan lavozimni faol ravishda izlash",
+    "type": "academic"
+   },
+   "Therefore, it is my considered opinion that": {
+    "uz": "Shuning uchun, bu mening puxta o'ylangan fikrimcha",
+    "type": "linking"
+   },
+   "I hope one day everyone can find a job they like": {
+    "uz": "Umid qilamanki, bir kun kelib har kim o'ziga yoqqan ishni topadi",
+    "type": "idiom"
+   },
+   "This perspective acknowledges the inherent value": {
+    "uz": "Bu nuqtai nazar o'z-o'zidan qimmatli ekanligini tan oladi",
+    "type": "academic"
+   },
+   "Such experiences can be profoundly transformative": {
+    "uz": "Bunday tajribalar chuqur o'zgarishlarga olib kelishi mumkin",
+    "type": "academic"
+   },
+   "offers no personal satisfaction or sense of purpose": {
+    "uz": "shaxsiy qoniqish yoki maqsad hissini bermaydi",
+    "type": "academic"
+   },
+   "reassess one's career goals and explore new avenues": {
+    "uz": "o'zining kasbiy maqsadlarini qayta baholash va yangi yo'llarni o'rganish",
+    "type": "academic"
+   },
+   "This perspective is not to diminish the importance of": {
+    "uz": "Bu nuqtai nazar ... muhimligini kamaytirish uchun emas",
+    "type": "academic"
+   },
+   "detrimental effects on mental and physical well-being": {
+    "uz": "ruhiy va jismoniy farovonlikka zararli ta'sirlar",
+    "type": "academic"
+   },
+   "potentially impacting their mental and physical health": {
+    "uz": "ularning ruhiy va jismoniy salomatligiga potentsial ta'sir ko'rsatadi",
+    "type": "academic"
+   },
+   "The potential for personal and professional reinvention": {
+    "uz": "Shaxsiy va professional qayta kashfiyot qilish imkoniyati",
+    "type": "academic"
+   }
+  }
+ },
+ "created_at": "2026-05-06T17:28:34.721413+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

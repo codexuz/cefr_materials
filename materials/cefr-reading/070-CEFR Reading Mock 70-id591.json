@@ -1,0 +1,642 @@
+{
+ "id": 591,
+ "mock_type": "cefr-reading",
+ "mock_number": 70,
+ "title": "CEFR Reading Mock 70",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "gap-fill-text",
+    "title": "Part 1",
+    "answers": {
+     "1": [
+      "reading"
+     ],
+     "2": [
+      "stories"
+     ],
+     "3": [
+      "people"
+     ],
+     "4": [
+      "actions"
+     ],
+     "5": [
+      "way"
+     ],
+     "6": [
+      "book"
+     ]
+    },
+    "passage": {
+     "title": "The Joy of Reading",
+     "content": "<p>Have you ever wondered why people read? Why reading is one of the few things that has consistently remained part of society for thousands of years? Even before <span class=\"gap\" data-gap=\"1\">_____(1)_____</span> became available to the general public, stories were told around campfires, passed down from generation to generation. First of all, <span class=\"gap\" data-gap=\"2\">_____(2)_____</span> are a good way to escape from your ordinary life, to get immersed in another world, if only for a little time. While reading, you can imagine yourself in different situations that range from unlikely to impossible, but in the moment that doesn’t matter. Whether you’re suffering from depression or are just bored, reading is a great distraction. Similarly, another reason <span class=\"gap\" data-gap=\"3\">_____(3)_____</span> are attracted to stories, is because they are lonely, very often they feel as if they are the only ones in the world going through something difficult. Identifying with a fictional character can make a big difference in helping people understand that they are not alone. Other people read because it can be a good way to relax. It can be very nice to sit down and enjoy a good plot unfold, to watch the actions of fictional characters from the side, and to see the consequences of these <span class=\"gap\" data-gap=\"4\">_____(4)_____</span> , without having to bear any responsibility. Lastly, people read because it is the easiest <span class=\"gap\" data-gap=\"5\">_____(5)_____</span> to gain knowledge in a certain area. Instead of finding a teacher, you can just find a <span class=\"gap\" data-gap=\"6\">_____(6)_____</span> , sit down, and spend a few hours reading. This way you can study wherever you want, whenever you want at your own pace. There are countless books in the world, and whoever you are, whatever you’re feeling, there is definitely a book out there, just waiting for you to discover it.</p>"
+    },
+    "questions": [
+     {
+      "id": 1,
+      "hint": ""
+     },
+     {
+      "id": 2,
+      "hint": ""
+     },
+     {
+      "id": 3,
+      "hint": ""
+     },
+     {
+      "id": 4,
+      "hint": ""
+     },
+     {
+      "id": 5,
+      "hint": ""
+     },
+     {
+      "id": 6,
+      "hint": ""
+     }
+    ],
+    "partNumber": 1,
+    "instruction": "Read the text. Fill in each gap with ONE word. You must use a word which is somewhere in the rest of the text.",
+    "explanations": {},
+    "questionRange": "1-6"
+   },
+   {
+    "type": "matching",
+    "texts": [
+     {
+      "number": 7,
+      "content": "NO BICYCLES AGAINST GLASS PLEASE"
+     },
+     {
+      "number": 8,
+      "content": "MESSAGE — Harry, Ron says he missed the bus. He'll have to wait an hour for the next one. Can you tell Sue he's sorry."
+     },
+     {
+      "number": 9,
+      "content": "NO FRESH FISH TODAY — We regret that due to recent bad weather no fresh fish has been delivered."
+     },
+     {
+      "number": 10,
+      "content": "IT IS FORBIDDEN TO CHEW GUM ON THE SCHOOL PREMISES. ANYONE CAUGHT CHEWING GUM WILL BE REPORTED TO THE PRINCIPAL"
+     },
+     {
+      "number": 11,
+      "content": "BE PREPARED — SCHOOL ENTRANCE AHEAD — DEAD SLOW"
+     },
+     {
+      "number": 12,
+      "content": "FRESHLY PAINTED — DO NOT TOUCH"
+     },
+     {
+      "number": 13,
+      "content": "SECURITY — Please don't leave luggage unattended. Any unattended luggage will be removed and be destroyed."
+     },
+     {
+      "number": 14,
+      "content": "BOOKS IN THE CAFE — Please remember that only books that have been paid for may be taken into the book shop cafe."
+     }
+    ],
+    "title": "Part 2",
+    "answers": {
+     "7": [
+      "E"
+     ],
+     "8": [
+      "K"
+     ],
+     "9": [
+      "A"
+     ],
+     "10": [
+      "H"
+     ],
+     "11": [
+      "O"
+     ],
+     "12": [
+      "P"
+     ],
+     "13": [
+      "F"
+     ],
+     "14": [
+      "C"
+     ]
+    },
+    "questions": [
+     {
+      "id": 7,
+      "textNumber": 7
+     },
+     {
+      "id": 8,
+      "textNumber": 8
+     },
+     {
+      "id": 9,
+      "textNumber": 9
+     },
+     {
+      "id": 10,
+      "textNumber": 10
+     },
+     {
+      "id": 11,
+      "textNumber": 11
+     },
+     {
+      "id": 12,
+      "textNumber": 12
+     },
+     {
+      "id": 13,
+      "textNumber": 13
+     },
+     {
+      "id": 14,
+      "textNumber": 14
+     }
+    ],
+    "partNumber": 2,
+    "statements": [
+     {
+      "text": "The weather is responsible for the problem.",
+      "letter": "A"
+     },
+     {
+      "text": "The fish shop is responsible for the problem",
+      "letter": "B"
+     },
+     {
+      "text": "You must not take any unpaid for books to the cafe.",
+      "letter": "C"
+     },
+     {
+      "text": "You should pay for your books in the cafe.",
+      "letter": "D"
+     },
+     {
+      "text": "Do not leave your bicycle touching the window.",
+      "letter": "E"
+     },
+     {
+      "text": "You must always be with your luggage.",
+      "letter": "F"
+     },
+     {
+      "text": "Harry is apologising.",
+      "letter": "G"
+     },
+     {
+      "text": "You must not eat chewing gum in school.",
+      "letter": "H"
+     },
+     {
+      "text": "Chewing gum is bad for you.",
+      "letter": "I"
+     },
+     {
+      "text": "You have to paint something.",
+      "letter": "J"
+     },
+     {
+      "text": "Ron is apologising.",
+      "letter": "K"
+     },
+     {
+      "text": "They will destroy unattended luggage.",
+      "letter": "L"
+     },
+     {
+      "text": "Somebody needs to enter the school.",
+      "letter": "M"
+     },
+     {
+      "text": "Broken glass may damage your bicycle tyres.",
+      "letter": "N"
+     },
+     {
+      "text": "Somebody needs to change speed.",
+      "letter": "O"
+     },
+     {
+      "text": "You must not touch something",
+      "letter": "P"
+     }
+    ],
+    "instruction": "Read the notices 7-14 and the texts A-P. Decide which text matches with the situation described in each notice. Each text can be used ONCE only.",
+    "explanations": {},
+    "questionRange": "7-14",
+    "extraStatements": [
+     "B",
+     "D",
+     "G",
+     "I",
+     "J",
+     "L",
+     "M",
+     "N"
+    ],
+    "statementsFirst": false
+   },
+   {
+    "type": "matching-headings",
+    "title": "Part 3",
+    "answers": {
+     "15": [
+      "I"
+     ],
+     "16": [
+      "VI"
+     ],
+     "17": [
+      "II"
+     ],
+     "18": [
+      "VIII"
+     ],
+     "19": [
+      "III"
+     ],
+     "20": [
+      "VII"
+     ]
+    },
+    "passage": {
+     "title": "Immigrations to the United States",
+     "paragraphs": [
+      {
+       "number": "A",
+       "content": "The United States of America has long been the world’s chief receiving nation for immigrants. An immigrant is a person who leaves his or her country to settle and live in another country. Over the years, many millions of people have uprooted and left family and friends to move to America. Some felt forced to leave because they feared for their lives due to dangers present in their home countries. For example, many immigrants left countries that were at war or that didn’t give them the freedom to practice their faith. Immigrants also left their native lands if they couldn’t find work or enough food to live. Whatever the reason, immigrants usually have had to sacrifice a life that is familiar for one that is unknown."
+      },
+      {
+       "number": "B",
+       "content": "The United States was founded by immigrants. From the 1600s through 1775, European colonists settled in the land that is now the United States. Most of these immigrants were from England. Others arrived from France, Germany, Ireland, Scotland, and Spain. Many of these colonists came here looking for economic opportunity. They wanted better land to farm or better work. Others came to escape religious persecution. Some were even convicts brought over from English jails. West Africans also immigrated to the American colonies, but they came against their will. They were captured, sold into slavery, and shipped to the colonies."
+      },
+      {
+       "number": "C",
+       "content": "Since the United States was established in the late 1700s, it has seen three waves of immigration. The first wave of American immigration took place from 1820 to 1870. Over seven million people made the voyage to America, mostly from northern and western Europe. About a third of these immigrants were Irish people trying to escape a famine that plagued Ireland in the mid-1840s. Another third of the immigrants from this wave were German. The Chinese also began to immigrate to America during this time. They got word of the Gold Rush in California. They came to work in the mines and get rich."
+      },
+      {
+       "number": "D",
+       "content": "This flood of immigrants wasn’t always welcome by those already in America. Some feared these newcomers would take away their jobs. Others didn’t like the politics, customs, and/or religions the new immigrants brought with them. For example, many Irish people were discriminated against for being Roman Catholic. The Chinese also suffered greatly from discrimination."
+      },
+      {
+       "number": "E",
+       "content": "The third wave of immigration began in 1965 and continues today. Most immigrants in this wave have come from Asian countries as well as South American countries, Caribbean countries, and Mexico. A large number of these immigrants have settled in the East and Midwest. However, many others have moved to California."
+      },
+      {
+       "number": "F",
+       "content": "Most immigrants have come to America with the hope of building a better life. However, they were sometimes met with hatred by the people already living in the country who feared the economic and cultural impacts of these newcomers. While this discrimination and the economic downfall of the Great Depression had a negative effect on immigration, American immigration has managed to survive."
+      }
+     ]
+    },
+    "headings": [
+     {
+      "text": "Reasons for immigration.",
+      "letter": "I"
+     },
+     {
+      "text": "European immigrants.",
+      "letter": "II"
+     },
+     {
+      "text": "American immigration in the 60s.",
+      "letter": "III"
+     },
+     {
+      "text": "Prohibition of slavery in 19thC.",
+      "letter": "IV"
+     },
+     {
+      "text": "Measures to reduce immigration.",
+      "letter": "V"
+     },
+     {
+      "text": "Looking for a new opportunity.",
+      "letter": "VI"
+     },
+     {
+      "text": "Survival of immigration despite economic problems.",
+      "letter": "VII"
+     },
+     {
+      "text": "Religious discrimination",
+      "letter": "VIII"
+     }
+    ],
+    "questions": [
+     {
+      "id": 15,
+      "paragraphNumber": "A"
+     },
+     {
+      "id": 16,
+      "paragraphNumber": "B"
+     },
+     {
+      "id": 17,
+      "paragraphNumber": "C"
+     },
+     {
+      "id": 18,
+      "paragraphNumber": "D"
+     },
+     {
+      "id": 19,
+      "paragraphNumber": "E"
+     },
+     {
+      "id": 20,
+      "paragraphNumber": "F"
+     }
+    ],
+    "partNumber": 3,
+    "instruction": "Read the text and choose the correct heading for each paragraph from the list of headings below. There are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once.",
+    "explanations": {},
+    "extraHeadings": [
+     "IV",
+     "V"
+    ],
+    "questionRange": "15-20"
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 4",
+    "answers": {
+     "21": [
+      "D",
+      "trends in population and lifestyle."
+     ],
+     "22": [
+      "B",
+      "18 per cent."
+     ],
+     "23": [
+      "B",
+      "developing new gasification techniques."
+     ],
+     "24": [
+      "A",
+      "more cleanly and more efficiently."
+     ],
+     "25": [
+      "D",
+      "runoff water containing sediments."
+     ],
+     "26": [
+      "False"
+     ],
+     "27": [
+      "True"
+     ],
+     "28": [
+      "True"
+     ],
+     "29": [
+      "Not Given"
+     ]
+    },
+    "passage": {
+     "title": "Coal and the environment",
+     "content": "<p>Coal is expected to continue to account for almost 27 per cent of the world’s energy needs. However, with growins international awareness of pressures on the environment and the need to achieve sustainable development of energy resources, the way in which the resource is extracted, transported and used is critical. A wide range of pollution control devices and practices is in place at most modern mines and significant resources are spent on rehabilitating mined land. In addition, major research and development programmes are being devoted to lifting efficiencies and reducing emissions of greenhouse gases during coal consumption. Such measures are helping coal to maintain its status as a major supplier of the world’s energy needs.</p><p>The coal industry has been targeted by its critics as a significant contributor to the greenhouse effect. However, the greenhouse effect is a natural phenomenon involving the increase in global surface temperature due to the presence of greenhouse gases – water vapour, carbon dioxide, tropospheric ozone, methane and nitrous oxide – in the atmosphere. Without the greenhouse effect, the earth’s average surface temperature would be 33-35 degrees C lower, or -15 degrees Life on earth, as we know it today, would not be possible. There is concern that this natural phenomenon is being altered by a greater build-up of gases from human activity, perhaps giving rise to additional warming and changes in the earth’s climate. This additional build- up and its forecast outcome has been called the enhanced greenhouse effect. Considerable uncertainty exists, however, about the enhanced greenhouse effect, particularly in relation to the extent and timing of any future increases in global temperature.</p><p>Greenhouse gases arise from a wide range of sources and their increasing concentration is largely related to the compound effects of increased population, improved living standards and changes in lifestyle. From a current base of 5 billion, the United Nations predicts that the global population may stabilise in the twenty-first century between 8 and 14 billion, with more than 90 per cent of the projected increase taking place in the world’s developing nations. The associated activities to support that growth, particularly to produce the required energy and food, will cause further increases in greenhouse gas emissions. The challenge, therefore, is to attain a sustainable balance between population, economic growth and the environment.</p><p>The major greenhouse gas emissions from human activities are carbon dioxide (CO2), methane and nitrous oxide. Chlorofluorocarbons (CFCs) are the only major contributor to the greenhouse effect that does not occur naturally, coming from such sources as refrigeration, plastics and manufacture. Coal’s total contribution to greenhouse gas emissions is thought to be about 18 per cent, with about half of this coming from electricity generation.</p><p>The world-wide coal industry allocates extensive resources to researching and developing new technologies and ways of capturing greenhouse gases. Efficiencies are likely to be improved dramatically, and hence CO2 emissions reduced, through combustion and gasification techniques which are now at pilot and demonstration stages. Clean coal is another avenue for improving fuel conversion efficiency. Investigations are under way into superclean coal (3-5 per cent ash) and ultraclean coal (less than 1 per cent ash). Superclean coal has the potential to enhance the combustion efficiency of conventional pulverised fuel power plants. Ultraclean coal will enable coal to be used in advanced power systems such as coal-fired gas turbines which, when operated in combined cycle, have the potential to achieve much greater efficiencies.</p><p>Defendants of mining point out that, environmentally, coal mining has two important factors in its favour. It makes only</p><p>temporary use of the land and produces no toxic chemical wastes. By carefully pre-planning projects, implementing pollution control measures, monitoring the effects of mining and rehabilitating mined areas, the coal industry minimises the impact on the neighbouring community, the immediate environment and long-term land capability. Dust levels are controlled by spraying roads and stockpiles, and water pollution is controlled by carefully separating clean water runoff from runoff which contains sediments or salt from mine workings. The latter is treated and re- used for dust suppression. Noise is controlled by modifying equipment and by using insulation and sound enclosures around machinery. Since mining activities represent only a temporary use of the land, extensive rehabilitation measures are adopted to ensure that land capability after mining meets agreed and appropriate standards which, in some cases, are superior to the land’s pre-mining condition. Where the mining is underground, the surface area can be simultaneously used for forests, cattle grazing and crop raising, or even reservoirs and urban development, with little or no disruption to the existing land use. In all cases, mining is subject to stringent controls and approvals processes.</p><p>In open-cut operations, however, the land is used exclusively for mining but land rehabilitation measures generally progress with the mine’s development. As core samples are extracted to assess the quality and quantity of coal at a site, they are also analysed to assess the ability of the soil or subsoil material to support vegetation. Topsoils are stripped and stockpiled prior to mining for subsequent dispersal over rehabilitated areas. As mining ceases in one section of the open-cut, the disturbed area is reshaped. Drainage within and off the site is carefully designed to make the new land surface as stable as the local environment allows: often dams are built to protect the area from soil erosion and to serve as permanent sources of water. Based on the soil requirements, the land is suitably fertilised and revegetated.</p>"
+    },
+    "partNumber": 4,
+    "instruction": "Read the following text for questions 21-29.",
+    "explanations": {},
+    "questionRange": "21-29",
+    "questionSections": [
+     {
+      "type": "mcq",
+      "title": "Questions 21-25",
+      "questions": [
+       {
+        "id": 21,
+        "text": "The global increase in greenhouse gases has been attributed to",
+        "options": [
+         {
+          "text": "industrial pollution in developing countries.",
+          "letter": "A"
+         },
+         {
+          "text": "coal mining and electricity generation.",
+          "letter": "B"
+         },
+         {
+          "text": "reduced rainfall in many parts of the world.",
+          "letter": "C"
+         },
+         {
+          "text": "trends in population and lifestyle.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 22,
+        "text": "The proportion of all greenhouse gases created by coal is approximately",
+        "options": [
+         {
+          "text": "14 per cent.",
+          "letter": "A"
+         },
+         {
+          "text": "18 per cent.",
+          "letter": "B"
+         },
+         {
+          "text": "27 per cent.",
+          "letter": "C"
+         },
+         {
+          "text": "90 per cent.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 23,
+        "text": "Current research aims to increase the energy-producing efficiency of coal by",
+        "options": [
+         {
+          "text": "burning it at a lower temperature.",
+          "letter": "A"
+         },
+         {
+          "text": "developing new gasification techniques.",
+          "letter": "B"
+         },
+         {
+          "text": "extracting CO2 from it.",
+          "letter": "C"
+         },
+         {
+          "text": "recycling greenhouse gases.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 24,
+        "text": "Compared with ordinary coal, new, 'clean' coals may generate power",
+        "options": [
+         {
+          "text": "more cleanly and more efficiently.",
+          "letter": "A"
+         },
+         {
+          "text": "more cleanly but less efficiently.",
+          "letter": "B"
+         },
+         {
+          "text": "more cleanly but at higher cost.",
+          "letter": "C"
+         },
+         {
+          "text": "more cleanly but much more slowly.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 25,
+        "text": "To control dust at mine sites, mining companies often use",
+        "options": [
+         {
+          "text": "chemicals which may be toxic.",
+          "letter": "A"
+         },
+         {
+          "text": "topsoil taken from the site before mining.",
+          "letter": "B"
+         },
+         {
+          "text": "fresh water from nearby dams.",
+          "letter": "C"
+         },
+         {
+          "text": "runoff water containing sediments.",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "Choose the appropriate letter A-D."
+     },
+     {
+      "type": "tfni",
+      "title": "Questions 26-29",
+      "options": [
+       "True",
+       "False",
+       "Not Given"
+      ],
+      "questions": [
+       {
+        "id": 26,
+        "text": "The coal industry should be abandoned in favour of alternative energy sources because of the environmental damage it causes."
+       },
+       {
+        "id": 27,
+        "text": "The greatest threats to the environment are the gases produced by industries which support the high standard of living of a growing world population."
+       },
+       {
+        "id": 28,
+        "text": "World population in the twenty-first century will probably exceed 8 billion."
+       },
+       {
+        "id": 29,
+        "text": "CFC emissions have been substantially reduced in recent years."
+       }
+      ],
+      "instruction": "Do the following statements reflect the opinions of the writer in the Reading Passage?"
+     }
+    ]
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 5",
+    "answers": {
+     "30": [
+      "20",
+      "twenty"
+     ],
+     "31": [
+      "foam"
+     ],
+     "32": [
+      "waste water",
+      "wastewater"
+     ],
+     "33": [
+      "harmful"
+     ],
+     "34": [
+      "biodegrade"
+     ],
+     "35": [
+      "droplets",
+      "droplet"
+     ]
+    },
+    "passage": {
+     "title": "Talc Powder",
+     "content": "<p>Agriculture and Food, in Europe, explains that chewing gums has four main components. “The most important of them is the gum base,” he says. “It’s the gum base that puts the chew into chewing gum. It binds all the ingredients together, creating a soft, smooth texture. To this the manufacturer the adds sweeteners, softeners and flavourings. Our talc is used as a filler in the gum base. The amount varies between, say, ten and 35 per cent, depending on the type of gum. Fruit flavoured chewing gum, for example, is slightly acidic and would react with the calcium carbonate that the manufacturer might otherwise use as a filler. Talc, on the other hand, makes an ideal filler because it’s non-reactive chemically. In the factory, talc is also used to dust the gum base pellets and to stop the chewing gum sticking during the lamination and packing process,” Delord adds.</p><p>The chewing gum business is, however, just one example of talc’s use in the food sector. For the past 20 years or so, olive oil processors in Spain have been taking advantage of talc’s unique characteristics to help them boost the amount of oil they extract from crushed olives. According to Patrick Delord, talc is especially useful for treating what he calls “difficult” olives. After the olives are harvested – preferably early in the morning because their taste is better if they are gathered in the cool of the day – they are taken to the processing plant. There they are crushed and then stirred for 30-45 minutes. In the old days, the resulting paste was passed through an olive press but nowadays it’s more common to add water and centrifuge the mixture to separate the water and oil from the solid matter. The oil and water are then allowed to settle so that the olive oil layer can be decanted off and bottle. “Difficult” olives are those that are more reluctant than the norm to yield up their full oil content. This may be attributable to the particular species of olive, or to its water content and the time of year the olives are collected – at the beginning and the end of the season their water content is often either too high or too low. These olives are easy to recognize because they produce a lot of extra foam during the stirring process, a consequence of an excess of a fine sold that acts as a natural emulsifier. The oil in this emulsion is lost when the water is disposed of. Not only that, if the wastewater is disposed of directly into local fields – often the case in many smaller processing operations – the emulsified oil may take some time to biodegrade and so be harmful to the environment.</p><p>“If you add between a half and two per cent of talc by weight during the stirring process, it absorbs the natural emulsifier in the olives and so boosts the amount of oil you can extract,” says Delord. “In addition, talc’s flat, ‘platey’ structure helps increase the size of the oil droplets liberated during stirring, which again improves the yield. However, because talc is chemically inert, it doesn’t affect the colour, taste, appearance or composition of the resulting olive oil.”</p><p>If the use of talc in olive oil processing and in chewing gum is long-established, new applications in the food and agriculture industries are also constantly being sought by Luzenac. One such promising new market is fruit crop protection, being pioneered in the US. Just like people, fruit can get sunburned. In fact, in very sunny regions up to 45 per cent of a typical crop can be affected by heat stress and sunburn. However, in the case of fruit, it’s not so much the ultraviolet rays which harm the crop as the high surface temperature that the sun’s rays create.</p><p>To combat this, farmers normally use either chemicals or spray a continuous fine canopy of mist above the fruit trees or bushes. The trouble is, this uses a lot of water – normally a precious commodity in hot, sunny areas – and it is therefore expensive. What’s more, the ground can quickly become waterlogged. “So our idea was to coat the fruit with talc to protect it from the sun,” says Greg Hunter, a marketing specialist who has been with Luzenac for ten years. “But to do this, several technical challenges had first to be overcome. Talc is very hydrophobic: it doesn’t like water. So in order to have a viable product we needed a wettable powder – something that would go readily into suspension so that is could be sprayed onto the fruit. It also had to break the surface tension of the cutin (the natural waxy, waterproof layer on the fruit) and of course, it had to wash off easily when the fruit was harvested. No-one’s going to want an apple that’s covered in talc.”</p>"
+    },
+    "partNumber": 5,
+    "instruction": "Read the following text for questions 30-35.",
+    "explanations": {},
+    "questionRange": "30-35",
+    "questionSections": [
+     {
+      "type": "gap-fill",
+      "title": "Questions 30-35",
+      "questions": [
+       {
+        "id": 30,
+        "hint": ""
+       },
+       {
+        "id": 31,
+        "hint": ""
+       },
+       {
+        "id": 32,
+        "hint": ""
+       },
+       {
+        "id": 33,
+        "hint": ""
+       },
+       {
+        "id": 34,
+        "hint": ""
+       },
+       {
+        "id": 35,
+        "hint": ""
+       }
+      ],
+      "instruction": "Complete the following summary of the paragraphs of Reading Passage, using NO MORE THAN TWO WORDS from the Reading Passage for each answer.",
+      "summaryText": "<p>Spanish olive oil industry has been using talc in the oil extraction process for about <span class=\"gap-input\" data-gap=\"30\">_____(30)_____</span> years. It is useful in dealing with difficult olives which often produce a high amount of <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span> because of the high content of solid materials.</p><p>When smaller factories release <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span>, it could be <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span> to the environment because it is hard to <span class=\"gap-input\" data-gap=\"34\">_____(34)_____</span> and usually takes time as it contains emulsified oil. However, talc powder added in the process is able to absorb the emulsifier. It improves the oil extraction production because with the aid of talc powder, the size of oil <span class=\"gap-input\" data-gap=\"35\">_____(35)_____</span> increased.</p>"
+     }
+    ]
+   }
+  ],
+  "source": "Standard Mock (@MultiLevelRecord)",
+  "examDate": "2026-06-21",
+  "examType": "cefr",
+  "testInfo": {
+   "level": "B2",
+   "title": "CEFR Reading Mock 70",
+   "totalTime": 60,
+   "totalQuestions": 35
+  }
+ },
+ "created_at": "2026-06-21T17:31:22.145368+00:00",
+ "updated_at": "2026-10-11T10:30:14.590377+00:00"
+}

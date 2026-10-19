@@ -1,0 +1,909 @@
+{
+ "id": 2254,
+ "mock_type": "ket-reading-writing",
+ "mock_number": 20,
+ "title": "KET Reading & Writing — Test 20",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "match-notices",
+    "items": [
+     {
+      "id": 1,
+      "answer": "B",
+      "prompt": "You cannot come here tomorrow."
+     },
+     {
+      "id": 2,
+      "answer": "F",
+      "prompt": "If you want to play music well, you can study here."
+     },
+     {
+      "id": 3,
+      "answer": "D",
+      "prompt": "You will have to pay more if you come to this place tomorrow."
+     },
+     {
+      "id": 4,
+      "answer": "A",
+      "prompt": "You can get cheaper tickets if you are at college."
+     },
+     {
+      "id": 5,
+      "answer": "G",
+      "prompt": "You can buy music more cheaply here for a short time."
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "H",
+     "number": 0,
+     "prompt": "You must not eat here."
+    },
+    "notices": [
+     {
+      "text": "JULES FOURNIER PLAYS\nCLASSICAL GUITAR\nStudents half price",
+      "letter": "A"
+     },
+     {
+      "text": "The ABC cinema closes for two\nweeks today for repairs",
+      "letter": "B"
+     },
+     {
+      "text": "SUMMERTOWN SCHOOL\nNO TICKETS LEFT FOR NEXT\nWEEK'S CONCERT",
+      "letter": "C"
+     },
+     {
+      "text": "NEW THEATRE RESTAURANT\nMeals half price today only",
+      "letter": "D"
+     },
+     {
+      "text": "Music Shop\nClosed for lunch",
+      "letter": "E"
+     },
+     {
+      "text": "Piano and guitar courses at City College\nBeginners welcome",
+      "letter": "F"
+     },
+     {
+      "text": "MUSIC STORE\nLow prices on latest CDs\nNext two weeks only",
+      "letter": "G"
+     },
+     {
+      "text": "Please do not take any\nfood or drink into theatre",
+      "letter": "H"
+     }
+    ],
+    "partNumber": 1,
+    "instruction": [
+     "Which notice (A–H) says this (1–5)?",
+     "For questions 1–5, mark the correct letter A–H on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "mcq-gap-fill-sentences",
+    "items": [
+     {
+      "id": 6,
+      "answer": "C",
+      "options": [
+       {
+        "text": "knew",
+        "letter": "A"
+       },
+       {
+        "text": "practised",
+        "letter": "B"
+       },
+       {
+        "text": "learnt",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Sam _____ to ride when he was seven years old."
+     },
+     {
+      "id": 7,
+      "answer": "A",
+      "options": [
+       {
+        "text": "safe",
+        "letter": "A"
+       },
+       {
+        "text": "careful",
+        "letter": "B"
+       },
+       {
+        "text": "sure",
+        "letter": "C"
+       }
+      ],
+      "sentence": "He has to wear a special riding hat to keep himself _____."
+     },
+     {
+      "id": 8,
+      "answer": "C",
+      "options": [
+       {
+        "text": "time",
+        "letter": "A"
+       },
+       {
+        "text": "race",
+        "letter": "B"
+       },
+       {
+        "text": "prize",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Sam got first _____ at a riding competition last week."
+     },
+     {
+      "id": 9,
+      "answer": "B",
+      "options": [
+       {
+        "text": "wants",
+        "letter": "A"
+       },
+       {
+        "text": "hopes",
+        "letter": "B"
+       },
+       {
+        "text": "likes",
+        "letter": "C"
+       }
+      ],
+      "sentence": "He _____ that one day he will have his own horse."
+     },
+     {
+      "id": 10,
+      "answer": "A",
+      "options": [
+       {
+        "text": "earn",
+        "letter": "A"
+       },
+       {
+        "text": "pay",
+        "letter": "B"
+       },
+       {
+        "text": "spend",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Sam is doing a Saturday job to try to _____ enough money to buy his own horse."
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "answer": "B",
+     "number": 0,
+     "options": [
+      {
+       "text": "goes",
+       "letter": "A"
+      },
+      {
+       "text": "has",
+       "letter": "B"
+      },
+      {
+       "text": "makes",
+       "letter": "C"
+      }
+     ],
+     "sentence": "Sam _____ horse-riding lessons every Saturday morning."
+    },
+    "partNumber": 2,
+    "instruction": [
+     "Read the sentences about horse-riding lessons.",
+     "Choose the best word (A, B or C) for each space.",
+     "For questions 6–10, mark A, B or C on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-response",
+    "items": [
+     {
+      "id": 11,
+      "answer": "B",
+      "prompt": "It's too cold today.",
+      "options": [
+       {
+        "text": "It's all day.",
+        "letter": "A"
+       },
+       {
+        "text": "It will be warmer tomorrow.",
+        "letter": "B"
+       },
+       {
+        "text": "No, I don't like it.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "answer": "A",
+      "prompt": "Have you seen John?",
+      "options": [
+       {
+        "text": "He's just gone out.",
+        "letter": "A"
+       },
+       {
+        "text": "I don't mind where.",
+        "letter": "B"
+       },
+       {
+        "text": "He's happy to do that.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "answer": "B",
+      "prompt": "Please tell Liz I'll call her again this evening.",
+      "options": [
+       {
+        "text": "I haven't called her.",
+        "letter": "A"
+       },
+       {
+        "text": "I'll leave a note.",
+        "letter": "B"
+       },
+       {
+        "text": "I don't know.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "answer": "C",
+      "prompt": "Can you all give me your homework now?",
+      "options": [
+       {
+        "text": "Not since Friday.",
+        "letter": "A"
+       },
+       {
+        "text": "It's easier than mine.",
+        "letter": "B"
+       },
+       {
+        "text": "I've only done one page.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "answer": "B",
+      "prompt": "You're looking really well.",
+      "options": [
+       {
+        "text": "Never mind.",
+        "letter": "A"
+       },
+       {
+        "text": "Do you think so?",
+        "letter": "B"
+       },
+       {
+        "text": "It doesn't matter.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "prompt": "Where do you come from?",
+     "options": [
+      {
+       "text": "New York.",
+       "letter": "A"
+      },
+      {
+       "text": "School.",
+       "letter": "B"
+      },
+      {
+       "text": "Home.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partLetter": "a",
+    "partNumber": 3,
+    "instruction": [
+     "Complete the five conversations.",
+     "For questions 11–15, mark A, B or C on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "type": "match-dialogue",
+    "items": [
+     {
+      "id": 16,
+      "answer": "A"
+     },
+     {
+      "id": 17,
+      "answer": "E"
+     },
+     {
+      "id": 18,
+      "answer": "B"
+     },
+     {
+      "id": 19,
+      "answer": "G"
+     },
+     {
+      "id": 20,
+      "answer": "C"
+     }
+    ],
+    "example": {
+     "answer": "H",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "Thanks. This one's a nice colour.",
+      "letter": "A"
+     },
+     {
+      "text": "Is there another shop that sells them?",
+      "letter": "B"
+     },
+     {
+      "text": "I'll do that. Thanks a lot.",
+      "letter": "C"
+     },
+     {
+      "text": "I'm not sure how to get there.",
+      "letter": "D"
+     },
+     {
+      "text": "I don't think it will look right with my red ski jacket.",
+      "letter": "E"
+     },
+     {
+      "text": "Have you got a bigger one?",
+      "letter": "F"
+     },
+     {
+      "text": "Is it on the ground floor of the shopping centre, by the entrance?",
+      "letter": "G"
+     },
+     {
+      "text": "Yes, I'm looking for a ski hat.",
+      "letter": "H"
+     }
+    ],
+    "dialogue": [
+     {
+      "line": "Good afternoon. Can I help you?",
+      "speaker": "Assistant"
+     },
+     {
+      "gap": 0,
+      "speaker": "Tanya"
+     },
+     {
+      "line": "We've only got two left. Would you like to try them on?",
+      "speaker": "Assistant"
+     },
+     {
+      "gap": 16,
+      "speaker": "Tanya"
+     },
+     {
+      "line": "I agree, but it's too small for you. What about this one?",
+      "speaker": "Assistant"
+     },
+     {
+      "gap": 17,
+      "speaker": "Tanya"
+     },
+     {
+      "line": "That's a pity. That's all the ski hats we've got.",
+      "speaker": "Assistant"
+     },
+     {
+      "gap": 18,
+      "speaker": "Tanya"
+     },
+     {
+      "line": "There's one near the chemist's.",
+      "speaker": "Assistant"
+     },
+     {
+      "gap": 19,
+      "speaker": "Tanya"
+     },
+     {
+      "line": "That's right. If they haven't got any, try the sports shop on Harrey Street.",
+      "speaker": "Assistant"
+     },
+     {
+      "gap": 20,
+      "speaker": "Tanya"
+     },
+     {
+      "line": "You're welcome. Goodbye.",
+      "speaker": "Assistant"
+     }
+    ],
+    "partLetter": "b",
+    "partNumber": 3,
+    "instruction": [
+     "Complete the conversation in a shop.",
+     "What does Tanya say to the shop assistant?",
+     "For questions 16–20, mark the correct letter A–H on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "type": "mcq-passage-rws",
+    "items": [
+     {
+      "id": 21,
+      "answer": "B",
+      "statement": "Since 1913, Bollywood has made just under 29,000 films."
+     },
+     {
+      "id": 22,
+      "answer": "A",
+      "statement": "A lot more films are made in India than in the USA."
+     },
+     {
+      "id": 23,
+      "answer": "A",
+      "statement": "Going to the cinema is most Indians' favourite hobby."
+     },
+     {
+      "id": 24,
+      "answer": "C",
+      "statement": "Bollywood spends a lot of money on advertisements to sell its films."
+     },
+     {
+      "id": 25,
+      "answer": "A",
+      "statement": "Films are cheaper to make in Bollywood than in Hollywood."
+     },
+     {
+      "id": 26,
+      "answer": "B",
+      "statement": "Most Bollywood actors work in films until they are quite old."
+     },
+     {
+      "id": 27,
+      "answer": "C",
+      "statement": "Many young Indian actors would like to work with the Bollywood star Amitabh Bachchan."
+     }
+    ],
+    "label": "PART 4",
+    "article": "'Bollywood', which is the name of the film industry in Mumbai, India, makes almost 1,000 films a year. Since making its first film in 1913, Bollywood has made over 29,000 films. This is a much higher number than the USA and means it is the biggest film industry in the world. Most Indians like watching films better than any other free-time activity and ten million of them go to the cinema every day. Bollywood films tell romantic love stories, and singing and dancing are an important part of every film. Indian films are also enjoyed outside India. Last year, Bollywood made over $500 million by selling its films to other countries.\n\nIndian actors make more films each year than American actors in Hollywood, but they are not paid as much. This is why most Bollywood films only cost about $2 million to make. A Hollywood film is never made for under $5 million.\n\nMost Bollywood actors are young. They work hard but only for a few years. Amitabh Bachchan, who some people say is India's greatest actor, is different. He has been the star of more than 140 films during an acting career of almost 40 years.",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "statement": "The Indian film industry is called Bollywood."
+    },
+    "partNumber": 4,
+    "instruction": [
+     "Read the article about Indian films.",
+     "Are sentences 21–27 'Right' (A) or 'Wrong' (B)?",
+     "If there is not enough information to answer 'Right' (A) or 'Wrong' (B), choose 'Doesn't say' (C).",
+     "For questions 21–27, mark A, B or C on your answer sheet."
+    ],
+    "articleTitle": "Bollywood",
+    "questionsLabel": "QUESTIONS 21–27"
+   },
+   {
+    "type": "mcq-cloze-passage",
+    "items": [
+     {
+      "id": 28,
+      "answer": "C",
+      "options": [
+       {
+        "text": "or",
+        "letter": "A"
+       },
+       {
+        "text": "but",
+        "letter": "B"
+       },
+       {
+        "text": "so",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 29,
+      "answer": "A",
+      "options": [
+       {
+        "text": "other",
+        "letter": "A"
+       },
+       {
+        "text": "each",
+        "letter": "B"
+       },
+       {
+        "text": "another",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 30,
+      "answer": "C",
+      "options": [
+       {
+        "text": "Much",
+        "letter": "A"
+       },
+       {
+        "text": "More",
+        "letter": "B"
+       },
+       {
+        "text": "Many",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 31,
+      "answer": "A",
+      "options": [
+       {
+        "text": "be",
+        "letter": "A"
+       },
+       {
+        "text": "was",
+        "letter": "B"
+       },
+       {
+        "text": "been",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 32,
+      "answer": "B",
+      "options": [
+       {
+        "text": "them",
+        "letter": "A"
+       },
+       {
+        "text": "it",
+        "letter": "B"
+       },
+       {
+        "text": "her",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 33,
+      "answer": "B",
+      "options": [
+       {
+        "text": "some",
+        "letter": "A"
+       },
+       {
+        "text": "every",
+        "letter": "B"
+       },
+       {
+        "text": "both",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 34,
+      "answer": "A",
+      "options": [
+       {
+        "text": "in",
+        "letter": "A"
+       },
+       {
+        "text": "on",
+        "letter": "B"
+       },
+       {
+        "text": "from",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 35,
+      "answer": "A",
+      "options": [
+       {
+        "text": "made",
+        "letter": "A"
+       },
+       {
+        "text": "make",
+        "letter": "B"
+       },
+       {
+        "text": "making",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 5",
+    "example": {
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "text": "having",
+       "letter": "A"
+      },
+      {
+       "text": "has",
+       "letter": "B"
+      },
+      {
+       "text": "have",
+       "letter": "C"
+      }
+     ]
+    },
+    "passage": "People {0} always made buildings. We need houses to keep us warm and dry and we build stadiums {28} we can watch football matches and pop concerts. We use {29} buildings, like museums, to keep beautiful things in.\n\n{30} people work together on a building. The architect decides how the building is going to look and draws pictures that show people his or her ideas. Engineers make sure the building will {31} strong and safe. Then, the workers carefully build {32}.\n\nThe Sydney Opera House is a famous modern building with a lovely roof. But the building is beautiful from {33} side, not only from the top. There is also a famous roof on the Olympic Stadium {34} Munich. This interesting building looks like a tent that is {35} of glass.",
+    "partNumber": 5,
+    "instruction": [
+     "Read the article about buildings.",
+     "Choose the best word (A, B or C) for each space.",
+     "For questions 28–35, mark A, B or C on your answer sheet."
+    ],
+    "passageTitle": "Buildings",
+    "questionsLabel": "QUESTIONS 28–35"
+   },
+   {
+    "type": "vocab-first-letter",
+    "items": [
+     {
+      "id": 36,
+      "answer": "farmer",
+      "prompt": "This person lives in the countryside where he grows food and keeps animals.",
+      "letters": 6,
+      "firstLetter": "f"
+     },
+     {
+      "id": 37,
+      "answer": "mechanic",
+      "prompt": "If you have a problem with your car, this person can repair it.",
+      "letters": 8,
+      "firstLetter": "m"
+     },
+     {
+      "id": 38,
+      "answer": "journalist",
+      "prompt": "This person writes for a newspaper.",
+      "letters": 10,
+      "firstLetter": "j"
+     },
+     {
+      "id": 39,
+      "answer": "waiter",
+      "prompt": "You speak to this person when you ask for a meal in a restaurant.",
+      "letters": 6,
+      "firstLetter": "w"
+     },
+     {
+      "id": 40,
+      "answer": "photographer",
+      "prompt": "This person uses a camera in his work.",
+      "letters": 12,
+      "firstLetter": "p"
+     }
+    ],
+    "label": "PART 6",
+    "example": {
+     "answer": "doctor",
+     "number": 0,
+     "prompt": "You go to see this person if you are ill.",
+     "firstLetter": "d"
+    },
+    "partNumber": 6,
+    "instruction": [
+     "Read the descriptions of some words for jobs. What is the word for each one?",
+     "The first letter is already there. There is one space for each other letter in the word.",
+     "For questions 36–40, write the words on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 36–40"
+   },
+   {
+    "type": "open-cloze-letter",
+    "items": [
+     {
+      "id": 41,
+      "answer": "at"
+     },
+     {
+      "id": 42,
+      "answer": "called"
+     },
+     {
+      "id": 43,
+      "answer": "where"
+     },
+     {
+      "id": 44,
+      "answer": "am"
+     },
+     {
+      "id": 45,
+      "answer": "than"
+     },
+     {
+      "id": 46,
+      "answer": "the"
+     },
+     {
+      "id": 47,
+      "answer": "of"
+     },
+     {
+      "id": 48,
+      "answer": "him"
+     },
+     {
+      "id": 49,
+      "answer": "a"
+     },
+     {
+      "id": 50,
+      "answer": "to"
+     }
+    ],
+    "label": "PART 7",
+    "example": {
+     "answer": "for",
+     "number": 0
+    },
+    "letters": [
+     {
+      "body": "Thank you (Example: for) your letter. I had my first day {41} my new school today. A girl {42} Nicole looked after me and showed me {43} my classrooms were. She is very nice and I {44} going to visit her this weekend.\n\nMy favourite lesson today was Maths and I was happy because I knew more {45} the other girls. I also played hockey for {46} first time. I really enjoyed it.\n\nMost of the teachers seem friendly but I'm afraid {47} the head teacher. No one likes {48} because he shouts {49} lot.\n\nI must go now because I have {50} do my homework.",
+      "closing": "Hester",
+      "greeting": "Dear Keira,"
+     }
+    ],
+    "partNumber": 7,
+    "instruction": [
+     "Complete the letter.",
+     "Write ONE word for each space.",
+     "For questions 41–50, write the words on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 41–50"
+   },
+   {
+    "note": {
+     "body": "",
+     "dateLine": "",
+     "signature": ""
+    },
+    "rows": [
+     {
+      "label": "Restaurant:",
+      "prefilled": "Europa"
+     },
+     {
+      "id": 51,
+      "label": "Day:",
+      "answer": "Tuesday"
+     },
+     {
+      "id": 52,
+      "label": "Type of food wanted:",
+      "answer": "Italian"
+     },
+     {
+      "id": 53,
+      "label": "Time:",
+      "answer": "7.30",
+      "suffix": "p.m."
+     },
+     {
+      "id": 54,
+      "label": "Number of people:",
+      "answer": "18"
+     },
+     {
+      "id": 55,
+      "label": "Price per person:",
+      "answer": "20",
+      "suffix": "£"
+     }
+    ],
+    "type": "info-transfer-notes",
+    "label": "PART 8",
+    "notice": {
+     "body": "EUROPA RESTAURANT\n\nItalian food\nMonday – Tuesday\n\nGreek food\nWednesday – Sunday\n\n35 seats\n\nOpen 7 p.m. – midnight\n\nDinner – £25 per person (£20 for groups of ten or more)\n\n—————————————\nFrom: Susie\nTo:   Nina\n\nIt's Bella's birthday next week. What about Europa Restaurant for her birthday party? Can you book a table for eighteen of us?\n\nShe prefers Italian food to Greek food and she's not free on Monday so let's go there next Tuesday. 7 p.m. is early, so say half past when you phone.\n\nThanks.",
+     "title": "Europa Restaurant + Email"
+    },
+    "notesTitle": "Nina's notes",
+    "partNumber": 8,
+    "instruction": [
+     "Read the advertisement and the email.",
+     "Fill in the information in Nina's notes.",
+     "For questions 51–55, write the information on your answer sheet."
+    ],
+    "notesSubtitle": "Book table for Bella's party",
+    "questionsLabel": "QUESTIONS 51–55"
+   },
+   {
+    "type": "writing-postcard",
+    "items": [
+     {
+      "id": 56,
+      "type": "free-text",
+      "answer": "Dear Sarah,\nI'm happy to hear you would like to play tennis this evening. We should come 4 o'clock this evening to my house. We can go by my car to the sport centre. You should wear a shorts and a T-shirt.\nBye.\nSachini",
+      "maxWords": 35,
+      "minWords": 25
+     }
+    ],
+    "label": "PART 9",
+    "footer": [
+     "Write 25–35 words.",
+     "Write the note on your answer sheet."
+    ],
+    "prompt": "Yes, I would like to play tennis this evening.\n\nWhat time shall we meet at your house? How are we going to get to the sports centre? What do I need to wear?",
+    "wordCount": "25–35 words",
+    "partNumber": 9,
+    "instruction": [
+     "Read this note from your friend, Sarah.",
+     "Write a note to Sarah and answer her questions."
+    ],
+    "questionsLabel": "QUESTION 56",
+    "promptSignature": ""
+   }
+  ],
+  "testInfo": {
+   "id": "ket-rw-20",
+   "level": "A2",
+   "paper": "Paper 1",
+   "parts": 9,
+   "title": "KET Reading & Writing — Test 20",
+   "totalTime": 70,
+   "totalQuestions": 56
+  }
+ },
+ "created_at": "2026-10-14T06:45:09.99568+00:00",
+ "updated_at": "2026-10-14T06:46:57.18321+00:00"
+}

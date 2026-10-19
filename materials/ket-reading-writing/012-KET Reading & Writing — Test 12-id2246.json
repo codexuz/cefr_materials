@@ -1,0 +1,912 @@
+{
+ "id": 2246,
+ "mock_type": "ket-reading-writing",
+ "mock_number": 12,
+ "title": "KET Reading & Writing — Test 12",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "match-notices",
+    "items": [
+     {
+      "id": 1,
+      "answer": "F",
+      "prompt": "You can use this for two days."
+     },
+     {
+      "id": 2,
+      "answer": "E",
+      "prompt": "Students do not have to pay to go here at weekends."
+     },
+     {
+      "id": 3,
+      "answer": "A",
+      "prompt": "Someone would like to speak another language."
+     },
+     {
+      "id": 4,
+      "answer": "C",
+      "prompt": "If you study here, you will pay less for this."
+     },
+     {
+      "id": 5,
+      "answer": "B",
+      "prompt": "You can find things to listen to here in the college."
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "H",
+     "number": 0,
+     "prompt": "You can only get small pictures here."
+    },
+    "notices": [
+     {
+      "text": "WANTED\nSpanish lessons\nevenings or weekends",
+      "letter": "A"
+     },
+     {
+      "text": "English Language Student Library\nbooks, magazines and cassettes",
+      "letter": "B"
+     },
+     {
+      "text": "College Film Night\n'TITANIC'\nCollege students £2.50  Others £3.00",
+      "letter": "C"
+     },
+     {
+      "text": "The Biggest Video Store in Town\nOPEN 24 HOURS",
+      "letter": "D"
+     },
+     {
+      "text": "YORK MUSEUM\nMon–Fri  £5\nSat–Sun  £2 / Students free",
+      "letter": "E"
+     },
+     {
+      "text": "Weekend Travel Card £10\nTrain or Bus\nCentral London only",
+      "letter": "F"
+     },
+     {
+      "text": "Learn to play the guitar in four months\nVideo course — £50",
+      "letter": "G"
+     },
+     {
+      "text": "Colour Photos\nPassport size only  4 for £3",
+      "letter": "H"
+     }
+    ],
+    "partNumber": 1,
+    "instruction": [
+     "Which notice (A–H) says this (1–5)?",
+     "For questions 1–5, mark the correct letter A–H on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "mcq-gap-fill-sentences",
+    "items": [
+     {
+      "id": 6,
+      "answer": "B",
+      "options": [
+       {
+        "text": "work",
+        "letter": "A"
+       },
+       {
+        "text": "become",
+        "letter": "B"
+       },
+       {
+        "text": "do",
+        "letter": "C"
+       }
+      ],
+      "sentence": "She hopes to _____ a photographer for a newspaper one day."
+     },
+     {
+      "id": 7,
+      "answer": "C",
+      "options": [
+       {
+        "text": "made",
+        "letter": "A"
+       },
+       {
+        "text": "went",
+        "letter": "B"
+       },
+       {
+        "text": "joined",
+        "letter": "C"
+       }
+      ],
+      "sentence": "She _____ a photography club to learn more about using a camera."
+     },
+     {
+      "id": 8,
+      "answer": "B",
+      "options": [
+       {
+        "text": "careful",
+        "letter": "A"
+       },
+       {
+        "text": "hard",
+        "letter": "B"
+       },
+       {
+        "text": "fast",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Jane says it's _____ to take pictures of children or animals because they are always moving."
+     },
+     {
+      "id": 9,
+      "answer": "A",
+      "options": [
+       {
+        "text": "notice",
+        "letter": "A"
+       },
+       {
+        "text": "bill",
+        "letter": "B"
+       },
+       {
+        "text": "ticket",
+        "letter": "C"
+       }
+      ],
+      "sentence": "One day, she saw a _____ about a competition in a photography magazine."
+     },
+     {
+      "id": 10,
+      "answer": "A",
+      "options": [
+       {
+        "text": "won",
+        "letter": "A"
+       },
+       {
+        "text": "carried",
+        "letter": "B"
+       },
+       {
+        "text": "caught",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Jane _____ the first prize for one of her pictures."
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "answer": "B",
+     "number": 0,
+     "options": [
+      {
+       "text": "happy",
+       "letter": "A"
+      },
+      {
+       "text": "favourite",
+       "letter": "B"
+      },
+      {
+       "text": "excellent",
+       "letter": "C"
+      }
+     ],
+     "sentence": "Jane's _____ hobby is taking photographs."
+    },
+    "partNumber": 2,
+    "instruction": [
+     "Read the sentences (6–10) about Jane's hobby.",
+     "Choose the best word (A, B or C) for each space.",
+     "For questions 6–10, mark A, B or C on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-response",
+    "items": [
+     {
+      "id": 11,
+      "answer": "A",
+      "prompt": "When will lunch be ready?",
+      "options": [
+       {
+        "text": "Quite soon.",
+        "letter": "A"
+       },
+       {
+        "text": "It's soup and toast.",
+        "letter": "B"
+       },
+       {
+        "text": "I hope you're hungry.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "answer": "C",
+      "prompt": "It's very hot in here.",
+      "options": [
+       {
+        "text": "Do you feel cold?",
+        "letter": "A"
+       },
+       {
+        "text": "I'll turn on the heating.",
+        "letter": "B"
+       },
+       {
+        "text": "Let's go outside then.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "answer": "B",
+      "prompt": "Have you met Henry before?",
+      "options": [
+       {
+        "text": "Yes, at first.",
+        "letter": "A"
+       },
+       {
+        "text": "Yes, on holiday.",
+        "letter": "B"
+       },
+       {
+        "text": "Yes, I do.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "answer": "C",
+      "prompt": "Do you like visiting museums?",
+      "options": [
+       {
+        "text": "I'd love to!",
+        "letter": "A"
+       },
+       {
+        "text": "No, I haven't.",
+        "letter": "B"
+       },
+       {
+        "text": "Not really.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "answer": "C",
+      "prompt": "I've broken my glasses.",
+      "options": [
+       {
+        "text": "Here's another one.",
+        "letter": "A"
+       },
+       {
+        "text": "You can't see.",
+        "letter": "B"
+       },
+       {
+        "text": "That's a pity!",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "prompt": "Where do you come from?",
+     "options": [
+      {
+       "text": "New York.",
+       "letter": "A"
+      },
+      {
+       "text": "School.",
+       "letter": "B"
+      },
+      {
+       "text": "Home.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partLetter": "a",
+    "partNumber": 3,
+    "instruction": [
+     "Complete the five conversations.",
+     "For conversations 11–15, mark A, B or C on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "type": "match-dialogue",
+    "items": [
+     {
+      "id": 16,
+      "answer": "C"
+     },
+     {
+      "id": 17,
+      "answer": "G"
+     },
+     {
+      "id": 18,
+      "answer": "F"
+     },
+     {
+      "id": 19,
+      "answer": "D"
+     },
+     {
+      "id": 20,
+      "answer": "A"
+     }
+    ],
+    "example": {
+     "answer": "H",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "Thank you, I'll go there now.",
+      "letter": "A"
+     },
+     {
+      "text": "I suppose so.",
+      "letter": "B"
+     },
+     {
+      "text": "Oh, are there different ones? I didn't know.",
+      "letter": "C"
+     },
+     {
+      "text": "That's fine. Is Park Street just after the High Street?",
+      "letter": "D"
+     },
+     {
+      "text": "Can I use them?",
+      "letter": "E"
+     },
+     {
+      "text": "Is that far from here?",
+      "letter": "F"
+     },
+     {
+      "text": "Well, I'm a student at a language school, not the university.",
+      "letter": "G"
+     },
+     {
+      "text": "Yes, please. Where are the tennis courts?",
+      "letter": "H"
+     }
+    ],
+    "dialogue": [
+     {
+      "line": "Hello, can I help you?",
+      "speaker": "Assistant"
+     },
+     {
+      "gap": 0,
+      "speaker": "Student"
+     },
+     {
+      "line": "Do you want the university tennis courts or the city ones?",
+      "speaker": "Assistant"
+     },
+     {
+      "gap": 16,
+      "speaker": "Student"
+     },
+     {
+      "line": "Yes. Are you a university student? They can use the university ones.",
+      "speaker": "Assistant"
+     },
+     {
+      "gap": 17,
+      "speaker": "Student"
+     },
+     {
+      "line": "So, you need the city tennis courts. They're in Park Street.",
+      "speaker": "Assistant"
+     },
+     {
+      "gap": 18,
+      "speaker": "Student"
+     },
+     {
+      "line": "Well, if you walk, it's about 20 minutes.",
+      "speaker": "Assistant"
+     },
+     {
+      "gap": 19,
+      "speaker": "Student"
+     },
+     {
+      "line": "That's right. Take the third road on the left, then it's on the right.",
+      "speaker": "Assistant"
+     },
+     {
+      "gap": 20,
+      "speaker": "Student"
+     },
+     {
+      "line": "You're welcome.",
+      "speaker": "Assistant"
+     }
+    ],
+    "partLetter": "b",
+    "partNumber": 3,
+    "instruction": [
+     "Complete the conversation.",
+     "What does the student say to the assistant in the tourist information office?",
+     "For questions 16–20, mark the correct letter A–H on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "type": "mcq-passage-rws",
+    "items": [
+     {
+      "id": 21,
+      "answer": "A",
+      "statement": "A few days ago, John was on television in Japan."
+     },
+     {
+      "id": 22,
+      "answer": "B",
+      "statement": "John's first show in Japan was on the radio."
+     },
+     {
+      "id": 23,
+      "answer": "C",
+      "statement": "John hopes to become famous in England one day."
+     },
+     {
+      "id": 24,
+      "answer": "A",
+      "statement": "John Pickering and Jon Otis are the same person."
+     },
+     {
+      "id": 25,
+      "answer": "A",
+      "statement": "John will still work in the park because he needs the money."
+     },
+     {
+      "id": 26,
+      "answer": "B",
+      "statement": "John's colleagues think his songs are very good."
+     },
+     {
+      "id": 27,
+      "answer": "C",
+      "statement": "John's wife would like him to stop singing."
+     }
+    ],
+    "label": "PART 4",
+    "article": "In a park in a small town in central England, John Pickering cuts the grass and waters the flowers. But all last week he was in Tokyo and millions of Japanese people watched the thirty-five-year-old gardener on television because John is the number one singer in Japan at the moment. John visited Japan a few months ago to sing in dance clubs in Osaka and Nagoya. A disc jockey heard his songs and played them on his radio show. Hundreds of young people phoned the radio and asked the disc jockey to play the songs once more.\n\nJohn, who uses the name Jon Otis when he sings in Japan, is not going to stop working in the park in England. He does not know yet how much he will earn from his music. 'I must keep my job in the park,' he says. 'I still have to pay my bills!' The other gardeners do not know that he is famous in Japan. They've never even heard him sing.\n\nJohn's wife, Denise, a hospital worker, says, 'This will not change the way we live. I only know John Pickering, not Jon Otis!'",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "statement": "John Pickering usually works in England."
+    },
+    "partNumber": 4,
+    "instruction": [
+     "Read the article about a singer.",
+     "Are sentences 21–27 'Right' (A) or 'Wrong' (B)?",
+     "If there is not enough information to answer 'Right' (A) or 'Wrong' (B), choose 'Doesn't say' (C).",
+     "For questions 21–27, mark A, B or C on the answer sheet."
+    ],
+    "articleTitle": "John Pickering",
+    "questionsLabel": "QUESTIONS 21–27"
+   },
+   {
+    "type": "mcq-cloze-passage",
+    "items": [
+     {
+      "id": 28,
+      "answer": "C",
+      "options": [
+       {
+        "text": "had",
+        "letter": "A"
+       },
+       {
+        "text": "has",
+        "letter": "B"
+       },
+       {
+        "text": "have",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 29,
+      "answer": "A",
+      "options": [
+       {
+        "text": "can",
+        "letter": "A"
+       },
+       {
+        "text": "shall",
+        "letter": "B"
+       },
+       {
+        "text": "do",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 30,
+      "answer": "B",
+      "options": [
+       {
+        "text": "until",
+        "letter": "A"
+       },
+       {
+        "text": "when",
+        "letter": "B"
+       },
+       {
+        "text": "during",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 31,
+      "answer": "B",
+      "options": [
+       {
+        "text": "best",
+        "letter": "A"
+       },
+       {
+        "text": "better",
+        "letter": "B"
+       },
+       {
+        "text": "good",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 32,
+      "answer": "A",
+      "options": [
+       {
+        "text": "at",
+        "letter": "A"
+       },
+       {
+        "text": "in",
+        "letter": "B"
+       },
+       {
+        "text": "on",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 33,
+      "answer": "C",
+      "options": [
+       {
+        "text": "also",
+        "letter": "A"
+       },
+       {
+        "text": "too",
+        "letter": "B"
+       },
+       {
+        "text": "or",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 34,
+      "answer": "A",
+      "options": [
+       {
+        "text": "see",
+        "letter": "A"
+       },
+       {
+        "text": "saw",
+        "letter": "B"
+       },
+       {
+        "text": "seen",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 35,
+      "answer": "B",
+      "options": [
+       {
+        "text": "never",
+        "letter": "A"
+       },
+       {
+        "text": "not",
+        "letter": "B"
+       },
+       {
+        "text": "no",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 5",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "options": [
+      {
+       "text": "to",
+       "letter": "A"
+      },
+      {
+       "text": "for",
+       "letter": "B"
+      },
+      {
+       "text": "with",
+       "letter": "C"
+      }
+     ]
+    },
+    "passage": "Today, people like to send postcards {0} their friends and family. These postcards often {28} pictures of beaches, mountains or castles on them and you {29} write a message on the back. Many people send postcards {30} they are on holiday because postcards are cheap and the pictures on them are often {31} than people's own photos.\n\nSomebody sent the first postcard {32} the end of the nineteenth century. It had a picture of a town by the sea on it. Later on, postcards had pictures showing something in the news that week, perhaps an accident {33} an important person's visit. People liked to {34} them because they did {35} have pictures in their newspapers then.",
+    "partNumber": 5,
+    "instruction": [
+     "Read the article about postcards.",
+     "Choose the best word (A, B or C) for each space (28–35).",
+     "For questions 28–35, mark A, B or C on the answer sheet."
+    ],
+    "passageTitle": "POSTCARDS",
+    "questionsLabel": "QUESTIONS 28–35"
+   },
+   {
+    "type": "vocab-first-letter",
+    "items": [
+     {
+      "id": 36,
+      "answer": "mountain",
+      "prompt": "You may find snow on the top of this at all times of the year.",
+      "letters": 8,
+      "firstLetter": "m"
+     },
+     {
+      "id": 37,
+      "answer": "field",
+      "prompt": "The farmer puts animals or plants here.",
+      "letters": 5,
+      "firstLetter": "f"
+     },
+     {
+      "id": 38,
+      "answer": "island",
+      "prompt": "People have to cross water to get to this.",
+      "letters": 6,
+      "firstLetter": "i"
+     },
+     {
+      "id": 39,
+      "answer": "river",
+      "prompt": "The water in this starts in the hills and runs to the sea.",
+      "letters": 5,
+      "firstLetter": "r"
+     },
+     {
+      "id": 40,
+      "answer": "canal",
+      "prompt": "Engineers build this to take things in boats from one place to another.",
+      "letters": 5,
+      "firstLetter": "c"
+     }
+    ],
+    "label": "PART 6",
+    "example": {
+     "answer": "forest",
+     "number": 0,
+     "prompt": "This is a large group of trees.",
+     "firstLetter": "f"
+    },
+    "partNumber": 6,
+    "instruction": [
+     "Read the descriptions (36–40) of some things you may learn about in a geography lesson.",
+     "What is the word for each description?",
+     "The first letter is already there. There is one space for each other letter in the word.",
+     "For questions 36–40, write the words on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 36–40"
+   },
+   {
+    "type": "open-cloze-letter",
+    "items": [
+     {
+      "id": 41,
+      "answer": "any"
+     },
+     {
+      "id": 42,
+      "answer": "to"
+     },
+     {
+      "id": 43,
+      "answer": "next"
+     },
+     {
+      "id": 44,
+      "answer": "with"
+     },
+     {
+      "id": 45,
+      "answer": "are"
+     },
+     {
+      "id": 46,
+      "answer": "be"
+     },
+     {
+      "id": 47,
+      "answer": "will"
+     },
+     {
+      "id": 48,
+      "answer": "a"
+     },
+     {
+      "id": 49,
+      "answer": "say"
+     },
+     {
+      "id": 50,
+      "answer": "me"
+     }
+    ],
+    "label": "PART 7",
+    "example": {
+     "answer": "am",
+     "number": 0
+    },
+    "letters": [
+     {
+      "body": "I (Example: am) sorry but I can't come to your class {41} more because I have {42} return to my country.\n\nMy sister is going to get married {43} month. I want to go shopping {44} her to choose a dress. My parents {45} going to make a big meal for the guests and there {46} a lot of work in the kitchen.\n\nI am sorry I {47} leave the English class. You are {48} very good teacher. Please {49} goodbye to the other students for {50}.\n\nThanks again.",
+      "header": "",
+      "closing": "Best wishes,\nSoraya",
+      "greeting": "Dear Mrs Brian,"
+     }
+    ],
+    "partNumber": 7,
+    "instruction": [
+     "Complete the letter.",
+     "Write ONE word for each space (41–50).",
+     "For questions 41–50, write your words on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 41–50"
+   },
+   {
+    "note": {
+     "body": "Dear Mrs Bell,\n\nI would like to join your piano class. I can play some classical music, but now I'd like to learn to play modern music. I have English classes with Mr Smith every morning, but I am free in the afternoons.",
+     "dateLine": "",
+     "signature": "Maria Gomez"
+    },
+    "rows": [
+     {
+      "label": "Name:",
+      "prefilled": "Maria Gomez"
+     },
+     {
+      "id": 51,
+      "label": "Teacher:",
+      "answer": "Mrs Bell"
+     },
+     {
+      "id": 52,
+      "label": "Musical instrument:",
+      "answer": "piano"
+     },
+     {
+      "id": 53,
+      "label": "What kind of music do you want to learn?",
+      "answer": "modern music"
+     },
+     {
+      "id": 54,
+      "label": "Day of class:",
+      "answer": "Thursday"
+     },
+     {
+      "id": 55,
+      "label": "Time of class:",
+      "answer": "3.30 p.m."
+     }
+    ],
+    "type": "info-transfer-notes",
+    "label": "PART 8",
+    "notice": {
+     "body": "MORNING\n10 am  Piano\n9.30 am  Guitar\n\nAFTERNOON\n2 pm  Guitar\n3.30 pm  Piano",
+     "title": "MUSIC LESSONS"
+    },
+    "notesTitle": "College Music Lessons",
+    "partNumber": 8,
+    "instruction": [
+     "Read the note and the information about music lessons.",
+     "Fill in the information on the application form.",
+     "For questions 51–55, write the information on the answer sheet."
+    ],
+    "notesSubtitle": "Application Form",
+    "questionsLabel": "QUESTIONS 51–55"
+   },
+   {
+    "type": "writing-postcard",
+    "items": [
+     {
+      "id": 56,
+      "type": "free-text",
+      "answer": "Hi Peter\nLet's go walking in my town and go to the park. I will wearing my new skirt bring a camera to the park we will taking some photos,\nLove Nicole",
+      "maxWords": 35,
+      "minWords": 25
+     }
+    ],
+    "label": "PART 9",
+    "footer": [
+     "Write 25–35 words.",
+     "Write your note on the answer sheet."
+    ],
+    "prompt": "",
+    "wordCount": "25–35 words",
+    "partNumber": 9,
+    "instruction": [
+     "You are going to go walking with your English friend next Friday. Write a note to your friend.",
+     "Say:",
+     "• where you can go walking",
+     "• what you are going to wear",
+     "• what your friend should bring."
+    ],
+    "questionsLabel": "QUESTION 56",
+    "promptSignature": ""
+   }
+  ],
+  "testInfo": {
+   "id": "ket-rw-12",
+   "level": "A2",
+   "paper": "Paper 1",
+   "parts": 9,
+   "title": "KET Reading & Writing — Test 12",
+   "totalTime": 70,
+   "totalQuestions": 56
+  }
+ },
+ "created_at": "2026-10-14T06:45:04.408098+00:00",
+ "updated_at": "2026-10-14T06:46:51.796558+00:00"
+}

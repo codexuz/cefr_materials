@@ -1,0 +1,565 @@
+{
+ "id": 51,
+ "mock_type": "cefr-writing",
+ "mock_number": 41,
+ "title": "CEFR Writing Mock 41",
+ "status": "published",
+ "mock_data": {
+  "part1": {
+   "chip": "travel",
+   "topic": "Airline issue"
+  },
+  "tasks": {
+   "t2": {
+    "chip": "education",
+    "genre": "article",
+    "title": "Handwritten letters more meaningful than digital messages",
+    "prompt": "A student magazine announced an article writing contest. The best ones will be published in the magazine. Write your article on this topic: \"Are handwritten letters more meaningful than digital messages?\" Write 180–200 words, giving reasons and examples.",
+    "sample": "<h2>Budget Airlines: Bargain or Burden?</h2>\n\n<p>As someone who <span class=\"ml-token adv\">frequently</span> travels on a tight budget, I've had plenty of experience with <span class=\"ml-token colloc\">budget carriers</span>. Are they worth it? Let me share my honest thoughts.</p>\n\n<p><span class=\"ml-token adv\">Undoubtedly</span>, the <span class=\"ml-token colloc\">initial ticket prices</span> are attractive. For short-haul flights, saving 50-70% compared to <span class=\"ml-token colloc\">traditional airlines</span> makes budget carriers appealing.</p>\n\n<p><span class=\"ml-token adv\">However</span>, the <span class=\"ml-token colloc\">hidden costs</span> <span class=\"ml-token modal\">can</span> quickly erode those savings. Baggage fees, seat selection, and onboard refreshments add up <span class=\"ml-token adv\">surprisingly</span> fast.</p>\n\n<p><span class=\"ml-token adv\">Moreover</span>, <span class=\"ml-token colloc\">comfort compromises</span> are real. Tight seats, no entertainment, and minimal service <span class=\"ml-token modal\">can</span> make longer flights <span class=\"ml-token adv\">particularly</span> uncomfortable.</p>\n\n<p><span class=\"ml-token adv\">Personally</span>, I recommend budget airlines for flights under three hours where you <span class=\"ml-token modal\">can</span> travel light. For longer journeys, the <span class=\"ml-token colloc\">price difference</span> often isn't worth the discomfort.</p>\n\n<p>My tip? Always calculate the <span class=\"ml-token colloc\">total cost</span> including extras before booking!</p>\n\n<p>What's your budget airline experience?</p>",
+    "target": "180–200 words",
+    "sampleA1": "<p>Hi SkyBudget,</p><br><p>The plane is okay. The people are okay. Food no good. Bye.</p>",
+    "sampleA2": "<p>Dear SkyBudget,</p><br><p>Thank you for the flight. It was okay. The booking was easy, and the check-in was fast. But the food was not good. The people on the plane were nice. I think you need better food. Maybe I will fly with you again because it is cheap.</p><br><p>Thanks,</p><br><p>Sardor Xolmatov</p>",
+    "sampleB1": "<p>Dear SkyBudget,</p><br><p>I am writing to you about my recent flight. Overall, it was an okay experience, but there are some things you could improve.</p><br><p>The booking process online was very easy, and I didn't have any problems checking in. The cabin crew were mostly helpful, but some of them seemed a bit stressed. I think they need more training.</p><br><p>The main problem was the lack of space on the plane. It was very uncomfortable, especially for a longer flight. Also, the food was not very good. I think you should offer better food options.</p><br><p>If you improved these things, I would definitely choose SkyBudget again because the price is good. Thank you for your time.</p><br><p>Sincerely,</p><br><p>Sardor Xolmatov</p>",
+    "sampleB2": "<h2>The Lost Art of the Handwritten Letter</h2>\n<p>In a world where we <span class=\"ml-token phrasal\">fire off</span> dozens of messages a day, when was the last time you actually sat down and wrote a letter by hand? For me, <span class=\"ml-token idiom\">nothing beats</span> the feeling of finding an envelope with my name on it in the post.</p>\n<p>Digital messages are <span class=\"ml-token adv\">undeniably</span> convenient. They travel across the globe in seconds and keep us connected <span class=\"ml-token idiom\">around the clock</span>. Yet, precisely because they are so effortless, they often feel throwaway. A quick text is here one minute and buried under a hundred others the next, forgotten almost as soon as it arrives.</p>\n<p>A handwritten letter, <span class=\"ml-token linking\">on the other hand</span>, is a different story. Someone has taken the time to choose their words, and their handwriting carries a <span class=\"ml-token colloc\">personal touch</span> that no font can match. Years later, you can still hold that letter in your hands and be taken straight back to the moment.</p>\n<p>In my view, both have their place, but <span class=\"ml-token linking\">when it comes to</span> saying something that truly matters, a handwritten letter <span class=\"ml-token idiom\">wins hands down</span>. So next time, why not pick up a pen and surprise someone you care about?</p>",
+    "uzSample": "<h2>Arzon Aviakompaniyalar: Foydami yoki Yuk?</h2>\n\n<p>Tejamkorlik bilan tez-tez sayohat qiladigan odam sifatida, men arzon aviakompaniyalar bilan ko'p tajribaga egaman. Ular arziydimi? Keling, o'z fikrlarimni siz bilan baham ko'rsam.</p>\n\n<p>Shubhasiz, dastlabki chipta narxlari jozibali. Qisqa masofali reyslar uchun an'anaviy aviakompaniyalarga nisbatan 50-70% tejash arzon aviakompaniyalarni jozibador qiladi.</p>\n\n<p>Biroq, yashirin xarajatlar bu tejashni tezda yo'qqa chiqarishi mumkin. Yuk to'lovlari, o'rindiq tanlash va bortdagi ichimliklar hayratlanarli darajada tez qo'shiladi.</p>\n\n<p>Bundan tashqari, qulaylikdagi murosalar haqiqat. Tor o'rindiqlar, ko'ngilochar dasturlar yo'qligi va minimal xizmat uzoqroq reyslarni ayniqsa noqulay qilishi mumkin.</p>\n\n<p>Shaxsan men, agar siz yengil sayohat qila olsangiz, uch soatdan kam bo'lgan reyslar uchun arzon aviakompaniyalarni tavsiya qilaman. Uzoqroq sayohatlar uchun narx farqi ko'pincha noqulaylikka arzimaydi.</p>\n\n<p>Mening maslahatim? Bron qilishdan oldin har doim qo'shimcha xarajatlarni ham hisobga olgan holda umumiy narxni hisoblang!</p>\n\n<p>Sizning arzon aviakompaniyalar bilan tajribangiz qanday?</p>",
+    "uzSampleA1": "<p>Salom, SkyBudget,</p><br><p>Samolyot yaxshi. Odamlar yaxshi. Ovqat yaxshi emas. Xayr.</p>",
+    "uzSampleA2": "<p>Hurmatli SkyBudget,</p><br><p>Parvoz uchun rahmat. Yaxshi bo'ldi. Bron qilish oson edi va ro'yxatdan o'tish tez bo'ldi. Ammo ovqat yaxshi emas edi. Samolyotdagi odamlar yaxshi edi. O'ylashimcha, sizga yaxshiroq ovqat kerak. Ehtimol, siz bilan yana uchaman, chunki arzon.</p><br><p>Rahmat,</p><br><p>Sardor Xolmatov</p>",
+    "uzSampleB1": "<p>Hurmatli SkyBudget,</p><br><p>Men sizga yaqinda bo'lib o'tgan reysim haqida yozmoqdaman. Umuman olganda, bu yaxshi tajriba edi, lekin siz yaxshilashingiz mumkin bo'lgan ba'zi narsalar bor.</p><br><p>Onlayn bron qilish jarayoni juda oson edi va ro'yxatdan o'tishda hech qanday muammoga duch kelmadim. Kabina ekipaji asosan yordam berishdi, lekin ularning ba'zilari biroz stressda ko'rindi. Menimcha, ularga ko'proq trening kerak.</p><br><p>Asosiy muammo samolyotda joyning yetishmasligi edi. Bu juda noqulay edi, ayniqsa uzoqroq reys uchun. Bundan tashqari, ovqat juda yaxshi emas edi. Menimcha, siz yaxshiroq ovqat variantlarini taklif qilishingiz kerak.</p><br><p>Agar siz bu narsalarni yaxshilasangiz, men narx yaxshi bo'lgani uchun SkyBudgetni yana tanlagan bo'lardim. Vaqtingiz uchun rahmat.</p><br><p>Hurmat bilan,</p><br><p>Sardor Xolmatov</p>",
+    "uzSampleB2": "<p>Hurmatli SkyBudget mijozlar bilan aloqalar bo'limi,</p><br><p>Men SkyBudget bilan yaqinda amalga oshirgan parvozim haqida fikr-mulohazalar bildirish uchun yozyapman. Narx, albatta, jozibali bo'lsa-da, tajribaning bir nechta jihatlari yaxshilanishga muhtoj.</p><br><p>Onlayn bron qilish jarayoni sodda va samarali edi. Ro'yxatdan o'tish ham nisbatan muammosiz kechdi, garchi yuk topshirish joyidagi navbat juda uzun edi. Kabina ekipaji odatda xushmuomala va yordam beruvchi edi, garchi ularning parvoz davomida mavjudligi cheklangan ko'rinardi.</p><br><p>Mening asosiy tashvishim umumiy qulaylik bilan bog'liq. O'rindiqlar tor edi, oyoq uchun joy minimal edi va parvoz davomida ko'ngilochar variantlarning yo'qligi sayohatni ancha uzoqroq qildi. Bundan tashqari, yuk va o'rindiq tanlash uchun qo'shimcha to'lovlar umumiy xarajatni sezilarli darajada oshirdi va dastlabki narx afzalligini kamaytirdi.</p><br><p>Qayta biznesni rag'batlantirish uchun SkyBudgetga qulayroq o'rindiqlarga sarmoya kiritishni va bepul asosiy ko'ngilochar variantlarni o'rganishni taklif qilaman. Kamroq yashirin to'lovlar bilan yanada shaffof narxlash tuzilishi ham mijozlar tajribasini yaxshilaydi. Raqobatbardosh narxlarni saqlab qolish zarurligini tushunsam ham, yo'lovchilarning qulayligiga e'tibor bermaslik va qo'shimcha to'lovlar undirish oxir-oqibatda qabul qilinadigan qiymatni pasaytiradi.</p><br><p>Hurmat bilan,</p><br><p>Sardor Xolmatov</p>"
+   },
+   "t11": {
+    "title": "informal letter · to friend",
+    "prompt": "Write a letter to your friend, who is planning to book with the same airline. Write about your feelings and what you think they should do.",
+    "sample": "Hey!\n\nSo I flew with SkyBudget last week. The <span class=\"ml-token colloc\">flight</span> was <span class=\"ml-token adv\">actually</span> fine, but <span class=\"ml-token adv\">honestly</span>, the <span class=\"ml-token colloc\">extra fees</span> for everything add up! <span class=\"ml-token phrasal\">Make sure</span> you <span class=\"ml-token phrasal\">check</span> the <span class=\"ml-token colloc\">baggage allowance</span> before booking.\n\nLet me know if you need tips!",
+    "target": "50 words",
+    "sampleA1": "<p>Hi Kamron,<br>SkyBudget is okay. The plane is okay. But money! Baggage is extra. Bye!</p>",
+    "sampleA2": "<p>Hi Kamron,<br>I flew with SkyBudget. It was okay, but it was not cheap. The bags cost extra money, and the food too. You should check the prices before you book it because it is not all included. Bye!</p>",
+    "sampleB1": "<p>Hi Kamron,<br>I wanted to tell you about SkyBudget. The flight itself was fine, but you have to pay extra for everything. For example, baggage and even food cost extra. I think you should compare the prices carefully with other airlines before you book, because the final price might be higher than you expect. Let me know if you have any questions!</p>",
+    "sampleB2": "<p>Hi Kamron,<br>Heard you're <span class=\"ml-token colloc\">planning to book</span> with SkyBudget — I flew with them last week! Honestly, the flight was fine and <span class=\"ml-token colloc\">pretty cheap</span>, but the extra fees really <span class=\"ml-token phrasal\">add up</span>. <span class=\"ml-token phrasal\">Make sure</span> you check the <span class=\"ml-token colloc\">baggage allowance</span> before you book, or you'll <span class=\"ml-token idiom\">get stung</span> at the airport. <span class=\"ml-token phrasal\">Shop around</span> first, and <span class=\"ml-token phrasal\">let me know</span> if you need any tips!<br><br>Take care,<br>Dilnoza Karimova</p>",
+    "uzSample": "<p>Salom!</p>\n<p>Shunday qilib, men o'tgan hafta SkyBudget bilan uchdim. Parvoz aslida yaxshi edi, lekin rostini aytsam, hamma narsa uchun qo'shimcha to'lovlar qo'shilib ketadi! Buyurtma berishdan oldin yuk tashish me'yorini tekshiring.</p>\n<p>Agar maslahatlar kerak bo'lsa, menga xabar bering!</p>",
+    "uzSampleA1": "<p>Salom Kamron,<br>SkyBudget yaxshi. Samolyot yaxshi. Lekin pul! Yuk qo'shimcha pulga. Xayr!</p>",
+    "uzSampleA2": "<p>Salom, Kamron,<br>Men SkyBudget bilan uchdim. Yaxshi edi, lekin arzon emasdi. Yuklar qo'shimcha pulga, ovqat ham shunday. Bron qilishdan oldin narxlarni tekshirib ko'rishingiz kerak, chunki hammasi ichiga kirmagan. Xayr!</p>",
+    "uzSampleB1": "<p>Salom Kamron,<br>Sizga SkyBudget haqida aytmoqchi edim. Parvozning o'zi yaxshi edi, lekin hamma narsa uchun qo'shimcha pul to'lashingiz kerak. Misol uchun, yuk va hatto ovqat ham qo'shimcha pulga turadi. O'ylashimcha, bron qilishdan oldin narxlarni boshqa aviakompaniyalar bilan diqqat bilan solishtirishingiz kerak, chunki yakuniy narx siz kutganingizdan yuqori bo'lishi mumkin. Agar savollaringiz bo'lsa, menga xabar bering!</p>",
+    "uzSampleB2": "<p>Salom, Kamron,<br>Siz SkyBudget bilan uchmoqchi bo'lganingiz uchun, sizga ogohlantirmoqchiman. Parvozning o'zi juda yaxshi edi, lekin shuni bilingki, ular har bir narsa uchun sizdan qo'shimcha pul undirishadi. Yuk uchun to'lovlar juda qimmat, hatto oddiy gazak ham sizga qo'shimcha xarajat bo'ladi. Men sizga boshqa aviakompaniyalar bilan solishtirganda barcha potentsial qo'shimcha xarajatlarni hisobga olishni maslahat beraman, chunki arzon ko'rinadigan asosiy narx juda chalg'ituvchi bo'lishi mumkin. Oxir-oqibat, u ko'ringanidek arzon bo'lmasligi mumkin. Umid qilamanki, bu yordam beradi!</p>"
+   },
+   "t12": {
+    "title": "formal letter · to recipient",
+    "prompt": "Write a letter to the airline. Write about your feelings and what you think they should do.",
+    "sample": "<p>Dear SkyBudget Customer Relations,</p>\n\n<p>Thank you for the opportunity to provide feedback on my recent flight.</p>\n\n<p><span class=\"ml-token adv\">Firstly</span>, the <span class=\"ml-token colloc\">online booking</span> process was <span class=\"ml-token colloc\">straightforward</span> and the <span class=\"ml-token colloc\">check-in</span> was <span class=\"ml-token adv\">remarkably</span> efficient.</p>\n\n<p><span class=\"ml-token adv\">However</span>, I was <span class=\"ml-token adv\">somewhat</span> disappointed by the <span class=\"ml-token colloc\">hidden charges</span>. The <span class=\"ml-token colloc\">seat selection fee</span> and <span class=\"ml-token colloc\">carry-on baggage</span> charges were not clear during booking. Greater <span class=\"ml-token colloc\">transparency</span> <span class=\"ml-token modal\">would</span> be appreciated.</p>\n\n<p><span class=\"ml-token adv\">Additionally</span>, the <span class=\"ml-token colloc\">legroom</span> was <span class=\"ml-token adv\">quite</span> limited. While I understand <span class=\"ml-token colloc\">budget constraints</span>, slightly more space <span class=\"ml-token modal\">would</span> improve comfort.</p>\n\n<p><span class=\"ml-token adv\">Furthermore</span>, offering complimentary water on longer flights <span class=\"ml-token modal\">would</span> be a welcome gesture.</p>\n\n<p>The <span class=\"ml-token colloc\">cabin crew</span> were <span class=\"ml-token adv\">exceptionally</span> friendly, which I <span class=\"ml-token adv\">greatly</span> appreciated.</p>\n\n<p>Yours faithfully,<br>A Budget Traveler</p>",
+    "target": "120–150 words",
+    "sampleA1": "<p>Hi SkyBudget!</p><br><p>My fly was okay. Check-in easy. Staff nice. I want water next time. Bye!</p>",
+    "sampleA2": "<p>Dear SkyBudget,</p><br><p>Thank you for the email. The booking was easy and the check-in was quick. The people on the plane were nice. But the seats were not very good because they were small. I was thirsty and I wanted some water but it cost money. I think you should give free water. I will fly again if the seats are better and there is free water.</p><br><p>Thanks,<br>A Customer</p>",
+    "sampleB1": "<p>Dear SkyBudget Customer Relations,</p><br><p>Thank you for asking about my flight. Overall, it was okay, but there are some things I think you could improve.</p><br><p>The booking online was simple and checking in at the airport was fast, so that was good. However, I wasn't very happy about the extra costs. I had to pay extra for my bag, which I didn't expect. Also, the seats were a little uncomfortable because there wasn't much space for my legs.</p><br><p>I think it would be better if you made the baggage costs clearer when booking. Also, maybe you could offer free water on the flight. The staff were friendly and helpful. I would consider flying with you again if these things were improved.</p><br><p>Sincerely,<br>A Passenger</p>",
+    "sampleB2": "<p>Dear SkyBudget Customer Relations,</p>\n<p>I am writing to share my feedback following my recent flight with your airline.</p>\n<p><span class=\"ml-token linking\">To begin with</span>, the online booking was refreshingly <span class=\"ml-token colloc\">straightforward</span> and the check-in ran smoothly, so credit where it's due. However, I was rather disappointed by the <span class=\"ml-token colloc\">hidden charges</span>. The fees for baggage and seat selection only <span class=\"ml-token phrasal\">came to light</span> late in the process, which felt misleading. Greater <span class=\"ml-token colloc\">transparency</span> would <span class=\"ml-token idiom\">go a long way</span>.</p>\n<p><span class=\"ml-token linking\">In addition</span>, the <span class=\"ml-token colloc\">legroom</span> was extremely tight, especially on a longer flight. A little more space would make all the difference, and offering <span class=\"ml-token colloc\">complimentary water</span> on longer routes would be a welcome touch.</p>\n<p>On a positive note, your <span class=\"ml-token colloc\">cabin crew</span> were genuinely friendly and helpful throughout. With a few improvements, I would gladly fly with you again.</p>\n<p>Yours faithfully,<br>Bekzod Aliyev</p>",
+    "uzSample": "<p>Hurmatli SkyBudget mijozlar bilan aloqalar bo'limi,</p>\n\n<p>Yaqinda amalga oshirgan parvozim bo'yicha fikr-mulohazalarimni bildirish imkoniyati uchun rahmat.</p>\n\n<p>Avvalo, onlayn bron qilish jarayoni sodda va ro'yxatdan o'tish juda samarali bo'ldi.</p>\n\n<p>Biroq, yashirin to'lovlar meni biroz xafa qildi. O'rindiq tanlash to'lovi va qo'l yuklari uchun to'lovlar bron qilish vaqtida aniq ko'rsatilmagan. Shaffoflikni oshirish maqsadga muvofiq bo'lardi.</p>\n\n<p>Bundan tashqari, oyoq uchun joy juda cheklangan edi. Budjet cheklovlarini tushunsam ham, biroz ko'proq joy qulaylikni oshirardi.</p>\n\n<p>Qolaversa, uzoq parvozlarda bepul suv taklif qilish yaxshi ishora bo'lardi.</p>\n\n<p>Kabina ekipaji juda do'stona edi, buni men juda qadrladim.</p>\n\n<p>Hurmat bilan,<br>Byudjetli sayohatchi</p>",
+    "uzSampleA1": "<p>Salom, SkyBudget!</p><br><p>Mening parvozim yaxshi bo'ldi. Ro'yxatdan o'tish oson. Xodimlar yaxshi. Keyingi safar suv bo'lishini xohlayman. Xayr!</p>",
+    "uzSampleA2": "<p>Hurmatli SkyBudget,</p><br><p>Elektron pochtangiz uchun rahmat. Bron qilish oson bo'ldi va ro'yxatdan o'tish tez bo'ldi. Samolyotdagi odamlar yaxshi edi. Lekin o'rindiqlar juda yaxshi emas edi, chunki ular kichkina edi. Men chanqadim va suv ichishni xohladim, lekin u pulga turadi. Menimcha, siz bepul suv berishingiz kerak. Agar o'rindiqlar yaxshiroq bo'lsa va bepul suv bo'lsa, men yana uchaman.</p><br><p>Rahmat,<br>Bir Mijoz</p>",
+    "uzSampleB1": "<p>Hurmatli SkyBudget mijozlar bilan aloqalar bo'limi,</p><br><p>Parvozim haqida so'raganingiz uchun rahmat. Umuman olganda, yaxshi edi, lekin siz yaxshilashingiz mumkin bo'lgan ba'zi narsalar bor deb o'ylayman.</p><br><p>Onlayn bron qilish oddiy edi va aeroportda ro'yxatdan o'tish tez bo'ldi, shuning uchun bu yaxshi edi. Biroq, qo'shimcha xarajatlar meni juda xursand qilmadi. Men sumkam uchun qo'shimcha pul to'lashim kerak edi, buni kutmagan edim. Bundan tashqari, o'rindiqlar biroz noqulay edi, chunki oyoqlarim uchun joy kam edi.</p><br><p>O'ylaymanki, bron qilishda yuk narxlarini aniqroq qilsangiz yaxshiroq bo'lardi. Shuningdek, parvozda bepul suv taklif qilishingiz mumkin. Xodimlar do'stona va yordam berishga tayyor edilar. Agar bu narsalar yaxshilansa, men siz bilan yana uchishni o'ylab ko'rardim.</p><br><p>Hurmat bilan,<br>Yo'lovchi</p>",
+    "uzSampleB2": "<p>Hurmatli SkyBudget mijozlar bilan aloqalar bo'limi,</p><br><p>Men SkyBudget aviakompaniyasi bilan yaqinda amalga oshirgan parvozim bo'yicha fikr-mulohazalaringizni so'rab qilgan murojaatingizga javoban yozyapman. Umumiy tajriba qoniqarli bo'lsa-da, e'tiborga loyiq va mijozlar ehtiyojini sezilarli darajada oshirishi mumkin bo'lgan bir nechta sohalar bor, deb hisoblayman.</p><br><p>Avvalo, onlayn bron qilish jarayoni nisbatan sodda va ro'yxatdan o'tish tartibi samarali ekanligini aniqladim. Biroq, qo'shimcha to'lovlar bilan bog'liq shaffoflikning yo'qligidan biroz hafsalam pir bo'ldi. Xususan, bagaj va o'rindiq tanlash uchun to'lovlar dastlabki bron qilish bosqichlarida yaqqol ko'rsatilmagan, bu esa biroz chalg'ituvchi tuyuldi.</p><br><p>Bundan tashqari, SkyBudget byudjet aviakompaniyasi sifatida faoliyat yuritishini tushunsam ham, oyoq uchun joyning cheklanganligi, ayniqsa uzoqroq parvozda sezilarli darajada noqulay edi. O'rindiq qadamining ozgina oshishi ham katta farq qiladi.</p><br><p>Va nihoyat, ayniqsa uzoq yo'nalishlarda bepul suv ta'minotini ko'rib chiqishni taklif qilaman. Ushbu kichik imo-ishora yo'lovchilar tomonidan juda qadrlanadi.</p><br><p>Shunga qaramay, parvoz davomida doimo do'stona va yordam bergan bort xodimlarini maqtashim kerak. Shaffoflik va yo'lovchilarning qulayligini biroz yaxshilash bilan, kelajakda sayohat qilish uchun SkyBudgetni tanlashga ko'proq moyil bo'lardim.</p><br><p>Hurmat bilan,<br>Xavotirli yo'lovchi</p>"
+   },
+   "p1_context": "You recently flew with a budget airline.",
+   "p1_scenario": "Dear Valued Passenger,\n\nThank you for choosing SkyBudget Airlines! We hope you had a pleasant journey.\nHow was the booking process and check-in experience? Were our cabin crew helpful?\nWhat improvements would make you choose us again?\n\nSkyBudget Customer Relations"
+  },
+  "examDate": "2025-12-16",
+  "settings": {
+   "logoUrl": "https://audio.mock-stream.com/img/ibb/WN0XY5Lv/logo.png",
+   "heading1": "Bilim va malakalarni baholash agentligi",
+   "heading2": "Chet tilini bilish darajasi",
+   "examTitle": "Writing exam",
+   "logoWording": "Mock Stream",
+   "testIdentifier": "mock_stream"
+  },
+  "vocabulary": {
+   "task2": [
+    {
+     "en": "budget carriers",
+     "uz": "arzon aviakompaniyalar"
+    },
+    {
+     "en": "frequently travels",
+     "uz": "tez-tez sayohat qilmoq"
+    },
+    {
+     "en": "tight budget",
+     "uz": "cheklangan byudjet"
+    },
+    {
+     "en": "initial ticket prices",
+     "uz": "dastlabki chipta narxlari"
+    },
+    {
+     "en": "short-haul flights",
+     "uz": "qisqa masofali parvozlar"
+    },
+    {
+     "en": "traditional airlines",
+     "uz": "an'anaviy aviakompaniyalar"
+    },
+    {
+     "en": "hidden costs",
+     "uz": "yashirin xarajatlar"
+    },
+    {
+     "en": "erode savings",
+     "uz": "tejashni kamaytirmoq"
+    },
+    {
+     "en": "comfort compromises",
+     "uz": "qulaylik murosalari"
+    },
+    {
+     "en": "tight seats",
+     "uz": "tor o'rindiqlar"
+    },
+    {
+     "en": "minimal service",
+     "uz": "minimal xizmat"
+    },
+    {
+     "en": "particularly uncomfortable",
+     "uz": "ayniqsa noqulay"
+    },
+    {
+     "en": "travel light",
+     "uz": "yengil sayohat qilmoq"
+    },
+    {
+     "en": "price difference",
+     "uz": "narx farqi"
+    },
+    {
+     "en": "total cost",
+     "uz": "umumiy xarajat"
+    },
+    {
+     "en": "including extras",
+     "uz": "qo'shimchalarni o'z ichiga olgan holda"
+    },
+    {
+     "en": "bargain or burden",
+     "uz": "foydali yoki og'ir"
+    },
+    {
+     "en": "honest thoughts",
+     "uz": "samimiy fikrlar"
+    },
+    {
+     "en": "appealing",
+     "uz": "jozibali"
+    },
+    {
+     "en": "onboard refreshments",
+     "uz": "bortda taomlar"
+    }
+   ],
+   "task11": [
+    {
+     "en": "flew with",
+     "uz": "bilan uchmoq"
+    },
+    {
+     "en": "actually fine",
+     "uz": "aslida yaxshi"
+    },
+    {
+     "en": "extra fees",
+     "uz": "qo'shimcha to'lovlar"
+    },
+    {
+     "en": "add up",
+     "uz": "yig'ilib qolmoq"
+    },
+    {
+     "en": "make sure",
+     "uz": "ishonch hosil qilmoq"
+    },
+    {
+     "en": "baggage allowance",
+     "uz": "bagaj ruxsati"
+    },
+    {
+     "en": "before booking",
+     "uz": "bron qilishdan oldin"
+    },
+    {
+     "en": "let me know",
+     "uz": "menga ayting"
+    },
+    {
+     "en": "need tips",
+     "uz": "maslahat kerak"
+    },
+    {
+     "en": "last week",
+     "uz": "o'tgan hafta"
+    },
+    {
+     "en": "pretty cheap",
+     "uz": "ancha arzon"
+    },
+    {
+     "en": "worth trying",
+     "uz": "sinab ko'rishga arziydi"
+    },
+    {
+     "en": "on time",
+     "uz": "o'z vaqtida"
+    },
+    {
+     "en": "no delays",
+     "uz": "kechikish yo'q"
+    },
+    {
+     "en": "comfortable enough",
+     "uz": "yetarli darajada qulay"
+    },
+    {
+     "en": "be careful",
+     "uz": "ehtiyot bo'ling"
+    },
+    {
+     "en": "read carefully",
+     "uz": "diqqat bilan o'qing"
+    },
+    {
+     "en": "hidden charges",
+     "uz": "yashirin to'lovlar"
+    },
+    {
+     "en": "good deal",
+     "uz": "yaxshi kelishuv"
+    },
+    {
+     "en": "check it out",
+     "uz": "ko'rib chiqing"
+    }
+   ],
+   "task12": [
+    {
+     "en": "online booking",
+     "uz": "onlayn bron qilish"
+    },
+    {
+     "en": "straightforward",
+     "uz": "oddiy"
+    },
+    {
+     "en": "remarkably efficient",
+     "uz": "ajoyib samarali"
+    },
+    {
+     "en": "hidden charges",
+     "uz": "yashirin to'lovlar"
+    },
+    {
+     "en": "seat selection fee",
+     "uz": "o'rindiq tanlash to'lovi"
+    },
+    {
+     "en": "carry-on baggage",
+     "uz": "qo'l yuki"
+    },
+    {
+     "en": "transparency",
+     "uz": "shaffoflik"
+    },
+    {
+     "en": "legroom",
+     "uz": "oyoq uchun joy"
+    },
+    {
+     "en": "budget constraints",
+     "uz": "byudjet cheklovlari"
+    },
+    {
+     "en": "cabin crew",
+     "uz": "bort xodimlari"
+    },
+    {
+     "en": "exceptionally friendly",
+     "uz": "juda do'stona"
+    },
+    {
+     "en": "greatly appreciated",
+     "uz": "juda qadrlangan"
+    },
+    {
+     "en": "complimentary water",
+     "uz": "bepul suv"
+    },
+    {
+     "en": "welcome gesture",
+     "uz": "yoqimli imo-ishora"
+    },
+    {
+     "en": "improve comfort",
+     "uz": "qulaylikni yaxshilash"
+    },
+    {
+     "en": "budget traveler",
+     "uz": "tejamkor sayohatchi"
+    },
+    {
+     "en": "yours faithfully",
+     "uz": "hurmat bilan"
+    },
+    {
+     "en": "somewhat disappointed",
+     "uz": "biroz xafa"
+    },
+    {
+     "en": "longer flights",
+     "uz": "uzoqroq parvozlar"
+    },
+    {
+     "en": "provide feedback",
+     "uz": "fikr-mulohaza bildirish"
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "can": {
+    "uz": "mumkin",
+    "type": "modal"
+   },
+   "check": {
+    "uz": "tekshirmoq",
+    "type": "phrasal"
+   },
+   "quite": {
+    "uz": "ancha",
+    "type": "adv"
+   },
+   "would": {
+    "uz": "-ardi",
+    "type": "modal"
+   },
+   "add up": {
+    "uz": "yig'ilib ketmoq",
+    "type": "phrasal"
+   },
+   "flight": {
+    "uz": "parvoz",
+    "type": "colloc"
+   },
+   "Firstly": {
+    "uz": "Avvalo",
+    "type": "adv"
+   },
+   "However": {
+    "uz": "Biroq",
+    "type": "adv"
+   },
+   "greatly": {
+    "uz": "juda",
+    "type": "adv"
+   },
+   "legroom": {
+    "uz": "oyoq uchun joy",
+    "type": "colloc"
+   },
+   "Moreover": {
+    "uz": "Bundan tashqari",
+    "type": "adv"
+   },
+   "actually": {
+    "uz": "aslida",
+    "type": "adv"
+   },
+   "check-in": {
+    "uz": "ro'yxatdan o'tish",
+    "type": "colloc"
+   },
+   "fire off": {
+    "uz": "shosha-pisha jo'natmoq",
+    "type": "phrasal"
+   },
+   "honestly": {
+    "uz": "rostini aytsam",
+    "type": "adv"
+   },
+   "somewhat": {
+    "uz": "bir oz",
+    "type": "adv"
+   },
+   "Make sure": {
+    "uz": "ishonch hosil qiling",
+    "type": "phrasal"
+   },
+   "get stung": {
+    "uz": "ortiqcha pul to'lab qolmoq",
+    "type": "idiom"
+   },
+   "Personally": {
+    "uz": "Shaxsan",
+    "type": "adv"
+   },
+   "cabin crew": {
+    "uz": "bort ekipaji",
+    "type": "colloc"
+   },
+   "extra fees": {
+    "uz": "qo'shimcha to'lovlar",
+    "type": "colloc"
+   },
+   "frequently": {
+    "uz": "tez-tez",
+    "type": "adv"
+   },
+   "remarkably": {
+    "uz": "ajoyib tarzda",
+    "type": "adv"
+   },
+   "total cost": {
+    "uz": "umumiy xarajat",
+    "type": "colloc"
+   },
+   "undeniably": {
+    "uz": "shubhasiz",
+    "type": "adv"
+   },
+   "Furthermore": {
+    "uz": "Qolaversa",
+    "type": "adv"
+   },
+   "In addition": {
+    "uz": "Bundan tashqari",
+    "type": "linking"
+   },
+   "Shop around": {
+    "uz": "narxlarni solishtirib chiqmoq",
+    "type": "phrasal"
+   },
+   "Undoubtedly": {
+    "uz": "Shubhasiz",
+    "type": "adv"
+   },
+   "let me know": {
+    "uz": "menga xabar bering",
+    "type": "phrasal"
+   },
+   "Additionally": {
+    "uz": "Bundan tashqari",
+    "type": "adv"
+   },
+   "hidden costs": {
+    "uz": "yashirin xarajatlar",
+    "type": "colloc"
+   },
+   "particularly": {
+    "uz": "ayniqsa",
+    "type": "adv"
+   },
+   "pretty cheap": {
+    "uz": "ancha arzon",
+    "type": "colloc"
+   },
+   "surprisingly": {
+    "uz": "ajablanarlisi",
+    "type": "adv"
+   },
+   "transparency": {
+    "uz": "shaffoflik",
+    "type": "colloc"
+   },
+   "To begin with": {
+    "uz": "Avvalambor",
+    "type": "linking"
+   },
+   "came to light": {
+    "uz": "oshkor bo'ldi",
+    "type": "phrasal"
+   },
+   "exceptionally": {
+    "uz": "g'oyatda",
+    "type": "adv"
+   },
+   "go a long way": {
+    "uz": "katta yordam berardi",
+    "type": "idiom"
+   },
+   "nothing beats": {
+    "uz": "hech narsa teng kelolmaydi",
+    "type": "idiom"
+   },
+   "hidden charges": {
+    "uz": "yashirin to'lovlar",
+    "type": "colloc"
+   },
+   "online booking": {
+    "uz": "onlayn bron qilish",
+    "type": "colloc"
+   },
+   "personal touch": {
+    "uz": "shaxsiy o'ziga xoslik",
+    "type": "colloc"
+   },
+   "budget carriers": {
+    "uz": "arzon aviakompaniyalar",
+    "type": "colloc"
+   },
+   "straightforward": {
+    "uz": "oddiy va tushunarli",
+    "type": "colloc"
+   },
+   "wins hands down": {
+    "uz": "beqiyos ustunlik qiladi",
+    "type": "idiom"
+   },
+   "around the clock": {
+    "uz": "kechayu kunduz",
+    "type": "idiom"
+   },
+   "carry-on baggage": {
+    "uz": "qo'l yuki",
+    "type": "colloc"
+   },
+   "planning to book": {
+    "uz": "bron qilishni rejalashtirmoq",
+    "type": "colloc"
+   },
+   "price difference": {
+    "uz": "narx farqi",
+    "type": "colloc"
+   },
+   "when it comes to": {
+    "uz": "gap ... haqida ketganda",
+    "type": "linking"
+   },
+   "baggage allowance": {
+    "uz": "yuk normasi",
+    "type": "colloc"
+   },
+   "on the other hand": {
+    "uz": "boshqa tomondan",
+    "type": "linking"
+   },
+   "budget constraints": {
+    "uz": "byudjet cheklovlari",
+    "type": "colloc"
+   },
+   "seat selection fee": {
+    "uz": "o'rindiq tanlash to'lovi",
+    "type": "colloc"
+   },
+   "comfort compromises": {
+    "uz": "qulaylikdan voz kechish",
+    "type": "colloc"
+   },
+   "complimentary water": {
+    "uz": "bepul suv",
+    "type": "colloc"
+   },
+   "traditional airlines": {
+    "uz": "an'anaviy aviakompaniyalar",
+    "type": "colloc"
+   },
+   "initial ticket prices": {
+    "uz": "boshlang'ich aviachipta narxlari",
+    "type": "colloc"
+   }
+  }
+ },
+ "created_at": "2026-05-06T14:59:56.224572+00:00",
+ "updated_at": "2026-07-06T10:56:05.7479+00:00"
+}

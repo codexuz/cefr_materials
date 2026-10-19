@@ -1,0 +1,505 @@
+{
+ "id": 15,
+ "mock_type": "cefr-writing",
+ "mock_number": 5,
+ "title": "CEFR Writing Mock 05",
+ "status": "published",
+ "mock_data": {
+  "part1": {
+   "chip": "entertainment",
+   "topic": "City cinema issue"
+  },
+  "tasks": {
+   "t2": {
+    "chip": "education",
+    "genre": "article",
+    "title": "Early music education improve children's cognitive development",
+    "prompt": "You are writing a short journal article for an education magazine. The topic is: \"Does early music education improve children's cognitive development?\" Write your article, giving reasons and examples.",
+    "sample": "```html\n<h2>Does Early Music Education Improve Children's Cognitive Development?</h2>\n\n<p>In recent years, there's been <span class=\"ml-token adv\">increasingly robust</span> discussion around the role of music in education, particularly concerning its impact on cognitive development. The notion that music might play a crucial role in enhancing a child's intellect is not merely a <span class=\"ml-token idiom\">flash in the pan</span>; <span class=\"ml-token adv\">in fact</span>, there's a growing body of <span class=\"ml-token colloc\">scientific evidence</span> supporting this claim.</p>\n\n<p>First and foremost, early music education can significantly enhance <span class=\"ml-token colloc\">language skills</span>. Children who are exposed to music at a young age <span class=\"ml-token phrasal\">tend to grasp</span> phonological awareness more effectively. This means they can discern different sounds and rhythms, which are crucial for language acquisition. A <span class=\"ml-token colloc\">recent study</span> at MIT demonstrated that kids with music training <span class=\"ml-token phrasal\">pick up</span> language-related tasks much quicker than their peers.</p>\n\n<p>Moreover, engaging with music requires a child to <span class=\"ml-token phrasal\">develop a range</span> of skills simultaneously. Reading music involves understanding symbols, numbers, and patterns, which, <span class=\"ml-token adv\">consequently</span>, enhances mathematical abilities. There's this fascinating piece of research from Canada that showed children who <span class=\"ml-token phrasal\">learn to play</span> an instrument have <span class=\"ml-token colloc\">improved spatial-temporal skills</span>, a key aspect of problem-solving.</p>\n\n<p>Finally, early music education <span class=\"ml-token modal\">can also foster</span> emotional and social skills. Through group activities like choir or band, children learn the importance of collaboration and discipline. It's about more than just <span class=\"ml-token phrasal\">hitting the right notes</span>; it's about empathy and teamwork, skills that are essential in today’s <span class=\"ml-token colloc\">fast-paced world</span>.</p>\n\n<p>In conclusion, while the <span class=\"ml-token colloc\">debate continues</span>, the evidence <span class=\"ml-token modal\">appears to suggest</span> that early music education offers substantial cognitive benefits. It’s not just about nurturing future musicians but about equipping children with a toolkit that enhances learning across the board.</p>\n```",
+    "target": "180–200 words",
+    "sampleA1": "<p>Music is good. I like music. My friend plays guitar. Music is fun. I sing in the shower. Music makes me happy. Play music!</p>",
+    "sampleA2": "<p>I think music is good for kids. Music is fun and they like to sing. My little brother plays the piano and he is happy. Music can help kids learn new things. Maybe music helps with school, but I don't know. Music is important because it makes people happy and it is fun to do.</p>",
+    "sampleB1": "<p>I think that music education is good for children. In my opinion, learning music can help kids with their brains. For example, if a child learns to play the piano, they need to read music and use their hands. This could help them with things like maths and reading. Also, music can be fun and it can help children to be more creative. However, some people think that music is not important and that children should focus on other subjects. I disagree because I think music is important for a well-rounded education.</p>",
+    "sampleB2": "<h2>Can a Few Notes Really Shape a Growing Mind?</h2>\n<p>Ask any parent whether music lessons are worth the effort, and you will get a range of answers. Yet a <span class=\"ml-token academic\">growing body of research</span> suggests that early music education does far more than fill an afternoon — it may genuinely shape the way young minds develop.</p>\n<p>For a start, learning an instrument gives the brain <span class=\"ml-token colloc\">a proper workout</span>. Children have to read notes, keep time and coordinate both hands at once, and this juggling of skills appears to <span class=\"ml-token colloc\">sharpen their memory</span> and concentration. One much-cited study even found that youngsters given regular lessons outperformed their classmates when it came to problem-solving. Interestingly, many of these abilities <span class=\"ml-token phrasal\">carry over into</span> other subjects, especially maths, where rhythm and counting <span class=\"ml-token idiom\">go hand in hand</span>.</p>\n<p>There is a social side, too. Playing in a choir or band teaches children to listen, take turns and work towards a shared goal — invaluable skills that no textbook can really teach.</p>\n<p>Of course, music is <span class=\"ml-token idiom\">no magic bullet</span>, and more research is certainly needed. All the same, the evidence <span class=\"ml-token colloc\">points firmly towards</span> real, lasting benefits. Giving children the chance to make music, it seems, is <span class=\"ml-token idiom\">time well spent</span>.</p>",
+    "uzSample": "<h2>Erta musiqa ta’limi bolalarning kognitiv rivojlanishini yaxshilaydimi?</h2>\n\n<p>So'nggi yillarda musiqa ta'limining roli, ayniqsa uning kognitiv rivojlanishga ta'siri borasida tobora kuchayib borayotgan muhokamalar bo'lmoqda. Musiqa bolaning aqlini oshirishda muhim rol o'ynashi mumkin degan tushuncha shunchaki bir zumlik hodisa emas; aslida, bu da'voni qo'llab-quvvatlovchi ilmiy dalillar tobora ko'payib bormoqda.</p>\n\n<p>Avvalo, erta musiqa ta'limi til ko'nikmalarini sezilarli darajada yaxshilashi mumkin. Yoshligida musiqa bilan tanishgan bolalar fonologik xabardorlikni samaraliroq anglashga moyil bo'lishadi. Bu ularning turli xil tovushlar va ritmlarni ajrata olishini anglatadi, bu esa tilni o'zlashtirish uchun juda muhimdir. MITda o'tkazilgan yaqinda o'tkazilgan tadqiqot shuni ko'rsatdiki, musiqa mashg'ulotlariga ega bo'lgan bolalar tilga oid vazifalarni tengdoshlariga qaraganda ancha tezroq o'zlashtiradilar.</p>\n\n<p>Bundan tashqari, musiqa bilan shug'ullanish bola bir vaqtning o'zida bir qator ko'nikmalarni rivojlantirishni talab qiladi. Musiqani o'qish ramzlar, raqamlar va naqshlarni tushunishni o'z ichiga oladi, bu esa, natijada, matematik qobiliyatlarni oshiradi. Kanadada o'tkazilgan qiziqarli tadqiqot shuni ko'rsatdiki, musiqa asbobini chalishni o'rganadigan bolalarning fazoviy-vaqtinchalik ko'nikmalari yaxshilanadi, bu esa muammolarni hal qilishning asosiy jihatidir.</p>\n\n<p>Nihoyat, erta musiqa ta'limi hissiy va ijtimoiy ko'nikmalarni ham rivojlantirishi mumkin. Xor yoki orkestr kabi guruh mashg'ulotlari orqali bolalar hamkorlik va intizomning muhimligini o'rganadilar. Bu shunchaki to'g'ri notalarni chalishdan ko'ra ko'proq narsani anglatadi; bu hamdardlik va jamoaviy ish, bugungi tez sur'atlar bilan rivojlanayotgan dunyoda zarur bo'lgan ko'nikmalardir.</p>\n\n<p>Xulosa qilib aytganda, bahs davom etayotgan bo'lsa-da, dalillar shuni ko'rsatadiki, erta musiqa ta'limi sezilarli kognitiv foyda keltiradi. Gap faqat bo'lajak musiqachilarni tarbiyalash haqida emas, balki bolalarni har tomonlama o'rganishni yaxshilaydigan vositalar to'plami bilan ta'minlash haqida.</p>",
+    "uzSampleA1": "<p>Musiqa yaxshi. Menga musiqa yoqadi. Mening do'stim gitara chaladi. Musiqa qiziqarli. Men dushda qo'shiq aytaman. Musiqa meni xursand qiladi. Musiqa chal!</p>",
+    "uzSampleA2": "<p>Menimcha, musiqa bolalar uchun yaxshi. Musiqa qiziqarli va ularga qo'shiq aytish yoqadi. Mening ukam pianino chaladi va u xursand. Musiqa bolalarga yangi narsalarni o'rganishga yordam berishi mumkin. Ehtimol, musiqa maktabda yordam berar, lekin men bilmayman. Musiqa muhim, chunki u odamlarni xursand qiladi va uni qilish qiziqarli.</p>",
+    "uzSampleB1": "<p>Menimcha, musiqa ta'limi bolalar uchun foydali. Mening fikrimcha, musiqa o'rganish bolalarning miyasiga yordam berishi mumkin. Misol uchun, agar bola pianino chalishni o'rgansa, u musiqa o'qishi va qo'llarini ishlatishi kerak. Bu ularga matematika va o'qish kabi narsalarda yordam berishi mumkin. Bundan tashqari, musiqa qiziqarli bo'lishi mumkin va u bolalarga yanada ijodkor bo'lishga yordam berishi mumkin. Biroq, ba'zi odamlar musiqa muhim emas va bolalar boshqa fanlarga e'tibor qaratishlari kerak deb o'ylashadi. Men bunga qo'shilmayman, chunki men musiqa har tomonlama ta'lim uchun muhim deb o'ylayman.</p>",
+    "uzSampleB2": "<p>Bolalarning erta musiqiy ta’limi ularning kognitiv rivojlanishini yaxshilashi mumkinmi degan savol atrofida tobora ko‘proq muhokamalar bo‘lmoqda. Ba’zilar buni o‘quv dasturiga keraksiz qo‘shimcha deb hisoblasa-da, menimcha, musiqa bir qator afzalliklarni taqdim etadi. Misol uchun, musiqa asbobini chalishni o‘rganish bolalardan xotira va muvofiqlashtirish qobiliyatlarini rivojlantirishni talab qiladi. Ular notalar, ritmlar va barmoqlarning joylashuvini eslab qolishlari kerak, bu ularning kognitiv qobiliyatlarini oshirishi mumkin. Bundan tashqari, musiqa ularning matematik qobiliyatlarini yaxshilashi mumkin, chunki ritm va balandlikni tushunish matematik tushunchalarni o‘z ichiga oladi. Ba’zi tadqiqotlar musiqiy ta’lim va matematika va fanda yaxshi natijalarga erishish o‘rtasida bog‘liqlik borligini ko‘rsatadi. Shuningdek, musiqa guruhlarida ishtirok etish bolalarga ijtimoiy ko‘nikmalarni va jamoada ishlashni rivojlantirishga yordam beradi. Shuning uchun, qo‘shimcha tadqiqotlar zarur bo‘lsa-da, erta musiqiy ta’lim bolaning kognitiv rivojlanishiga ijobiy ta’sir ko‘rsatishi mumkinligini ko‘rsatadigan dalillar mavjud.</p>"
+   },
+   "t11": {
+    "title": "informal letter · to friend",
+    "prompt": "Write a letter to your friend, who also uses the city cinema. Write about your feelings and what you think the management should do about the situation.",
+    "sample": "```html\nHey there,\n\nI just got this email from the city cinema, and I'm not entirely sure how I feel about it. From next month, they're adding a small booking fee for online seat reservations. I guess it <span class=\"ml-token modal\">might</span> not be a huge deal, but it <span class=\"ml-token modal\">could</span> add up, you know? On the bright side, they're increasing the number of films with subtitles, which <span class=\"ml-token adv\">definitely</span> helps those of us who <span class=\"ml-token colloc\">watch foreign films</span>.\n\nHonestly, I <span class=\"ml-token modal\">think</span> they <span class=\"ml-token modal\">should</span> focus on <span class=\"ml-token colloc\">improving customer experience</span>—comfy seats or better snacks, maybe? As for attracting families, why not offer a bundle deal or some fun themed movie nights during the week? That <span class=\"ml-token idiom\">could hit the spot</span>! What do you <span class=\"ml-token modal\">reckon</span>?\n\nCatch you soon!\n```",
+    "target": "50–70 words",
+    "sampleA1": "<p>Hi Gulnora,<br>Cinema email! <br>Fee no good. <br>Subtitles good. <br>More popcorn? <br>Bye.</p>",
+    "sampleA2": "<p>Hi Gulnora,<br>I got an email from the cinema. They want to add a fee for booking online, and they will show more movies with subtitles. <br>I don't like the fee, but subtitles are good. I think the cinema should have better seats and cheaper tickets for families. What do you think?<br>See you soon!</p>",
+    "sampleB1": "<p>Hi Gulnora,<br>Did you see the email from the cinema? They're adding a booking fee for online tickets, which I don't really agree with. But it's good that they're going to show more films with subtitles.<br>I think they should improve the seats because they're really uncomfortable. Also, to get more families to come during the week, they could offer cheaper tickets or special family film showings. What do you think about that?<br>Let me know your opinion!<br>Best,<br>Gulnora Qodirova</p>",
+    "sampleB2": "Hi Gulnora,\nDid you get that email from the cinema? Honestly, the new booking fee <span class=\"ml-token idiom\">gets on my nerves</span> a bit — it feels like they're <span class=\"ml-token phrasal\">cashing in</span> on us. The extra subtitled films are <span class=\"ml-token colloc\">a nice touch</span>, though! I <span class=\"ml-token modal\">reckon</span> they should <span class=\"ml-token phrasal\">sort out</span> those uncomfortable seats and <span class=\"ml-token phrasal\">put on</span> cheap family nights midweek. Fancy writing to them together? <span class=\"ml-token colloc\">Let me know</span>!\nTake care,\nDilnoza Karimova",
+    "uzSample": "<p>Salom!</p>\n<p>Men hozirgina shahar kinoteatridan ushbu xatni oldim va bu haqda qanday fikrda ekanligimga unchalik amin emasman. Kelasi oydan boshlab ular onlayn joy band qilish uchun kichik bron qilish to'lovini qo'shishmoqda. O'ylashimcha, bu unchalik katta muammo bo'lmasligi mumkin, lekin bu yig'ilib qolishi mumkin, bilasanmi? Yaxshi tomoni shundaki, ular subtitrli filmlar sonini ko'paytirmoqda, bu biz kabi xorijiy filmlarni tomosha qiladiganlarga albatta yordam beradi.</p>\n<p>Rostini aytsam, menimcha ular mijozlarga xizmat ko'rsatish sifatini yaxshilashga e'tibor qaratishlari kerak — qulay o'rindiqlar yoki yaxshiroq gazaklar, balki? Oilalarni jalb qilish uchun esa, nima uchun to'plamli taklif yoki hafta davomida qiziqarli tematik kino kechalarini taklif qilmaslik kerak? Bu juda maqsadga muvofiq bo'lishi mumkin! Sening fikring qanday?</p>\n<p>Tez orada ko'rishguncha!</p>",
+    "uzSampleA1": "<p>Salom Gulnora,<br>Kino elektron pochtasi! <br>To'lov yaxshi emas. <br>Subtitrlar yaxshi. <br>Ko'proq popkorn kerakmi? <br>Xayr.</p>",
+    "uzSampleA2": "<p>Salom, Gulnora,<br>Kinoteatrdan menga xat keldi. Ular onlayn bron qilish uchun to'lov qo'shmoqchi va subtitrli filmlarni ko'proq namoyish etishadi.<br>Menga to'lov yoqmaydi, lekin subtitrlar yaxshi. Menimcha, kinoteatrda yaxshiroq o'rindiqlar va oilalar uchun arzonroq chiptalar bo'lishi kerak. Siz nima deb o'ylaysiz?<br>Tez orada ko'rishguncha!</p>",
+    "uzSampleB1": "<p>Salom Gulnora,<br>Kinoteatrdan kelgan xatni ko'rdingmi? Ular onlayn chiptalar uchun bron qilish to'lovini qo'shishyapti, men bunga unchalik qo'shilmayman. Lekin subtitrli ko'proq filmlar ko'rsatishlari yaxshi.<br>Menimcha, ular o'rindiqlarni yaxshilashlari kerak, chunki ular juda noqulay. Shuningdek, hafta davomida ko'proq oilalarni jalb qilish uchun ular arzonroq chiptalar yoki maxsus oilaviy film namoyishlarini taklif qilishlari mumkin. Bu haqda nima deb o'ylaysan?<br>Fikringni bildir!<br>Eng yaxshi tilaklar bilan,<br>Gulnora Qodirova</p>",
+    "uzSampleB2": "<p>Salom Gulnora,<br>Shahar kinoteatridan kelgan oxirgi xatni ko'rdingmi? Ular onlayn bron qilish uchun to'lov kiritmoqchi, rostini aytsam, bu biroz beodoblik deb o'ylayman. Yaxshi tomoni shundaki, ular subtitrli filmlar sonini ko'paytirmoqda, bu albatta xush kelibsiz o'zgarish.<br>Shaxsan men, ular kinoteatrning umumiy qulayligini yaxshilashga ustuvor ahamiyat berishlari kerak deb o'ylayman. O'rindiqlarni yangilash ajoyib boshlanish bo'lardi! Ish kunlarida oilalarni jalb qilish uchun, ehtimol, ular chegirmali oilaviy to'plamlarni taklif qilishni yoki bolalarga mo'ljallangan tematik tadbirlarni o'tkazishni ko'rib chiqishlari mumkin. Bu haqda sizning fikringiz qanday?<br>Eng yaxshi tilaklar bilan,<br>Gulnora Qodirova</p>"
+   },
+   "t12": {
+    "title": "formal letter · to manager",
+    "prompt": "Write a letter to the cinema manager. Write about your feelings and what you think the management should do about the situation.",
+    "sample": "<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Letter</title>\n</head>\n<body>\n    <p>Dear Manager,</p>\n    \n    <p>I hope this letter finds you well. I’m writing to <span class=\"ml-token phrasal\">share some thoughts</span> regarding the recent changes announced by your cinema. <span class=\"ml-token idiom\">To be perfectly honest</span>, while introducing a booking fee might not be ideal for everyone, the addition of subtitles for more films is a welcome improvement for many, especially those who are hearing-impaired.</p>\n    \n    <p>However, to <span class=\"ml-token colloc\">enhance visitor comfort</span>, you <span class=\"ml-token modal\">might want to consider</span> upgrading the seating arrangements. Introducing more comfortable seating options, such as recliners, would make the viewing experience much more pleasant. <span class=\"ml-token adv\">Additionally</span>, providing a varied selection of healthier snacks could appeal to a wider audience.</p>\n    \n    <p>Regarding attracting families on weekdays, implementing discounts, such as 'family pack' offers or 'kids eat free' deals, could significantly boost attendance. <span class=\"ml-token adv\">Moreover</span>, hosting themed events or interactive screenings might entice families to spend an evening at the cinema rather than at home.</p>\n\n    <p>Thank you for considering my suggestions. I'm confident that with these improvements, you’ll see a notable increase in <span class=\"ml-token colloc\">customer satisfaction</span>.</p>\n    \n    <p>Kind regards,</p>\n    <p>Gulnora Qodirova</p>\n</body>\n</html>",
+    "target": "120–150 words",
+    "sampleA1": "<p>Hi Manager,<br>I go to cinema. Good. <br>More popcorn? Good.<br>Bye</p>",
+    "sampleA2": "<p>Dear Manager,<br>I like the cinema. It is fun. But the seats are not good. They are hard. I want soft seats. And the tickets are too expensive. Maybe you can have cheaper tickets for families? Because families want to come, but it is too much money. Thank you. <br>From, Gulnora Qodirova</p>",
+    "sampleB1": "<p>Dear Manager,<br><br>I am writing to you about the cinema. I think the booking fee is not good because people will not want to book online. But subtitles are a good idea.<br><br>To make the cinema better, you could improve the seats. They are not very comfortable. Also, maybe you could sell different snacks, like fruit. For families, you could have cheaper tickets on weekdays. For example, a family ticket. Or you could show films for children in the afternoon.<br><br>I hope you will think about my ideas. Thank you.<br><br>Sincerely,<br>Gulnora Qodirova</p>",
+    "sampleB2": "Dear Sir or Madam,\nI am writing to share my thoughts on the recent changes at the city cinema. While I understand the reasoning behind the new online booking fee, I am a little concerned that it may <span class=\"ml-token phrasal\">put off</span> regular customers. The decision to add more subtitled films, <span class=\"ml-token linking\">on the other hand</span>, is a genuinely welcome step.\nIn terms of comfort, I would <span class=\"ml-token colloc\">strongly recommend</span> upgrading the seating, as many of the current chairs are rather worn. Widening the range of snacks to include healthier options would also <span class=\"ml-token idiom\">go down well</span> with visitors.\nTo <span class=\"ml-token phrasal\">draw families in</span> on weekdays, <span class=\"ml-token modal\">you might consider</span> introducing discounted family tickets or hosting themed afternoons for children. Such offers would, I believe, <span class=\"ml-token colloc\">boost attendance</span> considerably during quieter periods.\nThank you for taking my suggestions <span class=\"ml-token idiom\">on board</span>.\nYours faithfully,\nBekzod Aliyev",
+    "uzSample": "<p>Hurmatli Menejer,</p>\n\n<p>Umid qilamanki, bu xat sizga yaxshi yetib borgan. Men sizning kinoteatringiz tomonidan e'lon qilingan so'nggi o'zgarishlar haqida o'z fikrlarimni bildirmoqchiman. Ochig'ini aytsam, bron qilish uchun to'lov kiritish hamma uchun ham maqbul bo'lmasligi mumkin, ammo ko'proq filmlar uchun subtitrlar qo'shilishi ko'pchilik, ayniqsa eshitish qobiliyati zaif odamlar uchun juda yaxshi yangilik.</p>\n\n<p>Biroq, tashrif buyuruvchilarning qulayligini oshirish uchun o'rindiqlarni yangilashni ko'rib chiqishingiz mumkin. Qulayroq o'rindiqlar, masalan, yotadigan kreslolar qo'shish tomosha qilish tajribasini ancha yoqimli qiladi. Bundan tashqari, sog'lomroq gazaklar assortimentini taqdim etish ko'proq tomoshabinlarni jalb qilishi mumkin.</p>\n\n<p>Ish kunlarida oilalarni jalb qilish uchun \"oilaviy to'plam\" takliflari yoki \"bolalar bepul ovqatlanadi\" kabi chegirmalarni joriy etish tashrif buyuruvchilar sonini sezilarli darajada oshirishi mumkin. Bundan tashqari, tematik tadbirlar yoki interaktiv namoyishlar o'tkazish oilalarni uyda emas, balki kinoteatrda oqshom o'tkazishga undashi mumkin.</p>\n\n<p>Takliflarimni ko'rib chiqayotganingiz uchun tashakkur. Ishonchim komilki, ushbu yaxshilanishlar bilan siz mijozlar e'tirozlarining sezilarli darajada oshishini ko'rasiz.</p>\n\n<p>Hurmat bilan,</p>\n<p>Gulnora Qodirova</p>",
+    "uzSampleA1": "<p>Salom Menejer,<br>Men kinoga boraman. Yaxshi. <br>Ko'proq popkorn kerakmi? Yaxshi.<br>Xayr</p>",
+    "uzSampleA2": "<p>Hurmatli Menejer,<br>Kinoteatr menga yoqadi. U qiziqarli. Lekin o‘rindiqlar yaxshi emas. Ular qattiq. Men yumshoq o‘rindiqlar xohlayman. Va chiptalar juda qimmat. Balki oilalar uchun arzonroq chiptalar bo‘lishi mumkin? Chunki oilalar kelishni xohlaydi, lekin bu juda ko‘p pul. Rahmat. <br>Sizdan, Gulnora Qodirova</p>",
+    "uzSampleB1": "<p>Hurmatli Menejer,<br><br>Sizga kino haqida yozmoqdaman. O'ylashimcha, bron qilish to'lovi yaxshi emas, chunki odamlar onlayn bron qilishni xohlamaydilar. Ammo subtitrlar yaxshi fikr.<br><br>Kinoni yaxshilash uchun o'rindiqlarni yaxshilashingiz mumkin. Ular juda qulay emas. Shuningdek, ehtimol, siz turli xil gazaklar, masalan, mevalarni sotishingiz mumkin. Oilalar uchun ish kunlarida arzonroq chiptalar bo'lishi mumkin. Masalan, oilaviy chipta. Yoki tushdan keyin bolalar uchun filmlarni ko'rsatishingiz mumkin.<br><br>Umid qilamanki, siz mening g'oyalarim haqida o'ylaysiz. Rahmat.<br><br>Hurmat bilan,<br>Gulnora Qodirova</p>",
+    "uzSampleB2": "<p>Hurmatli Menejer,<br><br>Men kinoteatrdagi taklif etilayotgan o'zgarishlar bo'yicha o'z fikrlarimni bildirish va yaxshilash uchun ba'zi takliflar berish maqsadida yozyapman. Onlayn bron qilish uchun to'lov zarurligini tushunsam ham, bu ba'zi mijozlarni cho'chitishi mumkinligidan xavotirdaman. Subtitrlarning qo'shilishi esa inklyuzivlik sari ijobiy qadamdir.<br><br>Umumiy tashrif buyuruvchilar tajribasini yaxshilash uchun o'rindiqlarni yangilash foydali bo'ladi deb o'ylayman. Qulayroq o'rindiqlar, ehtimol, oyoq uchun ko'proq joy bilan, juda minnatdorchilik bilan qabul qilinadi. Bundan tashqari, mavjud ichimliklar assortimentini kengaytirish, shu jumladan sog'lomroq tanlovlar, kengroq demografiyani jalb qilishi mumkin.<br><br>Oila a'zolarini ish kunlari tashrif buyurishga undash uchun chegirmali oilaviy chiptalar taklif qilish yoki \"ikki bilet bir narxda\" kabi maxsus aksiyalar o'tkazish samarali bo'lishi mumkin. Mavzuli kino kechalarini yoki oilalarga moslashtirilgan interaktiv tadbirlarni tashkil etish ham eng kam tashrif buyuriladigan vaqtlarda tashrif buyurishni ko'paytirishi mumkin.<br><br>Fikrlarimni ko'rib chiqqaningiz uchun rahmat. Umid qilamanki, bu takliflar foydali bo'ladi.<br><br>Hurmat bilan,<br>Gulnora Qodirova</p>"
+   },
+   "p1_context": "You are a visitor to the city cinema.",
+   "p1_scenario": "Dear Visitor,\n\nFrom next month, online seat reservations will include a small booking fee, and more films will have subtitles. Which services should we improve to make visits more comfortable? What discounts or events would encourage families to come on weekdays? We appreciate your opinion.\n\nThe Manager"
+  },
+  "examDate": "2026-04-04",
+  "settings": {
+   "logoUrl": "https://audio.mock-stream.com/img/ibb/WN0XY5Lv/logo.png",
+   "heading1": "Bilim va malakalarni baholash agentligi",
+   "heading2": "Chet tilini bilish darajasi",
+   "examTitle": "Writing exam",
+   "logoWording": "Mock Stream",
+   "testIdentifier": "mock-stream"
+  },
+  "vocabulary": {
+   "task2": [
+    {
+     "en": "cognitive development",
+     "uz": "kognitiv rivojlanish"
+    },
+    {
+     "en": "early music education",
+     "uz": "erta musiqa ta'limi"
+    },
+    {
+     "en": "enhance brain function",
+     "uz": "miya faoliyatini yaxshilash"
+    },
+    {
+     "en": "improve memory",
+     "uz": "xotirani yaxshilash"
+    },
+    {
+     "en": "boost creativity",
+     "uz": "ijodkorlikni oshirish"
+    },
+    {
+     "en": "academic performance",
+     "uz": "akademik natijalar"
+    },
+    {
+     "en": "problem-solving skills",
+     "uz": "muammoni hal qilish ko'nikmalari"
+    },
+    {
+     "en": "musical training",
+     "uz": "musiqiy tayyorgarlik"
+    },
+    {
+     "en": "neural connections",
+     "uz": "neyron aloqalar"
+    },
+    {
+     "en": "long-term benefits",
+     "uz": "uzoq muddatli foydalar"
+    },
+    {
+     "en": "empirical evidence",
+     "uz": "tajriba dalillari"
+    },
+    {
+     "en": "holistic education",
+     "uz": "holistik ta'lim"
+    },
+    {
+     "en": "interdisciplinary approach",
+     "uz": "interdisiplinar yondashuv"
+    },
+    {
+     "en": "stimulate learning",
+     "uz": "o'rganishni rag'batlantirish"
+    },
+    {
+     "en": "educational framework",
+     "uz": "ta'lim doirasi"
+    },
+    {
+     "en": "case studies",
+     "uz": "holatlar tahlili"
+    },
+    {
+     "en": "early intervention",
+     "uz": "erta aralashuv"
+    },
+    {
+     "en": "cognitive skills",
+     "uz": "kognitiv ko'nikmalar"
+    },
+    {
+     "en": "neuroplasticity",
+     "uz": "neyroplastiklik"
+    },
+    {
+     "en": "enhance concentration",
+     "uz": "diqqatni oshirish"
+    }
+   ],
+   "task11": [
+    {
+     "en": "Hey!",
+     "uz": "Salom!"
+    },
+    {
+     "en": "I just found out",
+     "uz": "Yaqinda bildim"
+    },
+    {
+     "en": "It's a bit annoying",
+     "uz": "Bu biroz asabga tegadi"
+    },
+    {
+     "en": "extra charge",
+     "uz": "qo'shimcha to'lov"
+    },
+    {
+     "en": "subtitles might help",
+     "uz": "subtitrlari yordam berishi mumkin"
+    },
+    {
+     "en": "make it nicer",
+     "uz": "yanada yaxshiroq qilish"
+    },
+    {
+     "en": "more comfy seats",
+     "uz": "qulayroq o'rindiqlar"
+    },
+    {
+     "en": "snacks variety",
+     "uz": "atirlar xilma-xilligi"
+    },
+    {
+     "en": "discounts for families",
+     "uz": "oilaning uchun chegirmalar"
+    },
+    {
+     "en": "weekday specials",
+     "uz": "hafta ichidagi maxsus takliflar"
+    },
+    {
+     "en": "what do you think?",
+     "uz": "nima deb o'ylaysan?"
+    },
+    {
+     "en": "should I write to them?",
+     "uz": "ularga yozishim kerakmi?"
+    },
+    {
+     "en": "catch up soon",
+     "uz": "tez orada ko'rishamiz"
+    },
+    {
+     "en": "let me know",
+     "uz": "menga xabar ber"
+    },
+    {
+     "en": "sounds good?",
+     "uz": "yaxshi ko'rinadimi?"
+    }
+   ],
+   "task12": [
+    {
+     "en": "Dear Manager,",
+     "uz": "Hurmatli Menejer,"
+    },
+    {
+     "en": "I am writing to express",
+     "uz": "Men ifoda etish uchun yozmoqdaman"
+    },
+    {
+     "en": "concern about",
+     "uz": "haqida xavotir"
+    },
+    {
+     "en": "recent changes",
+     "uz": "so'nggi o'zgarishlar"
+    },
+    {
+     "en": "additional booking fee",
+     "uz": "qo'shimcha bron qilish to'lovi"
+    },
+    {
+     "en": "affect customer satisfaction",
+     "uz": "mijozlar qoniqishini ta'sir qiladi"
+    },
+    {
+     "en": "improve overall experience",
+     "uz": "umumiy tajribani yaxshilash"
+    },
+    {
+     "en": "suggest considering",
+     "uz": "ko'rib chiqishni taklif qilmoq"
+    },
+    {
+     "en": "implementing comfortable seating",
+     "uz": "qulay o'tirishni joriy etish"
+    },
+    {
+     "en": "enhance concessions",
+     "uz": "imtiyozlarni oshirish"
+    },
+    {
+     "en": "weekday family packages",
+     "uz": "hafta ichidagi oila paketlari"
+    },
+    {
+     "en": "appreciate your attention",
+     "uz": "diqqatingiz uchun minnatdorman"
+    },
+    {
+     "en": "look forward to your response",
+     "uz": "javobingizni kutaman"
+    },
+    {
+     "en": "thank you for your consideration",
+     "uz": "e'tiboringiz uchun rahmat"
+    },
+    {
+     "en": "Sincerely,",
+     "uz": "Hurmat bilan,"
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "could": {
+    "uz": "mumkin edi",
+    "type": "modal"
+   },
+   "might": {
+    "uz": "mumkin",
+    "type": "modal"
+   },
+   "think": {
+    "uz": "o'ylayman",
+    "type": "modal"
+   },
+   "put on": {
+    "uz": "o'tkazmoq, tashkil qilmoq",
+    "type": "phrasal"
+   },
+   "reckon": {
+    "uz": "o'ylayman, deb hisoblayman",
+    "type": "modal"
+   },
+   "should": {
+    "uz": "kerak",
+    "type": "modal"
+   },
+   "in fact": {
+    "uz": "aslida",
+    "type": "adv"
+   },
+   "pick up": {
+    "uz": "o'rganib olmoq",
+    "type": "phrasal"
+   },
+   "put off": {
+    "uz": "cho'chitib yubormoq, undan bezdirmoq",
+    "type": "phrasal"
+   },
+   "Moreover": {
+    "uz": "Bundan tashqari",
+    "type": "adv"
+   },
+   "on board": {
+    "uz": "e'tiborga olmoq, inobatga olmoq",
+    "type": "idiom"
+   },
+   "sort out": {
+    "uz": "hal qilmoq, tartibga solmoq",
+    "type": "phrasal"
+   },
+   "cashing in": {
+    "uz": "foyda ko'rmoq, pul ishlab olmoq",
+    "type": "phrasal"
+   },
+   "definitely": {
+    "uz": "albatta",
+    "type": "adv"
+   },
+   "Let me know": {
+    "uz": "menga xabar ber",
+    "type": "colloc"
+   },
+   "Additionally": {
+    "uz": "Qo'shimcha ravishda",
+    "type": "adv"
+   },
+   "a nice touch": {
+    "uz": "yoqimli qo'shimcha",
+    "type": "colloc"
+   },
+   "consequently": {
+    "uz": "demak",
+    "type": "adv"
+   },
+   "go down well": {
+    "uz": "yaxshi qabul qilinmoq, ma'qul kelmoq",
+    "type": "idiom"
+   },
+   "recent study": {
+    "uz": "yaqinda o'tkazilgan tadqiqot",
+    "type": "colloc"
+   },
+   "learn to play": {
+    "uz": "o'rganmoq",
+    "type": "phrasal"
+   },
+   "tend to grasp": {
+    "uz": "anglashga moyil bo'lmoq",
+    "type": "phrasal"
+   },
+   "can also foster": {
+    "uz": "shuningdek rivojlantirishi mumkin",
+    "type": "modal"
+   },
+   "carry over into": {
+    "uz": "boshqa sohalarga o'tmoq, ta'sir qilmoq",
+    "type": "phrasal"
+   },
+   "develop a range": {
+    "uz": "bir qatorni rivojlantirmoq",
+    "type": "phrasal"
+   },
+   "go hand in hand": {
+    "uz": "bir-biri bilan chambarchas bog'liq",
+    "type": "idiom"
+   },
+   "language skills": {
+    "uz": "til ko'nikmalari",
+    "type": "colloc"
+   },
+   "no magic bullet": {
+    "uz": "sehrli yechim emas",
+    "type": "idiom"
+   },
+   "time well spent": {
+    "uz": "foydali sarflangan vaqt",
+    "type": "idiom"
+   },
+   "a proper workout": {
+    "uz": "haqiqiy mashq, yaxshigina mashq",
+    "type": "colloc"
+   },
+   "boost attendance": {
+    "uz": "tashrif buyuruvchilar sonini oshirmoq",
+    "type": "colloc"
+   },
+   "debate continues": {
+    "uz": "bahs davom etmoqda",
+    "type": "colloc"
+   },
+   "draw families in": {
+    "uz": "oilalarni jalb qilmoq",
+    "type": "phrasal"
+   },
+   "fast-paced world": {
+    "uz": "tez sur'atlar bilan o'zgaruvchan dunyo",
+    "type": "colloc"
+   },
+   "flash in the pan": {
+    "uz": "bir zumlik hodisa",
+    "type": "idiom"
+   },
+   "gets on my nerves": {
+    "uz": "asabimga tegadi",
+    "type": "idiom"
+   },
+   "on the other hand": {
+    "uz": "boshqa tomondan",
+    "type": "linking"
+   },
+   "appears to suggest": {
+    "uz": "shunday ko'rinadi",
+    "type": "modal"
+   },
+   "could hit the spot": {
+    "uz": "muddaga tushishi mumkin",
+    "type": "idiom"
+   },
+   "strongly recommend": {
+    "uz": "qat'iy tavsiya qilaman",
+    "type": "colloc"
+   },
+   "you might consider": {
+    "uz": "ko'rib chiqishingiz mumkin",
+    "type": "modal"
+   },
+   "increasingly robust": {
+    "uz": "tobora kuchayib borayotgan",
+    "type": "adv"
+   },
+   "scientific evidence": {
+    "uz": "ilmiy dalillar",
+    "type": "colloc"
+   },
+   "share some thoughts": {
+    "uz": "fikrlarimni bo'lishmoq",
+    "type": "phrasal"
+   },
+   "watch foreign films": {
+    "uz": "xorijiy filmlarni tomosha qilmoq",
+    "type": "colloc"
+   },
+   "sharpen their memory": {
+    "uz": "xotirasini o'tkirlashtirmoq",
+    "type": "colloc"
+   },
+   "customer satisfaction": {
+    "uz": "mijozlar mamnuniyati",
+    "type": "colloc"
+   },
+   "points firmly towards": {
+    "uz": "aniq ishora qiladi",
+    "type": "colloc"
+   },
+   "To be perfectly honest": {
+    "uz": "ochig'ini aytsam",
+    "type": "idiom"
+   },
+   "might want to consider": {
+    "uz": "ko'rib chiqishni xohlarsiz",
+    "type": "modal"
+   },
+   "enhance visitor comfort": {
+    "uz": "tashrif buyuruvchilarning qulayligini oshirish",
+    "type": "colloc"
+   },
+   "hitting the right notes": {
+    "uz": "muvaffaqiyatga erishish",
+    "type": "phrasal"
+   },
+   "growing body of research": {
+    "uz": "tobora ko'payib borayotgan tadqiqotlar to'plami",
+    "type": "academic"
+   },
+   "improving customer experience": {
+    "uz": "mijozlar tajribasini yaxshilash",
+    "type": "colloc"
+   },
+   "improved spatial-temporal skills": {
+    "uz": "fazoviy-vaqtinchalik qobiliyatlarning yaxshilanishi",
+    "type": "colloc"
+   }
+  }
+ },
+ "created_at": "2026-05-06T14:59:08.034816+00:00",
+ "updated_at": "2026-07-06T10:54:39.213858+00:00"
+}

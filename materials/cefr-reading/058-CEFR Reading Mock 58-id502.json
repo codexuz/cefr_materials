@@ -1,0 +1,642 @@
+{
+ "id": 502,
+ "mock_type": "cefr-reading",
+ "mock_number": 58,
+ "title": "CEFR Reading Mock 58",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "gap-fill-text",
+    "title": "PART 1",
+    "answers": {
+     "1": [
+      "people"
+     ],
+     "2": [
+      "match"
+     ],
+     "3": [
+      "teams"
+     ],
+     "4": [
+      "players"
+     ],
+     "5": [
+      "football"
+     ],
+     "6": [
+      "ball"
+     ]
+    },
+    "passage": {
+     "title": "Football on weekends",
+     "content": "<p>Playing football is a common weekend activity for many people around the world. For some <span class=\"gap\" data-gap=\"1\">_____(1)_____</span>, it's a hobby; for others, it's a way to stay fit and have fun. Every Saturday morning, a group of friends meet at the local field to play a match. The <span class=\"gap\" data-gap=\"2\">_____(2)_____</span> is not very big, but it's perfect for a friendly game of football.</p><p>The players bring their own ball, wear simple shoes, and divide into two teams. The <span class=\"gap\" data-gap=\"3\">_____(3)_____</span> are usually different each week, depending on who shows up. Sometimes there are new players, and other times it's the same group. No matter who plays, the <span class=\"gap\" data-gap=\"4\">_____(4)_____</span> always show great teamwork and energy.</p><p><span class=\"gap\" data-gap=\"5\">_____(5)_____</span> teaches people how to cooperate, run, and focus. It also helps them build strong friendships. This weekend, they will return to the field, ready to kick the <span class=\"gap\" data-gap=\"6\">_____(6)_____</span>.</p>"
+    },
+    "questions": [
+     {
+      "id": 1,
+      "hint": ""
+     },
+     {
+      "id": 2,
+      "hint": ""
+     },
+     {
+      "id": 3,
+      "hint": ""
+     },
+     {
+      "id": 4,
+      "hint": ""
+     },
+     {
+      "id": 5,
+      "hint": ""
+     },
+     {
+      "id": 6,
+      "hint": ""
+     }
+    ],
+    "partNumber": 1,
+    "instruction": "Read the text. Fill in each gap with ONE word. You must use a word which is somewhere in the rest of the text.",
+    "explanations": {},
+    "questionRange": "1-6"
+   },
+   {
+    "type": "matching",
+    "texts": [
+     {
+      "number": 7,
+      "content": "The Mayfair Hotel in central London offers a stylish stay with city views, gourmet dining, and easy access to famous landmarks. Ideal for business trips or urban adventures."
+     },
+     {
+      "number": 8,
+      "content": "The Coral Beach Resort offers an all-inclusive vacation with beautiful beaches, clear water, spa treatments, and fun activities for all ages, creating unforgettable memories."
+     },
+     {
+      "number": 9,
+      "content": "The Adventureland Hotel is great for families, with a waterpark, petting zoo, kids' club, and fun activities. Spacious suites and tasty meals make for lasting memories."
+     },
+     {
+      "number": 10,
+      "content": "This French countryside hotel offers scenic vineyard views, spa services, and romantic dinners—perfect for couples seeking peace and charm."
+     },
+     {
+      "number": 11,
+      "content": "The Imperial Hotel in Rome blends history and elegance. Guests can enjoy antique decor, ancient sites, museums, and Italian cuisine at the hotel's restaurant."
+     },
+     {
+      "number": 12,
+      "content": "The Green Oasis Resort is an eco-friendly getaway in the rainforest. It promotes responsible tourism with nature walks, natural pools, and conservation learning."
+     },
+     {
+      "number": 13,
+      "content": "The Backpacker's Haven Hostel is a lively, low-cost stay for independent travelers. Enjoy shared spaces, meet global adventurers, and explore the city on a budget."
+     },
+     {
+      "number": 14,
+      "content": "The Mountain Lodge in the Swiss Alps is ideal for thrill-seekers. With mountain views, hiking trails, and top cuisine, it's a warm, scenic escape for outdoor lovers."
+     }
+    ],
+    "title": "PART 2",
+    "answers": {
+     "7": [
+      "D"
+     ],
+     "8": [
+      "C"
+     ],
+     "9": [
+      "A"
+     ],
+     "10": [
+      "B"
+     ],
+     "11": [
+      "G"
+     ],
+     "12": [
+      "H"
+     ],
+     "13": [
+      "I"
+     ],
+     "14": [
+      "E"
+     ]
+    },
+    "questions": [
+     {
+      "id": 7,
+      "textNumber": 7
+     },
+     {
+      "id": 8,
+      "textNumber": 8
+     },
+     {
+      "id": 9,
+      "textNumber": 9
+     },
+     {
+      "id": 10,
+      "textNumber": 10
+     },
+     {
+      "id": 11,
+      "textNumber": 11
+     },
+     {
+      "id": 12,
+      "textNumber": 12
+     },
+     {
+      "id": 13,
+      "textNumber": 13
+     },
+     {
+      "id": 14,
+      "textNumber": 14
+     }
+    ],
+    "partNumber": 2,
+    "statements": [
+     {
+      "text": "You are looking for a hotel which is The Family Fun.",
+      "letter": "A"
+     },
+     {
+      "text": "You need a hotel for the purpose of The Romantic Retreat.",
+      "letter": "B"
+     },
+     {
+      "text": "You want to spend a good time by watching waves.",
+      "letter": "C"
+     },
+     {
+      "text": "You need a hotel and want to enjoy city life.",
+      "letter": "D"
+     },
+     {
+      "text": "You need a hotel which is good for \"The Adventure Seeker\".",
+      "letter": "E"
+     },
+     {
+      "text": "You want to stay away from the busy life the rural area.",
+      "letter": "F"
+     },
+     {
+      "text": "You want to have some information about the past.",
+      "letter": "G"
+     },
+     {
+      "text": "You need a hotel coming from your eco-conscious choice.",
+      "letter": "H"
+     },
+     {
+      "text": "You have limited budget so you need a reasonable hotel.",
+      "letter": "I"
+     },
+     {
+      "text": "You need a hotel to organize a seminar.",
+      "letter": "J"
+     }
+    ],
+    "instruction": "Read the texts 7-14 and the statements A-J. Decide which text matches with the situation described in the statements. Each statement can be used ONCE only. There are TWO extra statements which you do not need to use.",
+    "explanations": {},
+    "questionRange": "7-14",
+    "extraStatements": [
+     "F",
+     "J"
+    ],
+    "statementsFirst": true
+   },
+   {
+    "type": "matching-headings",
+    "title": "PART 3",
+    "answers": {
+     "15": [
+      "D"
+     ],
+     "16": [
+      "C"
+     ],
+     "17": [
+      "A"
+     ],
+     "18": [
+      "F"
+     ],
+     "19": [
+      "H"
+     ],
+     "20": [
+      "B"
+     ]
+    },
+    "passage": {
+     "title": "Small countries",
+     "paragraphs": [
+      {
+       "number": "15",
+       "content": "Another tiny European country is Liechtenstein, which is quite large compared to Monaco. It covers 160 square kilometers. It borders Switzerland and Austria, and is situated entirely within the Alps. Most of its territory is mountainous, making it a popular destination for skiers. With almost no natural resources, the country has developed a highly-industrialized free-enterprise economy. Like its neighbor Switzerland, Liechtenstein follows a policy of neutrality and has no military.",
+       "questionId": 15
+      },
+      {
+       "number": "16",
+       "content": "Next on the list of tiny countries is Monaco, which covers about 2 square kilometers. Monaco is also famous for being the smallest monarchy in the world, and for being the most densely populated country. It may be best known as one of James Bond's favorite places, with its many casinos and beautiful women! The economy of Monaco is based mostly on gambling and tourism. It lies on the coast of the Mediterranean Sea and borders France.",
+       "questionId": 16
+      },
+      {
+       "number": "17",
+       "content": "Everyone knows that Russia is the largest country in the world, in terms of territory. But what about the world's smallest countries; do you know what they are? Today there are 17 countries that each consists of less than 500 square kilometers in area. If we combined all the land area of these 17 countries, we would have a single country just a bit larger than the U.S. state of Rhode Island. Even tiny Singapore is too big for this list.",
+       "questionId": 17
+      },
+      {
+       "number": "18",
+       "content": "The smallest of these tiny countries is Vatican City, covering less than half a square kilometer. Vatican City is the spiritual center of the world's Roman Catholics, who today number over 1 billion. It is also the home of the Pope, the head of the Catholic Church. About 800 people reside permanently in Vatican City, but over 25,000 people visit every day, in order to see its beautiful churches and museums. Vatican City is surrounded by Rome, Italy.",
+       "questionId": 18
+      },
+      {
+       "number": "19",
+       "content": "Tiny Nauru is both the smallest island nation in the world and the smallest republic. Its total territory is just 21 square kilometers. It's situated in the southern Pacific Ocean. In the early part of the 20th century, the people of Nauru became rich, thanks to the rich phosphate reserves on the island. But once all the phosphate was mined, the small nation found it had no other income source for its 9,000 citizens. Today 90% of the island's inhabitants are unemployed.",
+       "questionId": 19
+      },
+      {
+       "number": "20",
+       "content": "Many of the world's smallest countries are islands or groups of islands. For example, the Maldives is a country made up of 1,190 islands, only 185 of which are occupied. The country, situated in the Indian Ocean, can claim 298 square kilometers in land-territory. A former colony of the U.K., it has been independent since 1965. While hot and humid all year long, the Maldives also enjoys constant cool sea breezes. Its beautiful coral reefs make it a popular destination for divers.",
+       "questionId": 20
+      }
+     ]
+    },
+    "headings": [
+     {
+      "text": "One for more than a dozen",
+      "letter": "A"
+     },
+     {
+      "text": "Land and water",
+      "letter": "B"
+     },
+     {
+      "text": "For adrenalin rush",
+      "letter": "C"
+     },
+     {
+      "text": "High in many ways",
+      "letter": "D"
+     },
+     {
+      "text": "The smaller the better",
+      "letter": "E"
+     },
+     {
+      "text": "A country in a city",
+      "letter": "F"
+     },
+     {
+      "text": "Once poor, now rich",
+      "letter": "G"
+     },
+     {
+      "text": "Not rich any more",
+      "letter": "H"
+     }
+    ],
+    "questions": [
+     {
+      "id": 15,
+      "paragraphNumber": "15"
+     },
+     {
+      "id": 16,
+      "paragraphNumber": "16"
+     },
+     {
+      "id": 17,
+      "paragraphNumber": "17"
+     },
+     {
+      "id": 18,
+      "paragraphNumber": "18"
+     },
+     {
+      "id": 19,
+      "paragraphNumber": "19"
+     },
+     {
+      "id": 20,
+      "paragraphNumber": "20"
+     }
+    ],
+    "partNumber": 3,
+    "instruction": "Read the text and choose the correct heading for each paragraph from the list of headings below. There are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once.",
+    "explanations": {},
+    "extraHeadings": [
+     "E",
+     "G"
+    ],
+    "questionRange": "15-20"
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "PART 4",
+    "answers": {
+     "21": [
+      "B",
+      "Bailey wasn't at her bedroom door demanding food."
+     ],
+     "22": [
+      "B",
+      "She expected more noise in a busy city on a Friday morning."
+     ],
+     "23": [
+      "B",
+      "The lights wouldn't turn on in the kitchen."
+     ],
+     "24": [
+      "B",
+      "She realized Bailey was calmly standing next to the man."
+     ],
+     "25": [
+      "False"
+     ],
+     "26": [
+      "True"
+     ],
+     "27": [
+      "Not Given"
+     ],
+     "28": [
+      "True"
+     ],
+     "29": [
+      "Not Given"
+     ]
+    },
+    "passage": {
+     "title": "A Strange Morning of Silence",
+     "content": "<p>Emily woke up before her alarm went off and knew instantly something wasn't quite right in the house. Bailey, her chocolate-coloured pet Labrador, should have been there at the bedroom door demanding food but there was no sound of him. She decided to get up and go and see where he was. It felt cold in the hall but she knew she had left the heating on last night. As she walked down the stairs she heard a noise in the kitchen; the strange feeling that something was wrong was getting stronger. What was going on? She got to the bottom of the stairs and opened the door to the living room, which led to the kitchen. Why was the door closed? She always left it open. Bailey was nowhere to be seen and his toys, which were usually all over the living room floor, were in a neat pile in the corner next to his basket. Had they been there when she had gone to bed last night? She couldn't remember.</p><p>She walked into the kitchen and turned the light on, it didn't work, nothing happened. She stood very still and listened, nothing. There wasn't a sound. That was really strange; she lived in the middle of a busy city, there were always people around. She woke up to the sound of traffic, car horns, police cars, her neighbours shouting in the house next door, how could there be silence at 8 o'clock on a Friday morning? She went back into the living room and turned the TV on, but again nothing happened. She went back into the kitchen and looked out of the window; it was a bright clear day. The back door was shut but when she tried the handle she realised it was unlocked. She walked out into the tiny back garden and opened the back gate; still nothing, not a sound and no sign of Bailey.</p><p>She called him but he didn't come. She went back into the house and what she realised she should have done as soon as she got up and called her mother. But there was no answer. She called her boyfriend but his mobile was switched off and she got the answer phone message. She tried a couple of other numbers but with equal success. She sat down on the sofa and thought about what she could do. She couldn't decide if she should stay at home or go out and find someone. Just as she decided the best thing would be to stay at home and wait, there was a loud banging on the front door. She jumped up and ran to the door. \"Who is it?\" she shouted through the door. \"It's me,\" came the reply. But she had no idea who \"me\" was. She didn't want to open the door until she was sure she knew who it was, not with all the other strange things that were happening this morning, and she didn't want to shout through the thick front door, so she walked back into the living room and tried to look through the front window to see who was standing at the front door. It was a man but she couldn't make out who he was; he didn't look familiar. He was tall and was wearing a big coat with a hood over his head.</p><p>Just as she was thinking of running out the back door she saw that the man had Bailey with him, and Bailey seemed quite happy, which meant that the man had to be someone he knew and liked; he would have been barking otherwise. She still wasn't taking any chances though; she put the safety latch on the door and opened it just enough to see who was there. She was instantly relieved; it was her brother, who lived just a few streets away. She opened the door all the way and let him in. As he walked through the door he was almost knocked over by Bailey jumping up and looking more pleased than ever to see her. \"So what's going on?\" she asked her brother. He looked at her as if she was stupid. \"Haven't you heard?\"</p>"
+    },
+    "partNumber": 4,
+    "instruction": "Read the following text for questions 21-29.",
+    "explanations": {},
+    "questionRange": "21-29",
+    "questionSections": [
+     {
+      "type": "mcq",
+      "title": "Questions 21-24: Multiple Choice",
+      "questions": [
+       {
+        "id": 21,
+        "text": "What was Emily's first clue that something was unusual that morning?",
+        "options": [
+         {
+          "text": "The living room door was wide open.",
+          "letter": "A"
+         },
+         {
+          "text": "Bailey wasn't at her bedroom door demanding food.",
+          "letter": "B"
+         },
+         {
+          "text": "She heard loud music in the kitchen.",
+          "letter": "C"
+         },
+         {
+          "text": "The central heating had stopped working.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 22,
+        "text": "Which detail in the text shows Emily is surprised by the total silence?",
+        "options": [
+         {
+          "text": "She lives in a remote countryside area.",
+          "letter": "A"
+         },
+         {
+          "text": "She expected more noise in a busy city on a Friday morning.",
+          "letter": "B"
+         },
+         {
+          "text": "There were normally no cars or people around at that time.",
+          "letter": "C"
+         },
+         {
+          "text": "She woke up much earlier than usual.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 23,
+        "text": "How did Emily discover there was probably no electricity?",
+        "options": [
+         {
+          "text": "She tried to put the heating on and it didn't work.",
+          "letter": "A"
+         },
+         {
+          "text": "The lights wouldn't turn on in the kitchen.",
+          "letter": "B"
+         },
+         {
+          "text": "She turned on the TV and only got static.",
+          "letter": "C"
+         },
+         {
+          "text": "She tried using the house phone and it went dead.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 24,
+        "text": "Why did Emily decide to open the front door in the end?",
+        "options": [
+         {
+          "text": "She heard her brother's voice clearly when he called.",
+          "letter": "A"
+         },
+         {
+          "text": "She realized Bailey was calmly standing next to the man.",
+          "letter": "B"
+         },
+         {
+          "text": "The man at the door threatened to break it down.",
+          "letter": "C"
+         },
+         {
+          "text": "She remembered she had invited someone to visit.",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "For questions 21-24, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."
+     },
+     {
+      "type": "tfni",
+      "title": "Questions 25-29: True / False / Not Given",
+      "options": [
+       "True",
+       "False",
+       "Not Given"
+      ],
+      "questions": [
+       {
+        "id": 25,
+        "text": "Emily finds Bailey's toys lying scattered around the living room floor."
+       },
+       {
+        "id": 26,
+        "text": "Emily attempts several phone calls but cannot get through to anyone."
+       },
+       {
+        "id": 27,
+        "text": "The text states that Emily's mother left her a message on the voicemail."
+       },
+       {
+        "id": 28,
+        "text": "The stranger at the door turns out to be Emily's brother."
+       },
+       {
+        "id": 29,
+        "text": "Emily had locked the back door before going to bed."
+       }
+      ],
+      "instruction": "For questions 25-29, decide if the following statements agree with the information given in the text. Mark your answers on the answer sheet."
+     }
+    ]
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "PART 5",
+    "answers": {
+     "30": [
+      "falconry"
+     ],
+     "31": [
+      "saker"
+     ],
+     "32": [
+      "meat"
+     ],
+     "33": [
+      "manning"
+     ],
+     "34": [
+      "B",
+      "Lanner falcon"
+     ],
+     "35": [
+      "C",
+      "Because they are regarded as valuable national treasures"
+     ]
+    },
+    "passage": {
+     "title": "Falcons",
+     "content": "<p>Falcons have existed on Earth for more than 8 million years. They belong to a group of birds called \"birds of prey\" or raptors, which means they hunt other animals for food. These birds are famous for their sharp eyesight, hooked beaks, and incredible flying abilities. From ancient times, humans have admired falcons not only for their hunting skills but also for their beauty and intelligence. In many cultures, especially in the Middle East, falcons are considered symbols of strength, courage, and nobility. The tradition of training falcons, known as <em>falconry</em>, dates back thousands of years. Egyptian pharaohs, Mongol warriors, and Arabian princes all kept falcons as hunting companions and loyal birds. Even today, falconry remains a respected practice and a unique way to connect with nature. There are more than 40 species of falcons in the world, but a few are especially well-known in falconry. The peregrine falcon is the fastest animal on Earth. It can dive at a speed of over 300 kilometers per hour to catch its prey. The saker falcon, common in Central Asia and the Arabian Peninsula, is prized for its boldness, size, and hunting instinct. It is especially popular in traditional falconry and is often seen in royal competitions. The gyrfalcon, found in Arctic regions, is the largest falcon and admired for its snowy white feathers and calm nature. The lanner falcon, with its elegant wings and sharp focus, is often chosen by beginner falconers for training. Each of these falcons has a special character. For example, the saker is known to be very loyal once trust is built, while the peregrine is more independent and requires an experienced handler. Therefore, choosing the right falcon depends on the goals, preferences, and experience level of the falconer. When selecting a falcon, several factors need to be considered: the bird's age, health, temperament, and previous experience. Younger birds may be easier to train but can also be more unpredictable. Older falcons might already have hunting skills but could take longer to trust a new trainer.</p><p>Once chosen, a falcon requires daily attention and care. Its diet plays a major role in its strength and performance. In the wild, falcons eat small animals such as mice, rabbits, and birds. In captivity, falconers usually feed them fresh meat such as quail, pigeon, or rabbit. High-quality food is essential, as poor diet can affect the bird's health and flying ability. Clean water, a quiet shelter, and daily exercise are also part of a falcon's routine. Before a falcon can be used for hunting or flying in public, it must go through manning. Manning is the process of taming a falcon and helping it become comfortable with humans, sounds, and the world around it. This is not a quick or easy task. The bird may be nervous, aggressive, or simply afraid at first. The manning process begins with the falconer sitting calmly with the bird perched on a thick glove. This can last for hours, sometimes in complete silence. The goal is to teach the bird that the human is not a threat. Over time, the falcon learns to accept hand-feeding, stay calm around noise, and respond to the falconer's call. Some falcons adjust quickly, while others may take weeks or even months. Today, falconry is still practiced in many parts of the world, including Europe, Central Asia, and the Middle East. In countries like the UAE and Saudi Arabia, falconry is considered a national tradition and falcons are even given passports to travel with their owners.</p>"
+    },
+    "partNumber": 5,
+    "instruction": "Read the following text for questions 30-35.",
+    "explanations": {},
+    "questionRange": "30-35",
+    "questionSections": [
+     {
+      "type": "gap-fill",
+      "title": "Questions 30-33: Summary Completion",
+      "questions": [
+       {
+        "id": 30,
+        "hint": ""
+       },
+       {
+        "id": 31,
+        "hint": ""
+       },
+       {
+        "id": 32,
+        "hint": ""
+       },
+       {
+        "id": 33,
+        "hint": ""
+       }
+      ],
+      "instruction": "For questions 30-33, fill in the missing information in the numbered spaces. Write no more than ONE WORD and / or A NUMBER for each question.",
+      "summaryText": "<p>One ancient practice involving falcons is called <span class=\"gap-input\" data-gap=\"30\">_____(30)_____</span>, and it has been passed down through generations in many cultures. The <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span> falcon is particularly valued for its physical build and natural hunting behavior. When kept in captivity, falcons occasionally consume <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span>. The process of taming a new falcon and teaching it to trust humans is known as <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span>.</p>"
+     },
+     {
+      "type": "mcq",
+      "title": "Questions 34-35: Multiple Choice",
+      "questions": [
+       {
+        "id": 34,
+        "text": "According to the text, which falcon is especially suited for beginners due to its temperament?",
+        "options": [
+         {
+          "text": "Saker falcon",
+          "letter": "A"
+         },
+         {
+          "text": "Lanner falcon",
+          "letter": "B"
+         },
+         {
+          "text": "Peregrine falcon",
+          "letter": "C"
+         },
+         {
+          "text": "Gyrfalcon",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 35,
+        "text": "Why do countries like the UAE grant passports to falcons?",
+        "options": [
+         {
+          "text": "Because they are recognized as essential pest controllers",
+          "letter": "A"
+         },
+         {
+          "text": "Because they must follow strict international breeding laws",
+          "letter": "B"
+         },
+         {
+          "text": "Because they are regarded as valuable national treasures",
+          "letter": "C"
+         },
+         {
+          "text": "Because they need extra protection from airport authorities",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "For questions 34-35, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."
+     }
+    ]
+   }
+  ],
+  "source": "Turg'unov's Multilevel Reading Mock Test 2 (Bekzod Turg'unov)",
+  "examDate": "2026-06-12",
+  "examType": "cefr",
+  "testInfo": {
+   "level": "B2",
+   "title": "CEFR Reading Mock 58",
+   "totalTime": 60,
+   "totalQuestions": 35
+  },
+  "mockNumber": 58
+ },
+ "created_at": "2026-06-12T13:49:26.947428+00:00",
+ "updated_at": "2026-10-11T10:54:25.762211+00:00"
+}

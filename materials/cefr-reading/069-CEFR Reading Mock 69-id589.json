@@ -1,0 +1,593 @@
+{
+ "id": 589,
+ "mock_type": "cefr-reading",
+ "mock_number": 69,
+ "title": "CEFR Reading Mock 69",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "gap-fill-text",
+    "title": "Part 1",
+    "answers": {
+     "1": [
+      "Fanta"
+     ],
+     "2": [
+      "Coca-Cola",
+      "Coca Cola"
+     ],
+     "3": [
+      "German"
+     ],
+     "4": [
+      "plant"
+     ],
+     "5": [
+      "sugar"
+     ],
+     "6": [
+      "drink"
+     ]
+    },
+    "passage": {
+     "title": "The history of Fanta",
+     "content": "<p>Fanta is an American-owned German brand of fruit-flavored carbonated soft drinks created by Coca-Cola Deutschland under the leadership of German businessman Max Keith. There are more than 200 flavors worldwide. <span class=\"gap\" data-gap=\"1\">_____(1)_____</span> originated in Germany as a Coca-Cola alternative in 1940 due to the American trade embargo of Nazi Germany, which affected the availability of <span class=\"gap\" data-gap=\"2\">_____(2)_____</span> ingredients. Fanta soon dominated the <span class=\"gap\" data-gap=\"3\">_____(3)_____</span> market with three million cans sold in 1943. The current formulation of Fanta was developed in Italy in 1955. The German plant was cut off from Coca-Cola headquarters following America's entry into the war following the Japanese attack on Pearl Harbor in 1941. After the war, The Coca-Cola Company regained control of the plant, formula, and the trademarks to the new Fanta product - as well as the <span class=\"gap\" data-gap=\"4\">_____(4)_____</span> profits made during the war. In Mexico Fanta is made with sugar whereas the US version uses high fructose corn syrup. In the UK, the sugar content was reduced in 2017 to 4.6% per 100ml in the standard version (non- sugar free) to ensure that the product was below the 5g that will incur the soft drinks levy (sugary drink tax). This was a third lower than the recipe used before 2016, when some of the <span class=\"gap\" data-gap=\"5\">_____(5)_____</span> was replaced by sweeteners. In Albania, Bosnia and Herzegovina, Croatia, Poland, Serbia, Romania, Sweden, and some other European countries, there is Fanta Shokata based on an elderflower blossom extract drink. In Russia, however, \"Shokata\" is the rebranding of Fanta Citrus, which is more like a common lemonade. This version of <span class=\"gap\" data-gap=\"6\">_____(6)_____</span> actually has white color, like a common lemonade while the bottle is blue-colored.</p>"
+    },
+    "questions": [
+     {
+      "id": 1,
+      "hint": ""
+     },
+     {
+      "id": 2,
+      "hint": ""
+     },
+     {
+      "id": 3,
+      "hint": ""
+     },
+     {
+      "id": 4,
+      "hint": ""
+     },
+     {
+      "id": 5,
+      "hint": ""
+     },
+     {
+      "id": 6,
+      "hint": ""
+     }
+    ],
+    "partNumber": 1,
+    "instruction": "Read the text. Fill in each gap with ONE word. You must use a word which is somewhere in the rest of the text.",
+    "explanations": {},
+    "questionRange": "1-6"
+   },
+   {
+    "type": "matching",
+    "texts": [
+     {
+      "number": 7,
+      "content": "what still needs to be done"
+     },
+     {
+      "number": 8,
+      "content": "the original suggestion for creating the path"
+     },
+     {
+      "number": 9,
+      "content": "a reason why the path opened early"
+     },
+     {
+      "number": 10,
+      "content": "people who no longer need to get to the park by car"
+     },
+     {
+      "number": 11,
+      "content": "the route of the path"
+     },
+     {
+      "number": 12,
+      "content": "the length of the path"
+     },
+     {
+      "number": 13,
+      "content": "who paid for the path"
+     }
+    ],
+    "title": "Part 2",
+    "answers": {
+     "7": [
+      "E"
+     ],
+     "8": [
+      "C"
+     ],
+     "9": [
+      "B"
+     ],
+     "10": [
+      "D"
+     ],
+     "11": [
+      "A"
+     ],
+     "12": [
+      "C"
+     ],
+     "13": [
+      "B"
+     ]
+    },
+    "questions": [
+     {
+      "id": 7,
+      "textNumber": 7
+     },
+     {
+      "id": 8,
+      "textNumber": 8
+     },
+     {
+      "id": 9,
+      "textNumber": 9
+     },
+     {
+      "id": 10,
+      "textNumber": 10
+     },
+     {
+      "id": 11,
+      "textNumber": 11
+     },
+     {
+      "id": 12,
+      "textNumber": 12
+     },
+     {
+      "id": 13,
+      "textNumber": 13
+     }
+    ],
+    "partNumber": 2,
+    "statements": [
+     {
+      "text": "A new dual-purpose cycle and pedestrian route has been built from Atherton bus station to the country park’s main entrance at Marshbrook. It avoids the main road into Atherton on the south side, and keeps mainly to less busy roads. Once the path leaves the built-up area, it goes through countryside until it reaches Marshbrook.",
+      "letter": "A"
+     },
+     {
+      "text": "Funding for the cycle path has come largely from the country and town councils, while almost a third of it was raised through crowdfunding. Maintenance of the path is the responsibility of the county council. The cycle path was completed ahead of schedule – partly thanks to perfect weather for construction – and under budget.",
+      "letter": "B"
+     },
+     {
+      "text": "Annie Newcome is the chief executive of Cycle Atherton, the organisation that aims to get people cycling more often and more safely. Cycle Atherton proposed the 12- kilometre-long cycle path initially, and has been active in promoting it. Ms Newcome says she is delighted that all the hard work to achieve the funding proved successful.",
+      "letter": "C"
+     },
+     {
+      "text": "Marshbrook Country Park is a very popular recreational area, and the new path makes it much easier to reach from the town in an environmentally friendly way. At 2.5 metres wide, it is also suitable for users of wheelchairs, mobility scooters and buggies, who have not previously had access to the park without using motor vehicles.",
+      "letter": "D"
+     },
+     {
+      "text": "Although the path is now open, work is continuing to improve the signs along it, such as warnings when the path approaches a road. New hedges and trees will also be planted along stretches of the path, to provide some shelter from the wind and to benefit wildlife.",
+      "letter": "E"
+     },
+     {
+      "text": "Further information and a detailed map of the path including a proposed 5-kilometre extension are available online. The map can easily be downloaded and printed. Visit the county council website and follow the links to Atherton Cycle Path.",
+      "letter": "F"
+     }
+    ],
+    "instruction": "The text has six paragraphs, A-F. Which paragraph mentions the following? Write the correct letter, A-F. NB You may use any letter more than once.",
+    "explanations": {},
+    "questionRange": "7-13",
+    "extraStatements": [
+     "F"
+    ],
+    "statementsFirst": false
+   },
+   {
+    "type": "matching-headings",
+    "title": "Part 3",
+    "answers": {
+     "14": [
+      "vi"
+     ],
+     "15": [
+      "iv"
+     ],
+     "16": [
+      "ii"
+     ],
+     "17": [
+      "viii"
+     ],
+     "18": [
+      "v"
+     ],
+     "19": [
+      "vii"
+     ],
+     "20": [
+      "iii"
+     ]
+    },
+    "passage": {
+     "title": "Marine Ecosystems",
+     "paragraphs": [
+      {
+       "number": "A",
+       "content": "For some time now, the world’s oceans and the people who fish them have been a constant source of bad environmental news: cod is effectively an endangered species of fish in some places now; every year thousands of dolphins are injured by fishing vessels; huge tuna farms are ruining the Mediterranean Sea. What is more, marine biologists recently warned that our seafood is in terminal decline. According to research published in Science last November, stocks of all the fish and shellfish that we currently eat will collapse before 2050. Or at least, that’s how the media reported it."
+      },
+      {
+       "number": "B",
+       "content": "However, the scientist who led the study has said that the main conclusion of his research has been buried beneath the headlines. While the danger to our seafood supply is real enough, says Boris Worm, assistant professor of marine conservation biology at Dalhousie University, Canada, there is a more serious point: that the way in which we manage the oceans is not only threatening the survival of individual species, it’s upsetting the delicate balance of marine communities and thus causing the collapse of entire ecosystems. Research has shown that the number of ecosystems where all higher forms of life are extinct, so-called dead zones, is increasing. The point that many reports failed to highlight, says Worm, is that we have to revolutionise the way our marine resources are run, changing the focus from stocks and quotas to biodiversity and ecosystem protection. And to do that, we must change the way the debate about our marine resources is conducted in the public domain."
+      },
+      {
+       "number": "C",
+       "content": "Around 7,500 years ago, shrinking glaciers and the resulting higher water levels led to the development of what’s called the Wadden Sea, a 13,500-square-kilometre area of the North Sea. During the first 5,000 years or so, the sea pulsated with life. There was a high level of biodiversity on the seabed too, and the salt marshes and mud flats on the coast supported millions of birds. This continued until around 2,000 years ago, when human pressure began to affect it. Research has shown that some of the larger creatures disappeared more than 500 years ago. And by the late 19th century, populations of most of the other mammals and fish were severely reduced, leading to the collapse of several traditional fisheries."
+      },
+      {
+       "number": "D",
+       "content": "What’s interesting is that overfishing isn’t the main agent of the decline, as we might assume. It’s due to an ongoing combination of exploitation, habitat destruction and pollution. Coastal development, for example, destroys large areas of wetlands that support a range of species. Pollution fuels a process known as eutrophication, which kills certain seagrasses. Nutrients such as nitrogen and phosphorus contained in human and industrial waste promote the growth of tiny phytoplankton. This over-enrichment of the sea can ultimately lead to the collapse of the entire system through oxygen starvation. Most marine ecosystems have an in-built capacity to deal with a certain amount of pollution because shellfish can absorb phytoplankton. But in many cases, these have been largely removed by fishing, so the effect of any nutrient-rich pollutants entering the system is increased. In a healthy system, coastal wetlands also act as filters, so their destruction causes even more pollution. These processes have been fairly well understood for a number of years."
+      },
+      {
+       "number": "E",
+       "content": "What the Science paper has demonstrated, however, is that the decline in the health of ecosystems is greater where the number of different species is low. The population of marbled rock cod around the South Atlantic island of South Georgia, for example, still hasn’t recovered after the fishing industry caused its collapse during the 1970s. By contrast, North Sea cod has withstood very heavy fishing for hundreds of years, says Worm, and although it has declined substantially, it hasn’t yet collapsed completely. Worm believes that, ‘to have a greater number of species makes an ecosystem more robust’. His theory is backed up by evidence from experiments into how ecosystems react to change."
+      },
+      {
+       "number": "F",
+       "content": "And some positive news came from the study. Worm and his colleagues were able to show that it’s possible to reverse such damage as long as there are enough species. A survey of 44 protected areas revealed increases in biodiversity and fish catches close to the reserves. Worm says, ‘We should be focusing our attention on protecting all of our marine resources at the ecosystem level, and managing levels of fishing, pollution and habitat disturbance to ensure that crucial services that maintain the health of the ecosystem continue to function.’ To anyone who knows anything about ecology, it would appear that Worm is just stating the obvious. And many protected areas on land are now managed in this way."
+      },
+      {
+       "number": "G",
+       "content": "However, there has long been a tendency to view our oceans as a limitless resource, combined with a widespread failure to make an emotional connection with most marine wildlife. True, we have created a small number of marine protected areas. ‘We seem to have understood the value of protecting ecosystems in areas such as the Australian Great Barrier Reef that we consider to be particularly beautiful,’ says John Shepherd, Professor of Marine Sciences at Southampton University in the UK. ‘Human nature will always draw us towards those species or habitats that are more aesthetically pleasing. That’s why there will always be support for protecting pandas and very little for worms, even though nematodes play a vital role in maintaining the health of an ecosystem.’"
+      }
+     ]
+    },
+    "headings": [
+     {
+      "text": "Plans for more marine protected areas",
+      "letter": "i"
+     },
+     {
+      "text": "A historical overview of one specific area",
+      "letter": "ii"
+     },
+     {
+      "text": "Why more has not been done to save marine creatures",
+      "letter": "iii"
+     },
+     {
+      "text": "What the press has missed",
+      "letter": "iv"
+     },
+     {
+      "text": "Where biodiversity has been shown to help",
+      "letter": "v"
+     },
+     {
+      "text": "Who is currently being blamed",
+      "letter": "vi"
+     },
+     {
+      "text": "A reason for some optimism",
+      "letter": "vii"
+     },
+     {
+      "text": "Various factors other than fishing",
+      "letter": "viii"
+     }
+    ],
+    "questions": [
+     {
+      "id": 14,
+      "paragraphNumber": "A"
+     },
+     {
+      "id": 15,
+      "paragraphNumber": "B"
+     },
+     {
+      "id": 16,
+      "paragraphNumber": "C"
+     },
+     {
+      "id": 17,
+      "paragraphNumber": "D"
+     },
+     {
+      "id": 18,
+      "paragraphNumber": "E"
+     },
+     {
+      "id": 19,
+      "paragraphNumber": "F"
+     },
+     {
+      "id": 20,
+      "paragraphNumber": "G"
+     }
+    ],
+    "partNumber": 3,
+    "instruction": "The text has seven sections, A-G. Choose the correct heading for each section from the list of headings below. There are more headings than sections, so you will not use all of them. Write the correct number, i-viii.",
+    "explanations": {},
+    "extraHeadings": [
+     "i"
+    ],
+    "questionRange": "14-20"
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 4",
+    "answers": {
+     "21": [
+      "Not Given"
+     ],
+     "22": [
+      "True"
+     ],
+     "23": [
+      "True"
+     ],
+     "24": [
+      "False"
+     ],
+     "25": [
+      "False"
+     ],
+     "26": [
+      "False"
+     ],
+     "27": [
+      "B",
+      "Jiggling might occur"
+     ],
+     "28": [
+      "D",
+      "Third Sleep stage"
+     ],
+     "29": [
+      "A",
+      "During REM sleep"
+     ],
+     "30": [
+      "D",
+      "There is no set amount of time"
+     ],
+     "31": [
+      "C",
+      "Almost ten times more sleep than giraffes"
+     ]
+    },
+    "passage": {
+     "title": "The science of sleep",
+     "content": "<p>We spend a third of our lives doing it. Napoleon, Florence Nightingale and Margaret Thatcher got by on four hours a night. Thomas Edison claimed it was waste of time.</p><p>So why do we sleep? This is a question that has baffled scientists for centuries and the answer is, no one is really sure. Some believe that sleep gives the body a chance to recuperate from the day's activities but in reality, the amount of energy saved by sleeping for even eight hours is miniscule - about 50 kCal, the same amount of energy in a piece of toast.</p><p>With continued lack of sufficient sleep, the part of the brain that controls language, memory, planning and sense of time is severely affected, practically shutting down. In fact, 17 hours of sustained wakefulness leads to a decrease in performance equivalent to a blood alcohol level of 0.05% (two glasses of wine). This is the legal drink driving limit in the UK.</p><p>Research also shows that sleep-deprived individuals often have difficulty in responding to rapidly changing situations and making rational judgements. In real life situations, the consequences are grave and lack of sleep is said to have been be a contributory factor to a number of international disasters such as Exxon Valdez, Chernobyl, Three Mile Island and the Challenger shuttle explosion. Sleep deprivation not only has a major impact on cognitive functioning but also on emotional and physical health. Disorders such as sleep apnoea which result in excessive daytime sleepiness have been linked to stress and high blood pressure. Research has also suggested that sleep loss may increase the risk of obesity because chemicals and hormones that play a key role in controlling appetite and weight gain are released during sleep.</p><p>What happens when we sleep? What happens every time we get a bit of shut eye? Sleep occurs in a recurring cycle of 90 to 110 minutes and is divided into two categories: non-REM (which is further split into four stages) and</p><p>REM sleep.</p><p>Non-REM sleep</p><p>Stage one: Light Sleep During the first stage of sleep, we're half awake and half asleep. Our muscle activity slows down and slight twitching may occur. This is a period of light sleep, meaning we can be awakened easily at this stage.</p><p>Stage two: True Sleep Within ten minutes of light sleep, we enter stage two, which lasts around 20 minutes. The breathing pattern and heart rate start to slow down. This period accounts for the largest part of human sleep.</p><p>Stages three and four: Deep Sleep During stage three, the brain begins to produce delta waves, a type of wave that is large (high amplitude) and slow (low frequency). Breathing and heart rate are at their lowest levels.</p><p>Stage four is characterised by rhythmic breathing and limited muscle activity. If we are awakened during deep sleep we do not adjust immediately and often feel groggy and disoriented for several minutes after waking up. Some children experience bed-wetting, night terrors, or sleepwalking during this stage. REM sleep The first rapid eye movement (REM) period usually begins about 70 to 90 minutes after we fall asleep. We have around three to five REM episodes a night.</p><p>Although we are not conscious, the brain is very active - often more so than when we are awake. This is the period when most dreams occur. Our eyes dart around (hence the name), our breathing rate and blood pressure rise. However, our bodies are effectively paralysed, said to be nature's way of preventing us from acting out our dreams.</p><p>After REM sleep, the whole cycle begins again.</p><p>How much sleep is required? There is no set amount of time that everyone needs to sleep, since it varies from person to person. Results from the sleep profiler indicate that people like to sleep anywhere between 5 and 11 hours, with the average being 7.75 hours.</p><p>Jim Horne from Loughborough University's Sleep Research Centre has a simple answer though: \"The amount of sleep we require is what we need not to be sleepy in the daytime.\"</p><p>Even animals require varied amounts of sleep: Species Average total sleep time per day Python 18 hrs Tiger 15.8 hrs Cat 12.1 hrs Chimpanzee 9.7 hrs Sheep 3.8 hrs Africanelephant 3.3 hrs Giraffe 1.9 hr</p><p>The current world record for the longest period without sleep is 11 days, set by Randy Gardner in 1965. Four days into the research, he began hallucinating. This was followed by a delusion where he thought he was a famous footballer. Surprisingly, Randy was actually functioning quite well at the end of his research and he could still beat the scientist at pinball.</p>"
+    },
+    "partNumber": 4,
+    "instruction": "Read the following text for questions 21-31.",
+    "explanations": {},
+    "questionRange": "21-31",
+    "questionSections": [
+     {
+      "type": "tfni",
+      "title": "Questions 21-26",
+      "options": [
+       "True",
+       "False",
+       "Not Given"
+      ],
+      "questions": [
+       {
+        "id": 21,
+        "text": "Thomas Edison slept 4 hours a night."
+       },
+       {
+        "id": 22,
+        "text": "Scientists don't have a certain answer for why we have to sleep."
+       },
+       {
+        "id": 23,
+        "text": "Lack of sleep might cause various problems."
+       },
+       {
+        "id": 24,
+        "text": "Sleep-deprivation may be the cause of anorexia."
+       },
+       {
+        "id": 25,
+        "text": "There are four stages of the REM sleep."
+       },
+       {
+        "id": 26,
+        "text": "According to Jim Horne, we need to sleep as much as it takes to not be sleepy during the day."
+       }
+      ],
+      "instruction": "Choose the correct letter, A (True), B (False) or C (Not Given)."
+     },
+     {
+      "type": "mcq",
+      "title": "Questions 27-31",
+      "questions": [
+       {
+        "id": 27,
+        "text": "During the Light Sleep stage:",
+        "options": [
+         {
+          "text": "Muscle activity increases",
+          "letter": "A"
+         },
+         {
+          "text": "Jiggling might occur",
+          "letter": "B"
+         },
+         {
+          "text": "It is not easy to be woken up",
+          "letter": "C"
+         },
+         {
+          "text": "After waking up, one may experience slight disorientation",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 28,
+        "text": "Heart rate is at the lowest level during:",
+        "options": [
+         {
+          "text": "Light Sleep stage",
+          "letter": "A"
+         },
+         {
+          "text": "Rem Sleep",
+          "letter": "B"
+         },
+         {
+          "text": "True Sleep stage",
+          "letter": "C"
+         },
+         {
+          "text": "Third Sleep stage",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 29,
+        "text": "The brain activity is really high:",
+        "options": [
+         {
+          "text": "During REM sleep",
+          "letter": "A"
+         },
+         {
+          "text": "During the stage of True Sleep",
+          "letter": "B"
+         },
+         {
+          "text": "When we are awake",
+          "letter": "C"
+         },
+         {
+          "text": "During the Deep sleep stage",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 30,
+        "text": "Humans require at least:",
+        "options": [
+         {
+          "text": "7.75 hours of sleep",
+          "letter": "A"
+         },
+         {
+          "text": "5 hours of sleep",
+          "letter": "B"
+         },
+         {
+          "text": "8 hours",
+          "letter": "C"
+         },
+         {
+          "text": "There is no set amount of time",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 31,
+        "text": "Pythons need:",
+        "options": [
+         {
+          "text": "Less sleep than tigers",
+          "letter": "A"
+         },
+         {
+          "text": "Twice as much sleep as cats",
+          "letter": "B"
+         },
+         {
+          "text": "Almost ten times more sleep than giraffes",
+          "letter": "C"
+         },
+         {
+          "text": "More sleep than any other animal in the world",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "Choose the correct letter, A, B, C or D."
+     }
+    ]
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 5",
+    "answers": {
+     "32": [
+      "stamina",
+      "energy"
+     ],
+     "33": [
+      "dog"
+     ],
+     "34": [
+      "vision"
+     ],
+     "35": [
+      "ears"
+     ]
+    },
+    "passage": {
+     "title": "Understanding hares",
+     "content": "<p>With its wild stare, swift speed and secretive nature, the UK’s brown hare is the rabbit’s mysterious cousin. Even in these days of agricultural intensification, the hare is still to be seen in open countryside, but its numbers are falling. A</p><p>Like many herbivores, brown hares spend a relatively large amount of their time feeding. They prefer to do this in the dark, but when nights are short, their activities do spill into daylight hours. Wherever they live, hares appear to have a fondness for fields with a variety of vegetation, for example short as well as longer clumps of grasses. Studies have demonstrated that they benefit from uncultivated land and other unploughed areas on farms, such as field margins. Therefore, if farmers provided patches of woodland in areas of pasture as well as assorted crops in arable areas, there would be year-round shelter and food, and this could be the key to turning round the current decline in hare populations. B</p><p>Brown hares have a number of physical adaptations that enable them to survive in open countryside. They have exceptionally large ears that move independently, so that a range of sounds can be pinpointed accurately. Positioned high up on their heads, the hares’ large golden eyes give them 360° vision, making it hard to take a hare by surprise. Compared to mammals of a similar size, hares have a greatly enlarged heart and a higher volume of blood in their bodies, and this allows for superior speed and stamina. In addition, their legs are longer than those of a rabbit, enabling hares to run more like a dog and reach speeds of up to 70 kph. C</p><p>Brown hares have unusual lifestyles for their large size, breeding from a young age and producing many leverets (babies). There are about three litters of up to four leverets every year. Both males and females are able to breed at about seven months old, but they have to be quick because they seldom live for more than two years. The breeding season runs from January to October, and by late February most females are pregnant or giving birth to their first litter of the year. So it seems strange, therefore, that it is in March, when the breeding season is already underway, that hares seemingly go mad: boxing, dancing, running and fighting. This has given rise to the age-old reference to ‘mad March hares’. In fact, boxing occurs throughout the breeding season, but people tend to see this behaviour more often in March. This is because in the succeeding months, dusk – the time when hares are most active – is later, when fewer people are about. Crops and vegetation are also taller, hiding the hares from view. Though it is often thought that they are males fighting over females, boxing hares are usually females fighting off males. Hares are mostly solitary, but a female fights off a series of males until she is ready to mate. This occurs several times through the breeding season because, as soon as the female has given birth, she will be ready to mate again. D</p><p>But how can females manage to do this while simultaneously feeding themselves and rearing their young? The reason is that hares have evolved such self-sufficient young. Unlike baby rabbits, leverets are born furry and mobile. They weigh about 100 g at birth and are immediately left to their own devices by their mothers. A few days later, the members of the litter creep away to create their own individual resting places, known as ‘forms’. Incredibly, their mother visits them only once every 24 hours and, even then, she only suckles them for a maximum of five minutes each. This lack of family contact may seem harsh to us, but it is a strategy that draws less attention from predators. At the tender age of two weeks, leverets start to feed themselves, while still drinking their mother’s milk. They grow swiftly and are fully weaned at four weeks, reaching adult weight at about six months. E</p><p>Research has shown that hares’ milk is extremely rich and fatty, so a little goes a long way. In order to produce such nutritious milk, females need a high-quality, high-calorie diet. Hares are selective feeders at the best of times: unlike many herbivores, they can’t sit around waiting to digest low-quality food – they need high- energy herbs and other leaves in order to sprint. This causes them problems when faced with the smallest alterations in food availability and abundance. So, as well as reductions in the diversity of farmland habitat, the decline in the range of food plants is injurious to hares. F</p><p>The rapid turnaround in the breeding cycle suggests that hares should, in principle, be able to increase their populations quickly to exploit new habitats. They certainly used to: studies show that hares evolved on the open plains and spread rapidly westward from the Black Sea after the last ice age (though they were probably introduced to Britain as a species to be hunted for the pot by the Romans). But today’s hares are thwarted by the lack of rich farmland habitat. When the delicate herbs and other plants they rely on are ploughed up or poisoned by herbicides, these wonderful, agile runners disappear too, taking with them some of the wildness from our lives.</p>"
+    },
+    "partNumber": 5,
+    "instruction": "Read the following text for questions 32-35.",
+    "explanations": {},
+    "questionRange": "32-35",
+    "questionSections": [
+     {
+      "type": "gap-fill",
+      "title": "Questions 32-35",
+      "questions": [
+       {
+        "id": 32,
+        "hint": ""
+       },
+       {
+        "id": 33,
+        "hint": ""
+       },
+       {
+        "id": 34,
+        "hint": ""
+       },
+       {
+        "id": 35,
+        "hint": ""
+       }
+      ],
+      "instruction": "Complete the summary below. Choose ONE WORD ONLY from the text for each answer.",
+      "summaryText": "<p><strong>Brown hares</strong></p><p>The brown hare is well known for its ability to run fast, at speeds of up to 70 kph, largely due to the length of its legs as well as the unusual size of its heart. An increased amount of blood also gives it the necessary <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span> to continue running fast for some time. A running hare resembles the <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span> more closely than its relative, the rabbit.</p><p>The hare has some other characteristics that help it to avoid capture. The first is its excellent all-round <span class=\"gap-input\" data-gap=\"34\">_____(34)_____</span>. This means that predators cannot easily creep up behind it. Another feature is its ability to position its massive <span class=\"gap-input\" data-gap=\"35\">_____(35)_____</span> separately, to sense the slightest indication of danger.</p>"
+     }
+    ]
+   }
+  ],
+  "source": "Super Mock 4 (@MultiLevelRecord)",
+  "examDate": "2026-06-21",
+  "examType": "cefr",
+  "testInfo": {
+   "level": "B2",
+   "title": "CEFR Reading Mock 69",
+   "totalTime": 60,
+   "totalQuestions": 35
+  }
+ },
+ "created_at": "2026-06-21T17:05:11.863827+00:00",
+ "updated_at": "2026-10-11T10:30:14.590377+00:00"
+}

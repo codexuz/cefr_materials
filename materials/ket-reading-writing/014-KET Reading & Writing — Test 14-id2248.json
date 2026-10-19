@@ -1,0 +1,918 @@
+{
+ "id": 2248,
+ "mock_type": "ket-reading-writing",
+ "mock_number": 14,
+ "title": "KET Reading & Writing — Test 14",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "match-notices",
+    "items": [
+     {
+      "id": 1,
+      "answer": "E",
+      "prompt": "If you have a second class ticket, you can't go in here."
+     },
+     {
+      "id": 2,
+      "answer": "G",
+      "prompt": "You should wait here before you sit down."
+     },
+     {
+      "id": 3,
+      "answer": "F",
+      "prompt": "There are no more seats for the show."
+     },
+     {
+      "id": 4,
+      "answer": "D",
+      "prompt": "If you want a seat, get your ticket seven days before you travel."
+     },
+     {
+      "id": 5,
+      "answer": "B",
+      "prompt": "First class tickets are cheaper at the weekend."
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "prompt": "Adults cannot sit here."
+    },
+    "notices": [
+     {
+      "text": "SEATS AT THE FRONT\nRESERVED FOR CHILDREN",
+      "letter": "A"
+     },
+     {
+      "text": "SATURDAY – SUNDAY\nTravel First Class\nat Second Class prices",
+      "letter": "B"
+     },
+     {
+      "text": "Waiting Room\nclosed for cleaning",
+      "letter": "C"
+     },
+     {
+      "text": "TRAINS\nFor a seat, book early\n(one week in advance)",
+      "letter": "D"
+     },
+     {
+      "text": "WAITING ROOM\nFor passengers with First Class tickets",
+      "letter": "E"
+     },
+     {
+      "text": "QUEEN'S THEATRE\nALL TICKETS SOLD OUT\nSTANDING ROOM ONLY",
+      "letter": "F"
+     },
+     {
+      "text": "Please wait for a waitress\nto show you to your seat.",
+      "letter": "G"
+     },
+     {
+      "text": "THIS WEEK ONLY!\nBuy two full-price tickets —\nget one half-price!",
+      "letter": "H"
+     }
+    ],
+    "partNumber": 1,
+    "instruction": [
+     "Which notice (A–H) says this (1–5)?",
+     "For questions 1–5, mark the correct letter A–H on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "mcq-gap-fill-sentences",
+    "items": [
+     {
+      "id": 6,
+      "answer": "C",
+      "options": [
+       {
+        "text": "put",
+        "letter": "A"
+       },
+       {
+        "text": "make",
+        "letter": "B"
+       },
+       {
+        "text": "cut",
+        "letter": "C"
+       }
+      ],
+      "sentence": "My mother often asks me to _____ up the vegetables for her."
+     },
+     {
+      "id": 7,
+      "answer": "C",
+      "options": [
+       {
+        "text": "goes",
+        "letter": "A"
+       },
+       {
+        "text": "likes",
+        "letter": "B"
+       },
+       {
+        "text": "prefers",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Everybody in our family _____ fish to meat."
+     },
+     {
+      "id": 8,
+      "answer": "B",
+      "options": [
+       {
+        "text": "boiled",
+        "letter": "A"
+       },
+       {
+        "text": "burnt",
+        "letter": "B"
+       },
+       {
+        "text": "fried",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Once, I forgot the cooker was hot and _____ my hand."
+     },
+     {
+      "id": 9,
+      "answer": "C",
+      "options": [
+       {
+        "text": "spend",
+        "letter": "A"
+       },
+       {
+        "text": "use",
+        "letter": "B"
+       },
+       {
+        "text": "take",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Cooking a good meal can _____ a long time."
+     },
+     {
+      "id": 10,
+      "answer": "B",
+      "options": [
+       {
+        "text": "right",
+        "letter": "A"
+       },
+       {
+        "text": "ready",
+        "letter": "B"
+       },
+       {
+        "text": "free",
+        "letter": "C"
+       }
+      ],
+      "sentence": "At the supermarket, some food like pizza is _____ to cook."
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "answer": "B",
+     "number": 0,
+     "options": [
+      {
+       "text": "work",
+       "letter": "A"
+      },
+      {
+       "text": "help",
+       "letter": "B"
+      },
+      {
+       "text": "stay",
+       "letter": "C"
+      }
+     ],
+     "sentence": "I like to _____ my mother in the kitchen."
+    },
+    "partNumber": 2,
+    "instruction": [
+     "Read the sentences about cooking.",
+     "Choose the best word (A, B or C) for each space.",
+     "For questions 6–10, mark A, B or C on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-response",
+    "items": [
+     {
+      "id": 11,
+      "answer": "A",
+      "prompt": "Let's listen to this new CD.",
+      "options": [
+       {
+        "text": "Who's the singer?",
+        "letter": "A"
+       },
+       {
+        "text": "It's in the record shop.",
+        "letter": "B"
+       },
+       {
+        "text": "I can hear it.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "answer": "A",
+      "prompt": "I'd like two tickets for tonight.",
+      "options": [
+       {
+        "text": "I'll just check for you.",
+        "letter": "A"
+       },
+       {
+        "text": "Afternoon and evening.",
+        "letter": "B"
+       },
+       {
+        "text": "How much did you pay?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "answer": "C",
+      "prompt": "What time did the meeting end?",
+      "options": [
+       {
+        "text": "In a minute.",
+        "letter": "A"
+       },
+       {
+        "text": "For half an hour.",
+        "letter": "B"
+       },
+       {
+        "text": "Just before lunch.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "answer": "B",
+      "prompt": "I can't do this maths problem.",
+      "options": [
+       {
+        "text": "I suppose so.",
+        "letter": "A"
+       },
+       {
+        "text": "Let me see.",
+        "letter": "B"
+       },
+       {
+        "text": "Certainly not.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "answer": "C",
+      "prompt": "Do you like Jane's new flat?",
+      "options": [
+       {
+        "text": "I don't go there.",
+        "letter": "A"
+       },
+       {
+        "text": "She likes the new house.",
+        "letter": "B"
+       },
+       {
+        "text": "The rooms are rather small.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "prompt": "Where do you come from?",
+     "options": [
+      {
+       "text": "New York.",
+       "letter": "A"
+      },
+      {
+       "text": "School.",
+       "letter": "B"
+      },
+      {
+       "text": "Home.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partLetter": "a",
+    "partNumber": 3,
+    "instruction": [
+     "Complete the five conversations.",
+     "For questions 11–15, mark A, B or C on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "type": "match-dialogue",
+    "items": [
+     {
+      "id": 16,
+      "answer": "G"
+     },
+     {
+      "id": 17,
+      "answer": "H"
+     },
+     {
+      "id": 18,
+      "answer": "A"
+     },
+     {
+      "id": 19,
+      "answer": "D"
+     },
+     {
+      "id": 20,
+      "answer": "B"
+     }
+    ],
+    "example": {
+     "answer": "E",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "No, it's in my diary at work.",
+      "letter": "A"
+     },
+     {
+      "text": "Can you get me an orange juice?",
+      "letter": "B"
+     },
+     {
+      "text": "Yes, I have. I'll phone him now.",
+      "letter": "C"
+     },
+     {
+      "text": "Why don't you go in? I've got John's ticket so I'll wait here.",
+      "letter": "D"
+     },
+     {
+      "text": "Oh that's all right.",
+      "letter": "E"
+     },
+     {
+      "text": "If he doesn't come in five minutes, let's go in.",
+      "letter": "F"
+     },
+     {
+      "text": "He's late too. I told him to be here at seven.",
+      "letter": "G"
+     },
+     {
+      "text": "I think he's coming by train.",
+      "letter": "H"
+     }
+    ],
+    "dialogue": [
+     {
+      "line": "Hi, Mary. Sorry I'm late.",
+      "speaker": "Sarah"
+     },
+     {
+      "gap": 0,
+      "speaker": "Mary"
+     },
+     {
+      "line": "Where's John?",
+      "speaker": "Sarah"
+     },
+     {
+      "gap": 16,
+      "speaker": "Mary"
+     },
+     {
+      "line": "The traffic is very bad.",
+      "speaker": "Sarah"
+     },
+     {
+      "gap": 17,
+      "speaker": "Mary"
+     },
+     {
+      "line": "Oh, that's right. He doesn't like driving at night. Well, let's phone him. Have you got his number?",
+      "speaker": "Sarah"
+     },
+     {
+      "gap": 18,
+      "speaker": "Mary"
+     },
+     {
+      "line": "Oh dear, that's a pity. We won't see the beginning of the film. It starts in five minutes.",
+      "speaker": "Sarah"
+     },
+     {
+      "gap": 19,
+      "speaker": "Mary"
+     },
+     {
+      "line": "I'll see you inside then.",
+      "speaker": "Sarah"
+     },
+     {
+      "gap": 20,
+      "speaker": "Mary"
+     },
+     {
+      "line": "Yes, and I'll get some chocolates too. See you in a minute.",
+      "speaker": "Sarah"
+     }
+    ],
+    "partLetter": "b",
+    "partNumber": 3,
+    "instruction": [
+     "Complete the conversation between two friends outside a cinema.",
+     "What does Mary say to Sarah?",
+     "For questions 16–20, mark the correct letter A–H on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "type": "mcq-passage-rws",
+    "items": [
+     {
+      "id": 21,
+      "answer": "A",
+      "statement": "Victoria was visiting Switzerland for a competition."
+     },
+     {
+      "id": 22,
+      "answer": "C",
+      "statement": "Victoria has won many skiing competitions."
+     },
+     {
+      "id": 23,
+      "answer": "B",
+      "statement": "Victoria thinks that snowboarding is a difficult sport to learn."
+     },
+     {
+      "id": 24,
+      "answer": "A",
+      "statement": "Working hard at her sport is not a problem for Victoria."
+     },
+     {
+      "id": 25,
+      "answer": "B",
+      "statement": "Victoria likes competitions more than anything else."
+     },
+     {
+      "id": 26,
+      "answer": "A",
+      "statement": "Victoria thinks you should have a teacher if you want to learn snowboarding."
+     },
+     {
+      "id": 27,
+      "answer": "B",
+      "statement": "Victoria says you can wear anything you like when you snowboard."
+     }
+    ],
+    "label": "PART 4",
+    "article": "Victoria Jamieson from Britain started snowboarding at 20. She is now 23 and has won many competitions in that sport. We spoke to her when she was at a snowboarding competition last week in Switzerland and asked her why she started the sport.\n\n'I've always liked all kinds of sports, especially skiing, and it seemed natural to start snowboarding. It doesn't take long to learn and you can become really good in a few months.'\n\nWe asked her if she had to do a lot of practice. 'Well, in winter I snowboard in the mountains every day from 8.30 a.m. and I also go biking. But I just love doing it all like the competitions and being in the mountains. It's so beautiful. But free-riding, that's doing what you want when you want, not in a competition, is the best thing in the world for me!'\n\nWe asked her what is important when you're learning. 'You can learn quickly but you need lessons. It's also important to have the right clothes so you don't get wet because, to begin with, you spend a lot of time falling down!'",
+    "example": {
+     "answer": "B",
+     "number": 0,
+     "statement": "Victoria began snowboarding when she was 23."
+    },
+    "partNumber": 4,
+    "instruction": [
+     "Read the article about the sport of snowboarding.",
+     "Are sentences 21–27 'Right' (A) or 'Wrong' (B)?",
+     "If there is not enough information to answer 'Right' (A) or 'Wrong' (B), choose 'Doesn't say' (C).",
+     "For questions 21–27, mark A, B or C on your answer sheet."
+    ],
+    "articleTitle": "Snowboarding",
+    "questionsLabel": "QUESTIONS 21–27"
+   },
+   {
+    "type": "mcq-cloze-passage",
+    "items": [
+     {
+      "id": 28,
+      "answer": "C",
+      "options": [
+       {
+        "text": "climbed",
+        "letter": "A"
+       },
+       {
+        "text": "climb",
+        "letter": "B"
+       },
+       {
+        "text": "climbing",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 29,
+      "answer": "A",
+      "options": [
+       {
+        "text": "like",
+        "letter": "A"
+       },
+       {
+        "text": "from",
+        "letter": "B"
+       },
+       {
+        "text": "for",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 30,
+      "answer": "C",
+      "options": [
+       {
+        "text": "them",
+        "letter": "A"
+       },
+       {
+        "text": "those",
+        "letter": "B"
+       },
+       {
+        "text": "their",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 31,
+      "answer": "B",
+      "options": [
+       {
+        "text": "larger",
+        "letter": "A"
+       },
+       {
+        "text": "largest",
+        "letter": "B"
+       },
+       {
+        "text": "large",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 32,
+      "answer": "B",
+      "options": [
+       {
+        "text": "Both",
+        "letter": "A"
+       },
+       {
+        "text": "One",
+        "letter": "B"
+       },
+       {
+        "text": "He",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 33,
+      "answer": "B",
+      "options": [
+       {
+        "text": "every",
+        "letter": "A"
+       },
+       {
+        "text": "all",
+        "letter": "B"
+       },
+       {
+        "text": "each",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 34,
+      "answer": "A",
+      "options": [
+       {
+        "text": "many",
+        "letter": "A"
+       },
+       {
+        "text": "more",
+        "letter": "B"
+       },
+       {
+        "text": "much",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 35,
+      "answer": "C",
+      "options": [
+       {
+        "text": "there",
+        "letter": "A"
+       },
+       {
+        "text": "anything",
+        "letter": "B"
+       },
+       {
+        "text": "it",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 5",
+    "example": {
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "text": "is",
+       "letter": "A"
+      },
+      {
+       "text": "being",
+       "letter": "B"
+      },
+      {
+       "text": "be",
+       "letter": "C"
+      }
+     ]
+    },
+    "passage": "The bear can {0} a dangerous animal. The adult bear is very strong and it can kill a person. Bears are good at {28} trees and they can run very fast. But they cannot see well and, {29} most animals, they find food by using {30} noses.\n\nThere are seven kinds of bear. The {31} is the white polar bear, which is almost three metres tall. There are two kinds of black bear: {32} lives in the forests of North America, and the other lives in South-East Asia. But not {33} black bears are black. They may be dark brown or a reddish brown.\n\nEveryone loves the black and white panda bear, which comes from China. Not {34} pandas live in the forest today because {35} is difficult to find food.",
+    "partNumber": 5,
+    "instruction": [
+     "Read the article about bears.",
+     "Choose the best word (A, B or C) for each space.",
+     "For questions 28–35, mark A, B or C on your answer sheet."
+    ],
+    "passageTitle": "BEARS",
+    "questionsLabel": "QUESTIONS 28–35"
+   },
+   {
+    "type": "vocab-first-letter",
+    "items": [
+     {
+      "id": 36,
+      "answer": "happy",
+      "prompt": "People feel like this when they get good news.",
+      "letters": 5,
+      "firstLetter": "h"
+     },
+     {
+      "id": 37,
+      "answer": "tired",
+      "prompt": "If you have worked hard all day, you feel like this.",
+      "letters": 5,
+      "firstLetter": "t"
+     },
+     {
+      "id": 38,
+      "answer": "dirty",
+      "prompt": "When you have finished playing football, you want a shower because you feel like this.",
+      "letters": 5,
+      "firstLetter": "d"
+     },
+     {
+      "id": 39,
+      "answer": "hungry",
+      "prompt": "If people go without a meal all day, they begin to feel like this.",
+      "letters": 6,
+      "firstLetter": "h"
+     },
+     {
+      "id": 40,
+      "answer": "thirsty",
+      "prompt": "You feel like this if it is hot and there is nothing to drink.",
+      "letters": 7,
+      "firstLetter": "t"
+     }
+    ],
+    "label": "PART 6",
+    "example": {
+     "answer": "cold",
+     "number": 0,
+     "prompt": "If you do not wear a coat outside in the snow, you feel like this.",
+     "firstLetter": "c"
+    },
+    "partNumber": 6,
+    "instruction": [
+     "Read the descriptions of some feelings.",
+     "What is the word for each one?",
+     "The first letter is already there. There is one space for each other letter in the word.",
+     "For questions 36–40, write the words on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 36–40"
+   },
+   {
+    "type": "open-cloze-letter",
+    "items": [
+     {
+      "id": 41,
+      "answer": "with"
+     },
+     {
+      "id": 42,
+      "answer": "where"
+     },
+     {
+      "id": 43,
+      "answer": "there"
+     },
+     {
+      "id": 44,
+      "answer": "would"
+     },
+     {
+      "id": 45,
+      "answer": "you"
+     },
+     {
+      "id": 46,
+      "answer": "are"
+     },
+     {
+      "id": 47,
+      "answer": "have"
+     },
+     {
+      "id": 48,
+      "answer": "her"
+     },
+     {
+      "id": 49,
+      "answer": "has"
+     },
+     {
+      "id": 50,
+      "answer": "will"
+     }
+    ],
+    "label": "PART 7",
+    "example": {
+     "answer": "next",
+     "number": 0
+    },
+    "letters": [
+     {
+      "body": "I'm going to visit your country (Example: next) month. I'm going to travel {41} two friends. We don't know {42} to stay. Are {43} any cheap hotels in your town? We {44} like to stay somewhere in the centre. Can {45} help us?",
+      "closing": "Carlos",
+      "greeting": "Dear David,"
+     },
+     {
+      "body": "Hotels in the centre {46} expensive, but I have good news. I {47} spoken to my aunt Gloria about you and she says you can all stay at {48} house. It {49} more bedrooms than my house! That {50} be all right for you, won't it?",
+      "closing": "David",
+      "greeting": "Dear Carlos,"
+     }
+    ],
+    "partNumber": 7,
+    "instruction": [
+     "Complete these letters.",
+     "Write ONE word for each space.",
+     "For questions 41–50, write the words on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 41–50"
+   },
+   {
+    "note": {
+     "body": "",
+     "dateLine": "",
+     "signature": ""
+    },
+    "rows": [
+     {
+      "label": "Monday  10.00 a.m.",
+      "prefilled": "Dentist appointment"
+     },
+     {
+      "id": 51,
+      "label": "Monday  2.30–3.30 p.m.",
+      "answer": "tennis",
+      "suffix": "with Sam"
+     },
+     {
+      "id": 52,
+      "label": "Tuesday  12.45 p.m.",
+      "answer": "Jack",
+      "suffix": "Lunch with"
+     },
+     {
+      "id": 53,
+      "label": "Tuesday",
+      "answer": "Bridges Café",
+      "suffix": "Meet in"
+     },
+     {
+      "id": 54,
+      "label": "Wednesday  7.45 p.m.",
+      "answer": "Spanish guitar",
+      "suffix": "Concert of … music"
+     },
+     {
+      "id": 55,
+      "label": "Give Sam:",
+      "answer": "£16.50",
+      "suffix": "for my tickets"
+     }
+    ],
+    "type": "info-transfer-notes",
+    "label": "PART 8",
+    "notice": {
+     "body": "Monday\n\nMary,\n\nDon't forget to go to your 10 o'clock dentist appointment this morning!\n\nHere's your ticket for Wednesday night and the money back!\n\nJack phoned — Castle Restaurant is closed on Tuesday, so he'll see you at Bridges Café at 1.45.\n\nSee you for tennis this afternoon.\n\nLove,\nSam\n\n—————————————\nCONCERT TICKET\nSpanish Guitar Evening\nWednesday, 23 June     7.45 p.m.\n£16.50                 SEAT: B 12",
+     "title": "Note from Sam + Concert Ticket"
+    },
+    "notesTitle": "MARY'S DIARY",
+    "partNumber": 8,
+    "instruction": [
+     "Read the note and the ticket.",
+     "Fill in the information in Mary's diary.",
+     "For questions 51–55, write the information on your answer sheet."
+    ],
+    "notesSubtitle": "",
+    "questionsLabel": "QUESTIONS 51–55"
+   },
+   {
+    "type": "writing-postcard",
+    "items": [
+     {
+      "id": 56,
+      "type": "free-text",
+      "answer": "Dear Penfriend,\nMy name is Omar and I'm 16 years. I am have three brothers and no sisters. My favourite hobby is playing football with my brothers.\nOmar",
+      "maxWords": 35,
+      "minWords": 25
+     }
+    ],
+    "label": "PART 9",
+    "footer": [
+     "Write 25–35 words.",
+     "Write the note on your answer sheet."
+    ],
+    "prompt": "Hello, I'm Alex, your new penfriend. How old are you? Have you got any brothers or sisters? What is your favourite hobby?",
+    "wordCount": "25–35 words",
+    "partNumber": 9,
+    "instruction": [
+     "Read this note from your new penfriend, Alex.",
+     "Write a note to Alex. Answer the questions."
+    ],
+    "questionsLabel": "QUESTION 56",
+    "promptSignature": "Alex"
+   }
+  ],
+  "testInfo": {
+   "id": "ket-rw-14",
+   "level": "A2",
+   "paper": "Paper 1",
+   "parts": 9,
+   "title": "KET Reading & Writing — Test 14",
+   "totalTime": 70,
+   "totalQuestions": 56
+  }
+ },
+ "created_at": "2026-10-14T06:45:05.706798+00:00",
+ "updated_at": "2026-10-14T06:46:53.169999+00:00"
+}

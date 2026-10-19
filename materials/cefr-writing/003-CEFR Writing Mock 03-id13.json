@@ -1,0 +1,553 @@
+{
+ "id": 13,
+ "mock_type": "cefr-writing",
+ "mock_number": 3,
+ "title": "CEFR Writing Mock 03",
+ "status": "published",
+ "mock_data": {
+  "part1": {
+   "chip": "education",
+   "topic": "Classmate issue"
+  },
+  "tasks": {
+   "t2": {
+    "chip": "technology",
+    "genre": "article",
+    "title": "Social media good for teenagers",
+    "prompt": "A student magazine announced an article writing contest. The best ones will be published in the magazine. Write your article on this topic: “Is social media good for teenagers?” Write 180–200 words, giving reasons and examples.",
+    "sample": "```html\n<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n    <meta charset=\"UTF-8\">\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n    <title>Is Social Media Good for Teenagers?</title>\n</head>\n<body>\n    <article>\n        <h1>Is Social Media Good for Teenagers?</h1>\n        <p>In today's digital age, it <span class=\"ml-token modal\">can be</span> quite challenging for teenagers to imagine life without social media. Platforms like Instagram, TikTok, and Snapchat have become an integral part of their daily routines. But is this <span class=\"ml-token colloc\">pervasive presence</span> truly beneficial?</p>\n\n        <p>There are certainly some <span class=\"ml-token colloc\">undeniable benefits</span> to social media. <span class=\"ml-token adv\">Undoubtedly</span>, it allows teenagers to <span class=\"ml-token phrasal\">stay connected</span> with friends and family, and fosters a sense of community by enabling them to <span class=\"ml-token phrasal\">engage with</span> like-minded individuals worldwide. For instance, teens interested in specific hobbies or causes can easily find and join groups where they can <span class=\"ml-token phrasal\">share ideas</span> and <span class=\"ml-token phrasal\">learn from</span> each other.</p>\n\n        <p>However, there are <span class=\"ml-token colloc\">significant downsides</span> as well. The <span class=\"ml-token colloc\">constant exposure</span> to curated online personas can lead to unrealistic comparisons, breeding feelings of inadequacy or anxiety. Moreover, the addictive nature of social media <span class=\"ml-token phrasal\">takes away</span> from face-to-face interactions, which are crucial for developing social skills.</p>\n\n        <p><span class=\"ml-token adv\">Ultimately</span>, whether social media is good for teenagers depends on how it’s used. If managed wisely, it <span class=\"ml-token modal\">could</span> be a force for good. However, it’s essential for both teenagers and parents to <span class=\"ml-token phrasal\">set boundaries</span> and <span class=\"ml-token phrasal\">monitor usage</span> to ensure it doesn’t negatively impact mental health or real-world relationships.</p>\n    </article>\n</body>\n</html>\n```",
+    "target": "180–200 words",
+    "sampleA1": "<p>Hi Teacher,</p><p>Trip! Good. I like park. Play games. One day. Bye.</p>",
+    "sampleA2": "<p>Hi Teacher,</p><p>I want to go to the beach. I like swimming and playing in the sand. It is fun. I think one day is good, because two days is long. We can eat ice cream and drink juice. Thank you. </p>",
+    "sampleB1": "<p>Dear Teacher,</p><p>I think the class trip should be to the city museum. It's interesting and we can learn a lot about history. I think we should have a tour guide. Also, we could visit the park after the museum. I think one day is enough because we have a lot of school work. We can eat lunch at the museum cafe. I hope you like my idea.</p><p>Sincerely,<br>Your Student</p>",
+    "sampleB2": "Scroll, tap, like, repeat — for most teenagers today, social media is simply <span class=\"ml-token colloc\">part of everyday life</span>. But is it doing us more good than harm?\n<span class=\"ml-token linking\">On the bright side</span>, platforms like Instagram and TikTok help young people <span class=\"ml-token phrasal\">stay in touch</span> with friends and express themselves creatively. They also <span class=\"ml-token idiom\">open doors to</span> learning: countless teenagers <span class=\"ml-token phrasal\">pick up</span> new skills, from cooking to coding, just by watching short videos. For those who feel shy in person, online communities can be a real lifeline, offering a place to belong.\n<span class=\"ml-token linking\">That said</span>, there is a darker side. Endlessly comparing ourselves to picture-perfect influencers can <span class=\"ml-token phrasal\">chip away at</span> our confidence and leave us feeling anxious. On top of that, spending hours <span class=\"ml-token idiom\">glued to a screen</span> often <span class=\"ml-token phrasal\">eats into</span> sleep, study time and real conversations.\nSo, where does that leave us? In my view, social media is neither a villain nor a hero — it all <span class=\"ml-token phrasal\">comes down to</span> how we use it. If teenagers set sensible limits and think before they post, it can be a powerful tool rather than a trap. The key, as always, is balance.",
+    "uzSample": "<p>Bugungi raqamli davrda o‘smirlar uchun ijtimoiy tarmoqlarsiz hayotni tasavvur qilish juda qiyin bo‘lishi mumkin. Instagram, TikTok va Snapchat kabi platformalar ularning kundalik hayotining ajralmas qismiga aylandi. Ammo bu keng tarqalgan ishtirok haqiqatan ham foydalimi?</p>\n\n<p>Ijtimoiy tarmoqlarning ba'zi inkor etib bo'lmas afzalliklari, albatta, mavjud. Shubhasiz, u o'smirlarga do'stlari va oilasi bilan aloqada bo'lishga imkon beradi va ularga butun dunyo bo'ylab fikrdosh odamlar bilan muloqot qilish imkoniyatini berish orqali hamjamiyat tuyg'usini shakllantiradi. Misol uchun, muayyan hobbi yoki maqsadlarga qiziquvchi o'smirlar o'zaro fikr almashish va bir-biridan o'rganishlari mumkin bo'lgan guruhlarni osongina topishlari va ularga qo'shilishlari mumkin.</p>\n\n<p>Biroq, sezilarli kamchiliklar ham mavjud. Onlayn shaxslarning doimiy ta'siri nomuvofiq taqqoslashlarga olib kelishi, yetishmovchilik yoki tashvish hissini uyg'otishi mumkin. Bundan tashqari, ijtimoiy tarmoqlarning o'rganib qolish xususiyati ijtimoiy ko'nikmalarni rivojlantirish uchun juda muhim bo'lgan yuzma-yuz muloqotdan vaqtni oladi.</p>\n\n<p>Oxir oqibat, ijtimoiy tarmoqlarning o'smirlar uchun foydali yoki yo'qligi ulardan qanday foydalanishga bog'liq. Agar oqilona boshqarilsa, u yaxshilik uchun kuch bo'lishi mumkin. Biroq, o'smirlar va ota-onalar uchun ruhiy salomatlikka yoki real hayotdagi munosabatlarga salbiy ta'sir ko'rsatmasligini ta'minlash uchun chegaralar belgilash va foydalanishni nazorat qilish muhimdir.</p>",
+    "uzSampleA1": "<p>Salom Ustoz,</p><p>Sayohat! Yaxshi. Menga park yoqadi. O'yinlar o'ynayman. Bir kun. Xayr.</p>",
+    "uzSampleA2": "<p>Salom Ustoz,</p><p>Men plyajga bormoqchiman. Men suzishni va qumda o'ynashni yaxshi ko'raman. Bu qiziqarli. Menimcha, bir kun yaxshi, chunki ikki kun uzoq. Biz muzqaymoq yeyishimiz va sharbat ichishimiz mumkin. Rahmat. </p>",
+    "uzSampleB1": "<p>Hurmatli Ustoz,</p><p>Menimcha, sinf sayohati shahar muzeyiga bo'lishi kerak. U qiziqarli va biz tarix haqida ko'p narsalarni o'rganishimiz mumkin. O'ylaymanki, bizda ekskursiya o'tkazuvchi bo'lishi kerak. Shuningdek, muzeydan keyin parkga borishimiz mumkin. Menimcha, bir kun yetarli, chunki bizda juda ko'p uy vazifalari bor. Biz muzey kafesida tushlik qilishimiz mumkin. Umid qilamanki, sizga mening g'oyam yoqadi.</p><p>Hurmat bilan,<br>Sizning o'quvchingiz</p>",
+    "uzSampleB2": "<p>Hurmatli Ustoz,</p><p>Sinfimizning sayohati uchun bir g‘oya taklif qilish maqsadida yozyapman. Menimcha, mahalliy fan muzeyiga tashrif buyurish ham ta’limiy, ham qiziqarli bo‘ladi. Interaktiv ko‘rgazmalar sinfdagi darslarimizni to‘ldiradigan amaliy o‘rganish tajribasini taklif etadi. Bundan tashqari, muzey ko‘pincha turli xil ilmiy sohalarga qiziqishimizni uyg‘otishi mumkin bo‘lgan maxsus ko‘rgazmalarga mezbonlik qiladi.</p><p>Tadbir jihatidan, asosiy ko‘rgazmalarni o‘rganishdan tashqari, muzey xodimlari tomonidan taklif etiladigan seminarda ishtirok etishimiz mumkin. Bu muayyan mavzuni chuqurroq tushunishni ta’minlaydi. Davomiyligi haqida aytadigan bo‘lsak, menimcha, bir kunlik sayohat yetarli bo‘ladi, bu bizga maktabdagi odatiy jadvalimizni unchalik buzmasdan, muzeyning takliflaridan maksimal darajada foydalanishimizga imkon beradi. Yaqin atrofdagi parkda tushlikni ham o‘tkazishimiz mumkin.</p><p>Umid qilamanki, siz mening taklifimni ko‘rib chiqasiz. Vaqtingiz va e’tiboringiz uchun rahmat.</p><p>Hurmat bilan,<br>Sizning o‘quvchingiz</p>"
+   },
+   "t11": {
+    "title": "informal letter · to friend",
+    "prompt": "Write a letter to your friend, who is also your classmate. Write about your feelings and what you think the school should do. Write your response in about 50 words.",
+    "sample": "```html\nHey Muattar,\n\nI’m <span class=\"ml-token adv\">absolutely thrilled</span> about the trip idea! I reckon we <span class=\"ml-token modal\">should</span> hit the beach for a <span class=\"ml-token colloc\">perfect getaway</span>. Imagine playing beach volleyball, going for a swim, and just chilling by the water. A two-day trip sounds <span class=\"ml-token idiom\">like a dream come true</span>, right? It'd be a <span class=\"ml-token colloc\">fantastic opportunity</span> to bond and <span class=\"ml-token phrasal\">make memories</span>. Let's <span class=\"ml-token modal\">make sure</span> to suggest some fun activities. Can't wait to hear what you think!\n\nCheers,\nAkmal Nazarov\n```",
+    "target": "50–70 words",
+    "sampleA1": "<p>Hi Muattar,<br>Trip! Yes! I like beach. Beach is good. One day? Okay. Bye.</p>",
+    "sampleA2": "<p>Hi Muattar,<br>The trip is good! I want to go to the park. We can play games and eat food. I think one day is good, but maybe two days is better because we can see more things. What do you think?</p>",
+    "sampleB1": "<p>Hi Muattar,<br>I'm really excited about the school trip! I think it would be fun to go to a theme park. We could go on all the rides and maybe win some prizes. In my opinion, a two-day trip would be better because we'd have more time to do everything. What are your thoughts?</p>",
+    "sampleB2": "Hey Muattar,\nI'm <span class=\"ml-token idiom\">buzzing about</span> the class trip! Honestly, <span class=\"ml-token colloc\">I reckon</span> we should <span class=\"ml-token phrasal\">push for</span> the beach — imagine swimming and playing volleyball together. I'm <span class=\"ml-token idiom\">all for</span> a two-day trip; one day would just <span class=\"ml-token phrasal\">fly by</span>. The school should <span class=\"ml-token phrasal\">sort out</span> proper transport and let us plan the activities ourselves. <span class=\"ml-token idiom\">Fingers crossed</span> they <span class=\"ml-token phrasal\">go for it</span>! Text me your thoughts.\nCheers,\nBekzod Aliyev",
+    "uzSample": "<p>Salom Muattar,</p>\n<p>Sayohat g'oyasi meni juda ham xursand qildi! Menimcha, biz plyajga borib, ajoyib dam olishimiz kerak. Tasavvur qiling-a, plyaj voleybolini o'ynaymiz, suzishga boramiz va shunchaki suv bo'yida dam olamiz. Ikki kunlik sayohat orzudagidek bo'ladi, to'g'rimi? Bu bir-birimiz bilan yaqinroq bo'lish va xotiralar yaratish uchun ajoyib imkoniyat bo'ladi. Keling, qiziqarli mashg'ulotlarni taklif qilishga harakat qilaylik. Fikringni eshitishni intiqlik bilan kutyapman!</p>\n<p>Xurmat bilan,</p>\n<p>Akmal Nazarov</p>",
+    "uzSampleA1": "<p>Salom, Muattar,<br>Sayohat! Ha! Menga plyaj yoqadi. Plyaj yaxshi. Bir kun? Mayli. Xayr.</p>",
+    "uzSampleA2": "<p>Salom, Muattar,<br>Sayohat yaxshi! Men parkga borishni xohlayman. Biz o'yinlar o'ynab, ovqat yeyishimiz mumkin. Menimcha, bir kun yaxshi, lekin balki ikki kun yaxshiroq, chunki biz ko'proq narsalarni ko'rishimiz mumkin. Siz nima deb o'ylaysiz?</p>",
+    "uzSampleB1": "<p>Salom, Muattar,<br>Maktab sayohati haqida juda xursandman! Menimcha, mavzuli parkga borish juda qiziqarli bo'ladi. Biz barcha attraksionlarga chiqishimiz va ehtimol, ba'zi sovrinlarni yutishimiz mumkin. Mening fikrimcha, ikki kunlik sayohat yaxshiroq bo'lardi, chunki bizda hamma narsani qilish uchun ko'proq vaqt bo'ladi. Sizning fikringiz qanday?</p>",
+    "uzSampleB2": "<p>Salom Muattar,<br>Bu sayohatga juda ham hayajondaman! O'ylab qoldim, balki biz tarixiy joyga yoki muzeyga borishni taklif qilsak bo'lar? Bu ham o'rgatuvchi, ham odatiy holatdan o'zgarish bo'lishi mumkin. Men ikki kunlik sayohatga moyilman, chunki bir kun bizga yaxshilab o'rganish uchun yetarli vaqt bermaydi. Bu haqda fikring qanday? Agar yaxshiroq takliflaring bo'lsa, menga xabar ber.</p>"
+   },
+   "t12": {
+    "title": "formal letter · to teacher",
+    "prompt": "Write a letter to your teacher. Write about your feelings and what you think the school should do. Write your response in 120-150 words.",
+    "sample": "```html\nDear Teacher,\n\nI hope you're doing well! I'm genuinely excited about the end-of-term class trip and <span class=\"ml-token modal\">would love</span> to share a few thoughts. First and foremost, I think we <span class=\"ml-token modal\">should consider</span> heading to a <span class=\"ml-token colloc\">popular outdoor adventure</span> park. These parks often offer a variety of activities such as <span class=\"ml-token colloc\">team-building exercises</span>, which <span class=\"ml-token modal\">could be</span> both fun and educational.\n\nRegarding the trip's duration, a two-day trip <span class=\"ml-token modal\">might be</span> ideal. This gives us enough time to fully <span class=\"ml-token phrasal\">immerse ourselves</span> in the experience without feeling rushed. Additionally, spending a night away <span class=\"ml-token modal\">could</span> help foster <span class=\"ml-token colloc\">stronger bonds</span> among classmates.\n\nActivities like hiking or a friendly sports competition <span class=\"ml-token modal\">would provide</span> just the right amount of excitement and relaxation. Meanwhile, it <span class=\"ml-token modal\">is crucial</span> that students bring some cash for emergencies. Although the school <span class=\"ml-token modal\">is providing</span> food and drinks, having cash <span class=\"ml-token modal\">can offer</span> peace of mind.\n\nThank you for considering our input. I'm <span class=\"ml-token adv\">truly looking forward</span> to this memorable experience.\n\nWarm regards,\n\nAkmal Nazarov\n```",
+    "target": "120–150 words",
+    "sampleA1": "<p>Hi Teacher,<br><br>I want trip. Park is good. One day. I like park. Bye.</p>",
+    "sampleA2": "<p>Dear Teacher,<br><br>I want to go to the zoo. It is fun. We can see animals. I like animals and my friends like animals too. I think one day is good, because two days is long. I need money for ice cream, but the school gives food. Thank you.<br><br>From, Akmal Nazarov</p>",
+    "sampleB1": "<p>Dear Teacher,<br><br>I am writing to you about the class trip. I think it would be a good idea to go to the beach. We could swim and play volleyball. Also, we could have a bonfire at night. I think that would be really fun.<br><br>In my opinion, we should go for two days because one day is not enough time to do everything. However, a two-day trip might be more expensive. It is important that we bring money for emergencies, like you said. I am excited about the trip.<br><br>Sincerely,<br>Akmal Nazarov</p>",
+    "sampleB2": "Dear Teacher,\nThank you for your email about the end-of-term class trip. I'm genuinely excited about it and would like to put forward a few suggestions.\n<span class=\"ml-token linking\">To begin with</span>, I think a visit to the science museum would be ideal, as it is both educational and enjoyable. We could explore the interactive exhibits and <span class=\"ml-token phrasal\">take part in</span> a guided workshop, which would <span class=\"ml-token idiom\">bring our lessons to life</span>.\n<span class=\"ml-token linking\">As for</span> the length, I would <span class=\"ml-token colloc\">strongly recommend</span> a two-day trip. A single day would <span class=\"ml-token colloc\">feel rushed</span>, whereas two days would give us the chance to <span class=\"ml-token phrasal\">get to know</span> each other better outside the classroom.\n<span class=\"ml-token linking\">Finally</span>, I appreciate that the school is providing food and drinks, and I will <span class=\"ml-token modal\">make sure</span> to bring some cash for emergencies, as you advised.\nThank you for considering our ideas.\nYours sincerely,\nDilnoza Karimova",
+    "uzSample": "<p>Hurmatli ustoz,</p>\n<p>Umid qilaman, ahvoringiz yaxshi! O'quv yilining oxiridagi sinf sayohati meni chin dildan xursand qildi va bir nechta fikrlarimni bo'lishishni xohlardim. Avvalo, biz mashhur ochiq havoda sarguzashtlar parkiga borishni ko'rib chiqishimiz kerak deb o'ylayman. Bunday parklar ko'pincha jamoani shakllantirish mashqlari kabi turli xil tadbirlarni taklif qiladi, bu ham qiziqarli, ham ta'limiy bo'lishi mumkin.</p>\n<p>Sayohatning davomiyligiga kelsak, ikki kunlik sayohat ideal bo'lishi mumkin. Bu bizga shoshilmasdan, tajribaga to'liq sho'ng'ishimiz uchun yetarli vaqt beradi. Bundan tashqari, bir kecha uzoqda qolish sinfdoshlar o'rtasida yanada kuchli aloqalarni rivojlantirishga yordam berishi mumkin.</p>\n<p>Piyoda sayr qilish yoki do'stona sport musobaqalari kabi tadbirlar ayni muddao bo'ladigan hayajon va dam olishni ta'minlaydi. Shu bilan birga, talabalar favqulodda vaziyatlar uchun biroz naqd pul olib kelishlari juda muhim. Maktab oziq-ovqat va ichimliklar bilan ta'minlayotgan bo'lsa-da, naqd pulning bo'lishi xotirjamlikni ta'minlashi mumkin.</p>\n<p>Fikrlarimizni inobatga olganingiz uchun rahmat. Ushbu unutilmas tajribani chin dildan kutmoqdaman.</p>\n<p>Samimiy hurmat bilan,</p>\n<p>Akmal Nazarov</p>",
+    "uzSampleA1": "<p>Salom Ustoz,<br><br>Men sayohatni xohlayman. Park yaxshi. Bir kun. Menga park yoqadi. Xayr.</p>",
+    "uzSampleA2": "<p>Hurmatli o'qituvchi,<br><br>Men hayvonot bog'iga bormoqchiman. Bu qiziqarli. Biz hayvonlarni ko'rishimiz mumkin. Menga hayvonlar yoqadi va do'stlarimga ham hayvonlar yoqadi. Menimcha, bir kun yaxshi, chunki ikki kun uzoq. Menga muzqaymoq uchun pul kerak, lekin maktab ovqat beradi. Rahmat.<br><br>Hurmat bilan, Akmal Nazarov</p>",
+    "uzSampleB1": "<p>Hurmatli ustoz,<br><br>Sizga sinf sayohati haqida yozmoqdaman. Menimcha, plyajga borish yaxshi fikr bo'lardi. Biz suzishimiz va voleybol o'ynashimiz mumkin. Shuningdek, kechasi gulxan yoqishimiz mumkin. O'ylaymanki, bu juda qiziqarli bo'lardi.<br><br>Mening fikrimcha, biz ikki kunga borishimiz kerak, chunki hamma narsani qilish uchun bir kun yetarli emas. Biroq, ikki kunlik sayohat qimmatroq bo'lishi mumkin. Siz aytganingizdek, favqulodda vaziyatlar uchun pul olib yurishimiz muhim. Men sayohatdan xursandman.<br><br>Hurmat bilan,<br>Akmal Nazarov</p>",
+    "uzSampleB2": "<p>Hurmatli ustoz,<br><br>Men yaqinlashib kelayotgan sinf sayohatiga bo'lgan qiziqishimni bildirish va bir nechta takliflar berish uchun yozyapman. Menimcha, tarixiy shahar muzeyiga tashrif buyurish ham ta'limiy, ham qiziqarli bo'ladi. Biz eksponatlarni o'rganishimiz, mahalliy tarix haqida bilib olishimiz va hatto ekskursiyada qatnashishimiz mumkin. Bu bizning odatiy sinf muhitimizdan tetiklantiruvchi o'zgarish bo'ladi.<br><br>Davomiyligi haqida aytadigan bo'lsak, men ikki kunlik sayohatni taklif qilaman. Bu bizga muzeyning takliflarini to'liq qadrlash va shahardagi boshqa diqqatga sazovor joylarni, masalan, botanika bog'ini o'rganish uchun yetarli vaqt beradi. Maktab oziq-ovqat va ichimliklar bilan ta'minlayotgan bo'lsa-da, talabalarga kutilmagan xarajatlar yoki esdalik sovg'alari uchun naqd pul olib kelishni eslatib qo'yish maqsadga muvofiqdir.<br><br>Ushbu g'oyalarni ko'rib chiqayotganingiz uchun tashakkur. Men unutilmas va boyituvchi tajribani kutmoqdaman.<br><br>Eng yaxshi tilaklarim bilan,<br>Akmal Nazarov</p>"
+   },
+   "p1_context": "You are a student at school and you received this email from your teacher.",
+   "p1_scenario": "Dear Students,\n\nWe’re planning a class trip at the end of the term. Food and drinks will be provided by the school. But you need to bring some money in cash for emergencies. Where would you like us to go? What activities should we do there? Should it be a one-day or two-day trip? Please send me your ideas by email.\n\nYour Teacher."
+  },
+  "examDate": "2026-05-14",
+  "settings": {
+   "logoUrl": "https://audio.mock-stream.com/img/ibb/WN0XY5Lv/logo.png",
+   "heading1": "Bilim va malakalarni baholash agentligi",
+   "heading2": "Chet tilini bilish darajasi",
+   "examTitle": "Writing exam",
+   "logoWording": "Mock Stream",
+   "testIdentifier": "mock_stream"
+  },
+  "vocabulary": {
+   "task2": [
+    {
+     "en": "social media platforms",
+     "uz": "ijtimoiy media platformalari"
+    },
+    {
+     "en": "impact on teenagers",
+     "uz": "o'smirlar uchun ta'sir"
+    },
+    {
+     "en": "beneficial aspects",
+     "uz": "foydali jihatlar"
+    },
+    {
+     "en": "detrimental effects",
+     "uz": "zararli ta'sirlar"
+    },
+    {
+     "en": "communication skills",
+     "uz": "aloqa ko'nikmalari"
+    },
+    {
+     "en": "mental health concerns",
+     "uz": "ruhiy salomatlik muammolari"
+    },
+    {
+     "en": "online safety",
+     "uz": "onlayn xavfsizlik"
+    },
+    {
+     "en": "digital literacy",
+     "uz": "raqamli savodxonlik"
+    },
+    {
+     "en": "cyberbullying issues",
+     "uz": "kiberhujum muammolari"
+    },
+    {
+     "en": "peer interaction",
+     "uz": "tengdoshlar bilan muloqot"
+    },
+    {
+     "en": "positive reinforcement",
+     "uz": "ijobiy mustahkamlash"
+    },
+    {
+     "en": "self-expression",
+     "uz": "o'zini ifoda qilish"
+    },
+    {
+     "en": "privacy concerns",
+     "uz": "maxfiylik masalalari"
+    },
+    {
+     "en": "information accessibility",
+     "uz": "ma'lumotlarga kirish imkoniyati"
+    },
+    {
+     "en": "community building",
+     "uz": "jamoa qurish"
+    },
+    {
+     "en": "addiction risks",
+     "uz": "qaramlik xavfi"
+    },
+    {
+     "en": "time management",
+     "uz": "vaqtni boshqarish"
+    },
+    {
+     "en": "content creation",
+     "uz": "mazmun yaratish"
+    },
+    {
+     "en": "influencer culture",
+     "uz": "ta'sirchan madaniyat"
+    },
+    {
+     "en": "educational resources",
+     "uz": "ta'limiy resurslar"
+    }
+   ],
+   "task11": [
+    {
+     "en": "excited",
+     "uz": "hayajonlangan"
+    },
+    {
+     "en": "can't wait",
+     "uz": "kutib o'tira olmayman"
+    },
+    {
+     "en": "awesome",
+     "uz": "ajoyib"
+    },
+    {
+     "en": "let's suggest",
+     "uz": "taklif qilaylik"
+    },
+    {
+     "en": "sounds fun",
+     "uz": "qiziqarli tuyuladi"
+    },
+    {
+     "en": "maybe",
+     "uz": "balki"
+    },
+    {
+     "en": "how about",
+     "uz": "qanday"
+    },
+    {
+     "en": "bring some cash",
+     "uz": "bir oz pul olib kel"
+    },
+    {
+     "en": "great idea",
+     "uz": "a'lo fikr"
+    },
+    {
+     "en": "one-day trip",
+     "uz": "bir kunlik sayohat"
+    },
+    {
+     "en": "two-day trip",
+     "uz": "ikki kunlik sayohat"
+    },
+    {
+     "en": "super fun",
+     "uz": "juda qiziqarli"
+    },
+    {
+     "en": "let's explore",
+     "uz": "kashf qilaylik"
+    },
+    {
+     "en": "cool activities",
+     "uz": "zo'r faoliyatlar"
+    },
+    {
+     "en": "let's decide soon",
+     "uz": "tezda qaror qilaylik"
+    },
+    {
+     "en": "pack light",
+     "uz": "yengil paketla"
+    }
+   ],
+   "task12": [
+    {
+     "en": "I am thrilled",
+     "uz": "Men hayajondaman"
+    },
+    {
+     "en": "excellent opportunity",
+     "uz": "a'lo imkoniyat"
+    },
+    {
+     "en": "consider visiting",
+     "uz": "tashrif buyurishni ko'rib chiqing"
+    },
+    {
+     "en": "suggested activities",
+     "uz": "taklif etilgan faoliyatlar"
+    },
+    {
+     "en": "educational excursion",
+     "uz": "ta'limiy ekskursiya"
+    },
+    {
+     "en": "cultural experience",
+     "uz": "madaniy tajriba"
+    },
+    {
+     "en": "appropriate duration",
+     "uz": "mos keladigan davomiylik"
+    },
+    {
+     "en": "provision of necessities",
+     "uz": "zaruriyatlarni ta'minlash"
+    },
+    {
+     "en": "financial preparedness",
+     "uz": "moliyaviy tayyorgarlik"
+    },
+    {
+     "en": "enrich our knowledge",
+     "uz": "bilimimizni boyitish"
+    },
+    {
+     "en": "school-sponsored trip",
+     "uz": "maktab tomonidan homiylik qilingan sayohat"
+    },
+    {
+     "en": "ensure safety",
+     "uz": "xavfsizlikni ta'minlash"
+    },
+    {
+     "en": "meaningful interaction",
+     "uz": "mazmunli muloqot"
+    },
+    {
+     "en": "considerate planning",
+     "uz": "e'tiborli rejalashtirish"
+    },
+    {
+     "en": "maximize engagement",
+     "uz": "ishtirokni maksimal darajada oshirish"
+    },
+    {
+     "en": "memorable experience",
+     "uz": "esdalik tajriba"
+    },
+    {
+     "en": "maximize learning",
+     "uz": "o'rganishni maksimal darajada oshirish"
+    },
+    {
+     "en": "ensure inclusivity",
+     "uz": "inklyuzivlikni ta'minlash"
+    },
+    {
+     "en": "enhance collaboration",
+     "uz": "hamkorlikni kuchaytirish"
+    },
+    {
+     "en": "minimize risks",
+     "uz": "xatarlarni kamaytirish"
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "could": {
+    "uz": "mumkin",
+    "type": "modal"
+   },
+   "As for": {
+    "uz": "...ga kelsak",
+    "type": "linking"
+   },
+   "can be": {
+    "uz": "bo'lishi mumkin",
+    "type": "modal"
+   },
+   "fly by": {
+    "uz": "tez o'tib ketmoq",
+    "type": "phrasal"
+   },
+   "should": {
+    "uz": "kerak",
+    "type": "modal"
+   },
+   "Finally": {
+    "uz": "nihoyat, so'nggi o'rinda",
+    "type": "linking"
+   },
+   "all for": {
+    "uz": "butunlay tarafdorman",
+    "type": "idiom"
+   },
+   "pick up": {
+    "uz": "o'rganib olmoq, o'zlashtirmoq",
+    "type": "phrasal"
+   },
+   "I reckon": {
+    "uz": "menimcha",
+    "type": "colloc"
+   },
+   "could be": {
+    "uz": "bo'lishi mumkin",
+    "type": "modal"
+   },
+   "might be": {
+    "uz": "bo'lishi ehtimoli bor",
+    "type": "modal"
+   },
+   "push for": {
+    "uz": "yoqlab chiqmoq, talab qilmoq",
+    "type": "phrasal"
+   },
+   "sort out": {
+    "uz": "hal qilmoq, uddalamoq",
+    "type": "phrasal"
+   },
+   "That said": {
+    "uz": "shunga qaramay",
+    "type": "linking"
+   },
+   "can offer": {
+    "uz": "taklif qila oladi",
+    "type": "modal"
+   },
+   "eats into": {
+    "uz": "vaqtni yeb qo'ymoq",
+    "type": "phrasal"
+   },
+   "go for it": {
+    "uz": "rozi bo'lishmoq, ma'qullamoq",
+    "type": "phrasal"
+   },
+   "make sure": {
+    "uz": "albatta amalga oshirmoq",
+    "type": "modal"
+   },
+   "Ultimately": {
+    "uz": "Oxir-oqibat",
+    "type": "adv"
+   },
+   "is crucial": {
+    "uz": "muhim",
+    "type": "modal"
+   },
+   "learn from": {
+    "uz": "dan o'rganmoq",
+    "type": "phrasal"
+   },
+   "takes away": {
+    "uz": "olib qo'yadi",
+    "type": "phrasal"
+   },
+   "would love": {
+    "uz": "xohlardim",
+    "type": "modal"
+   },
+   "Undoubtedly": {
+    "uz": "Shubhasiz",
+    "type": "adv"
+   },
+   "engage with": {
+    "uz": "bilan aloqada bo'lmoq",
+    "type": "phrasal"
+   },
+   "feel rushed": {
+    "uz": "shoshilgandek his qilmoq",
+    "type": "colloc"
+   },
+   "get to know": {
+    "uz": "yaqindan tanishmoq",
+    "type": "phrasal"
+   },
+   "share ideas": {
+    "uz": "fikr almashmoq",
+    "type": "phrasal"
+   },
+   "chip away at": {
+    "uz": "asta-sekin yemirmoq",
+    "type": "phrasal"
+   },
+   "is providing": {
+    "uz": "ta'minlamoqda",
+    "type": "modal"
+   },
+   "take part in": {
+    "uz": "ishtirok etmoq",
+    "type": "phrasal"
+   },
+   "To begin with": {
+    "uz": "avvalo, boshlash uchun",
+    "type": "linking"
+   },
+   "buzzing about": {
+    "uz": "juda hayajonda bo'lmoq",
+    "type": "idiom"
+   },
+   "comes down to": {
+    "uz": "...ga bog'liq bo'lmoq",
+    "type": "phrasal"
+   },
+   "make memories": {
+    "uz": "xotiralar yaratmoq",
+    "type": "phrasal"
+   },
+   "monitor usage": {
+    "uz": "foydalanishni nazorat qilmoq",
+    "type": "phrasal"
+   },
+   "open doors to": {
+    "uz": "...ga yo'l ochmoq",
+    "type": "idiom"
+   },
+   "stay in touch": {
+    "uz": "aloqada bo'lmoq",
+    "type": "phrasal"
+   },
+   "would provide": {
+    "uz": "ta'minlardi",
+    "type": "modal"
+   },
+   "set boundaries": {
+    "uz": "chegara o'rnatmoq",
+    "type": "phrasal"
+   },
+   "stay connected": {
+    "uz": "aloqada bo'lmoq",
+    "type": "phrasal"
+   },
+   "stronger bonds": {
+    "uz": "kuchliroq aloqalar",
+    "type": "colloc"
+   },
+   "Fingers crossed": {
+    "uz": "umid qilamiz, omad tilaymiz",
+    "type": "idiom"
+   },
+   "perfect getaway": {
+    "uz": "eng zo'r dam olish",
+    "type": "colloc"
+   },
+   "should consider": {
+    "uz": "ko'rib chiqish kerak",
+    "type": "modal"
+   },
+   "constant exposure": {
+    "uz": "doimiy ta'sir",
+    "type": "colloc"
+   },
+   "glued to a screen": {
+    "uz": "ekranga yopishib olgan",
+    "type": "idiom"
+   },
+   "immerse ourselves": {
+    "uz": "o'zimizni berib yubormoq",
+    "type": "phrasal"
+   },
+   "On the bright side": {
+    "uz": "yaxshi tomondan qaraganda",
+    "type": "linking"
+   },
+   "pervasive presence": {
+    "uz": "keng tarqalgan mavjudlik",
+    "type": "colloc"
+   },
+   "strongly recommend": {
+    "uz": "qat'iy tavsiya qilaman",
+    "type": "colloc"
+   },
+   "absolutely thrilled": {
+    "uz": "juda xursand",
+    "type": "adv"
+   },
+   "undeniable benefits": {
+    "uz": "inkor etib bo'lmaydigan foydalar",
+    "type": "colloc"
+   },
+   "fantastic opportunity": {
+    "uz": "ajoyib imkoniyat",
+    "type": "colloc"
+   },
+   "part of everyday life": {
+    "uz": "kundalik hayotning bir qismi",
+    "type": "colloc"
+   },
+   "significant downsides": {
+    "uz": "sezilarli kamchiliklar",
+    "type": "colloc"
+   },
+   "truly looking forward": {
+    "uz": "chin dildan kutmoqdaman",
+    "type": "adv"
+   },
+   "like a dream come true": {
+    "uz": "tushim ushalganday",
+    "type": "idiom"
+   },
+   "team-building exercises": {
+    "uz": "jamoani shakllantirish mashqlari",
+    "type": "colloc"
+   },
+   "bring our lessons to life": {
+    "uz": "darslarimizni jonlantirmoq",
+    "type": "idiom"
+   },
+   "popular outdoor adventure": {
+    "uz": "mashhur ochiq havoda sarguzasht",
+    "type": "colloc"
+   }
+  }
+ },
+ "created_at": "2026-05-06T14:59:05.480169+00:00",
+ "updated_at": "2026-07-06T10:54:34.379568+00:00"
+}

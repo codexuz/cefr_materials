@@ -1,0 +1,419 @@
+{
+ "id": 8,
+ "mock_type": "ielts-writing",
+ "mock_number": 1,
+ "title": "IELTS Writing Mock 01",
+ "status": "published",
+ "mock_data": {
+  "tasks": {
+   "task1": {
+    "title": "Housing types in city areas",
+    "prompt": "The table below shows the percentage of the population and the types of houses they live in 3 areas of a city.",
+    "wordGoal": 150,
+    "chartDesc": {
+     "title": "",
+     "xAxis": "Types of housing (Flat/Apartment, Terraced, Semi-Detached, Detached)",
+     "yAxis": "Areas of the city and their total population",
+     "period": "",
+     "series": [
+      {
+       "name": "Central area - (population 32,100)",
+       "points": [
+        {
+         "at": "Flat/Apartment",
+         "value": 15
+        },
+        {
+         "at": "Terraced",
+         "value": 18
+        },
+        {
+         "at": "Semi-Detached",
+         "value": 28
+        },
+        {
+         "at": "Detached",
+         "value": 39
+        }
+       ]
+      },
+      {
+       "name": "Green Park area - (population 31,700)",
+       "points": [
+        {
+         "at": "Flat/Apartment",
+         "value": 76
+        },
+        {
+         "at": "Terraced",
+         "value": 14
+        },
+        {
+         "at": "Semi-Detached",
+         "value": 5
+        },
+        {
+         "at": "Detached",
+         "value": 5
+        }
+       ]
+      },
+      {
+       "name": "Southberg Area - (population 32,000)",
+       "points": [
+        {
+         "at": "Flat/Apartment",
+         "value": 25
+        },
+        {
+         "at": "Terraced",
+         "value": 56
+        },
+        {
+         "at": "Semi-Detached",
+         "value": 5
+        },
+        {
+         "at": "Detached",
+         "value": 14
+        }
+       ]
+      }
+     ],
+     "overview": "While all three areas have roughly equal populations (around 31,700 to 32,100), the predominant housing type varies significantly by area: Green Park is dominated by flats/apartments, Southberg by terraced houses, and the Central area by detached and semi-detached houses.",
+     "chartType": "table",
+     "confidence": "high",
+     "unreadable": [],
+     "keyFeatures": [
+      "Green Park area has the highest proportion of flat/apartment dwellers at 76%, whereas only 5% live in semi-detached and 5% in detached homes.",
+      "Southberg Area has a major concentration in terraced housing at 56%, with semi-detached housing being the lowest at 5%.",
+      "Central area has the highest proportion of detached houses (39%) and semi-detached houses (28%) among all areas, with flats/apartments being its lowest category at 15%.",
+      "Total population is very similar across all three regions: Central area (32,100), Southberg Area (32,000), and Green Park area (31,700)."
+     ]
+    },
+    "chartType": "table",
+    "dataNature": "static",
+    "instruction": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+    "sampleBand5": "<p>The table give information about the percentage of people and their houses in three areas. It shows what kinds of houses people live in.</p>\n<p>Looking at the table, we can see that <mark>most people live in</mark> detached houses in area A. In area B, the number of people in semi-detached houses is bigger. Area C has more people in flats than the other areas. <mark>The other types of houses</mark> are not very popular.</p>\n<p>In area A, 60% of people live in detached houses. This is a lot. Only 15% live in flats. In area B, 45% live in semi-detached houses. This is the biggest number. The number of people in detached houses and flats are similar. <mark>Area C is a bit different</mark>. About 40% of people live in flats, which is <mark>more than the others</mark>.</p>\n<p>Overall, the table tells us where people choose to live in these different areas and the types of houses they like.</p>",
+    "sampleBand6": "<p>The table shows the percentage of people living in different types of houses in three areas of a city. <mark>Overall, it is clear</mark> that the most popular type of housing varies depending on the area.</p>\n\n<p>In the city center, apartments are the most common, with 65% of the population living in them. Houses are <mark>less common</mark> at 25%, and only 10% live in townhouses. In the suburbs, the most popular housing type is houses, with 55% of people living in them. Apartments are less popular at 30%, and townhouses account for 15%. <mark>Regarding the rural area</mark>, houses are even more popular, with 70% of the population living in them. Apartments are <mark>not as common</mark>, with only 15%, and townhouses make up the remaining 15%.</p>\n\n<p>It is also noticeable that apartments are more popular in the city center, while houses are the preferred choice in the suburbs and rural area. <mark>Townhouses are not very common</mark> in any of the three areas, but they have a slightly larger percentage in the suburbs and rural area compared to the city center.</p>",
+    "sampleBand7": "<p>The table <mark>illustrates the distribution</mark> of housing types in three different areas of a city, alongside the corresponding population percentages.</p>\n<p>Overall, apartments are the <mark>predominant housing type</mark> across all three areas. However, the proportion of residents living in houses shows more variation.</p>\n<p>Specifically, in Area A, a significant majority of the population (65%) reside in apartments, while 25% live in houses and the remaining 10% in other types of accommodation. Area B presents a slightly different picture, with apartments still being the most common (55%), but houses account for a <mark>considerably larger proportion</mark> of residents at 40%. Only 5% of the population in Area B live in other housing types. In contrast, Area C shows a more balanced distribution, with 45% living in apartments and 40% in houses. The <mark>percentage of individuals</mark> residing in other housing types is the highest in this area, at 15%. </p>\n<p>In summary, while apartments are the most popular choice in all three areas, the <mark>preference for houses varies notably</mark>, with Area B showing the highest proportion of house residents. The 'other' category is consistently the least common, <mark>albeit with some fluctuation</mark> across the areas.</p>",
+    "sampleBand8": "<p>The table <mark>elucidates the distribution</mark> of housing types across three distinct areas of a city, presenting the data as percentages of the population residing in each type. Overall, it is <mark>immediately apparent</mark> that Area A exhibits the highest proportion of residents living in apartments, while Area C shows a preference for houses.</p>\n\n<p>In Area A, a significant 65% of the population resides in apartments, <mark>dwarfing the figures</mark> for houses and bungalows at 20% and 15% respectively. Area B presents a more balanced distribution, with houses accounting for the largest share at 40%, followed by apartments at 35% and bungalows at 25%. This indicates a <mark>more even spread</mark> of housing choices compared to Area A.</p>\n\n<p>Area C, conversely, is dominated by houses, accommodating 70% of the population. Apartments represent a mere 10%, while bungalows account for the remaining 20%. The <mark>stark contrast</mark> between Area C and Area A highlights a <mark>polarisation in housing preferences</mark> across the city. It is also worth noting that the proportion of bungalows remains relatively consistent across all three areas, <mark>hovering between</mark> 15% and 25%, suggesting a <mark>stable demand</mark> for this type of dwelling. <mark>In summary</mark>, the data reveals a clear geographical trend in housing choices within the city.</p>",
+    "sampleBand9": "<p><mark>The table delineates</mark> the distribution of housing types across three distinct areas within a city, presenting data as percentages of the population residing in each type.</p>\n\n<p>Overall, it is <mark>immediately apparent</mark> that detached houses are the predominant housing type, particularly in Area C. Conversely, flats are the least common, except in Area A where they constitute a significant portion of residences. Area B exhibits a more <mark>balanced distribution</mark> across all housing categories.</p>\n\n<p>Specifically, detached houses account for 35% of residences in Area A, increasing to 40% in Area B, and peaking at a <mark>substantial majority</mark> of 60% in Area C. Semi-detached houses show a <mark>relatively consistent presence</mark> across the areas, with 30%, 35%, and 25% in Areas A, B, and C, respectively. Flats, however, display a <mark>notable disparity</mark>, comprising 35% of residences in Area A, but dropping to 25% in Area B and a mere 15% in Area C. <mark>This suggests</mark> a possible correlation between area and housing density, with Area A potentially being more urbanized and Area C more suburban.</p>\n\n<p>In summary, housing preferences and availability <mark>exhibit a clear geographical trend</mark> across the city, with detached houses being the favoured option, especially in Area C, while flats are more prevalent in Area A. Area B <mark>occupies an intermediate position</mark> in terms of housing type distribution. The <mark>inverse relationship</mark> between detached houses and flats is also noteworthy.</p>",
+    "timeMinutes": 20,
+    "chartDescImg": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/1.jpg",
+    "sampleAnswer": "The table provides information about the proportion of the population living in various types of housing across three distinct areas of a city.\n\nOverall, it is clear that housing preferences vary significantly between the three areas. Detached houses are most common in Area A, while flats and apartments dominate in Area C. Area B shows a more balanced distribution across housing types.\n\nLooking at the data in more detail, Area A has the highest percentage of residents living in detached houses, at 46%, compared to just 10% in Area C. Conversely, Area C has the largest share of people residing in flats and apartments, accounting for 52% of its population, whereas this figure is considerably lower in Area A at only 12%.\n\nIn Area B, the population is more evenly spread across different housing types, with terraced houses being the most popular at 34%, followed by semi-detached houses at 28%. Meanwhile, semi-detached houses are the second most common type in Area A at 24%, but represent only 15% of housing in Area C. Terraced houses make up 18% of the housing in Area A and 23% in Area C.\n\nIn summary, Area A is characterised by a preference for larger, independent dwellings, while Area C residents tend to live in smaller, multi-unit accommodation, and Area B occupies a middle ground between the two.",
+    "chartImageUrl": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/1.jpg",
+    "uzSampleBand5": "<p>Jadval uchta hududdagi odamlar va ularning uylari foizi haqida ma'lumot beradi. Unda odamlarning qanday uylarda yashashi ko'rsatilgan.</p>\n<p>Jadvalga qarasak, A hududida <mark>ko'pchilik odamlar</mark> alohida uylarda yashashini ko'rishimiz mumkin. B hududida yarim alohida uylarda yashovchi odamlar soni ko'proq. C hududida boshqa hududlarga qaraganda kvartiralarda yashovchi odamlar ko'p. <mark>Uylarning boshqa turlari</mark> unchalik mashhur emas.</p>\n<p>A hududida odamlarning 60 foizi alohida uylarda yashaydi. Bu juda ko'p. Faqat 15 foizi kvartiralarda yashaydi. B hududida 45 foizi yarim alohida uylarda yashaydi. Bu eng katta raqam. Alohida uylarda va kvartiralarda yashovchi odamlar soni bir xil. <mark>C hududi biroz farq qiladi</mark>. Odamlarning taxminan 40 foizi kvartiralarda yashaydi, bu <mark>boshqalardan ko'ra</mark> ko'proq.</p>\n<p>Umuman olganda, jadval bizga odamlarning ushbu turli hududlarda qayerda yashashni tanlashlari va ularga qanday uylar yoqishi haqida ma'lumot beradi.</p>",
+    "uzSampleBand6": "<p>Jadvalda shaharning uchta hududida turli xil uylarda yashovchi odamlarning foiz ko'rsatkichlari keltirilgan. <mark>Umuman olganda, shuni aniq aytish mumkinki</mark>, uy-joyning eng mashhur turi hududga qarab o'zgaradi.</p>\n\n<p>Shahar markazida kvartiralar eng keng tarqalgan bo'lib, aholining 65% ularda yashaydi. Uylar <mark>kamroq tarqalgan</mark> – 25%, va faqat 10% tounhauslarda yashaydi. Shahar atrofida eng mashhur uy-joy turi bu uylar bo'lib, odamlarning 55% ularda yashaydi. Kvartiralar 30% bilan kamroq mashhur, va tounhauslar 15% ni tashkil qiladi. <mark>Qishloq hududiga kelsak</mark>, uylar yanada mashhurroq, aholining 70% ularda yashaydi. Kvartiralar <mark>bunday keng tarqalmagan</mark>, faqat 15%, va tounhauslar qolgan 15% ni tashkil etadi.</p>\n\n<p>Shuningdek, kvartiralar shahar markazida ko'proq mashhurligi, uylar esa shahar atrofi va qishloq hududida afzal ko'rilishi sezilarli. <mark>Tounhauslar unchalik keng tarqalmagan</mark> uchta hududning hech birida, lekin ularning foiz ko'rsatkichi shahar markaziga nisbatan shahar atrofi va qishloq hududida biroz yuqoriroq.</p>",
+    "uzSampleBand7": "<p>Jadval shaharning uch xil hududida uy-joy turlarining <mark>taqsimlanishini ko'rsatadi</mark>, shuningdek, aholi foizlarini ham aks ettiradi.</p>\n<p>Umuman olganda, kvartiralar har uchala hududda ham <mark>ustun turar joy turi</mark> hisoblanadi. Biroq, uylarda yashovchi aholining ulushi ko'proq o'zgarishni ko'rsatadi.</p>\n<p>Xususan, A hududida aholining katta qismi (65%) kvartiralarda yashaydi, 25% uylarda va qolgan 10% boshqa turar joylarda istiqomat qiladi. B hududi biroz boshqacha manzarani taqdim etadi, kvartiralar eng keng tarqalgan (55%) bo'lsa-da, uylar aholining <mark>ancha katta qismini</mark> tashkil etadi (40%). B hududida aholining faqat 5% boshqa turar joylarda yashaydi. Aksincha, C hududi yanada muvozanatli taqsimotni ko'rsatadi, 45% kvartiralarda va 40% uylarda yashaydi. Boshqa turar joylarda yashovchi <mark>shaxslarning foizi</mark> ushbu hududda eng yuqori bo'lib, 15% ni tashkil qiladi.</p>\n<p>Xulosa qilib aytganda, kvartiralar har uchala hududda ham eng mashhur tanlov bo'lsa-da, <mark>uylarga bo'lgan afzallik sezilarli darajada farq qiladi</mark>, B hududida uyda yashovchilarning eng yuqori ulushi kuzatiladi. \"Boshqa\" toifasi doimiy ravishda eng kam uchraydigan hisoblanadi, <mark>garchi hududlar bo'ylab biroz o'zgarish bo'lsa ham</mark>.</p>",
+    "uzSampleBand8": "<p>Jadval shaharning uchta alohida hududida uy-joy turlarining <mark>taqsimotini yoritib beradi</mark>, ma'lumotlarni har bir turdagi uy-joyda yashovchi aholi ulushi sifatida taqdim etadi. Umuman olganda, A hududida kvartiralarda yashovchi aholining eng yuqori ulushi borligi, C hududi esa uylarni afzal ko'rishini <mark>darhol anglash mumkin</mark>.</p>\n\n<p>A hududida aholining sezilarli 65 foizi kvartiralarda yashaydi, bu uylar va bungalovlar uchun ko'rsatkichlarni mos ravishda 20% va 15% ni <mark>soyada qoldiradi</mark>. B hududi yanada muvozanatli taqsimotni taqdim etadi, bunda uylar eng katta ulushni 40% tashkil etadi, undan keyin kvartiralar 35% va bungalovlar 25% ni tashkil etadi. Bu A hududiga nisbatan uy-joy tanlovining <mark>yanada teng taqsimlanganini</mark> ko'rsatadi.</p>\n\n<p>Aksincha, C hududida uylar ustunlik qiladi va aholining 70 foizini o'z ichiga oladi. Kvartiralar atigi 10% ni tashkil etadi, bungalovlar esa qolgan 20% ni tashkil etadi. C hududi va A hududi o'rtasidagi <mark>keskin farq</mark> shahar bo'ylab uy-joy tanlovida <mark>qutblanishni</mark> ta'kidlaydi. Shuni ham ta'kidlash joizki, bungalovlar ulushi barcha uchta hududda nisbatan barqaror bo'lib, 15% dan 25% gacha <mark>tebranib turadi</mark>, bu turdagi turar joyga <mark>barqaror talabni</mark> ko'rsatadi. <mark>Xulosa qilib aytganda</mark>, ma'lumotlar shahar ichida uy-joy tanlovida aniq geografik tendentsiyani ochib beradi.</p>",
+    "uzSampleBand9": "<p><mark>Jadvalda tasvirlanishicha</mark>, shaharning uch xil hududidagi uy-joy turlarining taqsimoti har bir turdagi uyda yashovchi aholining foizlari sifatida taqdim etilgan.</p>\n\n<p>Umuman olganda, <mark>darhol aniq ko'rinib turibdiki</mark>, alohida uylar uy-joyning asosiy turi hisoblanadi, ayniqsa C hududida. Aksincha, kvartiralar eng kam tarqalgan, A hududidan tashqari, u yerda turar joylarning sezilarli qismini tashkil qiladi. B hududi barcha uy-joy toifalari bo'yicha <mark>muvozanatli taqsimotni</mark> ko'rsatadi.</p>\n\n<p>Xususan, alohida uylar A hududida turar joylarning 35% ni, B hududida 40% gacha oshadi va C hududida <mark>sezilarli ustunlik</mark> bilan 60% ga yetadi. Qo'shni uylar hududlar bo'ylab <mark>nisbatan barqaror mavjudlikni</mark> ko'rsatadi, A, B va C hududlarida mos ravishda 30%, 35% va 25% ni tashkil qiladi. Biroq, kvartiralar <mark>sezilarli farqni</mark> namoyish etadi, A hududida turar joylarning 35% ni tashkil qiladi, ammo B hududida 25% ga va C hududida atigi 15% ga tushadi. <mark>Bu shuni ko'rsatadiki</mark>, hudud va uy-joy zichligi o'rtasida bog'liqlik bo'lishi mumkin, A hududi potentsial ravishda ko'proq urbanizatsiya qilingan va C hududi esa ko'proq shahar atrofi.</p>\n\n<p>Xulosa qilib aytganda, uy-joy imtiyozlari va mavjudligi shahar bo'ylab <mark>aniq geografik tendentsiyani namoyon etadi</mark>, alohida uylar afzalroq variant bo'lib, ayniqsa C hududida, kvartiralar esa A hududida ko'proq tarqalgan. B hududi uy-joy turini taqsimlash bo'yicha <mark>oraliq pozitsiyani egallaydi</mark>. Alohida uylar va kvartiralar o'rtasidagi <mark>teskari bog'liqlik</mark> ham e'tiborga loyiq.</p>",
+    "chartDescSource": "extracted-verified-2026-08-05"
+   },
+   "task2": {
+    "title": "Children and computer games",
+    "prompt": "Today many children spend a lot of time playing computer games and little time on sports. Is it a positive or negative development?",
+    "wordGoal": 250,
+    "essayType": "opinion",
+    "instruction": "Discuss both sides and give your own opinion. Give reasons for your answer and include relevant examples from your own knowledge or experience. Write at least 250 words.",
+    "sampleBand5": "<p>Nowadays, many children like playing computer games. They spend a lot of time playing these games instead of doing sports. I think there are both good and bad things about this.</p>\n\n<p>On the one hand, playing computer games can be good. It can help children <mark>to learn new things</mark>. Some games are about solving problems, and this can make children smarter. Also, they can <mark>make friends</mark> with other people who play the same games online. This can be good for their social life, even if they are not meeting in person. My brother, for example, plays a lot of strategy games, and he says it helps him think better. He also talks to his teammates online and they help each other.</p>\n\n<p>On the other hand, playing too many computer games can be bad. Children might not get enough exercise if they are always sitting down playing games. This can make them unhealthy. Also, some games are very violent, and this <mark>can affect children</mark> in a bad way. They might become aggressive or have trouble sleeping. For example, my neighbour's son plays very violent games, and he sometimes shouts and gets angry very easily.</p>\n\n<p>In my opinion, it is important for children to do both computer games and sports. They should not spend too much time on one thing. <mark>It is better</mark> to have a balance. Parents should help their children to find this balance. They can limit the time that children spend on computer games and encourage them to play sports or do other activities. If children have a good balance, they can enjoy the benefits of both computer games and sports without the bad effects.</p>",
+    "sampleBand6": "<p>In today's world, it is <mark>becoming more common</mark> for children to spend a significant amount of time playing computer games, while spending less time participating in sports. This trend has both positive and negative aspects which need to be considered.</p>\n\n<p>On the one hand, there are some benefits to this increased engagement with computer games. Firstly, many games <mark>can help to improve</mark> children's problem-solving skills and strategic thinking. For example, strategy games require players to plan ahead and make decisions that affect the outcome of the game. Secondly, some games can be educational, teaching children about history, science, or other subjects. Also, <mark>with the development of technology</mark>, many games offer opportunities for children to connect with other players online, fostering social interaction and teamwork, although this can be <mark>a bit risky</mark> if not monitored.</p>\n\n<p>However, there are also several drawbacks to spending too much time playing computer games. One major concern is the impact on physical health. Children who spend hours sitting in front of a screen are less likely to get the exercise they need, which can lead to obesity and other health problems. Furthermore, excessive gaming can be addictive and can lead to social isolation. Children may neglect their schoolwork, hobbies, and relationships with family and friends <mark>if they are too focused on</mark> gaming. Finally, some games contain violent content, which can have a negative impact on children's behaviour and attitudes.</p>\n\n<p>In conclusion, while there are some potential benefits to playing computer games, such as improved cognitive skills and social interaction, the negative effects on physical health and social development are more significant. <mark>In my opinion</mark>, it is important for parents to encourage their children to participate in a range of activities, including sports, to ensure a healthy and well-rounded development. A balance is definitely needed.</p>",
+    "sampleBand7": "<p>In contemporary society, an increasing number of children are dedicating a significant portion of their time to playing computer games, often at the expense of engaging in sports. While this trend raises concerns, it is not entirely negative, as it presents both drawbacks and potential benefits, which I will explore before offering my perspective.</p>\n\n<p>On the one hand, the reduced participation in sports <mark>is undeniably detrimental</mark> to children's physical health. A sedentary lifestyle, <mark>characterised by prolonged periods</mark> of sitting and limited physical activity, can contribute to obesity, cardiovascular problems, and other health issues. Furthermore, sports offer valuable opportunities for developing teamwork skills, discipline, and resilience – qualities that are difficult to cultivate through solitary computer gaming. For example, my younger brother, who spends hours each day playing video games, struggles to <mark>maintain a healthy weight</mark> and often finds it challenging to cooperate with others in group activities.</p>\n\n<p>However, the increasing popularity of computer games also has its advantages. Many modern games are not simply mindless entertainment; they can enhance cognitive skills such as problem-solving, strategic thinking, and hand-eye coordination. Some educational games can even supplement classroom learning by making complex concepts more accessible and engaging. Moreover, online gaming platforms often connect children with peers from different backgrounds and cultures, <mark>fostering a sense of global community</mark> and improving communication skills. While not a direct parallel, I have observed that some of my students who are avid gamers often demonstrate quick thinking and adaptability in problem-solving tasks.</p>\n\n<p>In conclusion, while the decline in sports participation among children is a valid concern due to its potential impact on physical health and social development, the rise of computer gaming is not without its merits. It can offer cognitive benefits and opportunities for online social interaction. <mark>Ultimately, the key lies in</mark> achieving a balanced approach, where children can enjoy the benefits of both physical activity and digital entertainment. I believe that parents and educators should encourage children to <mark>engage in a variety of activities</mark>, ensuring that they develop both physically and mentally.</p>",
+    "sampleBand8": "<p>The increasing amount of time children dedicate to computer games, often at the expense of sports, is a trend that elicits both concern and acceptance. While there are undeniable drawbacks, the potential benefits of this shift warrant careful consideration. I believe that, on balance, this development presents more negative consequences, although the positive aspects should not be dismissed.</p>\n\n<p>On the one hand, the allure of digital entertainment offers certain advantages. <mark>Notably</mark>, many modern games require strategic thinking and problem-solving skills. Children engaging with these games can <mark>hone their cognitive abilities</mark>, develop their reflexes, and even improve their teamwork when participating in online multiplayer games. Furthermore, exposure to diverse virtual environments can <mark>broaden their horizons</mark> and foster creativity. For instance, simulation games like \"Minecraft\" encourage players to build and design, nurturing their imagination and spatial reasoning. However, these benefits are often overstated and do not compensate for the potential downsides.</p>\n\n<p>Conversely, the sedentary nature of excessive gaming poses significant risks to children's physical and mental well-being. A lack of physical activity can lead to obesity, cardiovascular problems, and other health issues. Moreover, the <mark>immersive nature</mark> of computer games can be addictive, leading to social isolation, anxiety, and depression. Children who spend excessive time gaming may neglect their studies, family relationships, and other important aspects of their lives. For example, a recent study by the American Academy of Pediatrics linked excessive screen time to increased rates of childhood depression and anxiety. Furthermore, the <mark>potential for exposure</mark> to violent or inappropriate content raises serious safeguarding concerns. <mark>It is therefore imperative</mark> that parents monitor their children's gaming habits and encourage a balanced lifestyle.</p>\n\n<p>In conclusion, while computer games can offer some cognitive and creative benefits, the potential negative impacts on children's physical and mental health, as well as their social development, are more significant. The risks of a sedentary lifestyle, addiction, and exposure to harmful content <mark>outweigh the advantages</mark>. Therefore, this trend towards increased gaming and decreased participation in sports is, in my opinion, a largely negative development. <mark>A concerted effort</mark> is needed to promote a healthier balance between digital entertainment and physical activity, ensuring the well-being of future generations. <mark>Striking this balance</mark> is crucial for fostering well-rounded individuals.</p>",
+    "sampleBand9": "<p>The increasing prevalence of computer games among children, often at the expense of participation in sports, is a multifaceted trend with both potential advantages and disadvantages. While concerns about sedentary lifestyles and social isolation are valid, it is also important to acknowledge the cognitive and developmental benefits that well-designed computer games can offer. <mark>On balance</mark>, however, I believe the shift towards computer games carries more negative implications than positive ones.</p>\n\n<p>On one hand, the appeal of computer games is understandable. Many games offer engaging challenges that can enhance problem-solving skills, strategic thinking, and even hand-eye coordination. For instance, real-time strategy games require players to manage resources, plan attacks, and react quickly to changing circumstances, thereby <mark>sharpening their cognitive abilities</mark>. Furthermore, online multiplayer games can foster a sense of community and collaboration, allowing children to interact with peers from diverse backgrounds and develop teamwork skills. My own nephew, initially introverted, gained confidence and improved his communication skills through participating in an online gaming community centered around a collaborative world-building game. He learnt to <mark>articulate his ideas persuasively</mark> and negotiate solutions with others.</p>\n\n<p>However, the potential downsides of excessive computer game consumption are significant. The most obvious concern is the impact on physical health. Spending hours sitting in front of a screen reduces opportunities for physical activity, increasing the risk of obesity, cardiovascular problems, and other health issues. More subtly, <mark>the immersive nature of gaming</mark> can lead to social isolation, as children may prioritize virtual interactions over real-world relationships. A further worry is the exposure to violent or age-inappropriate content, which can desensitize children to violence and negatively influence their behavior. A recent study by the American Psychological Association <mark>underscores the correlation</mark> between prolonged exposure to violent video games and increased aggression in adolescents.</p>\n\n<p>In conclusion, while computer games can offer certain cognitive and social benefits, the potential risks to physical health, social development, and psychological well-being outweigh these advantages. It is therefore crucial for parents and educators to encourage a balanced lifestyle that incorporates physical activity, social interaction, and other enriching experiences, ensuring that children do not <mark>become overly reliant on</mark> the virtual world for entertainment and fulfillment. Ultimately, <mark>a holistic approach to child development</mark>, prioritizing both physical and mental well-being, is essential in navigating the challenges of the digital age. <mark>Striking this balance</mark> will allow children to reap the benefits of technology without succumbing to its potential pitfalls. The key, as with most things, lies in moderation and <mark>mindful engagement</mark> with the digital world. <mark>It is incumbent upon us</mark> to guide the younger generation towards a future where technology enhances, rather than diminishes, their overall well-being.</p>",
+    "timeMinutes": 40,
+    "sampleAnswer": "In the modern era, it has become increasingly common for children to devote substantial amounts of time to computer games while showing declining interest in physical activities and sports. I believe this is largely a negative development, although there are some limited benefits associated with gaming.\n\nOn the one hand, computer games can offer certain cognitive advantages. Many games require strategic thinking, problem-solving, and quick decision-making, which can sharpen mental agility. Furthermore, some educational games are specifically designed to enhance learning in subjects such as mathematics and languages, making them valuable supplementary tools for academic development. Additionally, multiplayer online games can foster teamwork and communication skills among young players who collaborate to achieve shared objectives.\n\nOn the other hand, the drawbacks of excessive gaming significantly outweigh these benefits. First and foremost, a sedentary lifestyle poses serious health risks for children, including obesity, poor posture, and weakened cardiovascular fitness. Regular participation in sports, by contrast, strengthens muscles and bones, improves coordination, and promotes overall physical well-being. Secondly, children who spend prolonged hours in front of screens often experience social isolation, as they miss out on the face-to-face interactions and teamwork that sports naturally encourage. Team sports, in particular, teach essential life skills such as discipline, resilience, leadership, and the ability to handle both victory and defeat gracefully.\n\nMoreover, excessive screen time has been linked to attention difficulties, sleep disturbances, and increased levels of anxiety among children, all of which can negatively impact academic performance and emotional development.\n\nIn conclusion, while computer games can provide some cognitive stimulation, the shift away from sports represents a predominantly negative trend. Parents and educators should encourage a balanced lifestyle that incorporates regular physical activity alongside any time spent on digital entertainment.",
+    "uzSampleBand5": "<p>Hozirgi kunda ko'plab bolalar kompyuter o'yinlarini o'ynashni yaxshi ko'radilar. Ular sport bilan shug'ullanish o'rniga, ushbu o'yinlarni o'ynashga ko'p vaqt sarflaydilar. Menimcha, buning ham yaxshi, ham yomon tomonlari bor.</p>\n\n<p>Bir tomondan, kompyuter o'yinlarini o'ynash yaxshi bo'lishi mumkin. Bu bolalarga <mark>yangi narsalarni o'rganishga</mark> yordam berishi mumkin. Ba'zi o'yinlar muammolarni hal qilish haqida bo'lib, bu bolalarni aqlliroq qilishi mumkin. Shuningdek, ular onlayn rejimda bir xil o'yinlarni o'ynaydigan boshqa odamlar bilan <mark>do'stlashishlari</mark> mumkin. Bu ularning ijtimoiy hayoti uchun yaxshi bo'lishi mumkin, hatto ular shaxsan uchrashmasalar ham. Masalan, mening akam strategiya o'yinlarini ko'p o'ynaydi va u bu unga yaxshiroq fikrlashga yordam berishini aytadi. U, shuningdek, onlayn rejimda o'z jamoadoshlari bilan gaplashadi va ular bir-birlariga yordam berishadi.</p>\n\n<p>Boshqa tomondan, juda ko'p kompyuter o'yinlarini o'ynash yomon bo'lishi mumkin. Bolalar doimo o'yin o'ynab o'tirgan bo'lsalar, yetarli mashq qilmasliklari mumkin. Bu ularni nosog'lom qilishi mumkin. Shuningdek, ba'zi o'yinlar juda shafqatsiz, va bu <mark>bolalarga yomon ta'sir qilishi</mark> mumkin. Ular tajovuzkor bo'lib qolishlari yoki uxlashda muammolarga duch kelishlari mumkin. Misol uchun, qo'shnimning o'g'li juda shafqatsiz o'yinlar o'ynaydi va u ba'zan baqiradi va juda oson g'azablanadi.</p>\n\n<p>Mening fikrimcha, bolalar uchun ham kompyuter o'yinlarini o'ynash, ham sport bilan shug'ullanish muhim. Ular bir narsaga juda ko'p vaqt sarflamasliklari kerak. <mark>Muvozanatga ega bo'lish</mark> yaxshiroqdir. Ota-onalar farzandlariga ushbu muvozanatni topishga yordam berishlari kerak. Ular bolalarning kompyuter o'yinlariga sarflaydigan vaqtini cheklashlari va ularni sport bilan shug'ullanishga yoki boshqa tadbirlarni bajarishga undashlari mumkin. Agar bolalarda yaxshi muvozanat bo'lsa, ular kompyuter o'yinlari va sportning yomon oqibatlarisiz, ikkalasining ham foydalaridan bahramand bo'lishlari mumkin.</p>",
+    "uzSampleBand6": "<p>Bugungi kunda bolalarning sport bilan shug'ullanishga kamroq vaqt ajratib, kompyuter o'yinlari o'ynashga <mark>ko'proq vaqt sarflashi odatiy holga aylanib bormoqda</mark>. Bu tendensiyaning ijobiy va salbiy jihatlari bor, ularni ko'rib chiqish kerak.</p>\n\n<p>Bir tomondan, kompyuter o'yinlariga qiziqishning ortishining ba'zi foydalari bor. Birinchidan, ko'pgina o'yinlar bolalarning muammolarni hal qilish qobiliyatlari va strategik fikrlashini <mark>yaxshilashga yordam berishi mumkin</mark>. Misol uchun, strategiya o'yinlari o'yinchilardan oldindan rejalashtirishni va o'yin natijasiga ta'sir qiladigan qarorlar qabul qilishni talab qiladi. Ikkinchidan, ba'zi o'yinlar ta'limiy bo'lishi mumkin, bolalarga tarix, fan yoki boshqa fanlar haqida o'rgatadi. Shuningdek, <mark>texnologiyaning rivojlanishi bilan</mark> ko'pgina o'yinlar bolalarga onlayn tarzda boshqa o'yinchilar bilan bog'lanish imkoniyatini beradi, bu esa ijtimoiy o'zaro ta'sir va jamoaviy ishni rivojlantiradi, garchi bu nazorat qilinmasa, <mark>biroz xavfli bo'lishi</mark> mumkin.</p>\n\n<p>Biroq, kompyuter o'yinlarini o'ynashga juda ko'p vaqt sarflashning bir nechta kamchiliklari ham mavjud. Asosiy xavotirlardan biri bu jismoniy salomatlikka ta'siri. Ekranning oldida soatlab o'tiradigan bolalar kerakli jismoniy mashqlarni olish ehtimoli kamroq, bu esa semizlik va boshqa sog'liq muammolariga olib kelishi mumkin. Bundan tashqari, haddan tashqari o'yin o'ynash odatga aylanib qolishi va ijtimoiy izolyatsiyaga olib kelishi mumkin. Agar bolalar o'yinga <mark>juda ko'p e'tibor qaratsa</mark>, ular o'qish, sevimli mashg'ulotlari, oilasi va do'stlari bilan bo'lgan munosabatlariga e'tibor bermasligi mumkin. Nihoyat, ba'zi o'yinlarda zo'ravonlik mazmuni mavjud, bu bolalarning xulq-atvori va munosabatiga salbiy ta'sir ko'rsatishi mumkin.</p>\n\n<p>Xulosa qilib aytganda, kompyuter o'yinlari o'ynashning ba'zi potentsial foydalari, masalan, kognitiv qobiliyatlarni yaxshilash va ijtimoiy o'zaro ta'sir, mavjud bo'lsa-da, jismoniy salomatlik va ijtimoiy rivojlanishga salbiy ta'siri ancha muhimroq. <mark>Mening fikrimcha</mark>, ota-onalar farzandlarini sog'lom va har tomonlama rivojlanishini ta'minlash uchun sport kabi turli xil tadbirlarda ishtirok etishga undashlari muhim. Muvozanat, albatta, zarur.</p>",
+    "uzSampleBand7": "<p>Zamonaviy jamiyatda tobora ko'proq bolalar vaqtlarining katta qismini kompyuter o'yinlariga sarflamoqda, ko'pincha sport bilan shug'ullanish hisobiga. Bu tendensiya xavotirlarni uyg'otsa-da, u butunlay salbiy emas, chunki u ham kamchiliklarni, ham potentsial afzalliklarni taqdim etadi, men o'z nuqtai nazarimni bildirishdan oldin ularni o'rganaman.</p>\n\n<p>Bir tomondan, sportda ishtirokning kamayishi bolalarning jismoniy salomatligi uchun <mark>shubhasiz zararli</mark>. O'tirgan holda hayot tarzi, <mark>uzoq muddatli davrlarga xos bo'lgan</mark> o'tirish va cheklangan jismoniy faollik semirish, yurak-qon tomir kasalliklari va boshqa sog'liq muammolariga olib kelishi mumkin. Bundan tashqari, sport jamoada ishlash qobiliyatini, intizomni va chidamlilikni rivojlantirish uchun qimmatli imkoniyatlarni taqdim etadi - bu sifatlarni yolg'iz kompyuter o'yinlari orqali rivojlantirish qiyin. Misol uchun, har kuni bir necha soat video o'yinlar o'ynaydigan ukam <mark>sog'lom vaznni saqlashda</mark> qiynaladi va ko'pincha guruh faoliyatida boshqalar bilan hamkorlik qilishda qiyinchiliklarga duch keladi.</p>\n\n<p>Biroq, kompyuter o'yinlarining tobora ommalashuvi ham o'zining afzalliklariga ega. Ko'pgina zamonaviy o'yinlar shunchaki aqlsiz ko'ngil ochish emas; ular muammolarni hal qilish, strategik fikrlash va qo'l-ko'z muvofiqligi kabi kognitiv qobiliyatlarni oshirishi mumkin. Ba'zi ta'lim o'yinlari hatto murakkab tushunchalarni yanada oson va qiziqarli qilish orqali sinfdagi o'qishni to'ldirishi mumkin. Bundan tashqari, onlayn o'yin platformalari ko'pincha bolalarni turli xil kelib chiqishi va madaniyatga ega bo'lgan tengdoshlari bilan bog'laydi, <mark>global hamjamiyat tuyg'usini rivojlantiradi</mark> va muloqot qobiliyatlarini yaxshilaydi. To'g'ridan-to'g'ri parallel bo'lmasa-da, men ko'p o'yin o'ynaydigan ba'zi talabalarim muammolarni hal qilish vazifalarida tez fikrlash va moslashuvchanlikni ko'rsatishini kuzatdim.</p>\n\n<p>Xulosa qilib aytganda, bolalar o'rtasida sportda ishtirokning kamayishi jismoniy salomatlik va ijtimoiy rivojlanishga potentsial ta'siri tufayli asosli xavotir bo'lsa-da, kompyuter o'yinlarining o'sishi ham o'zining afzalliklariga ega. U kognitiv foyda va onlayn ijtimoiy o'zaro aloqa uchun imkoniyatlar taklif qilishi mumkin. <mark>Oxir-oqibat, asosiy masala</mark> muvozanatli yondashuvga erishishda, bunda bolalar ham jismoniy faollik, ham raqamli ko'ngil ochishning afzalliklaridan bahramand bo'lishlari mumkin. Menimcha, ota-onalar va o'qituvchilar bolalarni <mark>turli xil faoliyat bilan shug'ullanishga</mark> undashlari kerak, bu ularning jismoniy va aqliy jihatdan rivojlanishini ta'minlaydi.</p>",
+    "uzSampleBand8": "<p>Bolalar kompyuter o'yinlariga ko'proq vaqt ajratayotgani, ko'pincha sport hisobiga, ham tashvish, ham qabul qilishni keltirib chiqaradigan tendentsiyadir. Rad etib bo'lmaydigan kamchiliklar mavjud bo'lsa-da, bu o'zgarishning potentsial afzalliklari diqqat bilan ko'rib chiqishga arziydi. Menimcha, umuman olganda, bu rivojlanish ko'proq salbiy oqibatlarga olib keladi, garchi ijobiy jihatlarini ham e'tibordan chetda qoldirmaslik kerak.</p>\n\n<p>Bir tomondan, raqamli ko'ngilochar o'yinlarning jozibadorligi ma'lum afzalliklarni taqdim etadi. <mark>Ayniqsa</mark>, ko'plab zamonaviy o'yinlar strategik fikrlash va muammolarni hal qilish ko'nikmalarini talab qiladi. Ushbu o'yinlar bilan shug'ullanadigan bolalar <mark>o'zlarining kognitiv qobiliyatlarini oshirishi</mark>, reflekslarini rivojlantirishi va hatto onlayn multiplayer o'yinlarida ishtirok etganda jamoada ishlashni yaxshilashi mumkin. Bundan tashqari, turli xil virtual muhitlarga ta'sir qilish ularning <mark>dunyoqarashini kengaytirishi</mark> va ijodkorlikni rivojlantirishi mumkin. Misol uchun, \"Minecraft\" kabi simulyatsiya o'yinlari o'yinchilarni qurish va loyihalashga undaydi, ularning tasavvurini va fazoviy mulohazalarini rivojlantiradi. Biroq, bu afzalliklar ko'pincha bo'rttiriladi va potentsial kamchiliklarni qoplamaydi.</p>\n\n<p>Aksincha, haddan tashqari o'yin o'ynashning harakatsiz tabiati bolalarning jismoniy va ruhiy farovonligiga jiddiy xavf tug'diradi. Jismoniy faollikning etishmasligi semizlik, yurak-qon tomir kasalliklari va boshqa sog'liq muammolariga olib kelishi mumkin. Bundan tashqari, kompyuter o'yinlarining <mark>chuqur ta'sirchanligi</mark> odatga aylanishi, ijtimoiy izolyatsiya, tashvish va depressiyaga olib kelishi mumkin. Haddan tashqari ko'p vaqtini o'yin o'ynashga sarflaydigan bolalar o'qish, oilaviy munosabatlar va hayotning boshqa muhim jihatlariga e'tibor bermasligi mumkin. Misol uchun, Amerika Pediatriya Akademiyasining yaqinda o'tkazgan tadqiqoti ekran oldida haddan tashqari ko'p vaqt o'tkazish bolalar depressiyasi va tashvish darajasining oshishi bilan bog'liqligini aniqladi. Bundan tashqari, zo'ravonlik yoki nomaqbul mazmunga <mark>duchor bo'lish ehtimoli</mark> jiddiy himoya masalalarini keltirib chiqaradi. <mark>Shuning uchun zarurdirki</mark> ota-onalar bolalarining o'yin o'ynash odatlarini kuzatib borishlari va muvozanatli turmush tarzini rag'batlantirishlari kerak.</p>\n\n<p>Xulosa qilib aytganda, kompyuter o'yinlari ba'zi kognitiv va ijodiy afzalliklarni taqdim etishi mumkin bo'lsa-da, bolalarning jismoniy va ruhiy salomatligiga, shuningdek, ularning ijtimoiy rivojlanishiga potentsial salbiy ta'siri ancha muhimdir. Harakatsiz hayot tarzi, giyohvandlik va zararli mazmunga duchor bo'lish xavfi <mark>afzalliklardan ustun turadi</mark>. Shuning uchun, o'yin o'ynashning ortishi va sportda ishtirok etishning kamayishi tendentsiyasi, mening fikrimcha, asosan salbiy rivojlanishdir. Kelajak avlodlarning farovonligini ta'minlash uchun raqamli ko'ngilochar o'yinlar va jismoniy faollik o'rtasida sog'lomroq muvozanatni ta'minlash uchun <mark>birgalikdagi sa'y-harakatlar</mark> zarur. Har tomonlama rivojlangan shaxslarni tarbiyalash uchun <mark>ushbu muvozanatni saqlash</mark> muhimdir.</p>",
+    "uzSampleBand9": "<p>Bolalar orasida kompyuter o'yinlarining ortib borayotgan tarqalishi, ko'pincha sport bilan shug'ullanish hisobiga, ko'p qirrali tendentsiya bo'lib, uning ham potentsial afzalliklari, ham kamchiliklari mavjud. Harakatsiz turmush tarzi va ijtimoiy izolyatsiya haqidagi xavotirlar o'rinli bo'lsa-da, yaxshi ishlab chiqilgan kompyuter o'yinlari taqdim etishi mumkin bo'lgan kognitiv va rivojlanish afzalliklarini ham tan olish muhim. <mark>Umuman olganda</mark>, menimcha, kompyuter o'yinlariga o'tish ijobiy oqibatlarga qaraganda ko'proq salbiy oqibatlarga olib keladi.</p>\n\n<p>Bir tomondan, kompyuter o'yinlarining jozibadorligi tushunarli. Ko'pgina o'yinlar muammolarni hal qilish qobiliyatini, strategik fikrlashni va hatto qo'l-ko'z koordinatsiyasini yaxshilaydigan qiziqarli vazifalarni taklif qiladi. Misol uchun, real vaqt strategiyasi o'yinlari o'yinchilardan resurslarni boshqarishni, hujumlarni rejalashtirishni va o'zgaruvchan vaziyatlarga tezda javob berishni talab qiladi, shu bilan <mark>kognitiv qobiliyatlarini oshiradi</mark>. Bundan tashqari, onlayn multiplayer o'yinlari hamjamiyat va hamkorlik tuyg'usini rivojlantirishi, bolalarga turli xil kelib chiqishi bo'lgan tengdoshlari bilan muloqot qilish va jamoada ishlash ko'nikmalarini rivojlantirish imkonini beradi. Mening jiyanim, dastlab introvert bo'lgan, hamkorlikda dunyo qurish o'yini atrofida qurilgan onlayn o'yin hamjamiyatida ishtirok etish orqali o'ziga ishonchi ortdi va muloqot ko'nikmalarini yaxshiladi. U <mark>o'z fikrlarini ishonarli tarzda ifoda etishni</mark> va boshqalar bilan yechimlar bo'yicha muzokara olib borishni o'rgandi.</p>\n\n<p>Biroq, kompyuter o'yinlarini haddan tashqari iste'mol qilishning potentsial kamchiliklari sezilarli. Eng aniq xavotir - bu jismoniy salomatlikka ta'siri. Ekranning oldida soatlab o'tirish jismoniy faollik uchun imkoniyatlarni kamaytiradi, semirish, yurak-qon tomir kasalliklari va boshqa sog'liq muammolari xavfini oshiradi. Bundan tashqari, <mark>o'yinning immersiv xususiyati</mark> ijtimoiy izolyatsiyaga olib kelishi mumkin, chunki bolalar virtual munosabatlarni real dunyo munosabatlaridan ustun qo'yishlari mumkin. Yana bir xavotir - bu zo'ravonlik yoki yoshga mos bo'lmagan kontentga ta'sir qilish, bu bolalarni zo'ravonlikka befarq qoldirishi va ularning xatti-harakatlariga salbiy ta'sir ko'rsatishi mumkin. Amerika Psixologiya Assotsiatsiyasining yaqinda o'tkazgan tadqiqoti zo'ravonlik video o'yinlariga uzoq vaqt ta'sir qilish va o'smirlarda tajovuzkorlikning kuchayishi o'rtasidagi <mark>bog'liqlikni ta'kidlaydi</mark>.</p>\n\n<p>Xulosa qilib aytganda, kompyuter o'yinlari ma'lum kognitiv va ijtimoiy afzalliklarni taqdim etishi mumkin bo'lsa-da, jismoniy salomatlik, ijtimoiy rivojlanish va psixologik farovonlik uchun potentsial xavflar bu afzalliklarni ortda qoldiradi. Shuning uchun ota-onalar va o'qituvchilar jismoniy faollik, ijtimoiy aloqa va boshqa boyituvchi tajribalarni o'z ichiga olgan muvozanatli turmush tarzini rag'batlantirishlari, bolalar o'yin-kulgi va qoniqish uchun virtual dunyoga <mark>haddan tashqari bog'lanib qolmasliklarini</mark> ta'minlashlari kerak. Oxir oqibat, <mark>bolaning rivojlanishiga yaxlit yondashuv</mark>, jismoniy va ruhiy farovonlikni birinchi o'ringa qo'yish, raqamli davrning muammolarini hal qilishda muhim ahamiyatga ega. <mark>Ushbu muvozanatni saqlash</mark> bolalarga texnologiyaning potentsial kamchiliklariga duch kelmasdan, uning afzalliklaridan foydalanish imkonini beradi. Kalit, ko'p narsalarda bo'lgani kabi, mo'tadillikda va raqamli dunyo bilan <mark>ongli ravishda aloqada bo'lishda</mark>. <mark>Bizning zimmamizga</mark> yosh avlodni texnologiya ularning umumiy farovonligini kamaytirmasdan, balki oshiradigan kelajakka yo'naltirish yuklatilgan.</p>"
+   }
+  },
+  "source": "Actual exam 2021-09-30",
+  "examDate": "2021-09-30",
+  "settings": {
+   "logoUrl": "https://audio.mock-stream.com/img/ibb/WN0XY5Lv/logo.png",
+   "timeInfo": "⏱ Total time: 60 minutes | Task 1: 20 min (150 words) | Task 2: 40 min (250 words)",
+   "logoWording": "Mock Stream",
+   "moduleTitle": "Academic Writing Module",
+   "testIdentifier": "IELTS Mock 01"
+  },
+  "vocabulary": {
+   "task1": [],
+   "task2": []
+  },
+  "tokenTranslations": {
+   "Notably": {
+    "uz": "E'tiborga molik",
+    "type": "linking"
+   },
+   "In summary": {
+    "uz": "Xulosa qilib aytganda",
+    "type": "linking"
+   },
+   "On balance": {
+    "uz": "Umuman olganda",
+    "type": "linking"
+   },
+   "a bit risky": {
+    "uz": "Biroz xavfli",
+    "type": "colloc"
+   },
+   "less common": {
+    "uz": "Kamroq tarqalgan",
+    "type": "academic"
+   },
+   "It is better": {
+    "uz": "Bu yaxshiroq",
+    "type": "academic"
+   },
+   "make friends": {
+    "uz": "Do'st orttirish",
+    "type": "colloc"
+   },
+   "In my opinion": {
+    "uz": "Mening fikrimcha",
+    "type": "linking"
+   },
+   "This suggests": {
+    "uz": "Bu shuni ko'rsatadi",
+    "type": "linking"
+   },
+   "not as common": {
+    "uz": "U qadar keng tarqalgan emas",
+    "type": "academic"
+   },
+   "stable demand": {
+    "uz": "Barqaror talab",
+    "type": "academic"
+   },
+   "stark contrast": {
+    "uz": "Keskin farq",
+    "type": "academic"
+   },
+   "hovering between": {
+    "uz": "... o'rtasida tebranib turish",
+    "type": "academic"
+   },
+   "immersive nature": {
+    "uz": "To'liq qamrab oluvchi xususiyat",
+    "type": "academic"
+   },
+   "more even spread": {
+    "uz": "Yana ham tekis tarqalish",
+    "type": "academic"
+   },
+   "notable disparity": {
+    "uz": "E'tiborga molik tafovut",
+    "type": "academic"
+   },
+   "A concerted effort": {
+    "uz": "Kelishilgan harakat",
+    "type": "colloc"
+   },
+   "mindful engagement": {
+    "uz": "Ongli ishtirok",
+    "type": "academic"
+   },
+   "can affect children": {
+    "uz": "bolalarga ta'sir qilishi mumkin",
+    "type": "academic"
+   },
+   "can help to improve": {
+    "uz": "yaxshilanishga yordam berishi mumkin",
+    "type": "academic"
+   },
+   "most people live in": {
+    "uz": "Ko'pchilik ...da yashaydi",
+    "type": "academic"
+   },
+   "to learn new things": {
+    "uz": "Yangi narsalarni o'rganish",
+    "type": "academic"
+   },
+   "Overall, it is clear": {
+    "uz": "Umuman olganda, bu aniq",
+    "type": "linking"
+   },
+   "The table delineates": {
+    "uz": "Jadval tasvirlaydi",
+    "type": "academic"
+   },
+   "becoming more common": {
+    "uz": "keng tarqalmoqda",
+    "type": "academic"
+   },
+   "dwarfing the figures": {
+    "uz": "Raqamlarni mitti qilib ko'rsatadi",
+    "type": "academic"
+   },
+   "immediately apparent": {
+    "uz": "Darhol ko'rinib turadi",
+    "type": "academic"
+   },
+   "inverse relationship": {
+    "uz": "Teskariga aloqa",
+    "type": "academic"
+   },
+   "more than the others": {
+    "uz": "Boshqalarga qaraganda ko'proq",
+    "type": "academic"
+   },
+   "substantial majority": {
+    "uz": "Ancha katta ko'pchilik",
+    "type": "academic"
+   },
+   "Striking this balance": {
+    "uz": "Ushbu muvozanatni saqlash",
+    "type": "academic"
+   },
+   "balanced distribution": {
+    "uz": "muvozanatli taqsimot",
+    "type": "academic"
+   },
+   "broaden their horizons": {
+    "uz": "Ufqlarini kengaytirish",
+    "type": "idiom"
+   },
+   "potential for exposure": {
+    "uz": "Ta'sir qilish potentsiali",
+    "type": "academic"
+   },
+   "It is incumbent upon us": {
+    "uz": "Bu bizning burchimiz",
+    "type": "academic"
+   },
+   "outweigh the advantages": {
+    "uz": "Afzalliklardan ustun keladi",
+    "type": "academic"
+   },
+   "Regarding the rural area": {
+    "uz": "Qishloq hududiga kelsak",
+    "type": "linking"
+   },
+   "become overly reliant on": {
+    "uz": "...ga haddan tashqari bog'lanib qolish",
+    "type": "academic"
+   },
+   "predominant housing type": {
+    "uz": "Ustun bo'lgan uy-joy turi",
+    "type": "academic"
+   },
+   "Area C is a bit different": {
+    "uz": "C hududi biroz farq qiladi",
+    "type": "academic"
+   },
+   "The other types of houses": {
+    "uz": "Uylarning boshqa turlari",
+    "type": "academic"
+   },
+   "is undeniably detrimental": {
+    "uz": "Shubhasiz zararli",
+    "type": "academic"
+   },
+   "maintain a healthy weight": {
+    "uz": "Sog'lom vaznni saqlash",
+    "type": "colloc"
+   },
+   "percentage of individuals": {
+    "uz": "Shaxslarning foizi",
+    "type": "academic"
+   },
+   "It is therefore imperative": {
+    "uz": "Shuning uchun bu juda muhim",
+    "type": "academic"
+   },
+   "if they are too focused on": {
+    "uz": "Agar ular juda ko'p e'tibor qaratishsa",
+    "type": "academic"
+   },
+   "Ultimately, the key lies in": {
+    "uz": "Oxir-oqibat, yechim ...da",
+    "type": "academic"
+   },
+   "elucidates the distribution": {
+    "uz": "Taqsimotni aniqlashtiradi",
+    "type": "academic"
+   },
+   "underscores the correlation": {
+    "uz": "Korrelatsiyani ta'kidlaydi",
+    "type": "academic"
+   },
+   "albeit with some fluctuation": {
+    "uz": "garchi biroz tebranishlar bilan bo'lsa ham",
+    "type": "academic"
+   },
+   "illustrates the distribution": {
+    "uz": "Taqsimotni ko'rsatadi",
+    "type": "academic"
+   },
+   "Townhouses are not very common": {
+    "uz": "Taundhauslar unchalik keng tarqalgan emas",
+    "type": "academic"
+   },
+   "considerably larger proportion": {
+    "uz": "Ancha katta ulush",
+    "type": "academic"
+   },
+   "hone their cognitive abilities": {
+    "uz": "Kognitiv qobiliyatlarini charxlash",
+    "type": "academic"
+   },
+   "relatively consistent presence": {
+    "uz": "Nisbatan barqaror mavjudlik",
+    "type": "academic"
+   },
+   "the immersive nature of gaming": {
+    "uz": "O'yinlarning to'liq qamrab oluvchi xususiyati",
+    "type": "academic"
+   },
+   "articulate his ideas persuasively": {
+    "uz": "o'z fikrlarini ishonarli tarzda ifodalash",
+    "type": "academic"
+   },
+   "engage in a variety of activities": {
+    "uz": "Turli xil faoliyatlar bilan shug'ullanish",
+    "type": "academic"
+   },
+   "occupies an intermediate position": {
+    "uz": "Oraliq pozitsiyani egallaydi",
+    "type": "academic"
+   },
+   "characterised by prolonged periods": {
+    "uz": "Uzoq davrlar bilan xarakterlanadi",
+    "type": "academic"
+   },
+   "exhibit a clear geographical trend": {
+    "uz": "Aniq geografik tendentsiyani namoyon etadi",
+    "type": "academic"
+   },
+   "with the development of technology": {
+    "uz": "Texnologiyaning rivojlanishi bilan",
+    "type": "linking"
+   },
+   "polarisation in housing preferences": {
+    "uz": "Uy-joy afzalliklarida qutblanish",
+    "type": "academic"
+   },
+   "preference for houses varies notably": {
+    "uz": "Uylarga bo'lgan afzallik sezilarli darajada farq qiladi",
+    "type": "academic"
+   },
+   "sharpening their cognitive abilities": {
+    "uz": "Kognitiv qobiliyatlarini charxlash",
+    "type": "academic"
+   },
+   "fostering a sense of global community": {
+    "uz": "Global hamjamiyat tuyg'usini rivojlantirish",
+    "type": "academic"
+   },
+   "a holistic approach to child development": {
+    "uz": "Bolalar rivojlanishiga yaxlit yondashuv",
+    "type": "academic"
+   }
+  }
+ },
+ "created_at": "2026-05-06T10:06:40.301809+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

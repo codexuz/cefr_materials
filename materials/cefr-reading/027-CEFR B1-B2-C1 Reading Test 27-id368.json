@@ -1,0 +1,661 @@
+{
+ "id": 368,
+ "mock_type": "cefr-reading",
+ "mock_number": 27,
+ "title": "CEFR B1-B2-C1 Reading Test 27",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "gap-fill-text",
+    "title": "Part 1",
+    "answers": {
+     "1": [
+      "Body"
+     ],
+     "2": [
+      "Bacteria"
+     ],
+     "3": [
+      "Immature"
+     ],
+     "4": [
+      "Cells"
+     ],
+     "5": [
+      "Armadillos"
+     ],
+     "6": [
+      "Leprosy"
+     ],
+     "7": [
+      "Livers"
+     ],
+     "8": [
+      "Liver"
+     ]
+    },
+    "passage": {
+     "title": "Can armadillos show us how to regrow a liver?",
+     "content": "<p>What if we could make our <span class=\"gap\" data-gap=\"1\">_____(1)_____</span>'s old or sick cells act young again? Surprisingly, the <span class=\"gap\" data-gap=\"2\">_____(2)_____</span> that cause leprosy may show us how. Previously, we discovered that infecting cells with leprosy bacteria in a laboratory dish “reprogrammed” the cells back to an <span class=\"gap\" data-gap=\"3\">_____(3)_____</span> state. The cells may then be able to produce many different types of <span class=\"gap\" data-gap=\"4\">_____(4)_____</span> in the body – and maybe even regenerate an organ.</p><p>To test this in an actual animal, we infected nine-banded <span class=\"gap\" data-gap=\"5\">_____(5)_____</span> with <span class=\"gap\" data-gap=\"6\">_____(6)_____</span> bacteria. We compared their livers to the livers of uninfected armadillos. The livers of armadillos infected with leprosy were larger than those of uninfected armadillos. Importantly, these larger <span class=\"gap\" data-gap=\"7\">_____(7)_____</span> were healthy, with no signs of damage. We performed genetic analyses on the liver cells to determine which genes were active. Our results show that leprosy infection “reprograms” adult liver cells to make them resemble immature <span class=\"gap\" data-gap=\"8\">_____(8)_____</span> cells. Maybe someday we can adapt this natural process to regrow aging and damaged livers in humans.</p>"
+    },
+    "questions": [
+     {
+      "id": 1,
+      "hint": "make our _____'s old or sick cells"
+     },
+     {
+      "id": 2,
+      "hint": "the _____ that cause leprosy"
+     },
+     {
+      "id": 3,
+      "hint": "reprogrammed the cells back to an _____ state"
+     },
+     {
+      "id": 4,
+      "hint": "produce many different types of _____"
+     },
+     {
+      "id": 5,
+      "hint": "we infected nine-banded _____"
+     },
+     {
+      "id": 6,
+      "hint": "infected ... with _____ bacteria"
+     },
+     {
+      "id": 7,
+      "hint": "these larger _____ were healthy"
+     },
+     {
+      "id": 8,
+      "hint": "resemble immature _____ cells"
+     }
+    ],
+    "partNumber": 1,
+    "instruction": "Read the text. Fill in each gap with ONE word. You must use a word which is somewhere in the rest of the text.",
+    "explanations": {
+     "q1": {
+      "text": "The sentence introduces the idea of rejuvenating old or sick cells. These cells belong to a person or animal, so the word 'body' is the most logical choice to complete the phrase. That's why the correct answer is 'Body'.",
+      "quote": "The cells may then be able to produce many different types of _____(4)_____ in the body – and maybe even regenerate an organ."
+     },
+     "q2": {
+      "text": "The passage later clarifies what causes the disease leprosy. It states that scientists infected cells with 'leprosy bacteria,' directly identifying the infectious agent. That's why the correct answer is 'bacteria'.",
+      "quote": "Previously, we discovered that infecting cells with leprosy bacteria in a laboratory dish “reprogrammed” the cells back to an _____(3)_____ state."
+     },
+     "q3": {
+      "text": "The passage explains that the infection 'reprograms' adult cells. The text later clarifies this by stating the reprogrammed cells 'resemble immature' cells, meaning they were returned to a less developed state. That's why the correct answer is 'immature'.",
+      "quote": "Our results show that leprosy infection “reprograms” adult liver cells to make them resemble immature _____(8)_____ cells."
+     },
+     "q4": {
+      "text": "The passage explains that reprogrammed cells can create new things to regenerate organs. Since the basic building blocks of organs are cells, it makes sense that the reprogrammed cells can produce different types of cells. That's why the correct answer is 'cells'.",
+      "quote": "The cells may then be able to produce many different types of _____(4)_____ in the body – and maybe even regenerate an organ."
+     },
+     "q5": {
+      "text": "The text describes an experiment conducted on a specific animal. The next sentence clarifies the animal's identity by comparing the infected subjects to 'uninfected armadillos.' That's why the correct answer is 'armadillos'.",
+      "quote": "We compared their livers to the livers of uninfected armadillos."
+     },
+     "q6": {
+      "text": "The passage focuses on the effects of a specific disease. The following sentence confirms the type of infection by stating that the livers of 'armadillos infected with leprosy' were studied. That's why the correct answer is 'leprosy'.",
+      "quote": "The livers of armadillos infected with leprosy were larger than those of uninfected armadillos."
+     },
+     "q7": {
+      "text": "The previous sentences specifically discuss the livers of the armadillos, noting that the infected ones had larger ones. This sentence continues the description of those specific organs. That's why the correct answer is 'livers'.",
+      "quote": "The livers of armadillos infected with leprosy were larger than those of uninfected armadillos."
+     },
+     "q8": {
+      "text": "The analysis was performed specifically on 'liver cells' from the armadillos. The results show these adult cells were reprogrammed to be like their younger versions, which would be immature liver cells. That's why the correct answer is 'liver'.",
+      "quote": "We performed genetic analyses on the liver cells to determine which genes were active."
+     }
+    },
+    "questionRange": "1-8"
+   },
+   {
+    "type": "matching",
+    "texts": [
+     {
+      "title": "Q9",
+      "number": 9,
+      "content": "This app can be used for more than one sport."
+     },
+     {
+      "title": "Q10",
+      "number": 10,
+      "content": "You have to pay if you want this app to suggest where you can go."
+     },
+     {
+      "title": "Q11",
+      "number": 11,
+      "content": "This app has well-presented visuals."
+     },
+     {
+      "title": "Q12",
+      "number": 12,
+      "content": "You do not have to pay for any of the features on this app."
+     },
+     {
+      "title": "Q13",
+      "number": 13,
+      "content": "You can pay to download true stories on this app."
+     },
+     {
+      "title": "Q14",
+      "number": 14,
+      "content": "You can get ideas about where to go from other people on this app."
+     },
+     {
+      "title": "Q15",
+      "number": 15,
+      "content": "This app gives you details of the energy you have used."
+     }
+    ],
+    "title": "Part 2",
+    "answers": {
+     "9": [
+      "C"
+     ],
+     "10": [
+      "D"
+     ],
+     "11": [
+      "D"
+     ],
+     "12": [
+      "A"
+     ],
+     "13": [
+      "B"
+     ],
+     "14": [
+      "C"
+     ],
+     "15": [
+      "A"
+     ]
+    },
+    "questions": [
+     {
+      "id": 9,
+      "textNumber": 9
+     },
+     {
+      "id": 10,
+      "textNumber": 10
+     },
+     {
+      "id": 11,
+      "textNumber": 11
+     },
+     {
+      "id": 12,
+      "textNumber": 12
+     },
+     {
+      "id": 13,
+      "textNumber": 13
+     },
+     {
+      "id": 14,
+      "textNumber": 14
+     },
+     {
+      "id": 15,
+      "textNumber": 15
+     }
+    ],
+    "partNumber": 2,
+    "statements": [
+     {
+      "text": "Pacer — Although they were previously split into ‘pro’ and ‘free’ versions, Pacer’s developer now generously includes all the features in one free app. That means you can spend no money, yet use your smartphone’s GPS capabilities to track your jogging routes, and examine details of your pace and calories burned.",
+      "letter": "A"
+     },
+     {
+      "text": "Beat2 — There is a wealth of running apps available, but Beat2 is a good one. This free app monitors your pace – or if you have a wrist or chest-based heart rate monitor, your beats per minute – and offers up its specially curated playlists to give you the perfect music for the pace you’re running at, adding a whole new dimension to your run. The best bit is when you explode into a sprint and the music pounds in your ears. Or if you fancy something different, the app also has In-App Purchases, including tales of past sporting heroes you can listen to while you run.",
+      "letter": "B"
+     },
+     {
+      "text": "Impel — If you’re serious about the sport you do, then you should be serious about Impel. As smartphone fitness tools go it’s one of the best, allowing you to track your performance, set goals and see daily progress updates. If you’re ever not sure where to run or cycle you can find user-created routes on the app, or share your own. All of that comes free of charge, while a premium version adds even more tools.",
+      "letter": "C"
+     },
+     {
+      "text": "Fast Track — There are plenty of GPS running apps for smartphones, but Fast Track is an excellent freebie. Although you naturally get more features if you pay for the ‘pro’ version, the free release gets you GPS tracking, a nicely designed map view, your training history, music, and cheering. Yes, you read the last of those right – you can have friends cheer you on as you huff and puff during a run. If you can afford the ‘pro’ version, you can add possible routes, voice coaches, smartwatch connectivity and more; but as a starting point, the free app gets you moving.",
+      "letter": "D"
+     }
+    ],
+    "instruction": "Look at the four reviews of smartphone fitness apps, A-D. For which app are the following statements true? Write the correct letter, A-D. You may use any letter more than once.",
+    "explanations": {
+     "q9": {
+      "text": "The description for Impel mentions that you can find routes for both running and cycling, showing it is for more than one sport. That's why the correct answer is C.",
+      "quote": ""
+     },
+     "q10": {
+      "text": "The description for Fast Track states that the paid 'pro' version adds 'possible routes,' meaning you must pay for the app to suggest places to go. That's why the correct answer is D.",
+      "quote": ""
+     },
+     "q11": {
+      "text": "The description for Fast Track mentions that the free version includes a 'nicely designed map view,' which refers to its well-presented visuals. That's why the correct answer is D.",
+      "quote": ""
+     },
+     "q12": {
+      "text": "The description for Pacer says the developer 'now generously includes all the features in one free app,' meaning everything is available without payment. That's why the correct answer is A.",
+      "quote": ""
+     },
+     "q13": {
+      "text": "The description for Beat2 mentions that it offers 'In-App Purchases, including tales of past sporting heroes,' which are true stories you can pay to listen to. That's why the correct answer is B.",
+      "quote": ""
+     },
+     "q14": {
+      "text": "The description for Impel says you can find 'user-created routes,' which are ideas for where to go that have been shared by other people using the app. That's why the correct answer is C.",
+      "quote": ""
+     },
+     "q15": {
+      "text": "The description for Pacer states that you can use the app to 'examine details of your pace and calories burned,' which is a measure of energy used. That's why the correct answer is A.",
+      "quote": ""
+     }
+    },
+    "questionRange": "9-15",
+    "extraStatements": [],
+    "statementsFirst": true
+   },
+   {
+    "type": "matching-headings",
+    "title": "Part 3",
+    "answers": {
+     "16": [
+      "vi"
+     ],
+     "17": [
+      "vii"
+     ],
+     "18": [
+      "i"
+     ],
+     "19": [
+      "iv"
+     ],
+     "20": [
+      "v"
+     ]
+    },
+    "passage": {
+     "title": "Is There Anybody Out There? – The Search For Extra-Terrestrial Intelligence",
+     "paragraphs": [
+      {
+       "number": "A",
+       "content": "Our basic curiosity is being the fundamental reason for human search. This same curiosity about the natural world drives all pure science. We are curious about whether we are alone in the universe. We are having a drive to know if the right conditions are enough to bring out life or is there anything special about earth which fostered a variety of life forms that we are seeing around us. The simple detection of radio signals is enough to satisfy our curiosity. In this way, we can say that SETI is part of the pure science machinery which is continually expanding the horizons of knowledge. There are other reasons also why we are inquiring whether life exists elsewhere. For example, Civilization on earth started only about a few thousand years ago only but our survival disturbed because of pollution and nuclear war that has happened over the last few decades. Can we survive for a few more years or we’ll be dead. The lifetime of a planet is about several billion years. If any other civilization survived in our galaxy, then their ages will range from zero to several billion years. We’ll have a positive note just by knowing the existence of such civilizations as proof of long-term survival is possible. We might also gain some lessons on how to tackle the threats like nuclear war or global pollution and the threat that we have not encountered as of now, from the experience of older civilization.",
+       "questionId": 16
+      },
+      {
+       "number": "B",
+       "content": "Most SETI scientists have two ground rules, in the discussion of whether we are alone in the universe. First, most of the scientists ignore UFOs (Unidentified Flying Objects) as they don’t have strong evidence, which can be considered seriously. It is still important to have an open mind since any convincing evidence could emerge in future. Second, we have a conservative belief that we are looking for a life form which is similar to ours, so it is difficult to recognize the life form as a life form if it does not resemble us. To put it another way, the life form we are looking for might have blue heads and five legs, still, it nevertheless has similarities to us in that it must communicate with its fellows. It could be interested in the universe, living in a planet orbiting a star like our Sun, and likely it has chemistry based on carbon and water.",
+       "questionId": 17
+      },
+      {
+       "number": "C",
+       "content": "Though we are making these sorts of assumptions, we have a limited understanding about other life forms. For example, we are lacking knowledge about how many stars have planets or how likely life arises naturally, given the appropriate conditions. When we look at the 100 billion stars in our galaxy and 100 billion galaxies, it is impossible to believe that at least one of the planets does not have a life form on it. Guessing based on our limited knowledge about the conditions for carbon-based life, we can estimate that probably one in 100,000 stars might have a life-bearing planet orbiting it. Perhaps, our nearest neighbour could be a thousand light years away. It is almost like a next door in astronomical terms.",
+       "questionId": 18
+      },
+      {
+       "number": "D",
+       "content": "An alien civilization could send information by using a variety of ways, across the galaxy. But, either it requires too much energy to send the information or it could be disturbed while travelling through the vast distances across the galaxy. In the frequency range of 1000 to 3000 MHz, radio waves travel the greatest distance. To date, All searches have focused on looking for radio waves in this frequency range. For now, there have been a number of searches done by various groups, like Australian searches using the radio telescope at Parkes, New South Wales. Still now, nothing is detected from the few hundred stars which have been searched. Since 1992, the scale of searches has increased tremendously, as the US Congress voted NASA $10 million per year for ten years to perform a thorough search for extra-terrestrial life. For this project, a lot of money is being spent on developing the special hardware required to search multiple frequencies at the same time. The project constitutes two parts. First part is a targeted search by the means of world’s largest radio telescopes. The American operated telescope in Arecibo and the French telescope in France. This part of the project is searching for the signals in the frequency range of 1000 to 3000 MHz, in the nearest 1000 stars. The second part of the project is an undirected search which monitors all of the space with a lower one using the NASA Deep Space Network’s smaller antennas.",
+       "questionId": 19
+      },
+      {
+       "number": "E",
+       "content": "There is a substantial amount of debate happening based on how we must react if we detect a signal from an alien civilization. Everyone agrees that we must not respond immediately. Even if it is not possible to send a reply for a long distance at short notice, there are ethical questions emerging that should be addressed by the global community before sending the reply. Is it that we face a cultural shock if we encounter a superior and much older civilization? Fortunately, there is no urgency about this. We are searching for stars which are hundreds of light years away. So, it takes hundreds of years of time for their signal to reach us. And, it will take a further few hundred years for our reply to reach them. Therefore, it is not important whether there is a delay of a few years or decades, while the human race debates about whether to reply to them or perhaps draft a reply carefully.",
+       "questionId": 20
+      }
+     ]
+    },
+    "headings": [
+     {
+      "text": "Limitations in Human Understanding",
+      "letter": "i"
+     },
+     {
+      "text": "Great Astronomers",
+      "letter": "ii"
+     },
+     {
+      "text": "What should humans do if they got the signal from an alien civilization",
+      "letter": "iii"
+     },
+     {
+      "text": "Project for searching for the aliens' signals",
+      "letter": "iv"
+     },
+     {
+      "text": "How telescope contributes for finding the signals of alien civilization",
+      "letter": "v"
+     },
+     {
+      "text": "How finding alien civilization can help humans",
+      "letter": "vi"
+     },
+     {
+      "text": "Ground rules of SETI scientists",
+      "letter": "vii"
+     }
+    ],
+    "questions": [
+     {
+      "id": 16,
+      "text": "Paragraph A"
+     },
+     {
+      "id": 17,
+      "text": "Paragraph B"
+     },
+     {
+      "id": 18,
+      "text": "Paragraph C"
+     },
+     {
+      "id": 19,
+      "text": "Paragraph D"
+     },
+     {
+      "id": 20,
+      "text": "Paragraph E"
+     }
+    ],
+    "partNumber": 3,
+    "instruction": "Read the text and choose the correct heading for each paragraph from the list of headings below. There are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once.",
+    "explanations": {
+     "q16": {
+      "text": "This paragraph explains that we could learn lessons from older civilizations on how to handle threats like nuclear war and pollution, which would help ensure our own long-term survival. That's why the correct answer is vi.",
+      "quote": "We might also gain some lessons on how to tackle the threats like nuclear war or global pollution and the threat that we have not encountered as of now, from the experience of older civilization."
+     },
+     "q17": {
+      "text": "The paragraph explicitly states the two main principles that guide most SETI scientists in their work, such as ignoring UFOs and looking for life forms that are similar to our own. That's why the correct answer is vii.",
+      "quote": "Most SETI scientists have two ground rules, in the discussion of whether we are alone in the universe."
+     },
+     "q18": {
+      "text": "This paragraph highlights the gaps in our knowledge, stating that we have a limited understanding of other life forms and lack key information, such as how many stars have planets suitable for life. That's why the correct answer is i.",
+      "quote": "Though we are making these sorts of assumptions, we have a limited understanding about other life forms."
+     },
+     "q19": {
+      "text": "This paragraph describes a specific, large-scale search effort funded by the US Congress and run by NASA, which is designed to be a thorough search for extra-terrestrial life using special hardware. That's why the correct answer is iv.",
+      "quote": "Since 1992, the scale of searches has increased tremendously, as the US Congress voted NASA $10 million per year for ten years to perform a thorough search for extra-terrestrial life."
+     },
+     "q20": {
+      "text": "This paragraph explains that the world's largest radio telescopes are a key part of the search project, used to conduct a targeted search for signals from the nearest 1000 stars. That's why the correct answer is v.",
+      "quote": "First part is a targeted search by the means of world’s largest radio telescopes."
+     }
+    },
+    "extraHeadings": [
+     "ii",
+     "iii"
+    ],
+    "questionRange": "16-20"
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 4",
+    "answers": {
+     "21": [
+      "False",
+      "B"
+     ],
+     "22": [
+      "False",
+      "B"
+     ],
+     "23": [
+      "Not Given",
+      "C"
+     ],
+     "24": [
+      "True",
+      "A"
+     ],
+     "25": [
+      "True",
+      "A"
+     ],
+     "26": [
+      "True",
+      "A"
+     ],
+     "27": [
+      "C"
+     ]
+    },
+    "passage": {
+     "title": "Is Science Dangerous?",
+     "content": "<p><em>Wolpert, Lewis. \"Is science dangerous?.\" Journal of molecular biology 319.4 (2002): 969-972.</em></p><p>The idea that scientific knowledge is dangerous is deeply embedded in our culture. Adam and Eve were forbidden to eat from the Tree of Knowledge, and in Milton’s Paradise Lost the serpent addresses the tree as the ‘Mother of Science’. Indeed the whole of western literature has not been kind to scientists and is filled with images of them meddling with nature with disastrous results. Just consider Shelley’s Frankenstein, Goethe’s Faust and Huxley’s Brave New World. One will search with very little success for a novel in which scientists come out well – the persistent image is that of scientists as a soulless group unconcerned with ethical issues. And where is there a film sympathetic to science?</p><p>Part of the problem is the conflation of science and technology. The distinction between science and technology, between knowledge and understanding on the one hand and the application of that knowledge to making something, or using it in some practical way, is fundamental.</p><p>Science produces ideas about how the world works, whereas the ideas in technology result in usable objects. Technology is much older than anything one could regard as science and unaided by any science. Technology gave rise to the crafts of early humans, like agriculture and metalworking. It is technology that carries with it ethical issues, from motorcar production to cloning a human.</p><p>By contrast, reliable scientific knowledge is value-free and has no moral or ethical value. Science merely tells us how the world is. That we are not at the centre of the universe is neither good nor bad, nor is the possibility that genes can influence our intelligence or our behaviour.</p><p>The social obligations that scientists have as distinct from those responsibilities they share with all citizens comes from them having access to specialised knowledge of how the world works, not easily accessible to others. Their obligation is to both make public any social implications of their work and its possible applications and to give some assessment of its reliability.</p><p>It is not easy to find examples of scientists as a group behaving immorally or in a dangerous manner, the classic paradigm being the eugenics movement. The scientific assumptions behind this proposal are crucial; the assumption is that most desirable and undesirable human attributes are inherited. Not only was talent perceived of as being inherited, but so too were insanity and any kind of so-called feeblemindedness. They completely failed to give an assessment of the reliability of their ideas. Quite the contrary, and even more blameworthy, their conclusions seem to have been driven by what they saw as the desirable social implications. By contrast, in relation to the building of the atomic bomb, scientists behaved morally and fulfilled their social obligations by informing their governments about the implications of atomic theory. It was an enormous engineering feat to build the bomb but the decision to do this was taken by politicians, not scientists.</p><p>The moralists have been out in force telling us of the horrors of cloning. Many others, national leaders included, have joined in a chorus of horror. But what horrors? What ethical issues? In all the righteous indignation not a single relevant new ethical issue has been spelled out.</p><p>Those who propose to clone a human are medical technologists not scientists. It is not, as the bio-moralists claim, that scientific innovation has outstripped our social and moral codes. Just the opposite is the case. Their obsession with the life of the embryo has deflected our attention away from the real issue, which is how children are raised and nurtured. The ills in our society have nothing to do with assisting or preventing reproduction but are profoundly affected by how children are treated.</p><p>So what danger does genetics pose? Gene therapy, introducing genes to cure a genetic disease like cystic fibrosis, carries risks, as do all new medical treatments. There may well be problems with the testing of new treatments, but are these difficulties any different from those related to trying out new drugs for AIDS? Anxieties about creating designer babies are at present premature as it is too risky, and we may have, in the first instance, to accept what has been called procreative autonomy, a couple’s right to control their own role in reproduction unless the state has a compelling reason for denying them that control. Should the ethical issues relating to the applications of genetics, for example, lead to stopping research in this field? The individual scientist cannot decide, for science, like genetics, is a collective activity with no single individual controlling the process of discovery. It is ethically unacceptable and impractical to censor any aspect of trying to understand the nature of our world.</p>"
+    },
+    "partNumber": 4,
+    "instruction": "Read the following text for questions 21-27.",
+    "explanations": {
+     "q21": {
+      "text": "The author asks where a film sympathetic to science can be found, which implies that films about science do exist, but they are generally not positive. Therefore, the statement is false. That's why the correct answer is B.",
+      "quote": "And where is there a film sympathetic to science?"
+     },
+     "q22": {
+      "text": "The passage describes science as a \"collective activity\" where no single person controls the process. This means scientists do work together, making the statement false. That's why the correct answer is B.",
+      "quote": "The individual scientist cannot decide, for science, like genetics, is a collective activity with no single individual controlling the process of discovery."
+     },
+     "q23": {
+      "text": "The passage discusses the ethics of cloning and a couple's right to control reproduction, but it does not mention whether parents currently want cloned children. That's why the correct answer is C.",
+      "quote": ""
+     },
+     "q24": {
+      "text": "The text explicitly states that technology existed long before science and developed without its help, giving examples like agriculture and metalworking. That's why the correct answer is A.",
+      "quote": "Technology is much older than anything one could regard as science and unaided by any science."
+     },
+     "q25": {
+      "text": "The author mentions a \"chorus of horror\" from many people, including national leaders, regarding the idea of cloning. This shows it is widely seen as undesirable. That's why the correct answer is A.",
+      "quote": "Many others, national leaders included, have joined in a chorus of horror."
+     },
+     "q26": {
+      "text": "The author states that the difference between science (knowledge) and technology (application) is \"fundamental,\" meaning it is essential to view them separately. That's why the correct answer is A.",
+      "quote": "The distinction between science and technology, between knowledge and understanding on the one hand and the application of that knowledge to making something, or using it in some practical way, is fundamental."
+     },
+     "q27": {
+      "text": "The passage makes the general statement that science's role is to explain the world as it is. The other options are specific examples or related ideas, but this is the core definition given. That's why the correct answer is C.",
+      "quote": "Science merely tells us how the world is."
+     }
+    },
+    "questionRange": "21-27",
+    "questionSections": [
+     {
+      "type": "tfni",
+      "title": "Questions 21-26: True/False/Not Given",
+      "options": [
+       "True",
+       "False",
+       "Not Given"
+      ],
+      "questions": [
+       {
+        "id": 21,
+        "text": "The film industry does not make films about science."
+       },
+       {
+        "id": 22,
+        "text": "Scientists do not work in unison when deciding what needs to be researched."
+       },
+       {
+        "id": 23,
+        "text": "Parents want to have cloned children now."
+       },
+       {
+        "id": 24,
+        "text": "Technology was important before the development of science."
+       },
+       {
+        "id": 25,
+        "text": "Many people consider cloning to be undesirable."
+       },
+       {
+        "id": 26,
+        "text": "Science and Technology must be seen as separate entities."
+       }
+      ],
+      "instruction": "Do the following statements agree with the information given in the Reading Passage?",
+      "questionRange": "21-26"
+     },
+     {
+      "type": "mcq",
+      "title": "Question 27: Multiple Choice",
+      "questions": [
+       {
+        "id": 27,
+        "text": "According to the writer, Science shows us",
+        "options": [
+         {
+          "text": "our position in the universe.",
+          "letter": "A"
+         },
+         {
+          "text": "how intelligence affects our behavior.",
+          "letter": "B"
+         },
+         {
+          "text": "what the world is really like.",
+          "letter": "C"
+         },
+         {
+          "text": "scientists have special social obligations.",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "Choose the correct letter, A, B, C or D.",
+      "questionRange": "27"
+     }
+    ]
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 5",
+    "answers": {
+     "28": [
+      "Budget"
+     ],
+     "29": [
+      "Scope creep"
+     ],
+     "30": [
+      "Skills"
+     ],
+     "31": [
+      "Communication",
+      "Clear communication"
+     ],
+     "32": [
+      "Milestones",
+      "Interim milestones"
+     ],
+     "33": [
+      "Project"
+     ],
+     "34": [
+      "Contingency plans"
+     ],
+     "35": [
+      "Report"
+     ]
+    },
+    "passage": {
+     "title": "How to run a successful project",
+     "content": "<p>A project manager’s main task is to bring a particular project to completion, both on time and within budget. There are many factors that can cause a project to veer off its tracks, but steps can be taken to ensure that your project experiences as little disruption as possible.</p><p><strong>1 Prepare the framework</strong></p><p>If you get everything down in writing at the beginning of the project, you have an excellent foundation to build upon. Change is inevitable, but you have to maintain control. This is critical to avoid problems of ‘scope creep’, which is when the company paying for the project asks for ‘just one more little thing’ repeatedly, until the project becomes unmanageable.</p><p><strong>2 Select the team</strong></p><p>Gather your human resources, and make sure that their skills align with their roles. This is an important first step: if you assign the wrong person to a task, you are reducing your chances of success.</p><p>Make sure each team member is clear on what is expected from them and when. Encourage them to ask questions to clarify anything that may be uncertain, and to always come to you whenever something seems to be out of place or going wrong. Clear communication is critical.</p><p>Make sure the whole team and the client company grasp the project’s limitations in terms of its achievable outcomes. You can finish a task successfully and on time as long as expectations are reasonable.</p><p><strong>3 Staying on track</strong></p><p>How can you know if your project is going to be successful if you don’t have any way of measuring success? You will need interim milestones, especially for a long-term project, so that you can determine if you are staying on track or straying from the project’s goals.</p><p><strong>4 Manage project risks</strong></p><p>Hopefully you have defined the more likely risks up front during the protect preparation, so you should now put contingency plans in place for certain occurrences. If you can see when a risk is imminent, you can take preventive action to avoid it, but be ready to halt a project if the risk becomes unacceptable.</p><p><strong>5 Evaluate the project</strong></p><p>Once a project has been completed, it’s important to write a report, even if it is only for internal purposes. You can pinpoint what went right or wrong, determine what could have been done differently, and establish the best practices for use in future undertakings.</p>"
+    },
+    "partNumber": 5,
+    "instruction": "Read the text below and answer Questions 28-35.",
+    "explanations": {
+     "q28": {
+      "text": "The passage's first sentence states that a project manager's main task is to complete a project on time and within its financial limits. That's why the correct answer is 'budget'.",
+      "quote": "A project manager’s main task is to bring a particular project to completion, both on time and within budget."
+     },
+     "q29": {
+      "text": "The text explains that putting things in writing at the start is critical to avoid 'scope creep', which it defines as the client repeatedly asking for more. That's why the correct answer is 'scope creep'.",
+      "quote": "This is critical to avoid problems of ‘scope creep’, which is when the company paying for the project asks for ‘just one more little thing’ repeatedly, until the project becomes unmanageable."
+     },
+     "q30": {
+      "text": "When selecting a team, the passage advises making sure that the team members' abilities are a good match for the roles they are given. That's why the correct answer is 'skills'.",
+      "quote": "Gather your human resources, and make sure that their skills align with their roles."
+     },
+     "q31": {
+      "text": "The text stresses the need for team members to ask questions and for everyone to understand the project's limits, stating this is essential. That's why the correct answer is 'communication'.",
+      "quote": "Clear communication is critical."
+     },
+     "q32": {
+      "text": "To measure a project's success and see if it is staying on track, the passage states that you will need to set interim goals. That's why the correct answer is 'milestones'.",
+      "quote": "You will need interim milestones, especially for a long-term project, so that you can determine if you are staying on track or straying from the project’s goals."
+     },
+     "q33": {
+      "text": "The text explains that milestones are used to determine if you are 'staying on track' with the project's goals, which means checking if the project is on schedule. That's why the correct answer is 'project'.",
+      "quote": "You will need interim milestones, especially for a long-term project, so that you can determine if you are staying on track or straying from the project’s goals."
+     },
+     "q34": {
+      "text": "The passage advises that after defining likely risks, you should create backup plans for certain events, which can be activated if needed. That's why the correct answer is 'contingency plans'.",
+      "quote": "Hopefully you have defined the more likely risks up front during the protect preparation, so you should now put contingency plans in place for certain occurrences."
+     },
+     "q35": {
+      "text": "After a project is finished, the text says it is important to write a document to analyze what went right (strengths) and wrong (weaknesses). That's why the correct answer is 'report'.",
+      "quote": "Once a project has been completed, it’s important to write a report, even if it is only for internal purposes."
+     }
+    },
+    "questionRange": "28-35",
+    "questionSections": [
+     {
+      "type": "gap-fill",
+      "title": "Questions 28-35: Flow-chart Completion",
+      "questions": [
+       {
+        "id": 28,
+        "hint": "keep to the agreed deadline and the _____"
+       },
+       {
+        "id": 29,
+        "hint": "prevent what is called _____"
+       },
+       {
+        "id": 30,
+        "hint": "so that their _____ match the duties"
+       },
+       {
+        "id": 31,
+        "hint": "Promote good _____"
+       },
+       {
+        "id": 32,
+        "hint": "Make sure _____ are set"
+       },
+       {
+        "id": 33,
+        "hint": "check whether the _____ is running to schedule"
+       },
+       {
+        "id": 34,
+        "hint": "Prepare _____ which can be activated"
+       },
+       {
+        "id": 35,
+        "hint": "produce a _____ outlining strengths and weaknesses"
+       }
+      ],
+      "instruction": "Complete the flow-chart below. Choose NO MORE THAN TWO WORDS from the text for each answer.",
+      "summaryText": "Bear in mind that your aim should be to keep to both the agreed deadline and the <span class=\"gap-input\" data-gap=\"28\">_____(28)_____</span> for the project.<br><br>↓<br><br>Fix the details at the start to prevent what is called <span class=\"gap-input\" data-gap=\"29\">_____(29)_____</span> – the client asking for more and more.<br><br>↓<br><br>Choose the team members wisely so that their <span class=\"gap-input\" data-gap=\"30\">_____(30)_____</span> match the duties you want them to take on.<br><br>↓<br><br>Promote good <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span> at all times so everyone knows what you require of them.<br><br>↓<br><br>Make sure <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span> are set so you can check whether the <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span> is running to schedule.<br><br>↓<br><br>Prepare <span class=\"gap-input\" data-gap=\"34\">_____(34)_____</span> which can be activated if things go wrong on the project.<br><br>↓<br><br>Once the project is over, produce a <span class=\"gap-input\" data-gap=\"35\">_____(35)_____</span> outlining its strengths and weaknesses for future reference.",
+      "summaryTitle": "How to run a successful project",
+      "questionRange": "28-35"
+     }
+    ]
+   }
+  ],
+  "examDate": "2025-11-21",
+  "testInfo": {
+   "level": "B1-B2-C1",
+   "parts": 5,
+   "title": "CEFR B1-B2-C1 Reading Test 27",
+   "totalTime": 60,
+   "totalQuestions": 35
+  }
+ },
+ "created_at": "2026-05-12T16:21:51.868757+00:00",
+ "updated_at": "2026-10-11T10:31:33.381435+00:00"
+}

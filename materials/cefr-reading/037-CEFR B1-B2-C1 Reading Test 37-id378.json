@@ -1,0 +1,798 @@
+{
+ "id": 378,
+ "mock_type": "cefr-reading",
+ "mock_number": 37,
+ "title": "CEFR B1-B2-C1 Reading Test 37",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "gap-fill-text",
+    "title": "Part 1",
+    "answers": {
+     "1": [
+      "savanna"
+     ],
+     "2": [
+      "zebras"
+     ],
+     "3": [
+      "elephants"
+     ],
+     "4": [
+      "boat"
+     ],
+     "5": [
+      "stars"
+     ],
+     "6": [
+      "train"
+     ]
+    },
+    "passage": {
+     "title": "Emma's Adventure Across the Savanna",
+     "content": "<p>Emma's dream was to travel across the African savanna. Early one morning, she arrived at a wide <span class=\"gap\" data-gap=\"1\">_____</span> full of golden grass and tall trees. As Emma walked, she saw herds of zebras grazing quietly. The black and white stripes of the <span class=\"gap\" data-gap=\"2\">_____</span> looked beautiful against the yellow grass. Nearby, a group of elephants was moving slowly across the savanna. Emma watched the <span class=\"gap\" data-gap=\"3\">_____</span> use their trunks to pull leaves from the trees. Later, Emma decided to explore a small lake by renting a boat. She gently sailed the <span class=\"gap\" data-gap=\"4\">_____</span> across the calm water, feeling the warm breeze. At night, Emma sat outside her camp, looking up at the sky filled with bright stars. The <span class=\"gap\" data-gap=\"5\">_____</span> over the savanna were clearer and closer than she had ever seen before. When she felt hungry, Emma visited a cozy local restaurant. There, she tasted traditional African dishes, full of spices and fresh ingredients. At the end of her trip, Emma boarded a small train that crossed the savanna. As the <span class=\"gap\" data-gap=\"6\">_____</span> moved through the grasslands, Emma watched the zebras, elephants, and endless beauty of the land disappear into the distance.</p>"
+    },
+    "questions": [
+     {
+      "id": 1,
+      "hint": "a wide _____ full of golden grass"
+     },
+     {
+      "id": 2,
+      "hint": "stripes of the _____"
+     },
+     {
+      "id": 3,
+      "hint": "watched the _____ use their trunks"
+     },
+     {
+      "id": 4,
+      "hint": "sailed the _____ across the water"
+     },
+     {
+      "id": 5,
+      "hint": "The _____ over the savanna were clearer"
+     },
+     {
+      "id": 6,
+      "hint": "As the _____ moved through the grasslands"
+     }
+    ],
+    "partNumber": 1,
+    "instruction": "Read the text. Fill in each gap with ONE word. You must use a word which is somewhere in the rest of the text.",
+    "explanations": {
+     "q1": {
+      "text": "The passage begins by stating Emma's dream was to visit the African savanna. The gap describes the wide area with golden grass where she arrived. That's why the correct answer is 'savanna'.",
+      "quote": "Emma's dream was to travel across the African savanna."
+     },
+     "q2": {
+      "text": "The sentence just before the gap mentions that Emma saw herds of zebras. The gapped sentence then describes their characteristic black and white stripes. That's why the correct answer is 'zebras'.",
+      "quote": "As Emma walked, she saw herds of zebras grazing quietly."
+     },
+     "q3": {
+      "text": "The text first mentions a group of elephants. The following sentence describes watching these animals use their trunks to get leaves, which is a unique behavior of elephants. That's why the correct answer is 'elephants'.",
+      "quote": "Nearby, a group of elephants was moving slowly across the savanna."
+     },
+     "q4": {
+      "text": "The previous sentence states that Emma rented a boat to explore a lake. The gapped sentence describes her sailing this object across the calm water. That's why the correct answer is 'boat'.",
+      "quote": "Later, Emma decided to explore a small lake by renting a boat."
+     },
+     "q5": {
+      "text": "The sentence before the gap says Emma was looking at the night sky, which was 'filled with bright stars'. The gapped sentence then comments on how clear these were. That's why the correct answer is 'stars'.",
+      "quote": "At night, Emma sat outside her camp, looking up at the sky filled with bright stars."
+     },
+     "q6": {
+      "text": "The previous sentence explains that Emma boarded a small train for the end of her trip. The gapped sentence describes this vehicle moving through the grasslands. That's why the correct answer is 'train'.",
+      "quote": "At the end of her trip, Emma boarded a small train that crossed the savanna."
+     }
+    },
+    "questionRange": "1-6"
+   },
+   {
+    "type": "matching",
+    "texts": [
+     {
+      "title": "Q7",
+      "number": 7,
+      "content": "These airlines reduce ticket prices by focusing on operational efficiency and limiting extra services. They often use smaller airports and may charge extra fees for things like luggage or preferred seating."
+     },
+     {
+      "title": "Q8",
+      "number": 8,
+      "content": "Luxury carriers focus on providing maximum comfort and personalized attention. They offer wide seats, high-quality meals, and premium features to ensure a top-tier travel experience."
+     },
+     {
+      "title": "Q9",
+      "number": 9,
+      "content": "These airlines are typically state-owned or strongly backed by their government. They operate both domestic and international routes and aim to connect their country with global destinations."
+     },
+     {
+      "title": "Q10",
+      "number": 10,
+      "content": "These carriers handle short-distance flights within a particular area, often linking smaller towns to larger airports. They're mainly used for quick connections or short trips."
+     },
+     {
+      "title": "Q11",
+      "number": 11,
+      "content": "These airlines manage long-distance flights that link major global cities. They provide a broad range of services and typically maintain a large number of aircraft."
+     },
+     {
+      "title": "Q12",
+      "number": 12,
+      "content": "This term refers to airlines that aim to keep fares as low as possible by limiting services and often charging extra for optional add-ons."
+     },
+     {
+      "title": "Q13",
+      "number": 13,
+      "content": "These airlines blend features of low-cost and premium services, offering reasonable prices while still focusing on passenger comfort and quality service."
+     },
+     {
+      "title": "Q14",
+      "number": 14,
+      "content": "These carriers focus on shipping freight instead of transporting passengers. They operate large aircraft and emphasize timely, efficient delivery of goods."
+     }
+    ],
+    "title": "Part 2",
+    "answers": {
+     "7": [
+      "E"
+     ],
+     "8": [
+      "F"
+     ],
+     "9": [
+      "J"
+     ],
+     "10": [
+      "I"
+     ],
+     "11": [
+      "B"
+     ],
+     "12": [
+      "C"
+     ],
+     "13": [
+      "H"
+     ],
+     "14": [
+      "D"
+     ]
+    },
+    "questions": [
+     {
+      "id": 7,
+      "textNumber": 7
+     },
+     {
+      "id": 8,
+      "textNumber": 8
+     },
+     {
+      "id": 9,
+      "textNumber": 9
+     },
+     {
+      "id": 10,
+      "textNumber": 10
+     },
+     {
+      "id": 11,
+      "textNumber": 11
+     },
+     {
+      "id": 12,
+      "textNumber": 12
+     },
+     {
+      "id": 13,
+      "textNumber": 13
+     },
+     {
+      "id": 14,
+      "textNumber": 14
+     }
+    ],
+    "partNumber": 2,
+    "statements": [
+     {
+      "text": "They provide medical care and support services for people of all ages.",
+      "letter": "A"
+     },
+     {
+      "text": "These airlines operate long-haul flights across continents, connecting major cities around the world.",
+      "letter": "B"
+     },
+     {
+      "text": "This term is often used to refer to budget airlines, focusing on keeping prices low by offering minimal services and potentially charging for extras.",
+      "letter": "C"
+     },
+     {
+      "text": "These airlines specialize in transporting cargo rather than passengers.",
+      "letter": "D"
+     },
+     {
+      "text": "These airlines offer low-cost flights by focusing on efficiency and cutting back on extra services.",
+      "letter": "E"
+     },
+     {
+      "text": "They offer spacious seats, gourmet meals, and premium amenities, making for a more enjoyable travel experience.",
+      "letter": "F"
+     },
+     {
+      "text": "They offer a wide range of courses for adults, including language classes, cooking classes, and fitness classes.",
+      "letter": "G"
+     },
+     {
+      "text": "These airlines try to combine the benefits of both budget and luxury airlines, offering affordable fares but also prioritizing passenger comfort and a high level of service.",
+      "letter": "H"
+     },
+     {
+      "text": "These airlines operate shorter flights within a specific region, often connecting smaller cities and towns to larger hubs.",
+      "letter": "I"
+     },
+     {
+      "text": "They usually fly to a wide range of domestic and international destinations and often focus on connecting their country to the world.",
+      "letter": "J"
+     }
+    ],
+    "instruction": "Read the texts 7-14 and the statements A-J. Decide which text matches with the situation described in the statements. Each statement can be used ONCE only. There are TWO extra statements which you do not need to use.",
+    "explanations": {
+     "q7": {
+      "text": "The text says these airlines lower prices by being efficient and limiting services. This matches the description of offering low-cost flights by cutting back on extras. That's why the correct answer is E.",
+      "quote": "These airlines reduce ticket prices by focusing on operational efficiency and limiting extra services."
+     },
+     "q8": {
+      "text": "The passage mentions these airlines offer \"wide seats\" and \"high-quality meals\" for a top-tier experience. This is very similar to offering spacious seats and gourmet meals. That's why the correct answer is F.",
+      "quote": "They offer wide seats, high-quality meals, and premium features to ensure a top-tier travel experience."
+     },
+     "q9": {
+      "text": "The text states these airlines fly both domestic and international routes to connect their country with the world. This description is a direct match for the option. That's why the correct answer is J.",
+      "quote": "They operate both domestic and international routes and aim to connect their country with global destinations."
+     },
+     "q10": {
+      "text": "The passage describes carriers that handle \"short-distance flights within a particular area.\" This is the same as operating shorter flights within a specific region. That's why the correct answer is I.",
+      "quote": "These carriers handle short-distance flights within a particular area, often linking smaller towns to larger airports."
+     },
+     "q11": {
+      "text": "The text says these airlines manage \"long-distance flights that link major global cities.\" This is another way of describing long-haul flights that connect major cities worldwide. That's why the correct answer is B.",
+      "quote": "These airlines manage long-distance flights that link major global cities."
+     },
+     "q12": {
+      "text": "The passage describes airlines that keep fares low by limiting services and charging for add-ons. This is the definition of a budget airline, as described in the option. That's why the correct answer is C.",
+      "quote": "This term refers to airlines that aim to keep fares as low as possible by limiting services and often charging extra for optional add-ons."
+     },
+     "q13": {
+      "text": "The text says these airlines \"blend features of low-cost and premium services.\" This is the same as combining the benefits of budget and luxury airlines. That's why the correct answer is H.",
+      "quote": "These airlines blend features of low-cost and premium services, offering reasonable prices while still focusing on passenger comfort and quality service."
+     },
+     "q14": {
+      "text": "The passage states these carriers focus on \"shipping freight instead of transporting passengers.\" Freight is another word for cargo, which is what the option describes. That's why the correct answer is D.",
+      "quote": "These carriers focus on shipping freight instead of transporting passengers."
+     }
+    },
+    "questionRange": "7-14",
+    "extraStatements": [
+     "A",
+     "G"
+    ],
+    "statementsFirst": true
+   },
+   {
+    "type": "matching-headings",
+    "title": "Part 3",
+    "answers": {
+     "15": [
+      "B"
+     ],
+     "16": [
+      "H"
+     ],
+     "17": [
+      "E"
+     ],
+     "18": [
+      "D"
+     ],
+     "19": [
+      "F"
+     ],
+     "20": [
+      "C"
+     ]
+    },
+    "passage": {
+     "title": "Online Creativity",
+     "paragraphs": [
+      {
+       "number": "15",
+       "content": "Short visual clips and rapid storytelling have become a dominant form of creative expression online. Artists now work within limited time frames, often just a few seconds, to convey emotions or ideas to wide audiences. This compressed format challenges traditional forms of art, requiring speed, simplicity, and instant connection to the viewer.",
+       "questionId": 15
+      },
+      {
+       "number": "16",
+       "content": "Many individuals who once shared their artistic hobbies casually now depend on their creative work for a living. Through clever self-promotion and audience engagement, they secure financial support, brand partnerships, and product sales. However, sustaining a long-term career demands constant innovation, strategic thinking, and personal branding beyond pure artistic talent.",
+       "questionId": 16
+      },
+      {
+       "number": "17",
+       "content": "Learning creative skills used to require enrolling in expensive schools or relocating to artistic hubs. Today, anyone with an internet connection can join expert-led classes, gaining the technical knowledge needed to improve their craft. This shift has allowed aspiring creators from all over the world to access opportunities that were once geographically or financially out of reach.",
+       "questionId": 17
+      },
+      {
+       "number": "18",
+       "content": "Working together across countries has become effortless for today's artists. Musicians, filmmakers, and designers collaborate in real-time without ever meeting face-to-face. This has not only expanded access to global perspectives but also introduced fresh ideas by blending diverse cultural backgrounds into new works.",
+       "questionId": 18
+      },
+      {
+       "number": "19",
+       "content": "The success of a creative project online often depends less on quality and more on invisible digital patterns. These complex systems prioritize some works over others based on hidden criteria like user preferences and activity history. As a result, gaining visibility today requires not just creativity, but also an understanding of how online exposure really works.",
+       "questionId": 19
+      },
+      {
+       "number": "20",
+       "content": "Sharing art across online platforms brings significant risks for creators. Ideas, designs, and original works can easily be copied or redistributed without permission. As a result, modern artists must find ways to safeguard their intellectual property, using technological tools and legal strategies to defend their ownership rights.",
+       "questionId": 20
+      }
+     ]
+    },
+    "headings": [
+     {
+      "text": "How New Audiences Shape Artistic Careers",
+      "letter": "A"
+     },
+     {
+      "text": "Short-Form Creativity in the Digital Era",
+      "letter": "B"
+     },
+     {
+      "text": "The Growing Importance of Intellectual Property",
+      "letter": "C"
+     },
+     {
+      "text": "Modern Methods of Artistic Collaboration",
+      "letter": "D"
+     },
+     {
+      "text": "Digital Platforms Driving Learning Accessibility",
+      "letter": "E"
+     },
+     {
+      "text": "How Technology Affects Creative Exposure",
+      "letter": "F"
+     },
+     {
+      "text": "Decline of Traditional Art Exhibitions",
+      "letter": "G"
+     },
+     {
+      "text": "Building a Long-Term Career from Artistic Passion",
+      "letter": "H"
+     }
+    ],
+    "questions": [
+     {
+      "id": 15,
+      "text": "Paragraph 15"
+     },
+     {
+      "id": 16,
+      "text": "Paragraph 16"
+     },
+     {
+      "id": 17,
+      "text": "Paragraph 17"
+     },
+     {
+      "id": 18,
+      "text": "Paragraph 18"
+     },
+     {
+      "id": 19,
+      "text": "Paragraph 19"
+     },
+     {
+      "id": 20,
+      "text": "Paragraph 20"
+     }
+    ],
+    "partNumber": 3,
+    "instruction": "Read the text and choose the correct heading for each paragraph from the list of headings below. There are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once.",
+    "explanations": {
+     "q15": {
+      "text": "This paragraph describes how artists use short clips and rapid storytelling online. This compressed format is a key feature of creativity in the digital age, which is the main idea of the heading. That's why the correct answer is B.",
+      "quote": "Short visual clips and rapid storytelling have become a dominant form of creative expression online."
+     },
+     "q16": {
+      "text": "The paragraph explains how artists turn hobbies into professions and what is needed to maintain a long-term career. It emphasizes that talent alone is not enough for sustained success. That's why the correct answer is H.",
+      "quote": "However, sustaining a long-term career demands constant innovation, strategic thinking, and personal branding beyond pure artistic talent."
+     },
+     "q17": {
+      "text": "This paragraph contrasts expensive, traditional art education with accessible online classes. It shows how the internet allows anyone to learn creative skills, removing geographical and financial barriers. That's why the correct answer is E.",
+      "quote": "This shift has allowed aspiring creators from all over the world to access opportunities that were once geographically or financially out of reach."
+     },
+     "q18": {
+      "text": "The paragraph focuses on how technology allows artists to work together from different countries without meeting in person. This describes a new, modern way of artistic collaboration. That's why the correct answer is D.",
+      "quote": "Musicians, filmmakers, and designers collaborate in real-time without ever meeting face-to-face."
+     },
+     "q19": {
+      "text": "This paragraph explains that online visibility is controlled by complex digital systems, not just artistic quality. To succeed, creators must understand how this technology grants exposure to their work. That's why the correct answer is F.",
+      "quote": "The success of a creative project online often depends less on quality and more on invisible digital patterns."
+     },
+     "q20": {
+      "text": "This paragraph highlights the risk of art being copied online without permission. It concludes that artists must actively protect their original work, which is known as intellectual property. That's why the correct answer is C.",
+      "quote": "As a result, modern artists must find ways to safeguard their intellectual property, using technological tools and legal strategies to defend their ownership rights."
+     }
+    },
+    "extraHeadings": [
+     "A",
+     "G"
+    ],
+    "questionRange": "15-20"
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 4",
+    "answers": {
+     "21": [
+      "B"
+     ],
+     "22": [
+      "B"
+     ],
+     "23": [
+      "B"
+     ],
+     "24": [
+      "B"
+     ],
+     "25": [
+      "True",
+      "A"
+     ],
+     "26": [
+      "False",
+      "B"
+     ],
+     "27": [
+      "Not Given",
+      "C"
+     ],
+     "28": [
+      "True",
+      "A"
+     ],
+     "29": [
+      "True",
+      "A"
+     ]
+    },
+    "passage": {
+     "title": "Genetically Modified Foods",
+     "content": "<p>The development of genetically modified (GM) foods has been one of the most significant scientific advances in agriculture over the past few decades. By altering the genetic structure of plants and animals, scientists have created new varieties that are resistant to pests, diseases, and extreme weather conditions. Supporters argue that GM foods have the potential to enhance food security, reduce the environmental impact of farming, and improve nutritional content for populations around the world.</p><p>One of the primary motivations behind genetic modification is to increase crop yields. Traditional farming methods are often vulnerable to factors such as drought, insects, and plant diseases, which can significantly reduce harvests. By introducing specific genes into crops like corn, soybeans, and rice, scientists have developed strains that can survive harsh conditions and require fewer chemical treatments. This, in turn, can lead to lower costs for farmers and a reduction in the use of pesticides and herbicides, benefiting both human health and the environment.</p><p>Advocates also highlight the potential of GM foods to address nutritional deficiencies. For instance, \"Golden Rice\" has been engineered to contain higher levels of Vitamin A, aiming to combat deficiencies in regions where malnutrition remains a severe problem. Proponents believe that biofortified crops like these could play a crucial role in reducing global health inequalities and improving the quality of life in developing countries.</p><p>Despite these potential advantages, the use of GM technology in food production remains highly controversial. Critics argue that not enough is known about the long-term health effects of consuming genetically modified organisms (GMOs). Although numerous scientific studies have found no conclusive evidence that GM foods are harmful, public skepticism persists, fueled by concerns about the influence of large biotechnology corporations and the perceived unnaturalness of genetic modification.</p><p>Environmental concerns are another area of debate. Some researchers worry that GM crops could crossbreed with wild plants, leading to unintended ecological consequences such as the creation of \"superweeds\" that are resistant to conventional herbicides. Others raise ethical questions about the patenting of living organisms and the potential monopolization of the global food supply by a small number of powerful companies.</p><p>The issue of labeling GM foods has sparked further controversy. In many countries, consumers demand the right to know whether the products they purchase contain genetically modified ingredients. However, labeling regulations vary widely across different regions. While the European Union mandates clear labeling of GM products, other regions, including parts of North America, have more flexible policies, leading to confusion and debate over consumer rights and transparency.</p><p>As scientific innovation continues to advance, the future of GM foods will depend on balancing technological possibilities with ethical considerations, environmental protection, and public trust. Greater investment in independent research, open dialogue between stakeholders, and comprehensive regulatory frameworks may help address concerns and ensure that the benefits of genetic modification are realized in a responsible and sustainable manner.</p>"
+    },
+    "partNumber": 4,
+    "instruction": "Read the following text for question 21-29.",
+    "explanations": {
+     "q21": {
+      "text": "The passage explains that scientists created GM plants to be resistant to things like pests, diseases, and extreme weather. This helps them survive difficult conditions, which is why the correct answer is B.",
+      "quote": "By altering the genetic structure of plants and animals, scientists have created new varieties that are resistant to pests, diseases, and extreme weather conditions."
+     },
+     "q22": {
+      "text": "The text gives a specific example of a GM food designed to improve nutrition. It mentions 'Golden Rice' which was made to have more Vitamin A, and that's why the correct answer is B.",
+      "quote": ""
+     },
+     "q23": {
+      "text": "The passage says that critics are concerned about the long-term health effects of eating GM foods because they feel not enough research has been done. This means they worry about future health problems, so the correct answer is B.",
+      "quote": "Critics argue that not enough is known about the long-term health effects of consuming genetically modified organisms (GMOs)."
+     },
+     "q24": {
+      "text": "The text compares labeling rules, stating that the European Union requires clear labels for GM products while North America has more flexible policies. This shows a difference in strictness, which is why the correct answer is B.",
+      "quote": "While the European Union mandates clear labeling of GM products, other regions, including parts of North America, have more flexible policies, leading to confusion and debate over consumer rights and transparency."
+     },
+     "q25": {
+      "text": "The passage states that GM crops have been developed to need fewer chemical treatments. This leads to a reduction in the use of pesticides and herbicides, so the correct answer is True.",
+      "quote": "This, in turn, can lead to lower costs for farmers and a reduction in the use of pesticides and herbicides, benefiting both human health and the environment."
+     },
+     "q26": {
+      "text": "The passage says that many scientific studies have found no definite proof that GM foods are harmful to people's health. This is the opposite of the statement, so the correct answer is False.",
+      "quote": ""
+     },
+     "q27": {
+      "text": "The passage mentions that public skepticism still exists, but it does not provide any information about whether trust has increased or decreased over time. Therefore, the correct answer is Not Given.",
+      "quote": ""
+     },
+     "q28": {
+      "text": "The passage explicitly states that some people have ethical concerns about patenting living things like GM crops. This directly supports the statement, so the correct answer is True.",
+      "quote": "Others raise ethical questions about the patenting of living organisms and the potential monopolization of the global food supply by a small number of powerful companies."
+     },
+     "q29": {
+      "text": "The text mentions that researchers are worried that GM crops might mix with wild plants. This could create unintended problems for the environment, so the correct answer is True.",
+      "quote": ""
+     }
+    },
+    "questionRange": "21-29",
+    "questionSections": [
+     {
+      "type": "mcq",
+      "title": "Questions 21-24: Multiple Choice",
+      "questions": [
+       {
+        "id": 21,
+        "text": "Why were genetically modified crops mainly developed?",
+        "options": [
+         {
+          "text": "To help crops grow faster no matter the season",
+          "letter": "A"
+         },
+         {
+          "text": "To help crops survive in tough weather and environment",
+          "letter": "B"
+         },
+         {
+          "text": "To use more artificial fertilizers on farms",
+          "letter": "C"
+         },
+         {
+          "text": "To remove the need for farmers to work in the fields",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 22,
+        "text": "Which example shows that GM foods can make nutrition better?",
+        "options": [
+         {
+          "text": "Corn that can survive without much water",
+          "letter": "A"
+         },
+         {
+          "text": "Golden Rice that has extra Vitamin A",
+          "letter": "B"
+         },
+         {
+          "text": "Soybeans that resist herbicides",
+          "letter": "C"
+         },
+         {
+          "text": "Wheat that can fight diseases",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 23,
+        "text": "What are critics worried about with GM foods in the long run?",
+        "options": [
+         {
+          "text": "GM foods will completely replace natural farming",
+          "letter": "A"
+         },
+         {
+          "text": "Eating GM foods might cause unknown health problems later",
+          "letter": "B"
+         },
+         {
+          "text": "GM foods will need more chemical fertilizers",
+          "letter": "C"
+         },
+         {
+          "text": "GM crops will be too costly for small farmers",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 24,
+        "text": "What does the passage say about how GM food labels differ in different places?",
+        "options": [
+         {
+          "text": "North America bans GM foods but Europe allows them",
+          "letter": "A"
+         },
+         {
+          "text": "Europe has strict labeling rules, but North America is more relaxed",
+          "letter": "B"
+         },
+         {
+          "text": "Every country has exactly the same labeling rules",
+          "letter": "C"
+         },
+         {
+          "text": "Only Asian countries ask for GM ingredients to be listed",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "For questions 21-24, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet.",
+      "questionRange": "21-24"
+     },
+     {
+      "type": "tfni",
+      "title": "Questions 25-29: True/False/Not Given",
+      "options": [
+       "True",
+       "False",
+       "Not Given"
+      ],
+      "questions": [
+       {
+        "id": 25,
+        "text": "GM crops are often designed to reduce farmers' reliance on chemical pesticides."
+       },
+       {
+        "id": 26,
+        "text": "There is strong, conclusive scientific evidence that GM foods are dangerous for human health."
+       },
+       {
+        "id": 27,
+        "text": "The passage states that public trust in GM technology has significantly increased over the past decade."
+       },
+       {
+        "id": 28,
+        "text": "Patent issues surrounding GM foods have raised ethical questions."
+       },
+       {
+        "id": 29,
+        "text": "Some critics fear that GM crops could breed with wild plants, causing unexpected ecological problems."
+       }
+      ],
+      "instruction": "For questions 25-29, decide if the following statements agree with the information given in the text. Mark your answers on the answer sheet.",
+      "questionRange": "25-29"
+     }
+    ]
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 5",
+    "answers": {
+     "30": [
+      "time"
+     ],
+     "31": [
+      "motives",
+      "reasons"
+     ],
+     "32": [
+      "advertise"
+     ],
+     "33": [
+      "CV"
+     ],
+     "34": [
+      "B"
+     ],
+     "35": [
+      "C"
+     ]
+    },
+    "passage": {
+     "title": "Volunteering",
+     "content": "<p>For almost every person there will be a time in their life when they decide that they want to volunteer. There could be numerous reasons why you want to start doing volunteering work - from retirement to plain old fashioned good will. Different people may find different arguments in favour of doing this kind of work or service, if I can put it this way. But how do you get into the world of volunteering?</p><p>First of all, you need to make time to volunteer and before you can start approaching organizations and enquiring about volunteering opportunities, you need to first figure out how much of your time you can dedicate to volunteering. If you are working, then ask your employer if you can have consistent weekdays off, so you can then have regular time to volunteer each week. When you can promise a set amount of time to an organization, then they are much more likely to offer you a volunteering position. So think twice whether you can allocate enough time to this work before you start, otherwise it can be very disappointing for both sides. Next, it is time to think about why you want to volunteer. This may sound obvious, but have a good long think about the reasons why you are volunteering. Is it because you're passionate about helping others? Is it because you want to meet and spend time with new people? Or is it because you want to gain further experience and qualifications? Knowing your motives can help you decide which organizations and roles are best suited to your wants. Mind there are more opportunities for volunteering than you might know about or imagine.</p><p>The next step is to find an organization to volunteer with. You can volunteer at a local homeless shelter or at a charity shop. Maybe you like working with children, in which case the local youth center would be an ideal place to start with. Perhaps animals are more your thing, so you could ask a local animal shelter if they need a hand. As it was mentioned before, there are plenty of places you could volunteer to work with. Simply do your research, find the place that suits you and get in touch. Many organizations don't advertise that they're looking for volunteers, so it may be up to you to make the first move and contact them.</p><p>So, now you know how much time you can dedicate to volunteering, as well as why you want to volunteer and where you want to do it. The next step is to secure your position working within that organization by writing a CV. This may not be a paid position, but that doesn't mean you should be less ambitious than you normally would be when approaching a potential employer. In your CV you should outline any experience you've had that is relevant to your voluntary position, explain why you want to volunteer and how you would benefit the company. State clearly how much free time you have to dedicate and how long you would be comfortable to work for the organization in terms of days, weeks, and months.</p><p>Laying out these clear ground rules will prevent you from being taken advantage of and overworked, and will also help your potential employer understand your needs. Apart from being rewarding in many ways (though not in the financial one), volunteering is often envisaged as an important part of social and personal maturing. No wonder there are so many volunteers among the young people in many countries of the world.</p>"
+    },
+    "partNumber": 5,
+    "instruction": "Read the following text for questions 30-35.",
+    "explanations": {
+     "q30": {
+      "text": "The passage advises that before you do anything else, you must first determine how much time you are able to commit to volunteering. That's why the correct answer is 'time'.",
+      "quote": "First of all, you need to make time to volunteer and before you can start approaching organizations and enquiring about volunteering opportunities, you need to first figure out how much of your time you can dedicate to volunteering."
+     },
+     "q31": {
+      "text": "The text explains that understanding your personal reasons for volunteering helps you find the most suitable role and organization for your goals. That's why the correct answer is 'motives' or 'reasons'.",
+      "quote": "Knowing your motives can help you decide which organizations and roles are best suited to your wants."
+     },
+     "q32": {
+      "text": "The passage states that many organizations do not publicly announce their need for volunteers, so you may have to contact them proactively. That's why the correct answer is 'advertise'.",
+      "quote": "Many organizations don't advertise that they're looking for volunteers, so it may be up to you to make the first move and contact them."
+     },
+     "q33": {
+      "text": "The text outlines the steps to becoming a volunteer and explicitly states that writing a CV is how you secure a position within an organization. That's why the correct answer is 'CV'.",
+      "quote": "The next step is to secure your position working within that organization by writing a CV."
+     },
+     "q34": {
+      "text": "The passage explains that setting clear rules about your availability and commitment helps protect you from being overworked or taken advantage of by the organization. That's why the correct answer is B.",
+      "quote": "Laying out these clear ground rules will prevent you from being taken advantage of and overworked, and will also help your potential employer understand your needs."
+     },
+     "q35": {
+      "text": "The passage is structured as a step-by-step guide, answering the question of how to get into volunteering by providing clear, practical advice. That's why the correct answer is C.",
+      "quote": "But how do you get into the world of volunteering?"
+     }
+    },
+    "questionRange": "30-35",
+    "questionSections": [
+     {
+      "type": "gap-fill",
+      "title": "Questions 30-33: Notes Completion",
+      "questions": [
+       {
+        "id": 30,
+        "hint": "how much _____ you can offer"
+       },
+       {
+        "id": 31,
+        "hint": "personal _____ for volunteering"
+       },
+       {
+        "id": 32,
+        "hint": "may not _____ their need"
+       },
+       {
+        "id": 33,
+        "hint": "Writing a clear _____ helps secure"
+       }
+      ],
+      "instruction": "For questions 30-33, fill in the missing information in the numbered spaces. Write no more than ONE WORD and / or A NUMBER for each question.",
+      "summaryText": "Before seeking volunteering opportunities, you should determine how much (30)<span class=\"gap-input\" data-gap=\"30\">_____(30)_____</span> you can offer regularly. Understanding your personal (31)<span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span> for volunteering can help you choose the right organization and role. Some organizations may not (32)<span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span> their need for volunteers, so candidates must be proactive. Writing a clear (33)<span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span> helps secure a volunteering position and protects your working conditions.",
+      "summaryTitle": "Volunteering steps",
+      "questionRange": "30-33"
+     },
+     {
+      "type": "mcq",
+      "title": "Questions 34-35: Multiple Choice",
+      "questions": [
+       {
+        "id": 34,
+        "text": "According to the passage, what is a benefit of defining your availability and expectations before volunteering?",
+        "options": [
+         {
+          "text": "It makes it easier to request a salary later.",
+          "letter": "A"
+         },
+         {
+          "text": "It helps avoid being exploited by the organization.",
+          "letter": "B"
+         },
+         {
+          "text": "It guarantees a permanent job offer.",
+          "letter": "C"
+         },
+         {
+          "text": "It reduces the need to write a formal application.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 35,
+        "text": "What is the writer's main aim in the passage?",
+        "options": [
+         {
+          "text": "To encourage readers to volunteer in animal shelters",
+          "letter": "A"
+         },
+         {
+          "text": "To warn about the legal risks of volunteering",
+          "letter": "B"
+         },
+         {
+          "text": "To explain practical steps for becoming a successful volunteer",
+          "letter": "C"
+         },
+         {
+          "text": "To highlight the financial advantages of volunteering",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "For questions 34-35, choose the correct answer A, B, C or D. Mark your answers on the answer sheet.",
+      "questionRange": "34-35"
+     }
+    ]
+   }
+  ],
+  "examDate": "2026-05-01",
+  "testInfo": {
+   "level": "B1-B2-C1",
+   "parts": 5,
+   "title": "CEFR B1-B2-C1 Reading Test 37",
+   "totalTime": 60,
+   "totalQuestions": 35
+  }
+ },
+ "created_at": "2026-05-12T16:22:11.532063+00:00",
+ "updated_at": "2026-10-11T10:54:25.762211+00:00"
+}

@@ -1,0 +1,656 @@
+{
+ "id": 113,
+ "mock_type": "ielts-writing",
+ "mock_number": 4,
+ "title": "IELTS Writing Mock 04",
+ "status": "published",
+ "mock_data": {
+  "tasks": {
+   "task1": {
+    "title": "House prices in three countries",
+    "prompt": "The graph below shows the average house prices in three countries between the years 1997 and 2014.",
+    "wordGoal": 150,
+    "chartDesc": {
+     "title": "Average house prices between 1997 and 2014",
+     "xAxis": "years (1997 to 2014)",
+     "yAxis": "thousands of dollars",
+     "period": "1997-2014",
+     "series": [
+      {
+       "name": "Country A",
+       "points": [
+        {
+         "at": "1997",
+         "value": 180
+        },
+        {
+         "at": "1998",
+         "value": 180
+        },
+        {
+         "at": "1999",
+         "value": 180
+        },
+        {
+         "at": "2000",
+         "value": 190
+        },
+        {
+         "at": "2001",
+         "value": 250
+        },
+        {
+         "at": "2002",
+         "value": 300
+        },
+        {
+         "at": "2003",
+         "value": 400
+        },
+        {
+         "at": "2004",
+         "value": 550
+        },
+        {
+         "at": "2005",
+         "value": 490
+        },
+        {
+         "at": "2006",
+         "value": 480
+        },
+        {
+         "at": "2007",
+         "value": 470
+        },
+        {
+         "at": "2008",
+         "value": 500
+        },
+        {
+         "at": "2009",
+         "value": 560
+        },
+        {
+         "at": "2010",
+         "value": 650
+        },
+        {
+         "at": "2011",
+         "value": 700
+        },
+        {
+         "at": "2012",
+         "value": 710
+        },
+        {
+         "at": "2013",
+         "value": 700
+        },
+        {
+         "at": "2014",
+         "value": 730
+        }
+       ]
+      },
+      {
+       "name": "Country B",
+       "points": [
+        {
+         "at": "1997",
+         "value": 160
+        },
+        {
+         "at": "1998",
+         "value": 180
+        },
+        {
+         "at": "1999",
+         "value": 200
+        },
+        {
+         "at": "2000",
+         "value": 250
+        },
+        {
+         "at": "2001",
+         "value": 270
+        },
+        {
+         "at": "2002",
+         "value": 280
+        },
+        {
+         "at": "2003",
+         "value": 290
+        },
+        {
+         "at": "2004",
+         "value": 350
+        },
+        {
+         "at": "2005",
+         "value": 300
+        },
+        {
+         "at": "2006",
+         "value": 280
+        },
+        {
+         "at": "2007",
+         "value": 270
+        },
+        {
+         "at": "2008",
+         "value": 260
+        },
+        {
+         "at": "2009",
+         "value": 480
+        },
+        {
+         "at": "2010",
+         "value": 500
+        },
+        {
+         "at": "2011",
+         "value": 510
+        },
+        {
+         "at": "2012",
+         "value": 520
+        },
+        {
+         "at": "2013",
+         "value": 490
+        },
+        {
+         "at": "2014",
+         "value": 480
+        }
+       ]
+      },
+      {
+       "name": "Country C",
+       "points": [
+        {
+         "at": "1997",
+         "value": 120
+        },
+        {
+         "at": "1998",
+         "value": 130
+        },
+        {
+         "at": "1999",
+         "value": 140
+        },
+        {
+         "at": "2000",
+         "value": 155
+        },
+        {
+         "at": "2001",
+         "value": 160
+        },
+        {
+         "at": "2002",
+         "value": 165
+        },
+        {
+         "at": "2003",
+         "value": 170
+        },
+        {
+         "at": "2004",
+         "value": 180
+        },
+        {
+         "at": "2005",
+         "value": 200
+        },
+        {
+         "at": "2006",
+         "value": 220
+        },
+        {
+         "at": "2007",
+         "value": 240
+        },
+        {
+         "at": "2008",
+         "value": 130
+        },
+        {
+         "at": "2009",
+         "value": 250
+        },
+        {
+         "at": "2010",
+         "value": 260
+        },
+        {
+         "at": "2011",
+         "value": 270
+        },
+        {
+         "at": "2012",
+         "value": 280
+        },
+        {
+         "at": "2013",
+         "value": 290
+        },
+        {
+         "at": "2014",
+         "value": 260
+        }
+       ]
+      }
+     ],
+     "overview": "Average house prices in all three countries increased over the 17-year period, with Country A consistently having the highest prices from 2002 onward and Country C recording the lowest values overall despite a sharp drop in 2008.",
+     "chartType": "line graph",
+     "confidence": "medium",
+     "unreadable": [
+      "Exact numerical values for intermediate line data points are unannotated and read estimated against axis increments of 250."
+     ],
+     "keyFeatures": [
+      "Country A house prices rose overall from around 180 thousand dollars in 1997 to a peak of approximately 730 thousand dollars in 2014.",
+      "Country B experienced a dramatic increase between 2008 (approx. 260 thousand dollars) and 2009 (approx. 480 thousand dollars).",
+      "Country C suffered a sharp drop in 2008 down to approximately 130 thousand dollars before recovering to 250 thousand dollars in 2009."
+     ]
+    },
+    "chartType": "line_graph",
+    "dataNature": "dynamic",
+    "instruction": "Summarise the information by selecting and reporting the main features, and make comparison where relevant.",
+    "sampleBand5": "<p>The line graph shows the average house prices in three countries from 1997 to 2014. The countries are the UK, Japan and the USA. It is clear that house prices changed <mark>in the period</mark>.</p>\n<p>In the UK, house prices <mark>increased a lot</mark> from 1997 to 2007. Then, it went down for a bit, before going up again. In the USA, the price of houses also went up, but then it went down <mark>more than the UK</mark>. After that, it started to go up again. Japan was different.</p>\n<p>Japan's house prices <mark>were quite stable</mark>. They did not go up much. They also did not go down much. They stayed around the same level for the whole time. The UK had the highest prices at the end of the period. The USA was in the middle. Japan had the lowest prices.</p>",
+    "sampleBand6": "<p>The graph shows the average prices of houses <mark>in three different countries</mark> from 1997 to 2014. It is clear that house prices in all three countries increased over this period, but there were some differences in how much they went up.</p>\n\n<p>Looking at the details, house prices in country A started at around $100,000 in 1997 and increased <mark>gradually</mark> to around $250,000 in 2014. Country B had lower house prices to begin with, at about $50,000, but they increased more quickly, <mark>reaching a similar level</mark> to country A by the end of the period.</p>\n\n<p>Country C saw the biggest increase in house prices. In 1997, the average house price was about $80,000, but by 2014, it had risen to <mark>approximately</mark> $400,000. So, <mark>overall</mark>, while all three countries saw an increase, the rate of increase was different in each one. This shows that the housing market can change a lot over time.</p>",
+    "sampleBand7": "<p>The line graph <mark>illustrates the average price of houses</mark> in three different countries over a 17-year period, from 1997 to 2014. <mark>Overall, while</mark> house prices in all three countries experienced an upward trend, the rate of increase and the overall price varied significantly.</p>\n\n<p>Initially, house prices in country A were the lowest, starting at approximately $50,000 in 1997. They then <mark>rose steadily</mark> until 2007, before experiencing a slight dip and then a further rise to reach around $150,000 by 2014. Country B also saw an increase in house prices, beginning at roughly $100,000 and peaking at just under $300,000 in 2014. <mark>The most dramatic change</mark>, however, occurred in country C.</p>\n\n<p>In country C, average house prices began at around $150,000, <mark>surpassing the other two countries</mark> from the outset. After a period of stability, prices increased sharply after 2004, reaching a high of approximately $450,000 in 2007. Following this peak, there was a significant drop, <mark>followed by a partial recovery</mark> to around $400,000 by the end of the period. Despite the fluctuation, country C consistently maintained the highest average house prices throughout the period.</p>",
+    "sampleBand8": "<p>The line graph <mark>illustrates fluctuations</mark> in average house prices in three distinct countries over a 17-year period, from 1997 to 2014.</p>\n\n<p>An <mark>overarching trend</mark> reveals that housing costs experienced growth in all three nations, although the extent of this increase <mark>diverged significantly</mark>. Notably, Country C saw the most substantial rise, while Country A exhibited a comparatively modest escalation. </p>\n\n<p>Initially, in 1997, average house prices were fairly similar across all three countries. However, Country C <mark>witnessed a sharp surge</mark>, particularly between 2004 and 2007, reaching a peak significantly higher than the other two. While Country B also showed an upward trajectory, its growth was less pronounced than that of Country C. Conversely, Country A's house prices demonstrated a <mark>comparatively gentle incline</mark> throughout the entire period, showing the least amount of change. </p>\n\n<p>It is <mark>worth noting</mark> that all three countries experienced a dip in house prices around 2008, presumably due to the global financial crisis. However, following this downturn, prices in Country C <mark>rebounded strongly</mark>, whereas Countries A and B showed a more gradual recovery. By 2014, Country C's average house prices were <mark>considerably higher</mark> than those of Countries A and B, indicating a <mark>divergent pattern</mark> in housing market performance.</p>",
+    "sampleBand9": "<p>The line graph <mark>illustrates fluctuations</mark> in average house prices across three countries over a 17-year period, from 1997 to 2014.</p>\n\n<p>Overall, while all three countries experienced periods of growth, Country C showed the most <mark>pronounced upward trend</mark>, ultimately surpassing the other two. Country A’s house prices remained relatively stable, while Country B <mark>exhibited the most volatility</mark>.</p>\n\n<p>In 1997, Country A had the highest average house prices, starting at approximately $150,000. This figure remained relatively consistent, with only minor increases and decreases throughout the period, ending at around $160,000 in 2014. Country B began with prices around $120,000, and experienced significant <mark>ups and downs</mark>. It peaked at roughly $200,000 around 2007, then fell sharply following the financial crisis, before recovering somewhat to finish around $170,000. Country C started with the lowest average house prices, at approximately $100,000.</p>\n\n<p>However, Country C <mark>demonstrated steady and substantial growth</mark>, particularly after 2004. This <mark>consistent appreciation</mark> allowed it to overtake both Country A and Country B, reaching the highest average house price of the three by 2014, <mark>culminating at approximately</mark> $230,000. <mark>In essence</mark>, the housing market in Country C proved to be the most lucrative over the period, <mark>outperforming the other nations</mark> despite its initially lower prices. <mark>The trajectory of price changes</mark> varied significantly across the three countries.</p>",
+    "timeMinutes": 20,
+    "chartDescImg": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/Line%20graph-average%20house%20price.png",
+    "sampleAnswer": "The line graph delineates the fluctuations in average residential property valuations across three distinct nations from 1997 to 2014. Overall, it is evident that house prices in all three countries experienced an upward trajectory over the seventeen-year period, although the magnitude and consistency of these increases varied significantly.\n\nIn 1997, Country A had the highest average house prices, starting at approximately $150,000. Despite some minor volatility, the market saw a substantial surge, peaking at nearly $450,000 by 2014, marking it as the most expensive market throughout nearly the entire duration. Country B began at a more modest $100,000. It showed a steady climb until 2007, reaching around $300,000, before experiencing a slight dip and subsequent recovery to finish at approximately $350,000 in 2014.\n\nContrarily, Country C remained the most affordable option. Starting at just under $80,000 in 1997, prices rose marginally but remained relatively stagnant until 2007. However, the final seven years saw a more pronounced acceleration, with valuations eventually surpassing the $200,000 mark by the end of the period. While all countries saw growth, the gap between Country A and Country C widened considerably by 2014.",
+    "chartImageUrl": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/Line%20graph-average%20house%20price.png",
+    "uzSampleBand5": "<p>Chiziqli grafik uch mamlakatdagi o'rtacha uy narxlarini 1997 yildan 2014 yilgacha ko'rsatadi. Mamlakatlar: Buyuk Britaniya, Yaponiya va AQSh. Uy narxlari <mark>shu davr mobaynida</mark> o'zgargani aniq.</p>\n<p>Buyuk Britaniyada uy narxlari 1997 yildan 2007 yilgacha <mark>juda ko'p oshdi</mark>. Keyin, biroz pasaydi, so'ngra yana ko'tarildi. AQShda ham uy narxlari ko'tarildi, lekin keyin <mark>Buyuk Britaniyadan ko'ra ko'proq</mark> pasaydi. Shundan so'ng, u yana ko'tarila boshladi. Yaponiya boshqacha edi.</p>\n<p>Yaponiyaning uy narxlari <mark>anchayin barqaror edi</mark>. Ular unchalik ko'tarilmadi. Ular ham unchalik pasaymadi. Ular butun vaqt davomida taxminan bir xil darajada qoldi. Davr oxirida Buyuk Britaniyada eng yuqori narxlar bo'lgan. AQSh o'rtada edi. Yaponiyada eng past narxlar bo'lgan.</p>",
+    "uzSampleBand6": "<p>Grafik 1997-yildan 2014-yilgacha bo'lgan davrda <mark>uch xil mamlakatdagi</mark> uylarning o'rtacha narxlarini ko'rsatadi. Shuni aytish kerakki, bu davrda uchala mamlakatda ham uy narxlari oshdi, lekin ularning qanchalik oshganida ba'zi farqlar bor edi.</p>\n\n<p>Tafsilotlarga e'tibor qaratadigan bo'lsak, A mamlakatida uy narxlari 1997-yilda taxminan 100 000 dollardan boshlangan va 2014-yilga kelib <mark>asta-sekin</mark> taxminan 250 000 dollargacha ko'tarilgan. B mamlakatida uy narxlari boshida pastroq bo'lgan, taxminan 50 000 dollar, lekin ular tezroq o'sgan va davr oxiriga kelib A mamlakati bilan <mark>shunga o'xshash darajaga yetgan</mark>.</p>\n\n<p>C mamlakatida uy narxlarining eng katta o'sishi kuzatildi. 1997-yilda o'rtacha uy narxi taxminan 80 000 dollar edi, lekin 2014-yilga kelib u <mark>taxminan</mark> 400 000 dollargacha ko'tarildi. Shunday qilib, <mark>umuman olganda</mark>, uchala mamlakatda ham o'sish kuzatilgan bo'lsa-da, o'sish sur'ati har birida har xil edi. Bu uy-joy bozori vaqt o'tishi bilan juda ko'p o'zgarishi mumkinligini ko'rsatadi.</p>",
+    "uzSampleBand7": "<p>Ushbu chiziqli grafik 1997-yildan 2014-yilgacha bo'lgan 17 yillik davr mobaynida uch xil mamlakatdagi <mark>uy-joylarning o'rtacha narxini tasvirlaydi</mark>. <mark>Umuman olganda, garchi</mark> barcha uch mamlakatda uy-joy narxlari o'sish tendentsiyasini ko'rsatgan bo'lsa-da, o'sish sur'ati va umumiy narx sezilarli darajada farq qildi.</p>\n\n<p>Dastlab, A mamlakatida uy-joy narxlari eng past bo'lib, 1997-yilda taxminan 50 000 dollardan boshlangan. Keyin ular 2007-yilgacha <mark>doimiy ravishda oshdi</mark>, so'ngra biroz pasayishni boshdan kechirdi va keyin yana o'sib, 2014-yilga kelib taxminan 150 000 dollarga yetdi. B mamlakatida ham uy-joy narxlari oshishi kuzatildi, taxminan 100 000 dollardan boshlanib, 2014-yilda 300 000 dollardan sal kamroq darajaga yetdi. <mark>Eng keskin o'zgarish</mark> esa C mamlakatida sodir bo'ldi.</p>\n\n<p>C mamlakatida uy-joylarning o'rtacha narxi taxminan 150 000 dollardan boshlangan bo'lib, <mark>boshidanoq qolgan ikkita mamlakatdan o'zib ketdi</mark>. Barqarorlik davridan so'ng, narxlar 2004-yildan keyin keskin oshdi va 2007-yilda taxminan 450 000 dollarga yetdi. Ushbu cho'qqidan so'ng sezilarli pasayish kuzatildi, <mark>so'ngra qisman tiklanish</mark> natijasida davr oxiriga kelib taxminan 400 000 dollarni tashkil etdi. O'zgarishlarga qaramay, C mamlakati butun davr mobaynida eng yuqori o'rtacha uy-joy narxlarini doimiy ravishda saqlab qoldi.</p>",
+    "uzSampleBand8": "<p>Chiziqli grafik 1997 yildan 2014 yilgacha bo'lgan 17 yillik davrda uch xil mamlakatdagi uy narxlarining o'rtacha ko'rsatkichlaridagi <mark>tebranishlarni ko'rsatadi</mark>.</p>\n\n<p><mark>Umumiy tendentsiya</mark> shuni ko'rsatadiki, uy-joy narxlari barcha uchta davlatda o'sishni boshdan kechirdi, garchi bu o'sish darajasi <mark>sezilarli darajada farq qilgan</mark>. Ayniqsa, C mamlakatida eng sezilarli o'sish kuzatildi, A mamlakati esa nisbatan kamtarona o'sishni namoyon etdi.</p>\n\n<p>Dastlab, 1997 yilda, uy narxlarining o'rtacha ko'rsatkichlari barcha uchta mamlakatda deyarli bir xil edi. Biroq, C mamlakatida, ayniqsa 2004 yildan 2007 yilgacha bo'lgan davrda, <mark>keskin o'sish kuzatildi</mark>, bu boshqa ikkitasidan ancha yuqori cho'qqiga chiqdi. B mamlakati ham o'sish tendentsiyasini ko'rsatgan bo'lsa-da, uning o'sishi C mamlakatinikidan kamroq edi. Aksincha, A mamlakatining uy narxlari butun davr mobaynida <mark>nisbatan sekin o'sishni</mark> namoyish etdi va eng kam o'zgarishni ko'rsatdi.</p>\n\n<p><mark>Shuni ta'kidlash joizki</mark>, barcha uchta mamlakatda 2008 yil atrofida uy narxlarining pasayishi kuzatildi, bu ehtimol global moliyaviy inqiroz bilan bog'liq. Biroq, ushbu pasayishdan so'ng, C mamlakatidagi narxlar <mark>tezda tiklandi</mark>, A va B mamlakatlari esa sekinroq tiklanishni ko'rsatdi. 2014 yilga kelib, C mamlakatining uy narxlarining o'rtacha ko'rsatkichlari A va B mamlakatlarinikidan <mark>ancha yuqori</mark> edi, bu uy-joy bozorining faoliyatida <mark>farqli naqsh</mark> borligini ko'rsatadi.</p>",
+    "uzSampleBand9": "<p>Chiziqli grafik 1997-yildan 2014-yilgacha bo'lgan 17 yillik davrda uchta mamlakat bo'ylab uy narxlarining o'rtacha ko'rsatkichlaridagi <mark>o'zgarishlarni ko'rsatadi</mark>.</p>\n\n<p>Umuman olganda, barcha uchta mamlakatda o'sish davrlari kuzatilgan bo'lsa-da, C mamlakati eng <mark>yaqqol ko'tarilish tendentsiyasini</mark> namoyish etdi va oxir-oqibat qolgan ikkitasidan o'zib ketdi. A mamlakatidagi uy narxlari nisbatan barqaror bo'lib qoldi, B mamlakati esa eng <mark>katta beqarorlikni namoyon qildi</mark>.</p>\n\n<p>1997-yilda A mamlakatida o'rtacha uy narxlari eng yuqori bo'lib, taxminan 150 000 dollardan boshlangan. Bu ko'rsatkich nisbatan doimiy bo'lib qoldi, davr davomida faqat kichik o'sish va pasayishlar kuzatildi va 2014-yilda taxminan 160 000 dollarda yakunlandi. B mamlakati narxlari taxminan 120 000 dollardan boshlangan va sezilarli <mark>ko'tarilishlar va pasayishlarni</mark> boshdan kechirgan. U taxminan 2007-yilda taxminan 200 000 dollarga yetdi, so'ngra moliyaviy inqirozdan keyin keskin pasaydi va keyin biroz tiklanib, taxminan 170 000 dollarda yakunlandi. C mamlakati o'rtacha uy narxlari eng past bo'lib, taxminan 100 000 dollardan boshlangan.</p>\n\n<p>Biroq, C mamlakati, ayniqsa 2004-yildan keyin <mark>doimiy va sezilarli o'sishni namoyish etdi</mark>. Bu <mark>doimiy qadrlanish</mark> unga A va B mamlakatlarini ortda qoldirishga imkon berdi va 2014-yilga kelib uchta mamlakat ichida eng yuqori o'rtacha uy narxiga yetdi, <mark>taxminan 230 000 dollarda yakunlandi</mark>. <mark>Aslida</mark>, C mamlakatidagi uy-joy bozori dastlabki past narxlarga qaramay, davr mobaynida eng daromadli bo'lib chiqdi va <mark>boshqa davlatlardan ustun keldi</mark>. <mark>Narx o'zgarishining traektoriyasi</mark> uchta mamlakat bo'ylab sezilarli darajada farq qildi.</p>",
+    "chartDescSource": "extracted-verified-2026-08-05"
+   },
+   "task2": {
+    "title": "Technology and writing skills",
+    "prompt": "Some people believe that the increasing use of computers and mobile phones for communications has had a negative effect on young people's reading and writing skills.",
+    "wordGoal": 250,
+    "essayType": "opinion",
+    "instruction": "To what extent do you agree or disagree?",
+    "sampleBand5": "<p>In today's world, computers and mobile phones are used a lot for talking to each other. Some people think this is <mark>not very good</mark> for young people's reading and writing. I think that it has some bad points, but also some good things too.</p>\n\n<p>One problem is that young people might not read books as much. They might just use their phones to watch videos or play games. This means they don't learn new words and their understanding of stories can be not very good. Also, when they write messages on their phones, they <mark>often use short forms</mark> like 'lol' and 'u' instead of writing properly. This can make it difficult for them to write essays or letters in the future.</p>\n\n<p>However, there are also some good things. Computers and phones can help young people learn in new ways. They can find information quickly and easily on the internet. There are also many educational apps and websites that can help them improve their reading and writing skills. For example, they can <mark>do online quizzes</mark> and get instant feedback. This can be a fun and engaging way to learn. Also, they can talk to people from all over the world and <mark>learn about different cultures</mark>.</p>\n\n<p>In conclusion, while there are some negative effects of computers and mobile phones on young people's reading and writing, there are also many benefits. It is important for young people to use these technologies in a balanced way and to continue reading books and practicing their writing skills. Maybe schools can help them to do this.</p>",
+    "sampleBand6": "<p>In today's world, computers and mobile phones are <mark>becoming more common</mark> for communication. Some people worry that this has a bad impact on young people's reading and writing abilities. While there might be some truth to this, I believe that the overall effect is not entirely negative.</p>\n\n<p>On the one hand, it is easy to see why people are concerned. Young people <mark>nowadays</mark> spend a lot of time texting or using social media. This kind of writing is often very informal, with short sentences and abbreviations. For example, instead of writing \"see you later,\" they might just write \"CU L8R.\" This could lead to them forgetting the rules of grammar and spelling, which is <mark>not good for their future</mark> when they have to write properly in school or at work. Also, because they are spending less time reading books and long articles, their vocabulary might not develop as much as it should.</p>\n\n<p>However, it is also important to remember that computers and mobile phones can also help young people improve their reading and writing skills. There are many educational apps and websites that can make learning fun and engaging. Young people can also use these tools to research information for school projects and to connect with other students and share ideas. <mark>Furthermore</mark>, writing emails and participating in online forums can give them valuable practice in expressing their thoughts and ideas in writing. They are <mark>also exposed to</mark> a wider range of texts than they might be if they only read books.</p>\n\n<p>In conclusion, while there are some potential negative effects of increased computer and mobile phone use on young people's reading and writing skills, I think that the benefits outweigh the risks. It is up to parents and teachers to make sure that young people use these technologies in a way that supports their learning and development. We need to <mark>find a balance</mark>.</p>",
+    "sampleBand7": "<p>The proliferation of computers and mobile phones has undoubtedly transformed the way young people communicate. While these technologies offer undeniable benefits, some argue that their increasing use has negatively impacted the development of reading and writing skills. I <mark>partially agree</mark> with this assertion, as while these technologies can hinder traditional skills, they also offer opportunities for new forms of literacy.</p>\n\n<p>On the one hand, there is a valid concern that reliance on digital communication can lead to a decline in formal writing abilities. The informal nature of texting and social media, with its abbreviations and emoticons, <mark>may erode</mark> young people's understanding of grammar and spelling. Furthermore, the instant gratification offered by these platforms can discourage the patience and focus required for reading longer texts. For example, students might prefer to watch a short video summary of a novel rather than engage with the original text, <mark>thereby limiting their exposure to</mark> complex vocabulary and sentence structures. This <mark>potential decline</mark> in traditional literacy skills is a legitimate cause for concern.</p>\n\n<p>However, it is equally important to recognise the positive aspects of technology in fostering new forms of literacy. Digital platforms provide young people with access to a vast amount of information and diverse perspectives. They can engage in online discussions, create digital content, and collaborate with others on projects, all of which require strong communication skills. Moreover, the ability to critically evaluate information and navigate the digital landscape is becoming increasingly important in today's world. While the skills needed for writing a formal essay may be different from those required for creating a compelling social media post, both are valuable forms of communication. Young people <mark>are required to adapt</mark> their language to different contexts.\n</p>\n\n<p>In conclusion, while the increasing use of computers and mobile phones <mark>presents certain challenges</mark> to the development of traditional reading and writing skills, it also offers opportunities for new forms of literacy and communication. The key lies in finding a balance between traditional methods and digital technologies, ensuring that young people develop a comprehensive set of literacy skills that will enable them to succeed in the modern world. Education systems can play an important role in <mark>cultivating both</mark> traditional and digital literacies.</p>",
+    "sampleBand8": "<p>The proliferation of computers and mobile phones has undeniably transformed communication, particularly among young people. While some argue this shift has detrimentally impacted reading and writing skills, I believe that, while there are potential drawbacks, the overall effect is not necessarily negative and may even offer new avenues for literacy development.</p>\n\n<p>On the one hand, it is true that <mark>over-reliance on</mark> digital communication can lead to a decline in certain aspects of traditional literacy. The informal language often used in texting and social media, characterized by abbreviations, emojis, and simplified grammar, could arguably <mark>erode a young person's command of</mark> standard written English. Furthermore, the immediacy and brevity of online interactions might discourage sustained reading and the development of complex writing skills, such as argumentation and nuanced expression. For instance, students might find it challenging to write a well-structured essay after spending hours composing short, fragmented messages.</p>\n\n<p>However, this perspective overlooks the potential benefits of technology in fostering literacy. The internet provides access to an <mark>unprecedented wealth of</mark> reading material, from online newspapers and academic journals to e-books and fan fiction. Young people are now exposed to a wider range of texts than ever before, and they can engage with these texts in interactive and collaborative ways. Moreover, digital platforms offer new opportunities for creative writing, such as blogging, online storytelling, and scriptwriting for video games. These activities can motivate young people to write and improve their communication skills in a dynamic and engaging context. <mark>Far from being a hindrance</mark>, technology can become a powerful tool for literacy development.</p>\n\n<p>It is also important to recognize that literacy is not a static concept. The skills required to communicate effectively in the 21st century are different from those of previous generations. Young people need to be able to navigate the digital landscape, <mark>critically evaluate online information</mark>, and communicate effectively across different platforms. These skills require a different kind of literacy, one that is constantly evolving. Therefore, while the increasing use of computers and mobile phones may present challenges to traditional literacy, it also creates new opportunities for young people to <mark>acquire essential skills</mark> for success in the modern world.</p>\n\n<p>In conclusion, while the potential for negative impacts on traditional reading and writing skills exists, I believe that, on balance, the increasing use of computers and mobile phones does not necessarily have a detrimental effect on young people's literacy. Instead, it presents both challenges and opportunities, and it is up to educators and parents to <mark>harness the power of technology</mark> to foster literacy in all its forms. <mark>A nuanced approach</mark> is required, one that acknowledges both the risks and the benefits of digital communication.</p>",
+    "sampleBand9": "<p>The pervasive integration of computers and mobile phones into modern life has sparked debate regarding their impact on young people's literacy skills. While concerns about declining reading and writing proficiency are understandable, I fundamentally disagree with the assertion that these technologies are inherently detrimental. Instead, I believe that, when used judiciously, they can <mark>catalyse improvements</mark> in these crucial areas.</p>\n\n<p>One primary concern often voiced is that the immediacy and informality of digital communication, such as texting and social media, encourage the use of <mark>simplified language and abbreviations</mark>, potentially eroding formal writing skills. While this is a valid point, it overlooks the potential for technology to foster a wider engagement with written content. Young people are now exposed to an unprecedented volume of text online, from news articles and blogs to e-books and online forums. This constant exposure, even if not always in traditional formats, can <mark>cultivate a familiarity with language</mark> and a broader vocabulary than previous generations possessed.</p>\n\n<p>Furthermore, computers and mobile phones offer innovative tools to enhance writing skills. Word processing software provides grammar and spell-checking features, which, while not a substitute for proper instruction, can help young writers identify and correct errors. Online collaborative writing platforms enable students to work together on projects, <mark>fostering peer learning and critical feedback</mark>. Moreover, the internet provides access to a wealth of resources, including online writing tutorials, dictionaries, and style guides, empowering young people to <mark>take ownership of their learning</mark>.</p>\n\n<p>It is true that <mark>unfettered access</mark> to technology without proper guidance can lead to negative consequences, such as a reliance on slang and a decline in attention spans. However, this is not an inherent flaw of the technology itself, but rather a reflection of how it is used. Educators and parents have a responsibility to teach young people how to use these tools responsibly and effectively, <mark>striking a balance</mark> between digital engagement and traditional learning methods. <mark>A nuanced approach</mark> is essential to harness the benefits of technology while mitigating potential risks.</p>\n\n<p>In conclusion, while acknowledging the potential for negative impacts, I firmly believe that computers and mobile phones can positively influence young people's reading and writing skills. By providing access to a vast array of written content and offering innovative tools for learning and collaboration, these technologies can, if used responsibly, <mark>augment traditional educational practices</mark> and <mark>cultivate a new generation of digitally literate</mark> and articulate individuals. The key lies in <mark>fostering critical thinking</mark> and responsible technology use, rather than outright condemnation.</p>",
+    "timeMinutes": 40,
+    "sampleAnswer": "The digital revolution has fundamentally altered how we communicate, leading to concerns that the ubiquity of computers and mobile phones is detrimental to the literacy levels of the younger generation. While some argue that these technologies lead to a decline in traditional reading and writing skills, I largely disagree with this sentiment, as digital platforms offer new avenues for linguistic development and engagement.\n\nAdmittedly, the rise of instant messaging and social media has popularized 'text-speak'—a shorthand involving abbreviations and emoticons. Critics argue that this informal style erodes formal grammar and spelling proficiency among students. Furthermore, the constant barrage of short-form content on mobile devices may reduce the capacity for deep, sustained reading of complex literature, potentially shortening attention spans. If young people exclusively consume bite-sized information, their ability to navigate multifaceted arguments in traditional texts might indeed suffer.\n\nHowever, it is a misconception to view technology solely as a hindrance. On the contrary, computers provide young people with unprecedented access to a vast array of reading materials, from online journals to e-books, fostering a culture of research and self-directed learning. Digital communication also requires frequent writing, albeit in a different format than traditional essays. Engaging in online forums or blogging encourages young people to articulate their thoughts to a global audience, thereby improving their communicative efficacy. Moreover, modern software includes sophisticated grammar and spell-check tools that can serve as educational aids, highlighting errors and suggesting improvements in real-time.\n\nIn conclusion, while the shift toward digital communication introduces challenges such as the prevalence of informal language and potential distractions, it also provides powerful tools for enhancing literacy. By embracing these technologies as complementary rather than competitive to traditional education, we can ensure that young people develop robust reading and writing skills fit for the modern age.",
+    "uzSampleBand5": "<p>Bugungi kunda kompyuterlar va mobil telefonlar bir-biri bilan gaplashish uchun juda ko'p ishlatiladi. Ba'zi odamlar bu yoshlarning o'qishi va yozishi uchun <mark>unchalik yaxshi emas</mark>, deb hisoblashadi. Menimcha, buning ba'zi yomon tomonlari bor, lekin yaxshi tomonlari ham bor.</p>\n\n<p>Bir muammo shundaki, yoshlar kitoblarni unchalik ko'p o'qimasligi mumkin. Ular shunchaki videolarni tomosha qilish yoki o'yin o'ynash uchun telefonlaridan foydalanishi mumkin. Bu ularning yangi so'zlarni o'rganmasligini va hikoyalarni tushunishi <mark>unchalik yaxshi bo'lmasligi</mark> mumkinligini anglatadi. Bundan tashqari, ular telefonlarida xabar yozganda, <mark>ko'pincha qisqa shakllardan foydalanadilar</mark>, masalan, \"lol\" va \"u\", to'g'ri yozish o'rniga. Bu ularga kelajakda insholar yoki xatlar yozishni qiyinlashtirishi mumkin.</p>\n\n<p>Biroq, ba'zi yaxshi narsalar ham bor. Kompyuterlar va telefonlar yoshlarga yangi usullarda o'rganishga yordam berishi mumkin. Ular internetda tez va oson ma'lumot topishlari mumkin. Shuningdek, ularning o'qish va yozish qobiliyatlarini yaxshilashga yordam beradigan ko'plab ta'limiy ilovalar va veb-saytlar mavjud. Misol uchun, ular <mark>onlayn viktorinalarni bajarishlari</mark> va darhol javob olishlari mumkin. Bu o'rganishning qiziqarli va jalb qiluvchi usuli bo'lishi mumkin. Bundan tashqari, ular butun dunyo bo'ylab odamlar bilan gaplashishlari va <mark>turli madaniyatlar haqida bilib olishlari</mark> mumkin.</p>\n\n<p>Xulosa qilib aytganda, kompyuterlar va mobil telefonlarning yoshlarning o'qishi va yozishiga ba'zi salbiy ta'sirlari bo'lsa-da, ko'plab foydalari ham bor. Yoshlar ushbu texnologiyalardan muvozanatli tarzda foydalanishlari va kitob o'qishni va yozish qobiliyatlarini mashq qilishni davom ettirishlari muhim. Ehtimol, maktablar ularga bu borada yordam berishi mumkin.</p>",
+    "uzSampleBand6": "<p>Bugungi kunda kompyuterlar va mobil telefonlar aloqa uchun <mark>tobora keng tarqalmoqda</mark>. Ba'zi odamlar bu yoshlarning o'qish va yozish qobiliyatlariga yomon ta'sir qiladi deb xavotirlanishadi. Bunda biroz haqiqat bo'lishi mumkin bo'lsa-da, men umumiy ta'sir to'liq salbiy emas deb hisoblayman.</p>\n\n<p>Bir tomondan, nima uchun odamlar xavotirda ekanligini tushunish oson. Yoshlar <mark>hozirgi kunda</mark> ko'p vaqtlarini SMS yozish yoki ijtimoiy tarmoqlardan foydalanish bilan o'tkazishadi. Bunday yozuvlar ko'pincha juda norasmiy bo'lib, qisqa gaplar va qisqartmalar ishlatiladi. Masalan, \"keyin ko'rishguncha\" deb yozish o'rniga, ular shunchaki \"CU L8R\" deb yozishlari mumkin. Bu ularning grammatika va imlo qoidalarini unutishiga olib kelishi mumkin, bu esa ularning maktabda yoki ishda to'g'ri yozishlari kerak bo'lganda <mark>kelajagi uchun yaxshi emas</mark>. Bundan tashqari, ular kitoblar va uzun maqolalarni kamroq o'qishlari sababli, ularning lug'at boyligi keraklicha rivojlanmasligi mumkin.</p>\n\n<p>Biroq, kompyuterlar va mobil telefonlar yoshlarga o'qish va yozish qobiliyatlarini yaxshilashga ham yordam berishi mumkinligini unutmaslik kerak. O'qishni qiziqarli va jalb qiluvchi ko'plab ta'limiy ilovalar va veb-saytlar mavjud. Yoshlar ushbu vositalardan maktab loyihalari uchun ma'lumot izlash va boshqa talabalar bilan bog'lanish va fikr almashish uchun ham foydalanishlari mumkin. <mark>Bundan tashqari</mark>, elektron pochta xabarlarini yozish va onlayn forumlarda ishtirok etish ularga o'z fikrlari va g'oyalarini yozma ravishda ifoda etishda qimmatli tajriba berishi mumkin. Ular faqat kitob o'qiganlaridan ko'ra <mark>ko'proq turli xil</mark> matnlarga duch kelishadi.</p>\n\n<p>Xulosa qilib aytganda, kompyuter va mobil telefonlardan foydalanishning yoshlarning o'qish va yozish qobiliyatlariga potentsial salbiy ta'sirlari bo'lishi mumkin bo'lsa-da, menimcha, foydalari xavflardan ustun turadi. Yoshlarning ushbu texnologiyalardan o'qish va rivojlanishini qo'llab-quvvatlaydigan tarzda foydalanishlarini ta'minlash ota-onalar va o'qituvchilarning vazifasidir. Biz <mark>muvozanatni topishimiz</mark> kerak.</p>",
+    "uzSampleBand7": "<p>Kompyuterlar va mobil telefonlarning ko'payishi, shubhasiz, yoshlarning muloqot uslubini o'zgartirdi. Ushbu texnologiyalar inkor etib bo'lmaydigan afzalliklarni taqdim etsa-da, ba'zilar ulardan foydalanishning ortishi o'qish va yozish qobiliyatlarining rivojlanishiga salbiy ta'sir ko'rsatdi, deb ta'kidlashadi. Men bu fikrga <mark>qisman qo'shilaman</mark>, chunki ushbu texnologiyalar an'anaviy ko'nikmalarga to'sqinlik qilishi mumkin bo'lsa-da, ular savodxonlikning yangi shakllari uchun imkoniyatlar ham yaratadi.</p>\n\n<p>Bir tomondan, raqamli aloqaga tayanish rasmiy yozish qobiliyatlarining pasayishiga olib kelishi mumkin degan asosli xavotir bor. Xabar yozish va ijtimoiy tarmoqlarning norasmiy tabiati, qisqartmalar va emotsiyalar bilan, yoshlarning grammatika va imlo haqidagi tushunchalarini <mark>yo'qotishi mumkin</mark>. Bundan tashqari, ushbu platformalar tomonidan taqdim etiladigan tezkor qoniqish uzoqroq matnlarni o'qish uchun zarur bo'lgan sabr-toqat va diqqatni susaytirishi mumkin. Misol uchun, talabalar original matn bilan shug'ullanishdan ko'ra, romanning qisqa video mazmunini tomosha qilishni afzal ko'rishlari mumkin, <mark>shu bilan ularning</mark> murakkab so'z boyligi va gap tuzilmalariga ta'sirini cheklab qo'yishadi. An'anaviy savodxonlik ko'nikmalarining bu <mark>potentsial pasayishi</mark> xavotirga soladigan qonuniy sababdir.</p>\n\n<p>Biroq, texnologiyaning savodxonlikning yangi shakllarini rivojlantirishdagi ijobiy jihatlarini tan olish ham muhimdir. Raqamli platformalar yoshlarga katta hajmdagi ma'lumotlarga va turli nuqtai nazarlarga kirish imkoniyatini beradi. Ular onlayn muhokamalarda qatnashishlari, raqamli kontent yaratishlari va loyihalar ustida boshqalar bilan hamkorlik qilishlari mumkin, bularning barchasi kuchli kommunikatsiya ko'nikmalarini talab qiladi. Bundan tashqari, ma'lumotni tanqidiy baholash va raqamli muhitda harakat qilish qobiliyati bugungi kunda tobora muhim ahamiyat kasb etmoqda. Rasmiy insho yozish uchun zarur bo'lgan ko'nikmalar ijtimoiy tarmoqlarda qiziqarli post yaratish uchun zarur bo'lgan ko'nikmalardan farq qilishi mumkin bo'lsa-da, ikkalasi ham muloqotning qimmatli shakllaridir. Yoshlar o'z tilini turli kontekstlarga <mark>moslashtirishlari talab etiladi</mark>.\n</p>\n\n<p>Xulosa qilib aytganda, kompyuterlar va mobil telefonlardan foydalanishning ortishi an'anaviy o'qish va yozish ko'nikmalarini rivojlantirishda <mark>ma'lum qiyinchiliklarni tug'dirsa-da</mark>, u savodxonlik va aloqaning yangi shakllari uchun ham imkoniyatlar yaratadi. Asosiysi, an'anaviy usullar va raqamli texnologiyalar o'rtasida muvozanatni topish, yoshlarning zamonaviy dunyoda muvaffaqiyat qozonishlariga imkon beradigan savodxonlik ko'nikmalarining keng to'plamini rivojlantirishni ta'minlashdir. Ta'lim tizimlari an'anaviy va raqamli savodxonlikni <mark>rivojlantirishda</mark> muhim rol o'ynashi mumkin.</p>",
+    "uzSampleBand8": "<p>Kompyuterlar va mobil telefonlarning ko'payishi, ayniqsa yoshlar o'rtasida aloqani inkor etib bo'lmaydigan darajada o'zgartirdi. Ba'zilar bu o'zgarish o'qish va yozish ko'nikmalariga salbiy ta'sir ko'rsatdi, deb ta'kidlasalar-da, menimcha, potentsial kamchiliklar bo'lsa ham, umumiy ta'sir unchalik salbiy emas va hatto savodxonlikni rivojlantirish uchun yangi imkoniyatlarni ham taqdim etishi mumkin.</p>\n\n<p>Bir tomondan, raqamli aloqaga <mark>haddan tashqari ishonish</mark> an'anaviy savodxonlikning ayrim jihatlarining pasayishiga olib kelishi mumkinligi haqiqat. Ko'pincha matnli xabarlar va ijtimoiy tarmoqlarda ishlatiladigan norasmiy til, qisqartmalar, emojilar va soddalashtirilgan grammatika bilan ajralib turadi, bu <mark>yoshlarning standart yozma ingliz tilini bilish darajasini pasaytirishi</mark> mumkin. Bundan tashqari, onlayn muloqotlarning tezkorligi va qisqaligi uzoq muddatli o'qishni va argumentatsiya va nozik ifodalash kabi murakkab yozish ko'nikmalarini rivojlantirishni susaytirishi mumkin. Misol uchun, talabalar qisqa, parchalanib ketgan xabarlarni yozishga soatlab vaqt sarflagandan so'ng, yaxshi tuzilgan insho yozishni qiyin deb topishlari mumkin.</p>\n\n<p>Biroq, bu nuqtai nazar texnologiyaning savodxonlikni rivojlantirishdagi potentsial afzalliklarini e'tibordan chetda qoldiradi. Internet onlayn gazetalar va akademik jurnallardan tortib elektron kitoblar va fan-fikkagacha bo'lgan <mark>misli ko'rilmagan boylikdagi</mark> o'qish materiallariga kirish imkoniyatini beradi. Yoshlar hozirda har qachongidan ham ko'ra kengroq matnlar bilan tanishadilar va ular bilan interaktiv va hamkorlikda ishlashlari mumkin. Bundan tashqari, raqamli platformalar blog yuritish, onlayn hikoya yozish va video o'yinlar uchun ssenariy yozish kabi ijodiy yozish uchun yangi imkoniyatlarni taqdim etadi. Ushbu faoliyatlar yoshlarni yozishga va dinamik va qiziqarli kontekstda o'zlarining aloqa ko'nikmalarini yaxshilashga undashi mumkin. <mark>To'siq bo'lishdan uzoqda</mark>, texnologiya savodxonlikni rivojlantirish uchun kuchli vositaga aylanishi mumkin.</p>\n\n<p>Shuni ham tan olish muhimki, savodxonlik statik tushuncha emas. 21-asrda samarali muloqot qilish uchun zarur bo'lgan ko'nikmalar avvalgi avlodlarnikidan farq qiladi. Yoshlar raqamli muhitda harakatlana olishlari, <mark>onlayn ma'lumotlarni tanqidiy baholay olishlari</mark> va turli platformalarda samarali muloqot qila olishlari kerak. Ushbu ko'nikmalar savodxonlikning boshqa turini talab qiladi, bu doimiy ravishda rivojlanib boradi. Shuning uchun, kompyuterlar va mobil telefonlardan foydalanishning ortishi an'anaviy savodxonlik uchun muammolarni keltirib chiqarishi mumkin bo'lsa-da, u yoshlarga zamonaviy dunyoda muvaffaqiyatga erishish uchun <mark>muhim ko'nikmalarni egallashlari</mark> uchun yangi imkoniyatlar yaratadi.</p>\n\n<p>Xulosa qilib aytganda, an'anaviy o'qish va yozish ko'nikmalariga salbiy ta'sir ko'rsatish potentsiali mavjud bo'lsa-da, menimcha, kompyuterlar va mobil telefonlardan foydalanishning ortishi yoshlarning savodxonligiga unchalik salbiy ta'sir ko'rsatmaydi. Aksincha, u ham muammolar, ham imkoniyatlarni taqdim etadi va barcha shakllarda savodxonlikni rivojlantirish uchun <mark>texnologiya kuchidan foydalanish</mark> o'qituvchilar va ota-onalarga bog'liq. <mark>Nozik yondashuv</mark> talab etiladi, bu raqamli aloqaning ham xavflarini, ham afzalliklarini tan oladi.</p>",
+    "uzSampleBand9": "<p>Kompyuterlar va mobil telefonlarning zamonaviy hayotga keng tarqalishi yoshlarning savodxonlik qobiliyatlariga ta'siri borasida bahs-munozaralarga sabab bo'ldi. O'qish va yozish mahoratining pasayishi haqidagi xavotirlar tushunarli bo'lsa-da, men ushbu texnologiyalar mohiyatan zararli degan fikrga mutlaqo qo'shilmayman. Aksincha, men ishonamanki, ulardan oqilona foydalanilganda, ular ushbu muhim sohalarda <mark>rivojlanishni jadallashtirishi</mark> mumkin.</p>\n\n<p>Ko'pincha bildiriladigan asosiy xavotirlardan biri shundaki, raqamli aloqaning tezkorligi va norasmiyligi, masalan, SMS va ijtimoiy media, <mark>soddalashtirilgan til va qisqartmalardan foydalanishni</mark> rag'batlantiradi, bu esa rasmiy yozish qobiliyatlarini susaytirishi mumkin. Bu to'g'ri fikr bo'lsa-da, texnologiyaning yozma kontent bilan kengroq aloqani rivojlantirish potentsialini e'tibordan chetda qoldiradi. Yoshlar hozirda yangiliklar maqolalari va bloglardan tortib, elektron kitoblar va onlayn forumlargacha bo'lgan misli ko'rilmagan hajmda matn bilan tanishmoqda. Ushbu doimiy ta'sir, hatto har doim ham an'anaviy formatlarda bo'lmasa ham, <mark>til bilan tanishishni</mark> va avvalgi avlodlarga qaraganda kengroq lug'at boyligini rivojlantirishi mumkin.</p>\n\n<p>Bundan tashqari, kompyuterlar va mobil telefonlar yozish qobiliyatini oshirish uchun innovatsion vositalarni taklif etadi. Matnni qayta ishlash dasturi grammatika va imlo tekshirish funksiyalarini taqdim etadi, ular to'g'ri ko'rsatma o'rnini bosa olmasa ham, yosh yozuvchilarga xatolarni aniqlash va tuzatishga yordam beradi. Onlayn hamkorlikda yozish platformalari talabalarga loyihalar ustida birgalikda ishlash imkonini beradi, <mark>tengdoshlar o'rganishini va tanqidiy fikr-mulohazalarni rag'batlantiradi</mark>. Bundan tashqari, internet onlayn yozish bo'yicha qo'llanmalar, lug'atlar va uslub qo'llanmalari kabi ko'plab resurslarga kirish imkoniyatini beradi va yoshlarga <mark>o'z o'rganishlariga egalik qilishga</mark> imkon beradi.</p>\n\n<p>To'g'ri, tegishli ko'rsatmalarsiz texnologiyaga <mark>cheklanmagan kirish</mark> salbiy oqibatlarga olib kelishi mumkin, masalan, jargonlarga tayanish va diqqatni jamlash qobiliyatining pasayishi. Biroq, bu texnologiyaning o'ziga xos kamchiligi emas, balki undan qanday foydalanilishining aksidir. O'qituvchilar va ota-onalar yoshlarga ushbu vositalardan mas'uliyatli va samarali foydalanishni o'rgatish, raqamli ishtirok va an'anaviy o'qitish usullari o'rtasida <mark>muvozanatni saqlash</mark> mas'uliyatiga ega. Potentsial xavflarni kamaytirgan holda texnologiyaning afzalliklaridan foydalanish uchun <mark>nozik yondashuv</mark> zarur.</p>\n\n<p>Xulosa qilib aytganda, salbiy ta'sirlar ehtimolini tan olgan holda, men kompyuterlar va mobil telefonlar yoshlarning o'qish va yozish qobiliyatlariga ijobiy ta'sir ko'rsatishi mumkinligiga qat'iy ishonaman. Yozma kontentning keng assortimentiga kirish imkoniyatini berish va o'rganish va hamkorlik uchun innovatsion vositalarni taklif qilish orqali, ushbu texnologiyalar, agar mas'uliyat bilan foydalanilsa, <mark>an'anaviy ta'lim amaliyotini kengaytirishi</mark> va <mark>raqamli savodxonlikka ega</mark> va ravon nutqli yangi avlodni <mark>yetishtirishi</mark> mumkin. Asosiysi, to'g'ridan-to'g'ri qoralashdan ko'ra, <mark>tanqidiy fikrlashni rivojlantirish</mark> va texnologiyadan mas'uliyatli foydalanishni ta'minlashdan iborat.</p>"
+   }
+  },
+  "source": "IELTS Fever",
+  "examDate": "2023-09-08",
+  "settings": {
+   "timeInfo": "60 Minutes",
+   "moduleTitle": "Academic Writing Module",
+   "testIdentifier": "Mock 04"
+  },
+  "vocabulary": {
+   "task1": [
+    {
+     "term": "Delineates",
+     "meaning": "To describe or portray something precisely."
+    },
+    {
+     "term": "Fluctuations",
+     "meaning": "Irregular rises and falls in number or amount; variations."
+    },
+    {
+     "term": "Upward trajectory",
+     "meaning": "A path or growth moving in an upward direction."
+    },
+    {
+     "term": "Volatility",
+     "meaning": "Likelihood to change rapidly and unpredictably, especially for the worse."
+    },
+    {
+     "term": "Pronounced acceleration",
+     "meaning": "A very noticeable and strong increase in speed or rate."
+    },
+    {
+     "term": "Stagnant",
+     "meaning": "Showing no activity; dull and sluggish."
+    },
+    {
+     "term": "Accrued",
+     "meaning": "Received or accumulated in regular or increasing amounts over time."
+    },
+    {
+     "term": "Substantial surge",
+     "meaning": "A large and sudden increase."
+    }
+   ],
+   "task2": [
+    {
+     "term": "Ubiquity",
+     "meaning": "The state of being everywhere at once (omnipresence)."
+    },
+    {
+     "term": "Detrimental",
+     "meaning": "Tending to cause harm; damaging."
+    },
+    {
+     "term": "Linguistic development",
+     "meaning": "The process by which children/people come to understand and communicate through language."
+    },
+    {
+     "term": "Erodes",
+     "meaning": "Gradually wears away or destroys."
+    },
+    {
+     "term": "Sustained reading",
+     "meaning": "The ability to stay focused on a text for a long period."
+    },
+    {
+     "term": "Unprecedented access",
+     "meaning": "Access that has never happened or been known before."
+    },
+    {
+     "term": "Communicative efficacy",
+     "meaning": "The ability to produce a desired or intended result in communication."
+    },
+    {
+     "term": "Complementary",
+     "meaning": "Combining in such a way as to enhance or emphasize the qualities of each other."
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "overall": {
+    "uz": "Umuman olganda",
+    "type": "linking"
+   },
+   "nowadays": {
+    "uz": "hozirgi kunda",
+    "type": "lexical"
+   },
+   "gradually": {
+    "uz": "asta-sekin",
+    "type": "lexical"
+   },
+   "may erode": {
+    "uz": "buzishi mumkin",
+    "type": "lexical"
+   },
+   "In essence": {
+    "uz": "Aslida",
+    "type": "linking"
+   },
+   "Furthermore": {
+    "uz": "Bundan tashqari",
+    "type": "linking"
+   },
+   "worth noting": {
+    "uz": "ta'kidlashga arziydi",
+    "type": "lexical"
+   },
+   "approximately": {
+    "uz": "taxminan",
+    "type": "lexical"
+   },
+   "in the period": {
+    "uz": "davrda",
+    "type": "lexical"
+   },
+   "not very good": {
+    "uz": "juda yaxshi emas",
+    "type": "lexical"
+   },
+   "rose steadily": {
+    "uz": "barqaror o'sdi",
+    "type": "lexical"
+   },
+   "ups and downs": {
+    "uz": "ko'tarilishlar va pasayishlar",
+    "type": "idiom"
+   },
+   "Overall, while": {
+    "uz": "Umuman olganda, garchi",
+    "type": "linking"
+   },
+   "find a balance": {
+    "uz": "muvozanatni topish",
+    "type": "lexical"
+   },
+   "also exposed to": {
+    "uz": "shuningdek duchor bo'lgan",
+    "type": "lexical"
+   },
+   "increased a lot": {
+    "uz": "ko'p oshdi",
+    "type": "lexical"
+   },
+   "partially agree": {
+    "uz": "qisman rozi bo'lish",
+    "type": "lexical"
+   },
+   "cultivating both": {
+    "uz": "ikkalasini ham rivojlantirish",
+    "type": "lexical"
+   },
+   "more than the UK": {
+    "uz": "Buyuk Britaniyadan ko'ra",
+    "type": "lexical"
+   },
+   "over-reliance on": {
+    "uz": "ortiqcha ishonch",
+    "type": "lexical"
+   },
+   "divergent pattern": {
+    "uz": "farqli naqsh",
+    "type": "lexical"
+   },
+   "do online quizzes": {
+    "uz": "onlayn testlar o'tkazish",
+    "type": "lexical"
+   },
+   "overarching trend": {
+    "uz": "asosiy tendentsiya",
+    "type": "lexical"
+   },
+   "potential decline": {
+    "uz": "ehtimoliy pasayish",
+    "type": "lexical"
+   },
+   "unfettered access": {
+    "uz": "cheklanmagan kirish",
+    "type": "lexical"
+   },
+   "were quite stable": {
+    "uz": "ancha barqaror edi",
+    "type": "lexical"
+   },
+   "A nuanced approach": {
+    "uz": "Nozik yondashuv",
+    "type": "colloc"
+   },
+   "rebounded strongly": {
+    "uz": "kuchli tiklandi",
+    "type": "lexical"
+   },
+   "striking a balance": {
+    "uz": "muvozanatga erishish",
+    "type": "colloc"
+   },
+   "considerably higher": {
+    "uz": "ancha yuqori",
+    "type": "lexical"
+   },
+   "becoming more common": {
+    "uz": "ko'proq tarqalmoqda",
+    "type": "lexical"
+   },
+   "are required to adapt": {
+    "uz": "moslashish talab etiladi",
+    "type": "academic"
+   },
+   "catalyse improvements": {
+    "uz": "yaxshilanishlarni tezlashtirish",
+    "type": "academic"
+   },
+   "often use short forms": {
+    "uz": "ko'pincha qisqa shakllardan foydalanadi",
+    "type": "lexical"
+   },
+   "diverged significantly": {
+    "uz": "sezilarli darajada farq qildi",
+    "type": "lexical"
+   },
+   "consistent appreciation": {
+    "uz": "doimiy qadrlash",
+    "type": "lexical"
+   },
+   "pronounced upward trend": {
+    "uz": "aniq o'sish tendentsiyasi",
+    "type": "lexical"
+   },
+   "unprecedented wealth of": {
+    "uz": "misli ko'rilmagan boylik",
+    "type": "lexical"
+   },
+   "witnessed a sharp surge": {
+    "uz": "keskin o'sishga guvoh bo'ldi",
+    "type": "academic"
+   },
+   "The most dramatic change": {
+    "uz": "Eng keskin o'zgarish",
+    "type": "lexical"
+   },
+   "acquire essential skills": {
+    "uz": "Muhim ko'nikmalarni egallash",
+    "type": "lexical"
+   },
+   "illustrates fluctuations": {
+    "uz": "tebranishlarni tasvirlaydi",
+    "type": "lexical"
+   },
+   "reaching a similar level": {
+    "uz": "shunga o'xshash darajaga yetish",
+    "type": "lexical"
+   },
+   "not good for their future": {
+    "uz": "kelajaklari uchun yaxshi emas",
+    "type": "lexical"
+   },
+   "Far from being a hindrance": {
+    "uz": "To'siq bo'lishdan uzoq",
+    "type": "academic"
+   },
+   "fostering critical thinking": {
+    "uz": "tanqidiy fikrlashni rivojlantirish",
+    "type": "academic"
+   },
+   "presents certain challenges": {
+    "uz": "ma'lum qiyinchiliklarni keltirib chiqaradi",
+    "type": "academic"
+   },
+   "comparatively gentle incline": {
+    "uz": "nisbatan yumshoq ko'tarilish",
+    "type": "lexical"
+   },
+   "culminating at approximately": {
+    "uz": "taxminan bilan yakunlanadi",
+    "type": "lexical"
+   },
+   "in three different countries": {
+    "uz": "uch xil davlatda",
+    "type": "lexical"
+   },
+   "exhibited the most volatility": {
+    "uz": "eng ko'p o'zgaruvchanlikni namoyish etdi",
+    "type": "academic"
+   },
+   "followed by a partial recovery": {
+    "uz": "qisman tiklanish bilan davom etdi",
+    "type": "lexical"
+   },
+   "learn about different cultures": {
+    "uz": "turli madaniyatlar haqida o'rganish",
+    "type": "lexical"
+   },
+   "The trajectory of price changes": {
+    "uz": "Narx o'zgarishlarining yo'nalishi",
+    "type": "academic"
+   },
+   "harness the power of technology": {
+    "uz": "texnologiya kuchidan foydalanish",
+    "type": "academic"
+   },
+   "outperforming the other nations": {
+    "uz": "boshqa davlatlardan ustun kelmoqda",
+    "type": "academic"
+   },
+   "take ownership of their learning": {
+    "uz": "o'z o'qishlariga egalik qilish",
+    "type": "academic"
+   },
+   "erode a young person's command of": {
+    "uz": "yoshning buyruqni buzish",
+    "type": "academic"
+   },
+   "surpassing the other two countries": {
+    "uz": "boshqa ikki davlatdan o'tib ketish",
+    "type": "academic"
+   },
+   "thereby limiting their exposure to": {
+    "uz": "shu bilan ularning ... ta'sirini cheklaydi",
+    "type": "academic"
+   },
+   "cultivate a familiarity with language": {
+    "uz": "til bilan tanishlikni rivojlantirish",
+    "type": "academic"
+   },
+   "simplified language and abbreviations": {
+    "uz": "soddalashtirilgan til va qisqartmalar",
+    "type": "lexical"
+   },
+   "critically evaluate online information": {
+    "uz": "onlayn ma'lumotlarni tanqidiy baholash",
+    "type": "academic"
+   },
+   "illustrates the average price of houses": {
+    "uz": "uylarning o'rtacha narxini tasvirlaydi",
+    "type": "lexical"
+   },
+   "augment traditional educational practices": {
+    "uz": "an'anaviy ta'lim amaliyotlarini kengaytirish",
+    "type": "academic"
+   },
+   "demonstrated steady and substantial growth": {
+    "uz": "barqaror va sezilarli o'sishni namoyish etdi",
+    "type": "academic"
+   },
+   "fostering peer learning and critical feedback": {
+    "uz": "tengdoshlar o'rganishi va tanqidiy fikr-mulohazalarni rivojlantirish",
+    "type": "academic"
+   },
+   "cultivate a new generation of digitally literate": {
+    "uz": "raqamli savodxonlikka ega yangi avlodni yetishtirish",
+    "type": "academic"
+   }
+  }
+ },
+ "created_at": "2026-05-06T17:28:30.040402+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

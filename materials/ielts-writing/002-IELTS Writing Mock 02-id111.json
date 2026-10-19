@@ -1,0 +1,478 @@
+{
+ "id": 111,
+ "mock_type": "ielts-writing",
+ "mock_number": 2,
+ "title": "IELTS Writing Mock 02",
+ "status": "published",
+ "mock_data": {
+  "tasks": {
+   "task1": {
+    "title": "Expenditure of studying abroad",
+    "prompt": "The graph below shows the percentage of households with different kinds of technology in the U.S. from 1995 to 1999.",
+    "wordGoal": 150,
+    "chartDesc": {
+     "title": "Percentage of households",
+     "xAxis": "Year (1995 to 1999)",
+     "yAxis": "Percentage of households (%)",
+     "period": "1995 to 1999",
+     "series": [
+      {
+       "name": "washing machine",
+       "points": [
+        {
+         "at": "1995",
+         "value": 60
+        },
+        {
+         "at": "1996",
+         "value": 68
+        },
+        {
+         "at": "1997",
+         "value": 70
+        },
+        {
+         "at": "1998",
+         "value": 75
+        },
+        {
+         "at": "1999",
+         "value": 80
+        }
+       ]
+      },
+      {
+       "name": "computer",
+       "points": [
+        {
+         "at": "1995",
+         "value": 40
+        },
+        {
+         "at": "1996",
+         "value": 45
+        },
+        {
+         "at": "1997",
+         "value": 50
+        },
+        {
+         "at": "1998",
+         "value": 58
+        },
+        {
+         "at": "1999",
+         "value": 70
+        }
+       ]
+      },
+      {
+       "name": "phone",
+       "points": [
+        {
+         "at": "1995",
+         "value": 18
+        },
+        {
+         "at": "1996",
+         "value": 20
+        },
+        {
+         "at": "1997",
+         "value": 30
+        },
+        {
+         "at": "1998",
+         "value": 45
+        },
+        {
+         "at": "1999",
+         "value": 75
+        }
+       ]
+      },
+      {
+       "name": "Internet",
+       "points": [
+        {
+         "at": "1995",
+         "value": 10
+        },
+        {
+         "at": "1996",
+         "value": 18.5
+        },
+        {
+         "at": "1997",
+         "value": 21.5
+        },
+        {
+         "at": "1998",
+         "value": 30
+        },
+        {
+         "at": "1999",
+         "value": 50
+        }
+       ]
+      },
+      {
+       "name": "DVD player",
+       "points": [
+        {
+         "at": "1995",
+         "value": 25
+        },
+        {
+         "at": "1996",
+         "value": 15
+        },
+        {
+         "at": "1997",
+         "value": 21
+        },
+        {
+         "at": "1998",
+         "value": 30
+        },
+        {
+         "at": "1999",
+         "value": 40
+        }
+       ]
+      }
+     ],
+     "overview": "Overall, ownership of all five technologies experienced an upward trend over the period, with washing machines remaining the most common technology throughout. The most dramatic growth was seen in phone ownership, which surpassed computers by 1999.",
+     "chartType": "line graph",
+     "confidence": "medium",
+     "unreadable": [],
+     "verifiedBy": "human-completed",
+     "keyFeatures": [
+      "Washing machine ownership was the highest in all years, rising from 60% in 1995 to 80% in 1999.",
+      "Phone ownership saw the steepest rise, starting at under 20% in 1995 and overtaking computers to reach 75% in 1999.",
+      "Internet ownership grew fivefold from 10% in 1995 to 50% in 1999.",
+      "DVD player ownership was the only category to experience a drop initially (from 25% in 1995 to 15% in 1996) before steadily increasing to 40% in 1999."
+     ]
+    },
+    "chartType": "bar_chart",
+    "dataNature": "static",
+    "instruction": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+    "sampleBand5": "<p>The graph shows the percentage of people in the U.S. who had different technology in their houses from 1995 to 1999. It shows information about computers, <mark>mobile phones</mark>, and the internet.</p>\n<p>In 1995, computers were the most popular technology. About 30% of households had one. Mobile phones were less popular, with around 10%. Internet use was also low, at about the same level. <mark>Over the period</mark>, the percentage of households with each technology increased.</p>\n<p>The biggest increase was for computers and the internet. By 1999, over 40% of households had a computer. Internet use also went up a lot, to about 30%. Mobile phones also became more popular, reaching about 20%. <mark>It can be seen that</mark> the increase was not the same for all technologies. <mark>Overall</mark>, more people had these technologies in 1999 than in 1995.</p>",
+    "sampleBand6": "<p>The graph shows the proportion of houses in the United States <mark>that have got different types of technology</mark> between 1995 and 1999.</p>\n<p>Overall, most households had telephones, and this stayed the highest. While other technologies saw an increase in usage during the period. There was a <mark>general upward trend</mark> for all technologies apart from telephone.</p>\n<p>In 1995, over 90% of houses had a telephone. This figure decreased slightly to around 85% in 1999. The percentage of households with a computer rose from about 30% to 60% in 1999. Mobile phones <mark>also saw a rise</mark>, starting at about 5% and reaching approximately 35% at the end of the period. The internet <mark>started from a very low point</mark> of almost zero in 1995, but it grew to about 30% by 1999.</p>\n<p>In conclusion, while telephone ownership decreased, computer, mobile phone and internet usage all increased significantly. Mobile phone and internet <mark>experienced the most growth</mark> during this time.</p>",
+    "sampleBand7": "<p>The line graph <mark>illustrates the proportion of</mark> American households that possessed different technological devices between 1995 and 1999.</p>\n\n<p>Overall, the percentage of households with each type of technology increased over the period. The most significant growth was observed in mobile phone ownership, while the rise in households with a personal computer was comparatively modest. <mark>It is also noticeable that</mark> the telephone remained the most prevalent technology throughout.</p>\n\n<p>In 1995, nearly all households, at approximately 98%, had a telephone. This figure remained relatively stable, experiencing only a slight increase to around 99% by 1999. Conversely, mobile phone ownership started at a low base of approximately 10% in 1995 but <mark>experienced a dramatic surge</mark> to about 68% by 1999. The proportion of households with a personal computer also increased, from roughly 30% to 60% over the five-year period. <mark>Finally, the proportion of households with</mark> access to the internet <mark>witnessed substantial growth</mark> from a starting point of around 5% to just over 30% by the end of the period.</p>\n\n<p><mark>In summary</mark>, while telephones maintained their dominance, mobile phones and internet access saw the most substantial increases in household penetration during the late 1990s.</p>",
+    "sampleBand8": "<p>The line graph <mark>illustrates the proportion of</mark> American households possessing different types of technology between 1995 and 1999. Overall, the percentage of households with each technology increased, with mobile phones experiencing the most dramatic rise.</p>\n\n<p>In 1995, fewer than 10% of households owned a mobile phone. This figure <mark>skyrocketed over the period</mark>, reaching approximately 35% by 1999. Conversely, the percentage of homes with a computer started at around 20% in 1995 and increased steadily to about 45% by the end of the period. <mark>A similar upward trend</mark> was observed for internet access, which began at a low of around 5% but <mark>climbed substantially</mark> to just over 30% in 1999.</p>\n\n<p>Interestingly, while all technologies saw growth, the rate of adoption varied. The growth in mobile phone ownership <mark>outstripped that of</mark> computers and internet access, particularly in the latter years of the period. By 1999, computer ownership was the most prevalent, followed by mobile phones, with internet access <mark>lagging somewhat behind</mark>. The data <mark>clearly demonstrates the increasing integration of technology</mark> into American homes during this time, with mobile phones emerging as a <mark>particularly popular</mark> technological device. This period <mark>witnessed a surge</mark> in the use of technology.</p>",
+    "sampleBand9": "<p>The graph <mark>illustrates the fluctuating prevalence</mark> of four distinct types of technology within American households over a five-year period, from 1995 to 1999.</p>\n\n<p>Overall, the percentage of households owning each type of technology increased, though at varying rates. Telephone ownership remained consistently high, while the growth in computer and mobile phone ownership was particularly pronounced. Cable television subscriptions also saw a notable increase, albeit less dramatic than that of computers and mobile phones.</p>\n\n<p>Specifically, telephone ownership <mark>hovered around a near-ubiquitous level</mark>, starting at approximately 98% in 1995 and experiencing only a marginal increase to around 99% by 1999. In stark contrast, computer ownership began at a relatively modest 35% in 1995 but <mark>surged upwards</mark> to reach approximately 65% by the end of the period. Mobile phone ownership witnessed an even more <mark>exponential expansion</mark>, climbing from a mere 5% in 1995 to around 45% in 1999. Cable television subscriptions also demonstrated growth, increasing from approximately 62% to around 77% over the same timeframe.</p>\n\n<p>In conclusion, while telephone ownership was already widespread, the <mark>proliferation of</mark> computers and mobile phones marked a significant shift in household technology adoption during this period, <mark>reflecting evolving consumer preferences</mark> and <mark>technological advancements</mark>. Cable television also experienced considerable gains, albeit to a lesser extent. The data <mark>underscores the rapid pace of technological integration</mark> into American homes during the late 1990s, a trend that <mark>continues to shape</mark> modern society.</p>",
+    "timeMinutes": 20,
+    "chartDescImg": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/mock02-households-technology-v2.png",
+    "sampleAnswer": "The graph illustrates the proportion of American households equipped with three types of technology—personal computers, mobile phones, and internet access—over a five-year period from 1995 to 1999.\n\nOverall, all three technologies experienced significant growth during this period, with mobile phones showing the most dramatic increase. By 1999, mobile phones had become the most widely owned technology among the three categories.\n\nIn 1995, personal computers were present in approximately 30% of US households, making them the most common technology at that time. This figure rose steadily to around 50% by 1999. Internet access, which started at roughly 5% in 1995, grew at a remarkable pace, climbing to approximately 35% by the end of the period.\n\nMobile phone ownership showed the steepest growth trajectory. Starting from about 20% in 1995, the percentage of households with mobile phones surged to nearly 60% in 1999, overtaking personal computer ownership around 1998. This rapid adoption can be attributed to declining handset prices and expanding network coverage during the late 1990s.\n\nIn summary, while all three technologies saw substantial uptake among American households between 1995 and 1999, mobile phones experienced the fastest rate of adoption, transforming from the least popular to the most prevalent technology within just four years.",
+    "chartImageUrl": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/mock02-households-technology-v2.png",
+    "uzSampleBand5": "<p>Grafik AQShda 1995-yildan 1999-yilgacha odamlarning uylarida turli texnologiyalarning foizini ko'rsatadi. Unda kompyuterlar, <mark>mobil telefonlar</mark> va internet haqida ma'lumotlar keltirilgan.</p>\n<p>1995-yilda kompyuterlar eng mashhur texnologiya edi. Taxminan 30% uy xo'jaliklarida bittadan bor edi. Mobil telefonlar unchalik mashhur emas edi, taxminan 10% atrofida. Internetdan foydalanish ham past edi, taxminan shu darajada. <mark>Davr mobaynida</mark>, har bir texnologiyaga ega bo'lgan uy xo'jaliklarining foizi oshdi.</p>\n<p>Eng katta o'sish kompyuterlar va internetda bo'ldi. 1999-yilga kelib, 40% dan ortiq uy xo'jaliklarida kompyuter bor edi. Internetdan foydalanish ham juda ko'paydi, taxminan 30% ga. Mobil telefonlar ham ommalashib, taxminan 20% ga yetdi. <mark>Ko'rinib turibdiki</mark>, o'sish barcha texnologiyalar uchun bir xil emas edi. <mark>Umuman olganda</mark>, 1999-yilda bu texnologiyalarga ega bo'lgan odamlar 1995-yilga qaraganda ko'proq edi.</p>",
+    "uzSampleBand6": "<p>Grafik Qo'shma Shtatlardagi uylarning 1995 yildan 1999 yilgacha bo'lgan davrda <mark>turli xil texnologiyalarga ega bo'lgan</mark> qismini ko'rsatadi.</p>\n<p>Umuman olganda, aksariyat xonadonlarda telefonlar bor edi va bu eng yuqori ko'rsatkich bo'lib qoldi. Boshqa texnologiyalar davr mobaynida foydalanishning ortishini ko'rdi. Telefondan tashqari barcha texnologiyalar uchun <mark>umumiy o'sish tendentsiyasi</mark> mavjud edi.</p>\n<p>1995 yilda uylarning 90% dan ortig'ida telefon bor edi. Bu ko'rsatkich 1999 yilda taxminan 85% gacha biroz kamaydi. Kompyuterga ega bo'lgan xonadonlar ulushi taxminan 30% dan 1999 yilda 60% gacha o'sdi. Mobil telefonlar ham <mark>o'sishni ko'rdi</mark>, taxminan 5% dan boshlanib, davr oxirida taxminan 35% ga yetdi. Internet 1995 yilda deyarli nol <mark>juda past nuqtadan boshlangan</mark>, ammo 1999 yilga kelib taxminan 30% gacha o'sdi.</p>\n<p>Xulosa qilib aytganda, telefon egaligi kamaygan bo'lsa-da, kompyuter, mobil telefon va internetdan foydalanish sezilarli darajada oshdi. Mobil telefon va internet <mark>eng ko'p o'sishni boshdan kechirdi</mark> shu vaqt ichida.</p>",
+    "uzSampleBand7": "<p>Chiziqli grafik 1995 yildan 1999 yilgacha bo'lgan davrda turli texnologik qurilmalarga ega bo'lgan Amerika uy xo'jaliklarining <mark>nisbatini ko'rsatadi</mark>.</p>\n\n<p>Umuman olganda, har bir turdagi texnologiyaga ega uy xo'jaliklarining foizi davr mobaynida oshdi. Eng sezilarli o'sish mobil telefon egaligida kuzatildi, shaxsiy kompyuterga ega uy xo'jaliklarining o'sishi esa nisbatan kamtarona bo'ldi. <mark>Shuni ham ta'kidlash joizki</mark>, telefon butun davr mobaynida eng keng tarqalgan texnologiya bo'lib qoldi.</p>\n\n<p>1995 yilda deyarli barcha uy xo'jaliklari, taxminan 98%, telefonga ega edi. Bu ko'rsatkich nisbatan barqaror bo'lib qoldi va 1999 yilga kelib atigi 99% gacha biroz o'sdi. Aksincha, mobil telefon egaligi 1995 yilda taxminan 10% past bazadan boshlandi, lekin 1999 yilga kelib taxminan 68% gacha <mark>keskin o'sishni boshdan kechirdi</mark>. Shaxsiy kompyuterga ega uy xo'jaliklarining ulushi ham oshdi, besh yillik davr mobaynida taxminan 30% dan 60% gacha. <mark>Nihoyat, internetga</mark> ulanish <mark>imkoniyatiga ega uy xo'jaliklarining ulushi sezilarli o'sishni kuzatdi</mark>, davr oxiriga kelib taxminan 5% dan 30% dan sal ko'proqqa yetdi.</p>\n\n<p><mark>Xulosa qilib aytganda</mark>, telefonlar o'z hukmronligini saqlab qolgan bo'lsa-da, mobil telefonlar va internetga ulanish 1990-yillarning oxirida uy xo'jaliklariga kirib borishda eng katta o'sishni ko'rsatdi.</p>",
+    "uzSampleBand8": "<p>Chiziqli grafik 1995 va 1999 yillar oralig'ida turli xil texnologiyalarga ega bo'lgan Amerika uy xo'jaliklarining <mark>nisbatini ko'rsatadi</mark>. Umuman olganda, har bir texnologiyaga ega uy xo'jaliklari foizi oshdi, bunda mobil telefonlar eng keskin o'sishni boshdan kechirdi.</p>\n\n<p>1995 yilda uy xo'jaliklarining 10% dan kamrog'i mobil telefonga ega edi. Bu ko'rsatkich <mark>davr mobaynida keskin o'sdi</mark> va 1999 yilga kelib taxminan 35% ga yetdi. Aksincha, kompyuterga ega bo'lgan uylarning foizi 1995 yilda taxminan 20% dan boshlangan va davr oxiriga kelib taxminan 45% gacha barqaror ravishda o'sdi. Internetga kirish uchun ham <mark>shunga o'xshash o'sish tendentsiyasi</mark> kuzatildi, u taxminan 5% dan boshlangan, ammo 1999 yilda 30% dan sal ko'proqqa <mark>sezilarli darajada ko'tarildi</mark>.</p>\n\n<p>Qizig'i shundaki, barcha texnologiyalar o'sishni ko'rgan bo'lsa-da, qabul qilish tezligi har xil edi. Mobil telefon egaligining o'sishi, ayniqsa, davrning oxirgi yillarida kompyuterlar va internetga kirish <mark>o'sishidan oshib ketdi</mark>. 1999 yilga kelib, kompyuter egaligi eng keng tarqalgan edi, undan keyin mobil telefonlar, internetga kirish esa <mark>biroz orqada qoldi</mark>. Ma'lumotlar <mark>texnologiyaning Amerika uylariga tobora integratsiyalashuvini aniq ko'rsatadi</mark>, bunda mobil telefonlar <mark>ayniqsa mashhur</mark> texnologik qurilma sifatida paydo bo'ldi. Bu davr texnologiyadan foydalanishda <mark>keskin o'sishga guvoh bo'ldi</mark>.</p>",
+    "uzSampleBand9": "<p>Grafik 1995-yildan 1999-yilgacha bo'lgan besh yillik davr mobaynida Amerika uy xo'jaliklarida to'rtta turli texnologiya tarqalishining <mark>o'zgaruvchan darajasini ko'rsatadi</mark>.</p>\n\n<p>Umuman olganda, har bir turdagi texnologiyaga ega bo'lgan uy xo'jaliklarining foizi o'sdi, garchi o'sish sur'atlari har xil bo'lsa ham. Telefon egaligi doimiy ravishda yuqori bo'lib qoldi, kompyuter va mobil telefon egaligining o'sishi ayniqsa sezilarli bo'ldi. Kabel televideniesi obunalari ham sezilarli o'sishni ko'rsatdi, garchi kompyuterlar va mobil telefonlarnikidan kamroq bo'lsa ham.</p>\n\n<p>Xususan, telefon egaligi 1995-yilda taxminan 98% dan boshlanib, 1999-yilga kelib atigi 99% gacha marginal o'sishni boshdan kechirgan holda, <mark>deyarli hamma joyda bo'lgan darajada ushlab turildi</mark>. Aksincha, kompyuter egaligi 1995-yilda nisbatan kamtarona 35% dan boshlangan, ammo davr oxiriga kelib taxminan 65% ga yetib, <mark>keskin ko'tarildi</mark>. Mobil telefon egaligi yanada <mark>ekspansion o'sishni</mark> kuzatdi, 1995-yilda atigi 5% dan 1999-yilga kelib taxminan 45% gacha ko'tarildi. Kabel televideniesi obunalari ham o'sishni ko'rsatdi, shu vaqt oralig'ida taxminan 62% dan 77% gacha oshdi.</p>\n\n<p>Xulosa qilib aytganda, telefon egaligi allaqachon keng tarqalgan bo'lsa-da, kompyuterlar va mobil telefonlarning <mark>ko'payishi</mark> ushbu davrda uy xo'jaliklarida texnologiyalarni qabul qilishda sezilarli o'zgarishni ko'rsatdi, bu <mark>iste'molchilarning o'zgaruvchan afzalliklarini</mark> va <mark>texnologik yutuqlarni aks ettiradi</mark>. Kabel televideniesi ham sezilarli yutuqlarga erishdi, garchi kamroq darajada bo'lsa ham. Ma'lumotlar 1990-yillarning oxirida Amerika uylariga <mark>texnologik integratsiyaning tez sur'atini ta'kidlaydi</mark>, bu tendentsiya zamonaviy jamiyatni <mark>shakllantirishda davom etmoqda</mark>.</p>",
+    "chartDescSource": "extracted-verified-2026-08-05"
+   },
+   "task2": {
+    "title": "Responsibility for environmental protection",
+    "prompt": "Environmental protection should be the responsibility of politicians, not individuals as individuals can do too little. To what extent do you agree or disagree?",
+    "wordGoal": 250,
+    "essayType": "opinion",
+    "instruction": "Discuss both sides and give your own opinion. Give reasons for your answer and include relevant examples from your own knowledge or experience. Write at least 250 words.",
+    "sampleBand5": "<p>It is true that <mark>the environment is important</mark> and we need to do things to protect it. Some people think that the politicians are the ones who should do the most because they have more power. They can make rules and laws that everyone has to follow. But other people think that everyone should do their part, even if it is just a little bit.</p>\n\n<p>Politicians can do big things like make factories use cleaner energy or stop people from cutting down too many trees. They can also <mark>give money to help</mark> scientists find new ways to protect the environment. For example, in my country, the government made a law about recycling. This means that people have to separate their trash so that some of it can be used again. This is a good thing, but it only works if people actually do it.</p>\n\n<p>Individuals can also do things to help, even if it seems small. We can recycle, use less water, and turn off the lights when we leave a room. We can also <mark>buy things that are good for the environment</mark>, like products that are made from recycled materials. If everyone does these small things, it can make a big difference. For example, my family tries to use less plastic. We bring our own bags to the store and we use reusable water bottles.</p>\n\n<p>In conclusion, I think that both politicians and individuals have a responsibility to protect the environment. Politicians can make big changes, but individuals can also make a difference by doing small things every day. <mark>It is important</mark> for everyone to work together to make the world a better place. If we don't, then the future will be bad.</p>",
+    "sampleBand6": "<p>The issue of environmental protection is a pressing one, and there is debate about who should be responsible. Some people think that politicians are the key players, while others believe that individuals also have a role to play. I think that both politicians and individuals need to work together to protect the environment.</p>\n\n<p>On the one hand, it is true that <mark>individuals can feel powerless</mark>. Things like recycling and using less water are good, but they might not seem like they make a big difference when companies are polluting rivers or governments are cutting down forests. Also, not everyone is willing or able to make these changes. For example, people on low incomes might not be able to afford eco-friendly products, and they might be more worried about <mark>putting food on the table</mark> than reducing their carbon footprint.</p>\n\n<p>On the other hand, politicians have the power to make big changes. They can pass laws to stop companies from polluting, <mark>invest in renewable energy</mark>, and protect endangered species. However, politicians are often influenced by businesses and lobbyists, and they may not always act in the best interests of the environment. <mark>Furthermore, if individuals don't care about the environment</mark>, they are less likely to vote for politicians who will protect it.</p>\n\n<p>In conclusion, while politicians have a crucial role to play in setting environmental policy and enforcing regulations, individuals also have a responsibility. If people start <mark>making small changes</mark> in their own lives and demand more from their leaders, it can create a powerful movement for change. Therefore, it is important for both politicians and individuals to work together to protect our planet for future generations.\n</p>",
+    "sampleBand7": "<p>The question of who bears the primary responsibility for environmental protection is a complex one. While some argue that individuals' actions are too insignificant to make a real difference and that politicians should take the lead, I believe that a combined approach, with both politicians and individuals playing their part, is essential. Politicians certainly have a crucial role, but individual responsibility cannot be dismissed.</p>\n\n<p>On the one hand, the power of politicians to enact meaningful change is undeniable. They can <mark>implement sweeping legislation</mark> concerning pollution standards for industries, invest in renewable energy infrastructure, and create international agreements to tackle global issues like climate change. For example, the European Union's commitment to reducing carbon emissions through the 'Fit for 55' package demonstrates the <mark>potential impact of governmental policies</mark>. Furthermore, politicians control budgets and can allocate resources to environmental protection efforts in a way that individuals simply cannot.</p>\n\n<p>However, to suggest that individuals have no meaningful role to play is to ignore the cumulative effect of individual actions. While one person recycling their waste may seem insignificant, millions of people doing so collectively can make a substantial difference. <mark>Moreover, individual choices</mark> regarding transportation, consumption habits, and energy usage all contribute to the overall environmental impact. For instance, choosing to cycle to work instead of driving, or opting for sustainable products over disposable ones, are actions that, when widely adopted, can <mark>significantly reduce our collective footprint</mark>. Furthermore, individuals can <mark>exert pressure on politicians</mark> to take environmental issues seriously through voting, campaigning, and raising awareness.</p>\n\n<p>In conclusion, while politicians possess the power to enact large-scale environmental policies, individuals have a crucial role to play in supporting and reinforcing these efforts through their daily choices and actions. A <mark>truly effective approach</mark> requires a synergy between top-down governmental action and bottom-up individual responsibility. <mark>Dismissing individual contributions</mark> undermines the potential for widespread change and ultimately hinders progress towards a more sustainable future. It is not an either/or situation, but rather a question of shared responsibility.</p>",
+    "sampleBand8": "<p>The debate surrounding environmental protection often centres on the allocation of responsibility. While some argue that <mark>the onus should primarily fall</mark> on politicians due to the limited impact of individual actions, I believe that a shared responsibility, with both politicians and individuals playing active roles, is crucial for effective environmental stewardship.</p>\n\n<p>Proponents of politician-led environmentalism contend that large-scale policy changes are necessary to address systemic issues. They point to the <mark>legislative power</mark> politicians possess, enabling them to enact regulations on industries, invest in renewable energy infrastructure, and implement carbon pricing mechanisms. For instance, the European Union's Emissions Trading System, a cap-and-trade system for greenhouse gas emissions, exemplifies how political intervention can drive significant reductions in pollution. Furthermore, international agreements like the Paris Agreement demonstrate the capacity of politicians to <mark>forge global consensus</mark> on environmental goals, a feat arguably beyond the reach of individual citizens.</p>\n\n<p>However, dismissing the role of individuals as insignificant is a misconception. While individual actions may seem small in isolation, their cumulative impact can be substantial. <mark>Conscious consumption choices</mark>, such as reducing meat consumption, opting for public transport, and minimizing waste, collectively contribute to a reduced environmental footprint. Moreover, individual engagement can create a groundswell of public support for environmental policies, thereby influencing political decision-making. The widespread adoption of recycling programs, often initiated at the community level, demonstrates how individual action can translate into broader societal change. <mark>Furthermore, citizen advocacy</mark> through environmental organizations and activism can hold politicians accountable and push for more ambitious environmental agendas.</p>\n\n<p>In conclusion, while politicians undoubtedly have a vital role to play in enacting and enforcing environmental regulations, individual responsibility is equally indispensable. A <mark>synergistic approach</mark>, where political action is complemented by individual commitment, is the most effective way to address the complex challenges of environmental protection. To suggest that individuals can do too little <mark>overlooks the potential for collective action</mark> and the power of individual choices to shape a more sustainable future. <mark>Ultimately, fostering a sense of shared ownership</mark> is paramount to achieving meaningful environmental progress. <mark>This necessitates both top-down policy interventions</mark> and bottom-up initiatives driven by informed and engaged citizens.</p>",
+    "sampleBand9": "<p>The debate regarding responsibility for environmental protection often centres on whether politicians or individuals should bear the primary burden. While it is true that individual actions, on their own, may seem insufficient to tackle large-scale environmental problems, I believe that both politicians and individuals have crucial, and indeed complementary, roles to play in <mark>safeguarding our planet</mark>.</p>\n\n<p>On the one hand, the argument for placing responsibility on politicians is compelling. Governments possess the legislative power to enact and enforce environmental regulations, <mark>incentivise sustainable practices</mark> through subsidies and tax breaks, and invest in large-scale infrastructure projects such as renewable energy plants and public transportation networks. For example, the European Union's commitment to the Green Deal, a comprehensive plan to achieve climate neutrality by 2050, demonstrates the potential impact of governmental policies. <mark>Furthermore</mark>, international agreements, such as the Paris Agreement, require political commitment and cooperation to address global environmental challenges effectively. Without such top-down initiatives, individual efforts are likely to be <mark>rendered largely ineffectual</mark>.</p>\n\n<p>However, to argue that individuals can do too little is to underestimate the collective power of individual actions and the importance of fostering a sense of environmental responsibility at the grassroots level. While a single person's recycling efforts may seem insignificant, the cumulative effect of millions of individuals adopting eco-friendly habits, such as reducing consumption, using public transport, and supporting sustainable businesses, can be substantial. <mark>Beyond this</mark>, individuals play a crucial role in holding politicians accountable. Through activism, advocacy, and informed voting, citizens can exert pressure on governments to prioritize environmental issues and implement stricter regulations. The rise of environmental awareness movements, driven by concerned individuals, has demonstrably influenced policy decisions in many countries. <mark>Moreover</mark>, individual innovation and entrepreneurship can lead to the development of new technologies and solutions that contribute to environmental sustainability. For instance, the development of electric vehicles and plant-based meat alternatives has been largely driven by individual initiatives and consumer demand.</p>\n\n<p>In conclusion, while governmental policies and international agreements are undoubtedly essential for addressing large-scale environmental problems, individual actions and a <mark>groundswell of public support</mark> are equally vital. Environmental protection is not solely the responsibility of politicians; it is a shared responsibility that requires a <mark>synergistic approach</mark> involving both top-down and bottom-up initiatives. A truly sustainable future can only be achieved when individuals and politicians work together, each contributing their respective strengths to <mark>mitigate environmental degradation</mark> and promote a healthier planet for future generations. <mark>Ultimately</mark>, the onus is on all of us to act.</p>",
+    "timeMinutes": 40,
+    "sampleAnswer": "There is an ongoing debate about whether the responsibility for protecting the environment should rest primarily with politicians and governments, rather than with ordinary citizens. While I acknowledge that governmental action is indispensable for addressing large-scale environmental challenges, I disagree with the view that individuals can do too little to make a meaningful difference.\n\nAdmittedly, politicians and governments possess the authority and resources to implement sweeping environmental policies that individuals cannot. For instance, they can enact legislation to limit industrial emissions, impose carbon taxes on major polluters, and invest in renewable energy infrastructure. International agreements such as the Paris Climate Accord demonstrate how governmental cooperation can establish binding targets for reducing greenhouse gas emissions on a global scale. Without such top-down regulation, corporations would have little incentive to adopt environmentally sustainable practices.\n\nHowever, it would be misguided to dismiss the collective impact of individual actions. When millions of people make conscious decisions to reduce their carbon footprint—by using public transport, recycling waste, reducing energy consumption, or choosing sustainably sourced products—the cumulative effect is substantial. Consumer demand has already driven many companies to adopt greener packaging and production methods. Furthermore, individuals play a critical role in holding politicians accountable by voting for environmentally conscious leaders and participating in grassroots campaigns that raise public awareness.\n\nMoreover, environmental protection requires a cultural shift in attitudes and behaviours that cannot be achieved through legislation alone. Education and personal responsibility are essential for fostering a society that genuinely values sustainability. Governments can provide the framework, but lasting change ultimately depends on the willingness of individuals to embrace and sustain environmentally friendly habits.\n\nIn conclusion, while political leadership is crucial for tackling environmental issues at a systemic level, individuals also bear significant responsibility. Effective environmental protection demands a collaborative effort between governments and citizens alike.",
+    "uzSampleBand5": "<p>To‘g‘ri, <mark>atrof-muhit muhim</mark> va uni himoya qilish uchun chora ko‘rishimiz kerak. Ba’zi odamlar siyosatchilar eng ko‘p ishni bajarishi kerak, deb hisoblashadi, chunki ularda ko‘proq hokimiyat bor. Ular hamma rioya qilishi kerak bo‘lgan qoidalar va qonunlar yaratishi mumkin. Ammo boshqa odamlar, hatto ozgina bo‘lsa ham, har kim o‘z hissasini qo‘shishi kerak, deb o‘ylashadi.</p>\n\n<p>Siyosatchilar katta ishlarni qila oladi, masalan, zavodlarni toza energiyadan foydalanishga majburlash yoki odamlarni juda ko‘p daraxt kesishdan to‘xtatish. Ular, shuningdek, <mark>yordam berish uchun pul berishi</mark> mumkin, olimlar atrof-muhitni himoya qilishning yangi usullarini topishlari uchun. Misol uchun, mening mamlakatimda hukumat qayta ishlash to‘g‘risida qonun chiqardi. Bu shuni anglatadiki, odamlar o‘z axlatlarini ajratishlari kerak, shunda uning bir qismi qayta ishlatilishi mumkin. Bu yaxshi narsa, lekin faqat odamlar buni qilsagina ishlaydi.</p>\n\n<p>Shaxslar ham yordam berish uchun ishlar qilishi mumkin, hatto u kichikdek tuyulsa ham. Biz qayta ishlatishimiz, kamroq suv ishlatishimiz va xonadan chiqib ketganda chiroqlarni o‘chirishimiz mumkin. Shuningdek, biz <mark>atrof-muhit uchun foydali bo‘lgan narsalarni sotib olishimiz</mark> mumkin, masalan, qayta ishlangan materiallardan tayyorlangan mahsulotlar. Agar hamma shu kichik narsalarni qilsa, bu katta farq qilishi mumkin. Misol uchun, mening oilam plastikdan kamroq foydalanishga harakat qiladi. Biz do‘konga o‘z sumkalarimizni olib boramiz va qayta ishlatiladigan suv idishlaridan foydalanamiz.</p>\n\n<p>Xulosa qilib aytganda, menimcha, siyosatchilar ham, shaxslar ham atrof-muhitni himoya qilish uchun mas’uldir. Siyosatchilar katta o‘zgarishlar qila oladi, lekin shaxslar ham har kuni kichik narsalarni qilish orqali o‘zgarishlar qila oladi. <mark>Muhim</mark> hamma birgalikda dunyoni yaxshiroq joy qilish uchun harakat qilish. Agar qilmasak, kelajak yomon bo‘ladi.</p>",
+    "uzSampleBand6": "<p>Atrof-muhitni muhofaza qilish masalasi dolzarb bo'lib, bu borada kim mas'ul bo'lishi kerakligi haqida bahslar mavjud. Ba'zi odamlar siyosatchilar asosiy o'yinchilar deb hisoblasa, boshqalar esa shaxslar ham o'z rolini o'ynashi kerak deb hisoblashadi. Menimcha, atrof-muhitni muhofaza qilish uchun ham siyosatchilar, ham shaxslar birgalikda ishlashi kerak.</p>\n\n<p>Bir tomondan, <mark>shaxslar o'zlarini kuchsiz his qilishlari mumkin</mark> degan fikr to'g'ri. Qayta ishlash va suvni kamroq ishlatish kabi narsalar yaxshi, ammo kompaniyalar daryolarni ifloslantirayotgan yoki hukumatlar o'rmonlarni kesayotgan bir paytda, ular katta farq qiladigandek tuyulmasligi mumkin. Bundan tashqari, hamma ham bu o'zgarishlarni qilishga xohishi yoki imkoniyati yo'q. Misol uchun, kam daromadli odamlar ekologik toza mahsulotlarni sotib olishga qurbi yetmasligi mumkin va ular uglerod izini kamaytirishdan ko'ra <mark>ovqat topish</mark> haqida ko'proq tashvishlanishi mumkin.</p>\n\n<p>Boshqa tomondan, siyosatchilar katta o'zgarishlar qilishga qodir. Ular kompaniyalarning ifloslantirishini to'xtatish, <mark>qayta tiklanadigan energiyaga sarmoya kiritish</mark> va yo'q bo'lib ketish xavfi ostida turgan turlarni himoya qilish uchun qonunlar qabul qilishlari mumkin. Biroq, siyosatchilarga ko'pincha biznes va lobbichilar ta'sir o'tkazadi va ular har doim ham atrof-muhit manfaatlariga mos ravishda ish tutmasligi mumkin. <mark>Bundan tashqari, agar shaxslar atrof-muhitga befarq bo'lishsa</mark>, ular uni himoya qiladigan siyosatchilarga ovoz berish ehtimoli kamroq.</p>\n\n<p>Xulosa qilib aytganda, siyosatchilar atrof-muhit siyosatini belgilash va qoidalarni amalga oshirishda muhim rol o'ynasa-da, shaxslar ham mas'uliyatga ega. Agar odamlar o'z hayotida <mark>kichik o'zgarishlar qilishni</mark> boshlasalar va o'z rahbarlaridan ko'proq narsani talab qilsalar, bu o'zgarishlar uchun kuchli harakat yaratishi mumkin. Shuning uchun, kelajak avlodlar uchun sayyoramizni himoya qilish uchun ham siyosatchilar, ham shaxslar birgalikda ishlashi muhimdir.\n</p>",
+    "uzSampleBand7": "<p>Atrof-muhitni muhofaza qilish bo'yicha asosiy mas'uliyat kimning zimmasida ekanligi murakkab masala. Ba'zilarning fikricha, shaxslarning harakatlari haqiqiy o'zgarishlar qilish uchun juda ahamiyatsiz va siyosatchilar yetakchilik qilishi kerak, deb hisoblayman, siyosatchilar ham, shaxslar ham o'z hissasini qo'shadigan kombinatsiyalashgan yondashuv zarur. Siyosatchilarning roli, albatta, muhim, ammo shaxsiy mas'uliyatni inkor etib bo'lmaydi.</p>\n\n<p>Bir tomondan, siyosatchilarning mazmunli o'zgarishlar qilish qobiliyatini inkor etib bo'lmaydi. Ular sanoat uchun ifloslanish standartlari bo'yicha <mark>keng qamrovli qonunchilikni amalga oshirishlari</mark>, qayta tiklanadigan energiya infratuzilmasiga investitsiya kiritishlari va iqlim o'zgarishi kabi global muammolarni hal qilish uchun xalqaro kelishuvlar yaratishlari mumkin. Misol uchun, Yevropa Ittifoqining 'Fit for 55' paketi orqali karbonat angidrid chiqindilarini kamaytirishga sodiqligi <mark>hukumat siyosatining potentsial ta'sirini</mark> namoyish etadi. Bundan tashqari, siyosatchilar byudjetlarni nazorat qiladi va atrof-muhitni muhofaza qilish bo'yicha sa'y-harakatlarga shaxslar qila olmaydigan tarzda resurslar ajratishi mumkin.</p>\n\n<p>Biroq, shaxslarning muhim roli yo'q deb aytish, individual harakatlarning yig'indisi ta'sirini e'tiborsiz qoldirish demakdir. Bir kishining chiqindilarni qayta ishlashi ahamiyatsiz bo'lib tuyulishi mumkin bo'lsa-da, millionlab odamlarning birgalikda qilishi sezilarli farq qilishi mumkin. <mark>Bundan tashqari, shaxsiy tanlovlar</mark>, transport, iste'mol odatlari va energiya sarfi bilan bog'liq barcha narsalar atrof-muhitga umumiy ta'sirga hissa qo'shadi. Misol uchun, haydash o'rniga ishga velosipedda borishni tanlash yoki bir martalik mahsulotlar o'rniga barqaror mahsulotlarni tanlash, keng tarqalgan holda qabul qilinganda, <mark>bizning umumiy izimizni sezilarli darajada kamaytirishi mumkin bo'lgan harakatlardir</mark>. Bundan tashqari, shaxslar ovoz berish, kampaniya o'tkazish va xabardorlikni oshirish orqali siyosatchilarga atrof-muhit masalalariga jiddiy e'tibor qaratish uchun <mark>bosim o'tkazishlari mumkin</mark>.</p>\n\n<p>Xulosa qilib aytganda, siyosatchilar keng ko'lamli atrof-muhit siyosatini amalga oshirish vakolatiga ega bo'lsa-da, shaxslar o'zlarining kundalik tanlovlari va harakatlari orqali ushbu sa'y-harakatlarni qo'llab-quvvatlash va kuchaytirishda muhim rol o'ynaydi. <mark>Haqiqatan ham samarali yondashuv</mark> yuqoridan pastga qarab amalga oshiriladigan hukumat harakatlari va pastdan yuqoriga qarab amalga oshiriladigan shaxsiy mas'uliyat o'rtasidagi sinergiyani talab qiladi. <mark>Shaxsiy hissani rad etish</mark> keng tarqalgan o'zgarishlar potentsialini yo'qqa chiqaradi va oxir-oqibat barqaror kelajakka qarab rivojlanishga to'sqinlik qiladi. Bu yoki u vaziyat emas, balki umumiy mas'uliyat masalasidir.</p>",
+    "uzSampleBand8": "<p>Atrof-muhitni muhofaza qilish bo'yicha bahslar ko'pincha mas'uliyatni taqsimlashga qaratilgan. Ba'zilarning fikricha, individual harakatlarning ta'siri cheklanganligi sababli, <mark>asosiy mas'uliyat siyosatchilar zimmasiga yuklanishi kerak</mark>, men esa siyosatchilar va shaxslar faol rol o'ynaydigan umumiy mas'uliyat atrof-muhitni samarali boshqarish uchun juda muhim deb hisoblayman.</p>\n\n<p>Siyosatchilar boshchiligidagi ekologik harakat tarafdorlari tizimli muammolarni hal qilish uchun keng ko'lamli siyosat o'zgarishlari zarur deb ta'kidlaydilar. Ular siyosatchilarning <mark>qonun chiqaruvchi hokimiyatiga</mark> ishora qilib, bu ularga sanoatga nisbatan qoidalarni qabul qilish, qayta tiklanadigan energiya infratuzilmasiga investitsiya kiritish va uglerod narxlash mexanizmlarini joriy etish imkonini beradi. Misol uchun, Yevropa Ittifoqining emissiya savdo tizimi, issiqxona gazlari emissiyasi uchun \"qopqoq va savdo\" tizimi, siyosiy aralashuvning ifloslanishni sezilarli darajada kamaytirishga qanday olib kelishi mumkinligini ko'rsatadi. Bundan tashqari, Parij bitimi kabi xalqaro kelishuvlar siyosatchilarning ekologik maqsadlar bo'yicha <mark>global konsensusni shakllantirish</mark> qobiliyatini namoyish etadi, bu individual fuqarolar uchun erishish qiyin bo'lgan yutuqdir.</p>\n\n<p>Biroq, shaxslarning rolini ahamiyatsiz deb rad etish noto'g'ri tushunchadir. Individual harakatlar alohida holda kichik bo'lib ko'rinishi mumkin bo'lsa-da, ularning yig'indisi sezilarli bo'lishi mumkin. Go'sht iste'molini kamaytirish, jamoat transportini tanlash va chiqindilarni minimallashtirish kabi <mark>ongli iste'mol tanlovlari</mark> birgalikda atrof-muhitga ta'sirni kamaytirishga hissa qo'shadi. Bundan tashqari, individual ishtirok siyosiy qarorlar qabul qilishga ta'sir o'tkazish orqali ekologik siyosatni qo'llab-quvvatlash uchun jamoatchilikning keng qatlamini yaratishi mumkin. Ko'pincha jamiyat darajasida boshlangan qayta ishlash dasturlarining keng tarqalishi individual harakatlarning qanday qilib kengroq ijtimoiy o'zgarishlarga aylanishini ko'rsatadi. <mark>Bundan tashqari, fuqarolarning targ'iboti</mark> atrof-muhit tashkilotlari va faolligi orqali siyosatchilarni javobgarlikka tortishi va yanada ambitsiyali ekologik kun tartibini ilgari surishi mumkin.</p>\n\n<p>Xulosa qilib aytganda, siyosatchilarning ekologik qoidalarni qabul qilish va amalga oshirishda muhim roli borligi shubhasiz, ammo individual mas'uliyat ham birdek zarurdir. Siyosiy harakatlar individual majburiyat bilan to'ldiriladigan <mark>sinergetik yondashuv</mark> atrof-muhitni muhofaza qilishning murakkab muammolarini hal qilishning eng samarali usulidir. Shaxslar juda kam narsa qila oladi, deb taxmin qilish <mark>kollektiv harakatning salohiyatini</mark> va individual tanlovlarning barqaror kelajakni shakllantirish kuchini e'tibordan chetda qoldiradi. <mark>Oxir-oqibat, umumiy egalik hissini shakllantirish</mark> mazmunli ekologik taraqqiyotga erishish uchun juda muhimdir. <mark>Bu yuqoridan pastga siyosat aralashuvlarini</mark> ham, ma'lumotli va faol fuqarolar tomonidan boshqariladigan quyi tashabbuslarni ham talab qiladi.</p>",
+    "uzSampleBand9": "<p>Atrof-muhitni muhofaza qilish mas'uliyati borasidagi bahslar ko'pincha siyosatchilar yoki shaxslar asosiy yukni o'z zimmalariga olishi kerakmi degan savolga qaratiladi. To'g'ri, individual harakatlar, o'z-o'zidan, keng ko'lamli ekologik muammolarni hal qilish uchun etarli bo'lmasligi mumkin, lekin menimcha, siyosatchilar ham, shaxslar ham <mark>sayyoramizni himoya qilishda</mark> muhim va, albatta, bir-birini to'ldiruvchi rollarni o'ynashi kerak.</p>\n\n<p>Bir tomondan, mas'uliyatni siyosatchilar zimmasiga yuklash bo'yicha dalil juda ta'sirli. Hukumatlar atrof-muhit qoidalarini qabul qilish va amalga oshirish, subsidiyalar va soliq imtiyozlari orqali <mark>barqaror amaliyotlarni rag'batlantirish</mark> va qayta tiklanadigan energiya stantsiyalari va jamoat transporti tarmoqlari kabi keng ko'lamli infratuzilma loyihalariga investitsiya qilish uchun qonun chiqaruvchi hokimiyatga ega. Misol uchun, Yevropa Ittifoqining 2050 yilga kelib iqlim neytralligiga erishish bo'yicha keng qamrovli reja bo'lgan \"Yashil kelishuv\"ga sodiqligi hukumat siyosatining potentsial ta'sirini ko'rsatadi. <mark>Bundan tashqari</mark>, Parij kelishuvi kabi xalqaro kelishuvlar global ekologik muammolarni samarali hal qilish uchun siyosiy majburiyat va hamkorlikni talab qiladi. Bunday yuqoridan pastga tashabbuslar bo'lmasa, individual harakatlar <mark>asosan samarasiz bo'lib qolishi</mark> mumkin.</p>\n\n<p>Biroq, shaxslar juda kam narsa qila oladi, deb ta'kidlash individual harakatlarning jamoaviy kuchini va quyi darajada ekologik mas'uliyat tuyg'usini rivojlantirish muhimligini kam baholashdir. Bir kishining qayta ishlash harakatlari ahamiyatsiz bo'lib tuyulishi mumkin bo'lsa-da, millionlab odamlarning iste'molni kamaytirish, jamoat transportidan foydalanish va barqaror biznesni qo'llab-quvvatlash kabi ekologik toza odatlarni qabul qilishining yig'indisi katta bo'lishi mumkin. <mark>Bundan tashqari</mark>, shaxslar siyosatchilarni javobgarlikka tortishda muhim rol o'ynaydi. Faollik, targ'ibot va xabardor ovoz berish orqali fuqarolar hukumatlarni ekologik masalalarga ustuvor ahamiyat berishga va qat'iyroq qoidalarni amalga oshirishga majbur qila oladilar. Tashvishli shaxslar tomonidan boshqariladigan atrof-muhitni muhofaza qilish harakatlarining kuchayishi ko'plab mamlakatlarda siyosiy qarorlarga sezilarli ta'sir ko'rsatdi. <mark>Qolaversa</mark>, individual innovatsiya va tadbirkorlik atrof-muhit barqarorligiga hissa qo'shadigan yangi texnologiyalar va echimlarni ishlab chiqishga olib kelishi mumkin. Misol uchun, elektr transport vositalari va o'simlik asosidagi go'sht alternativalarining rivojlanishi asosan individual tashabbuslar va iste'molchilar talabi bilan bog'liq.</p>\n\n<p>Xulosa qilib aytganda, hukumat siyosati va xalqaro kelishuvlar keng ko'lamli ekologik muammolarni hal qilish uchun, albatta, zarur bo'lsa-da, individual harakatlar va <mark>jamoatchilik tomonidan keng qo'llab-quvvatlash</mark> ham bir xilda muhimdir. Atrof-muhitni muhofaza qilish faqat siyosatchilarning mas'uliyati emas; bu yuqoridan pastga va pastdan yuqoriga tashabbuslarni o'z ichiga olgan <mark>sinergik yondashuvni</mark> talab qiladigan umumiy mas'uliyatdir. Haqiqatan ham barqaror kelajakka faqat shaxslar va siyosatchilar birgalikda harakat qilganda, ularning har biri <mark>atrof-muhitning yomonlashuvini kamaytirish</mark> va kelajak avlodlar uchun sog'lomroq sayyorani targ'ib qilishga o'z hissasini qo'shganda erishish mumkin. <mark>Oxir oqibat</mark>, barchamizning zimmamizda harakat qilish burchi bor.</p>"
+   }
+  },
+  "source": "IELTS Fever",
+  "examDate": "2023-04-25",
+  "settings": {
+   "logoUrl": "https://audio.mock-stream.com/img/ibb/G4LjKJNg/Camelot.jpg",
+   "timeInfo": "⏱ Total time: 60 minutes | Task 1: 20 min (150 words) | Task 2: 40 min (250 words)",
+   "logoWording": "CAMELOT LC",
+   "moduleTitle": "Academic Writing Module",
+   "testIdentifier": "IELTS Mock 02"
+  },
+  "vocabulary": {
+   "task1": [],
+   "task2": []
+  },
+  "tokenTranslations": {
+   "Overall": {
+    "uz": "Umuman olganda",
+    "type": "linking"
+   },
+   "Moreover": {
+    "uz": "Bundan tashqari",
+    "type": "linking"
+   },
+   "In summary": {
+    "uz": "Xulosa qilib aytganda",
+    "type": "linking"
+   },
+   "Ultimately": {
+    "uz": "Oxir-oqibat",
+    "type": "linking"
+   },
+   "Beyond this": {
+    "uz": "Bundan tashqari",
+    "type": "linking"
+   },
+   "Furthermore": {
+    "uz": "Bundan tashqari",
+    "type": "linking"
+   },
+   "mobile phones": {
+    "uz": "mobil telefonlar",
+    "type": "lexical"
+   },
+   "surged upwards": {
+    "uz": "yuqoriga ko'tarildi",
+    "type": "academic"
+   },
+   "It is important": {
+    "uz": "Bu muhim",
+    "type": "academic"
+   },
+   "Over the period": {
+    "uz": "Davr mobaynida",
+    "type": "academic"
+   },
+   "also saw a rise": {
+    "uz": "ham o'sishni ko'rdi",
+    "type": "academic"
+   },
+   "proliferation of": {
+    "uz": "ning ko'payishi",
+    "type": "academic"
+   },
+   "legislative power": {
+    "uz": "qonun chiqaruvchi hokimiyat",
+    "type": "lexical"
+   },
+   "witnessed a surge": {
+    "uz": "o'sishga guvoh bo'ldi",
+    "type": "academic"
+   },
+   "continues to shape": {
+    "uz": "shakllantirishda davom etmoqda",
+    "type": "academic"
+   },
+   "give money to help": {
+    "uz": "yordam berish uchun pul berish",
+    "type": "colloc"
+   },
+   "It can be seen that": {
+    "uz": "Shuni ko'rish mumkinki",
+    "type": "academic"
+   },
+   "outstripped that of": {
+    "uz": "dan oshib ketdi",
+    "type": "academic"
+   },
+   "general upward trend": {
+    "uz": "umumiy o'sish tendentsiyasi",
+    "type": "academic"
+   },
+   "making small changes": {
+    "uz": "kichik o'zgarishlar qilish",
+    "type": "colloc"
+   },
+   "particularly popular": {
+    "uz": "ayniqsa mashhur",
+    "type": "colloc"
+   },
+   "synergistic approach": {
+    "uz": "sinergik yondashuv",
+    "type": "academic"
+   },
+   "climbed substantially": {
+    "uz": "sezilarli darajada ko'tarildi",
+    "type": "academic"
+   },
+   "exponential expansion": {
+    "uz": "ekspansional kengayish",
+    "type": "academic"
+   },
+   "A similar upward trend": {
+    "uz": "Shunga o'xshash o'sish tendentsiyasi",
+    "type": "academic"
+   },
+   "forge global consensus": {
+    "uz": "global kelishuvga erishish",
+    "type": "academic"
+   },
+   "lagging somewhat behind": {
+    "uz": "bir oz orqada qolmoqda",
+    "type": "academic"
+   },
+   "safeguarding our planet": {
+    "uz": "sayyoramizni himoya qilish",
+    "type": "lexical"
+   },
+   "truly effective approach": {
+    "uz": "haqiqatan ham samarali yondashuv",
+    "type": "academic"
+   },
+   "putting food on the table": {
+    "uz": "dasturxonga ovqat qo'yish",
+    "type": "idiom"
+   },
+   "It is also noticeable that": {
+    "uz": "Shuni ham ta'kidlash joizki",
+    "type": "academic"
+   },
+   "invest in renewable energy": {
+    "uz": "qayta tiklanadigan energiyaga sarmoya kiritish",
+    "type": "lexical"
+   },
+   "technological advancements": {
+    "uz": "texnologik yutuqlar",
+    "type": "lexical"
+   },
+   "experienced the most growth": {
+    "uz": "eng ko'p o'sishni boshdan kechirdi",
+    "type": "academic"
+   },
+   "skyrocketed over the period": {
+    "uz": "davr mobaynida keskin ko'tarildi",
+    "type": "academic"
+   },
+   "Moreover, individual choices": {
+    "uz": "Bundan tashqari, shaxsiy tanlovlar",
+    "type": "linking"
+   },
+   "experienced a dramatic surge": {
+    "uz": "keskin o'sishni boshdan kechirdi",
+    "type": "academic"
+   },
+   "rendered largely ineffectual": {
+    "uz": "asosan samarasiz qilingan",
+    "type": "academic"
+   },
+   "the environment is important": {
+    "uz": "atrof-muhit muhim",
+    "type": "lexical"
+   },
+   "witnessed substantial growth": {
+    "uz": "sezilarli o'sishga guvoh bo'ldi",
+    "type": "academic"
+   },
+   "Conscious consumption choices": {
+    "uz": "Ongli iste'mol tanlovlari",
+    "type": "lexical"
+   },
+   "Furthermore, citizen advocacy": {
+    "uz": "Bundan tashqari, fuqarolarning himoyasi",
+    "type": "linking"
+   },
+   "exert pressure on politicians": {
+    "uz": "siyosatchilarga bosim o'tkazish",
+    "type": "colloc"
+   },
+   "groundswell of public support": {
+    "uz": "jamoatchilik qo'llab-quvvatlashining kuchayishi",
+    "type": "academic"
+   },
+   "illustrates the proportion of": {
+    "uz": "ning ulushini ko'rsatadi",
+    "type": "academic"
+   },
+   "started from a very low point": {
+    "uz": "juda past nuqtadan boshlandi",
+    "type": "academic"
+   },
+   "implement sweeping legislation": {
+    "uz": "keng qamrovli qonunchilikni amalga oshirish",
+    "type": "academic"
+   },
+   "individuals can feel powerless": {
+    "uz": "shaxslar o'zlarini kuchsiz his qilishlari mumkin",
+    "type": "academic"
+   },
+   "the onus should primarily fall": {
+    "uz": "asosiy mas'uliyat tushishi kerak",
+    "type": "academic"
+   },
+   "incentivise sustainable practices": {
+    "uz": "barqaror amaliyotlarni rag'batlantirish",
+    "type": "academic"
+   },
+   "mitigate environmental degradation": {
+    "uz": "atrof-muhitning buzilishini yumshatish",
+    "type": "lexical"
+   },
+   "Dismissing individual contributions": {
+    "uz": "Shaxsiy hissani rad etish",
+    "type": "academic"
+   },
+   "hovered around a near-ubiquitous level": {
+    "uz": "deyarli hamma joyda bo'lgan darajada aylanib yurdi",
+    "type": "academic"
+   },
+   "illustrates the fluctuating prevalence": {
+    "uz": "o'zgaruvchan tarqalishni ko'rsatadi",
+    "type": "academic"
+   },
+   "reflecting evolving consumer preferences": {
+    "uz": "iste'molchilarning o'zgaruvchan afzalliklarini aks ettiradi",
+    "type": "academic"
+   },
+   "potential impact of governmental policies": {
+    "uz": "hukumat siyosatining potentsial ta'siri",
+    "type": "academic"
+   },
+   "Finally, the proportion of households with": {
+    "uz": "Nihoyat, uy xo'jaliklarining ulushi...",
+    "type": "linking"
+   },
+   "that have got different types of technology": {
+    "uz": "turli xil texnologiyalarga ega bo'lgan",
+    "type": "colloc"
+   },
+   "buy things that are good for the environment": {
+    "uz": "atrof-muhit uchun foydali narsalarni sotib olish",
+    "type": "colloc"
+   },
+   "overlooks the potential for collective action": {
+    "uz": "kollektiv harakatning imkoniyatlarini e'tibordan chetda qoldiradi",
+    "type": "academic"
+   },
+   "significantly reduce our collective footprint": {
+    "uz": "bizning umumiy izimizni sezilarli darajada kamaytirish",
+    "type": "lexical"
+   },
+   "Ultimately, fostering a sense of shared ownership": {
+    "uz": "Oxir-oqibat, umumiy egalik hissini shakllantirish",
+    "type": "linking"
+   },
+   "This necessitates both top-down policy interventions": {
+    "uz": "Bu yuqoridan pastga siyosat aralashuvlarini talab qiladi",
+    "type": "academic"
+   },
+   "underscores the rapid pace of technological integration": {
+    "uz": "texnologik integratsiyaning tez sur'atini ta'kidlaydi",
+    "type": "academic"
+   },
+   "Furthermore, if individuals don't care about the environment": {
+    "uz": "Bundan tashqari, agar odamlar atrof-muhitga befarq bo'lsa...",
+    "type": "linking"
+   },
+   "clearly demonstrates the increasing integration of technology": {
+    "uz": "texnologiyalarning integratsiyasi ortib borayotganini aniq ko'rsatadi",
+    "type": "academic"
+   }
+  }
+ },
+ "created_at": "2026-05-06T17:28:26.957099+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

@@ -1,0 +1,683 @@
+{
+ "id": 2292,
+ "mock_type": "pet-reading",
+ "mock_number": 2,
+ "title": "PET Reading — Test 2",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "sign-mcq",
+    "items": [
+     {
+      "id": 1,
+      "image": "https://audio.mock-stream.com/PET-Reading/test2/q1.png",
+      "answer": "C",
+      "prompt": " ",
+      "options": [
+       {
+        "text": "The English class must take their workbooks to the language laboratory.",
+        "letter": "A"
+       },
+       {
+        "text": "The room for English lessons is changing because of the test.",
+        "letter": "B"
+       },
+       {
+        "text": "The usual English teacher cannot attend today's lesson.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "image": "https://audio.mock-stream.com/PET-Reading/test2/q2.png",
+      "answer": "B",
+      "prompt": " ",
+      "options": [
+       {
+        "text": "Application forms are unavailable after 1st November.",
+        "letter": "A"
+       },
+       {
+        "text": "The earliest that students can pick up their application forms is 1st November.",
+        "letter": "B"
+       },
+       {
+        "text": "Students should give in their application forms on 1st November.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 3,
+      "image": "https://audio.mock-stream.com/PET-Reading/test2/q3.png",
+      "answer": "B",
+      "prompt": " ",
+      "options": [
+       {
+        "text": "Louis went windsurfing after he went to the funfair yesterday.",
+        "letter": "A"
+       },
+       {
+        "text": "Louis played beach volleyball before he went windsurfing.",
+        "letter": "B"
+       },
+       {
+        "text": "Louis went to the funfair before he had lunch.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 4,
+      "image": "https://audio.mock-stream.com/PET-Reading/test2/q4.png",
+      "answer": "A",
+      "prompt": " ",
+      "options": [
+       {
+        "text": "Don't sit at the front of the café unless you're attending the party.",
+        "letter": "A"
+       },
+       {
+        "text": "Only people invited to the party can come into the café.",
+        "letter": "B"
+       },
+       {
+        "text": "If you're coming to the party you shouldn't use the tables at the front.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 5,
+      "image": "https://audio.mock-stream.com/PET-Reading/test2/q5.png",
+      "answer": "A",
+      "prompt": " ",
+      "options": [
+       {
+        "text": "Marie is offering to lend Sylviane a book.",
+        "letter": "A"
+       },
+       {
+        "text": "Marie wants to return one of Sylviane's books to her.",
+        "letter": "B"
+       },
+       {
+        "text": "Marie is asking Sylviane to give back a book she has borrowed.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "image": "https://audio.mock-stream.com/PET-Reading/test2/q0.png",
+     "answer": "A",
+     "number": 0,
+     "prompt": "LOST FLOPPY DISC — Lost on Tuesday - contains important schoolwork. Hand in to office.",
+     "options": [
+      {
+       "text": "Go to the office if you have lost a floppy disc.",
+       "letter": "A"
+      },
+      {
+       "text": "Make sure all schoolwork is given in on floppy disc to the office.",
+       "letter": "B"
+      },
+      {
+       "text": "If you have found a floppy disc, please leave it at the office.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partNumber": 1,
+    "instruction": [
+     "Look at the text in each question.",
+     "What does it say?",
+     "Mark the correct letter A, B or C on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "match-people-texts",
+    "items": [
+     {
+      "id": 6,
+      "name": "Ralph",
+      "image": "https://audio.mock-stream.com/PET-Reading/test2/p6.jpg",
+      "answer": "D",
+      "description": "Ralph is a strong swimmer, and would like a club that organises challenging long-distance events. He'd also like to improve his technique, but only has weekends free."
+     },
+     {
+      "id": 7,
+      "name": "Marta",
+      "image": "https://audio.mock-stream.com/PET-Reading/test2/p7.jpg",
+      "answer": "H",
+      "description": "Marta has just learnt to swim and wants to improve quickly so she can jump off the top board into a big pool. She prefers indoor pools, but doesn't like doing competitions."
+     },
+     {
+      "id": 8,
+      "name": "Fiona",
+      "image": "https://audio.mock-stream.com/PET-Reading/test2/p8.jpg",
+      "answer": "C",
+      "description": "Fiona wants a club where she can swim for pleasure and meet other people. She'd also like a club that organises games in the pool, and regular social events."
+     },
+     {
+      "id": 9,
+      "name": "Jay",
+      "image": "https://audio.mock-stream.com/PET-Reading/test2/p9.jpg",
+      "answer": "G",
+      "description": "Jay can't swim very far at the moment, so he wants to get stronger. He can only attend one evening per week, so would like individual instruction."
+     },
+     {
+      "id": 10,
+      "name": "Daisy",
+      "image": "https://audio.mock-stream.com/PET-Reading/test2/p10.jpg",
+      "answer": "E",
+      "description": "Daisy wants to attend a swimming club after 6 p.m. on Tuesday and Thursday. She wants to take swimming tests as she moves up from intermediate to advanced level, and hopes to become a winner in club races."
+     }
+    ],
+    "label": "PART 2",
+    "texts": [
+     {
+      "body": "Everyone who joins our club takes part in lots of races — and loves to win! So we expect our members to turn up regularly to evening practice sessions — at least three times a week. Come and try our lovely indoor pool — and new high diving board! Individual teaching is available on request.",
+      "title": "Elvers",
+      "letter": "A"
+     },
+     {
+      "body": "Swim your way from beginner to intermediate level — and get certificates for your hard work in our big outdoor pool. Working in small groups, we'll help you build your strength, ready for swimming the length of the pool — and even jumping from our high board!",
+      "title": "Mermaid Club",
+      "letter": "B"
+     },
+     {
+      "body": "We aim to build water confidence by making our indoor club meetings as much fun as possible. Come along and join us for some water volleyball — and make friends at the same time! Club discos for teenage members are held once a month.",
+      "title": "Penguins",
+      "letter": "C"
+     },
+     {
+      "body": "Ready to swim 20 kms across the sea? Come and join our advanced swimmers' club on Saturdays and find out! You'll be well looked after, and pool training is also provided to help keep up your strength and develop a swimming style suitable for open water.",
+      "title": "Splash!",
+      "letter": "D"
+     },
+     {
+      "body": "Our club provides serious swimming training every weekday evening with progress certificates as you pass each level! We do lots of swimming and diving competitions, and we'll teach you the techniques you need to be a champion! You'll also be pushed to achieve a high standard — so we'll need to see you twice a week!",
+      "title": "Waterworld",
+      "letter": "E"
+     },
+     {
+      "body": "In this club we meet to do as much swimming in the sea as we can. But we're more about swimming for fun than for winning lots of competitions, so there are lots of club parties and barbecues too!",
+      "title": "Seals Group",
+      "letter": "F"
+     },
+     {
+      "body": "Our club takes all levels of learner swimmers in our shallow practice pool, and aims to increase strength and improve technique through different pool games. Two of us we can provide one-to-one teaching if requested. Swimmers should try to come once a week.",
+      "title": "Waves",
+      "letter": "G"
+     },
+     {
+      "body": "We use the pool inside the new city leisure centre, and take swimmers from complete beginners upwards. We'll help you move up fast through the levels — and even join our high-diving group if you wish! Club party night is every Saturday!",
+      "title": "Sharks",
+      "letter": "H"
+     }
+    ],
+    "partNumber": 2,
+    "textsTitle": "Swimming Clubs",
+    "instruction": [
+     "The young people below all want to find a swimming club they can join.",
+     "On the opposite page there are descriptions of eight swimming clubs.",
+     "Decide which club would be the most suitable for the following people.",
+     "For questions 6–10, mark the correct letter (A–H) on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "true-false",
+    "items": [
+     {
+      "id": 11,
+      "answer": "B",
+      "statement": "The headmaster wrote to the artist to ask about buying the sculpture for the school."
+     },
+     {
+      "id": 12,
+      "answer": "A",
+      "statement": "The school got the giraffe sculpture free of charge."
+     },
+     {
+      "id": 13,
+      "answer": "B",
+      "statement": "The schoolchildren were looking forward to the arrival of the giraffe."
+     },
+     {
+      "id": 14,
+      "answer": "B",
+      "statement": "The artist Tom Bennett started making metal objects while he was working at a university."
+     },
+     {
+      "id": 15,
+      "answer": "B",
+      "statement": "Tom thinks that he did an excellent drawing on his first day at school."
+     },
+     {
+      "id": 16,
+      "answer": "A",
+      "statement": "Tom only made one metal bicycle for himself and his wife."
+     },
+     {
+      "id": 17,
+      "answer": "A",
+      "statement": "Tom changed one of his metal sculptures into a different animal while he was making it."
+     },
+     {
+      "id": 18,
+      "answer": "A",
+      "statement": "Tom says that his lion sculpture was very popular with small children."
+     },
+     {
+      "id": 19,
+      "answer": "A",
+      "statement": "Tom intends his animal sculptures to appear realistic."
+     },
+     {
+      "id": 20,
+      "answer": "B",
+      "statement": "The pupils of Grangetown High have decided on a name for their giraffe sculpture."
+     }
+    ],
+    "label": "PART 3",
+    "passage": "The pupils of Grangetown High have been busy getting to know their newest and tallest classmate — a 7-metre-tall giraffe outside their school.\n\nThe giraffe is a huge metal sculpture made by a local artist. The school's headmaster noticed the sculpture in the artist's garden as he drove past one day, and thought it would be perfect for his school. 'I knew everyone would love it,' he said, 'because our basketball team is known as the Grangetown Giraffes, and they wear giraffes on their shirts. So I asked them to write a letter to the artist, asking how much it would cost to buy the giraffe. He was very kind and got it ready to deliver in six weeks — all for nothing! He arranged for it to arrive one Sunday morning, so that the pupils would see it when they got to school on the Monday — at that stage they had no idea that we were getting it.'\n\nThe artist, Tom Bennett, was a university professor of chemistry before he retired in 2006 and only took up metalwork a couple of years ago. But he had always been a keen artist. 'I've always drawn pictures,' he said. 'I can even remember doing it on my first day at school — I drew a horse. I wanted it to be the best horse picture ever, but I don't think I succeeded!'\n\nTom's first project using metal was a bicycle for two that he and his wife could go cycling on together. 'It was the most uncomfortable bike ever created,' admits Tom, 'so I gave up making bicycles and went into sculpture instead.'\n\n'The first metal sculpture I ever did was of a lion, which now also lives at a school. It started out as a cat, but it just didn't look right, so I made it into a lion and put it in my front garden. I began to attract attention from passers-by. Some small children wouldn't walk past the lion unless they could have a turn sitting and playing on its back. I think children feel that my sculptures look like actual live animals, and that's what I want.'\n\nMeanwhile the pupils at Grangetown High are very happy with their new classmate. 'We're going to hold a competition to give it a proper name,' said one girl. 'Everyone likes the expression on its face, so perhaps that will give us some ideas.'",
+    "partNumber": 3,
+    "instruction": [
+     "Look at the sentences below about a metal sculpture of a giraffe and its artist, Tom Bennett.",
+     "Read the text on the opposite page to decide if each sentence is correct or incorrect.",
+     "If it is correct, mark A on your answer sheet.",
+     "If it is not correct, mark B on your answer sheet."
+    ],
+    "passageImage": "https://audio.mock-stream.com/PET-Reading/test2/passage3.jpg",
+    "passageTitle": "Metal giraffe arrives at school!",
+    "questionsLabel": "QUESTIONS 11–20"
+   },
+   {
+    "type": "passage-mcq",
+    "items": [
+     {
+      "id": 21,
+      "answer": "D",
+      "prompt": "What is Chris Jones doing in this text?",
+      "options": [
+       {
+        "text": "describing the different places he saw while cycling",
+        "letter": "A"
+       },
+       {
+        "text": "comparing cycling to other forms of exercise",
+        "letter": "B"
+       },
+       {
+        "text": "suggesting places to stay on a cycling holiday",
+        "letter": "C"
+       },
+       {
+        "text": "recommending cycling as a good type of holiday",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 22,
+      "answer": "C",
+      "prompt": "What do we find out about Chris's bike?",
+      "options": [
+       {
+        "text": "It wasn't as good as his brother's.",
+        "letter": "A"
+       },
+       {
+        "text": "It was too old to go fast.",
+        "letter": "B"
+       },
+       {
+        "text": "It needed attention at one point.",
+        "letter": "C"
+       },
+       {
+        "text": "It had trouble going up hills.",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 23,
+      "answer": "A",
+      "prompt": "Chris was pleased because",
+      "options": [
+       {
+        "text": "he and his brother had chosen a good route.",
+        "letter": "A"
+       },
+       {
+        "text": "he felt much healthier than before he began his trip.",
+        "letter": "B"
+       },
+       {
+        "text": "he met other people who were keen on cycling.",
+        "letter": "C"
+       },
+       {
+        "text": "he went away at the best time of year for cycling.",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 24,
+      "answer": "B",
+      "prompt": "What did Chris dislike about his trip?",
+      "options": [
+       {
+        "text": "breaking down",
+        "letter": "A"
+       },
+       {
+        "text": "the food",
+        "letter": "B"
+       },
+       {
+        "text": "the weather",
+        "letter": "C"
+       },
+       {
+        "text": "getting lost",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 25,
+      "answer": "C",
+      "prompt": "What might Chris say in a postcard to a friend?",
+      "options": [
+       {
+        "text": "I'm having a great holiday, spending lots of time in friendly cafes and enjoying being by myself for once!",
+        "letter": "A"
+       },
+       {
+        "text": "I'm having really fit cycling so fast up and down the hills in this part of the countryside.",
+        "letter": "B"
+       },
+       {
+        "text": "I'm pleased to be away from cars and lorries for a change. Having a good time, despite some problems.",
+        "letter": "C"
+       },
+       {
+        "text": "I'm enjoying cycling with my brother this weekend, and staying at a very quiet hotel in this countryside.",
+        "letter": "D"
+       }
+      ]
+     }
+    ],
+    "label": "PART 4",
+    "passage": "Have you ever been cycling? This spring my older brother and I left the busy city and spent a long weekend cycling in the countryside. Our average speed was only around 14 kph, but that didn't matter. We hadn't come to break any speed records, or to get fit and healthy. All we wanted was some fresh air and a break from schoolwork. My bike only once went more than 30 kph, and that was when I raced my brother down the only hill on our route.\n\nWe really enjoyed cycling along flat, traffic-free country paths. There was plenty of spring sunshine, but it was quite cold, especially in the mornings. We didn't mind, though — and we soon warmed up as we rode along. Our only problem was when my brakes started making a terrible noise. But I didn't mind as it gave us an excuse to visit a café while a helpful bike mechanic had a look at it.\n\nThat was one of the best things about our route: every few kilometres there was a village where we could find everything we needed. All the local people were really friendly, too. However, most places we stopped at served chips with all the meals, which soon got fairly boring.\n\nOne night we were woken at 4 a.m. by a group of rugby fans singing loudly in the hotel corridor. We were tired and bad-tempered when we got off the next morning and very nearly got lost, but soon felt more cheerful when the sun came out. That's what I like about cycling — it's simple and it's fun. If you're looking for a short break that's active and cheap, then cycling is a great choice!",
+    "partNumber": 4,
+    "instruction": [
+     "Read the text and questions below.",
+     "For each question, mark the correct letter A, B, C or D on your answer sheet."
+    ],
+    "passageTitle": "Cycling in the countryside",
+    "questionsLabel": "QUESTIONS 21–25",
+    "passageSubtitle": "By Chris Jones, aged 14"
+   },
+   {
+    "type": "passage-cloze",
+    "items": [
+     {
+      "id": 26,
+      "answer": "C",
+      "options": [
+       {
+        "text": "of",
+        "letter": "A"
+       },
+       {
+        "text": "from",
+        "letter": "B"
+       },
+       {
+        "text": "with",
+        "letter": "C"
+       },
+       {
+        "text": "by",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 27,
+      "answer": "C",
+      "options": [
+       {
+        "text": "what",
+        "letter": "A"
+       },
+       {
+        "text": "who",
+        "letter": "B"
+       },
+       {
+        "text": "which",
+        "letter": "C"
+       },
+       {
+        "text": "whose",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 28,
+      "answer": "A",
+      "options": [
+       {
+        "text": "know",
+        "letter": "A"
+       },
+       {
+        "text": "take",
+        "letter": "B"
+       },
+       {
+        "text": "inform",
+        "letter": "C"
+       },
+       {
+        "text": "answer",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 29,
+      "answer": "B",
+      "options": [
+       {
+        "text": "went",
+        "letter": "A"
+       },
+       {
+        "text": "visited",
+        "letter": "B"
+       },
+       {
+        "text": "met",
+        "letter": "C"
+       },
+       {
+        "text": "passed",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 30,
+      "answer": "C",
+      "options": [
+       {
+        "text": "considered",
+        "letter": "A"
+       },
+       {
+        "text": "guessed",
+        "letter": "B"
+       },
+       {
+        "text": "wondered",
+        "letter": "C"
+       },
+       {
+        "text": "doubted",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 31,
+      "answer": "C",
+      "options": [
+       {
+        "text": "start",
+        "letter": "A"
+       },
+       {
+        "text": "cause",
+        "letter": "B"
+       },
+       {
+        "text": "let",
+        "letter": "C"
+       },
+       {
+        "text": "bring",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 32,
+      "answer": "D",
+      "options": [
+       {
+        "text": "much",
+        "letter": "A"
+       },
+       {
+        "text": "many",
+        "letter": "B"
+       },
+       {
+        "text": "most",
+        "letter": "C"
+       },
+       {
+        "text": "more",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 33,
+      "answer": "B",
+      "options": [
+       {
+        "text": "although",
+        "letter": "A"
+       },
+       {
+        "text": "without",
+        "letter": "B"
+       },
+       {
+        "text": "instead",
+        "letter": "C"
+       },
+       {
+        "text": "unless",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 34,
+      "answer": "B",
+      "options": [
+       {
+        "text": "coming",
+        "letter": "A"
+       },
+       {
+        "text": "going",
+        "letter": "B"
+       },
+       {
+        "text": "falling",
+        "letter": "C"
+       },
+       {
+        "text": "moving",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 35,
+      "answer": "A",
+      "options": [
+       {
+        "text": "become",
+        "letter": "A"
+       },
+       {
+        "text": "turned",
+        "letter": "B"
+       },
+       {
+        "text": "gone",
+        "letter": "C"
+       },
+       {
+        "text": "changed",
+        "letter": "D"
+       }
+      ]
+     }
+    ],
+    "label": "PART 5",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "prompt": "A natural   B true   C clean   D whole"
+    },
+    "passage": "Do you like honey? Honey is a (0) ___ product, and it is made (26) ___ honey bees. It has a special sweet flavour, (27) ___ some people prefer to ordinary sugar. Sometimes, it is even possible to (28) ___ from the flavour what kind of flowers the bees (29) ___ before producing the honey.\n\nHave you ever (30) ___ about how honey is produced? Beekeepers — people who look after bees — are very important in the making of honey. They (31) ___ the bees in their care produce (32) ___ honey than is needed. Then the honey can be removed (33) ___ causing problems for the bees.\n\nHoney collection is an ancient activity, (34) ___ back at least 10,000 years, and honey has (35) ___ increasingly popular nowadays as a healthy food.",
+    "partNumber": 5,
+    "instruction": [
+     "Read the text below and choose the correct word for each space.",
+     "For each question, mark the correct letter A, B, C or D on your answer sheet."
+    ],
+    "passageTitle": "Making honey",
+    "questionsLabel": "QUESTIONS 26–35"
+   }
+  ],
+  "testInfo": {
+   "id": "pet-r-02",
+   "level": "B1",
+   "paper": "Paper 1 · Reading",
+   "parts": 5,
+   "title": "PET Reading — Test 2",
+   "totalTime": 50,
+   "totalQuestions": 35
+  }
+ },
+ "created_at": "2026-10-14T06:45:37.523951+00:00",
+ "updated_at": "2026-10-14T06:47:22.915519+00:00"
+}

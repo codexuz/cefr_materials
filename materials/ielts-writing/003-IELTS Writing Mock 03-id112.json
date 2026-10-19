@@ -1,0 +1,526 @@
+{
+ "id": 112,
+ "mock_type": "ielts-writing",
+ "mock_number": 3,
+ "title": "IELTS Writing Mock 03",
+ "status": "published",
+ "mock_data": {
+  "tasks": {
+   "task1": {
+    "title": "UK household expenditure by age",
+    "prompt": "The chart below shows the expenditure on three categories among different age groups of residents in the UK in 2004.",
+    "wordGoal": 150,
+    "chartDesc": {
+     "title": "The expenditure of residents, by age group, in UK (2004)",
+     "xAxis": "Age groups (Under 30, 31-45, 46-60, 61-75, 76+)",
+     "yAxis": "% of total spending",
+     "period": "2004",
+     "series": [
+      {
+       "name": "Food and drink",
+       "points": [
+        {
+         "at": "Under 30",
+         "value": 6
+        },
+        {
+         "at": "31-45",
+         "value": 13
+        },
+        {
+         "at": "46-60",
+         "value": 16
+        },
+        {
+         "at": "61-75",
+         "value": 19
+        },
+        {
+         "at": "76+",
+         "value": 22
+        }
+       ]
+      },
+      {
+       "name": "Restaurant and hotel",
+       "points": [
+        {
+         "at": "Under 30",
+         "value": 14
+        },
+        {
+         "at": "31-45",
+         "value": 12
+        },
+        {
+         "at": "46-60",
+         "value": 11
+        },
+        {
+         "at": "61-75",
+         "value": 2
+        },
+        {
+         "at": "76+",
+         "value": 6
+        }
+       ]
+      },
+      {
+       "name": "Entertainment",
+       "points": [
+        {
+         "at": "Under 30",
+         "value": 8
+        },
+        {
+         "at": "31-45",
+         "value": 7
+        },
+        {
+         "at": "46-60",
+         "value": 14
+        },
+        {
+         "at": "61-75",
+         "value": 23
+        },
+        {
+         "at": "76+",
+         "value": 12
+        }
+       ]
+      }
+     ],
+     "overview": "Expenditure on food and drink shows a consistent upward trend with age, whereas spending on restaurant and hotel generally decreases as age increases. Entertainment spending peaks significantly in the 61-75 age group.",
+     "chartType": "bar chart",
+     "confidence": "medium",
+     "unreadable": [
+      "Exact numerical values above individual bars are not printed; figures are visually read from 5% y-axis gridlines."
+     ],
+     "keyFeatures": [
+      "Food and drink spending rises steadily from 6% among the Under 30s to a maximum of 22% for the 76+ group.",
+      "Restaurant and hotel spending is highest for the Under 30 age group (14%) and drops to its lowest level of 2% in the 61-75 age group.",
+      "Entertainment spending reaches its highest proportion overall at 23% in the 61-75 age group."
+     ]
+    },
+    "chartType": "bar_chart",
+    "dataNature": "static",
+    "instruction": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant. Write at least 150 words.",
+    "sampleBand5": "<p>The bar chart shows information about <mark>what people spend money on</mark> in the UK in 2004. The chart shows information for different ages of people and what they spend on food, housing and clothes.</p>\n<p>It is clear that housing <mark>is the most</mark> expensive thing. The youngest people, 16 to 29, spend about 20% on food, around 33% on housing and a little bit on clothes. Older people, 30 to 49, <mark>spend more or less</mark> the same on food and clothes. But they spend more on housing, about 35%. </p>\n<p>People aged 50 to 64 spend a bit less on housing than the younger people. They spend about 30% on housing. <mark>The oldest group</mark>, 65 and over, spend the least on housing. The amount of money spent on food is about the same for all the age groups. Clothes are always the thing that people spend the least money on.</p>",
+    "sampleBand6": "<p>The chart shows how people in the UK <mark>spent money on</mark> food, leisure, and clothing in 2004, broken down by age group.</p>\n<p>Overall, the <mark>most amount of money</mark> was spent on leisure by all age groups. Also, older people tended to spend more than younger people on each category.</p>\n<p>Looking at the details, the 16-29 age group spent the least, with leisure spending at around £200, food spending at about £170 and clothing spending at approximately £160. The 30-44 age group spent a bit more, especially on leisure which was nearly £300. The 45-59 age group’s spending <mark>was higher again</mark>, reaching about £370 on leisure. </p>\n<p>The 60-74 age group spent the most on leisure, at over £400. This age group also spent the most on food and clothing, <mark>although the differences</mark> between the other age groups wasn't very big. The over 75s spent slightly less than the 60-74 group, but still more than the younger groups, <mark>especially in food</mark>.</p>",
+    "sampleBand7": "<p>The chart illustrates how people in the UK across different age groups spent money on three categories in 2004. The categories are food, leisure, and housing. <mark>Overall, housing accounted for the largest proportion of expenditure</mark> across all age groups, while leisure consistently represented the smallest.</p>\n\n<p>Looking at the details, spending on housing was highest among the 36-50 age group, at approximately 32%. This figure was followed closely by those aged 51-65, with just under 30%. The youngest group, under 25s, spent the least on housing, at around 20%. <mark>In contrast, expenditure on food showed a more uniform distribution</mark> across the age ranges, fluctuating between 20% and 25%, with a slight peak in the 26-35 age range.</p>\n\n<p>Regarding leisure, the pattern was relatively consistent. The under 25s spent around 15% of their money on leisure, which was marginally higher than the other age groups. The 36-50 and 51-65 age groups spent the least, both at around 10%. <mark>It is noticeable that the oldest group, over 65s, spent a slightly higher proportion on leisure</mark>, compared to the middle-aged groups, at approximately 12%. <mark>In summary, age seems to have a significant impact on spending priorities</mark>, particularly concerning housing costs.</p>\n\n<p><mark>While there are some variations</mark>, the general trend indicates housing as the dominant expense. <mark>A further point to note</mark> is that the difference in expenditure on food across the age groups was relatively minor.</p>",
+    "sampleBand8": "<p>The chart <mark>elucidates</mark> the proportion of expenditure allocated to housing, food, and leisure activities among different age demographics in the UK during 2004. <mark>A cursory glance reveals</mark> that housing consistently constituted the largest expense across all age groups, while leisure accounted for the smallest.</p>\n\n<p>Specifically, the 15-24 age bracket allocated the highest percentage of their expenditure to housing, at roughly 34%, which then <mark>exhibited a gradual decline</mark> to approximately 20% in the 65-74 age group. Conversely, expenditure on food displayed an inverse relationship with age. The youngest cohort spent around 18% on food, which then steadily increased to a peak of approximately 28% for the 65-74 age group.  <mark>It is noteworthy that</mark> the oldest age group, 75+, saw a slight decrease in food expenditure compared to the preceding group.</p>\n\n<p>Expenditure on leisure activities <mark>remained relatively stable</mark> across all age groups, fluctuating between 8% and 12%. The 45-54 age group showed the highest proportion of spending on leisure, whilst the 65-74 age group spent the least. <mark>Overall, the data suggests a shift in priorities</mark> with advancing age, from housing to food. The 75+ age group <mark>bucked the trend</mark> slightly, potentially reflecting changes in lifestyle or income at that stage of life, but the overall pattern <mark>remained largely consistent</mark> across the sample.</p>",
+    "sampleBand9": "<p>The chart <mark>illustrates the proportion of expenditure</mark> allocated to food, leisure, and housing by different age demographics in the UK during 2004.</p>\n\n<p>Overall, it is <mark>immediately apparent</mark> that housing consistently constituted the largest expense across all age groups. Furthermore, while expenditure on leisure generally increased with age, spending on food tended to decrease. The most notable variations occurred in the younger and older age brackets.</p>\n\n<p>Specifically, individuals aged 15-24 allocated approximately 32% of their expenditure to housing, which was significantly higher than the proportions spent on food and leisure, at around 22% and 18% respectively. This age group exhibited the highest proportion of spending on leisure compared to other demographics. The 25-34 and 35-44 age groups presented similar spending patterns, with housing accounting for the largest share, followed by food and then leisure. <mark>A discernible shift</mark> occurred in the 45-54 age bracket, where expenditure on housing peaked at just over 40%. </p>\n\n<p>In contrast, those aged 55-64 demonstrated a marginal decrease in housing expenditure, while the 65-74 and 75+ age groups showed a further reduction. <mark>Interestingly, the oldest demographic</mark> (75+) allocated the highest percentage of their budget to food, at approximately 28%, while their leisure expenditure remained relatively low, at around 12%. <mark>In sum, age appears to be a significant determinant</mark> of spending priorities, with housing consistently dominating, and food and leisure exhibiting <mark>inverse proportional relationships</mark> to each other across the age spectrum. The data <mark>underscores the financial demands</mark> associated with housing, particularly for those in their peak earning years. The trends also <mark>elucidate the shifting priorities</mark> as individuals age, with a greater emphasis on essential needs like food in later life. This <mark>paints a clear picture</mark> of how spending habits <mark>evolve throughout the lifecycle</mark> within the UK. <mark>The data distinctly highlights</mark> the financial burden of housing.</p>",
+    "timeMinutes": 20,
+    "chartDescImg": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/3.png",
+    "sampleAnswer": "The bar chart illustrates the proportion of total spending by UK residents on three categories—food and drink, restaurant and hotel, and entertainment—across different age groups in 2004. \n\nOverall, it is evident that expenditure priorities shift with age. Younger age groups tend to allocate more funds towards restaurants and hotels, while older demographics increase spending on food and drink, as well as entertainment.\n\nIn detail, individuals under 30 allocate the highest percentage of their spending to restaurants and hotels, at approximately 14%, surpassing food and drink and entertainment, which stand at around 6% and 7% respectively. Conversely, those aged 61 and above exhibit a notable preference for food and drink, with percentages escalating from 18% in the 61-75 age group to 23% in the 76+ category. \n\nEntertainment spending, interestingly, peaks in the 61-75 age group at 14%, before slightly declining in the 76+ group. Meanwhile, spending on restaurants and hotels consistently declines with age, reaching its lowest point at around 2% in the oldest group. This data underscores the evolving consumer habits across different life stages.",
+    "chartImageUrl": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/3.png",
+    "uzSampleBand5": "<p>Ustunli diagrammada 2004-yilda Buyuk Britaniyada odamlar <mark>qanday narsalarga pul sarflashlari</mark> haqida ma'lumotlar ko'rsatilgan. Diagrammada odamlarning turli yoshlari va ularning oziq-ovqat, uy-joy va kiyim-kechaklarga sarflagan pullari haqida ma'lumotlar ko'rsatilgan.</p>\n<p>Shuni aniq ko'rish mumkinki, uy-joy <mark>eng</mark> qimmat narsa hisoblanadi. Eng yosh odamlar, 16 yoshdan 29 yoshgacha bo'lganlar, taxminan 20% ni oziq-ovqatga, taxminan 33% ni uy-joyga va ozroq qismini kiyim-kechakka sarflaydilar. Katta yoshdagi odamlar, 30 yoshdan 49 yoshgacha bo'lganlar, oziq-ovqat va kiyim-kechakka <mark>deyarli bir xil</mark> miqdorda pul sarflaydilar. Ammo ular uy-joyga ko'proq, taxminan 35% pul sarflaydilar.</p>\n<p>50 yoshdan 64 yoshgacha bo'lgan odamlar uy-joyga yoshroq odamlarga qaraganda biroz kamroq pul sarflaydilar. Ular uy-joyga taxminan 30% pul sarflaydilar. <mark>Eng keksa guruh</mark>, 65 yosh va undan kattalar, uy-joyga eng kam pul sarflaydilar. Oziq-ovqatga sarflangan pul miqdori barcha yosh guruhlari uchun deyarli bir xil. Kiyim-kechak har doim odamlar eng kam pul sarflaydigan narsa hisoblanadi.</p>",
+    "uzSampleBand6": "<p>Diagrammada Buyuk Britaniyadagi odamlar 2004-yilda yosh guruhlari boʻyicha <mark>qancha pul sarflaganligi</mark> oziq-ovqat, dam olish va kiyim-kechak uchun koʻrsatilgan.</p>\n<p>Umuman olganda, barcha yosh guruhlari tomonidan <mark>eng ko'p pul</mark> dam olishga sarflangan. Shuningdek, kattalar har bir kategoriya bo'yicha yoshlarga qaraganda ko'proq pul sarflashga moyil bo'lishgan.</p>\n<p>Tafsilotlarga e'tibor qaratadigan bo'lsak, 16-29 yosh guruhidagi odamlar eng kam pul sarflagan, dam olishga taxminan 200 funt, oziq-ovqatga taxminan 170 funt va kiyim-kechakga taxminan 160 funt sarflagan. 30-44 yosh guruhidagi odamlar biroz ko'proq pul sarflagan, ayniqsa dam olishga, bu deyarli 300 funtni tashkil etgan. 45-59 yosh guruhining xarajatlari <mark>yana yuqoriroq edi</mark>, dam olishga taxminan 370 funtga yetgan.</p>\n<p>60-74 yosh guruhidagi odamlar dam olishga eng ko'p pul sarflagan, 400 funtdan ortiq. Ushbu yosh guruhi oziq-ovqat va kiyim-kechakga ham eng ko'p pul sarflagan, <mark>garchi boshqa yosh guruhlari o'rtasidagi farqlar</mark> unchalik katta bo'lmagan bo'lsa ham. 75 yoshdan oshganlar 60-74 yosh guruhiga qaraganda biroz kamroq pul sarflagan, lekin baribir yosh guruhlariga qaraganda ko'proq, <mark>ayniqsa oziq-ovqatda</mark>.</p>",
+    "uzSampleBand7": "<p>Diagrammada Buyuk Britaniyadagi turli yosh guruhlarining 2004-yilda uchta toifa bo'yicha qanday pul sarflaganligi ko'rsatilgan. Toifalar: oziq-ovqat, dam olish va uy-joy. <mark>Umuman olganda, uy-joy barcha yosh guruhlari bo'yicha xarajatlarning eng katta qismini tashkil etdi</mark>, dam olish esa doimiy ravishda eng kichik qismini tashkil etdi.</p>\n\n<p>Tafsilotlarga nazar tashlaydigan bo'lsak, uy-joyga eng ko'p xarajat 36-50 yosh guruhida bo'lgan, taxminan 32%. Bu ko'rsatkichdan keyin 51-65 yoshdagilar deyarli 30% bilan ikkinchi o'rinda turadi. Eng yosh guruh, 25 yoshgacha bo'lganlar, uy-joyga eng kam xarajat qilishgan, taxminan 20%. <mark>Aksincha, oziq-ovqatga xarajatlar yosh diapazonlari bo'ylab bir xilroq taqsimotni ko'rsatdi</mark>, 20% dan 25% gacha o'zgarib turdi, 26-35 yosh diapazonida biroz yuqori ko'rsatkich kuzatildi.</p>\n\n<p>Dam olishga kelsak, holat nisbatan barqaror edi. 25 yoshgacha bo'lganlar pulining taxminan 15 foizini dam olishga sarflashgan, bu boshqa yosh guruhlariga nisbatan biroz yuqoriroq edi. 36-50 va 51-65 yosh guruhlari eng kam xarajat qilishgan, har ikkalasi ham taxminan 10% ni tashkil etgan. <mark>Shuni ta'kidlash joizki, eng katta yoshdagi guruh, 65 yoshdan oshganlar, o'rta yoshdagi guruhlarga nisbatan dam olishga biroz yuqoriroq qismni sarflashgan</mark>, taxminan 12%. <mark>Xulosa qilib aytganda, yosh xarajat ustuvorliklariga sezilarli ta'sir ko'rsatadi</mark>, ayniqsa uy-joy xarajatlariga.</p>\n\n<p><mark>Ba'zi farqlar mavjud bo'lsa-da</mark>, umumiy tendentsiya uy-joyni asosiy xarajat sifatida ko'rsatadi. <mark>Shuni ham ta'kidlash kerakki</mark>, yosh guruhlari bo'ylab oziq-ovqatga xarajatlardagi farq nisbatan kichik edi.</p>",
+    "uzSampleBand8": "<p>Diagramma 2004-yilda Buyuk Britaniyadagi turli yosh guruhlari orasida uy-joy, oziq-ovqat va dam olish tadbirlariga ajratilgan xarajatlar ulushini <mark>yoritib beradi</mark>. <mark>Yuzaki qarash shuni ko'rsatadiki</mark>, uy-joy barcha yosh guruhlari uchun eng katta xarajat bo'lib qoldi, dam olish esa eng kichigi edi.</p>\n\n<p>Xususan, 15-24 yoshdagi guruh o'z xarajatlarining eng yuqori foizini uy-joyga ajratgan, taxminan 34%, keyin bu ko'rsatkich 65-74 yosh guruhida taxminan 20% gacha <mark>asta-sekin pasayishni namoyon qildi</mark>. Aksincha, oziq-ovqatga qilingan xarajatlar yosh bilan teskari munosabatda bo'lgan. Eng yosh guruh oziq-ovqatga taxminan 18% sarflagan, keyin bu ko'rsatkich 65-74 yosh guruhida taxminan 28% gacha oshgan. <mark>Shuni ta'kidlash kerakki</mark>, eng keksa guruh, 75+, oldingi guruhga nisbatan oziq-ovqat xarajatlarining biroz pasayishini ko'rdi.</p>\n\n<p>Dam olish tadbirlariga qilingan xarajatlar barcha yosh guruhlari bo'ylab <mark>nisbatan barqaror bo'lib qoldi</mark>, 8% dan 12% gacha o'zgarib turdi. 45-54 yoshdagi guruh dam olishga eng ko'p mablag' sarflagan, 65-74 yoshdagi guruh esa eng kam mablag' sarflagan. <mark>Umuman olganda, ma'lumotlar yosh o'tishi bilan ustuvorliklarning o'zgarishini ko'rsatadi</mark>, uy-joydan oziq-ovqatga o'tish. 75+ yoshdagi guruh <mark>tendentsiyaga biroz qarshi chiqdi</mark>, bu hayotning shu bosqichida turmush tarzi yoki daromadlardagi o'zgarishlarni aks ettirishi mumkin, ammo umumiy naqsh namuna bo'ylab <mark>asosan barqarorligicha qoldi</mark>.</p>",
+    "uzSampleBand9": "<p>Diagramma 2004-yilda Buyuk Britaniyada turli yosh guruhlari tomonidan oziq-ovqat, dam olish va uy-joyga <mark>sarflangan xarajatlar ulushini ko'rsatadi</mark>.</p>\n\n<p>Umuman olganda, uy-joy <mark>darhol ko'zga tashlanadigan</mark> barcha yosh guruhlari uchun doimiy ravishda eng katta xarajat bo'lgan. Bundan tashqari, dam olishga sarflanadigan xarajatlar odatda yosh bilan ortib borgan bo'lsa, oziq-ovqatga sarflanadigan xarajatlar kamayishga moyil bo'lgan. Eng sezilarli o'zgarishlar yosh va keksa yosh toifalarida sodir bo'lgan.</p>\n\n<p>Xususan, 15-24 yoshdagi shaxslar o'z xarajatlarining taxminan 32 foizini uy-joyga ajratgan, bu oziq-ovqat va dam olishga sarflangan ulushlardan sezilarli darajada yuqori bo'lgan, mos ravishda 22 foiz va 18 foiz atrofida. Ushbu yosh guruhi boshqa demografiyalarga nisbatan dam olishga eng yuqori ulushni sarflagan. 25-34 va 35-44 yosh guruhlari xuddi shunday xarajatlar namunalarini ko'rsatdi, bunda uy-joy eng katta ulushni, keyin oziq-ovqat va keyin dam olishni tashkil etdi. 45-54 yosh guruhida <mark>sezilarli o'zgarish</mark> sodir bo'ldi, bunda uy-joyga sarflanadigan xarajatlar 40% dan sal ko'proqqa yetdi.</p>\n\n<p>Aksincha, 55-64 yoshdagilar uy-joy xarajatlarida marginal pasayishni ko'rsatdi, 65-74 va 75+ yosh guruhlari esa yanada kamayishni ko'rsatdi. <mark>Qizig'i shundaki, eng keksa demografik guruh</mark> (75+) o'z byudjetining eng yuqori foizini oziq-ovqatga, taxminan 28% ni ajratgan bo'lsa, ularning dam olish xarajatlari nisbatan past, taxminan 12% ni tashkil etdi. <mark>Xulosa qilib aytganda, yosh xarajatlar ustuvorligining muhim omili bo'lib ko'rinadi</mark>, bunda uy-joy doimiy ravishda ustunlik qiladi, oziq-ovqat va dam olish esa yosh spektrida bir-biriga nisbatan <mark>teskari proportsional munosabatlarni</mark> namoyon etadi. Ma'lumotlar, ayniqsa, daromad topishning eng yuqori yillarida bo'lganlar uchun uy-joy bilan bog'liq <mark>moliyaviy talablarni ta'kidlaydi</mark>. Trendlar, shuningdek, odamlar qarigan sari <mark>o'zgaruvchan ustuvorliklarni</mark> ochib beradi, bunda keyingi hayotda oziq-ovqat kabi muhim ehtiyojlarga ko'proq e'tibor qaratiladi. Bu Buyuk Britaniyada xarajat odatlari <mark>hayot davomida qanday o'zgarishini aniq tasvirlaydi</mark>. <mark>Ma'lumotlar uy-joyning moliyaviy yukini aniq ta'kidlaydi</mark>.</p>",
+    "chartDescSource": "extracted-verified-2026-08-05"
+   },
+   "task2": {
+    "title": "Universal desire for material goods",
+    "prompt": "It has been suggested that everyone in the world wants to own a car, a TV and a fridge.  \n\n",
+    "wordGoal": 250,
+    "essayType": "opinion",
+    "instruction": "Do you think the disadvantages of such a development outweigh the advantages? ",
+    "sampleBand5": "<p>It is true that many people want to own a car, a TV and a fridge. These things are <mark>very useful</mark> in life. But I think there are problems with everyone having these things. This essay will talk about the advantages and disadvantages.</p>\n\n<p>One good thing is that it makes life easier. A car helps people to travel to work or to see family. A TV gives people entertainment and information. <mark>A fridge is good</mark> for keeping food fresh so you don't have to go shopping every day. These things can improve the <mark>quality of life</mark> for many people and it helps the economy because people are buying things.</p>\n\n<p>However, there are also some bad things. If everyone has a car, there will be more traffic and pollution. This is bad for the environment and people's health. TVs can make people lazy and they might not go outside or do exercise. Fridges use a lot of electricity, which also <mark>make the environment bad</mark>. Also, if everyone has the same things, it can make the world boring and people might not appreciate what they have.</p>\n\n<p>In conclusion, while there are some good things about everyone owning a car, TV, and fridge, I think the bad things are more important. It is important to think about the environment and people's health before we try to have everything. Maybe it is better to have less things and a better world.</p>",
+    "sampleBand6": "<p>In today's world, it is often suggested that everyone aspires to possess a car, a television, and a refrigerator. While <mark>such a development</mark> might seem appealing on the surface, I believe the disadvantages <mark>are more significant</mark> than any potential benefits.</p>\n\n<p>One of the main advantages would be an increase in convenience and <mark>an improvement in living standards</mark>. Cars make transportation easier, allowing people to travel further for work or leisure. Televisions provide entertainment and access to information, while refrigerators help to preserve food and reduce waste. However, the widespread ownership of these items creates several problems.</p>\n\n<p>The most obvious disadvantage is the environmental impact. The production and use of cars, TVs, and refrigerators consume vast amounts of resources and energy. This contributes to pollution, climate change, and the depletion of natural resources. For example, the increasing number of cars on the road leads to traffic congestion and air pollution, <mark>especially in urban areas</mark>.</p>\n\n<p>Furthermore, the desire to own these items can lead to increased consumerism and debt. People may feel pressured to buy the latest models, even if they cannot afford them. This can create a culture of materialism and dissatisfaction, where people are constantly striving for more possessions. This can <mark>put a strain on</mark> family budgets and lead to financial problems.</p>\n\n<p>In conclusion, while the widespread ownership of cars, TVs, and refrigerators might offer some advantages in terms of convenience and living standards, I believe the disadvantages, particularly the environmental impact and the increase in consumerism, <mark>are much greater</mark>. It is important to promote sustainable consumption patterns and encourage people to prioritize quality of life over material possessions.</p>",
+    "sampleBand7": "<p>The notion that every person on Earth aspires to own a car, a television, and a refrigerator is a widespread belief. While this level of consumption might seem desirable, I believe that the disadvantages of such a development <mark>would ultimately outweigh</mark> the advantages.</p>\n\n<p>On the one hand, there are some potential benefits to consider. Widespread ownership of these items could stimulate economic growth. Increased demand would lead to higher production, creating jobs and boosting national economies. Furthermore, owning a car can provide individuals with greater mobility and access to employment opportunities, healthcare, and education, especially in rural areas. Similarly, a refrigerator improves food storage, <mark>reducing spoilage and waste</mark>, and a television can provide access to information and entertainment, connecting people to the wider world.</p>\n\n<p>However, the downsides of universal ownership of these goods are far more significant. The environmental impact would be devastating. The production of billions of cars, televisions, and refrigerators would consume vast amounts of resources and generate enormous amounts of pollution. Car emissions contribute significantly to air pollution and climate change, while the manufacturing and disposal of electronic goods <mark>creates toxic waste</mark> that pollutes land and water. Moreover, the increased demand for energy to power these appliances would strain existing power grids and likely lead to increased reliance on fossil fuels.</p>\n\n<p>Beyond the environmental concerns, there are also social and economic implications. The pursuit of these possessions could lead to increased consumerism and materialism, <mark>potentially eroding traditional values and community bonds</mark>. The cost of purchasing and maintaining these items could also place a significant financial burden on individuals and families, <mark>exacerbating inequality</mark> and leading to debt. Furthermore, the homogenization of lifestyles that would result from everyone owning the same things could stifle cultural diversity and individual expression.</p>\n\n<p>In conclusion, while there may be some limited economic benefits to the idea of everyone owning a car, a TV, and a fridge, the environmental, social, and economic disadvantages are far more substantial. A more sustainable and equitable approach to development <mark>necessitates a shift away from</mark> excessive consumption and towards more responsible and fulfilling ways of life. <mark>It is imperative</mark> that we prioritize environmental protection and social well-being over the relentless pursuit of material possessions.</p>",
+    "sampleBand8": "<p>The aspiration to own a car, television, and refrigerator is a common one, driven by desires for convenience, entertainment, and improved living standards. While the widespread ownership of these goods could bring certain benefits, I believe that the disadvantages of such a scenario would <mark>considerably outweigh</mark> the advantages.</p>\n\n<p>On the one hand, there are some potential benefits to consider. Increased ownership of cars, for example, could stimulate economic growth through increased manufacturing and sales. Access to television provides educational and informational opportunities, particularly for those in remote areas. Refrigerators, similarly, improve hygiene and reduce food spoilage, leading to better health outcomes. <mark>Furthermore, the pursuit of such material possessions</mark> can act as a motivator for personal and professional development, as individuals strive to earn the income necessary to acquire them.</p>\n\n<p>However, the downsides are far more significant. The environmental impact of mass car ownership is devastating, contributing to air pollution, greenhouse gas emissions, and resource depletion. Increased television consumption is often linked to sedentary lifestyles, obesity, and exposure to potentially harmful content. The production and disposal of refrigerators consume vast amounts of energy and generate significant waste. <mark>Beyond the environmental concerns</mark>, a society focused on acquiring these specific material goods risks becoming overly materialistic, potentially leading to increased social inequality and a decline in community spirit. <mark>This relentless pursuit of possessions</mark> can also lead to increased stress and anxiety as people constantly strive to keep up with societal expectations.</p>\n\n<p>Moreover, the assumption that everyone desires these specific items is questionable. Different cultures and individuals have varying priorities and needs. For example, in some communities, access to clean water or education may be considered far more essential than owning a car or a television. <mark>To impose a universal standard of material success</mark> is not only impractical but also potentially harmful, as it disregards the diverse values and aspirations of people around the world.</p>\n\n<p>In conclusion, while there may be some limited advantages to the widespread ownership of cars, televisions, and refrigerators, the negative consequences for the environment, society, and individual well-being <mark>far outweigh any potential benefits</mark>. A more sustainable and equitable future requires a shift away from this materialistic focus, towards a greater emphasis on community, environmental stewardship, and individual well-being. <mark>It is imperative that</mark> governments and individuals alike prioritize policies and choices that promote these values, <mark>rather than blindly pursuing</mark> a narrow definition of material success.</p>",
+    "sampleBand9": "<p>The aspiration to own a car, television, and refrigerator is increasingly prevalent globally. While such a development might appear to signify progress and improved living standards, I believe that its disadvantages <mark>substantially outweigh</mark> the advantages, primarily due to its environmental impact and the fostering of unsustainable consumerism.</p>\n\n<p>One significant drawback is the <mark>detrimental effect on the environment</mark>. The widespread ownership of cars, particularly those powered by internal combustion engines, contributes significantly to air pollution and greenhouse gas emissions, <mark>exacerbating climate change</mark>. Mass production of refrigerators, containing refrigerants, and televisions, composed of various electronic components, consumes vast amounts of energy and resources. Their eventual disposal generates electronic waste, posing a serious threat to ecosystems due to the presence of toxic materials. This <mark>relentless pursuit</mark> of material possessions places immense strain on the planet's finite resources and its ability to absorb pollution.</p>\n\n<p>Furthermore, the universal desire for these possessions fuels a culture of <mark>rampant consumerism</mark>. Advertising and marketing campaigns <mark>perpetuate the notion</mark> that happiness and fulfillment are directly linked to acquiring material goods. This can lead to a cycle of dissatisfaction, where individuals constantly strive for the next upgrade or the latest model, neglecting other aspects of well-being such as relationships, personal growth, and community involvement. The <mark>ensuing pressure</mark> to accumulate possessions can also contribute to financial instability and increased stress levels, ultimately diminishing the quality of life.</p>\n\n<p>Admittedly, there are some potential advantages to the widespread ownership of these items. Cars can provide increased mobility and access to employment opportunities, while televisions can offer entertainment and educational content. Refrigerators improve food preservation and reduce food waste. However, these benefits are <mark>dwarfed by</mark> the long-term environmental and societal costs. Sustainable alternatives, such as public transportation, renewable energy sources, and a shift towards a more mindful and less materialistic lifestyle, are essential to mitigate these negative consequences. In conclusion, while the allure of owning a car, TV, and fridge may be strong, the disadvantages associated with this widespread aspiration, particularly concerning environmental sustainability and the <mark>cultivation of consumerist values</mark>, are far too significant to ignore. A fundamental shift in priorities is <mark>imperative</mark> to ensure a healthier and more sustainable future.</p>",
+    "timeMinutes": 40,
+    "sampleAnswer": "In recent years, the aspiration to own commodities such as cars, televisions, and refrigerators has become nearly universal. This surge in consumerism, while indicative of economic progress and improved living standards, raises concerns about the long-term implications on both societal and environmental fronts. This essay argues that the disadvantages of this trend significantly outweigh its advantages. \n\nThe primary advantage of widespread ownership of these goods lies in the enhanced quality of life they offer. Automobiles facilitate mobility and accessibility, televisions provide a gateway to global information and entertainment, and refrigerators are essential for food preservation, promoting health and convenience. Moreover, the demand for these products can stimulate economic growth, driving innovation and creating employment opportunities across manufacturing and service sectors.\n\nNevertheless, the drawbacks associated with this burgeoning consumerism are profound. One significant concern is the environmental impact. Mass production and disposal of cars, TVs, and fridges contribute to pollution and deplete natural resources. The automotive industry, in particular, is a major contributor to carbon emissions, exacerbating climate change. Similarly, electronic waste from obsolete televisions and refrigerators poses serious environmental hazards, as many contain toxic substances that can leach into the soil and water.\n\nIn addition to environmental issues, there are social implications. The relentless pursuit of these consumer goods can lead to materialism, where societal value is placed on possessions rather than intrinsic qualities. This shift can widen the socio-economic divide, as those unable to afford such luxuries may feel marginalized. Furthermore, the dependence on these commodities can erode traditional lifestyles and reduce human interaction, as more time is spent in front of screens rather than engaging in community activities.\n\nIn conclusion, while the ownership of cars, TVs, and fridges certainly brings tangible benefits, the adverse effects on the environment and societal fabric are significant. Policymakers should strive to balance consumer desires with sustainable practices and promote values that prioritize environmental stewardship and social cohesion over material acquisition.",
+    "uzSampleBand5": "<p>To‘g‘ri, ko‘pchilik odamlar mashina, televizor va muzlatgichga ega bo‘lishni xohlashadi. Bu narsalar hayotda <mark>juda foydali</mark>. Lekin menimcha, hamma bu narsalarga ega bo‘lishi bilan bog‘liq muammolar bor. Ushbu insho afzalliklari va kamchiliklari haqida gapiradi.</p>\n\n<p>Bir yaxshi tomoni shundaki, bu hayotni osonlashtiradi. Mashina odamlarga ishga borish yoki oilasini ko‘rishga yordam beradi. Televizor odamlarga ko‘ngilochar va ma’lumot beradi. <mark>Muzlatgich yaxshi</mark>, chunki u oziq-ovqatni yangi saqlashga yordam beradi, shuning uchun har kuni xarid qilishga majbur emassiz. Bu narsalar ko‘pchilikning <mark>hayot sifatini</mark> yaxshilashi mumkin va bu iqtisodiyotga yordam beradi, chunki odamlar narsalar sotib olishadi.</p>\n\n<p>Biroq, ba'zi yomon tomonlari ham bor. Agar hammada mashina bo'lsa, tirbandlik va ifloslanish ko'proq bo'ladi. Bu atrof-muhit va odamlarning salomatligi uchun yomon. Televizorlar odamlarni dangasa qilib qo'yishi mumkin va ular tashqariga chiqmasligi yoki mashq qilmasligi mumkin. Muzlatgichlar ko'p elektr energiyasini ishlatadi, bu ham <mark>atrof-muhitni yomonlashtiradi</mark>. Shuningdek, agar hammada bir xil narsalar bo'lsa, bu dunyoni zerikarli qilib qo'yishi mumkin va odamlar o'zlarida bor narsani qadrlamasligi mumkin.</p>\n\n<p>Xulosa qilib aytganda, hammada mashina, televizor va muzlatgichga ega bo'lishning ba'zi yaxshi tomonlari bo'lsa-da, menimcha, yomon tomonlari muhimroq. Hamma narsaga ega bo'lishga harakat qilishdan oldin atrof-muhit va odamlarning salomatligi haqida o'ylash muhim. Balki kamroq narsaga ega bo'lish va yaxshiroq dunyoga ega bo'lish yaxshiroqdir.</p>",
+    "uzSampleBand6": "<p>Bugungi kunda ko'pincha hamma mashina, televizor va muzlatgichga ega bo'lishga intiladi, degan fikrlar aytiladi. <mark>Bunday rivojlanish</mark> tashqi tomondan jozibali ko'rinishi mumkin bo'lsa-da, menimcha, kamchiliklar har qanday potentsial afzalliklardan <mark>ko'ra ancha muhimroq</mark>.</p>\n\n<p>Asosiy afzalliklardan biri qulaylikning oshishi va <mark>turmush darajasining yaxshilanishi</mark> bo'ladi. Mashinalar transportni osonlashtiradi, odamlarga ish yoki dam olish uchun uzoqroq sayohat qilish imkonini beradi. Televizorlar ko'ngilochar va ma'lumot olish imkonini beradi, muzlatgichlar esa oziq-ovqatni saqlash va chiqindilarni kamaytirishga yordam beradi. Biroq, bu narsalarga keng egalik qilish bir qator muammolarni keltirib chiqaradi.</p>\n\n<p>Eng aniq kamchilik - bu atrof-muhitga ta'siri. Mashinalar, televizorlar va muzlatgichlarni ishlab chiqarish va ishlatish juda ko'p resurslar va energiya sarflaydi. Bu ifloslanish, iqlim o'zgarishi va tabiiy resurslarning kamayishiga olib keladi. Masalan, yo'llarda mashinalar sonining ko'payishi tirbandlik va havo ifloslanishiga olib keladi, <mark>ayniqsa shahar joylarida</mark>.</p>\n\n<p>Bundan tashqari, bu narsalarga egalik qilish istagi iste'molchilik va qarzning ko'payishiga olib kelishi mumkin. Odamlar hatto qurbi yetmasa ham, eng so'nggi modellarni sotib olishga majbur bo'lishi mumkin. Bu materializm va norozilik madaniyatini yaratishi mumkin, bunda odamlar doimo ko'proq narsalarga intilishadi. Bu oilaviy byudjetlarga <mark>bosim o'tkazishi</mark> va moliyaviy muammolarga olib kelishi mumkin.</p>\n\n<p>Xulosa qilib aytganda, mashinalar, televizorlar va muzlatgichlarga keng egalik qilish qulaylik va turmush darajasi nuqtai nazaridan ba'zi afzalliklarni taqdim etishi mumkin bo'lsa-da, menimcha, kamchiliklar, ayniqsa atrof-muhitga ta'siri va iste'molchilikning ortishi <mark>ancha kattaroq</mark>. Barqaror iste'mol usullarini targ'ib qilish va odamlarni moddiy boyliklardan ko'ra hayot sifatiga ustunlik berishga undash muhimdir.</p>",
+    "uzSampleBand7": "<p>Yer yuzidagi har bir inson mashina, televizor va muzlatgichga ega bo'lishga intiladi, degan tushuncha keng tarqalgan ishonchdir. Ushbu darajadagi iste'mol maqbul ko'rinishi mumkin bo'lsa-da, menimcha, bunday rivojlanishning kamchiliklari afzalliklaridan <mark>oxir-oqibat ustun keladi</mark>.</p>\n\n<p>Bir tomondan, ko'rib chiqish uchun ba'zi potentsial foydalar mavjud. Ushbu narsalarga keng egalik qilish iqtisodiy o'sishni rag'batlantirishi mumkin. Talabning oshishi ishlab chiqarishning ko'payishiga olib keladi, ish o'rinlari yaratadi va milliy iqtisodiyotlarni kuchaytiradi. Bundan tashqari, mashinaga egalik qilish, ayniqsa qishloq joylarida, shaxslarga ko'proq harakatchanlik va ish imkoniyatlariga, sog'liqni saqlash va ta'limga kirish imkoniyatini berishi mumkin. Xuddi shunday, muzlatgich oziq-ovqat mahsulotlarini saqlashni yaxshilaydi, <mark>buzilish va isrofni kamaytiradi</mark>, televizor esa odamlarni keng dunyo bilan bog'lab, ma'lumot va ko'ngilochar xizmatlardan foydalanish imkoniyatini beradi.</p>\n\n<p>Biroq, ushbu tovarlarga universal egalik qilishning kamchiliklari ancha muhimdir. Atrof-muhitga ta'siri halokatli bo'ladi. Milliardlab mashinalar, televizorlar va muzlatgichlar ishlab chiqarish ulkan miqdordagi resurslarni sarflaydi va juda ko'p miqdorda ifloslanishni keltirib chiqaradi. Avtomobil chiqindilari havo ifloslanishi va iqlim o'zgarishiga katta hissa qo'shadi, elektron tovarlarni ishlab chiqarish va utilizatsiya qilish esa yer va suvni ifloslantiradigan <mark>zaharli chiqindilarni yaratadi</mark>. Bundan tashqari, ushbu jihozlarni quvvatlantirish uchun energiya talabining oshishi mavjud elektr tarmoqlariga yuk tushiradi va, ehtimol, qazilma yoqilg'iga bog'liqlikning oshishiga olib keladi.</p>\n\n<p>Atrof-muhit bilan bog'liq muammolardan tashqari, ijtimoiy va iqtisodiy oqibatlar ham mavjud. Ushbu mulklarni olishga intilish iste'molchilik va materializmning kuchayishiga olib kelishi mumkin, bu esa <mark>an'anaviy qadriyatlar va jamoatchilik aloqalarini buzishi mumkin</mark>. Ushbu narsalarni sotib olish va saqlash narxi ham shaxslar va oilalarga sezilarli moliyaviy yuk bo'lishi mumkin, bu esa <mark>tengsizlikni kuchaytiradi</mark> va qarzga olib keladi. Bundan tashqari, hamma bir xil narsaga ega bo'lish natijasida kelib chiqadigan turmush tarzining bir xillashuvi madaniy xilma-xillik va individual ifodani bo'g'ishi mumkin.</p>\n\n<p>Xulosa qilib aytganda, hamma mashina, televizor va muzlatgichga ega bo'lish g'oyasining ba'zi cheklangan iqtisodiy foydalari bo'lishi mumkin bo'lsa-da, atrof-muhit, ijtimoiy va iqtisodiy kamchiliklar ancha muhimdir. Rivojlanishga nisbatan barqaror va adolatli yondashuv <mark>haddan tashqari iste'moldan voz kechishni</mark> va hayotning yanada mas'uliyatli va qoniqarli usullariga o'tishni talab qiladi. <mark>Shuni ta'kidlash kerakki</mark>, biz moddiy mulklarni tinimsiz izlashdan ko'ra atrof-muhitni muhofaza qilish va ijtimoiy farovonlikni ustuvor vazifa qilib qo'yishimiz kerak.</p>",
+    "uzSampleBand8": "<p>Mashina, televizor va muzlatgichga ega bo'lish istagi keng tarqalgan bo'lib, qulaylik, ko'ngilochar va hayot sifatini yaxshilash istaklari bilan bog'liq. Ushbu tovarlarga keng egalik qilish ayrim foydali jihatlarni keltirishi mumkin bo'lsa-da, men bunday ssenariyning kamchiliklari afzalliklardan <mark>sezilarli darajada ustun bo'ladi</mark> deb hisoblayman.</p>\n\n<p>Bir tomondan, ko'rib chiqishga arziydigan ba'zi potentsial foydalar mavjud. Misol uchun, mashinalarga egalikning ortishi ishlab chiqarish va sotish hajmining oshishi orqali iqtisodiy o'sishga turtki bo'lishi mumkin. Televizorga kirish, ayniqsa, olis hududlardagi odamlar uchun ta'lim va axborot imkoniyatlarini taqdim etadi. Xuddi shunday, muzlatgichlar gigiyenani yaxshilaydi va oziq-ovqatning buzilishini kamaytiradi, bu esa sog'liqni saqlash natijalarini yaxshilashga olib keladi. <mark>Bundan tashqari, bunday moddiy boyliklarga intilish</mark> shaxsiy va professional rivojlanish uchun motivatsiya bo'lib xizmat qilishi mumkin, chunki odamlar ularni sotib olish uchun zarur bo'lgan daromadni topishga intilishadi.</p>\n\n<p>Biroq, kamchiliklar ancha muhim. Ommaviy mashinalarga egalikning atrof-muhitga ta'siri halokatli bo'lib, havo ifloslanishi, issiqxona gazlari emissiyasi va resurslarning tugashiga hissa qo'shadi. Televizor iste'molining ortishi ko'pincha kam harakatli turmush tarzi, semirish va potentsial zararli kontentga ta'sir qilish bilan bog'liq. Muzlatgichlarni ishlab chiqarish va utilizatsiya qilish juda ko'p energiya sarflaydi va sezilarli miqdorda chiqindi hosil qiladi. <mark>Atrof-muhit bilan bog'liq muammolardan tashqari</mark>, ushbu aniq moddiy tovarlarni sotib olishga qaratilgan jamiyat haddan tashqari materialistik bo'lib qolish xavfini tug'diradi, bu esa ijtimoiy tengsizlikning kuchayishiga va jamoatchilik ruhining pasayishiga olib kelishi mumkin. <mark>Mulkka bo'lgan bu tinimsiz intilish</mark> odamlarning jamiyat kutganidek bo'lishga doimiy intilishi tufayli stress va xavotirning kuchayishiga ham olib kelishi mumkin.</p>\n\n<p>Bundan tashqari, hamma ham ushbu aniq narsalarni xohlaydi degan taxmin shubhali. Turli madaniyatlar va shaxslarning turli xil ustuvorliklari va ehtiyojlari bor. Misol uchun, ba'zi jamoalarda toza suv yoki ta'limga kirish mashina yoki televizorga egalik qilishdan ko'ra muhimroq deb hisoblanishi mumkin. <mark>Moddiy muvaffaqiyatning universal standartini o'rnatish</mark> nafaqat amaliy emas, balki butun dunyo bo'ylab odamlarning turli xil qadriyatlari va intilishlariga befarq bo'lganligi sababli potentsial zararli hamdir.</p>\n\n<p>Xulosa qilib aytganda, mashinalar, televizorlar va muzlatgichlarga keng egalik qilishning ba'zi cheklangan afzalliklari bo'lishi mumkin bo'lsa-da, atrof-muhit, jamiyat va shaxsiy farovonlik uchun salbiy oqibatlar <mark>har qanday potentsial foydadan ustun turadi</mark>. Barqaror va adolatli kelajak ushbu materialistik yo'nalishdan uzoqlashishni, jamiyat, atrof-muhitni muhofaza qilish va shaxsiy farovonlikka ko'proq e'tibor qaratishni talab qiladi. <mark>Shuni ta'kidlash kerakki</mark> hukumatlar va shaxslar bir xilda ushbu qadriyatlarni targ'ib qiladigan siyosat va tanlovlarga ustuvor ahamiyat berishlari <mark>kerak, moddiy muvaffaqiyatning tor ta'rifiga ko'r-ko'rona intilishdan ko'ra</mark>.</p>",
+    "uzSampleBand9": "<p>Avtomobil, televizor va muzlatgichga egalik qilish istagi butun dunyoda tobora keng tarqalmoqda. Bunday rivojlanish taraqqiyot va turmush darajasining yaxshilanishini anglatadigandek tuyulishi mumkin bo'lsa-da, menimcha, uning kamchiliklari, asosan, atrof-muhitga ta'siri va barqaror bo'lmagan iste'molchilikni rag'batlantirishi tufayli afzalliklaridan <mark>sezilarli darajada ustun turadi</mark>.</p>\n\n<p>Eng muhim kamchiliklardan biri - <mark>atrof-muhitga zararli ta'siri</mark>. Avtomobillarga, ayniqsa ichki yonuv dvigatellari bilan ishlaydiganlariga egalik qilishning keng tarqalishi havo ifloslanishi va issiqxona gazlari emissiyasiga katta hissa qo'shadi, bu esa <mark>iqlim o'zgarishini kuchaytiradi</mark>. Sovutgichlar, sovutish moslamalarini o'z ichiga olgan va televizorlar, turli xil elektron komponentlardan tashkil topgan massaviy ishlab chiqarish katta miqdordagi energiya va resurslarni iste'mol qiladi. Ularni utilizatsiya qilish elektron chiqindilarni hosil qiladi, bu esa zaharli materiallar mavjudligi sababli ekotizimlarga jiddiy xavf tug'diradi. Moddiy boyliklarga <mark>tinimsiz intilish</mark> sayyoramizning cheklangan resurslariga va uning ifloslanishni o'zlashtirish qobiliyatiga ulkan bosim o'tkazadi.</p>\n\n<p>Bundan tashqari, ushbu narsalarga bo'lgan umumiy istak <mark>keng tarqalgan iste'molchilik</mark> madaniyatiga turtki bo'ladi. Reklama va marketing kampaniyalari baxt va qoniqish moddiy boyliklarni sotib olish bilan bevosita bog'liq degan <mark>tushunchani davom ettiradi</mark>. Bu qoniqmaslik tsikliga olib kelishi mumkin, bunda odamlar doimo keyingi yangilanish yoki so'nggi modelga intilib, munosabatlar, shaxsiy o'sish va jamiyatda ishtirok etish kabi farovonlikning boshqa jihatlariga e'tibor bermaydilar. Boylik to'plash uchun <mark>paydo bo'ladigan bosim</mark> moliyaviy beqarorlik va stress darajasining oshishiga ham hissa qo'shishi mumkin, natijada hayot sifatini pasaytiradi.</p>\n\n<p>Tan olish kerakki, ushbu narsalarga keng egalik qilishning ba'zi potentsial afzalliklari mavjud. Avtomobillar harakatchanlikni oshirishi va ish bilan ta'minlash imkoniyatlarini taqdim etishi mumkin, televizorlar esa ko'ngilochar va ta'limiy kontentni taklif qilishi mumkin. Muzlatgichlar oziq-ovqat mahsulotlarini saqlashni yaxshilaydi va oziq-ovqat chiqindilarini kamaytiradi. Biroq, bu afzalliklar uzoq muddatli ekologik va ijtimoiy xarajatlar oldida <mark>so'nadi</mark>. Jamoat transporti, qayta tiklanadigan energiya manbalari va yanada ongli va kamroq moddiy hayot tarziga o'tish kabi barqaror alternativalar ushbu salbiy oqibatlarni yumshatish uchun zarurdir. Xulosa qilib aytganda, avtomobil, televizor va muzlatgichga egalik qilish jozibador bo'lishi mumkin bo'lsa-da, ushbu keng tarqalgan intilish bilan bog'liq kamchiliklar, ayniqsa ekologik barqarorlik va <mark>iste'molchilik qadriyatlarini rivojlantirish</mark> bilan bog'liq bo'lgan kamchiliklar e'tibordan chetda qoldirish uchun juda muhimdir. Sog'lom va barqaror kelajakni ta'minlash uchun ustuvorliklarda tub o'zgarish <mark>zarur</mark>.</p>"
+   }
+  },
+  "source": "Cambridge IELTS 17",
+  "examDate": "2022-03-14",
+  "settings": {
+   "logoUrl": "https://audio.mock-stream.com/img/ibb/WN0XY5Lv/logo.png",
+   "timeInfo": "⏱ Total time: 60 minutes | Task 1: 20 min (150 words) | Task 2: 40 min (250 words)",
+   "logoWording": "Mock Stream",
+   "moduleTitle": "Academic Writing Module",
+   "testIdentifier": "IELTS Mock 03"
+  },
+  "vocabulary": {
+   "task1": [
+    {
+     "term": "illustrates",
+     "meaning": "shows or explains visually"
+    },
+    {
+     "term": "proportion",
+     "meaning": "a part, share, or number considered in comparative relation to a whole"
+    },
+    {
+     "term": "demographics",
+     "meaning": "statistical data relating to the population and particular groups within it"
+    },
+    {
+     "term": "allocate",
+     "meaning": "distribute resources or duties for a particular purpose"
+    },
+    {
+     "term": "expenditure",
+     "meaning": "the action of spending funds"
+    },
+    {
+     "term": "escalating",
+     "meaning": "increasing rapidly"
+    },
+    {
+     "term": "preference",
+     "meaning": "a greater liking for one alternative over another"
+    },
+    {
+     "term": "notable",
+     "meaning": "worthy of attention or notice; remarkable"
+    },
+    {
+     "term": "underscores",
+     "meaning": "emphasizes or highlights"
+    }
+   ],
+   "task2": [
+    {
+     "term": "consumerism",
+     "meaning": "the preoccupation of society with the acquisition of consumer goods"
+    },
+    {
+     "term": "commodities",
+     "meaning": "marketable items produced to satisfy wants or needs"
+    },
+    {
+     "term": "aspiration",
+     "meaning": "a hope or ambition of achieving something"
+    },
+    {
+     "term": "mobility",
+     "meaning": "the ability to move or be moved freely and easily"
+    },
+    {
+     "term": "gateway",
+     "meaning": "a means of access or entry to a place or system"
+    },
+    {
+     "term": "stimulate",
+     "meaning": "to encourage development or increased activity"
+    },
+    {
+     "term": "burgeoning",
+     "meaning": "beginning to grow or develop rapidly"
+    },
+    {
+     "term": "materialism",
+     "meaning": "a tendency to consider material possessions and physical comfort as more important than spiritual values"
+    },
+    {
+     "term": "socio-economic",
+     "meaning": "relating to or concerned with the interaction of social and economic factors"
+    },
+    {
+     "term": "marginalized",
+     "meaning": "treated as insignificant or peripheral"
+    },
+    {
+     "term": "intrinsic",
+     "meaning": "belonging naturally; essential"
+    },
+    {
+     "term": "erode",
+     "meaning": "to gradually wear away or destroy"
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "dwarfed by": {
+    "uz": "soyada qoldirildi",
+    "type": "colloc"
+   },
+   "elucidates": {
+    "uz": "izohlaydi",
+    "type": "academic"
+   },
+   "imperative": {
+    "uz": "muhim",
+    "type": "academic"
+   },
+   "is the most": {
+    "uz": "eng...",
+    "type": "lexical"
+   },
+   "very useful": {
+    "uz": "juda foydali",
+    "type": "colloc"
+   },
+   "spent money on": {
+    "uz": "ga pul sarfladi",
+    "type": "colloc"
+   },
+   "put a strain on": {
+    "uz": "ga yuklama qo'yadi",
+    "type": "colloc"
+   },
+   "quality of life": {
+    "uz": "hayot sifati",
+    "type": "lexical"
+   },
+   "A fridge is good": {
+    "uz": "Muzlatgich yaxshi",
+    "type": "colloc"
+   },
+   "It is imperative": {
+    "uz": "Bu juda muhim",
+    "type": "academic"
+   },
+   "The oldest group": {
+    "uz": "Eng keksa guruh",
+    "type": "lexical"
+   },
+   "are much greater": {
+    "uz": "ancha kattaroq",
+    "type": "lexical"
+   },
+   "bucked the trend": {
+    "uz": "tendentsiyaga zid bordi",
+    "type": "colloc"
+   },
+   "ensuing pressure": {
+    "uz": "keyingi bosim",
+    "type": "lexical"
+   },
+   "was higher again": {
+    "uz": "yana yuqoriroq edi",
+    "type": "colloc"
+   },
+   "especially in food": {
+    "uz": "ayniqsa oziq-ovqatda",
+    "type": "lexical"
+   },
+   "relentless pursuit": {
+    "uz": "tinimsiz intilish",
+    "type": "lexical"
+   },
+   "spend more or less": {
+    "uz": "ko'proq yoki kamroq sarflash",
+    "type": "colloc"
+   },
+   "such a development": {
+    "uz": "bunday rivojlanish",
+    "type": "lexical"
+   },
+   "A discernible shift": {
+    "uz": "Aniq sezilarli o'zgarish",
+    "type": "lexical"
+   },
+   "creates toxic waste": {
+    "uz": "zaharli chiqindilarni yaratadi",
+    "type": "colloc"
+   },
+   "rampant consumerism": {
+    "uz": "avj olgan iste'molchilik",
+    "type": "lexical"
+   },
+   "are more significant": {
+    "uz": "ancha muhimroq",
+    "type": "lexical"
+   },
+   "immediately apparent": {
+    "uz": "darhol ko'rinib turibdi",
+    "type": "colloc"
+   },
+   "most amount of money": {
+    "uz": "eng ko'p pul",
+    "type": "colloc"
+   },
+   "It is imperative that": {
+    "uz": "Shu narsa juda muhimki",
+    "type": "academic"
+   },
+   "It is noteworthy that": {
+    "uz": "Shuni ta'kidlash joizki",
+    "type": "linking"
+   },
+   "considerably outweigh": {
+    "uz": "sezilarli darajada ustunlik qiladi",
+    "type": "academic"
+   },
+   "perpetuate the notion": {
+    "uz": "tasavvurni abadiylashtiradi",
+    "type": "academic"
+   },
+   "paints a clear picture": {
+    "uz": "aniq tasvirni chizadi",
+    "type": "colloc"
+   },
+   "substantially outweigh": {
+    "uz": "sezilarli darajada ustunlik qiladi",
+    "type": "academic"
+   },
+   "A further point to note": {
+    "uz": "E'tiborga molik yana bir jihat",
+    "type": "linking"
+   },
+   "exacerbating inequality": {
+    "uz": "tengsizlikni kuchaytirmoqda",
+    "type": "lexical"
+   },
+   "A cursory glance reveals": {
+    "uz": "Yuzaki nazar tashlash shuni ko'rsatadi",
+    "type": "academic"
+   },
+   "although the differences": {
+    "uz": "farqlar bo'lsa-da",
+    "type": "linking"
+   },
+   "make the environment bad": {
+    "uz": "atrof-muhitni yomon qiladi",
+    "type": "colloc"
+   },
+   "especially in urban areas": {
+    "uz": "ayniqsa shahar joylarida",
+    "type": "lexical"
+   },
+   "would ultimately outweigh": {
+    "uz": "oxir-oqibat ustunlik qiladi",
+    "type": "academic"
+   },
+   "remained relatively stable": {
+    "uz": "nisbatan barqaror bo'lib qoldi",
+    "type": "academic"
+   },
+   "what people spend money on": {
+    "uz": "odamlar nimaga pul sarflashadi",
+    "type": "colloc"
+   },
+   "exacerbating climate change": {
+    "uz": "iqlim o'zgarishini kuchaytirmoqda",
+    "type": "lexical"
+   },
+   "exhibited a gradual decline": {
+    "uz": "asta-sekin pasayishni namoyish etdi",
+    "type": "academic"
+   },
+   "reducing spoilage and waste": {
+    "uz": "buzilish va chiqindilarni kamaytirish",
+    "type": "lexical"
+   },
+   "remained largely consistent": {
+    "uz": "asosan barqaror bo'lib qoldi",
+    "type": "academic"
+   },
+   "rather than blindly pursuing": {
+    "uz": "ko'r-ko'rona intilish o'rniga",
+    "type": "lexical"
+   },
+   "The data distinctly highlights": {
+    "uz": "Ma'lumotlar aniq ko'rsatib turibdi",
+    "type": "academic"
+   },
+   "necessitates a shift away from": {
+    "uz": "dan uzoqlashishni talab qiladi",
+    "type": "academic"
+   },
+   "While there are some variations": {
+    "uz": "Ba'zi o'zgarishlar mavjud bo'lsa-da",
+    "type": "linking"
+   },
+   "evolve throughout the lifecycle": {
+    "uz": "hayot davomida rivojlanadi",
+    "type": "academic"
+   },
+   "Beyond the environmental concerns": {
+    "uz": "Ekologik muammolardan tashqari",
+    "type": "linking"
+   },
+   "cultivation of consumerist values": {
+    "uz": "iste'molchilik qadriyatlarini rivojlantirish",
+    "type": "lexical"
+   },
+   "elucidate the shifting priorities": {
+    "uz": "o'zgaruvchan ustuvorliklarni aniqlashtirish",
+    "type": "academic"
+   },
+   "underscores the financial demands": {
+    "uz": "moliyaviy talablarni ta'kidlaydi",
+    "type": "academic"
+   },
+   "an improvement in living standards": {
+    "uz": "turmush darajasining yaxshilanishi",
+    "type": "lexical"
+   },
+   "inverse proportional relationships": {
+    "uz": "teskari proportsional munosabatlar",
+    "type": "academic"
+   },
+   "far outweigh any potential benefits": {
+    "uz": "har qanday potentsial foydadan ancha ustun turadi",
+    "type": "academic"
+   },
+   "Interestingly, the oldest demographic": {
+    "uz": "Qizig'i shundaki, eng keksa demografik guruh",
+    "type": "linking"
+   },
+   "detrimental effect on the environment": {
+    "uz": "atrof-muhitga zararli ta'sir",
+    "type": "lexical"
+   },
+   "This relentless pursuit of possessions": {
+    "uz": "Boylik orttirishga bo'lgan bu tinimsiz intilish",
+    "type": "lexical"
+   },
+   "illustrates the proportion of expenditure": {
+    "uz": "xarajatlar ulushini ko'rsatadi",
+    "type": "academic"
+   },
+   "Overall, the data suggests a shift in priorities": {
+    "uz": "Umuman olganda, ma'lumotlar ustuvorliklarning o'zgarishini ko'rsatadi",
+    "type": "linking"
+   },
+   "To impose a universal standard of material success": {
+    "uz": "Moddiy muvaffaqiyatning universal standartini o'rnatish",
+    "type": "lexical"
+   },
+   "In sum, age appears to be a significant determinant": {
+    "uz": "Xulosa qilib aytganda, yosh muhim omil bo'lib ko'rinadi",
+    "type": "linking"
+   },
+   "Furthermore, the pursuit of such material possessions": {
+    "uz": "Bundan tashqari, bunday moddiy boyliklarga intilish",
+    "type": "linking"
+   },
+   "potentially eroding traditional values and community bonds": {
+    "uz": "potentsial ravishda an'anaviy qadriyatlar va jamiyat aloqalarini yemiradi",
+    "type": "lexical"
+   },
+   "In contrast, expenditure on food showed a more uniform distribution": {
+    "uz": "Bunga javoban, oziq-ovqatga qilingan xarajatlar yanada bir xil taqsimotni ko'rsatdi",
+    "type": "linking"
+   },
+   "Overall, housing accounted for the largest proportion of expenditure": {
+    "uz": "Umuman olganda, uy-joy xarajatlarning eng katta qismini tashkil etdi",
+    "type": "linking"
+   },
+   "In summary, age seems to have a significant impact on spending priorities": {
+    "uz": "Xulosa qilib aytganda, yosh xarajat ustuvorliklariga sezilarli ta'sir ko'rsatadiganga o'xshaydi",
+    "type": "linking"
+   },
+   "It is noticeable that the oldest group, over 65s, spent a slightly higher proportion on leisure": {
+    "uz": "Shuni ta'kidlash joizki, eng keksa guruh, 65 yoshdan oshganlar, dam olishga biroz ko'proq ulush sarflagan",
+    "type": "linking"
+   }
+  }
+ },
+ "created_at": "2026-05-06T17:28:28.531683+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

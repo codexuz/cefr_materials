@@ -1,0 +1,278 @@
+{
+ "id": 2216,
+ "mock_type": "ielts-writing",
+ "mock_number": 78,
+ "title": "IELTS Writing Mock 78",
+ "status": "published",
+ "mock_data": {
+  "tasks": {
+   "task1": {
+    "title": "Doctors in Australia, 1986–2006",
+    "prompt": "The table and charts below give information about doctors in Australia between 1986 and 2006.",
+    "wordGoal": 150,
+    "chartDesc": {
+     "title": "Number of doctors in Australia (1986, 1996 and 2006)",
+     "visuals": [
+      {
+       "kind": "table",
+       "xAxis": "",
+       "yAxis": "",
+       "series": [
+        {
+         "name": "Total doctors",
+         "points": [
+          {
+           "at": "1986",
+           "value": 23720
+          },
+          {
+           "at": "1996",
+           "value": 29060
+          },
+          {
+           "at": "2006",
+           "value": 35450
+          }
+         ]
+        }
+       ],
+       "caption": "Number of doctors in Australia (1986, 1996 and 2006)"
+      },
+      {
+       "kind": "bar chart",
+       "xAxis": "",
+       "yAxis": "%",
+       "series": [
+        {
+         "name": "Male",
+         "points": [
+          {
+           "at": "1986",
+           "value": 75
+          },
+          {
+           "at": "1996",
+           "value": 65
+          },
+          {
+           "at": "2006",
+           "value": 60
+          }
+         ]
+        },
+        {
+         "name": "Female",
+         "points": [
+          {
+           "at": "1986",
+           "value": 25
+          },
+          {
+           "at": "1996",
+           "value": 35
+          },
+          {
+           "at": "2006",
+           "value": 40
+          }
+         ]
+        }
+       ],
+       "caption": "Percentage of doctors in Australia by Gender"
+      },
+      {
+       "kind": "bar chart",
+       "xAxis": "",
+       "yAxis": "%",
+       "series": [
+        {
+         "name": "Born in Australia",
+         "points": [
+          {
+           "at": "1986",
+           "value": 62
+          },
+          {
+           "at": "1996",
+           "value": 57
+          },
+          {
+           "at": "2006",
+           "value": 50
+          }
+         ]
+        },
+        {
+         "name": "Born overseas",
+         "points": [
+          {
+           "at": "1986",
+           "value": 38
+          },
+          {
+           "at": "1996",
+           "value": 43
+          },
+          {
+           "at": "2006",
+           "value": 50
+          }
+         ]
+        }
+       ],
+       "caption": "Percentage of doctors in Australia by Place of birth"
+      }
+     ],
+     "overview": "The total number of doctors in Australia increased continuously between 1986 and 2006. Over the same period, the medical workforce became more diverse, with rising proportions of both female doctors and doctors born overseas.",
+     "chartType": "mixed",
+     "confidence": "medium",
+     "unreadable": [
+      "Exact values for 1986 and 1996 in the Place of Birth bar chart are not explicitly labeled with text and fall between gridline ticks."
+     ],
+     "keyFeatures": [
+      "Table: The total number of doctors expanded from 23,720 in 1986 to 29,060 in 1996, and reached 35,450 in 2006.",
+      "Gender Bar Chart: The proportion of male doctors fell from 75% in 1986 to 60% in 2006, while the proportion of female doctors rose correspondingly from 25% to 40%.",
+      "Place of Birth Bar Chart: Doctors born in Australia decreased from approximately 62% in 1986 to 50% in 2006, while doctors born overseas rose to reach parity at 50% in 2006."
+     ]
+    },
+    "chartType": "mixed",
+    "dataNature": "dynamic",
+    "instruction": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+    "sampleBand5": "",
+    "sampleBand6": "",
+    "sampleBand7": "",
+    "sampleBand8": "<p>The table and charts provide information about doctors in Australia over a twenty-year period, showing their total number, <mark>gender breakdown</mark> and place of birth in 1986, 1996 and 2006.</p>\n<p>Overall, the medical workforce <mark>expanded considerably</mark>, and it also became <mark>noticeably more balanced</mark>: the proportions of female doctors and of those born overseas both <mark>rose steadily</mark>, although men and Australian-born doctors <mark>remained in the majority</mark> for most of the period.</p>\n<p>According to the table, the total number of doctors <mark>climbed</mark> from 23,720 in 1986 to 29,060 in 1996, reaching 35,450 in 2006 — an increase of roughly fifty per cent overall.</p>\n<p>In terms of gender, men <mark>accounted for</mark> 75% of doctors in 1986, but this figure <mark>declined</mark> to 65% in 1996 and 60% in 2006, while the share of women rose <mark>correspondingly</mark> from just 25% to 40%. A similar trend is evident for place of birth: the proportion of doctors born in Australia fell from just over 60% to exactly half, whereas overseas-born doctors increased their share from around 35% to 50%, <mark>matching</mark> their locally born colleagues by the end of the period.</p>",
+    "sampleBand9": "",
+    "timeMinutes": 20,
+    "chartDescImg": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/78.png",
+    "sampleAnswer": "",
+    "chartImageUrl": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/78.png",
+    "uzSampleBand5": "",
+    "uzSampleBand6": "",
+    "uzSampleBand7": "",
+    "uzSampleBand8": "<p>Jadval va diagrammalar Avstraliyadagi shifokorlar haqida yigirma yillik davr bo'yicha ma'lumot berib, ularning umumiy soni, <mark>jins bo'yicha taqsimoti</mark> hamda tug'ilgan joyini 1986, 1996 va 2006-yillar uchun ko'rsatadi.</p>\n<p>Umuman olganda, tibbiyot xodimlari soni <mark>sezilarli darajada kengaydi</mark> va tarkibi ham <mark>ancha muvozanatlashdi</mark>: ayol shifokorlar va chet elda tug'ilganlarning ulushi <mark>barqaror o'sib bordi</mark>, garchi davrning katta qismida erkaklar va Avstraliyada tug'ilgan shifokorlar <mark>ko'pchilikni tashkil etishda davom etgan</mark> bo'lsa ham.</p>\n<p>Jadvalga ko'ra, shifokorlarning umumiy soni 1986-yildagi 23 720 nafardan 1996-yilda 29 060 nafarga <mark>ko'tarildi</mark> va 2006-yilda 35 450 nafarga yetdi — bu umumiy hisobda qariyb ellik foizlik o'sish demakdir.</p>\n<p>Jins nuqtai nazaridan, 1986-yilda shifokorlarning 75 foizini erkaklar <mark>tashkil etgan</mark>, biroq bu ko'rsatkich 1996-yilda 65 foizga, 2006-yilda esa 60 foizga <mark>kamaydi</mark>, ayollarning ulushi esa <mark>shunga mos ravishda</mark> atigi 25 foizdan 40 foizga o'sdi. Tug'ilgan joy bo'yicha ham shunga o'xshash tendensiya kuzatiladi: Avstraliyada tug'ilgan shifokorlar ulushi 60 foizdan sal ko'proq darajadan roppa-rosa yarmigacha tushdi, chet elda tug'ilganlar esa o'z ulushini taxminan 35 foizdan 50 foizga oshirib, davr oxiriga kelib mahalliy hamkasblari bilan <mark>tenglashdi</mark>.</p>",
+    "uzSampleBand9": "",
+    "chartDescSource": "extracted-verified-2026-08-05"
+   },
+   "task2": {
+    "title": "Hosting international sporting events",
+    "prompt": "It costs a lot of money for a country to host an international sporting event, such as the Olympic Games or the FIFA World Cup. Some people think that this is a waste of money, while others believe the opposite. Discuss both these views and give your own opinion.",
+    "wordGoal": 250,
+    "essayType": "balanced",
+    "instruction": "Give reasons for your answer and include any relevant examples from your own knowledge or experience.",
+    "sampleBand5": "",
+    "sampleBand6": "",
+    "sampleBand7": "",
+    "sampleBand8": "<p>Staging events such as the Olympic Games or the FIFA World Cup requires enormous <mark>public spending</mark>, and opinions are sharply divided over whether this money is wasted. While I accept that costs can easily <mark>spiral</mark>, I believe that a well-planned event brings benefits that <mark>justify the investment</mark>.</p>\n<p>Critics of these events have some strong arguments. Stadiums built for a single tournament often <mark>fall into disuse</mark> afterwards, becoming so-called <mark>white elephants</mark> that cost millions to maintain, and the debts incurred can remain a <mark>burden on taxpayers</mark> for decades. From this perspective, the same billions could arguably do far more good if they were channelled into hospitals, schools or affordable housing.</p>\n<p>On the other hand, supporters argue that the advantages go well beyond sport. A successful tournament gives the host country enormous <mark>global exposure</mark>, attracting tourists and foreign investment long after the closing ceremony. Preparations also leave behind <mark>infrastructure upgrades</mark> — new airports, roads and public transport — that residents use for generations, while the event itself creates jobs and fosters a powerful sense of <mark>national pride</mark>.</p>\n<p>In my opinion, whether hosting is wasteful depends almost entirely on planning. Countries that design venues with <mark>long-term use</mark> in mind, and that integrate the games into a wider development strategy, generally profit from the experience; those that build extravagantly for a few weeks of spectacle do not. For this reason, I side with those who see hosting as a worthwhile, if risky, investment rather than an inherent waste of money.</p>",
+    "sampleBand9": "",
+    "timeMinutes": 40,
+    "sampleAnswer": "",
+    "uzSampleBand5": "",
+    "uzSampleBand6": "",
+    "uzSampleBand7": "",
+    "uzSampleBand8": "<p>Olimpiya o'yinlari yoki FIFA Jahon chempionati kabi tadbirlarni o'tkazish ulkan <mark>davlat xarajatlarini</mark> talab qiladi va bu pul behuda sarflanadimi degan savolda fikrlar keskin bo'linadi. Xarajatlar osongina <mark>nazoratdan chiqib ketishi</mark> mumkinligini tan olsam-da, yaxshi rejalashtirilgan tadbir <mark>sarmoyani oqlaydigan</mark> foyda keltiradi deb hisoblayman.</p>\n<p>Bu tadbirlar tanqidchilarining kuchli dalillari bor. Bitta musobaqa uchun qurilgan stadionlar keyinchalik ko'pincha <mark>foydalanilmay qoladi</mark> va saqlash uchun millionlab mablag' talab qiladigan <mark>\"oq fil\"larga</mark> aylanadi, orttirilgan qarzlar esa o'nlab yillar davomida <mark>soliq to'lovchilar yelkasidagi yuk</mark> bo'lib qolishi mumkin. Shu nuqtai nazardan, xuddi shu milliardlab mablag' kasalxonalar, maktablar yoki arzon uy-joylarga yo'naltirilsa, ancha ko'proq naf keltirgan bo'lardi.</p>\n<p>Boshqa tomondan, tarafdorlar afzalliklar sportdan ancha kengroq ekanini ta'kidlaydilar. Muvaffaqiyatli o'tgan musobaqa mezbon mamlakatga ulkan <mark>xalqaro e'tibor</mark> olib keladi va yopilish marosimidan keyin ham uzoq vaqt sayyohlar hamda xorijiy sarmoyani jalb qiladi. Tayyorgarlik ishlari, shuningdek, aholi avlodlar davomida foydalanadigan <mark>infratuzilma yangilanishlarini</mark> — yangi aeroportlar, yo'llar va jamoat transportini — qoldiradi, tadbirning o'zi esa ish o'rinlari yaratadi va kuchli <mark>milliy g'urur</mark> tuyg'usini uyg'otadi.</p>\n<p>Mening fikrimcha, tadbir o'tkazish isrofgarchilik bo'lish-bo'lmasligi deyarli butunlay rejalashtirishga bog'liq. Inshootlarni <mark>uzoq muddatli foydalanishni</mark> ko'zda tutib loyihalashtirgan va o'yinlarni kengroq rivojlanish strategiyasiga uyg'unlashtirgan mamlakatlar bu tajribadan odatda yutadi; bir necha haftalik tomosha uchun dabdabali qurilish qilganlar esa yutqazadi. Shu sababli men tadbir o'tkazishni mohiyatan pul isrofi emas, balki xatarli bo'lsa-da, arziydigan sarmoya deb biladiganlar tomonidaman.</p>",
+    "uzSampleBand9": ""
+   }
+  },
+  "source": "CDI Report",
+  "examDate": "2026-07-17",
+  "settings": {
+   "logoUrl": "https://audio.mock-stream.com/img/ibb/WN0XY5Lv/logo.png",
+   "timeInfo": "⏱ Total time: 60 minutes | Task 1: 20 min (150 words) | Task 2: 40 min (250 words)",
+   "logoWording": "Mock Stream",
+   "moduleTitle": "Academic Writing Module",
+   "testIdentifier": "IELTS Mock 78"
+  },
+  "bandLabels": {
+   "8": "Band 7.5"
+  },
+  "vocabulary": {
+   "task1": [],
+   "task2": []
+  },
+  "tokenTranslations": {
+   "spiral": {
+    "uz": "nazoratsiz o'sib ketmoq",
+    "type": "verb"
+   },
+   "climbed": {
+    "uz": "ko'tarildi, o'sdi",
+    "type": "verb"
+   },
+   "declined": {
+    "uz": "kamaydi, pasaydi",
+    "type": "verb"
+   },
+   "matching": {
+    "uz": "tenglashib, mos kelib",
+    "type": "verb"
+   },
+   "accounted for": {
+    "uz": "tashkil etdi (ulushni)",
+    "type": "phrasal"
+   },
+   "long-term use": {
+    "uz": "uzoq muddatli foydalanish",
+    "type": "noun phrase"
+   },
+   "rose steadily": {
+    "uz": "barqaror o'sdi",
+    "type": "colloc"
+   },
+   "national pride": {
+    "uz": "milliy g'urur",
+    "type": "noun phrase"
+   },
+   "correspondingly": {
+    "uz": "shunga mos ravishda",
+    "type": "adverb"
+   },
+   "global exposure": {
+    "uz": "xalqaro e'tibor, dunyoga tanilish",
+    "type": "noun phrase"
+   },
+   "public spending": {
+    "uz": "davlat xarajatlari",
+    "type": "noun phrase"
+   },
+   "white elephants": {
+    "uz": "\"oq fil\" — qimmat, lekin foydasiz inshoot",
+    "type": "idiom"
+   },
+   "fall into disuse": {
+    "uz": "foydalanilmay qolmoq",
+    "type": "colloc"
+   },
+   "gender breakdown": {
+    "uz": "jins bo'yicha taqsimot",
+    "type": "noun phrase"
+   },
+   "burden on taxpayers": {
+    "uz": "soliq to'lovchilar yelkasidagi yuk",
+    "type": "noun phrase"
+   },
+   "expanded considerably": {
+    "uz": "sezilarli darajada kengaydi",
+    "type": "colloc"
+   },
+   "justify the investment": {
+    "uz": "sarmoyani oqlamoq",
+    "type": "colloc"
+   },
+   "infrastructure upgrades": {
+    "uz": "infratuzilma yangilanishlari",
+    "type": "noun phrase"
+   },
+   "noticeably more balanced": {
+    "uz": "ancha muvozanatlashgan",
+    "type": "colloc"
+   },
+   "remained in the majority": {
+    "uz": "ko'pchilikni tashkil etishda davom etdi",
+    "type": "colloc"
+   }
+  }
+ },
+ "created_at": "2026-07-21T14:10:27.810681+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

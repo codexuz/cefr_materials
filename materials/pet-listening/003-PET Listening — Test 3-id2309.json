@@ -1,0 +1,414 @@
+{
+ "id": 2309,
+ "mock_type": "pet-listening",
+ "mock_number": 3,
+ "title": "PET Listening — Test 3",
+ "status": "published",
+ "mock_data": {
+  "audio": {
+   "base": "https://audio.mock-stream.com/PET-Listening/test3/",
+   "files": {
+    "1": "PART1.m4a",
+    "2": "PART2.m4a",
+    "3": "PART3.m4a",
+    "4": "PART4.m4a"
+   }
+  },
+  "parts": [
+   {
+    "type": "picture-mcq",
+    "items": [
+     {
+      "id": 1,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q1A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q1B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q1C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Which T-shirt does the boy decide to buy?"
+     },
+     {
+      "id": 2,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q2A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q2B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q2C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Who will be on the stage next?"
+     },
+     {
+      "id": 3,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q3A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q3B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q3C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What time will the pie be ready?"
+     },
+     {
+      "id": 4,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q4A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q4B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q4C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Which photo does the girl dislike?"
+     },
+     {
+      "id": 5,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q5A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q5B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q5C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What should the students take on the school trip?"
+     },
+     {
+      "id": 6,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q6A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q6B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q6C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Where do the boys decide to go?"
+     },
+     {
+      "id": 7,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q7A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q7B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q7C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What has the girl lost?"
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "options": [
+      {
+       "image": "q0A.png",
+       "letter": "A"
+      },
+      {
+       "image": "q0B.png",
+       "letter": "B"
+      },
+      {
+       "image": "q0C.png",
+       "letter": "C"
+      }
+     ],
+     "question": "Where is the girl's hat?"
+    },
+    "imageBase": "https://audio.mock-stream.com/PET-Listening/test3/p1/",
+    "partNumber": 1,
+    "instruction": [
+     "There are seven questions in this part.",
+     "For each question, there are three pictures and a short recording.",
+     "For each question, choose the correct answer A, B or C."
+    ],
+    "questionsLabel": "QUESTIONS 1–7"
+   },
+   {
+    "type": "mcq-conversation",
+    "items": [
+     {
+      "id": 8,
+      "stem": "Abby first decided to go surfing when",
+      "answer": "B",
+      "options": [
+       {
+        "text": "her mother offered to teach her.",
+        "letter": "A"
+       },
+       {
+        "text": "she saw some local competitions.",
+        "letter": "B"
+       },
+       {
+        "text": "her mother gave her money for a surfboard.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 9,
+      "stem": "What did Abby discover when she started surfing?",
+      "answer": "C",
+      "options": [
+       {
+        "text": "Her local surfing school was expensive.",
+        "letter": "A"
+       },
+       {
+        "text": "She needed more equipment than she'd expected.",
+        "letter": "B"
+       },
+       {
+        "text": "It was good to try different surfboards.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 10,
+      "stem": "What does Abby say about surfing in the winter?",
+      "answer": "A",
+      "options": [
+       {
+        "text": "The sea is warm enough where she lives.",
+        "letter": "A"
+       },
+       {
+        "text": "She wears a special suit for winter surfing.",
+        "letter": "B"
+       },
+       {
+        "text": "The beaches are very quiet then.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 11,
+      "stem": "How did Abby feel about surfing the enormous wave?",
+      "answer": "B",
+      "options": [
+       {
+        "text": "disappointed she didn't have the right board",
+        "letter": "A"
+       },
+       {
+        "text": "worried at first by the size of the wave",
+        "letter": "B"
+       },
+       {
+        "text": "scared about falling off her board",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "stem": "What advice does Abby give to teenagers interested in surfing?",
+      "answer": "C",
+      "options": [
+       {
+        "text": "don't start until you're a very strong swimmer",
+        "letter": "A"
+       },
+       {
+        "text": "find a good surfing teacher",
+        "letter": "B"
+       },
+       {
+        "text": "learn to surf in different conditions",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "stem": "What does Abby want to do next?",
+      "answer": "A",
+      "options": [
+       {
+        "text": "find out about surfing as a career",
+        "letter": "A"
+       },
+       {
+        "text": "study surfing science at university",
+        "letter": "B"
+       },
+       {
+        "text": "train for the next surfing competition",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 2",
+    "partNumber": 2,
+    "instruction": [
+     "You will hear a radio interview with a teenage surfer called Abby Fielding.",
+     "For each question, choose the correct answer A, B or C."
+    ],
+    "questionsLabel": "QUESTIONS 8–13"
+   },
+   {
+    "rows": [
+     {
+      "id": 14,
+      "label": "Caspar's mother dances across a",
+      "answer": "rope",
+      "suffix": "in the circus."
+     },
+     {
+      "id": 15,
+      "label": "Caspar's brother is in an act where as many as",
+      "answer": "20",
+      "suffix": "people balance on a motorbike."
+     },
+     {
+      "id": 16,
+      "label": "Caspar's dad is a good circus boss because he is",
+      "answer": "tall",
+      "suffix": "and has a strong voice."
+     },
+     {
+      "id": 17,
+      "label": "Caspar starts the show by marching in front of the",
+      "answer": "band"
+     },
+     {
+      "id": 18,
+      "label": "There are no animals in the show except a",
+      "answer": "rabbit"
+     },
+     {
+      "id": 19,
+      "label": "One of Caspar's jobs is selling",
+      "answer": "ice cream"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 3",
+    "noteTitle": "Caspar and the Circus Family",
+    "partNumber": 3,
+    "instruction": [
+     "You will hear a boy called Caspar, who is part of a circus family, talking about his life.",
+     "For each question, fill in the missing information in the numbered space."
+    ],
+    "questionsLabel": "QUESTIONS 14–19"
+   },
+   {
+    "type": "true-false",
+    "items": [
+     {
+      "id": 20,
+      "answer": "B",
+      "statement": "Lisa disliked the book when she first started reading it."
+     },
+     {
+      "id": 21,
+      "answer": "B",
+      "statement": "Sam and Lisa felt sorry for Paul, the main character in the book."
+     },
+     {
+      "id": 22,
+      "answer": "B",
+      "statement": "Sam was interested in the mystery about Paul and his brother."
+     },
+     {
+      "id": 23,
+      "answer": "A",
+      "statement": "Lisa thought the author helped the reader to understand Paul."
+     },
+     {
+      "id": 24,
+      "answer": "B",
+      "statement": "Sam wished there was more information about football in the book."
+     },
+     {
+      "id": 25,
+      "answer": "A",
+      "statement": "Lisa liked the way the author developed Paul's character."
+     }
+    ],
+    "label": "PART 4",
+    "scenario": "Lisa and Sam — discussing a book they have both read",
+    "partNumber": 4,
+    "instruction": [
+     "Look at the six sentences for this part.",
+     "You will hear a girl called Lisa and a boy called Sam talking about a book they have both read.",
+     "Decide if each sentence is correct or incorrect.",
+     "If it is correct, choose the letter A for YES. If it is not correct, choose the letter B for NO."
+    ],
+    "questionsLabel": "QUESTIONS 20–25"
+   }
+  ],
+  "testInfo": {
+   "id": "pet-l-03",
+   "level": "B1",
+   "paper": "Paper 2 · Listening",
+   "parts": 4,
+   "title": "PET Listening — Test 3",
+   "totalTime": 35,
+   "totalQuestions": 25
+  }
+ },
+ "created_at": "2026-10-14T06:45:49.152242+00:00",
+ "updated_at": "2026-10-14T06:47:34.782854+00:00"
+}

@@ -1,0 +1,569 @@
+{
+ "id": 62,
+ "mock_type": "cefr-writing",
+ "mock_number": 52,
+ "title": "CEFR Writing Mock 52",
+ "status": "published",
+ "mock_data": {
+  "part1": {
+   "chip": "sports",
+   "topic": "Swimming center"
+  },
+  "tasks": {
+   "t2": {
+    "chip": "education",
+    "genre": "article",
+    "title": "It better to be an only child or to have siblings",
+    "prompt": "A student magazine announced an article writing contest. The best ones will be published in the magazine. Write your article on this topic: \"Is it better to be an only child or to have siblings?\" Write 180–200 words, giving reasons and examples.",
+    "sample": "<p>The question of whether it is better to be an <span class=\"ml-token colloc\">only child</span> or have siblings is one that many people debate.</p>\n\n<p>Being an only child has several advantages. Parents can focus all their attention and resources on one child, often providing better <span class=\"ml-token colloc\">educational opportunities</span> and more <span class=\"ml-token colloc\">personal time</span>. <span class=\"ml-token colloc\">Only children</span> may also develop <span class=\"ml-token colloc\">independence and maturity</span> faster as they spend more time with adults.</p>\n\n<p><span class=\"ml-token adv\">On the other hand</span>, having siblings offers <span class=\"ml-token colloc\">unique benefits</span>. Brothers and sisters provide <span class=\"ml-token colloc\">companionship and emotional support</span> throughout life. Children with siblings learn important <span class=\"ml-token colloc\">social skills</span> like sharing, compromise, and <span class=\"ml-token colloc\">conflict resolution</span> from an early age. These skills are valuable in school and later in the workplace.</p>\n\n<p>From my perspective, having siblings is preferable. While only children may have <span class=\"ml-token colloc\">material advantages</span>, the <span class=\"ml-token colloc\">lifelong bond</span> between siblings is irreplaceable. My own siblings have been my <span class=\"ml-token idiom\">best friends and supporters</span> through difficult times.</p>\n\n<p><span class=\"ml-token adv\">In conclusion</span>, both situations have merits, but the <span class=\"ml-token colloc\">social and emotional benefits</span> of having siblings make it the better option for most people.</p>",
+    "target": "180–200 words",
+    "sampleA1": "<p>Hi!<br>I like pool. Water is good. I swim. I like it. More time swim?<br>Bye!</p>",
+    "sampleA2": "<p>Hello!<br>I like the pool, and the water is good. I swim every day. But the time is not good for me. I want to swim in the morning, but it is closed. I want more time in the morning. Also, I want a cafe. I am hungry after swimming.<br>Thank you!</p>",
+    "sampleB1": "<p>Dear AquaFit Management,<br><br>I am writing to you as a new member of the AquaFit Swimming Center. Overall, I'm enjoying the facilities. The pool is clean, and the staff are friendly. However, I have a few suggestions.<br><br>Firstly, the lane swimming hours are not ideal for me. I work during the day, so I can only swim in the evenings, but it's often very crowded then. Perhaps you could extend the lane swimming hours later into the evening? Also, the water quality is usually good, but sometimes it seems a little cloudy.<br><br>In terms of improvements, I think it would be great if you offered swimming lessons for adults. I would be very interested in improving my technique. Also, a small cafe or vending machine would be useful for after my swim.<br><br>Thank you for considering my suggestions.<br><br>Sincerely,<br>A New Member</p>",
+    "sampleB2": "Have you ever wished for a brother or sister — or perhaps been secretly glad you didn't have one? The debate over whether it is better to be an only child or to grow up with siblings is one that <span class=\"ml-token idiom\">never seems to go away</span>.\nThere are <span class=\"ml-token colloc\">clear upsides</span> to being an only child. With no one to compete with, only children tend to get their parents' <span class=\"ml-token colloc\">full attention</span>, along with more space, time and resources. This often gives them a <span class=\"ml-token idiom\">head start</span> at school and helps them become independent from an early age.\n<span class=\"ml-token linking\">On the other hand</span>, having siblings brings something money simply cannot buy: constant company. Growing up alongside brothers and sisters teaches you to share, to argue and make up, and to <span class=\"ml-token idiom\">stand on your own two feet</span>. These everyday lessons build <span class=\"ml-token colloc\">social skills</span> that last a lifetime.\n<span class=\"ml-token linking\">In my view</span>, neither option is truly better — it all <span class=\"ml-token phrasal\">comes down to</span> the family. A loving home can turn either situation into a happy childhood. What matters most is not how many children there are, but how much care and attention they receive.",
+    "uzSample": "<p>Yagona farzand bo'lish yaxshimi yoki aka-uka va opa-singillarga ega bo'lishmi degan savol ko'pchilikni bahsga chorlaydi.</p>\n\n<p>Yagona farzand bo'lishning bir qator afzalliklari bor. Ota-onalar butun e'tiborini va resurslarini bitta bolaga qaratishi mumkin, ko'pincha yaxshiroq ta'lim olish imkoniyatlarini va ko'proq shaxsiy vaqtni ta'minlaydi. Yagona farzandlar kattalar bilan ko'proq vaqt o'tkazganligi sababli mustaqillik va yetuklikni tezroq rivojlantirishi mumkin.</p>\n\n<p>Boshqa tomondan, aka-uka va opa-singillarga ega bo'lish o'ziga xos afzalliklarni taqdim etadi. Aka-uka va opa-singillar hayot davomida hamrohlik va hissiy yordam beradi. Aka-uka va opa-singillari bo'lgan bolalar erta yoshdan boshlab baham ko'rish, murosaga kelish va nizolarni hal qilish kabi muhim ijtimoiy ko'nikmalarni o'rganadilar. Bu ko'nikmalar maktabda va keyinchalik ish joyida qimmatlidir.</p>\n\n<p>Mening nuqtai nazarimga ko'ra, aka-uka va opa-singillarga ega bo'lish afzalroq. Yagona farzandlar moddiy afzalliklarga ega bo'lishi mumkin bo'lsa-da, aka-uka va opa-singillar o'rtasidagi umrbod rishta o'rnini bosib bo'lmaydi. Mening aka-uka va opa-singillarim qiyin paytlarda mening eng yaxshi do'stlarim va tarafdorlarim bo'lishgan.</p>\n\n<p>Xulosa qilib aytganda, har ikki vaziyatning ham afzalliklari bor, lekin aka-uka va opa-singillarga ega bo'lishning ijtimoiy va hissiy foydalari uni ko'pchilik uchun yaxshiroq variantga aylantiradi.</p>",
+    "uzSampleA1": "<p>Salom!<br>Menga suzish havzasi yoqadi. Suv yaxshi. Men suzaman. Menga yoqadi. Ko'proq suzish vaqti?<br>Xayr!</p>",
+    "uzSampleA2": "<p>Salom!<br>Menga basseyn yoqadi, va suvi yaxshi. Men har kuni suzaman. Lekin vaqti menga to'g'ri kelmaydi. Men ertalab suzmoqchiman, lekin u yopiq. Men ertalab ko'proq vaqt bo'lishini xohlayman. Yana, menga kafe kerak. Suzgandan keyin qornim ochadi.<br>Rahmat!</p>",
+    "uzSampleB1": "<p>Hurmatli AquaFit rahbariyati,<br><br>Men sizga AquaFit Suzish Markazining yangi a'zosi sifatida murojaat qilyapman. Umuman olganda, menga qulayliklar yoqadi. Hovuz toza va xodimlar do'stona munosabatda. Biroq, menda bir nechta takliflar bor.<br><br>Birinchidan, yo'lakda suzish soatlari men uchun ideal emas. Men kunduzi ishlayman, shuning uchun faqat kechqurun suza olaman, lekin u vaqtda odamlar ko'p bo'ladi. Ehtimol, yo'lakda suzish soatlarini kechroqqa uzaytirsangiz bo'lardi? Bundan tashqari, suv sifati odatda yaxshi, lekin ba'zida biroz loyqa bo'lib qoladi.<br><br>Yaxshilash nuqtai nazaridan, agar siz kattalar uchun suzish darslarini taklif qilsangiz, juda yaxshi bo'lardi deb o'ylayman. Men o'z texnikamni yaxshilashga juda qiziqardim. Shuningdek, suzishdan keyin kichik kafe yoki avtomat savdo mashinasi foydali bo'lardi.<br><br>Takliflarimni ko'rib chiqayotganingiz uchun tashakkur.<br><br>Hurmat bilan,<br>Yangi A'zo</p>",
+    "uzSampleB2": "<p>Hurmatli AquaFit rahbariyati,<br><br>Men AquaFit Suzish Markazi jamiyatiga yaqinda qo'shilgan a'zo sifatida fikr-mulohazalarimni bildirish uchun yozyapman. Ta'kidlashim kerakki, dastlabki taassurotlarim asosan ijobiy bo'ldi, ayniqsa, binolarning tozaligi va xodimlaringiz tomonidan yaratilgan do'stona muhit meni juda xursand qildi.<br><br>Biroq, a'zolarning tajribasini yanada yaxshilashga yordam beradi deb hisoblagan bir nechta kuzatuvlarim va takliflarim bor. Birinchidan, belgilangan suzish soatlarini qadrlasam ham, ular talabchan ish jadvaliga ega bo'lgan shaxslarga yetarli darajada mos kelmaydi deb o'ylayman. Kechki mashg'ulotlar tez-tez gavjum bo'lib, mashq sifatini pasaytiradi. Ushbu soatlarni uzaytirish yoki erta tongda mashg'ulotlar tashkil etish sezilarli yaxshilanish bo'ladi. Bundan tashqari, vaqti-vaqti bilan suvning tiniqligida ozgina o'zgarishlarni sezdim, bu e'tiborga loyiq.<br><br>Qo'shimcha xizmatlar nuqtai nazaridan, turli xil mahorat darajalariga mo'ljallangan tuzilgan kattalar uchun suzish darslarini joriy etish juda qimmatli qo'shimcha bo'ladi deb hisoblayman. Ko'pgina a'zolar, shu jumladan men ham, o'z texnikamizni takomillashtirishda professional rahbarlikdan shubhasiz foyda ko'rishadi. Nihoyat, sog'lom gazaklar va ichimliklar taklif qiladigan kichik joyida kafe tashkil etish mashqdan keyin kuch tiklash uchun qulay bo'ladi.<br><br>Vaqtingiz va e'tiboringiz uchun rahmat. Fikr-mulohazalarim konstruktiv qabul qilinishiga ishonaman.<br><br>Hurmat bilan,<br>Qadrli a'zo</p>"
+   },
+   "t11": {
+    "title": "informal letter · to friend",
+    "prompt": "Write a letter to your friend, who wants to learn swimming. Write about your feelings and what you think they should do.",
+    "sample": "Hi there!\n\nI heard you want to <span class=\"ml-token phrasal\">learn swimming</span> – that's <span class=\"ml-token adv\">absolutely</span> great! I just joined a <span class=\"ml-token colloc\">swimming pool</span> near my house and they offer <span class=\"ml-token colloc\">excellent beginner classes</span>. The instructors are <span class=\"ml-token adv\">really</span> patient and helpful. You <span class=\"ml-token modal\">should definitely</span> <span class=\"ml-token phrasal\">sign up</span> – it's <span class=\"ml-token idiom\">never too late to learn</span>!\n\n<span class=\"ml-token phrasal\">Let me know</span> if you want more info!\n\nBest wishes!",
+    "target": "50–70 words",
+    "sampleA1": "<p>Hi Ozoda,<br>I swim. Pool is good. Water is good. You swim too! It is fun.<br>Bye!</p>",
+    "sampleA2": "<p>Hi Ozoda,<br>I go to the swimming pool. It is nice and the water is good. I think you want to swim too. You can learn! It is fun and good for you. Come with me, okay?<br>Bye,<br>Laylo Nazarova</p>",
+    "sampleB1": "<p>Hi Ozoda,<br>I heard you want to learn to swim! That's great. I just joined a swimming pool, and it's really good. The water is clean, and they have good times for swimming. I think you should try it. It's fun and good exercise. Maybe we can go together sometime? Let me know what you think.<br>Best,<br>Laylo Nazarova</p>",
+    "sampleB2": "Hi Ozoda!\nGuess what — I heard you finally want to learn to swim, and I'm <span class=\"ml-token colloc\">so excited</span> for you! Honestly, you should just <span class=\"ml-token idiom\">go for it</span>. I <span class=\"ml-token phrasal\">signed up</span> at AquaFit last month and the beginner classes are brilliant; the instructors really <span class=\"ml-token idiom\">put you at ease</span>. Don't worry about <span class=\"ml-token phrasal\">splashing about</span> at first — <span class=\"ml-token idiom\">everyone starts somewhere</span>! Fancy going together?\n<span class=\"ml-token colloc\">Speak soon</span>,\nLaylo Nazarova",
+    "uzSample": "<p>Salom!</p>\n<p>Eshitishimcha, suzishni o'rganmoqchisan – bu juda ajoyib!</p>\n<p>Men yaqinda uyimning yonidagi suzish havzasiga a'zo bo'ldim va ular ajoyib boshlang'ich sinflarni taklif qilishadi. O'qituvchilar juda sabrli va yordam berishga tayyor. Albatta ro'yxatdan o'tishing kerak – o'rganish hech qachon kech emas!</p>\n<p>Agar ko'proq ma'lumot kerak bo'lsa, menga xabar ber!</p>\n<p>Eng yaxshi tilaklarim bilan!</p>",
+    "uzSampleA1": "<p>Salom Ozoda,<br>Men suzaman. Hovuz yaxshi. Suv yaxshi. Sen ham suz! Bu qiziqarli.<br>Xayr!</p>",
+    "uzSampleA2": "<p>Salom, Ozoda,<br>Men suzish havzasiga boraman. U yaxshi va suvi ham yaxshi. O'ylaymanki, sen ham suzmoqchisan. Sen o'rganishing mumkin! Bu qiziqarli va senga foydali. Men bilan birga kel, xo'pmi?<br>Xayr,<br>Laylo Nazarova</p>",
+    "uzSampleB1": "<p>Salom Ozoda,<br>Eshitishimcha, suzishni o'rganmoqchisiz! Bu juda yaxshi. Men yaqinda suzish havzasiga a'zo bo'ldim va u juda yaxshi. Suvi toza va suzish uchun yaxshi vaqtlar bor. O'ylaymanki, siz ham urinib ko'rishingiz kerak. Bu qiziqarli va yaxshi mashq. Balki qachondir birga borarmiz? Fikringizni bildiring.<br>Eng yaxshi tilaklar bilan,<br>Laylo Nazarova</p>",
+    "uzSampleB2": "<p>Salom Ozoda,<br>Siz suzishni o'rganmoqchi ekanligingizni eshitib, juda xursand bo'ldim! Men yaqinda AquaFit, mahalliy suzish havzasiga a'zo bo'ldim va hozircha juda mamnunman. U yerdagi sharoitlar yaxshi saqlanadi va suv sifati a'lo darajada. O'ylashimcha, bu siz uchun o'rganish uchun ajoyib joy bo'ladi. Bu ajoyib mashq turi va juda ham tinchlantiruvchi. Sizga buni sinab ko'rishni qat'iy tavsiya qilaman. Ehtimol, biz hatto birga darslarga qatnashishimiz mumkin? Fikrlaringizni menga bildiring!<br>Eng yaxshi tilaklar bilan,<br>Laylo Nazarova</p>"
+   },
+   "t12": {
+    "title": "formal letter · to recipient",
+    "prompt": "Write a letter to the swimming center management. Write about your feelings and what you think they should do.",
+    "sample": "Dear AquaFit Management,\n\nThank you for welcoming me to your <span class=\"ml-token colloc\">swimming center</span>. I am writing to share my feedback after using your facilities for the past month.\n\nI am <span class=\"ml-token adv\">thoroughly</span> impressed with the <span class=\"ml-token colloc\">cleanliness of the pool</span> and the changing rooms. The <span class=\"ml-token colloc\">water temperature</span> is always comfortable, and the lifeguards are <span class=\"ml-token colloc\">attentive and professional</span>. I <span class=\"ml-token adv\">particularly</span> enjoy the <span class=\"ml-token colloc\">early morning lane swimming</span> sessions.\n\n<span class=\"ml-token adv\">However</span>, I have some suggestions for improvement. The pool can become <span class=\"ml-token adv\">quite</span> crowded during evening hours, so perhaps you <span class=\"ml-token modal\">could</span> consider extending <span class=\"ml-token colloc\">lane swimming times</span>. <span class=\"ml-token adv\">Additionally</span>, offering <span class=\"ml-token colloc\">adult swimming lessons</span> <span class=\"ml-token modal\">would</span> benefit members who are not confident swimmers.\n\nI <span class=\"ml-token modal\">would</span> also appreciate having lockers available for <span class=\"ml-token colloc\">longer-term rental</span> rather than daily use only.\n\nThank you for considering my feedback.\n\nYours sincerely,\nLaylo Nazarova",
+    "target": "120–150 words",
+    "sampleA1": "<p>Hi AquaFit,</p>\r\n<p>Pool good. Water good. Time ok.</p>\r\n<p>More time swim?  More swim good.</p>\r\n<p>Bye</p>",
+    "sampleA2": "<p>Hi AquaFit,</p>\r\n<p>Thank you for the welcome letter. I like the pool. The water is good and clean. The swimming time is okay, but sometimes it is busy.</p>\r\n<p>I think you need more time for swimming in the morning. And maybe swimming lessons for adults because some people can't swim very well.</p>\r\n<p>Thank you.</p>\r\n<p>Bye,</p>\r\n<p>Laylo Nazarova</p>",
+    "sampleB1": "<p>Dear AquaFit Management,</p>\r\n<p>Thank you for your welcome. I am writing to give you some feedback about the swimming pool. I think the pool is very good. It is clean and the water quality is fine. The lane swimming hours are mostly suitable for me. </p>\r\n<p>However, I have a few suggestions. Sometimes the pool is too crowded, especially in the evenings. So, maybe you could have more lane swimming times later. Also, I think it would be good to offer swimming lessons for adults who aren't very good swimmers. This could be a useful service.</p>\r\n<p>Thank you for reading my letter.</p>\r\n<p>Yours sincerely,</p>\r\n<p>Laylo Nazarova</p>",
+    "sampleB2": "Dear AquaFit Management,\nThank you for the warm welcome to your <span class=\"ml-token colloc\">swimming center</span>. Having used the facilities for a month now, I would like to share a few thoughts.\n<span class=\"ml-token linking\">On the whole</span>, I have been very impressed. The pool is <span class=\"ml-token colloc\">spotlessly clean</span>, the water quality is excellent, and the changing rooms are <span class=\"ml-token colloc\">well maintained</span>. The staff are friendly and always <span class=\"ml-token idiom\">on hand</span> to help.\n<span class=\"ml-token linking\">That said</span>, I do have a couple of suggestions. The lane swimming hours do not quite suit those of us who work full-time, so extending the evening sessions would <span class=\"ml-token idiom\">make a real difference</span>. I would also love to see you <span class=\"ml-token phrasal\">lay on</span> adult swimming lessons, as many members would benefit from proper coaching. A wider range of locker sizes would be a welcome touch too.\nThank you for <span class=\"ml-token idiom\">taking my feedback on board</span>.\nYours sincerely,\nBekzod Aliyev",
+    "uzSample": "<p>Hurmatli AquaFit rahbariyati,</p>\n<p>Meni suzish markazingizga qabul qilganingiz uchun tashakkur. Sizning muassasalaringizdan so'nggi bir oy davomida foydalanganimdan so'ng o'z fikr-mulohazalarimni bildirmoqchiman.</p>\n<p>Hovuzning va kiyinish xonalarining tozaligi meni juda hayratga soldi. Suv harorati doimo qulay va qutqaruvchilar e'tiborli va professional. Men ayniqsa ertalabki suzish mashg'ulotlaridan zavqlanaman.</p>\n<p>Biroq, takomillashtirish bo'yicha ba'zi takliflarim bor. Hovuz kechki paytlarda juda gavjum bo'lib qolishi mumkin, shuning uchun siz suzish yo'laklarining vaqtini uzaytirishni ko'rib chiqishingiz mumkin. Bundan tashqari, suzishga ishonchi komil bo'lmagan a'zolarga kattalar uchun suzish darslarini taklif qilish foydali bo'ladi.</p>\n<p>Shuningdek, kunlik foydalanishdan ko'ra, uzoq muddatli ijaraga beriladigan shkaflar bo'lishini xohlardim.</p>\n<p>Fikr-mulohazalarimni inobatga olganingiz uchun tashakkur.</p>\n<p>Hurmat bilan,<br>Laylo Nazarova</p>",
+    "uzSampleA1": "<p>Salom AquaFit,</p>\n<p>Basseyin yaxshi. Suv yaxshi. Vaqt normal.</p>\n<p>Ko'proq suzish vaqti? Ko'proq suzish yaxshi.</p>\n<p>Xayr</p>",
+    "uzSampleA2": "<p>Salom AquaFit,</p>\n<p>Xush kelibsiz xatingiz uchun rahmat. Menga basseyn yoqadi. Suv yaxshi va toza. Suzish vaqti yaxshi, lekin ba'zida odam ko'p bo'ladi.</p>\n<p>O'ylaymanki, ertalab suzish uchun ko'proq vaqt kerak. Va, ehtimol, kattalar uchun suzish darslari kerak, chunki ba'zi odamlar yaxshi suza olmaydi.</p>\n<p>Rahmat.</p>\n<p>Xayr,</p>\n<p>Laylo Nazarova</p>",
+    "uzSampleB1": "<p>Hurmatli AquaFit rahbariyati,</p>\n<p>Sizning xush kelibsiz deganingiz uchun rahmat. Men sizga suzish havzasi haqida ba'zi fikr-mulohazalarimni bildirish uchun yozyapman. Menimcha, havza juda yaxshi. U toza va suv sifati ham yaxshi. Suzish yo'laklari uchun ajratilgan soatlar menga asosan mos keladi.</p>\n<p>Biroq, menda bir nechta takliflar bor. Ba'zan havza juda gavjum bo'lib qoladi, ayniqsa kechqurunlari. Shunday ekan, balki siz keyinroq suzish yo'laklari uchun ko'proq vaqt ajratsangiz yaxshi bo'lar edi. Shuningdek, menimcha, yaxshi suza olmaydigan kattalar uchun suzish darslarini taklif qilish yaxshi bo'lardi. Bu foydali xizmat bo'lishi mumkin.</p>\n<p>Maktubimni o'qiganingiz uchun rahmat.</p>\n<p>Hurmat bilan,</p>\n<p>Laylo Nazarova</p>",
+    "uzSampleB2": "<p>Hurmatli AquaFit rahbariyati,</p>\n<p>Men AquaFit suzish markazi haqidagi dastlabki taassurotlarimni bildirish va potentsial yaxshilanishlar bo'yicha ba'zi takliflarimni berish uchun yozyapman. Umuman olganda, men uskunalar bilan mamnunman. Hovuz yaxshi saqlangan va suv sifati odatda juda yaxshi deb bilaman. Yo'laklarda suzish soatlari nisbatan qulay, ammo sozlash uchun joy bor.</p>\n<p>Mening asosiy taklifim eng gavjum soatlarda yo'lak bo'sh joyining mavjudligi bilan bog'liq. Hovuz erta kechqurunlarda juda gavjum bo'lib qolishi mumkin, bu esa suzish tajribasini buzadi. Yo'laklarda suzish soatlarini, ehtimol bir yoki ikki soatga uzaytirish bu muammoni hal qiladi. Bundan tashqari, kattalar uchun suzish darslarini taklif qilish qimmatli qo'shimcha bo'ladi deb hisoblayman. Ko'p odamlar, a'zo bo'lishlariga qaramay, suvda o'zlariga ishonmasliklari mumkin va tuzilgan darslar ularning zavqi va xavfsizligini oshirishi mumkin.</p>\n<p>Nihoyat, hovuzni ta'mirlash jadvallari haqida ko'proq ochiq ma'lumot berish qadrlanadi.</p>\n<p>Ushbu masalalarga e'tiboringiz uchun rahmat.</p>\n<p>Hurmat bilan,</p>\n<p>Laylo Nazarova</p>"
+   },
+   "p1_context": "You recently became a member of a local swimming pool.",
+   "p1_scenario": "Dear Member,\n\nWelcome to AquaFit Swimming Center! We're delighted you've joined our community.\nHow have you found the pool facilities and water quality? Are the lane swimming hours suitable for you?\nWhat improvements or additional services would you like us to offer?\n\nAquaFit Management"
+  },
+  "examDate": "2025-12-03",
+  "settings": {
+   "logoUrl": "https://audio.mock-stream.com/img/ibb/WN0XY5Lv/logo.png",
+   "heading1": "Bilim va malakalarni baholash agentligi",
+   "heading2": "Chet tilini bilish darajasi",
+   "examTitle": "Writing exam",
+   "logoWording": "Mock Stream",
+   "testIdentifier": "mock_stream"
+  },
+  "vocabulary": {
+   "task2": [
+    {
+     "en": "only child",
+     "uz": "yolg'iz farzand"
+    },
+    {
+     "en": "siblings",
+     "uz": "aka-uka, opa-singil"
+    },
+    {
+     "en": "educational opportunities",
+     "uz": "ta'lim imkoniyatlari"
+    },
+    {
+     "en": "personal time",
+     "uz": "shaxsiy vaqt"
+    },
+    {
+     "en": "independence and maturity",
+     "uz": "mustaqillik va yetuklik"
+    },
+    {
+     "en": "unique benefits",
+     "uz": "o'ziga xos afzalliklar"
+    },
+    {
+     "en": "companionship",
+     "uz": "do'stlik, sheriklik"
+    },
+    {
+     "en": "emotional support",
+     "uz": "hissiy qo'llab-quvvatlash"
+    },
+    {
+     "en": "social skills",
+     "uz": "ijtimoiy ko'nikmalar"
+    },
+    {
+     "en": "conflict resolution",
+     "uz": "nizolarni hal qilish"
+    },
+    {
+     "en": "material advantages",
+     "uz": "moddiy afzalliklar"
+    },
+    {
+     "en": "lifelong bond",
+     "uz": "umrbod bog'liqlik"
+    },
+    {
+     "en": "family dynamics",
+     "uz": "oila dinamikasi"
+    },
+    {
+     "en": "sharing and compromise",
+     "uz": "bo'lishish va kelishish"
+    },
+    {
+     "en": "parental attention",
+     "uz": "ota-ona e'tibori"
+    },
+    {
+     "en": "childhood experiences",
+     "uz": "bolalik tajribalari"
+    },
+    {
+     "en": "interpersonal relationships",
+     "uz": "shaxslararo munosabatlar"
+    },
+    {
+     "en": "in conclusion",
+     "uz": "xulosa qilib aytganda"
+    },
+    {
+     "en": "on the other hand",
+     "uz": "boshqa tomondan"
+    },
+    {
+     "en": "from my perspective",
+     "uz": "mening nuqtai nazarimdan"
+    }
+   ],
+   "task11": [
+    {
+     "en": "learn swimming",
+     "uz": "suzishni o'rganmoq"
+    },
+    {
+     "en": "swimming pool",
+     "uz": "suzish havzasi"
+    },
+    {
+     "en": "beginner classes",
+     "uz": "boshlang'ich darslar"
+    },
+    {
+     "en": "patient instructors",
+     "uz": "sabr-toqatli o'qituvchilar"
+    },
+    {
+     "en": "sign up",
+     "uz": "ro'yxatdan o'tmoq"
+    },
+    {
+     "en": "never too late",
+     "uz": "hech qachon kech emas"
+    },
+    {
+     "en": "give it a go",
+     "uz": "sinab ko'rmoq"
+    },
+    {
+     "en": "super exciting",
+     "uz": "juda hayajonli"
+    },
+    {
+     "en": "water confidence",
+     "uz": "suvda ishonch"
+    },
+    {
+     "en": "take the plunge",
+     "uz": "qaror qabul qilmoq"
+    },
+    {
+     "en": "great workout",
+     "uz": "ajoyib mashq"
+    },
+    {
+     "en": "really fun",
+     "uz": "juda qiziqarli"
+    },
+    {
+     "en": "worth trying",
+     "uz": "sinab ko'rishga arziydi"
+    },
+    {
+     "en": "let me know",
+     "uz": "menga xabar bering"
+    },
+    {
+     "en": "join together",
+     "uz": "birga qo'shilmoq"
+    },
+    {
+     "en": "feel confident",
+     "uz": "ishonchli his qilmoq"
+    },
+    {
+     "en": "amazing experience",
+     "uz": "ajoyib tajriba"
+    },
+    {
+     "en": "highly recommend",
+     "uz": "qattiq tavsiya qilmoq"
+    },
+    {
+     "en": "best wishes",
+     "uz": "eng yaxshi tilaklar"
+    },
+    {
+     "en": "stay in touch",
+     "uz": "aloqada bo'lmoq"
+    }
+   ],
+   "task12": [
+    {
+     "en": "Dear Management",
+     "uz": "Hurmatli rahbariyat"
+    },
+    {
+     "en": "swimming center",
+     "uz": "suzish markazi"
+    },
+    {
+     "en": "cleanliness of the pool",
+     "uz": "havzaning tozaligi"
+    },
+    {
+     "en": "water temperature",
+     "uz": "suv harorati"
+    },
+    {
+     "en": "attentive and professional",
+     "uz": "e'tiborli va professional"
+    },
+    {
+     "en": "lane swimming",
+     "uz": "yo'lakchada suzish"
+    },
+    {
+     "en": "suggestions for improvement",
+     "uz": "yaxshilash takliflari"
+    },
+    {
+     "en": "quite crowded",
+     "uz": "ancha gavjum"
+    },
+    {
+     "en": "adult swimming lessons",
+     "uz": "kattalar uchun suzish darslari"
+    },
+    {
+     "en": "longer-term rental",
+     "uz": "uzoq muddatli ijara"
+    },
+    {
+     "en": "considering my feedback",
+     "uz": "fikrimni ko'rib chiqish"
+    },
+    {
+     "en": "facility improvements",
+     "uz": "imkoniyat yaxshilanishi"
+    },
+    {
+     "en": "changing rooms",
+     "uz": "kiyinish xonalari"
+    },
+    {
+     "en": "lifeguards",
+     "uz": "qutqaruvchilar"
+    },
+    {
+     "en": "membership benefits",
+     "uz": "a'zolik imtiyozlari"
+    },
+    {
+     "en": "opening hours",
+     "uz": "ish vaqtlari"
+    },
+    {
+     "en": "I would appreciate",
+     "uz": "Men minnatdor bo'lardim"
+    },
+    {
+     "en": "thoroughly impressed",
+     "uz": "to'liq hayratda"
+    },
+    {
+     "en": "Yours sincerely",
+     "uz": "Hurmat bilan"
+    },
+    {
+     "en": "look forward to",
+     "uz": "intiqlik bilan kutmoq"
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "could": {
+    "uz": "mumkin edi",
+    "type": "modal"
+   },
+   "quite": {
+    "uz": "ancha",
+    "type": "adv"
+   },
+   "would": {
+    "uz": "edi",
+    "type": "modal"
+   },
+   "lay on": {
+    "uz": "tashkil qilib bermoq",
+    "type": "phrasal"
+   },
+   "really": {
+    "uz": "haqiqatan",
+    "type": "adv"
+   },
+   "However": {
+    "uz": "Biroq",
+    "type": "adv"
+   },
+   "on hand": {
+    "uz": "yordamga tayyor, qo'l ostida",
+    "type": "idiom"
+   },
+   "sign up": {
+    "uz": "yozilmoq",
+    "type": "phrasal"
+   },
+   "That said": {
+    "uz": "shunga qaramay",
+    "type": "linking"
+   },
+   "go for it": {
+    "uz": "jur'at qilib urinib ko'rmoq",
+    "type": "idiom"
+   },
+   "signed up": {
+    "uz": "ro'yxatdan o'tdim",
+    "type": "phrasal"
+   },
+   "In my view": {
+    "uz": "mening fikrimcha",
+    "type": "linking"
+   },
+   "Speak soon": {
+    "uz": "tez orada gaplashamiz",
+    "type": "colloc"
+   },
+   "absolutely": {
+    "uz": "mutlaqo",
+    "type": "adv"
+   },
+   "head start": {
+    "uz": "boshlang'ich ustunlik",
+    "type": "idiom"
+   },
+   "only child": {
+    "uz": "yagona farzand",
+    "type": "colloc"
+   },
+   "so excited": {
+    "uz": "juda hayajonlanmoq",
+    "type": "colloc"
+   },
+   "thoroughly": {
+    "uz": "puxta",
+    "type": "adv"
+   },
+   "Let me know": {
+    "uz": "xabar bering",
+    "type": "phrasal"
+   },
+   "Additionally": {
+    "uz": "Qo'shimcha",
+    "type": "adv"
+   },
+   "On the whole": {
+    "uz": "umuman olganda",
+    "type": "linking"
+   },
+   "particularly": {
+    "uz": "ayniqsa",
+    "type": "adv"
+   },
+   "In conclusion": {
+    "uz": "Xulosa qilib aytganda",
+    "type": "adv"
+   },
+   "Only children": {
+    "uz": "yagona farzandlar",
+    "type": "colloc"
+   },
+   "clear upsides": {
+    "uz": "aniq afzalliklar",
+    "type": "colloc"
+   },
+   "comes down to": {
+    "uz": "hal qiluvchi omilga bog'liq bo'lmoq",
+    "type": "phrasal"
+   },
+   "lifelong bond": {
+    "uz": "umrbod rishta",
+    "type": "colloc"
+   },
+   "personal time": {
+    "uz": "shaxsiy vaqt",
+    "type": "colloc"
+   },
+   "social skills": {
+    "uz": "ijtimoiy ko'nikmalar",
+    "type": "colloc"
+   },
+   "swimming pool": {
+    "uz": "suzish havzasi",
+    "type": "colloc"
+   },
+   "full attention": {
+    "uz": "to'liq e'tibor",
+    "type": "colloc"
+   },
+   "learn swimming": {
+    "uz": "suzishni o'rganmoq",
+    "type": "phrasal"
+   },
+   "put you at ease": {
+    "uz": "o'zingni bemalol his qildirmoq",
+    "type": "idiom"
+   },
+   "splashing about": {
+    "uz": "suvda chayqalib o'ynamoq",
+    "type": "phrasal"
+   },
+   "swimming center": {
+    "uz": "suzish markazi",
+    "type": "colloc"
+   },
+   "unique benefits": {
+    "uz": "o'ziga xos afzalliklar",
+    "type": "colloc"
+   },
+   "well maintained": {
+    "uz": "yaxshi parvarishlangan",
+    "type": "colloc"
+   },
+   "spotlessly clean": {
+    "uz": "yaltiragan darajada toza",
+    "type": "colloc"
+   },
+   "On the other hand": {
+    "uz": "boshqa tomondan",
+    "type": "linking"
+   },
+   "should definitely": {
+    "uz": "albatta kerak",
+    "type": "modal"
+   },
+   "water temperature": {
+    "uz": "suv harorati",
+    "type": "colloc"
+   },
+   "longer-term rental": {
+    "uz": "uzoq muddatli ijara",
+    "type": "colloc"
+   },
+   "conflict resolution": {
+    "uz": "nizolarni hal qilish",
+    "type": "colloc"
+   },
+   "lane swimming times": {
+    "uz": "yo'lakda suzish vaqtlari",
+    "type": "colloc"
+   },
+   "material advantages": {
+    "uz": "moddiy afzalliklar",
+    "type": "colloc"
+   },
+   "adult swimming lessons": {
+    "uz": "kattalar uchun suzish darslari",
+    "type": "colloc"
+   },
+   "make a real difference": {
+    "uz": "sezilarli o'zgarish keltirmoq",
+    "type": "idiom"
+   },
+   "never seems to go away": {
+    "uz": "hech qachon tugamaydigandek",
+    "type": "idiom"
+   },
+   "cleanliness of the pool": {
+    "uz": "hovuzning tozaligi",
+    "type": "colloc"
+   },
+   "never too late to learn": {
+    "uz": "o'rganish hech qachon kech emas",
+    "type": "idiom"
+   },
+   "educational opportunities": {
+    "uz": "ta'lim imkoniyatlari",
+    "type": "colloc"
+   },
+   "everyone starts somewhere": {
+    "uz": "hamma noldan boshlaydi",
+    "type": "idiom"
+   },
+   "independence and maturity": {
+    "uz": "mustaqillik va yetuklik",
+    "type": "colloc"
+   },
+   "attentive and professional": {
+    "uz": "e'tiborli va professional",
+    "type": "colloc"
+   },
+   "excellent beginner classes": {
+    "uz": "yaxshi boshlang'ich sinflar",
+    "type": "colloc"
+   },
+   "stand on your own two feet": {
+    "uz": "o'z oyog'ida turmoq, mustaqil bo'lmoq",
+    "type": "idiom"
+   },
+   "best friends and supporters": {
+    "uz": "jonajon do'st va suyanchiq",
+    "type": "idiom"
+   },
+   "early morning lane swimming": {
+    "uz": "ertalabki yo'lakda suzish",
+    "type": "colloc"
+   },
+   "taking my feedback on board": {
+    "uz": "fikr-mulohazamni inobatga olmoq",
+    "type": "idiom"
+   },
+   "social and emotional benefits": {
+    "uz": "ijtimoiy va hissiy foydalar",
+    "type": "colloc"
+   },
+   "companionship and emotional support": {
+    "uz": "do'stlik va hissiy qo'llab-quvvatlash",
+    "type": "colloc"
+   }
+  }
+ },
+ "created_at": "2026-05-06T15:00:12.085229+00:00",
+ "updated_at": "2026-07-06T10:56:30.695847+00:00"
+}

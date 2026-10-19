@@ -1,0 +1,793 @@
+{
+ "id": 352,
+ "mock_type": "cefr-reading",
+ "mock_number": 11,
+ "title": "CEFR B1-B2-C1 Reading Test 11",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "gap-fill-text",
+    "title": "Part 1",
+    "answers": {
+     "1": [
+      "computer"
+     ],
+     "2": [
+      "intelligence"
+     ],
+     "3": [
+      "person"
+     ],
+     "4": [
+      "programs"
+     ],
+     "5": [
+      "text"
+     ],
+     "6": [
+      "people"
+     ]
+    },
+    "passage": {
+     "title": "Can Machines Think?",
+     "content": "<p>How can you tell if you are talking to a computer? New <span class=\"gap\" data-gap=\"1\">_____(1)_____</span> programs called language models have gotten very good at mimicking people. It can be really hard to tell if you’re talking to a person or a computer. Can a machine think? Philosophers have been trying to answer this question for hundreds of years. It’s surprisingly tricky to come up with a good answer! Alan Turing was a computer scientist who thought a lot about artificial intelligence (AI). He had an idea for a different way to test intelligence. Instead of measuring <span class=\"gap\" data-gap=\"2\">_____(2)_____</span> directly, what if you measured intelligent behavior? Can a computer answer questions in a human-like way? If a computer can respond to you so well that you can’t tell whether it is a computer or a person, we say that it passes the Turing test.</p><p>Recently, computer programs called language models have gotten much better at mimicking <span class=\"gap\" data-gap=\"3\">_____(3)_____</span> language. These AI <span class=\"gap\" data-gap=\"4\">_____(4)_____</span> analyze millions of sentences from books and websites to learn hidden patterns in language. It’s exciting to see AI generating realistic sentences. But there are also problems with AI-generated text. People have used AI-generated <span class=\"gap\" data-gap=\"5\">_____(5)_____</span> to cheat on tests. Chatbots can give harmful advice. And scammers can use AI to generate fake information so they can trick <span class=\"gap\" data-gap=\"6\">_____(6)_____</span>.</p>"
+    },
+    "questions": [
+     {
+      "id": 1,
+      "hint": "New _____ programs"
+     },
+     {
+      "id": 2,
+      "hint": "measuring _____ directly"
+     },
+     {
+      "id": 3,
+      "hint": "mimicking _____ language"
+     },
+     {
+      "id": 4,
+      "hint": "These AI _____"
+     },
+     {
+      "id": 5,
+      "hint": "AI-generated _____"
+     },
+     {
+      "id": 6,
+      "hint": "trick _____"
+     }
+    ],
+    "partNumber": 1,
+    "instruction": "Read the text. Fill in each gap with ONE word. You must use a word which is somewhere in the rest of the text.",
+    "explanations": {
+     "q1": {
+      "text": "The passage is about artificial intelligence and language models, which are types of computer programs. The text also contrasts talking to a person with talking to a computer. That's why the correct answer is 'computer'.",
+      "quote": "It can be really hard to tell if you’re talking to a person or a computer."
+     },
+     "q2": {
+      "text": "The passage discusses Alan Turing's ideas about artificial intelligence. He suggested a new test that measures intelligent behavior instead of trying to measure the concept of intelligence itself. That's why the correct answer is 'intelligence'.",
+      "quote": "He had an idea for a different way to test intelligence."
+     },
+     "q3": {
+      "text": "The first sentence of the passage states that language models are designed to copy how people communicate. The goal is for them to seem human, so they mimic the language used by a person. That's why the correct answer is 'person'.",
+      "quote": "New _____(1)_____ programs called language models have gotten very good at mimicking people."
+     },
+     "q4": {
+      "text": "The sentence before this one introduces 'computer programs called language models.' The phrase 'These AI' in the gapped sentence refers back to those specific programs, explaining what they do. That's why the correct answer is 'programs'.",
+      "quote": "Recently, computer programs called language models have gotten much better at mimicking _____(3)_____ language."
+     },
+     "q5": {
+      "text": "The sentence immediately before this one introduces the topic of 'problems with AI-generated text.' The gapped sentence then provides a specific example of such a problem: cheating on tests. That's why the correct answer is 'text'.",
+      "quote": "But there are also problems with AI-generated text."
+     },
+     "q6": {
+      "text": "The sentence describes how scammers use AI to create fake information. The purpose of a scam is to deceive other humans in order to get something from them. That's why the correct answer is 'people'.",
+      "quote": "And scammers can use AI to generate fake information so they can trick _____(6)_____ ."
+     }
+    },
+    "questionRange": "1-6"
+   },
+   {
+    "type": "matching",
+    "texts": [
+     {
+      "title": "HIGHBULLEN HOTEL - GOLF AND COUNTRY CLUB",
+      "number": 7,
+      "content": "Spectacular scenery with sporting, golf and leisure facilities. State of the art “Life Fitness” Gym, Health and Beauty suite with Sauna. Offering excellent cuisine and all within easy reach of the M5. 01769 540561 www.highbullen.co.uk"
+     },
+     {
+      "title": "THE FAT LAMB COUNTRY INN - RAVENSDALE CUMBRIA",
+      "number": 8,
+      "content": "Award winning hotel situated in magnificent scenery between Lakes and Dales. Informal, warm and comfortable. SPECIAL TELEGRAPH SUMMER BREAKS AVAILABLE BROCHURE - 015396 23242 www.fatlamb.co.uk"
+     },
+     {
+      "title": "NORTH WALES",
+      "number": 9,
+      "content": "Enjoy the break of a lifetime any 3 nights for the price of 2. Just 20 minutes from Chester yet surrounded by 4000 acres of Welsh countryside. Award winning team of chefs. Log fires. Peace. Tel: 08707 292 292 www.bodidrishall.com"
+     },
+     {
+      "title": "POLURRIAN HOTEL - MULLION, LIZARD PENINSULAR",
+      "number": 10,
+      "content": "Overlooking sandy cove and surrounded by N.T. Coastline. Sea and Fresh Cornish air. Exceptional leisure facilities. Tel: 01326 240421 www.polurrianhotel.com"
+     },
+     {
+      "title": "The Berry Head Hotel - Brixham South Devon",
+      "number": 11,
+      "content": "Steeped in history, nestling on the water’s edge - near picturesque fishing port. Suburb location for walking, sailing and fishing. Brochure Tel: 01803 8532225 www.berryheadhotel.com"
+     },
+     {
+      "title": "ROYAL YORK FAULKNER HOTEL - SIDMOUTH",
+      "number": 12,
+      "content": "Charming, well run promenade regency hotel. All amenities, excellent leisure facilities and renowned personal service. FREEPHONE: 0800 220714 www.royalyorkhotel.net"
+     },
+     {
+      "title": "BLAKENEY HOTEL - BLAKENEY, NORFOLK",
+      "number": 13,
+      "content": "Traditional privately owned friendly hotel overlooking the estuary. Ideal to explore Norfolk coast and countryside. Tel: 01263 740797 www.blakenly-hotel.co.uk"
+     },
+     {
+      "title": "The Cottage Hotel - Hope Cove, Salcombe, Devon",
+      "number": 14,
+      "content": "AUGUST AND SEPTEMBER AVAILABILITY. Family run for 30 successful years. First class service. www.hopecove.com Tel: 01548 561555"
+     }
+    ],
+    "title": "Part 2",
+    "answers": {
+     "7": [
+      "J"
+     ],
+     "8": [
+      "B"
+     ],
+     "9": [
+      "D"
+     ],
+     "10": [
+      "I"
+     ],
+     "11": [
+      "F"
+     ],
+     "12": [
+      "A"
+     ],
+     "13": [
+      "E"
+     ],
+     "14": [
+      "G"
+     ]
+    },
+    "questions": [
+     {
+      "id": 7,
+      "textNumber": 7
+     },
+     {
+      "id": 8,
+      "textNumber": 8
+     },
+     {
+      "id": 9,
+      "textNumber": 9
+     },
+     {
+      "id": 10,
+      "textNumber": 10
+     },
+     {
+      "id": 11,
+      "textNumber": 11
+     },
+     {
+      "id": 12,
+      "textNumber": 12
+     },
+     {
+      "id": 13,
+      "textNumber": 13
+     },
+     {
+      "id": 14,
+      "textNumber": 14
+     }
+    ],
+    "partNumber": 2,
+    "statements": [
+     {
+      "text": "You want a personal service.",
+      "letter": "A"
+     },
+     {
+      "text": "You want visit a lakeside hotel during summer.",
+      "letter": "B"
+     },
+     {
+      "text": "You want someone to go fishing for you.",
+      "letter": "C"
+     },
+     {
+      "text": "You want to go someplace unique with nice foods during your holidays.",
+      "letter": "D"
+     },
+     {
+      "text": "This hotel is suitable for exploration, visiting a beach etc.",
+      "letter": "E"
+     },
+     {
+      "text": "This hotel is near docks.",
+      "letter": "F"
+     },
+     {
+      "text": "You are looking for a reliable hotel to visit in autumn.",
+      "letter": "G"
+     },
+     {
+      "text": "You want to visit beaches during September and October.",
+      "letter": "H"
+     },
+     {
+      "text": "This hotel is a beach and has some relaxing facilities.",
+      "letter": "I"
+     },
+     {
+      "text": "This place has golf and a fitness centre.",
+      "letter": "J"
+     }
+    ],
+    "instruction": "Read the texts 7-14 and the statements A-J. Decide which text matches with the situation described in the statements. Each statement can be used ONCE only. There are TWO extra statements which you do not need to use.",
+    "explanations": {
+     "q7": {
+      "text": "The advertisement lists both \"golf\" and a \"Life Fitness Gym\" as available facilities, which directly matches the description of a place with a golf and fitness centre. That's why the correct answer is J.",
+      "quote": "Spectacular scenery with sporting, golf and leisure facilities. State of the art “Life Fitness” Gym, Health and Beauty suite with Sauna."
+     },
+     "q8": {
+      "text": "The hotel is located \"between Lakes and Dales\" and offers \"SPECIAL TELEGRAPH SUMMER BREAKS\". This makes it a perfect choice for someone wanting a lakeside holiday in the summer. That's why the correct answer is B.",
+      "quote": ""
+     },
+     "q9": {
+      "text": "The hotel has an \"Award winning team of chefs,\" which indicates nice food. Its location in the Welsh countryside and the promise of a \"break of a lifetime\" suggest it is a unique place. That's why the correct answer is D.",
+      "quote": "Award winning team of chefs."
+     },
+     "q10": {
+      "text": "The hotel is described as \"Overlooking sandy cove,\" which is a type of beach. It also offers \"Exceptional leisure facilities\" for relaxation. That's why the correct answer is I.",
+      "quote": ""
+     },
+     "q11": {
+      "text": "The text states the hotel is located \"near picturesque fishing port.\" A port is a harbour area with docks for boats, matching the description. That's why the correct answer is F.",
+      "quote": "nestling on the water’s edge - near picturesque fishing port."
+     },
+     "q12": {
+      "text": "The advertisement for this hotel explicitly mentions its \"renowned personal service,\" which is exactly what the statement describes. That's why the correct answer is A.",
+      "quote": "All amenities, excellent leisure facilities and renowned personal service."
+     },
+     "q13": {
+      "text": "The description says the hotel is \"Ideal to explore Norfolk coast and countryside.\" The coast includes beaches, and the word \"explore\" matches the statement perfectly. That's why the correct answer is E.",
+      "quote": "Ideal to explore Norfolk coast and countryside."
+     },
+     "q14": {
+      "text": "The hotel has been \"Family run for 30 successful years,\" which suggests it is reliable. It also has availability in September, which is an autumn month. That's why the correct answer is G.",
+      "quote": "Family run for 30 successful years."
+     }
+    },
+    "questionRange": "7-14",
+    "extraStatements": [
+     "C",
+     "H"
+    ],
+    "statementsFirst": true
+   },
+   {
+    "type": "matching-headings",
+    "title": "Part 3",
+    "answers": {
+     "15": [
+      "C"
+     ],
+     "16": [
+      "E"
+     ],
+     "17": [
+      "G"
+     ],
+     "18": [
+      "A"
+     ],
+     "19": [
+      "D"
+     ],
+     "20": [
+      "B"
+     ]
+    },
+    "passage": {
+     "title": "JAKARTA",
+     "paragraphs": [
+      {
+       "number": "I",
+       "content": "Today Jakarta has much to offer, ranging from museums, art and antique markets, first class shopping to accommodations and a wide variety of cultural activities. Jakarta’s most famous landmark, the National Monument or Monas is a 137m obelisk topped with a flame sculpture coated with 35 kg of gold. Among other places one can mention the National museum that holds an extensive collection of ethnographic artifacts and relics, the Maritime Museum that exhibits Indonesia’s seafaring traditions, including models of sea going vessels.",
+       "questionId": 15
+      },
+      {
+       "number": "II",
+       "content": "Sumatra is a paradise for nature lovers, its national parks are the largest in the world, home to a variety of monkeys, tigers and elephants. Facing the open sea, the western coastline of Sumatra and the waters surrounding Nias Island have big waves that make them one of the best surfer’s beaches in Indonesia. There are beautiful coral reefs that are ideal for diving. For those who prefer night dives, the waters of Riau Archipelago offer a rewarding experience with marine scavengers of the dark waters.",
+       "questionId": 16
+      },
+      {
+       "number": "III",
+       "content": "Various establishments offer professional pampering service with floral baths, body scrubs, aromatic oils, massages and meditation; rituals and treatments that use spices and aromatic herbs to promote physical and mental wellness. Various spa hotels are extremely popular. Indonesians believe that when treating the body you cure the mind.",
+       "questionId": 17
+      },
+      {
+       "number": "IV",
+       "content": "Jakarta has a distinctly cosmopolitan flavor. Tantalize your taste buds with a gastronomic spree around the city’s many eateries. Like French gourmet dining, exotic Asian cuisine, American fast food, stylish cafes, restaurants all compete to find a way into your heart through your stomach. The taste of Indonesia’s many cultures can be found in almost any corner of the city: hot and spicy food from West Sumatra, sweet tastes of Dental Java, the tangy fish dishes of North Sulawesi.",
+       "questionId": 18
+      },
+      {
+       "number": "V",
+       "content": "In the face of constant exposure to modernization and foreign influences, the native people still faithfully cling to their culture and rituals. The pre-Hindu Bali Aga tribe still maintains their own traditions of architecture, pagan religion, dance and music, such as unique rituals of dances and gladiator-like battles between youths. On the island of Siberut native tribes have retained their Neolithic hunter-gathering culture.",
+       "questionId": 19
+      },
+      {
+       "number": "VI",
+       "content": "Whether you are a serious spender or half hearted shopper, there is sure to be something for everybody in Jakarta. Catering to diverse tastes and pockets, the wide variety of things you can buy in Jakarta is mind boggling from the best of local handicrafts to haute couture labels. Modern super and hyper markets, multi-level shopping centers, retail and specialty shops, sell quality goods at a competitive price. Sidewalk bargains range from tropical blooms of vivid colors and scents in attractive bouquets to luscious fruits of the seasons.",
+       "questionId": 20
+      }
+     ]
+    },
+    "headings": [
+     {
+      "text": "A taste of everything",
+      "letter": "A"
+     },
+     {
+      "text": "Shop till you drop",
+      "letter": "B"
+     },
+     {
+      "text": "City’s tourist attractions",
+      "letter": "C"
+     },
+     {
+      "text": "Ancient traditions live on",
+      "letter": "D"
+     },
+     {
+      "text": "Activities for the adventurous and hardy",
+      "letter": "E"
+     },
+     {
+      "text": "On the crossroads of religions",
+      "letter": "F"
+     },
+     {
+      "text": "For the body, mind and soul",
+      "letter": "G"
+     },
+     {
+      "text": "From the high peaks to the deep seas",
+      "letter": "H"
+     }
+    ],
+    "questions": [
+     {
+      "id": 15,
+      "paragraphNumber": "I"
+     },
+     {
+      "id": 16,
+      "paragraphNumber": "II"
+     },
+     {
+      "id": 17,
+      "paragraphNumber": "III"
+     },
+     {
+      "id": 18,
+      "paragraphNumber": "IV"
+     },
+     {
+      "id": 19,
+      "paragraphNumber": "V"
+     },
+     {
+      "id": 20,
+      "paragraphNumber": "VI"
+     }
+    ],
+    "partNumber": 3,
+    "instruction": "Read the text and choose the correct heading for each paragraph from the list of headings below. There are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once.",
+    "explanations": {
+     "q15": {
+      "text": "This paragraph lists several places for tourists to visit in Jakarta, including museums and the famous National Monument. These are all examples of tourist attractions, which is why the correct answer is C.",
+      "quote": "Today Jakarta has much to offer, ranging from museums, art and antique markets, first class shopping to accommodations and a wide variety of cultural activities."
+     },
+     "q16": {
+      "text": "The paragraph describes activities like surfing on big waves and night diving. These are physically demanding and exciting pastimes for adventurous people, so the correct answer is E.",
+      "quote": "Facing the open sea, the western coastline of Sumatra and the waters surrounding Nias Island have big waves that make them one of the best surfer’s beaches in Indonesia."
+     },
+     "q17": {
+      "text": "This paragraph focuses on spa services like massages and meditation that promote well-being. It explicitly mentions promoting 'physical and mental wellness,' connecting the body and mind, which is why the correct answer is G.",
+      "quote": "Indonesians believe that when treating the body you cure the mind."
+     },
+     "q18": {
+      "text": "The text describes the huge variety of food available in Jakarta, from French and American to different regional Indonesian cuisines. This wide range of options matches the heading, so the correct answer is A.",
+      "quote": "Like French gourmet dining, exotic Asian cuisine, American fast food, stylish cafes, restaurants all compete to find a way into your heart through your stomach."
+     },
+     "q19": {
+      "text": "This paragraph explains how native tribes continue to practice their old traditions and rituals despite modern influences. This idea of preserving the past is why the correct answer is D.",
+      "quote": "In the face of constant exposure to modernization and foreign influences, the native people still faithfully cling to their culture and rituals."
+     },
+     "q20": {
+      "text": "The paragraph details the extensive shopping opportunities in Jakarta, from local handicrafts to luxury brands in modern shopping centers. This focus on shopping makes it clear that the correct answer is B.",
+      "quote": "Catering to diverse tastes and pockets, the wide variety of things you can buy in Jakarta is mind boggling from the best of local handicrafts to haute couture labels."
+     }
+    },
+    "extraHeadings": [
+     "F",
+     "H"
+    ],
+    "questionRange": "15-20"
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 4",
+    "answers": {
+     "21": [
+      "B",
+      "complex measures that ensure healthy sleep."
+     ],
+     "22": [
+      "C",
+      "bosses are against this."
+     ],
+     "23": [
+      "B",
+      "consult doctors when needed."
+     ],
+     "24": [
+      "A",
+      "to help people feel alert at night."
+     ],
+     "25": [
+      "False"
+     ],
+     "26": [
+      "True"
+     ],
+     "27": [
+      "Not Given"
+     ],
+     "28": [
+      "True"
+     ],
+     "29": [
+      "False"
+     ]
+    },
+    "passage": {
+     "title": "A good night’s sleep — an impossible dream?",
+     "content": "<p>Tonight, do yourself a favor. Shut off the TV, log off the Internet and unplug the phone. Relax, take a bath, maybe sip some herbal tea. Then move into the bedroom. Set your alarm clock for a time no less than eight hours in the future, fluff up your pillows and lay your head down for a peaceful night of restorative shut-eye. That’s what American doctors advise.</p><p>American sleep experts are sounding an alarm over America’s sleep deficit. They say Americans are a somnambulant nation, stumbling groggily through their waking hours for lack of sufficient sleep. They are working longer days — and, increasingly, nights — and they are playing longer, too, as TV and the Internet expand the range of round-the-clock entertainment options. By some estimates, Americans are sleeping as much as an hour and a half less per night than they did at the turn of the century — and the problem is likely to get worse.</p><p>The health repercussions of sleep deprivation are not well understood, but sleep researchers point to ills ranging from heart problems to depression. In a famous experiment conducted at the University of Chicago in 1988, rats kept from sleeping died after two and a half weeks. People are not likely to drop dead in the same way, but sleep deprivation may cost them their lives indirectly, when an exhausted doctor prescribes the wrong dosage or a sleepy driver weaves into someone’s lane.</p><p>What irritates sleep experts most is the fact that much sleep deprivation is voluntary. “People have regarded sleep as a commodity that they could shortchange,” says one of them. “It’s been considered a mark of very hard work and upward mobility to get very little sleep. It’s a macho attitude.” Slumber scientists hope that attitude will change. They say people have learned to modify their behavior in terms of lowering their cholesterol and increasing exercise. Doctors also think people need to be educated that allowing enough time for sleep and taking strategic naps are the most reliable ways to promote alertness behind the wheel and on the job.</p><p>Well, naps would be nice, but at the moment, employers tend to frown on them. And what about the increasing numbers of people who work at night? Not only must they work while their bodies’ light-activated circadian rhythms tell them to sleep, they also find it tough to get to sleep after work. Biologists say night workers have a hard time not paying attention to the 9-to-5 day because of noises or family obligations or that’s the only time they can go to the dentist. There are not too many dentists open at midnight.</p><p>As one might imagine, companies are springing up to take advantage of sleeplessness. One of the companies makes specially designed shift-work lighting systems intended to keep workers alert around the clock. Shiftwork’s theory is that bright light, delivered in a controlled fashion, can help adjust people’s biological clocks. The company president says they are using light like a medicine. So far, such special lighting has been the province of NASA astronauts and nuclear power plant workers. He thinks that in the future, such systems may pop up in places like hospitals and 24-hour credit-card processing centers. Other researchers are experimenting with everything from welder’s goggles (which night workers wear during the day) to human growth hormones. And, of course, there is always what doctors refer to as “therapeutic caffeine use”, but everyone is already familiar with that.</p>"
+    },
+    "partNumber": 4,
+    "instruction": "Read the following text for questions 21-29.",
+    "explanations": {
+     "q21": {
+      "text": "The first paragraph lists several actions to prepare for sleep, like turning off electronics and taking a bath. These represent a comprehensive set of measures for a healthy night's rest, which is why the correct answer is B.",
+      "quote": "Shut off the TV, log off the Internet and unplug the phone. Relax, take a bath, maybe sip some herbal tea."
+     },
+     "q22": {
+      "text": "The passage explicitly states that while naps are a good idea, employers 'tend to frown on them'. This means that bosses generally disapprove of or are against employees napping during work, so that's why the correct answer is C.",
+      "quote": "Well, naps would be nice, but at the moment, employers tend to frown on them."
+     },
+     "q23": {
+      "text": "The text explains that night workers find it hard to do things during the '9-to-5 day', giving the example that it's the only time they can see a dentist. This illustrates the difficulty of consulting doctors, so that's why the correct answer is B.",
+      "quote": "There are not too many dentists open at midnight."
+     },
+     "q24": {
+      "text": "The passage directly states that the purpose of these lighting systems is to 'keep workers alert around the clock'. This matches the goal of helping people feel alert while working at night, which is why the correct answer is A.",
+      "quote": "One of the companies makes specially designed shift-work lighting systems intended to keep workers alert around the clock."
+     },
+     "q25": {
+      "text": "The passage mentions an experiment where rats died from sleep deprivation, but it immediately clarifies that humans are not expected to die in the same way. This contradicts the statement, which is why the correct answer is False.",
+      "quote": ""
+     },
+     "q26": {
+      "text": "The text says Americans are 'working longer days' and 'playing longer, too' because of expanded entertainment options. These factors are explicitly linked to people getting less sleep, so that's why the correct answer is True.",
+      "quote": "They are working longer days — and, increasingly, nights — and they are playing longer, too, as TV and the Internet expand the range of round-the-clock entertainment options."
+     },
+     "q27": {
+      "text": "The passage states people sleep for a shorter duration now, but it doesn't mention the specific times they went to bed or woke up. Without this detail, we cannot confirm the statement, which is why the correct answer is Not Given.",
+      "quote": ""
+     },
+     "q28": {
+      "text": "The passage clearly states that 'much sleep deprivation is voluntary' and that getting little sleep is considered a 'macho attitude'. This shows that people are choosing to sleep less, so that's why the correct answer is True.",
+      "quote": "What irritates sleep experts most is the fact that much sleep deprivation is voluntary."
+     },
+     "q29": {
+      "text": "The text says this special lighting 'has been the province of NASA astronauts', indicating it is already in use by them. It is not a future plan for NASA, which is why the correct answer is False.",
+      "quote": "So far, such special lighting has been the province of NASA astronauts and nuclear power plant workers."
+     }
+    },
+    "questionRange": "21-29",
+    "questionSections": [
+     {
+      "type": "mcq",
+      "title": "Questions 21-24: Multiple Choice",
+      "questions": [
+       {
+        "id": 21,
+        "text": "The advice of American doctors is all about …",
+        "options": [
+         {
+          "text": "ways to reduce negative effect of modern technologies.",
+          "letter": "A"
+         },
+         {
+          "text": "complex measures that ensure healthy sleep.",
+          "letter": "B"
+         },
+         {
+          "text": "positive effect of herbal therapy.",
+          "letter": "C"
+         },
+         {
+          "text": "the process of restoring from unexpected psychological stress.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 22,
+        "text": "Having naps during the day would be nice, but …",
+        "options": [
+         {
+          "text": "doctors do not find them effective.",
+          "letter": "A"
+         },
+         {
+          "text": "people won’t take them voluntarily.",
+          "letter": "B"
+         },
+         {
+          "text": "bosses are against this.",
+          "letter": "C"
+         },
+         {
+          "text": "it is difficult to arrange.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 23,
+        "text": "People who work at night can hardly …",
+        "options": [
+         {
+          "text": "fulfill traditional family obligations.",
+          "letter": "A"
+         },
+         {
+          "text": "consult doctors when needed.",
+          "letter": "B"
+         },
+         {
+          "text": "socialize to their liking.",
+          "letter": "C"
+         },
+         {
+          "text": "ever sleep without ear-plugs.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 24,
+        "text": "The main aim of specially designed shift-work lighting system is …",
+        "options": [
+         {
+          "text": "to help people feel alert at night.",
+          "letter": "A"
+         },
+         {
+          "text": "to provide better lightning.",
+          "letter": "B"
+         },
+         {
+          "text": "to prevent heart diseases.",
+          "letter": "C"
+         },
+         {
+          "text": "to stimulate human growth hormones.",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "For questions 21-24, choose the correct answer A, B, C, or D."
+     },
+     {
+      "type": "tfni",
+      "title": "Questions 25-29: True/False/Not Given",
+      "options": [
+       "True",
+       "False",
+       "Not Given"
+      ],
+      "questions": [
+       {
+        "id": 25,
+        "text": "If people are kept from sleeping for two weeks, they will most likely die."
+       },
+       {
+        "id": 26,
+        "text": "Experts claim that working, entertaining and other factors are causing less and less time to sleep these days."
+       },
+       {
+        "id": 27,
+        "text": "At the beginning of the century, people went to sleep and awakened more earlier than nowadays."
+       },
+       {
+        "id": 28,
+        "text": "The bad fact is that people want to sleep less themselves."
+       },
+       {
+        "id": 29,
+        "text": "Some companies such has NASA are planning to use shiftwork light systems in the future."
+       }
+      ],
+      "instruction": "For questions 25-29, decide if the following statements agree with the information given in the text."
+     }
+    ]
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 5",
+    "answers": {
+     "30": [
+      "fabric"
+     ],
+     "31": [
+      "geometric"
+     ],
+     "32": [
+      "newspaper"
+     ],
+     "33": [
+      "knitwear"
+     ],
+     "34": [
+      "A",
+      "Its designs represented the attitudes of the time."
+     ],
+     "35": [
+      "C",
+      "Freeman’s was an unsuitable partner."
+     ]
+    },
+    "passage": {
+     "title": "A home-sewing revival: the return of Clothkits",
+     "content": "<p>In the 1970s, Clothkits revolutionised home sewing. Later, a woman from Sussex, England, revived the nostalgic brand and brought it up to date.</p><p>‘I can’t remember many of the clothes I wore before I was six, but I have a vivid memory of a certain skirt whose patterns I can still trace in my mind. It was wraparound, with a belt that threaded through itself, decorated with cats in two shades of green. I wore it with a knitted red jersey my mum bought in a jumble sale, and brown sandals with flowers cut into the toes. It was 1979, and I was not yet five. I forgot about that skirt for a long time, but when a girlfriend mentioned the name Clothkits while we were chatting, it was as if a door suddenly opened on a moment in the past that resonated with vivid significance for me.’ The brand, founded in 1968, had by the late 1980s mostly vanished from people’s lives, but by a combination of determination and luck Kay Mawer brought it back.</p><p>Clothkits was created by the designer Anne Kennedy, who came up with the ingenious idea of printing a pattern straight on to coloured fabric so that a paper pattern was not needed. It was accompanied by instructions that almost anyone could follow on how to cut the pieces out and sew them together. ‘I was rebelling against the formulaic lines of textile design at that time,’ Kennedy says. ‘My interest was in folk art and clothes that were simple to make as I had lots of unfinished sewing disasters in my cupboard.’</p><p>Clothkits has always embodied the spirit of the late 1960s and 1970s. Its initial design was a dress in a geometric stripe in orange, pink, turquoise and purple. It cost 25 shillings (£1.25), and after it was featured in the Observer newspaper, Kennedy received more than £2,000 worth of orders. She ran the company from Lewes in Sussex, where at its peak it employed more than 400 people, selling to 44 countries worldwide. Sew-your-own kits formed the core of the business, supplemented by knitwear. Kennedy’s children demonstrated the patterns by wearing them in photographs.</p><p>Kennedy sold the company in the late 1980s. There had been a few administrative problems with postal strikes and a new computer system, which back then took up an entire room, ‘but the times were changing as well,’ she says. ‘More women were going out to work and sewing less for their children.’ She sold the company to one of her suppliers, who then sold it on to Freeman’s, which ran Clothkits alongside its own brand for a while, using Kennedy’s impressive database, but its ethos are big, corporate company did not sit well alongside the alternative and artistic of Clothkits. In 1991, Clothkits was made dormant, and there the story may have ended, were it not for Mawer’s fascination with discovering what happened Clothkits.</p><p>Mawer’s mother bought her a sewing machine when she was ten and taught her basic pattern-cutting and garment construction, encouraging her to experiment with colour and design by trial and error. The first garment Mawer made was a pair of trousers, which she made by tracing around an existing pair of trousers. In her late twenties, she spent five years working on digital and sculptural installations. ‘It was an amazing, mind-expanding experience, but I knew it was unlikely I could make a living as a practising artist. I was definitely looking for a way that I could work in a creative industry with a commercial edge.’ The experience inspired Mawer to return to education, studying for a degree in fine art at the University of Chichester. Her passion for vintage fabric, which her mother had encouraged her to start collecting, led her back to Clothkits, and from there to a journey into the heart of Freeman’s. Negotiations with the company took 18 months, but in October 2007 Clothkits was hers.</p><p>The ethos of Clothkits remains the same, and Mawer is proud that her fabric is printed either in London or the north of England, and that packaging is kept to an absolute minimum. ‘I wanted to feel that everyone involved in the brand, from design to production, was part of a process I could witness. I couldn’t see the point of manufacturing on the other side of the world, as that’s not what Clothkits has ever been about.’ The revival of Clothkits has also, of course, coincided with a growing sense of dissatisfaction at our disposable society, and the resulting resurgence of interest in skills such as sewing and knitting. ‘Making your own clothes gives you a greater appreciation of the craftsmanship in the construction of a garment,’ Mawer says. ‘When you know the process involved in making a skirt, you treasure it in a way you wouldn’t if you’d bought it from a mass-producing manufacturer.’</p>"
+    },
+    "partNumber": 5,
+    "instruction": "Read the following text for questions 30-35.",
+    "explanations": {
+     "q30": {
+      "text": "The passage states that the company's unique idea was to print a pattern directly onto the material that customers would then use to sew their clothes. This material is fabric. That's why the correct answer is 'fabric'.",
+      "quote": "Clothkits was created by the designer Anne Kennedy, who came up with the ingenious idea of printing a pattern straight on to coloured fabric so that a paper pattern was not needed."
+     },
+     "q31": {
+      "text": "The passage describes the company's first design as a dress with a specific type of pattern. This pattern was a stripe made of geometric shapes. That's why the correct answer is 'geometric'.",
+      "quote": "Its initial design was a dress in a geometric stripe in orange, pink, turquoise and purple."
+     },
+     "q32": {
+      "text": "The text explains that the company received a huge number of orders after its first design was featured in a publication called the Observer, which is a newspaper. That's why the correct answer is 'newspaper'.",
+      "quote": "It cost 25 shillings (£1.25), and after it was featured in the Observer newspaper, Kennedy received more than £2,000 worth of orders."
+     },
+     "q33": {
+      "text": "The passage states that while the main part of the business was sew-your-own kits, the company sold another type of clothing to complement this. This other product was knitwear. That's why the correct answer is 'knitwear'.",
+      "quote": "Sew-your-own kits formed the core of the business, supplemented by knitwear."
+     },
+     "q34": {
+      "text": "The passage explicitly states that the brand captured the feeling and style of the late 1960s and 1970s. This means its designs reflected the culture and attitudes of that period. That's why the correct answer is A.",
+      "quote": "Clothkits has always embodied the spirit of the late 1960s and 1970s."
+     },
+     "q35": {
+      "text": "The text explains that Freeman's, a large corporate company, had a very different set of values ('ethos') from the artistic style of Clothkits. This clash made them a poor match. That's why the correct answer is C.",
+      "quote": ""
+     }
+    },
+    "questionRange": "30-35",
+    "questionSections": [
+     {
+      "type": "gap-fill",
+      "title": "Questions 30-33: Gap Filling Section",
+      "questions": [
+       {
+        "id": 30,
+        "hint": "specialised in selling ____"
+       },
+       {
+        "id": 31,
+        "hint": "a ____ pattern"
+       },
+       {
+        "id": 32,
+        "hint": "A ____ article"
+       },
+       {
+        "id": 33,
+        "hint": "also sold ____"
+       }
+      ],
+      "instruction": "For questions 30-33, fill in the missing information in the numbered spaces. Write no more than ONE WORD and/or A NUMBER for each question.",
+      "summaryText": "<p><strong>The early days of Clothkits</strong></p><p>Clothkits was started by a designer named Anne Kennedy. Her clothing company specialised in selling <span class=\"gap-input\" data-gap=\"30\">_____(30)_____</span> with a pattern printed on it. This came with instructions which meant that buyers were able to make their own garments.</p><p>The very first garment Anne Kennedy made was a multi-coloured striped dress with a <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span> pattern. A <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span> article led to many orders for this from around the world. As the company grew, she increased her workforce, and also sold <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span> as part of her business. She exhibited her designs using her children as models.</p>"
+     },
+     {
+      "type": "mcq",
+      "title": "Questions 34-35: Multiple Choice",
+      "questions": [
+       {
+        "id": 34,
+        "text": "What does the reader learn about Clothkits in the 1960s and 1970s?",
+        "options": [
+         {
+          "text": "Its designs represented the attitudes of the time.",
+          "letter": "A"
+         },
+         {
+          "text": "Its products were only affordable for the wealthy.",
+          "letter": "B"
+         },
+         {
+          "text": "Its creator tried many times to launch her company.",
+          "letter": "C"
+         },
+         {
+          "text": "Its management was spread across numerous countries.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 35,
+        "text": "Why did Clothkits close in 1991?",
+        "options": [
+         {
+          "text": "There were unexpected staffing problems.",
+          "letter": "A"
+         },
+         {
+          "text": "The funding for sewing activities was inadequate.",
+          "letter": "B"
+         },
+         {
+          "text": "Freeman’s was an unsuitable partner.",
+          "letter": "C"
+         },
+         {
+          "text": "Records on Kennedy’s database were lost.",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "For questions 34-35, choose the correct answer A, B, C, or D."
+     }
+    ]
+   }
+  ],
+  "examDate": "2025-11-13",
+  "testInfo": {
+   "level": "B1-B2-C1",
+   "parts": 5,
+   "title": "CEFR B1-B2-C1 Reading Test 11",
+   "totalTime": 60,
+   "totalQuestions": 35
+  }
+ },
+ "created_at": "2026-05-12T16:21:21.451225+00:00",
+ "updated_at": "2026-10-11T10:54:25.762211+00:00"
+}

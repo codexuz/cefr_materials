@@ -1,0 +1,731 @@
+{
+ "id": 463,
+ "mock_type": "cefr-listening",
+ "mock_number": 23,
+ "title": "CEFR Listening Mock Test 23",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "mcq-reply",
+    "title": "Part 1",
+    "answers": {
+     "1": "B",
+     "2": "B",
+     "3": "B",
+     "4": "A",
+     "5": "A",
+     "6": "C",
+     "7": "C",
+     "8": "A"
+    },
+    "audioFile": "https://audio.mock-stream.com/test23/Part%201%20(2).m4a",
+    "questions": [
+     {
+      "id": 1,
+      "options": [
+       {
+        "text": "Every 30 minutes.",
+        "letter": "A"
+       },
+       {
+        "text": "At 15.27.",
+        "letter": "B"
+       },
+       {
+        "text": "There’s a new one over there.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "options": [
+       {
+        "text": "It’s just round the corner.",
+        "letter": "A"
+       },
+       {
+        "text": "Actually, there is one more thing.",
+        "letter": "B"
+       },
+       {
+        "text": "It was great to see you again.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 3,
+      "options": [
+       {
+        "text": "Yes, that’s right.",
+        "letter": "A"
+       },
+       {
+        "text": "Yes, of course.",
+        "letter": "B"
+       },
+       {
+        "text": "Yes, I can.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 4,
+      "options": [
+       {
+        "text": "Well, when do you want to travel?",
+        "letter": "A"
+       },
+       {
+        "text": "You can buy one at the ticket office.",
+        "letter": "B"
+       },
+       {
+        "text": "Where can I buy a ticket?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 5,
+      "options": [
+       {
+        "text": "Yes, sure.",
+        "letter": "A"
+       },
+       {
+        "text": "Yes, you’re right.",
+        "letter": "B"
+       },
+       {
+        "text": "Yes, it is.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 6,
+      "options": [
+       {
+        "text": "From stop number 12.",
+        "letter": "A"
+       },
+       {
+        "text": "It’s just over there.",
+        "letter": "B"
+       },
+       {
+        "text": "Every 20 minutes.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 7,
+      "options": [
+       {
+        "text": "Thank you for your help – you’re very kind.",
+        "letter": "A"
+       },
+       {
+        "text": "That’s great news, really great.",
+        "letter": "B"
+       },
+       {
+        "text": "Where’s the bus station, please?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 8,
+      "options": [
+       {
+        "text": "It’s in ten minutes.",
+        "letter": "A"
+       },
+       {
+        "text": "It’s one and a half hours.",
+        "letter": "B"
+       },
+       {
+        "text": "This is platform eight.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "partNumber": 1,
+    "transcript": "You will hear some sentences.\nYou will hear each sentence twice.\nChoose the best reply to each sentence.\nNow, you have 30 seconds to look at the questions.\nSpeaker one.\nWhat time is the next train to Madrid?\nWhat time is the next train to Madrid?\n\nSpeaker two.\nIs there anything else I can help you with?\nIs there anything else I can help you with?\n\nSpeaker three.\nSorry, just one more thing.\nSorry, just one more thing.\n\nSpeaker four.\nHow much is a ticket?\nHow much is a ticket?\n\nSpeaker five.\nCan I pay by card?\nCan I pay by card?\n\nSpeaker six.\nExcuse me, how often do the buses to the airport leave?\nExcuse me, how often do the buses to the airport leave?\n\nSpeaker seven.\nHow can I help you?\nHow can I help you?\n\nSpeaker 8.\nWhat time is the next train to Manchester?\nWhat time is the next train to Manchester?\nSpeaker 8.",
+    "instruction": "You will hear some sentences. You will hear each sentence twice. Choose the correct reply to each sentence (A, B, or C).",
+    "questionRange": "1-8",
+    "answerHighlights": {
+     "1": [
+      5
+     ],
+     "2": [
+      9
+     ],
+     "3": [
+      13
+     ],
+     "4": [
+      17
+     ],
+     "5": [
+      21
+     ],
+     "6": [
+      25
+     ],
+     "7": [
+      29
+     ],
+     "8": [
+      33
+     ]
+    }
+   },
+   {
+    "type": "gap-fill-form",
+    "title": "Part 2",
+    "answers": {
+     "9": [
+      "hills",
+      "Hills",
+      "HILLS"
+     ],
+     "10": [
+      "sunset",
+      "Sunset",
+      "SUNSET"
+     ],
+     "11": [
+      "cushion",
+      "Cushion",
+      "CUSHION"
+     ],
+     "12": [
+      "5",
+      "five"
+     ],
+     "13": [
+      "picnic",
+      "Picnic",
+      "PICNIC"
+     ],
+     "14": [
+      "cityents",
+      "Cityents",
+      "CITYENTS"
+     ]
+    },
+    "audioFile": "https://audio.mock-stream.com/test23/Part%202%20(2).m4a",
+    "formTitle": "Outdoor Cinema",
+    "questions": [
+     {
+      "id": 9,
+      "hint": "surrounded by ____"
+     },
+     {
+      "id": 10,
+      "hint": "watch the ____"
+     },
+     {
+      "id": 11,
+      "hint": "take a ____"
+     },
+     {
+      "id": 12,
+      "hint": "____ kilometres"
+     },
+     {
+      "id": 13,
+      "hint": "have a ____"
+     },
+     {
+      "id": 14,
+      "hint": "www.____.org"
+     }
+    ],
+    "partNumber": 2,
+    "transcript": "Part two. You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. You have 30 seconds to look at the questions.\nNow, we are ready to start.\nFor those of you who love watching films, let me tell you about a new outdoor summer cinema that opens later this week. It's been set up in the hills with beautiful views in all directions. The size of the cinema screen is fantastic, and the quality of the sound system is so good, you forget that you're outdoors. What's so amazing is that you can enjoy the sunset at the same time as you're watching a film. There are no seats because members of the audience can sit on the ground wherever they like. The temperatures don't drop in the evenings during summer, so you won't need a blanket, but I do suggest taking a cushion with you, because it can get rather uncomfortable after the first hour or two of sitting there.\n\nSo, how do you get to this cinema from the city? If you have a car, then there's plenty of parking spaces and the round trip is about 8 kilometers. Otherwise, you'll need to rely on public transport, unless that is, you have enough energy for a 5 kilometer walk along a narrow path. When I visited earlier this week, I saw that some people had brought a picnic with them, the perfect thing to enjoy after the movie. So other people try to light a barbecue, but that's against the rules, I'm afraid, so not such a good idea.\n\nAnd one final word of advice. It's not a good idea to arrive at this outdoor cinema without a ticket, because numbers are limited for health and safety reasons. Tickets are available from any supermarket in the city, or you can get them online from the website cityents.org. That's cits.org. So, have fun.\nListen again.\nFor those of you who love watching films, let me tell you about a new outdoor summer cinema that opens later this week. It's been set up in the hills with beautiful views in all directions. The size of the cinema screen is fantastic, and the quality of the sound system is so good, you forget that you're outdoors. What's so amazing is that you can enjoy the sunset at the same time as you're watching a film. There are no seats because members of the audience can sit on the ground wherever they like. The temperatures don't drop in the evenings during summer, so you won't need a blanket, but I do suggest taking a cushion with you, because it can get rather uncomfortable after the first hour or two of sitting there.\n\nSo, how do you get to this cinema from the city? If you have a car, then there's plenty of parking spaces and the round trip is about 8 kilometers. Otherwise, you'll need to rely on public transport, unless that is, you have enough energy for a 5 kilometer walk along a narrow path. When I visited earlier this week, I saw that some people had brought a picnic with them, the perfect thing to enjoy after the movie. So other people try to light a barbecue, but that's against the rules, I'm afraid, so not such a good idea.\n\nAnd one final word of advice. It's not a good idea to arrive at this outdoor cinema without a ticket, because numbers are limited for health and safety reasons. Tickets are available from any supermarket in the city, or you can get them online from the website cityents.org. That's cits.org. So, have fun.\nThis is the end of part two.",
+    "formContent": [
+     {
+      "text": "The cinema is surrounded by",
+      "type": "item-gap",
+      "gapId": 9,
+      "gapSuffix": "and there are beautiful views"
+     },
+     {
+      "text": "It’s possible to watch the",
+      "type": "item-gap",
+      "gapId": 10,
+      "gapSuffix": "during a film"
+     },
+     {
+      "text": "Cinema visitors are advised to take a",
+      "type": "item-gap",
+      "gapId": 11,
+      "gapSuffix": "with them to sit on"
+     },
+     {
+      "text": "The cinema is",
+      "type": "item-gap",
+      "gapId": 12,
+      "gapSuffix": "kilometres from the city if you go on foot"
+     },
+     {
+      "text": "It’s a good idea to have a",
+      "type": "item-gap",
+      "gapId": 13,
+      "gapSuffix": "when the film is over"
+     },
+     {
+      "text": "Cinema tickets can be bought online at www.",
+      "type": "item-gap",
+      "gapId": 14,
+      "gapSuffix": "org"
+     }
+    ],
+    "instruction": "You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. Write ONE WORD and / or A NUMBER for each answer.",
+    "questionRange": "9-14",
+    "answerHighlights": {
+     "9": [
+      2
+     ],
+     "10": [
+      2
+     ],
+     "11": [
+      2
+     ],
+     "12": [
+      4
+     ],
+     "13": [
+      4
+     ],
+     "14": [
+      6
+     ]
+    }
+   },
+   {
+    "type": "matching-speakers",
+    "title": "Part 3",
+    "answers": {
+     "15": "F",
+     "16": "B",
+     "17": "D",
+     "18": "A"
+    },
+    "options": [
+     {
+      "text": "having energy",
+      "letter": "A"
+     },
+     {
+      "text": "a particular food",
+      "letter": "B"
+     },
+     {
+      "text": "a pet animal",
+      "letter": "C"
+     },
+     {
+      "text": "human contact",
+      "letter": "D"
+     },
+     {
+      "text": "a life of luxury",
+      "letter": "E"
+     },
+     {
+      "text": "a sense of space",
+      "letter": "F"
+     }
+    ],
+    "speakers": [
+     {
+      "id": 15,
+      "label": "Speaker 1"
+     },
+     {
+      "id": 16,
+      "label": "Speaker 2"
+     },
+     {
+      "id": 17,
+      "label": "Speaker 3"
+     },
+     {
+      "id": 18,
+      "label": "Speaker 4"
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test23/Part%203%20(2).m4a",
+    "partNumber": 3,
+    "transcript": "Speaker 1:\nWell, when my parents moved house, we moved from living in the country to living in a city, and I remember waking up the first morning in the new house, and looking out of my bedroom window, and being horrified by how close the roofs of all the other houses were.\nI'd been used to looking out at fields and hills and uh, well, I felt so closed in by all the buildings.\nI don't know how people can bear to live surrounded by row upon row of houses.\n\nListen again.\nWell, when my parents moved house, we moved from living in the country to living in a city, and I remember waking up the first morning in the new house, and looking out of my bedroom window, and being horrified by how close the roofs of all the other houses were.\nI'd been used to looking out at fields and hills and uh, well, I felt so closed in by all the buildings.\nI don't know how people can bear to live surrounded by row upon row of houses.\n\nSpeaker 2:\nWhen I first lived abroad, I thought it was wonderful.\nWell, I suppose I still do, otherwise I wouldn't be here.\nBut one of the things I've never got used to is having to go without some of life's little pleasures.\nIt sounds silly really.\nI love cheese, and the only cheese you can get here is in tins, and it tastes nothing like the real thing.\nAt times, I think I can almost feel the texture and see the yellow creamy color, and then I can almost smell it, that ripe sharp smell.\n\nListen again.\nWhen I first lived abroad, I thought it was wonderful.\nWell, I suppose I still do, otherwise I wouldn't be here.\nBut one of the things I've never got used to is having to go without some of life's little pleasures.\nIt sounds silly really.\nI love cheese, and the only cheese you can get here is in tins, and it tastes nothing like the real thing.\nAt times, I think I can almost feel the texture and see the yellow creamy color, and then I can almost smell it, that ripe sharp smell.\n\nSpeaker 3:\nIf you've been used to giving and receiving affection, it's very hard to get used to living on your own.\nI can understand why people get depressed so easily if they've been used to a large family.\nAnd then the day comes when there's no one there.\nIt wasn't until I was on my own that I understood why some people turn to having a pet in the house.\nKeeps some company and although it can't possibly be the same, at least it means you're not absolutely alone.\n\nListen again.\nIf you've been used to giving and receiving affection, it's very hard to get used to living on your own.\nI can understand why people get depressed so easily if they've been used to a large family.\nAnd then the day comes when there's no one there.\nIt wasn't until I was on my own that I understood why some people turned to having a pet in the house.\nKeeps some company and although it can't possibly be the same, at least it means you're not absolutely alone.\n\nSpeaker 4:\nI suppose I should be grateful for just being alive, and of course I am.\nBut I was such an active person that there are days when I find sitting at home and watching the world go by really hard.\nI've been used to playing sport all my life, and even my holidays would involve trying out a new sport, like learning to sail or flying in a balloon.\nI can see all these young people kicking a ball around or whizzing past on their bikes, and I'm amazed at how exhausted I feel just watching them.\n\nListen again.\nI suppose I should be grateful for just being alive, and of course I am.\nBut I was such an active person that there are days when I find sitting at home and watching the world go by really hard.\nI've been used to playing sport all my life, and even my holidays would involve trying out a new sport, like learning to sail or flying in a balloon.\nI can see all these young people kicking a ball around or whizzing past on their bikes, and I'm amazed at how exhausted I feel just watching them.\n\nThis is the end of part three.\nPart four.\nYou will hear someone giving a talk.\nLabel the places on the map.\nThere are three extra options which you do not need to use.\nMark your answers on the answer sheet.\nYou have 30 seconds before you listen to the recording.\n\nNow, we are ready to start.",
+    "instruction": "You will hear five different people talking about things they miss. Match each speaker (15-18) to the work (A-F). There are TWO EXTRA options which you do not need to use.",
+    "questionRange": "15-18",
+    "answerHighlights": {
+     "15": [
+      1,
+      2
+     ],
+     "16": [
+      13,
+      15
+     ],
+     "17": [
+      27,
+      28
+     ],
+     "18": [
+      42,
+      43
+     ]
+    }
+   },
+   {
+    "type": "map-labeling",
+    "title": "Part 4",
+    "answers": {
+     "19": "F",
+     "20": "B",
+     "21": "D",
+     "22": "G",
+     "23": "E"
+    },
+    "mapImage": "https://audio.mock-stream.com/test23/Gemini_Generated_Image_ysn0ubysn0ubysn0.png",
+    "mapTitle": "Daisy Day Care Centre",
+    "audioFile": "https://audio.mock-stream.com/test23/Part%204%20(2).m4a",
+    "mapLabels": [
+     "A",
+     "B",
+     "C",
+     "D",
+     "E",
+     "F",
+     "G",
+     "H"
+    ],
+    "questions": [
+     {
+      "id": 19,
+      "place": "Shoe rack"
+     },
+     {
+      "id": 20,
+      "place": "Carpet"
+     },
+     {
+      "id": 21,
+      "place": "Bookcase"
+     },
+     {
+      "id": 22,
+      "place": "Cubbyholes"
+     },
+     {
+      "id": 23,
+      "place": "Chickens"
+     }
+    ],
+    "partNumber": 4,
+    "transcript": "Hello everyone.\nI'm Doreen, the receptionist at the Daisy Childcare Center.\nThank you all for coming to our open evening.\nI'll just show you round and tell you a bit about the place.\nFirst of all, I will have to ask you to leave your sneakers and sandals etcetera here on the shoe rack, just inside the main door.\nYou know how the young ones love crawling around the floor.\nSo our policy is, no street footwear inside.\nAs you can see, our facility is very open plan.\nThere are lots of different activity areas and we like to have pretty good visibility throughout the center.\nThis central area to the left is where we all gather for stories, songs, and some games.\nThat's why the big circular carpet is there.\nEveryone comes to sit there two or three times a day.\nI can see some of you looking at our TV.\nSome parents worry that we might just dump the kids there to watch rubbish all day, but of course, that's not the case.\nIn fact, we only use it occasionally.\nFor example, we use it if we have a story on a DVD, and then we get the kids to do a bit of acting based on that.\nThat bookcase there beside the TV gets a lot of use though.\nSome of the older kids choose to sit and read or look at picture books in their free time, but we never allow them unsupervised TV.\nIf you look along the wall on the far side of the little gate leading into the main room, you can see our kitchen play area.\nIt has lots of utensils, pots and pans, and that cupboard closer to the corner is the dress up cupboard.\nThat's a very popular area with the boys as well as the girls.\nYou'd be surprised how much the boys get into acting and make believe.\nNow, over here, opposite the gate and behind the big lunch table, are the sinks and the painting area, and then the doors to the outside.\nTo the right of those outside doors, you can see hooks and little cubby holes on the wall for coats, bags, and outdoor shoes.\nThe children can keep slippers in there, but most of them run around indoors in their socks or bare feet.\nIf you can bear it, I think we should pop out into the cold for a moment to have a look round outdoors.\nWe'll just stay under the veranda.\nThe sandpit is over there at the far left of the outside area, and that box next to it is storage space for buckets and spades and lots of trucks and diggers to push around or even ride on.\nThe slide beside that is popular, and so are the three climbing walls over by the fence.\nSome parents think that's a bit adventurous for preschoolers, but the older ones love them.\nThe ground is covered with bark, so it's not a harsh surface when they do fall.\nThe ordinary swings and a tire swing are here in front, where we can keep an eye on everyone, and then the chickens are way over on the far right, so they can have a bit of peace and quiet occasionally.\nOkay, so let's go back inside and I can talk about our rules and policies.\nNow, listen again.\nHello everyone.\nI'm Doreen, the receptionist at the Daisy Childcare Center.\nThank you all for coming to our open evening.\nI'll just show you round and tell you a bit about the place.\nFirst of all, I will have to ask you to leave your sneakers and sandals etcetera here on the shoe rack, just inside the main door.\nYou know how the young ones love crawling around the floor, so our policy is, no street footwear inside.\nAs you can see, our facility is very open plan.\nThere are lots of different activity areas and we like to have pretty good visibility throughout the center.\nThis central area to the left is where we all gather for stories, songs and some games.\nThat's why the big circular carpet is there.\nEveryone comes to sit there two or three times a day.\nI can see some of you looking at our TV.\nSome parents worry that we might just dump the kids there to watch rubbish all day, but of course, that's not the case.\nIn fact, we only use it occasionally.\nFor example, we use it if we have a story on a DVD, and then we get the kids to do a bit of acting based on that.\nThat bookcase there beside the TV gets a lot of use, though.\nSome of the older kids choose to sit and read or look at picture books in their free time, but we never allow them unsupervised TV.\nIf you look along the wall on the far side of the little gate leading into the main room, you can see our kitchen play area.\nIt has lots of utensils, pots and pans, and that cupboard closer to the corner is the dress up cupboard.\nThat's a very popular area with the boys as well as the girls.\nYou'd be surprised how much the boys get into acting and make believe.\nNow, over here, opposite the gate and behind the big lunch table, are the sinks and the painting area, and then the doors to the outside.\nTo the right of those outside doors, you can see hooks and little cubby holes on the wall for coats, bags, and outdoor shoes.\nThe children can keep slippers in there, but most of them run around indoors in their socks or bare feet.\nIf you can bear it, I think we should pop out into the cold for a moment to have a look round outdoors.\nWe'll just stay under the veranda.\nThe sand pit is over there at the far left of the outside area, and that box next to it is storage space for buckets and spades and lots of trucks and diggers to push around or even ride on.\nThe slide beside that is popular, and so are the three climbing walls over by the fence.\nSome parents think that's a bit adventurous for preschoolers, but the older ones love them.\nThe ground is covered with bark, so it's not a harsh surface when they do fall.\nThe ordinary swings and a tire swing are here in front, where we can keep an eye on everyone, and then the chickens are way over on the far right, so they can have a bit of peace and quiet occasionally.\nOkay, so let's go back inside and I can talk about our rules and policies.\nReally useful, I think.\nThis is the end of part four.\nPart five.\nYou will hear three extracts.\nChoose the correct answer for each question.\nThere are two questions for each extract.\nMark your answers on the answer sheet.\nYou have 30 seconds before you listen to the recording.\nNow, we are ready to start.",
+    "instruction": "You will hear someone giving a talk. Label the places (19-23) on the map (A-H). There is ONE extra option which you do not need to use.",
+    "questionRange": "19-23",
+    "answerHighlights": {
+     "19": [
+      4
+     ],
+     "20": [
+      10
+     ],
+     "21": [
+      16
+     ],
+     "22": [
+      23
+     ],
+     "23": [
+      31
+     ]
+    }
+   },
+   {
+    "type": "mcq-extracts",
+    "title": "Part 5",
+    "answers": {
+     "24": "B",
+     "25": "A",
+     "26": "A",
+     "27": "B",
+     "28": "C",
+     "29": "C"
+    },
+    "extracts": [
+     {
+      "title": "Extract One",
+      "context": "",
+      "questions": [
+       {
+        "id": 24,
+        "text": "How does the man feel about the journey?",
+        "options": [
+         {
+          "text": "It’s dangerous.",
+          "letter": "A"
+         },
+         {
+          "text": "It’s disappointing.",
+          "letter": "B"
+         },
+         {
+          "text": "It’s unusual.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 25,
+        "text": "How does the woman react to what the man says?",
+        "options": [
+         {
+          "text": "She gives him advice.",
+          "letter": "A"
+         },
+         {
+          "text": "She agrees with him.",
+          "letter": "B"
+         },
+         {
+          "text": "She consoles him.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Extract Two",
+      "context": "",
+      "questions": [
+       {
+        "id": 26,
+        "text": "How would bad weather affect their plans?",
+        "options": [
+         {
+          "text": "They’d postpone the journey.",
+          "letter": "A"
+         },
+         {
+          "text": "They’d cancel the journey.",
+          "letter": "B"
+         },
+         {
+          "text": "They’d take extra equipment.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 27,
+        "text": "What will happen if they don’t reach their objective?",
+        "options": [
+         {
+          "text": "They won’t make so much money.",
+          "letter": "A"
+         },
+         {
+          "text": "Their reputation will suffer.",
+          "letter": "B"
+         },
+         {
+          "text": "They’ll have to try again later.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Extract Three",
+      "context": "",
+      "questions": [
+       {
+        "id": 28,
+        "text": "What item of clothing does she consider essential?",
+        "options": [
+         {
+          "text": "a sweater",
+          "letter": "A"
+         },
+         {
+          "text": "boots",
+          "letter": "B"
+         },
+         {
+          "text": "a hat",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 29,
+        "text": "How does she feel about her journey now?",
+        "options": [
+         {
+          "text": "relieved that it’s over",
+          "letter": "A"
+         },
+         {
+          "text": "surprised by the conditions she encountered",
+          "letter": "B"
+         },
+         {
+          "text": "grateful to her traveling companions",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test23/Part%205%20(2).m4a",
+    "partNumber": 5,
+    "transcript": "Extract one.\nIt'll be getting dark soon, won't it? What about over there? That looks quite a good place to stop and camp for the night, doesn't it? Maybe. Very peaceful. Don't count on it. If I'd known about the mosquitoes, I'd never have signed up for this. But none of that had matter if, you know, there were rapids, white water, crocodiles and panoramic landscapes. I mean, we're just getting bitten on a muddy river, closed in by dull, monotonous little trees. It's not as if we had to come here. There were lots of other places we could have gone if only we'd realized. Oh, Don, if only you'd put on some repellent, and if you'd please just stop moaning for a while, perhaps we could start enjoying ourselves a bit. Just think what a lovely change this is from city life. Some change. Even if we stayed at home, it'd be better, because I'd be relaxing in front of the telly right now, instead of paddling up this miserable river. Don!\n\nNow, listen again.\nIt'll be getting dark soon, won't it? What about over there? That looks quite a good place to stop and camp for the night, doesn't it? Maybe. Very peaceful. Don't count on it. If I'd known about the mosquitoes, I'd never have signed up for this. But none of that had matter if, you know, there were rapids, white water, crocodiles and panoramic landscapes. I mean, we're just getting bitten on a muddy river, closed in by dull, monotonous little trees. It's not as if we had to come here. There were lots of other places we could have gone if only we'd realized. Oh, Don, if only you'd put on some repellent, and if you'd please just stop moaning for a while, perhaps we could start enjoying ourselves a bit. Just think what a lovely change this is from city life. Some change. Even if we stayed at home, it'd be better, because I'd be relaxing in front of the telly right now, instead of paddling up this miserable river. Don!\nExtract two.\nSo, what do we do if the weather breaks? Do you think we'll have to call it a day? Call it a day? No way. Not after all the hassle we've had to get this far, all the money we're raising, and all those people we'd be letting down. Look, we're taking all the right equipment, wet weather gear, good boots. You really can't ask for more. Anyway, we've committed ourselves to this thing, so we've got to go through with it. Look, if things start looking really bad, we can always put the walk off for a while and set off a bit later. Okay, but we were warned about this, you remember? Northwest Spain can be pretty icy at this time of year. Of course, but that's all part of it, isn't it? And if we don't do it, we'll never live it down. I'm sure we'll make it. I mean, our names will be dirt if we don't. That's a good point. And I guess they'd pay up anyway even if we didn't make it, wouldn't they? Hopefully. And anyway, a little hardship never did anyone any harm.\n\nNow, listen again.\nSo, what do we do if the weather breaks? Do you think we'll have to call it a day? Call it a day? No way. Not after all the hassle we've had to get this far, all the money we're raising, and all those people we'd be letting down. Look, we're taking all the right equipment, wet weather gear, good boots. You really can't ask for more. Anyway, we've committed ourselves to this thing, so we've got to go through with it. Look, if things start looking really bad, we can always put the walk off for a while and set off a bit later. Okay, but we were warned about this, you remember? Northwest Spain can be pretty icy at this time of year. Of course, but that's all part of it, isn't it? And if we don't do it, we'll never live it down. I'm sure we'll make it. I mean, our names will be dirt if we don't. That's a good point. And I guess they'd pay up anyway even if we didn't make it, wouldn't they? Hopefully. And anyway, a little hardship never did anyone any harm.\nExtract three.\nSo, you managed to get off the beaten tourist track during your trip, too, Kate. That's right, and like you, to places which are really for the more intrepid traveler. Right. It's a good idea for people going there on their own to do a bit of advanced planning, but not too much, because I think if you leave yourself open to whatever comes up, it can be very rewarding. Of course, you'll form all sorts of opinions about what you see more or less on the spur of the moment, but that doesn't matter, because if you're open-minded about things, you'll soon discover you are mistaken about a lot of them. And you have to take the rough with the smooth. You can't expect it to be all plain sailing when you're traveling to oasis and places like that. I agree. And I really appreciated sharing buses and ferries with all sorts of interesting people. You know, I learned a lot about the country just from chatting to them. It could all have been quite dull otherwise, you know, waiting for transport in villages and so on. At times, I felt I wanted the journey to go on forever. It wasn't all delightful, but there was something unexpected round every corner. That's right.\n\nNow, listen again.\nSo, you managed to get off the beaten tourist track during your trip, too, Kate. That's right, and like you, to places which are really for the more intrepid traveler. Right. It's a good idea for people going there on their own to do a bit of advanced planning, but not too much, because I think if you leave yourself open to whatever comes up, it can be very rewarding. Of course, you'll form all sorts of opinions about what you see more or less on the spur of the moment, but that doesn't matter, because if you're open-minded about things, you'll soon discover you are mistaken about a lot of them. And you have to take the rough with the smooth. You can't expect it to be all plain sailing when you're traveling to oasis and places like that. I agree. And I really appreciated sharing buses and ferries with all sorts of interesting people. You know, I learned a lot about the country just from chatting to them. It could all have been quite dull otherwise, you know, waiting for transport in villages and so on. At times, I felt I wanted the journey to go on forever. It wasn't all delightful, but there was something unexpected round every corner. That's right.\nNarrator: This is the end of part five.\nNarrator: Part six.\nNarrator: You will hear a part of a lecture.\nNarrator: For each question, fill in the missing information in the numbered space.\nNarrator: Write no more than one word for each answer.\nNarrator: You have 30 seconds before you listen to the recording.\nSpeaker 1: Now, we are ready to start.",
+    "instruction": "You will hear three extracts. Choose the correct answer (A, B or C) for each question (24-29). There are TWO questions for each extract.",
+    "questionRange": "24-29",
+    "answerHighlights": {
+     "24": [
+      1
+     ],
+     "25": [
+      1
+     ],
+     "26": [
+      6
+     ],
+     "27": [
+      6
+     ],
+     "28": [
+      11
+     ],
+     "29": [
+      11
+     ]
+    }
+   },
+   {
+    "type": "sentence-completion",
+    "title": "Part 6",
+    "answers": {
+     "30": [
+      "finance",
+      "Finance",
+      "FINANCE"
+     ],
+     "31": [
+      "competing",
+      "Competing",
+      "COMPETING"
+     ],
+     "32": [
+      "link",
+      "Link",
+      "LINK"
+     ],
+     "33": [
+      "habitats",
+      "Habitats",
+      "HABITATS",
+      "habitat",
+      "Habitat"
+     ],
+     "34": [
+      "reservoirs",
+      "Reservoirs",
+      "RESERVOIRS"
+     ],
+     "35": [
+      "licenses",
+      "Licenses",
+      "LICENSES",
+      "licences",
+      "Licences"
+     ]
+    },
+    "audioFile": "https://audio.mock-stream.com/test23/Part%206%20(2).m4a",
+    "questions": [
+     {
+      "id": 30,
+      "hint": "no public ____"
+     },
+     {
+      "id": 31,
+      "hint": "were ____ with each other"
+     },
+     {
+      "id": 32,
+      "hint": "a continuous ____"
+     },
+     {
+      "id": 33,
+      "hint": "natural ____"
+     },
+     {
+      "id": 34,
+      "hint": "canals and ____"
+     },
+     {
+      "id": 35,
+      "hint": "buy rod ____"
+     }
+    ],
+    "partNumber": 6,
+    "transcript": "You will hear a representative from British Waterways called John Samson, talking about a canal network in England.\nFor questions 7 to 14, complete the sentences.\nThe extensive network which makes up the Grand Union Canal is without doubt a truly extraordinary piece of engineering.\nBegun in the late 18th century, the majority of the canal system was built without the benefits of modern technology or public finance.\nIt is a truly grand canal.\nBut why is it known as the Grand Union Canal?\nFrom 1790 to 1929, a large number of competing independently owned canals were constructed.\nTheir waterways not uniform in size and often unable to carry the larger vessels from other sections.\nThrough a series of takeovers, the various companies eventually amalgamated and created a union of canals which could form a continuous link between Birmingham, London, and other important industrial areas.\nAlong every stretch of canal, you will find this heritage retained.\nTraditionally painted narrow boats are still guided by original mile posts.\nWhile working examples of mills, pump houses, ancient locks and keeper's cottages are a common sight on any journey.\nThe Grand Union Canal boasts an extraordinary variety of wildlife, from feeding herons and hunting owls to rare water voles.\nNatural habitats are numerous as a result of cleaner waters and the declining industrial traffic.\nThe hedgerows and canal banks have proved an ideal location for a number of diverse species to thrive in this tranquil and often unique environment.\nA car free and care free way to appreciate the beauty of the canal, and at your own pace, is by walking.\nWhether you are looking for organized or independent towpath walks, we can help you with your planning.\nEach waterway office can supply information on circular walks, waterside pubs, plus suggested routes and specific points of interest.\nThere are many stations within easy reach of the Grand Union Canal.\nWhy not try a one-way walk, returning to your starting point by train?\nWe are keen to encourage both experienced and inexperienced anglers onto the well-stocked canal network and reservoirs.\nWe lease certain sections to established clubs who welcome non-members for a small daily fee.\nBefore you fish, check with your local British Waterways office for information on access and availability.\nRod licenses are obligatory and can be obtained from your local post office.\nLast but not least, the tow paths are wonderful for cycling.\nFree of traffic, free of fumes and free of hills.\nMiles of accessible tow paths through some of England's finest countryside.\nWe can all share the delights of the canal system, so please be considerate to other users.\nSurfaces vary from stony pathways to smooth asphalt, but that's all part of the enjoyment.\nListen again.\nThe extensive network which makes up the Grand Union Canal is without doubt a truly extraordinary piece of engineering.\nBegun in the late 18th century, the majority of the canal system was built without the benefits of modern technology or public finance.\nIt is a truly grand canal.\nBut why is it known as the Grand Union Canal?\nFrom 1790 to 1929, a large number of competing independently owned canals were constructed.\nTheir waterways not uniform in size and often unable to carry the larger vessels from other sections.\nThrough a series of takeovers, the various companies eventually amalgamated and created a union of canals which could form a continuous link between Birmingham, London, and other important industrial areas.\nAlong every stretch of canal, you will find this heritage retained.\nTraditionally painted narrow boats are still guided by original mile posts.\nWhile working examples of mills, pump houses, ancient locks and keeper's cottages are a common sight on any journey.\nThe Grand Union Canal boasts an extraordinary variety of wildlife, from feeding herons and hunting owls to rare water voles.\nNatural habitats are numerous as a result of cleaner waters and the declining industrial traffic.\nThe hedgerows and canal banks have proved an ideal location for a number of diverse species to thrive in this tranquil and often unique environment.\nA car free and care free way to appreciate the beauty of the canal, and at your own pace, is by walking.\nWhether you are looking for organized or independent towpath walks, we can help you with your planning.\nEach waterway office can supply information on circular walks, waterside pubs, plus suggested routes and specific points of interest.\nThere are many stations within easy reach of the Grand Union Canal.\nWhy not try a one-way walk, returning to your starting point by train?\nWe are keen to encourage both experienced and inexperienced anglers onto the well-stocked canal network and reservoirs.\nWe lease certain sections to established clubs who welcome non-members for a small daily fee.\nBefore you fish, check with your local British Waterways office for information on access and availability.\nRod licenses are obligatory and can be obtained from your local post office.\nLast but not least, the tow paths are wonderful for cycling.\nFree of traffic, free of fumes and free of hills.\nMiles of accessible tow paths through some of England's finest countryside.\nWe can all share the delights of the canal system, so please be considerate to other users.\nSurfaces vary from stony pathways to smooth asphalt, but that's all part of the enjoyment.",
+    "instruction": "You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. Write ONE WORD and / or A NUMBER for each answer.",
+    "passageTitle": "The Grand Union Canal",
+    "questionRange": "30-35",
+    "passageContent": "The canals were built despite the fact that there was no public <span class=\"gap-input\" data-gap=\"30\">_____(30)_____</span> and very little technology.<br><br>From 1790 to 1929, there were many canals that were <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span> with each other but which were not uniform in size.<br><br>The new union of canals provided a continuous <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span> between major industrial cities.<br><br>There are plenty of natural <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span> for a variety of wildlife on and around the canals.<br><br>Walkers can go to the nearest waterway office to get information on circular walks so they can start and end at the same place.<br><br>Anglers can fish in the canals and <span class=\"gap-input\" data-gap=\"34\">_____(34)_____</span>.<br><br>If you want to go fishing, you must buy rod <span class=\"gap-input\" data-gap=\"35\">_____(35)_____</span>.",
+    "answerHighlights": {
+     "30": [
+      3
+     ],
+     "31": [
+      6
+     ],
+     "32": [
+      8
+     ],
+     "33": [
+      13
+     ],
+     "34": [
+      20
+     ],
+     "35": [
+      23
+     ]
+    }
+   }
+  ],
+  "examDate": "2026-04-11",
+  "testInfo": {
+   "id": "cefr-listening-23",
+   "level": "B1-C1",
+   "title": "CEFR Listening Mock Test 23",
+   "totalTime": 40,
+   "totalQuestions": 35
+  }
+ },
+ "created_at": "2026-05-15T15:19:20.303737+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

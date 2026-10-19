@@ -1,0 +1,755 @@
+{
+ "id": 465,
+ "mock_type": "cefr-listening",
+ "mock_number": 25,
+ "title": "CEFR Listening Mock Test 25",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "mcq-reply",
+    "title": "Part 1",
+    "answers": {
+     "1": "C",
+     "2": "A",
+     "3": "B",
+     "4": "A",
+     "5": "A",
+     "6": "A",
+     "7": "B",
+     "8": "B"
+    },
+    "audioFile": "https://audio.mock-stream.com/test25/Part%201.m4a",
+    "questions": [
+     {
+      "id": 1,
+      "options": [
+       {
+        "text": "Yes, it will",
+        "letter": "A"
+       },
+       {
+        "text": "We mustn’t have",
+        "letter": "B"
+       },
+       {
+        "text": "Oh, that’s good.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "options": [
+       {
+        "text": "Yes, please",
+        "letter": "A"
+       },
+       {
+        "text": "Nope, I can’t",
+        "letter": "B"
+       },
+       {
+        "text": "Yes, it does",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 3,
+      "options": [
+       {
+        "text": "Where is she?",
+        "letter": "A"
+       },
+       {
+        "text": "No, I don’t",
+        "letter": "B"
+       },
+       {
+        "text": "What’s going on?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 4,
+      "options": [
+       {
+        "text": "Oh, It really does",
+        "letter": "A"
+       },
+       {
+        "text": "Yes, it did",
+        "letter": "B"
+       },
+       {
+        "text": "No, it wouldn’t",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 5,
+      "options": [
+       {
+        "text": "But, I’m so tired",
+        "letter": "A"
+       },
+       {
+        "text": "So am I",
+        "letter": "B"
+       },
+       {
+        "text": "You too!",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 6,
+      "options": [
+       {
+        "text": "Cheer up!",
+        "letter": "A"
+       },
+       {
+        "text": "Hurry up!",
+        "letter": "B"
+       },
+       {
+        "text": "Well done!",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 7,
+      "options": [
+       {
+        "text": "Maybe, I am not sure",
+        "letter": "A"
+       },
+       {
+        "text": "You tell me!",
+        "letter": "B"
+       },
+       {
+        "text": "Oh, don’t be shy!",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 8,
+      "options": [
+       {
+        "text": "Well, you didn’t",
+        "letter": "A"
+       },
+       {
+        "text": "Sure, you can",
+        "letter": "B"
+       },
+       {
+        "text": "Um, No it can’t",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "partNumber": 1,
+    "transcript": "Part one. You will hear some sentences.\nYou will hear each sentence twice.\nChoose the correct reply to each sentence, A, B, or C.\nMark your answers on the answer sheet.\n\nSpeaker one. I heard it may rain tomorrow.\n\nI heard it may rain tomorrow.\n\nSpeaker two. Do you want any more soup?\n\nDo you want any more soup?\n\nSpeaker three. Judy, do you know that woman over there?\n\nJudy, do you know that woman over there?\n\nSpeaker four. Wow, this meal smells fantastic.\n\nWow, this meal smells fantastic.\n\nSpeaker five. Wake up, it's time for school.\n\nWake up, it's time for school.\n\nSpeaker six. I'm too tired to do anything right now.\n\nI'm too tired to do anything right now.\n\nSpeaker seven. So what are we going to do in the evening?\n\nSo what are we going to do in the evening?\n\nSpeaker eight. Can I come to your house next month?\n\nCan I come to your house next month?\n\nNow, listen again.\nThat is the end of part one.",
+    "instruction": "You will hear some sentences. You will hear each sentence twice. Choose the correct reply to each sentence (A, B, or C).",
+    "questionRange": "1-8",
+    "answerHighlights": {
+     "1": [
+      5
+     ],
+     "2": [
+      9
+     ],
+     "3": [
+      13
+     ],
+     "4": [
+      17
+     ],
+     "5": [
+      21
+     ],
+     "6": [
+      25
+     ],
+     "7": [
+      29
+     ],
+     "8": [
+      33
+     ]
+    }
+   },
+   {
+    "type": "gap-fill-form",
+    "title": "Part 2",
+    "answers": {
+     "9": [
+      "16th",
+      "sixteenth"
+     ],
+     "10": [
+      "family",
+      "Family",
+      "FAMILY"
+     ],
+     "11": [
+      "hiding",
+      "Hiding",
+      "HIDING"
+     ],
+     "12": [
+      "lunch",
+      "Lunch",
+      "LUNCH"
+     ],
+     "13": [
+      "5 bridges",
+      "five bridges",
+      "5",
+      "five"
+     ],
+     "14": [
+      "13.50"
+     ]
+    },
+    "audioFile": "https://audio.mock-stream.com/test25/Part%202.m4a",
+    "formTitle": "Historic Tours",
+    "questions": [
+     {
+      "id": 9,
+      "hint": "the ____ century"
+     },
+     {
+      "id": 10,
+      "hint": "a rich ____"
+     },
+     {
+      "id": 11,
+      "hint": "secret ____ places"
+     },
+     {
+      "id": 12,
+      "hint": "with a ____"
+     },
+     {
+      "id": 13,
+      "hint": "joined by ____"
+     },
+     {
+      "id": 14,
+      "hint": "£____"
+     }
+    ],
+    "partNumber": 2,
+    "transcript": "Part two.\nYou will hear someone giving a talk.\nFor each question, fill in the missing information in the numbered space.\nWrite one word or a number for each answer.\nYou now have some time to look at questions.\nYou will hear a woman talking about tours of historic houses in the South of England.\nGood afternoon.\nI'm going to tell you about the three tours we are currently organizing to historic houses in Southern England.\nMystery surrounds the exact origins of South Elmham House, although it is known to date back to the 13th century, when it was built by the Bishops of Norwich, but was remodeled by several rich lords in the 16th century.\nIt also contains some of the oldest wall paintings in the country, which suggests a very wealthy family once lived here.\nOn the grounds, there is also the ruins of a small Norman church.\nTours include walking through the deer park to the church and start at 2:00 p.m.\nIt costs £12, including tea, coffee, and cakes.\nA midday meal can also be booked.\nHorley Hall was built in the late 14th century just outside a ruined Norman castle.\nIt was updated and added to in the 18th century.\nKing Henry II once owned the house, and its current owner is a Lord.\nIt includes secret hiding places in the walls, and two tunnels, which are now bricked up and a 3 acre garden.\nTours start at both 11:30 and 2:00 p.m. and cost either £15 with a traditional lunch or £12 with tea.\nGroups are also welcome.\n12th century Bedfield House is deep in the countryside and used to belong to the church until the mid 15th century, when the modern house was built.\nIt was surrounded by a river, or moat, and inside the building, the painted surfaces and plastered ceilings have anti witchcraft symbols.\nFive bridges connect the beautiful 5 acre gardens.\nTours take place at 10:30 and 2:30 and cost £13.50, which includes tea, coffee and cakes.\nGroups are welcome.\nNow listen again.\nGood afternoon.\nI'm going to tell you about the three tours we are currently organizing to historic houses in Southern England.\nMystery surrounds the exact origins of South Elmham House, although it is known to date back to the 13th century, when it was built by the Bishops of Norwich, but was remodeled by several rich lords in the 16th century.\nIt also contains some of the oldest wall paintings in the country, which suggests a very wealthy family once lived here.\nOn the grounds, there is also the ruins of a small Norman church.\nTours include walking through the deer park to the church and start at 2:00 p.m.\nIt costs £12, including tea, coffee, and cakes.\nA midday meal can also be booked.\nHorley Hall was built in the late 14th century just outside a ruined Norman castle.\nIt was updated and added to in the 18th century.\nKing Henry II once owned the house, and its current owner is a Lord.\nIt includes secret hiding places in the walls, and two tunnels, which are now bricked up and a 3 acre garden.\nTours start at both 11:30 and 2:00 p.m. and cost either £15 with a traditional lunch or £12 with tea.\nGroups are also welcome.\n12th century Bedfield House is deep in the countryside and used to belong to the church until the mid 15th century, when the modern house was built.\nIt was surrounded by a river, or moat, and inside the building, the painted surfaces and plastered ceilings have anti witchcraft symbols.\nFive bridges connect the beautiful 5 acre gardens.\nTours take place at 10:30 and 2:30 and cost £13.50, which includes tea, coffee and cakes.\nGroups are welcome.\nThat is the end of part two.",
+    "formContent": [
+     {
+      "text": "South Elmham House",
+      "type": "heading"
+     },
+     {
+      "text": "It was built around the 1300s, but it was greatly improved in the",
+      "type": "item-gap",
+      "gapId": 9,
+      "gapSuffix": "century"
+     },
+     {
+      "text": "It must have been the home of a rich",
+      "type": "item-gap",
+      "gapId": 10,
+      "gapSuffix": ", as its wall paintings suggest"
+     },
+     {
+      "text": "Haughley Hall",
+      "type": "heading"
+     },
+     {
+      "text": "One of its best features is the secret",
+      "type": "item-gap",
+      "gapId": 11,
+      "gapSuffix": "places in the walls"
+     },
+     {
+      "text": "Tours take place at 11.30 and 2 pm and are £15 with a",
+      "type": "item-gap",
+      "gapId": 12,
+      "gapSuffix": ", or £12 with tea"
+     },
+     {
+      "text": "Bedfield House",
+      "type": "heading"
+     },
+     {
+      "text": "Gardens are joined by",
+      "type": "item-gap",
+      "gapId": 13
+     },
+     {
+      "text": "Tours start at 10.30 and 2.30 and one has to pay £",
+      "type": "item-gap",
+      "gapId": 14
+     }
+    ],
+    "instruction": "You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. Write ONE WORD and / or A NUMBER for each answer.",
+    "questionRange": "9-14",
+    "answerHighlights": {
+     "9": [
+      8
+     ],
+     "10": [
+      9
+     ],
+     "11": [
+      17
+     ],
+     "12": [
+      18
+     ],
+     "13": [
+      22
+     ],
+     "14": [
+      23
+     ]
+    }
+   },
+   {
+    "type": "matching-speakers",
+    "title": "Part 3",
+    "answers": {
+     "15": "F",
+     "16": "C",
+     "17": "E",
+     "18": "A"
+    },
+    "options": [
+     {
+      "text": "critical",
+      "letter": "A"
+     },
+     {
+      "text": "easily influenced",
+      "letter": "B"
+     },
+     {
+      "text": "tough",
+      "letter": "C"
+     },
+     {
+      "text": "careless",
+      "letter": "D"
+     },
+     {
+      "text": "moody",
+      "letter": "E"
+     },
+     {
+      "text": "arrogant",
+      "letter": "F"
+     }
+    ],
+    "speakers": [
+     {
+      "id": 15,
+      "label": "Speaker 1"
+     },
+     {
+      "id": 16,
+      "label": "Speaker 2"
+     },
+     {
+      "id": 17,
+      "label": "Speaker 3"
+     },
+     {
+      "id": 18,
+      "label": "Speaker 4"
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test25/Part%203.m4a",
+    "partNumber": 3,
+    "transcript": "Part three. You will hear people speaking in different situations.\nMatch each speaker, 15 to 18, to the options, A-F.\nThere are two extra options which you do not need to use.\nMark your answers on the answer sheet.\nYou now have some time to look at questions.\n\nSpeaker one.\nI know people say he thinks a lot of himself, and well, they've got a point.\nHe certainly isn't what you'd call modest.\nHe'll be the first one to tell you how brilliant he is and how hard he's worked, and you certainly couldn't accuse him of lacking confidence.\nQuite frankly, a lot of people think he's an absolute pain and steer clear of him because he's always going on about himself.\nAnything you've done, he can top it.\nBut the fact is, I know another side of him, the kind side that means he'll do anything for a friend.\nAnd he's done me a lot of big favors, so I stand by him.\nWhen other people have a go at him, I always defend him.\n\nSpeaker two.\nShe's certainly had a lot of knocks in her life, but she keeps bouncing back.\nShe's definitely what you'd call resilient, and all these terrible things that have happened, she just seems to take them in her stride and hardly talks about them.\nI wish I could be like that.\nI always seem to cave in at the slightest hint of trouble.\nI don't seem to be able to just get on with life when something goes wrong.\nBut she's got this incredible strength that keeps her going.\nIt must be great to be like that.\nShe doesn't want anyone feeling pity for her.\nShe hates that and she doesn't need it.\n\nSpeaker three.\nYou never know what's going to happen with him because he's never the same.\nOne time you're with him, he's cheerful and sociable, the next time he sits quietly in the corner and doesn't want to speak to anyone.\nSome people find that very hard to handle, and he often loses friends because of it.\nI think that might well happen with me, because to be honest, it gets on my nerves.\nYou want your friends to be basically the same most of the time, not always up and down like he is.\nI know it's not the nicest thing to say, but sometimes, I just want to yell at him.\n\nSpeaker four.\nHe's one of those people who's always finding fault with things.\nNothing's ever good enough for him.\nThere's always something wrong.\nHe likes nothing better than to moan, and my goodness, can he moan.\nYou've never heard anything like him when he gets going.\nPeople wonder why I spend so much time with him considering that he's always like that, but the fact is, I find it hilarious.\nOnce he gets going, it's as much as I can do to keep a straight face.\nAnd believe it or not, he sees the funny side sometimes.\nHe's not as serious about everything as most people think he is.\n\nNow, listen again.\nSpeaker one.\nI know people say he thinks a lot of himself, and well, they've got a point.\nHe certainly isn't what you'd call modest.\nHe'll be the first one to tell you how brilliant he is and how hard he's worked, and you certainly couldn't accuse him of lacking confidence.\nQuite frankly, a lot of people think he's an absolute pain and steer clear of him because he's always going on about himself.\nAnything you've done, he can top it.\nBut the fact is, I know another side of him, the kind side that means he'll do anything for a friend.\nAnd he's done me a lot of big favors, so I stand by him.\nWhen other people have a go at him, I always defend him.\n\nSpeaker two.\nShe's certainly had a lot of knocks in her life, but she keeps bouncing back.\nShe's definitely what you'd call resilient, and all these terrible things that have happened, she just seems to take them in her stride and hardly talks about them.\nI wish I could be like that.\nI always seem to cave in at the slightest hint of trouble.\nI don't seem to be able to just get on with life when something goes wrong.\nBut she's got this incredible strength that keeps her going.\nIt must be great to be like that.\nShe doesn't want anyone feeling pity for her.\nShe hates that and she doesn't need it.\n\nSpeaker three.\nYou never know what's going to happen with him because he's never the same.\nOne time you're with him, he's cheerful and sociable, the next time he sits quietly in the corner and doesn't want to speak to anyone.\nSome people find that very hard to handle, and he often loses friends because of it.\nI think that might well happen with me, because to be honest, it gets on my nerves.\nYou want your friends to be basically the same most of the time, not always up and down like he is.\nI know it's not the nicest thing to say, but sometimes, I just want to yell at him.\n\nSpeaker four.\nHe's one of those people who's always finding fault with things.\nNothing's ever good enough for him.\nThere's always something wrong.\nHe likes nothing better than to moan, and my goodness, can he moan.\nYou've never heard anything like him when he gets going.\nPeople wonder why I spend so much time with him considering that he's always like that, but the fact is, I find it hilarious.\nOnce he gets going, it's as much as I can do to keep a straight face.\nAnd believe it or not, he sees the funny side sometimes.\nHe's not as serious about everything as most people think he is.\n\nThat is the end of part three.",
+    "instruction": "You will hear people speaking in different situations. Match each speaker (15-18) to the description they give (A-F). There are TWO EXTRA options which you do not need to use.",
+    "questionRange": "15-18",
+    "answerHighlights": {
+     "15": [
+      7,
+      8,
+      9
+     ],
+     "16": [
+      17,
+      18,
+      22
+     ],
+     "17": [
+      28,
+      29,
+      32
+     ],
+     "18": [
+      36,
+      37,
+      39
+     ]
+    }
+   },
+   {
+    "type": "map-labeling",
+    "title": "Part 4",
+    "answers": {
+     "19": "F",
+     "20": "C",
+     "21": "H",
+     "22": "B",
+     "23": "D"
+    },
+    "mapImage": "https://audio.mock-stream.com/test25/Gemini_Generated_Image_kx2gg4kx2gg4kx2g.png",
+    "mapTitle": "Japanese Garden",
+    "audioFile": "https://audio.mock-stream.com/test25/Part%204.m4a",
+    "mapLabels": [
+     "A",
+     "B",
+     "C",
+     "D",
+     "E",
+     "F",
+     "G",
+     "H"
+    ],
+    "questions": [
+     {
+      "id": 19,
+      "place": "A drain"
+     },
+     {
+      "id": 20,
+      "place": "Sand"
+     },
+     {
+      "id": 21,
+      "place": "A maple tree"
+     },
+     {
+      "id": 22,
+      "place": "Irregular stones"
+     },
+     {
+      "id": 23,
+      "place": "Bamboo screens"
+     }
+    ],
+    "partNumber": 4,
+    "transcript": "part four. You will hear someone giving a talk. Label the places 19 to 23 on the map. AH. There are three extra options which you do not need to use. Mark your answers on the answer sheet. You now have some time to look at questions. So, let's get started. Your veranda probably has a concrete floor and a low brick or concrete wall around it. It's more than likely, you've got a drain in the top right corner. The floor of the veranda garden is the first priority. In my design, I've chosen four different surfaces to create a sense of space, and because they react in different ways to light and rain, in a small area, you want to maximize texture. I've chosen practical square concrete pavers for the area under the table and chairs, and elsewhere large irregular stones, sourced from a river, and small round stones, not much bigger than pebbles. There's also an area of sand, which is marked with the letter H in your diagram. You'll find this might be popular with your pet if you have one. After laying the floor, most people construct a wooden or aluminium frame over the concrete wall. Onto this, bamboo is attached for plants to climb up. In front of the bamboo, wooden planters or boxes may be positioned. The choice of plants in these is up to you, but again, think about height, shape, loss of leaves, fruit, scent, and cost. Although maples are expensive, they're beautiful, and I've put one in the center. After you've planted, you'll probably want to buy a really nice set of outdoor furniture. Stackable plastic chairs are a no-no, as in my view, they're part of the ugly mass-produced culture we're trying to escape. I also discourage people from putting a barbecue on their veranda, because they're so seldom used, and they take up such a lot of space. Some people do add features like a small pond or bird bath or a Now, listen again. So, let's get started. Your veranda probably has a concrete floor and a low brick or concrete wall around it. It's more than likely, you've got a drain in the top right corner. The floor of the veranda garden is the first priority. In my design, I've chosen four different surfaces to create a sense of space, and because they react in different ways to light and rain, in a small area, you want to maximize texture. I've chosen practical square concrete pavers for the area under the table and chairs, and elsewhere large irregular stones, sourced from a river, and small round stones, not much bigger than pebbles. There's also an area of sand, which is marked with the letter H in your diagram. You'll find this might be popular with your pet if you have one. After laying the floor, most people construct a wooden or aluminium frame over the concrete wall. Onto this, bamboo is attached for plants to climb up. In front of the bamboo, wooden planters or boxes may be positioned. The choice of plants in these is up to you, but again, think about height, shape, loss of leaves, fruit, scent, and cost. Although maples are expensive, they're beautiful, and I've put one in the center. After you've planted, you'll probably want to buy a really nice set of outdoor furniture. Stackable plastic chairs are a no-no, as in my view, they're part of the ugly mass-produced culture we're trying to escape. I also discourage people from putting a barbecue on their veranda, because they're so seldom used, and they take up such a lot of space. Some people do add features like a small pond or bird bath or a That is the end of part four.",
+    "instruction": "You will hear someone giving a talk. Label the places (19-23) on the map (A-H). There are THREE extra options which you do not need to use.",
+    "questionRange": "19-23",
+    "answerHighlights": {
+     "19": [
+      0
+     ],
+     "20": [
+      0
+     ],
+     "21": [
+      0
+     ],
+     "22": [
+      0
+     ],
+     "23": [
+      0
+     ]
+    }
+   },
+   {
+    "type": "mcq-extracts",
+    "title": "Part 5",
+    "answers": {
+     "24": "B",
+     "25": "C",
+     "26": "A",
+     "27": "B",
+     "28": "A",
+     "29": "A"
+    },
+    "extracts": [
+     {
+      "title": "Extract One",
+      "context": "You hear two people talking about public speaking.",
+      "questions": [
+       {
+        "id": 24,
+        "text": "Both speakers refer to a feeling of",
+        "options": [
+         {
+          "text": "over-confidence.",
+          "letter": "A"
+         },
+         {
+          "text": "embarrassment.",
+          "letter": "B"
+         },
+         {
+          "text": "achievement.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 25,
+        "text": "The two speakers agree that a big problem with speaking in public is",
+        "options": [
+         {
+          "text": "losing the audience’s attention during a speech.",
+          "letter": "A"
+         },
+         {
+          "text": "choosing the wrong content for a speech.",
+          "letter": "B"
+         },
+         {
+          "text": "feeling nervous at the thought of giving a speech.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Extract Two",
+      "context": "You hear part of a radio programme about the London Underground.",
+      "questions": [
+       {
+        "id": 26,
+        "text": "The poster campaign came at a time when",
+        "options": [
+         {
+          "text": "various aspects of life in London were changing.",
+          "letter": "A"
+         },
+         {
+          "text": "many people were reluctant to travel on the Underground.",
+          "letter": "B"
+         },
+         {
+          "text": "the use of posters for advertising was increasing.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 27,
+        "text": "What does Zoe say about the content of the posters?",
+        "options": [
+         {
+          "text": "It only appealed to a certain type of person.",
+          "letter": "A"
+         },
+         {
+          "text": "It contrasted with real life for many people.",
+          "letter": "B"
+         },
+         {
+          "text": "It influenced the lifestyles of some people.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Extract Three",
+      "context": "You hear two people discussing the news media.",
+      "questions": [
+       {
+        "id": 28,
+        "text": "What opinion does the man express about the news media?",
+        "options": [
+         {
+          "text": "It doesn’t deserve its reputation.",
+          "letter": "A"
+         },
+         {
+          "text": "It has become more influential.",
+          "letter": "B"
+         },
+         {
+          "text": "Its standards have risen.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 29,
+        "text": "The woman mentions medical stories",
+        "options": [
+         {
+          "text": "to explain her attitude to the news media.",
+          "letter": "A"
+         },
+         {
+          "text": "to illustrate the importance of the news media.",
+          "letter": "B"
+         },
+         {
+          "text": "to describe why people dislike the news media.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test25/Part%205.m4a",
+    "partNumber": 5,
+    "transcript": "Narrator: Part five. You will hear three extracts.\nChoose the correct answer, A, B or C for each question, 24 to 29.\nThere are two questions for each extract.\nMark your answers on the answer sheet.\nYou now have some time to look at questions.\n\nI dread the experience.\nIt's the anticipation that gets me.\nOnce I start, I'm usually okay, but beforehand I panic.\nI think that my mind will go blank and everyone will stare at me.\nThis happened once.\nI was trying to speak and listen to my own voice at the same time, but all I could hear was silence.\nI seemed to have forgotten how to speak and I felt my face go red.\nI fumbled for my notes and simply read out the rest of the speech.\nWell, fear of public speaking, or what is called pre-presentational anxiety, is normal.\nIf you think about it, public speaking is not a natural thing to do.\nYou don't want to humiliate yourself in front of people.\nBut with preparation and practice, even the most stressed public speakers can conquer their fears.\nThere are very few people who are quick, intelligent and extrovert enough to just get up and deliver something spontaneously.\nIf you're giving a speech, you must carefully plan what you're going to say.\nI find it also helps not to think of yourself the whole time.\nOnce you shift the focus onto the people you are speaking to, you feel the pressure lift.\n\nNarrator: Now you will hear the recording again.\nI dread the experience.\nIt's the anticipation that gets me.\nOnce I start, I'm usually okay, but beforehand I panic.\nI think that my mind will go blank and everyone will stare at me.\nThis happened once.\nI was trying to speak and listen to my own voice at the same time, but all I could hear was silence.\nI seemed to have forgotten how to speak and I felt my face go red.\nI fumbled for my notes and simply read out the rest of the speech.\nWell, fear of public speaking, or what is called pre-presentational \nanxiety, is normal.\nIf you think about it, public speaking is not a natural thing to do.\nYou don't want to humiliate yourself in front of people.\nBut with preparation and practice, even the most stressed public speakers can conquer their fears.\nThere are very few people who are quick, intelligent and extrovert enough to just get up and deliver something spontaneously.\nIf you're giving a speech, you must carefully plan what you're going to say.\nI find it also helps not to think of yourself the whole time.\nOnce you shift the focus onto the people you are speaking to, you feel the pressure lift.\n\nNarrator: Extract two.\nYou hear part of a radio program about the London Underground.\nNow look at questions three and four.\n\nAs part of a huge publicity drive in the 1920s and 1930s, London Transport launched a poster campaign to persuade people to move into the suburbs and make use of the rapidly expanding underground network.\nTell us about that, Zoe.\nWell, the posters were used to encourage people to live in and enjoy the quiet and domestic life of the suburbs and travel into London for work and pleasure.\nThey helped to shape people's perceptions and expectations of London, and what it meant to live there in a period of great change.\nAs well as persuading people to move out to the suburbs, there was a drive for people to make use of the city at a time when the leisure industry was expanding.\nWhat kind of things did these posters show?\nWell, despite the fact that many women worked in the 1920s and 1930s, the posters depicted a domestic ideal, with pictures of women playing with their children in the park and preparing meals for their husband's return.\nMore and more people were becoming middle class, and part of this ideal was that the husband would go to work and the wife would stay at home, even though this was not the case for many families.\n\nNarrator: Now you will hear the recording again.\nAs part of a huge publicity drive in the 1920s and 1930s, London Transport launched a poster campaign to persuade people to move into the suburbs and make use of the rapidly expanding underground network.\nTell us about that, Zoe.\nWell, the posters were used to encourage people to live in and enjoy the quiet and domestic life of the suburbs and travel into London for work and pleasure.\nThey helped to shape people's perceptions and expectations of London, and what it meant to live there in a period of great change.\nAs well as persuading people to move out to the suburbs, there was a drive for people to make use of the city at a time when the leisure industry was expanding.\nWhat kind of things did these posters show?\nWell, despite the fact that many women worked in the 1920s and 1930s, the posters depicted a domestic ideal, with pictures of women playing with their children in the park and preparing meals for their husband's return.\nMore and more people were becoming middle class, and part of this ideal was that the husband would go to work and the wife would stay at home, even though this was not the case for many families.\n\nNarrator: Extract three.\nYou hear two people discussing the news media.\nNow look at questions five and six.\n\nMan: Of course, the cliche is don't believe everything you read in the papers.\nAnd I guess there's some truth in that.\nBut in many ways, that's not backed up by the evidence.\nLook at all the times when stories would never have come out if it hadn't been for the much maligned news media.\nWoman: I don't know about that.\nPersonally, I'm always pretty skeptical when it comes to all these revelations.\nI mean, look at medical stories.\nIt sometimes seems as if every day brings some new health scare.\nYou mustn't eat that, you should drink that.\nAnd most of these things you never hear about again.\nI think it'd be really interesting to find out how many of these stories actually turn out to be true.\nI reckon they just write these things to create a stir.\nI mean, lots of them are in the entertainment industry really, aren't they?\nDon't let the facts get in the way of a good story is the joke in the trade, isn't it?\nI think lots of them live by that.\nMan: I don't think that's really fair.\nThere are lots of investigative journalists who've done the public a great service by exposing things they otherwise would never have known about.\n\nNarrator: Now you will hear the recording again.\nMan: Of course, the cliche is don't believe everything you read in the papers.\nAnd I guess there's some truth in that.\nBut in many ways, that's not backed up by the evidence.\nLook at all the times when stories would never have come out if it hadn't been for the much maligned news media.\nWoman: I don't know about that.\nPersonally, I'm always pretty skeptical when it comes to all these revelations.\nI mean, look at medical stories.\nIt sometimes seems as if every day brings some new health scare.\nYou mustn't eat that, you should drink that.\nAnd most of these things you never hear about again.\nI think it'd be really interesting to find out how many of these stories actually turn out to be true.\nI reckon they just write these things to create a stir.\nI mean, lots of them are in the entertainment industry really, aren't they?\nDon't let the facts get in the way of a good story is the joke in the trade, isn't it?\nI think lots of them live by that.\nMan: I don't think that's really fair.\nThere are lots of investigative journalists who've done the public a great service by exposing things they otherwise would never have known about.\n\nNarrator: That is the end of part five.",
+    "instruction": "You will hear three extracts. Choose the correct answer (A, B or C) for each question (24-29). There are TWO questions for each extract.",
+    "questionRange": "24-29",
+    "answerHighlights": {
+     "24": [
+      10,
+      11,
+      12
+     ],
+     "25": [
+      8,
+      14,
+      16
+     ],
+     "26": [
+      49
+     ],
+     "27": [
+      52,
+      53
+     ],
+     "28": [
+      69,
+      70,
+      71,
+      72
+     ],
+     "29": [
+      74,
+      75,
+      76,
+      79,
+      80
+     ]
+    }
+   },
+   {
+    "type": "sentence-completion",
+    "title": "Part 6",
+    "answers": {
+     "30": [
+      "melted",
+      "Melted",
+      "MELTED"
+     ],
+     "31": [
+      "popcorn",
+      "Popcorn",
+      "POPCORN"
+     ],
+     "32": [
+      "exploded",
+      "Exploded",
+      "EXPLODED"
+     ],
+     "33": [
+      "restaurant",
+      "Restaurant",
+      "RESTAURANT"
+     ],
+     "34": [
+      "meat",
+      "Meat",
+      "MEAT"
+     ],
+     "35": [
+      "counter",
+      "Counter",
+      "COUNTER"
+     ]
+    },
+    "audioFile": "https://audio.mock-stream.com/test25/Part%206.m4a",
+    "questions": [
+     {
+      "id": 30,
+      "hint": "peanut bar ____"
+     },
+     {
+      "id": 31,
+      "hint": "putting ____"
+     },
+     {
+      "id": 32,
+      "hint": "it ____"
+     },
+     {
+      "id": 33,
+      "hint": "in a ____"
+     },
+     {
+      "id": 34,
+      "hint": "____ did not change colour"
+     },
+     {
+      "id": 35,
+      "hint": "top of a ____"
+     }
+    ],
+    "partNumber": 6,
+    "transcript": "Part six. You will hear a part of a lecture.\nFor each question, fill in the missing information in the numbered space.\nWrite no more than one word for each answer.\nMark your answers on the answer sheet.\nYou now have some time to look at questions.\n\nYou'll hear part of a talk about the invention of the microwave oven.\nComplete the sentences with a word or short phrase.\nYou now have 45 seconds to look at part two.\n\nOne day in spring 1945, physics engineer Percy Spencer was walking past a switched on piece of radar equipment when he felt something sticky in his pocket.\nIt turned out to be a chocolate peanut bar he had been saving for his coffee break.\nIntrigued, he set out to discover why it had suddenly melted.\nThe equipment concerned was a magnetron tube, the heart of a radar set.\nRadar had been invented by the British in World War II to detect enemy aircraft at night using short waves or microwaves.\nBut it wasn't until Spencer, an engineer at a small time firm called Rathion in Boston, US, worked out a way of mass producing the tubes that radar made a real difference in the war.\nThe day after the chocolate incident, Spencer sent a boy out to buy some popcorn.\nHe placed the kernels near the magnetron tube.\nThey immediately started popping round the lab.\nHis next experiment was with an egg, which he put inside a kettle.\nCurious colleagues gathered round to watch it quaking.\nOne unlucky director bent down to take a closer look just at the moment the egg exploded.\nSpencer came to realize that the microwaves were heating the food by agitating its water and fat molecules, which meant that the inside cooked just as fast as the outside.\nRathion engineers soon refined the idea.\nThe first microwave, 5'6 inches tall and weighing 750 lbs, was installed in a Boston restaurant for testing in 1946.\nThe first commercial microwave hit the market the following year.\nIt was named Radar Range, following a competition among Rathion employees.\nSpencer and his colleagues confidently expected a cooking revolution.\nBut the machine was primitive, enormous, and at $3,000, too expensive.\nAll too soon, chefs realized its main drawback.\nMeat refused to brown, and food emerged limp and flabby.\nThe company chairman chef quit in disgust because he was told to use the radar range.\nNot until the 1960s, when the first countertop microwave was produced, did sales at last begin to take off.\nThe first model in 1967 was 100 volts and cost just under $500.\nBy 1975, sales of microwaves overtook gas cookers in the US.\nNow, nearly 90% of households in Britain and the US use a microwave oven.\n\nNow, listen again.\n\nOne day in spring 1945, physics engineer Percy Spencer was walking past a switched on piece of radar equipment when he felt something sticky in his pocket.\nIt turned out to be a chocolate peanut bar he had been saving for his coffee break.\nIntrigued, he set out to discover why it had suddenly melted.\nThe equipment concerned was a magnetron tube, the heart of a radar set.\nRadar had been invented by the British in World War II to detect enemy aircraft at night using short waves or microwaves.\nBut it wasn't until Spencer, an engineer at a small time firm called Rathion in Boston, US, worked out a way of mass producing the tubes that radar made a real difference in the war.\nThe day after the chocolate incident, Spencer sent a boy out to buy some popcorn.\nHe placed the kernels near the magnetron tube.\nThey immediately started popping round the lab.\nHis next experiment was with an egg, which he put inside a kettle.\nCurious colleagues gathered round to watch it quaking.\nOne unlucky director bent down to take a closer look just at the moment the egg exploded.\nSpencer came to realize that the microwaves were heating the food by agitating its water and fat molecules, which meant that the inside cooked just as fast as the outside.\nRathion engineers soon refined the idea.\nThe first microwave, 5'6 inches tall and weighing 750 lbs, was installed in a Boston restaurant for testing in 1946.\nThe first commercial microwave hit the market the following year.\nIt was named Radar Range, following a competition among Rathion employees.\nSpencer and his colleagues confidently expected a cooking revolution.\nBut the machine was primitive, enormous, and at $3,000, too expensive.\nAll too soon, chefs realized its main drawback.\nMeat refused to brown, and food emerged limp and flabby.\nThe company chairman chef quit in disgust because he was told to use the radar range.\nNot until the 1960s, when the first countertop microwave was produced, did sales at last begin to take off.\nThe first model in 1967 was 100 volts and cost just under $500.\nBy 1975, sales of microwaves overtook gas cookers in the US.\nNow, nearly 90% of households in Britain and the US use a microwave oven.\n\nThat is the end of part six.",
+    "instruction": "You will hear a part of a lecture. For each question, fill in the missing information in the numbered space. Write no more than one word for each answer.",
+    "passageTitle": "Microwave",
+    "questionRange": "30-35",
+    "passageContent": "The invention of the microwave oven began when a chocolate peanut bar <span class=\"gap-input\" data-gap=\"30\">_____(30)_____</span> in Percy Spencer's pocket.<br><br>Spencer had previously invented a method for mass-producing the tubes used in radar equipment.<br><br>Spencer's first experiment involved putting <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span> near to some radar equipment.<br><br>In his next experiment, an egg was put into a kettle and it <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span>.<br><br>The first microwave oven was set up in a <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span> in Boston in 1946.<br><br>The first microwave oven got its name as a result of a competition at the company.<br><br>One problem with the first microwave oven was that <span class=\"gap-input\" data-gap=\"34\">_____(34)_____</span> did not change colour in it.<br><br>When a microwave oven that could be placed on top of a <span class=\"gap-input\" data-gap=\"35\">_____(35)_____</span> was produced, sales began to rise.",
+    "answerHighlights": {
+     "30": [
+      11,
+      12
+     ],
+     "31": [
+      16,
+      17
+     ],
+     "32": [
+      19,
+      21
+     ],
+     "33": [
+      24
+     ],
+     "34": [
+      30
+     ],
+     "35": [
+      32
+     ]
+    }
+   }
+  ],
+  "examDate": "2026-03-16",
+  "testInfo": {
+   "id": "cefr-listening-25",
+   "level": "B1-C1",
+   "title": "CEFR Listening Mock Test 25",
+   "totalTime": 40,
+   "totalQuestions": 35
+  }
+ },
+ "created_at": "2026-05-15T15:19:22.978102+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

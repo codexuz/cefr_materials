@@ -1,0 +1,605 @@
+{
+ "id": 65,
+ "mock_type": "cefr-writing",
+ "mock_number": 55,
+ "title": "CEFR Writing Mock 55",
+ "status": "published",
+ "mock_data": {
+  "part1": {
+   "chip": "food",
+   "topic": "Coffee subscription"
+  },
+  "tasks": {
+   "t2": {
+    "chip": "housing",
+    "genre": "forum",
+    "title": "It better to rent or buy a home",
+    "prompt": "You are participating in an online discussion forum. The topic is: \"Is it better to rent or buy a home?\" Write your response, giving reasons and examples. Write 180–200 words.",
+    "sample": "<p>The decision to rent or buy a home is one of the most <span class=\"ml-token colloc\">significant financial choices</span> people make. Both options have advantages depending on <span class=\"ml-token colloc\">individual circumstances</span>.</p>\n\n<p>Renting offers <span class=\"ml-token colloc\">flexibility and fewer responsibilities</span>. Tenants can move <span class=\"ml-token adv\">easily</span> for job opportunities without worrying about selling property. They also avoid <span class=\"ml-token colloc\">maintenance costs</span> and <span class=\"ml-token colloc\">property taxes</span>. For young professionals who are uncertain about their <span class=\"ml-token colloc\">long-term plans</span>, renting makes <span class=\"ml-token colloc\">practical sense</span>.</p>\n\n<p><span class=\"ml-token adv\">Conversely</span>, buying a home is often considered a <span class=\"ml-token colloc\">wise investment</span>. Monthly <span class=\"ml-token colloc\">mortgage payments</span> build equity, and <span class=\"ml-token colloc\">property values</span> <span class=\"ml-token adv\">typically</span> increase over time. Homeowners also have freedom to renovate and personalize their space. <span class=\"ml-token adv\">Additionally</span>, owning provides <span class=\"ml-token colloc\">stability and security</span> for families.</p>\n\n<p><span class=\"ml-token adv\">However</span>, buying requires <span class=\"ml-token colloc\">substantial savings</span> for deposits and carries risks if <span class=\"ml-token colloc\">property values</span> decline. The current <span class=\"ml-token colloc\">housing market</span> makes purchasing <span class=\"ml-token adv\">increasingly</span> difficult for <span class=\"ml-token colloc\">first-time buyers</span>.</p>\n\n<p>In my opinion, the better choice depends on <span class=\"ml-token colloc\">personal circumstances</span>, <span class=\"ml-token colloc\">financial stability</span>, and <span class=\"ml-token colloc\">life goals</span>. Young people <span class=\"ml-token modal\">should</span> consider renting <span class=\"ml-token adv\">initially</span>, while those with <span class=\"ml-token colloc\">stable careers</span> and families may benefit more from buying.</p>\n\n<p><span class=\"ml-token adv\">In conclusion</span>, neither option is <span class=\"ml-token adv\">universally</span> superior – the right choice varies for each individual.</p>",
+    "target": "180–200 words",
+    "sampleA1": "<p>Hi BeanBox!</p><br><p>Coffee is good. I like coffee. More coffee please. Fast delivery is good.</p><br><p>Bye!</p>",
+    "sampleA2": "<p>Hello BeanBox,</p><br><p>The coffee is good and I like the taste. The delivery is okay, but sometimes it is late. I like the different coffees, but I want more chocolate coffee because I like chocolate. More coffee is good for me because I work hard. Thank you.</p><br><p>Bye!</p>",
+    "sampleB1": "<p>Dear BeanBox Team,</p><br><p>Thank you for the email. I am enjoying the coffee subscription so far. The coffee quality is good, and I like that there are different types of coffee to try. However, I think the delivery frequency could be improved. It is sometimes too often, and I have too much coffee. Maybe you could offer a choice of how often the coffee is delivered? Also, it would be good if you had more information about where the coffee comes from. I think this would be interesting. In my opinion, the subscription is good value for money.</p><br><p>Thanks again,</p><br><p>Kamron Aliyev</p>",
+    "sampleB2": "<p>Hi everyone,</p>\n<p>This is such a great topic – it's something my friends and I argue about all the time! I thought I'd <span class=\"ml-token idiom\">throw in my two cents</span>.</p>\n<p>Personally, I think it really <span class=\"ml-token phrasal\">boils down to</span> your stage in life. When you're young and still <span class=\"ml-token idiom\">finding your feet</span>, renting makes a lot of sense. You're not <span class=\"ml-token phrasal\">tied down</span>, you can up sticks for a new job whenever you like, and you don't have to worry about <span class=\"ml-token colloc\">maintenance costs</span> or property taxes. Someone else deals with the leaky roof!</p>\n<p>On the other hand, buying is a solid <span class=\"ml-token colloc\">long-term investment</span>. Every <span class=\"ml-token colloc\">mortgage payment</span> builds equity instead of lining a landlord's pocket, and <span class=\"ml-token colloc\">property values</span> tend to climb over time. Owning your own place also gives you a real sense of stability, especially once you've got a family.</p>\n<p><span class=\"ml-token idiom\">At the end of the day</span>, I don't think there's a right or wrong answer – it all depends on your finances and what you want out of life. For now, I'm happy renting, but I'd love to buy someday.</p>\n<p>What about the rest of you? Rent or buy?</p>\n<p>Dilnoza Karimova</p>",
+    "uzSample": "<p>Uy sotib olish yoki ijaraga olish qarori odamlarning eng muhim moliyaviy tanlovlaridan biridir. Ikkala variant ham individual sharoitlarga qarab afzalliklarga ega.</p>\n\n<p>Ijaraga olish moslashuvchanlik va kamroq mas'uliyatni taklif etadi. Ijarachilar mulkni sotish haqida qayg'urmasdan, ish imkoniyatlari uchun osonlikcha ko'chib o'tishlari mumkin. Ular, shuningdek, ta'mirlash xarajatlari va mol-mulk soliqlaridan qochishadi. Uzoq muddatli rejalari haqida ishonchi komil bo'lmagan yosh mutaxassislar uchun ijaraga olish amaliy ma'noga ega.</p>\n\n<p>Aksincha, uy sotib olish ko'pincha oqilona investitsiya hisoblanadi. Oylik ipoteka to'lovlari kapitalni oshiradi va mulk qiymati odatda vaqt o'tishi bilan ortadi. Uy egalari, shuningdek, o'z joylarini ta'mirlash va shaxsiylashtirish erkinligiga ega. Bundan tashqari, egalik qilish oilalar uchun barqarorlik va xavfsizlikni ta'minlaydi.</p>\n\n<p>Biroq, sotib olish depozitlar uchun katta jamg'armani talab qiladi va mulk qiymati pasaysa, xavf tug'diradi. Hozirgi uy-joy bozori birinchi marta xaridorlar uchun sotib olishni tobora qiyinlashtirmoqda.</p>\n\n<p>Mening fikrimcha, eng yaxshi tanlov shaxsiy sharoitlar, moliyaviy barqarorlik va hayotiy maqsadlarga bog'liq. Yoshlar dastlab ijaraga olishni ko'rib chiqishlari kerak, barqaror martaba va oilalari bo'lganlar esa sotib olishdan ko'proq foyda olishlari mumkin.</p>\n\n<p>Xulosa qilib aytganda, hech bir variant universal tarzda ustun emas - to'g'ri tanlov har bir shaxs uchun farq qiladi.</p>",
+    "uzSampleA1": "<p>Salom BeanBox!</p><br><p>Kofe yaxshi. Menga kofe yoqadi. Yana kofe iltimos. Tez yetkazib berish yaxshi.</p><br><p>Xayr!</p>",
+    "uzSampleA2": "<p>Salom BeanBox,</p><br><p>Qahva yaxshi va menga ta'mi yoqadi. Yetkazib berish yaxshi, lekin ba'zida kechikadi. Menga turli xil qahvalar yoqadi, lekin men ko'proq shokoladli qahva xohlayman, chunki shokoladni yaxshi ko'raman. Ko'proq qahva menga yaxshi, chunki men qattiq ishlayman. Rahmat.</p><br><p>Xayr!</p>",
+    "uzSampleB1": "<p>Hurmatli BeanBox jamoasi,</p><br><p>Elektron pochta xabaringiz uchun rahmat. Men hozircha qahva obunasidan zavqlanyapman. Qahvaning sifati yaxshi va sinab ko'rish uchun turli xil qahvalar borligi menga yoqadi. Biroq, menimcha, yetkazib berish tezligini yaxshilash mumkin. Ba'zan juda tez-tez bo'lib qoladi va menda juda ko'p qahva bo'ladi. Ehtimol, qahva qanchalik tez-tez yetkazib berilishini tanlash imkoniyatini taklif qilarsiz? Shuningdek, qahva qayerdan kelgani haqida ko'proq ma'lumotga ega bo'lsangiz yaxshi bo'lardi. Menimcha, bu qiziqarli bo'lardi. Mening fikrimcha, obuna pulga arziydi.</p><br><p>Yana bir bor rahmat,</p><br><p>Kamron Aliyev</p>",
+    "uzSampleB2": "<p>Hurmatli BeanBox jamoasi,</p><br><p>Men yaqinda obuna bo'lganim haqidagi elektron pochtangizga javoban yozyapman. Umuman olganda, men xizmatdan juda mamnunman. Kofening sifati odatda juda yaxshi va har oy taklif etiladigan xilma-xillikni qadrlayman. Yangiligi ham odatda supermarketlarda topadiganimdan sezilarli darajada ustun.</p><br><p>Yetkazib berish chastotasiga kelsak, men uni asosan yetarli deb bilaman, garchi faqat haftalik yoki oylikdan ko'ra, ikki haftalik yetkazib berish varianti iste'mol odatlarining kengroq doirasiga mos kelishi mumkin. Bundan tashqari, men kofening kelib chiqishi va qovurish jarayonlari haqida batafsilroq ma'lumot olishni xohlardim. Ehtimol, har bir yetkazib berish bilan birga, muayyan ferma yoki kooperativ va qovuruvchining eslatmalarini ta'kidlaydigan kichik varaqcha bo'lishi mumkinmi?</p><br><p>Yana bir mumkin bo'lgan yaxshilanish - obunada \"to'xtatish\" funksiyasini taklif qilish bo'ladi. Ba'zan men sayohat qilaman yoki shunchaki ortiqcha kofe bo'ladi va yetkazib berishni vaqtincha to'xtata olish qimmatli qo'shimcha bo'lar edi. Fikr-mulohazalaringizni so'raganingiz uchun rahmat va men sizning xizmatingizdan doimiy zavqlanishni kutaman.</p><br><p>Hurmat bilan,</p><br><p>Kamron Aliyev</p>"
+   },
+   "t11": {
+    "title": "informal letter · to friend",
+    "prompt": "Write a letter to your friend, who is a coffee lover. Write about your feelings and what you think they should do.",
+    "sample": "Hey!\n\nYou know how much you love coffee – well, I found the <span class=\"ml-token colloc\">perfect thing</span> for you! I subscribed to this <span class=\"ml-token colloc\">coffee delivery service</span> and they send <span class=\"ml-token adv\">amazing</span> <span class=\"ml-token colloc\">freshly roasted beans</span> every month. Each delivery is a different variety – it's like a <span class=\"ml-token idiom\">treat every time</span>! You <span class=\"ml-token modal\">should absolutely</span> try it!\n\n<span class=\"ml-token phrasal\">Speak soon</span>!",
+    "target": "50–70 words",
+    "sampleA1": "<p>Hi Farrux,<br>Coffee good. I like it. You like coffee? Yes? Good. Bye.</p>",
+    "sampleA2": "<p>Hi Farrux,<br>I have coffee now. It is from a shop, every month. The coffee is good and I like it. You like coffee, and I think you will like this coffee too. You should get it! See you soon.</p>",
+    "sampleB1": "<p>Hi Farrux,<br>Guess what? I signed up for a coffee delivery service! It's really good. They send different coffees every month, and they all taste amazing. I think you would really enjoy it because you love coffee so much. Maybe you should try it? Let me know what you think!<br>Talk soon,<br>Kamron Aliyev</p>",
+    "sampleB2": "<p>Hey Farrux,</p>\n<p>Guess what I've <span class=\"ml-token phrasal\">stumbled on</span>? I've <span class=\"ml-token phrasal\">signed up</span> for a <span class=\"ml-token colloc\">coffee delivery service</span> called BeanBox, and honestly, it's <span class=\"ml-token idiom\">right up your street</span>. Every month they <span class=\"ml-token phrasal\">drop off</span> a fresh batch of <span class=\"ml-token colloc\">freshly roasted beans</span>, and each one is a totally different variety. Knowing what a <span class=\"ml-token colloc\">coffee lover</span> you are, I reckon you'd be <span class=\"ml-token idiom\">over the moon</span> with it. You've got to <span class=\"ml-token idiom\">give it a go</span>!</p>\n<p>Talk soon,<br>Dilnoza Karimova</p>",
+    "uzSample": "Salom!\n\nBilasan, sen qahvani qanchalik yaxshi ko'rasan – xullas, men sen uchun <span class=\"ml-token colloc\">eng zo'r narsani</span> topdim! Men <span class=\"ml-token colloc\">qahva yetkazib berish xizmatiga</span> obuna bo'ldim va ular har oyda <span class=\"ml-token adv\">ajoyib</span> <span class=\"ml-token colloc\">yangi qovurilgan donlarni</span> yuborishadi. Har bir yetkazib berish har xil nav – bu har safar <span class=\"ml-token idiom\">sovg'a kabi</span>! Sen buni <span class=\"ml-token modal\">albatta</span> sinab ko'rishing kerak!\n\n<span class=\"ml-token phrasal\">Tez orada gaplashamiz</span>!",
+    "uzSampleA1": "<p>Salom, Farrux,<br>Qahva yaxshi. Menga yoqadi. Sizga qahva yoqadimi? Ha? Yaxshi. Xayr.</p>",
+    "uzSampleA2": "<p>Salom, Farrux,<br>Menda hozir qahva bor. U har oyda bir do'kondan keladi. Qahva yaxshi va menga yoqadi. Sizga qahva yoqadi va menimcha, sizga ham bu qahva yoqadi. Siz ham olishingiz kerak! Ko'rishguncha.</p>",
+    "uzSampleB1": "<p>Salom Farrux,<br>Nima deb o'ylaysan? Men kofe yetkazib berish xizmatiga yozildim! U juda yaxshi. Ular har oyda turli xil kofelarni yuborishadi va ularning hammasi juda mazali. O'ylashimcha, senga bu juda yoqadi, chunki sen kofeni juda yaxshi ko'rasan. Balki sen ham sinab ko'rarsan? Menga fikringni bildir!<br>Tez orada gaplashamiz,<br>Kamron Aliyev</p>",
+    "uzSampleB2": "<p>Salom Farrux,<br>Bilasanmi, biz doim mukammal qahvani qidiramiz? Xullas, menimcha, yechimni topdim! Yaqinda qahva yetkazib berish xizmatiga obuna bo'ldim va men chin dildan hayratdaman. Ular har oy mening eshigimga yangi qovurilgan donlarning saralangan to'plamini yuborishadi. Xilma-xillik ajoyib va sifati yuqori. Sizning didingizni hisobga olgan holda, men chin dildan sizga buni sinab ko'rishni tavsiya qilaman. Siz obunani o'z xohishingizga moslashtirishingiz mumkin, shuning uchun o'rganishga arziydi.<br>Eng yaxshi tilaklar bilan,<br>Kamron Aliyev</p>"
+   },
+   "t12": {
+    "title": "formal letter · to recipient",
+    "prompt": "Write a letter to the coffee subscription service. Write about your feelings and what you think they should do.",
+    "sample": "Dear BeanBox Team,\n\nThank you for your email asking for feedback about my <span class=\"ml-token colloc\">coffee subscription</span> experience.\n\nI have been <span class=\"ml-token adv\">thoroughly</span> impressed with the quality of your coffee beans. Each month brings an <span class=\"ml-token colloc\">exciting new variety</span>, and the freshness is <span class=\"ml-token adv\">noticeably</span> superior to <span class=\"ml-token colloc\">supermarket alternatives</span>. The packaging keeps the beans <span class=\"ml-token adv\">perfectly</span> sealed, and the <span class=\"ml-token colloc\">tasting notes</span> included are informative and helpful.\n\n<span class=\"ml-token adv\">However</span>, I have a few suggestions. <span class=\"ml-token adv\">Firstly</span>, it <span class=\"ml-token modal\">would</span> be convenient to offer more <span class=\"ml-token colloc\">flexible delivery schedules</span>, as I sometimes have surplus coffee before the next delivery arrives. <span class=\"ml-token adv\">Secondly</span>, including <span class=\"ml-token colloc\">brewing tips</span> specific to each coffee type <span class=\"ml-token modal\">would</span> help subscribers get the best flavor.\n\nI <span class=\"ml-token modal\">would</span> also appreciate the option to purchase <span class=\"ml-token colloc\">previous months' coffees</span> that I <span class=\"ml-token adv\">particularly</span> enjoyed.\n\n<span class=\"ml-token adv\">Overall</span>, I <span class=\"ml-token adv\">highly</span> recommend your service to fellow coffee enthusiasts.\n\nYours sincerely,\nKamron Aliyev",
+    "target": "120–150 words",
+    "sampleA1": "<p>Hi BeanBox!</p>\r\n<p>Coffee good. I like coffee. More coffee please. Fast!</p>\r\n<p>Bye</p>",
+    "sampleA2": "<p>Hello BeanBox,</p>\r\n<p>Thank you for the coffee. I like the coffee, it is good. The coffee is fresh. But sometimes I have too much coffee. Can I get coffee every two months? Also, I want to know what the coffee is. Tell me about the coffee. Thank you!</p>\r\n<p>Bye,<br>Kamron Aliyev</p>",
+    "sampleB1": "<p>Dear BeanBox Team,</p>\r\n<p>Thanks for the email. I like the coffee very much. It's very good quality and I enjoy trying the different types of coffee each month. The delivery is usually on time, which is important.</p>\r\n<p>However, I think you could improve the service. For example, it would be good if I could choose the type of coffee I get. Sometimes I don't like the flavour. Also, maybe you could offer a bigger bag of coffee? I drink a lot of coffee! In my opinion, these changes would make the service better.</p>\r\n<p>Thank you for listening.<br>Kamron Aliyev</p>",
+    "sampleB2": "<p>Dear BeanBox Team,</p>\n<p>Thank you for <span class=\"ml-token phrasal\">reaching out</span> for feedback on my <span class=\"ml-token colloc\">coffee subscription</span>. On the whole, I have been <span class=\"ml-token colloc\">genuinely impressed</span> with the service so far.</p>\n<p>The quality of the beans is excellent, and the freshness is <span class=\"ml-token adv\">noticeably</span> superior to what I usually <span class=\"ml-token phrasal\">pick up</span> at the supermarket. I also appreciate the <span class=\"ml-token colloc\">tasting notes</span> tucked into each parcel, which are both informative and helpful.</p>\n<p><span class=\"ml-token linking\">That said</span>, I would like to make a couple of suggestions. Firstly, it would be convenient to offer more <span class=\"ml-token colloc\">flexible delivery schedules</span>, as I occasionally end up with surplus coffee before the next box arrives. Secondly, including <span class=\"ml-token colloc\">brewing tips</span> tailored to each blend would help subscribers <span class=\"ml-token phrasal\">get the most out of</span> every cup.</p>\n<p>Overall, I would happily recommend your service to fellow coffee lovers, and I look forward to seeing it improve.</p>\n<p>Yours sincerely,<br>Bekzod Aliyev</p>",
+    "uzSample": "<p>Hurmatli BeanBox jamoasi,</p>\n<p>Mening qahva obunasi tajribam haqida fikr-mulohazalar so'raganingiz uchun elektron pochtangizga rahmat.</p>\n<p>Sizning qahva donalarining sifati meni juda hayratga soldi. Har oyda yangi va qiziqarli navlar keladi va ularning yangiligi supermarketdagi muqobillarga nisbatan sezilarli darajada ustundir. Qadoqlash donalarni mukammal darajada muhrlangan holda saqlaydi va ta'm notalari ma'lumot beruvchi va foydalidir.</p>\n<p>Biroq, mening bir nechta takliflarim bor. Birinchidan, yetkazib berishning moslashuvchan jadvalini taklif qilish qulay bo'lardi, chunki ba'zan keyingi yetkazib berish kelishidan oldin menda ortiqcha qahva bo'ladi. Ikkinchidan, har bir qahva turiga xos bo'lgan damlash bo'yicha maslahatlar kiritish obunachilarga eng yaxshi ta'mni olishga yordam beradi.</p>\n<p>Men, ayniqsa, yoqtirgan oldingi oylardagi qahvalarni sotib olish imkoniyatini ham qadrlagan bo'lardim.</p>\n<p>Umuman olganda, men sizning xizmatingizni qahva ixlosmandlariga tavsiya qilaman.</p>\n<p>Hurmat bilan,<br>Kamron Aliyev</p>",
+    "uzSampleA1": "<p>Salom, BeanBox!</p>\n<p>Kofe yaxshi. Menga kofe yoqadi. Ko'proq kofe iltimos. Tezroq!</p>\n<p>Xayr</p>",
+    "uzSampleA2": "<p>Salom BeanBox,</p>\n<p>Kofe uchun rahmat. Menga kofe yoqadi, u yaxshi. Kofe yangi. Lekin ba'zida menda juda ko'p kofe bo'ladi. Men har ikki oyda bir marta kofe olsam bo'ladimi? Shuningdek, men kofe nima ekanligini bilmoqchiman. Menga kofe haqida aytib bering. Rahmat!</p>\n<p>Xayr,<br>Kamron Aliyev</p>",
+    "uzSampleB1": "<p>Hurmatli BeanBox jamoasi,</p>\n<p>Xat uchun rahmat. Menga kofe juda yoqadi. Uning sifati juda yaxshi va har oyda turli xil kofe turlarini sinab ko'rish menga juda manzur.</p>\n<p>Lekin, menimcha, siz xizmatni yaxshilashingiz mumkin. Misol uchun, agar men qanday kofe olishimni tanlay olsam, yaxshi bo'lardi. Ba'zan menga ta'mi yoqmaydi. Shuningdek, ehtimol, siz kattaroq kofe paketini taklif qilishingiz mumkin? Men juda ko'p kofe ichaman! Mening fikrimcha, bu o'zgarishlar xizmatni yanada yaxshiroq qiladi.</p>\n<p>E'tiboringiz uchun rahmat.<br>Kamron Aliyev</p>",
+    "uzSampleB2": "<p>Hurmatli BeanBox jamoasi,</p>\n<p>Mening obunam bo'yicha murojaat qilganingiz uchun rahmat. Umuman olganda, men xizmatdan hozircha mamnunman. Qahva sifati doimiy ravishda yuqori va har oyda qiziqarli va xilma-xil donlarni topishga qilayotgan harakatlaringizni qadrlayman. Yetkazib berish jadvali ham ishonchli bo'lib, bu albatta katta plyus.</p>\n<p>Biroq, menimcha, yaxshilanishi mumkin bo'lgan bir nechta sohalar mavjud. Birinchidan, men oladigan qahva profillari ustidan ko'proq nazoratga ega bo'lish foydali bo'lardi. Xilma-xillik qadrlansa-da, ba'zida ta'm notalari mening didimga mos kelmaydi. Ehtimol, obunachilar afzal ko'rgan ta'm profillarini (masalan, yong'oqli, mevali, shokoladli) tanlashlari mumkin bo'lgan tizim qimmatli qo'shimcha bo'lardi.</p>\n<p>Ikkinchidan, maydalash hajmining kengroq assortimentini taklif qilish foydali bo'ladi. Men turli xil damlash usullaridan foydalanaman va har bir usulga moslashtirilgan oldindan maydalangan variantga ega bo'lish vaqtimni tejaydi va optimal ekstraksiyani ta'minlaydi. Bularning amalga oshirilishini ko'rishni intiqlik bilan kutaman.</p>\n<p>Hurmat bilan,<br>Kamron Aliyev</p>"
+   },
+   "p1_context": "You recently subscribed to a coffee delivery service.",
+   "p1_scenario": "Dear Subscriber,\n\nThank you for joining BeanBox Coffee Subscription! We hope you're enjoying your freshly roasted beans.\nHow have you found the coffee quality and variety? Is the delivery frequency right for you?\nWhat improvements or additional options would enhance your subscription experience?\n\nBeanBox Team"
+  },
+  "examDate": "2026-03-23",
+  "settings": {
+   "logoUrl": "https://audio.mock-stream.com/img/ibb/WN0XY5Lv/logo.png",
+   "heading1": "Bilim va malakalarni baholash agentligi",
+   "heading2": "Chet tilini bilish darajasi",
+   "examTitle": "Writing exam",
+   "logoWording": "Mock Stream",
+   "testIdentifier": "mock_stream"
+  },
+  "vocabulary": {
+   "task2": [
+    {
+     "en": "rent or buy",
+     "uz": "ijaraga olish yoki sotib olish"
+    },
+    {
+     "en": "significant financial choice",
+     "uz": "muhim moliyaviy tanlov"
+    },
+    {
+     "en": "individual circumstances",
+     "uz": "individual sharoitlar"
+    },
+    {
+     "en": "flexibility",
+     "uz": "moslashuvchanlik"
+    },
+    {
+     "en": "maintenance costs",
+     "uz": "ta'mirlash xarajatlari"
+    },
+    {
+     "en": "property taxes",
+     "uz": "mulk soliqlari"
+    },
+    {
+     "en": "long-term plans",
+     "uz": "uzoq muddatli rejalar"
+    },
+    {
+     "en": "practical sense",
+     "uz": "amaliy ma'no"
+    },
+    {
+     "en": "wise investment",
+     "uz": "oqilona investitsiya"
+    },
+    {
+     "en": "mortgage payments",
+     "uz": "ipoteka to'lovlari"
+    },
+    {
+     "en": "property values",
+     "uz": "mulk qiymatlari"
+    },
+    {
+     "en": "stability and security",
+     "uz": "barqarorlik va xavfsizlik"
+    },
+    {
+     "en": "substantial savings",
+     "uz": "katta jamg'armalar"
+    },
+    {
+     "en": "housing market",
+     "uz": "uy-joy bozori"
+    },
+    {
+     "en": "first-time buyers",
+     "uz": "birinchi marta xaridorlar"
+    },
+    {
+     "en": "personal circumstances",
+     "uz": "shaxsiy sharoitlar"
+    },
+    {
+     "en": "financial stability",
+     "uz": "moliyaviy barqarorlik"
+    },
+    {
+     "en": "life goals",
+     "uz": "hayot maqsadlari"
+    },
+    {
+     "en": "in conclusion",
+     "uz": "xulosa qilib aytganda"
+    },
+    {
+     "en": "conversely",
+     "uz": "aksincha"
+    }
+   ],
+   "task11": [
+    {
+     "en": "coffee lover",
+     "uz": "qahva ishqibozi"
+    },
+    {
+     "en": "coffee delivery service",
+     "uz": "qahva yetkazib berish xizmati"
+    },
+    {
+     "en": "freshly roasted beans",
+     "uz": "yangi qovurilgan donalar"
+    },
+    {
+     "en": "perfect thing",
+     "uz": "mukammal narsa"
+    },
+    {
+     "en": "different variety",
+     "uz": "turli xilma-xillik"
+    },
+    {
+     "en": "treat every time",
+     "uz": "har safar sovg'a"
+    },
+    {
+     "en": "should absolutely try",
+     "uz": "albatta sinab ko'rish kerak"
+    },
+    {
+     "en": "amazing quality",
+     "uz": "ajoyib sifat"
+    },
+    {
+     "en": "highly recommend",
+     "uz": "qattiq tavsiya qilmoq"
+    },
+    {
+     "en": "speak soon",
+     "uz": "tez orada gaplashamiz"
+    },
+    {
+     "en": "you'll love it",
+     "uz": "sizga yoqadi"
+    },
+    {
+     "en": "monthly subscription",
+     "uz": "oylik obuna"
+    },
+    {
+     "en": "great taste",
+     "uz": "ajoyib ta'm"
+    },
+    {
+     "en": "worth the price",
+     "uz": "narxiga arziydi"
+    },
+    {
+     "en": "check it out",
+     "uz": "ko'rib chiqing"
+    },
+    {
+     "en": "best coffee",
+     "uz": "eng yaxshi qahva"
+    },
+    {
+     "en": "really impressed",
+     "uz": "juda hayratda"
+    },
+    {
+     "en": "game-changer",
+     "uz": "hayotni o'zgartiruvchi"
+    },
+    {
+     "en": "can't live without",
+     "uz": "holsiz yasholmayman"
+    },
+    {
+     "en": "let me know",
+     "uz": "menga xabar bering"
+    }
+   ],
+   "task12": [
+    {
+     "en": "coffee subscription",
+     "uz": "qahva obunasi"
+    },
+    {
+     "en": "thoroughly impressed",
+     "uz": "to'liq hayratda"
+    },
+    {
+     "en": "exciting new variety",
+     "uz": "hayajonli yangi xilma-xillik"
+    },
+    {
+     "en": "supermarket alternatives",
+     "uz": "supermarket alternativlari"
+    },
+    {
+     "en": "perfectly sealed",
+     "uz": "mukammal muhrlangan"
+    },
+    {
+     "en": "tasting notes",
+     "uz": "ta'm eslatmalari"
+    },
+    {
+     "en": "flexible delivery schedules",
+     "uz": "moslashuvchan yetkazib berish jadvali"
+    },
+    {
+     "en": "brewing tips",
+     "uz": "damlamoq bo'yicha maslahatlar"
+    },
+    {
+     "en": "previous months' coffees",
+     "uz": "oldingi oylarning qahvalari"
+    },
+    {
+     "en": "highly recommend",
+     "uz": "qattiq tavsiya qilmoq"
+    },
+    {
+     "en": "coffee enthusiasts",
+     "uz": "qahva ishqibozlari"
+    },
+    {
+     "en": "quality of beans",
+     "uz": "donalar sifati"
+    },
+    {
+     "en": "surplus coffee",
+     "uz": "ortiqcha qahva"
+    },
+    {
+     "en": "informative and helpful",
+     "uz": "ma'lumotli va foydali"
+    },
+    {
+     "en": "I have a few suggestions",
+     "uz": "Menda bir nechta taklif bor"
+    },
+    {
+     "en": "subscription experience",
+     "uz": "obuna tajribasi"
+    },
+    {
+     "en": "freshness guaranteed",
+     "uz": "yangilik kafolatlanadi"
+    },
+    {
+     "en": "would appreciate",
+     "uz": "minnatdor bo'lardim"
+    },
+    {
+     "en": "Yours sincerely",
+     "uz": "Hurmat bilan"
+    },
+    {
+     "en": "overall experience",
+     "uz": "umumiy tajriba"
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "would": {
+    "uz": "edi",
+    "type": "modal"
+   },
+   "easily": {
+    "uz": "osonlik bilan",
+    "type": "adv"
+   },
+   "highly": {
+    "uz": "juda",
+    "type": "adv"
+   },
+   "should": {
+    "uz": "kerak",
+    "type": "modal"
+   },
+   "Firstly": {
+    "uz": "Birinchidan",
+    "type": "adv"
+   },
+   "However": {
+    "uz": "Biroq",
+    "type": "adv"
+   },
+   "Overall": {
+    "uz": "Umuman olganda",
+    "type": "adv"
+   },
+   "amazing": {
+    "uz": "ajoyib",
+    "type": "adv"
+   },
+   "pick up": {
+    "uz": "sotib olaman",
+    "type": "phrasal"
+   },
+   "Secondly": {
+    "uz": "Ikkinchidan",
+    "type": "adv"
+   },
+   "drop off": {
+    "uz": "yetkazib ketishadi",
+    "type": "phrasal"
+   },
+   "That said": {
+    "uz": "shunga qaramay",
+    "type": "linking"
+   },
+   "initially": {
+    "uz": "dastlab",
+    "type": "adv"
+   },
+   "perfectly": {
+    "uz": "mukammal",
+    "type": "adv"
+   },
+   "signed up": {
+    "uz": "obuna bo'ldim",
+    "type": "phrasal"
+   },
+   "tied down": {
+    "uz": "bog'lanib qolgan",
+    "type": "phrasal"
+   },
+   "typically": {
+    "uz": "odatda",
+    "type": "adv"
+   },
+   "Conversely": {
+    "uz": "Aksincha",
+    "type": "adv"
+   },
+   "Speak soon": {
+    "uz": "Tez orada gaplashamiz",
+    "type": "phrasal"
+   },
+   "life goals": {
+    "uz": "hayotiy maqsadlar",
+    "type": "colloc"
+   },
+   "noticeably": {
+    "uz": "sezilarli darajada",
+    "type": "adv"
+   },
+   "thoroughly": {
+    "uz": "puxta",
+    "type": "adv"
+   },
+   "stumbled on": {
+    "uz": "tasodifan topib oldim",
+    "type": "phrasal"
+   },
+   "universally": {
+    "uz": "universal tarzda",
+    "type": "adv"
+   },
+   "Additionally": {
+    "uz": "Bundan tashqari",
+    "type": "adv"
+   },
+   "brewing tips": {
+    "uz": "damlash bo'yicha maslahatlar",
+    "type": "colloc"
+   },
+   "coffee lover": {
+    "uz": "qahva ishqibozi",
+    "type": "colloc"
+   },
+   "give it a go": {
+    "uz": "bir sinab ko'rish",
+    "type": "idiom"
+   },
+   "increasingly": {
+    "uz": "tobora",
+    "type": "adv"
+   },
+   "particularly": {
+    "uz": "ayniqsa",
+    "type": "adv"
+   },
+   "reaching out": {
+    "uz": "murojaat qilganingiz",
+    "type": "phrasal"
+   },
+   "In conclusion": {
+    "uz": "Xulosa qilib aytganda",
+    "type": "adv"
+   },
+   "boils down to": {
+    "uz": "asosan bog'liq",
+    "type": "phrasal"
+   },
+   "over the moon": {
+    "uz": "juda xursand bo'lasan",
+    "type": "idiom"
+   },
+   "perfect thing": {
+    "uz": "eng zo'r narsa",
+    "type": "colloc"
+   },
+   "tasting notes": {
+    "uz": "ta'm izohlari",
+    "type": "colloc"
+   },
+   "housing market": {
+    "uz": "uy-joy bozori",
+    "type": "colloc"
+   },
+   "property taxes": {
+    "uz": "mulk solig'i",
+    "type": "colloc"
+   },
+   "stable careers": {
+    "uz": "barqaror martaba",
+    "type": "colloc"
+   },
+   "long-term plans": {
+    "uz": "uzoq muddatli rejalar",
+    "type": "colloc"
+   },
+   "practical sense": {
+    "uz": "amaliy nuqtai nazar",
+    "type": "colloc"
+   },
+   "property values": {
+    "uz": "mulk qiymati",
+    "type": "colloc"
+   },
+   "wise investment": {
+    "uz": "oqilona sarmoya",
+    "type": "colloc"
+   },
+   "mortgage payment": {
+    "uz": "ipoteka to'lovi",
+    "type": "colloc"
+   },
+   "treat every time": {
+    "uz": "har safar xursand qiladi",
+    "type": "idiom"
+   },
+   "finding your feet": {
+    "uz": "hayotda o'z o'rningni topayotganingda",
+    "type": "idiom"
+   },
+   "first-time buyers": {
+    "uz": "birinchi marta xaridorlar",
+    "type": "colloc"
+   },
+   "maintenance costs": {
+    "uz": "ta'mirlash xarajatlari",
+    "type": "colloc"
+   },
+   "mortgage payments": {
+    "uz": "ipoteka to'lovlari",
+    "type": "colloc"
+   },
+   "should absolutely": {
+    "uz": "albatta kerak",
+    "type": "modal"
+   },
+   "coffee subscription": {
+    "uz": "qahva obunasi",
+    "type": "colloc"
+   },
+   "financial stability": {
+    "uz": "moliyaviy barqarorlik",
+    "type": "colloc"
+   },
+   "genuinely impressed": {
+    "uz": "chin dildan hayratda",
+    "type": "colloc"
+   },
+   "get the most out of": {
+    "uz": "eng ko'p foyda olish",
+    "type": "phrasal"
+   },
+   "substantial savings": {
+    "uz": "sezilarli jamg'armalar",
+    "type": "colloc"
+   },
+   "exciting new variety": {
+    "uz": "qiziqarli yangi nav",
+    "type": "colloc"
+   },
+   "long-term investment": {
+    "uz": "uzoq muddatli sarmoya",
+    "type": "colloc"
+   },
+   "right up your street": {
+    "uz": "aynan senga mos keladi",
+    "type": "idiom"
+   },
+   "At the end of the day": {
+    "uz": "oxir-oqibat",
+    "type": "idiom"
+   },
+   "freshly roasted beans": {
+    "uz": "yangi qovurilgan donlar",
+    "type": "colloc"
+   },
+   "throw in my two cents": {
+    "uz": "o'z fikrimni bildirsam",
+    "type": "idiom"
+   },
+   "personal circumstances": {
+    "uz": "shaxsiy sharoitlar",
+    "type": "colloc"
+   },
+   "stability and security": {
+    "uz": "barqarorlik va xavfsizlik",
+    "type": "colloc"
+   },
+   "coffee delivery service": {
+    "uz": "qahva yetkazib berish xizmati",
+    "type": "colloc"
+   },
+   "individual circumstances": {
+    "uz": "shaxsiy vaziyatlar",
+    "type": "colloc"
+   },
+   "previous months' coffees": {
+    "uz": "oldingi oylardagi kofelar",
+    "type": "colloc"
+   },
+   "supermarket alternatives": {
+    "uz": "supermarketdagi muqobillar",
+    "type": "colloc"
+   },
+   "flexible delivery schedules": {
+    "uz": "moslashuvchan yetkazib berish jadvallari",
+    "type": "colloc"
+   },
+   "significant financial choices": {
+    "uz": "muhim moliyaviy tanlovlar",
+    "type": "colloc"
+   },
+   "flexibility and fewer responsibilities": {
+    "uz": "moslashuvchanlik va kamroq mas'uliyat",
+    "type": "colloc"
+   }
+  }
+ },
+ "created_at": "2026-05-06T15:00:16.137767+00:00",
+ "updated_at": "2026-07-06T10:56:37.525595+00:00"
+}

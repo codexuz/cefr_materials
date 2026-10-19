@@ -1,0 +1,653 @@
+{
+ "id": 94,
+ "mock_type": "cefr-writing",
+ "mock_number": 84,
+ "title": "CEFR Writing Mock 84",
+ "status": "published",
+ "mock_data": {
+  "part1": {
+   "chip": "travel",
+   "topic": "Bike rental"
+  },
+  "tasks": {
+   "t2": {
+    "chip": "education",
+    "genre": "article",
+    "title": "Governments invest more in public transportation",
+    "prompt": "A student magazine announced an article writing contest. The best ones will be published in the magazine. Write your article on this topic: \"Should governments invest more in public transportation?\" Write 180–200 words, giving reasons and examples.",
+    "sample": "<p><span class=\"ml-token colloc\">Public transportation</span> is essential for modern cities. I <span class=\"ml-token adv\">firmly</span> believe governments <span class=\"ml-token modal\">should</span> invest more in <span class=\"ml-token colloc\">public transit systems</span>.</p>\n\n<p><span class=\"ml-token adv\">Firstly</span>, improved public transport reduces <span class=\"ml-token colloc\">traffic congestion</span>. When buses and trains are reliable and affordable, fewer people drive. Cities like Tokyo and Singapore demonstrate how excellent <span class=\"ml-token colloc\">transit networks</span> minimize gridlock.</p>\n\n<p><span class=\"ml-token adv\">Secondly</span>, public transportation benefits the <span class=\"ml-token colloc\">environment</span>. Buses and trains produce far less <span class=\"ml-token colloc\">carbon emissions</span> per passenger than private cars. Investing in <span class=\"ml-token colloc\">electric buses</span> and metro systems helps cities meet <span class=\"ml-token colloc\">climate targets</span>.</p>\n\n<p><span class=\"ml-token adv\">However</span>, critics argue that <span class=\"ml-token colloc\">infrastructure costs</span> are enormous. Building metro lines requires billions. <span class=\"ml-token adv\">Nevertheless</span>, the long-term <span class=\"ml-token colloc\">economic benefits</span> outweigh initial investments through increased productivity and reduced healthcare costs from pollution.</p>\n\n<p><span class=\"ml-token adv\">Furthermore</span>, affordable public transport promotes <span class=\"ml-token colloc\">social equality</span>. Many people cannot afford cars, so reliable transit ensures everyone can access jobs, education, and services.</p>\n\n<p><span class=\"ml-token adv\">In conclusion</span>, governments <span class=\"ml-token modal\">should</span> prioritize <span class=\"ml-token colloc\">public transportation investment</span>. It creates cleaner, fairer, and more efficient cities for all residents.</p>",
+    "target": "180–200 words",
+    "sampleA1": "<p>Hi CityWheels!</p>\n<p>Bikes good. Easy to use. Stations good. More bikes, please!</p>\n<p>Bye!</p>",
+    "sampleA2": "<p>Dear CityWheels,</p>\n<p>I liked the bikes. They were fun. The stations were easy to find, and the bikes were good to ride. But maybe you need more bikes because sometimes there were no bikes at the station. Also, a map would be good. Thank you!</p>\n<p>Thanks,<br> Aziz Nazarov</p>",
+    "sampleB1": "<p>Dear CityWheels Team,</p>\n<p>Thank you for the opportunity to rent your bikes during my vacation. Overall, I had a positive experience, but there are a few things that could be improved. The bikes were generally in good condition, and the rental process was straightforward. The pickup and return stations were conveniently located in most areas I visited.</p>\n<p>However, sometimes it was difficult to find available bikes at popular stations during peak hours. I think it would be helpful to have more bikes available, especially in tourist areas. Also, a mobile app with real-time bike availability would be very useful.</p>\n<p>In my opinion, adding bike racks in less central locations would encourage more people to explore different parts of the city. Perhaps offering discounts for longer rental periods could also attract more customers. Thank you for your consideration.</p>\n<p>Sincerely,<br> Aziz Nazarov</p>",
+    "sampleB2": "Should Governments Put Public Transport First?\nPicture your morning commute without the endless queues of traffic, the fumes, and the frustration. It sounds <span class=\"ml-token idiom\">too good to be true</span>, yet greater investment in public transport could make it an everyday reality.\n<span class=\"ml-token linking\">First of all</span>, well-funded buses and trains take thousands of cars <span class=\"ml-token phrasal\">off the road</span>. Cities such as Vienna and Singapore prove that when transport is cheap and reliable, people are more than happy to leave their cars at home, and <span class=\"ml-token colloc\">traffic jams</span> ease as a result.\n<span class=\"ml-token linking\">On top of that</span>, public transport is far kinder to the planet. A packed train produces only a fraction of the emissions that dozens of private cars would, so <span class=\"ml-token phrasal\">channelling money into</span> cleaner metros helps governments hit their <span class=\"ml-token colloc\">climate targets</span>.\nAdmittedly, laying new tracks <span class=\"ml-token idiom\">costs a fortune</span> and the rewards take time to show. Even so, the pay-off is enormous: less pollution, fewer accidents, and a city where everyone can <span class=\"ml-token phrasal\">get around</span> regardless of income.\nAll things considered, spending more on public transport is <span class=\"ml-token idiom\">money well spent</span>. It is an investment in cleaner air and a brighter future for us all.",
+    "uzSample": "<p>Jamoat transporti zamonaviy shaharlar uchun muhim ahamiyatga ega. Men hukumatlar jamoat transporti tizimlariga ko'proq sarmoya kiritishi kerak, deb qat'iy ishonaman.</p>\n\n<p>Birinchidan, yaxshilangan jamoat transporti tirbandlikni kamaytiradi. Avtobus va poyezdlar ishonchli va arzon bo'lganda, kamroq odam mashina haydaydi. Tokio va Singapur kabi shaharlar ajoyib transport tarmoqlari tirbandlikni qanday minimallashtirishini ko'rsatadi.</p>\n\n<p>Ikkinchidan, jamoat transporti atrof-muhitga foyda keltiradi. Avtobus va poyezdlar har bir yo'lovchiga xususiy avtomobillarga qaraganda ancha kam karbonat angidrid gazini chiqaradi. Elektr avtobuslar va metro tizimlariga sarmoya kiritish shaharlarga iqlim maqsadlariga erishishga yordam beradi.</p>\n\n<p>Biroq, tanqidchilar infratuzilma xarajatlari juda katta ekanligini ta'kidlaydilar. Metro liniyalarini qurish milliardlarni talab qiladi. Shunga qaramay, uzoq muddatli iqtisodiy foyda unumdorlikning oshishi va ifloslanishdan kelib chiqadigan sog'liqni saqlash xarajatlarining kamayishi orqali dastlabki investitsiyalardan ustun turadi.</p>\n\n<p>Bundan tashqari, arzon jamoat transporti ijtimoiy tenglikni rag'batlantiradi. Ko'p odamlar mashina sotib olishga qurbi yetmaydi, shuning uchun ishonchli transport hamma uchun ish o'rinlari, ta'lim va xizmatlardan foydalanish imkoniyatini ta'minlaydi.</p>\n\n<p>Xulosa qilib aytganda, hukumatlar jamoat transportiga investitsiya kiritishga ustuvor ahamiyat berishlari kerak. Bu barcha aholi uchun yanada toza, adolatli va samarali shaharlarni yaratadi.</p>",
+    "uzSampleA1": "<p>Salom, CityWheels!</p>\n<p>Velosipedlar yaxshi. Ishlatish oson. Stansiyalar yaxshi. Iltimos, ko'proq velosipedlar bo'lsin!</p>\n<p>Xayr!</p>",
+    "uzSampleA2": "<p>Hurmatli CityWheels,</p>\n<p>Menga velosipedlar yoqdi. Ular qiziqarli edi. Bekatlar topishga oson edi va velosipedlar minishga yaxshi edi. Lekin balki sizga ko'proq velosipedlar kerakdir, chunki ba'zida bekatda velosipedlar yo'q edi. Shuningdek, xarita ham yaxshi bo'lardi. Rahmat!</p>\n<p>Rahmat,<br> Aziz Nazarov</p>",
+    "uzSampleB1": "<p>Hurmatli CityWheels jamoasi,</p>\n<p>Ta'tilim davomida sizning velosipedlaringizni ijaraga olish imkoniyati uchun rahmat. Umuman olganda, men ijobiy tajribaga ega bo'ldim, lekin yaxshilanishi mumkin bo'lgan bir nechta narsalar bor. Velosipedlar odatda yaxshi holatda edi va ijaraga olish jarayoni sodda edi. Olish va qaytarish stansiyalari men borgan ko'pgina joylarda qulay joylashgan edi.</p>\n<p>Biroq, ba'zan gavjum soatlarda mashhur stansiyalarda bo'sh velosipedlarni topish qiyin edi. O'ylaymanki, ayniqsa sayyohlik joylarida ko'proq velosipedlar bo'lishi foydali bo'lardi. Shuningdek, real vaqtda velosipedlarning mavjudligini ko'rsatadigan mobil ilova juda foydali bo'lardi.</p>\n<p>Mening fikrimcha, markaziy bo'lmagan joylarda velosiped tokchalarini qo'shish ko'proq odamlarni shaharning turli qismlarini o'rganishga undaydi. Ehtimol, uzoqroq ijara muddatlari uchun chegirmalar taklif qilish ham ko'proq mijozlarni jalb qilishi mumkin. E'tiboringiz uchun rahmat.</p>\n<p>Hurmat bilan,<br> Aziz Nazarov</p>",
+    "uzSampleB2": "<p>Hurmatli CityWheels jamoasi,</p>\n<p>Men CityWheels velosiped ijarasi bilan yaqinda bo'lgan tajribam haqida fikr bildirish uchun yozyapman. Men bu xizmatni ta'tilim davomida qimmatli aktiv deb topdim, bu shaharni o'rganishning qulay va yoqimli usulini taklif qildi.</p>\n<p>Velosipedlarning o'zi odatda yaxshi saqlangan edi va onlayn bron qilish tizimi foydalanuvchilar uchun qulay edi. Olish va qaytarish stantsiyalarining joylashuvi, asosan, juda qulay edi. Biroq, men ba'zi hollarda ayniqsa mashhur joylardagi stantsiyalarda velosipedlar tugab qolganiga duch keldim, bu esa menga mavjudini topish uchun uzoqroq yurishni talab qildi. Yanada dinamik qayta taqsimlash tizimi bu muammoni hal qilishi mumkin.</p>\n<p>Yaxshilash nuqtai nazaridan, men ekskursiya velosiped turlarini taklif qilish imkoniyatini o'rganishni taklif qilaman, ehtimol, muayyan tarixiy yoki madaniy hududlarga e'tibor qaratgan holda. Bundan tashqari, mobil ilovangizga GPS kuzatuv va marshrutni rejalashtirish funksiyalarini kiritish foydalanuvchi tajribasini sezilarli darajada yaxshilaydi. Nihoyat, e-velosipedlar yoki bolalar o'rindiqli velosipedlar kabi velosiped turlarining kengroq assortimentini taklif qilish mijozlarning kengroq doirasiga xizmat qilishi mumkin.</p>\n<p>Ushbu qimmatli xizmatni taqdim etganingiz uchun tashakkur. Menimcha, bir nechta yaxshilanishlar bilan CityWheels shahar transport infratuzilmasining yanada ajralmas qismiga aylanishi mumkin.</p>\n<p>Hurmat bilan,<br> Aziz Nazarov</p>"
+   },
+   "t11": {
+    "title": "informal letter · to friend",
+    "prompt": "Write a letter to your friend, who is planning a trip to the same city. Write about your feelings and what you think they should do.",
+    "sample": "Hey!\n\nI heard you're visiting Barcelona soon! I <span class=\"ml-token adv\">highly</span> recommend renting bikes from CityWheels. It was <span class=\"ml-token adv\">such</span> a fun way to explore! The bikes were in <span class=\"ml-token adv\">great</span> condition and you can <span class=\"ml-token phrasal\">pick up</span> and return them anywhere. You <span class=\"ml-token modal\">should</span> <span class=\"ml-token adv\">definitely</span> try it – much better than taxis!\n\n<span class=\"ml-token phrasal\">Take care</span>!",
+    "target": "50–70 words",
+    "sampleA1": "<p>Hi Gulchehra,<br>Barcelona good! Bikes good! I like bikes. You go bikes. Bye!</p>",
+    "sampleA2": "<p>Hi Gulchehra,<br>Barcelona is nice! I went there. I used the bikes. The bikes are good and easy. You can rent a bike. It is fun. You should do it! See you!</p>",
+    "sampleB1": "<p>Hi Gulchehra,<br>I heard you're going to Barcelona! That's great! I was just there and I rented a bike from CityWheels. It was really good. I think you should rent one too. It's easy to pick up the bike and return it. Also, it's a fun way to see the city. Have a good trip!</p>",
+    "sampleB2": "Hey Gulchehra!\nI'm so thrilled you're finally <span class=\"ml-token phrasal\">heading to</span> Barcelona! You <span class=\"ml-token modal\">simply must</span> <span class=\"ml-token colloc\">hire a bike</span> from CityWheels — I used one all week and it was brilliant. The bikes are comfy and <span class=\"ml-token colloc\">dead easy</span> to <span class=\"ml-token phrasal\">pick up</span> and <span class=\"ml-token phrasal\">drop off</span> anywhere. Skip the taxis and cycle <span class=\"ml-token colloc\">along the seafront</span> instead; you'll <span class=\"ml-token idiom\">have a whale of a time</span>!\nSpeak soon,\nDilnoza Karimova",
+    "uzSample": "<p>Salom!</p>\n<p>Eshitishimcha, yaqinda Barcelonaga bormoqchisan! Men CityWheels'dan velosiped ijaraga olishni juda tavsiya qilaman. Bu shaharni o'rganishning juda qiziqarli usuli edi! Velosipedlar a'lo darajada edi va ularni istalgan joydan olib, qaytarishing mumkin. Albatta, buni sinab ko'rishing kerak – taksidan ancha yaxshi!</p>\n<p>O'zingni asra!</p>",
+    "uzSampleA1": "<p>Salom, Gulchehra,<br>Barselona yaxshi! Velosipedlar yaxshi! Menga velosipedlar yoqadi. Sen velosipedda yur. Xayr!</p>",
+    "uzSampleA2": "<p>Salom, Gulchehra,<br>Barselona yaxshi shahar! Men u yerga borganman. Men velosipedlardan foydalandim. Velosipedlar yaxshi va oson. Siz velosipedni ijaraga olishingiz mumkin. Bu qiziqarli. Siz buni qilishingiz kerak! Ko'rishguncha!</p>",
+    "uzSampleB1": "<p>Salom, Gulchehra,<br>Eshitishimcha, Barselonaga bormoqchisan! Bu juda yaxshi! Men yaqinda u yerda bo'ldim va CityWheels'dan velosiped ijaraga oldim. Juda yaxshi edi. O'ylaymanki, sen ham ijaraga olishing kerak. Velosipedni olish va qaytarish oson. Bundan tashqari, bu shaharni ko'rishning qiziqarli usuli. Yaxshi sayohat tilayman!</p>",
+    "uzSampleB2": "<p>Salom Gulchehra,<br>Nima deb o'ylaysan? Men yaqinda Barselonadan qaytdim! Sen ham u yerga sayohat qilishni rejalashtirayotganingdan, bir narsani baham ko'rmoqchiman. Men CityWheels'dan velosiped ijaraga oldim va rostini aytsam, bu ajoyib edi. Buni juda tavsiya qilaman. Bu aylanib yurish va hamma narsani o'z sur'atingda ko'rishning ajoyib usuli. Velosipedni olish va qaytarish stansiyalari ham juda qulay edi. O'ylaymanki, sen shaharni shu tarzda o'rganishdan rohatlanasan. Agar savollaring bo'lsa, menga xabar ber!<br>Eng yaxshi tilaklar bilan,<br>Aziz Nazarov</p>"
+   },
+   "t12": {
+    "title": "formal letter · to recipient",
+    "prompt": "Write a letter to the bike rental service. Write about your feelings and what you think they should do.",
+    "sample": "Dear CityWheels Team,\n\nThank you for asking about my experience with your <span class=\"ml-token colloc\">bike rental service</span>.\n\nI was <span class=\"ml-token adv\">extremely</span> pleased with the service. The <span class=\"ml-token colloc\">rental process</span> was quick and the app worked <span class=\"ml-token adv\">flawlessly</span>. The bikes were well-maintained and <span class=\"ml-token adv\">very</span> comfortable. The <span class=\"ml-token colloc\">docking stations</span> were <span class=\"ml-token adv\">conveniently</span> located throughout the city.\n\n<span class=\"ml-token adv\">However</span>, I have some suggestions. During <span class=\"ml-token colloc\">peak hours</span>, finding available bikes was <span class=\"ml-token adv\">sometimes</span> difficult. <span class=\"ml-token adv\">Additionally</span>, some <span class=\"ml-token colloc\">tourist areas</span> lacked <span class=\"ml-token colloc\">return stations</span>, forcing longer rides to find one.\n\nI <span class=\"ml-token modal\">would</span> appreciate more <span class=\"ml-token colloc\">electric bikes</span> for hilly routes. A <span class=\"ml-token colloc\">route suggestion</span> feature in the app <span class=\"ml-token modal\">would</span> help tourists discover scenic paths. <span class=\"ml-token adv\">Also</span>, offering <span class=\"ml-token colloc\">helmet rentals</span> at stations <span class=\"ml-token modal\">would</span> improve safety.\n\n<span class=\"ml-token adv\">Overall</span>, CityWheels made exploring the city enjoyable.\n\nYours sincerely,\nAziz Nazarov",
+    "target": "120–150 words",
+    "sampleA1": "<p>Hi CityWheels,<br>The bike is good. I like the bike. It is fun.<br>Thank you.<br>Bye,<br>Aziz Nazarov</p>",
+    "sampleA2": "<p>Dear CityWheels,<br>I used your bikes. It was good. The bikes are nice and I like the city.<br>But sometimes no bikes. And the stations are far. I want more stations, please.<br>Thank you very much.<br>Best,<br>Aziz Nazarov</p>",
+    "sampleB1": "<p>Dear CityWheels Team,<br><br>Thank you for your email. I rented a bike last week and it was mostly good. The bikes were easy to find and use. I think the prices are okay too.<br><br>However, I think you need more bikes. Sometimes I couldn't find one when I wanted to. Also, the stations are not always in the best places. It would be good to have more near the park.<br><br>Overall, I liked the service. Thank you.<br><br>Sincerely,<br>Aziz Nazarov</p>",
+    "sampleB2": "Dear CityWheels Team,\nI am writing to share some feedback after using your bike rental service throughout a recent holiday in the city.\n<span class=\"ml-token linking\">On the whole</span>, I was highly impressed. The rental process was quick and <span class=\"ml-token colloc\">hassle-free</span>, the mobile app ran smoothly, and every bike I hired was clean and <span class=\"ml-token colloc\">well maintained</span>. The docking stations were <span class=\"ml-token colloc\">conveniently located</span> across the centre, which made getting around <span class=\"ml-token idiom\">a breeze</span>.\n<span class=\"ml-token linking\">That said</span>, there is <span class=\"ml-token idiom\">room for improvement</span>. At peak times, bikes were often <span class=\"ml-token idiom\">in short supply</span> at the busiest stations, and a couple of tourist spots had no return points nearby. I would <span class=\"ml-token colloc\">strongly recommend</span> adding more electric bikes for the steeper routes, along with a helmet rental option for extra safety.\nAll in all, your service made my trip thoroughly enjoyable, and I hope these suggestions <span class=\"ml-token phrasal\">come in handy</span>.\nYours sincerely,\nBekzod Aliyev",
+    "uzSample": "<p>Hurmatli CityWheels jamoasi,</p>\n<p>Velosipedlarni ijaraga berish xizmatingiz haqidagi tajribam bilan qiziqqaningiz uchun rahmat.</p>\n<p>Men xizmatdan juda mamnun bo'ldim. Ijara jarayoni tez o'tdi va ilova bexato ishladi. Velosipedlar yaxshi saqlangan va juda qulay edi. To'xtash joylari butun shahar bo'ylab qulay joylashgan edi.</p>\n<p>Biroq, mening ba'zi takliflarim bor. Eng gavjum soatlarda bo'sh velosipedlarni topish ba'zan qiyin edi. Bundan tashqari, ba'zi sayyohlik hududlarida qaytarish stantsiyalari yo'q edi, bu esa ularni topish uchun uzoqroq yo'l bosib o'tishga majbur qilardi.</p>\n<p>Men tepalik yo'nalishlari uchun ko'proq elektr velosipedlarini qadrlagan bo'lardim. Ilovadagi marshrut taklif qilish funksiyasi sayyohlarga go'zal yo'llarni kashf etishga yordam beradi. Shuningdek, stantsiyalarda dubulg'a ijarasini taklif qilish xavfsizlikni yaxshilaydi.</p>\n<p>Umuman olganda, CityWheels shaharni o'rganishni yoqimli qildi.</p>\n<p>Hurmat bilan,\nAziz Nazarov</p>",
+    "uzSampleA1": "<p>Salom CityWheels,<br>Velosiped yaxshi. Menga velosiped yoqadi. U qiziqarli.<br>Rahmat.<br>Xayr,<br>Aziz Nazarov</p>",
+    "uzSampleA2": "<p>Hurmatli CityWheels,<br>Men sizning velosipedlaringizdan foydalandim. Yaxshi bo'ldi. Velosipedlar chiroyli va menga shahar yoqadi.<br>Lekin ba'zida velosipedlar yo'q. Va bekatlar uzoqda. Iltimos, ko'proq bekatlar bo'lishini xohlayman.<br>Katta rahmat.<br>Eng yaxshi tilaklar bilan,<br>Aziz Nazarov</p>",
+    "uzSampleB1": "<p>Hurmatli CityWheels jamoasi,<br><br>Xatingiz uchun rahmat. Men o'tgan hafta velosiped ijaraga oldim va asosan yaxshi bo'ldi. Velosipedlarni topish va ishlatish oson edi. Narxlar ham yaxshi deb o'ylayman.<br><br>Biroq, sizga ko'proq velosipedlar kerak deb o'ylayman. Ba'zida xohlaganimda topa olmadim. Shuningdek, stansiyalar har doim ham eng yaxshi joylarda emas. Park yaqinida ko'proq bo'lishi yaxshi bo'lardi.<br><br>Umuman olganda, menga xizmat yoqdi. Rahmat.<br><br>Hurmat bilan,<br>Aziz Nazarov</p>",
+    "uzSampleB2": "<p>Hurmatli CityWheels jamoasi,<br><br>Yaqinda velosiped ijarasi bo'yicha tajribam haqidagi so'rovingiz uchun rahmat. Men fikr-mulohazalarimni bildirish uchun yozyapman.<br><br>Umuman olganda, men xizmatdan qoniqdim. Velosipedlar yaxshi holatda edi va ilova yordamida ijara jarayoni sodda edi. To'xtash joylarining joylashuvi ham asosan qulay edi.<br><br>Biroq, yaxshilanishi mumkin bo'lgan bir nechta sohalar mavjud. Birinchidan, ayrim bekatlarda, ayniqsa eng gavjum vaqtlarda velosipedlarning mavjudligi cheklangan edi. Ikkinchidan, menimcha, shahar shimoliy qismida ko'proq bekatlar kerak, chunki velosipedni qaytarish uchun kutilganidan uzoqroq haydashga majbur bo'ldim. Ehtimol, oldindan velosipedlarni bron qilish tizimi ham foydali bo'lar edi.<br><br>Takliflarimni ko'rib chiqqaningiz uchun tashakkur.<br><br>Hurmat bilan,<br>Aziz Nazarov</p>"
+   },
+   "p1_context": "You recently used a city bike rental service during your vacation.",
+   "p1_scenario": "Dear Customer,\n\nThank you for choosing CityWheels Bike Rental! We hope you enjoyed exploring the city on two wheels.\nHow did you find our bikes and the rental process? Were the pickup and return stations convenient?\nWhat improvements or additional services would enhance your cycling experience?\n\nCityWheels Team"
+  },
+  "examDate": "2026-01-06",
+  "settings": {
+   "logoUrl": "https://audio.mock-stream.com/img/ibb/WN0XY5Lv/logo.png",
+   "heading1": "Bilim va malakalarni baholash agentligi",
+   "heading2": "Chet tilini bilish darajasi",
+   "examTitle": "Writing exam",
+   "logoWording": "Mock Stream",
+   "testIdentifier": "mock_stream"
+  },
+  "vocabulary": {
+   "task2": [
+    {
+     "en": "public transportation",
+     "uz": "jamoat transporti"
+    },
+    {
+     "en": "public transit systems",
+     "uz": "jamoat tranzit tizimlari"
+    },
+    {
+     "en": "traffic congestion",
+     "uz": "transport tirbandligi"
+    },
+    {
+     "en": "transit networks",
+     "uz": "tranzit tarmoqlari"
+    },
+    {
+     "en": "carbon emissions",
+     "uz": "uglerod chiqindilari"
+    },
+    {
+     "en": "electric buses",
+     "uz": "elektr avtobuslar"
+    },
+    {
+     "en": "climate targets",
+     "uz": "iqlim maqsadlari"
+    },
+    {
+     "en": "infrastructure costs",
+     "uz": "infratuzilma xarajatlari"
+    },
+    {
+     "en": "economic benefits",
+     "uz": "iqtisodiy foydalar"
+    },
+    {
+     "en": "social equality",
+     "uz": "ijtimoiy tenglik"
+    },
+    {
+     "en": "public transportation investment",
+     "uz": "jamoat transportiga investitsiya"
+    },
+    {
+     "en": "reliable and affordable",
+     "uz": "ishonchli va arzon"
+    },
+    {
+     "en": "minimize gridlock",
+     "uz": "tirbandlikni kamaytirish"
+    },
+    {
+     "en": "metro systems",
+     "uz": "metro tizimlari"
+    },
+    {
+     "en": "initial investments",
+     "uz": "dastlabki investitsiyalar"
+    },
+    {
+     "en": "increased productivity",
+     "uz": "oshirilgan samaradorlik"
+    },
+    {
+     "en": "healthcare costs",
+     "uz": "sog'liqni saqlash xarajatlari"
+    },
+    {
+     "en": "access jobs and education",
+     "uz": "ish va ta'limga kirish"
+    },
+    {
+     "en": "in conclusion",
+     "uz": "xulosa qilib aytganda"
+    },
+    {
+     "en": "efficient cities",
+     "uz": "samarali shaharlar"
+    }
+   ],
+   "task11": [
+    {
+     "en": "bike rental",
+     "uz": "velosiped ijarasi"
+    },
+    {
+     "en": "highly recommend",
+     "uz": "qattiq tavsiya qilmoq"
+    },
+    {
+     "en": "fun way to explore",
+     "uz": "o'rganishning qiziqarli usuli"
+    },
+    {
+     "en": "great condition",
+     "uz": "ajoyib holatda"
+    },
+    {
+     "en": "pick up and return",
+     "uz": "olish va qaytarish"
+    },
+    {
+     "en": "definitely try",
+     "uz": "albatta sinab ko'ring"
+    },
+    {
+     "en": "much better than",
+     "uz": "dan ancha yaxshi"
+    },
+    {
+     "en": "take care",
+     "uz": "o'zingizga g'amxo'rlik qiling"
+    },
+    {
+     "en": "visiting soon",
+     "uz": "tez orada tashrif"
+    },
+    {
+     "en": "explore city",
+     "uz": "shaharni o'rganmoq"
+    },
+    {
+     "en": "easy to use",
+     "uz": "ishlatish oson"
+    },
+    {
+     "en": "affordable prices",
+     "uz": "arzon narxlar"
+    },
+    {
+     "en": "convenient stations",
+     "uz": "qulay stantsiyalar"
+    },
+    {
+     "en": "comfortable ride",
+     "uz": "qulay sayohat"
+    },
+    {
+     "en": "scenic routes",
+     "uz": "chiroyli yo'llar"
+    },
+    {
+     "en": "tourist friendly",
+     "uz": "sayyohlarga qulay"
+    },
+    {
+     "en": "city center",
+     "uz": "shahar markazi"
+    },
+    {
+     "en": "great experience",
+     "uz": "ajoyib tajriba"
+    },
+    {
+     "en": "let me know",
+     "uz": "menga xabar bering"
+    },
+    {
+     "en": "good luck",
+     "uz": "omad tilayman"
+    }
+   ],
+   "task12": [
+    {
+     "en": "bike rental service",
+     "uz": "velosiped ijarasi xizmati"
+    },
+    {
+     "en": "rental process",
+     "uz": "ijara jarayoni"
+    },
+    {
+     "en": "docking stations",
+     "uz": "to'xtash stantsiyalari"
+    },
+    {
+     "en": "peak hours",
+     "uz": "eng gavjum soatlar"
+    },
+    {
+     "en": "tourist areas",
+     "uz": "sayyohlik joylari"
+    },
+    {
+     "en": "return stations",
+     "uz": "qaytarish stantsiyalari"
+    },
+    {
+     "en": "electric bikes",
+     "uz": "elektr velosipedlar"
+    },
+    {
+     "en": "route suggestion",
+     "uz": "yo'nalish tavsiyasi"
+    },
+    {
+     "en": "helmet rentals",
+     "uz": "dubulg'a ijarasi"
+    },
+    {
+     "en": "extremely pleased",
+     "uz": "juda mamnun"
+    },
+    {
+     "en": "worked flawlessly",
+     "uz": "mukammal ishladi"
+    },
+    {
+     "en": "well-maintained",
+     "uz": "yaxshi parvarishlangan"
+    },
+    {
+     "en": "conveniently located",
+     "uz": "qulay joylashgan"
+    },
+    {
+     "en": "sometimes difficult",
+     "uz": "ba'zan qiyin"
+    },
+    {
+     "en": "finding available",
+     "uz": "mavjudini topish"
+    },
+    {
+     "en": "forcing longer rides",
+     "uz": "uzoqroq sayohatga majburlash"
+    },
+    {
+     "en": "hilly routes",
+     "uz": "tepalik yo'llari"
+    },
+    {
+     "en": "scenic paths",
+     "uz": "chiroyli yo'laklar"
+    },
+    {
+     "en": "Yours sincerely",
+     "uz": "Hurmat bilan"
+    },
+    {
+     "en": "improve safety",
+     "uz": "xavfsizlikni yaxshilash"
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "Also": {
+    "uz": "Shuningdek",
+    "type": "adv"
+   },
+   "such": {
+    "uz": "shunday",
+    "type": "adv"
+   },
+   "very": {
+    "uz": "juda",
+    "type": "adv"
+   },
+   "great": {
+    "uz": "ajoyib",
+    "type": "adv"
+   },
+   "would": {
+    "uz": "bo'lardi",
+    "type": "modal"
+   },
+   "firmly": {
+    "uz": "qatiy",
+    "type": "adv"
+   },
+   "highly": {
+    "uz": "juda",
+    "type": "adv"
+   },
+   "off to": {
+    "uz": "...ga jo'namoq, yo'l olmoq",
+    "type": "phrasal"
+   },
+   "should": {
+    "uz": "kerak",
+    "type": "modal"
+   },
+   "Firstly": {
+    "uz": "Birinchidan",
+    "type": "adv"
+   },
+   "However": {
+    "uz": "Biroq",
+    "type": "adv"
+   },
+   "Overall": {
+    "uz": "Umuman olganda",
+    "type": "adv"
+   },
+   "pick up": {
+    "uz": "olib ketmoq",
+    "type": "phrasal"
+   },
+   "Secondly": {
+    "uz": "Ikkinchidan",
+    "type": "adv"
+   },
+   "a breeze": {
+    "uz": "juda oson ish",
+    "type": "idiom"
+   },
+   "drop off": {
+    "uz": "qaytarib topshirmoq",
+    "type": "phrasal"
+   },
+   "Take care": {
+    "uz": "O'zingni ehtiyot qil",
+    "type": "phrasal"
+   },
+   "That said": {
+    "uz": "Shunga qaramay",
+    "type": "linking"
+   },
+   "dead easy": {
+    "uz": "juda oson",
+    "type": "colloc"
+   },
+   "extremely": {
+    "uz": "o'ta",
+    "type": "adv"
+   },
+   "sometimes": {
+    "uz": "ba'zan",
+    "type": "adv"
+   },
+   "definitely": {
+    "uz": "albatta",
+    "type": "adv"
+   },
+   "flawlessly": {
+    "uz": "benuqson",
+    "type": "adv"
+   },
+   "get around": {
+    "uz": "aylanib yurmoq",
+    "type": "phrasal"
+   },
+   "heading to": {
+    "uz": "...ga yo'l olmoq, jo'namoq",
+    "type": "phrasal"
+   },
+   "peak hours": {
+    "uz": "eng gavjum soatlar",
+    "type": "colloc"
+   },
+   "Furthermore": {
+    "uz": "Bundan tashqari",
+    "type": "adv"
+   },
+   "drop it off": {
+    "uz": "qaytarib qo'ymoq, topshirmoq",
+    "type": "phrasal"
+   },
+   "environment": {
+    "uz": "atrof-muhit",
+    "type": "colloc"
+   },
+   "grab a bike": {
+    "uz": "velosiped olmoq",
+    "type": "colloc"
+   },
+   "hassle-free": {
+    "uz": "muammosiz, ovoragarchiliksiz",
+    "type": "colloc"
+   },
+   "hire a bike": {
+    "uz": "velosiped ijaraga olmoq",
+    "type": "colloc"
+   },
+   "simply must": {
+    "uz": "albatta ...ish shart",
+    "type": "modal"
+   },
+   "Additionally": {
+    "uz": "Qo'shimcha ravishda",
+    "type": "adv"
+   },
+   "First of all": {
+    "uz": "Eng avvalo",
+    "type": "linking"
+   },
+   "Have a blast": {
+    "uz": "yayrab dam ol, zavqlan",
+    "type": "idiom"
+   },
+   "Nevertheless": {
+    "uz": "Shunga qaramay",
+    "type": "adv"
+   },
+   "On the whole": {
+    "uz": "Umuman olganda",
+    "type": "linking"
+   },
+   "conveniently": {
+    "uz": "qulay tarzda",
+    "type": "adv"
+   },
+   "off the road": {
+    "uz": "yo'ldan (olib tashlamoq)",
+    "type": "phrasal"
+   },
+   "traffic jams": {
+    "uz": "tirbandlik",
+    "type": "colloc"
+   },
+   "In conclusion": {
+    "uz": "Xulosa qilib aytganda",
+    "type": "adv"
+   },
+   "climate goals": {
+    "uz": "iqlim maqsadlari",
+    "type": "colloc"
+   },
+   "come in handy": {
+    "uz": "asqotmoq, foydaga oshmoq",
+    "type": "phrasal"
+   },
+   "tourist areas": {
+    "uz": "turistik hududlar",
+    "type": "colloc"
+   },
+   "On top of that": {
+    "uz": "Bundan tashqari",
+    "type": "linking"
+   },
+   "electric bikes": {
+    "uz": "elektrovelosipedlar",
+    "type": "colloc"
+   },
+   "electric buses": {
+    "uz": "elektrobuslar",
+    "type": "colloc"
+   },
+   "helmet rentals": {
+    "uz": "dubulg'a ijarasi",
+    "type": "colloc"
+   },
+   "rental process": {
+    "uz": "ijara jarayoni",
+    "type": "colloc"
+   },
+   "climate targets": {
+    "uz": "iqlim maqsadlari",
+    "type": "colloc"
+   },
+   "costs a fortune": {
+    "uz": "juda qimmatga tushadi",
+    "type": "idiom"
+   },
+   "in short supply": {
+    "uz": "yetishmaydigan, kam",
+    "type": "idiom"
+   },
+   "return stations": {
+    "uz": "qaytarish punktlari",
+    "type": "colloc"
+   },
+   "social equality": {
+    "uz": "ijtimoiy tenglik",
+    "type": "colloc"
+   },
+   "well maintained": {
+    "uz": "yaxshi parvarishlangan",
+    "type": "colloc"
+   },
+   "carbon emissions": {
+    "uz": "uglerod chiqindilari",
+    "type": "colloc"
+   },
+   "docking stations": {
+    "uz": "to'xtash joylari",
+    "type": "colloc"
+   },
+   "made good use of": {
+    "uz": "yaxshi foydalanmoq",
+    "type": "colloc"
+   },
+   "money well spent": {
+    "uz": "o'rinli sarflangan pul",
+    "type": "idiom"
+   },
+   "route suggestion": {
+    "uz": "yo'nalish taklifi",
+    "type": "colloc"
+   },
+   "transit networks": {
+    "uz": "transport tarmoqlari",
+    "type": "colloc"
+   },
+   "an absolute treat": {
+    "uz": "haqiqiy zavq, rosa rohat",
+    "type": "idiom"
+   },
+   "economic benefits": {
+    "uz": "iqtisodiy foyda",
+    "type": "colloc"
+   },
+   "well looked after": {
+    "uz": "yaxshi parvarishlangan",
+    "type": "phrasal"
+   },
+   "First and foremost": {
+    "uz": "Eng avvalo, birinchi navbatda",
+    "type": "linking"
+   },
+   "along the seafront": {
+    "uz": "qirg'oq bo'ylab",
+    "type": "colloc"
+   },
+   "pouring money into": {
+    "uz": "katta mablag' sarflamoq",
+    "type": "phrasal"
+   },
+   "strongly recommend": {
+    "uz": "qattiq tavsiya qilmoq",
+    "type": "colloc"
+   },
+   "traffic congestion": {
+    "uz": "transport tirbandligi",
+    "type": "colloc"
+   },
+   "bike rental service": {
+    "uz": "velosiped ijarasi xizmati",
+    "type": "colloc"
+   },
+   "conveniently placed": {
+    "uz": "qulay joylashgan",
+    "type": "colloc"
+   },
+   "too good to be true": {
+    "uz": "ishonish qiyin darajada yaxshi",
+    "type": "idiom"
+   },
+   "conveniently located": {
+    "uz": "qulay joylashgan",
+    "type": "colloc"
+   },
+   "infrastructure costs": {
+    "uz": "infratuzilma xarajatlari",
+    "type": "colloc"
+   },
+   "room for improvement": {
+    "uz": "yaxshilash uchun imkoniyat",
+    "type": "idiom"
+   },
+   "All things considered": {
+    "uz": "Hammasini hisobga olganda",
+    "type": "linking"
+   },
+   "Public transportation": {
+    "uz": "Jamoat transporti",
+    "type": "colloc"
+   },
+   "channelling money into": {
+    "uz": "...ga mablag' yo'naltirmoq",
+    "type": "phrasal"
+   },
+   "have a whale of a time": {
+    "uz": "rosa yayramoq, zavqlanmoq",
+    "type": "idiom"
+   },
+   "public transit systems": {
+    "uz": "jamoat transporti tizimlari",
+    "type": "colloc"
+   },
+   "public transportation investment": {
+    "uz": "jamoat transportiga investitsiya kiritish",
+    "type": "colloc"
+   }
+  }
+ },
+ "created_at": "2026-05-06T15:00:56.348386+00:00",
+ "updated_at": "2026-07-06T10:57:43.468434+00:00"
+}

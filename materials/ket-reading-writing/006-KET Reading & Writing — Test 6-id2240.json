@@ -1,0 +1,1026 @@
+{
+ "id": 2240,
+ "mock_type": "ket-reading-writing",
+ "mock_number": 6,
+ "title": "KET Reading & Writing — Test 6",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "match-notices",
+    "items": [
+     {
+      "id": 1,
+      "answer": "D",
+      "prompt": "Not all drivers can stop here."
+     },
+     {
+      "id": 2,
+      "answer": "A",
+      "prompt": "Children cannot come here in the evening."
+     },
+     {
+      "id": 3,
+      "answer": "C",
+      "prompt": "Drivers must be careful."
+     },
+     {
+      "id": 4,
+      "answer": "B",
+      "prompt": "Not everyone can make a call from here."
+     },
+     {
+      "id": 5,
+      "answer": "E",
+      "prompt": "Only adults have to pay here."
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "G",
+     "number": 0,
+     "prompt": "We are only open in the morning."
+    },
+    "notices": [
+     {
+      "text": "SWIMMING POOL\nADULTS ONLY 6–8 p.m.",
+      "letter": "A"
+     },
+     {
+      "text": "TELEPHONE\nfor customers' use only",
+      "letter": "B"
+     },
+     {
+      "text": "DANGER!\nNo Traffic Lights Ahead",
+      "letter": "C"
+     },
+     {
+      "text": "PARKING FOR POLICE CARS ONLY",
+      "letter": "D"
+     },
+     {
+      "text": "LEEDS CASTLE\nFREE ADMISSION\nFOR CHILDREN",
+      "letter": "E"
+     },
+     {
+      "text": "Film matinee 2 p.m.\n£3.00",
+      "letter": "F"
+     },
+     {
+      "text": "Bookshop — Closed afternoons",
+      "letter": "G"
+     },
+     {
+      "text": "TELEPHONES ON\nSECOND FLOOR",
+      "letter": "H"
+     }
+    ],
+    "partNumber": 1,
+    "instruction": [
+     "Which notice (A–H) says this (1–5)?",
+     "For questions 1–5, mark the correct letter A–H on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "mcq-gap-fill-sentences",
+    "items": [
+     {
+      "id": 6,
+      "answer": "C",
+      "options": [
+       {
+        "text": "do",
+        "letter": "A"
+       },
+       {
+        "text": "make",
+        "letter": "B"
+       },
+       {
+        "text": "take",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Everyone must _____ a shower before they go in the water."
+     },
+     {
+      "id": 7,
+      "answer": "B",
+      "options": [
+       {
+        "text": "brothers",
+        "letter": "A"
+       },
+       {
+        "text": "parents",
+        "letter": "B"
+       },
+       {
+        "text": "cousins",
+        "letter": "C"
+       }
+      ],
+      "sentence": "There are special changing rooms for _____ with young children."
+     },
+     {
+      "id": 8,
+      "answer": "C",
+      "options": [
+       {
+        "text": "know",
+        "letter": "A"
+       },
+       {
+        "text": "understand",
+        "letter": "B"
+       },
+       {
+        "text": "remember",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Please _____ to take a towel with you to the pool."
+     },
+     {
+      "id": 9,
+      "answer": "B",
+      "options": [
+       {
+        "text": "dirty",
+        "letter": "A"
+       },
+       {
+        "text": "thirsty",
+        "letter": "B"
+       },
+       {
+        "text": "wet",
+        "letter": "C"
+       }
+      ],
+      "sentence": "If you are _____, you can get a drink in the snack bar upstairs."
+     },
+     {
+      "id": 10,
+      "answer": "A",
+      "options": [
+       {
+        "text": "ages",
+        "letter": "A"
+       },
+       {
+        "text": "lessons",
+        "letter": "B"
+       },
+       {
+        "text": "pupils",
+        "letter": "C"
+       }
+      ],
+      "sentence": "In the afternoons, there are swimming classes for children of all _____."
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "options": [
+      {
+       "text": "opened",
+       "letter": "A"
+      },
+      {
+       "text": "built",
+       "letter": "B"
+      },
+      {
+       "text": "become",
+       "letter": "C"
+      }
+     ],
+     "sentence": "A new swimming pool has just _____ in the town centre."
+    },
+    "partNumber": 2,
+    "instruction": [
+     "Read the sentences (6–10) about a swimming pool.",
+     "Choose the best word (A, B or C) for each space.",
+     "For questions 6–10, mark A, B or C on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-response",
+    "items": [
+     {
+      "id": 11,
+      "answer": "C",
+      "prompt": "John's going to London.",
+      "options": [
+       {
+        "text": "Often?",
+        "letter": "A"
+       },
+       {
+        "text": "Yesterday?",
+        "letter": "B"
+       },
+       {
+        "text": "By train?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "answer": "B",
+      "prompt": "When do you study?",
+      "options": [
+       {
+        "text": "At school.",
+        "letter": "A"
+       },
+       {
+        "text": "In the evenings.",
+        "letter": "B"
+       },
+       {
+        "text": "In the library.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "answer": "A",
+      "prompt": "Do you like my new shoes?",
+      "options": [
+       {
+        "text": "Where did you buy them?",
+        "letter": "A"
+       },
+       {
+        "text": "How long are they?",
+        "letter": "B"
+       },
+       {
+        "text": "Would you like them?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "answer": "B",
+      "prompt": "Be careful.",
+      "options": [
+       {
+        "text": "Thank you.",
+        "letter": "A"
+       },
+       {
+        "text": "I will.",
+        "letter": "B"
+       },
+       {
+        "text": "What a pity!",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "answer": "C",
+      "prompt": "I hate basketball.",
+      "options": [
+       {
+        "text": "You are, too.",
+        "letter": "A"
+       },
+       {
+        "text": "It can, too.",
+        "letter": "B"
+       },
+       {
+        "text": "I do, too.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "prompt": "Where do you come from?",
+     "options": [
+      {
+       "text": "New York.",
+       "letter": "A"
+      },
+      {
+       "text": "School.",
+       "letter": "B"
+      },
+      {
+       "text": "Home.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partLetter": "a",
+    "partNumber": 3,
+    "instruction": [
+     "Complete the five conversations.",
+     "For questions 11–15, mark A, B or C on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "type": "match-dialogue",
+    "items": [
+     {
+      "id": 16,
+      "answer": "C"
+     },
+     {
+      "id": 17,
+      "answer": "E"
+     },
+     {
+      "id": 18,
+      "answer": "G"
+     },
+     {
+      "id": 19,
+      "answer": "B"
+     },
+     {
+      "id": 20,
+      "answer": "A"
+     }
+    ],
+    "example": {
+     "answer": "D",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "Perhaps I'll go next weekend.",
+      "letter": "A"
+     },
+     {
+      "text": "Are the tickets expensive there?",
+      "letter": "B"
+     },
+     {
+      "text": "Oh, what did you see?",
+      "letter": "C"
+     },
+     {
+      "text": "Fine thanks, and you?",
+      "letter": "D"
+     },
+     {
+      "text": "Do you think I'd like it?",
+      "letter": "E"
+     },
+     {
+      "text": "Is the city centre far?",
+      "letter": "F"
+     },
+     {
+      "text": "Yes, it was really good.",
+      "letter": "G"
+     },
+     {
+      "text": "You should go to bed early.",
+      "letter": "H"
+     }
+    ],
+    "dialogue": [
+     {
+      "line": "Hello, David. How are you?",
+      "speaker": "Sarah"
+     },
+     {
+      "gap": 0,
+      "speaker": "David"
+     },
+     {
+      "line": "I'm tired. I went to see a late film last night.",
+      "speaker": "Sarah"
+     },
+     {
+      "gap": 16,
+      "speaker": "David"
+     },
+     {
+      "line": "That one with Brad Pitt, the American actor.",
+      "speaker": "Sarah"
+     },
+     {
+      "gap": 17,
+      "speaker": "David"
+     },
+     {
+      "line": "I think so. You liked his last film, didn't you?",
+      "speaker": "Sarah"
+     },
+     {
+      "gap": 18,
+      "speaker": "David"
+     },
+     {
+      "line": "The new one in the city centre.",
+      "speaker": "Sarah"
+     },
+     {
+      "gap": 19,
+      "speaker": "David"
+     },
+     {
+      "line": "Yes, £6, but it's much better than the old one.",
+      "speaker": "Sarah"
+     },
+     {
+      "gap": 20,
+      "speaker": "David"
+     },
+     {
+      "line": "Well, I hope you like it.",
+      "speaker": "Sarah"
+     }
+    ],
+    "partLetter": "b",
+    "partNumber": 3,
+    "instruction": [
+     "Complete the conversation between two friends.",
+     "What does David say to Sarah?",
+     "For questions 16–20, mark the correct letter A–H on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "type": "mcq-passage-stems",
+    "items": [
+     {
+      "id": 21,
+      "stem": "Why did Aunt Flory give Esther some money?",
+      "answer": "C",
+      "options": [
+       {
+        "text": "Esther asked for it.",
+        "letter": "A"
+       },
+       {
+        "text": "Esther's friends needed it.",
+        "letter": "B"
+       },
+       {
+        "text": "It was a present.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 22,
+      "stem": "After she left school, Esther",
+      "answer": "B",
+      "options": [
+       {
+        "text": "went to college.",
+        "letter": "A"
+       },
+       {
+        "text": "started her own business.",
+        "letter": "B"
+       },
+       {
+        "text": "worked for her aunt.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 23,
+      "stem": "Why did Esther make jam?",
+      "answer": "C",
+      "options": [
+       {
+        "text": "She liked to eat it.",
+        "letter": "A"
+       },
+       {
+        "text": "She had a lot of fruit.",
+        "letter": "B"
+       },
+       {
+        "text": "She wanted to make money.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 24,
+      "stem": "When Esther left school, her parents wanted her to",
+      "answer": "A",
+      "options": [
+       {
+        "text": "go to college.",
+        "letter": "A"
+       },
+       {
+        "text": "be a businesswoman.",
+        "letter": "B"
+       },
+       {
+        "text": "work in a market.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 25,
+      "stem": "Esther sold orange juice to",
+      "answer": "B",
+      "options": [
+       {
+        "text": "the local market.",
+        "letter": "A"
+       },
+       {
+        "text": "a school.",
+        "letter": "B"
+       },
+       {
+        "text": "her friends.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 26,
+      "stem": "Esther's parents were happy because Esther",
+      "answer": "C",
+      "options": [
+       {
+        "text": "cooked for them.",
+        "letter": "A"
+       },
+       {
+        "text": "was busy.",
+        "letter": "B"
+       },
+       {
+        "text": "had a good business.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 27,
+      "stem": "After two years, Esther",
+      "answer": "A",
+      "options": [
+       {
+        "text": "paid people to help her.",
+        "letter": "A"
+       },
+       {
+        "text": "worked in a supermarket.",
+        "letter": "B"
+       },
+       {
+        "text": "opened a shop.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 4",
+    "article": "When Esther left school at the age of sixteen, her aunt Flory gave her £500 for her birthday. Most of Esther's friends decided to go to college, but Esther used her aunt's money to start her own business. She bought fruit, sugar and some glass jars and began making her own jam. She sold the jam for £1 a jar to her friends and she soon doubled her aunt's £500.\n\nAt first, her parents didn't want Esther to spend her time making jam and they thought that she should study instead. They hoped that one day she would be a teacher or a doctor. But Esther didn't listen to them. She just kept on making jam. After a few months, she started selling it to the local market. Then she started making orange juice. She sold this to a school where one of her friends worked.\n\nAfter two years, her business was very large and her parents were very pleased with her. She made all kinds of food which she sold to shops and supermarkets. She was so busy that she had to get some people to work for her.",
+    "example": {
+     "stem": "How old was Esther when she left school?",
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "text": "14",
+       "letter": "A"
+      },
+      {
+       "text": "15",
+       "letter": "B"
+      },
+      {
+       "text": "16",
+       "letter": "C"
+      }
+     ]
+    },
+    "partNumber": 4,
+    "instruction": [
+     "Read the article about Esther and then answer the questions.",
+     "For questions 21–27, mark A, B or C on the answer sheet."
+    ],
+    "articleTitle": "ESTHER'S STORY",
+    "questionsLabel": "QUESTIONS 21–27"
+   },
+   {
+    "type": "mcq-cloze-passage",
+    "items": [
+     {
+      "id": 28,
+      "answer": "C",
+      "options": [
+       {
+        "text": "fly",
+        "letter": "A"
+       },
+       {
+        "text": "flown",
+        "letter": "B"
+       },
+       {
+        "text": "flew",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 29,
+      "answer": "A",
+      "options": [
+       {
+        "text": "in",
+        "letter": "A"
+       },
+       {
+        "text": "at",
+        "letter": "B"
+       },
+       {
+        "text": "through",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 30,
+      "answer": "A",
+      "options": [
+       {
+        "text": "lot",
+        "letter": "A"
+       },
+       {
+        "text": "many",
+        "letter": "B"
+       },
+       {
+        "text": "few",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 31,
+      "answer": "B",
+      "options": [
+       {
+        "text": "fast",
+        "letter": "A"
+       },
+       {
+        "text": "faster",
+        "letter": "B"
+       },
+       {
+        "text": "fastest",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 32,
+      "answer": "C",
+      "options": [
+       {
+        "text": "must",
+        "letter": "A"
+       },
+       {
+        "text": "should",
+        "letter": "B"
+       },
+       {
+        "text": "can",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 33,
+      "answer": "B",
+      "options": [
+       {
+        "text": "between",
+        "letter": "A"
+       },
+       {
+        "text": "from",
+        "letter": "B"
+       },
+       {
+        "text": "of",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 34,
+      "answer": "C",
+      "options": [
+       {
+        "text": "with",
+        "letter": "A"
+       },
+       {
+        "text": "on",
+        "letter": "B"
+       },
+       {
+        "text": "by",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 35,
+      "answer": "A",
+      "options": [
+       {
+        "text": "them",
+        "letter": "A"
+       },
+       {
+        "text": "their",
+        "letter": "B"
+       },
+       {
+        "text": "they",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 5",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "options": [
+      {
+       "text": "the",
+       "letter": "A"
+      },
+      {
+       "text": "a",
+       "letter": "B"
+      },
+      {
+       "text": "one",
+       "letter": "C"
+      }
+     ]
+    },
+    "passage": "In 1783, two French brothers built {0} first balloon to take people into the air. One hundred and twenty years later, in 1903, the Wright brothers built the first plane with an engine and {28} in it. This was {29} the United States. Then, in 1918, the US Post Office began the first airmail service.\n\nAeroplanes changed a {30} in the next thirty years. Then, in the 1950s, aeroplanes became much {31} because they had jet engines.\n\nIn 1976, Concorde was built in the UK and France. It is the fastest passenger plane in the world and it {32} fly at 2500 kilometres an hour, so the journey {33} London to New York is only four hours.\n\nToday, millions of people travel {34} aeroplane, and it is difficult to think of a world without {35}.",
+    "partNumber": 5,
+    "instruction": [
+     "Read the article about air travel.",
+     "Choose the best word (A, B or C) for each space (28–35).",
+     "For questions 28–35, mark A, B or C on the answer sheet."
+    ],
+    "passageTitle": "A HISTORY OF AIR TRAVEL",
+    "questionsLabel": "QUESTIONS 28–35"
+   },
+   {
+    "type": "vocab-first-letter",
+    "items": [
+     {
+      "id": 36,
+      "answer": "book",
+      "prompt": "If you want a room in a hotel, you can phone and do this first.",
+      "letters": 4,
+      "firstLetter": "b"
+     },
+     {
+      "id": 37,
+      "answer": "reception",
+      "prompt": "When you arrive at a hotel or a campsite, you go here first.",
+      "letters": 9,
+      "firstLetter": "r"
+     },
+     {
+      "id": 38,
+      "answer": "tent",
+      "prompt": "You sleep inside this on a campsite.",
+      "letters": 4,
+      "firstLetter": "t"
+     },
+     {
+      "id": 39,
+      "answer": "double",
+      "prompt": "This kind of hotel room is for two people.",
+      "letters": 6,
+      "firstLetter": "d"
+     },
+     {
+      "id": 40,
+      "answer": "beach",
+      "prompt": "You go here to enjoy the sun and swim in the sea.",
+      "letters": 5,
+      "firstLetter": "b"
+     }
+    ],
+    "label": "PART 6",
+    "example": {
+     "answer": "passport",
+     "number": 0,
+     "prompt": "You may need this to leave the country.",
+     "firstLetter": "p"
+    },
+    "partNumber": 6,
+    "instruction": [
+     "Read the descriptions (36–40) of some holiday words.",
+     "What is the word for each description?",
+     "The first letter is already there. There is one space for each other letter in the word.",
+     "For questions 36–40, write the words on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 36–40"
+   },
+   {
+    "type": "open-cloze-letter",
+    "items": [
+     {
+      "id": 41,
+      "answer": "last"
+     },
+     {
+      "id": 42,
+      "answer": "on"
+     },
+     {
+      "id": 43,
+      "answer": "a"
+     },
+     {
+      "id": 44,
+      "answer": "is"
+     },
+     {
+      "id": 45,
+      "answer": "have"
+     },
+     {
+      "id": 46,
+      "answer": "am"
+     },
+     {
+      "id": 47,
+      "answer": "you"
+     },
+     {
+      "id": 48,
+      "answer": "to"
+     },
+     {
+      "id": 49,
+      "answer": "will"
+     },
+     {
+      "id": 50,
+      "answer": "opens"
+     }
+    ],
+    "label": "PART 7",
+    "example": {
+     "answer": "my",
+     "number": 0
+    },
+    "letters": [
+     {
+      "body": "I lost (Example: my) bag on a train {41} week. I was on the 8.30 a.m. train to Cambridge {42} 10th May. It is {43} large blue bag and my name {44} written on the outside. {45} you found this bag?",
+      "header": "",
+      "closing": "Yours faithfully,\nMary Johnson",
+      "greeting": "Dear Sir,"
+     },
+     {
+      "body": "I {46} pleased to tell {47} that we have your bag here. If you come {48} this office, I {49} give it to you. The office {50} at 9 a.m. and closes at 6.30 p.m. every day.",
+      "header": "",
+      "closing": "Yours sincerely,\nJ Wilson",
+      "greeting": "Dear Ms Johnson,"
+     }
+    ],
+    "partNumber": 7,
+    "instruction": [
+     "Complete these letters.",
+     "Write ONE word for each space (41–50).",
+     "For questions 41–50, write your words on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 41–50"
+   },
+   {
+    "note": {
+     "body": "I come from Australia and I teach French to businessmen. I want to start learning Portuguese because next year I am going to work in Brazil.\n\nI am free after 1 p.m. on Tuesdays and Thursdays. Can I book a place on one of your courses?",
+     "dateLine": "To: International Language School",
+     "signature": "Cheryl Harvey"
+    },
+    "rows": [
+     {
+      "label": "Full name:",
+      "prefilled": "Cheryl Harvey"
+     },
+     {
+      "id": 51,
+      "label": "Nationality:",
+      "answer": "Australian"
+     },
+     {
+      "id": 52,
+      "label": "Occupation:",
+      "answer": "teacher"
+     },
+     {
+      "id": 53,
+      "label": "Name of course:",
+      "answer": "Portuguese"
+     },
+     {
+      "id": 54,
+      "label": "Day:",
+      "answer": "Tuesday"
+     },
+     {
+      "id": 55,
+      "label": "Starting time:",
+      "answer": "2.30 p.m."
+     }
+    ],
+    "type": "info-transfer-notes",
+    "label": "PART 8",
+    "notice": {
+     "body": "French: Monday evening\nGerman: Thursday evening\nPortuguese: Tuesday afternoon\nSpanish: Wednesday evening\n\nAfternoon Classes: 2.30–4.30 p.m.\nEvening Classes: 6.30–8.30 p.m.",
+     "title": "Language Courses"
+    },
+    "notesTitle": "International Language School",
+    "partNumber": 8,
+    "instruction": [
+     "Read the information about language courses and the e-mail message.",
+     "Fill in the information on the Course Booking Form.",
+     "For questions 51–55, write the information on the answer sheet."
+    ],
+    "notesSubtitle": "Course Booking Form",
+    "questionsLabel": "QUESTIONS 51–55"
+   },
+   {
+    "type": "writing-postcard",
+    "items": [
+     {
+      "id": 56,
+      "type": "free-text",
+      "answer": "Hello. Thank you for your letter. Of corse, I want to see you too.\nWell, My country is very cold. So you should bring many sweaters, jeanse, coats etc. I think soll\nLove, Lola",
+      "maxWords": 35,
+      "minWords": 25
+     }
+    ],
+    "label": "PART 9",
+    "footer": [
+     "Write 25–35 words.",
+     "Write your postcard on the answer sheet."
+    ],
+    "prompt": "I am going to visit your country next month. Can I see you?\n\nPlease tell me about the weather there. What clothes should I bring?",
+    "wordCount": "25–35 words",
+    "partNumber": 9,
+    "instruction": [
+     "Read this postcard from your friend, Alex.",
+     "Write a postcard to Alex.",
+     "Answer Alex's questions."
+    ],
+    "questionsLabel": "QUESTION 56",
+    "promptSignature": "Alex"
+   }
+  ],
+  "testInfo": {
+   "id": "ket-rw-06",
+   "level": "A2",
+   "paper": "Paper 1",
+   "parts": 9,
+   "title": "KET Reading & Writing — Test 6",
+   "totalTime": 70,
+   "totalQuestions": 56
+  }
+ },
+ "created_at": "2026-10-14T06:44:59.628567+00:00",
+ "updated_at": "2026-10-14T06:46:47.707831+00:00"
+}

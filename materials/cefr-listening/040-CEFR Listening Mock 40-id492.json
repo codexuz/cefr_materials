@@ -1,0 +1,516 @@
+{
+ "id": 492,
+ "mock_type": "cefr-listening",
+ "mock_number": 40,
+ "title": "CEFR Listening Mock 40",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "mcq-reply",
+    "title": "Part 1",
+    "answers": {
+     "1": "C",
+     "2": "C",
+     "3": "C",
+     "4": "B",
+     "5": "A",
+     "6": "B",
+     "7": "A",
+     "8": "A"
+    },
+    "audioFile": "https://audio.mock-stream.com/test40/PART 1.m4a",
+    "questions": [
+     {
+      "id": 1,
+      "options": [
+       {
+        "text": "It was big last year.",
+        "letter": "A"
+       },
+       {
+        "text": "Yes, I like everything.",
+        "letter": "B"
+       },
+       {
+        "text": "That's a lot.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "options": [
+       {
+        "text": "It started well.",
+        "letter": "A"
+       },
+       {
+        "text": "It's all right.",
+        "letter": "B"
+       },
+       {
+        "text": "I think so.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 3,
+      "options": [
+       {
+        "text": "Did I go?",
+        "letter": "A"
+       },
+       {
+        "text": "Has he come?",
+        "letter": "B"
+       },
+       {
+        "text": "Was it good?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 4,
+      "options": [
+       {
+        "text": "I can't go there.",
+        "letter": "A"
+       },
+       {
+        "text": "I didn't see it.",
+        "letter": "B"
+       },
+       {
+        "text": "I don't know how to.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 5,
+      "options": [
+       {
+        "text": "Sorry, can you say that again?",
+        "letter": "A"
+       },
+       {
+        "text": "I'm sorry. I'll call again later.",
+        "letter": "B"
+       },
+       {
+        "text": "I'm afraid I don't know.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 6,
+      "options": [
+       {
+        "text": "I'm not sure.",
+        "letter": "A"
+       },
+       {
+        "text": "Where are you planning to go?",
+        "letter": "B"
+       },
+       {
+        "text": "I don't agree.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 7,
+      "options": [
+       {
+        "text": "Who's the singer?",
+        "letter": "A"
+       },
+       {
+        "text": "It's in the record shop.",
+        "letter": "B"
+       },
+       {
+        "text": "I can hear it.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 8,
+      "options": [
+       {
+        "text": "I'll just check for you.",
+        "letter": "A"
+       },
+       {
+        "text": "Afternoon and evening",
+        "letter": "B"
+       },
+       {
+        "text": "How much did you pay?",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "partNumber": 1,
+    "instruction": "You will hear some sentences. Choose the correct reply to each sentence (A, B, or C).",
+    "questionRange": "1-8"
+   },
+   {
+    "type": "gap-fill-form",
+    "title": "Part 2",
+    "answers": {
+     "9": "CHANGES",
+     "10": "FLOWERS",
+     "11": "PUBLISHED",
+     "12": "CANCELLED",
+     "13": "10:00",
+     "14": "LIBRARY"
+    },
+    "audioFile": "https://audio.mock-stream.com/test40/PART 2.m4a",
+    "formTitle": "RADIO PROGRAMMES",
+    "partNumber": 2,
+    "formContent": [
+     {
+      "text": "There are",
+      "type": "item-gap",
+      "gapId": 9,
+      "gapSuffix": "to some of our programmes this week."
+     },
+     {
+      "text": "The wildlife documentary looks at wild",
+      "type": "item-gap",
+      "gapId": 10,
+      "gapSuffix": "and how to identify them."
+     },
+     {
+      "text": "In Writers' World, discover how to get your work",
+      "type": "item-gap",
+      "gapId": 11,
+      "gapSuffix": "by using the web."
+     },
+     {
+      "text": "On Sports Night, there will be no discussions on last week's matches as they were",
+      "type": "item-gap",
+      "gapId": 12,
+      "gapSuffix": "."
+     },
+     {
+      "text": "Join Sally at the new time of",
+      "type": "item-gap",
+      "gapId": 13,
+      "gapSuffix": "to ask questions on Money Matters."
+     },
+     {
+      "text": "You'll find Sally at the entrance to the",
+      "type": "item-gap",
+      "gapId": 14,
+      "gapSuffix": "on Friday."
+     }
+    ],
+    "instruction": "You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. Write ONE WORD and / or A NUMBER for each answer.",
+    "questionRange": "9-14"
+   },
+   {
+    "type": "matching-speakers",
+    "title": "Part 3",
+    "answers": {
+     "15": "E",
+     "16": "D",
+     "17": "F",
+     "18": "A",
+     "19": "C"
+    },
+    "options": [
+     {
+      "text": "set an example of hard work",
+      "letter": "A"
+     },
+     {
+      "text": "keep up-to-date with the latest ideas",
+      "letter": "B"
+     },
+     {
+      "text": "give information on individual progress",
+      "letter": "C"
+     },
+     {
+      "text": "be available outside class time",
+      "letter": "D"
+     },
+     {
+      "text": "give a lot of encouragement",
+      "letter": "E"
+     },
+     {
+      "text": "have an entertaining approach",
+      "letter": "F"
+     },
+     {
+      "text": "set a realistic amount of homework",
+      "letter": "G"
+     },
+     {
+      "text": "have good qualifications",
+      "letter": "H"
+     }
+    ],
+    "speakers": [
+     {
+      "id": 15,
+      "label": "Speaker 1"
+     },
+     {
+      "id": 16,
+      "label": "Speaker 2"
+     },
+     {
+      "id": 17,
+      "label": "Speaker 3"
+     },
+     {
+      "id": 18,
+      "label": "Speaker 4"
+     },
+     {
+      "id": 19,
+      "label": "Speaker 5"
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test40/PART 3.m4a",
+    "partNumber": 3,
+    "instruction": "You will hear five short extracts in which people are talking about what makes a good teacher. For questions 15-19, choose from the list (A-H) what each speaker says a good teacher should do. Use the letters only once. There are THREE EXTRA letters which you do not need to use.",
+    "questionRange": "15-19"
+   },
+   {
+    "type": "map-labeling",
+    "title": "Part 4",
+    "answers": {
+     "20": "C",
+     "21": "F",
+     "22": "A",
+     "23": "H",
+     "24": "E"
+    },
+    "mapImage": "https://audio.mock-stream.com/test40/map.png",
+    "mapTitle": "TOWN MAP",
+    "audioFile": "https://audio.mock-stream.com/test40/PART 4.m4a",
+    "mapLabels": [
+     "A",
+     "B",
+     "C",
+     "D",
+     "E",
+     "F",
+     "G",
+     "H"
+    ],
+    "questions": [
+     {
+      "id": 20,
+      "place": "old bakery"
+     },
+     {
+      "id": 21,
+      "place": "doctor's surgery"
+     },
+     {
+      "id": 22,
+      "place": "cooper's cottage"
+     },
+     {
+      "id": 23,
+      "place": "stables"
+     },
+     {
+      "id": 24,
+      "place": "old school"
+     }
+    ],
+    "partNumber": 4,
+    "instruction": "You will hear someone giving a talk. Label the places (20-24) on the map (A-H). There are some extra options which you do not need to use.",
+    "questionRange": "20-24"
+   },
+   {
+    "type": "mcq-extracts",
+    "title": "Part 5",
+    "answers": {
+     "25": "B",
+     "26": "A",
+     "27": "C",
+     "28": "B",
+     "29": "A",
+     "30": "A"
+    },
+    "extracts": [
+     {
+      "title": "Extract One",
+      "context": "You hear two friends talking about another friend.",
+      "questions": [
+       {
+        "id": 25,
+        "text": "What is the situation?",
+        "options": [
+         {
+          "text": "They let their friend down",
+          "letter": "A"
+         },
+         {
+          "text": "They had an argument with their friend",
+          "letter": "B"
+         },
+         {
+          "text": "Their opinion of their friend has changed",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 26,
+        "text": "How do the speakers feel about the situation?",
+        "options": [
+         {
+          "text": "resigned",
+          "letter": "A"
+         },
+         {
+          "text": "upset",
+          "letter": "B"
+         },
+         {
+          "text": "uncertain",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Extract Two",
+      "context": "You hear a man and woman discussing a letter.",
+      "questions": [
+       {
+        "id": 27,
+        "text": "What is the man doing as he speaks?",
+        "options": [
+         {
+          "text": "justifying somebody's hobby",
+          "letter": "A"
+         },
+         {
+          "text": "showing concern for somebody's problem",
+          "letter": "B"
+         },
+         {
+          "text": "describing a problem in detail",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 28,
+        "text": "The woman believes that the author of the letter should",
+        "options": [
+         {
+          "text": "face the fact that people can be cruel.",
+          "letter": "A"
+         },
+         {
+          "text": "reassess his attitude to certain people.",
+          "letter": "B"
+         },
+         {
+          "text": "discuss the situation with his friends",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Extract Three",
+      "context": "You hear two people discussing comedy.",
+      "questions": [
+       {
+        "id": 29,
+        "text": "The woman believes that punchlines",
+        "options": [
+         {
+          "text": "can be found in jokes that follow a certain structure.",
+          "letter": "A"
+         },
+         {
+          "text": "are usually more funny than catchphrases.",
+          "letter": "B"
+         },
+         {
+          "text": "are more accessible than inside jokes.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 30,
+        "text": "The man says that many professional comedians",
+        "options": [
+         {
+          "text": "attempt to create context they can make jokes about.",
+          "letter": "A"
+         },
+         {
+          "text": "make events sound more exciting than they really were.",
+          "letter": "B"
+         },
+         {
+          "text": "find it difficult to tell made-up experiences from real ones.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test40/PART 5.m4a",
+    "partNumber": 5,
+    "instruction": "You will hear three extracts. Choose the correct answer (A, B or C) for each question (25-30). There are TWO questions for each extract.",
+    "questionRange": "25-30"
+   },
+   {
+    "type": "sentence-completion",
+    "title": "Part 6",
+    "answers": {
+     "31": "ACCENT",
+     "32": "ATTITUDES",
+     "33": "LAWYER",
+     "34": "ART",
+     "35": "PIANO"
+    },
+    "audioFile": "https://audio.mock-stream.com/test40/PART 6.m4a",
+    "partNumber": 6,
+    "instruction": "You will hear a part of a lecture. For each question, fill in the missing information in the numbered space. Write no more than ONE WORD for each answer.",
+    "passageTitle": "THE SHORT GOODBYE",
+    "questionRange": "31-35",
+    "passageContent": "The play takes place in an industrial city in 1950s Britain.<br><br>The protagonists were working in a company producing car engines.<br><br>An interesting thing about the play was that both main characters had a regional <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span>.<br><br>The main characters spend much time exploring the topic of social <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span>.<br><br>The male character's plan was to get a degree and work as a <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span>.<br><br>The woman's desire was to earn a living using her talent in <span class=\"gap-input\" data-gap=\"34\">_____(34)_____</span>.<br><br>A noteworthy part of props is a <span class=\"gap-input\" data-gap=\"35\">_____(35)_____</span> at the front part of the stage.<br><br>Easily noticeable, bookshelves standing at the back are another prominent feature of the play."
+   }
+  ],
+  "source": null,
+  "examDate": "2026-06-01",
+  "examType": "cefr-listening",
+  "testInfo": {
+   "id": "cefr-listening-40",
+   "level": "B2",
+   "title": "CEFR Listening Mock Test 40",
+   "totalTime": 40,
+   "totalQuestions": 35
+  },
+  "mockNumber": 40
+ },
+ "created_at": "2026-06-01T18:28:31.319743+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

@@ -1,0 +1,687 @@
+{
+ "id": 2295,
+ "mock_type": "pet-reading",
+ "mock_number": 5,
+ "title": "PET Reading — Test 5",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "sign-mcq",
+    "items": [
+     {
+      "id": 1,
+      "image": "https://audio.mock-stream.com/PET-Reading/test5/q1.png",
+      "answer": "C",
+      "prompt": "Whose textbook does Natalie want to borrow?",
+      "options": [
+       {
+        "text": "Ken's",
+        "letter": "A"
+       },
+       {
+        "text": "Maria's",
+        "letter": "B"
+       },
+       {
+        "text": "Francesco's",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "image": "https://audio.mock-stream.com/PET-Reading/test5/q2.png",
+      "answer": "B",
+      "prompt": " ",
+      "options": [
+       {
+        "text": "Users must lock the car park after leaving.",
+        "letter": "A"
+       },
+       {
+        "text": "People can park here while they are at work.",
+        "letter": "B"
+       },
+       {
+        "text": "This car park is for employees only.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 3,
+      "image": "https://audio.mock-stream.com/PET-Reading/test5/q3.png",
+      "answer": "B",
+      "prompt": " ",
+      "options": [
+       {
+        "text": "The basketball team only wants to see experienced players.",
+        "letter": "A"
+       },
+       {
+        "text": "There aren't enough team members available on Friday.",
+        "letter": "B"
+       },
+       {
+        "text": "The Barton College team will visit the gym later today.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 4,
+      "image": "https://audio.mock-stream.com/PET-Reading/test5/q4.png",
+      "answer": "A",
+      "prompt": " ",
+      "options": [
+       {
+        "text": "All Sunday evening tickets are already sold.",
+        "letter": "A"
+       },
+       {
+        "text": "You must book tickets for Sunday in advance.",
+        "letter": "B"
+       },
+       {
+        "text": "A ticket is not necessary for Sunday evening.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 5,
+      "image": "https://audio.mock-stream.com/PET-Reading/test5/q5.png",
+      "answer": "C",
+      "prompt": " ",
+      "options": [
+       {
+        "text": "Giacomo will be able to see Charlotte early tomorrow morning.",
+        "letter": "A"
+       },
+       {
+        "text": "Charlotte needs to arrive in time for Giacomo's meeting tomorrow.",
+        "letter": "B"
+       },
+       {
+        "text": "Giacomo can collect Charlotte from the airport tomorrow afternoon.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "image": "https://audio.mock-stream.com/PET-Reading/test5/q0.png",
+     "answer": "A",
+     "number": 0,
+     "prompt": "NO BICYCLES AGAINST GLASS PLEASE",
+     "options": [
+      {
+       "text": "Do not leave your bicycle touching the window.",
+       "letter": "A"
+      },
+      {
+       "text": "Do not ride your bicycle in this area.",
+       "letter": "B"
+      },
+      {
+       "text": "Broken glass may damage your bicycle tyres.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partNumber": 1,
+    "instruction": [
+     "Look at the text in each question.",
+     "What does it say?",
+     "Mark the letter next to the correct explanation – A, B or C – on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "match-people-texts",
+    "items": [
+     {
+      "id": 6,
+      "name": "Jo",
+      "image": "https://audio.mock-stream.com/PET-Reading/test5/p6.png",
+      "answer": "C",
+      "description": "Jo is studying art at university. She usually goes to the cinema on Friday evenings. She enjoys films that are based on real life and from which she can learn something."
+     },
+     {
+      "id": 7,
+      "name": "Sheila",
+      "image": "https://audio.mock-stream.com/PET-Reading/test5/p7.png",
+      "answer": "F",
+      "description": "Sheila has decided to take her mother to the cinema for her birthday. They both like love stories that have happy endings."
+     },
+     {
+      "id": 8,
+      "name": "Brian",
+      "image": "https://audio.mock-stream.com/PET-Reading/test5/p8.png",
+      "answer": "G",
+      "description": "Brian is a hard-working medical student. He doesn't have very much free time, but he likes going to the cinema to relax, and enjoys a good laugh."
+     },
+     {
+      "id": 9,
+      "name": "Adam",
+      "image": "https://audio.mock-stream.com/PET-Reading/test5/p9.png",
+      "answer": "D",
+      "description": "Adam wants to take his 8-year-old son Mark to the cinema at the weekend. They want to see a film with plenty of excitement."
+     },
+     {
+      "id": 10,
+      "name": "Harry and Joyce",
+      "image": "https://audio.mock-stream.com/PET-Reading/test5/p10.png",
+      "answer": "B",
+      "description": "Harry and Joyce go to the cinema about twice a month. They particularly like detective stories and do not pay much attention to which actors are in the film."
+     }
+    ],
+    "label": "PART 2",
+    "texts": [
+     {
+      "body": "Jim Treace stars in this well-known comedy about two workmen who have to deliver a long piece of wood to a house. But unfortunately the performances are poor, and the film is too long for such a simple joke.",
+      "title": "The Delivery",
+      "letter": "A"
+     },
+     {
+      "body": "A fast-moving adult story about a San Francisco policeman in danger. Based on a real-life happening, it keeps you guessing right until the last minute. Although there are no big stars, there are some fine performances.",
+      "title": "And Tomorrow We Find You",
+      "letter": "B"
+     },
+     {
+      "body": "A story based on a real-life journey to the South Pole. This film contains some quite wonderful wildlife photography – make sure you see it while you have the chance, or you'll be sorry.",
+      "title": "The Ends of the Earth",
+      "letter": "C"
+     },
+     {
+      "body": "You get spectacular scenery and lots of thrills in this action-packed story, in which a young sea-captain rescues terrified villagers from a volcanic island in the South Seas.",
+      "title": "Island of Fire",
+      "letter": "D"
+     },
+     {
+      "body": "Here we live through a day in the life of an American teenager who has problems not only with his parents and their boring friends but also with his first girlfriend who just doesn't seem to understand him.",
+      "title": "Out of School",
+      "letter": "E"
+     },
+     {
+      "body": "Don't forget your handkerchief for this story of a young college boy and girl who manage to survive all the pressures of modern life. And what an unforgettable wedding scene!",
+      "title": "A Time of Silence",
+      "letter": "F"
+     },
+     {
+      "body": "A wonderfully funny story, which takes place in the 1940s. A reporter and his very worried wife try to save a sheep from the local butcher. The actors really make the most of this clever script.",
+      "title": "A Private Party",
+      "letter": "G"
+     },
+     {
+      "body": "It's a surprise to see so many famous names wasting their time in this dull detective story. In the end you find yourself asking, 'Who cares!'",
+      "title": "Who Shot Malone?",
+      "letter": "H"
+     }
+    ],
+    "partNumber": 2,
+    "textsTitle": "Films",
+    "instruction": [
+     "The people below all want to go to the cinema.",
+     "On the opposite page there are descriptions of eight films.",
+     "Decide which film (letters A–H) would be the most suitable for each person or people (numbers 6–10).",
+     "For each of these numbers mark the correct letter on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "true-false",
+    "items": [
+     {
+      "id": 11,
+      "answer": "B",
+      "statement": "If you start your holiday on April 1st, you will return on April 19th."
+     },
+     {
+      "id": 12,
+      "answer": "A",
+      "statement": "Return flights are from Melbourne."
+     },
+     {
+      "id": 13,
+      "answer": "B",
+      "statement": "All travel between cities in Australia is by plane."
+     },
+     {
+      "id": 14,
+      "answer": "A",
+      "statement": "The cost covers accommodation and some meals."
+     },
+     {
+      "id": 15,
+      "answer": "A",
+      "statement": "You can make a reservation now for one of next year's tours."
+     },
+     {
+      "id": 16,
+      "answer": "B",
+      "statement": "You have to pay the full price on the day you book."
+     },
+     {
+      "id": 17,
+      "answer": "B",
+      "statement": "You can only take this holiday in the spring or autumn."
+     },
+     {
+      "id": 18,
+      "answer": "B",
+      "statement": "If you want to go on a city sightseeing tour, you will have to pay extra."
+     },
+     {
+      "id": 19,
+      "answer": "A",
+      "statement": "The trip to Ayers Rock ends with a flight."
+     },
+     {
+      "id": 20,
+      "answer": "B",
+      "statement": "Booking is possible seven days a week."
+     }
+    ],
+    "label": "PART 3",
+    "passage": "For only £1985.\n\nOUR PRICE INCLUDES\n• Scheduled flights by Australia's national airline, Qantas, from London or Manchester to Perth, returning from Melbourne.\n• After arriving in Perth, Air Australia flights between Perth/Alice Springs/Cairns/Sydney.\n• Coach from Sydney to Melbourne via Canberra and Albury.\n• All airport transfers in Australia.\n• Nineteen nights' accommodation in good grade hotels with full continental breakfast.\n• Day trip to Ayers Rock, with a full day Barrier Reef boat trip, a visit to an Australian sheep station and city sightseeing tours in Perth, Alice Springs, Canberra and Melbourne.\n• All state and local taxes.\n• Hotel baggage handling.\n• Experienced Globewise Tour Manager at all stages of the trip.\n\nSOLD OUT FOR THIS YEAR — BOOKING NOW FOR NEXT YEAR\n\nYou can pay just £90 now to be sure of your place on this successful and popular touring holiday next year. There are departures right through the year. We make sure you see the very best of everything which Australia has to offer.\n\nPERTH — Wonderful long, golden beaches, superb restaurants serving fabulous food in delightful surroundings, lush green parks and the beautiful Swan River. City sightseeing tour included.\n\nALICE SPRINGS — Fly over the outback to famous Alice Springs in the heart of Aboriginal country. Full sightseeing tour. See Flying Doctor base and 'School of the Air'.\n\nAYERS ROCK — Drive to Yulara National Park. Visit the mysterious Olgas and Ayers Rock with its caves and Aboriginal rock paintings. Fly on to the lovely seaside town of Cairns and relax in the sun.\n\nGREAT BARRIER REEF — We've included a full day's boat trip on the famous reef with the chance to see amazing, brightly coloured fish and other sea creatures.\n\nSYDNEY — You'll love the excitement and beauty of Australia's biggest city – we've included a sightseeing tour and a visit to the famous Opera House. You can also book a day trip to the Blue Mountains.\n\nMELBOURNE — We've included a city sightseeing tour – or you can visit the Penguin Parade. We promise that by the end of the trip you'll be wanting to return!\n\nPHONE US ON 01303 692154 quoting reference GW/398 for our NEW FULL COLOUR BROCHURE. OUR OFFICES ARE OPEN: Monday to Friday 9 a.m. – 8 p.m. Saturday 9 a.m. – 4 p.m. BROCHURE REQUESTS ONLY: Sunday 10 a.m. – 2 p.m.",
+    "partNumber": 3,
+    "instruction": [
+     "Look at the sentences below about a tour of Australia.",
+     "Read the text on the opposite page to decide if each sentence is correct or incorrect.",
+     "If it is correct, mark A on your answer sheet.",
+     "If it is not correct, mark B on your answer sheet."
+    ],
+    "passageImage": "https://audio.mock-stream.com/PET-Reading/test5/passage3.jpg",
+    "passageTitle": "GLOBEWISE — Australia",
+    "questionsLabel": "QUESTIONS 11–20",
+    "passageSubtitle": "We'll show you the very best of Australia on a fully guided 22-day tour"
+   },
+   {
+    "type": "passage-mcq",
+    "items": [
+     {
+      "id": 21,
+      "answer": "D",
+      "prompt": "What is the writer trying to do in the text?",
+      "options": [
+       {
+        "text": "advertise the Activity Centre",
+        "letter": "A"
+       },
+       {
+        "text": "describe some people she met",
+        "letter": "B"
+       },
+       {
+        "text": "explain how to do certain outdoor sports",
+        "letter": "C"
+       },
+       {
+        "text": "say how she spent some free time",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 22,
+      "answer": "C",
+      "prompt": "What can the reader learn from the text?",
+      "options": [
+       {
+        "text": "when to depend on other people at the Centre",
+        "letter": "A"
+       },
+       {
+        "text": "how to apply for a place at the Centre",
+        "letter": "B"
+       },
+       {
+        "text": "what sort of activities you can experience at the Centre",
+        "letter": "C"
+       },
+       {
+        "text": "which time of year is best to attend the Centre",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 23,
+      "answer": "A",
+      "prompt": "How do you think the writer might describe her weekend?",
+      "options": [
+       {
+        "text": "interesting",
+        "letter": "A"
+       },
+       {
+        "text": "relaxing",
+        "letter": "B"
+       },
+       {
+        "text": "frightening",
+        "letter": "C"
+       },
+       {
+        "text": "unpleasant",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 24,
+      "answer": "C",
+      "prompt": "What do we learn about the group?",
+      "options": [
+       {
+        "text": "Some of them had been there before.",
+        "letter": "A"
+       },
+       {
+        "text": "They had already chosen their preferred activities.",
+        "letter": "B"
+       },
+       {
+        "text": "Some of them already knew each other.",
+        "letter": "C"
+       },
+       {
+        "text": "They came from the same city.",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 25,
+      "answer": "B",
+      "prompt": "Which of the following advertisements describes the Activity Centre?",
+      "options": [
+       {
+        "body": "Set in beautiful countryside. Accommodation and meals provided. Make up your own timetable – choose from a variety of activities (horse-riding, fishing, hill-walking, sailing, mountain-biking).",
+        "title": "ACTIVITY CENTRE",
+        "letter": "A"
+       },
+       {
+        "body": "Set in beautiful countryside. Accommodation provided. Work with a group – we show you a range of outdoor activities that you didn't realise you could do!",
+        "title": "ACTIVITY CENTRE",
+        "letter": "B"
+       },
+       {
+        "body": "Set in beautiful countryside. Enjoy the luxury of our accommodation – each room has its own bathroom. Work with a group, or have individual teaching.",
+        "title": "ACTIVITY CENTRE",
+        "letter": "C"
+       },
+       {
+        "body": "Set in beautiful countryside. You can spend the day doing outdoor activities and we will find your accommodation with a local family.",
+        "title": "ACTIVITY CENTRE",
+        "letter": "D"
+       }
+      ],
+      "cardLayout": true
+     }
+    ],
+    "label": "PART 4",
+    "passage": "A month ago I had no idea how on a Saturday afternoon in November I'd be hanging 30 metres above the ground and enjoying it. Now I looked down at the river far below me, and realised why people love rock-climbing.\n\nMy friend Matt and I had arrived at the Activity Centre on Friday evening. The accommodation wasn't wonderful, but we had everything we needed (beds, blankets, food), and we were pleased to be out of the city and in the fresh air.\n\nOn Saturday morning we met the other ten members of our group. Cameron had come along with two friends, Kevin and Simon, while sisters Carole and Lynn had come with Amanda. We had come from various places and none of us knew the area.\n\nWe knew we were going to spend the weekend outdoors, but none of us was sure exactly how. Half of us spent the morning caving while the others went rock-climbing and then we changed at lunchtime. Matt and I went to the caves first. Climbing out was harder than going in, but after a good deal of pushing, we were out at last – covered in mud but pleased and excited by what we'd done.",
+    "partNumber": 4,
+    "instruction": [
+     "Read the text and questions below.",
+     "For each question, mark the letter next to the correct answer – A, B, C or D – on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 21–25"
+   },
+   {
+    "type": "passage-cloze",
+    "items": [
+     {
+      "id": 26,
+      "answer": "B",
+      "options": [
+       {
+        "text": "one",
+        "letter": "A"
+       },
+       {
+        "text": "the",
+        "letter": "B"
+       },
+       {
+        "text": "a",
+        "letter": "C"
+       },
+       {
+        "text": "an",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 27,
+      "answer": "B",
+      "options": [
+       {
+        "text": "could",
+        "letter": "A"
+       },
+       {
+        "text": "made",
+        "letter": "B"
+       },
+       {
+        "text": "said",
+        "letter": "C"
+       },
+       {
+        "text": "put",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 28,
+      "answer": "C",
+      "options": [
+       {
+        "text": "classes",
+        "letter": "A"
+       },
+       {
+        "text": "customs",
+        "letter": "B"
+       },
+       {
+        "text": "opportunities",
+        "letter": "C"
+       },
+       {
+        "text": "teachers",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 29,
+      "answer": "A",
+      "options": [
+       {
+        "text": "where",
+        "letter": "A"
+       },
+       {
+        "text": "how",
+        "letter": "B"
+       },
+       {
+        "text": "there",
+        "letter": "C"
+       },
+       {
+        "text": "which",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 30,
+      "answer": "C",
+      "options": [
+       {
+        "text": "from",
+        "letter": "A"
+       },
+       {
+        "text": "by",
+        "letter": "B"
+       },
+       {
+        "text": "for",
+        "letter": "C"
+       },
+       {
+        "text": "in",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 31,
+      "answer": "B",
+      "options": [
+       {
+        "text": "because",
+        "letter": "A"
+       },
+       {
+        "text": "but",
+        "letter": "B"
+       },
+       {
+        "text": "or",
+        "letter": "C"
+       },
+       {
+        "text": "as",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 32,
+      "answer": "C",
+      "options": [
+       {
+        "text": "did",
+        "letter": "A"
+       },
+       {
+        "text": "experimented",
+        "letter": "B"
+       },
+       {
+        "text": "invented",
+        "letter": "C"
+       },
+       {
+        "text": "learnt",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 33,
+      "answer": "D",
+      "options": [
+       {
+        "text": "day",
+        "letter": "A"
+       },
+       {
+        "text": "period",
+        "letter": "B"
+       },
+       {
+        "text": "year",
+        "letter": "C"
+       },
+       {
+        "text": "time",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 34,
+      "answer": "A",
+      "options": [
+       {
+        "text": "anyone",
+        "letter": "A"
+       },
+       {
+        "text": "nobody",
+        "letter": "B"
+       },
+       {
+        "text": "all",
+        "letter": "C"
+       },
+       {
+        "text": "something",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 35,
+      "answer": "A",
+      "options": [
+       {
+        "text": "was",
+        "letter": "A"
+       },
+       {
+        "text": "had",
+        "letter": "B"
+       },
+       {
+        "text": "has",
+        "letter": "C"
+       },
+       {
+        "text": "is",
+        "letter": "D"
+       }
+      ]
+     }
+    ],
+    "label": "PART 5",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "prompt": "A born   B the   C developed   D grown"
+    },
+    "passage": "Hypatia was (0) ___ in Alexandria, in Egypt, in 370 A.D. For many centuries she was (26) ___ only woman scientist to have a place in the history books.\n\nHypatia's father was director of Alexandria University, and he (27) ___ sure his daughter had the best education available. This was unusual, as most women then had few (28) ___ to study.\n\nAfter studying in Athens and Rome, Hypatia returned to Alexandria (29) ___ she began teaching mathematics. She soon became famous (30) ___ her knowledge of new ideas.\n\nWe have no copies of her books, (31) ___ we know that she wrote several mathematical works. Hypatia was also interested in technology and (32) ___ several scientific tools to help with her work.\n\nAt the (33) ___ of 45, many rulers were afraid of science, and (34) ___ men were against her. One day in March 415, Hypatia (35) ___ attacked in the street and killed.",
+    "partNumber": 5,
+    "instruction": [
+     "Read the text below and choose the correct word for each space.",
+     "For each question, mark the letter next to the correct word – A, B, C or D – on your answer sheet."
+    ],
+    "passageTitle": "THE FIRST WOMAN SCIENTIST",
+    "questionsLabel": "QUESTIONS 26–35"
+   }
+  ],
+  "testInfo": {
+   "id": "pet-r-05",
+   "level": "B1",
+   "paper": "Paper 1 · Reading",
+   "parts": 5,
+   "title": "PET Reading — Test 5",
+   "totalTime": 50,
+   "totalQuestions": 35
+  }
+ },
+ "created_at": "2026-10-14T06:45:39.408871+00:00",
+ "updated_at": "2026-10-14T06:47:24.975559+00:00"
+}

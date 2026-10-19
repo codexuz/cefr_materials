@@ -1,0 +1,585 @@
+{
+ "id": 32,
+ "mock_type": "cefr-writing",
+ "mock_number": 22,
+ "title": "CEFR Writing Mock 22",
+ "status": "published",
+ "mock_data": {
+  "part1": {
+   "chip": "transport",
+   "topic": "Changes"
+  },
+  "tasks": {
+   "t2": {
+    "chip": "education",
+    "genre": "forum",
+    "title": "Physical education be compulsory in schools",
+    "prompt": "You are participating in an online discussion forum. The topic is: \"Should physical education be compulsory in schools?\" Write your response, giving reasons and examples. Write 180–200 words.",
+    "sample": "<h2>Investing in Our City's Future: Public Transport vs Private Cars</h2>\n\n<p>As our city grows, the question of <span class=\"ml-token colloc\">transport investment</span> becomes <span class=\"ml-token adv\">increasingly</span> important. Should we prioritize <span class=\"ml-token colloc\">public transportation</span> or build more roads for <span class=\"ml-token colloc\">private vehicles</span>?</p>\n\n<p><span class=\"ml-token adv\">Personally</span>, I believe investing in public transport offers greater <span class=\"ml-token colloc\">long-term benefits</span>. <span class=\"ml-token adv\">Firstly</span>, efficient public transportation reduces <span class=\"ml-token colloc\">traffic congestion</span>. Cities like Tokyo and Singapore have demonstrated that excellent public transit <span class=\"ml-token modal\">can</span> keep traffic flowing smoothly.</p>\n\n<p><span class=\"ml-token adv\">Moreover</span>, public transport is more <span class=\"ml-token colloc\">environmentally friendly</span>. A single bus <span class=\"ml-token modal\">can</span> replace dozens of cars, <span class=\"ml-token adv\">significantly</span> reducing <span class=\"ml-token colloc\">carbon emissions</span> and <span class=\"ml-token colloc\">air pollution</span>.</p>\n\n<p><span class=\"ml-token adv\">Additionally</span>, public transport provides <span class=\"ml-token colloc\">affordable mobility</span> for everyone, including those who <span class=\"ml-token modal\">cannot</span> afford cars.</p>\n\n<p><span class=\"ml-token adv\">However</span>, we <span class=\"ml-token modal\">must</span> acknowledge that some road improvements are necessary, particularly for <span class=\"ml-token colloc\">emergency services</span> and deliveries.</p>\n\n<p><span class=\"ml-token adv\">Ultimately</span>, a <span class=\"ml-token colloc\">balanced approach</span> focusing primarily on public transport while maintaining essential roads <span class=\"ml-token modal\">would</span> create a more <span class=\"ml-token colloc\">sustainable</span> and <span class=\"ml-token colloc\">livable city</span> for all residents.</p>",
+    "target": "180–200 words",
+    "sampleA1": "<p>Hi!<br>I like bus. More bus good. App good too. Bye.</p>",
+    "sampleA2": "<p>Hello,<br>I use the bus every day. I think more buses are good, and a new app is good too because I can see when the bus comes. Contactless is good because it is easy. I don't like waiting. Thank you.</p>",
+    "sampleB1": "<p>Hi everyone,<br>I use public transport every day, so I have some opinions about the planned upgrades. I think increasing bus frequency would be very helpful because sometimes I have to wait a long time, especially in the evenings. Also, a real-time tracking app would be great. It would help me plan my journey better and avoid missing the bus. Contactless payments are a good idea too, as it would make paying easier. However, I also think the buses need to be cleaner and more reliable. Sometimes they are late or break down. Thank you for listening.</p>",
+    "sampleB2": "This is a topic I <span class=\"ml-token colloc\">feel strongly about</span>, so I couldn't resist <span class=\"ml-token phrasal\">joining in</span>. In my view, PE should absolutely stay compulsory in schools.\n<span class=\"ml-token linking\">For starters</span>, young people today spend hours <span class=\"ml-token idiom\">glued to their screens</span>, and a lack of exercise is <span class=\"ml-token colloc\">taking a serious toll on</span> their health. Compulsory PE guarantees that every student gets moving at least a few times a week, which can help keep obesity and other problems <span class=\"ml-token idiom\">at bay</span>.\n<span class=\"ml-token linking\">On top of that</span>, sport teaches skills you simply can't learn from a textbook. Working as a team, coping with defeat and <span class=\"ml-token phrasal\">pushing through</span> when things get tough — these lessons stick with you for life.\nI know some people argue that not everyone enjoys sport, and that's fair enough. But schools could easily offer a wider range of activities, from dance to swimming, so there's something for everyone.\n<span class=\"ml-token linking\">All things considered</span>, dropping PE would do more harm than good. A healthy body <span class=\"ml-token idiom\">goes hand in hand with</span> a sharp mind, after all.\nWhat do the rest of you think? Would you keep it compulsory, or is it time for a rethink?",
+    "uzSample": "<h2>Shahrimiz kelajagiga sarmoya kiritish: Jamoat transporti va shaxsiy avtomobillar</h2>\n\n<p>Shahrimiz o'sib borar ekan, transportga sarmoya kiritish masalasi tobora muhim ahamiyat kasb etmoqda. Biz jamoat transportiga ustunlik berishimiz kerakmi yoki shaxsiy transport vositalari uchun ko'proq yo'llar qurishimiz kerakmi?</p>\n\n<p>Shaxsan men, jamoat transportiga sarmoya kiritish uzoq muddatli foyda keltiradi deb hisoblayman. Birinchidan, samarali jamoat transporti tirbandlikni kamaytiradi. Tokio va Singapur kabi shaharlar ajoyib jamoat transporti tirbandlikni ravon ushlab turishini ko'rsatdi.</p>\n\n<p>Bundan tashqari, jamoat transporti ekologik jihatdan ancha foydaliroq. Bitta avtobus o'nlab mashinalarni almashtirishi mumkin, bu esa karbonat angidrid chiqindilari va havo ifloslanishini sezilarli darajada kamaytiradi.</p>\n\n<p>Qolaversa, jamoat transporti hamma uchun, shu jumladan mashina sotib olishga qurbi yetmaydiganlar uchun ham arzon harakatlanish imkoniyatini taqdim etadi.</p>\n\n<p>Biroq, biz shoshilinch xizmatlar va yetkazib berishlar uchun ba'zi yo'llarni yaxshilash zarurligini tan olishimiz kerak.</p>\n\n<p>Yakuniy xulosa shuki, asosan jamoat transportiga e'tibor qaratgan holda, muhim yo'llarni saqlab qolgan holda muvozanatli yondashuv barcha aholi uchun yanada barqaror va yashashga qulay shahar yaratadi.</p>",
+    "uzSampleA1": "<p>Salom!<br>Menga avtobus yoqadi. Ko'proq avtobus yaxshi. Ilova ham yaxshi. Xayr.</p>",
+    "uzSampleA2": "<p>Salom,<br>Men har kuni avtobusdan foydalanaman. O'ylaymanki, ko'proq avtobuslar yaxshi va yangi ilova ham yaxshi, chunki men avtobus qachon kelishini ko'rishim mumkin. Kontaktsiz to'lov yaxshi, chunki bu oson. Men kutishni yoqtirmayman. Rahmat.</p>",
+    "uzSampleB1": "<p>Hammaga salom,<br>Men har kuni jamoat transportidan foydalanaman, shuning uchun rejalashtirilgan yangilanishlar haqida o'z fikrlarim bor. O'ylashimcha, avtobus qatnovi sonini oshirish juda foydali bo'lardi, chunki ba'zan uzoq kutishga to'g'ri keladi, ayniqsa kechqurun. Shuningdek, real vaqt rejimida kuzatuvchi ilova ajoyib bo'lardi. Bu menga sayohatimni yaxshiroq rejalashtirishga va avtobusni o'tkazib yubormaslikka yordam beradi. Kontaktsiz to'lovlar ham yaxshi fikr, chunki bu to'lovni osonlashtiradi. Biroq, menimcha, avtobuslar ham toza va ishonchliroq bo'lishi kerak. Ba'zan ular kechikadi yoki buzilib qoladi. E'tiboringiz uchun rahmat.</p>",
+    "uzSampleB2": "<p>Hurmatli mutasaddilar,<br>Shahrimizning jamoat transportidan tez-tez foydalanuvchi sifatida, men taklif etilayotgan yangilanishlar bo'yicha o'z fikrlarimni bildirish uchun yozyapman. Mening fikrimcha, avtobus qatnovi sonini oshirish va real vaqtda kuzatuv dasturini joriy etish ko'plab aholi uchun qatnov tajribasini sezilarli darajada yaxshilaydi. Hozirgi avtobus jadvali ko'pincha ishonchsiz bo'lib, kechikishlar va ulanishlarning uzilishiga olib keladi. Kuzatuv dasturi qatnovchilarni aniq ma'lumot bilan ta'minlaydi va ularga o'z sayohatlarini yanada samarali rejalashtirishga imkon beradi.<br><br>Kontaktlarsiz to'lovlar qulay qo'shimcha bo'lsa-da, menimcha, e'tiborni mavjud xizmatning ishonchliligi va samaradorligini oshirishga qaratish kerak. Bundan tashqari, Transport boshqarmasi avtobus yo'nalishlarini shaharning xizmat ko'rsatilmagan hududlariga kengaytirishni ko'rib chiqishi kerak. Bu ishga, maktabga yoki boshqa muhim xizmatlarga borish uchun jamoat transportiga tayanadigan aholi uchun qulaylikni oshiradi. Ushbu yaxshilanishlarga sarmoya kiritish nafaqat qatnovchilarga foyda keltiradi, balki yanada barqaror va adolatli shaharga hissa qo'shadi.</p>"
+   },
+   "t11": {
+    "title": "informal message · to friend",
+    "prompt": "Write a message to a friend who also uses public transport. Share your thoughts on the proposed changes.",
+    "sample": "Hey!\n\nDid you hear about the <span class=\"ml-token colloc\">transport upgrades</span>? I'm <span class=\"ml-token adv\">so excited</span> about the <span class=\"ml-token colloc\">real-time tracking app</span>! No more guessing when the bus <span class=\"ml-token modal\">will</span> arrive! I think they <span class=\"ml-token modal\">should</span> also add more <span class=\"ml-token colloc\">night buses</span>. What do you think?\n\nTalk soon!",
+    "target": "50 words",
+    "sampleA1": "<p>Hi Rayhona,<br>Bus new? Good!<br>App good. I like.<br>Bye!</p>",
+    "sampleA2": "<p>Hi Rayhona,<br>The buses are changing! I think the app is good because I can see when the bus comes. But I want more buses because the bus is late always. What do you think?<br>See you!</p>",
+    "sampleB1": "<p>Hey Rayhona,<br>Have you heard about the planned upgrades to public transport? I think the real-time tracking app is a great idea; it would definitely make my commute less stressful. Contactless payments would also be really convenient. However, I think they should focus on reliability first. What are your thoughts?<br>Cheers,<br>Nodira Salimova</p>",
+    "sampleB2": "Hey Rayhona,\nDid you see the news about the transport changes? I'm <span class=\"ml-token idiom\">over the moon</span> about the <span class=\"ml-token colloc\">real-time tracking app</span> — no more <span class=\"ml-token phrasal\">standing around</span> wondering where the bus has got to! The <span class=\"ml-token colloc\">contactless payments</span> will <span class=\"ml-token phrasal\">speed things up</span> too. <span class=\"ml-token idiom\">Fingers crossed</span> they add more evening buses. <span class=\"ml-token colloc\">What do you reckon</span>?\nSpeak soon,\nNodira Salimova",
+    "uzSample": "<p>Salom!</p>\n<p>Transportdagi yangilanishlar haqida eshitdingmi? Men <span class=\"ml-token adv\">juda xursandman</span>, ayniqsa <span class=\"ml-token colloc\">real vaqt rejimida kuzatuvchi ilova</span> haqida! Endi avtobus qachon kelishini taxmin qilishga hojat yo'q! Menimcha, ular yana <span class=\"ml-token colloc\">kechki avtobuslarni</span> ham ko'paytirishlari <span class=\"ml-token modal\">kerak</span>. Sening fikring qanday?</p>\n<p>Tez orada gaplashamiz!</p>",
+    "uzSampleA1": "<p>Salom Rayhona,<br>Avtobus yangi? Yaxshi!<br>Ilova yaxshi. Menga yoqadi.<br>Xayr!</p>",
+    "uzSampleA2": "<p>Salom Rayhona,<br>Avtobuslar o'zgaryapti! Menimcha, ilova yaxshi, chunki avtobus qachon kelishini ko'rishim mumkin. Lekin men ko'proq avtobuslar bo'lishini xohlayman, chunki avtobus har doim kechikyapti. Sen nima deb o'ylaysan?<br>Ko'rishguncha!</p>",
+    "uzSampleB1": "<p>Salom Rayhona,<br>Jamoat transportiga kiritiladigan rejalashtirilgan yangilanishlar haqida eshitdingmi? Menimcha, real vaqtda kuzatuvchi ilova ajoyib g'oya; bu, albatta, mening qatnovimni kamroq stressli qiladi. Kontaktsiz to'lovlar ham juda qulay bo'lardi. Biroq, menimcha, ular avvalo ishonchlilikka e'tibor qaratishlari kerak. Sening fikring qanday?<br>Xayr,<br>Nodira Salimova</p>",
+    "uzSampleB2": "<p>Salom Rayhona,<br>Transport yangilanishlari haqidagi e'lonni ko'rdingmi? Men ayniqsa real vaqt rejimida kuzatuvchi ilovaga qiziqyapman – bu mening sayohatlarimni rejalashtirish uchun katta o'zgarish bo'lardi. Kontaktsiz to'lovlar ham juda yaxshi qo'shimcha, jarayonni soddalashtiradi. Men bu texnologiyaga yo'naltirilgan yaxshilanishlarni qadrlasam ham, ayniqsa eng gavjum soatlarda xizmat ko'rsatish chastotasi muammosini ham hal qilishlariga umid qilaman. Sening ustuvorliklaring nimalardan iborat?<br>Eng yaxshi tilaklar bilan,<br>Nodira Salimova</p>"
+   },
+   "t12": {
+    "title": "formal letter · to transport authority with",
+    "prompt": "Write a letter to the Transport Authority with your feedback and suggestions.",
+    "sample": "<p>Dear Transport Authority,</p>\n\n<p>Thank you for consulting commuters about the proposed <span class=\"ml-token colloc\">transportation improvements</span>. I welcome this opportunity to share my views.</p>\n\n<p><span class=\"ml-token adv\">Firstly</span>, the introduction of <span class=\"ml-token colloc\">contactless payments</span> <span class=\"ml-token modal\">would</span> be <span class=\"ml-token adv\">extremely</span> beneficial. It <span class=\"ml-token modal\">would</span> reduce <span class=\"ml-token colloc\">boarding times</span> and make travel more convenient for passengers.</p>\n\n<p><span class=\"ml-token adv\">Additionally</span>, a <span class=\"ml-token colloc\">real-time tracking application</span> <span class=\"ml-token modal\">would</span> be invaluable. Knowing exactly when a bus will arrive <span class=\"ml-token modal\">would</span> help passengers plan their journeys more <span class=\"ml-token adv\">efficiently</span>.</p>\n\n<p><span class=\"ml-token adv\">Furthermore</span>, I <span class=\"ml-token modal\">would</span> suggest improving <span class=\"ml-token colloc\">evening and weekend services</span>. Many commuters struggle to travel during <span class=\"ml-token colloc\">off-peak hours</span>.</p>\n\n<p><span class=\"ml-token adv\">Finally</span>, better <span class=\"ml-token colloc\">shelter facilities</span> at bus stops <span class=\"ml-token modal\">would</span> protect passengers from <span class=\"ml-token colloc\">adverse weather</span>.</p>\n\n<p>Thank you for your efforts to improve our city's transport system.</p>\n\n<p>Yours faithfully,<br>A Regular Commuter</p>",
+    "target": "120–150 words",
+    "sampleA1": "<p>Hi!<br>I like bus. More bus good. App is good too. I pay easy. Bye.</p>",
+    "sampleA2": "<p>Hello,<br>I use the bus every day. I want to say I like the bus, but it is slow. I think more buses are good, and the app is good because I can see where the bus is. Contactless payment is also good because it is easy. Thank you.<br>Bye.</p>",
+    "sampleB1": "<p>Dear City Transport Authority,<br><br>I am writing to give you my ideas about the transport improvements. I think more buses would be very helpful because sometimes the buses are too crowded. Also, I think the app to track the buses is a good idea, because I want to know when the bus is coming. Contactless payments would also be good because it's easier to pay. However, I also think you should make the buses cleaner. Thank you for listening.<br><br>Sincerely,<br>A Commuter</p>",
+    "sampleB2": "Dear Sir or Madam,\nI am writing in response to your consultation regarding the proposed upgrades to our public transport system, which I use <span class=\"ml-token colloc\">on a daily basis</span>.\nOf the changes suggested, the <span class=\"ml-token colloc\">real-time tracking app</span> would benefit me the most. All too often, I find myself waiting at the stop with no idea when the next bus will <span class=\"ml-token phrasal\">turn up</span>, so accurate arrival times would be a huge relief. Contactless payments would also be a <span class=\"ml-token colloc\">welcome addition</span>, as they would speed up boarding considerably.\n<span class=\"ml-token linking\">That said</span>, I would urge you to prioritise reliability. Buses are frequently late during <span class=\"ml-token colloc\">rush hour</span>, which throws my whole morning off. Finally, could you <span class=\"ml-token phrasal\">look into</span> extending evening services? Many of us struggle to get home after nine.\nThank you for <span class=\"ml-token idiom\">taking our views on board</span>.\nYours faithfully,\nBekzod Aliyev",
+    "uzSample": "<p>Hurmatli Transport Boshqarmasi,</p>\n\n<p>Taklif etilayotgan transport yaxshilanishlari bo'yicha qatnovchilar bilan maslahatlashganingiz uchun tashakkur. O'z fikrlarimni bildirish imkoniyatini mamnuniyat bilan qabul qilaman.</p>\n\n<p>Avvalo, kontaktsiz to'lovlarni joriy etish juda foydali bo'lardi. Bu avtobusga chiqish vaqtini qisqartiradi va yo'lovchilar uchun sayohatni yanada qulay qiladi.</p>\n\n<p>Bundan tashqari, real vaqtda kuzatuv ilovasi juda qimmatli bo'lardi. Avtobusning qachon kelishini aniq bilish yo'lovchilarga o'z sayohatlarini yanada samarali rejalashtirishga yordam beradi.</p>\n\n<p>Shuningdek, men kechki va dam olish kunlaridagi xizmatlarni yaxshilashni taklif qilaman. Ko'pgina qatnovchilar eng kam soatlarda sayohat qilishda qiynalishadi.</p>\n\n<p>Nihoyat, avtobus bekatlarida yaxshiroq boshpana inshootlari yo'lovchilarni noqulay ob-havodan himoya qiladi.</p>\n\n<p>Shahrimiz transport tizimini yaxshilash bo'yicha sa'y-harakatlaringiz uchun tashakkur.</p>\n\n<p>Hurmat bilan,<br>Doimiy Qatnovchi</p>",
+    "uzSampleA1": "<p>Salom!<br>Menga avtobus yoqadi. Ko'proq avtobus yaxshi. Ilova ham yaxshi. Men oson to'layman. Xayr.</p>",
+    "uzSampleA2": "<p>Salom,<br>Men har kuni avtobusdan foydalanaman. Aytmoqchimanki, menga avtobus yoqadi, lekin u sekin. O'ylaymanki, ko'proq avtobuslar yaxshi, va ilova yaxshi, chunki men avtobus qayerda ekanligini ko'ra olaman. Kontaktsiz to'lov ham yaxshi, chunki u oson. Rahmat.<br>Xayr.</p>",
+    "uzSampleB1": "<p>Hurmatli shahar transporti boshqarmasi,<br><br>Men sizga transportni yaxshilash bo'yicha o'z g'oyalarimni bildirish uchun yozyapman. Menimcha, ko'proq avtobuslar juda foydali bo'lar edi, chunki ba'zida avtobuslar juda gavjum bo'ladi. Shuningdek, avtobuslarni kuzatish uchun ilova yaxshi g'oya deb o'ylayman, chunki men avtobusning qachon kelishini bilishni xohlayman. Kontaktsiz to'lovlar ham yaxshi bo'lar edi, chunki to'lash osonroq. Biroq, men siz avtobuslarni tozalashingiz kerak deb ham o'ylayman. E'tiboringiz uchun rahmat.<br><br>Hurmat bilan,<br>Qatnovchi</p>",
+    "uzSampleB2": "<p>Hurmatli Transport Boshqarmasi,<br><br>Men jamoat transporti tizimimizga kiritilishi taklif etilayotgan yaxshilanishlar haqida o'z fikrimni bildirish uchun yozyapman. Menimcha, kontaktsiz to'lovlarni joriy etish sezilarli yaxshilanish bo'ladi. Bu, ayniqsa, eng gavjum soatlarda chiqish jarayonini soddalashtiradi va kechikishlarni kamaytiradi.<br><br>Bundan tashqari, real vaqtda kuzatuvchi ilova juda foydali bo'ladi. Avtobuslarning aniq joylashuvini bilish qatnovchilarga o'z sayohatlarini yaxshiroq rejalashtirishga va kutish vaqtini minimallashtirishga imkon beradi, ayniqsa ob-havo sharoiti o'zgaruvchan bo'lganda. Avtobus qatnovi sonini oshirish ham ijobiy qadam bo'lsa-da, men mavjud xizmatlarning ishonchliligini oshirishga ham e'tibor qaratishni taklif qilaman. Kechikishlar hal qilinishi kerak bo'lgan umumiy muammo hisoblanadi.<br><br>Va nihoyat, menimcha, qulayroq va hamma uchun ochiq avtobus bekatlariga sarmoya kiritish umumiy qatnov tajribasini sezilarli darajada yaxshilaydi. Takliflarimni ko'rib chiqayotganingiz uchun tashakkur.<br><br>Hurmat bilan,<br>Xavotirda bo'lgan qatnovchi</p>"
+   },
+   "p1_context": "You are a regular user of the city's public transportation system.",
+   "p1_scenario": "Dear Commuters,\n\nThe City Transport Authority is planning upgrades to our public transportation system. We are considering introducing contactless payments, increasing bus frequency, and adding real-time tracking apps.\nWhich improvements would benefit you most? Are there other changes you would like to see?\n\nThe Transport Authority"
+  },
+  "examDate": "2026-05-07",
+  "settings": {
+   "logoUrl": "https://audio.mock-stream.com/img/ibb/WN0XY5Lv/logo.png",
+   "heading1": "Bilim va malakalarni baholash agentligi",
+   "heading2": "Chet tilini bilish darajasi",
+   "examTitle": "Writing exam",
+   "logoWording": "Mock Stream",
+   "testIdentifier": "mock_stream"
+  },
+  "vocabulary": {
+   "task2": [
+    {
+     "en": "transport investment",
+     "uz": "transport investitsiyasi"
+    },
+    {
+     "en": "public transportation",
+     "uz": "jamoat transporti"
+    },
+    {
+     "en": "private vehicles",
+     "uz": "shaxsiy transport vositalari"
+    },
+    {
+     "en": "long-term benefits",
+     "uz": "uzoq muddatli foyda"
+    },
+    {
+     "en": "traffic congestion",
+     "uz": "tirbandlik"
+    },
+    {
+     "en": "environmentally friendly",
+     "uz": "ekologik toza"
+    },
+    {
+     "en": "carbon emissions",
+     "uz": "uglerod chiqindilari"
+    },
+    {
+     "en": "air pollution",
+     "uz": "havo ifloslanishi"
+    },
+    {
+     "en": "affordable mobility",
+     "uz": "arzon harakatlanish"
+    },
+    {
+     "en": "emergency services",
+     "uz": "favqulodda xizmatlar"
+    },
+    {
+     "en": "balanced approach",
+     "uz": "muvozanatli yondashuv"
+    },
+    {
+     "en": "sustainable",
+     "uz": "barqaror"
+    },
+    {
+     "en": "livable city",
+     "uz": "yashash uchun qulay shahar"
+    },
+    {
+     "en": "infrastructure",
+     "uz": "infratuzilma"
+    },
+    {
+     "en": "urban planning",
+     "uz": "shahar rejalashtirish"
+    },
+    {
+     "en": "commuter needs",
+     "uz": "yo'lovchi ehtiyojlari"
+    },
+    {
+     "en": "road expansion",
+     "uz": "yo'l kengaytirish"
+    },
+    {
+     "en": "parking facilities",
+     "uz": "to'xtash joylari"
+    },
+    {
+     "en": "cycling lanes",
+     "uz": "velosiped yo'laklari"
+    },
+    {
+     "en": "pedestrian zones",
+     "uz": "piyodalar zonasi"
+    }
+   ],
+   "task11": [
+    {
+     "en": "transport upgrades",
+     "uz": "transport yangilanishlari"
+    },
+    {
+     "en": "so excited",
+     "uz": "juda hayajonlangan"
+    },
+    {
+     "en": "real-time tracking",
+     "uz": "real vaqt kuzatuvi"
+    },
+    {
+     "en": "no more guessing",
+     "uz": "endi taxmin qilish shart emas"
+    },
+    {
+     "en": "night buses",
+     "uz": "tungi avtobuslar"
+    },
+    {
+     "en": "bus arrival",
+     "uz": "avtobus kelishi"
+    },
+    {
+     "en": "waiting time",
+     "uz": "kutish vaqti"
+    },
+    {
+     "en": "pretty useful",
+     "uz": "ancha foydali"
+    },
+    {
+     "en": "about time",
+     "uz": "vaqti keldi"
+    },
+    {
+     "en": "talk soon",
+     "uz": "tez gaplashamiz"
+    },
+    {
+     "en": "daily commute",
+     "uz": "kunlik yo'l"
+    },
+    {
+     "en": "rush hour",
+     "uz": "band soat"
+    },
+    {
+     "en": "crowded buses",
+     "uz": "gavjum avtobuslar"
+    },
+    {
+     "en": "late again",
+     "uz": "yana kech qoldi"
+    },
+    {
+     "en": "what do you think",
+     "uz": "nima deb o'ylaysiz"
+    },
+    {
+     "en": "sounds great",
+     "uz": "ajoyib eshitiladi"
+    },
+    {
+     "en": "finally happening",
+     "uz": "nihoyat bo'lyapti"
+    },
+    {
+     "en": "much needed",
+     "uz": "juda kerak"
+    },
+    {
+     "en": "long overdue",
+     "uz": "allaqachon kerak edi"
+    },
+    {
+     "en": "fingers crossed",
+     "uz": "omad tilayman"
+    }
+   ],
+   "task12": [
+    {
+     "en": "consulting commuters",
+     "uz": "yo'lovchilar bilan maslahatlashish"
+    },
+    {
+     "en": "transportation improvements",
+     "uz": "transport yaxshilanishlari"
+    },
+    {
+     "en": "contactless payments",
+     "uz": "kontaktsiz to'lovlar"
+    },
+    {
+     "en": "boarding times",
+     "uz": "chiqish vaqtlari"
+    },
+    {
+     "en": "real-time tracking application",
+     "uz": "real vaqt kuzatuv ilovasi"
+    },
+    {
+     "en": "plan journeys",
+     "uz": "sayohatlarni rejalashtirish"
+    },
+    {
+     "en": "efficiently",
+     "uz": "samarali"
+    },
+    {
+     "en": "evening and weekend services",
+     "uz": "kechki va dam olish kunlari xizmatlari"
+    },
+    {
+     "en": "off-peak hours",
+     "uz": "band bo'lmagan soatlar"
+    },
+    {
+     "en": "shelter facilities",
+     "uz": "boshpana imkoniyatlari"
+    },
+    {
+     "en": "adverse weather",
+     "uz": "yomon ob-havo"
+    },
+    {
+     "en": "regular commuter",
+     "uz": "doimiy yo'lovchi"
+    },
+    {
+     "en": "public transit",
+     "uz": "jamoat transporti"
+    },
+    {
+     "en": "service frequency",
+     "uz": "xizmat tezligi"
+    },
+    {
+     "en": "route coverage",
+     "uz": "marshrut qamrovi"
+    },
+    {
+     "en": "ticket prices",
+     "uz": "chipta narxlari"
+    },
+    {
+     "en": "accessibility features",
+     "uz": "kirish imkoniyatlari"
+    },
+    {
+     "en": "yours faithfully",
+     "uz": "hurmat bilan"
+    },
+    {
+     "en": "convenient travel",
+     "uz": "qulay sayohat"
+    },
+    {
+     "en": "proposed changes",
+     "uz": "taklif qilingan o'zgarishlar"
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "can": {
+    "uz": "mumkin",
+    "type": "modal"
+   },
+   "must": {
+    "uz": "kerak",
+    "type": "modal"
+   },
+   "will": {
+    "uz": "-moqchi",
+    "type": "modal"
+   },
+   "would": {
+    "uz": "iltimos qilardim",
+    "type": "modal"
+   },
+   "at bay": {
+    "uz": "yaqinlashtirmay, nazoratda ushlab",
+    "type": "idiom"
+   },
+   "cannot": {
+    "uz": "mumkin emas",
+    "type": "modal"
+   },
+   "should": {
+    "uz": "kerak",
+    "type": "modal"
+   },
+   "Finally": {
+    "uz": "Nihoyat",
+    "type": "adv"
+   },
+   "Firstly": {
+    "uz": "Birinchidan",
+    "type": "adv"
+   },
+   "However": {
+    "uz": "Biroq",
+    "type": "adv"
+   },
+   "turn up": {
+    "uz": "kelib qolmoq, paydo bo'lmoq",
+    "type": "phrasal"
+   },
+   "Moreover": {
+    "uz": "Qolaversa",
+    "type": "adv"
+   },
+   "That said": {
+    "uz": "shunga qaramay",
+    "type": "linking"
+   },
+   "extremely": {
+    "uz": "juda ham",
+    "type": "adv"
+   },
+   "look into": {
+    "uz": "o'rganib chiqmoq, ko'rib chiqmoq",
+    "type": "phrasal"
+   },
+   "rush hour": {
+    "uz": "eng gavjum soat",
+    "type": "colloc"
+   },
+   "Personally": {
+    "uz": "Shaxsan",
+    "type": "adv"
+   },
+   "Ultimately": {
+    "uz": "Oxir-oqibat",
+    "type": "adv"
+   },
+   "joining in": {
+    "uz": "qo'shilmoq, ishtirok etmoq",
+    "type": "phrasal"
+   },
+   "so excited": {
+    "uz": "juda xursandman",
+    "type": "adv"
+   },
+   "Furthermore": {
+    "uz": "Qolaversa",
+    "type": "adv"
+   },
+   "efficiently": {
+    "uz": "samarali",
+    "type": "adv"
+   },
+   "night buses": {
+    "uz": "tungi avtobuslar",
+    "type": "colloc"
+   },
+   "sustainable": {
+    "uz": "barqaror",
+    "type": "colloc"
+   },
+   "Additionally": {
+    "uz": "Bundan tashqari",
+    "type": "adv"
+   },
+   "For starters": {
+    "uz": "boshlash uchun, avvalo",
+    "type": "linking"
+   },
+   "increasingly": {
+    "uz": "tobora",
+    "type": "adv"
+   },
+   "livable city": {
+    "uz": "yashashga yaroqli shahar",
+    "type": "colloc"
+   },
+   "air pollution": {
+    "uz": "havoning ifloslanishi",
+    "type": "colloc"
+   },
+   "over the moon": {
+    "uz": "juda xursand, boshi osmonda",
+    "type": "idiom"
+   },
+   "significantly": {
+    "uz": "sezilarli darajada",
+    "type": "adv"
+   },
+   "On top of that": {
+    "uz": "bundan tashqari",
+    "type": "linking"
+   },
+   "boarding times": {
+    "uz": "chiqish vaqtlari",
+    "type": "colloc"
+   },
+   "off-peak hours": {
+    "uz": "eng kam soatlar",
+    "type": "colloc"
+   },
+   "Fingers crossed": {
+    "uz": "omad tilab",
+    "type": "idiom"
+   },
+   "adverse weather": {
+    "uz": "noqulay ob-havo",
+    "type": "colloc"
+   },
+   "pushing through": {
+    "uz": "qiyinchilikni yengib o'tmoq",
+    "type": "phrasal"
+   },
+   "speed things up": {
+    "uz": "ishni tezlashtirish",
+    "type": "phrasal"
+   },
+   "standing around": {
+    "uz": "bekorga turib qolish",
+    "type": "phrasal"
+   },
+   "carbon emissions": {
+    "uz": "uglerod chiqindilari",
+    "type": "colloc"
+   },
+   "on a daily basis": {
+    "uz": "har kuni, kundalik ravishda",
+    "type": "colloc"
+   },
+   "private vehicles": {
+    "uz": "shaxsiy transport vositalari",
+    "type": "colloc"
+   },
+   "welcome addition": {
+    "uz": "yaxshi qo'shimcha",
+    "type": "colloc"
+   },
+   "balanced approach": {
+    "uz": "muvozanatli yondashuv",
+    "type": "colloc"
+   },
+   "What do you reckon": {
+    "uz": "sen nima deb o'ylaysan",
+    "type": "colloc"
+   },
+   "emergency services": {
+    "uz": "favqulodda xizmatlar",
+    "type": "colloc"
+   },
+   "long-term benefits": {
+    "uz": "uzoq muddatli foyda",
+    "type": "colloc"
+   },
+   "shelter facilities": {
+    "uz": "bekt zallari",
+    "type": "colloc"
+   },
+   "traffic congestion": {
+    "uz": "transport tirbandligi",
+    "type": "colloc"
+   },
+   "transport upgrades": {
+    "uz": "transport vositalarini takomillashtirish",
+    "type": "colloc"
+   },
+   "affordable mobility": {
+    "uz": "arzon harakatlanish imkoniyati",
+    "type": "colloc"
+   },
+   "feel strongly about": {
+    "uz": "qattiq e'tiqod qilmoq, kuchli fikrga ega bo'lmoq",
+    "type": "colloc"
+   },
+   "contactless payments": {
+    "uz": "kontaktsiz to'lovlar",
+    "type": "colloc"
+   },
+   "transport investment": {
+    "uz": "transportga investitsiya",
+    "type": "colloc"
+   },
+   "All things considered": {
+    "uz": "hammasini hisobga olganda",
+    "type": "linking"
+   },
+   "public transportation": {
+    "uz": "jamoat transporti",
+    "type": "colloc"
+   },
+   "glued to their screens": {
+    "uz": "ekranga mixlanib qolgan",
+    "type": "idiom"
+   },
+   "goes hand in hand with": {
+    "uz": "bilan chambarchas bog'liq",
+    "type": "idiom"
+   },
+   "real-time tracking app": {
+    "uz": "real vaqtda kuzatuv ilovasi",
+    "type": "colloc"
+   },
+   "environmentally friendly": {
+    "uz": "ekologik toza",
+    "type": "colloc"
+   },
+   "taking a serious toll on": {
+    "uz": "jiddiy zarar yetkazayotgan",
+    "type": "colloc"
+   },
+   "taking our views on board": {
+    "uz": "fikrlarimizni inobatga olganingiz",
+    "type": "idiom"
+   },
+   "transportation improvements": {
+    "uz": "transport tizimini yaxshilash",
+    "type": "colloc"
+   },
+   "evening and weekend services": {
+    "uz": "kechki va dam olish kunlaridagi xizmatlar",
+    "type": "colloc"
+   },
+   "real-time tracking application": {
+    "uz": "real vaqtda kuzatuv dasturi",
+    "type": "colloc"
+   }
+  }
+ },
+ "created_at": "2026-05-06T14:59:30.386096+00:00",
+ "updated_at": "2026-07-06T10:55:19.606825+00:00"
+}

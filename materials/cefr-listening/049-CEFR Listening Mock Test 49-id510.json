@@ -1,0 +1,507 @@
+{
+ "id": 510,
+ "mock_type": "cefr-listening",
+ "mock_number": 49,
+ "title": "CEFR Listening Mock Test 49",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "mcq-reply",
+    "title": "Part 1",
+    "answers": {
+     "1": "A",
+     "2": "B",
+     "3": "A",
+     "4": "A",
+     "5": "C",
+     "6": "B",
+     "7": "A",
+     "8": "C"
+    },
+    "audioFile": "https://audio.mock-stream.com/test49/PART 1.m4a",
+    "questions": [
+     {
+      "id": 1,
+      "options": [
+       {
+        "text": "No, they are distributed next week.",
+        "letter": "A"
+       },
+       {
+        "text": "Sure, I'll send him an e-mail.",
+        "letter": "B"
+       },
+       {
+        "text": "She wants to get a promotion.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "options": [
+       {
+        "text": "A new reward system will be introduced soon.",
+        "letter": "A"
+       },
+       {
+        "text": "No, I've been too busy today.",
+        "letter": "B"
+       },
+       {
+        "text": "Nice to meet you.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 3,
+      "options": [
+       {
+        "text": "Because it's a holiday.",
+        "letter": "A"
+       },
+       {
+        "text": "Let's get off at the next station.",
+        "letter": "B"
+       },
+       {
+        "text": "I'm running tomorrow now.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 4,
+      "options": [
+       {
+        "text": "When I reaches 25 degrees.",
+        "letter": "A"
+       },
+       {
+        "text": "I agree with you.",
+        "letter": "B"
+       },
+       {
+        "text": "They'll be on air in about an hour.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 5,
+      "options": [
+       {
+        "text": "I forgot the singer's name.",
+        "letter": "A"
+       },
+       {
+        "text": "Where is the concert.",
+        "letter": "B"
+       },
+       {
+        "text": "Yes, she has a wonderful voice.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 6,
+      "options": [
+       {
+        "text": "She works on the third floor.",
+        "letter": "A"
+       },
+       {
+        "text": "Yes, it is working again.",
+        "letter": "B"
+       },
+       {
+        "text": "That's not what I saw.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 7,
+      "options": [
+       {
+        "text": "Is that really necessary?",
+        "letter": "A"
+       },
+       {
+        "text": "I returned the equipment.",
+        "letter": "B"
+       },
+       {
+        "text": "I'm not a tenant.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 8,
+      "options": [
+       {
+        "text": "Hold the line, please.",
+        "letter": "A"
+       },
+       {
+        "text": "Some empty boxes.",
+        "letter": "B"
+       },
+       {
+        "text": "Try calling back later.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "partNumber": 1,
+    "instruction": "You will hear some sentences. You will hear each sentence twice. Choose the correct reply to each sentence (A, B, or C). Mark your answers on the answer sheet.",
+    "questionRange": "1-8"
+   },
+   {
+    "type": "gap-fill-form",
+    "title": "Part 2",
+    "answers": {
+     "9": "FOOTBALL",
+     "10": "EMAIL",
+     "11": "SPORTS",
+     "12": "BOTTLE",
+     "13": [
+      "SHIRT",
+      "SHIRTS"
+     ],
+     "14": "BEATON"
+    },
+    "audioFile": "https://audio.mock-stream.com/test49/PART 2.m4a",
+    "formTitle": "STUDENT RUNNING CLUB",
+    "partNumber": 2,
+    "formContent": [
+     {
+      "text": "The club meets at the",
+      "type": "item-gap",
+      "gapId": 9,
+      "gapSuffix": "stadium in the town."
+     },
+     {
+      "text": "Last year's members will be sent a registration form by",
+      "type": "item-gap",
+      "gapId": 10,
+      "gapSuffix": "."
+     },
+     {
+      "text": "Members who pay $5 receive a special",
+      "type": "item-gap",
+      "gapId": 11,
+      "gapSuffix": "bag that shows the club's name."
+     },
+     {
+      "text": "All runners will get a water",
+      "type": "item-gap",
+      "gapId": 12,
+      "gapSuffix": "as a free gift."
+     },
+     {
+      "text": "You know the runner's level of experience by the colour of their",
+      "type": "item-gap",
+      "gapId": 13,
+      "gapSuffix": "."
+     },
+     {
+      "text": "Contract Carol",
+      "type": "item-gap",
+      "gapId": 14,
+      "gapSuffix": "on 8302195."
+     }
+    ],
+    "instruction": "You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. Write ONE WORD and / or A NUMBER for each answer.",
+    "questionRange": "9-14"
+   },
+   {
+    "type": "matching-speakers",
+    "title": "Part 3",
+    "answers": {
+     "15": "F",
+     "16": "D",
+     "17": "E",
+     "18": "C"
+    },
+    "options": [
+     {
+      "text": "Very personal artwork just for the bride.",
+      "letter": "A"
+     },
+     {
+      "text": "Why the groom circles the church three times.",
+      "letter": "B"
+     },
+     {
+      "text": "Special plants for a happy marriage.",
+      "letter": "C"
+     },
+     {
+      "text": "How mom and dad can guarantee a wealthy marriage.",
+      "letter": "D"
+     },
+     {
+      "text": "Wear the right colour and study the stars.",
+      "letter": "E"
+     },
+     {
+      "text": "Colours and shapes are traditional and symbolic.",
+      "letter": "F"
+     }
+    ],
+    "speakers": [
+     {
+      "id": 15,
+      "label": "Speaker 1"
+     },
+     {
+      "id": 16,
+      "label": "Speaker 2"
+     },
+     {
+      "id": 17,
+      "label": "Speaker 3"
+     },
+     {
+      "id": 18,
+      "label": "Speaker 4"
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test49/PART 3.m4a",
+    "partNumber": 3,
+    "instruction": "You will hear people speaking in different situations. Match each speaker (15-18) to the place where the speaker is (A-F). There are TWO EXTRA places which you do not need to use. Mark your answers on the answer sheet.",
+    "questionRange": "15-18"
+   },
+   {
+    "type": "map-labeling",
+    "title": "Part 4",
+    "answers": {
+     "19": "B",
+     "20": "G",
+     "21": "D",
+     "22": "A",
+     "23": "F"
+    },
+    "mapImage": "https://audio.mock-stream.com/test49/map.png",
+    "mapTitle": "",
+    "audioFile": "https://audio.mock-stream.com/test49/PART 4.m4a",
+    "mapLabels": [
+     "A",
+     "B",
+     "C",
+     "D",
+     "E",
+     "F",
+     "G",
+     "H"
+    ],
+    "questions": [
+     {
+      "id": 19,
+      "place": "Accommodation"
+     },
+     {
+      "id": 20,
+      "place": "Workshop"
+     },
+     {
+      "id": 21,
+      "place": "Outdoor swimming pool"
+     },
+     {
+      "id": 22,
+      "place": "Playground"
+     },
+     {
+      "id": 23,
+      "place": "Cafe"
+     }
+    ],
+    "partNumber": 4,
+    "instruction": "You will hear someone giving a talk. Label the places (19-23) on the map (A-H). There is ONE extra option which you do not need to use. Mark your answers on the answer sheet.",
+    "questionRange": "19-23"
+   },
+   {
+    "type": "mcq-extracts",
+    "title": "Part 5",
+    "answers": {
+     "24": "C",
+     "25": "A",
+     "26": "C",
+     "27": "C",
+     "28": "C",
+     "29": "C"
+    },
+    "extracts": [
+     {
+      "title": "Extract One",
+      "context": "",
+      "questions": [
+       {
+        "id": 24,
+        "text": "Leonie first starting learning the piano",
+        "options": [
+         {
+          "text": "with a relative.",
+          "letter": "A"
+         },
+         {
+          "text": "at primary school.",
+          "letter": "B"
+         },
+         {
+          "text": "with a private teacher.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 25,
+        "text": "Leonie started giving music lessons",
+        "options": [
+         {
+          "text": "for the pleasure of seeing others learn.",
+          "letter": "A"
+         },
+         {
+          "text": "because she needed some extra money.",
+          "letter": "B"
+         },
+         {
+          "text": "to see if she was suited to teaching.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Extract Two",
+      "context": "",
+      "questions": [
+       {
+        "id": 26,
+        "text": "What attracted Martin to drawing cartoons?",
+        "options": [
+         {
+          "text": "his wish to demonstrate his originality.",
+          "letter": "A"
+         },
+         {
+          "text": "his fascination with reading comics.",
+          "letter": "B"
+         },
+         {
+          "text": "his interest in the techniques involved",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 27,
+        "text": "Martin's school teacher reacted to his choice of career by warning him that",
+        "options": [
+         {
+          "text": "she couldn't help him to get work experience.",
+          "letter": "A"
+         },
+         {
+          "text": "it would be very hard to find a secure job.",
+          "letter": "B"
+         },
+         {
+          "text": "he might need to consider an alternative to it.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Extract Three",
+      "context": "",
+      "questions": [
+       {
+        "id": 28,
+        "text": "Why did Danny decide to start his recording studio?",
+        "options": [
+         {
+          "text": "He had difficulty finding a job in the music industry.",
+          "letter": "A"
+         },
+         {
+          "text": "He was keen to work with a variety of musicians.",
+          "letter": "B"
+         },
+         {
+          "text": "He wanted to record more of his own music.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 29,
+        "text": "When asked about the way his studio has developed, Danny says he's",
+        "options": [
+         {
+          "text": "proud of the reputation he's built up.",
+          "letter": "A"
+         },
+         {
+          "text": "relieved that his business has kept going so long.",
+          "letter": "B"
+         },
+         {
+          "text": "frustrated about having to do certain kinds of work.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test49/PART 5.m4a",
+    "partNumber": 5,
+    "instruction": "You will hear three extracts. Choose the correct answer (A, B or C) for each question (24-29). There are TWO questions for each extract.",
+    "questionRange": "24-29"
+   },
+   {
+    "type": "sentence-completion",
+    "title": "Part 6",
+    "answers": {
+     "30": "HOT-AIR",
+     "31": "CASTLE",
+     "32": "SEABIRDS",
+     "33": "TOWN",
+     "34": "FASHIONABLE",
+     "35": "MARKET"
+    },
+    "audioFile": "https://audio.mock-stream.com/test49/PART 6.m4a",
+    "partNumber": 6,
+    "instruction": "You will hear a part of a lecture. For each question, fill in the missing information in the numbered space. Write no more than ONE WORD for each answer.",
+    "passageTitle": "A birthday trip",
+    "questionRange": "30-35",
+    "passageContent": "Julie was hoping that her birthday surprise would be a ride in a <span class=\"gap-input\" data-gap=\"30\">_____(30)_____</span> balloon.<br><br>From the air, Julie managed to catch sight of the <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span> in her town when she went up in a plane.<br><br>Once they were out over the water, Julie was thrilled to look down on the <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span> around the coast.<br><br>Julie and her dad went from the island's airport to the nearest <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span><br><br>Julie describes the town she visited as very <span class=\"gap-input\" data-gap=\"34\">_____(34)_____</span><br><br>Julie was pleased to get some bargains at the <span class=\"gap-input\" data-gap=\"35\">_____(35)_____</span> they visited."
+   }
+  ],
+  "source": "Masterpiece listening - Mock test 2 (Bekzod_Turgunov)",
+  "examDate": "2026-06-13",
+  "examType": "cefr",
+  "testInfo": {
+   "id": "cefr-listening-49",
+   "level": "B2",
+   "title": "CEFR Listening Mock Test 49",
+   "totalTime": 40,
+   "totalQuestions": 35
+  },
+  "mockNumber": 49
+ },
+ "created_at": "2026-06-13T15:05:45.933734+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

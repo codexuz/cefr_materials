@@ -1,0 +1,125 @@
+{
+ "id": 2306,
+ "mock_type": "pet-writing",
+ "mock_number": 8,
+ "title": "PET Writing — Test 8",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "sentence-transformation",
+    "items": [
+     {
+      "id": 1,
+      "first": "My appointment with Dr Gibson is at ten o'clock.",
+      "answer": "going to have",
+      "afterBlank": "an appointment with Dr Gibson.",
+      "beforeBlank": "At ten o'clock I am"
+     },
+     {
+      "id": 2,
+      "first": "The office is Dr Gibson's.",
+      "answer": "belongs",
+      "afterBlank": "to Dr Gibson.",
+      "beforeBlank": "This office"
+     },
+     {
+      "id": 3,
+      "first": "Dr Gibson told me to take off my shoes and socks.",
+      "answer": "your shoes",
+      "afterBlank": "and socks off.'",
+      "beforeBlank": "Dr Gibson said: 'Please take"
+     },
+     {
+      "id": 4,
+      "first": "It would be a good idea to take more exercise.",
+      "answer": "ought to",
+      "afterBlank": "to take more exercise.'",
+      "beforeBlank": "'You really"
+     },
+     {
+      "id": 5,
+      "first": "I was given some information about a local gym.",
+      "answer": "gave me",
+      "afterBlank": "some information about a local gym.",
+      "beforeBlank": "The hospital"
+     }
+    ],
+    "label": "PART 1",
+    "topic": "Visiting a hospital",
+    "example": {
+     "first": "The nurses' home is behind the hospital.",
+     "answer": "in front of",
+     "afterBlank": "the nurses' home.",
+     "beforeBlank": "The hospital is"
+    },
+    "partNumber": 1,
+    "instruction": [
+     "Here are some sentences about visiting a hospital.",
+     "For each question, complete the second sentence so that it means the same as the first, using no more than three words.",
+     "Write only the missing words on your answer sheet.",
+     "You may use this page for any rough work."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "writing-task",
+    "items": [
+     {
+      "id": 6,
+      "band": "5",
+      "answer": "Hi! How are you? Yesterday, I passed a examination, so I can go the upper class. I'd been afraid that I didn't pass it, but I could. I can't believe it. How about you? Is anything special?\nBy the way, how are your parents? It is long time since I met them. Please say hello to them.\nI'll write soon, bye bye.\nTakako"
+     }
+    ],
+    "label": "PART 2",
+    "prompt": "You have received some good news and want to tell your friend in Australia about it.\n\nWrite an e-mail to your friend. In your e-mail, you should\n\n• explain your good news\n• say how you feel about it\n• ask about your friend's family.\n\nWrite 35–45 words on your answer sheet.",
+    "wordCount": "35–45 words",
+    "partNumber": 2,
+    "questionsLabel": "QUESTION 6"
+   },
+   {
+    "type": "writing-task",
+    "items": [
+     {
+      "id": 7,
+      "band": "4",
+      "answer": "Hi!\nThank you for your letter. Learning English is still interesting and is very good for me, I have good English teacher and also good classmates. They make me more interest to learn English.\nLet me introduce my English class.\nThere are above nice students and one nice teacher.\nThe nice teacher I saw is Pete! He is tall, handsome. Furthermore, he makes us very interest and feel comfortable in his class.\nIt is time to talk about my classmates!\nThey are all women except one man and they have variety nationality. For example South Korea (of course include me), Japan, Poland, Columbia and China etc. Most of them have cheerful character and pasive to learn English.\nThat's why I said that I like learning English.\nI will need a letter even again.\nTake it easy!!",
+      "altSample": {
+       "q": 8,
+       "band": "4",
+       "text": "This is a story of my english teacher's holiday. On last Sunday, he stayed at home with his son and wife. After lunch, he went to the park in front of the house with his son, and was playing baseball. He saw Tony wants to be a baseball player in the future. So, he always played the baseball with his friends. But, on this day, Tony was playing with his father. Mike wasn't good at the baseball. Tony throws a ball, and Mike hit it!! The ball that Mike had hit broke a window of his house. of course, his wife lost her temper. He apologised for her. His wife said 'It's ok, I don't mind. But, you must tidy up here, and from today, make meals on your own!!'\nShe was really angry."
+      }
+     }
+    ],
+    "label": "PART 3",
+    "choices": [
+     {
+      "id": 7,
+      "image": "https://audio.mock-stream.com/PET-Writing/test8/q7_ribbon.png",
+      "intro": "This is part of a letter you receive from your penfriend.",
+      "outro": "Now write a letter to your penfriend.\nWrite your letter in about 100 words on your answer sheet."
+     },
+     {
+      "id": 8,
+      "intro": "You have to write a story for your English teacher.\n\nYour story must have this title:",
+      "outro": "Write your story in about 100 words on your answer sheet.",
+      "highlight": "A broken window"
+     }
+    ],
+    "wordCount": "about 100 words",
+    "partNumber": 3,
+    "questionsLabel": "QUESTIONS 7 or 8"
+   }
+  ],
+  "testInfo": {
+   "id": "pet-w-08",
+   "level": "B1",
+   "paper": "Paper 1 · Writing",
+   "parts": 3,
+   "title": "PET Writing — Test 8",
+   "totalTime": 45
+  }
+ },
+ "created_at": "2026-10-14T06:45:47.193531+00:00",
+ "updated_at": "2026-10-14T06:47:32.509612+00:00"
+}

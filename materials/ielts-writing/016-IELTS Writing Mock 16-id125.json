@@ -1,0 +1,514 @@
+{
+ "id": 125,
+ "mock_type": "ielts-writing",
+ "mock_number": 16,
+ "title": "IELTS Writing Mock 16",
+ "status": "published",
+ "mock_data": {
+  "tasks": {
+   "task1": {
+    "title": "UK steel industry",
+    "prompt": "The charts below give information about the UK's steel industry from 1970 to 2000.",
+    "wordGoal": 150,
+    "chartDesc": {
+     "title": "",
+     "visuals": [
+      {
+       "kind": "line graph",
+       "xAxis": "",
+       "yAxis": "Million Tonnes",
+       "series": [
+        {
+         "name": "Total Demand",
+         "points": [
+          {
+           "at": "1970",
+           "value": 200
+          },
+          {
+           "at": "1980",
+           "value": 170
+          },
+          {
+           "at": "1990",
+           "value": 110
+          },
+          {
+           "at": "2000",
+           "value": 100
+          }
+         ]
+        },
+        {
+         "name": "UK Production",
+         "points": [
+          {
+           "at": "1970",
+           "value": 160
+          },
+          {
+           "at": "1980",
+           "value": 120
+          },
+          {
+           "at": "1990",
+           "value": 90
+          },
+          {
+           "at": "2000",
+           "value": 70
+          }
+         ]
+        },
+        {
+         "name": "Import",
+         "points": [
+          {
+           "at": "1970",
+           "value": 20
+          },
+          {
+           "at": "1980",
+           "value": 40
+          },
+          {
+           "at": "1990",
+           "value": 50
+          },
+          {
+           "at": "2000",
+           "value": 65
+          }
+         ]
+        }
+       ],
+       "caption": "UK Steel Demand, 1970 - 2000"
+      },
+      {
+       "kind": "line graph",
+       "xAxis": "",
+       "yAxis": "Thousands of people",
+       "series": [
+        {
+         "name": "Number of staff",
+         "points": [
+          {
+           "at": "1970",
+           "value": 50
+          },
+          {
+           "at": "1980",
+           "value": 40
+          },
+          {
+           "at": "1990",
+           "value": 22
+          },
+          {
+           "at": "2000",
+           "value": 17
+          }
+         ]
+        }
+       ],
+       "caption": "The number of staff in UK steel industry, 1970 - 2000"
+      }
+     ],
+     "overview": "Overall, both the overall demand for steel and UK domestic production decreased significantly between 1970 and 2000, while imports saw a continuous increase. Corresponding to the decline in domestic production, the number of employees in the UK steel industry shrank considerably over the thirty-year period.",
+     "chartType": "mixed",
+     "confidence": "medium",
+     "unreadable": [
+      "Exact values between gridline intervals lack explicit data labels and are read visually."
+     ],
+     "keyFeatures": [
+      "From Visual 1, total steel demand dropped by half, falling from 200 million tonnes in 1970 to 100 million tonnes in 2000.",
+      "From Visual 1, UK steel production decreased from approximately 160 million tonnes in 1970 to about 70 million tonnes in 2000, whereas imports grew steadily from around 20 million tonnes to roughly 65 million tonnes.",
+      "From Visual 2, staff numbers in the UK steel industry fell continuously from 50 thousand people in 1970 down to under 20 thousand (around 17 thousand) by 2000."
+     ]
+    },
+    "chartType": "mixed",
+    "dataNature": "dynamic",
+    "instruction": "Summarise the information by selecting and reporting the main features, and make comparison where relevant.",
+    "sampleBand5": "<p>The charts <mark>give information about</mark> the steel industry in the UK. It shows how much steel was produced and how many people worked in the industry from 1970 to 2000.</p>\n<p>In 1970, the UK made a lot of steel. <mark>Around</mark> 20 million tonnes were produced. The number of workers was also high, at about 250,000. But over the next 30 years, things changed. Steel production went up and down, but generally it went down.</p>\n<p>By 2000, the UK was making less steel than before. It was about 15 million tonnes. The number of workers <mark>also decreased a lot</mark>. There were only around 50,000 workers in the steel industry then.</p>\n<p>So, the steel industry in the UK got smaller between 1970 and 2000. They made less steel and <mark>employed less people</mark>.</p>",
+    "sampleBand6": "<p>The charts show information about the UK's steel industry between 1970 and 2000. Overall, the <mark>production of steel decreased</mark> over the period, while the number of workers employed in the industry also saw a significant decline.</p>\n\n<p>In 1970, steel production was around 20 million tonnes. This figure <mark>fluctuated somewhat</mark> over the next 30 years, but by 2000 it had fallen to approximately 15 million tonnes. There was a noticeable dip in production around 1980, followed by a period of relative stability. The number of employees <mark>saw a more dramatic change</mark>. </p>\n\n<p>The workforce in the steel industry was about 250,000 in 1970. This number <mark>fell steadily</mark> throughout the period, with a particularly sharp decrease in the early 1980s. By 2000, only around 50,000 people were employed in the sector. It is clear that <mark>the industry changed a lot</mark> during these three decades.</p>",
+    "sampleBand7": "<p>The charts <mark>illustrate changes</mark> in the UK steel industry between 1970 and 2000, focusing on production, consumption, and imports.</p>\n<p>Overall, the UK's steel production <mark>experienced a significant decline</mark> over the period. While consumption also decreased, imports rose substantially, <mark>suggesting a shift</mark> in the industry's reliance on foreign sources.</p>\n<p>In 1970, steel production in the UK stood at approximately 20 million tonnes. This figure <mark>witnessed a steady drop</mark> throughout the subsequent decades, reaching a low of around 10 million tonnes by the year 2000. Steel consumption also followed a downward trend, falling from about 18 million tonnes to 12 million tonnes over the same timeframe. However, the decline in consumption was less pronounced than that of production.</p>\n<p>In contrast to production and consumption, the volume of steel imports <mark>displayed a marked increase</mark>. Starting from a relatively low level in 1970, imports gradually climbed, eventually surpassing 6 million tonnes by the end of the period. This indicates a growing dependence on imported steel to meet the UK's consumption needs, <mark>especially given the reduced domestic output</mark>.</p>",
+    "sampleBand8": "<p>The charts <mark>illustrate changes</mark> in the United Kingdom's steel industry between 1970 and 2000, focusing on production, consumption, and imports.</p>\n<p>Overall, steel production experienced a significant decline, while consumption <mark>fluctuated considerably</mark>. Imports, conversely, showed an upward trend over the period.</p>\n<p>In 1970, the UK produced approximately 20 million tonnes of steel. This figure <mark>witnessed a precipitous drop</mark> to around 10 million tonnes by 1980, and continued its downward trajectory, <mark>bottoming out</mark> at roughly 5 million tonnes in 2000. Steel consumption began at about 19 million tonnes in 1970. It <mark>then underwent a series of peaks and troughs</mark>, falling to 12 million tonnes in 1980 before recovering to 16 million tonnes in 1990. By 2000, consumption had settled at around 12 million tonnes.</p>\n<p>Steel imports, in stark contrast to production, <mark>demonstrated a consistent increase</mark>. Starting from a modest 2 million tonnes in 1970, imports <mark>expanded steadily</mark> to approximately 8 million tonnes by 2000. This growth suggests that the UK became <mark>increasingly reliant on</mark> foreign steel to meet its domestic needs, <mark>offsetting the decline in</mark> local production.</p>",
+    "sampleBand9": "<p>The charts <mark>illustrate fluctuations</mark> in various aspects of the UK steel industry between 1970 and 2000. The first chart details the production and consumption of steel, while the second presents employment figures within the sector.</p>\n\n<p>An <mark>immediately striking feature</mark> is the divergent trend between steel production and consumption. While production experienced a <mark>precipitous decline</mark> from approximately 20 million tonnes in 1970 to around 10 million tonnes in 2000, consumption remained relatively stable, fluctuating within a range of 14 to 16 million tonnes. This indicates a growing reliance on imported steel to meet domestic demand. The gap between consumption and production <mark>widened considerably</mark> over the three decades.</p>\n\n<p>The second chart reveals a <mark>parallel and even more dramatic</mark> decrease in employment within the UK steel industry. Starting at around 200,000 employees in 1970, the workforce <mark>plummeted to</mark> approximately 30,000 by the year 2000. This <mark>represents a staggering reduction</mark> of over 85% in the industry's labour force. This decline <mark>undoubtedly correlates with</mark> the decrease in domestic steel production, reflecting increased automation and potentially, outsourcing of production processes. <mark>In summary</mark>, the UK steel industry experienced significant contraction in both production and employment, despite relatively stable consumption rates.</p>",
+    "timeMinutes": 20,
+    "chartDescImg": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/16.png",
+    "sampleAnswer": "The charts provide data on the UK steel industry over a thirty-year period from 1970 to 2000, showing trends in steel production and employment. Overall, both production output and the number of workers in the industry experienced significant declines during this period.\n\nIn 1970, the UK produced approximately 28 million tonnes of steel, employing around 320,000 workers. By 1980, production had fallen to about 22 million tonnes, while the workforce declined more sharply to roughly 200,000. This trend continued into the 1990s, with output dropping to approximately 16 million tonnes by 1990 and the number of employees falling to around 100,000.\n\nBy 2000, steel production had stabilized at approximately 15 million tonnes, a reduction of nearly half compared to 1970. The workforce, however, continued its steep decline, reaching only about 50,000 workers, representing a drop of over 80% from the 1970 figure. Notably, while production fell by around 46%, employment fell by a much larger margin, suggesting significant improvements in productivity and automation within the industry over the three decades.",
+    "chartImageUrl": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/16.png",
+    "uzSampleBand5": "<p>Diagrammalar Buyuk Britaniyadagi po'lat sanoati haqida <mark>ma'lumot beradi</mark>. Unda 1970 yildan 2000 yilgacha qancha po'lat ishlab chiqarilgani va sanoatda qancha odam ishlagani ko'rsatilgan.</p>\n<p>1970 yilda Buyuk Britaniya ko'p po'lat ishlab chiqargan. <mark>Taxminan</mark> 20 million tonna ishlab chiqarilgan. Ishchilar soni ham yuqori bo'lib, taxminan 250 000 kishini tashkil etgan. Ammo keyingi 30 yil ichida vaziyat o'zgardi. Po'lat ishlab chiqarish o'sdi va pasaydi, lekin umuman olganda pasaydi.</p>\n<p>2000 yilga kelib, Buyuk Britaniya avvalgidan kamroq po'lat ishlab chiqarardi. Bu taxminan 15 million tonnani tashkil etdi. Ishchilar soni ham <mark>juda kamaydi</mark>. O'sha paytda po'lat sanoatida atigi 50 000 ga yaqin ishchi bor edi.</p>\n<p>Shunday qilib, Buyuk Britaniyadagi po'lat sanoati 1970 yildan 2000 yilgacha kichraydi. Ular kamroq po'lat ishlab chiqardilar va <mark>kamroq odamni ish bilan ta'minladilar</mark>.</p>",
+    "uzSampleBand6": "<p>Diagrammalar Buyuk Britaniyaning po'lat sanoati haqidagi ma'lumotlarni 1970 yildan 2000 yilgacha bo'lgan davrda ko'rsatadi. Umuman olganda, <mark>po'lat ishlab chiqarish kamaydi</mark> bu davr mobaynida, sanoatda ishlaydigan ishchilar soni ham sezilarli pasayishni ko'rdi.</p>\n\n<p>1970 yilda po'lat ishlab chiqarish taxminan 20 million tonnani tashkil etdi. Bu ko'rsatkich keyingi 30 yil ichida <mark>biroz o'zgarib turdi</mark>, lekin 2000 yilga kelib taxminan 15 million tonnagacha tushib ketdi. 1980 yil atrofida ishlab chiqarishda sezilarli pasayish kuzatildi, undan so'ng nisbatan barqarorlik davri kuzatildi. Xodimlar soni <mark>yanada keskin o'zgarishni ko'rdi</mark>.</p>\n\n<p>Po'lat sanoatida ishchi kuchi 1970 yilda taxminan 250 000 kishini tashkil etgan. Bu raqam butun davr davomida <mark>doimiy ravishda kamayib bordi</mark>, ayniqsa 1980-yillarning boshlarida keskin pasayish kuzatildi. 2000 yilga kelib, bu sohada atigi 50 000 ga yaqin odam ishlagan. Shuni aniq aytish mumkinki, <mark>sanoat juda ko'p o'zgardi</mark> bu o'ttiz yil ichida.</p>",
+    "uzSampleBand7": "<p>Diagrammalar 1970 va 2000-yillar oralig'ida Buyuk Britaniya po'lat sanoatidagi <mark>o'zgarishlarni ko'rsatadi</mark>, ishlab chiqarish, iste'mol va importga e'tibor qaratilgan.</p>\n<p>Umuman olganda, Buyuk Britaniyaning po'lat ishlab chiqarishi davr mobaynida <mark>sezilarli pasayishni boshdan kechirdi</mark>. Iste'mol ham kamaygan bo'lsa-da, import sezilarli darajada oshdi, bu esa sanoatning xorijiy manbalarga <mark>bog'liqligi o'zgarayotganini ko'rsatadi</mark>.</p>\n<p>1970-yilda Buyuk Britaniyada po'lat ishlab chiqarish taxminan 20 million tonnani tashkil etdi. Bu ko'rsatkich keyingi o'n yilliklar davomida <mark>doimiy pasayishni kuzatdi</mark> va 2000-yilga kelib taxminan 10 million tonnagacha kamaydi. Po'lat iste'moli ham pasayish tendentsiyasiga ergashdi va xuddi shu davrda taxminan 18 million tonnadan 12 million tonnagacha kamaydi. Biroq, iste'molning kamayishi ishlab chiqarishning kamayishiga qaraganda unchalik sezilarli emas edi.</p>\n<p>Ishlab chiqarish va iste'moldan farqli o'laroq, po'lat importi hajmi <mark>sezilarli o'sishni namoyish etdi</mark>. 1970-yilda nisbatan past darajadan boshlangan import asta-sekin o'sib, davr oxiriga kelib 6 million tonnadan oshdi. Bu Buyuk Britaniyaning iste'mol ehtiyojlarini qondirish uchun import qilingan po'latga bog'liqlik ortib borayotganini ko'rsatadi, <mark>ayniqsa, ichki ishlab chiqarishning qisqarishi hisobga olinsa</mark>.</p>",
+    "uzSampleBand8": "<p>Diagrammalar Buyuk Britaniyaning po'lat sanoatidagi 1970 yildan 2000 yilgacha bo'lgan o'zgarishlarni <mark>ko'rsatib beradi</mark>, ishlab chiqarish, iste'mol va importga e'tibor qaratilgan.</p>\n<p>Umuman olganda, po'lat ishlab chiqarish sezilarli pasayishni boshdan kechirdi, iste'mol esa <mark>sezilarli darajada o'zgarib turdi</mark>. Import, aksincha, davr mobaynida o'sish tendentsiyasini ko'rsatdi.</p>\n<p>1970 yilda Buyuk Britaniya taxminan 20 million tonna po'lat ishlab chiqardi. Bu ko'rsatkich 1980 yilga kelib taxminan 10 million tonnagacha <mark>keskin pasayishni kuzatdi</mark> va pastga qarab harakat qilishda davom etdi, 2000 yilda taxminan 5 million tonnada <mark>eng past darajaga tushdi</mark>. Po'lat iste'moli 1970 yilda taxminan 19 million tonnadan boshlandi. Keyin u <mark>bir qator tepalik va pastliklarni boshdan kechirdi</mark>, 1980 yilda 12 million tonnagacha tushib, 1990 yilda 16 million tonnagacha tiklandi. 2000 yilga kelib, iste'mol taxminan 12 million tonnada barqarorlashdi.</p>\n<p>Po'lat importi, ishlab chiqarishdan farqli o'laroq, <mark>doimiy o'sishni namoyish etdi</mark>. 1970 yilda kamtarona 2 million tonnadan boshlangan import <mark>doimiy ravishda kengayib</mark>, 2000 yilga kelib taxminan 8 million tonnaga yetdi. Bu o'sish Buyuk Britaniya o'zining ichki ehtiyojlarini qondirish uchun <mark>tobora ko'proq bog'liq bo'lib qolganini</mark> va mahalliy ishlab chiqarishdagi <mark>pasayishni qoplayotganini</mark> ko'rsatadi.</p>",
+    "uzSampleBand9": "<p>Diagrammalar 1970 yildan 2000 yilgacha bo'lgan davrda Buyuk Britaniya po'lat sanoatining turli jihatlaridagi <mark>o'zgarishlarni ko'rsatadi</mark>. Birinchi diagrammada po'lat ishlab chiqarish va iste'mol qilish tafsilotlari keltirilgan bo'lsa, ikkinchisida esa sohadagi ish bilan ta'minlanganlik ko'rsatkichlari aks etgan.</p>\n\n<p><mark>Darhol ko'zga tashlanadigan jihat</mark> po'lat ishlab chiqarish va iste'mol qilish o'rtasidagi farqli tendentsiyadir. Ishlab chiqarish 1970 yildagi taxminan 20 million tonnadan 2000 yilda taxminan 10 million tonnagacha <mark>keskin pasayishni</mark> boshdan kechirgan bo'lsa, iste'mol nisbatan barqaror bo'lib, 14 million tonnadan 16 million tonnagacha bo'lgan oraliqda o'zgarib turdi. Bu ichki talabni qondirish uchun import qilingan po'latga tobora ko'proq bog'liqlikni ko'rsatadi. Iste'mol va ishlab chiqarish o'rtasidagi farq o'ttiz yil davomida <mark>sezilarli darajada oshdi</mark>.</p>\n\n<p>Ikkinchi diagramma Buyuk Britaniya po'lat sanoatida ish bilan ta'minlanganlikning <mark>parallel va hatto undan ham keskinroq</mark> pasayishini ko'rsatadi. 1970 yilda taxminan 200,000 xodimdan boshlangan ishchi kuchi 2000 yilga kelib taxminan 30,000 gacha <mark>keskin tushib ketdi</mark>. Bu sanoat ishchi kuchining 85% dan ortiq <mark>hayratlanarli qisqarishini anglatadi</mark>. Bu pasayish, shubhasiz, ichki po'lat ishlab chiqarishning kamayishi bilan <mark>bog'liq</mark>, bu esa avtomatlashtirishning oshishi va ehtimol, ishlab chiqarish jarayonlarining autsorsingga berilishini aks ettiradi. <mark>Xulosa qilib aytganda</mark>, Buyuk Britaniya po'lat sanoati iste'mol darajasi nisbatan barqaror bo'lishiga qaramay, ishlab chiqarish va ish bilan ta'minlashda sezilarli qisqarishni boshdan kechirdi.</p>",
+    "chartDescSource": "extracted-verified-2026-08-05"
+   },
+   "task2": {
+    "title": "Repeat offenders after prison",
+    "prompt": "Many criminals commit further crimes as soon as they are released from prison. What do you think are the causes of this? What possible solutions can you suggest?",
+    "wordGoal": 250,
+    "essayType": "problem-solution",
+    "instruction": "What do you think are the causes of this? What possible solutions can you suggest?",
+    "sampleBand5": "<p>It is a problem that many criminals do crimes again after they leave prison. There are some reasons for this, and I will write about them and some ideas to help.</p>\n\n<p>One reason is that when people are in prison, they <mark>don't learn good things</mark>. They are with other criminals, so they might learn more bad habits. Also, it can be hard to find a job after prison. <mark>Because of this</mark>, they might do crimes again because they need money. Another reason is that people don't trust them. If no one trusts you, it is hard to change.</p>\n\n<p>To help stop this, the government should <mark>make programs</mark> to teach prisoners new skills. They can learn how to do a job, like fixing cars or computers. This will help them find work when they get out. Also, there should be help for them to find a place to live. <mark>This is important</mark> because if they have a home, they are less likely to do crimes. People should also be more understanding. If we give them a chance, they might change.</p>\n\n<p>In conclusion, criminals often do crimes again because they don't have skills, jobs, or support. We need to help them learn, find work, and have a place to live so they can change their lives. <mark>If we do this</mark>, there will be less crime.</p>",
+    "sampleBand6": "<p>It is a worrying trend that many prisoners re-offend after being released from jail. There are several reasons why this happens, and some possible solutions can be suggested to <mark>address this problem</mark>. </p>\n\n<p>One major cause is the <mark>difficulty in finding employment</mark> after release. Many employers are hesitant to hire someone with a criminal record. This lack of opportunity can lead to frustration and a feeling that crime is the only way to make a living. Another reason is the lack of support systems available to ex-offenders. They may not have family or friends who are willing or able to help them reintegrate into society. This can lead to isolation and a return to old habits and criminal associates. Also, some prisoners may not have been properly rehabilitated during their time in prison. <mark>If they do not receive</mark> education, job training, or counseling, they are more likely to re-offend.</p>\n\n<p>To tackle this issue, several solutions can be implemented. Firstly, governments should invest in programs that help ex-offenders find employment. This could include job training programs, apprenticeship schemes, and support for <mark>entrepreneurial ventures</mark>. Secondly, there should be more support services available to ex-offenders, such as housing assistance, counseling, and mentoring programs. These services can help them to rebuild their lives and avoid a return to crime. Finally, prisons should focus on rehabilitation rather than just punishment. This means providing prisoners with education, job training, and counseling to help them develop the skills and attitudes they need to lead a crime-free life after release. <mark>It is also important to</mark> address any underlying issues such as drug addiction or mental health problems.</p>\n\n<p>In conclusion, the high rate of re-offending is a complex problem with many contributing factors. However, by addressing the issues of employment, support services, and rehabilitation, we can help ex-offenders to successfully reintegrate into society and reduce the likelihood of them committing further crimes.</p>",
+    "sampleBand7": "<p>It is a troubling reality that many individuals released from prison <mark>re-offend soon after their release</mark>. This essay will explore the primary reasons behind this phenomenon and suggest potential solutions to mitigate it.</p>\n\n<p>One significant factor contributing to recidivism is the <mark>difficulty in reintegrating</mark> into society. Former prisoners often face stigma and discrimination, making it challenging to secure employment or housing. Many employers are hesitant to hire someone with a criminal record, and landlords may be unwilling to rent to them. This <mark>lack of opportunity</mark> can lead to feelings of desperation and a return to criminal activity as a means of survival. Furthermore, the absence of a supportive network can exacerbate these challenges. Without family or friends to offer guidance and encouragement, former inmates may feel isolated and more likely to relapse into old habits.</p>\n\n<p>Another key cause is the <mark>inadequacy of rehabilitation programs</mark> within prisons. While some prisons offer educational or vocational training, these programs are often underfunded and <mark>fail to adequately prepare</mark> inmates for life after release. Many prisoners also struggle with addiction or mental health issues, which, if left untreated, can significantly increase the risk of re-offending. The prison environment itself can also be detrimental, reinforcing criminal behaviour and attitudes rather than promoting positive change.</p>\n\n<p>To address this issue, several solutions can be implemented. Firstly, governments should invest in <mark>comprehensive rehabilitation programs</mark> that focus on education, vocational training, and mental health support. These programs should be tailored to the individual needs of each prisoner and should continue after their release. Secondly, efforts should be made to reduce the stigma associated with having a criminal record. This could involve public awareness campaigns or legislation that prohibits discrimination against former offenders in employment and housing. Finally, providing <mark>post-release support</mark>, such as mentoring programs and transitional housing, can help former inmates successfully reintegrate into society and avoid a return to crime. By addressing both the root causes of recidivism and providing practical support, we can create a safer and more just society.</p>",
+    "sampleBand8": "<p>A disturbing trend observed in many societies is the recidivism rate, with numerous offenders reverting to criminal behavior shortly after their release from incarceration. This essay will explore the underlying causes of this phenomenon and propose potential solutions to mitigate its prevalence. <mark>A multifaceted approach</mark> is necessary to address this complex issue effectively.</p>\n\n<p>One primary cause of re-offending stems from the <mark>lack of adequate reintegration support</mark> for ex-prisoners. Upon release, individuals often face significant challenges in securing employment, housing, and financial stability. Many former inmates are ostracized by society and experience difficulty in rebuilding their lives, leading them to return to criminal activities as a means of survival. For instance, a released convict may struggle to find a job due to their criminal record, pushing them back into drug dealing or theft. Furthermore, the <mark>stigma associated with incarceration</mark> can severely limit their opportunities.</p>\n\n<p>Another contributing factor is the inadequacy of rehabilitation programs within correctional facilities. Many prisons prioritize punishment over reformation, failing to equip inmates with the necessary skills and resources to lead law-abiding lives upon release. <mark>A dearth of vocational training</mark>, educational opportunities, and psychological counseling leaves prisoners unprepared to navigate the challenges of the outside world. Consequently, they may lack the skills to secure legitimate employment or cope with the emotional and psychological scars of their past.</p>\n\n<p>To address this issue, a comprehensive range of solutions is required. Firstly, governments should invest in robust reintegration programs that provide ex-offenders with access to job training, housing assistance, and mental health services. <mark>Targeted interventions</mark> designed to address the specific needs of individual offenders are crucial. Secondly, prisons must prioritize rehabilitation by offering a wide array of educational and vocational programs. This includes providing opportunities for inmates to earn a high school diploma or GED, learn a trade, and develop essential life skills. <mark>The focus should shift</mark> from purely punitive measures to restorative justice, which emphasizes rehabilitation and reintegration.</p>\n\n<p>In conclusion, the high rate of recidivism is a complex problem with deep-rooted causes. By addressing the lack of reintegration support and improving rehabilitation programs within prisons, societies can reduce the likelihood of ex-offenders returning to criminal behavior. <mark>A concerted effort</mark> from governments, communities, and correctional facilities is necessary to create a more just and equitable system that supports the successful reintegration of former prisoners. <mark>Ultimately, a safer society benefits all.</mark>\n</p>",
+    "sampleBand9": "<p>It is a regrettable reality that a significant number of individuals, upon release from incarceration, <mark>re-offend and return to a life of crime</mark>. This phenomenon is attributable to a complex interplay of factors, ranging from societal reintegration challenges to individual psychological predispositions. Addressing this issue requires a multi-faceted approach that tackles both the root causes and the immediate aftermath of imprisonment.</p>\n\n<p>One primary driver of recidivism is the <mark>stigma associated with a criminal record</mark>. Ex-offenders often face significant barriers to securing stable employment and housing. Many employers are hesitant to hire individuals with a history of criminal activity, and landlords may be unwilling to rent to them. This economic marginalization can lead to feelings of desperation and hopelessness, pushing individuals back towards criminal activity as a means of survival. Furthermore, the loss of social connections during incarceration can leave individuals isolated and without a support network upon release, further exacerbating their vulnerability.</p>\n\n<p>Another contributing factor lies in the <mark>often inadequate rehabilitation programs</mark> offered within correctional facilities. While some prisons offer vocational training and educational opportunities, these are not always sufficient to equip inmates with the skills and knowledge necessary to succeed in the outside world. Moreover, many programs fail to address the underlying psychological issues that may have contributed to the individual's criminal behavior in the first place, such as addiction, anger management problems, or mental health disorders. <mark>A lack of tailored support</mark> for specific needs can be particularly detrimental.</p>\n\n<p>To mitigate recidivism, a range of solutions must be implemented. Firstly, society needs to adopt a more <mark>compassionate and understanding approach</mark> towards ex-offenders. This includes initiatives to reduce the stigma associated with a criminal record, such as \"ban the box\" policies that prevent employers from asking about criminal history on initial job applications. Secondly, prisons must prioritize rehabilitation and offer comprehensive programs that address both the practical and psychological needs of inmates. This could involve expanding vocational training opportunities, providing access to mental health services, and offering substance abuse treatment programs. Finally, <mark>post-release support services are crucial</mark>. This includes providing assistance with finding employment and housing, as well as offering mentoring programs and support groups to help ex-offenders reintegrate into society and <mark>maintain a crime-free lifestyle</mark>. By addressing the underlying causes of recidivism and providing comprehensive support, we can create a more just and safer society for all. Investing in rehabilitation <mark>yields dividends</mark> in the long run, reducing crime rates and fostering a more productive citizenry.</p>\n\n<p>In conclusion, the cycle of recidivism is a complex problem with no easy solutions. However, by addressing the societal stigma, improving rehabilitation programs, and providing comprehensive post-release support, we can <mark>significantly reduce the likelihood</mark> of ex-offenders returning to a life of crime and create a more inclusive and supportive society.</p>",
+    "timeMinutes": 40,
+    "sampleAnswer": "Recidivism, or the tendency of released prisoners to reoffend, is a persistent problem in many countries. This essay will examine the root causes of this issue and propose practical solutions to reduce the rate of repeat offending.\n\nSeveral factors contribute to high recidivism rates. Firstly, many ex-prisoners struggle to find legitimate employment due to the stigma of a criminal record. Without a stable income, some may resort to crime to survive financially. Secondly, prison environments can expose inmates to more hardened criminals, inadvertently providing them with new criminal contacts and skills. Thirdly, a lack of rehabilitation programs in prisons means that the underlying issues that led to criminal behavior in the first place—such as addiction, poor education, or mental health problems—are often left unaddressed. Finally, many released prisoners return to the same disadvantaged communities and social circles that contributed to their initial offending.\n\nTo combat recidivism, a comprehensive approach is required. Governments should invest heavily in prison rehabilitation programs, including education, vocational training, and therapy for addiction and mental health issues. Upon release, former inmates should receive support in finding housing and employment, perhaps through partnerships with businesses willing to give them a second chance. Furthermore, community-based supervision and mentoring programs can help ex-offenders reintegrate into society and avoid negative influences.\n\nIn conclusion, while recidivism is driven by a complex mix of social, economic, and psychological factors, targeted rehabilitation and reintegration efforts can significantly reduce the likelihood of former prisoners returning to a life of crime.",
+    "uzSampleBand5": "<p>Ko'plab jinoyatchilar qamoqdan chiqqandan keyin yana jinoyat sodir etishi muammo. Buning bir nechta sabablari bor va men ular haqida va yordam berish uchun ba'zi fikrlar haqida yozaman.</p>\n\n<p>Buning bir sababi shundaki, odamlar qamoqda bo'lganida, ular <mark>yaxshi narsalarni o'rganmaydilar</mark>. Ular boshqa jinoyatchilar bilan birga bo'ladilar, shuning uchun ular ko'proq yomon odatlarni o'rganishlari mumkin. Bundan tashqari, qamoqdan keyin ish topish qiyin bo'lishi mumkin. <mark>Shu sababli</mark>, ular pulga muhtoj bo'lgani uchun yana jinoyat sodir etishlari mumkin. Yana bir sabab shundaki, odamlar ularga ishonmaydilar. Agar hech kim sizga ishonmasa, o'zgarish qiyin.</p>\n\n<p>Bunga yo'l qo'ymaslik uchun hukumat mahbuslarga yangi ko'nikmalarni o'rgatish uchun <mark>dasturlar tuzishi kerak</mark>. Ular mashinalarni yoki kompyuterlarni tuzatish kabi ishlarni qanday qilishni o'rganishlari mumkin. Bu ularga chiqqandan keyin ish topishga yordam beradi. Shuningdek, ularga yashash joyi topishga yordam berilishi kerak. <mark>Bu muhim</mark>, chunki agar ularning uyi bo'lsa, ular jinoyat sodir etish ehtimoli kamroq. Odamlar ham ko'proq tushunishlari kerak. Agar biz ularga imkoniyat bersak, ular o'zgarishi mumkin.</p>\n\n<p>Xulosa qilib aytganda, jinoyatchilar ko'pincha ko'nikmalari, ishlari yoki yordami yo'qligi sababli yana jinoyat sodir etadilar. Biz ularga o'rganishga, ish topishga va hayotlarini o'zgartirishlari uchun yashash joyiga ega bo'lishga yordam berishimiz kerak. <mark>Agar biz buni qilsak</mark>, jinoyat kamroq bo'ladi.</p>",
+    "uzSampleBand6": "<p>Ko'plab mahbuslarning qamoqdan ozod bo'lgandan keyin qayta jinoyat sodir etishi xavotirli tendentsiyadir. Buning bir nechta sabablari bor va <mark>bu muammoni hal qilish</mark> uchun ba'zi mumkin bo'lgan yechimlarni taklif qilish mumkin.</p>\n\n<p>Asosiy sabablardan biri ozodlikka chiqqandan keyin <mark>ish topishdagi qiyinchilikdir</mark>. Ko'pgina ish beruvchilar sudlangan odamni ishga olishga ikkilanishadi. Bunday imkoniyatning yo'qligi umidsizlikka olib kelishi va jinoyat yashashning yagona yo'li degan fikrga sabab bo'lishi mumkin. Yana bir sabab - sobiq mahbuslarga mavjud bo'lgan yordam tizimlarining yetishmasligidir. Ularning jamiyatga qayta integratsiyalashuviga yordam berishga tayyor yoki qodir bo'lgan oilasi yoki do'stlari bo'lmasligi mumkin. Bu esa, ijtimoiy izolyatsiyaga va eski odatlarga va jinoiy aloqalarga qaytishga olib kelishi mumkin. Bundan tashqari, ba'zi mahbuslar qamoqda bo'lgan vaqtida to'g'ri reabilitatsiya qilinmagan bo'lishi mumkin. <mark>Agar ular ta'lim olmasa</mark>, kasbiy tayyorgarlikdan o'tmasa yoki maslahat olmasa, ular qayta jinoyat sodir etishi ehtimoli ko'proq.</p>\n\n<p>Ushbu muammoni hal qilish uchun bir nechta yechimni amalga oshirish mumkin. Birinchidan, hukumatlar sobiq mahbuslarga ish topishga yordam beradigan dasturlarga investitsiya kiritishi kerak. Bunga kasbiy ta'lim dasturlari, shogirdlik sxemalari va <mark>tadbirkorlik tashabbuslarini</mark> qo'llab-quvvatlash kirishi mumkin. Ikkinchidan, sobiq mahbuslarga uy-joy yordami, maslahat berish va murabbiylik dasturlari kabi ko'proq yordam xizmatlari mavjud bo'lishi kerak. Ushbu xizmatlar ularga hayotlarini qayta qurishga va jinoyatga qaytishdan qochishga yordam berishi mumkin. Nihoyat, qamoqxonalar faqat jazolashdan ko'ra reabilitatsiyaga e'tibor qaratishi kerak. Bu mahbuslarni ozodlikka chiqqandan keyin jinoyatsiz hayot kechirish uchun zarur bo'lgan ko'nikma va munosabatlarni rivojlantirishga yordam berish uchun ta'lim, kasbiy tayyorgarlik va maslahat bilan ta'minlashni anglatadi. <mark>Shuningdek, shuni ham ta'kidlash kerakki</mark>, giyohvandlik yoki ruhiy salomatlik muammolari kabi asosiy muammolarni hal qilish muhim.</p>\n\n<p>Xulosa qilib aytganda, qayta jinoyat sodir etishning yuqori darajasi ko'plab omillarga ega bo'lgan murakkab muammodir. Biroq, bandlik, yordam xizmatlari va reabilitatsiya masalalarini hal qilish orqali biz sobiq mahbuslarga jamiyatga muvaffaqiyatli integratsiyalashishga va ularning keyingi jinoyatlarni sodir etish ehtimolini kamaytirishga yordam berishimiz mumkin.</p>",
+    "uzSampleBand7": "<p>Ko'plab shaxslarning qamoqdan chiqqanidan so'ng <mark>tez orada qayta jinoyat sodir etishi</mark> tashvishli haqiqatdir. Ushbu insho ushbu hodisaning asosiy sabablarini o'rganadi va uni yumshatish uchun potentsial yechimlarni taklif qiladi.</p>\n\n<p>Qayta jinoyat sodir etishga olib keladigan muhim omillardan biri jamiyatga <mark>qayta integratsiya qilishdagi qiyinchilikdir</mark>. Sobiq mahbuslar ko'pincha stigma va kamsitishga duch kelishadi, bu esa ish yoki uy-joy topishni qiyinlashtiradi. Ko'pgina ish beruvchilar jinoiy o'tmishi bor odamni ishga olishdan tortinadi va uy egalari ularga ijaraga berishni istamasligi mumkin. Imkoniyatning bu <mark>yetishmasligi</mark> umidsizlik tuyg'ulariga va omon qolish vositasi sifatida jinoiy faoliyatga qaytishga olib kelishi mumkin. Bundan tashqari, qo'llab-quvvatlovchi tarmoqning yo'qligi bu muammolarni yanada kuchaytirishi mumkin. Qo'llab-quvvatlash va rag'batlantirish uchun oilasi yoki do'stlari bo'lmagan sobiq mahbuslar o'zlarini yolg'iz his qilishlari va eski odatlariga qaytish ehtimoli ko'proq bo'lishi mumkin.</p>\n\n<p>Yana bir asosiy sabab - bu qamoqxonalardagi <mark>reabilitatsiya dasturlarining yetarli emasligidir</mark>. Ba'zi qamoqxonalar ta'lim yoki kasb-hunar ta'limini taklif qilsa-da, bu dasturlar ko'pincha yetarli darajada moliyalashtirilmaydi va mahbuslarni ozodlikdan keyingi hayotga <mark>yetarlicha tayyorlay olmaydi</mark>. Ko'pgina mahbuslar giyohvandlik yoki ruhiy salomatlik muammolari bilan kurashadilar, agar davolanmasa, qayta jinoyat sodir etish xavfini sezilarli darajada oshirishi mumkin. Qamoqxona muhitining o'zi ham zararli bo'lishi mumkin, ijobiy o'zgarishlarni rag'batlantirish o'rniga, jinoiy xatti-harakatlar va munosabatlarni kuchaytiradi.</p>\n\n<p>Ushbu muammoni hal qilish uchun bir nechta yechimlar amalga oshirilishi mumkin. Birinchidan, hukumatlar ta'lim, kasb-hunar ta'limi va ruhiy salomatlikni qo'llab-quvvatlashga qaratilgan <mark>har tomonlama reabilitatsiya dasturlariga</mark> sarmoya kiritishi kerak. Ushbu dasturlar har bir mahbusning individual ehtiyojlariga moslashtirilishi va ozod qilinganidan keyin ham davom etishi kerak. Ikkinchidan, jinoiy o'tmishga ega bo'lish bilan bog'liq stigmani kamaytirishga harakat qilish kerak. Bu ishga joylashish va uy-joy bilan ta'minlashda sobiq jinoyatchilarga nisbatan kamsitishni taqiqlovchi jamoatchilikni xabardor qilish kampaniyalari yoki qonunchilikni o'z ichiga olishi mumkin. Nihoyat, sobiq mahbuslarga jamiyatga muvaffaqiyatli qayta integratsiya qilish va jinoyatga qaytmaslik uchun murabbiylik dasturlari va o'tish uy-joyi kabi <mark>ozodlikdan keyingi yordamni</mark> ta'minlash mumkin. Qayta jinoyat sodir etishning asosiy sabablarini bartaraf etish va amaliy yordam ko'rsatish orqali biz yanada xavfsiz va adolatli jamiyat yaratishimiz mumkin.</p>",
+    "uzSampleBand8": "<p>Ko'plab jamiyatlarda kuzatilayotgan tashvishli tendensiyalardan biri bu retsidivizm darajasi bo'lib, ko'plab jinoyatchilar qamoqdan ozod etilganidan keyin ko'p o'tmay yana jinoiy xatti-harakatlarga qaytishadi. Ushbu insho ushbu hodisaning asosiy sabablarini o'rganadi va uning tarqalishini kamaytirish uchun potentsial yechimlarni taklif qiladi. Ushbu murakkab muammoni samarali hal qilish uchun <mark>ko'p qirrali yondashuv</mark> zarur.</p>\n\n<p>Qayta jinoyat sodir etishning asosiy sabablaridan biri sobiq mahbuslarga <mark>yetarli reintegratsiya yordamining yo'qligi</mark> bilan bog'liq. Ozodlikka chiqqan shaxslar ko'pincha ish topish, uy-joy va moliyaviy barqarorlikni ta'minlashda jiddiy muammolarga duch kelishadi. Ko'plab sobiq mahkumlar jamiyat tomonidan chetlatiladi va hayotini qayta qurishda qiyinchiliklarga duch kelishadi, bu esa ularni omon qolish vositasi sifatida jinoiy faoliyatga qaytishga olib keladi. Masalan, ozodlikka chiqqan mahkum o'zining sudlanganligi sababli ish topishda qiynalishi mumkin, bu esa uni giyohvand moddalar savdosi yoki o'g'rilikka qaytaradi. Bundan tashqari, <mark>qamoq bilan bog'liq stigma</mark> ularning imkoniyatlarini jiddiy cheklashi mumkin.</p>\n\n<p>Yana bir omil - axloq tuzatish muassasalarida reabilitatsiya dasturlarining yetarli emasligi. Ko'pgina qamoqxonalar isloh qilishdan ko'ra jazoga ustunlik beradi va mahkumlarni ozodlikka chiqqanidan keyin qonuniy hayot kechirish uchun zarur ko'nikmalar va resurslar bilan ta'minlay olmaydi. <mark>Kasb-hunar ta'limining yetishmasligi</mark>, ta'lim imkoniyatlari va psixologik maslahat mahbuslarni tashqi dunyo muammolariga duch kelishga tayyor emas qoldiradi. Natijada, ularda qonuniy ish topish yoki o'tmishning hissiy va psixologik chandiqlari bilan kurashish uchun ko'nikmalar bo'lmasligi mumkin.</p>\n\n<p>Ushbu muammoni hal qilish uchun keng qamrovli yechimlar to'plami zarur. Birinchidan, hukumatlar sobiq jinoyatchilarni ish o'rgatish, uy-joy yordami va ruhiy salomatlik xizmatlari bilan ta'minlaydigan mustahkam reintegratsiya dasturlariga sarmoya kiritishi kerak. Individual jinoyatchilarning o'ziga xos ehtiyojlarini qondirishga qaratilgan <mark>maqsadli aralashuvlar</mark> juda muhimdir. Ikkinchidan, qamoqxonalar ta'lim va kasb-hunar dasturlarini keng ko'lamda taklif qilish orqali reabilitatsiyaga ustunlik berishi kerak. Bu mahkumlarga o'rta maktab diplomini yoki GED olish, hunar o'rganish va muhim hayotiy ko'nikmalarni rivojlantirish imkoniyatlarini taqdim etishni o'z ichiga oladi. <mark>E'tibor</mark> faqat jazo choralaridan reabilitatsiya va reintegratsiyani ta'kidlaydigan tiklash adolatiga o'tishi kerak.</p>\n\n<p>Xulosa qilib aytganda, retsidivizmning yuqori darajasi chuqur ildiz otgan sabablarga ega bo'lgan murakkab muammodir. Reintegratsiya yordamining yo'qligini bartaraf etish va qamoqxonalarda reabilitatsiya dasturlarini yaxshilash orqali jamiyatlar sobiq jinoyatchilarning jinoiy xatti-harakatlarga qaytish ehtimolini kamaytirishi mumkin. Sobiq mahbuslarning muvaffaqiyatli reintegratsiyasini qo'llab-quvvatlaydigan yanada adolatli va teng huquqli tizimni yaratish uchun hukumatlar, jamoalar va axloq tuzatish muassasalarining <mark>uyg'unlashtirilgan harakatlari</mark> zarur. <mark>Oxir-oqibat, xavfsizroq jamiyat hammaga foyda keltiradi.</mark>\n</p>",
+    "uzSampleBand9": "<p>Afsuski, shunday achinarli haqiqat borki, ozodlikka chiqqan ko'plab shaxslar <mark>qayta jinoyat sodir etib, yana jinoyat olamiga qaytadilar</mark>. Bu hodisa jamiyatga reintegratsiya muammolaridan tortib, shaxsiy psixologik moyilliklargacha bo'lgan murakkab omillar ta'siri bilan bog'liq. Bu muammoni hal qilish qamoqning ildiz sabablari va bevosita oqibatlariga qaratilgan ko'p qirrali yondashuvni talab qiladi.</p>\n\n<p>Recidivizmning asosiy omillaridan biri <mark>jinoyat tarixi bilan bog'liq stigma</mark>dir. Sobiq mahbuslar ko'pincha barqaror ish va uy-joy topishda sezilarli to'siqlarga duch kelishadi. Ko'pgina ish beruvchilar jinoyat o'tmishi bo'lgan shaxslarni yollashdan tortinadi, uy egalari esa ularga ijaraga berishni istamasligi mumkin. Bu iqtisodiy chetlanish umidsizlik va nochorlik tuyg'ulariga olib kelishi mumkin, bu esa shaxslarni omon qolish vositasi sifatida yana jinoyatga qaytaradi. Bundan tashqari, qamoq paytida ijtimoiy aloqalarning yo'qolishi shaxslarni ozodlikka chiqqanidan keyin yolg'iz va qo'llab-quvvatlash tarmog'isiz qoldirishi mumkin, bu esa ularning zaifligini yanada kuchaytiradi.</p>\n\n<p>Yana bir omil <mark>ko'pincha axloq tuzatish muassasalarida taklif etiladigan yetarli bo'lmagan reabilitatsiya dasturlari</mark>da yotadi. Ba'zi qamoqxonalar kasbiy ta'lim va ta'lim imkoniyatlarini taklif qilsa-da, ular mahbuslarni tashqi dunyoda muvaffaqiyat qozonish uchun zarur bo'lgan ko'nikmalar va bilimlar bilan ta'minlash uchun har doim ham yetarli emas. Bundan tashqari, ko'plab dasturlar shaxsning jinoyat xatti-harakatiga sabab bo'lgan asosiy psixologik muammolarni, masalan, giyohvandlik, g'azabni boshqarish muammolari yoki ruhiy salomatlik buzilishlarini hal qila olmaydi. Muayyan ehtiyojlar uchun <mark>moslashtirilgan yordamning yetishmasligi</mark> ayniqsa zararli bo'lishi mumkin.</p>\n\n<p>Recidivizmni kamaytirish uchun bir qator yechimlar amalga oshirilishi kerak. Birinchidan, jamiyat sobiq mahbuslarga nisbatan <mark>mehr-shafqatli va tushunishga asoslangan yondashuvni</mark> qabul qilishi kerak. Bunga jinoyat tarixi bilan bog'liq stigmani kamaytirishga qaratilgan tashabbuslar kiradi, masalan, ish beruvchilarga dastlabki ishga ariza berishda jinoyat tarixi haqida so'rashni taqiqlovchi \"qutini taqiqlash\" siyosati. Ikkinchidan, qamoqxonalar reabilitatsiyaga ustuvor ahamiyat berishi va mahbuslarning amaliy va psixologik ehtiyojlarini qondiradigan keng qamrovli dasturlarni taklif qilishi kerak. Bunga kasbiy ta'lim imkoniyatlarini kengaytirish, ruhiy salomatlik xizmatlaridan foydalanishni ta'minlash va giyohvandlikni davolash dasturlarini taklif qilish kiradi. Nihoyat, <mark>ozodlikdan keyingi qo'llab-quvvatlash xizmatlari juda muhimdir</mark>. Bunga ish va uy-joy topishda yordam berish, shuningdek, sobiq mahbuslarga jamiyatga reintegratsiya qilish va <mark>jinoyatsiz hayot tarzini saqlab qolishga</mark> yordam berish uchun murabbiylik dasturlari va qo'llab-quvvatlash guruhlarini taklif qilish kiradi. Recidivizmning asosiy sabablarini bartaraf etish va har tomonlama yordam ko'rsatish orqali biz barcha uchun adolatli va xavfsizroq jamiyat yaratishimiz mumkin. Reabilitatsiyaga sarmoya kiritish uzoq muddatda <mark>dividendlarni beradi</mark>, jinoyatchilik darajasini pasaytiradi va yanada samarali fuqarolikni rivojlantiradi.</p>\n\n<p>Xulosa qilib aytganda, recidivizm davri - bu oson yechimlari bo'lmagan murakkab muammo. Biroq, jamiyat stigmasini bartaraf etish, reabilitatsiya dasturlarini takomillashtirish va ozodlikdan keyingi har tomonlama yordam ko'rsatish orqali biz sobiq mahbuslarning jinoyat olamiga qaytish <mark>ehtimolini sezilarli darajada kamaytirishimiz</mark> va yanada inklyuziv va qo'llab-quvvatlovchi jamiyat yaratishimiz mumkin.</p>"
+   }
+  },
+  "source": "IELTS Fever",
+  "examDate": "2023-08-19",
+  "settings": {
+   "timeInfo": "60 Minutes",
+   "moduleTitle": "Academic Writing Module",
+   "testIdentifier": "Mock 16"
+  },
+  "vocabulary": {
+   "task1": [
+    {
+     "term": "Production output",
+     "meaning": "The amount of goods or materials produced."
+    },
+    {
+     "term": "Significant declines",
+     "meaning": "Large or important decreases."
+    },
+    {
+     "term": "Workforce",
+     "meaning": "The total number of people employed in a particular industry or company."
+    },
+    {
+     "term": "Steep decline",
+     "meaning": "A rapid and dramatic decrease."
+    },
+    {
+     "term": "Stabilized",
+     "meaning": "Became steady and stopped changing."
+    },
+    {
+     "term": "Margin",
+     "meaning": "An amount by which something is greater or less than another."
+    },
+    {
+     "term": "Productivity",
+     "meaning": "The rate at which goods are produced or work is completed."
+    },
+    {
+     "term": "Automation",
+     "meaning": "The use of machines and technology to do work previously done by people."
+    }
+   ],
+   "task2": [
+    {
+     "term": "Recidivism",
+     "meaning": "The tendency of a convicted criminal to reoffend."
+    },
+    {
+     "term": "Stigma",
+     "meaning": "A mark of disgrace associated with a particular circumstance or quality."
+    },
+    {
+     "term": "Hardened criminals",
+     "meaning": "People who are experienced in crime and unlikely to change."
+    },
+    {
+     "term": "Rehabilitation programs",
+     "meaning": "Activities designed to help someone return to a normal, healthy life."
+    },
+    {
+     "term": "Underlying issues",
+     "meaning": "The fundamental problems that are the real cause of something."
+    },
+    {
+     "term": "Disadvantaged communities",
+     "meaning": "Areas where people have fewer opportunities due to poverty or social problems."
+    },
+    {
+     "term": "Vocational training",
+     "meaning": "Education that prepares people for a specific job or trade."
+    },
+    {
+     "term": "Reintegrate into society",
+     "meaning": "To become a fully functioning member of the community again."
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "Around": {
+    "uz": "Taxminan",
+    "type": "linking"
+   },
+   "In summary": {
+    "uz": "Xulosa qilib aytganda",
+    "type": "linking"
+   },
+   "plummeted to": {
+    "uz": "gacha keskin tushib ketdi",
+    "type": "lexical"
+   },
+   "If we do this": {
+    "uz": "Agar biz buni qilsak",
+    "type": "linking"
+   },
+   "bottoming out": {
+    "uz": "tubiga yetmoq",
+    "type": "idiom"
+   },
+   "fell steadily": {
+    "uz": "doimiy ravishda tushdi",
+    "type": "lexical"
+   },
+   "make programs": {
+    "uz": "dasturlar tuzish",
+    "type": "lexical"
+   },
+   "Because of this": {
+    "uz": "Shuning uchun",
+    "type": "linking"
+   },
+   "yields dividends": {
+    "uz": "samara beradi",
+    "type": "idiom"
+   },
+   "This is important": {
+    "uz": "Bu muhim",
+    "type": "linking"
+   },
+   "expanded steadily": {
+    "uz": "doimiy ravishda kengaydi",
+    "type": "academic"
+   },
+   "A concerted effort": {
+    "uz": "Kelishilgan harakat",
+    "type": "colloc"
+   },
+   "illustrate changes": {
+    "uz": "o'zgarishlarni ko'rsatish",
+    "type": "academic"
+   },
+   "suggesting a shift": {
+    "uz": "o'zgarishni taklif qilmoqda",
+    "type": "academic"
+   },
+   "fluctuated somewhat": {
+    "uz": "biroz tebranib turdi",
+    "type": "lexical"
+   },
+   "lack of opportunity": {
+    "uz": "imkoniyatning yo'qligi",
+    "type": "lexical"
+   },
+   "precipitous decline": {
+    "uz": "keskin pasayish",
+    "type": "academic"
+   },
+   "address this problem": {
+    "uz": "bu muammoni hal qilish",
+    "type": "academic"
+   },
+   "also decreased a lot": {
+    "uz": "ham ancha kamaydi",
+    "type": "lexical"
+   },
+   "employed less people": {
+    "uz": "kamroq odam ishga oldi",
+    "type": "lexical"
+   },
+   "post-release support": {
+    "uz": "ozodlikdan keyingi yordam",
+    "type": "academic"
+   },
+   "widened considerably": {
+    "uz": "ancha kengaydi",
+    "type": "lexical"
+   },
+   "If they do not receive": {
+    "uz": "Agar ular olmasa",
+    "type": "linking"
+   },
+   "Targeted interventions": {
+    "uz": "Maqsadli aralashuvlar",
+    "type": "academic"
+   },
+   "The focus should shift": {
+    "uz": "Diqqatni o'zgartirish kerak",
+    "type": "academic"
+   },
+   "give information about": {
+    "uz": "haqida ma'lumot berish",
+    "type": "lexical"
+   },
+   "A multifaceted approach": {
+    "uz": "Ko'p qirrali yondashuv",
+    "type": "academic"
+   },
+   "It is also important to": {
+    "uz": "Shuni ham ta'kidlash joizki",
+    "type": "linking"
+   },
+   "don't learn good things": {
+    "uz": "yaxshi narsalarni o'rganmaydi",
+    "type": "lexical"
+   },
+   "fluctuated considerably": {
+    "uz": "ancha tebranib turdi",
+    "type": "lexical"
+   },
+   "illustrate fluctuations": {
+    "uz": "tebranishlarni ko'rsatish",
+    "type": "academic"
+   },
+   "increasingly reliant on": {
+    "uz": "tobora ko'proq bog'liq",
+    "type": "academic"
+   },
+   "witnessed a steady drop": {
+    "uz": "doimiy pasayishga guvoh bo'ldi",
+    "type": "academic"
+   },
+   "entrepreneurial ventures": {
+    "uz": "tadbirkorlik tashabbuslari",
+    "type": "academic"
+   },
+   "offsetting the decline in": {
+    "uz": "ning pasayishini qoplash",
+    "type": "academic"
+   },
+   "A lack of tailored support": {
+    "uz": "Moslashtirilgan yordamning yetishmasligi",
+    "type": "academic"
+   },
+   "fail to adequately prepare": {
+    "uz": "yetarli darajada tayyorlay olmaslik",
+    "type": "academic"
+   },
+   "saw a more dramatic change": {
+    "uz": "yanada keskin o'zgarishni ko'rdi",
+    "type": "lexical"
+   },
+   "the industry changed a lot": {
+    "uz": "sanoat juda ko'p o'zgardi",
+    "type": "lexical"
+   },
+   "difficulty in reintegrating": {
+    "uz": "qayta integratsiya qilishda qiyinchilik",
+    "type": "academic"
+   },
+   "displayed a marked increase": {
+    "uz": "sezilarli o'sishni namoyish etdi",
+    "type": "academic"
+   },
+   "undoubtedly correlates with": {
+    "uz": "shubhasiz bilan bog'liq",
+    "type": "academic"
+   },
+   "immediately striking feature": {
+    "uz": "darhol ko'zga tashlanadigan xususiyat",
+    "type": "academic"
+   },
+   "witnessed a precipitous drop": {
+    "uz": "keskin pasayishga guvoh bo'ldi",
+    "type": "academic"
+   },
+   "production of steel decreased": {
+    "uz": "po'lat ishlab chiqarish kamaydi",
+    "type": "lexical"
+   },
+   "A dearth of vocational training": {
+    "uz": "Kasbiy ta'limning yetishmasligi",
+    "type": "academic"
+   },
+   "maintain a crime-free lifestyle": {
+    "uz": "jinoyatsiz hayot tarzini saqlab qolish",
+    "type": "academic"
+   },
+   "parallel and even more dramatic": {
+    "uz": "parallel va hatto undan ham keskinroq",
+    "type": "academic"
+   },
+   "difficulty in finding employment": {
+    "uz": "ish topishda qiyinchilik",
+    "type": "academic"
+   },
+   "experienced a significant decline": {
+    "uz": "sezilarli pasayishni boshdan kechirdi",
+    "type": "academic"
+   },
+   "represents a staggering reduction": {
+    "uz": "hayratlanarli qisqarishni anglatadi",
+    "type": "academic"
+   },
+   "demonstrated a consistent increase": {
+    "uz": "doimiy o'sishni ko'rsatdi",
+    "type": "academic"
+   },
+   "re-offend soon after their release": {
+    "uz": "ozodlikka chiqqanidan keyin ko'p o'tmay qayta jinoyat qilish",
+    "type": "academic"
+   },
+   "significantly reduce the likelihood": {
+    "uz": "ehtimolni sezilarli darajada kamaytirish",
+    "type": "academic"
+   },
+   "stigma associated with incarceration": {
+    "uz": "qamoq bilan bog'liq stigma",
+    "type": "academic"
+   },
+   "comprehensive rehabilitation programs": {
+    "uz": "keng qamrovli reabilitatsiya dasturlari",
+    "type": "academic"
+   },
+   "inadequacy of rehabilitation programs": {
+    "uz": "reabilitatsiya dasturlarining yetishmasligi",
+    "type": "academic"
+   },
+   "lack of adequate reintegration support": {
+    "uz": "qayta integratsiya qilish uchun yetarli yordamning yo'qligi",
+    "type": "academic"
+   },
+   "re-offend and return to a life of crime": {
+    "uz": "qayta jinoyat qilib, jinoyat hayotiga qaytish",
+    "type": "academic"
+   },
+   "compassionate and understanding approach": {
+    "uz": "rahm-shafqatli va tushunarli yondashuv",
+    "type": "academic"
+   },
+   "often inadequate rehabilitation programs": {
+    "uz": "ko'pincha yetarli bo'lmagan reabilitatsiya dasturlari",
+    "type": "academic"
+   },
+   "stigma associated with a criminal record": {
+    "uz": "jinoyat tarixi bilan bog'liq stigma",
+    "type": "academic"
+   },
+   "Ultimately, a safer society benefits all.": {
+    "uz": "Oxir oqibat, xavfsizroq jamiyat hammaga foyda keltiradi.",
+    "type": "academic"
+   },
+   "post-release support services are crucial": {
+    "uz": "ozodlikdan keyingi yordam xizmatlari juda muhim",
+    "type": "academic"
+   },
+   "especially given the reduced domestic output": {
+    "uz": "ayniqsa, ichki ishlab chiqarishning kamayishini hisobga olsak",
+    "type": "academic"
+   },
+   "then underwent a series of peaks and troughs": {
+    "uz": "keyin bir qator cho'qqilar va pastliklarni boshdan kechirdi",
+    "type": "lexical"
+   }
+  }
+ },
+ "created_at": "2026-05-06T17:28:48.584856+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

@@ -1,0 +1,565 @@
+{
+ "id": 61,
+ "mock_type": "cefr-writing",
+ "mock_number": 51,
+ "title": "CEFR Writing Mock 51",
+ "status": "published",
+ "mock_data": {
+  "part1": {
+   "chip": "sports",
+   "topic": "Yoga studio"
+  },
+  "tasks": {
+   "t2": {
+    "chip": "",
+    "genre": "forum",
+    "title": "Schools start later in the morning to help students perform better",
+    "prompt": "You are participating in an online discussion forum. The topic is: \"Should schools start later in the morning to help students perform better?\" Write your response, giving reasons and examples. Write 180–200 words.",
+    "sample": "<p>I <span class=\"ml-token adv\">strongly</span> believe that schools <span class=\"ml-token modal\">should</span> start later in the morning to help students <span class=\"ml-token colloc\">perform better academically</span>.</p>\n\n<p><span class=\"ml-token adv\">Firstly</span>, teenagers <span class=\"ml-token adv\">naturally</span> have different <span class=\"ml-token colloc\">sleep patterns</span> and find it difficult to fall asleep early. Research shows that adolescents need 8-10 hours of sleep, but <span class=\"ml-token colloc\">early school times</span> mean many students arrive tired and unable to concentrate. Starting school at 9 AM instead of 8 AM <span class=\"ml-token modal\">would</span> allow students to get <span class=\"ml-token colloc\">adequate rest</span>.</p>\n\n<p><span class=\"ml-token adv\">Secondly</span>, <span class=\"ml-token colloc\">well-rested students</span> are more attentive in class and achieve better grades. Studies from countries that have implemented <span class=\"ml-token colloc\">later start times</span> show improved <span class=\"ml-token colloc\">academic performance</span> and reduced absenteeism.</p>\n\n<p><span class=\"ml-token adv\">However</span>, some argue that later start times <span class=\"ml-token modal\">could</span> interfere with parents' work schedules and <span class=\"ml-token colloc\">after-school activities</span>. While this is a <span class=\"ml-token colloc\">valid concern</span>, schools <span class=\"ml-token modal\">could</span> adjust their timetables to finish at reasonable hours.</p>\n\n<p><span class=\"ml-token adv\">In conclusion</span>, the benefits of later school start times <span class=\"ml-token idiom\">outweigh the challenges</span>. Schools <span class=\"ml-token modal\">should</span> prioritize <span class=\"ml-token colloc\">student health</span> and learning by adjusting their schedules accordingly.</p>",
+    "target": "180–200 words",
+    "sampleA1": "<p>Hi! <br> Yoga good. I like yoga. Time good. Bye.</p>",
+    "sampleA2": "<p>Hello! <br>I like yoga studio. Classes are good and teachers are nice. But sometimes the time is not good for me because I work. I want more classes in the evening and on Saturday. Thank you!</p>",
+    "sampleB1": "<p>Hi, Peaceful Mind Team,<br>I'm enjoying the yoga studio so far. The classes are pretty good, and the instructors are nice and helpful. The session times are mostly okay, but it would be great to have more options in the evenings. <br>I think it would be good to have a class that focuses more on relaxation and meditation. Also, maybe a workshop on breathing techniques would be interesting. Overall, I'm happy with the studio. <br>Thanks!</p>",
+    "sampleB2": "This is such a great topic, and I've got to say I'm firmly on the side of later start times!\nLet's be honest — most teenagers simply can't fall asleep early, no matter how hard they try. It comes down to their <span class=\"ml-token colloc\">body clock</span>, which shifts during adolescence. So when the alarm goes off at six, they drag themselves to school half-asleep and can barely <span class=\"ml-token phrasal\">take anything in</span>. How is anyone supposed to perform well like that?\nFrom my own experience, the mornings I've had <span class=\"ml-token colloc\">a proper lie-in</span> are the days I feel sharp and ready to learn. A later start would let students <span class=\"ml-token phrasal\">catch up on sleep</span> and <span class=\"ml-token phrasal\">turn up</span> genuinely alert. Plenty of schools abroad have already <span class=\"ml-token colloc\">made the switch</span> and seen grades go up and absences drop, which really speaks for itself.\nThat said, I do get that it might clash with parents' work schedules or after-school activities — but surely that's something schools and families can <span class=\"ml-token phrasal\">work around</span> with a bit of planning.\n<span class=\"ml-token linking\">All in all</span>, I reckon the benefits <span class=\"ml-token idiom\">far outweigh the drawbacks</span>. What does everyone else think? Would you <span class=\"ml-token phrasal\">be up for</span> a later start?",
+    "uzSample": "<p>Men o'quvchilarning akademik ko'rsatkichlari yaxshilanishi uchun maktablar ertalab darslarni kechroq boshlashi kerak, deb qat'iy ishonaman.</p>\n\n<p>Birinchidan, o'smirlar tabiatan turli xil uyqu tartiblariga ega va erta uxlab qolishlari qiyin. Tadqiqotlar shuni ko'rsatadiki, o'smirlarga 8-10 soat uyqu kerak, ammo maktabning erta boshlanishi ko'plab o'quvchilarning charchagan holda kelishi va diqqatini jamlay olmasligini anglatadi. Maktabni soat 8 da emas, balki 9 da boshlash o'quvchilarga yetarli darajada dam olish imkonini beradi.</p>\n\n<p>Ikkinchidan, yaxshi dam olgan o'quvchilar darsda ko'proq e'tiborli bo'lishadi va yaxshiroq baholarga erishadilar. Darslarni kechroq boshlashni joriy qilgan mamlakatlarning tadqiqotlari akademik ko'rsatkichlarning yaxshilanishi va davomatning kamayishini ko'rsatadi.</p>\n\n<p>Biroq, ba'zilarning ta'kidlashicha, darslarning kechroq boshlanishi ota-onalarning ish jadvaliga va darsdan keyingi mashg'ulotlarga xalaqit berishi mumkin. Bu asosli xavotir bo'lsa-da, maktablar o'z jadvallarini moslashtirib, maqbul soatlarda tugatishlari mumkin.</p>\n\n<p>Xulosa qilib aytganda, maktab darslarining kechroq boshlanishining afzalliklari qiyinchiliklardan ustun turadi. Maktablar o'z jadvallarini shunga moslashtirib, o'quvchilar salomatligi va o'rganishiga ustuvor ahamiyat berishlari kerak.</p>",
+    "uzSampleA1": "<p>Salom! <br> Yoga yaxshi. Menga yoga yoqadi. Vaqt yaxshi. Xayr.</p>",
+    "uzSampleA2": "<p>Salom! <br>Menga yoga studiyasi yoqadi. Darslar yaxshi va o'qituvchilar ham yaxshi. Lekin ba'zida vaqti menga to'g'ri kelmaydi, chunki men ishlayman. Men kechqurunlari va shanba kunlari ko'proq darslar bo'lishini xohlayman. Rahmat!</p>",
+    "uzSampleB1": "<p>Salom, Tinch Fikr Jamoasi,<br>Men yoga studiyasidan hozircha zavqlanyapman. Mashg'ulotlar juda yaxshi, va o'qituvchilar ham yoqimli va foydali. Mashg'ulot vaqtlari asosan yaxshi, lekin kechqurunlari ko'proq variantlar bo'lishi juda yaxshi bo'lardi.<br>Menimcha, ko'proq dam olish va meditatsiyaga qaratilgan mashg'ulot bo'lishi yaxshi bo'lardi. Shuningdek, nafas olish texnikalari bo'yicha seminar ham qiziqarli bo'lishi mumkin. Umuman olganda, men studiyadan mamnunman.<br>Rahmat!</p>",
+    "uzSampleB2": "<p>Hurmatli Peaceful Mind jamoasi,<br>Elektron pochtangiz uchun rahmat. Men umuman olganda yoga studiyasidan mamnunman. Mashg'ulotlar xilma-xilligi yetarli, garchi men maxsus seminarlar nuqtai nazaridan yaxshilashga joy bor deb o'ylayman. O'qituvchilar bilimli va mehmondo'st muhit yaratadilar. Mashg'ulot vaqtlari asosan qulay, lekin men kechqurun va dam olish kunlarida eng gavjum soatlarda ko'proq variantlarni xohlardim.<br>Xususan, men tiklovchi yoga mashg'ulotini yoki muayyan mushak guruhlariga (masalan, son va yelkalar) qaratilgan mashg'ulotni foydali deb bilardim. Ehtimol, siz yoga amaliyotini to'ldirish uchun Ayurveda yoki mindfulness kabi tegishli mavzularda kirish seminarlarini taklif qilishni ham ko'rib chiqishingiz mumkin. Ushbu qo'shimchalar, albatta, Peaceful Mind Yoga Studio'dagi umumiy tajribamni yaxshilaydi.<br>Hurmat bilan,<br>Malika Yusupova</p>"
+   },
+   "t11": {
+    "title": "informal letter · to friend",
+    "prompt": "Write a letter to your friend, who is feeling stressed and looking for relaxation activities. Write about your feelings and what you think they should do.",
+    "sample": "Hey there!\n\nI heard you've been <span class=\"ml-token adv\">really stressed</span> lately and I <span class=\"ml-token adv\">totally</span> get it. I recently joined this <span class=\"ml-token colloc\">yoga studio</span> near my place and it's been <span class=\"ml-token idiom\">a game-changer</span> for me! The classes are so <span class=\"ml-token colloc\">relaxing and peaceful</span>. You <span class=\"ml-token modal\">should definitely</span> give it a try – I think it <span class=\"ml-token modal\">would</span> really help you <span class=\"ml-token phrasal\">unwind</span> and <span class=\"ml-token phrasal\">de-stress</span>.\n\nLet me know if you want to <span class=\"ml-token phrasal\">tag along</span> to a class!\n\nTake care!",
+    "target": "50–70 words",
+    "sampleA1": "<p>Hi Bekzod,<br>I am good. Yoga is good. I like yoga. You try yoga. Bye.</p>",
+    "sampleA2": "<p>Hi Bekzod,<br>I am doing yoga now. It is good. I was stressed but now I am not. You are stressed. You should try yoga. It is near my house and it is easy. Maybe we can go together? See you soon.</p>",
+    "sampleB1": "<p>Hi Bekzod,<br>I heard you're feeling stressed. That's too bad! I've started doing yoga at a studio near my house, and it's really helping me relax. I think you should try it too. The classes are good, and it's a nice way to forget about everything for an hour. Maybe we could go to a class together sometime? Let me know what you think.</p>",
+    "sampleB2": "Hey Bekzod!\nI heard you've been feeling <span class=\"ml-token phrasal\">stressed out</span> lately, and I just wanted to <span class=\"ml-token phrasal\">check in</span>. Honestly, joining a little yoga studio near my place has been <span class=\"ml-token idiom\">a total game-changer</span> for me — it helps me <span class=\"ml-token phrasal\">unwind</span> after a long day and really <span class=\"ml-token idiom\">clear my head</span>. You should <span class=\"ml-token idiom\">give it a go</span>! Maybe we could <span class=\"ml-token phrasal\">tag along</span> to a class together sometime? <span class=\"ml-token idiom\">Hang in there</span>!\nTake care,\nDilnoza",
+    "uzSample": "<p>Salom!</p>\n<p>Eshitishimcha, oxirgi paytlarda juda stressda yuribsan va men seni to'liq tushunaman. Yaqinda uyimning yonidagi yoga studiyasiga a'zo bo'ldim va bu men uchun katta o'zgarish bo'ldi! Mashg'ulotlar juda tinchlantiruvchi va osoyishta. Albatta, urinib ko'rishing kerak – o'ylashimcha, bu senga dam olishing va stressdan xalos bo'lishingga juda yordam beradi.</p>\n<p>Agar birga darsga borishni xohlasang, menga xabar ber!</p>\n<p>O'zingni ehtiyot qil!</p>",
+    "uzSampleA1": "<p>Salom Bekzod,<br>Men yaxshiman. Yoga yaxshi. Menga yoga yoqadi. Sen yoga qilib ko'r. Xayr.</p>",
+    "uzSampleA2": "<p>Salom Bekzod,<br>Men hozir yoga bilan shug'ullanyapman. Bu yaxshi. Men stressda edim, lekin hozir emasman. Siz stressdasiz. Siz yoga bilan shug'ullanib ko'rishingiz kerak. U mening uyimga yaqin va oson. Balki birga borarmiz? Ko'rishguncha.</p>",
+    "uzSampleB1": "<p>Salom Bekzod,<br>Eshitishimcha, o'zingni stressda his qilyapsan. Bu juda yomon! Men uyimning yaqinidagi studiyada yoga bilan shug'ullana boshladim va bu menga dam olishga juda yordam beryapti. O'ylaymanki, sen ham buni sinab ko'rishing kerak. Mashg'ulotlar yaxshi va bu bir soat davomida hamma narsani unutishning ajoyib usuli. Balki qachondir birga darsga borarmiz? Fikringni bildir.</p>",
+    "uzSampleB2": "<p>Salom, Bekzod,<br>Oxirgi paytlarda stressda ekanligingni eshitib juda xafa bo'ldim. Bunday bo'lishi juda yomon! Senga yaqinda menga juda foydali bo'lgan narsani taklif qilmoqchiman: men mahalliy yoga studiyasiga qo'shildim. Men darslarni juda tinchlantiruvchi va band kundan keyin stressdan xalos bo'lishning ajoyib usuli deb bilaman. Ishonamanki, bu senga ham yordam berishi mumkin. Balki, sen boshlang'ichlar uchun darsga borib ko'rarsan? Agar qiziqsang, menga xabar ber, biz birga borishimiz mumkin. Bu senga dam olish uchun kerak bo'lgan narsa bo'lishi mumkin.</p>"
+   },
+   "t12": {
+    "title": "formal letter · to recipient",
+    "prompt": "Write a letter to the yoga studio. Write about your feelings and what you think they should do.",
+    "sample": "Dear Peaceful Mind Team,\n\nI hope this message finds you well. I am writing to share my feedback regarding my experience at your <span class=\"ml-token colloc\">yoga studio</span> over the past few weeks.\n\n<span class=\"ml-token adv\">Firstly</span>, I would like to express my <span class=\"ml-token colloc\">sincere appreciation</span> for the quality of instruction provided. The teachers are <span class=\"ml-token adv\">exceptionally</span> knowledgeable and create a <span class=\"ml-token colloc\">welcoming atmosphere</span> for beginners like myself. The morning sessions at 7 AM are <span class=\"ml-token adv\">particularly</span> convenient for my schedule.\n\n<span class=\"ml-token adv\">However</span>, I would like to suggest a few improvements. <span class=\"ml-token adv\">Firstly</span>, it <span class=\"ml-token modal\">would</span> be helpful to offer more <span class=\"ml-token colloc\">evening classes</span> for people who work during the day. <span class=\"ml-token adv\">Additionally</span>, I believe that <span class=\"ml-token colloc\">meditation workshops</span> <span class=\"ml-token modal\">could</span> attract more members interested in <span class=\"ml-token colloc\">mindfulness practices</span>.\n\nI <span class=\"ml-token phrasal\">look forward to</span> continuing my membership and seeing these improvements implemented.\n\nYours sincerely,\nMalika Yusupova",
+    "target": "120–150 words",
+    "sampleA1": "<p>Hi Peaceful Mind Team,<br>I like yoga. Yoga is good. The teacher is good. <br>I want more yoga on Monday. Bye.</p>",
+    "sampleA2": "<p>Hi Peaceful Mind Team,<br>Thank you for the yoga. I like the yoga studio. The teachers are nice and the class is good. But the time is not good for me because I work. I want yoga in the evening because I can come after work. Also, maybe you can have more class for beginners because I am a beginner. Thank you.<br>Bye,<br>Malika Yusupova</p>",
+    "sampleB1": "<p>Dear Peaceful Mind Team,<br><br>Thank you for your email. I am enjoying the yoga classes at your studio. The instructors are very good and I think the classes are helping me to relax. I especially like the Saturday morning class.<br><br>However, I think you could improve some things. For example, it would be good to have more classes on weekday evenings because it's hard for me to come during the day. Also, maybe you could offer some different types of yoga, like hot yoga or yoga for beginners. I think more people would come if you had more variety.<br><br>Overall, I am happy with the studio. Thank you for listening to my suggestions.<br><br>Sincerely,<br>Malika Yusupova</p>",
+    "sampleB2": "Dear Peaceful Mind Team,\nI am writing to share some feedback on my experience since joining Peaceful Mind Yoga Studio a few weeks ago. <span class=\"ml-token linking\">On the whole</span>, I have been <span class=\"ml-token colloc\">thoroughly impressed</span>. The instructors are genuinely knowledgeable and <span class=\"ml-token idiom\">go out of their way</span> to create a <span class=\"ml-token colloc\">welcoming atmosphere</span>, which makes a real difference for beginners like me.\nThat said, I would like to <span class=\"ml-token phrasal\">put forward</span> a couple of suggestions. Firstly, it would be enormously helpful to add a few more evening classes, as the current times are tricky for those of us who <span class=\"ml-token colloc\">work full-time</span>. Secondly, I think introducing meditation workshops would appeal to members keen to explore mindfulness in more depth.\nThank you for taking my comments <span class=\"ml-token idiom\">on board</span>. I very much <span class=\"ml-token phrasal\">look forward to</span> continuing my practice with you.\nYours sincerely,\nDilnoza Karimova",
+    "uzSample": "<p>Hurmatli \"Peaceful Mind\" jamoasi,</p>\n<p>Umid qilamanki, bu xabar sizga yaxshi kayfiyat olib keladi. Men sizning yoga studiyangizda so'nggi bir necha hafta davomida olgan tajribam haqida fikr-mulohazalarimni baham ko'rish uchun yozyapman.</p>\n<p>Avvalo, taqdim etilgan ta'lim sifatiga chin dildan minnatdorchiligimni bildirmoqchiman. O'qituvchilar juda bilimli va men kabi yangi boshlovchilar uchun ham qulay muhit yaratadilar. Ertalabki soat 7:00 dagi mashg'ulotlar mening jadvalim uchun ayniqsa qulay.</p>\n<p>Biroq, men bir nechta yaxshilanishlarni taklif qilmoqchiman. Birinchidan, kunduzi ishlaydigan odamlar uchun ko'proq kechki mashg'ulotlar taklif qilish foydali bo'lardi. Bundan tashqari, o'ylaymanki, onglilik amaliyotlariga qiziquvchi ko'proq a'zolarni jalb qilish uchun meditatsiya bo'yicha seminarlar o'tkazish mumkin.</p>\n<p>Men a'zoligimni davom ettirishni va ushbu yaxshilanishlarning amalga oshirilishini ko'rishni intiqlik bilan kutaman.</p>\n<p>Hurmat bilan,<br>Malika Yusupova</p>",
+    "uzSampleA1": "<p>Salom, Peaceful Mind jamoasi,<br>Menga yoga yoqadi. Yoga yaxshi. O'qituvchi yaxshi.<br>Dushanba kunlari ko'proq yoga bo'lishini xohlayman. Xayr.</p>",
+    "uzSampleA2": "<p>Salom, Peaceful Mind jamoasi,<br>Yoga uchun rahmat. Menga yoga studiyasi yoqadi. O'qituvchilar yaxshi va darslar ham yaxshi. Lekin vaqti menga to'g'ri kelmaydi, chunki men ishlayman. Men kechqurun yoga bo'lishini xohlayman, chunki ishdan keyin kela olaman. Shuningdek, balki siz boshlanuvchilar uchun ko'proq darslar tashkil qilsangiz bo'ladi, chunki men boshlanuvchiman. Rahmat.<br>Xayr,<br>Malika Yusupova</p>",
+    "uzSampleB1": "<p>Hurmatli \"Tinch Ong\" jamoasi,<br><br>Elektron pochtangiz uchun rahmat. Men sizning studiyangizdagi yoga mashg'ulotlaridan zavqlanyapman. Instruktorlar juda yaxshi va menimcha, mashg'ulotlar menga dam olishga yordam beryapti. Ayniqsa, shanba kuni ertalabki mashg'ulot menga yoqadi.<br><br>Biroq, menimcha, siz ba'zi narsalarni yaxshilashingiz mumkin. Misol uchun, ish kunlari kechqurunlari ko'proq mashg'ulotlar bo'lishi yaxshi bo'lardi, chunki kunduzi kelish menga qiyin. Shuningdek, ehtimol, siz hot yoga yoki yangi boshlanuvchilar uchun yoga kabi turli xil yoga turlarini taklif qilishingiz mumkin. Agar sizda ko'proq xilma-xillik bo'lsa, ko'proq odamlar keladi deb o'ylayman.<br><br>Umuman olganda, men studiyadan mamnunman. Takliflarimni tinglaganingiz uchun rahmat.<br><br>Hurmat bilan,<br>Malika Yusupova</p>",
+    "uzSampleB2": "<p>Hurmatli \"Tinch Fikr\" jamoasi,<br><br>Men bir necha haftadan beri a'zo bo'lganimdan beri \"Tinch Fikr\" Yoga Studiyasidagi tajribam haqida fikr-mulohazalarimni bildirish uchun yozyapman. Umuman olganda, men studiyadan juda mamnunman va o'qituvchilar bilimdon va ijobiy o'quv muhitini yaratadilar. Men taklif etilayotgan darslarning xilma-xilligi etarli deb bilaman, garchi menda yaxshilash uchun bir nechta takliflar bo'lsa ham.<br><br>Birinchidan, hozirgi mashg'ulot vaqtlari nisbatan qulay bo'lsa-da, kechki mashg'ulotni, ehtimol soat 20:00 atrofida qo'shish, band ish jadvaliga ega bo'lganlar uchun foydali bo'ladi deb o'ylayman. Bu ko'proq odamlarga ish kuni tugagandan so'ng qatnashish imkonini beradi. Ikkinchidan, menimcha, studiya prenatal yoga yoki tiklovchi yoga kabi ixtisoslashgan seminarlar taklif qilishdan foyda ko'rishi mumkin, bu jamiyatdagi ehtiyojlar va qiziqishlarning keng doirasini qondirish uchun. Bu ham yangi a'zolarni jalb qilishi mumkin.<br><br>Takliflarimni ko'rib chiqqaningiz uchun tashakkur. Men \"Tinch Fikr\"da yoga mashg'ulotlarimni davom ettirishni intiqlik bilan kutaman.<br><br>Hurmat bilan,<br>Malika Yusupova</p>"
+   },
+   "p1_context": "You recently joined a yoga studio in your neighborhood.",
+   "p1_scenario": "Dear Member,\n\nThank you for joining Peaceful Mind Yoga Studio! We hope you're enjoying your practice with us.\nHow have you found the class variety and instructor quality? Are the session times convenient for you?\nWhat additional classes or services would enhance your yoga experience?\n\nPeaceful Mind Team"
+  },
+  "examDate": "2026-04-15",
+  "settings": {
+   "logoUrl": "https://audio.mock-stream.com/img/ibb/WN0XY5Lv/logo.png",
+   "heading1": "Bilim va malakalarni baholash agentligi",
+   "heading2": "Chet tilini bilish darajasi",
+   "examTitle": "Writing exam",
+   "logoWording": "Mock Stream",
+   "testIdentifier": "mock_stream"
+  },
+  "vocabulary": {
+   "task2": [
+    {
+     "en": "school start times",
+     "uz": "maktab boshlanish vaqtlari"
+    },
+    {
+     "en": "academic performance",
+     "uz": "akademik ko'rsatkichlar"
+    },
+    {
+     "en": "sleep patterns",
+     "uz": "uyqu tartibi"
+    },
+    {
+     "en": "adequate rest",
+     "uz": "yetarli dam olish"
+    },
+    {
+     "en": "well-rested students",
+     "uz": "yaxshi dam olgan o'quvchilar"
+    },
+    {
+     "en": "later start times",
+     "uz": "kechroq boshlanish vaqtlari"
+    },
+    {
+     "en": "concentration levels",
+     "uz": "diqqat darajasi"
+    },
+    {
+     "en": "student health",
+     "uz": "o'quvchi salomatligi"
+    },
+    {
+     "en": "after-school activities",
+     "uz": "maktabdan keyingi mashg'ulotlar"
+    },
+    {
+     "en": "valid concern",
+     "uz": "asosli tashvish"
+    },
+    {
+     "en": "outweigh the challenges",
+     "uz": "qiyinchiliklardan ustun"
+    },
+    {
+     "en": "reduced absenteeism",
+     "uz": "kamaygan davomatsizlik"
+    },
+    {
+     "en": "cognitive function",
+     "uz": "kognitiv funktsiya"
+    },
+    {
+     "en": "educational outcomes",
+     "uz": "ta'lim natijalari"
+    },
+    {
+     "en": "adolescent development",
+     "uz": "o'smir rivojlanishi"
+    },
+    {
+     "en": "circadian rhythm",
+     "uz": "biologik soat"
+    },
+    {
+     "en": "mental alertness",
+     "uz": "aqliy hushyorlik"
+    },
+    {
+     "en": "work-life balance",
+     "uz": "ish-hayot muvozanati"
+    },
+    {
+     "en": "in conclusion",
+     "uz": "xulosa qilib aytganda"
+    },
+    {
+     "en": "strongly believe",
+     "uz": "qat'iy ishonamanki"
+    }
+   ],
+   "task11": [
+    {
+     "en": "Hey there",
+     "uz": "Salom"
+    },
+    {
+     "en": "really stressed",
+     "uz": "juda stressda"
+    },
+    {
+     "en": "yoga studio",
+     "uz": "yoga studiyasi"
+    },
+    {
+     "en": "a game-changer",
+     "uz": "hayotni o'zgartiruvchi narsa"
+    },
+    {
+     "en": "relaxing and peaceful",
+     "uz": "tinchlantiradigan va xotirjam"
+    },
+    {
+     "en": "give it a try",
+     "uz": "sinab ko'rmoq"
+    },
+    {
+     "en": "unwind",
+     "uz": "dam olmoq"
+    },
+    {
+     "en": "de-stress",
+     "uz": "stressdan xalos bo'lmoq"
+    },
+    {
+     "en": "tag along",
+     "uz": "birga bormoq"
+    },
+    {
+     "en": "feeling overwhelmed",
+     "uz": "haddan tashqari charchagan"
+    },
+    {
+     "en": "peace of mind",
+     "uz": "xotirjamlik"
+    },
+    {
+     "en": "clear your head",
+     "uz": "fikringizni tozalamoq"
+    },
+    {
+     "en": "super helpful",
+     "uz": "juda foydali"
+    },
+    {
+     "en": "worth checking out",
+     "uz": "ko'rishga arziydi"
+    },
+    {
+     "en": "take care of yourself",
+     "uz": "o'zingizga g'amxo'rlik qiling"
+    },
+    {
+     "en": "mental health",
+     "uz": "ruhiy salomatlik"
+    },
+    {
+     "en": "feel better",
+     "uz": "yaxshiroq his qilmoq"
+    },
+    {
+     "en": "highly recommend",
+     "uz": "qattiq tavsiya qilmoq"
+    },
+    {
+     "en": "let me know",
+     "uz": "menga xabar bering"
+    },
+    {
+     "en": "sounds good",
+     "uz": "yaxshi eshitiladi"
+    }
+   ],
+   "task12": [
+    {
+     "en": "Dear Team",
+     "uz": "Hurmatli jamoa"
+    },
+    {
+     "en": "I am writing to share",
+     "uz": "Men ulashish uchun yozayapman"
+    },
+    {
+     "en": "sincere appreciation",
+     "uz": "chin dildan minnatdorchilik"
+    },
+    {
+     "en": "quality of instruction",
+     "uz": "o'qitish sifati"
+    },
+    {
+     "en": "welcoming atmosphere",
+     "uz": "mehmondo'st muhit"
+    },
+    {
+     "en": "exceptionally knowledgeable",
+     "uz": "g'oyat bilimli"
+    },
+    {
+     "en": "I would like to suggest",
+     "uz": "Men taklif qilmoqchiman"
+    },
+    {
+     "en": "evening classes",
+     "uz": "kechki darslar"
+    },
+    {
+     "en": "meditation workshops",
+     "uz": "meditatsiya seminarlari"
+    },
+    {
+     "en": "mindfulness practices",
+     "uz": "ongli mashqlar"
+    },
+    {
+     "en": "enhance the experience",
+     "uz": "tajribani yaxshilamoq"
+    },
+    {
+     "en": "convenient schedule",
+     "uz": "qulay jadval"
+    },
+    {
+     "en": "look forward to",
+     "uz": "intiqlik bilan kutmoq"
+    },
+    {
+     "en": "continuing my membership",
+     "uz": "a'zoligimni davom ettirmoq"
+    },
+    {
+     "en": "improvements implemented",
+     "uz": "yaxshilanishlar amalga oshirilgan"
+    },
+    {
+     "en": "professional instructors",
+     "uz": "professional o'qituvchilar"
+    },
+    {
+     "en": "variety of classes",
+     "uz": "darslarning xilma-xilligi"
+    },
+    {
+     "en": "constructive feedback",
+     "uz": "konstruktiv fikr-mulohaza"
+    },
+    {
+     "en": "highly satisfied",
+     "uz": "juda mamnun"
+    },
+    {
+     "en": "Yours sincerely",
+     "uz": "Hurmat bilan"
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "could": {
+    "uz": "mumkin",
+    "type": "modal"
+   },
+   "would": {
+    "uz": "bo'lardi",
+    "type": "modal"
+   },
+   "should": {
+    "uz": "kerak",
+    "type": "modal"
+   },
+   "unwind": {
+    "uz": "dam olmoq, tinchlanmoq",
+    "type": "phrasal"
+   },
+   "Firstly": {
+    "uz": "Avvalo",
+    "type": "adv"
+   },
+   "However": {
+    "uz": "Biroq",
+    "type": "adv"
+   },
+   "totally": {
+    "uz": "butunlay",
+    "type": "adv"
+   },
+   "turn up": {
+    "uz": "kelmoq, paydo bo'lmoq",
+    "type": "phrasal"
+   },
+   "Secondly": {
+    "uz": "Ikkinchidan",
+    "type": "adv"
+   },
+   "check in": {
+    "uz": "holidan xabar olmoq",
+    "type": "phrasal"
+   },
+   "on board": {
+    "uz": "e'tiborga olmoq, inobatga olmoq",
+    "type": "idiom"
+   },
+   "strongly": {
+    "uz": "qattiq",
+    "type": "adv"
+   },
+   "be up for": {
+    "uz": "rozi bo'lmoq, xohishi bo'lmoq",
+    "type": "phrasal"
+   },
+   "de-stress": {
+    "uz": "stressdan xalos bo'lmoq",
+    "type": "phrasal"
+   },
+   "naturally": {
+    "uz": "tabiiyki",
+    "type": "adv"
+   },
+   "tag along": {
+    "uz": "birga bormoq, qo'shilib bormoq",
+    "type": "phrasal"
+   },
+   "All in all": {
+    "uz": "Xullas, umuman olganda",
+    "type": "linking"
+   },
+   "body clock": {
+    "uz": "biologik soat",
+    "type": "colloc"
+   },
+   "put forward": {
+    "uz": "taklif ilgari surmoq",
+    "type": "phrasal"
+   },
+   "work around": {
+    "uz": "chorasini topmoq, yechim topmoq",
+    "type": "phrasal"
+   },
+   "yoga studio": {
+    "uz": "yoga markazi",
+    "type": "colloc"
+   },
+   "Additionally": {
+    "uz": "Bundan tashqari",
+    "type": "adv"
+   },
+   "On the whole": {
+    "uz": "Umuman olganda",
+    "type": "linking"
+   },
+   "give it a go": {
+    "uz": "bir sinab ko'rmoq",
+    "type": "idiom"
+   },
+   "particularly": {
+    "uz": "ayniqsa",
+    "type": "adv"
+   },
+   "stressed out": {
+    "uz": "juda asabiylashgan, toliqqan",
+    "type": "phrasal"
+   },
+   "Hang in there": {
+    "uz": "bardam bo'l, chidab tur",
+    "type": "idiom"
+   },
+   "In conclusion": {
+    "uz": "Xulosa qilib aytganda",
+    "type": "adv"
+   },
+   "adequate rest": {
+    "uz": "yetarli dam olish",
+    "type": "colloc"
+   },
+   "clear my head": {
+    "uz": "fikrimni tiniqlashtirmoq",
+    "type": "idiom"
+   },
+   "exceptionally": {
+    "uz": "g'oyatda",
+    "type": "adv"
+   },
+   "valid concern": {
+    "uz": "asosli xavotir",
+    "type": "colloc"
+   },
+   "a game-changer": {
+    "uz": "tubdan o'zgartiruvchi",
+    "type": "idiom"
+   },
+   "sleep patterns": {
+    "uz": "uyqu tartibi",
+    "type": "colloc"
+   },
+   "student health": {
+    "uz": "o'quvchilar salomatligi",
+    "type": "colloc"
+   },
+   "work full-time": {
+    "uz": "to'liq stavkada ishlamoq",
+    "type": "colloc"
+   },
+   "a proper lie-in": {
+    "uz": "yaxshigina, kech uyg'onish",
+    "type": "colloc"
+   },
+   "evening classes": {
+    "uz": "kechki mashg'ulotlar",
+    "type": "colloc"
+   },
+   "look forward to": {
+    "uz": "intiqlik bilan kutmoq",
+    "type": "phrasal"
+   },
+   "made the switch": {
+    "uz": "yangi tartibga o'tmoq",
+    "type": "colloc"
+   },
+   "really stressed": {
+    "uz": "juda asabiylashgan",
+    "type": "adv"
+   },
+   "take anything in": {
+    "uz": "biror narsani o'zlashtirmoq, anglamoq",
+    "type": "phrasal"
+   },
+   "catch up on sleep": {
+    "uz": "uyquni to'ldirmoq",
+    "type": "phrasal"
+   },
+   "later start times": {
+    "uz": "kechroq boshlanish vaqtlari",
+    "type": "colloc"
+   },
+   "should definitely": {
+    "uz": "albatta kerak",
+    "type": "modal"
+   },
+   "early school times": {
+    "uz": "maktabning erta boshlanishi",
+    "type": "colloc"
+   },
+   "go out of their way": {
+    "uz": "alohida g'ayrat ko'rsatmoq",
+    "type": "idiom"
+   },
+   "a total game-changer": {
+    "uz": "hayotni tubdan o'zgartiruvchi narsa",
+    "type": "idiom"
+   },
+   "academic performance": {
+    "uz": "akademik ko'rsatkichlar",
+    "type": "colloc"
+   },
+   "meditation workshops": {
+    "uz": "meditatsiya bo'yicha seminar-treninglar",
+    "type": "colloc"
+   },
+   "sincere appreciation": {
+    "uz": "samimiy minnatdorchilik",
+    "type": "colloc"
+   },
+   "thoroughly impressed": {
+    "uz": "juda ta'sirlangan, maftun bo'lgan",
+    "type": "colloc"
+   },
+   "welcoming atmosphere": {
+    "uz": "iliq, mehmondo'st muhit",
+    "type": "colloc"
+   },
+   "well-rested students": {
+    "uz": "yaxshi dam olgan o'quvchilar",
+    "type": "colloc"
+   },
+   "mindfulness practices": {
+    "uz": "onglilik amaliyotlari",
+    "type": "colloc"
+   },
+   "relaxing and peaceful": {
+    "uz": "xotirjam va osoyishta",
+    "type": "colloc"
+   },
+   "after-school activities": {
+    "uz": "darsdan keyingi mashg'ulotlar",
+    "type": "colloc"
+   },
+   "outweigh the challenges": {
+    "uz": "qiyinchiliklardan ustun kelmoq",
+    "type": "idiom"
+   },
+   "far outweigh the drawbacks": {
+    "uz": "kamchiliklardan ancha ustun kelmoq",
+    "type": "idiom"
+   },
+   "perform better academically": {
+    "uz": "akademik jihatdan yaxshiroq natijalarga erishmoq",
+    "type": "colloc"
+   }
+  }
+ },
+ "created_at": "2026-05-06T15:00:10.455913+00:00",
+ "updated_at": "2026-07-06T10:56:28.411797+00:00"
+}

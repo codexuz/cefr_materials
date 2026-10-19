@@ -1,0 +1,725 @@
+{
+ "id": 448,
+ "mock_type": "cefr-listening",
+ "mock_number": 8,
+ "title": "CEFR Listening Mock Test 08",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "mcq-reply",
+    "title": "Part 1",
+    "answers": {
+     "1": "C",
+     "2": "C",
+     "3": "B",
+     "4": "C",
+     "5": "C",
+     "6": "C",
+     "7": "C",
+     "8": "A"
+    },
+    "audioFile": "https://audio.mock-stream.com/test8/PART%201.m4a",
+    "questions": [
+     {
+      "id": 1,
+      "options": [
+       {
+        "text": "What did she study?",
+        "letter": "A"
+       },
+       {
+        "text": "Where does she come?",
+        "letter": "B"
+       },
+       {
+        "text": "Where has she gone?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "options": [
+       {
+        "text": "We play chess",
+        "letter": "A"
+       },
+       {
+        "text": "We buy ice-cream",
+        "letter": "B"
+       },
+       {
+        "text": "We play football",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 3,
+      "options": [
+       {
+        "text": "He is wonderful, of course",
+        "letter": "A"
+       },
+       {
+        "text": "Not exactly so",
+        "letter": "B"
+       },
+       {
+        "text": "He is well",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 4,
+      "options": [
+       {
+        "text": "I will",
+        "letter": "A"
+       },
+       {
+        "text": "Thank you",
+        "letter": "B"
+       },
+       {
+        "text": "Certainly",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 5,
+      "options": [
+       {
+        "text": "I prefer to go there by train.",
+        "letter": "A"
+       },
+       {
+        "text": "As usual in the open air.",
+        "letter": "B"
+       },
+       {
+        "text": "In a match",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 6,
+      "options": [
+       {
+        "text": "It can't be!",
+        "letter": "A"
+       },
+       {
+        "text": "Where does he work?",
+        "letter": "B"
+       },
+       {
+        "text": "Why does he think so?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 7,
+      "options": [
+       {
+        "text": "I think it's 20 degrees above zero.",
+        "letter": "A"
+       },
+       {
+        "text": "It looks like to rain.",
+        "letter": "B"
+       },
+       {
+        "text": "Oh, yes, it's raining cats and dogs.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 8,
+      "options": [
+       {
+        "text": "Yes, I went to The National Film Theatre last week and saw a Japanese film.",
+        "letter": "A"
+       },
+       {
+        "text": "I can go anywhere next week. So, let's go to a cinema?",
+        "letter": "B"
+       },
+       {
+        "text": "Yes, I went there. It was awesome!",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "partNumber": 1,
+    "transcript": "Part one. You will hear some sentences. You will hear each sentence twice. Choose the correct reply to each sentence, A, B, or C. Mark your answers on the answer sheet.\nSpeaker one. Mary is out now.\nMary is out now.\n\nSpeaker two. What do you usually do at your schoolyard?\nWhat do you usually do at your schoolyard?\n\nSpeaker three. The new film is splendid.\nThe new film is splendid.\n\nSpeaker four. Let's go for a walk.\nLet's go for a walk.\n\nSpeaker five. Where did you see Cristiano Ronaldo?\nWhere did you see Cristiano Ronaldo?\n\nSpeaker six. My brother claims that English isn't easy.\nMy brother claims that English isn't easy.\n\nSpeaker seven. Oh, it's raining heavily.\nOh, it's raining heavily.\n\nSpeaker eight. Did you go anywhere last week?\nDid you go anywhere last week?\n\nThat is the end of part one.",
+    "instruction": "You will hear some sentences. You will hear each sentence twice. Choose the correct reply to each sentence (A, B, or C). Mark your answers on the answer sheet.",
+    "questionRange": "1-8",
+    "answerHighlights": {
+     "1": [
+      1
+     ],
+     "2": [
+      4
+     ],
+     "3": [
+      7
+     ],
+     "4": [
+      10
+     ],
+     "5": [
+      13
+     ],
+     "6": [
+      16
+     ],
+     "7": [
+      19
+     ],
+     "8": [
+      22
+     ]
+    }
+   },
+   {
+    "type": "gap-fill-form",
+    "title": "Part 2",
+    "answers": {
+     "9": [
+      "town",
+      "Town",
+      "TOWN"
+     ],
+     "10": [
+      "street",
+      "Street",
+      "STREET",
+      "streets",
+      "Streets"
+     ],
+     "11": [
+      "Palace",
+      "palace",
+      "PALACE"
+     ],
+     "12": [
+      "8.95",
+      "£8.95"
+     ],
+     "13": [
+      "studio",
+      "Studio",
+      "STUDIO"
+     ],
+     "14": [
+      "cream",
+      "Cream",
+      "CREAM"
+     ]
+    },
+    "audioFile": "https://audio.mock-stream.com/test8/PART%202.m4a",
+    "formTitle": "Excursion to Brighton",
+    "questions": [
+     {
+      "id": 9,
+      "hint": "outside the ____ Hall"
+     },
+     {
+      "id": 10,
+      "hint": "narrow ____"
+     },
+     {
+      "id": 11,
+      "hint": "inside the ____ cafe"
+     },
+     {
+      "id": 12,
+      "hint": "for £ ____"
+     },
+     {
+      "id": 13,
+      "hint": "Artists' ____"
+     },
+     {
+      "id": 14,
+      "hint": "____ tea"
+     }
+    ],
+    "partNumber": 2,
+    "transcript": "Narrator: Part two.\nYou will hear someone giving a talk.\nFor each question, fill in the missing information in the numbered space.\nWrite one word or a number for each answer.\nYou now have some time to look at questions.\nSpeaker 1: Good afternoon.\nMy name is Sally, and I will be your tour guide on tomorrow's excursion to Brighton.\nIt's going to be a very full day with many things to see and do.\nThe coach will be outside the town hall at 8:00.\nPlease make sure you are on time and ready to board the coach when it arrives, as it is a busy road and the driver can't stop for long.\nWe will be in Brighton at 10:00, and you'll be dropped off at the Paul Valley coach station, which is very close to the Seafront.\nWe'll start our guided walking tour at 10:15, and we'll have a leisurely wander around the famous Brighton Lanes for half an hour.\nThe lanes are the original part of Brighton.\nThey used to be narrow streets lined with fishermen's cottages, but now they are more famous for boutiques and jewelers.\nAt 11:00, we'll go to the Royal Pavilion, which was once a royal palace.\nYou'll probably all fancy a quick drink before the tour at 11:30.\nYou can either sit inside the Palace Cafe or sit outside at the Pavilion Gardens Cafe.\nLunch will be at 12:45 till 2:00 at the local Italian restaurant.\nThere is a set menu on offer for us tomorrow.\nThe two course meal costs only £8.95.\nThe afternoon will be busy with a trip to the Brighton Museum and Art Gallery.\nThis has recently been refurbished, and it's worth a visit.\nFrom 3:00 to 5:00 in the afternoon, you are free to explore Brighton Seafront.\nParticularly worth visiting are the artist studios on the beach, the aquarium, the I360 tower, where visitors can admire views across Brighton and the South Coast, and of course, Brighton Pier.\nFinally, to round off the day, we will be going for cream tea at the Grand Hotel.\nThen it's a 5 minute walk to the coach station for a 6:00 p.m. departure.\nAre there any questions?\nNarrator: Now listen again.\nSpeaker 1: Good afternoon.\nMy name is Sally, and I will be your tour guide on tomorrow's excursion to Brighton.\nIt's going to be a very full day with many things to see and do.\nThe coach will be outside the town hall at 8:00.\nPlease make sure you are on time and ready to board the coach when it arrives, as it is a busy road and the driver can't stop for long.\nWe will be in Brighton at 10:00, and you'll be dropped off at the Paul Valley coach station, which is very close to the seafront.\nWe'll start our guided walking tour at 10:15, and we'll have a leisurely wander around the famous Brighton Lanes for half an hour.\nThe lanes are the original part of Brighton.\nThey used to be narrow streets lined with fishermen's cottages, but now they are more famous for boutiques and jewelers.\nAt 11:00, we'll go to the Royal Pavilion, which was once a royal palace.\nYou'll probably all fancy a quick drink before the tour at 11:30.\nYou can either sit inside the Palace Cafe or sit outside at the Pavilion Gardens Cafe.\nLunch will be at 12:45 till 2:00 at the local Italian restaurant.\nThere is a set menu on offer for us tomorrow.\nThe two course meal costs only £8.95.\nThe afternoon will be busy with a trip to the Brighton Museum and Art Gallery.\nThis has recently been refurbished, and it's worth a visit.\nFrom 3:00 to 5:00 in the afternoon, you are free to explore Brighton Seafront.\nParticularly worth visiting are the artist studios on the beach, the aquarium, the I360 tower, where visitors can admire views across Brighton and the South Coast, and of course, Brighton Pier.\nFinally, to round off the day, we will be going for cream tea at the Grand Hotel.\nThen it's a 5 minute walk to the coach station for a 6:00 p.m. departure.\nAre there any questions?\nNarrator: That is the end of part two.",
+    "formContent": [
+     {
+      "text": "Excursion to Brighton",
+      "type": "heading"
+     },
+     {
+      "text": "The coach will be parked outside the",
+      "type": "item-gap",
+      "gapId": 9,
+      "gapSuffix": "Hall."
+     },
+     {
+      "text": "First, there is a tour of the famous Brighton Lanes, which one were narrow",
+      "type": "item-gap",
+      "gapId": 10,
+      "gapSuffix": ", famous for their jewellers and boutiques."
+     },
+     {
+      "text": "Then there's a coffee break, when people can sit either inside the",
+      "type": "item-gap",
+      "gapId": 11,
+      "gapSuffix": "cafe or in the Pavilion Gardens Cafe."
+     },
+     {
+      "text": "At around 12.45, a two-course lunch will be served at the Italian Restaurant for £",
+      "type": "item-gap",
+      "gapId": 12,
+      "gapSuffix": "."
+     },
+     {
+      "text": "From 3 to 4, most of Brighton's sights will be explored, such as the Artists'",
+      "type": "item-gap",
+      "gapId": 13,
+      "gapSuffix": ", the Aquarium, the i360 tower and Brighton Pier."
+     },
+     {
+      "text": "Finally,",
+      "type": "item-gap",
+      "gapId": 14,
+      "gapSuffix": "tea will be served at the Grand Hotel."
+     }
+    ],
+    "instruction": "You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. Write NO MORE THAN ONE WORD AND/OR A NUMBER for each answer.",
+    "questionRange": "9-14",
+    "answerHighlights": {
+     "9": [
+      8
+     ],
+     "10": [
+      13
+     ],
+     "11": [
+      16
+     ],
+     "12": [
+      19
+     ],
+     "13": [
+      23
+     ],
+     "14": [
+      24
+     ]
+    }
+   },
+   {
+    "type": "matching-speakers",
+    "title": "Part 3",
+    "answers": {
+     "15": "B",
+     "16": "F",
+     "17": "C",
+     "18": "D"
+    },
+    "options": [
+     {
+      "text": "in a bedroom cupboard",
+      "letter": "A"
+     },
+     {
+      "text": "in their desk at work",
+      "letter": "B"
+     },
+     {
+      "text": "on their living room wall",
+      "letter": "C"
+     },
+     {
+      "text": "in a kitchen drawer",
+      "letter": "D"
+     },
+     {
+      "text": "on a bookcase in their study",
+      "letter": "E"
+     },
+     {
+      "text": "beside their bed",
+      "letter": "F"
+     }
+    ],
+    "speakers": [
+     {
+      "id": 15,
+      "label": "Speaker 1"
+     },
+     {
+      "id": 16,
+      "label": "Speaker 2"
+     },
+     {
+      "id": 17,
+      "label": "Speaker 3"
+     },
+     {
+      "id": 18,
+      "label": "Speaker 4"
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test8/PART%203.m4a",
+    "partNumber": 3,
+    "transcript": "Part three. You will hear people speaking in different situations. Match each speaker, 15 to 18, to the options, A F. There are two extra options which you do not need to use. Mark your answers on the answer sheet. You now have some time to look at questions. Speaker one. If I were only able to save one of my possessions, it'd have to be this photo. It's an unusual one, I know. It shows a sofa with a couple of kids lying on it. The people in it are actually two of my oldest friends. I suppose the main reason why I like it is that it brings back to me the day that I took it. It still feels like only yesterday. I was only 10 then and had no technical skills, but somehow, it really captures the atmosphere of the time and the place for me. I've always kept it close to me. It used to be in my bedroom, but now I have it in my office. It's not on display or anything, just in a drawer where I often come across it when I'm looking for a paper clip or a stapler or something. Speaker two. This vase is something I really treasure. It's not got any great monetary value, but it reminds me of one of the best times in my life. That was when I was a student and sharing a house with a friend. We had such brilliant fun together and have remained very close ever since, even though I'm afraid she's now moved to live on the other side of the world. Anyway, she gave it to me one day and I love it. I keep it on a small chest of drawers next to my bed. I like to always have fresh flowers in it, blue and orange ones if possible, to match the colors in its pretty design. Speaker three. This letter has got to be the most unusual and valuable thing I possess. I have it framed now, and it hangs just above a bookshelf behind the sofa where I sit and read, or watch TV. It's not what it's worth that matters to me, though. It just fascinates me. It was written 200 years ago by an ancestor of mine to his wife the night before the Battle of Regina. He was a general and is describing how he felt. It's very frank about his fears, justified, unfortunately, because they lost the battle, and it paints an incredibly vivid picture of how things were for him then. His wife must have put it in a secret drawer in her writing desk, and I discovered it there when I was a child. Speaker four. I always like to have this pendant on when I want things to go well. It's a kind of mascot for me, I suppose. I wore it on my wedding day, and when I was taking my final exams, on my first day at my first job, all that sort of thing, and they all turned out well, so it must have something special about it. That's what I like to think anyhow. I keep it in a really strange place, I guess, not in my bedroom with all my other jewelry as you might expect. It's actually next to the fridge, in with all the knives and forks. I put it there once when I wasn't thinking about what I was doing, and then decided it was actually quite a safe place for something with so much sentimental value. Now, listen again. Speaker one. If I were only able to save one of my possessions, it'd have to be this photo. It's an unusual one, I know. It shows a sofa with a couple of kids lying on it. The people in it are actually two of my oldest friends. I suppose the main reason why I like it is that it brings back to me the day that I took it. It still feels like only yesterday. I was only 10 then and had no technical skills, but somehow, it really captures the atmosphere of the time and the place for me. I've always kept it close to me. It used to be in my bedroom, but now I have it in my office. It's not on display or anything, just in a drawer where I often come across it when I'm looking for a paper clip or a stapler or something. Speaker two. This vase is something I really treasure. It's not got any great monetary value, but it reminds me of one of the best times in my life. That was when I was a student and sharing a house with a friend. We had such brilliant fun together and have remained very close ever since, even though I'm afraid she's now moved to live on the other side of the world. Anyway, she gave it to me one day and I love it. I keep it on a small chest of drawers next to my bed. I like to always have fresh flowers in it, blue and orange ones if possible, to match the colors in its pretty design. Speaker three. This letter has got to be the most unusual and valuable thing I possess. I have it framed now and it hangs just above a bookshelf behind the sofa where I sit and read or watch TV. It's not what it's worth that matters to me though. It just fascinates me. It was written 200 years ago by an ancestor of mine to his wife the night before the Battle of Regina. He was a general and is describing how he felt. It's very frank about his fears, justified unfortunately because they lost the battle and it paints an incredibly vivid picture of how things were for him then. His wife must have put it in a secret drawer in her writing desk, and I discovered it there when I was a child. Speaker four. I always like to have this pendant on when I want things to go well. It's a kind of mascot for me, I suppose. I wore it on my wedding day, and when I was taking my final exams, on my first day at my first job, all that sort of thing, and they all turned out well, so it must have something special about it. That's what I like to think anyhow. I keep it in a really strange place, I guess, not in my bedroom with all my other jewelry as you might expect. It's actually next to the fridge in with all the knives and forks. I put it there once when I wasn't thinking about what I was doing, and then decided it was actually quite a safe place for something with so much sentimental value. That is the end of part three.",
+    "instruction": "You will hear people speaking in different situations. Match each speaker (15-18) to the place where the speaker is (A-F). Use the letters only once. There are TWO EXTRA places which you do not need to use. Mark your answers on the answer sheet.",
+    "questionRange": "15-18"
+   },
+   {
+    "type": "map-labeling",
+    "title": "Part 4",
+    "answers": {
+     "19": "C",
+     "20": "B",
+     "21": "E",
+     "22": "H",
+     "23": "G"
+    },
+    "mapImage": "https://audio.mock-stream.com/test8/Screenshot%202026-01-19%20135304.png",
+    "mapTitle": "Museum Floor Plan",
+    "audioFile": "https://audio.mock-stream.com/test8/PART%204.m4a",
+    "mapLabels": [
+     "A",
+     "B",
+     "C",
+     "D",
+     "E",
+     "F",
+     "G",
+     "H"
+    ],
+    "questions": [
+     {
+      "id": 19,
+      "place": "Box Office"
+     },
+     {
+      "id": 20,
+      "place": "Children's Room"
+     },
+     {
+      "id": 21,
+      "place": "Cafe"
+     },
+     {
+      "id": 22,
+      "place": "Multimedia Room"
+     },
+     {
+      "id": 23,
+      "place": "Showroom"
+     }
+    ],
+    "partNumber": 4,
+    "transcript": "Narrator: Part four. You will hear someone giving a talk. Label the places 19 to 23 on the map A H. There are three extra options which you do not need to use. Mark your answers on the answer sheet.\nYou now have some time to look at questions.\n\nSpeaker 1: As a final matter for today's meeting, I am delighted to show you the plans for our proposed new extension to the reception area. Please turn your attention to the plan in front of you. If you enter through the entrance doors and go around the sharp corner, you will find on your left the new box office. From this position, the box office manager can both sell tickets and ensure that no visitors are able to enter the museum without paying. From here, if you walk towards the door on the far left wall, you will come across our new children's room, where visitors can leave their children to play whilst they explore our displays. Directly to the right of the children's room is where we originally intended to locate the cafe, but we felt that it would be better placed in the bottom right corner of the plan where we can create a more intimate atmosphere. Due to generous donations, we now have the available funds to build a fantastic new multimedia room where visitors will have access to computers, cameras and TVs. This exciting new space will be in the top right corner where it is safely away from the entrance doors. Finally, the showroom will be built in the top left corner directly opposite the new multimedia room. I hope that you are all as excited about this new space as I am. And now that I am finished, I would be happy to answer any questions.\n\nNarrator: Now, listen again.\n\nSpeaker 1: As a final matter for today's meeting, I am delighted to show you the plans for our proposed new extension to the reception area. Please turn your attention to the plan in front of you. If you enter through the entrance doors and go around the sharp corner, you will find on your left the new box office. From this position, the box office manager can both sell tickets and ensure that no visitors are able to enter the museum without paying. From here, if you walk towards the door on the far left wall, you will come across our new children's room, where visitors can leave their children to play whilst they explore our displays. Directly to the right of the children's room is where we originally intended to locate the cafe, but we felt that it would be better placed in the bottom right corner of the plan where we can create a more intimate atmosphere. Due to generous donations, we now have the available funds to build a fantastic new multimedia room where visitors will have access to computers, cameras and TVs. This exciting new space will be in the top right corner where it is safely away from the entrance doors. Finally, the showroom will be built in the top left corner directly opposite the new multimedia room. I hope that you are all as excited about this new space as I am. And now that I am finished, I would be happy to answer any questions.\n\nNarrator: That is the end of part four.",
+    "instruction": "You will hear someone giving a talk. Label the places (19-23) on the map (A-H). There are THREE extra options which you do not need to use. Mark your answers on the answer sheet.",
+    "questionRange": "19-23",
+    "answerHighlights": {
+     "19": [
+      3
+     ],
+     "20": [
+      3
+     ],
+     "21": [
+      3
+     ],
+     "22": [
+      3
+     ],
+     "23": [
+      3
+     ]
+    }
+   },
+   {
+    "type": "mcq-extracts",
+    "title": "Part 5",
+    "answers": {
+     "24": "B",
+     "25": "B",
+     "26": "A",
+     "27": "C",
+     "28": "C",
+     "29": "C"
+    },
+    "extracts": [
+     {
+      "title": "Extract One",
+      "context": "You hear two people discussing a radio programme.",
+      "questions": [
+       {
+        "id": 24,
+        "text": "What do the people have different opinions about?",
+        "options": [
+         {
+          "text": "how interesting the programme is",
+          "letter": "A"
+         },
+         {
+          "text": "the website design",
+          "letter": "B"
+         },
+         {
+          "text": "the choice of the objects in the collection",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 25,
+        "text": "What does the woman like about the programme?",
+        "options": [
+         {
+          "text": "the consistency of quality in the interviews",
+          "letter": "A"
+         },
+         {
+          "text": "the fact that it is educational",
+          "letter": "B"
+         },
+         {
+          "text": "the way they talk about history",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Extract Two",
+      "context": "You hear two teachers discussing student selection procedure.",
+      "questions": [
+       {
+        "id": 26,
+        "text": "What does the woman say about the procedure in her department?",
+        "options": [
+         {
+          "text": "it could have been more efficient",
+          "letter": "A"
+         },
+         {
+          "text": "it does not necessarily help admit the best students",
+          "letter": "B"
+         },
+         {
+          "text": "going through the application forms is very tedious",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 27,
+        "text": "What part of the man's suggestion worries the woman?",
+        "options": [
+         {
+          "text": "if it would be any better than the current approach",
+          "letter": "A"
+         },
+         {
+          "text": "if her colleagues would like it",
+          "letter": "B"
+         },
+         {
+          "text": "if the procedure would be secure",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Extract Three",
+      "context": "You hear two people discussing a project they are working on.",
+      "questions": [
+       {
+        "id": 28,
+        "text": "What is the project?",
+        "options": [
+         {
+          "text": "putting up decorations in a room",
+          "letter": "A"
+         },
+         {
+          "text": "building an extension to a house",
+          "letter": "B"
+         },
+         {
+          "text": "renovating a room",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 29,
+        "text": "Both speakers agree that",
+        "options": [
+         {
+          "text": "they could learn something from this work.",
+          "letter": "A"
+         },
+         {
+          "text": "it is a relief that the work will start soon.",
+          "letter": "B"
+         },
+         {
+          "text": "the process will cause certain discomfort.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test8/PART%205.m4a",
+    "partNumber": 5,
+    "transcript": "Narrator: Part five. You will hear three extracts. Choose the correct answer, A, B, or C for each question, 24 to 29. There are two questions for each extract. Mark your answers on the answer sheet. You now have some time to look at questions.\nSpeaker 1: Here's a good quiz question for you. What began with the mummy of Hornegitev and a Tanzanian chopping tool, and ended with a credit card and a solar powered lamp?\nSpeaker 2: I can answer that. It was that amazing radio series on the history of the world in a hundred objects. I didn't hear all the programs, but I thought those I did catch were fantastic. They chose such interesting things to talk about.\nSpeaker 1: Yes, didn't they just? I did try to listen to most of the programs, and if I missed one, then I caught up with what it had been about on the website of the museum that all the selected objects came from. That's good, too, though I'm not so keen on their constantly dancing graphics.\nSpeaker 2: Oh, I rather liked those. They make it nice and lighthearted, I thought.\nSpeaker 1: Well, the series wasn't heavy in any way, was it? Informative, of course, but entertaining as well. I thought they interviewed some really interesting people.\nSpeaker 2: Actually, I thought some of those were much better than others, but generally, I learned so much from the programs. I hope they repeat them soon.\nSpeaker 1: Yes, they were fun, weren't they?\n\nSpeaker 1: Here's a good quiz question for you. What began with the mummy of Hornegitev and a Tanzanian chopping tool and ended with a credit card and a solar powered lamp?\nSpeaker 2: I can answer that. It was that amazing radio series on the history of the world in a hundred objects. I didn't hear all the programs, but I thought those I did catch were fantastic. They chose such interesting things to talk about.\nSpeaker 1: Yes, didn't they just? I did try to listen to most of the programs, and if I missed one, then I caught up with what it had been about on the website of the museum that all the selected objects came from. That's good, too, though I'm not so keen on their constantly dancing graphics.\nSpeaker 2: Oh, I rather liked those. They make it nice and lighthearted, I thought.\nSpeaker 1: Well, the series wasn't heavy in any way, was it? Informative, of course, but entertaining as well. I thought they interviewed some really interesting people.\nSpeaker 2: Actually, I thought some of those were much better than others, but generally I learned so much from the programs. I hope they repeat them soon.\nSpeaker 1: Yes, they were fun, weren't they?\nNarrator: Extract two. You hear two lecturers discussing selecting students for university courses. Now look at questions three and four.\n\nSpeaker 1: How many applicants do you tend to have for your undergraduate courses? We've got three applicants for every place this year, and it's going to be very hard to pick who we should accept.\nSpeaker 2: Yeah, we have that problem, too. We sort all the application forms into two piles, uh, no's and maybes, then we invite the maybes for interview. It seems to work pretty well for us, though, of course, it's quite time consuming.\nSpeaker 1: Mm, we interview, too, but it's hard to be confident we're picking the right people. Some people really don't show themselves at their best in an interview situation, and we wondered whether it might not be better just to set the most promising applicants an essay to write, and see how they get along with that. It'd surely be better for everyone if we didn't have to spend time on interviews.\nSpeaker 2: Yes, I'm sure my colleagues might welcome that, but how could you be sure that the essays were all their own work? Unless you could somehow make them do it under exam conditions, of course.\nSpeaker 1: I suppose you're right, but I still think it'd be fairer than the system we currently operate.\n\nSpeaker 1: How many applicants do you tend to have for your undergraduate courses? We've got three applicants for every place this year, and it's going to be very hard to pick who we should accept.\nSpeaker 2: Yeah, we have that problem, too. We sort all the application forms into two piles, uh, no's and maybes, then we invite the maybes for interview. It seems to work pretty well for us, though, of course, it's quite time consuming.\nSpeaker 1: Mm, we interview, too, but it's hard to be confident we're picking the right people. Some people really don't show themselves at their best in an interview situation, and we wondered whether it might not be better just to set the most promising applicants an essay to write, and see how they get along with that. It'd surely be better for everyone if we didn't have to spend time on interviews.\nSpeaker 2: Yes, I'm sure my colleagues might welcome that, but how could you be sure that the essays were all their own work? Unless you could somehow make them do it under exam conditions, of course.\nSpeaker 1: I suppose you're right, but I still think it'd be fairer than the system we currently operate.\nNarrator: Extract three. You hear two people talking about some work they are having done. Now look at questions five and six.\n\nSpeaker 1: They rang me today about the kitchen. Someone's going to pop round tomorrow to discuss it and they think they'll start work on Thursday.\nSpeaker 2: Goodness, as soon as that? Do you think we'll be ready by then? I've still got to empty the old cupboards, take all the curtains down, all that sort of thing, and I'd like to have done a bit of decorating before they get going.\nSpeaker 1: Well, it would certainly be better to do it before rather than after and risk getting paint on the new surfaces. Perhaps I could ask them to extend the schedule a bit and start next week.\nSpeaker 2: No, let's leave things as they are. The sooner they start, the sooner they finish, after all. And I'm quite looking forward to seeing how they do things.\nSpeaker 1: Oh, are you really? I'm going to try to be out most of the time. We're going to have to eat out while work's in progress, anyway.\nSpeaker 2: That's a nuisance, isn't it? I'm so busy at the moment. I'd really prefer to be spending the evenings quietly at home.\nSpeaker 1: Absolutely. Still, it'll be great when all the work's done.\nSpeaker 2: I hope so.\n\nSpeaker 1: They rang me today about the kitchen. Someone's going to pop round tomorrow to discuss it and they think they'll start work on Thursday.\nSpeaker 2: Goodness, as soon as that? Do you think we'll be ready by then? I've still got to empty the old cupboards, take all the curtains down, all that sort of thing, and I'd like to have done a bit of decorating before they get going.\nSpeaker 1: Well, it would certainly be better to do it before rather than after and risk getting paint on the new surfaces. Perhaps I could ask them to extend the schedule a bit and start next week.\nSpeaker 2: No, let's leave things as they are. The sooner they start, the sooner they finish, after all. And I'm quite looking forward to seeing how they do things.\nSpeaker 1: Oh, are you really? I'm going to try to be out most of the time. We're going to have to eat out while work's in progress, anyway.\nSpeaker 2: That's a nuisance, isn't it? I'm so busy at the moment. I'd really prefer to be spending the evenings quietly at home.\nSpeaker 1: Absolutely. Still, it'll be great when all the work's done.\nSpeaker 2: I hope so.\nNarrator: That's the end of part one. Now turn to part two.\nNarrator: That is the end of part five.",
+    "instruction": "You will hear three different extracts. For questions 24-29, choose the answer (A, B or C) which fits best according to what you hear. There are TWO questions for each extract. Mark your answers on the answer sheet.",
+    "questionRange": "24-29",
+    "answerHighlights": {
+     "24": [
+      2,
+      10
+     ],
+     "25": [
+      5,
+      13
+     ],
+     "26": [
+      18,
+      24
+     ],
+     "27": [
+      20,
+      26
+     ],
+     "28": [
+      32,
+      41
+     ],
+     "29": [
+      36,
+      45
+     ]
+    }
+   },
+   {
+    "type": "sentence-completion",
+    "title": "Part 6",
+    "answers": {
+     "30": [
+      "kites",
+      "Kites",
+      "KITES"
+     ],
+     "31": [
+      "architects",
+      "Architects",
+      "ARCHITECTS"
+     ],
+     "32": [
+      "kayaking",
+      "Kayaking",
+      "KAYAKING"
+     ],
+     "33": [
+      "geologist",
+      "Geologist",
+      "GEOLOGIST"
+     ],
+     "34": [
+      "mind",
+      "Mind",
+      "MIND",
+      "minds",
+      "Minds"
+     ],
+     "35": [
+      "network",
+      "Network",
+      "NETWORK",
+      "networks",
+      "Networks"
+     ]
+    },
+    "audioFile": "https://audio.mock-stream.com/test8/PART%206.m4a",
+    "questions": [
+     {
+      "id": 30,
+      "hint": "helping them were ____"
+     },
+     {
+      "id": 31,
+      "hint": "worked as ____"
+     },
+     {
+      "id": 32,
+      "hint": "love for ____"
+     },
+     {
+      "id": 33,
+      "hint": "as well as a ____"
+     },
+     {
+      "id": 34,
+      "hint": "control over one's ____"
+     },
+     {
+      "id": 35,
+      "hint": "making use of ____"
+     }
+    ],
+    "partNumber": 6,
+    "transcript": "Narrator: Part six. You will hear a part of a lecture. For each question, fill in the missing information in the numbered space. Write no more than one word for each answer. Mark your answers on the answer sheet.\nYou now have some time to look at questions.\n\nI feel very fortunate that at only 23 years old, I have already spent more than 18 weeks on an unsupported polar expedition, going from one side of Greenland to the other. I completed it last year together with Greg Hamilton. It was 2,198 km, and it was actually the longest unsupported polar expedition in history. By unsupported, I mean that we pulled everything ourselves without the help of any motorized vehicles or animals. The only help that we did have was from kites, which, when the wind conditions were good, pulled us along as we skied, dragging our sleds behind us. I can assure you that it was still very hard work.\nPeople often ask me what first interested me in polar exploration. I think they imagine that I come from a family of explorers or something like that, but in fact, I come from a pretty conventional family. In fact, my mom and dad were both architects, and neither of them were even particularly into sport. They often wonder where on earth I could have got it from. I was always very sporty and adored football from pretty much before I could walk. I did a lot of swimming and cycling, too. I was about 15, I suppose, when I became hooked on adventurous activities. It all started when I discovered I got a particular kick out of kayaking. That took me on some amazing long expeditions, and I guess I haven't looked back since.\nAlso, when I was about 15, I learned about an expedition which has gripped my imagination and held my admiration ever since. This was the 1995 unsupported journey by Richard Webber and Misha Malakov to the North Pole. The distance and technical difficulty of their expedition was enormous, and they kept going despite most so-called experts claiming they would fail.\nI love reading about other explorers. If I were to have a hero, it would undoubtedly be Fridtjof Nansen, the Norwegian explorer. He had great breadth, as is shown by the fact that he was also a diplomat and geologist. All in all, a quite remarkable man. Reading Nansen's biography taught me that the key thing all explorers need in harsh conditions is the ability to keep their mind under control. If they can't manage that, then they won't succeed even if their body is in top physical condition.\nI'm often asked to give advice to would-be explorers, and I always say, you shouldn't just look at what has already been done and copy it, thinking it's the only way. Think of new challenges that you can attempt. In terms of gaining the necessary funding, don't spend months cold calling, but concentrate on networking. This is the only way to make the critical relationships which lead to big sums of funds.\n\nNarrator: Now, listen again.\n\nI feel very fortunate that at only 23 years old, I have already spent more than 18 weeks on an unsupported polar expedition, going from one side of Greenland to the other. I completed it last year together with Greg Hamilton. It was 2,198 km, and it was actually the longest unsupported polar expedition in history. By unsupported, I mean that we pulled everything ourselves without the help of any motorized vehicles or animals. The only help that we did have was from kites, which, when the wind conditions were good, pulled us along as we skied, dragging our sleds behind us. I can assure you that it was still very hard work.\nPeople often ask me what first interested me in polar exploration. I think they imagine that I come from a family of explorers or something like that, but in fact, I come from a pretty conventional family. In fact, my mom and dad were both architects, and neither of them were even particularly into sport. They often wonder where on earth I could have got it from. I was always very sporty and adored football from pretty much before I could walk. I did a lot of swimming and cycling, too. I was about 15, I suppose, when I became hooked on adventurous activities. It all started when I discovered I got a particular kick out of kayaking. That took me on some amazing long expeditions, and I guess I haven't looked back since.\nAlso, when I was about 15, I learned about an expedition which has gripped my imagination and held my admiration ever since. This was the 1995 unsupported journey by Richard Webber and Misha Malakov to the North Pole. The distance and technical difficulty of their expedition was enormous, and they kept going despite most so-called experts claiming they would fail.\nI love reading about other explorers. If I were to have a hero, it would undoubtedly be Fridtjof Nansen, the Norwegian explorer. He had great breadth, as is shown by the fact that he was also a diplomat and geologist. All in all, a quite remarkable man. Reading Nansen's biography taught me that the key thing all explorers need in harsh conditions is the ability to keep their mind under control. If they can't manage that, then they won't succeed even if their body is in top physical condition.\nI'm often asked to give advice to would-be explorers, and I always say, you shouldn't just look at what has already been done and copy it, thinking it's the only way. Think of new challenges that you can attempt. In terms of gaining the necessary funding, don't spend months cold calling, but concentrate on networking. This is the only way to make the critical relationships which lead to big sums of funds.\n\nNarrator: That is the end of part six.",
+    "instruction": "You will hear a part of a lecture. For each question, fill in the missing information in the numbered space. Write no more than one word only for each answer.",
+    "passageTitle": "Expedition - James Munro and Greg Hamilton",
+    "questionRange": "30-35",
+    "passageContent": "James Munro and Greg Hamilton managed to finish an unsupported expedition through Greenland.<br><br>According to James, the only things helping them in this expedition were <span class=\"gap-input\" data-gap=\"30\">_____(30)_____</span>.<br><br>Both James' parents worked as <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span>.<br><br>James believes that his love for <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span> made him more interested in adventures.<br><br>The expedition to the North Pole in 1995 fascinated James.<br><br>James admires Nansen for his breadth as he was a diplomat, an explorer as well as a <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span>.<br><br>James is convinced that having control over one's <span class=\"gap-input\" data-gap=\"34\">_____(34)_____</span> is essential for an explorer.<br><br>James believes that making use of <span class=\"gap-input\" data-gap=\"35\">_____(35)_____</span> is the best way for inexperienced explorers to get sponsors.",
+    "answerHighlights": {
+     "30": [
+      3
+     ],
+     "31": [
+      4
+     ],
+     "32": [
+      4
+     ],
+     "33": [
+      6
+     ],
+     "34": [
+      6
+     ],
+     "35": [
+      7
+     ]
+    }
+   }
+  ],
+  "examDate": "2026-04-13",
+  "testInfo": {
+   "id": "cefr-listening-08",
+   "level": "B2",
+   "title": "CEFR Listening Mock Test 08",
+   "totalTime": 40,
+   "totalQuestions": 35
+  }
+ },
+ "created_at": "2026-05-15T15:18:59.53892+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

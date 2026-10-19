@@ -1,0 +1,924 @@
+{
+ "id": 2235,
+ "mock_type": "ket-reading-writing",
+ "mock_number": 1,
+ "title": "KET Reading & Writing — Test 1",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "match-notices",
+    "items": [
+     {
+      "id": 1,
+      "answer": "F",
+      "prompt": "You can't drive this way."
+     },
+     {
+      "id": 2,
+      "answer": "A",
+      "prompt": "Children do not have to pay."
+     },
+     {
+      "id": 3,
+      "answer": "G",
+      "prompt": "You can shop here six days a week."
+     },
+     {
+      "id": 4,
+      "answer": "C",
+      "prompt": "Be careful when you stand up."
+     },
+     {
+      "id": 5,
+      "answer": "B",
+      "prompt": "We work quickly."
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "E",
+     "number": 0,
+     "prompt": "We can answer your questions."
+    },
+    "notices": [
+     {
+      "text": "Adults £2.50\nUnder 12s FREE",
+      "letter": "A"
+     },
+     {
+      "text": "Shoes repaired while you wait",
+      "letter": "B"
+     },
+     {
+      "text": "MIND YOUR HEAD",
+      "letter": "C"
+     },
+     {
+      "text": "Open 24 hours a day",
+      "letter": "D"
+     },
+     {
+      "text": "INFORMATION",
+      "letter": "E"
+     },
+     {
+      "text": "Police Notice\nRoad Closed",
+      "letter": "F"
+     },
+     {
+      "text": "Open daily 10–6\n(except Mondays)",
+      "letter": "G"
+     },
+     {
+      "text": "WAITING ROOM",
+      "letter": "H"
+     }
+    ],
+    "partNumber": 1,
+    "instruction": [
+     "Which notice (A–H) says this (1–5)?",
+     "For questions 1–5, mark the correct letter A–H on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "mcq-gap-fill-sentences",
+    "items": [
+     {
+      "id": 6,
+      "answer": "C",
+      "options": [
+       {
+        "text": "interesting",
+        "letter": "A"
+       },
+       {
+        "text": "lovely",
+        "letter": "B"
+       },
+       {
+        "text": "happy",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Nina was very _____ because she got lots of presents."
+     },
+     {
+      "id": 7,
+      "answer": "C",
+      "options": [
+       {
+        "text": "decided",
+        "letter": "A"
+       },
+       {
+        "text": "agreed",
+        "letter": "B"
+       },
+       {
+        "text": "invited",
+        "letter": "C"
+       }
+      ],
+      "sentence": "She _____ some friends to her house for a party."
+     },
+     {
+      "id": 8,
+      "answer": "B",
+      "options": [
+       {
+        "text": "meal",
+        "letter": "A"
+       },
+       {
+        "text": "cake",
+        "letter": "B"
+       },
+       {
+        "text": "dish",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Her mother made a big chocolate _____ with 'Happy Birthday' on the top."
+     },
+     {
+      "id": 9,
+      "answer": "A",
+      "options": [
+       {
+        "text": "listening",
+        "letter": "A"
+       },
+       {
+        "text": "hearing",
+        "letter": "B"
+       },
+       {
+        "text": "looking",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Nina and her friends had a great time, singing and dancing and _____ to their favourite music."
+     },
+     {
+      "id": 10,
+      "answer": "B",
+      "options": [
+       {
+        "text": "said",
+        "letter": "A"
+       },
+       {
+        "text": "thanked",
+        "letter": "B"
+       },
+       {
+        "text": "told",
+        "letter": "C"
+       }
+      ],
+      "sentence": "When they had to go, everybody _____ Nina and her mother for the party."
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "answer": "B",
+     "number": 0,
+     "options": [
+      {
+       "text": "stood",
+       "letter": "A"
+      },
+      {
+       "text": "woke",
+       "letter": "B"
+      },
+      {
+       "text": "came",
+       "letter": "C"
+      }
+     ],
+     "sentence": "Nina _____ up early that morning because it was her birthday."
+    },
+    "partNumber": 2,
+    "instruction": [
+     "Read the sentences (6–10) about a birthday.",
+     "Choose the best word (A, B or C) for each space.",
+     "For questions 6–10, mark A, B or C on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-response",
+    "items": [
+     {
+      "id": 11,
+      "answer": "A",
+      "prompt": "It's time for lunch.",
+      "options": [
+       {
+        "text": "Oh good!",
+        "letter": "A"
+       },
+       {
+        "text": "One hour.",
+        "letter": "B"
+       },
+       {
+        "text": "Half past twelve.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "answer": "C",
+      "prompt": "Would you like a drink?",
+      "options": [
+       {
+        "text": "I don't like coffee.",
+        "letter": "A"
+       },
+       {
+        "text": "I prefer tea.",
+        "letter": "B"
+       },
+       {
+        "text": "Coffee, please.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "answer": "B",
+      "prompt": "How much was your new shirt?",
+      "options": [
+       {
+        "text": "It's a red shirt.",
+        "letter": "A"
+       },
+       {
+        "text": "It was very cheap.",
+        "letter": "B"
+       },
+       {
+        "text": "It was in a shop.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "answer": "C",
+      "prompt": "I'm very sorry.",
+      "options": [
+       {
+        "text": "I'm afraid so.",
+        "letter": "A"
+       },
+       {
+        "text": "I think so.",
+        "letter": "B"
+       },
+       {
+        "text": "That's all right.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "answer": "B",
+      "prompt": "Do you speak English?",
+      "options": [
+       {
+        "text": "No, I'm not.",
+        "letter": "A"
+       },
+       {
+        "text": "Only a little.",
+        "letter": "B"
+       },
+       {
+        "text": "Yes, very much.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "answer": "C",
+     "number": 0,
+     "prompt": "How are you?",
+     "options": [
+      {
+       "text": "I'm 18.",
+       "letter": "A"
+      },
+      {
+       "text": "I'm Peter.",
+       "letter": "B"
+      },
+      {
+       "text": "I'm fine.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partLetter": "a",
+    "partNumber": 3,
+    "instruction": [
+     "Complete the five conversations.",
+     "For conversations 11–15, mark A, B or C on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "type": "match-dialogue",
+    "items": [
+     {
+      "id": 16,
+      "answer": "G"
+     },
+     {
+      "id": 17,
+      "answer": "F"
+     },
+     {
+      "id": 18,
+      "answer": "H"
+     },
+     {
+      "id": 19,
+      "answer": "A"
+     },
+     {
+      "id": 20,
+      "answer": "C"
+     }
+    ],
+    "example": {
+     "answer": "B",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "I'd prefer the afternoon.",
+      "letter": "A"
+     },
+     {
+      "text": "I'm not sure. The brakes aren't working very well.",
+      "letter": "B"
+     },
+     {
+      "text": "Oh! One other thing, how much will it cost?",
+      "letter": "C"
+     },
+     {
+      "text": "The engine is hard to start in the morning.",
+      "letter": "D"
+     },
+     {
+      "text": "I work on Mondays.",
+      "letter": "E"
+     },
+     {
+      "text": "I'm afraid I need it today. How about the weekend?",
+      "letter": "F"
+     },
+     {
+      "text": "When I brake, the car goes to the left.",
+      "letter": "G"
+     },
+     {
+      "text": "Oh. Could you do it on Monday?",
+      "letter": "H"
+     }
+    ],
+    "dialogue": [
+     {
+      "line": "Good morning, Madam. What's the problem?",
+      "speaker": "Mechanic"
+     },
+     {
+      "gap": 0,
+      "speaker": "Woman"
+     },
+     {
+      "line": "What do you mean?",
+      "speaker": "Mechanic"
+     },
+     {
+      "gap": 16,
+      "speaker": "Woman"
+     },
+     {
+      "line": "I see. We can probably repair that easily. Can you leave the car now?",
+      "speaker": "Mechanic"
+     },
+     {
+      "gap": 17,
+      "speaker": "Woman"
+     },
+     {
+      "line": "I'm sorry. We're completely full on Saturday.",
+      "speaker": "Mechanic"
+     },
+     {
+      "gap": 18,
+      "speaker": "Woman"
+     },
+     {
+      "line": "Yes, all right. Could you come in the morning?",
+      "speaker": "Mechanic"
+     },
+     {
+      "gap": 19,
+      "speaker": "Woman"
+     },
+     {
+      "line": "OK.",
+      "speaker": "Mechanic"
+     },
+     {
+      "gap": 20,
+      "speaker": "Woman"
+     },
+     {
+      "line": "I'm not sure, but probably about £30.",
+      "speaker": "Mechanic"
+     },
+     {
+      "line": "That's fine. I'll see you on Monday.",
+      "speaker": "Woman"
+     }
+    ],
+    "partLetter": "b",
+    "partNumber": 3,
+    "instruction": [
+     "Complete this conversation at a garage.",
+     "What does the woman say to the car mechanic?",
+     "For questions 16–20, mark the correct letter A–H on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "type": "match-three-texts",
+    "items": [
+     {
+      "id": 21,
+      "answer": "B",
+      "prompt": "Which book is by somebody who has written a lot of books?"
+     },
+     {
+      "id": 22,
+      "answer": "B",
+      "prompt": "Which book is about somebody who is very poor?"
+     },
+     {
+      "id": 23,
+      "answer": "C",
+      "prompt": "Which book is about somebody who would like to work in a hospital?"
+     },
+     {
+      "id": 24,
+      "answer": "A",
+      "prompt": "Which book is by somebody who worked in a school?"
+     },
+     {
+      "id": 25,
+      "answer": "A",
+      "prompt": "Which book is about a difficult journey?"
+     },
+     {
+      "id": 26,
+      "answer": "B",
+      "prompt": "Which book is about a man and his son?"
+     },
+     {
+      "id": 27,
+      "answer": "C",
+      "prompt": "Which book is by a student?"
+     }
+    ],
+    "label": "PART 4",
+    "texts": [
+     {
+      "body": "This is David Reilly's first book. David became a writer after teaching English for several years.\n\nMaha is a nurse in northern Australia, where she works in a small hospital. One day a baby is so ill that Maha has to drive all night to get her to the nearest big city. They have a lot of problems getting there and ...",
+      "title": "The Long Night",
+      "letter": "A"
+     },
+     {
+      "body": "This exciting story is Joanna Jones's twentieth.\n\nHard Work is about Sombat, who works with his father, a carpenter, in Thailand. They work long, hard hours making tables and chairs, but they do not have any money. Then one day a man dressed all in black buys the most beautiful table in the shop ...",
+      "title": "Hard Work",
+      "letter": "B"
+     },
+     {
+      "body": "Marcie Jacome, who studies English in London, wrote this story earlier this year.\n\nTina is a young Brazilian woman whose dream is to become a doctor. She goes to London to study English and medicine but one day she meets a man who asks her to go to the USA with him to become a film star ... What will Tina do?",
+      "title": "Hospital or Cinema?",
+      "letter": "C"
+     }
+    ],
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "prompt": "Which book is about somebody who works with doctors?"
+    },
+    "heading": "New books this month",
+    "partNumber": 4,
+    "instruction": [
+     "Read the information about three books and then answer the questions.",
+     "For questions 21–27, mark A, B or C on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 21–27"
+   },
+   {
+    "type": "mcq-cloze-passage",
+    "items": [
+     {
+      "id": 28,
+      "answer": "A",
+      "options": [
+       {
+        "text": "came",
+        "letter": "A"
+       },
+       {
+        "text": "come",
+        "letter": "B"
+       },
+       {
+        "text": "comes",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 29,
+      "answer": "C",
+      "options": [
+       {
+        "text": "being",
+        "letter": "A"
+       },
+       {
+        "text": "be",
+        "letter": "B"
+       },
+       {
+        "text": "been",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 30,
+      "answer": "B",
+      "options": [
+       {
+        "text": "has",
+        "letter": "A"
+       },
+       {
+        "text": "have",
+        "letter": "B"
+       },
+       {
+        "text": "had",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 31,
+      "answer": "C",
+      "options": [
+       {
+        "text": "were",
+        "letter": "A"
+       },
+       {
+        "text": "is",
+        "letter": "B"
+       },
+       {
+        "text": "are",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 32,
+      "answer": "C",
+      "options": [
+       {
+        "text": "or",
+        "letter": "A"
+       },
+       {
+        "text": "if",
+        "letter": "B"
+       },
+       {
+        "text": "but",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 33,
+      "answer": "A",
+      "options": [
+       {
+        "text": "them",
+        "letter": "A"
+       },
+       {
+        "text": "him",
+        "letter": "B"
+       },
+       {
+        "text": "us",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 34,
+      "answer": "B",
+      "options": [
+       {
+        "text": "from",
+        "letter": "A"
+       },
+       {
+        "text": "by",
+        "letter": "B"
+       },
+       {
+        "text": "to",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 35,
+      "answer": "B",
+      "options": [
+       {
+        "text": "the",
+        "letter": "A"
+       },
+       {
+        "text": "a",
+        "letter": "B"
+       },
+       {
+        "text": "any",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 5",
+    "example": {
+     "answer": "B",
+     "number": 0,
+     "options": [
+      {
+       "text": "with",
+       "letter": "A"
+      },
+      {
+       "text": "of",
+       "letter": "B"
+      },
+      {
+       "text": "in",
+       "letter": "C"
+      }
+     ]
+    },
+    "passage": "There are three sizes {0} Schnauzer dog.\n\nThe two smaller sizes first {28} to England over 50 years ago, but the Giant Schnauzer has not {29} here very long. The name Giant is a good one because the dogs are 65 to 67.5 cm high.\n\nAll the dogs {30} long hair, which should be cut quite often. Most smaller Schnauzers {31} grey in colour, {32} the Giant Schnauzer is usually black.\n\nSchnauzers come from Germany, where farmers use the dogs to help {33} with their sheep, and they are also used {34} the police, because Schnauzer dogs are very intelligent.\n\nA Schnauzer makes {35} nice family dog. It is friendly and very good with young children.",
+    "partNumber": 5,
+    "instruction": [
+     "Read the information about Schnauzer dogs.",
+     "Choose the best word (A, B or C) for each space (28–35).",
+     "For questions 28–35, mark A, B or C on the answer sheet."
+    ],
+    "passageTitle": "Schnauzer Dogs",
+    "questionsLabel": "QUESTIONS 28–35"
+   },
+   {
+    "type": "vocab-first-letter",
+    "items": [
+     {
+      "id": 36,
+      "answer": "passport",
+      "prompt": "You need this to travel to some foreign countries.",
+      "letters": 8,
+      "firstLetter": "p"
+     },
+     {
+      "id": 37,
+      "answer": "ticket",
+      "prompt": "You need to buy this before you get on a plane.",
+      "letters": 6,
+      "firstLetter": "t"
+     },
+     {
+      "id": 38,
+      "answer": "airport",
+      "prompt": "This is where you go to get a plane.",
+      "letters": 7,
+      "firstLetter": "a"
+     },
+     {
+      "id": 39,
+      "answer": "suitcase",
+      "prompt": "You put your clothes in this when you travel.",
+      "letters": 8,
+      "firstLetter": "s"
+     },
+     {
+      "id": 40,
+      "answer": "tourist",
+      "prompt": "This person likes visiting different places.",
+      "letters": 7,
+      "firstLetter": "t"
+     }
+    ],
+    "label": "PART 6",
+    "example": {
+     "answer": "camera",
+     "number": 0,
+     "prompt": "You can take photos of your holiday with this.",
+     "firstLetter": "c"
+    },
+    "partNumber": 6,
+    "instruction": [
+     "Read the descriptions (36–40) of some words about holidays and travel.",
+     "What is the word for each description?",
+     "The first letter is already there. There is one space for each other letter in the word.",
+     "For questions 36–40, write the words on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 36–40"
+   },
+   {
+    "body": "I arrived ({0}) three weeks ago. I'm studying at a language school {41} Brighton. The students come {42} many different countries and I {43} made a lot of new friends.\n\nThere {44} classes for five hours every day. I like {45} teacher very much. {46} name is John and he helps me {47} I make a mistake.\n\nI want {48} visit London next weekend because I {49} going back to my country on Monday. Can I see you there? Please write to {50} soon.",
+    "type": "open-cloze-letter",
+    "items": [
+     {
+      "id": 41,
+      "answer": "in"
+     },
+     {
+      "id": 42,
+      "answer": "from"
+     },
+     {
+      "id": 43,
+      "answer": "have"
+     },
+     {
+      "id": 44,
+      "answer": "are"
+     },
+     {
+      "id": 45,
+      "answer": "the"
+     },
+     {
+      "id": 46,
+      "answer": "His"
+     },
+     {
+      "id": 47,
+      "answer": "when"
+     },
+     {
+      "id": 48,
+      "answer": "to"
+     },
+     {
+      "id": 49,
+      "answer": "am"
+     },
+     {
+      "id": 50,
+      "answer": "me"
+     }
+    ],
+    "label": "PART 7",
+    "header": "28 Long Road\nBrighton\n\n22nd March",
+    "closing": "With best wishes from\nMaria",
+    "example": {
+     "answer": "here",
+     "number": 0
+    },
+    "greeting": "Dear Pat,",
+    "partNumber": 7,
+    "instruction": [
+     "Complete this letter.",
+     "Write ONE word for each space (41–50).",
+     "For questions 41–50, write your words on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 41–50"
+   },
+   {
+    "note": {
+     "body": "Andy,\n\nLet's go to the Film Club next week. Can you get the tickets from the college office? Remember we pay the cheaper price. I must study at home for our exam on 8 April. Thanks!\n\nSee you next Tuesday in the Coffee Bar at 7.45, before it starts!",
+     "dateLine": "2 April",
+     "signature": "Sheila"
+    },
+    "rows": [
+     {
+      "label": "Day:",
+      "prefilled": "Tuesday"
+     },
+     {
+      "id": 51,
+      "label": "Date:",
+      "answer": "9 April"
+     },
+     {
+      "id": 52,
+      "label": "Name of film:",
+      "answer": "The Last King"
+     },
+     {
+      "id": 53,
+      "label": "Starting time:",
+      "answer": "8 p.m."
+     },
+     {
+      "id": 54,
+      "label": "Ticket price:",
+      "answer": "3.50",
+      "prefix": "£"
+     },
+     {
+      "id": 55,
+      "label": "Meet Sheila in:",
+      "answer": "the Coffee Bar"
+     }
+    ],
+    "type": "info-transfer-notes",
+    "label": "PART 8",
+    "notice": {
+     "body": "Every Tuesday 8 p.m.\nIn the DRAMA STUDIO\n\n2 April    City Lights\n9 April    The Last King\n\nTickets    Students £3.50\n           Visitors £5.00",
+     "title": "WALTON COLLEGE FILM CLUB"
+    },
+    "notesTitle": "Andy's Notes",
+    "partNumber": 8,
+    "instruction": [
+     "Read the notice and the note from Sheila.",
+     "Complete Andy's notes.",
+     "For questions 51–55, write the information on the answer sheet."
+    ],
+    "notesSubtitle": "Film Club with Sheila",
+    "questionsLabel": "QUESTIONS 51–55"
+   },
+   {
+    "type": "writing-postcard",
+    "items": [
+     {
+      "id": 56,
+      "type": "free-text",
+      "answer": "Dear Richard,\nI am going to England next Monday for three months and I would like to do an excursion with you around London.\nSee you soon,\nLily",
+      "maxWords": 35,
+      "minWords": 25
+     }
+    ],
+    "label": "PART 9",
+    "footer": [
+     "Write 25–35 words.",
+     "Write your postcard on the answer sheet."
+    ],
+    "prompt": "It's great that you're coming to see me in England. Tell me when you are coming, how long you want to stay and what you want to do.\n\nWrite soon!",
+    "wordCount": "25–35 words",
+    "partNumber": 9,
+    "instruction": [
+     "Read the note from your friend Richard.",
+     "Write a postcard to tell him what he wants to know."
+    ],
+    "questionsLabel": "QUESTION 56",
+    "promptSignature": "Richard"
+   }
+  ],
+  "testInfo": {
+   "id": "ket-rw-01",
+   "level": "A2",
+   "paper": "Paper 1",
+   "parts": 9,
+   "title": "KET Reading & Writing — Test 1",
+   "totalTime": 70,
+   "totalQuestions": 56
+  }
+ },
+ "created_at": "2026-10-14T06:44:56.007908+00:00",
+ "updated_at": "2026-10-14T06:46:44.199971+00:00"
+}

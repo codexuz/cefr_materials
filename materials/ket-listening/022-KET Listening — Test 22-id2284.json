@@ -1,0 +1,457 @@
+{
+ "id": 2284,
+ "mock_type": "ket-listening",
+ "mock_number": 22,
+ "title": "KET Listening — Test 22",
+ "status": "published",
+ "mock_data": {
+  "audio": {
+   "base": "https://audio.mock-stream.com/KET-Listening/test22/",
+   "files": {
+    "1": "PART1.m4a",
+    "2": "PART2.m4a",
+    "3": "PART3.m4a",
+    "4": "PART4.m4a",
+    "5": "PART5.m4a"
+   }
+  },
+  "parts": [
+   {
+    "type": "picture-mcq",
+    "items": [
+     {
+      "id": 1,
+      "answer": "C",
+      "options": [
+       {
+        "text": "Thursday",
+        "letter": "A"
+       },
+       {
+        "text": "Friday",
+        "letter": "B"
+       },
+       {
+        "text": "Monday",
+        "letter": "C"
+       }
+      ],
+      "question": "Which day is the man's appointment?"
+     },
+     {
+      "id": 2,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q2A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q2B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q2C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What is the woman going to eat?"
+     },
+     {
+      "id": 3,
+      "answer": "B",
+      "options": [
+       {
+        "text": "11.30",
+        "letter": "A"
+       },
+       {
+        "text": "12.45",
+        "letter": "B"
+       },
+       {
+        "text": "2.15",
+        "letter": "C"
+       }
+      ],
+      "question": "Which train will the woman take?"
+     },
+     {
+      "id": 4,
+      "answer": "B",
+      "options": [
+       {
+        "text": "£150",
+        "letter": "A"
+       },
+       {
+        "text": "£160",
+        "letter": "B"
+       },
+       {
+        "text": "£175",
+        "letter": "C"
+       }
+      ],
+      "question": "How much did the man pay for the camera?"
+     },
+     {
+      "id": 5,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q5A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q5B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q5C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Which race did the girl win?"
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "image": "q0A.png",
+       "letter": "A"
+      },
+      {
+       "image": "q0B.png",
+       "letter": "B"
+      },
+      {
+       "image": "q0C.png",
+       "letter": "C"
+      }
+     ],
+     "question": "How many people were at the meeting?"
+    },
+    "imageBase": "https://audio.mock-stream.com/KET-Listening/test22/p1/",
+    "partNumber": 1,
+    "instruction": [
+     "You will hear five short conversations.",
+     "You will hear each conversation twice.",
+     "There is one question for each conversation.",
+     "For questions 1–5, put a tick (✓) under the right answer."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "matching-list",
+    "items": [
+     {
+      "id": 6,
+      "name": "Brown's Café",
+      "answer": "A"
+     },
+     {
+      "id": 7,
+      "name": "Rivers Hotel",
+      "answer": "D"
+     },
+     {
+      "id": 8,
+      "name": "Bridge Restaurant",
+      "answer": "F"
+     },
+     {
+      "id": 9,
+      "name": "Garden House",
+      "answer": "E"
+     },
+     {
+      "id": 10,
+      "name": "Opera Café",
+      "answer": "H"
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "name": "University Hotel",
+     "answer": "G",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "closed",
+      "letter": "A"
+     },
+     {
+      "text": "cold",
+      "letter": "B"
+     },
+     {
+      "text": "dark",
+      "letter": "C"
+     },
+     {
+      "text": "dirty",
+      "letter": "D"
+     },
+     {
+      "text": "expensive",
+      "letter": "E"
+     },
+     {
+      "text": "full",
+      "letter": "F"
+     },
+     {
+      "text": "old",
+      "letter": "G"
+     },
+     {
+      "text": "small",
+      "letter": "H"
+     }
+    ],
+    "scenario": "Rosie talking about places for a party — problems",
+    "leftLabel": "Places",
+    "partNumber": 2,
+    "rightLabel": "Problems",
+    "instruction": [
+     "Listen to Rosie talking to a friend about places for a party.",
+     "What is the problem with each place?",
+     "For questions 6–10, write a letter A–H next to each place.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-conversation",
+    "items": [
+     {
+      "id": 11,
+      "stem": "The best class for Joe is",
+      "answer": "C",
+      "options": [
+       {
+        "text": "French Conversation.",
+        "letter": "A"
+       },
+       {
+        "text": "Business French.",
+        "letter": "B"
+       },
+       {
+        "text": "French for Tourists.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "stem": "Joe's class begins at",
+      "answer": "A",
+      "options": [
+       {
+        "text": "6.30.",
+        "letter": "A"
+       },
+       {
+        "text": "7.15.",
+        "letter": "B"
+       },
+       {
+        "text": "8.30.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "stem": "How many other students will there be in Joe's class?",
+      "answer": "B",
+      "options": [
+       {
+        "text": "9",
+        "letter": "A"
+       },
+       {
+        "text": "14",
+        "letter": "B"
+       },
+       {
+        "text": "15",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "stem": "What should Joe take to his first class?",
+      "answer": "A",
+      "options": [
+       {
+        "text": "a dictionary",
+        "letter": "A"
+       },
+       {
+        "text": "a coursebook",
+        "letter": "B"
+       },
+       {
+        "text": "a notebook",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "stem": "Joe will pay",
+      "answer": "B",
+      "options": [
+       {
+        "text": "£25.",
+        "letter": "A"
+       },
+       {
+        "text": "£145.",
+        "letter": "B"
+       },
+       {
+        "text": "£170.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "stem": "Lessons for beginners are on",
+     "answer": "B",
+     "number": 0,
+     "options": [
+      {
+       "text": "Monday.",
+       "letter": "A"
+      },
+      {
+       "text": "Wednesday.",
+       "letter": "B"
+      },
+      {
+       "text": "Friday.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partNumber": 3,
+    "instruction": [
+     "Listen to Joe asking about a French language course.",
+     "For questions 11–15, tick (✓) A, B or C.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "rows": [
+     {
+      "id": 16,
+      "label": "Cost of single ticket:",
+      "answer": "18.25",
+      "prefix": "£"
+     },
+     {
+      "id": 17,
+      "label": "Buy ticket from:",
+      "answer": "the driver"
+     },
+     {
+      "id": 18,
+      "label": "Address of bus station:",
+      "answer": "GATELY",
+      "suffix": "Street"
+     },
+     {
+      "id": 19,
+      "label": "next to:",
+      "answer": "the museum"
+     },
+     {
+      "id": 20,
+      "label": "At bus station, you can buy:",
+      "answer": "drinks",
+      "suffix": "and newspapers"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 4",
+    "subtitle": "First bus leaves at: 6.45 am",
+    "noteTitle": "Bus to Kendal",
+    "partNumber": 4,
+    "instruction": [
+     "You will hear a girl asking for information about going to Kendal by bus.",
+     "Listen and complete questions 16–20.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "rows": [
+     {
+      "id": 21,
+      "label": "Name of play:",
+      "answer": "Dinner",
+      "prefix": "The",
+      "suffix": "Party"
+     },
+     {
+      "id": 22,
+      "label": "Date:",
+      "answer": "29th",
+      "suffix": "August"
+     },
+     {
+      "id": 23,
+      "label": "The theatre is opposite:",
+      "answer": "library",
+      "prefix": "the"
+     },
+     {
+      "id": 24,
+      "label": "Meet Michael at:",
+      "answer": "6.45",
+      "suffix": "pm"
+     },
+     {
+      "id": 25,
+      "label": "Mobile number:",
+      "answer": "0774 32316"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 5",
+    "subtitle": "To: Jamie\nFrom: Michael",
+    "noteTitle": "Telephone message",
+    "partNumber": 5,
+    "instruction": [
+     "You will hear a telephone message about a trip to the theatre.",
+     "Listen and complete questions 21–25.",
+     "You will hear the information twice."
+    ],
+    "questionsLabel": "QUESTIONS 21–25"
+   }
+  ],
+  "testInfo": {
+   "id": "ket-l-22",
+   "level": "A2",
+   "paper": "Paper 2",
+   "parts": 5,
+   "title": "KET Listening — Test 22",
+   "totalTime": 30,
+   "totalQuestions": 25
+  }
+ },
+ "created_at": "2026-10-14T06:45:31.534316+00:00",
+ "updated_at": "2026-10-14T06:47:17.642419+00:00"
+}

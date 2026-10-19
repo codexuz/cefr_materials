@@ -1,0 +1,520 @@
+{
+ "id": 114,
+ "mock_type": "ielts-writing",
+ "mock_number": 5,
+ "title": "IELTS Writing Mock 05",
+ "status": "published",
+ "mock_data": {
+  "tasks": {
+   "task1": {
+    "title": "Home tasks split by gender",
+    "prompt": "The first chart shows the percentage of women and men in a country involved in some kinds of home tasks (cooking, cleaning, pet caring and repairing the house). The second chart shows the amount of time each gender spent on each task per day.",
+    "wordGoal": 150,
+    "chartDesc": {
+     "title": "Percentage of males and females who do housework",
+     "visuals": [
+      {
+       "kind": "bar chart",
+       "xAxis": "Percentage (%)",
+       "yAxis": "Housework tasks",
+       "series": [
+        {
+         "name": "Males",
+         "points": [
+          {
+           "at": "Cooking",
+           "value": 60
+          },
+          {
+           "at": "Cleaning",
+           "value": 40
+          },
+          {
+           "at": "Pet care",
+           "value": 22
+          },
+          {
+           "at": "House repairs",
+           "value": 18
+          }
+         ]
+        },
+        {
+         "name": "Females",
+         "points": [
+          {
+           "at": "Cooking",
+           "value": 82
+          },
+          {
+           "at": "Cleaning",
+           "value": 62
+          },
+          {
+           "at": "Pet care",
+           "value": 20
+          },
+          {
+           "at": "House repairs",
+           "value": 8
+          }
+         ]
+        }
+       ],
+       "caption": "Percentage of males and females who do housework"
+      },
+      {
+       "kind": "bar chart",
+       "xAxis": "Time (minutes per day)",
+       "yAxis": "Housework tasks",
+       "series": [
+        {
+         "name": "Males",
+         "points": [
+          {
+           "at": "Cooking",
+           "value": 60
+          },
+          {
+           "at": "Cleaning",
+           "value": 45
+          },
+          {
+           "at": "Pet care",
+           "value": 20
+          },
+          {
+           "at": "House repairs",
+           "value": 18
+          }
+         ]
+        },
+        {
+         "name": "Females",
+         "points": [
+          {
+           "at": "Cooking",
+           "value": 85
+          },
+          {
+           "at": "Cleaning",
+           "value": 68
+          },
+          {
+           "at": "Pet care",
+           "value": 20
+          },
+          {
+           "at": "House repairs",
+           "value": 5
+          }
+         ]
+        }
+       ],
+       "caption": "Time spent on each task per day"
+      }
+     ],
+     "overview": "Females show higher involvement and spend more time on cooking and cleaning than males, whereas males are more involved and spend more time on house repairs. Both genders spend equal time and have nearly equal participation in pet care.",
+     "chartType": "mixed",
+     "confidence": "medium",
+     "unreadable": [
+      "Bar values do not have printed numeric labels; values must be read off vertical grid lines spaced at intervals of 10.",
+      "The second chart lacks a explicit printed title or unit label directly on the graphic (units inferred from prompt)."
+     ],
+     "keyFeatures": [
+      "In Chart 1, cooking has the highest participation among females at around 82%, compared to 60% of males.",
+      "In Chart 1, house repairs is dominated by males (18% participation) compared to females (around 8%).",
+      "In Chart 2, females spend the most time on cooking (approx. 85 minutes per day) and cleaning (approx. 68 minutes per day).",
+      "In both charts, pet care shows virtually identical participation (~20%) and time spent (20 minutes per day) for both genders."
+     ]
+    },
+    "chartType": "mixed",
+    "dataNature": "static",
+    "instruction": "Summarise the information by selecting and reporting the main features, and make comparison where relevant.",
+    "sampleBand5": "<p>The two charts <mark>give information about</mark> what men and women do at home. One chart shows the percentage of men and women doing housework, and the other shows how much time they spend. </p>\n\n<p>More women do cooking and cleaning than men. <mark>A lot of</mark> women, like 75%, cook, but only 25% of men do. For cleaning, it’s almost the same. Pet care is more equal, with maybe 55% of women and 45% of men. Repairing the house is done by more men. </p>\n\n<p>Women spend more time cooking. They <mark>spend about</mark> 80 minutes a day cooking. Men only spend 30 minutes. Cleaning time is also more for women. But men spend more time repairing, maybe 50 minutes, while women only spend 20 minutes. Pet care time is <mark>pretty much</mark> the same for both.</p>\n\n<p>Overall, women do more cooking and cleaning and spend more time on these. Men do more repairs.</p>",
+    "sampleBand6": "<p>The two charts <mark>give information about</mark> the proportion of men and women involved in various household chores in a particular country, as well as the average time spent on each chore daily.</p>\n<p>Overall, women were <mark>more likely to be involved in</mark> most household tasks compared to men. However, men spent more time on house repairs. Also, there appears to be a considerable difference in time spent on cooking.</p>\n<p>Looking at the figures more closely, 70% of women were involved in cooking, compared to only 30% of men. Cleaning saw 60% of women participating, <mark>while the figure for</mark> men was about 40%. Pet care had a slightly smaller difference, with 55% of women and 45% of men. In contrast, house repairs were done by 60% of men and 40% of women. Regarding time spent, women spent an average of 1.5 hours per day on cooking, whereas men only spent 0.5 hours. <mark>The time spent on other activities was</mark> less than an hour, with men spending slightly more time on house repairs than women. <mark>It is clear that</mark> women do more cooking.</p>",
+    "sampleBand7": "<p>The charts <mark>illustrate the proportion</mark> of men and women in a particular country engaging in household chores, as well as the average time spent on each task daily.</p>\n<p>Overall, a higher percentage of women participated in all domestic activities compared to men. Furthermore, women <mark>dedicated a significantly larger amount of time</mark> to cooking, cleaning, and pet care, while men spent marginally more time on home repairs.</p>\n<p>Specifically, the percentage of women involved in cooking and cleaning was considerably higher, at 70% and 65% respectively, compared to 45% and 40% for men. Pet care <mark>saw a smaller difference</mark>, with 55% of women and 30% of men participating. Home repairs were the only area where male involvement (35%) slightly exceeded that of women (25%). In terms of time allocation, women spent an average of 1.5 hours per day cooking and just over an hour cleaning, while men spent approximately 45 minutes on each of these tasks. <mark>Notably</mark>, both genders spent a similar amount of time caring for pets, at around 30 minutes. Men, however, spent slightly longer on home repairs, <mark>averaging approximately</mark> 1 hour, compared to women's 45 minutes.</p>\n<p><mark>In summary</mark>, women not only participated more frequently in household tasks but also devoted considerably more time to them, with the exception of home repairs where men spent a little more time.</p>",
+    "sampleBand8": "<p>The charts illustrate the proportion of men and women in a particular country engaging in domestic chores, namely cooking, cleaning, pet care, and home repairs, alongside the average daily time <mark>devoted to</mark> each activity by gender.</p>\n\n<p>Overall, a <mark>stark disparity</mark> exists in task allocation, with women participating more frequently and spending considerably more time on household duties than men. While cleaning and cooking are primarily undertaken by women, men are more likely to engage in home repairs.</p>\n\n<p>Looking at the first chart, women are involved in cooking and cleaning at rates of 70% and 65% respectively, while the corresponding figures for men are significantly lower at 25% and 20%. Pet care sees a more <mark>even distribution</mark>, with 55% of women and 45% of men participating. Home repairs, however, are <mark>primarily a male domain</mark>, with 60% of men involved compared to only 10% of women. The second chart reveals that women spend approximately 120 minutes daily on cooking and 90 minutes on cleaning, <mark>vastly exceeding</mark> the 30 minutes and 20 minutes spent by men on these tasks, respectively. Pet care sees a closer time allocation, with women averaging 40 minutes and men 30. Men spend around 60 minutes daily on home repairs, while women spend a <mark>negligible amount of time</mark> on this. <mark>In essence</mark>, women shoulder a disproportionate burden of housework, especially in cooking and cleaning. The data <mark>underscores a traditional division of labor</mark> within the household. <mark>The figures suggest</mark> gender roles still play a significant part in domestic responsibilities.</p>",
+    "sampleBand9": "<p>The charts <mark>illustrate the proportion of</mark> men and women in a particular country engaging in various household chores, namely cooking, cleaning, pet care, and home repairs, alongside the average daily time <mark>allocated by each gender</mark> to these activities.</p>\n\n<p><mark>An overarching trend</mark> reveals that women participate more frequently in cooking, cleaning, and pet care, while men dominate in home repairs. Furthermore, women consistently dedicate more time to cooking and cleaning, whereas the time spent on pet care is <mark>relatively comparable</mark> between genders. <mark>A notable disparity</mark> exists in home repairs, with men spending significantly more time on this task.</p>\n\n<p>Specifically, the percentage of women involved in cooking and cleaning is considerably higher than that of men, with figures exceeding 70% and 60% respectively, compared to approximately 40% and 30% for men. In contrast, around 60% of men undertake home repairs, <mark>in stark contrast to</mark> roughly 20% of women. Pet care sees a <mark>more balanced participation rate</mark>, with slightly over 50% of women and approximately 45% of men involved.</p>\n\n<p>Turning to the time allocation, women spend an average of 80 minutes per day cooking and 70 minutes cleaning, while men dedicate approximately 30 minutes to each task. Pet care occupies around 30 minutes daily for both genders. However, men spend a <mark>considerable 75 minutes</mark> on home repairs, <mark>dwarfing the mere</mark> 10 minutes spent by women. <mark>In essence</mark>, the data <mark>underscores traditional gender roles</mark> in household responsibilities, with women shouldering the bulk of cooking and cleaning duties, while men focus on home maintenance.</p>",
+    "timeMinutes": 20,
+    "chartDescImg": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/perentage%20of%20people%20do%20house%20work.png",
+    "sampleAnswer": "The bar charts illustrate the gender distribution across various domestic responsibilities in a particular nation, alongside the average daily duration spent on each activity. Overall, it is striking that women are more extensively involved in most household tasks compared to men, with the notable exception of property repairs. Furthermore, the time allocated to these chores mirrors this participation disparity.\n\nIn terms of participation, cooking and cleaning are predominantly female activities, with over 80% of women involved in the former and approximately 60% in the latter. In contrast, only about 60% of men engage in cooking, and a mere 40% participate in cleaning. However, the trend is reversed for property maintenance, where men's participation nearly doubles that of women (20% versus 10%). Pet care shows the most gender-neutral distribution, with roughly 25% of both sexes taking part.\n\nRegarding time expenditure, the data shows that women dedicate significantly more minutes to domestic work. Cooking and cleaning combined account for nearly 100 minutes of a woman's day, whereas men spend roughly half that amount. Interestingly, while fewer people repair the house, those who do—mostly men—spend about 20 minutes daily on this task, exceeding the 5 minutes women spend. Pet care, despite equal participation rates, sees women spending nearly 20 minutes compared to men's 15.",
+    "chartImageUrl": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/perentage%20of%20people%20do%20house%20work.png",
+    "uzSampleBand5": "<p>Ikki jadval <mark>erkaklar va ayollar uyda nima qilishlari haqida ma'lumot beradi</mark>. Birinchi jadvalda erkaklar va ayollarning uy ishlarini bajarish foizi ko'rsatilgan bo'lsa, ikkinchi jadvalda ular qancha vaqt sarflashlari ko'rsatilgan. </p>\n\n<p>Ko'proq ayollar ovqat pishirish va tozalash bilan shug'ullanishadi, erkaklarga nisbatan. <mark>Ko'pgina</mark> ayollar, taxminan 75% ovqat pishirishadi, lekin erkaklarning faqat 25%i shug'ullanadi. Tozalash bo'yicha ham deyarli shunday. Uy hayvonlariga g'amxo'rlik qilish tengroq, balki 55% ayollar va 45% erkaklar. Uyni ta'mirlash ko'proq erkaklar tomonidan amalga oshiriladi. </p>\n\n<p>Ayollar ovqat pishirishga ko'proq vaqt sarflashadi. Ular kuniga <mark>taxminan</mark> 80 daqiqa ovqat pishirishga sarflashadi. Erkaklar esa faqat 30 daqiqa sarflashadi. Tozalash vaqti ham ayollar uchun ko'proq. Lekin erkaklar ta'mirlashga ko'proq vaqt sarflashadi, balki 50 daqiqa, ayollar esa faqat 20 daqiqa. Uy hayvonlariga g'amxo'rlik qilish vaqti ikkalasi uchun ham <mark>deyarli</mark> bir xil.</p>\n\n<p>Umuman olganda, ayollar ko'proq ovqat pishirish va tozalash bilan shug'ullanishadi va bu ishlarga ko'proq vaqt sarflashadi. Erkaklar esa ko'proq ta'mirlash ishlarini bajarishadi.</p>",
+    "uzSampleBand6": "<p>Ikkala jadval <mark>maʼlumot beradi</mark> maʼlum bir mamlakatda turli xil uy ishlariga jalb qilingan erkaklar va ayollar ulushi, shuningdek, har bir ishga kuniga sarflangan oʻrtacha vaqt haqida.</p>\n<p>Umuman olganda, ayollar erkaklarga nisbatan <mark>ko'proq jalb qilingan</mark> uy ishlarining aksariyatida. Biroq, erkaklar uy ta'miri uchun ko'proq vaqt sarflashgan. Shuningdek, ovqat pishirishga sarflangan vaqtda sezilarli farq borga o'xshaydi.</p>\n<p>Raqamlarga diqqat bilan qarasak, ayollarning 70 foizi ovqat pishirish bilan shug'ullangan, erkaklarning atigi 30 foizi. Tozalashda ayollarning 60 foizi ishtirok etgan, <mark>erkaklar uchun bu ko'rsatkich</mark> taxminan 40 foizni tashkil etdi. Uy hayvonlariga g'amxo'rlik qilishda biroz kichikroq farq bor edi, ayollarning 55 foizi va erkaklarning 45 foizi. Aksincha, uy ta'miri bilan erkaklarning 60 foizi va ayollarning 40 foizi shug'ullangan. Sarflangan vaqtga kelsak, ayollar ovqat pishirishga kuniga o'rtacha 1,5 soat sarflashgan, erkaklar esa atigi 0,5 soat. <mark>Boshqa faoliyatlarga sarflangan vaqt</mark> bir soatdan kamroq bo'lgan, erkaklar uy ta'miriga ayollarga qaraganda biroz ko'proq vaqt sarflashgan. <mark>Aniqki,</mark> ayollar ko'proq ovqat pishirishadi.</p>",
+    "uzSampleBand7": "<p>Diagrammalar ma'lum bir mamlakatda erkaklar va ayollarning uy yumushlari bilan shug'ullanish <mark>ulushini ko'rsatadi</mark>, shuningdek, har bir vazifaga kuniga o'rtacha qancha vaqt sarflanishini ham aks ettiradi.</p>\n<p>Umuman olganda, barcha uy-ro'zg'or ishlarida ayollarning ishtiroki erkaklarnikiga qaraganda yuqori foizni tashkil etadi. Bundan tashqari, ayollar ovqat tayyorlash, tozalash va uy hayvonlariga g'amxo'rlik qilishga <mark>ancha ko'p vaqt ajratishgan</mark>, erkaklar esa uy ta'mirlashga biroz ko'proq vaqt sarflashgan.</p>\n<p>Xususan, ovqat tayyorlash va tozalash bilan shug'ullanadigan ayollarning foizi ancha yuqori bo'lib, mos ravishda 70% va 65% ni tashkil etdi, erkaklarda esa bu ko'rsatkich 45% va 40% edi. Uy hayvonlariga g'amxo'rlik qilishda <mark>farq unchalik katta emas</mark>, ayollarning 55% va erkaklarning 30% ishtirok etgan. Uy ta'mirlash erkaklarning (35%) ishtiroki ayollarnikidan (25%) biroz oshib ketgan yagona soha edi. Vaqt taqsimotiga ko'ra, ayollar kuniga o'rtacha 1,5 soat ovqat tayyorlashga va bir soatdan sal ko'proq vaqt tozalashga sarflashgan, erkaklar esa bu vazifalarning har biriga taxminan 45 daqiqa sarflashgan. <mark>Shuni ta'kidlash joizki</mark>, har ikki jins ham uy hayvonlariga g'amxo'rlik qilishga o'xshash vaqt sarflashgan – taxminan 30 daqiqa. Erkaklar, uy ta'mirlashga biroz ko'proq vaqt sarflashgan, <mark>o'rtacha taxminan</mark> 1 soat, ayollarda esa bu ko'rsatkich 45 daqiqa.</p>\n<p><mark>Xulosa qilib aytganda</mark>, ayollar nafaqat uy yumushlarida tez-tez ishtirok etishgan, balki ularga ancha ko'p vaqt ajratishgan, bundan faqat erkaklar biroz ko'proq vaqt sarflagan uy ta'mirlash ishlari mustasno.</p>",
+    "uzSampleBand8": "<p>Diagrammalar ma'lum bir mamlakatda erkaklar va ayollarning uy ishlariga, xususan, ovqat tayyorlash, tozalash, uy hayvonlariga g'amxo'rlik qilish va uyni ta'mirlash kabi ishlarga jalb qilingan ulushini, shuningdek, har bir faoliyatga jins bo'yicha <mark>sarflangan</mark> o'rtacha kunlik vaqtni ko'rsatadi.</p>\n\n<p>Umuman olganda, vazifalarni taqsimlashda <mark>keskin tafovut</mark> mavjud, ayollar uy ishlarida ko'proq ishtirok etadi va erkaklarga qaraganda ancha ko'p vaqt sarflaydi. Tozalash va ovqat tayyorlash asosan ayollar tomonidan amalga oshirilsa, erkaklar uyni ta'mirlash bilan ko'proq shug'ullanishadi.</p>\n\n<p>Birinchi diagrammaga nazar tashlasak, ayollar ovqat tayyorlash va tozalashda mos ravishda 70% va 65% darajasida ishtirok etadilar, erkaklar uchun tegishli ko'rsatkichlar esa ancha past - 25% va 20%. Uy hayvonlariga g'amxo'rlik qilish <mark>yanada teng taqsimlangan</mark>, ayollarning 55% va erkaklarning 45% ishtirok etadi. Biroq, uyni ta'mirlash <mark>asosan erkaklarning sohasi</mark> bo'lib, erkaklarning 60% ishtirok etadi, ayollarning esa faqat 10%. Ikkinchi diagramma shuni ko'rsatadiki, ayollar har kuni ovqat tayyorlashga taxminan 120 daqiqa va tozalashga 90 daqiqa sarflaydilar, bu erkaklarning ushbu vazifalarga sarflaydigan 30 daqiqa va 20 daqiqasidan <mark>ancha oshib ketadi</mark>. Uy hayvonlariga g'amxo'rlik qilishda vaqt taqsimoti yaqinroq, ayollar o'rtacha 40 daqiqa va erkaklar 30 daqiqa sarflaydilar. Erkaklar har kuni uyni ta'mirlashga taxminan 60 daqiqa sarflaydilar, ayollar esa bunga <mark>deyarli vaqt ajratmaydilar</mark>. <mark>Aslida</mark>, ayollar uy ishlarining, ayniqsa ovqat tayyorlash va tozalashning nomutanosib yukini o'z zimmalariga oladilar. Ma'lumotlar uy xo'jaligida <mark>mehnatning an'anaviy taqsimotini ta'kidlaydi</mark>. <mark>Raqamlar shuni ko'rsatadiki</mark>, gender rollari hali ham uy vazifalarida muhim rol o'ynaydi.</p>",
+    "uzSampleBand9": "<p>Diagrammalar ma'lum bir mamlakatda erkaklar va ayollarning uy ishlarining turli xil turlari, ya'ni ovqat tayyorlash, tozalash, uy hayvonlariga g'amxo'rlik qilish va uyni ta'mirlash bilan shug'ullanish <mark>nisbatini ko'rsatadi</mark>, shuningdek, har kuni <mark>har bir jins tomonidan ajratilgan</mark> o'rtacha vaqtni ham ko'rsatadi.</p>\n\n<p><mark>Umumiy tendensiya</mark> shuni ko'rsatadiki, ayollar ovqat tayyorlash, tozalash va uy hayvonlariga g'amxo'rlik qilishda ko'proq ishtirok etadi, erkaklar esa uyni ta'mirlashda ustunlik qiladi. Bundan tashqari, ayollar doimiy ravishda ovqat tayyorlash va tozalashga ko'proq vaqt ajratadilar, uy hayvonlariga g'amxo'rlik qilishga sarflangan vaqt esa jinslar o'rtasida <mark>nisbatan taqqoslanadigan</mark>. Uyni ta'mirlashda <mark>sezilarli tafovut</mark> mavjud, erkaklar bu vazifaga sezilarli darajada ko'proq vaqt sarflaydilar.</p>\n\n<p>Xususan, ovqat tayyorlash va tozalash bilan shug'ullanadigan ayollarning foizi erkaklarnikidan ancha yuqori, mos ravishda 70% va 60% dan ortiq, erkaklar uchun esa taxminan 40% va 30%. Aksincha, erkaklarning taxminan 60% i uyni ta'mirlash bilan shug'ullanadi, bu <mark>ayollarning taxminan</mark> 20% ​​iga <mark>keskin zid</mark>. Uy hayvonlariga g'amxo'rlik qilishda <mark>ishtirok etish darajasi muvozanatliroq</mark>, ayollarning 50% dan sal ko'prog'i va erkaklarning taxminan 45% i ishtirok etadi.</p>\n\n<p>Vaqt taqsimotiga kelsak, ayollar ovqat tayyorlashga kuniga o'rtacha 80 daqiqa va tozalashga 70 daqiqa sarflaydilar, erkaklar esa har bir vazifaga taxminan 30 daqiqa ajratadilar. Uy hayvonlariga g'amxo'rlik qilish har ikki jins uchun ham kuniga taxminan 30 daqiqa vaqtni oladi. Biroq, erkaklar uyni ta'mirlashga <mark>ancha 75 daqiqa</mark> sarflaydilar, bu ayollar tomonidan sarflangan <mark>oddiygina</mark> 10 daqiqani <mark>soyada qoldiradi</mark>. <mark>Aslida</mark>, ma'lumotlar uy xo'jaligi vazifalarida <mark>an'anaviy gender rollarini ta'kidlaydi</mark>, ayollar ovqat tayyorlash va tozalash ishlarining asosiy qismini o'z zimmalariga oladilar, erkaklar esa uyga texnik xizmat ko'rsatishga e'tibor beradilar.</p>",
+    "chartDescSource": "extracted-verified-2026-08-05"
+   },
+   "task2": {
+    "title": "Banning dangerous sports",
+    "prompt": "Some people think that dangerous sport should be banned while others believe people should have the freedom to choose activities. Discuss both views and give your opinion.",
+    "wordGoal": 250,
+    "essayType": "balanced",
+    "instruction": "Discuss both views and give your opinion.",
+    "sampleBand5": "<p>Many people like to do sports. Some sports are safe, like running or swimming. But other sports are dangerous, for example, <mark>like mountain climbing or racing cars</mark>. There are different ideas about these dangerous sports. Some people think they should not be allowed, and other people think that everyone should be able to choose what they want to do.</p>\n\n<p>One idea is that dangerous sports are not good. People can get hurt, sometimes very badly. If someone is hurt, they need doctors and hospitals. This costs a lot of money. Also, <mark>if someone dies in a sport</mark>, it is very sad for their family and friends. So, some people think it is better to stop these sports so that people do not get hurt or die. This is a way to protect people.</p>\n\n<p>However, other people think that everyone should be able to choose what they want to do. They say that it is their life, and they should be able to take risks if they want to. <mark>They enjoy the feeling of doing something exciting</mark> and challenging. They think that the government should not tell them what they can and cannot do. Also, they say that if people are careful and follow the rules, they can be safe even in dangerous sports.</p>\n\n<p>In my opinion, it is important to think about both ideas. I think that people should be able to do what they want, but they should also be careful. <mark>Maybe there should be some rules</mark> to make sure that people are safe, but I do not think dangerous sports should be banned completely. It is important to find a balance between freedom and safety.</p>",
+    "sampleBand6": "<p>There is a debate about whether dangerous sports should be banned. Some people believe that the government should prohibit these activities, while others think that individuals should have the right to choose what they do. This essay will discuss both sides of the argument and then give my own opinion.</p>\n\n<p>On the one hand, there are several reasons why dangerous sports might be banned. Firstly, these activities can <mark>lead to serious injuries</mark> or even death. This puts a strain on healthcare systems, as injured participants require medical attention. Secondly, some argue that participating in dangerous sports is selfish. If someone is seriously injured, they may become a burden on their family and society. Finally, some people <mark>might say</mark> that these sports encourage reckless behaviour and a disregard for safety.</p>\n\n<p>However, there is also a strong argument for allowing people to participate in dangerous sports. The main point is that individuals should have the freedom to choose their own activities, as long as they are aware of the risks involved. Many people find these sports exciting and challenging, and they believe that the potential rewards outweigh the dangers. Furthermore, banning these sports could <mark>lead to a decline</mark> in tourism and revenue for some areas. Also, some <mark>would argue</mark> that it is not the government's role to protect people from themselves; individuals should be responsible for their own decisions.</p>\n\n<p>In conclusion, while I understand the concerns about safety and the burden on healthcare, I believe that people should have the freedom to participate in dangerous sports if they choose to. It is important to <mark>make sure people know</mark> about the risks, but ultimately, it should be up to them to decide whether or not to take part. A good compromise might be to require participants to have adequate insurance.</p>",
+    "sampleBand7": "<p>The question of whether dangerous sports should be prohibited is a contentious one. While some argue for a ban, citing safety concerns, others maintain that individuals should have the autonomy to engage in activities of their choosing. This essay will examine both perspectives before presenting my own opinion.</p>\n\n<p>Advocates for banning dangerous sports <mark>often point to</mark> the potential for serious injury or even death. Activities such as extreme skiing, rock climbing, and BASE jumping carry inherent risks, and participants may suffer life-altering consequences. The argument is that the state has a responsibility to protect its citizens from harm, even if that harm is self-inflicted. Furthermore, the cost of treating injuries sustained in these activities can place a significant burden on healthcare systems, <mark>diverting resources</mark> from other areas of need. From this perspective, a ban is seen as a necessary measure to safeguard public health and well-being.</p>\n\n<p>Conversely, proponents of individual freedom argue that people should be free to pursue their passions, <mark>regardless of the associated risks</mark>. They believe that individuals are best placed to assess the potential dangers and make informed decisions about their own activities. Banning dangerous sports is seen as an infringement on personal liberty and an example of excessive state control. Moreover, these activities often provide significant benefits, such as physical fitness, mental stimulation, and a sense of accomplishment. <mark>To deprive individuals of these experiences</mark> would be detrimental to their overall quality of life. In addition, some argue that banning these sports would simply drive them underground, making them even more dangerous.</p>\n\n<p>In my opinion, a complete ban on dangerous sports is not the answer. While the risks are undeniable, individuals should have the right to choose their own activities, provided they are fully informed of the potential consequences. A more appropriate approach would be to implement stricter safety regulations, <mark>promote responsible participation</mark>, and ensure that participants have adequate insurance coverage. <mark>This would strike a balance</mark> between protecting individuals from harm and respecting their freedom of choice. Ultimately, the decision to engage in a dangerous sport should rest with the individual, but with the support of appropriate safeguards.</p>\n\n<p><mark>On balance</mark>, while acknowledging the potential dangers, I believe personal freedom and responsible regulation are preferable to outright prohibition.</p>",
+    "sampleBand8": "<p>The debate surrounding the prohibition of dangerous sports is a complex one, with passionate arguments on both sides. While some argue that the state has a responsibility to protect its citizens from harm, others maintain that individuals should have the autonomy to engage in activities of their choosing, regardless of the inherent risks. This essay will explore both perspectives before offering my own opinion.</p>\n\n<p>Proponents of banning dangerous sports often cite the potential for serious injury or death. Activities such as extreme skiing, BASE jumping, and free climbing carry a significant risk, and <mark>accidents can result in</mark> devastating consequences for participants and their families. Furthermore, these accidents can place a considerable burden on healthcare systems, requiring extensive and costly treatment. From this perspective, a ban is seen as a <mark>precautionary measure</mark> designed to safeguard public health and well-being. They might also point to the potential for irresponsible behaviour, where individuals push themselves beyond their limits, further increasing the likelihood of accidents. </p>\n\n<p>Conversely, those who oppose a ban emphasize the importance of personal freedom and the right to make one's own choices. They argue that adults should be allowed to participate in activities that they find challenging and rewarding, even if those activities involve risk. Furthermore, many believe that dangerous sports can provide valuable opportunities for personal growth, helping individuals to develop courage, resilience, and self-reliance. <mark>To deny people these experiences</mark> would be a form of paternalism, restricting their autonomy and limiting their ability to pursue their passions. Moreover, a complete ban could drive these activities underground, making them even more dangerous due to the lack of regulation and safety measures.</p>\n\n<p>In my opinion, a complete ban on dangerous sports is not the answer. While the risks are undeniable, individuals should have the freedom to make informed decisions about their own lives. However, this freedom should be coupled with a strong emphasis on safety regulations and responsible behaviour. <mark>Stringent safety standards</mark> should be enforced, and participants should be required to undergo thorough training and assessment. Furthermore, it is crucial to raise awareness about the risks involved and to encourage individuals to make informed choices based on a realistic understanding of their own abilities and limitations. <mark>A balanced approach</mark>, which respects individual autonomy while prioritizing safety, is the most appropriate way to address this complex issue. <mark>This entails</mark> robust regulation, comprehensive education, and personal accountability.</p>\n\n<p>In conclusion, while the arguments for banning dangerous sports are understandable, the principle of individual freedom should ultimately prevail. By focusing on education, regulation, and personal responsibility, we can <mark>mitigate the risks associated with</mark> these activities while allowing individuals to pursue their passions and challenge themselves in meaningful ways. <mark>The key lies in finding</mark> a balance between protecting individuals and respecting their right to choose.</p>",
+    "sampleBand9": "<p>The question of whether dangerous sports should be prohibited is a contentious one. While some argue for a ban, citing safety concerns, others champion individual autonomy and the right to engage in chosen activities, regardless of risk. This essay will explore both perspectives before presenting a reasoned opinion.</p>\n\n<p>Proponents of banning dangerous sports often <mark>underscore the potential for severe injury or even death</mark>. Activities such as extreme skiing, BASE jumping, and high-altitude mountaineering inherently involve significant risks, and participants, despite precautions, can suffer life-altering consequences. From this viewpoint, the state has a paternalistic duty to protect its citizens from <mark>unnecessary exposure to harm</mark>. Furthermore, the financial burden on healthcare systems resulting from treating injuries sustained during these activities is frequently cited. Resources are diverted from other pressing medical needs, placing a strain on public finances. Therefore, a ban is seen as a pragmatic solution to mitigate these negative impacts.</p>\n\n<p>Conversely, those who advocate for individual freedom maintain that adults should have the right to make their own choices, even if those choices involve inherent dangers. They argue that banning dangerous sports <mark>infringes upon personal liberty</mark> and stifles the spirit of adventure. Moreover, many participants are acutely aware of the risks involved and take meticulous steps to minimize them. The thrill and sense of accomplishment derived from pushing personal boundaries are considered invaluable, and a ban would deny individuals the opportunity to <mark>experience these profound rewards</mark>. Furthermore, it is argued that attempting to legislate against all potential dangers is a slippery slope, potentially leading to unwarranted restrictions on a wide range of activities.</p>\n\n<p>In conclusion, while acknowledging the validity of concerns regarding safety and resource allocation, I firmly believe that individuals should retain the right to participate in dangerous sports. The key lies not in outright prohibition, but in promoting responsible participation through comprehensive safety regulations, mandatory training, and <mark>robust insurance coverage</mark>. A complete ban would be an overreach, <mark>unduly restricting personal autonomy</mark> and stifling the human desire for challenge and adventure. Ultimately, <mark>a nuanced approach</mark> that balances individual freedom with responsible risk management is the most appropriate course of action. <mark>Striking this equilibrium</mark> allows individuals to pursue their passions while minimizing the potential for harm and societal burden. The focus should therefore be on <mark>empowering informed decision-making</mark> rather than imposing blanket restrictions. <mark>This balanced perspective</mark> respects both individual liberties and the need for public safety.</p>",
+    "timeMinutes": 40,
+    "sampleAnswer": "The debate surrounding the legality of extreme sports, such as base jumping or big-wave surfing, highlights a tension between public safety and individual liberty. While some advocate for a total ban on such high-risk activities to prevent unnecessary fatalities, others argue that personal autonomy should be paramount. In my opinion, while safety regulations are essential, a complete prohibition would be an overreach of state authority.\n\nProponents of a ban often cite the significant strain these sports place on public resources. When an accident occurs in remote or hazardous environments, the resulting rescue operations involve expensive equipment and risk the lives of emergency personnel. Furthermore, critics argue that 'thrill-seeking' for entertainment purposes does not justify the potential for lifelong disability or death, which can have devastating effects on the participants' families and society at large. From this perspective, the government has a moral obligation to protect citizens from their own reckless impulses.\n\nOn the other hand, many believe that the freedom to choose one's activities is a fundamental human right. They argue that as long as participants are consenting adults who are fully informed of the risks, they should be free to push their physical and mental limits. Moreover, many modern 'dangerous' sports are highly professionalized, with strict training and safety protocols that actually make them statistically safer than many common activities like driving. Banning such sports could also stifle human bravery and the pursuit of excellence, which are qualities that have historically led to progress.\n\nIn conclusion, while the risks associated with extreme sports are undeniably high, I believe individuals should retain the right to engage in them. Rather than a ban, the focus should be on ensuring participants are well-trained and that private insurance covers any potential rescue costs. Ultimately, personal freedom is too valuable to be sacrificed for a hypothetical increase in communal safety.",
+    "uzSampleBand5": "<p>Ko'pchilik sport bilan shug'ullanishni yaxshi ko'radi. Ba'zi sport turlari xavfsiz, masalan, yugurish yoki suzish. Ammo boshqa sport turlari xavfli, masalan, <mark>tog'ga chiqish yoki poyga mashinalari</mark>. Ushbu xavfli sport turlari haqida turli xil fikrlar mavjud. Ba'zi odamlar ularga ruxsat berilmasligi kerak deb hisoblaydi, boshqa odamlar esa har bir kishi o'zi xohlagan narsani tanlash huquqiga ega bo'lishi kerak deb hisoblaydi.</p>\n\n<p>Bir fikr shuki, xavfli sport turlari yaxshi emas. Odamlar jarohat olishi mumkin, ba'zan juda yomon. Agar kimdir jarohat olsa, ularga shifokorlar va kasalxonalar kerak bo'ladi. Bu juda ko'p pulga tushadi. Shuningdek, <mark>agar kimdir sportda vafot etsa</mark>, bu ularning oilasi va do'stlari uchun juda qayg'uli. Shunday qilib, ba'zi odamlar odamlar jarohatlanmasligi yoki o'lmasligi uchun bu sport turlarini to'xtatish yaxshiroq deb hisoblashadi. Bu odamlarni himoya qilish usuli.</p>\n\n<p>Biroq, boshqa odamlar har bir kishi o'zi xohlagan narsani tanlash huquqiga ega bo'lishi kerak deb hisoblaydi. Ular bu ularning hayoti ekanligini va agar xohlasalar, xavf ostiga qo'yishlari mumkinligini aytishadi. <mark>Ular hayajonli narsa qilish tuyg'usidan zavqlanishadi</mark> va bu ularga qiyinchilik tug'diradi. Ular hukumat ularga nima qilishlari va nima qilmasliklarini aytmasligi kerak deb hisoblashadi. Shuningdek, ular agar odamlar ehtiyot bo'lishsa va qoidalarga rioya qilishsa, hatto xavfli sport turlarida ham xavfsiz bo'lishlari mumkinligini aytishadi.</p>\n\n<p>Mening fikrimcha, ikkala fikr haqida ham o'ylash muhim. O'ylaymanki, odamlar o'zlari xohlagan narsani qila olishlari kerak, lekin ular ham ehtiyot bo'lishlari kerak. <mark>Balki odamlarning xavfsizligini ta'minlash uchun ba'zi qoidalar bo'lishi kerak</mark>, lekin men xavfli sport turlarini butunlay taqiqlash kerak deb o'ylamayman. Ozodlik va xavfsizlik o'rtasida muvozanat topish muhim.</p>",
+    "uzSampleBand6": "<p>Xavfli sport turlarini taqiqlash kerakmi, degan bahs mavjud. Ba'zi odamlar hukumat bu faoliyatlarni taqiqlashi kerak deb hisoblaydi, boshqalar esa shaxslar o'zlari nima qilishni tanlash huquqiga ega bo'lishi kerak deb o'ylaydi. Ushbu insho bahsning ikkala tomonini muhokama qiladi va keyin o'z fikrimni bildiradi.</p>\n\n<p>Bir tomondan, xavfli sport turlarini taqiqlashga bir nechta sabablar bo'lishi mumkin. Birinchidan, bu faoliyatlar <mark>jiddiy jarohatlarga olib kelishi</mark> yoki hatto o'limga sabab bo'lishi mumkin. Bu sog'liqni saqlash tizimlariga yuk bo'ladi, chunki jarohatlangan ishtirokchilarga tibbiy yordam kerak bo'ladi. Ikkinchidan, ba'zilar xavfli sport turlarida ishtirok etish xudbinlik deb ta'kidlaydi. Agar kimdir jiddiy jarohat olsa, u o'z oilasi va jamiyat uchun yuk bo'lishi mumkin. Nihoyat, ba'zi odamlar <mark>aytishi mumkinki</mark>, bu sport turlari beparvolik xatti-harakatlarini va xavfsizlikni mensimaslikni rag'batlantiradi.</p>\n\n<p>Biroq, odamlarga xavfli sport turlarida ishtirok etishga ruxsat berish uchun ham kuchli argument mavjud. Asosiy nuqta shundaki, shaxslar o'zlari uchun qanday xavf borligini bilsalar, o'z faoliyatlarini tanlash huquqiga ega bo'lishlari kerak. Ko'p odamlar bu sport turlarini hayajonli va qiyin deb bilishadi va ular potentsial mukofotlar xavfdan ustun ekanligiga ishonishadi. Bundan tashqari, bu sport turlarini taqiqlash ba'zi hududlar uchun turizm va daromadning <mark>pasayishiga olib kelishi</mark> mumkin. Shuningdek, ba'zilar <mark>ta'kidlashadiki</mark>, odamlarni o'zlaridan himoya qilish hukumatning vazifasi emas; shaxslar o'z qarorlari uchun mas'ul bo'lishlari kerak.</p>\n\n<p>Xulosa qilib aytganda, xavfsizlik va sog'liqni saqlashga bo'lgan yuk haqidagi xavotirlarni tushunsam ham, odamlar xohlasa, xavfli sport turlarida ishtirok etish huquqiga ega bo'lishi kerak deb hisoblayman. Odamlarga xavflar haqida <mark>ma'lumot berishga ishonch hosil qilish</mark> muhim, ammo oxir-oqibat, ishtirok etish yoki etmaslikni ular hal qilishi kerak. Yaxshi kelishuv ishtirokchilardan etarli sug'urtaga ega bo'lishni talab qilish bo'lishi mumkin.</p>",
+    "uzSampleBand7": "<p>Xavfli sport turlarini taqiqlash kerakmi, degan savol bahsli masaladir. Ba'zilar xavfsizlikni ta'kidlab, taqiqlashni yoqlasa, boshqalar shaxslar o'zlari xohlagan faoliyat bilan shug'ullanish huquqiga ega ekanligini ta'kidlaydi. Ushbu insho har ikki nuqtai nazarni ko'rib chiqadi va shundan so'ng o'z fikrimni bayon qiladi.</p>\n\n<p>Xavfli sport turlarini taqiqlash tarafdorlari <mark>ko'pincha</mark> jiddiy jarohatlar yoki hatto o'lim ehtimolini ta'kidlaydilar. Ekstremal chang'i sporti, toshga chiqish va BASE sakrash kabi faoliyatlar xavf tug'diradi va ishtirokchilarning hayotini o'zgartirib yuborishi mumkin. Ularning fikricha, davlat o'z fuqarolarini zarardan himoya qilishga majbur, hatto bu zarar o'z-o'ziga yetkazilgan bo'lsa ham. Bundan tashqari, ushbu faoliyatlar natijasida olingan jarohatlarni davolash xarajatlari sog'liqni saqlash tizimlariga katta yuk bo'lishi va <mark>resurslarni</mark> boshqa zarur sohalardan chalg'itishi mumkin. Shu nuqtai nazardan, taqiq jamoat salomatligi va farovonligini himoya qilish uchun zarur chora sifatida qaraladi.</p>\n\n<p>Aksincha, shaxsiy erkinlik tarafdorlari odamlar o'z ehtiroslarini <mark>xavfidan qat'i nazar</mark> amalga oshirishda erkin bo'lishi kerak, deb hisoblashadi. Ularning fikricha, shaxslar potentsial xavflarni baholash va o'z faoliyati to'g'risida asosli qarorlar qabul qilish uchun eng yaxshi joylashgan. Xavfli sport turlarini taqiqlash shaxsiy erkinlikka tajovuz va davlat nazoratining haddan tashqari namunasi sifatida qaraladi. Bundan tashqari, bu faoliyatlar ko'pincha jismoniy tayyorgarlik, aqliy rag'batlantirish va muvaffaqiyat hissi kabi muhim foydalarni taqdim etadi. <mark>Odamlarni bu tajribalardan mahrum qilish</mark> ularning hayot sifatiga salbiy ta'sir qiladi. Bundan tashqari, ba'zilar bu sport turlarini taqiqlash ularni yashirincha faoliyatga aylantirib, yanada xavfliroq qiladi, deb ta'kidlaydi.</p>\n\n<p>Mening fikrimcha, xavfli sport turlarini to'liq taqiqlash yechim emas. Xavflar inkor etib bo'lmasligiga qaramay, shaxslar potentsial oqibatlar to'g'risida to'liq ma'lumotga ega bo'lgan taqdirda, o'z faoliyatini tanlash huquqiga ega bo'lishi kerak. Eng maqbul yechim - xavfsizlik qoidalarini kuchaytirish, <mark>mas'uliyatli ishtirokni rag'batlantirish</mark> va ishtirokchilarning yetarli sug'urta qoplamasiga ega bo'lishini ta'minlash. <mark>Bu</mark> odamlarni zarardan himoya qilish va ularning tanlash erkinligini hurmat qilish o'rtasida <mark>muvozanatni ta'minlaydi</mark>. Oxir-oqibat, xavfli sport turi bilan shug'ullanish to'g'risidagi qaror shaxsning o'ziga tegishli bo'lishi kerak, ammo tegishli kafolatlar bilan.</p>\n\n<p><mark>Umuman olganda</mark>, potentsial xavflarni tan olgan holda, men shaxsiy erkinlik va mas'uliyatli tartibga solish to'g'ridan-to'g'ri taqiqlashdan afzalroq, deb hisoblayman.</p>",
+    "uzSampleBand8": "<p>Xavfli sport turlarini taqiqlash masalasi murakkab bo'lib, har ikki tomonda ham qizg'in bahslar mavjud. Ba'zilar davlat o'z fuqarolarini zarardan himoya qilish mas'uliyatiga ega deb hisoblasa, boshqalar esa shaxslar o'z xohishiga ko'ra, xavf-xatarlaridan qat'i nazar, faoliyat bilan shug'ullanish huquqiga ega bo'lishi kerak deb ta'kidlaydi. Ushbu insho har ikki nuqtai nazarni o'rganib chiqadi va shundan so'ng o'z fikrimni bildiradi.</p>\n\n<p>Xavfli sport turlarini taqiqlash tarafdorlari ko'pincha jiddiy jarohatlar yoki o'lim xavfini tilga olishadi. Ekstremal chang'i, BASE sakrash va erkin toqqa chiqish kabi faoliyatlar katta xavf tug'diradi va <mark>baxtsiz hodisalar natijasida</mark> ishtirokchilar va ularning oilalari uchun og'ir oqibatlarga olib kelishi mumkin. Bundan tashqari, bu baxtsiz hodisalar sog'liqni saqlash tizimlariga sezilarli yuk bo'lishi mumkin, chunki keng va qimmat davolanish talab etiladi. Shu nuqtai nazardan, taqiq jamoat salomatligi va farovonligini himoya qilishga qaratilgan <mark>ehtiyot chorasi</mark> sifatida qaraladi. Ular, shuningdek, shaxslar o'z imkoniyatlaridan tashqari harakat qilib, baxtsiz hodisalar ehtimolini yanada oshiradigan mas'uliyatsiz xatti-harakatlar ehtimolini ham ko'rsatishi mumkin.</p>\n\n<p>Aksincha, taqiqqa qarshi bo'lganlar shaxsiy erkinlik va o'z tanlovini qilish huquqining muhimligini ta'kidlaydilar. Ular kattalarga xavf tug'dirsa ham, qiyin va foydali deb hisoblagan faoliyatlarda ishtirok etishga ruxsat berilishi kerak, deb ta'kidlaydilar. Bundan tashqari, ko'pchilik xavfli sport turlari shaxsiy o'sish uchun qimmatli imkoniyatlar yaratishi, shaxslarga jasorat, chidamlilik va o'ziga ishonchni rivojlantirishga yordam berishiga ishonadi. <mark>Odamlarni bu tajribalardan mahrum qilish</mark> paternalizmning bir ko'rinishi bo'lib, ularning avtonomiyasini cheklaydi va ehtiroslarini ro'yobga chiqarish qobiliyatini cheklaydi. Bundan tashqari, to'liq taqiq bu faoliyatlarni yashirincha olib borilishiga olib kelishi mumkin, bu esa tartibga solish va xavfsizlik choralari yo'qligi sababli ularni yanada xavfliroq qiladi.</p>\n\n<p>Mening fikrimcha, xavfli sport turlariga to'liq taqiq qo'yish yechim emas. Xavflar inkor etib bo'lmaydigan bo'lsa-da, shaxslar o'z hayoti haqida ongli qarorlar qabul qilish erkinligiga ega bo'lishi kerak. Biroq, bu erkinlik xavfsizlik qoidalari va mas'uliyatli xatti-harakatlarga kuchli urg'u berilishi bilan birga bo'lishi kerak. <mark>Qattiq xavfsizlik standartlari</mark> joriy etilishi kerak va ishtirokchilar puxta tayyorgarlik va baholashdan o'tishlari shart. Bundan tashqari, xavf-xatarlar haqida xabardorlikni oshirish va shaxslarni o'z qobiliyatlari va cheklovlarini real tushunish asosida ongli tanlov qilishga undash muhimdir. Shaxsiy avtonomiyani hurmat qilgan holda xavfsizlikni birinchi o'ringa qo'yadigan <mark>muvozanatli yondashuv</mark> ushbu murakkab masalani hal qilishning eng maqbul usulidir. <mark>Bu</mark> mustahkam tartibga solish, har tomonlama ta'lim va shaxsiy javobgarlikni anglatadi.</p>\n\n<p>Xulosa qilib aytganda, xavfli sport turlarini taqiqlash uchun keltirilgan dalillar tushunarli bo'lsa-da, shaxsiy erkinlik tamoyili oxir-oqibat g'alaba qozonishi kerak. Ta'lim, tartibga solish va shaxsiy mas'uliyatga e'tibor qaratish orqali biz shaxslarga o'z ehtiroslarini ro'yobga chiqarishga va o'zlarini mazmunli tarzda sinovdan o'tkazishga imkon bergan holda, ushbu faoliyatlar bilan bog'liq <mark>xavflarni kamaytirishimiz</mark> mumkin. <mark>Yechim</mark> shaxslarni himoya qilish va ularning tanlash huquqini hurmat qilish o'rtasida muvozanatni topishda.</p>",
+    "uzSampleBand9": "<p>Xavfli sport turlarini taqiqlash masalasi bahsli hisoblanadi. Ba'zilar xavfsizlik nuqtai nazaridan taqiqni yoqlab chiqsa, boshqalar shaxsiy erkinlik va xavf darajasidan qat'i nazar, tanlangan faoliyat bilan shug'ullanish huquqini himoya qiladi. Ushbu insho har ikki nuqtai nazarni o'rganib chiqadi va asosli fikr bildiradi.</p>\n\n<p>Xavfli sport turlarini taqiqlash tarafdorlari ko'pincha <mark>og'ir jarohatlar yoki hatto o'lim ehtimolini ta'kidlaydilar</mark>. Ekstremal chang'i sporti, BASE sakrashi va baland tog'larga ko'tarilish kabi faoliyatlar o'zida sezilarli xavflarni mujassam etadi va ishtirokchilar, ehtiyot choralariga qaramay, hayotni o'zgartiruvchi oqibatlarga duch kelishi mumkin. Shu nuqtai nazardan, davlat o'z fuqarolarini <mark>keraksiz zarar ta'siridan</mark> himoya qilishga majbur. Bundan tashqari, ushbu faoliyatlar davomida olingan jarohatlarni davolash natijasida sog'liqni saqlash tizimlariga tushadigan moliyaviy yuk tez-tez tilga olinadi. Resurslar boshqa dolzarb tibbiy ehtiyojlardan chetlashtirilib, davlat moliyasiga bosim o'tkazadi. Shuning uchun taqiq ushbu salbiy oqibatlarni kamaytirish uchun pragmatik yechim sifatida qaraladi.</p>\n\n<p>Aksincha, shaxsiy erkinlikni yoqlab chiqadiganlar, kattalar o'zlarining xohishlariga ko'ra tanlov qilish huquqiga ega bo'lishi kerak, hatto bu tanlovlar o'zida xavf tug'dirsa ham, deb hisoblaydi. Ular xavfli sport turlarini taqiqlash <mark>shaxsiy erkinlikni buzadi</mark> va sarguzasht ruhini bo'g'adi, deb ta'kidlaydilar. Bundan tashqari, ko'plab ishtirokchilar mavjud xavflardan yaxshi xabardor va ularni minimallashtirish uchun qat'iy choralarni ko'radi. Shaxsiy chegaralarni bosib o'tishdan olinadigan hayajon va muvaffaqiyat hissi bebaho hisoblanadi va taqiq shaxslarga <mark>ushbu chuqur mukofotlarni his qilish</mark> imkoniyatini bermaydi. Bundan tashqari, barcha potentsial xavflarga qarshi qonun chiqarishga urinish sirpanchiq yo'l bo'lib, keng ko'lamli faoliyatga asossiz cheklovlarga olib kelishi mumkin, deb ta'kidlanadi.</p>\n\n<p>Xulosa qilib aytganda, xavfsizlik va resurslarni taqsimlash bilan bog'liq xavotirlarning asosliligini tan olgan holda, men shaxslar xavfli sport turlarida ishtirok etish huquqini saqlab qolishi kerak, deb qat'iy ishonaman. Asosiy masala to'g'ridan-to'g'ri taqiqlashda emas, balki keng qamrovli xavfsizlik qoidalari, majburiy mashg'ulotlar va <mark>ishonchli sug'urta qoplamasi</mark> orqali mas'uliyatli ishtirokni rag'batlantirishda. To'liq taqiq haddan tashqari bo'lar edi, <mark>shaxsiy erkinlikni asossiz ravishda cheklab qo'yadi</mark> va insonning qiyinchilik va sarguzashtga bo'lgan istagini bo'g'adi. Oxir oqibat, shaxsiy erkinlikni mas'uliyatli xavfni boshqarish bilan muvozanatlashtiradigan <mark>nozik yondashuv</mark> eng maqbul harakatdir. <mark>Ushbu muvozanatni saqlash</mark> shaxslarga o'z ehtiroslarini amalga oshirishga imkon beradi, shu bilan birga zarar va ijtimoiy yuk ehtimolini minimallashtiradi. Shuning uchun e'tiborni umumiy cheklovlar o'rnatishdan ko'ra, <mark>xabardor qaror qabul qilishni kuchaytirishga</mark> qaratish kerak. <mark>Ushbu muvozanatli nuqtai nazar</mark> ham shaxsiy erkinliklarni, ham jamoat xavfsizligi zarurligini hurmat qiladi.</p>"
+   }
+  },
+  "source": "British Council",
+  "examDate": "2021-11-22",
+  "settings": {
+   "timeInfo": "60 Minutes",
+   "moduleTitle": "Academic Writing Module",
+   "testIdentifier": "Mock 05"
+  },
+  "vocabulary": {
+   "task1": [
+    {
+     "term": "Domestic responsibilities",
+     "meaning": "Tasks related to running a home, such as cleaning or cooking."
+    },
+    {
+     "term": "Striking",
+     "meaning": "Attracting attention or notice through being unusual or extreme."
+    },
+    {
+     "term": "Participation disparity",
+     "meaning": "A great difference in the level of involvement between groups."
+    },
+    {
+     "term": "Predominantly",
+     "meaning": "Mainly; for the most part."
+    },
+    {
+     "term": "Gender-neutral",
+     "meaning": "Suitable for or applicable to both men and women."
+    },
+    {
+     "term": "Expenditure",
+     "meaning": "The action of spending funds or, in this context, time."
+    },
+    {
+     "term": "Mirror",
+     "meaning": "To correspond to or reflect something else."
+    },
+    {
+     "term": "Notable exception",
+     "meaning": "A case that does not follow the general rule and is worth mentioning."
+    }
+   ],
+   "task2": [
+    {
+     "term": "Public safety vs. individual liberty",
+     "meaning": "The conflict between keeping society safe and maintaining personal freedom."
+    },
+    {
+     "term": "Personal autonomy",
+     "meaning": "The right or condition of self-government; making one's own choices."
+    },
+    {
+     "term": "Overreach of state authority",
+     "meaning": "When a government goes beyond its proper limits of power."
+    },
+    {
+     "term": "Paramount",
+     "meaning": "More important than anything else; supreme."
+    },
+    {
+     "term": "Strain on resources",
+     "meaning": "The excessive demand placed on money, personnel, or equipment."
+    },
+    {
+     "term": "Consenting adults",
+     "meaning": "People who have reached the age of maturity and agree to participate."
+    },
+    {
+     "term": "Stifle",
+     "meaning": "To prevent or constrain an activity or idea."
+    },
+    {
+     "term": "Hypothetical",
+     "meaning": "Based on a suggested idea or theory rather than actual fact."
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "Notably": {
+    "uz": "Ayniqsa",
+    "type": "linking"
+   },
+   "A lot of": {
+    "uz": "Ko'p",
+    "type": "lexical"
+   },
+   "might say": {
+    "uz": "aytishi mumkin",
+    "type": "lexical"
+   },
+   "In essence": {
+    "uz": "Aslida",
+    "type": "linking"
+   },
+   "In summary": {
+    "uz": "Xulosa qilib aytganda",
+    "type": "linking"
+   },
+   "On balance": {
+    "uz": "Umuman olganda",
+    "type": "linking"
+   },
+   "devoted to": {
+    "uz": "bag'ishlangan",
+    "type": "lexical"
+   },
+   "pretty much": {
+    "uz": "deyarli",
+    "type": "lexical"
+   },
+   "spend about": {
+    "uz": "taxminan sarflash",
+    "type": "lexical"
+   },
+   "would argue": {
+    "uz": "bahslashardi",
+    "type": "lexical"
+   },
+   "This entails": {
+    "uz": "Bu shuni anglatadi",
+    "type": "academic"
+   },
+   "often point to": {
+    "uz": "ko'pincha ...ga ishora qiladi",
+    "type": "lexical"
+   },
+   "stark disparity": {
+    "uz": "keskin nomuvofiqlik",
+    "type": "lexical"
+   },
+   "It is clear that": {
+    "uz": "Shu narsa aniqki",
+    "type": "linking"
+   },
+   "vastly exceeding": {
+    "uz": "ancha oshib ketmoqda",
+    "type": "lexical"
+   },
+   "dwarfing the mere": {
+    "uz": "oddiygina ...dan ancha katta",
+    "type": "lexical"
+   },
+   "even distribution": {
+    "uz": "teng taqsimlanish",
+    "type": "lexical"
+   },
+   "lead to a decline": {
+    "uz": "pasayishga olib keladi",
+    "type": "lexical"
+   },
+   "a nuanced approach": {
+    "uz": "nozik yondashuv",
+    "type": "academic"
+   },
+   "A balanced approach": {
+    "uz": "Muvozanatli yondashuv",
+    "type": "colloc"
+   },
+   "A notable disparity": {
+    "uz": "Sezilarli tafovut",
+    "type": "lexical"
+   },
+   "The figures suggest": {
+    "uz": "Raqamlar shuni ko'rsatadi",
+    "type": "academic"
+   },
+   "diverting resources": {
+    "uz": "resurslarni yo'naltirish",
+    "type": "academic"
+   },
+   "An overarching trend": {
+    "uz": "Umumiy tendensiya",
+    "type": "academic"
+   },
+   "in stark contrast to": {
+    "uz": "...ga keskin zid ravishda",
+    "type": "linking"
+   },
+   "while the figure for": {
+    "uz": "... uchun raqam",
+    "type": "lexical"
+   },
+   "make sure people know": {
+    "uz": "odamlarning bilishiga ishonch hosil qiling",
+    "type": "lexical"
+   },
+   "precautionary measure": {
+    "uz": "ehtiyot chorasi",
+    "type": "lexical"
+   },
+   "relatively comparable": {
+    "uz": "nisbatan taqqoslanadigan",
+    "type": "lexical"
+   },
+   "give information about": {
+    "uz": "... haqida ma'lumot berish",
+    "type": "lexical"
+   },
+   "The key lies in finding": {
+    "uz": "Yechimni topishda asosiy narsa",
+    "type": "lexical"
+   },
+   "accidents can result in": {
+    "uz": "baxtsiz hodisalar natijasida ... bo'lishi mumkin",
+    "type": "lexical"
+   },
+   "averaging approximately": {
+    "uz": "taxminan o'rtacha",
+    "type": "lexical"
+   },
+   "considerable 75 minutes": {
+    "uz": "ancha 75 daqiqa",
+    "type": "lexical"
+   },
+   "primarily a male domain": {
+    "uz": "asosan erkaklar sohasi",
+    "type": "lexical"
+   },
+   "allocated by each gender": {
+    "uz": "har bir jins tomonidan ajratilgan",
+    "type": "lexical"
+   },
+   "lead to serious injuries": {
+    "uz": "jiddiy jarohatlarga olib keladi",
+    "type": "lexical"
+   },
+   "saw a smaller difference": {
+    "uz": "kichikroq farqni ko'rdi",
+    "type": "lexical"
+   },
+   "Striking this equilibrium": {
+    "uz": "Ushbu muvozanatga erishish",
+    "type": "academic"
+   },
+   "This balanced perspective": {
+    "uz": "Ushbu muvozanatli nuqtai nazar",
+    "type": "lexical"
+   },
+   "illustrate the proportion": {
+    "uz": "nisbatni ko'rsatish",
+    "type": "academic"
+   },
+   "negligible amount of time": {
+    "uz": "juda oz vaqt",
+    "type": "lexical"
+   },
+   "robust insurance coverage": {
+    "uz": "mustahkam sug'urta qoplamasi",
+    "type": "colloc"
+   },
+   "Stringent safety standards": {
+    "uz": "Qattiq xavfsizlik standartlari",
+    "type": "colloc"
+   },
+   "if someone dies in a sport": {
+    "uz": "agar kimdir sportda vafot etsa",
+    "type": "lexical"
+   },
+   "This would strike a balance": {
+    "uz": "Bu muvozanatni o'rnatadi",
+    "type": "lexical"
+   },
+   "illustrate the proportion of": {
+    "uz": "...ning nisbatini ko'rsatish",
+    "type": "academic"
+   },
+   "unnecessary exposure to harm": {
+    "uz": "zararga keraksiz ta'sir",
+    "type": "lexical"
+   },
+   "more likely to be involved in": {
+    "uz": "...da ishtirok etish ehtimoli ko'proq",
+    "type": "lexical"
+   },
+   "infringes upon personal liberty": {
+    "uz": "shaxsiy erkinlikka tajovuz qiladi",
+    "type": "academic"
+   },
+   "Maybe there should be some rules": {
+    "uz": "Balki qoidalar bo'lishi kerakdir",
+    "type": "lexical"
+   },
+   "To deny people these experiences": {
+    "uz": "Odamlarni bu tajribalardan mahrum qilish",
+    "type": "lexical"
+   },
+   "more balanced participation rate": {
+    "uz": "muvozanatliroq ishtirok darajasi",
+    "type": "lexical"
+   },
+   "experience these profound rewards": {
+    "uz": "ushbu chuqur mukofotlarni his eting",
+    "type": "lexical"
+   },
+   "promote responsible participation": {
+    "uz": "mas'uliyatli ishtirokni targ'ib qilish",
+    "type": "lexical"
+   },
+   "mitigate the risks associated with": {
+    "uz": "... bilan bog'liq xavflarni kamaytirish",
+    "type": "academic"
+   },
+   "regardless of the associated risks": {
+    "uz": "bog'liq xavflarga qaramay",
+    "type": "lexical"
+   },
+   "empowering informed decision-making": {
+    "uz": "xabardor qaror qabul qilishni kuchaytirish",
+    "type": "academic"
+   },
+   "underscores traditional gender roles": {
+    "uz": "an'anaviy gender rollarini ta'kidlaydi",
+    "type": "lexical"
+   },
+   "unduly restricting personal autonomy": {
+    "uz": "shaxsiy avtonomiyani asossiz ravishda cheklash",
+    "type": "academic"
+   },
+   "like mountain climbing or racing cars": {
+    "uz": "tog'ga chiqish yoki poyga mashinalari kabi",
+    "type": "lexical"
+   },
+   "The time spent on other activities was": {
+    "uz": "Boshqa faoliyatlarga sarflangan vaqt",
+    "type": "lexical"
+   },
+   "To deprive individuals of these experiences": {
+    "uz": "Shaxslarni bu tajribalardan mahrum qilish",
+    "type": "lexical"
+   },
+   "underscores a traditional division of labor": {
+    "uz": "mehnatning an'anaviy taqsimotini ta'kidlaydi",
+    "type": "lexical"
+   },
+   "dedicated a significantly larger amount of time": {
+    "uz": "ancha ko'p vaqt ajratdi",
+    "type": "lexical"
+   },
+   "They enjoy the feeling of doing something exciting": {
+    "uz": "Ular hayajonli narsa qilish tuyg'usidan zavqlanadilar",
+    "type": "lexical"
+   },
+   "underscore the potential for severe injury or even death": {
+    "uz": "og'ir jarohatlar yoki hatto o'lim ehtimolini ta'kidlaydi",
+    "type": "lexical"
+   }
+  }
+ },
+ "created_at": "2026-05-06T17:28:31.563851+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

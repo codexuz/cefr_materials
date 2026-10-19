@@ -1,0 +1,1028 @@
+{
+ "id": 2257,
+ "mock_type": "ket-reading-writing",
+ "mock_number": 23,
+ "title": "KET Reading & Writing — Test 23",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "match-notices",
+    "items": [
+     {
+      "id": 1,
+      "answer": "C",
+      "prompt": "Some lorries cannot go under this."
+     },
+     {
+      "id": 2,
+      "answer": "A",
+      "prompt": "You cannot travel by these trains at the weekend."
+     },
+     {
+      "id": 3,
+      "answer": "F",
+      "prompt": "You must pay to leave your car here."
+     },
+     {
+      "id": 4,
+      "answer": "D",
+      "prompt": "Use this if you have to catch a plane."
+     },
+     {
+      "id": 5,
+      "answer": "G",
+      "prompt": "You may sit where you like."
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "E",
+     "number": 0,
+     "prompt": "You can leave your luggage here."
+    },
+    "notices": [
+     {
+      "text": "Western Railway\nWoodville Town – Drayton Park\nMonday – Friday only",
+      "letter": "A"
+     },
+     {
+      "text": "Bus to City Centre\nAdults £1.50\nChildren under 5 travel free",
+      "letter": "B"
+     },
+     {
+      "text": "ALL DRIVERS!\nBRIDGE ONLY 5 METRES HIGH",
+      "letter": "C"
+     },
+     {
+      "text": "Airport Bus\n8 am – 11.30 pm daily\n£15 return",
+      "letter": "D"
+     },
+     {
+      "text": "City Trains\nPlease put luggage bags\nbetween seats",
+      "letter": "E"
+     },
+     {
+      "text": "Hospital Parking\nfor visitors\n£2 per hour",
+      "letter": "F"
+     },
+     {
+      "text": "Choose any seat on the plane\nNo numbers on tickets",
+      "letter": "G"
+     },
+     {
+      "text": "Drive Slowly\nLorries Turning",
+      "letter": "H"
+     }
+    ],
+    "partNumber": 1,
+    "instruction": [
+     "Which notice (A–H) says this (1–5)?",
+     "For questions 1–5, mark the correct letter A–H on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "mcq-gap-fill-sentences",
+    "items": [
+     {
+      "id": 6,
+      "answer": "C",
+      "options": [
+       {
+        "text": "made",
+        "letter": "A"
+       },
+       {
+        "text": "joined",
+        "letter": "B"
+       },
+       {
+        "text": "practised",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Neil _____ ice-hockey every evening with his team."
+     },
+     {
+      "id": 7,
+      "answer": "B",
+      "options": [
+       {
+        "text": "earn",
+        "letter": "A"
+       },
+       {
+        "text": "win",
+        "letter": "B"
+       },
+       {
+        "text": "take",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Neil was an excellent player and his team soon began to _____ competitions."
+     },
+     {
+      "id": 8,
+      "answer": "A",
+      "options": [
+       {
+        "text": "difficult",
+        "letter": "A"
+       },
+       {
+        "text": "terrible",
+        "letter": "B"
+       },
+       {
+        "text": "worse",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Sometimes it was _____ for Neil to find enough time for both his ice-hockey and homework."
+     },
+     {
+      "id": 9,
+      "answer": "B",
+      "options": [
+       {
+        "text": "moved",
+        "letter": "A"
+       },
+       {
+        "text": "left",
+        "letter": "B"
+       },
+       {
+        "text": "passed",
+        "letter": "C"
+       }
+      ],
+      "sentence": "When he _____ school at sixteen, Neil went to a special sports college."
+     },
+     {
+      "id": 10,
+      "answer": "B",
+      "options": [
+       {
+        "text": "listen",
+        "letter": "A"
+       },
+       {
+        "text": "see",
+        "letter": "B"
+       },
+       {
+        "text": "look",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Now Neil is a famous ice-hockey player and you can often _____ him on television."
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "options": [
+      {
+       "text": "enjoyed",
+       "letter": "A"
+      },
+      {
+       "text": "wanted",
+       "letter": "B"
+      },
+      {
+       "text": "welcomed",
+       "letter": "C"
+      }
+     ],
+     "sentence": "Neil _____ to play ice-hockey even when he was a very small boy."
+    },
+    "partNumber": 2,
+    "instruction": [
+     "Read the sentences about an ice-hockey player.",
+     "Choose the best word (A, B or C) for each space.",
+     "For questions 6–10, mark A, B or C on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-response",
+    "items": [
+     {
+      "id": 11,
+      "answer": "C",
+      "prompt": "Is there any sugar?",
+      "options": [
+       {
+        "text": "Nothing.",
+        "letter": "A"
+       },
+       {
+        "text": "I need it.",
+        "letter": "B"
+       },
+       {
+        "text": "I'm afraid not.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "answer": "A",
+      "prompt": "Let's go to the concert tonight.",
+      "options": [
+       {
+        "text": "Have you got tickets?",
+        "letter": "A"
+       },
+       {
+        "text": "Who was playing?",
+        "letter": "B"
+       },
+       {
+        "text": "What's it about?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "answer": "C",
+      "prompt": "Can you carry these bags?",
+      "options": [
+       {
+        "text": "It doesn't matter.",
+        "letter": "A"
+       },
+       {
+        "text": "I'm fine, thanks.",
+        "letter": "B"
+       },
+       {
+        "text": "Well, I'll try.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "answer": "A",
+      "prompt": "Thanks for a lovely meal.",
+      "options": [
+       {
+        "text": "I enjoyed seeing you.",
+        "letter": "A"
+       },
+       {
+        "text": "I'll be ready soon.",
+        "letter": "B"
+       },
+       {
+        "text": "I don't want to come.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "answer": "B",
+      "prompt": "How is your mother?",
+      "options": [
+       {
+        "text": "She's 54.",
+        "letter": "A"
+       },
+       {
+        "text": "Much better, thanks.",
+        "letter": "B"
+       },
+       {
+        "text": "She's tall and beautiful.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "prompt": "Where do you come from?",
+     "options": [
+      {
+       "text": "New York.",
+       "letter": "A"
+      },
+      {
+       "text": "School.",
+       "letter": "B"
+      },
+      {
+       "text": "Home.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partLetter": "a",
+    "partNumber": 3,
+    "instruction": [
+     "Complete the five conversations.",
+     "For questions 11–15, mark A, B or C on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "type": "match-dialogue",
+    "items": [
+     {
+      "id": 16,
+      "answer": "F"
+     },
+     {
+      "id": 17,
+      "answer": "B"
+     },
+     {
+      "id": 18,
+      "answer": "H"
+     },
+     {
+      "id": 19,
+      "answer": "A"
+     },
+     {
+      "id": 20,
+      "answer": "D"
+     }
+    ],
+    "example": {
+     "answer": "E",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "She'll love them.",
+      "letter": "A"
+     },
+     {
+      "text": "Did you want to go anywhere special?",
+      "letter": "B"
+     },
+     {
+      "text": "How did they get there?",
+      "letter": "C"
+     },
+     {
+      "text": "Well, at least you've got them now.",
+      "letter": "D"
+     },
+     {
+      "text": "Great, thanks. What about yours?",
+      "letter": "E"
+     },
+     {
+      "text": "Did you have trouble with your car again?",
+      "letter": "F"
+     },
+     {
+      "text": "She'll help you find them.",
+      "letter": "G"
+     },
+     {
+      "text": "So did you get her anything in the end?",
+      "letter": "H"
+     }
+    ],
+    "dialogue": [
+     {
+      "line": "Hi Anita. How was your weekend?",
+      "speaker": "Ivan"
+     },
+     {
+      "gap": 0,
+      "speaker": "Anita"
+     },
+     {
+      "line": "OK, but I had a bit of a problem on Saturday.",
+      "speaker": "Ivan"
+     },
+     {
+      "gap": 16,
+      "speaker": "Anita"
+     },
+     {
+      "line": "In a way. I couldn't find my keys.",
+      "speaker": "Ivan"
+     },
+     {
+      "gap": 17,
+      "speaker": "Anita"
+     },
+     {
+      "line": "Only to the shops. I needed a birthday present for my mum.",
+      "speaker": "Ivan"
+     },
+     {
+      "gap": 18,
+      "speaker": "Anita"
+     },
+     {
+      "line": "I bought some chocolates from the local shop. Do you think that'll be OK?",
+      "speaker": "Ivan"
+     },
+     {
+      "gap": 19,
+      "speaker": "Anita"
+     },
+     {
+      "line": "I hope so! I found my car keys this morning. They were in the bathroom.",
+      "speaker": "Ivan"
+     },
+     {
+      "gap": 20,
+      "speaker": "Anita"
+     },
+     {
+      "line": "Yes, so I can drive you home, if you like.",
+      "speaker": "Ivan"
+     }
+    ],
+    "partLetter": "b",
+    "partNumber": 3,
+    "instruction": [
+     "Complete the conversation between two friends.",
+     "What does Anita say to Ivan?",
+     "For questions 16–20, mark the correct letter A–H on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "type": "mcq-passage-stems",
+    "items": [
+     {
+      "id": 21,
+      "answer": "B",
+      "prompt": "What was the first job Ravi wanted to have when he was younger?",
+      "options": [
+       {
+        "text": "footballer",
+        "letter": "A"
+       },
+       {
+        "text": "pilot",
+        "letter": "B"
+       },
+       {
+        "text": "singer",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 22,
+      "answer": "C",
+      "prompt": "What did Ravi's boss at Rock TV say about him?",
+      "options": [
+       {
+        "text": "Ravi asked for a job at Rock TV more than once.",
+        "letter": "A"
+       },
+       {
+        "text": "There were other people better than Ravi.",
+        "letter": "B"
+       },
+       {
+        "text": "Ravi showed him how much he wanted the job.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 23,
+      "answer": "A",
+      "prompt": "How has Ravi's work changed?",
+      "options": [
+       {
+        "text": "He no longer begins very early.",
+        "letter": "A"
+       },
+       {
+        "text": "He is busier than before.",
+        "letter": "B"
+       },
+       {
+        "text": "He doesn't stay late at the office.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 24,
+      "answer": "C",
+      "prompt": "In the mornings, Ravi often",
+      "options": [
+       {
+        "text": "works on Rock TV advertisements.",
+        "letter": "A"
+       },
+       {
+        "text": "meets important people at his office.",
+        "letter": "B"
+       },
+       {
+        "text": "decides what to say on his programme.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 25,
+      "answer": "B",
+      "prompt": "What does Ravi think is the most important thing about the show?",
+      "options": [
+       {
+        "text": "It has lots of interesting stars.",
+        "letter": "A"
+       },
+       {
+        "text": "There is great music.",
+        "letter": "B"
+       },
+       {
+        "text": "He is popular with the guests.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 26,
+      "answer": "A",
+      "prompt": "What problem does Ravi sometimes have on the Rock TV show?",
+      "options": [
+       {
+        "text": "He forgets people's names.",
+        "letter": "A"
+       },
+       {
+        "text": "He cannot stop laughing.",
+        "letter": "B"
+       },
+       {
+        "text": "His questions make people angry.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 27,
+      "answer": "B",
+      "prompt": "Ravi would like to spend more time",
+      "options": [
+       {
+        "text": "in the mountains.",
+        "letter": "A"
+       },
+       {
+        "text": "with his friends.",
+        "letter": "B"
+       },
+       {
+        "text": "listening to music.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 4",
+    "article": "In 2006, Ravi Patra started working for a music company and three years later, in 2009, got a job on the music television channel Rock TV.\n\nRavi enjoys working on television, but when he was younger he wanted to fly planes. Later, he became more interested in football. But Ravi has always loved music, so he tried to get work with Rock TV. His boss says he gave him the job because he wanted it more than anybody else!\n\nWhen he started at Rock TV, Ravi arrived first at the office and was the last to leave at 10 in the evening. Now, he starts a bit later, but he is still busy until 10 pm. Before lunch, he usually writes his words for the show and in the afternoon he has meetings or makes Rock TV advertisements.\n\nRavi has many popular bands on his show and the stars are often interesting people. But Ravi knows that everyone watches the show to hear great music. Getting that right is more important than anything else.\n\nRavi knows what questions to ask the band members. He tries to make them laugh and this is easy for him. Sometimes he cannot remember their names but he always has information about the bands to help him.\n\nSadly, his work means that he doesn't see his friends enough, but he has great fun on skiing trips and listens to music all the time.",
+    "example": {
+     "answer": "C",
+     "number": 0,
+     "prompt": "Ravi Patra started working with Rock TV in",
+     "options": [
+      {
+       "text": "2003.",
+       "letter": "A"
+      },
+      {
+       "text": "2006.",
+       "letter": "B"
+      },
+      {
+       "text": "2009.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partNumber": 4,
+    "instruction": [
+     "Read the article about Ravi Patra, who works on music programmes on television, and then answer the questions.",
+     "For questions 21–27, mark A, B or C on your answer sheet."
+    ],
+    "articleTitle": "Ravi Patra",
+    "questionsLabel": "QUESTIONS 21–27"
+   },
+   {
+    "type": "mcq-cloze-passage",
+    "items": [
+     {
+      "id": 28,
+      "answer": "A",
+      "options": [
+       {
+        "text": "by",
+        "letter": "A"
+       },
+       {
+        "text": "for",
+        "letter": "B"
+       },
+       {
+        "text": "with",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 29,
+      "answer": "C",
+      "options": [
+       {
+        "text": "his",
+        "letter": "A"
+       },
+       {
+        "text": "your",
+        "letter": "B"
+       },
+       {
+        "text": "their",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 30,
+      "answer": "A",
+      "options": [
+       {
+        "text": "too",
+        "letter": "A"
+       },
+       {
+        "text": "very",
+        "letter": "B"
+       },
+       {
+        "text": "only",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 31,
+      "answer": "C",
+      "options": [
+       {
+        "text": "good",
+        "letter": "A"
+       },
+       {
+        "text": "better",
+        "letter": "B"
+       },
+       {
+        "text": "best",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 32,
+      "answer": "B",
+      "options": [
+       {
+        "text": "since",
+        "letter": "A"
+       },
+       {
+        "text": "during",
+        "letter": "B"
+       },
+       {
+        "text": "until",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 33,
+      "answer": "B",
+      "options": [
+       {
+        "text": "on",
+        "letter": "A"
+       },
+       {
+        "text": "in",
+        "letter": "B"
+       },
+       {
+        "text": "at",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 34,
+      "answer": "A",
+      "options": [
+       {
+        "text": "which",
+        "letter": "A"
+       },
+       {
+        "text": "what",
+        "letter": "B"
+       },
+       {
+        "text": "where",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 35,
+      "answer": "C",
+      "options": [
+       {
+        "text": "another",
+        "letter": "A"
+       },
+       {
+        "text": "both",
+        "letter": "B"
+       },
+       {
+        "text": "other",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 5",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "options": [
+      {
+       "text": "called",
+       "letter": "A"
+      },
+      {
+       "text": "calling",
+       "letter": "B"
+      },
+      {
+       "text": "calls",
+       "letter": "C"
+      }
+     ]
+    },
+    "passage": "Mount Fuji is {0} Fujisan in Japan. It is 3776 metres high and is visited {28} people from all over the world. It is a very beautiful mountain and many artists have used it in {29} work.\n\nIt is sometimes possible to see Mount Fuji from Tokyo, but often the weather is {30} cloudy to see it clearly. The {31} time to see the mountain is {32} the colder months of the year, and {33} the early morning and late evening.\n\nA very pleasant place to enjoy Mount Fuji from is Fuji Five Lake (Fujigoko), {34} is just north of the mountain. Mount Fuji is open for climbing in July and August, but not at {35} times of the year.",
+    "partNumber": 5,
+    "instruction": [
+     "Read the article about a mountain in Japan.",
+     "Choose the best word (A, B or C) for each space.",
+     "For questions 28–35, mark A, B or C on your answer sheet."
+    ],
+    "passageTitle": "Mount Fuji",
+    "questionsLabel": "QUESTIONS 28–35"
+   },
+   {
+    "type": "vocab-first-letter",
+    "items": [
+     {
+      "id": 36,
+      "answer": "shower",
+      "prompt": "People stand under this to wash themselves.",
+      "letters": 6,
+      "firstLetter": "s"
+     },
+     {
+      "id": 37,
+      "answer": "window",
+      "prompt": "If this is large, the bathroom will have lots of light when it is sunny.",
+      "letters": 6,
+      "firstLetter": "w"
+     },
+     {
+      "id": 38,
+      "answer": "shampoo",
+      "prompt": "People wash their hair with this.",
+      "letters": 7,
+      "firstLetter": "s"
+     },
+     {
+      "id": 39,
+      "answer": "mirror",
+      "prompt": "You can look at yourself in this.",
+      "letters": 6,
+      "firstLetter": "m"
+     },
+     {
+      "id": 40,
+      "answer": "soap",
+      "prompt": "If your hands are dirty, you can wash them with this.",
+      "letters": 4,
+      "firstLetter": "s"
+     }
+    ],
+    "label": "PART 6",
+    "example": {
+     "answer": "comb",
+     "number": 0,
+     "prompt": "You can use this to tidy your hair.",
+     "firstLetter": "c"
+    },
+    "partNumber": 6,
+    "instruction": [
+     "Read the descriptions of some things in a bathroom.",
+     "What is the word for each one?",
+     "The first letter is already there. There is one space for each other letter in the word.",
+     "For questions 36–40, write the words on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 36–40"
+   },
+   {
+    "type": "open-cloze-letter",
+    "items": [
+     {
+      "id": 41,
+      "answer": "to"
+     },
+     {
+      "id": 42,
+      "answer": "where"
+     },
+     {
+      "id": 43,
+      "answer": "Can"
+     },
+     {
+      "id": 44,
+      "answer": "are"
+     },
+     {
+      "id": 45,
+      "answer": "because"
+     },
+     {
+      "id": 46,
+      "answer": "my"
+     },
+     {
+      "id": 47,
+      "answer": "a"
+     },
+     {
+      "id": 48,
+      "answer": "it"
+     },
+     {
+      "id": 49,
+      "answer": "Is"
+     },
+     {
+      "id": 50,
+      "answer": "next"
+     }
+    ],
+    "label": "PART 7",
+    "example": {
+     "answer": "you",
+     "number": 0
+    },
+    "letters": [
+     {
+      "body": "I heard that (Example: you) want to sell your bike.\n\nIs it OK {41} come and see the bike after college on Thursday? I don't know {42} you live. {43} you give me your address? I'd also like to know why you {44} selling it.",
+      "header": "From: Danny\nTo:   Ali",
+      "closing": "",
+      "greeting": ""
+     },
+     {
+      "body": "I decided to sell the old bike {45} I got a motorbike for {46} birthday. The bike is {47} few years old but I'm sure you'll like {48}.\n\nI won't be at home on Thursday – I play football then and I don't get back until late. What about coming on Friday instead? {49} that a good day for you?\n\nI live at 35 Portland Road, {50} to the library.",
+      "header": "From: Ali\nTo:   Danny",
+      "closing": "",
+      "greeting": ""
+     }
+    ],
+    "partNumber": 7,
+    "instruction": [
+     "Complete the emails.",
+     "Write ONE word for each space.",
+     "For questions 41–50, write the words on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 41–50"
+   },
+   {
+    "note": {
+     "body": "",
+     "dateLine": "",
+     "signature": ""
+    },
+    "rows": [
+     {
+      "label": "Customer's name:",
+      "prefilled": "Tom Peters"
+     },
+     {
+      "id": 51,
+      "label": "Daytime phone number:",
+      "answer": "553905"
+     },
+     {
+      "id": 52,
+      "label": "Course name:",
+      "answer": "Speaking Plus"
+     },
+     {
+      "id": 53,
+      "label": "Language:",
+      "answer": "Spanish"
+     },
+     {
+      "id": 54,
+      "label": "Level:",
+      "answer": "Level 2"
+     },
+     {
+      "id": 55,
+      "label": "Price:",
+      "answer": "35.00",
+      "suffix": "£"
+     }
+    ],
+    "type": "info-transfer-notes",
+    "label": "PART 8",
+    "notice": {
+     "body": "Smith's Bookshop\nBook & DVD Language Courses\n\nCourses:  Talking Time   Speaking Plus\n          Spanish        Japanese\n          French         Spanish\n\nPrices:\nLevel 1:  £28.00         £30.00\nLevel 2:  £32.00         £35.00\n\n—————————————\nFrom: Tom Peters\nTo:   Jane Brown\n\nMy French course finished last week and I've just started learning Spanish. My teacher says the Speaking Plus course is the best. She can give me Level 1 so can you order Level 2 for me at the bookshop?\n\nI'm at work until 6 pm. Ring me there (553905) or phone me this evening on 020 7865 4436.",
+     "title": "Smith's Bookshop + Email"
+    },
+    "notesTitle": "Smith's Bookshop",
+    "partNumber": 8,
+    "instruction": [
+     "Read the advertisement and the email.",
+     "Fill in the information on the form.",
+     "For questions 51–55, write the information on your answer sheet."
+    ],
+    "notesSubtitle": "Order Form",
+    "questionsLabel": "QUESTIONS 51–55"
+   },
+   {
+    "type": "writing-postcard",
+    "items": [
+     {
+      "id": 56,
+      "type": "free-text",
+      "answer": "Hi Elena,\nSaturday night, there is a big concert in Nantes\nDo you want to go there with me?\nIt starts at 8:00 pm and a ticket cost £6.\nI hope you'll come.\nSee you later.",
+      "maxWords": 35,
+      "minWords": 25
+     }
+    ],
+    "label": "PART 9",
+    "footer": [
+     "Write 25–35 words.",
+     "Write the email on your answer sheet."
+    ],
+    "prompt": "There is going to be a concert in the town where you live. Write an email to your English friend, Elena.",
+    "wordCount": "25–35 words",
+    "partNumber": 9,
+    "instruction": [
+     "There is going to be a concert in the town where you live. Write an email to your English friend, Elena.",
+     "• ask her to come to the concert.",
+     "• tell her when the concert is.",
+     "• say how much the tickets are."
+    ],
+    "questionsLabel": "QUESTION 56",
+    "promptSignature": ""
+   }
+  ],
+  "testInfo": {
+   "id": "ket-rw-23",
+   "level": "A2",
+   "paper": "Paper 1",
+   "parts": 9,
+   "title": "KET Reading & Writing — Test 23",
+   "totalTime": 70,
+   "totalQuestions": 56
+  }
+ },
+ "created_at": "2026-10-14T06:45:12.06508+00:00",
+ "updated_at": "2026-10-14T06:46:59.385445+00:00"
+}

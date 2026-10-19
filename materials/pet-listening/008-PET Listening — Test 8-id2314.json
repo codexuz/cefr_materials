@@ -1,0 +1,414 @@
+{
+ "id": 2314,
+ "mock_type": "pet-listening",
+ "mock_number": 8,
+ "title": "PET Listening — Test 8",
+ "status": "published",
+ "mock_data": {
+  "audio": {
+   "base": "https://audio.mock-stream.com/PET-Listening/test8/",
+   "files": {
+    "1": "PART1.m4a",
+    "2": "PART2.m4a",
+    "3": "PART3.m4a",
+    "4": "PART4.m4a"
+   }
+  },
+  "parts": [
+   {
+    "type": "picture-mcq",
+    "items": [
+     {
+      "id": 1,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q1A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q1B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q1C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Where are the woman's glasses?"
+     },
+     {
+      "id": 2,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q2A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q2B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q2C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What damage was done to the car?"
+     },
+     {
+      "id": 3,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q3A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q3B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q3C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What did she bring?"
+     },
+     {
+      "id": 4,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q4A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q4B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q4C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What did Sally buy?"
+     },
+     {
+      "id": 5,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q5A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q5B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q5C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Where are the man and his grandma?"
+     },
+     {
+      "id": 6,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q6A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q6B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q6C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What would John like to be?"
+     },
+     {
+      "id": 7,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q7A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q7B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q7C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Which pianist are the two people talking about?"
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "options": [
+      {
+       "text": "(example pictures — student sees A as worked example)",
+       "letter": "A"
+      },
+      {
+       "text": "",
+       "letter": "B"
+      },
+      {
+       "text": "",
+       "letter": "C"
+      }
+     ],
+     "question": "What's the time?"
+    },
+    "imageBase": "https://audio.mock-stream.com/PET-Listening/test8/p1/",
+    "partNumber": 1,
+    "instruction": [
+     "There are seven questions in this part.",
+     "For each question there are three pictures and a short recording.",
+     "Choose the correct picture and put a tick (✓) in the box below it."
+    ],
+    "questionsLabel": "QUESTIONS 1–7"
+   },
+   {
+    "type": "mcq-conversation",
+    "items": [
+     {
+      "id": 8,
+      "stem": "The speaker says that fashion now interests",
+      "answer": "C",
+      "options": [
+       {
+        "text": "rich people.",
+        "letter": "A"
+       },
+       {
+        "text": "young people.",
+        "letter": "B"
+       },
+       {
+        "text": "most people.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 9,
+      "stem": "Fashion clothes which were made before the 1900s were",
+      "answer": "A",
+      "options": [
+       {
+        "text": "individually made.",
+        "letter": "A"
+       },
+       {
+        "text": "copied from pictures.",
+        "letter": "B"
+       },
+       {
+        "text": "made of light material.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 10,
+      "stem": "Coco Chanel",
+      "answer": "B",
+      "options": [
+       {
+        "text": "was born in 1908.",
+        "letter": "A"
+       },
+       {
+        "text": "changed people's ideas about fashion.",
+        "letter": "B"
+       },
+       {
+        "text": "liked wearing tight-fitting clothes.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 11,
+      "stem": "In the 1920s",
+      "answer": "B",
+      "options": [
+       {
+        "text": "white skirts were fashionable.",
+        "letter": "A"
+       },
+       {
+        "text": "clothes started to cost less.",
+        "letter": "B"
+       },
+       {
+        "text": "women took up sports.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "stem": "Which of these was part of the 'New Look'?",
+      "answer": "C",
+      "options": [
+       {
+        "text": "material with flowers",
+        "letter": "A"
+       },
+       {
+        "text": "very short skirts",
+        "letter": "B"
+       },
+       {
+        "text": "longer skirts",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "stem": "The speaker is introducing an exhibition of",
+      "answer": "B",
+      "options": [
+       {
+        "text": "clothes that are very old.",
+        "letter": "A"
+       },
+       {
+        "text": "fashion for the future.",
+        "letter": "B"
+       },
+       {
+        "text": "pictures of today's fashions.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 2",
+    "partNumber": 2,
+    "instruction": [
+     "You will hear a talk given to visitors to a fashion museum.",
+     "For each question, put a tick (✓) in the correct box."
+    ],
+    "questionsLabel": "QUESTIONS 8–13"
+   },
+   {
+    "rows": [
+     {
+      "id": 14,
+      "label": "In 1952 family moved to",
+      "answer": "north-west"
+     },
+     {
+      "id": 15,
+      "label": "At school with Jack Peters, the famous",
+      "answer": "poet"
+     },
+     {
+      "id": 16,
+      "label": "Wrote some",
+      "answer": "short stories",
+      "suffix": "while still at school"
+     },
+     {
+      "id": 17,
+      "label": "During the early 1970s worked as a",
+      "answer": "waitress"
+     },
+     {
+      "id": 18,
+      "label": "The film called",
+      "answer": "City Life",
+      "suffix": "won a prize at a French Film Festival"
+     },
+     {
+      "id": 19,
+      "label": "Now has",
+      "answer": "24",
+      "suffix": "plays in print"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 3",
+    "noteTitle": "Tanya Perry · Born in London in 1948",
+    "partNumber": 3,
+    "instruction": [
+     "You will hear a man talking about Tanya Perry's life.",
+     "For each question, fill in the missing information in the numbered space."
+    ],
+    "questionsLabel": "QUESTIONS 14–19"
+   },
+   {
+    "type": "true-false",
+    "items": [
+     {
+      "id": 20,
+      "answer": "B",
+      "statement": "The man wants to spend the evening at home."
+     },
+     {
+      "id": 21,
+      "answer": "A",
+      "statement": "The woman suggests they hire a video."
+     },
+     {
+      "id": 22,
+      "answer": "B",
+      "statement": "They both want to see something light."
+     },
+     {
+      "id": 23,
+      "answer": "A",
+      "statement": "The woman only likes to see a film once."
+     },
+     {
+      "id": 24,
+      "answer": "A",
+      "statement": "In the end they decide to watch a video."
+     },
+     {
+      "id": 25,
+      "answer": "A",
+      "statement": "The man offers to prepare some food."
+     }
+    ],
+    "label": "PART 4",
+    "scenario": "A man and a woman at home — planning evening entertainment",
+    "partNumber": 4,
+    "instruction": [
+     "Look at the six sentences for this part.",
+     "You will hear a conversation between a man and a woman at home.",
+     "Decide if each sentence is correct or incorrect.",
+     "If it is correct, put a tick (✓) in the box under A for YES. If it is not correct, put a tick (✓) in the box under B for NO."
+    ],
+    "questionsLabel": "QUESTIONS 20–25"
+   }
+  ],
+  "testInfo": {
+   "id": "pet-l-08",
+   "level": "B1",
+   "paper": "Paper 2 · Listening",
+   "parts": 4,
+   "title": "PET Listening — Test 8",
+   "totalTime": 35,
+   "totalQuestions": 25
+  }
+ },
+ "created_at": "2026-10-14T06:45:52.49316+00:00",
+ "updated_at": "2026-10-14T06:47:38.315848+00:00"
+}

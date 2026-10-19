@@ -1,0 +1,557 @@
+{
+ "id": 21,
+ "mock_type": "cefr-writing",
+ "mock_number": 11,
+ "title": "CEFR Writing Mock 11",
+ "status": "published",
+ "mock_data": {
+  "part1": {
+   "chip": "education",
+   "topic": "School Council"
+  },
+  "tasks": {
+   "t2": {
+    "chip": "education",
+    "genre": "article",
+    "title": "Schools require students to wear uniforms",
+    "prompt": "A student magazine announced an article writing contest. The topic is: \"Should schools require students to wear uniforms?\" Write your article, giving reasons and examples.",
+    "sample": "<h2>The Great Uniform Debate: Freedom vs. Unity</h2>\n\n<p>The question of whether schools <span class=\"ml-token modal\">should</span> mandate uniforms has sparked <span class=\"ml-token colloc\">endless discussions</span> among students, parents, and educators alike. Both sides present <span class=\"ml-token colloc\">compelling arguments</span>.</p>\n\n<p><span class=\"ml-token adv\">Undeniably</span>, school uniforms offer <span class=\"ml-token colloc\">significant advantages</span>. They create a sense of <span class=\"ml-token colloc\">unity and belonging</span>, helping students focus on learning rather than fashion. <span class=\"ml-token adv\">Moreover</span>, uniforms eliminate <span class=\"ml-token colloc\">socioeconomic distinctions</span>, as all students dress similarly regardless of their family's <span class=\"ml-token colloc\">financial background</span>.</p>\n\n<p>However, critics argue that uniforms <span class=\"ml-token phrasal\">stifle</span> <span class=\"ml-token colloc\">self-expression</span>. Teenagers, in particular, are at a stage where developing their <span class=\"ml-token colloc\">personal identity</span> is crucial. Forcing them into identical clothing <span class=\"ml-token modal\">might</span> hinder this <span class=\"ml-token colloc\">natural process</span>.</p>\n\n<p><span class=\"ml-token adv\">Furthermore</span>, the cost of uniforms <span class=\"ml-token modal\">can</span> be a burden for some families, especially when specific items must be purchased from <span class=\"ml-token colloc\">designated suppliers</span>.</p>\n\n<p><span class=\"ml-token adv\">Ultimately</span>, a <span class=\"ml-token colloc\">middle ground</span> <span class=\"ml-token modal\">might</span> be the solution. Schools <span class=\"ml-token modal\">could</span> implement a basic dress code that maintains <span class=\"ml-token colloc\">professional standards</span> while allowing some <span class=\"ml-token colloc\">personal choice</span>. This way, both unity and individuality <span class=\"ml-token modal\">can</span> coexist harmoniously.</p>",
+    "target": "180–200 words",
+    "sampleA1": "<p>Hi!<br>I like uniform. It is easy. No think. Uniform is good. Bye.</p>",
+    "sampleA2": "<p>Hello,<br>I think uniform is okay. It is easy to wear. But I want to wear my own clothes. My clothes are nice and I like them. Uniform is boring because it is the same every day. Maybe no uniform on Friday? That would be good. Thank you.<br>Bye.</p>",
+    "sampleB1": "<p>Should we have uniforms at school? I think it's a difficult question. On one hand, uniforms can be good because everyone looks the same. This means that people might not judge each other based on their clothes. Also, it's easier to decide what to wear in the morning! <br><br>However, I also think that uniforms stop us from showing our personality. We all want to be different and express ourselves, and clothes are a good way to do that. Maybe we could have a dress code instead of a strict uniform? That way, we could still have some rules but also have some freedom to choose our own style. In my opinion, a dress code is a good compromise.<br><br>Thank you for reading.</p>",
+    "sampleB2": "To Wear or Not to Wear?\nFew topics divide a school quite like the humble uniform. Should students be made to wear one, or should they be free to dress as they please? It is a debate that never seems to go away.\nSupporters of uniforms <span class=\"ml-token idiom\">make a strong case</span>. When everyone wears the same outfit, nobody <span class=\"ml-token phrasal\">stands out</span> for the wrong reasons, and expensive brands lose their power to divide us. A uniform also <span class=\"ml-token phrasal\">puts an end to</span> the daily struggle of choosing an outfit, letting students focus on their lessons instead of their looks.\nOn the other hand, critics argue that uniforms <span class=\"ml-token phrasal\">stamp out</span> <span class=\"ml-token colloc\">individuality</span>. For teenagers, clothes are a way of showing who they are, and a rigid dress code can <span class=\"ml-token colloc\">feel stifling</span>. <span class=\"ml-token linking\">What's more</span>, buying specific items from set suppliers can <span class=\"ml-token idiom\">hit family budgets hard</span>.\nSo where does that leave us? In my view, the answer <span class=\"ml-token idiom\">lies somewhere in the middle</span>. A simple dress code, topped up with the odd free-dress day, would keep things fair while giving students <span class=\"ml-token idiom\">room to breathe</span>. That way, everyone wins.",
+    "uzSample": "<h2>Forma masalasi: Erkinlik va birlik</h2>\n\n<p>Maktablar forma kiyishni majburiy qilish kerakmi degan savol talabalar, ota-onalar va o'qituvchilar o'rtasida tinimsiz bahslarga sabab bo'ldi. Ikkala tomon ham ishonarli dalillarni keltirmoqda.</p>\n\n<p>Shubhasiz, maktab formalari sezilarli afzalliklarni taqdim etadi. Ular birlik va mansublik tuyg'usini yaratadi, bu esa talabalarga moda emas, balki o'qishga e'tibor qaratishga yordam beradi. Bundan tashqari, formalar ijtimoiy-iqtisodiy farqlarni yo'q qiladi, chunki barcha talabalar oilasining moliyaviy ahvolidan qat'i nazar, bir xil kiyinadi.</p>\n\n<p>Biroq, tanqidchilarning ta'kidlashicha, formalar o'zini ifoda etishni cheklaydi. Ayniqsa, o'smirlar o'z shaxsiyatini rivojlantirish muhim bo'lgan bosqichda bo'ladi. Ularni bir xil kiyim kiyishga majburlash bu tabiiy jarayonga to'sqinlik qilishi mumkin.</p>\n\n<p>Bundan tashqari, formalar narxi ba'zi oilalar uchun, ayniqsa, muayyan narsalarni belgilangan yetkazib beruvchilardan sotib olish kerak bo'lganda, og'irlik qilishi mumkin.</p>\n\n<p>Oxir oqibat, o'rtacha yo'l yechim bo'lishi mumkin. Maktablar professional standartlarni saqlab qolgan holda, shaxsiy tanlovga imkon beradigan asosiy kiyim kodini joriy qilishi mumkin. Shu tarzda, ham birlik, ham individuallik uyg'un tarzda mavjud bo'lishi mumkin.</p>",
+    "uzSampleA1": "<p>Salom!<br>Menga forma yoqadi. Bu oson. O'ylash yo'q. Forma yaxshi. Xayr.</p>",
+    "uzSampleA2": "<p>Salom,<br>Menimcha, forma yaxshi. Uni kiyish oson. Lekin men o'z kiyimlarimni kiyishni xohlayman. Mening kiyimlarim chiroyli va menga yoqadi. Forma zerikarli, chunki u har kuni bir xil. Balki jumada forma bo'lmasligi kerak? Bu yaxshi bo'lardi. Rahmat.<br>Xayr.</p>",
+    "uzSampleB1": "<p>Maktabda forma kiyishimiz kerakmi? Menimcha, bu qiyin savol. Bir tomondan, forma yaxshi bo'lishi mumkin, chunki hamma bir xil ko'rinadi. Bu odamlar bir-birini kiyimlari asosida baholamasligi mumkin degani. Bundan tashqari, ertalab nima kiyishni hal qilish osonroq!<br><br>Biroq, menimcha, forma bizning shaxsiyatimizni ko'rsatishimizga ham to'sqinlik qiladi. Hammamiz har xil bo'lishni va o'zimizni ifoda etishni xohlaymiz va kiyimlar buni qilishning yaxshi usuli. Balki qattiq forma o'rniga kiyim kodi bo'lishi mumkin? Shunday qilib, bizda hali ham ba'zi qoidalar bo'lishi mumkin, lekin o'z uslubimizni tanlashda ham erkinlikka ega bo'lishimiz mumkin. Mening fikrimcha, kiyim kodi yaxshi murosadir.<br><br>O'qiganingiz uchun rahmat.</p>",
+    "uzSampleB2": "<p>Maktab formasi atrofidagi bahslar talabalar uchun dolzarb mavzu bo'lib qolmoqda. Hozirgi tizimni saqlab qolish foydasiga dalillar mavjud bo'lsa-da, menimcha, yanada moslashuvchan yondashuv oxir-oqibatda talabalar manfaatiga xizmat qiladi.<br><br>Forma tarafdorlari ko'pincha ularning tenglikni targ'ib qilish va diqqatni chalg'ituvchi omillarni kamaytirish qobiliyatini ta'kidlaydilar. Trendlarga moslashish bosimini yo'qotish orqali talabalar o'qishga ko'proq e'tibor qaratishlari mumkin. Bundan tashqari, forma hamjamiyat va mansublik tuyg'usini rivojlantirishi mumkin. Biroq, bu afzalliklar o'z narxiga ega.<br><br>Talabalardan bir xil kiyim kiyishni talab qilish individuallik va o'zini ifoda etishni bo'g'adi. O'smirlik - bu shaxsiyatni rivojlantirish uchun muhim davr va kiyim bu jarayonda muhim rol o'ynaydi. Bundan tashqari, muayyan forma buyumlarini sotib olishning moliyaviy yuklamasi ba'zi oilalar uchun sezilarli bo'lishi mumkin.<br><br>Potensial yechim professional ko'rinishni saqlab qolgan holda, shaxsiy tanlovga imkon beradigan erkin kiyim kodi bo'lishi mumkin. Bu talabalarga raqobat muhitini yaratmasdan, o'zlarini ijodiy ifoda etishga imkon beradi. Oxir-oqibat, maqsad inklyuziv va individual farqlarga hurmat bilan munosabatda bo'ladigan ta'lim muhitini yaratish bo'lishi kerak.</p>"
+   },
+   "t11": {
+    "title": "informal message · to classmate",
+    "prompt": "Write a message to your classmate about the uniform policy review. Share your opinion and ask what they think.",
+    "sample": "Hey!\n\nDid you hear about the <span class=\"ml-token colloc\">uniform review</span>? I'm <span class=\"ml-token adv\">honestly</span> hoping they <span class=\"ml-token modal\">will</span> relax the rules a bit. It <span class=\"ml-token modal\">would</span> be nice to have <span class=\"ml-token colloc\">casual Fridays</span> or something! I think expressing our <span class=\"ml-token colloc\">personal style</span> <span class=\"ml-token modal\">could</span> make school more fun. What's your take on this? Do you prefer keeping the uniform?\n\nLet me know!\n",
+    "target": "50–70 words",
+    "sampleA1": "<p>Hi Kamola,<br>School uniform? I like uniform. It is easy. You like uniform?</p><p>Bye!</p>",
+    "sampleA2": "<p>Hi Kamola,<br>The school wants to change the uniform. I don't like it. I like the uniform now. It's good. What do you think? Do you like new uniform? Tell me!</p>",
+    "sampleB1": "<p>Hi Kamola,<br>Have you heard about the uniform policy review? I'm not sure what I think. I mean, the uniform is easy, but it's also a bit boring. I think it would be cool if we could have some days with no uniform. What do you think about it? Do you want to change the uniform, or do you prefer to keep it the same?</p><p>Let me know!</p>",
+    "sampleB2": "Hey Kamola!\nDid you see the note about the <span class=\"ml-token colloc\">uniform review</span>? <span class=\"ml-token adv\">Honestly</span>, I'm <span class=\"ml-token idiom\">all for</span> relaxing the rules a bit. The current one is easy, but it gets a bit dull wearing the same thing every day. I reckon a couple of <span class=\"ml-token colloc\">free-dress days</span> would <span class=\"ml-token phrasal\">liven things up</span>. <span class=\"ml-token idiom\">What's your take</span> on it? Fancy keeping things as they are?\nCatch you later!",
+    "uzSample": "<p>Salom!</p>\n<p>Forma siyosatini qayta ko'rib chiqish haqida eshitdingmi? Rostini aytsam, qoidalarni biroz yumshatishlariga umid qilyapman. Juma kunlari oddiy kiyimda kelish imkoniyati bo'lsa yaxshi bo'lardi! O'z shaxsiy uslubimizni ifoda etish maktabni yanada qiziqarli qilishi mumkin deb o'ylayman. Sening fikring qanday? Sen forma kiyishni afzal ko'rasanmi?</p>\n<p>Xabar ber!</p>",
+    "uzSampleA1": "<p>Salom, Kamola,<br>Maktab formasi? Menga forma yoqadi. Bu oson. Sizga forma yoqadimi?</p><p>Xayr!</p>",
+    "uzSampleA2": "<p>Salom, Kamola,<br>Maktab forma siyosatini o'zgartirmoqchi. Menga bu yoqmadi. Menga hozirgi forma yoqadi. U yaxshi. Siz nima deb o'ylaysiz? Sizga yangi forma yoqadimi? Menga ayting!</p>",
+    "uzSampleB1": "<p>Salom, Kamola,<br>Forma siyosatini qayta ko'rib chiqish haqida eshitdingizmi? Men nima deb o'ylashimni bilmayman. Forma qulay, lekin biroz zerikarli ham. Agar bizda forma bo'lmagan kunlar bo'lsa, ajoyib bo'lardi deb o'ylayman. Siz bu haqda nima deb o'ylaysiz? Formani o'zgartirmoqchimisiz yoki uni o'z holicha saqlashni afzal ko'rasizmi?</p><p>Mengа хаbаr bеring!</p>",
+    "uzSampleB2": "<p>Salom Kamola,<br>Maktabning forma siyosatini qayta ko'rib chiqish haqidagi e'lonni ko'rdingmi? Rostini aytsam, menda aralash hislar bor. Hozirgi forma qulay bo'lsa-da, shaxsiyatni bo'g'adi deb o'ylayman. Ehtimol, kamroq cheklovchi kiyim kodi yoki belgilangan \"erkin kiyim\" kunlari kabi murosaga kelish ideal bo'lar edi. Bu borada sizning fikringizni bilishga qiziqaman. Siz hozirgi siyosat o'zgarishsiz qolishi kerak deb hisoblaysizmi yoki yanada erkin yondashuv tarafdorisiz?</p><p>Fikrlaringizni menga bildiring!</p>"
+   },
+   "t12": {
+    "title": "formal message · to council",
+    "prompt": "Write a formal letter to the School Council responding to their message. Express your opinion on the uniform policy and provide reasons for your view.",
+    "sample": "<p>Dear School Council,</p>\n\n<p>Thank you for inviting students to share their views on the <span class=\"ml-token colloc\">uniform policy</span>. I appreciate this opportunity to express my thoughts.</p>\n\n<p><span class=\"ml-token adv\">Personally</span>, I believe a <span class=\"ml-token colloc\">balanced approach</span> <span class=\"ml-token modal\">would</span> be most beneficial. While uniforms promote <span class=\"ml-token colloc\">equality among students</span> and reduce <span class=\"ml-token colloc\">peer pressure</span> regarding clothing, a completely strict policy <span class=\"ml-token modal\">can</span> feel restrictive.</p>\n\n<p>I <span class=\"ml-token modal\">would</span> suggest introducing <span class=\"ml-token colloc\">casual dress days</span> once a week. This <span class=\"ml-token modal\">would</span> allow students to express their <span class=\"ml-token colloc\">individuality</span> while maintaining the benefits of a uniform on other days.</p>\n\n<p><span class=\"ml-token adv\">Additionally</span>, perhaps the uniform itself <span class=\"ml-token modal\">could</span> be updated to include more <span class=\"ml-token colloc\">comfortable options</span> suitable for different weather conditions.</p>\n\n<p>Thank you for considering student feedback on this <span class=\"ml-token colloc\">important matter</span>.</p>\n\n<p>Yours sincerely,<br>A Concerned Student</p>",
+    "target": "120–150 words",
+    "sampleA1": "<p>Hi School Council,<br>I like uniform. It is easy. I don't like choosing clothes. My friends like uniform too. Bye.</p>",
+    "sampleA2": "<p>Dear School Council,<br>I think the uniform is okay, but it's not very good. I like it because it's easy to wear, and I don't have to think about what to wear. But it's boring, and I want to wear my own clothes sometimes. Maybe we can have free dress days? That would be fun. Thank you.<br>From, A Student</p>",
+    "sampleB1": "<p>Dear School Council,<br>I am writing to you about the school uniform. I think that the current uniform policy is mostly good, but there are some things that could be improved. For example, the uniform can be uncomfortable, especially in the summer. Also, I think students should have more opportunities to express themselves. I suggest we could have a 'dress down' day once a month. This would allow us to wear our own clothes and show our personality. However, I also understand the benefits of a uniform, like preventing bullying and making sure everyone looks smart. Thank you for listening to my opinion.<br>Sincerely,<br>A Student</p>",
+    "sampleB2": "Dear School Council,\nThank you for giving students the chance to share their views on the <span class=\"ml-token colloc\">uniform policy</span>. I would like to take this opportunity to put forward my thoughts.\nOn the whole, I am <span class=\"ml-token idiom\">in favour of</span> a more relaxed approach. While the current uniform promotes equality and <span class=\"ml-token phrasal\">takes the pressure off</span> choosing an outfit each morning, a strict policy can feel restrictive and leave little room for <span class=\"ml-token colloc\">self-expression</span>. For this reason, <span class=\"ml-token colloc\">I would suggest</span> introducing free-dress days once a week.\nThis would <span class=\"ml-token idiom\">strike a balance</span> between keeping a smart, united appearance and allowing students to show their <span class=\"ml-token colloc\">individuality</span>. <span class=\"ml-token linking\">In addition</span>, updating the uniform with more <span class=\"ml-token colloc\">comfortable options</span> would make it far more practical in different weather conditions.\nThank you for taking <span class=\"ml-token colloc\">student feedback</span> into account.\nYours sincerely,\nDilnoza Karimova",
+    "uzSample": "<p>Hurmatli Maktab Kengashi,</p>\n\n<p>Talabalarni forma siyosati bo'yicha o'z fikrlarini bildirishga taklif qilganingiz uchun rahmat. O'z fikrlarimni bildirish imkoniyati uchun minnatdorman.</p>\n\n<p>Shaxsan men, muvozanatli yondashuv eng foydali bo'ladi deb hisoblayman. Forma talabalar o'rtasida tenglikni ta'minlasa va kiyim borasidagi tengdoshlar bosimini kamaytirsa-da, juda qattiq siyosat cheklovchi bo'lib tuyulishi mumkin.</p>\n\n<p>Haftada bir marta erkin kiyim kunlarini joriy etishni taklif qilaman. Bu talabalarga boshqa kunlarda formaning afzalliklarini saqlab qolgan holda, o'z individualligini ifoda etishga imkon beradi.</p>\n\n<p>Bundan tashqari, ehtimol, formaning o'zi turli ob-havo sharoitlariga mos keladigan qulayroq variantlarni o'z ichiga olishi uchun yangilanishi mumkin.</p>\n\n<p>Ushbu muhim masala bo'yicha talabalar fikrini ko'rib chiqayotganingiz uchun tashakkur.</p>\n\n<p>Hurmat bilan,<br>Xavotirdagi Talaba</p>",
+    "uzSampleA1": "<p>Salom Maktab Kengashi,<br>Menga forma yoqadi. U oson. Menga kiyim tanlash yoqmaydi. Mening do'stlarimga ham forma yoqadi. Xayr.</p>",
+    "uzSampleA2": "<p>Hurmatli Maktab Kengashi,<br>Menimcha, forma yaxshi, lekin u juda ham zo'r emas. Menga u yoqadi, chunki uni kiyish oson va men nima kiyish haqida o'ylashim kerak emas. Lekin u zerikarli va men ba'zida o'z kiyimlarimni kiyishni xohlayman. Balki bizda erkin kiyim kunlari bo'lishi mumkin? Bu juda qiziqarli bo'lardi. Rahmat.<br>Sizning o'quvchingiz</p>",
+    "uzSampleB1": "<p>Hurmatli Maktab Kengashi,<br>Men sizga maktab formasi haqida murojaat qilmoqdaman. Menimcha, hozirgi forma siyosati asosan yaxshi, lekin uni yaxshilash mumkin bo'lgan ba'zi narsalar bor. Misol uchun, forma noqulay bo'lishi mumkin, ayniqsa yozda. Shuningdek, o'quvchilar o'zlarini ifoda etish uchun ko'proq imkoniyatlarga ega bo'lishi kerak deb o'ylayman. Men oyiga bir marta \"oddiy kiyim\" kuni o'tkazishni taklif qilaman. Bu bizga o'z kiyimlarimizni kiyishga va shaxsiyatimizni ko'rsatishga imkon beradi. Biroq, men forma foydalarini ham tushunaman, masalan, zo'ravonlikning oldini olish va hamma aqlli ko'rinishini ta'minlash. Fikrimni tinglaganingiz uchun rahmat.<br>Hurmat bilan,<br>O'quvchi</p>",
+    "uzSampleB2": "<p>Hurmatli Maktab Kengashi,<br>Men maktab formasi siyosatiga kiritilishi taklif etilayotgan o'zgarishlar yuzasidan o'z fikrimni bildirish uchun yozyapman. Qattiq formani saqlab qolish foydasiga keltirilgan dalillarni tan olgan holda, menimcha, yanada erkin yondashuv oxir-oqibatda talabalar manfaatiga xizmat qiladi.<br>Mening fikrimcha, amaldagi siyosat individuallik va o'zini ifoda etishni bo'g'adi. Talabalarga vaqti-vaqti bilan o'z kiyimlarini kiyishga ruxsat berish, ehtimol, belgilangan \"erkin juma\" kunida, shaxsiy o'zlik va ijodkorlik tuyg'usini kuchaytiradi. Bundan tashqari, qat'iy forma ayrim faoliyatlar yoki ob-havo sharoitlari uchun noqulay va amaliy bo'lmasligi mumkin. Yanada moslashuvchan forma variantlarini taqdim etish yoki oqilona ko'rsatmalar doirasida o'zgartirishlarga ruxsat berish bu muammoni hal qiladi.<br>Albatta, odob-axloq tuyg'usini saqlab qolish va har qanday haddan tashqari yoki nomaqbul kiyimlarning oldini olish muhim. Biroq, menimcha, standartlarni saqlash va talabalarga o'zlarini ifoda etishga ruxsat berish o'rtasida muvozanatga erishish mumkin. Fikrimni inobatga olganingiz uchun tashakkur.<br>Hurmat bilan,<br>Xavotirda bo'lgan talaba</p>"
+   },
+   "p1_context": "You are a student at a secondary school.",
+   "p1_scenario": "Dear Students,\n\nThe school administration is reviewing our uniform policy. We are considering whether to keep the current strict uniform, introduce a more relaxed dress code, or allow free dress on certain days. We value student opinions and would like to hear your thoughts on this matter.\n\nThe School Council"
+  },
+  "examDate": "2025-12-12",
+  "settings": {
+   "logoUrl": "https://audio.mock-stream.com/img/ibb/WN0XY5Lv/logo.png",
+   "heading1": "Bilim va malakalarni baholash agentligi",
+   "heading2": "Chet tilini bilish darajasi",
+   "examTitle": "Writing exam",
+   "logoWording": "Mock Stream",
+   "testIdentifier": "mock_stream"
+  },
+  "vocabulary": {
+   "task2": [
+    {
+     "en": "school uniforms",
+     "uz": "maktab formalari"
+    },
+    {
+     "en": "endless discussions",
+     "uz": "cheksiz muhokamalar"
+    },
+    {
+     "en": "compelling arguments",
+     "uz": "ishonchli dalillar"
+    },
+    {
+     "en": "significant advantages",
+     "uz": "muhim afzalliklar"
+    },
+    {
+     "en": "unity and belonging",
+     "uz": "birlik va tegishlilik"
+    },
+    {
+     "en": "socioeconomic distinctions",
+     "uz": "ijtimoiy-iqtisodiy farqlar"
+    },
+    {
+     "en": "financial background",
+     "uz": "moliyaviy holat"
+    },
+    {
+     "en": "self-expression",
+     "uz": "o'z-o'zini ifoda etish"
+    },
+    {
+     "en": "personal identity",
+     "uz": "shaxsiy o'zlik"
+    },
+    {
+     "en": "natural process",
+     "uz": "tabiiy jarayon"
+    },
+    {
+     "en": "designated suppliers",
+     "uz": "belgilangan yetkazib beruvchilar"
+    },
+    {
+     "en": "middle ground",
+     "uz": "o'rta yo'l"
+    },
+    {
+     "en": "professional standards",
+     "uz": "kasbiy standartlar"
+    },
+    {
+     "en": "personal choice",
+     "uz": "shaxsiy tanlov"
+    },
+    {
+     "en": "coexist harmoniously",
+     "uz": "uyg'un yashash"
+    },
+    {
+     "en": "dress similarly",
+     "uz": "o'xshash kiyinmoq"
+    },
+    {
+     "en": "focus on learning",
+     "uz": "o'qishga e'tibor qaratmoq"
+    },
+    {
+     "en": "stifle creativity",
+     "uz": "ijodkorlikni bo'g'moq"
+    },
+    {
+     "en": "basic dress code",
+     "uz": "asosiy kiyim qoidasi"
+    },
+    {
+     "en": "implement policy",
+     "uz": "siyosatni amalga oshirmoq"
+    }
+   ],
+   "task11": [
+    {
+     "en": "did you hear",
+     "uz": "eshitdingizmi"
+    },
+    {
+     "en": "uniform review",
+     "uz": "forma ko'rib chiqish"
+    },
+    {
+     "en": "honestly hoping",
+     "uz": "samimiy umid qilaman"
+    },
+    {
+     "en": "relax the rules",
+     "uz": "qoidalarni yumshatmoq"
+    },
+    {
+     "en": "casual Fridays",
+     "uz": "erkin juma kunlari"
+    },
+    {
+     "en": "personal style",
+     "uz": "shaxsiy uslub"
+    },
+    {
+     "en": "more fun",
+     "uz": "qiziqroq"
+    },
+    {
+     "en": "what's your take",
+     "uz": "fikringiz qanday"
+    },
+    {
+     "en": "let me know",
+     "uz": "menga ayting"
+    },
+    {
+     "en": "dress code",
+     "uz": "kiyinish qoidasi"
+    },
+    {
+     "en": "pretty cool",
+     "uz": "juda zo'r"
+    },
+    {
+     "en": "sounds good",
+     "uz": "yaxshi eshitiladi"
+    },
+    {
+     "en": "strict rules",
+     "uz": "qat'iy qoidalar"
+    },
+    {
+     "en": "express ourselves",
+     "uz": "o'zimizni ifoda etmoq"
+    },
+    {
+     "en": "totally agree",
+     "uz": "to'liq qo'shilaman"
+    },
+    {
+     "en": "what do you think",
+     "uz": "nima deb o'ylaysiz"
+    },
+    {
+     "en": "talk later",
+     "uz": "keyinroq gaplashamiz"
+    },
+    {
+     "en": "free dress",
+     "uz": "erkin kiyim"
+    },
+    {
+     "en": "school spirit",
+     "uz": "maktab ruhi"
+    },
+    {
+     "en": "comfortable clothes",
+     "uz": "qulay kiyimlar"
+    }
+   ],
+   "task12": [
+    {
+     "en": "Dear Council",
+     "uz": "Hurmatli Kengash"
+    },
+    {
+     "en": "uniform policy",
+     "uz": "forma siyosati"
+    },
+    {
+     "en": "balanced approach",
+     "uz": "muvozanatli yondashuv"
+    },
+    {
+     "en": "equality among students",
+     "uz": "o'quvchilar o'rtasida tenglik"
+    },
+    {
+     "en": "peer pressure",
+     "uz": "tengdoshlar bosimi"
+    },
+    {
+     "en": "feel restrictive",
+     "uz": "cheklovchi his qilmoq"
+    },
+    {
+     "en": "casual dress days",
+     "uz": "erkin kiyim kunlari"
+    },
+    {
+     "en": "express individuality",
+     "uz": "individuallikni ifoda etmoq"
+    },
+    {
+     "en": "comfortable options",
+     "uz": "qulay variantlar"
+    },
+    {
+     "en": "weather conditions",
+     "uz": "ob-havo sharoitlari"
+    },
+    {
+     "en": "student feedback",
+     "uz": "o'quvchilar fikri"
+    },
+    {
+     "en": "important matter",
+     "uz": "muhim masala"
+    },
+    {
+     "en": "yours sincerely",
+     "uz": "hurmat bilan"
+    },
+    {
+     "en": "I would suggest",
+     "uz": "men taklif qilardim"
+    },
+    {
+     "en": "maintaining benefits",
+     "uz": "afzalliklarni saqlash"
+    },
+    {
+     "en": "promote equality",
+     "uz": "tenglikni rag'batlantirmoq"
+    },
+    {
+     "en": "reduce pressure",
+     "uz": "bosimni kamaytirmoq"
+    },
+    {
+     "en": "strict policy",
+     "uz": "qat'iy siyosat"
+    },
+    {
+     "en": "valuable opportunity",
+     "uz": "qimmatli imkoniyat"
+    },
+    {
+     "en": "share views",
+     "uz": "fikrlarni baham ko'rmoq"
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "can": {
+    "uz": "-a oladi",
+    "type": "modal"
+   },
+   "will": {
+    "uz": "-adi",
+    "type": "modal"
+   },
+   "could": {
+    "uz": "-ishi mumkin edi",
+    "type": "modal"
+   },
+   "might": {
+    "uz": "mumkin",
+    "type": "modal"
+   },
+   "would": {
+    "uz": "-ar edi",
+    "type": "modal"
+   },
+   "should": {
+    "uz": "kerak",
+    "type": "modal"
+   },
+   "stifle": {
+    "uz": "bo'g'moq",
+    "type": "phrasal"
+   },
+   "all for": {
+    "uz": "butunlay tarafdoriman",
+    "type": "idiom"
+   },
+   "Honestly": {
+    "uz": "ochig'i",
+    "type": "adv"
+   },
+   "Moreover": {
+    "uz": "Qolaversa",
+    "type": "adv"
+   },
+   "honestly": {
+    "uz": "ochig'i",
+    "type": "adv"
+   },
+   "stamp out": {
+    "uz": "yo'q qilmoq",
+    "type": "phrasal"
+   },
+   "Personally": {
+    "uz": "Shaxsan",
+    "type": "adv"
+   },
+   "Ultimately": {
+    "uz": "Oxir-oqibat",
+    "type": "adv"
+   },
+   "Undeniably": {
+    "uz": "Shubhasiz",
+    "type": "adv"
+   },
+   "stands out": {
+    "uz": "ajralib turadi",
+    "type": "phrasal"
+   },
+   "Furthermore": {
+    "uz": "Bundan tashqari",
+    "type": "adv"
+   },
+   "In addition": {
+    "uz": "bundan tashqari",
+    "type": "linking"
+   },
+   "What's more": {
+    "uz": "bundan tashqari",
+    "type": "linking"
+   },
+   "Additionally": {
+    "uz": "Bundan tashqari",
+    "type": "adv"
+   },
+   "in favour of": {
+    "uz": "tarafdoriman",
+    "type": "idiom"
+   },
+   "feel stifling": {
+    "uz": "bo'g'iq his qilinmoq",
+    "type": "colloc"
+   },
+   "individuality": {
+    "uz": "individuallik",
+    "type": "colloc"
+   },
+   "middle ground": {
+    "uz": "o'rta yo'l",
+    "type": "colloc"
+   },
+   "peer pressure": {
+    "uz": "tengdoshlar bosimi",
+    "type": "colloc"
+   },
+   "casual Fridays": {
+    "uz": "erkin kiyimdagi juma kunlari",
+    "type": "colloc"
+   },
+   "personal style": {
+    "uz": "shaxsiy uslub",
+    "type": "colloc"
+   },
+   "puts an end to": {
+    "uz": "barham beradi",
+    "type": "phrasal"
+   },
+   "uniform policy": {
+    "uz": "forma siyosati",
+    "type": "colloc"
+   },
+   "uniform review": {
+    "uz": "forma siyosatini ko'rib chiqish",
+    "type": "colloc"
+   },
+   "I would suggest": {
+    "uz": "men taklif qilgan bo'lardim",
+    "type": "colloc"
+   },
+   "free-dress days": {
+    "uz": "erkin kiyim kunlari",
+    "type": "colloc"
+   },
+   "liven things up": {
+    "uz": "vaziyatni jonlantirmoq",
+    "type": "phrasal"
+   },
+   "natural process": {
+    "uz": "tabiiy jarayon",
+    "type": "colloc"
+   },
+   "personal choice": {
+    "uz": "shaxsiy tanlov",
+    "type": "colloc"
+   },
+   "room to breathe": {
+    "uz": "erkin nafas olish imkoni",
+    "type": "idiom"
+   },
+   "self-expression": {
+    "uz": "o'zini ifoda etish",
+    "type": "colloc"
+   },
+   "What's your take": {
+    "uz": "sening fikring qanday",
+    "type": "idiom"
+   },
+   "important matter": {
+    "uz": "muhim masala",
+    "type": "colloc"
+   },
+   "strike a balance": {
+    "uz": "muvozanat topmoq",
+    "type": "idiom"
+   },
+   "student feedback": {
+    "uz": "o'quvchilar fikri",
+    "type": "colloc"
+   },
+   "balanced approach": {
+    "uz": "muvozanatli yondashuv",
+    "type": "colloc"
+   },
+   "casual dress days": {
+    "uz": "erkin kiyim kunlari",
+    "type": "colloc"
+   },
+   "personal identity": {
+    "uz": "shaxsiy o'zlik",
+    "type": "colloc"
+   },
+   "make a strong case": {
+    "uz": "kuchli dalil keltirmoq",
+    "type": "idiom"
+   },
+   "comfortable options": {
+    "uz": "qulay variantlar",
+    "type": "colloc"
+   },
+   "endless discussions": {
+    "uz": "cheksiz muhokamalar",
+    "type": "colloc"
+   },
+   "unity and belonging": {
+    "uz": "birlik va mansublik",
+    "type": "colloc"
+   },
+   "compelling arguments": {
+    "uz": "ishonarli dalillar",
+    "type": "colloc"
+   },
+   "designated suppliers": {
+    "uz": "belgilangan yetkazib beruvchilar",
+    "type": "colloc"
+   },
+   "financial background": {
+    "uz": "moliyaviy ahvol",
+    "type": "colloc"
+   },
+   "professional standards": {
+    "uz": "kasbiy standartlar",
+    "type": "colloc"
+   },
+   "significant advantages": {
+    "uz": "sezilarli afzalliklar",
+    "type": "colloc"
+   },
+   "takes the pressure off": {
+    "uz": "bosimni yengillashtiradi",
+    "type": "phrasal"
+   },
+   "equality among students": {
+    "uz": "talabalar o'rtasida tenglik",
+    "type": "colloc"
+   },
+   "hit family budgets hard": {
+    "uz": "oila byudjetiga qattiq zarba beradi",
+    "type": "idiom"
+   },
+   "socioeconomic distinctions": {
+    "uz": "ijtimoiy-iqtisodiy tafovutlar",
+    "type": "colloc"
+   },
+   "lies somewhere in the middle": {
+    "uz": "o'rta yo'lda joylashgan",
+    "type": "idiom"
+   }
+  }
+ },
+ "created_at": "2026-05-06T14:59:16.061862+00:00",
+ "updated_at": "2026-07-06T10:54:53.462845+00:00"
+}

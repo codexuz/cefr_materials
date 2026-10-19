@@ -1,0 +1,484 @@
+{
+ "id": 128,
+ "mock_type": "ielts-writing",
+ "mock_number": 19,
+ "title": "IELTS Writing Mock 19",
+ "status": "published",
+ "mock_data": {
+  "tasks": {
+   "task1": {
+    "title": "Life expectancy by country",
+    "prompt": "The bar chart below shows the information about the life expectancy in Japan, United States, Korea, and Indonesia and the table shows the change in the life expectancy between 1953 and 2008.",
+    "wordGoal": 150,
+    "chartDesc": {
+     "title": "",
+     "visuals": [
+      {
+       "kind": "bar chart",
+       "xAxis": "Country",
+       "yAxis": "Age (years)",
+       "series": [
+        {
+         "name": "Life expectancy in 2008",
+         "points": [
+          {
+           "at": "Japan",
+           "value": 82
+          },
+          {
+           "at": "Korea",
+           "value": 79
+          },
+          {
+           "at": "USA",
+           "value": 76
+          },
+          {
+           "at": "Indonesia",
+           "value": 70
+          }
+         ]
+        }
+       ],
+       "caption": "Life expectancy of people in 2008"
+      },
+      {
+       "kind": "table",
+       "xAxis": "",
+       "yAxis": "",
+       "series": [
+        {
+         "name": "Percentage Increase",
+         "points": [
+          {
+           "at": "Japan",
+           "value": 3.5
+          },
+          {
+           "at": "Korea",
+           "value": 12.5
+          },
+          {
+           "at": "United States",
+           "value": 3
+          },
+          {
+           "at": "Indonesia",
+           "value": 15.7
+          }
+         ]
+        }
+       ],
+       "caption": "Increases in life expectancy between 1953 and 2008"
+      }
+     ],
+     "overview": "In 2008, Japan had the highest life expectancy among the four nations while Indonesia had the lowest; however, between 1953 and 2008, Indonesia and Korea experienced significantly higher percentage increases in life expectancy compared to Japan and the United States.",
+     "chartType": "mixed",
+     "confidence": "medium",
+     "unreadable": [
+      "Bar chart values do not have printed numerical data labels on the bars and are read off the y-axis scale."
+     ],
+     "keyFeatures": [
+      "From the bar chart, Japan recorded the highest life expectancy in 2008 at approximately 82 years, followed by Korea (~79 years), the USA (~76 years), and Indonesia (70 years).",
+      "From the table, Indonesia saw the largest percentage increase in life expectancy between 1953 and 2008 at +15.7%, followed by Korea at +12.5%.",
+      "From the table, the United States and Japan had the smallest percentage gains between 1953 and 2008, at +3% and +3.5% respectively."
+     ]
+    },
+    "chartType": "mixed",
+    "dataNature": "dynamic",
+    "instruction": "Summarise the information by selecting and reporting the main features, and make comparison where relevant.",
+    "sampleBand5": "<p>The bar chart shows how long people live in Japan, United States, Korea and Indonesia. The table show how life expectancy changed <mark>between the years</mark> 1953 and 2008.</p>\n<p>In 2008, Japan had the highest life expectancy. It was about 82 years. The United States was lower, around 78 years. Korea was similar to the United States. Indonesia had the lowest life expectancy <mark>at around</mark> 70 years.</p>\n<p>Looking at the change, Korea had the biggest increase. Life expectancy went up by about 30 years. Indonesia also had a big increase of about 25 years. Japan's life expectancy increased by about 23 years. The United States <mark>had a smaller increase</mark>, about 15 years.</p>\n<p><mark>Overall</mark>, life expectancy increased in all four countries. Korea and Indonesia had the biggest improvements. Japan had the highest life expectancy in 2008.</p>",
+    "sampleBand6": "<p>The bar chart shows the life expectancy in four countries, Japan, United States, Korea and Indonesia. The table shows the difference in life expectancy between 1953 and 2008. <mark>Overall, people lived longer</mark> in all four countries in 2008 compared to 1953.</p>\n\n<p>Looking at the bar chart, Japan had the highest life expectancy in 2008, at around 82 years. The United States <mark>was lower than</mark> Japan, at about 78 years. Korea was similar to the United States. Indonesia had the lowest life expectancy, at around 70 years.</p>\n\n<p>The table shows that Korea <mark>had a big increase</mark> in life expectancy between 1953 and 2008, it increased by 26 years. Japan's life expectancy increased by 23 years. The United States and Indonesia <mark>had smaller increases</mark>, of 19 and 17 years respectively. Although Indonesia had the smallest increase, it still improved. <mark>In conclusion</mark>, all countries saw improvements in how long people lived.</p>",
+    "sampleBand7": "<p>The bar chart and table <mark>illustrate the life expectancy</mark> in four countries, namely Japan, the United States, Korea, and Indonesia, and the changes in these figures between 1953 and 2008.</p>\n<p>Overall, life expectancy <mark>increased across all four nations</mark> during the period. Japan consistently had the highest life expectancy, while Indonesia consistently had the lowest. The most significant change was observed in Korea.</p>\n<p>In 2008, Japan had the highest life expectancy at 82 years, followed by the United States at 78 years. Korea's life expectancy was slightly lower at 77 years, while Indonesia had the lowest at 71 years. <mark>A comparison of the data reveals</mark> a clear disparity between developed and developing nations.</p>\n<p>The table data shows that Korea experienced the most dramatic increase in life expectancy, rising from 51 years in 1953 to 77 years in 2008. Japan also saw a significant increase, from 60 to 82 years. The United States and Indonesia <mark>experienced more modest gains</mark>, with increases of 9 and 16 years respectively. <mark>It is worth noting that</mark> while Indonesia's increase was proportionally larger than the US's, its overall life expectancy remained the lowest.</p>",
+    "sampleBand8": "<p>The bar chart <mark>elucidates</mark> life expectancy figures for Japan, the United States, Korea, and Indonesia, while the table details the changes in these figures between 1953 and 2008. <mark>A clear overall trend</mark> is that life expectancy increased in all four countries during the specified period, although the degree of improvement varied.</p>\n\n<p>In 2008, Japan had the highest life expectancy, <mark>standing at approximately</mark> 82 years. The United States and Korea had similar figures, both around 78 years. Indonesia <mark>lagged behind</mark> with a life expectancy of about 70 years. The table reveals the magnitude of change; Korea <mark>experienced the most dramatic increase</mark>, adding 32 years to its life expectancy between 1953 and 2008. In contrast, the United States saw the smallest increase, gaining 14 years. Japan and Indonesia <mark>registered notable gains</mark> of 26 and 24 years respectively.</p>\n\n<p>In conclusion, while all four nations witnessed improvements in life expectancy, Korea’s <mark>remarkable progress</mark> is particularly noteworthy. The US, while starting from a relatively high base, <mark>exhibited the least pronounced</mark> improvement during this time frame. These figures <mark>underscore the diverse trajectories</mark> in public health and living standards across these nations.</p>",
+    "sampleBand9": "<p>The bar chart <mark>elucidates the life expectancy</mark> in Japan, the United States, Korea, and Indonesia, while the table <mark>details the incremental changes</mark> in these figures between 1953 and 2008. Overall, life expectancy increased in all four countries, with Japan exhibiting the highest longevity throughout the period.</p>\n\n<p>As the data reveals, in 2008, Japan had the <mark>highest life expectancy</mark> at approximately 82 years, followed by the United States and Korea, both <mark>hovering around</mark> 78 years. Indonesia recorded the lowest life expectancy at about 70 years. The <mark>disparity in longevity</mark> between Japan and Indonesia was therefore significant.</p>\n\n<p>Examining the changes between 1953 and 2008, Korea <mark>experienced the most substantial increase</mark>, with a gain of approximately 32 years. Indonesia also witnessed a considerable improvement, adding around 27 years to its life expectancy. In contrast, Japan and the United States saw more modest, though still significant, increases of roughly 17 and 15 years respectively. It is <mark>worth noting</mark> that while Japan already had a relatively high life expectancy in 1953, Korea and Indonesia started from a <mark>considerably lower base</mark>, thus explaining their <mark>more pronounced gains</mark> over the period. <mark>In summary</mark>, all nations made progress in extending the lifespan of their citizens, albeit at varying rates and from different starting points. <mark>These trends illustrate</mark> improvements in healthcare and living standards across these diverse nations. The <mark>data underscores</mark> the remarkable progress achieved, especially in countries that initially lagged behind.</p>",
+    "timeMinutes": 20,
+    "chartDescImg": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/19.png",
+    "sampleAnswer": "The bar chart and table provide data on life expectancy in four countries—Japan, the United States, Korea, and Indonesia—comparing figures from 1953 and 2008. Overall, all four nations experienced significant increases in life expectancy over this 55-year period, with Japan achieving the highest figures by 2008.\n\nIn 1953, life expectancy was relatively similar across the four countries, ranging from approximately 45 years in Indonesia to around 65 years in the United States. Japan and Korea had intermediate values of roughly 60 and 55 years respectively. By 2008, this picture had changed considerably.\n\nJapan saw the most remarkable improvement, with life expectancy rising to approximately 83 years, an increase of about 23 years. This made Japan the country with the highest life expectancy among the four. The United States showed more modest growth, reaching around 78 years by 2008. Korea demonstrated impressive progress, climbing to approximately 79 years, effectively catching up with and surpassing the US. Indonesia, while still having the lowest life expectancy at around 70 years in 2008, showed the second-largest gain at approximately 25 years.",
+    "chartImageUrl": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/19.png",
+    "uzSampleBand5": "<p>Ustunli diagramma Yaponiyada, Amerika Qo'shma Shtatlarida, Koreyada va Indoneziyada odamlar qancha umr ko'rishini ko'rsatadi. Jadval umr ko'rish davomiyligi 1953 va 2008 <mark>yillar oralig'ida</mark> qanday o'zgarganini ko'rsatadi.</p>\n<p>2008-yilda Yaponiyada umr ko'rish davomiyligi eng yuqori bo'lgan. Bu taxminan 82 yil edi. Amerika Qo'shma Shtatlari pastroq, taxminan 78 yil edi. Koreya Amerika Qo'shma Shtatlariga o'xshash edi. Indoneziyada umr ko'rish davomiyligi eng past <mark>taxminan</mark> 70 yil edi.</p>\n<p>O'zgarishga qarasak, Koreyada eng katta o'sish bo'lgan. Umr ko'rish davomiyligi taxminan 30 yilga oshdi. Indoneziyada ham taxminan 25 yilga katta o'sish bo'lgan. Yaponiyada umr ko'rish davomiyligi taxminan 23 yilga oshdi. Amerika Qo'shma Shtatlarida <mark>o'sish kichikroq bo'lgan</mark>, taxminan 15 yil.</p>\n<p><mark>Umuman olganda</mark>, umr ko'rish davomiyligi to'rtta davlatda ham oshdi. Koreya va Indoneziyada eng katta yaxshilanishlar bo'ldi. 2008-yilda Yaponiyada umr ko'rish davomiyligi eng yuqori bo'lgan.</p>",
+    "uzSampleBand6": "<p>Ustunli diagrammada to'rtta davlat, Yaponiya, Amerika Qo'shma Shtatlari, Koreya va Indoneziyadagi umr ko'rish davomiyligi ko'rsatilgan. Jadvalda 1953 va 2008 yillar oralig'idagi umr ko'rish davomiyligidagi farq ko'rsatilgan. <mark>Umuman olganda, odamlar uzoqroq yashashdi</mark> 2008-yilda 1953-yilga nisbatan barcha to'rtta davlatda.</p>\n\n<p>Ustunli diagrammaga nazar tashlaydigan bo'lsak, Yaponiya 2008-yilda eng yuqori umr ko'rish davomiyligiga ega bo'lgan, taxminan 82 yil. Amerika Qo'shma Shtatlari Yaponiya <mark>dan pastroq edi</mark>, taxminan 78 yil. Koreya Amerika Qo'shma Shtatlariga o'xshash edi. Indoneziyada umr ko'rish davomiyligi eng past bo'lgan, taxminan 70 yil.</p>\n\n<p>Jadval shuni ko'rsatadiki, Koreyada 1953 va 2008 yillar oralig'ida umr ko'rish davomiyligi <mark>katta o'sishga ega bo'ldi</mark>, u 26 yilga oshdi. Yaponiyaning umr ko'rish davomiyligi 23 yilga oshdi. Amerika Qo'shma Shtatlari va Indoneziyada <mark>kichikroq o'sishlar bo'ldi</mark>, mos ravishda 19 va 17 yil. Indoneziyada o'sish eng kichik bo'lishiga qaramay, u hali ham yaxshilandi. <mark>Xulosa qilib aytganda</mark>, barcha davlatlarda odamlarning qancha yashashi yaxshilandi.</p>",
+    "uzSampleBand7": "<p>Ustunli diagramma va jadval Yaponya, Amerika Qo'shma Shtatlari, Koreya va Indoneziya kabi to'rtta davlatdagi <mark>umr ko'rish davomiyligini ko'rsatadi</mark> va bu ko'rsatkichlardagi 1953 va 2008-yillar oralig'idagi o'zgarishlarni aks ettiradi.</p>\n<p>Umuman olganda, umr ko'rish davomiyligi <mark>to'rtta davlatda ham oshdi</mark> ushbu davr mobaynida. Yaponiya doimiy ravishda eng yuqori umr ko'rish davomiyligiga ega bo'lgan, Indoneziya esa doimiy ravishda eng past ko'rsatkichga ega bo'lgan. Eng muhim o'zgarish Koreyada kuzatildi.</p>\n<p>2008-yilda Yaponiyada umr ko'rish davomiyligi eng yuqori bo'lib, 82 yilni tashkil etdi, undan keyin Amerika Qo'shma Shtatlari 78 yil bilan. Koreyaning umr ko'rish davomiyligi biroz pastroq bo'lib, 77 yilni tashkil etdi, Indoneziya esa eng past ko'rsatkichga ega bo'lib, 71 yilni tashkil etdi. <mark>Ma'lumotlarni solishtirish shuni ko'rsatadiki</mark>, rivojlangan va rivojlanayotgan davlatlar o'rtasida aniq tafovut mavjud.</p>\n<p>Jadval ma'lumotlari shuni ko'rsatadiki, Koreyada umr ko'rish davomiyligi eng keskin o'sishni boshdan kechirdi, 1953-yilda 51 yildan 2008-yilda 77 yilga ko'tarildi. Yaponiyada ham sezilarli o'sish kuzatildi, 60 yildan 82 yilga. Amerika Qo'shma Shtatlari va Indoneziya <mark>kamtarona yutuqlarga erishdi</mark>, mos ravishda 9 va 16 yilga o'sdi. <mark>Shuni ta'kidlash joizki</mark>, Indoneziyaning o'sishi AQShnikidan mutanosib ravishda kattaroq bo'lsa-da, uning umumiy umr ko'rish davomiyligi eng past darajada qoldi.</p>",
+    "uzSampleBand8": "<p>Ustunli diagramma Yaponiya, Amerika Qo'shma Shtatlari, Koreya va Indoneziya uchun umr ko'rish davomiyligi ko'rsatkichlarini <mark>yoritadi</mark>, jadval esa 1953 va 2008 yillar oralig'ida bu ko'rsatkichlardagi o'zgarishlarni batafsil bayon qiladi. <mark>Umumiy aniq tendensiya</mark> shundan iboratki, ko'rsatilgan davrda to'rtta mamlakatda ham umr ko'rish davomiyligi oshgan, garchi yaxshilanish darajasi har xil bo'lsa ham.</p>\n\n<p>2008 yilda Yaponiyada umr ko'rish davomiyligi eng yuqori bo'lib, <mark>taxminan</mark> 82 yoshni tashkil etdi. Amerika Qo'shma Shtatlari va Koreya bir xil ko'rsatkichlarga ega bo'lib, ikkalasi ham taxminan 78 yoshni tashkil etdi. Indoneziya <mark>orqada qoldi</mark> va umr ko'rish davomiyligi taxminan 70 yoshni tashkil etdi. Jadval o'zgarishlar miqdorini ko'rsatadi; Koreya 1953 va 2008 yillar oralig'ida umr ko'rish davomiyligiga 32 yil qo'shib, <mark>eng keskin o'sishni boshdan kechirdi</mark>. Aksincha, Amerika Qo'shma Shtatlari eng kichik o'sishni kuzatdi va 14 yilga ko'paydi. Yaponiya va Indoneziya mos ravishda 26 va 24 yillik <mark>sezilarli o'sishlarni qayd etdilar</mark>.</p>\n\n<p>Xulosa qilib aytganda, to'rtta davlatning barchasida umr ko'rish davomiyligi yaxshilangan bo'lsa-da, Koreyaning <mark>ajoyib taraqqiyoti</mark> ayniqsa diqqatga sazovordir. AQSh nisbatan yuqori bazadan boshlagan bo'lsa-da, ushbu vaqt oralig'ida <mark>eng kam sezilarli</mark> yaxshilanishni namoyish etdi. Ushbu raqamlar ushbu davlatlar bo'ylab sog'liqni saqlash va turmush darajasidagi <mark>turli yo'nalishlarni ta'kidlaydi</mark>.</p>",
+    "uzSampleBand9": "<p>Ustunli diagramma Yaponiya, Amerika Qo'shma Shtatlari, Koreya va Indoneziyadagi <mark>umr ko'rish davomiyligini yoritadi</mark>, jadval esa 1953 va 2008 yillar oralig'ida ushbu ko'rsatkichlardagi <mark>bosqichma-bosqich o'zgarishlarni batafsil bayon qiladi</mark>. Umuman olganda, umr ko'rish davomiyligi barcha to'rtta davlatda oshdi, Yaponiya esa butun davr mobaynida eng yuqori uzoq umr ko'rishni namoyish etdi.</p>\n\n<p>Ma'lumotlar ko'rsatganidek, 2008 yilda Yaponiyada <mark>eng yuqori umr ko'rish davomiyligi</mark> taxminan 82 yilni tashkil etdi, undan keyin Amerika Qo'shma Shtatlari va Koreya <mark>taxminan</mark> 78 yil atrofida edi. Indoneziyada eng past umr ko'rish davomiyligi taxminan 70 yil qayd etildi. Shunday qilib, Yaponiya va Indoneziya o'rtasidagi <mark>uzoq umr ko'rishdagi tafovut</mark> sezilarli edi.</p>\n\n<p>1953 va 2008 yillar oralig'idagi o'zgarishlarni o'rganar ekanmiz, Koreya <mark>eng katta o'sishni boshdan kechirdi</mark>, taxminan 32 yilga ko'paydi. Indoneziyada ham sezilarli yaxshilanish kuzatildi, uning umr ko'rish davomiyligiga taxminan 27 yil qo'shildi. Aksincha, Yaponiya va Amerika Qo'shma Shtatlari unchalik katta bo'lmagan, ammo baribir sezilarli darajada, mos ravishda taxminan 17 va 15 yilga o'sdi. Shuni <mark>ta'kidlash joizki</mark>, Yaponiya 1953 yilda nisbatan yuqori umr ko'rish davomiyligiga ega bo'lgan bo'lsa-da, Koreya va Indoneziya <mark>sezilarli darajada pastroq bazadan</mark> boshladilar, shu bilan ularning davr mobaynidagi <mark>yanada yaqqolroq yutuqlari</mark> izohlanadi. <mark>Xulosa qilib aytganda</mark>, barcha davlatlar fuqarolarining hayotini uzaytirishda muvaffaqiyatga erishdilar, garchi turli xil sur'atlar va turli xil boshlang'ich nuqtalardan bo'lsa ham. <mark>Ushbu tendentsiyalar</mark> ushbu xilma-xil millatlar bo'ylab sog'liqni saqlash va turmush darajasining yaxshilanishini ko'rsatadi. <mark>Ma'lumotlar ayniqsa</mark>, dastlab orqada qolgan mamlakatlarda erishilgan ajoyib taraqqiyotni ta'kidlaydi.</p>",
+    "chartDescSource": "extracted-verified-2026-08-05"
+   },
+   "task2": {
+    "title": "Punishing parents for child crime",
+    "prompt": "Some people believe that children that commit crimes should be punished. Others think the parents should be punished instead. Discuss both views and give your own opinion.",
+    "wordGoal": 250,
+    "essayType": "balanced",
+    "instruction": "Discuss both views and give your own opinion.",
+    "sampleBand5": "<p>It is true that sometimes children do bad things. When this happens, some people think the child should be punished. Other people think the parents are to blame and they should be punished <mark>instead of the child</mark>. I will talk about both these ideas.</p>\n\n<p>Some people think children should be punished because they did the crime. They believe if you do something wrong, you should have to pay for it. <mark>This is because</mark> if children are not punished, they might do it again. Also, it shows other children that doing bad things is not okay. Punishing children can teach them a lesson. For example, if a child steals something from a shop, they might have to do some work for free to pay back the shop. This can help them learn not to steal again.</p>\n\n<p>Other people think that parents should be punished. <mark>This is because</mark> parents are responsible for their children. If a child does something wrong, it might be because the parents did not teach them right from wrong. Maybe the parents did not spend enough time with their child, or maybe they were not good role models. If the parents are punished, it might make them pay more attention to their children in the future. <mark>For example</mark>, the parents might have to go to classes to learn how to be better parents.</p>\n\n<p>In my opinion, it is a bit of both. The child did the crime, but the parents might have some responsibility too. Maybe the child should have some punishment, but the parents should also have to do something to help the child learn from their mistakes. <mark>This is a difficult question</mark>, and there is no easy answer.</p>",
+    "sampleBand6": "<p>There is a debate about how to deal with children who commit crimes. Some people think that these children should be punished themselves. Others <mark>believe that</mark> it is the parents who should be punished instead. This essay will discuss both sides of this argument and then give my own opinion.</p>\n\n<p>On the one hand, some people argue that children should be held responsible for their actions. They believe that punishing children teaches them a lesson and <mark>helps them to understand</mark> that their behaviour is wrong. If children are not punished, they may continue to commit crimes and become even worse criminals in the future. Also, it may not always be the parents’ fault. Some children can be difficult to control, even with good parenting. Punishing the child can <mark>act as a deterrent</mark> for future misbehaviour.</p>\n\n<p>On the other hand, some people think that parents should be punished for their children's crimes. They argue that parents are responsible for raising their children and teaching them right from wrong. If a child commits a crime, it may be because the parents have failed to provide adequate supervision or guidance. <mark>It is also possible</mark> that the parents have set a bad example for their children. For example, if parents are involved in criminal activity, their children may be more likely to follow in their footsteps. Punishing parents, some argue, will make them take their responsibilities more seriously.</p>\n\n<p>In my opinion, it is important to consider the circumstances of each case. In some cases, the child may be primarily responsible for their actions, while in other cases, the parents may bear more of the blame. Perhaps a combination of punishment and support would be the best approach. <mark>It seems to me that</mark> focusing on rehabilitation is more important than simply punishing someone, whether it is the child or the parent. The goal should be to prevent future crimes from happening.</p>",
+    "sampleBand7": "<p>The question of how to deal with juvenile crime is a complex one, with some advocating for punishment of the child offenders, while others argue that the parents should be held accountable. Both viewpoints have merit and warrant careful consideration. This essay will explore both perspectives before offering my own opinion.</p>\n\n<p>On the one hand, proponents of punishing children who commit crimes believe that it is essential for instilling a sense of responsibility and deterring future offences. They argue that holding children accountable for their actions teaches them valuable lessons about the consequences of their choices. <mark>Furthermore, some believe</mark> that it protects society by removing potentially dangerous individuals from the streets. The argument here is that a punitive approach can act as a deterrent, not only for the individual child but also for other young people who might be tempted to engage in criminal behaviour. <mark>There is some validity to this view</mark>, especially when dealing with serious offences.</p>\n\n<p>Conversely, those who advocate for punishing the parents argue that parents are ultimately responsible for their children's upbringing and behaviour. They contend that if a child commits a crime, it is often a reflection of inadequate parenting, a lack of supervision, or a failure to instill appropriate values. <mark>In this view, parents should be held accountable</mark> for these shortcomings, perhaps through fines, mandatory parenting classes, or even community service. <mark>A key argument</mark> is that punishing parents can incentivise them to be more actively involved in their children's lives and to provide a more supportive and nurturing environment. This approach may be particularly effective in cases where the child's criminal behaviour stems from neglect or abuse.</p>\n\n<p>In my opinion, a balanced approach is needed. While children should be held accountable for their actions, the circumstances surrounding the crime should also be taken into consideration. <mark>It is crucial to assess</mark> the role of the parents in the child's behaviour. In cases where parental negligence or abuse is a contributing factor, it may be appropriate to impose penalties on the parents. However, a blanket approach of automatically punishing parents for their children's crimes is unlikely to be effective and could even be counterproductive. <mark>Ultimately, a combination of</mark> rehabilitation for the child and support for the family is often the most effective way to address juvenile crime and prevent future offences.</p>",
+    "sampleBand8": "<p>The issue of how to address juvenile crime is a complex one, with two prominent viewpoints. One perspective advocates for the punishment of young offenders themselves, while the other argues that parents should bear the responsibility. This essay will explore both sides of this debate before presenting my own opinion.</p>\n\n<p>Proponents of punishing children who commit crimes often <mark>emphasize the importance of</mark> accountability and deterrence. They argue that holding young people responsible for their actions teaches them valuable lessons about the consequences of their choices. Furthermore, punishment, whether it be community service or a custodial sentence, can act as a deterrent, discouraging not only the offender from re-offending but also other youngsters from engaging in criminal behaviour. This approach <mark>is predicated on the belief</mark> that children, even at a young age, possess a degree of understanding and moral awareness, making them capable of discerning right from wrong. However, this view often overlooks the mitigating circumstances that may contribute to juvenile delinquency, such as a dysfunctional home environment or lack of educational opportunities.</p>\n\n<p>Conversely, those who believe parents should be punished argue that parents are primarily responsible for the upbringing and behaviour of their children. They contend that parental neglect, abuse, or a lack of proper guidance can all contribute to a child's involvement in crime. Punishing parents, through fines or mandatory parenting classes, <mark>is seen as a way to</mark> incentivise them to take a more active and responsible role in their children’s lives. Moreover, this perspective acknowledges that children are often products of their environment and that addressing the root causes of crime within the family unit is crucial. Nevertheless, it is important to acknowledge that not all parents are equally equipped to deal with the challenges of raising children, and punishing them may not always be the most effective solution.</p>\n\n<p>In my opinion, a more nuanced approach is required. While holding young offenders accountable is important, it is equally crucial to consider the role of parents and the broader social context. Rather than simply resorting to punishment, a system that combines rehabilitative measures for young offenders with support and guidance for their families would be more effective in <mark>addressing the underlying causes of</mark> juvenile crime. This could involve providing access to counselling services, educational programs, and parental support groups. Ultimately, a <mark>holistic approach</mark> that focuses on prevention, rehabilitation, and support is more likely to <mark>yield long-term positive outcomes</mark> than a purely punitive one. <mark>Striking the right balance</mark> between accountability and understanding is key to creating a safer and more just society. <mark>A blanket approach</mark> that solely punishes children or parents <mark>fails to appreciate the complexities</mark> of the issue.</p>",
+    "sampleBand9": "<p>The question of how to address juvenile crime is a complex one, with two prominent viewpoints emerging: one advocating for the punishment of young offenders themselves, and the other suggesting that parents should bear the responsibility. While both perspectives have merit, a balanced approach that considers the culpability of both parties is, in my view, the most effective.</p>\n\n<p>Proponents of punishing children who commit crimes often argue that it is essential for teaching accountability and deterring future offenses. <mark>From this standpoint</mark>, holding young people responsible for their actions, regardless of age, reinforces the understanding that actions have consequences. Furthermore, the argument goes, a lenient approach could inadvertently send the message that criminal behavior is excusable during adolescence, potentially leading to a <mark>cycle of recidivism</mark>. This view is particularly compelling in cases involving serious offenses where the victim's suffering necessitates a proportionate response.</p>\n\n<p>Conversely, those who advocate for parental responsibility emphasize the significant influence parents have on their children's upbringing and behavior. They argue that inadequate supervision, a lack of moral guidance, or a dysfunctional family environment can <mark>significantly contribute to</mark> a child's involvement in crime. Therefore, punishing parents, through fines, mandatory parenting classes, or even community service, could incentivize them to provide a more supportive and responsible upbringing. <mark>Moreover, this approach</mark> acknowledges that children are often products of their environment and that addressing the root causes of juvenile delinquency requires intervention at the family level. <mark>It stands to reason that</mark> holding parents accountable could lead to a more proactive and preventative approach to crime reduction.</p>\n\n<p>In conclusion, while both perspectives offer valuable insights, I believe that a nuanced approach is necessary. In cases where parental negligence is demonstrably a <mark>contributing factor</mark>, holding parents accountable is justifiable. However, it is equally important to acknowledge the agency of young offenders and to implement age-appropriate consequences that promote rehabilitation and reintegration into society. <mark>Striking a balance</mark> between parental responsibility and individual accountability is, in my opinion, the most effective way to address the complex issue of juvenile crime and <mark>foster a safer and more just society</mark>. Punishments should be tailored to the specific circumstances of each case, <mark>taking into account</mark> the severity of the offense, the age and maturity of the offender, and the level of parental involvement. <mark>Ultimately</mark>, the goal should be to prevent future crime and to help young people become responsible and productive members of society.\n</p>",
+    "timeMinutes": 40,
+    "sampleAnswer": "The question of who should bear responsibility when minors commit crimes—the children themselves or their parents—is a complex and often emotive issue. This essay will examine both perspectives before presenting my own view.\n\nAdvocates for punishing child offenders argue that holding children accountable teaches them personal responsibility and the consequences of their actions. If children are shielded from punishment, they may not fully understand the gravity of their wrongdoing, potentially leading to further criminal behavior in the future. Furthermore, even at a young age, children possess a degree of moral understanding and should face appropriate consequences, albeit ones that focus on rehabilitation rather than harsh punishment.\n\nOn the other hand, those who believe parents should be held responsible contend that children's behavior is largely a product of their upbringing. Parents are tasked with instilling values, setting boundaries, and supervising their children's activities. When a child commits a crime, it may indicate a failure of parental guidance, neglect, or an unstable home environment. Punishing parents could incentivize them to take their supervisory duties more seriously and address any issues contributing to their child's delinquency.\n\nIn my opinion, a balanced approach is most appropriate. While parents should face some accountability for failing to adequately supervise or guide their children, it is important that the child also understands the consequences of their actions through age-appropriate measures. The focus, however, should always be on rehabilitation and education rather than punitive measures, ensuring the child has the opportunity to learn from their mistakes and become a responsible adult.",
+    "uzSampleBand5": "<p>Ba'zan bolalar yomon ishlar qilishlari rost. Bunday holat yuz berganda, ba'zi odamlar bolani jazolash kerak deb hisoblashadi. Boshqa odamlar esa ota-onalar aybdor deb hisoblashadi va ular <mark>bolaning o'rniga</mark> jazolanishi kerak. Men bu ikki fikr haqida gapiraman.</p>\n\n<p>Ba'zi odamlar bolalar jazolanishi kerak deb hisoblashadi, chunki ular jinoyat sodir etishdi. Ular agar siz noto'g'ri ish qilsangiz, uning uchun to'lashingiz kerak deb hisoblashadi. <mark>Buning sababi shundaki</mark>, agar bolalar jazolanmasa, ular buni yana qilishlari mumkin. Shuningdek, bu boshqa bolalarga yomon ishlar qilish yaxshi emasligini ko'rsatadi. Bolalarni jazolash ularga saboq berishi mumkin. Misol uchun, agar bola do'kondan biror narsa o'g'irlasa, u do'konga pul to'lash uchun bepul ishlashi kerak bo'lishi mumkin. Bu ularga boshqa o'g'irlik qilmaslikni o'rganishga yordam beradi.</p>\n\n<p>Boshqa odamlar ota-onalar jazolanishi kerak deb o'ylashadi. <mark>Buning sababi shundaki</mark>, ota-onalar o'z farzandlari uchun mas'uldirlar. Agar bola noto'g'ri ish qilsa, buning sababi ota-onalar ularga yaxshi va yomonni o'rgatmagan bo'lishi mumkin. Ehtimol, ota-onalar farzandlari bilan yetarli vaqt o'tkazmagandir yoki ular yaxshi o'rnak bo'lmagandir. Agar ota-onalar jazolansa, bu ularni kelajakda farzandlariga ko'proq e'tibor berishga majbur qilishi mumkin. <mark>Misol uchun</mark>, ota-onalar yaxshiroq ota-ona bo'lishni o'rganish uchun darslarga borishlari kerak bo'lishi mumkin.</p>\n\n<p>Mening fikrimcha, bu ikkalasining ham bir qismi. Jinoyatni bola sodir etgan, ammo ota-onalar ham ma'lum darajada mas'ul bo'lishi mumkin. Ehtimol, bola ma'lum bir jazoga tortilishi kerakdir, lekin ota-onalar ham bolaga o'z xatolaridan saboq olishga yordam berish uchun biror narsa qilishlari kerak. <mark>Bu murakkab savol</mark>, va unga oson javob yo'q.</p>",
+    "uzSampleBand6": "<p>Bolalar jinoyat sodir etganda, bu muammoni qanday hal qilish kerakligi haqida munozara mavjud. Ba'zi odamlar, bu bolalarning o'zlari jazolanishi kerak deb hisoblaydi. Boshqalar esa, aksincha, <mark>ishonishicha</mark> ota-onalar jazolanishi kerak. Ushbu insho ushbu bahsning har ikki tomonini muhokama qiladi va keyin o'z fikrimni bildiradi.</p>\n\n<p>Bir tomondan, ba'zi odamlar bolalar o'z harakatlari uchun javobgar bo'lishi kerak deb ta'kidlaydi. Ular bolalarni jazolash ularga saboq beradi va ularning xatti-harakatlari noto'g'ri ekanligini <mark>tushunishga yordam beradi</mark> deb hisoblashadi. Agar bolalar jazolanmasa, ular jinoyat sodir etishda davom etishi va kelajakda undan ham yomon jinoyatchilarga aylanishi mumkin. Bundan tashqari, bu har doim ham ota-onalarning aybi bo'lmasligi mumkin. Ba'zi bolalarni, hatto yaxshi tarbiya bilan ham nazorat qilish qiyin bo'lishi mumkin. Bolani jazolash kelajakdagi noto'g'ri xatti-harakatlar uchun <mark>ogohlantiruvchi omil bo'lib xizmat qilishi</mark> mumkin.</p>\n\n<p>Boshqa tomondan, ba'zi odamlar ota-onalar bolalarining jinoyatlari uchun jazolanishi kerak deb o'ylashadi. Ular ota-onalar bolalarini tarbiyalash va ularga yaxshi va yomonni o'rgatish uchun mas'uldir deb ta'kidlashadi. Agar bola jinoyat sodir etsa, bu ota-onalar etarli nazorat yoki yo'l-yo'riq bera olmagani uchun bo'lishi mumkin. <mark>Shuningdek, shunday bo'lishi mumkin</mark>ki, ota-onalar bolalari uchun yomon namuna ko'rsatgan. Misol uchun, agar ota-onalar jinoiy faoliyat bilan shug'ullansa, ularning bolalari ham ularning izidan borish ehtimoli ko'proq. Ba'zilarning ta'kidlashicha, ota-onalarni jazolash ularni o'z mas'uliyatlariga jiddiyroq qarashga majbur qiladi.</p>\n\n<p>Mening fikrimcha, har bir holatning sharoitlarini ko'rib chiqish muhim. Ba'zi hollarda bola o'z harakatlari uchun asosan javobgar bo'lishi mumkin, boshqa hollarda esa, ota-onalar ko'proq aybdor bo'lishi mumkin. Ehtimol, jazo va qo'llab-quvvatlashning kombinatsiyasi eng yaxshi yondashuv bo'lar edi. <mark>Menga shunday tuyuladiki</mark>, shunchaki kimnidir, xoh bola bo'lsin, xoh ota-ona bo'lsin, jazolashdan ko'ra reabilitatsiyaga e'tibor qaratish muhimroq. Maqsad kelajakda jinoyatlarning sodir bo'lishining oldini olish bo'lishi kerak.</p>",
+    "uzSampleBand7": "<p>Voyaga yetmaganlar jinoyatchiligi muammosini qanday hal qilish masalasi murakkab bo'lib, ba'zilar bolalarni jazolash tarafdori bo'lsa, boshqalar ota-onalar javobgar bo'lishi kerak deb hisoblaydi. Ikkala nuqtai nazar ham o'rinli va ehtiyotkorlik bilan ko'rib chiqishga loyiq. Ushbu insho ikkala nuqtai nazarni ham o'rganib chiqadi va o'z fikrimni bildiradi.</p>\n\n<p>Bir tomondan, jinoyat sodir etgan bolalarni jazolash tarafdorlari bu mas'uliyat hissini singdirish va kelajakdagi jinoyatlarning oldini olish uchun zarur deb hisoblashadi. Ularning ta'kidlashicha, bolalarni o'z harakatlari uchun javobgar qilish ularga o'z tanlovlarining oqibatlari haqida qimmatli saboq beradi. <mark>Bundan tashqari, ba'zilarning fikricha</mark>, bu potentsial xavfli shaxslarni ko'chalardan olib tashlash orqali jamiyatni himoya qiladi. Bu yerdagi argument shundan iboratki, jazo chorasi nafaqat alohida bola uchun, balki jinoyatga qo'l urishga vasvasaga tushishi mumkin bo'lgan boshqa yoshlar uchun ham to'sqinlik qilishi mumkin. <mark>Bu nuqtai nazarda ma'lum asos bor</mark>, ayniqsa jiddiy jinoyatlar bilan shug'ullanganda.</p>\n\n<p>Aksincha, ota-onalarni jazolash tarafdorlari ota-onalar farzandlarining tarbiyasi va xulq-atvori uchun oxir-oqibatda javobgar ekanligini ta'kidlaydilar. Ularning ta'kidlashicha, agar bola jinoyat sodir etsa, bu ko'pincha yetarli darajada ota-onalik qilmaslik, nazoratning yo'qligi yoki tegishli qadriyatlarni singdira olmaslikning aksidir. <mark>Shu nuqtai nazardan, ota-onalar bu kamchiliklar uchun javobgar bo'lishi kerak</mark>, ehtimol jarimalar, majburiy ota-onalik darslari yoki hatto jamoat ishlari orqali. <mark>Asosiy argument</mark> ota-onalarni jazolash ularni farzandlarining hayotida faolroq ishtirok etishga va yanada qo'llab-quvvatlovchi va g'amxo'rlik muhitini ta'minlashga undashi mumkin. Bu yondashuv, ayniqsa, bolaning jinoyat xulq-atvori e'tiborsizlik yoki zo'ravonlikdan kelib chiqqan hollarda samarali bo'lishi mumkin.</p>\n\n<p>Mening fikrimcha, muvozanatli yondashuv zarur. Bolalar o'z harakatlari uchun javobgar bo'lishlari kerak bo'lsa-da, jinoyatni o'rab turgan holatlar ham hisobga olinishi kerak. <mark>Ota-onalarning</mark> bolaning xulq-atvoridagi rolini baholash juda muhim. Agar ota-onalarning beparvoligi yoki zo'ravonligi omil bo'lsa, ota-onalarga jarima solish o'rinli bo'lishi mumkin. Biroq, bolalarining jinoyatlari uchun ota-onalarni avtomatik ravishda jazolashning umumiy yondashuvi samarali bo'lishi dargumon va hatto aksincha bo'lishi mumkin. <mark>Oxir oqibat, bolani</mark> reabilitatsiya qilish va oilani qo'llab-quvvatlashning kombinatsiyasi ko'pincha voyaga yetmaganlar jinoyatchiligini hal qilish va kelajakdagi jinoyatlarning oldini olishning eng samarali usuli hisoblanadi.</p>",
+    "uzSampleBand8": "<p>Voyaga yetmaganlar jinoyati muammosini qanday hal qilish murakkab masala bo'lib, ikkita asosiy nuqtai nazar mavjud. Bir nuqtai nazar yosh jinoyatchilarning o'zlarini jazolashni yoqlasa, ikkinchi nuqtai nazar ota-onalar javobgarlikka tortilishi kerakligini ta'kidlaydi. Ushbu insho ushbu bahsning har ikki tomonini o'rganib chiqadi va keyin o'z fikrimni bildiradi.</p>\n\n<p>Jinoyat sodir etgan bolalarni jazolash tarafdorlari ko'pincha hisobdorlik va ogohlantirishning <mark>ahamiyatini ta'kidlaydilar</mark>. Ularning ta'kidlashicha, yoshlarni o'z harakatlari uchun javobgar qilish ularga o'z tanlovlari oqibatlari haqida qimmatli saboq beradi. Bundan tashqari, jazo, xoh u jamoat ishlari bo'lsin, xoh qamoq jazosi, nafaqat jinoyatchining o'zini takroriy jinoyat sodir etishdan to'xtatib qolishi, balki boshqa yoshlarni ham jinoiy xatti-harakatlarga aralashishdan qaytarishi mumkin. Ushbu yondashuv bolalar, hatto yoshligida ham, tushunish va axloqiy ong darajasiga ega, ularni yaxshilikni yomonlikdan ajrata olishga qodir, degan <mark>ishonchga asoslangan</mark>. Biroq, bu nuqtai nazar ko'pincha voyaga yetmaganlar jinoyatiga hissa qo'shishi mumkin bo'lgan yumshatuvchi holatlarni, masalan, disfunktsional uy muhiti yoki ta'lim olish imkoniyatining yo'qligini e'tibordan chetda qoldiradi.</p>\n\n<p>Aksincha, ota-onalar jazolanishi kerak, deb hisoblaydiganlar, ota-onalar o'z farzandlarining tarbiyasi va xulq-atvori uchun birinchi navbatda mas'ul ekanligini ta'kidlaydilar. Ularning ta'kidlashicha, ota-onalarning beparvoligi, suiiste'mollik yoki tegishli yo'l-yo'riqning yo'qligi bolaning jinoyatga aralashishiga olib kelishi mumkin. Ota-onalarni jarima to'lash yoki majburiy ota-onalik darslari orqali jazolash ularni bolalarining hayotida faolroq va mas'uliyatli rol o'ynashga <mark>undaish usuli sifatida qaraladi</mark>. Bundan tashqari, bu nuqtai nazar bolalar ko'pincha o'z muhitining mahsuli ekanligini va oila ichidagi jinoyatning asosiy sabablarini bartaraf etish juda muhimligini tan oladi. Shunga qaramay, shuni tan olish kerakki, barcha ota-onalar bolalarni tarbiyalashdagi qiyinchiliklarni yengish uchun bir xil darajada jihozlanmagan va ularni jazolash har doim ham eng samarali yechim bo'lmasligi mumkin.</p>\n\n<p>Mening fikrimcha, yanada nozik yondashuv zarur. Yosh jinoyatchilarni javobgarlikka tortish muhim bo'lsa-da, ota-onalarning roli va keng ijtimoiy kontekstni hisobga olish ham muhimdir. Shunchaki jazoga murojaat qilish o'rniga, yosh jinoyatchilar uchun reabilitatsiya choralarini ularning oilalariga yordam va yo'l-yo'riq bilan birlashtirgan tizim voyaga yetmaganlar jinoyatining <mark>asosiy sabablarini bartaraf etishda</mark> samaraliroq bo'ladi. Bu maslahat xizmatlari, ta'lim dasturlari va ota-onalarni qo'llab-quvvatlash guruhlariga kirishni ta'minlashni o'z ichiga olishi mumkin. Oxir oqibat, profilaktika, reabilitatsiya va qo'llab-quvvatlashga qaratilgan <mark>yaxlit yondashuv</mark> shunchaki jazo choralariga nisbatan <mark>uzoq muddatli ijobiy natijalarga olib kelishi</mark> ehtimoli ko'proq. Hisobdorlik va tushunish o'rtasida <mark>to'g'ri muvozanatni topish</mark> xavfsizroq va adolatliroq jamiyat yaratishning kalitidir. Faqat bolalarni yoki ota-onalarni jazolaydigan <mark>bir xil yondashuv</mark> muammoning <mark>murakkabligini qadrlay olmaydi</mark>.</p>",
+    "uzSampleBand9": "<p>Voyaga yetmaganlar o'rtasidagi jinoyatchilik muammosini qanday hal qilish masalasi murakkab bo'lib, ikkita asosiy nuqtai nazar paydo bo'ladi: biri yosh jinoyatchilarning o'zlarini jazolashni yoqlasa, ikkinchisi ota-onalar javobgarlikni o'z zimmalariga olishlari kerakligini taklif qiladi. Ikkala nuqtai nazar ham o'rinli bo'lsa-da, mening fikrimcha, har ikki tomonning aybdorligini hisobga oladigan muvozanatli yondashuv eng samarali hisoblanadi.</p>\n\n<p>Jinoyat sodir etgan bolalarni jazolash tarafdorlari ko'pincha bu javobgarlikni o'rgatish va kelajakdagi jinoyatlarning oldini olish uchun zarur deb ta'kidlaydilar. <mark>Shu nuqtai nazardan</mark>, yoshlarni yoshidan qat'i nazar, o'z harakatlari uchun javobgar qilish, harakatlar oqibatlarga olib kelishi haqidagi tushunchani mustahkamlaydi. Bundan tashqari, ular ta'kidlashicha, yumshoq yondashuv bexosdan jinoiy xatti-harakatlar o'smirlik davrida kechirilishi mumkin degan xabarni yuborishi mumkin, bu esa <mark>takroriy jinoyatlar tsikliga</mark> olib kelishi mumkin. Bu nuqtai nazar, ayniqsa, jabrlanuvchining azobi mutanosib javobni talab qiladigan jiddiy jinoyatlarda juda muhimdir.</p>\n\n<p>Aksincha, ota-onalarning javobgarligini yoqlovchilar ota-onalarning bolalar tarbiyasi va xulq-atvoriga katta ta'sirini ta'kidlaydilar. Ularning ta'kidlashicha, etarli nazoratning yo'qligi, axloqiy yo'l-yo'riqning yo'qligi yoki noto'g'ri oilaviy muhit bolaning jinoyatga aralashuviga <mark>sezilarli darajada hissa qo'shishi</mark> mumkin. Shuning uchun ota-onalarni jarima, majburiy ota-onalik darslari yoki hatto jamoat ishlari orqali jazolash ularni yanada qo'llab-quvvatlovchi va mas'uliyatli tarbiyani ta'minlashga undashi mumkin. <mark>Bundan tashqari, ushbu yondashuv</mark> bolalar ko'pincha o'z muhitining mahsuli ekanligini va voyaga etmaganlar o'rtasidagi jinoyatchilikning asosiy sabablarini bartaraf etish oilaviy darajada aralashuvni talab qilishini tan oladi. <mark>Shundan kelib chiqadiki</mark> ota-onalarni javobgarlikka tortish jinoyatchilikni kamaytirishga nisbatan yanada faol va profilaktik yondashuvga olib kelishi mumkin.</p>\n\n<p>Xulosa qilib aytganda, ikkala nuqtai nazar ham qimmatli fikrlarni taqdim etsa-da, menimcha, nozik yondashuv zarur. Ota-onalarning beparvoligi <mark>hissa qo'shuvchi omil</mark> ekanligi aniq bo'lgan hollarda, ota-onalarni javobgarlikka tortish oqlanadi. Biroq, yosh jinoyatchilarning erkinligini tan olish va reabilitatsiyani rag'batlantiradigan va jamiyatga qayta integratsiyalashuvga yordam beradigan yoshga mos oqibatlarni joriy etish ham muhimdir. Ota-onalarning javobgarligi va shaxsiy javobgarlik o'rtasida <mark>muvozanatni saqlash</mark>, mening fikrimcha, voyaga yetmaganlar o'rtasidagi jinoyatchilikning murakkab muammosini hal qilishning va <mark>yanada xavfsiz va adolatli jamiyatni shakllantirishning</mark> eng samarali usuli hisoblanadi. Jazolar har bir ishning o'ziga xos holatlariga moslashtirilishi kerak, bunda jinoyatning og'irligi, jinoyatchining yoshi va yetukligi hamda ota-onalarning ishtiroki darajasi <mark>hisobga olinishi</mark> kerak. <mark>Oxir oqibat</mark>, maqsad kelajakdagi jinoyatlarning oldini olish va yoshlarga jamiyatning mas'uliyatli va unumli a'zosi bo'lishga yordam berish bo'lishi kerak.\n</p>"
+   }
+  },
+  "source": "Makkar IELTS",
+  "examDate": "2022-09-24",
+  "settings": {
+   "timeInfo": "60 Minutes",
+   "moduleTitle": "Academic Writing Module",
+   "testIdentifier": "Mock 19"
+  },
+  "vocabulary": {
+   "task1": [
+    {
+     "term": "Life expectancy",
+     "meaning": "The average period a person may expect to live."
+    },
+    {
+     "term": "Intermediate values",
+     "meaning": "Numbers that fall between the highest and lowest in a range."
+    },
+    {
+     "term": "Remarkable improvement",
+     "meaning": "An outstanding or significant positive change."
+    },
+    {
+     "term": "Modest growth",
+     "meaning": "A small or moderate increase."
+    },
+    {
+     "term": "Impressive progress",
+     "meaning": "Notable advancement or development."
+    },
+    {
+     "term": "Effectively",
+     "meaning": "In such a manner as to achieve a desired result."
+    },
+    {
+     "term": "Surpassing",
+     "meaning": "Exceeding or going beyond in amount or degree."
+    },
+    {
+     "term": "Gain",
+     "meaning": "An increase in value, amount, or quality."
+    }
+   ],
+   "task2": [
+    {
+     "term": "Emotive issue",
+     "meaning": "A topic that arouses strong feelings."
+    },
+    {
+     "term": "Accountable",
+     "meaning": "Required or expected to justify actions or decisions; responsible."
+    },
+    {
+     "term": "Gravity",
+     "meaning": "The seriousness or importance of something."
+    },
+    {
+     "term": "Rehabilitation",
+     "meaning": "The process of helping someone to live a normal life again after illness, prison, etc."
+    },
+    {
+     "term": "Upbringing",
+     "meaning": "The treatment and instruction received by a child from its parents."
+    },
+    {
+     "term": "Instilling values",
+     "meaning": "Gradually establishing beliefs or principles in someone's mind."
+    },
+    {
+     "term": "Delinquency",
+     "meaning": "Minor crime, especially that committed by young people."
+    },
+    {
+     "term": "Punitive measures",
+     "meaning": "Actions intended as punishment."
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "Overall": {
+    "uz": "Umuman olganda",
+    "type": "linking"
+   },
+   "at around": {
+    "uz": "taxminan",
+    "type": "lexical"
+   },
+   "In summary": {
+    "uz": "Xulosa qilib",
+    "type": "linking"
+   },
+   "Ultimately": {
+    "uz": "Oxir oqibat",
+    "type": "linking"
+   },
+   "elucidates": {
+    "uz": "izohlaydi",
+    "type": "academic"
+   },
+   "For example": {
+    "uz": "Misol uchun",
+    "type": "linking"
+   },
+   "believe that": {
+    "uz": "ishonish",
+    "type": "lexical"
+   },
+   "worth noting": {
+    "uz": "ta'kidlashga arziydi",
+    "type": "academic"
+   },
+   "In conclusion": {
+    "uz": "Xulosa qilib aytganda",
+    "type": "linking"
+   },
+   "lagged behind": {
+    "uz": "ortda qoldi",
+    "type": "lexical"
+   },
+   "A key argument": {
+    "uz": "Asosiy argument",
+    "type": "academic"
+   },
+   "was lower than": {
+    "uz": "undan pastroq edi",
+    "type": "lexical"
+   },
+   "This is because": {
+    "uz": "Buning sababi",
+    "type": "linking"
+   },
+   "hovering around": {
+    "uz": "atrofida aylanib yurish",
+    "type": "lexical"
+   },
+   "data underscores": {
+    "uz": "ma'lumotlar ta'kidlaydi",
+    "type": "academic"
+   },
+   "between the years": {
+    "uz": "yillar oralig'ida",
+    "type": "lexical"
+   },
+   "holistic approach": {
+    "uz": "yaxlit yondashuv",
+    "type": "academic"
+   },
+   "A blanket approach": {
+    "uz": "Yondashuvning umumiy yo'li",
+    "type": "lexical"
+   },
+   "Striking a balance": {
+    "uz": "Muvozanatga erishish",
+    "type": "colloc"
+   },
+   "act as a deterrent": {
+    "uz": "tiyib turuvchi vosita sifatida xizmat qilish",
+    "type": "colloc"
+   },
+   "had a big increase": {
+    "uz": "katta o'sishga ega bo'ldi",
+    "type": "lexical"
+   },
+   "It is also possible": {
+    "uz": "Shuningdek, mumkin",
+    "type": "academic"
+   },
+   "It seems to me that": {
+    "uz": "Menga shunday tuyuladi",
+    "type": "academic"
+   },
+   "contributing factor": {
+    "uz": "hissa qo'shuvchi omil",
+    "type": "academic"
+   },
+   "cycle of recidivism": {
+    "uz": "qayta jinoyatchilik davri",
+    "type": "academic"
+   },
+   "is seen as a way to": {
+    "uz": "buning yo'li sifatida ko'riladi",
+    "type": "academic"
+   },
+   "remarkable progress": {
+    "uz": "ajoyib taraqqiyot",
+    "type": "academic"
+   },
+   "taking into account": {
+    "uz": "hisobga olgan holda",
+    "type": "academic"
+   },
+   "From this standpoint": {
+    "uz": "Shu nuqtai nazardan",
+    "type": "linking"
+   },
+   "instead of the child": {
+    "uz": "bola o'rniga",
+    "type": "lexical"
+   },
+   "A clear overall trend": {
+    "uz": "Umumiy aniq tendensiya",
+    "type": "academic"
+   },
+   "had smaller increases": {
+    "uz": "kichikroq o'sishlarga ega bo'ldi",
+    "type": "lexical"
+   },
+   "more pronounced gains": {
+    "uz": "sezilarliroq o'sish",
+    "type": "academic"
+   },
+   "disparity in longevity": {
+    "uz": "umr ko'rishdagi tafovut",
+    "type": "academic"
+   },
+   "had a smaller increase": {
+    "uz": "kichikroq o'sishga ega bo'ldi",
+    "type": "lexical"
+   },
+   "It is crucial to assess": {
+    "uz": "Baholash juda muhim",
+    "type": "academic"
+   },
+   "It is worth noting that": {
+    "uz": "Shuni ta'kidlash joizki",
+    "type": "academic"
+   },
+   "Moreover, this approach": {
+    "uz": "Bundan tashqari, bu yondashuv",
+    "type": "linking"
+   },
+   "These trends illustrate": {
+    "uz": "Bu tendensiyalar ko'rsatadi",
+    "type": "academic"
+   },
+   "considerably lower base": {
+    "uz": "sezilarli darajada past baza",
+    "type": "academic"
+   },
+   "highest life expectancy": {
+    "uz": "eng yuqori umr ko'rish davomiyligi",
+    "type": "academic"
+   },
+   "It stands to reason that": {
+    "uz": "Mantiqan shunday",
+    "type": "academic"
+   },
+   "helps them to understand": {
+    "uz": "ularga tushunishga yordam beradi",
+    "type": "lexical"
+   },
+   "registered notable gains": {
+    "uz": "sezilarli o'sish qayd etdi",
+    "type": "academic"
+   },
+   "Furthermore, some believe": {
+    "uz": "Bundan tashqari, ba'zilar ishonadi",
+    "type": "linking"
+   },
+   "standing at approximately": {
+    "uz": "taxminan turibdi",
+    "type": "lexical"
+   },
+   "Striking the right balance": {
+    "uz": "To'g'ri muvozanatga erishish",
+    "type": "colloc"
+   },
+   "emphasize the importance of": {
+    "uz": "muhimligini ta'kidlash",
+    "type": "academic"
+   },
+   "is predicated on the belief": {
+    "uz": "ishonchga asoslangan",
+    "type": "academic"
+   },
+   "significantly contribute to": {
+    "uz": "muhim hissa qo'shish",
+    "type": "academic"
+   },
+   "Overall, people lived longer": {
+    "uz": "Umuman olganda, odamlar uzoqroq yashashdi",
+    "type": "academic"
+   },
+   "This is a difficult question": {
+    "uz": "Bu murakkab savol",
+    "type": "academic"
+   },
+   "Ultimately, a combination of": {
+    "uz": "Oxir oqibat, kombinatsiyasi",
+    "type": "linking"
+   },
+   "experienced more modest gains": {
+    "uz": "kamroq o'sishni boshdan kechirdi",
+    "type": "academic"
+   },
+   "elucidates the life expectancy": {
+    "uz": "umr ko'rish davomiyligini izohlaydi",
+    "type": "academic"
+   },
+   "exhibited the least pronounced": {
+    "uz": "eng kam sezilarli namoyon bo'ldi",
+    "type": "academic"
+   },
+   "illustrate the life expectancy": {
+    "uz": "umr ko'rish davomiyligini tasvirlash",
+    "type": "academic"
+   },
+   "details the incremental changes": {
+    "uz": "bosqichma-bosqich o'zgarishlarni batafsil bayon qiladi",
+    "type": "academic"
+   },
+   "A comparison of the data reveals": {
+    "uz": "Ma'lumotlarni taqqoslash shuni ko'rsatadi",
+    "type": "academic"
+   },
+   "increased across all four nations": {
+    "uz": "barcha to'rtta davlatda o'sdi",
+    "type": "academic"
+   },
+   "yield long-term positive outcomes": {
+    "uz": "uzoq muddatli ijobiy natijalarga olib keladi",
+    "type": "academic"
+   },
+   "There is some validity to this view": {
+    "uz": "Bu nuqtai nazarda ma'lum bir asos bor",
+    "type": "academic"
+   },
+   "addressing the underlying causes of": {
+    "uz": "asosiy sabablarni bartaraf etish",
+    "type": "academic"
+   },
+   "underscore the diverse trajectories": {
+    "uz": "turli xil traektoriyalarni ta'kidlash",
+    "type": "academic"
+   },
+   "fails to appreciate the complexities": {
+    "uz": "murakkabliklarni qadrlay olmaydi",
+    "type": "academic"
+   },
+   "foster a safer and more just society": {
+    "uz": "xavfsizroq va adolatli jamiyatni rivojlantirish",
+    "type": "academic"
+   },
+   "experienced the most dramatic increase": {
+    "uz": "eng keskin o'sishni boshdan kechirdi",
+    "type": "academic"
+   },
+   "experienced the most substantial increase": {
+    "uz": "eng sezilarli o'sishni boshdan kechirdi",
+    "type": "academic"
+   },
+   "In this view, parents should be held accountable": {
+    "uz": "Shu nuqtai nazardan, ota-onalar javobgar bo'lishi kerak",
+    "type": "academic"
+   }
+  }
+ },
+ "created_at": "2026-05-06T17:28:53.234375+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

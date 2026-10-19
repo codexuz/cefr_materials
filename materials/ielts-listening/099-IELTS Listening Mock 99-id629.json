@@ -1,0 +1,500 @@
+{
+ "id": 629,
+ "mock_type": "ielts-listening",
+ "mock_number": 99,
+ "title": "IELTS Listening Mock 99",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "gap-fill-form",
+    "title": "Enquiry about joining Youth Council",
+    "answers": {
+     "1": [
+      "hostel"
+     ],
+     "2": [
+      "Buckleigh"
+     ],
+     "3": [
+      "PE9 7QT"
+     ],
+     "4": [
+      "waiter"
+     ],
+     "5": [
+      "politics"
+     ],
+     "6": [
+      "cycling"
+     ],
+     "7": [
+      "cinema"
+     ],
+     "8": [
+      "disabled"
+     ],
+     "9": [
+      "4.30",
+      "4.30 pm",
+      "half past four"
+     ],
+     "10": [
+      "07788 136711"
+     ]
+    },
+    "subParts": null,
+    "audioFile": "https://audio.mock-stream.com/ielts-listening/test99/part1.m4a",
+    "formTitle": "",
+    "partNumber": 1,
+    "formContent": "<div class=\"ielts-form-container\"><div class=\"form-section\"><div class=\"form-title\" style=\"text-align:center;font-weight:700;font-size:1.15em;margin-bottom:12px;\">Enquiry about joining Youth Council</div><p style=\"font-style:italic;\">Example</p><p style=\"padding-left:18px;\">Name: Roger <span style=\"text-decoration:underline;\">Brown</span></p><p style=\"padding-left:18px;margin-top:10px;\">Age: 18</p><p style=\"padding-left:18px;margin-top:10px;\">Currently staying in a <strong>1</strong> <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"1\" style=\"width:150px;text-align:center;\"> during the week</p><p style=\"padding-left:18px;margin-top:10px;\">Postal address: <strong>2</strong> 17, <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"2\" style=\"width:150px;text-align:center;\"> Street, Stamford, Lincs</p><p style=\"padding-left:18px;margin-top:10px;\">Postcode: <strong>3</strong> <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"3\" style=\"width:150px;text-align:center;\"></p><p style=\"padding-left:18px;margin-top:10px;\">Occupation: student and part-time job as a <strong>4</strong> <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"4\" style=\"width:150px;text-align:center;\"></p><p style=\"padding-left:18px;margin-top:10px;\">Studying <strong>5</strong> <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"5\" style=\"width:150px;text-align:center;\"> (major subject) and history (minor subject)</p><p style=\"padding-left:18px;margin-top:10px;\">Hobbies: does a lot of <strong>6</strong> <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"6\" style=\"width:150px;text-align:center;\"> , and is interested in the <strong>7</strong> <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"7\" style=\"width:150px;text-align:center;\"></p><p style=\"padding-left:18px;margin-top:10px;\">On Youth Council, wants to work with young people who are <strong>8</strong> <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"8\" style=\"width:150px;text-align:center;\"></p><p style=\"padding-left:18px;margin-top:10px;\">Will come to talk to the Elections Officer next Monday at <strong>9</strong> <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"9\" style=\"width:150px;text-align:center;\"> pm</p><p style=\"padding-left:18px;margin-top:10px;\">Mobile number: <strong>10</strong> <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"10\" style=\"width:150px;text-align:center;\"></p></div></div>",
+    "instruction": "You will hear a young man telephoning a Youth Council to enquire about joining.<br>Complete the notes below. Write <strong>ONE WORD AND/OR A NUMBER</strong> for each answer.",
+    "questionRange": "1-10"
+   },
+   {
+    "type": "mixed",
+    "title": "New staff at theatre",
+    "answers": {
+     "11": [
+      "A",
+      "B"
+     ],
+     "12": [
+      "A",
+      "B"
+     ],
+     "13": [
+      "B",
+      "D"
+     ],
+     "14": [
+      "B",
+      "D"
+     ],
+     "15": [
+      "C",
+      "E"
+     ],
+     "16": [
+      "C",
+      "E"
+     ],
+     "17": [
+      "G"
+     ],
+     "18": [
+      "D"
+     ],
+     "19": [
+      "B"
+     ],
+     "20": [
+      "F"
+     ]
+    },
+    "subParts": [
+     {
+      "type": "mcq-multi",
+      "options": [
+       {
+        "text": "Some rooms now have a different use.",
+        "letter": "A"
+       },
+       {
+        "text": "A different type of seating has been installed.",
+        "letter": "B"
+       },
+       {
+        "text": "An elevator has been installed.",
+        "letter": "C"
+       },
+       {
+        "text": "The outside of the building has been repaired.",
+        "letter": "D"
+       },
+       {
+        "text": "Extra seats have been added.",
+        "letter": "E"
+       }
+      ],
+      "instruction": "Questions 11 and 12<br>Choose <strong>TWO</strong> letters, <strong>A-E</strong>.<br>Which TWO changes have been made so far during the refurbishment of the theatre?",
+      "questionIds": [
+       11,
+       12
+      ]
+     },
+     {
+      "type": "mcq-multi",
+      "options": [
+       {
+        "text": "rooms for hire",
+        "letter": "A"
+       },
+       {
+        "text": "backstage tours",
+        "letter": "B"
+       },
+       {
+        "text": "hire of costumes",
+        "letter": "C"
+       },
+       {
+        "text": "a bookshop",
+        "letter": "D"
+       },
+       {
+        "text": "a caf&eacute;",
+        "letter": "E"
+       }
+      ],
+      "instruction": "Questions 13 and 14<br>Choose <strong>TWO</strong> letters, <strong>A-E</strong>.<br>Which TWO facilities does the theatre currently offer to the public?",
+      "questionIds": [
+       13,
+       14
+      ]
+     },
+     {
+      "type": "mcq-multi",
+      "options": [
+       {
+        "text": "sound",
+        "letter": "A"
+       },
+       {
+        "text": "acting",
+        "letter": "B"
+       },
+       {
+        "text": "making puppets",
+        "letter": "C"
+       },
+       {
+        "text": "make-up",
+        "letter": "D"
+       },
+       {
+        "text": "lighting",
+        "letter": "E"
+       }
+      ],
+      "instruction": "Questions 15 and 16<br>Choose <strong>TWO</strong> letters, <strong>A-E</strong>.<br>Which TWO workshops does the theatre currently offer?",
+      "questionIds": [
+       15,
+       16
+      ]
+     },
+     {
+      "type": "map-labeling",
+      "mapImage": "https://audio.mock-stream.com/ielts-listening/test99/map2.png",
+      "mapTitle": "Ground floor plan of theatre",
+      "mapLabels": [
+       "A",
+       "B",
+       "C",
+       "D",
+       "E",
+       "F",
+       "G"
+      ],
+      "questions": [
+       {
+        "id": 17,
+        "place": "box office"
+       },
+       {
+        "id": 18,
+        "place": "theatre manager&rsquo;s office"
+       },
+       {
+        "id": 19,
+        "place": "lighting box"
+       },
+       {
+        "id": 20,
+        "place": "artistic director&rsquo;s office"
+       }
+      ],
+      "instruction": "Questions 17-20<br>Label the plan below. Write the correct letter, <strong>A-G</strong>, next to Questions 17-20."
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/ielts-listening/test99/part2.m4a",
+    "partNumber": 2,
+    "instruction": "You will hear a woman telling a group of new staff about the theatre where they will be working.",
+    "questionRange": "11-20"
+   },
+   {
+    "type": "mixed",
+    "title": "Rocky Bay field trip",
+    "answers": {
+     "21": [
+      "A"
+     ],
+     "22": [
+      "A"
+     ],
+     "23": [
+      "C"
+     ],
+     "24": [
+      "B"
+     ],
+     "25": [
+      "B"
+     ],
+     "26": [
+      "B"
+     ],
+     "27": [
+      "A",
+      "D"
+     ],
+     "28": [
+      "A",
+      "D"
+     ],
+     "29": [
+      "C",
+      "E"
+     ],
+     "30": [
+      "C",
+      "E"
+     ]
+    },
+    "subParts": [
+     {
+      "type": "mcq",
+      "questions": [
+       {
+        "id": 21,
+        "text": "What do the students agree should be included in their aims?",
+        "options": [
+         {
+          "text": "factors affecting where organisms live",
+          "letter": "A"
+         },
+         {
+          "text": "the need to preserve endangered species",
+          "letter": "B"
+         },
+         {
+          "text": "techniques for classifying different organisms",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 22,
+        "text": "What equipment did they forget to take on the Field Trip?",
+        "options": [
+         {
+          "text": "string",
+          "letter": "A"
+         },
+         {
+          "text": "a compass",
+          "letter": "B"
+         },
+         {
+          "text": "a ruler",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 23,
+        "text": "In Helen&rsquo;s procedure section, Colin suggests a change in",
+        "options": [
+         {
+          "text": "the order in which information is given.",
+          "letter": "A"
+         },
+         {
+          "text": "the way the information is divided up.",
+          "letter": "B"
+         },
+         {
+          "text": "the amount of information provided.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 24,
+        "text": "What do they say about the method they used to measure wave speed?",
+        "options": [
+         {
+          "text": "It provided accurate results.",
+          "letter": "A"
+         },
+         {
+          "text": "It was simple to carry out.",
+          "letter": "B"
+         },
+         {
+          "text": "It required special equipment.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 25,
+        "text": "What mistake did Helen make when first drawing the map?",
+        "options": [
+         {
+          "text": "She chose the wrong scale.",
+          "letter": "A"
+         },
+         {
+          "text": "She stood in the wrong place.",
+          "letter": "B"
+         },
+         {
+          "text": "She did it at the wrong time.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 26,
+        "text": "What do they decide to do next with their map?",
+        "options": [
+         {
+          "text": "scan it onto a computer",
+          "letter": "A"
+         },
+         {
+          "text": "check it using photographs",
+          "letter": "B"
+         },
+         {
+          "text": "add information from the internet",
+          "letter": "C"
+         }
+        ]
+       }
+      ],
+      "instruction": "Questions 21-26<br>Choose the correct letter, <strong>A</strong>, <strong>B</strong> or <strong>C</strong>."
+     },
+     {
+      "type": "mcq-multi",
+      "options": [
+       {
+        "text": "lack of water",
+        "letter": "A"
+       },
+       {
+        "text": "strong winds",
+        "letter": "B"
+       },
+       {
+        "text": "lack of food",
+        "letter": "C"
+       },
+       {
+        "text": "high temperatures",
+        "letter": "D"
+       },
+       {
+        "text": "large waves",
+        "letter": "E"
+       }
+      ],
+      "instruction": "Questions 27 and 28<br>Choose <strong>TWO</strong> letters, <strong>A-E</strong>.<br>Which TWO problems affecting organisms in the splash zone are mentioned?",
+      "questionIds": [
+       27,
+       28
+      ]
+     },
+     {
+      "type": "mcq-multi",
+      "options": [
+       {
+        "text": "inaccurate records of the habitat of organisms",
+        "letter": "A"
+       },
+       {
+        "text": "influence on behaviour of organisms by observer",
+        "letter": "B"
+       },
+       {
+        "text": "incorrect identification of some organisms",
+        "letter": "C"
+       },
+       {
+        "text": "making generalisations from a small sample",
+        "letter": "D"
+       },
+       {
+        "text": "missing some organisms when counting",
+        "letter": "E"
+       }
+      ],
+      "instruction": "Questions 29 and 30<br>Choose <strong>TWO</strong> letters, <strong>A-E</strong>.<br>Which TWO reasons for possible error will they include in their report?",
+      "questionIds": [
+       29,
+       30
+      ]
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/ielts-listening/test99/part3.m4a",
+    "partNumber": 3,
+    "instruction": "You will hear two students, called Helen and Colin, discussing a field trip to Rocky Bay.",
+    "questionRange": "21-30"
+   },
+   {
+    "type": "gap-fill-form",
+    "title": "Designing a Public Building: The Taylor Concert Hall",
+    "answers": {
+     "31": [
+      "social"
+     ],
+     "32": [
+      "factory"
+     ],
+     "33": [
+      "canal"
+     ],
+     "34": [
+      "bridge"
+     ],
+     "35": [
+      "box"
+     ],
+     "36": [
+      "screen"
+     ],
+     "37": [
+      "rubber"
+     ],
+     "38": [
+      "curved"
+     ],
+     "39": [
+      "curtains"
+     ],
+     "40": [
+      "international"
+     ]
+    },
+    "subParts": null,
+    "audioFile": "https://audio.mock-stream.com/ielts-listening/test99/part4.m4a",
+    "formTitle": "",
+    "partNumber": 4,
+    "formContent": "<div class=\"ielts-form-container\"><div class=\"form-section\"><div class=\"form-title\" style=\"text-align:center;font-weight:700;font-size:1.2em;margin-bottom:12px;\">DESIGNING A PUBLIC BUILDING:<br>THE TAYLOR CONCERT HALL</div><p style=\"font-weight:700;\">Introduction</p><p style=\"margin-top:6px;\">The designer of a public building may need to consider the building&rsquo;s</p><p style=\"padding-left:18px;\">&bull;&nbsp; function</p><p style=\"padding-left:18px;\">&bull;&nbsp; physical and <strong>31</strong> <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"31\" style=\"width:150px;text-align:center;\"> context</p><p style=\"padding-left:18px;\">&bull;&nbsp; symbolic meaning</p><p style=\"font-weight:700;margin-top:12px;\">Location and concept of the Concert Hall</p><p style=\"padding-left:18px;\">On the site of a disused <strong>32</strong> <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"32\" style=\"width:150px;text-align:center;\"></p><p style=\"padding-left:18px;\">Beside a <strong>33</strong> <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"33\" style=\"width:150px;text-align:center;\"></p><p style=\"padding-left:18px;\">The design is based on the concept of a mystery</p><p style=\"font-weight:700;margin-top:12px;\">Building design</p><p style=\"padding-left:18px;\">It&rsquo;s approached by a <strong>34</strong> <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"34\" style=\"width:150px;text-align:center;\"> for pedestrians</p><p style=\"padding-left:18px;\">The building is the shape of a <strong>35</strong> <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"35\" style=\"width:150px;text-align:center;\"></p><p style=\"padding-left:18px;\">One exterior wall acts as a large <strong>36</strong> <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"36\" style=\"width:150px;text-align:center;\"></p><p style=\"padding-left:18px;\">In the auditorium:</p><p style=\"padding-left:42px;\">&bull;&nbsp; the floor is built on huge pads made of <strong>37</strong> <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"37\" style=\"width:150px;text-align:center;\"></p><p style=\"padding-left:42px;\">&bull;&nbsp; the walls are made of local wood and are <strong>38</strong> <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"38\" style=\"width:150px;text-align:center;\"> in shape</p><p style=\"padding-left:42px;\">&bull;&nbsp; ceiling panels and <strong>39</strong> <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"39\" style=\"width:150px;text-align:center;\"> on walls allow adjustment of acoustics</p><p style=\"font-weight:700;margin-top:12px;\">Evaluation</p><p style=\"padding-left:18px;\">Some critics say the <strong>40</strong> <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"40\" style=\"width:150px;text-align:center;\"> style of the building is inappropriate</p></div></div>",
+    "instruction": "You will hear part of a lecture about the design of the Taylor Concert Hall.<br>Complete the notes below. Write <strong>ONE WORD ONLY</strong> for each answer.",
+    "questionRange": "31-40"
+   }
+  ],
+  "source": "Cambridge 11 · Academic Listening Test 2",
+  "examDate": "",
+  "testInfo": {
+   "title": "IELTS Listening Practice Test",
+   "sections": 4,
+   "totalTime": 40,
+   "totalQuestions": 40
+  }
+ },
+ "created_at": "2026-07-13T16:15:20.653207+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

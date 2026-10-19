@@ -1,0 +1,126 @@
+{
+ "id": 2302,
+ "mock_type": "pet-writing",
+ "mock_number": 4,
+ "title": "PET Writing — Test 4",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "sentence-transformation",
+    "items": [
+     {
+      "id": 1,
+      "first": "The phone was Max's favourite present.",
+      "answer": "than",
+      "afterBlank": "any of his other presents.",
+      "beforeBlank": "Max likes his phone more"
+     },
+     {
+      "id": 2,
+      "first": "Max has never had his own phone before.",
+      "answer": "first time",
+      "afterBlank": "that Max has had his own phone.",
+      "beforeBlank": "This is the"
+     },
+     {
+      "id": 3,
+      "first": "Max's phone is very similar to his sister's phone.",
+      "answer": "as",
+      "afterBlank": "his sister's phone.",
+      "beforeBlank": "Max's phone is almost the same"
+     },
+     {
+      "id": 4,
+      "first": "Max uses his phone for calling his friends and family.",
+      "answer": "in order to",
+      "afterBlank": "call his friends and family.",
+      "beforeBlank": "Max uses his phone"
+     },
+     {
+      "id": 5,
+      "first": "Max likes playing games on his phone, and all his friends do too.",
+      "answer": "so",
+      "afterBlank": "do all his friends.",
+      "beforeBlank": "Max likes playing games on his phone, and"
+     }
+    ],
+    "label": "PART 1",
+    "topic": "About a boy called Max who has got a new mobile phone",
+    "example": {
+     "first": "Max's parents gave him a mobile phone for his birthday.",
+     "answer": "was",
+     "afterBlank": "given a mobile phone for his birthday by his parents.",
+     "beforeBlank": "Max"
+    },
+    "partNumber": 1,
+    "instruction": [
+     "Here are some sentences about a boy called Max who has got a new mobile phone.",
+     "For each question, complete the second sentence so that it means the same as the first.",
+     "Use no more than three words.",
+     "Write only the missing words on your answer sheet.",
+     "You may use this page for any rough work."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "writing-task",
+    "items": [
+     {
+      "id": 6,
+      "band": "5",
+      "answer": "Dear Daryl\nI want you to come with me at cinema at 8.30 which is the time that start a oscar winning film. This film is Harry Poter. I will wait you on Saturday."
+     }
+    ],
+    "label": "PART 2",
+    "prompt": "You are going to the cinema this afternoon, and you'd like to invite your Canadian friend Daryl.\n\nWrite a note to leave for Daryl. In your note, you should\n\n• invite Daryl to the cinema\n• tell Daryl about the film you plan to see\n• suggest a time to meet.\n\nWrite 35–45 words on your answer sheet.",
+    "wordCount": "35–45 words",
+    "partNumber": 2,
+    "questionsLabel": "QUESTION 6"
+   },
+   {
+    "type": "writing-task",
+    "items": [
+     {
+      "id": 7,
+      "band": "5",
+      "answer": "Hello! How are you? Thanks for your letter. I know it's very hard to start new school. It's not very easy to find new friends, but I think you can find ways to do it. First you should meet with somebody, then talk with him about music, films, games, and something like that. Maybe you two will be interested in something together. It is easy for you, because you are a very interesting and handsome boy. Don't worry about it! Next week you'll know everyone in your class, I promise you. Please write me, when you'll have a friend.\nGoodbye\nLove, Leo.",
+      "altSample": {
+       "q": 8,
+       "band": "5",
+       "text": "As soon as I woke up I knew it was going to be a special day. It was my mother's birthday! And it was going to be a birthday party at 3.00. But I didn't have any present! I didn't know what to do. And then I had a wonderful idea — to buy a present for Mummy, but I didn't have any money! I asked my father and granny to give me some money, but they didn't want to give me any. My mother heard me asking about money and gave me £50! I was so happy and bought some flowers and a CD player. I thought it was a wonderful present, but why wasn't my Mummy happy, I wonder?"
+      }
+     }
+    ],
+    "label": "PART 3",
+    "choices": [
+     {
+      "id": 7,
+      "image": "https://audio.mock-stream.com/PET-Writing/test4/q7_ribbon.png",
+      "intro": "This is part of a letter you receive from an English friend.",
+      "outro": "Now write a letter giving your friend some advice.\nWrite your letter on your answer sheet."
+     },
+     {
+      "id": 8,
+      "intro": "Your English teacher has asked you to write a story.\n\nYour story must begin with this sentence:",
+      "outro": "Write your story on your answer sheet.",
+      "highlight": "As soon as I woke up I knew that it was going to be a special day."
+     }
+    ],
+    "wordCount": "about 100 words",
+    "partNumber": 3,
+    "questionsLabel": "QUESTIONS 7 or 8"
+   }
+  ],
+  "testInfo": {
+   "id": "pet-w-04",
+   "level": "B1",
+   "paper": "Paper 1 · Writing",
+   "parts": 3,
+   "title": "PET Writing — Test 4",
+   "totalTime": 45
+  }
+ },
+ "created_at": "2026-10-14T06:45:44.569538+00:00",
+ "updated_at": "2026-10-14T06:47:29.573929+00:00"
+}

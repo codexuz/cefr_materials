@@ -1,0 +1,640 @@
+{
+ "id": 549,
+ "mock_type": "ielts-listening",
+ "mock_number": 57,
+ "title": "IELTS Listening Mock 57",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "gap-fill-form",
+    "title": "Renting an apartment",
+    "answers": {
+     "1": [
+      "studio"
+     ],
+     "2": [
+      "laundry"
+     ],
+     "3": [
+      "harbour",
+      "harbor"
+     ],
+     "4": [
+      "balcony"
+     ],
+     "5": [
+      "gym"
+     ],
+     "6": [
+      "cinemas",
+      "cinema"
+     ],
+     "7": [
+      "parking"
+     ],
+     "8": [
+      "580"
+     ],
+     "9": [
+      "electricity"
+     ],
+     "10": [
+      "13",
+      "13th",
+      "the 13th"
+     ]
+    },
+    "audioFile": "https://audio.mock-stream.com/ielts-listening/test57/part1.m4a",
+    "formTitle": "",
+    "questions": [
+     {
+      "id": 1
+     },
+     {
+      "id": 2
+     },
+     {
+      "id": 3
+     },
+     {
+      "id": 4
+     },
+     {
+      "id": 5
+     },
+     {
+      "id": 6
+     },
+     {
+      "id": 7
+     },
+     {
+      "id": 8
+     },
+     {
+      "id": 9
+     },
+     {
+      "id": 10
+     }
+    ],
+    "partNumber": 1,
+    "transcript": "Part 1: an accommodation agent describes an apartment to Jessica, who will rent in central Sydney. It's a studio (~34 sq m), shares a laundry, on the 14th floor, with harbour views and a balcony. Tenants get a free gym, an indoor pool, two cinemas (reduced rate), underground parking and good transport. Rent $580/month including electricity. Available from the 13th of August.",
+    "formContent": "<div class=\"ielts-form-container\"><div class=\"form-section\"><div class=\"form-title\" style=\"text-align:center;font-weight:700;\">Renting an apartment</div><h4>Location</h4><ul><li>in central Sydney</li></ul><h4>Description</h4><ul><li>a <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"1\" style=\"width:150px;text-align:center;\"> apartment (for one or two people)</li><li>approximately 34 square metres</li><li>a shared <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"2\" style=\"width:150px;text-align:center;\"></li><li>on the fourteenth floor</li><li>views of the <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"3\" style=\"width:150px;text-align:center;\"></li><li>outdoor area: a <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"4\" style=\"width:150px;text-align:center;\"></li></ul><h4>Tenants have</h4><ul><li>a <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"5\" style=\"width:150px;text-align:center;\"> (no charge for residents)</li><li>an indoor pool</li><li>two <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"6\" style=\"width:150px;text-align:center;\"> (reduced charge for residents)</li><li>underground <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"7\" style=\"width:150px;text-align:center;\"></li><li>easy access to transport in the area</li></ul><h4>Rent</h4><ul><li>$<input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"8\" style=\"width:150px;text-align:center;\"> per month</li><li>include <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"9\" style=\"width:150px;text-align:center;\"></li></ul><h4>Other details</h4><ul><li>available from <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"10\" style=\"width:150px;text-align:center;\"> August</li></ul></div></div>",
+    "instruction": "Complete the notes. Write ONE WORD AND/OR A NUMBER for each answer.",
+    "questionRange": "1-10",
+    "answerHighlights": {}
+   },
+   {
+    "type": "mixed",
+    "title": "Driving lessons",
+    "answers": {
+     "11": [
+      "E"
+     ],
+     "12": [
+      "I"
+     ],
+     "13": [
+      "C"
+     ],
+     "14": [
+      "B"
+     ],
+     "15": [
+      "H"
+     ],
+     "16": [
+      "A"
+     ],
+     "17": [
+      "B"
+     ],
+     "18": [
+      "A"
+     ],
+     "19": [
+      "C"
+     ],
+     "20": [
+      "B"
+     ]
+    },
+    "subParts": [
+     {
+      "type": "matching",
+      "options": [
+       {
+        "text": "12 months&rsquo; probation",
+        "letter": "A"
+       },
+       {
+        "text": "Circuit-based",
+        "letter": "B"
+       },
+       {
+        "text": "Provisional licence",
+        "letter": "C"
+       },
+       {
+        "text": "Renewable after one year",
+        "letter": "D"
+       },
+       {
+        "text": "Revision",
+        "letter": "E"
+       },
+       {
+        "text": "Road-based",
+        "letter": "F"
+       },
+       {
+        "text": "Road safety check",
+        "letter": "G"
+       },
+       {
+        "text": "RTD test",
+        "letter": "H"
+       },
+       {
+        "text": "Trial test",
+        "letter": "I"
+       }
+      ],
+      "boxTitle": "Driving lessons",
+      "questions": [
+       {
+        "id": 11,
+        "text": "Theory course: classroom stage (after Lessons)"
+       },
+       {
+        "id": 12,
+        "text": "Theory course: stage before the RTD test"
+       },
+       {
+        "id": 13,
+        "text": "Theory course: stage after the RTD test"
+       },
+       {
+        "id": 14,
+        "text": "Practical course: first training and assessment"
+       },
+       {
+        "id": 15,
+        "text": "Practical course: stage after the Trial test"
+       },
+       {
+        "id": 16,
+        "text": "Practical course: with the Full driving licence"
+       }
+      ],
+      "instruction": "Questions 11-16<br>Complete the flow-charts below. Choose <strong>SIX</strong> answers from the box and write the correct letter, <strong>A-I</strong>, next to questions 11-16.<div style=\"text-align:center;margin-top:12px;\"><img src=\"https://audio.mock-stream.com/ielts-listening/test57/driving-flowchart.png\" alt=\"Driving lessons flow-chart\" style=\"max-width:100%;height:auto;border:1px solid #e2e8f0;border-radius:8px;\"></div>"
+     },
+     {
+      "type": "mcq",
+      "questions": [
+       {
+        "id": 17,
+        "text": "If you want to do the theory course, you",
+        "options": [
+         {
+          "text": "have to reserve a place.",
+          "letter": "A"
+         },
+         {
+          "text": "can get details on the internet.",
+          "letter": "B"
+         },
+         {
+          "text": "must pay the whole cost in advance.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 18,
+        "text": "What does the woman say about the theory classes?",
+        "options": [
+         {
+          "text": "They are available in more than one language.",
+          "letter": "A"
+         },
+         {
+          "text": "All the necessary materials are provided.",
+          "letter": "B"
+         },
+         {
+          "text": "Trainees stay together for the whole course.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 19,
+        "text": "What does the woman say about the practical course?",
+        "options": [
+         {
+          "text": "You must attend a session every day.",
+          "letter": "A"
+         },
+         {
+          "text": "You are allowed to drive your own car.",
+          "letter": "B"
+         },
+         {
+          "text": "You can book at certain shops.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 20,
+        "text": "There is no charge for a cancelled practical session if",
+        "options": [
+         {
+          "text": "the instructor agrees to reschedule it.",
+          "letter": "A"
+         },
+         {
+          "text": "the required amount of notice is given.",
+          "letter": "B"
+         },
+         {
+          "text": "a medical certificate is produced.",
+          "letter": "C"
+         }
+        ]
+       }
+      ],
+      "instruction": "Questions 17-20<br>Choose the correct letter, <strong>A</strong>, <strong>B</strong> or <strong>C</strong>."
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/ielts-listening/test57/part2.m4a",
+    "questions": [],
+    "partNumber": 2,
+    "transcript": "Part 2: a driving-school employee explains two courses (theory + practical). Theory flow: Lessons (classroom/online) -> Revision in the classroom (11=E) + a practice Trial test (12=I) -> RTD test -> Provisional licence (13=C). Practical flow: Circuit-based training & assessment (14=B) -> training on the highways -> Trial test -> RTD test (15=H) -> Full driving licence then 12 months' probation (16=A). Q17 B (details on website, no booking), Q18 A (classes in several languages), Q19 C (book at kiosks in big stores), Q20 B (no penalty if you give 72 hours' notice; medical certificate not accepted).",
+    "instruction": "You will hear an employee of a driving school answering a telephone inquiry about training to take a driving test.",
+    "questionRange": "11-20",
+    "answerHighlights": {}
+   },
+   {
+    "type": "mixed",
+    "title": "Product development presentation: mosquito net",
+    "answers": {
+     "21": [
+      "A"
+     ],
+     "22": [
+      "C"
+     ],
+     "23": [
+      "B"
+     ],
+     "24": [
+      "C"
+     ],
+     "25": [
+      "A"
+     ],
+     "26": [
+      "G"
+     ],
+     "27": [
+      "D"
+     ],
+     "28": [
+      "B"
+     ],
+     "29": [
+      "A"
+     ],
+     "30": [
+      "F"
+     ]
+    },
+    "subParts": [
+     {
+      "type": "mcq",
+      "questions": [
+       {
+        "id": 21,
+        "text": "Edward heard about a type of mosquito net from",
+        "options": [
+         {
+          "text": "an administrator.",
+          "letter": "A"
+         },
+         {
+          "text": "a doctor.",
+          "letter": "B"
+         },
+         {
+          "text": "a friend.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 22,
+        "text": "Edward believes that mosquito nets were first used in",
+        "options": [
+         {
+          "text": "China.",
+          "letter": "A"
+         },
+         {
+          "text": "Japan.",
+          "letter": "B"
+         },
+         {
+          "text": "Egypt.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 23,
+        "text": "Chemical treatment of mosquito nets in the mid-twentieth century",
+        "options": [
+         {
+          "text": "was first developed by a soldier.",
+          "letter": "A"
+         },
+         {
+          "text": "made them potentially dangerous to users.",
+          "letter": "B"
+         },
+         {
+          "text": "was made possible by modern textiles.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 24,
+        "text": "The owners of present-day nets",
+        "options": [
+         {
+          "text": "are likely to find they have an unpleasant smell.",
+          "letter": "A"
+         },
+         {
+          "text": "should avoid using them every night.",
+          "letter": "B"
+         },
+         {
+          "text": "may have difficulty obtaining the necessary chemical.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 25,
+        "text": "According to Edward, Olyset nets are better than other nets because they",
+        "options": [
+         {
+          "text": "remain effective for longer.",
+          "letter": "A"
+         },
+         {
+          "text": "use a greater number of chemicals.",
+          "letter": "B"
+         },
+         {
+          "text": "give protection against more types of insects.",
+          "letter": "C"
+         }
+        ]
+       }
+      ],
+      "instruction": "Questions 21-25<br>Choose the correct letter, <strong>A</strong>, <strong>B</strong> or <strong>C</strong>."
+     },
+     {
+      "type": "matching",
+      "options": [
+       {
+        "text": "workforce",
+        "letter": "A"
+       },
+       {
+        "text": "sources of funding",
+        "letter": "B"
+       },
+       {
+        "text": "investment opportunities",
+        "letter": "C"
+       },
+       {
+        "text": "unique features of the product",
+        "letter": "D"
+       },
+       {
+        "text": "future developments",
+        "letter": "E"
+       },
+       {
+        "text": "production figures",
+        "letter": "F"
+       },
+       {
+        "text": "national economies",
+        "letter": "G"
+       }
+      ],
+      "boxTitle": "Seminar presentation",
+      "questions": [
+       {
+        "id": 26,
+        "text": "Context – impact on …"
+       },
+       {
+        "id": 27,
+        "text": "Mosquito nets – point after History"
+       },
+       {
+        "id": 28,
+        "text": "Production – information about …"
+       },
+       {
+        "id": 29,
+        "text": "Production – manufacturer profile: description of …"
+       },
+       {
+        "id": 30,
+        "text": "Production – … (according to website)"
+       }
+      ],
+      "instruction": "Questions 26-30<br>Complete the flow-chart below. Choose <strong>FIVE</strong> answers from the box and write the correct letter, <strong>A-G</strong>, next to questions 26-30.<div style=\"text-align:center;margin-top:12px;\"><img src=\"https://audio.mock-stream.com/ielts-listening/test57/seminar-flowchart.png\" alt=\"Seminar presentation flow-chart\" style=\"max-width:100%;height:auto;border:1px solid #e2e8f0;border-radius:8px;\"></div>"
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/ielts-listening/test57/part3.m4a",
+    "questions": [],
+    "partNumber": 3,
+    "transcript": "Part 3: Edward discusses his product-development presentation on the Oliset mosquito net with his tutor. He heard about the nets from an administrator (21=A); believes they were first used/invented in Egypt (22=C); mid-20thC insecticide treatment (DDT) made them potentially dangerous to users (23=B); present-day owners may have difficulty obtaining the chemical (24=C); Oliset nets stay effective for at least five years - longer than others (25=A). Seminar flow-chart: Context impact on national economies (26=G); Mosquito nets unique features of the product (27=D); Production sources of funding (28=B); manufacturer profile - workforce (29=A); production figures from website (30=F).",
+    "instruction": "You will hear a business studies student called Edward talking to his tutor about some research he is doing on product development.",
+    "questionRange": "21-30",
+    "answerHighlights": {}
+   },
+   {
+    "type": "mixed",
+    "title": "Earth-sheltered Housing",
+    "answers": {
+     "31": [
+      "low impact"
+     ],
+     "32": [
+      "alternative"
+     ],
+     "33": [
+      "lifespan",
+      "life span"
+     ],
+     "34": [
+      "traffic"
+     ],
+     "35": [
+      "ventilation"
+     ],
+     "36": [
+      "conservation"
+     ],
+     "37": [
+      "C"
+     ],
+     "38": [
+      "B"
+     ],
+     "39": [
+      "B"
+     ],
+     "40": [
+      "A"
+     ]
+    },
+    "subParts": [
+     {
+      "type": "gap-fill-form",
+      "formTitle": "",
+      "questions": [
+       {
+        "id": 31
+       },
+       {
+        "id": 32
+       },
+       {
+        "id": 33
+       },
+       {
+        "id": 34
+       },
+       {
+        "id": 35
+       },
+       {
+        "id": 36
+       }
+      ],
+      "formContent": "<div class=\"ielts-form-container\"><div class=\"form-section\"><div class=\"form-title\" style=\"text-align:center;font-weight:700;\">Earth-sheltered Housing</div><h4>Advantages</h4><ul><li>has a <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"31\" style=\"width:150px;text-align:center;\"> on the environment</li><li>increased use of energy-efficient <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"32\" style=\"width:150px;text-align:center;\"> technologies</li><li>can have a very long <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"33\" style=\"width:150px;text-align:center;\"></li><li>easy to maintain</li><li>no noise from the <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"34\" style=\"width:150px;text-align:center;\"> outside (big problem in many conventional homes)</li><li>health benefits from advanced methods of <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"35\" style=\"width:150px;text-align:center;\"></li></ul><h4>Earth-sheltered housing in the UK</h4><ul><li>no longer difficult to get planning permission</li><li>more likely to get approval for development in <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"36\" style=\"width:150px;text-align:center;\"> areas</li><li>may replace mobile homes on the coast</li></ul></div></div>",
+      "instruction": "Questions 31-36<br>Complete the sentences below. Write NO MORE THAN TWO WORDS for each answer."
+     },
+     {
+      "type": "mcq",
+      "questions": [
+       {
+        "id": 37,
+        "text": "favourable reaction",
+        "options": [
+         {
+          "text": "Mole Manor",
+          "letter": "A"
+         },
+         {
+          "text": "the Hockerton Project",
+          "letter": "B"
+         },
+         {
+          "text": "Both Mole Manor and the Hockerton Project",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 38,
+        "text": "self-sufficiency in energy",
+        "options": [
+         {
+          "text": "Mole Manor",
+          "letter": "A"
+         },
+         {
+          "text": "the Hockerton Project",
+          "letter": "B"
+         },
+         {
+          "text": "Both Mole Manor and the Hockerton Project",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 39,
+        "text": "low building costs",
+        "options": [
+         {
+          "text": "Mole Manor",
+          "letter": "A"
+         },
+         {
+          "text": "the Hockerton Project",
+          "letter": "B"
+         },
+         {
+          "text": "Both Mole Manor and the Hockerton Project",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 40,
+        "text": "luxurious accommodation",
+        "options": [
+         {
+          "text": "Mole Manor",
+          "letter": "A"
+         },
+         {
+          "text": "the Hockerton Project",
+          "letter": "B"
+         },
+         {
+          "text": "Both Mole Manor and the Hockerton Project",
+          "letter": "C"
+         }
+        ]
+       }
+      ],
+      "instruction": "Questions 37-40<br>Which UK projects have the following features? Choose the correct answer."
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/ielts-listening/test57/part4.m4a",
+    "questions": [],
+    "partNumber": 4,
+    "transcript": "Part 4: a student presents on earth-sheltered (underground) housing. Advantages: low impact on the environment (31); greater use of alternative energy-efficient technologies (32); very long lifespan (33, 500+ years); easy to maintain; no noise from traffic outside (34); health benefits from advanced ventilation methods (35, helps asthma). In the UK: easier to get planning permission, especially in conservation areas (36); may replace coastal mobile homes. Two projects: favourable reaction - both Mole Manor (media/most desirable) and Hockerton (awards) (37=C); self-sufficiency in energy - Hockerton (38=B); low building costs - Hockerton (39=B, £80,000 each); luxurious accommodation - Mole Manor (40=A, grandeur, worth £800,000+).",
+    "instruction": "You will hear a student giving a presentation about houses which are built underground.",
+    "questionRange": "31-40",
+    "answerHighlights": {}
+   }
+  ],
+  "source": "Original Exams",
+  "examDate": "2026-06-15",
+  "testInfo": {
+   "title": "IELTS Listening Practice Test 57",
+   "totalTime": 40,
+   "totalQuestions": 40
+  }
+ },
+ "created_at": "2026-06-15T11:51:27.690441+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

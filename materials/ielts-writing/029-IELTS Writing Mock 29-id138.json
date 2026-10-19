@@ -1,0 +1,486 @@
+{
+ "id": 138,
+ "mock_type": "ielts-writing",
+ "mock_number": 29,
+ "title": "IELTS Writing Mock 29",
+ "status": "published",
+ "mock_data": {
+  "tasks": {
+   "task1": {
+    "title": "Social media users by age",
+    "prompt": "The pie charts below compare the percentages of users across different age groups on Twitter, Facebook, and YouTube.",
+    "wordGoal": 150,
+    "chartDesc": {
+     "title": "Percentage of users on social media, by age group",
+     "xAxis": "Age groups",
+     "yAxis": "Percentage of users (%)",
+     "period": "",
+     "series": [
+      {
+       "name": "Facebook",
+       "points": [
+        {
+         "at": "10-17",
+         "value": 14
+        },
+        {
+         "at": "18-34",
+         "value": 29
+        },
+        {
+         "at": "35-49",
+         "value": 30
+        },
+        {
+         "at": "50-64",
+         "value": 19
+        },
+        {
+         "at": "65+",
+         "value": 8
+        }
+       ]
+      },
+      {
+       "name": "Twitter",
+       "points": [
+        {
+         "at": "10-17",
+         "value": 9
+        },
+        {
+         "at": "18-34",
+         "value": 40
+        },
+        {
+         "at": "35-49",
+         "value": 29
+        },
+        {
+         "at": "50-64",
+         "value": 18
+        },
+        {
+         "at": "65+",
+         "value": 4
+        }
+       ]
+      },
+      {
+       "name": "YouTube",
+       "points": [
+        {
+         "at": "10-17",
+         "value": 15
+        },
+        {
+         "at": "18-34",
+         "value": 26
+        },
+        {
+         "at": "35-49",
+         "value": 29
+        },
+        {
+         "at": "50-64",
+         "value": 20
+        },
+        {
+         "at": "65+",
+         "value": 10
+        }
+       ]
+      }
+     ],
+     "overview": "Across all three social media platforms, people aged 18-34 and 35-49 consistently make up the majority of users, while those aged 65+ represent the smallest proportion on every platform.",
+     "chartType": "pie chart",
+     "confidence": "high",
+     "unreadable": [],
+     "keyFeatures": [
+      "Twitter has the largest single age group concentration, with 18-34 year olds accounting for 40% of its users.",
+      "The 35-49 age group shows almost identical representation across all three platforms (30% on Facebook, 29% on Twitter, and 29% on YouTube).",
+      "Users aged 65+ have the lowest percentage of users across all platforms, ranging from 4% on Twitter to 10% on YouTube."
+     ]
+    },
+    "chartType": "pie_chart",
+    "dataNature": "static",
+    "instruction": "Summarise the information by selecting and reporting the main features, and make comparison where relevant.",
+    "sampleBand5": "<p>The pie charts show information about the <mark>different age groups</mark> use of Twitter, Facebook and Youtube. It shows what percentage of people of each age use each social media.</p>\n<p>Overall, Facebook is more popular than Twitter. <mark>A large number of</mark> users are between 25-49 years old in all three social media. The lowest users are over 65.</p>\n<p>For Twitter, 30% of people are between 18-24. And 29% of users are between 25-49. Only 11% are over 65. <mark>In the case of</mark> Facebook, the 25-49 age group is the highest, at 37%. The 18-24 age group is 27%. The lowest group is over 65s, at 8%.</p>\n<p>Youtube also has the most users between 25-49 which is 34%. <mark>It can be seen that</mark> 18-24 age group is 23%. The over 65s are the lowest with 11%. Generally, Facebook is more popular.</p>",
+    "sampleBand6": "<p>The pie charts <mark>give information about</mark> the percentage of people using Twitter, Facebook and YouTube, divided by age group.</p>\n<p>Overall, it is clear that Facebook is the most popular social media platform. Also, the youngest age group, 13-17, <mark>tends to use</mark> all three platforms less than older groups.</p>\n<p>Looking at Facebook, the largest group of users are those aged 25-34, with 31%. The 18-24 age group is also significant, at 27%. In contrast, only 7% of Facebook users are in the 13-17 age range. For Twitter, the 18-24 age group is the largest, <mark>making up</mark> 36% of users, while the 13-17 group accounts for only 9%. <mark>A similar pattern</mark> can be seen in YouTube, where the 18-24 age group represents the biggest proportion of users at 33%, and the 13-17 group is the smallest, with 11%. The 35-44 and 45-54 age groups <mark>are quite similar</mark> in their usage of all three social media sites.</p>",
+    "sampleBand7": "<p>The pie charts <mark>illustrate the distribution</mark> of users on Twitter, Facebook and YouTube across different age categories.</p>\n<p>Overall, Facebook had the broadest appeal across all age groups, while Twitter's user base was <mark>heavily concentrated</mark> in the younger demographics. YouTube also showed a significant presence among younger individuals, but <mark>displayed a more even spread</mark> than Twitter.</p>\n<p>Specifically, the 18-34 age group constituted the largest proportion of users on both Twitter (61%) and YouTube (55%). Facebook, conversely, had a smaller, though still substantial, percentage of users in this age bracket at 41%. <mark>A notable difference</mark> is the significantly larger percentage of users aged 35-49 on Facebook (31%) compared to Twitter (18%) and YouTube (23%).</p>\n<p>Furthermore, Facebook <mark>demonstrated a considerably stronger presence</mark> among the older age groups, with 18% of users aged 50-64 and 10% aged 65+, <mark>indicating its wider appeal</mark>. In contrast, Twitter and YouTube had substantially lower percentages of older users, with only 13% and 12% respectively for the 50-64 group, and negligible figures for those aged 65 and above.</p>",
+    "sampleBand8": "<p>The pie charts <mark>offer a comparative analysis</mark> of the age demographics of users on three prominent social media platforms: Twitter, Facebook, and YouTube. Overall, YouTube attracts a significantly younger audience compared to Twitter and Facebook, while Facebook <mark>commands a more balanced age distribution</mark>.</p>\n\n<p>Specifically, YouTube's user base is <mark>heavily skewed towards</mark> the 18-25 age group, accounting for 61% of its users. This contrasts sharply with Twitter and Facebook, where this demographic represents a much smaller proportion, at 32% and 28% respectively. Conversely, Facebook <mark>exhibits a relatively even spread</mark> across the age categories, with the 26-35 age group comprising the largest segment at 31%, followed closely by the 18-25 bracket.</p>\n\n<p>Twitter presents a different profile again, with the 26-35 age group representing the largest share at 36%, <mark>slightly exceeding</mark> Facebook's proportion. Furthermore, the older demographics (36-49 and 50+) are more <mark>noticeably represented</mark> on both Twitter and Facebook compared to YouTube. Indeed, the 50+ age bracket <mark>constitutes a mere</mark> 4% of YouTube users, whereas it accounts for 18% and 22% of Twitter and Facebook users, respectively. In summary, YouTube is the <mark>platform of choice</mark> for younger individuals, while older users are more prevalent on Twitter and Facebook.</p>",
+    "sampleBand9": "<p>The pie charts <mark>illustrate the distribution of</mark> users across different age demographics on three prominent social media platforms: Twitter, Facebook, and YouTube.</p>\n\n<p><mark>Overall, it is immediately apparent</mark> that Facebook boasts the most balanced age distribution, whereas Twitter is skewed towards younger users, and YouTube exhibits a relatively even spread with a slight bias towards the younger age brackets. <mark>A striking feature</mark> is the prevalence of the 18-25 age group across all platforms.</p>\n\n<p>Specifically, the 18-25 demographic constitutes the largest segment on both Twitter and YouTube, accounting for approximately 40% and 37% respectively. On Twitter, the 26-35 age group represents the second-largest portion at 30%, while older demographics <mark>make up a significantly smaller proportion</mark>. Similarly, on YouTube, the 26-35 bracket accounts for 28%, with the remaining age groups <mark>being relatively evenly distributed</mark>.</p>\n\n<p>In contrast, Facebook presents a more uniform distribution. The 18-25 age group still represents a substantial portion at 32%, but the 26-35 and 36-49 demographics are also <mark>relatively well-represented</mark>, accounting for 28% and 23% respectively. The 50+ age group <mark>holds a more significant share</mark> on Facebook (17%) compared to Twitter and YouTube, <mark>suggesting a broader appeal</mark> across age ranges. <mark>It is also worth noting that</mark> the under-18s are the smallest group across all platforms, consistently representing the smallest portion of users.</p>",
+    "timeMinutes": 20,
+    "chartDescImg": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/29.png",
+    "sampleAnswer": "The three pie charts illustrate the age distribution of users on three major social media platforms: Twitter, Facebook, and YouTube. Overall, while all three platforms attract users across age groups, there are notable differences in their demographic profiles.\n\nTwitter shows a relatively balanced distribution across age groups, with users aged 25-34 forming the largest segment at approximately 30%. The 18-24 age group accounts for around 25%, while those aged 35-44 represent about 20%. Users over 45 make up the remaining 25%.\n\nFacebook demonstrates a somewhat older user base. The 25-34 age group is again the largest at roughly 28%, but there is significant representation from older demographics, with users aged 35-44 comprising about 22% and those over 45 accounting for nearly 30%. Younger users aged 18-24 represent only around 20%.\n\nYouTube has the youngest user profile of the three platforms. Users aged 18-24 form the largest segment at approximately 35%, followed by those aged 25-34 at about 28%. Older age groups are less represented, with users over 45 accounting for only around 18%.\n\nThe data suggests that YouTube appeals more to younger demographics, while Facebook has a broader appeal to older users.",
+    "chartImageUrl": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/29.png",
+    "uzSampleBand5": "<p>Doira diagrammalari Twitter, Facebook va Youtube-dan foydalanadigan <mark>turli yosh guruhlari</mark> haqida ma'lumot beradi. Unda har bir yoshdagi odamlarning har bir ijtimoiy mediadan qanday foizda foydalanishi ko'rsatilgan.</p>\n<p>Umuman olganda, Facebook Twitterdan ko'ra ommabop. Barcha uchta ijtimoiy mediada foydalanuvchilarning <mark>katta qismi</mark> 25-49 yosh oralig'ida. Eng kam foydalanuvchilar 65 yoshdan oshganlar.</p>\n<p>Twitter uchun odamlarning 30 foizi 18-24 yosh oralig'ida. Va foydalanuvchilarning 29 foizi 25-49 yosh oralig'ida. Faqat 11 foizi 65 yoshdan oshganlar. Facebook <mark>holatida</mark>, 25-49 yosh guruhi eng yuqori, 37%ni tashkil etadi. 18-24 yosh guruhi 27%. Eng past guruh 65 yoshdan oshganlar, 8%.</p>\n<p>Youtube-da ham eng ko'p foydalanuvchilar 25-49 yosh oralig'ida, bu 34%ni tashkil etadi. <mark>Ko'rinib turibdiki</mark>, 18-24 yosh guruhi 23%. 65 yoshdan oshganlar eng past 11%ni tashkil qiladi. Umuman olganda, Facebook ko'proq mashhur.</p>",
+    "uzSampleBand6": "<p>Doira diagrammalar Twitter, Facebook va YouTube’dan foydalanuvchilarning yosh guruhlari bo‘yicha foizini <mark>ma’lumot beradi</mark>.</p>\n<p>Umuman olganda, Facebook eng ommabop ijtimoiy media platformasi ekanligi aniq. Shuningdek, eng yosh guruh, 13-17 yoshdagilar, barcha uchta platformadan kattaroq guruhlarga nisbatan <mark>kamroq foydalanishga moyil</mark>.</p>\n<p>Facebookga nazar solsak, foydalanuvchilarning eng katta guruhi 25-34 yoshdagilar bo'lib, 31% ni tashkil qiladi. 18-24 yoshdagi guruh ham muhim, 27%. Aksincha, Facebook foydalanuvchilarining faqat 7% 13-17 yosh oralig'ida. Twitter uchun 18-24 yoshdagi guruh eng kattasi bo'lib, foydalanuvchilarning 36% ni <mark>tashkil etadi</mark>, 13-17 yoshli guruh esa faqat 9% ni tashkil qiladi. <mark>Shunga o'xshash holatni</mark> YouTube-da ham ko'rish mumkin, bu yerda 18-24 yoshli guruh foydalanuvchilarning eng katta qismini 33% ni tashkil qiladi va 13-17 yoshli guruh eng kichigi bo'lib, 11% ni tashkil qiladi. 35-44 va 45-54 yoshli guruhlar barcha uchta ijtimoiy media saytlaridan foydalanish bo'yicha <mark>juda o'xshash</mark>.</p>",
+    "uzSampleBand7": "<p>Doira diagrammalari Twitter, Facebook va YouTube foydalanuvchilarining turli yosh toifalari bo'yicha <mark>taqsimotini ko'rsatadi</mark>.</p>\n<p>Umuman olganda, Facebook barcha yosh guruhlari orasida eng keng tarqalgan murojaatga ega edi, Twitter foydalanuvchilari esa <mark>asosan yosh demografik guruhlarda jamlangan</mark>. YouTube ham yoshlar orasida sezilarli mavjudlikni ko'rsatdi, lekin Twitterga nisbatan <mark>yanada bir xil taqsimotni namoyish etdi</mark>.</p>\n<p>Xususan, 18-34 yoshdagi guruh Twitter (61%) va YouTube (55%) foydalanuvchilarining eng katta qismini tashkil etdi. Aksincha, Facebook ushbu yosh toifasida foydalanuvchilarning kichikroq, ammo baribir sezilarli foiziga ega edi (41%). <mark>Shuni ta'kidlash joizki</mark>, Facebookda 35-49 yoshdagilarning foizi (31%) Twitter (18%) va YouTube (23%) ga nisbatan ancha yuqori.</p>\n<p>Bundan tashqari, Facebook keksa yosh guruhlari orasida <mark>sezilarli darajada kuchliroq mavjudlikni namoyon etdi</mark>, 50-64 yoshdagilarning 18% va 65+ yoshdagilarning 10% ni tashkil etdi, bu uning <mark>kengroq jozibasidan dalolat beradi</mark>. Aksincha, Twitter va YouTube'da keksa foydalanuvchilarning foizi ancha past edi, 50-64 yoshdagilar guruhi uchun atigi 13% va 12% va 65 va undan yuqori yoshdagilar uchun ahamiyatsiz ko'rsatkichlar qayd etildi.</p>",
+    "uzSampleBand8": "<p>Doira diagrammalari Twitter, Facebook va YouTube kabi uchta mashhur ijtimoiy media platformalaridagi foydalanuvchilarning yosh demografiyasini <mark>qiyosiy tahlil qilishni taklif etadi</mark>. Umuman olganda, YouTube Twitter va Facebook bilan solishtirganda ancha yosh auditoriyani jalb qiladi, Facebook esa <mark>yanada muvozanatli yosh taqsimotiga ega</mark>.</p>\n\n<p>Xususan, YouTube foydalanuvchilari bazasi <mark>asosan 18-25 yosh guruhiga qaratilgan</mark>, bu uning foydalanuvchilarining 61% ni tashkil qiladi. Bu Twitter va Facebookdan keskin farq qiladi, bu erda bu demografik guruh ancha kichik ulushni tashkil qiladi, mos ravishda 32% va 28%. Aksincha, Facebook <mark>yosh toifalari bo'yicha nisbatan teng taqsimotni namoyish etadi</mark>, bunda 26-35 yosh guruh eng katta segmentni tashkil etadi (31%), undan keyin 18-25 yosh guruhi.</p>\n\n<p>Twitter yana boshqa profilni taqdim etadi, bunda 26-35 yosh guruh eng katta ulushni (36%) tashkil etadi, bu <mark>Facebookning ulushidan biroz oshib ketadi</mark>. Bundan tashqari, keksa demografik guruhlar (36-49 va 50+) YouTube bilan solishtirganda Twitter va Facebookda <mark>sezilarli darajada ko'proq namoyon bo'ladi</mark>. Haqiqatan ham, 50+ yosh guruhi YouTube foydalanuvchilarining <mark>atigi</mark> 4% ni tashkil etadi, Twitter va Facebook foydalanuvchilarining esa mos ravishda 18% va 22% ni tashkil etadi. Xulosa qilib aytganda, YouTube yoshlar uchun <mark>eng maqbul platforma</mark> hisoblanadi, keksa foydalanuvchilar esa Twitter va Facebookda ko'proq.</p>",
+    "uzSampleBand9": "<p>Doira diagrammalari Twitter, Facebook va YouTube kabi uchta mashhur ijtimoiy media platformalarida foydalanuvchilarning turli yosh demografiyasi bo'yicha <mark>taqsimlanishini ko'rsatadi</mark>.</p>\n\n<p><mark>Umuman olganda, darhol shuni aytish mumkinki</mark>, Facebook eng muvozanatli yosh taqsimotiga ega, Twitter esa yosh foydalanuvchilarga moyil, YouTube esa yosh guruhlarga biroz moyilligi bilan nisbatan teng taqsimotni namoyish etadi. <mark>Diqqatga sazovor xususiyat</mark> - bu barcha platformalarda 18-25 yosh guruhining ustunligidir.</p>\n\n<p>Xususan, 18-25 yosh demografiyasi Twitter va YouTube-da eng katta segmentni tashkil etadi va mos ravishda taxminan 40% va 37% ni tashkil qiladi. Twitterda 26-35 yosh guruhi 30% bilan ikkinchi o'rinda turadi, qolgan yosh demografiyalari esa <mark>sezilarli darajada kamroq qismni tashkil etadi</mark>. Xuddi shunday, YouTube-da 26-35 yosh guruhi 28% ni tashkil qiladi, qolgan yosh guruhlari esa <mark>nisbatan teng taqsimlangan</mark>.</p>\n\n<p>Aksincha, Facebook yanada bir xil taqsimotni taqdim etadi. 18-25 yosh guruhi hali ham 32% bilan sezilarli qismni tashkil etadi, ammo 26-35 va 36-49 yosh demografiyalari ham <mark>nisbatan yaxshi ifodalangan</mark>, mos ravishda 28% va 23% ni tashkil qiladi. 50+ yosh guruhi Twitter va YouTube-ga nisbatan Facebook-da <mark>muhimroq ulushga ega</mark> (17%), bu <mark>yosh oralig'ida kengroq murojaat</mark> qilishini ko'rsatadi. <mark>Shuni ham ta'kidlash joizki</mark>, 18 yoshgacha bo'lganlar barcha platformalarda eng kichik guruh bo'lib, doimiy ravishda foydalanuvchilarning eng kichik qismini tashkil qiladi.</p>",
+    "chartDescSource": "extracted-verified-2026-08-05"
+   },
+   "task2": {
+    "title": "Living in mega-cities",
+    "prompt": "Research shows that increasing numbers of people are now living in mega-cities: cities of more than 20 million inhabitants. Is this a positive or negative development?",
+    "wordGoal": 250,
+    "essayType": "opinion",
+    "instruction": "Is this a positive or negative development?",
+    "sampleBand5": "<p>Nowadays, many people are living in very big cities, like more than 20 million people. Some people think this is good, but others think it is bad. I think it has both good and bad things.</p>\n\n<p>One good thing about living in a mega-city is that there are more jobs. <mark>Companies often</mark> have their offices in big cities, so it is easier to find work. Also, there are more things to do, like going to concerts and museums. This <mark>can make life</mark> more interesting. For example, in Tokyo, there are many different kinds of jobs and lots of fun things to do.</p>\n\n<p>However, there are also bad things about mega-cities. One problem is that they are very crowded. This means there is more traffic and pollution. It can be hard to find a <mark>nice place to live</mark> because there are so many people. Another problem is that things are more expensive. Food and housing cost more in big cities than in smaller towns.</p>\n\n<p>In conclusion, while mega-cities offer more job opportunities and entertainment, they also suffer from overcrowding and high costs. <mark>I think</mark>, it is not easy to say if it is good or bad, but it depends on what people like.</p>",
+    "sampleBand6": "<p>The growth of mega-cities, those with populations exceeding 20 million, is a <mark>significant trend</mark> in the modern world. While there are certain benefits associated with this phenomenon, I believe that the negative consequences generally outweigh the positives.</p>\n\n<p>On the one hand, mega-cities can offer significant economic advantages. <mark>Because of</mark> the large concentration of people, businesses can benefit from economies of scale, leading to increased productivity and innovation. This can also create more job opportunities, attracting skilled workers from other regions and countries. Furthermore, mega-cities often have better infrastructure, including transportation networks and public services, which can improve the quality of life for residents. For example, in a large city like Tokyo, you have very good trains.</p>\n\n<p>However, the rapid growth of mega-cities also creates a number of serious problems. One of the most pressing issues is the strain on resources and infrastructure. The demand for housing, water, and energy can quickly outstrip supply, leading to shortages and increased costs. <mark>This often results in</mark> overcrowded living conditions, pollution, and traffic congestion, which can have a negative impact on public health and well-being. Another concern is the widening gap between the rich and the poor. While some residents may benefit from the economic opportunities offered by mega-cities, many others struggle to make ends meet, leading to social inequality and unrest.</p>\n\n<p>In addition, the concentration of people in mega-cities can put a strain on the environment. Increased consumption of resources and generation of waste can contribute to pollution and climate change. <mark>It is also the case that</mark> green spaces are often sacrificed to make way for new developments, reducing biodiversity and making cities less livable. The pressure on local infrastructure such as schools and hospitals is considerable.</p>\n\n<p>In conclusion, while mega-cities may offer some economic benefits, I believe that the negative consequences, such as resource depletion, environmental degradation, and social inequality, <mark>are more significant</mark>. It is important for governments and policymakers to address these challenges and promote more sustainable and equitable urban development.</p>",
+    "sampleBand7": "<p>The increasing prevalence of mega-cities, defined as urban areas with over 20 million inhabitants, is a notable trend in contemporary society. While offering certain advantages, I believe that this development is, on balance, more negative than positive. <mark>My reasoning for this stance</mark> will be elaborated in the subsequent paragraphs.</p>\n\n<p>One of the primary benefits of mega-cities is the concentration of resources and opportunities. These urban centers often serve as hubs for innovation, attracting skilled workers and fostering economic growth. <mark>Due to their sheer size</mark>, mega-cities can support specialized industries and offer a wider range of employment prospects compared to smaller towns or rural areas. Furthermore, they typically boast superior infrastructure, including advanced transportation systems and access to better healthcare and educational facilities. However, these advantages are not always evenly distributed among the population, and <mark>can exacerbate existing inequalities</mark>.</p>\n\n<p>Conversely, the drawbacks of mega-cities are numerous and often outweigh the benefits. Overpopulation leads to a strain on resources, resulting in issues such as inadequate housing, <mark>overburdened public services</mark>, and increased pollution. The high density of people can also contribute to social problems, including crime, congestion, and a decline in the overall quality of life. Although mega-cities may offer more job opportunities, the competition for these positions is fierce, and many residents struggle to find affordable housing and maintain a decent standard of living. <mark>Moreover, the sheer scale of these urban areas</mark> can lead to a sense of anonymity and social isolation.</p>\n\n<p>In conclusion, while mega-cities may present certain economic and infrastructural advantages, the associated social and environmental problems are substantial. The challenges of overpopulation, resource depletion, and inequality <mark>pose significant threats to the well-being</mark> of residents. Therefore, it is my firm belief that the increasing prevalence of mega-cities is ultimately a negative development, and efforts should be focused on promoting sustainable urban planning and regional development to mitigate these adverse effects.</p>",
+    "sampleBand8": "<p>The increasing prevalence of mega-cities, urban centers housing over 20 million residents, is a defining characteristic of our modern era. While such concentrated populations present certain advantages, I believe that overall, this trend constitutes a largely negative development due to the strain on resources, increased social inequalities, and the potential for environmental degradation.</p>\n\n<p>One significant drawback of mega-cities is the immense pressure they place on essential resources. <mark>Maintaining adequate infrastructure</mark> for such vast populations, including water supplies, sanitation systems, and transportation networks, requires enormous investment and can often prove unsustainable. Furthermore, the demand for housing <mark>inevitably leads to</mark> overcrowding and the proliferation of informal settlements, where residents often lack access to basic amenities and are vulnerable to disease. The sheer scale of consumption in mega-cities also exacerbates resource depletion, contributing to environmental problems on a global scale.</p>\n\n<p>Moreover, the concentration of wealth and opportunity in mega-cities tends to exacerbate social inequalities. While these cities may offer a greater range of employment opportunities, <mark>the benefits are not evenly distributed</mark>. A significant portion of the population often works in low-paying, precarious jobs, struggling to afford the high cost of living. This disparity can lead to social unrest and <mark>a breakdown of community cohesion</mark>. The concentration of political and economic power in mega-cities can also marginalize the needs and concerns of rural populations, further widening the gap between urban and rural areas.</p>\n\n<p>Finally, the environmental impact of mega-cities is a cause for serious concern. These urban centers are major contributors to air and water pollution, generating vast amounts of waste and greenhouse gas emissions. The destruction of natural habitats to make way for urban sprawl <mark>further compounds the problem</mark>, leading to biodiversity loss and increased vulnerability to natural disasters. While efforts are being made to promote sustainable urban development, the sheer scale of mega-cities makes it challenging to mitigate their environmental impact effectively.</p>\n\n<p>In conclusion, while mega-cities may offer certain economic advantages and opportunities for innovation, the negative consequences associated with their growth, including resource depletion, social inequality, and environmental degradation, <mark>outweigh the benefits</mark>. <mark>A more sustainable and equitable future</mark> requires a shift away from the concentration of populations in mega-cities and towards a more balanced distribution of resources and opportunities across both urban and rural areas. It is <mark>imperative that governments and urban planners</mark> prioritize sustainable development and address the challenges posed by mega-cities proactively, to ensure a better quality of life for all citizens. <mark>Neglecting these issues would be detrimental</mark> to both the environment and social well-being.\n</p>",
+    "sampleBand9": "<p>The burgeoning trend of mega-cities, defined as urban centers housing over 20 million inhabitants, presents a complex tapestry of advantages and disadvantages. While concerns regarding resource strain and social fragmentation are legitimate, I contend that the agglomeration of populations in these urban behemoths ultimately offers a net positive, primarily due to enhanced economic opportunities and the fostering of innovation.</p>\n\n<p>One of the most compelling arguments in favor of mega-cities lies in their <mark>unparalleled capacity to generate economic prosperity</mark>. These urban hubs act as magnets for investment, attracting both domestic and international capital. The concentration of industries, skilled labor, and advanced infrastructure creates a fertile ground for entrepreneurship and job creation. <mark>The resultant economies of scale</mark> lead to increased efficiency and productivity, benefiting not only the residents of the mega-city but also the wider national economy. Moreover, the presence of diverse industries and specialized services fosters a resilient economic ecosystem, better equipped to weather economic downturns.</p>\n\n<p>Beyond economic considerations, mega-cities serve as <mark>crucibles of innovation and cultural exchange</mark>. The sheer density of population brings together individuals from diverse backgrounds, with a wide array of skills, perspectives, and ideas. This <mark>cross-pollination of thought</mark> fosters creativity and accelerates the development of new technologies and solutions to pressing global challenges. Furthermore, mega-cities often boast world-class universities, research institutions, and cultural centers, further fueling innovation and attracting talent from around the globe. The concentration of such resources in a single location <mark>creates a synergistic effect</mark>, driving progress at an accelerated pace.</p>\n\n<p>Admittedly, the challenges associated with mega-cities, such as environmental degradation, social inequality, and infrastructure overload, cannot be ignored. However, these issues are not insurmountable. With effective urban planning, sustainable development strategies, and targeted social programs, the negative impacts can be mitigated. <mark>Furthermore, technological advancements offer promising solutions</mark> to address these challenges, such as smart city initiatives, renewable energy sources, and efficient public transportation systems.</p>\n\n<p>In conclusion, while the growth of mega-cities undoubtedly presents certain challenges, the potential benefits, particularly in terms of economic growth and innovation, outweigh the drawbacks. By embracing sustainable practices and investing in infrastructure and social programs, we can harness the <mark>transformative power</mark> of these urban centers to create a more prosperous and sustainable future for all. The key lies in proactive management and a commitment to <mark>inclusive and equitable development</mark>, ensuring that the benefits of mega-city life are shared by all residents, regardless of their socio-economic background. <mark>A nuanced perspective</mark> acknowledging both opportunities and challenges is paramount.</p>",
+    "timeMinutes": 40,
+    "sampleAnswer": "The rapid growth of mega-cities—urban areas with populations exceeding 20 million—is one of the most significant demographic trends of our time. While these massive urban centers offer certain advantages, I believe that on balance, this development is predominantly negative due to the serious challenges it creates.\n\nProponents of mega-cities highlight several benefits. Large urban populations create economies of scale that can make public services more efficient and cost-effective. Mega-cities often become hubs of innovation, attracting talented people and fostering creativity through the exchange of ideas. They also offer residents greater access to employment opportunities, education, healthcare, and cultural amenities than smaller settlements can provide.\n\nHowever, the drawbacks of mega-cities are substantial. Environmental problems are perhaps the most pressing concern, as these cities generate enormous amounts of pollution and waste, contributing significantly to climate change. The concentration of so many people in limited spaces leads to severe housing shortages, forcing many residents into overcrowded slums with inadequate sanitation. Traffic congestion becomes chronic, reducing quality of life and productivity. Furthermore, the infrastructure of many mega-cities struggles to keep pace with population growth, resulting in unreliable water supplies, power outages, and overburdened transportation systems.\n\nThere are also social consequences to consider. Mega-cities often exhibit extreme inequality, with wealthy neighborhoods existing alongside desperate poverty. The anonymity of such large populations can lead to social isolation and mental health problems, while crime rates tend to be higher in dense urban environments.\n\nIn conclusion, while mega-cities offer certain economic and cultural advantages, the environmental degradation, infrastructure strain, and social problems they generate make this trend a largely negative development. Governments should focus on developing medium-sized cities to distribute population growth more sustainably.",
+    "uzSampleBand5": "<p>Hozirgi kunda ko'p odamlar juda katta shaharlarda yashashmoqda, masalan, 20 milliondan ortiq odam. Ba'zi odamlar buni yaxshi deb hisoblashadi, boshqalar esa yomon deb o'ylashadi. Menimcha, buning ham yaxshi, ham yomon tomonlari bor.</p>\n\n<p>Mega-shaharda yashashning bir yaxshi tomoni shundaki, ish o'rinlari ko'proq. <mark>Kompaniyalar ko'pincha</mark> o'z ofislarini katta shaharlarda joylashtirishadi, shuning uchun ish topish osonroq. Shuningdek, konsertlar va muzeylarga borish kabi ko'proq qilinadigan ishlar bor. Bu <mark>hayotni qiziqarliroq qilishi mumkin</mark>. Misol uchun, Tokioda turli xil ish turlari va juda ko'p qiziqarli narsalar mavjud.</p>\n\n<p>Biroq, mega-shaharlarning yomon tomonlari ham bor. Bir muammo shundaki, ular juda gavjum. Bu degani, tirbandlik va ifloslanish ko'proq. Juda ko'p odam bo'lgani uchun <mark>yashash uchun yaxshi joy topish</mark> qiyin bo'lishi mumkin. Yana bir muammo shundaki, narsalar qimmatroq. Katta shaharlarda oziq-ovqat va uy-joy kichik shaharlarga qaraganda qimmatroq turadi.</p>\n\n<p>Xulosa qilib aytganda, mega-shaharlar ko'proq ish imkoniyatlari va ko'ngilochar tadbirlarni taklif qilsa-da, ular haddan tashqari gavjumlik va yuqori narxlardan ham aziyat chekadi. <mark>Men o'ylaymanki</mark>, bu yaxshimi yoki yomonmi, aytish oson emas, lekin bu odamlarning nimani yoqtirishiga bog'liq.</p>",
+    "uzSampleBand6": "<p>Megashaharlarning o'sishi, ya'ni aholisi 20 milliondan oshadigan shaharlar, zamonaviy dunyoda <mark>muhim tendentsiya</mark> hisoblanadi. Ushbu hodisa bilan bog'liq ba'zi afzalliklar mavjud bo'lsa-da, menimcha, salbiy oqibatlar odatda ijobiylaridan ustun turadi.</p>\n\n<p>Bir tomondan, megashaharlar sezilarli iqtisodiy afzalliklarni taklif qilishi mumkin. <mark>Chunki</mark> odamlarning katta kontsentratsiyasi tufayli, bizneslar miqyos iqtisodiyotidan foyda olishi mumkin, bu esa mahsuldorlik va innovatsiyalarning oshishiga olib keladi. Bu, shuningdek, ko'proq ish o'rinlarini yaratishi mumkin, bu esa boshqa mintaqalar va mamlakatlardan malakali ishchilarni jalb qiladi. Bundan tashqari, megashaharlarda ko'pincha yaxshiroq infratuzilma, shu jumladan transport tarmoqlari va davlat xizmatlari mavjud bo'lib, bu aholining hayot sifatini yaxshilashi mumkin. Misol uchun, Tokio kabi katta shaharda sizda juda yaxshi poezdlar bor.</p>\n\n<p>Biroq, megashaharlarning tez o'sishi ham bir qator jiddiy muammolarni yaratadi. Eng dolzarb masalalardan biri bu resurslar va infratuzilmaga bo'lgan bosimdir. Uy-joy, suv va energiyaga bo'lgan talab tezda ta'minotdan oshib ketishi, natijada tanqislik va xarajatlarning oshishiga olib kelishi mumkin. <mark>Bu ko'pincha</mark> tirbandlik, ifloslanish va transport tiqilinchlariga olib keladi, bu esa aholi salomatligi va farovonligiga salbiy ta'sir ko'rsatishi mumkin. Yana bir tashvish - boylar va kambag'allar o'rtasidagi tafovutning kengayishi. Ba'zi aholi megashaharlar tomonidan taklif qilinadigan iqtisodiy imtiyozlardan foyda olishi mumkin bo'lsa-da, boshqalarining ko'pchiligi kun kechirish uchun kurashadi, bu esa ijtimoiy tengsizlik va tartibsizliklarga olib keladi.</p>\n\n<p>Bundan tashqari, megashaharlarda odamlarning kontsentratsiyasi atrof-muhitga bosim o'tkazishi mumkin. Resurslarning ko'paygan iste'moli va chiqindilarning hosil bo'lishi ifloslanish va iqlim o'zgarishiga hissa qo'shishi mumkin. <mark>Shuningdek, shunday bo'ladiki</mark> yangi qurilishlar uchun yo'l ochish uchun ko'pincha yashil maydonlar qurbon qilinadi, bu esa biologik xilma-xillikni kamaytiradi va shaharlarni yashashga yaroqsiz holga keltiradi. Maktablar va kasalxonalar kabi mahalliy infratuzilmaga bo'lgan bosim sezilarli.</p>\n\n<p>Xulosa qilib aytganda, megashaharlar ba'zi iqtisodiy imtiyozlarni taqdim etishi mumkin bo'lsa-da, menimcha, resurslarning tugashi, atrof-muhitning buzilishi va ijtimoiy tengsizlik kabi salbiy oqibatlar <mark>yanada muhimroq</mark>. Hukumatlar va siyosatchilar uchun ushbu muammolarni hal qilish va yanada barqaror va adolatli shahar rivojlanishiga yordam berish muhimdir.</p>",
+    "uzSampleBand7": "<p>20 milliondan ortiq aholiga ega bo'lgan shahar hududlari sifatida ta'riflangan mega-shaharlarning tobora kengayib borishi zamonaviy jamiyatda sezilarli tendentsiyadir. Muayyan afzalliklarni taklif qilsa-da, men bu rivojlanish, umumiy olganda, ijobiydan ko'ra salbiyroq deb hisoblayman. <mark>Bu pozitsiyamga sabab</mark> keyingi paragraflarda batafsil bayon etiladi.</p>\n\n<p>Mega-shaharlarning asosiy afzalliklaridan biri bu resurslar va imkoniyatlarning jamlanishidir. Ushbu shahar markazlari ko'pincha innovatsiya markazlari bo'lib xizmat qiladi, malakali ishchilarni jalb qiladi va iqtisodiy o'sishga yordam beradi. <mark>O'zining kattaligi tufayli</mark>, mega-shaharlar ixtisoslashgan sanoatni qo'llab-quvvatlashi va kichik shaharlar yoki qishloq joylariga nisbatan kengroq ish bilan ta'minlash imkoniyatlarini taklif qilishi mumkin. Bundan tashqari, ular odatda ilg'or transport tizimlari va yaxshiroq sog'liqni saqlash va ta'lim muassasalariga kirish imkoniyatini o'z ichiga olgan ustun infratuzilmaga ega. Biroq, bu afzalliklar har doim ham aholi o'rtasida teng taqsimlanmaydi va <mark>mavjud tengsizliklarni kuchaytirishi mumkin</mark>.</p>\n\n<p>Aksincha, mega-shaharlarning kamchiliklari ko'p va ko'pincha afzalliklardan ustun turadi. Aholining haddan tashqari ko'pligi resurslarga bosim o'tkazadi, natijada uy-joyning etarli emasligi, <mark>ortiqcha yuklangan davlat xizmatlari</mark> va ifloslanishning kuchayishi kabi muammolarga olib keladi. Odamlarning yuqori zichligi, shuningdek, jinoyatchilik, tirbandlik va hayot sifatining umumiy pasayishi kabi ijtimoiy muammolarga ham hissa qo'shishi mumkin. Mega-shaharlar ko'proq ish imkoniyatlarini taklif qilishi mumkin bo'lsa-da, bu lavozimlar uchun raqobat shiddatli va ko'plab aholi arzon uy-joy topish va munosib turmush darajasini saqlab qolish uchun kurashadi. <mark>Bundan tashqari, ushbu shahar hududlarining ulkan miqyosi</mark> anonimlik va ijtimoiy izolyatsiya tuyg'usiga olib kelishi mumkin.</p>\n\n<p>Xulosa qilib aytganda, mega-shaharlar muayyan iqtisodiy va infratuzilmaviy afzalliklarga ega bo'lishi mumkin bo'lsa-da, ular bilan bog'liq ijtimoiy va ekologik muammolar juda katta. Aholining haddan tashqari ko'pligi, resurslarning kamayishi va tengsizlik muammolari <mark>aholining farovonligiga jiddiy tahdid soladi</mark>. Shuning uchun, mening qat'iy ishonchim shuki, mega-shaharlarning tobora kengayib borishi oxir-oqibat salbiy rivojlanishdir va ushbu salbiy oqibatlarni yumshatish uchun barqaror shaharsozlik va mintaqaviy rivojlanishni rag'batlantirishga qaratilgan sa'y-harakatlar qilinishi kerak.</p>",
+    "uzSampleBand8": "<p>Mega-shaharlarning, 20 milliondan ortiq aholiga ega bo'lgan shahar markazlarining tobora kengayib borishi zamonaviy davrimizning asosiy xususiyatidir. Bunday zich aholi muayyan afzalliklarga ega bo'lsa-da, menimcha, umuman olganda, bu tendentsiya resurslarga yuk, ijtimoiy tengsizlikning kuchayishi va atrof-muhitning buzilish ehtimoli tufayli asosan salbiy rivojlanishni tashkil etadi.</p>\n\n<p>Mega-shaharlarning muhim kamchiliklaridan biri bu ularning muhim resurslarga juda katta bosim o'tkazishidir. Bunday katta aholi uchun <mark>tegishli infratuzilmani saqlash</mark>, jumladan, suv ta'minoti, sanitariya tizimlari va transport tarmoqlari, juda katta sarmoyani talab qiladi va ko'pincha barqaror bo'lmasligi mumkin. Bundan tashqari, uy-joyga bo'lgan talab <mark>muqarrar ravishda</mark> aholining zichlashuviga va norasmiy aholi punktlarining ko'payishiga olib keladi, bu erda aholi ko'pincha asosiy qulayliklardan foydalanish imkoniyatiga ega emas va kasalliklarga chalinish xavfi yuqori. Mega-shaharlarda iste'molning kattaligi ham resurslarning kamayishini kuchaytiradi va global miqyosda ekologik muammolarga hissa qo'shadi.</p>\n\n<p>Bundan tashqari, mega-shaharlarda boylik va imkoniyatlarning to'planishi ijtimoiy tengsizlikni kuchaytirishga moyil. Ushbu shaharlar ko'proq ish o'rinlarini taklif qilishi mumkin bo'lsa-da, <mark>foyda teng taqsimlanmaydi</mark>. Aholining sezilarli qismi ko'pincha kam maoshli, beqaror ishlarda ishlaydi va yuqori turmush darajasini qoplay olmaydi. Bunday nomutanosiblik ijtimoiy tartibsizliklarga va <mark>jamiyat birligining buzilishiga</mark> olib kelishi mumkin. Mega-shaharlarda siyosiy va iqtisodiy hokimiyatning to'planishi qishloq aholisining ehtiyojlari va tashvishlarini chetlab o'tishi, shahar va qishloq hududlari o'rtasidagi tafovutni yanada oshirishi mumkin.</p>\n\n<p>Nihoyat, mega-shaharlarning atrof-muhitga ta'siri jiddiy tashvishga solmoqda. Ushbu shahar markazlari havo va suvning ifloslanishiga katta hissa qo'shadi, juda ko'p miqdorda chiqindilar va issiqxona gazlarini chiqaradi. Shaharning kengayishi uchun tabiiy yashash joylarining yo'q qilinishi <mark>muammoni yanada murakkablashtiradi</mark>, bu biologik xilma-xillikning yo'qolishiga va tabiiy ofatlarga nisbatan zaiflikning oshishiga olib keladi. Barqaror shaharsozlikni rivojlantirish bo'yicha harakatlar amalga oshirilayotgan bo'lsa-da, mega-shaharlarning ulkanligi ularning atrof-muhitga ta'sirini samarali kamaytirishni qiyinlashtiradi.</p>\n\n<p>Xulosa qilib aytganda, mega-shaharlar muayyan iqtisodiy afzalliklar va innovatsiya imkoniyatlarini taqdim etishi mumkin bo'lsa-da, ularning o'sishi bilan bog'liq salbiy oqibatlar, jumladan, resurslarning kamayishi, ijtimoiy tengsizlik va atrof-muhitning buzilishi <mark>foydadan ustun turadi</mark>. <mark>Barqarorroq va adolatli kelajak</mark> aholining mega-shaharlarda to'planishidan voz kechishni va resurslar va imkoniyatlarni shahar va qishloq hududlari bo'ylab yanada muvozanatli taqsimlashni talab qiladi. <mark>Hukumatlar va shaharsozlar uchun</mark> barqaror rivojlanishni birinchi o'ringa qo'yish va barcha fuqarolar uchun hayot sifatini yaxshilashni ta'minlash uchun mega-shaharlar tomonidan qo'yilgan muammolarni faol hal qilish <mark>muhimdir</mark>. <mark>Ushbu masalalarga e'tibor bermaslik</mark> atrof-muhit va ijtimoiy farovonlik uchun zararli bo'ladi.\n</p>",
+    "uzSampleBand9": "<p>20 milliondan ortiq aholiga ega bo'lgan shahar markazlari sifatida ta'riflangan mega-shaharlarning rivojlanayotgan tendentsiyasi afzallik va kamchiliklarning murakkab majmuasini taqdim etadi. Resurslar zo'riqishi va ijtimoiy parchalanish bilan bog'liq xavotirlar qonuniy bo'lsa-da, men ushbu shahar gigantlarida aholining to'planishi, asosan, iqtisodiy imkoniyatlarning yaxshilanishi va innovatsiyalarni rag'batlantirish tufayli ijobiy natija beradi, deb hisoblayman.</p>\n\n<p>Mega-shaharlar foydasiga eng ishonchli dalillardan biri ularning <mark>iqtisodiy farovonlikni yaratishdagi mislsiz qobiliyatida</mark>dir. Ushbu shahar markazlari investitsiyalar uchun magnit vazifasini o'taydi, ham mahalliy, ham xalqaro kapitalni jalb qiladi. Sanoat, malakali ishchi kuchi va ilg'or infratuzilmaning kontsentratsiyasi tadbirkorlik va ish o'rinlarini yaratish uchun unumdor zamin yaratadi. <mark>Natijada paydo bo'lgan miqyos iqtisodiyoti</mark> samaradorlik va unumdorlikning oshishiga olib keladi, bu nafaqat mega-shahar aholisiga, balki butun milliy iqtisodiyotga ham foyda keltiradi. Bundan tashqari, turli xil sanoat va ixtisoslashgan xizmatlarning mavjudligi iqtisodiy pasayishlarga bardosh berishga qodir bo'lgan barqaror iqtisodiy ekotizimni yaratadi.</p>\n\n<p>Iqtisodiy mulohazalardan tashqari, mega-shaharlar <mark>innovatsiyalar va madaniy almashinuv markazi</mark> vazifasini o'taydi. Aholining zichligi xilma-xil kelib chiqishi, keng ko'lamli ko'nikmalari, nuqtai nazarlari va g'oyalariga ega bo'lgan shaxslarni birlashtiradi. Ushbu <mark>fikrlar almashinuvi</mark> ijodkorlikni rivojlantiradi va yangi texnologiyalarni ishlab chiqishni va global muammolarga yechimlarni tezlashtiradi. Bundan tashqari, mega-shaharlarda ko'pincha jahon darajasidagi universitetlar, ilmiy-tadqiqot institutlari va madaniyat markazlari mavjud bo'lib, ular innovatsiyalarni yanada kuchaytiradi va butun dunyodan iste'dodlarni jalb qiladi. Bunday resurslarning bitta joyda to'planishi <mark>sinergetik effekt yaratadi</mark> va taraqqiyotni tezlashtirilgan sur'atda boshqaradi.</p>\n\n<p>Tan olish kerakki, mega-shaharlar bilan bog'liq muammolarni, masalan, atrof-muhitning buzilishi, ijtimoiy tengsizlik va infratuzilmaning haddan tashqari yuklanishi kabi muammolarni e'tibordan chetda qoldirib bo'lmaydi. Biroq, bu muammolar hal qilib bo'lmaydigan narsa emas. Samarali shaharsozlik, barqaror rivojlanish strategiyalari va maqsadli ijtimoiy dasturlar bilan salbiy oqibatlarni kamaytirish mumkin. <mark>Bundan tashqari, texnologik yutuqlar ushbu muammolarni hal qilish uchun istiqbolli echimlarni taklif qiladi</mark>, masalan, aqlli shahar tashabbuslari, qayta tiklanadigan energiya manbalari va samarali jamoat transporti tizimlari.</p>\n\n<p>Xulosa qilib aytganda, mega-shaharlarning o'sishi, shubhasiz, ma'lum qiyinchiliklarni tug'dirsa-da, potentsial foyda, ayniqsa, iqtisodiy o'sish va innovatsiyalar nuqtai nazaridan, kamchiliklardan ustundir. Barqaror amaliyotlarni qabul qilib, infratuzilma va ijtimoiy dasturlarga investitsiya kiritish orqali biz ushbu shahar markazlarining <mark>transformatsion kuchidan</mark> barchamiz uchun yanada farovon va barqaror kelajakni yaratish uchun foydalanishimiz mumkin. Asosiysi, faol boshqaruv va <mark>inklyuziv va adolatli rivojlanish</mark>ga sodiqlik, mega-shahar hayotining afzalliklari barcha aholi tomonidan, ularning ijtimoiy-iqtisodiy kelib chiqishidan qat'i nazar, baham ko'rilishini ta'minlashdir. <mark>Nozik nuqtai nazar</mark> ham imkoniyatlarni, ham muammolarni tan olish muhim.</p>"
+   }
+  },
+  "source": "Cambridge IELTS 18",
+  "examDate": "2022-04-30",
+  "settings": {
+   "timeInfo": "60 Minutes",
+   "moduleTitle": "Academic Writing Module",
+   "testIdentifier": "Mock 29"
+  },
+  "vocabulary": {
+   "task1": [
+    {
+     "term": "Age distribution",
+     "meaning": "How people of different ages are spread across a group."
+    },
+    {
+     "term": "Demographic profiles",
+     "meaning": "Characteristics of a population, such as age, gender, or income."
+    },
+    {
+     "term": "Balanced distribution",
+     "meaning": "An even spread across different categories."
+    },
+    {
+     "term": "User base",
+     "meaning": "The group of people who use a particular product or service."
+    },
+    {
+     "term": "Significant representation",
+     "meaning": "A notable or meaningful proportion."
+    },
+    {
+     "term": "Youngest user profile",
+     "meaning": "Having the largest proportion of young users."
+    },
+    {
+     "term": "Broader appeal",
+     "meaning": "Attracting a wider range of people."
+    },
+    {
+     "term": "Demographics",
+     "meaning": "Statistical data about the characteristics of a population."
+    }
+   ],
+   "task2": [
+    {
+     "term": "Mega-cities",
+     "meaning": "Very large cities with populations over 10 or 20 million."
+    },
+    {
+     "term": "Demographic trends",
+     "meaning": "Patterns in the characteristics of populations over time."
+    },
+    {
+     "term": "Economies of scale",
+     "meaning": "Cost advantages gained when production or services increase."
+    },
+    {
+     "term": "Hubs of innovation",
+     "meaning": "Centers where new ideas and technologies are developed."
+    },
+    {
+     "term": "Overcrowded slums",
+     "meaning": "Densely populated areas with poor living conditions."
+    },
+    {
+     "term": "Infrastructure strain",
+     "meaning": "Pressure on basic facilities and systems."
+    },
+    {
+     "term": "Extreme inequality",
+     "meaning": "Very large differences between rich and poor."
+    },
+    {
+     "term": "Environmental degradation",
+     "meaning": "The deterioration of the environment through depletion of resources."
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "I think": {
+    "uz": "Men o'ylayman",
+    "type": "lexical"
+   },
+   "making up": {
+    "uz": "tashkil etadi",
+    "type": "lexical"
+   },
+   "Because of": {
+    "uz": "Tufayli",
+    "type": "linking"
+   },
+   "tends to use": {
+    "uz": "ishlatishga moyil",
+    "type": "lexical"
+   },
+   "can make life": {
+    "uz": "hayotni qila oladi",
+    "type": "lexical"
+   },
+   "In the case of": {
+    "uz": "Holatida",
+    "type": "linking"
+   },
+   "Companies often": {
+    "uz": "Kompaniyalar ko'pincha",
+    "type": "lexical"
+   },
+   "A large number of": {
+    "uz": "Katta miqdorda",
+    "type": "colloc"
+   },
+   "A similar pattern": {
+    "uz": "O'xshash naqsh",
+    "type": "colloc"
+   },
+   "are quite similar": {
+    "uz": "juda o'xshash",
+    "type": "lexical"
+   },
+   "significant trend": {
+    "uz": "muhim tendentsiya",
+    "type": "lexical"
+   },
+   "A striking feature": {
+    "uz": "Ajralib turadigan xususiyat",
+    "type": "colloc"
+   },
+   "constitutes a mere": {
+    "uz": "oddiygina tashkil etadi",
+    "type": "academic"
+   },
+   "nice place to live": {
+    "uz": "yashash uchun yaxshi joy",
+    "type": "lexical"
+   },
+   "platform of choice": {
+    "uz": "tanlov platformasi",
+    "type": "lexical"
+   },
+   "slightly exceeding": {
+    "uz": "ozgina oshib ketgan",
+    "type": "lexical"
+   },
+   "It can be seen that": {
+    "uz": "Ko'rinib turibdiki",
+    "type": "linking"
+   },
+   "inevitably leads to": {
+    "uz": "muqarrar ravishda olib keladi",
+    "type": "linking"
+   },
+   "A notable difference": {
+    "uz": "E'tiborga molik farq",
+    "type": "colloc"
+   },
+   "are more significant": {
+    "uz": "ahamiyatliroq",
+    "type": "lexical"
+   },
+   "different age groups": {
+    "uz": "turli yosh guruhlari",
+    "type": "lexical"
+   },
+   "heavily concentrated": {
+    "uz": "juda zich joylashgan",
+    "type": "lexical"
+   },
+   "transformative power": {
+    "uz": "o'zgartiruvchi kuch",
+    "type": "academic"
+   },
+   "A nuanced perspective": {
+    "uz": "Nozik nuqtai nazar",
+    "type": "academic"
+   },
+   "This often results in": {
+    "uz": "Bu ko'pincha olib keladi",
+    "type": "linking"
+   },
+   "outweigh the benefits": {
+    "uz": "foydalardan ustun turadi",
+    "type": "academic"
+   },
+   "give information about": {
+    "uz": "haqida ma'lumot berish",
+    "type": "lexical"
+   },
+   "heavily skewed towards": {
+    "uz": "tomonga kuchli og'ish",
+    "type": "lexical"
+   },
+   "noticeably represented": {
+    "uz": "sezilarli darajada taqdim etilgan",
+    "type": "lexical"
+   },
+   "Due to their sheer size": {
+    "uz": "O'zlarining katta hajmiga ko'ra",
+    "type": "linking"
+   },
+   "It is also the case that": {
+    "uz": "Shuningdek, shunday holat ham mavjudki",
+    "type": "linking"
+   },
+   "illustrate the distribution": {
+    "uz": "taqsimotni ko'rsatadi",
+    "type": "lexical"
+   },
+   "indicating its wider appeal": {
+    "uz": "uning kengroq jozibasini ko'rsatadi",
+    "type": "linking"
+   },
+   "relatively well-represented": {
+    "uz": "nisbatan yaxshi taqdim etilgan",
+    "type": "lexical"
+   },
+   "suggesting a broader appeal": {
+    "uz": "kengroq jozibadorlikni taklif qiladi",
+    "type": "linking"
+   },
+   "It is also worth noting that": {
+    "uz": "Shuni ham ta'kidlash joizki",
+    "type": "linking"
+   },
+   "My reasoning for this stance": {
+    "uz": "Mening bu pozitsiyadagi asosim",
+    "type": "lexical"
+   },
+   "creates a synergistic effect": {
+    "uz": "sinergik effekt yaratadi",
+    "type": "academic"
+   },
+   "cross-pollination of thought": {
+    "uz": "fikrlar almashinuvi",
+    "type": "academic"
+   },
+   "displayed a more even spread": {
+    "uz": "yanada tekis tarqalishni namoyish etdi",
+    "type": "academic"
+   },
+   "offer a comparative analysis": {
+    "uz": "taqqoslama tahlil taklif etadi",
+    "type": "academic"
+   },
+   "overburdened public services": {
+    "uz": "haddan tashqari yuklangan davlat xizmatlari",
+    "type": "academic"
+   },
+   "further compounds the problem": {
+    "uz": "muammoni yanada murakkablashtiradi",
+    "type": "academic"
+   },
+   "holds a more significant share": {
+    "uz": "yanada muhim ulushga ega",
+    "type": "lexical"
+   },
+   "illustrate the distribution of": {
+    "uz": "ning taqsimotini ko'rsatadi",
+    "type": "lexical"
+   },
+   "The resultant economies of scale": {
+    "uz": "Natijada kelib chiqqan miqyos iqtisodlari",
+    "type": "academic"
+   },
+   "a breakdown of community cohesion": {
+    "uz": "jamiyat birdamligining buzilishi",
+    "type": "academic"
+   },
+   "exhibits a relatively even spread": {
+    "uz": "nisbatan tekis tarqalishni namoyon qiladi",
+    "type": "academic"
+   },
+   "Maintaining adequate infrastructure": {
+    "uz": "Yetarli infratuzilmani saqlash",
+    "type": "academic"
+   },
+   "Overall, it is immediately apparent": {
+    "uz": "Umuman olganda, bu darhol ayon bo'ladi",
+    "type": "linking"
+   },
+   "being relatively evenly distributed": {
+    "uz": "nisbatan bir tekis taqsimlangan",
+    "type": "academic"
+   },
+   "inclusive and equitable development": {
+    "uz": "inklyuziv va adolatli rivojlanish",
+    "type": "academic"
+   },
+   "can exacerbate existing inequalities": {
+    "uz": "mavjud tengsizliklarni kuchaytirishi mumkin",
+    "type": "academic"
+   },
+   "A more sustainable and equitable future": {
+    "uz": "Barqarorroq va adolatli kelajak",
+    "type": "academic"
+   },
+   "the benefits are not evenly distributed": {
+    "uz": "foydalar bir xilda taqsimlanmagan",
+    "type": "academic"
+   },
+   "commands a more balanced age distribution": {
+    "uz": "muvozanatliroq yosh taqsimotiga ega",
+    "type": "academic"
+   },
+   "make up a significantly smaller proportion": {
+    "uz": "sezilarli darajada kamroq qismini tashkil qiladi",
+    "type": "lexical"
+   },
+   "pose significant threats to the well-being": {
+    "uz": "farovonlikka jiddiy tahdid soladi",
+    "type": "academic"
+   },
+   "Neglecting these issues would be detrimental": {
+    "uz": "Bu masalalarga e'tibor bermaslik zararli bo'ladi",
+    "type": "academic"
+   },
+   "crucibles of innovation and cultural exchange": {
+    "uz": "innovatsiya va madaniy almashinuv markazlari",
+    "type": "academic"
+   },
+   "demonstrated a considerably stronger presence": {
+    "uz": "sezilarli darajada kuchliroq ishtirokni namoyish etdi",
+    "type": "academic"
+   },
+   "Moreover, the sheer scale of these urban areas": {
+    "uz": "Bundan tashqari, ushbu shahar hududlarining ulkan ko'lami",
+    "type": "linking"
+   },
+   "imperative that governments and urban planners": {
+    "uz": "hukumatlar va shaharsozlar uchun zarur",
+    "type": "academic"
+   },
+   "unparalleled capacity to generate economic prosperity": {
+    "uz": "iqtisodiy farovonlikni yaratishning misli ko'rilmagan qobiliyati",
+    "type": "academic"
+   },
+   "Furthermore, technological advancements offer promising solutions": {
+    "uz": "Bundan tashqari, texnologik yutuqlar istiqbolli yechimlarni taklif etadi",
+    "type": "academic"
+   }
+  }
+ },
+ "created_at": "2026-05-06T17:29:08.755942+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

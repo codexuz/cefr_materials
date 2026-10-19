@@ -1,0 +1,1026 @@
+{
+ "id": 2236,
+ "mock_type": "ket-reading-writing",
+ "mock_number": 2,
+ "title": "KET Reading & Writing — Test 2",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "match-notices",
+    "items": [
+     {
+      "id": 1,
+      "answer": "H",
+      "prompt": "You must drive carefully here."
+     },
+     {
+      "id": 2,
+      "answer": "G",
+      "prompt": "You can eat cheaply here."
+     },
+     {
+      "id": 3,
+      "answer": "E",
+      "prompt": "You can stay here on holiday."
+     },
+     {
+      "id": 4,
+      "answer": "F",
+      "prompt": "You can find work here."
+     },
+     {
+      "id": 5,
+      "answer": "D",
+      "prompt": "You must not go in this way."
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "C",
+     "number": 0,
+     "prompt": "You can leave your suitcase here."
+    },
+    "notices": [
+     {
+      "text": "NO SERVICE\nSTATION ON\nMOTORWAY",
+      "letter": "A"
+     },
+     {
+      "text": "Travel Express\nNEW BUSINESS HOURS\n9 A.M–6 P.M.",
+      "letter": "B"
+     },
+     {
+      "text": "LEFT LUGGAGE\nOPEN 24 HOURS",
+      "letter": "C"
+     },
+     {
+      "text": "PLEASE USE OTHER DOOR",
+      "letter": "D"
+     },
+     {
+      "text": "Camp-site Open All Year",
+      "letter": "E"
+     },
+     {
+      "text": "JOB AGENCY\nWe've got the right\njob for you!",
+      "letter": "F"
+     },
+     {
+      "text": "Joe's Snack Bar\nLowest Prices in Town!",
+      "letter": "G"
+     },
+     {
+      "text": "DANGER!\nICE ON ROAD",
+      "letter": "H"
+     }
+    ],
+    "partNumber": 1,
+    "instruction": [
+     "Which notice (A–H) says this (1–5)?",
+     "For questions 1–5, mark the correct letter A–H on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "mcq-gap-fill-sentences",
+    "items": [
+     {
+      "id": 6,
+      "answer": "B",
+      "options": [
+       {
+        "text": "pilot",
+        "letter": "A"
+       },
+       {
+        "text": "driver",
+        "letter": "B"
+       },
+       {
+        "text": "passenger",
+        "letter": "C"
+       }
+      ],
+      "sentence": "They got off the bus when the _____ stopped outside a small village."
+     },
+     {
+      "id": 7,
+      "answer": "C",
+      "options": [
+       {
+        "text": "door",
+        "letter": "A"
+       },
+       {
+        "text": "garden",
+        "letter": "B"
+       },
+       {
+        "text": "gate",
+        "letter": "C"
+       }
+      ],
+      "sentence": "There was a _____ into a field so they climbed over it."
+     },
+     {
+      "id": 8,
+      "answer": "B",
+      "options": [
+       {
+        "text": "watched",
+        "letter": "A"
+       },
+       {
+        "text": "looked",
+        "letter": "B"
+       },
+       {
+        "text": "saw",
+        "letter": "C"
+       }
+      ],
+      "sentence": "They _____ at the map to check which way to go."
+     },
+     {
+      "id": 9,
+      "answer": "B",
+      "options": [
+       {
+        "text": "arrived",
+        "letter": "A"
+       },
+       {
+        "text": "came",
+        "letter": "B"
+       },
+       {
+        "text": "crossed",
+        "letter": "C"
+       }
+      ],
+      "sentence": "They walked for two hours until they _____ to a river."
+     },
+     {
+      "id": 10,
+      "answer": "A",
+      "options": [
+       {
+        "text": "sat",
+        "letter": "A"
+       },
+       {
+        "text": "put",
+        "letter": "B"
+       },
+       {
+        "text": "stood",
+        "letter": "C"
+       }
+      ],
+      "sentence": "It was a lovely place so they _____ down and had a picnic on the grass."
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "options": [
+      {
+       "text": "day",
+       "letter": "A"
+      },
+      {
+       "text": "time",
+       "letter": "B"
+      },
+      {
+       "text": "moment",
+       "letter": "C"
+      }
+     ],
+     "sentence": "Nick and Charles wanted to spend a _____ in the country."
+    },
+    "partNumber": 2,
+    "instruction": [
+     "Read the sentences (6–10) about a trip to the country.",
+     "Choose the best word (A, B or C) for each space.",
+     "For questions 6–10, mark A, B or C on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-response",
+    "items": [
+     {
+      "id": 11,
+      "answer": "C",
+      "prompt": "Hello, Sue. This is my boss, Mrs Smith.",
+      "options": [
+       {
+        "text": "How old is she?",
+        "letter": "A"
+       },
+       {
+        "text": "How much is it?",
+        "letter": "B"
+       },
+       {
+        "text": "How do you do?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "answer": "B",
+      "prompt": "Tell Ben to come upstairs.",
+      "options": [
+       {
+        "text": "That's right.",
+        "letter": "A"
+       },
+       {
+        "text": "All right.",
+        "letter": "B"
+       },
+       {
+        "text": "Is that right?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "answer": "B",
+      "prompt": "Have you got a ticket?",
+      "options": [
+       {
+        "text": "At the ticket office.",
+        "letter": "A"
+       },
+       {
+        "text": "Here it is.",
+        "letter": "B"
+       },
+       {
+        "text": "Yes, please.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "answer": "B",
+      "prompt": "Let's go to Brighton tomorrow.",
+      "options": [
+       {
+        "text": "What a pity!",
+        "letter": "A"
+       },
+       {
+        "text": "OK. Why not?",
+        "letter": "B"
+       },
+       {
+        "text": "It doesn't matter.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "answer": "C",
+      "prompt": "Can I open the window, please?",
+      "options": [
+       {
+        "text": "You don't.",
+        "letter": "A"
+       },
+       {
+        "text": "It isn't.",
+        "letter": "B"
+       },
+       {
+        "text": "Of course.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "prompt": "How old are you?",
+     "options": [
+      {
+       "text": "I'm 18.",
+       "letter": "A"
+      },
+      {
+       "text": "I'm Peter.",
+       "letter": "B"
+      },
+      {
+       "text": "I'm fine.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partLetter": "a",
+    "partNumber": 3,
+    "instruction": [
+     "Complete the five conversations.",
+     "For conversations 11–15, mark A, B or C on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "type": "match-dialogue",
+    "items": [
+     {
+      "id": 16,
+      "answer": "E"
+     },
+     {
+      "id": 17,
+      "answer": "B"
+     },
+     {
+      "id": 18,
+      "answer": "A"
+     },
+     {
+      "id": 19,
+      "answer": "H"
+     },
+     {
+      "id": 20,
+      "answer": "C"
+     }
+    ],
+    "example": {
+     "answer": "G",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "They're free. My father gave them to me.",
+      "letter": "A"
+     },
+     {
+      "text": "In London. We can go in my car.",
+      "letter": "B"
+     },
+     {
+      "text": "I'll call you again on Friday to arrange the time.",
+      "letter": "C"
+     },
+     {
+      "text": "My car's very small.",
+      "letter": "D"
+     },
+     {
+      "text": "I've got some tickets for the football — England against France.",
+      "letter": "E"
+     },
+     {
+      "text": "We can meet in the town centre.",
+      "letter": "F"
+     },
+     {
+      "text": "Hello, it's Peter. Are you busy on Saturday?",
+      "letter": "G"
+     },
+     {
+      "text": "I suppose so. There may be a lot of traffic.",
+      "letter": "H"
+     }
+    ],
+    "dialogue": [
+     {
+      "line": "Hello, 345920.",
+      "speaker": "James"
+     },
+     {
+      "gap": 0,
+      "speaker": "Peter"
+     },
+     {
+      "line": "No, I don't think so. Why?",
+      "speaker": "James"
+     },
+     {
+      "gap": 16,
+      "speaker": "Peter"
+     },
+     {
+      "line": "Where are they playing?",
+      "speaker": "James"
+     },
+     {
+      "gap": 17,
+      "speaker": "Peter"
+     },
+     {
+      "line": "I'd love to come. How much are the tickets?",
+      "speaker": "James"
+     },
+     {
+      "gap": 18,
+      "speaker": "Peter"
+     },
+     {
+      "line": "Will we have to leave early?",
+      "speaker": "James"
+     },
+     {
+      "gap": 19,
+      "speaker": "Peter"
+     },
+     {
+      "line": "What time should we meet?",
+      "speaker": "James"
+     },
+     {
+      "gap": 20,
+      "speaker": "Peter"
+     },
+     {
+      "line": "Thanks, Peter. Goodbye.",
+      "speaker": "James"
+     },
+     {
+      "line": "Goodbye.",
+      "speaker": "Peter"
+     }
+    ],
+    "partLetter": "b",
+    "partNumber": 3,
+    "instruction": [
+     "Complete the telephone conversation.",
+     "What does Peter say to James?",
+     "For questions 16–20, mark the correct letter A–H on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "type": "mcq-passage-stems",
+    "items": [
+     {
+      "id": 21,
+      "stem": "In 1700, the men who protected the streets were paid",
+      "answer": "B",
+      "options": [
+       {
+        "text": "a lot.",
+        "letter": "A"
+       },
+       {
+        "text": "a little.",
+        "letter": "B"
+       },
+       {
+        "text": "nothing.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 22,
+      "stem": "300 years ago, many people",
+      "answer": "A",
+      "options": [
+       {
+        "text": "came to live in London.",
+        "letter": "A"
+       },
+       {
+        "text": "wanted to leave London.",
+        "letter": "B"
+       },
+       {
+        "text": "had big houses in London.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 23,
+      "stem": "People did not leave their houses because",
+      "answer": "C",
+      "options": [
+       {
+        "text": "the city was not clean.",
+        "letter": "A"
+       },
+       {
+        "text": "they had no money.",
+        "letter": "B"
+       },
+       {
+        "text": "they were afraid.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 24,
+      "stem": "The Bow Street Runners",
+      "answer": "B",
+      "options": [
+       {
+        "text": "stole money.",
+        "letter": "A"
+       },
+       {
+        "text": "stopped people stealing.",
+        "letter": "B"
+       },
+       {
+        "text": "paid people to steal.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 25,
+      "stem": "In 1800, there were",
+      "answer": "B",
+      "options": [
+       {
+        "text": "enough policemen.",
+        "letter": "A"
+       },
+       {
+        "text": "not enough policemen.",
+        "letter": "B"
+       },
+       {
+        "text": "too many policemen.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 26,
+      "stem": "Of the first 3000 Metropolitan policemen,",
+      "answer": "B",
+      "options": [
+       {
+        "text": "all of them rode horses.",
+        "letter": "A"
+       },
+       {
+        "text": "some of them rode horses.",
+        "letter": "B"
+       },
+       {
+        "text": "most of them rode horses.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 27,
+      "stem": "Today, police officers who work with horses are paid",
+      "answer": "A",
+      "options": [
+       {
+        "text": "more than their colleagues.",
+        "letter": "A"
+       },
+       {
+        "text": "the same as their colleagues.",
+        "letter": "B"
+       },
+       {
+        "text": "half as much as their colleagues.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 4",
+    "article": "Today there are policemen everywhere, but in 1700 London had no policemen at all. A few old men used to protect the city streets at night and they were not paid very much.\n\nAbout 300 years ago, London was starting to get bigger. The city was very dirty and many people were poor. There were so many thieves who stole money in the streets that people stayed in their homes as much as possible.\n\nIn 1750, Henry Fielding started to pay a group of people to stop thieves. They were like policemen and were called 'Bow Street Runners' because they worked near Bow Street.\n\nFifty years later, there were 120 Bow Street Runners, but London had become very big and needed more policemen. So, in 1829, the first Metropolitan (or London) Police Force was started with 3000 officers. Most of the men worked on foot, but a few rode horses. Until 1920 all the police in London were men.\n\nToday, London police are quite well paid and for the few police officers who still ride horses, the pay is even better than for the others.",
+    "example": {
+     "stem": "In 1700, there were",
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "text": "policemen everywhere.",
+       "letter": "A"
+      },
+      {
+       "text": "policemen only in London.",
+       "letter": "B"
+      },
+      {
+       "text": "no policemen in London.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partNumber": 4,
+    "instruction": [
+     "Read the article about the London police and answer the questions.",
+     "For questions 21–27, mark A, B or C on the answer sheet."
+    ],
+    "articleTitle": "THE HISTORY OF THE LONDON POLICE",
+    "questionsLabel": "QUESTIONS 21–27"
+   },
+   {
+    "type": "mcq-cloze-passage",
+    "items": [
+     {
+      "id": 28,
+      "answer": "C",
+      "options": [
+       {
+        "text": "that",
+        "letter": "A"
+       },
+       {
+        "text": "when",
+        "letter": "B"
+       },
+       {
+        "text": "before",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 29,
+      "answer": "C",
+      "options": [
+       {
+        "text": "Everybody",
+        "letter": "A"
+       },
+       {
+        "text": "People",
+        "letter": "B"
+       },
+       {
+        "text": "Nobody",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 30,
+      "answer": "A",
+      "options": [
+       {
+        "text": "than",
+        "letter": "A"
+       },
+       {
+        "text": "that",
+        "letter": "B"
+       },
+       {
+        "text": "as",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 31,
+      "answer": "B",
+      "options": [
+       {
+        "text": "as",
+        "letter": "A"
+       },
+       {
+        "text": "but",
+        "letter": "B"
+       },
+       {
+        "text": "or",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 32,
+      "answer": "B",
+      "options": [
+       {
+        "text": "in",
+        "letter": "A"
+       },
+       {
+        "text": "on",
+        "letter": "B"
+       },
+       {
+        "text": "at",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 33,
+      "answer": "A",
+      "options": [
+       {
+        "text": "ate",
+        "letter": "A"
+       },
+       {
+        "text": "eat",
+        "letter": "B"
+       },
+       {
+        "text": "eats",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 34,
+      "answer": "C",
+      "options": [
+       {
+        "text": "bigger",
+        "letter": "A"
+       },
+       {
+        "text": "biggest",
+        "letter": "B"
+       },
+       {
+        "text": "big",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 35,
+      "answer": "B",
+      "options": [
+       {
+        "text": "that",
+        "letter": "A"
+       },
+       {
+        "text": "because",
+        "letter": "B"
+       },
+       {
+        "text": "where",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 5",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "options": [
+      {
+       "text": "ever",
+       "letter": "A"
+      },
+      {
+       "text": "never",
+       "letter": "B"
+      },
+      {
+       "text": "yet",
+       "letter": "C"
+      }
+     ]
+    },
+    "passage": "No one has {0} seen a dinosaur. The last dinosaur died about 60 million years ago, a long time {28} there were any people on the earth. {29} knows for sure why they all died. The nearest living relatives of dinosaurs are birds.\n\nDinosaurs didn't all look the same. There were more {30} 5000 kinds. Some were very small, {31} others were giants. The largest were bigger than any other animals that ever lived {32} land. The Brontosaurus, for example, was twenty metres long, and it {33} plants. The Tyrannosaurus Rex was not as {34}, but it was stronger. It had sharp teeth for eating meat. Also it could run fast {35} it had long back legs.",
+    "partNumber": 5,
+    "instruction": [
+     "Read the information about dinosaurs.",
+     "Choose the best word (A, B or C) for each space (28–35).",
+     "For questions 28–35, mark A, B or C on the answer sheet."
+    ],
+    "passageTitle": "Dinosaurs",
+    "questionsLabel": "QUESTIONS 28–35"
+   },
+   {
+    "type": "vocab-first-letter",
+    "items": [
+     {
+      "id": 36,
+      "answer": "garage",
+      "prompt": "A mechanic will repair your car here.",
+      "letters": 6,
+      "firstLetter": "g"
+     },
+     {
+      "id": 37,
+      "answer": "hospital",
+      "prompt": "If you are ill, you may stay here.",
+      "letters": 8,
+      "firstLetter": "h"
+     },
+     {
+      "id": 38,
+      "answer": "bridge",
+      "prompt": "You can cross a river here.",
+      "letters": 6,
+      "firstLetter": "b"
+     },
+     {
+      "id": 39,
+      "answer": "stadium",
+      "prompt": "You buy a ticket and watch a football match here with hundreds of other people.",
+      "letters": 7,
+      "firstLetter": "s"
+     },
+     {
+      "id": 40,
+      "answer": "theatre",
+      "prompt": "You go here to see a play.",
+      "letters": 7,
+      "firstLetter": "t"
+     }
+    ],
+    "label": "PART 6",
+    "example": {
+     "answer": "station",
+     "number": 0,
+     "prompt": "You can take the train from here.",
+     "firstLetter": "s"
+    },
+    "partNumber": 6,
+    "instruction": [
+     "Read the descriptions (36–40) of some places.",
+     "What is the word for each description?",
+     "The first letter is already there. There is one space for each other letter in the word.",
+     "For questions 36–40, write the words on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 36–40"
+   },
+   {
+    "type": "open-cloze-letter",
+    "items": [
+     {
+      "id": 41,
+      "answer": "on"
+     },
+     {
+      "id": 42,
+      "answer": "with"
+     },
+     {
+      "id": 43,
+      "answer": "me"
+     },
+     {
+      "id": 44,
+      "answer": "can"
+     },
+     {
+      "id": 45,
+      "answer": "for"
+     },
+     {
+      "id": 46,
+      "answer": "like"
+     },
+     {
+      "id": 47,
+      "answer": "the"
+     },
+     {
+      "id": 48,
+      "answer": "a"
+     },
+     {
+      "id": 49,
+      "answer": "Do"
+     },
+     {
+      "id": 50,
+      "answer": "be"
+     }
+    ],
+    "label": "PART 7",
+    "example": {
+     "answer": "be",
+     "number": 0
+    },
+    "letters": [
+     {
+      "body": "I will (Example: be) in London {41} Thursday morning. Would you like to have lunch {42} me? Write and tell {43} when you are free and where I {44} meet you.\n\nHope to see you then.",
+      "header": "14 Sheffield Road\nRotherham\n\n20th May 2002",
+      "closing": "Yours\nJoan",
+      "greeting": "Dear Mary,"
+     },
+     {
+      "body": "Thanks {45} your letter. I got it this morning. Yes, I'd {46} to see you. How about meeting outside {47} office at one o'clock? There's {48} good Italian restaurant near there. {49} you like Italian food?\n\nI have to be back at work by two o'clock, so please don't {50} late!",
+      "header": "20 DIDSBURY DRIVE LONDON NW1\n22 May 2002",
+      "closing": "Yours\nMary",
+      "greeting": "Dear Joan,"
+     }
+    ],
+    "partNumber": 7,
+    "instruction": [
+     "Complete these letters.",
+     "Write ONE word for each space (41–50).",
+     "For questions 41–50, write your words on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 41–50"
+   },
+   {
+    "note": {
+     "body": "",
+     "dateLine": "",
+     "signature": ""
+    },
+    "rows": [
+     {
+      "id": 51,
+      "label": "Leave from:",
+      "answer": "Terminal 3",
+      "suffix": ", London Airport"
+     },
+     {
+      "id": 52,
+      "label": "Be there at:",
+      "answer": "8 a.m."
+     },
+     {
+      "id": 53,
+      "label": "Date of return flight:",
+      "answer": "19th September"
+     },
+     {
+      "id": 54,
+      "label": "UK arrival time:",
+      "answer": "21.45"
+     },
+     {
+      "id": 55,
+      "label": "Travel home from airport by:",
+      "answer": "taxi"
+     }
+    ],
+    "type": "info-transfer-notes",
+    "label": "PART 8",
+    "notice": {
+     "body": "To: Mrs Jones\nFrom: Cathy, Asia Travel\n\nHere is the latest information about your trip to Hong Kong.\n\nYou will fly from London Airport on 13th September at 10.15 a.m. Terminal 4 is closed so please go to Terminal 3 at 8 a.m.\n\nYou will get back to the UK a day earlier than we first said, on 19th September (not 20th) at 21.45. I have booked a taxi because the last airport bus goes at 21.30.",
+     "title": "Message"
+    },
+    "notesTitle": "Trip to Hong Kong",
+    "partNumber": 8,
+    "instruction": [
+     "Read the message to Mrs Jones.",
+     "Fill in the information in her notebook.",
+     "For questions 51–55, write the information on the answer sheet."
+    ],
+    "notesSubtitle": "On: 13th September",
+    "questionsLabel": "QUESTIONS 51–55"
+   },
+   {
+    "type": "writing-postcard",
+    "items": [
+     {
+      "id": 56,
+      "type": "free-text",
+      "answer": "Dear Leslie,\nThank you for your letter. I'm very happy, you now, I like a lot of a party and I like listening to music at parties. Yes, I'm going to come with my girlfriend Judy. You will be happy. She is very nice and friendly. See you on Saturday at 5 o'clock.\nDavid",
+      "maxWords": 35,
+      "minWords": 25
+     }
+    ],
+    "label": "PART 9",
+    "footer": [
+     "Write 25–35 words.",
+     "Write your note on the answer sheet."
+    ],
+    "prompt": "I'm having a party at my house on Saturday.\n\nCan you come?\n\nWould you like to bring a friend?\n\nWhat do you like doing at parties?",
+    "wordCount": "25–35 words",
+    "partNumber": 9,
+    "instruction": [
+     "Read the note from your friend Leslie.",
+     "Write a note to Leslie and answer his questions."
+    ],
+    "questionsLabel": "QUESTION 56",
+    "promptSignature": "Leslie"
+   }
+  ],
+  "testInfo": {
+   "id": "ket-rw-02",
+   "level": "A2",
+   "paper": "Paper 1",
+   "parts": 9,
+   "title": "KET Reading & Writing — Test 2",
+   "totalTime": 70,
+   "totalQuestions": 56
+  }
+ },
+ "created_at": "2026-10-14T06:44:56.873389+00:00",
+ "updated_at": "2026-10-14T06:46:44.940007+00:00"
+}

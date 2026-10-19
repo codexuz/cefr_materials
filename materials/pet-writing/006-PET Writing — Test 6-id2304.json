@@ -1,0 +1,125 @@
+{
+ "id": 2304,
+ "mock_type": "pet-writing",
+ "mock_number": 6,
+ "title": "PET Writing — Test 6",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "sentence-transformation",
+    "items": [
+     {
+      "id": 1,
+      "first": "When she has to walk to the supermarket she finds it tiring.",
+      "answer": "tired",
+      "afterBlank": "when she has to walk to the supermarket.",
+      "beforeBlank": "She gets"
+     },
+     {
+      "id": 2,
+      "first": "She is often driven to the supermarket by her neighbour.",
+      "answer": "gives her",
+      "afterBlank": "a lift to the supermarket.",
+      "beforeBlank": "Her neighbour often"
+     },
+     {
+      "id": 3,
+      "first": "There are many types of coffee there.",
+      "answer": "a lot of",
+      "afterBlank": "types of coffee there.",
+      "beforeBlank": "You can buy"
+     },
+     {
+      "id": 4,
+      "first": "She asked an assistant how much the Colombian coffee cost.",
+      "answer": "much does",
+      "afterBlank": "the Colombian coffee cost?'",
+      "beforeBlank": "She asked: 'How"
+     },
+     {
+      "id": 5,
+      "first": "The Colombian coffee cost less than the Kenyan coffee.",
+      "answer": "as expensive",
+      "afterBlank": "as the Kenyan coffee.",
+      "beforeBlank": "The Colombian coffee wasn't"
+     }
+    ],
+    "label": "PART 1",
+    "topic": "Going to the supermarket",
+    "example": {
+     "first": "My mother lives a long way from the supermarket.",
+     "answer": "a supermarket near",
+     "afterBlank": "my mother's house.",
+     "beforeBlank": "There isn't"
+    },
+    "partNumber": 1,
+    "instruction": [
+     "Here are some sentences about going to the supermarket.",
+     "For each question, complete the second sentence so that it means the same as the first, using no more than three words.",
+     "Write only the missing words on your answer sheet.",
+     "You may use this page for any rough work."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "writing-task",
+    "items": [
+     {
+      "id": 6,
+      "band": "5",
+      "answer": "Dear Mary and Fred\nAre you already missing me? I'm very well. the travel back was good.\nI really loved that peacefull place. I'm so thankfull for all and I'd like to offer you a dinner in my home next saturday. What do you think?\nSee you\nLeticia"
+     }
+    ],
+    "label": "PART 2",
+    "prompt": "You have just had a wonderful holiday staying with some English-speaking friends in the countryside.\n\nWrite an e-mail to your friends. In your e-mail, you should\n\n• thank them for your stay\n• say what you most enjoyed about the countryside\n• suggest where you could meet each other next time.\n\nWrite 35–45 words on your answer sheet.",
+    "wordCount": "35–45 words",
+    "partNumber": 2,
+    "questionsLabel": "QUESTION 6"
+   },
+   {
+    "type": "writing-task",
+    "items": [
+     {
+      "id": 7,
+      "band": "5",
+      "answer": "Dear Jake,\nThe first and most important issue is not to reduce the food you eat daily. You can change the menu and the way you eat but if you start a diet by yourself the first thing you'll lose is your health.\nYou can find many good gyms and if you want I can read the names for you in another letter. However, you don't need necessarily to go to a gym to stay fit. Some small changes to your life can do a big difference. For example, you can start by walking some time during the morning or in the lunch time.\nI hope you don't have any health problem and it would be nice if you went to a doctor for a check-up before starting any exercise.\nBest regards,\nFabio",
+      "altSample": {
+       "q": 8,
+       "band": "5",
+       "text": "An exciting Adventure\nLast january I travelled, with a friend, by car during 33 days in Brasil.\nIn this trip we visited a lot of places and we saw many beatiful things\nAt the begining we had to drive more than 4.000 km to get into the first beach. When we arrived we drank lots of beers to celebrate the first part of our trip.\nWe were very tired because we had been driving for 42 hours.\nAfter that we went to other beach. We ate fish with vegetables and fruit juice right after we had drunk 20 beers!\nTo summarize our exciting trip, we spent one month travelling, drinking beer and visiting the beachs of the Brazilian coast."
+      }
+     }
+    ],
+    "label": "PART 3",
+    "choices": [
+     {
+      "id": 7,
+      "image": "https://audio.mock-stream.com/PET-Writing/test6/q7_ribbon.png",
+      "intro": "This is part of a letter you receive from your penfriend.",
+      "outro": "Now write a letter to your penfriend.\nWrite your letter in about 100 words on your answer sheet."
+     },
+     {
+      "id": 8,
+      "intro": "You have to write a story for your English homework.\n\nYour story must have this title:",
+      "outro": "Write your story in about 100 words on your answer sheet.",
+      "highlight": "An exciting adventure"
+     }
+    ],
+    "wordCount": "about 100 words",
+    "partNumber": 3,
+    "questionsLabel": "QUESTIONS 7 or 8"
+   }
+  ],
+  "testInfo": {
+   "id": "pet-w-06",
+   "level": "B1",
+   "paper": "Paper 1 · Writing",
+   "parts": 3,
+   "title": "PET Writing — Test 6",
+   "totalTime": 45
+  }
+ },
+ "created_at": "2026-10-14T06:45:45.900037+00:00",
+ "updated_at": "2026-10-14T06:47:30.921916+00:00"
+}

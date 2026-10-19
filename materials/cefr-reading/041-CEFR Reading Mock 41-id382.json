@@ -1,0 +1,720 @@
+{
+ "id": 382,
+ "mock_type": "cefr-reading",
+ "mock_number": 41,
+ "title": "CEFR Reading Mock 41",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "gap-fill-text",
+    "title": "Part 1",
+    "answers": {
+     "1": [
+      "HUMANS"
+     ],
+     "2": [
+      "URCHIN"
+     ],
+     "3": [
+      "CONSIDERED"
+     ],
+     "4": [
+      "FISHERIES"
+     ],
+     "5": [
+      "STUDIES"
+     ],
+     "6": [
+      "RATES"
+     ]
+    },
+    "passage": {
+     "title": "The Sea Urchin",
+     "content": "<p>A series of research projects in recent years have looked at the small, spiny, marine invertebrate known as the sea urchin. The sequence of their genetic code has been successfully analysed, revealing a remarkably close resemblance to that of humans. This provides a firmer foundation for the claim that <span class=\"gap\" data-gap=\"1\">_____(1)_____</span> and sea urchins share a common ancestor, which must have lived over 540 million years ago.</p><p>The red sea <span class=\"gap\" data-gap=\"2\">_____(2)_____</span>, found off the west coast of North America and elsewhere, was considered a pest in the 1960s and attempts were made to eradicate it wherever locals were farming kelp. In the 1970s, though, American sea fisheries discovered a lucrative market in Japan, where certain internal organs of these creatures were <span class=\"gap\" data-gap=\"3\">_____(3)_____</span> a delicacy, and by the 1990s they had become one of the most valuable marine resources.</p><p>There are implications for these <span class=\"gap\" data-gap=\"4\">_____(4)_____</span> in the latest findings about the way sea urchins mature. Not only are the invertebrates capable of reaching an age of 200 years or more, but they also show no signs of age-related degeneration. In fact, the more advanced the age of an urchin is, the more enhanced its powers of reproduction seem to be. On the other hand, population growth is limited due to the ease with which juvenile urchins fall prey to a range of environmental threats.</p><p>Studies have also looked at growth rates, using measures of carbon-14, which has increased in all living organisms following the atmospheric testing of atomic weapons in the 1950s. These <span class=\"gap\" data-gap=\"5\">_____(5)_____</span> confirmed earlier findings, obtained using injections of tetracyclin, that the process of enlargment never reaches a ceiling. Growth <span class=\"gap\" data-gap=\"6\">_____(6)_____</span> may diminish to only an extra millimeter in circumference per year but they do not cease.</p>"
+    },
+    "questions": [
+     {
+      "id": 1,
+      "hint": "...for the claim that _____ and sea urchins share a common ancestor..."
+     },
+     {
+      "id": 2,
+      "hint": "The red sea _____, found off the west coast of North America..."
+     },
+     {
+      "id": 3,
+      "hint": "...creatures were _____ a delicacy, and by the 1990s they had become..."
+     },
+     {
+      "id": 4,
+      "hint": "There are implications for these _____ in the latest findings about the way..."
+     },
+     {
+      "id": 5,
+      "hint": "These _____ confirmed earlier findings, obtained using injections of tetracyclin..."
+     },
+     {
+      "id": 6,
+      "hint": "Growth _____ may diminish to only an extra millimeter in circumference..."
+     }
+    ],
+    "partNumber": 1,
+    "instruction": "Read the text. Fill in each gap with ONE word. You must use a word which is somewhere in the rest of the text.",
+    "explanations": {
+     "q1": {
+      "text": "The passage states that the genetic code of sea urchins shows a 'remarkably close resemblance' to our own. This genetic similarity is the evidence for a shared ancestor. That's why the correct answer is 'HUMANS'.",
+      "quote": "The sequence of their genetic code has been successfully analysed, revealing a remarkably close resemblance to that of humans."
+     },
+     "q2": {
+      "text": "The entire passage is about the sea urchin. The sentence introduces a specific type, the 'red sea urchin', which is found off the coast of North America. That's why the correct answer is 'URCHIN'.",
+      "quote": "A series of research projects in recent years have looked at the small, spiny, marine invertebrate known as the sea urchin."
+     },
+     "q3": {
+      "text": "The sentence describes how sea urchin organs became a valuable product in Japan because they were regarded as a special food. The word 'considered' fits this meaning of being thought of as a delicacy. That's why the correct answer is 'CONSIDERED'."
+     },
+     "q4": {
+      "text": "The previous sentence introduces 'American sea fisheries' that trade sea urchins. The word 'these' refers back to them, indicating that the new scientific findings have consequences for their business. That's why the correct answer is 'FISHERIES'."
+     },
+     "q5": {
+      "text": "The sentence immediately before this one explicitly states, 'Studies have also looked at growth rates...'. The word 'These' at the beginning of the gapped sentence refers directly back to these studies. That's why the correct answer is 'STUDIES'.",
+      "quote": "Studies have also looked at growth rates, using measures of carbon-14, which has increased in all living organisms following the atmospheric testing of atomic weapons in the 1950s."
+     },
+     "q6": {
+      "text": "The paragraph discusses how sea urchin 'growth rates' were measured. This sentence continues that topic, explaining that these rates may slow down but they never completely stop. That's why the correct answer is 'RATES'."
+     }
+    },
+    "questionRange": "1-6"
+   },
+   {
+    "type": "matching",
+    "texts": [
+     {
+      "number": 7,
+      "content": "David enjoys walking but he has injured his knee and cannot climb up hills. He would like to spend a couple of hours on a quiet walk with well-marked paths."
+     },
+     {
+      "number": 8,
+      "content": "Luigi likes to get as much exercise as possible and particularly likes climbing steep hills to get a good view. He wants to do a walk that is difficult and offers a range of scenery."
+     },
+     {
+      "number": 9,
+      "content": "Yannis has two sons of 8 and 10. He would like to take them to see some animals in the countryside. He wants to be able to buy some refreshments."
+     },
+     {
+      "number": 10,
+      "content": "Amada has had an operation and needs plenty of fresh air to help her recover. She wants to find a short, quiet walk with a beautiful place to visit on the route."
+     },
+     {
+      "number": 11,
+      "content": "Claudia's grandparents are staying with her. They are very fit and enjoy walking. They would like to visit some of the local villages and need a clearly-marked route so they don't lose their way."
+     },
+     {
+      "number": 12,
+      "content": "Mike, Kathy and their three children don't have much money, but they want a special day out this Saturday. They must be back home by 9 p.m."
+     },
+     {
+      "number": 13,
+      "content": "Kirsten is a Dutch student who is studying in Scotland. She doesn't drive, but wants a day trip to see some beautiful scenery and spend a little time by the sea."
+     },
+     {
+      "number": 14,
+      "content": "Clare and Robert want to enjoy some good food, but would also like to give their two young children a day to remember. They don't mind if they spend a lot of money."
+     }
+    ],
+    "title": "Part 2",
+    "answers": {
+     "7": [
+      "C"
+     ],
+     "8": [
+      "E"
+     ],
+     "9": [
+      "D"
+     ],
+     "10": [
+      "H"
+     ],
+     "11": [
+      "B"
+     ],
+     "12": [
+      "G"
+     ],
+     "13": [
+      "J"
+     ],
+     "14": [
+      "A"
+     ]
+    },
+    "questions": [
+     {
+      "id": 7
+     },
+     {
+      "id": 8
+     },
+     {
+      "id": 9
+     },
+     {
+      "id": 10
+     },
+     {
+      "id": 11
+     },
+     {
+      "id": 12
+     },
+     {
+      "id": 13
+     },
+     {
+      "id": 14
+     }
+    ],
+    "partNumber": 2,
+    "statements": [
+     {
+      "text": "MARIE LIFE, FRANCE. The chance to experience the oceans of the world. Children will love the observatory, with water all around them and enormous fish swimming above their heads! Afterwards you eat at a world-famous local restaurant before boarding the ferry at 9 p.m. Not cheap, but a great day out!",
+      "letter": "A"
+     },
+     {
+      "text": "SEA PATH. This walk starts at the village of Nye Flats and the excellent signposts lead you through local streets, fields and pretty neighbouring villages. Although it will take you half a day, there are no hills at all. You can breathe the sea air and enjoy watching traditional life in busy villages.",
+      "letter": "B"
+     },
+     {
+      "text": "CUTTERS WAY. This walk can take anything from 30 minutes to two hours. It's not a good walk for hill-lovers as the ground is completely flat, but it has good signposts and simple facilities for the hungry or thirsty walker. A few places or things to see would improve this walk, which can be a little dull.",
+      "letter": "C"
+     },
+     {
+      "text": "PADDOCK WAY. This is really a short track across a working farm. There are plenty of chickens and sheep to see, and the farmer has turned some of the buildings into an educational centre with a café. Not a walk for those who like peace and quiet, but good fun.",
+      "letter": "D"
+     },
+     {
+      "text": "HURDLES. This is a route for the experienced walker. It crosses two rivers and includes hills of up to 500 metres, from which you can see the sea. There are several rocky paths that are unsuitable for children or older people and there are no shops so take plenty of water.",
+      "letter": "E"
+     },
+     {
+      "text": "NEVERLAND. This is a walk to take if you have a whole day to spare and want to escape from other people. It follows a narrow track which is clearly marked and has different routes for different types of walker. There are hills to climb but views are limited because of thick forest.",
+      "letter": "F"
+     },
+     {
+      "text": "FRENCH HYPERMARKET DAY TRIP. Whether you want to buy or just look, you'll love this tour. The enormous Darney shopping centre is a shopper's dream! You will find a great number of local goods on sale, and clothes and kitchen goods are excellent value. Free children's entertainment all day. Leaves 10:00, back at 19:00.",
+      "letter": "G"
+     },
+     {
+      "text": "GOLD-DIGGERS END. You won't find any gold on this peaceful walk, but you will find plenty of other things to see including a lovely garden which is open to the public. It's a half-hour walk with a couple of small cafés on the way.",
+      "letter": "H"
+     },
+     {
+      "text": "A TASTE OF THE GOOD LIFE IN FRANCE. After a relaxing voyage, you visit a beautiful area which is famous for its good things to eat. There you can enjoy some sightseeing and choose from a number of wonderful restaurants. Sail back on the night crossing. Sorry, adults only!",
+      "letter": "I"
+     },
+     {
+      "text": "SEA AND MOUNTAINS IN NORTHERN IRELAND. Explore the Northern Ireland countryside, including the amazing Mountains of Mourne and the small seaside holiday town of Newcastle. The ferry leaves the port in Scotland at 7:30 and arrives back at 22:20. Transport in Northern Ireland is by air-conditioned coach.",
+      "letter": "J"
+     }
+    ],
+    "topicTitle": "Walks and Day Trips",
+    "instruction": "The people below all want to visit to an interesting city. Decide which city would be the most suitable for each person.",
+    "explanations": {
+     "q7": {
+      "text": "David needs a flat, well-marked walk for a couple of hours due to his knee injury. Cutters Way is flat, has good signposts, and takes up to two hours. That's why the correct answer is C."
+     },
+     "q8": {
+      "text": "Luigi wants a difficult walk with steep hills and good views. Hurdles is for experienced walkers, has hills up to 500 metres, and offers views of the sea. That's why the correct answer is E."
+     },
+     "q9": {
+      "text": "Yannis wants to take his sons to see animals and buy refreshments. Paddock Way is on a working farm with chickens and sheep, and it has a café. That's why the correct answer is D."
+     },
+     "q10": {
+      "text": "Amada needs a short, quiet walk with a beautiful place to visit. Gold-Diggers End is a peaceful, half-hour walk that includes a lovely garden open to the public. That's why the correct answer is H."
+     },
+     "q11": {
+      "text": "Claudia's grandparents want a clearly-marked walk that visits local villages. The Sea Path has excellent signposts and leads walkers through several pretty villages. That's why the correct answer is B."
+     },
+     "q12": {
+      "text": "The family wants a cheap day out with their children and must be back by 9 p.m. The hypermarket trip has free entertainment for children and returns at 7 p.m. That's why the correct answer is G."
+     },
+     "q13": {
+      "text": "Kirsten doesn't drive and wants a day trip to see scenery and the sea. This trip offers transport by coach to see mountains and a seaside town. That's why the correct answer is J."
+     },
+     "q14": {
+      "text": "The family wants good food and a special day for their children, and they don't mind the cost. This trip has an observatory for children, a world-famous restaurant, and is described as 'not cheap'. That's why the correct answer is A."
+     }
+    },
+    "questionRange": "7-14",
+    "extraStatements": [
+     "F",
+     "I"
+    ],
+    "statementsFirst": false
+   },
+   {
+    "type": "matching-headings",
+    "title": "Part 3",
+    "answers": {
+     "15": [
+      "vii"
+     ],
+     "16": [
+      "vi"
+     ],
+     "17": [
+      "v"
+     ],
+     "18": [
+      "viii"
+     ],
+     "19": [
+      "iii"
+     ],
+     "20": [
+      "i"
+     ]
+    },
+    "passage": {
+     "title": "The Rise and Fall of Ephesus",
+     "paragraphs": [
+      {
+       "number": "1",
+       "content": "People have lived at the site and the surroundings for thousands of years. Archaeologists have found evidence dating from Neolithic times. There were also settlements during the Bronze Age, although no architectural structures remain from this period. The precise location of the city during these times cannot be firmly established, as the river has moved over the centuries. The once busy harbour has also vanished."
+      },
+      {
+       "number": "2",
+       "content": "However, about 2000 years ago, the diverse leaders of the city started elaborate city planning projects. We can tell what a sophisticated society this was, from some of the ruins. The most impressive are the elaborately decorated remains of the front wall of a huge library. This used to contain thousands of papers. There is also a theatre with a capacity to seat 25,000, possibly the biggest theatre of its time. Wide roads paved with marble also remain, and a complex system of aqueducts. These carried water to public baths and water mills, which cut the marble for building. Women's rights were honoured, possibly because of the importance of goddess-worship, and there were even female artists."
+      },
+      {
+       "number": "3",
+       "content": "The city was well-known as the site of the enormous Temple of Artemis. This was considered to be the finest of the Seven Wonders of the Ancient World. People came from far away to worship the goddess Artemis, establishing Ephesus as a major destination for travellers. The temple had to be completely re-built three times before it was finally destroyed in 401 AD. It was first destroyed by a flood, later deliberately burnt down by a lunatic, and was eventually destroyed in a Gothic raid. All that remains is a broken column, standing crookedly in the middle of a marsh."
+      },
+      {
+       "number": "4",
+       "content": "At its peak, about 300,000 people lived in the city, making it second only in size to Rome in the ancient world. Not only was it densely populated, it was also a key trading city, situated in a strategic location on the Aegean Sea. Its position in a fertile valley gave its people another source of income from agriculture, and they could easily export their products. During the reign of Emperor Augustus, it was the capital of the region, and a new era of prosperity began."
+      },
+      {
+       "number": "5",
+       "content": "As with many beautiful cities of strategic importance, Ephesus was constantly fought over. It changed hands and allegiance many times, and was part of the Greek, Roman, Persian, Byzantine and Ottoman Empires. During Roman rule, taxes rose and the city's treasures were stolen. At one point, Ephesus was self-governing, but this was only for a short time. When the Romans took over again, the citizens were forced to pay taxes retrospectively."
+      },
+      {
+       "number": "6",
+       "content": "In 50 AD, Ephesus became an important centre of Christianity, and is mentioned in the Bible. Key leaders of the early church lived in the city. These included the apostle Paul, who wrote much of the Bible, and it is thought that Mary, the mother of Jesus, died in Ephesus. The position of Ephesus at the heart of Christianity is ironic, as for many years, the city had been best known for the Temple to Artemis. When many citizens converted to Christianity, the local silver-workers were furious, scared of losing their livelihood making silver statues of the goddess."
+      }
+     ]
+    },
+    "headings": [
+     {
+      "text": "The struggle for power",
+      "letter": "i"
+     },
+     {
+      "text": "Efforts to survive in difficult circumstances",
+      "letter": "ii"
+     },
+     {
+      "text": "A centre of commerce",
+      "letter": "iii"
+     },
+     {
+      "text": "A major shift in belief",
+      "letter": "iv"
+     },
+     {
+      "text": "Overcome by the power of nature",
+      "letter": "v"
+     },
+     {
+      "text": "Publicly honoured but persistently wrecked",
+      "letter": "vi"
+     },
+     {
+      "text": "An uncertain position",
+      "letter": "vii"
+     },
+     {
+      "text": "Clues of a glorious past",
+      "letter": "viii"
+     }
+    ],
+    "questions": [
+     {
+      "id": 15,
+      "text": "Paragraph 1"
+     },
+     {
+      "id": 16,
+      "text": "Paragraph 2"
+     },
+     {
+      "id": 17,
+      "text": "Paragraph 3"
+     },
+     {
+      "id": 18,
+      "text": "Paragraph 4"
+     },
+     {
+      "id": 19,
+      "text": "Paragraph 5"
+     },
+     {
+      "id": 20,
+      "text": "Paragraph 6"
+     }
+    ],
+    "partNumber": 3,
+    "instruction": "Read the text and choose the correct heading for each paragraph from the list of headings below. There are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once.",
+    "explanations": {
+     "q15": {
+      "text": "The paragraph states that the city's exact location in early times is unknown because the river moved and the harbour disappeared. This describes its physically uncertain position, so the correct answer is vii.",
+      "quote": "The precise location of the city during these times cannot be firmly established, as the river has moved over the centuries."
+     },
+     "q16": {
+      "text": "This paragraph describes the famous Temple of Artemis, which was considered a Wonder of the Ancient World but was also destroyed and rebuilt three separate times. That's why the correct answer is vi.",
+      "quote": "The temple had to be completely re-built three times before it was finally destroyed in 401 AD."
+     },
+     "q17": {
+      "text": "This paragraph describes the city's conversion to Christianity, which replaced the worship of the goddess Artemis, who was strongly associated with nature. This shift represents being overcome by a new power, so the correct answer is v.",
+      "quote": "When many citizens converted to Christianity, the local silver-workers were furious, scared of losing their livelihood making silver statues of the goddess."
+     },
+     "q18": {
+      "text": "The paragraph describes impressive ruins like a huge library, a massive theatre, and marble roads. These remains are all clues that point to the city's glorious past, which is why the correct answer is viii.",
+      "quote": "We can tell what a sophisticated society this was, from some of the ruins."
+     },
+     "q19": {
+      "text": "The paragraph highlights the city's role as a key trading hub with a strategic sea location and income from agricultural exports. This clearly establishes it as a commercial centre, so the correct answer is iii.",
+      "quote": "Not only was it densely populated, it was also a key trading city, situated in a strategic location on the Aegean Sea."
+     },
+     "q20": {
+      "text": "This paragraph details how the city was frequently conquered and ruled by different empires, including the Greek, Roman, and Persian. This constant conflict shows a clear struggle for power, so the correct answer is i.",
+      "quote": "As with many beautiful cities of strategic importance, Ephesus was constantly fought over."
+     }
+    },
+    "extraHeadings": [
+     "ii",
+     "iv"
+    ],
+    "questionRange": "15-20"
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 4",
+    "answers": {
+     "21": [
+      "C"
+     ],
+     "22": [
+      "A"
+     ],
+     "23": [
+      "B"
+     ],
+     "24": [
+      "C"
+     ],
+     "25": [
+      "True",
+      "A"
+     ],
+     "26": [
+      "True",
+      "A"
+     ],
+     "27": [
+      "False",
+      "B"
+     ],
+     "28": [
+      "True",
+      "A"
+     ],
+     "29": [
+      "Not Given",
+      "C"
+     ]
+    },
+    "passage": {
+     "title": "Afghan airlines",
+     "content": "<p>Ariana is different from most other airlines for many reasons, all of them bad. Its history is terrible. During Afghanistan's quarter of a century of war, Ariana planes were shut down, shot down or hijacked. No-one chooses to fly Ariana today. It has a disastrous safety record and this means it cannot fly to most European and American airports. It is nicknamed \"Scaryana\". UN officials and foreign diplomats are not allowed to take Ariana flights. And most of the 1,700 staff are, according to Atash, either extremely incompetent or corrupt.</p><p>Is Ariana the world's worst airline? Perhaps not. There are many bad airlines in the developing world. \"Ariana is no worse than many others,\" says David Learmount at Flight International magazine. \"If a country has no safety culture, neither does its airline.\" But Ariana has one advantage over other disaster airlines – it has a rescue plan. Atash, a straight-talking Afghan American emigre, returned three years ago from the USA where he ran a business. He was given the job of manager at Ariana in June.</p><p>It is not a glamorous job. Atash is paid just $100 a month and uses his own mobile phone. But he has a can-do attitude and plans to get rid of hundreds of incompetent staff. It is a difficult task but he is not alone. In comes Hanns Marienfeld, the leader of a six-strong team from Lufthansa hired to help with the rescue plan. He describes the state of Ariana one year ago: \"It was not up to international standards,\" he says. \"It had no flight schedule. Customers had to pay a bribe to get a ticket, a second bribe to get a boarding pass and sometimes a third to get their seat in business class. We flew here or there, whenever the pilots felt like it.\" Initial safety standards were not good. In 2003 and 2004, Ariana's fleet of six planes suffered six major engine failures. \"In Germany, our pilots only see that sort of thing in a flight simulator. In Ariana we do it in real life,\" says Marienfeld.</p><p>The early years were very different. Ariana was founded in 1955 and quickly gained a reputation as a small but proud regional carrier. It flew hippies and adventurers from London, Paris and Frankfurt and brought honeymooning couples from neighbouring Pakistan. But in 1973, King Zahir Shah was overthrown and five years later a civil war began. The visitors vanished and Ariana, like the rest of Afghanistan, suffered very badly.</p><p>During the 10-year Soviet occupation, when the roads were too dangerous, Ariana became the safest way to travel. But the sense of security was relative. The mujahideen fighters who were fighting the Soviet forces were armed with American anti-aircraft missiles. So Ariana pilots had to learn how to avoid the missiles while taking off and landing. Some staff could take no more. On a flight to Kandahar in 1989, a fight broke out between the pilot and the co-pilot. The pilot wanted to fly the plane to Iran. The co-pilot did not want to go. As they fought for the controls, the plane fell out of the sky, crashing into the desert near the Iranian border. All six people on board died.</p><p>After the Soviet departure the airline went from bad to worse. When the Taliban took control of Kabul a year later, they brought their 7th century ideas to Ariana's 20th-century business. They sent the stewardesses home, banned inflight music and gave the job of director to a 26-year-old religious fanatic.</p>"
+    },
+    "partNumber": 4,
+    "instruction": "Read the following text for questions 21-29.",
+    "explanations": {},
+    "questionRange": "21-29",
+    "questionSections": [
+     {
+      "type": "mcq",
+      "title": "Questions 21-24: Multiple Choice",
+      "questions": [
+       {
+        "id": 21,
+        "text": "According to the text, why is Ariana nicknamed “Scaryana”?",
+        "options": [
+         {
+          "text": "It has very strict security measures",
+          "letter": "A"
+         },
+         {
+          "text": "It does not allow any foreign passengers",
+          "letter": "B"
+         },
+         {
+          "text": "It has a terrible safety record",
+          "letter": "C"
+         },
+         {
+          "text": "It never follows any flight schedules",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 22,
+        "text": "What does David Learmount suggest is a main reason for Ariana’s poor airline standards?",
+        "options": [
+         {
+          "text": "The airline operates in a country with no safety culture",
+          "letter": "A"
+         },
+         {
+          "text": "Its planes are too old to maintain",
+          "letter": "B"
+         },
+         {
+          "text": "Ariana’s leaders ignore global rules",
+          "letter": "C"
+         },
+         {
+          "text": "There are not enough trained pilots",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 23,
+        "text": "Based on the text, which of the following was true before Atash and Lufthansa’s team arrived?",
+        "options": [
+         {
+          "text": "Ariana had an excellent flight schedule but lacked pilots",
+          "letter": "A"
+         },
+         {
+          "text": "Ariana operated random flights according to pilots’ personal decisions",
+          "letter": "B"
+         },
+         {
+          "text": "Customers got tickets easily, without paying any extra fees",
+          "letter": "C"
+         },
+         {
+          "text": "The airline had five major engine failures in two years",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 24,
+        "text": "How did Ariana’s early reputation compare to its later one?",
+        "options": [
+         {
+          "text": "It was unknown globally at first but became respected over time",
+          "letter": "A"
+         },
+         {
+          "text": "It was considered a giant airline in the region that eventually failed",
+          "letter": "B"
+         },
+         {
+          "text": "It was once seen as a tiny yet respectable carrier before its decline",
+          "letter": "C"
+         },
+         {
+          "text": "It had a dangerous reputation from the very beginning",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "Choose the correct answer A, B, C, or D.",
+      "questionRange": "21-24"
+     },
+     {
+      "type": "tfni",
+      "title": "Questions 25-29: True/False/Not Given",
+      "options": [
+       "True",
+       "False",
+       "Not Given"
+      ],
+      "questions": [
+       {
+        "id": 25,
+        "text": "Ariana is banned from landing at the majority of airports in Europe and America."
+       },
+       {
+        "id": 26,
+        "text": "Atash, the manager, used to work in business in the USA before returning to Afghanistan."
+       },
+       {
+        "id": 27,
+        "text": "After the Soviet occupation ended, Ariana’s situation improved dramatically."
+       },
+       {
+        "id": 28,
+        "text": "There was once a fight between a pilot and a co-pilot on an Ariana flight, resulting in a crash."
+       },
+       {
+        "id": 29,
+        "text": "The Taliban replaced Ariana’s female flight attendants with women from rural areas."
+       }
+      ],
+      "instruction": "Decide if the following statements agree with the information given in the text.",
+      "questionRange": "25-29"
+     }
+    ]
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 5",
+    "answers": {
+     "30": [
+      "thermals"
+     ],
+     "31": [
+      "decisions"
+     ],
+     "32": [
+      "14"
+     ],
+     "33": [
+      "seated"
+     ],
+     "34": [
+      "C"
+     ],
+     "35": [
+      "C"
+     ]
+    },
+    "passage": {
+     "title": "Paragliding in Australia",
+     "content": "<p>Paragliding is a type of free-flying sport that allows people to glide through the air using a lightweight, foot-launched aircraft. Unlike airplanes or helicopters, paragliders have no engines. Instead, they rely on wind currents and thermals (rising columns of warm air) to stay airborne. The flying wing, known as a canopy, is made from durable materials like nylon or polyester and is shaped to catch the air efficiently. The pilot sits in a harness that is suspended below the canopy by a series of strong lines, similar to those on a parachute. While it may seem similar to parachuting, many enthusiasts say that paragliding offers more control, longer airtime, and a smoother, more comfortable experience. It’s often described as the closest humans can get to flying like a bird.</p><p>Like many adventure sports, the safety of paragliding largely depends on the behavior, training, and decisions of the person flying. Weather conditions play a major role too. A well-trained pilot who respects wind patterns and avoids risky decisions is unlikely to have accidents. In fact, paragliding is known to be one of the slowest forms of aviation, meaning that even if you do make a mistake, the descent is much gentler compared to powered flight. Modern equipment also includes safety devices such as reserve parachutes, GPS tracking, and variometers (to measure altitude). Beginners always fly under radio guidance, and most schools enforce strict weather rules.</p><p>Australia is one of the best countries in the world to learn paragliding, thanks to its wide open spaces, coastal cliffs, and favorable weather conditions. There are professional schools scattered across the country — from the Great Ocean Road in Victoria to the Blue Mountains in New South Wales and the coastal cliffs of Western Australia. Training usually begins on gentle slopes and progresses to higher flights. In the early days, you'll learn how to: You’ll also attend theory classes on aerodynamics, weather, and emergency procedures. Most students can get a basic paragliding licence in around seven days of training. Once certified, you're free to fly solo at hundreds of approved sites across the country.</p><p>Paragliding is accessible to a wide range of people. There's no upper age limit, and many people in their 60s and even 70s take part regularly. The minimum age in Australia is 14, and you must have good eyesight, reasonable balance, and be in basic physical shape.</p><p>Contrary to popular belief, paragliding is not physically intense. Most of the time, you’re relaxing in a seated position, gently gliding above the landscape. The most tiring part is often the hike back up the hill after landing, especially during training. The physical effort involved can help improve fitness and mental focus.</p><p>Many participants say that paragliding is not just a sport — it’s a lifechanging experience. The peace, silence, and wide-open view from the sky provide a unique sense of freedom that’s hard to describe.</p><p>Australia’s diverse landscapes make it a perfect destination for paragliding adventures. From desert ridges to green mountains, golden beaches to urban skylines, the scenery from above is breathtaking. Some of the most popular paragliding sites include: Stanwell Park (NSW) – a coastal cliff site ideal for smooth takeoffs and long soaring flights Bright (Victoria) – known for its thermals and mountain views Canungra (Queensland) – offers great conditions year-round</p>"
+    },
+    "partNumber": 5,
+    "instruction": "Read the following text for questions 30-35.",
+    "explanations": {
+     "q30": {
+      "text": "Javob matnda shu gapdan olinadi.",
+      "quote": "Instead, they rely on wind currents and thermals (rising columns of warm air) to stay airborne."
+     },
+     "q31": {
+      "text": "Javob matnda shu gapdan olinadi.",
+      "quote": "Like many adventure sports, the safety of paragliding largely depends on the behavior, training, and decisions of the person flying."
+     },
+     "q32": {
+      "text": "Javob matnda shu gapdan olinadi.",
+      "quote": "The minimum age in Australia is 14, and you must have good eyesight, reasonable balance, and be in basic physical shape."
+     },
+     "q33": {
+      "text": "Javob matnda shu gapdan olinadi.",
+      "quote": "Most of the time, you’re relaxing in a seated position, gently gliding above the landscape."
+     }
+    },
+    "questionRange": "30-35",
+    "questionSections": [
+     {
+      "type": "gap-fill",
+      "title": "Questions 30-33: Gap Fill",
+      "questions": [
+       {
+        "id": 30,
+        "hint": "stays in the air by using wind and _____"
+       },
+       {
+        "id": 31,
+        "hint": "depends on the pilot’s training and _____"
+       },
+       {
+        "id": 32,
+        "hint": "minimum age for learning paragliding is _____"
+       },
+       {
+        "id": 33,
+        "hint": "flying, paragliders often sit in a _____"
+       }
+      ],
+      "instruction": ", fill in the missing information in the numbered spaces.",
+      "summaryText": "A paraglider stays in the air by using wind and <span class=\"gap-input\" data-gap=\"30\">_____(30)_____</span>. Safety in paragliding mostly depends on the pilot’s training and <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span>. In Australia, the minimum age for learning paragliding is <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span>. While flying, paragliders often sit in a <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span> position.",
+      "summaryTitle": "Paragliding in Australia - Summary",
+      "questionRange": "30-33"
+     },
+     {
+      "type": "mcq",
+      "title": "Questions 34-35: Multiple Choice",
+      "questions": [
+       {
+        "id": 34,
+        "text": "Why is paragliding considered relatively safe compared to other forms of aviation?",
+        "options": [
+         {
+          "text": "It uses advanced technology like engines and autopilots",
+          "letter": "A"
+         },
+         {
+          "text": "It always takes place in controlled environments",
+          "letter": "B"
+         },
+         {
+          "text": "It is slower and causes less impact in case of errors",
+          "letter": "C"
+         },
+         {
+          "text": "It requires physical strength and experience",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 35,
+        "text": "What is the main aim of the passage?",
+        "options": [
+         {
+          "text": "To compare paragliding with other adventure sports",
+          "letter": "A"
+         },
+         {
+          "text": "To explain why Australia is ideal for learning paragliding",
+          "letter": "B"
+         },
+         {
+          "text": "To describe the experience and process of learning paragliding",
+          "letter": "C"
+         },
+         {
+          "text": "To highlight the dangers and limits of paragliding",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "Choose the correct answer A, B, C, or D.",
+      "questionRange": "34-35"
+     }
+    ]
+   }
+  ],
+  "examDate": "2026-04-04",
+  "testInfo": {
+   "level": "",
+   "parts": "",
+   "title": "",
+   "totalTime": 60,
+   "totalQuestions": ""
+  }
+ },
+ "created_at": "2026-05-13T03:48:53.026202+00:00",
+ "updated_at": "2026-10-11T10:54:25.762211+00:00"
+}

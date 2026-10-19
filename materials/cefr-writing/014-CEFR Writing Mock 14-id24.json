@@ -1,0 +1,593 @@
+{
+ "id": 24,
+ "mock_type": "cefr-writing",
+ "mock_number": 14,
+ "title": "CEFR Writing Mock 14",
+ "status": "published",
+ "mock_data": {
+  "part1": {
+   "chip": "education",
+   "topic": "School administration"
+  },
+  "tasks": {
+   "t2": {
+    "chip": "education",
+    "genre": "article",
+    "title": "Online learning as effective as traditional classroom learning",
+    "prompt": "A student newspaper is accepting opinion pieces. The topic is: \"Is online learning as effective as traditional classroom learning?\" Write your article, giving reasons and examples.",
+    "sample": "<h2>The Digital Classroom: Blessing or Compromise?</h2>\n\n<p>The rapid shift to <span class=\"ml-token colloc\">online learning</span> during recent years has sparked a <span class=\"ml-token colloc\">global debate</span>: Can virtual education match the effectiveness of <span class=\"ml-token colloc\">traditional classrooms</span>?</p>\n\n<p><span class=\"ml-token adv\">Admittedly</span>, online learning offers <span class=\"ml-token colloc\">undeniable advantages</span>. Students <span class=\"ml-token modal\">can</span> access lessons anytime, review recordings, and learn at their <span class=\"ml-token colloc\">own pace</span>. This <span class=\"ml-token colloc\">flexibility</span> <span class=\"ml-token modal\">can</span> be particularly beneficial for those with different <span class=\"ml-token colloc\">learning styles</span>.</p>\n\n<p>However, <span class=\"ml-token colloc\">traditional education</span> provides elements that are difficult to replicate online. <span class=\"ml-token colloc\">Face-to-face interaction</span> with teachers allows for <span class=\"ml-token colloc\">immediate feedback</span> and clarification. <span class=\"ml-token adv\">Moreover</span>, the <span class=\"ml-token colloc\">social aspect</span> of school – collaborating with peers, participating in discussions – is crucial for developing <span class=\"ml-token colloc\">communication skills</span>.</p>\n\n<p><span class=\"ml-token adv\">Furthermore</span>, online learning requires strong <span class=\"ml-token colloc\">self-discipline</span>. Without the structure of a classroom, some students <span class=\"ml-token modal\">may</span> struggle to <span class=\"ml-token phrasal\">stay focused</span> and motivated.</p>\n\n<p><span class=\"ml-token adv\">Ultimately</span>, neither method is universally superior. A <span class=\"ml-token colloc\">blended approach</span> that combines the flexibility of online learning with the engagement of <span class=\"ml-token colloc\">in-person instruction</span> <span class=\"ml-token modal\">might</span> be the <span class=\"ml-token colloc\">optimal solution</span> for modern education.</p>",
+    "target": "180–200 words",
+    "sampleA1": "<p>Hi!<br><br>School online? I like school. School is good. Online... I don't know. I like my friends. I like teacher. Online is... computer. I don't like computer all day. School is better, I think.<br><br>Bye!</p>",
+    "sampleA2": "<p>Hi newspaper!<br><br>I think online school is okay, but I like normal school more. In school, I can see my friends and the teacher. Online, it is hard to ask questions because the teacher is not there. Also, my internet is slow sometimes, and I can't see the lesson. I like playing games on the computer, but not for school. School is better because I can play with my friends at lunch. Online is boring because I am alone. So, I like school better.<br><br>Bye!</p>",
+    "sampleB1": "<p>Is online learning as good as real school? I don't think so. Online learning can be useful sometimes. For example, if you are sick, you can still do your work. Also, you can learn at your own speed. However, I think it is better to be in a classroom. In a classroom, you can talk to your teacher easily and ask questions. It is also easier to work with other students on projects. Online learning can be difficult because you need to be very organized and motivated. Some people might get distracted at home. In my opinion, going to school is more effective because you learn better when you are with other people and the teacher. It's easier to focus and learn.<br><br>Sincerely,<br>A Student</p>",
+    "sampleB2": "Is Online Learning Really as Good as the Classroom?\nA few years ago, hardly anyone had heard of virtual lessons; today, they are part of everyday life. But does learning from behind a screen truly <span class=\"ml-token phrasal\">measure up to</span> sitting in a classroom? In my view, both have their place.\nThere is <span class=\"ml-token idiom\">no denying</span> the appeal of online learning. You can study whenever it suits you, pause and rewatch a tricky explanation, and move at your own pace. For students juggling jobs or long commutes, this flexibility is <span class=\"ml-token idiom\">a real game-changer</span>.\nEven so, the classroom offers something a webcam simply cannot. Face-to-face lessons make it easy to ask questions <span class=\"ml-token idiom\">on the spot</span>, <span class=\"ml-token phrasal\">bounce ideas off</span> your classmates, and stay motivated. Online, it is all too easy to get distracted and <span class=\"ml-token phrasal\">fall behind</span>.\n<span class=\"ml-token linking\">To make matters worse</span>, not everyone has a quiet space or a steady connection at home. This <span class=\"ml-token colloc\">digital divide</span> can quietly widen the gap between students.\nAll in all, I do not think one method beats the other outright. A <span class=\"ml-token colloc\">blended approach</span> — combining the freedom of online study with the buzz of a real classroom — is surely <span class=\"ml-token idiom\">the way forward</span>.",
+    "uzSample": "<h2>Raqamli Sinf: Baraka Yoki Kompromiss?</h2>\n\n<p>So'nggi yillarda onlayn ta'limga tez o'tish global munozaralarni keltirib chiqardi: virtual ta'lim an'anaviy sinflarning samaradorligiga mos kelishi mumkinmi?</p>\n\n<p>Tan olish kerakki, onlayn ta'lim shubhasiz afzalliklarni taklif etadi. Talabalar darslarga istalgan vaqtda kirishlari, yozuvlarni ko'rib chiqishlari va o'z sur'atlarida o'rganishlari mumkin. Bu moslashuvchanlik, ayniqsa, turli xil o'rganish uslublariga ega bo'lganlar uchun foydali bo'lishi mumkin.</p>\n\n<p>Biroq, an'anaviy ta'lim onlayn tarzda takrorlash qiyin bo'lgan elementlarni taqdim etadi. O'qituvchilar bilan yuzma-yuz muloqot darhol fikr-mulohaza va tushuntirish imkonini beradi. Bundan tashqari, maktabning ijtimoiy jihati – tengdoshlar bilan hamkorlik qilish, munozaralarda ishtirok etish – kommunikatsiya ko'nikmalarini rivojlantirish uchun juda muhimdir.</p>\n\n<p>Bundan tashqari, onlayn ta'lim kuchli o'z-o'zini intizomga olishni talab qiladi. Sinfning tuzilmasisiz, ba'zi talabalar diqqatni jamlash va motivatsiyani saqlash uchun kurashishlari mumkin.</p>\n\n<p>Oxir oqibat, hech bir usul universal ustun emas. Onlayn ta'limning moslashuvchanligini shaxsan ta'limning jalb qilishi bilan birlashtirgan aralash yondashuv zamonaviy ta'lim uchun optimal yechim bo'lishi mumkin.</p>",
+    "uzSampleA1": "<p>Salom!<br><br>Maktab onlaynmi? Menga maktab yoqadi. Maktab yaxshi. Onlayn... bilmayman. Menga do'stlarim yoqadi. Menga o'qituvchi yoqadi. Onlayn bu... kompyuter. Menga kompyuter har kuni yoqmaydi. Maktab yaxshiroq, deb o'ylayman.<br><br>Xayr!</p>",
+    "uzSampleA2": "<p>Salom, gazeta!<br><br>Menimcha, onlayn maktab yaxshi, lekin menga oddiy maktab ko'proq yoqadi. Maktabda men do'stlarimni va o'qituvchini ko'rishim mumkin. Onlaynda savol berish qiyin, chunki o'qituvchi u yerda emas. Shuningdek, mening internetim ba'zan sekin ishlaydi va men darsni ko'ra olmayman. Menga kompyuterda o'yin o'ynash yoqadi, lekin maktab uchun emas. Maktab yaxshiroq, chunki men tushlikda do'stlarim bilan o'ynashim mumkin. Onlayn zerikarli, chunki men yolg'izman. Shunday qilib, menga maktab ko'proq yoqadi.<br><br>Xayr!</p>",
+    "uzSampleB1": "<p>Onlayn ta’lim haqiqiy maktab kabi yaxshimi? Menimcha, yo‘q. Onlayn ta’lim ba’zan foydali bo‘lishi mumkin. Masalan, agar siz kasal bo‘lsangiz ham, ishingizni qila olasiz. Shuningdek, siz o‘z tezligingizda o‘rganishingiz mumkin. Biroq, menimcha, sinf xonasida bo‘lish yaxshiroq. Sinf xonasida siz o‘qituvchingiz bilan oson gaplasha olasiz va savollar bera olasiz. Loyihalarda boshqa talabalar bilan ishlash ham osonroq. Onlayn ta’lim qiyin bo‘lishi mumkin, chunki siz juda tartibli va motivatsiyali bo‘lishingiz kerak. Ba’zi odamlar uyda chalg‘ishi mumkin. Mening fikrimcha, maktabga borish samaraliroq, chunki siz boshqa odamlar va o‘qituvchi bilan birga bo‘lganingizda yaxshiroq o‘rganasiz. Diqqatni jamlash va o‘rganish osonroq.<br><br>Hurmat bilan,<br>Talaba</p>",
+    "uzSampleB2": "<p>Onlayn ta’limning an’anaviy sinf ta’limiga nisbatan samaradorligi haqidagi bahslar, ayniqsa gibrid ta’lim modellari so‘nggi paytlarda kuchayganini hisobga olsak, tobora avj olmoqda. Onlayn ta’lim ma’lum afzalliklarni taqdim etsa-da, u shaxsan ta’lim berishning to‘liq foydalarini takrorlashga yetmaydi.<br><br>Onlayn ta’lim inkor etib bo‘lmaydigan moslashuvchanlikni taklif etadi. Talabalar materiallarga o‘zlariga qulay vaqtda kirishlari, ma’ruzalarni qayta ko‘rib chiqishlari va ehtimol o‘z tezliklarida o‘rganishlari mumkin. Bu, ayniqsa, vaqt bilan bog‘liq muammolari bo‘lgan yoki o‘z-o‘zini boshqaradigan muhitda rivojlanadigan talabalar uchun foydali bo‘lishi mumkin. Biroq, yuzma-yuz muloqotning yo‘qligi muhim ijtimoiy va kommunikatsiya ko‘nikmalarining rivojlanishiga to‘sqinlik qilishi mumkin. Sinf muhitiga xos bo‘lgan o‘z-o‘zidan paydo bo‘ladigan munozaralar, hamkorlikdagi loyihalar va tezkor fikr-mulohazalarni onlayn tarzda takrorlash qiyin.<br><br>Bundan tashqari, onlayn ta’lim yuqori darajadagi o‘z-o‘zini intizomga solish va motivatsiyani talab qiladi. Uy muhitining chalg‘ituvchi omillari vaqtni boshqarishda qiynaladigan yoki tashqi tuzilmaga muhtoj bo‘lgan talabalarni osongina yo‘ldan ozdirishi mumkin. Texnologiya innovatsion o‘quv vositalarini taklif qilsa-da, u an’anaviy sinfda o‘qituvchi tomonidan taqdim etiladigan dinamik o‘zaro ta’sir va shaxsiy yo‘l-yo‘riqni to‘liq qoplay olmaydi. Ikkala usulning ham kuchli tomonlarini birlashtirgan muvozanatli yondashuv eng samarali yo‘l bo‘lishi mumkin, ammo an’anaviy ta’limni butunlay almashtirish talabalarga nisbatan yomonlik bo‘ladi.<br><br>Hurmat bilan,<br>Xavotirda bo‘lgan talaba</p>"
+   },
+   "t11": {
+    "title": "informal message · to classmate",
+    "prompt": "Write a message to a classmate about the hybrid learning proposal. Share your thoughts and ask what they think.",
+    "sample": "Hey!\n\nWhat do you think about the <span class=\"ml-token colloc\">hybrid learning</span> idea? I'm <span class=\"ml-token adv\">kind of</span> excited about it! Two days at home <span class=\"ml-token modal\">could</span> mean more <span class=\"ml-token colloc\">flexible study time</span>. But I <span class=\"ml-token modal\">might</span> miss seeing everyone every day. It <span class=\"ml-token modal\">would</span> be <span class=\"ml-token adv\">definitely</span> different! Do you think you <span class=\"ml-token modal\">could</span> focus better at home?\n\nLet's chat about it!\n",
+    "target": "50–70 words",
+    "sampleA1": "<p>Hi Bekzod,<br>School is maybe online? I like school. But home is good too. What do you think?</p><p>Bye!</p>",
+    "sampleA2": "<p>Hi Bekzod,<br>The school said we can learn online some days. I think it is okay, but I like to see my friends. It is fun at school. What do you think about online learning? Is it good or bad?</p><p>See you later!</p>",
+    "sampleB1": "<p>Hey Bekzod,<br>Did you hear about the hybrid learning plan? I'm not sure what I think yet. It might be good to study at home sometimes because it's quieter. However, I also like being at school with everyone. What's your opinion? Do you think it's a good idea?</p><p>Let me know what you think!</p>",
+    "sampleB2": "Hey Bekzod,\nDid you see the email about the <span class=\"ml-token colloc\">hybrid learning plan</span>? Honestly, I'm <span class=\"ml-token idiom\">pretty torn</span> about it. Studying from home two days a week sounds great — no early bus rides, and I could finally <span class=\"ml-token phrasal\">catch up on</span> the tricky subjects <span class=\"ml-token colloc\">at my own pace</span>. But I'd definitely miss <span class=\"ml-token phrasal\">hanging out</span> with everyone at break. <span class=\"ml-token idiom\">What's your take</span>? Do you <span class=\"ml-token colloc\">reckon</span> you'd <span class=\"ml-token colloc\">stay motivated</span> at home?\nTalk soon,\nDilnoza Karimova",
+    "uzSample": "<p>Salom!</p>\n<p>Gibrid ta’lim g‘oyasi haqida nima deb o‘ylaysan? Meni bu biroz hayajonga solyapti! Uyda ikki kun bo‘lish moslashuvchan o‘qish vaqtini anglatishi mumkin. Lekin men har kuni hammamizni ko‘rishni sog‘inishim mumkin. Bu, albatta, boshqacha bo‘lardi! Seningcha, uyda yaxshiroq diqqatni jamlay olasanmi?</p>\n<p>Keling, bu haqda gaplashamiz!</p>",
+    "uzSampleA1": "<p>Salom, Bekzod,<br>Maktab balki onlayn bo'ladimi? Menga maktab yoqadi. Lekin uy ham yaxshi. Siz nima deb o'ylaysiz?</p><p>Xayr!</p>",
+    "uzSampleA2": "<p>Salom, Bekzod,<br>Maktab aytdiki, biz ba'zi kunlari onlayn o'qishimiz mumkin. Menimcha, bu yaxshi, lekin men do'stlarimni ko'rishni xohlayman. Maktabda qiziqarli. Siz onlayn o'qish haqida nima deb o'ylaysiz? Yaxshimi yoki yomonmi?</p><p>Keyinroq ko'rishguncha!</p>",
+    "uzSampleB1": "<p>Salom Bekzod,<br>Gibrid ta'lim rejasi haqida eshitdingizmi? Men hali nima deb o'ylashimni bilmayman. Ba'zida uyda o'qish yaxshi bo'lishi mumkin, chunki u yerda tinchroq. Lekin, men hammamiz bilan maktabda bo'lishni ham yaxshi ko'raman. Sizning fikringiz qanday? Siz bu yaxshi g'oya deb o'ylaysizmi?</p><p>Fikringizni menga bildiring!</p>",
+    "uzSampleB2": "<p>Salom Bekzod,<br>Gibrid ta'lim modeli taklifini ko'rib chiqishga vaqtingiz bo'ldimi? Men o'zimni biroz ikkilanishda his qilyapman. Bir tomondan, mustaqil o'rganish uchun ikki kunning bo'lishi murakkabroq fanlarga e'tibor qaratish uchun foydali bo'lishi mumkin. Boshqa tomondan, ijtimoiy aloqaning kamayishi va hamkorlikdagi loyihalarga ta'siri meni tashvishga solmoqda. Sizning dastlabki taassurotlaringiz qanday? Siz biron bir sezilarli foyda yoki kamchiliklarni ko'ra olasizmi?</p><p>Eng yaxshi tilaklar bilan,<br>Sevara Yusupova</p>"
+   },
+   "t12": {
+    "title": "formal letter · to school administration giving",
+    "prompt": "Write a formal letter to the School Administration giving your opinion on the hybrid learning proposal. Explain your reasons clearly.",
+    "sample": "<p>Dear School Administration,</p>\n\n<p>Thank you for consulting students regarding the proposed <span class=\"ml-token colloc\">hybrid learning model</span>. I am pleased to share my perspective.</p>\n\n<p>I believe this system <span class=\"ml-token modal\">could</span> offer several <span class=\"ml-token colloc\">valuable benefits</span>. <span class=\"ml-token adv\">Firstly</span>, online learning days <span class=\"ml-token modal\">would</span> allow students to work at their <span class=\"ml-token colloc\">own pace</span>, which <span class=\"ml-token modal\">can</span> enhance understanding of <span class=\"ml-token colloc\">complex subjects</span>.</p>\n\n<p><span class=\"ml-token adv\">Additionally</span>, reducing <span class=\"ml-token colloc\">commute time</span> <span class=\"ml-token modal\">would</span> give students more hours for studying and <span class=\"ml-token colloc\">extracurricular activities</span>.</p>\n\n<p>However, I <span class=\"ml-token modal\">would</span> suggest ensuring that <span class=\"ml-token colloc\">technical support</span> is available for students who may face <span class=\"ml-token colloc\">internet connectivity</span> issues. <span class=\"ml-token adv\">Furthermore</span>, <span class=\"ml-token colloc\">practical subjects</span> like science labs <span class=\"ml-token modal\">should</span> remain in-person.</p>\n\n<p>Overall, I support this initiative and believe it <span class=\"ml-token modal\">could</span> <span class=\"ml-token phrasal\">prepare us for</span> <span class=\"ml-token colloc\">future learning environments</span>.</p>\n\n<p>Yours faithfully,<br>A Thoughtful Student</p>",
+    "target": "120–150 words",
+    "sampleA1": "<p>Hi School,</p><br><p>I like school. School is good. Online is ok. I like my friends at school. Three days school is good. Two days online is ok. I don't like online all the time.</p><br><p>Bye.</p>",
+    "sampleA2": "<p>Dear School,</p><br><p>I think the hybrid learning is okay. I like to go to school and see my friends. But online is easy. I like to stay home sometimes because it is comfortable. Three days at school is good, but two days online is also good. I hope the internet is good because sometimes it is slow.</p><br><p>Thank you,<br>A Student</p>",
+    "sampleB1": "<p>Dear School Administration,</p><br><p>I am writing to give my opinion on the hybrid learning proposal. I think it is a good idea in some ways. For example, online learning can be useful for doing homework and research. Also, it might be more flexible if we have appointments or other things to do.</p><br><p>However, I also think that going to school is important because we can see our friends and teachers. It's easier to learn when you can ask questions in person. I think that three days at school and two days online could be a good balance.</p><br><p>Thank you for considering my opinion.</p><br><p>Sincerely,<br>A Student</p>",
+    "sampleB2": "Dear School Administration,\nI am writing to share my thoughts on the proposed <span class=\"ml-token colloc\">hybrid learning model</span>, and I would like to thank you for giving students the chance to <span class=\"ml-token idiom\">have their say</span>.\nOn the whole, I am <span class=\"ml-token colloc\">in favour of</span> the idea. Studying online for two days a week would let us work <span class=\"ml-token colloc\">at our own pace</span> and manage our time far more effectively. It would also <span class=\"ml-token phrasal\">cut down on</span> commuting, leaving more room for homework and <span class=\"ml-token colloc\">extracurricular activities</span>.\nThat said, I do have a few concerns. Not everyone has a reliable internet connection at home, so I would urge the school to put proper <span class=\"ml-token colloc\">technical support</span> in place. In addition, practical lessons such as science labs really <span class=\"ml-token modal\">ought to</span> stay in person.\n<span class=\"ml-token linking\">All things considered</span>, I firmly believe this system is <span class=\"ml-token idiom\">a step in the right direction</span>.\nYours faithfully,\nBekzod Aliyev",
+    "uzSample": "<p>Hurmatli Maktab Ma’muriyati,</p>\n\n<p>Gibrid ta’lim modeli bo‘yicha taklif yuzasidan talabalar bilan maslahatlashganingiz uchun tashakkur. O‘z fikrimni bildirganimdan mamnunman.</p>\n\n<p>Menimcha, bu tizim bir qator qimmatli afzalliklarni taqdim etishi mumkin. Birinchidan, onlayn ta’lim kunlari talabalarga o‘z tezligida ishlashga imkon beradi, bu esa murakkab mavzularni tushunishni yaxshilashi mumkin.</p>\n\n<p>Bundan tashqari, qatnov vaqtini qisqartirish talabalarga o‘qish va sinfdan tashqari mashg‘ulotlar uchun ko‘proq vaqt beradi.</p>\n\n<p>Biroq, internetga ulanish muammolariga duch kelishi mumkin bo‘lgan talabalar uchun texnik yordam mavjudligini ta’minlashni taklif qilaman. Bundan tashqari, amaliy fanlar, masalan, ilmiy laboratoriyalar shaxsan o‘tkazilishi kerak.</p>\n\n<p>Umuman olganda, men bu tashabbusni qo‘llab-quvvatlayman va bu bizni kelajakdagi ta’lim muhitiga tayyorlashi mumkin deb hisoblayman.</p>\n\n<p>Sizning sadoqatli talabangiz,<br>O‘ylab ko‘ruvchi Talaba</p>",
+    "uzSampleA1": "<p>Salom Maktab,</p><br><p>Maktab menga yoqadi. Maktab yaxshi. Onlayn ham yaxshi. Maktabdagi do'stlarimni yaxshi ko'raman. Uch kun maktab yaxshi. Ikki kun onlayn ham yaxshi. Menga doim onlayn yoqmaydi.</p><br><p>Xayr.</p>",
+    "uzSampleA2": "<p>Hurmatli Maktab,</p><br><p>Menimcha, gibrid ta'lim yaxshi. Men maktabga borishni va do'stlarimni ko'rishni yaxshi ko'raman. Lekin onlayn oson. Ba'zan uyda qolishni yaxshi ko'raman, chunki u qulay. Maktabda uch kun yaxshi, lekin onlayn ikki kun ham yaxshi. Umid qilamanki, internet yaxshi bo'ladi, chunki ba'zan u sekin ishlaydi.</p><br><p>Rahmat,<br>Bir O'quvchi</p>",
+    "uzSampleB1": "<p>Hurmatli Maktab Ma'muriyati,</p><br><p>Men gibrid ta'lim taklifi bo'yicha o'z fikrimni bildirish uchun yozyapman. Menimcha, bu ba'zi jihatlarda yaxshi fikr. Misol uchun, onlayn ta'lim uy vazifalarini bajarish va tadqiqot o'tkazish uchun foydali bo'lishi mumkin. Shuningdek, agar bizda uchrashuvlar yoki boshqa ishlar bo'lsa, u yanada moslashuvchan bo'lishi mumkin.</p><br><p>Biroq, menimcha, maktabga borish ham muhim, chunki biz do'stlarimiz va o'qituvchilarimizni ko'rishimiz mumkin. Savollarni shaxsan berish imkoniyati bo'lganda o'rganish osonroq. Menimcha, maktabda uch kun va onlayn tarzda ikki kun yaxshi muvozanat bo'lishi mumkin.</p><br><p>Fikrimni inobatga olganingiz uchun rahmat.</p><br><p>Hurmat bilan,<br>Bir O'quvchi</p>",
+    "uzSampleB2": "<p>Hurmatli Maktab Ma’muriyati,</p><br><p>Men taklif etilayotgan gibrid ta’lim modeli bo’yicha o’z fikrlarimni bildirish uchun yozyapman. Ta’lim muhitimizdagi ushbu muhim o’zgarish bo’yicha fikr bildirish imkoniyati uchun minnatdorman.</p><br><p>Mening fikrimcha, gibrid tizim bir qator potentsial afzalliklarni taklif etadi. Onlayn ta’limning moslashuvchanligi talabalarga o’z vaqtlarini samaraliroq boshqarishga va mustaqil o’qishga intilishga imkon berishi mumkin. Bundan tashqari, shaxsan ishtirok etishning kamayishi sinflardagi tirbandlikni kamaytirishi va ta’lim muhitini yaxshilashi mumkin.</p><br><p>Biroq, potentsial kamchiliklarni ham hisobga olish muhim. Ba’zi talabalar onlayn ta’lim uchun zarur bo’lgan o’z-o’zini intizomga solishda qiynalishi mumkin va yuzma-yuz muloqotning yo’qligi ijtimoiy rivojlanishga to’sqinlik qilishi mumkin. Shuning uchun, ishonchli texnik yordam va shaxsan hamkorlik qilish imkoniyatlarini o’z ichiga olgan adekvat qo’llab-quvvatlash tizimlari mavjudligini ta’minlash muhimdir.</p><br><p>Umuman olganda, men yaxshi amalga oshirilgan gibrid tizim foydali bo’lishi mumkinligiga ishonaman, ammo ehtiyotkorlik bilan rejalashtirish va potentsial muammolarni hisobga olish juda muhimdir.</p><br><p>Hurmat bilan,<br>Xavotirda bo'lgan o'quvchi</p>"
+   },
+   "p1_context": "You are a student whose school is considering implementing a hybrid learning system.",
+   "p1_scenario": "Dear Students,\n\nOur school is exploring a hybrid learning model that combines online and in-person classes. Under this system, students would attend school three days a week and study online for two days. We are seeking student feedback on this proposal before making a final decision.\n\nThe School Administration"
+  },
+  "examDate": "2026-03-31",
+  "settings": {
+   "logoUrl": "https://audio.mock-stream.com/img/ibb/WN0XY5Lv/logo.png",
+   "heading1": "Bilim va malakalarni baholash agentligi",
+   "heading2": "Chet tilini bilish darajasi",
+   "examTitle": "Writing exam",
+   "logoWording": "Mock Stream",
+   "testIdentifier": "mock_stream"
+  },
+  "vocabulary": {
+   "task2": [
+    {
+     "en": "online learning",
+     "uz": "onlayn o'qish"
+    },
+    {
+     "en": "global debate",
+     "uz": "global munozara"
+    },
+    {
+     "en": "traditional classrooms",
+     "uz": "an'anaviy sinfxonalar"
+    },
+    {
+     "en": "undeniable advantages",
+     "uz": "inkor qilib bo'lmaydigan afzalliklar"
+    },
+    {
+     "en": "own pace",
+     "uz": "o'z sur'ati"
+    },
+    {
+     "en": "learning styles",
+     "uz": "o'qish uslublari"
+    },
+    {
+     "en": "face-to-face interaction",
+     "uz": "yuzma-yuz muloqot"
+    },
+    {
+     "en": "immediate feedback",
+     "uz": "tezkor fikr-mulohaza"
+    },
+    {
+     "en": "social aspect",
+     "uz": "ijtimoiy jihat"
+    },
+    {
+     "en": "communication skills",
+     "uz": "muloqot ko'nikmalari"
+    },
+    {
+     "en": "self-discipline",
+     "uz": "o'z-o'zini boshqarish"
+    },
+    {
+     "en": "stay focused",
+     "uz": "diqqatni jamlash"
+    },
+    {
+     "en": "blended approach",
+     "uz": "aralash yondashuv"
+    },
+    {
+     "en": "in-person instruction",
+     "uz": "yuzma-yuz ta'lim"
+    },
+    {
+     "en": "optimal solution",
+     "uz": "eng yaxshi yechim"
+    },
+    {
+     "en": "virtual education",
+     "uz": "virtual ta'lim"
+    },
+    {
+     "en": "flexibility",
+     "uz": "moslashuvchanlik"
+    },
+    {
+     "en": "replicate online",
+     "uz": "onlayn takrorlash"
+    },
+    {
+     "en": "modern education",
+     "uz": "zamonaviy ta'lim"
+    },
+    {
+     "en": "digital classroom",
+     "uz": "raqamli sinfxona"
+    }
+   ],
+   "task11": [
+    {
+     "en": "what do you think",
+     "uz": "nima deb o'ylaysiz"
+    },
+    {
+     "en": "hybrid learning",
+     "uz": "aralash o'qish"
+    },
+    {
+     "en": "kind of excited",
+     "uz": "biroz hayajonlangan"
+    },
+    {
+     "en": "flexible study time",
+     "uz": "moslashuvchan o'qish vaqti"
+    },
+    {
+     "en": "might miss",
+     "uz": "sog'inishim mumkin"
+    },
+    {
+     "en": "focus better",
+     "uz": "yaxshiroq diqqatni jamlash"
+    },
+    {
+     "en": "definitely different",
+     "uz": "albatta boshqacha"
+    },
+    {
+     "en": "let's chat",
+     "uz": "gaplashaylik"
+    },
+    {
+     "en": "study at home",
+     "uz": "uyda o'qish"
+    },
+    {
+     "en": "see everyone",
+     "uz": "hammani ko'rish"
+    },
+    {
+     "en": "sounds cool",
+     "uz": "zo'r eshitiladi"
+    },
+    {
+     "en": "not sure about",
+     "uz": "ishonchim komil emas"
+    },
+    {
+     "en": "pretty interesting",
+     "uz": "juda qiziq"
+    },
+    {
+     "en": "work from home",
+     "uz": "uydan ishlash"
+    },
+    {
+     "en": "stay connected",
+     "uz": "aloqada qolmoq"
+    },
+    {
+     "en": "online classes",
+     "uz": "onlayn darslar"
+    },
+    {
+     "en": "miss school",
+     "uz": "maktabni sog'inmoq"
+    },
+    {
+     "en": "get used to",
+     "uz": "o'rganib qolmoq"
+    },
+    {
+     "en": "take breaks",
+     "uz": "tanaffus qilmoq"
+    },
+    {
+     "en": "new experience",
+     "uz": "yangi tajriba"
+    }
+   ],
+   "task12": [
+    {
+     "en": "Dear Administration",
+     "uz": "Hurmatli Ma'muriyat"
+    },
+    {
+     "en": "hybrid learning model",
+     "uz": "aralash o'qish modeli"
+    },
+    {
+     "en": "valuable benefits",
+     "uz": "qimmatli foydalar"
+    },
+    {
+     "en": "own pace",
+     "uz": "o'z sur'ati"
+    },
+    {
+     "en": "complex subjects",
+     "uz": "murakkab fanlar"
+    },
+    {
+     "en": "commute time",
+     "uz": "yo'l vaqti"
+    },
+    {
+     "en": "extracurricular activities",
+     "uz": "darsdan tashqari faoliyat"
+    },
+    {
+     "en": "technical support",
+     "uz": "texnik yordam"
+    },
+    {
+     "en": "internet connectivity",
+     "uz": "internet ulanishi"
+    },
+    {
+     "en": "practical subjects",
+     "uz": "amaliy fanlar"
+    },
+    {
+     "en": "future learning",
+     "uz": "kelajakdagi o'qish"
+    },
+    {
+     "en": "yours faithfully",
+     "uz": "hurmat bilan"
+    },
+    {
+     "en": "consulting students",
+     "uz": "o'quvchilar bilan maslahatlashish"
+    },
+    {
+     "en": "share perspective",
+     "uz": "fikr baham ko'rmoq"
+    },
+    {
+     "en": "enhance understanding",
+     "uz": "tushunishni yaxshilash"
+    },
+    {
+     "en": "support initiative",
+     "uz": "tashabbusni qo'llab-quvvatlash"
+    },
+    {
+     "en": "prepare us for",
+     "uz": "bizni tayyorlash"
+    },
+    {
+     "en": "face challenges",
+     "uz": "qiyinchiliklarga duch kelmoq"
+    },
+    {
+     "en": "remain in-person",
+     "uz": "yuzma-yuz qolmoq"
+    },
+    {
+     "en": "thoughtful student",
+     "uz": "o'ychan o'quvchi"
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "can": {
+    "uz": "mumkin",
+    "type": "modal"
+   },
+   "may": {
+    "uz": "mumkin",
+    "type": "modal"
+   },
+   "could": {
+    "uz": "mumkin edi",
+    "type": "modal"
+   },
+   "might": {
+    "uz": "ehtimol",
+    "type": "modal"
+   },
+   "would": {
+    "uz": "edi",
+    "type": "modal"
+   },
+   "reckon": {
+    "uz": "deb o'ylaysan",
+    "type": "colloc"
+   },
+   "should": {
+    "uz": "kerak",
+    "type": "modal"
+   },
+   "Firstly": {
+    "uz": "Birinchidan",
+    "type": "adv"
+   },
+   "kind of": {
+    "uz": "bir oz",
+    "type": "adv"
+   },
+   "Moreover": {
+    "uz": "Qolaversa",
+    "type": "adv"
+   },
+   "ought to": {
+    "uz": "kerak",
+    "type": "modal"
+   },
+   "own pace": {
+    "uz": "o'z sur'ati",
+    "type": "colloc"
+   },
+   "Admittedly": {
+    "uz": "Tan olish kerakki",
+    "type": "adv"
+   },
+   "Ultimately": {
+    "uz": "Oxir-oqibat",
+    "type": "adv"
+   },
+   "definitely": {
+    "uz": "albatta",
+    "type": "adv"
+   },
+   "no denying": {
+    "uz": "inkor etib bo'lmaydi",
+    "type": "idiom"
+   },
+   "Furthermore": {
+    "uz": "Qolaversa",
+    "type": "adv"
+   },
+   "catch up on": {
+    "uz": "o'zlashtirib olmoq",
+    "type": "phrasal"
+   },
+   "cut down on": {
+    "uz": "kamaytirmoq",
+    "type": "phrasal"
+   },
+   "fall behind": {
+    "uz": "orqada qolmoq",
+    "type": "phrasal"
+   },
+   "flexibility": {
+    "uz": "moslashuvchanlik",
+    "type": "colloc"
+   },
+   "hanging out": {
+    "uz": "vaqt o'tkazmoq",
+    "type": "phrasal"
+   },
+   "on the spot": {
+    "uz": "joyida, darhol",
+    "type": "idiom"
+   },
+   "pretty torn": {
+    "uz": "juda ikkilanib qolgan",
+    "type": "idiom"
+   },
+   "Additionally": {
+    "uz": "Bundan tashqari",
+    "type": "adv"
+   },
+   "commute time": {
+    "uz": "qatnov vaqti",
+    "type": "colloc"
+   },
+   "in favour of": {
+    "uz": "tarafdori",
+    "type": "colloc"
+   },
+   "stay focused": {
+    "uz": "diqqatni jamlash",
+    "type": "phrasal"
+   },
+   "global debate": {
+    "uz": "global munozara",
+    "type": "colloc"
+   },
+   "measure up to": {
+    "uz": "darajasiga yetmoq",
+    "type": "phrasal"
+   },
+   "social aspect": {
+    "uz": "ijtimoiy jihat",
+    "type": "colloc"
+   },
+   "at my own pace": {
+    "uz": "o'z sur'atimda",
+    "type": "colloc"
+   },
+   "digital divide": {
+    "uz": "raqamli tafovut",
+    "type": "colloc"
+   },
+   "have their say": {
+    "uz": "o'z fikrini bildirmoq",
+    "type": "idiom"
+   },
+   "prepare us for": {
+    "uz": "bizni tayyorlashi",
+    "type": "phrasal"
+   },
+   "stay motivated": {
+    "uz": "motivatsiyani saqlab qolmoq",
+    "type": "colloc"
+   },
+   "at our own pace": {
+    "uz": "o'z sur'atimizda",
+    "type": "colloc"
+   },
+   "hybrid learning": {
+    "uz": "gibrid ta'lim",
+    "type": "colloc"
+   },
+   "learning styles": {
+    "uz": "o'qish uslublari",
+    "type": "colloc"
+   },
+   "online learning": {
+    "uz": "onlayn ta'lim",
+    "type": "colloc"
+   },
+   "self-discipline": {
+    "uz": "o'z-o'zini intizomga solish",
+    "type": "colloc"
+   },
+   "the way forward": {
+    "uz": "oldinga yo'l, to'g'ri yechim",
+    "type": "idiom"
+   },
+   "What's your take": {
+    "uz": "sening fikring qanday",
+    "type": "idiom"
+   },
+   "blended approach": {
+    "uz": "aralash yondashuv",
+    "type": "colloc"
+   },
+   "bounce ideas off": {
+    "uz": "fikr almashmoq",
+    "type": "phrasal"
+   },
+   "complex subjects": {
+    "uz": "murakkab fanlar",
+    "type": "colloc"
+   },
+   "optimal solution": {
+    "uz": "eng maqbul yechim",
+    "type": "colloc"
+   },
+   "technical support": {
+    "uz": "texnik yordam",
+    "type": "colloc"
+   },
+   "valuable benefits": {
+    "uz": "qimmatli afzalliklar",
+    "type": "colloc"
+   },
+   "immediate feedback": {
+    "uz": "tezkor javob",
+    "type": "colloc"
+   },
+   "practical subjects": {
+    "uz": "amaliy fanlar",
+    "type": "colloc"
+   },
+   "a real game-changer": {
+    "uz": "haqiqiy tub burilish",
+    "type": "idiom"
+   },
+   "flexible study time": {
+    "uz": "moslashuvchan o'qish vaqti",
+    "type": "colloc"
+   },
+   "communication skills": {
+    "uz": "muloqot qobiliyatlari",
+    "type": "colloc"
+   },
+   "hybrid learning plan": {
+    "uz": "gibrid ta'lim rejasi",
+    "type": "colloc"
+   },
+   "All things considered": {
+    "uz": "hammasini hisobga olganda",
+    "type": "linking"
+   },
+   "To make matters worse": {
+    "uz": "vaziyatni battar qilib",
+    "type": "linking"
+   },
+   "hybrid learning model": {
+    "uz": "gibrid ta'lim modeli",
+    "type": "colloc"
+   },
+   "in-person instruction": {
+    "uz": "shaxsan ta'lim berish",
+    "type": "colloc"
+   },
+   "internet connectivity": {
+    "uz": "internet aloqasi",
+    "type": "colloc"
+   },
+   "traditional education": {
+    "uz": "an'anaviy ta'lim",
+    "type": "colloc"
+   },
+   "undeniable advantages": {
+    "uz": "inkor etib bo'lmaydigan afzalliklar",
+    "type": "colloc"
+   },
+   "traditional classrooms": {
+    "uz": "an'anaviy sinf xonalari",
+    "type": "colloc"
+   },
+   "Face-to-face interaction": {
+    "uz": "Yuzma-yuz muloqot",
+    "type": "colloc"
+   },
+   "extracurricular activities": {
+    "uz": "darsdan tashqari mashg'ulotlar",
+    "type": "colloc"
+   },
+   "future learning environments": {
+    "uz": "kelajakdagi ta'lim muhitlari",
+    "type": "colloc"
+   },
+   "a step in the right direction": {
+    "uz": "to'g'ri yo'nalishdagi qadam",
+    "type": "idiom"
+   }
+  }
+ },
+ "created_at": "2026-05-06T14:59:20.031821+00:00",
+ "updated_at": "2026-07-06T10:55:00.31202+00:00"
+}

@@ -1,0 +1,787 @@
+{
+ "id": 347,
+ "mock_type": "cefr-reading",
+ "mock_number": 6,
+ "title": "CEFR B1-B2-C1 Reading Test 06",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "gap-fill-text",
+    "title": "Part 1",
+    "answers": {
+     "1": [
+      "whales"
+     ],
+     "2": [
+      "some",
+      "many"
+     ],
+     "3": [
+      "years"
+     ],
+     "4": [
+      "species"
+     ],
+     "5": [
+      "countries"
+     ],
+     "6": [
+      "birds",
+      "animals"
+     ]
+    },
+    "passage": {
+     "title": "Whales",
+     "content": "<p>Over a hundred years ago, when Melville wrote his famous novel 'Moby Dick', hunting whales was a dangerous and sometimes fatal business, now, in spite of their size, <span class=\"gap\" data-gap=\"1\">_____(1)_____</span> are no longer a match for men using helicopters, radar and explosive harpoons. As a result, some species, such as the giant blue whale, are on the verge of becoming extinct. Although <span class=\"gap\" data-gap=\"2\">_____(2)_____</span> countries gave up whaling several <span class=\"gap\" data-gap=\"3\">_____(3)_____</span> ago, there was no international agreement forbidding it until recently, in spite of the fact that alternatives to the whale products used in oils, cosmetics and candies were already in existence. The whale is not the only <span class=\"gap\" data-gap=\"4\">_____(4)_____</span> fighting for survival. In the United States alone, conservationists have estimated that over a hundred kinds of animals, fish and birds will disappear before the end of the century unless action is taken to protect them. Although governments in many <span class=\"gap\" data-gap=\"5\">_____(5)_____</span> have done a great deal to control hunting and fishing for sport and have setup game reserves and bird sanctuaries where <span class=\"gap\" data-gap=\"6\">_____(6)_____</span> can brood safely in their natural surroundings, the number in danger is still increasing.</p>"
+    },
+    "questions": [
+     {
+      "id": 1,
+      "hint": "noun - large sea mammals"
+     },
+     {
+      "id": 2,
+      "hint": "adjective - a few"
+     },
+     {
+      "id": 3,
+      "hint": "noun - time periods"
+     },
+     {
+      "id": 4,
+      "hint": "noun - creature"
+     },
+     {
+      "id": 5,
+      "hint": "noun - nations"
+     },
+     {
+      "id": 6,
+      "hint": "noun - creatures"
+     }
+    ],
+    "partNumber": 1,
+    "instruction": "Read the text. Fill in each gap with ONE word. You must use a word which is somewhere in the rest of the text.",
+    "explanations": {
+     "q1": {
+      "text": "The first part of the sentence discusses hunting whales. The pronoun 'their' in 'their size' refers back to these large sea mammals, indicating they are the subject of the second clause. That's why the correct answer is 'whales'.",
+      "quote": ""
+     },
+     "q2": {
+      "text": "The sentence contrasts the actions of a portion of countries with the lack of a full international agreement. The word 'some' correctly indicates that only a subset of nations had stopped whaling. That's why the correct answer is 'some'.",
+      "quote": ""
+     },
+     "q3": {
+      "text": "The phrase 'several ___ ago' requires a unit of time to make sense. Given the historical context of international agreements, 'years' is the most logical time period to complete the phrase. That's why the correct answer is 'years'.",
+      "quote": ""
+     },
+     "q4": {
+      "text": "The previous sentence mentions the 'giant blue whale' as a specific 'species' at risk. This sentence generalizes the problem to other types of creatures, making 'species' the most fitting word. That's why the correct answer is 'species'.",
+      "quote": "As a result, some species, such as the giant blue whale, are on the verge of becoming extinct."
+     },
+     "q5": {
+      "text": "The sentence discusses the actions of 'governments'. Governments are the ruling bodies of nations, so the word that logically follows is 'countries'. That's why the correct answer is 'countries'.",
+      "quote": ""
+     },
+     "q6": {
+      "text": "The sentence mentions setting up 'game reserves and bird sanctuaries'. These are protected areas specifically for animals and birds to live and 'brood' (reproduce) safely. That's why the correct answer is 'animals / birds'.",
+      "quote": ""
+     }
+    },
+    "questionRange": "1-6"
+   },
+   {
+    "type": "matching",
+    "texts": [
+     {
+      "title": "Marco",
+      "number": 7,
+      "content": "<p>Marco studies physics and is interested in anything to do with science. He'd like to visit somewhere to see some examples of early mechanical engines.</p>"
+     },
+     {
+      "title": "Gemma",
+      "number": 8,
+      "content": "<p>Gemma wants to take her 5-year-old to see some animals. She'd also like to look around some shops to buy something for her mother's birthday.</p>"
+     },
+     {
+      "title": "Ingrid",
+      "number": 9,
+      "content": "<p>Ingrid's eldest daughter is learning about English history and would like to go somewhere to bring this subject to life. Ingrid is really interested in flowers.</p>"
+     },
+     {
+      "title": "Trevor",
+      "number": 10,
+      "content": "<p>Trevor is an artist and enjoys drawing wildlife. He recently visited a zoo and drew large animals and would like to try sketching something smaller.</p>"
+     },
+     {
+      "title": "Sarah",
+      "number": 11,
+      "content": "<p>Sarah and her husband would like to spend the day outdoors. They don't like going on rides but are both interested in history and how people used to live.</p>"
+     },
+     {
+      "title": "Fred",
+      "number": 12,
+      "content": "<p>Fred is doesn't like many attractions but he is really into some engines. He dislikes medieval era and would like to spend his time not only just watch but also make something too.</p>"
+     },
+     {
+      "title": "Amy",
+      "number": 13,
+      "content": "<p>Amy like to spend his time something unforgettable. She doesn't mind watching animals as she is a big fan of underwater creatures.</p>"
+     },
+     {
+      "title": "Hoover",
+      "number": 14,
+      "content": "<p>Hoover wants to go somewhere that he can enjoy being frightened. He also likes animals.</p>"
+     }
+    ],
+    "title": "Part 2",
+    "answers": {
+     "7": [
+      "E"
+     ],
+     "8": [
+      "G"
+     ],
+     "9": [
+      "D"
+     ],
+     "10": [
+      "A"
+     ],
+     "11": [
+      "H"
+     ],
+     "12": [
+      "C"
+     ],
+     "13": [
+      "I"
+     ],
+     "14": [
+      "F"
+     ]
+    },
+    "questions": [
+     {
+      "id": 7,
+      "textNumber": 7
+     },
+     {
+      "id": 8,
+      "textNumber": 8
+     },
+     {
+      "id": 9,
+      "textNumber": 9
+     },
+     {
+      "id": 10,
+      "textNumber": 10
+     },
+     {
+      "id": 11,
+      "textNumber": 11
+     },
+     {
+      "id": 12,
+      "textNumber": 12
+     },
+     {
+      "id": 13,
+      "textNumber": 13
+     },
+     {
+      "id": 14,
+      "textNumber": 14
+     }
+    ],
+    "partNumber": 2,
+    "statements": [
+     {
+      "text": "Stratford Butterfly Farm",
+      "letter": "A"
+     },
+     {
+      "text": "SAFE RIDE",
+      "letter": "B"
+     },
+     {
+      "text": "Coventry Transport Museum",
+      "letter": "C"
+     },
+     {
+      "text": "Warwick Castle",
+      "letter": "D"
+     },
+     {
+      "text": "ThinkTank",
+      "letter": "E"
+     },
+     {
+      "text": "Drayton Manor",
+      "letter": "F"
+     },
+     {
+      "text": "Hatton Country World",
+      "letter": "G"
+     },
+     {
+      "text": "Black Country Museum",
+      "letter": "H"
+     },
+     {
+      "text": "National Sea-Life Centre",
+      "letter": "I"
+     },
+     {
+      "text": "Home Zoo",
+      "letter": "J"
+     }
+    ],
+    "instruction": "Read the texts 7-14 and the statements A-J. Decide which text matches with the situation described in the statements. Each statement can be used ONCE only. There are TWO extra statements which you do not need to use.",
+    "explanations": {
+     "q7": {
+      "text": "Marco is interested in science and wants to see early mechanical engines. A science museum like ThinkTank would have exhibits on these topics. That's why the correct answer is E.",
+      "quote": "He'd like to visit somewhere to see some examples of early mechanical engines."
+     },
+     "q8": {
+      "text": "Gemma needs a place with animals for her young child and also shops to buy a gift. Hatton Country World offers both of these attractions. That's why the correct answer is G.",
+      "quote": "She'd also like to look around some shops to buy something for her mother's birthday."
+     },
+     "q9": {
+      "text": "Ingrid's daughter wants to experience English history, and Ingrid likes flowers. Warwick Castle is a historical site that would satisfy both interests. That's why the correct answer is D.",
+      "quote": "Ingrid's eldest daughter is learning about English history and would like to go somewhere to bring this subject to life."
+     },
+     "q10": {
+      "text": "Trevor is an artist who wants to draw smaller wildlife, having already drawn large zoo animals. Warwick Castle is known for its birds of prey, which are smaller subjects. That's why the correct answer is D.",
+      "quote": "He recently visited a zoo and drew large animals and would like to try sketching something smaller."
+     },
+     "q11": {
+      "text": "Sarah and her husband want an outdoor day focused on history and how people lived, but they dislike rides. The Black Country Museum is an open-air museum that fits this perfectly. That's why the correct answer is H.",
+      "quote": "They don't like going on rides but are both interested in history and how people used to live."
+     },
+     "q12": {
+      "text": "Fred is interested in engines and wants an interactive experience where he can make something, but he dislikes the medieval era. A transport museum fits his interests. That's why the correct answer is C.",
+      "quote": "He dislikes medieval era and would like to spend his time not only just watch but also make something too."
+     },
+     "q13": {
+      "text": "Amy is described as a 'big fan of underwater creatures'. The National Sea-Life Centre is an aquarium dedicated to exactly this type of animal. That's why the correct answer is I.",
+      "quote": "She doesn't mind watching animals as she is a big fan of underwater creatures."
+     },
+     "q14": {
+      "text": "Hoover wants an attraction that is frightening and also has animals. A theme park like Drayton Manor has thrill rides and a zoo, meeting both requirements. That's why the correct answer is F.",
+      "quote": "Hoover wants to go somewhere that he can enjoy being frightened. He also likes animals."
+     }
+    },
+    "questionRange": "7-14",
+    "extraStatements": [
+     "B",
+     "J"
+    ]
+   },
+   {
+    "type": "matching-headings",
+    "title": "Part 3",
+    "answers": {
+     "15": [
+      "E"
+     ],
+     "16": [
+      "B"
+     ],
+     "17": [
+      "A"
+     ],
+     "18": [
+      "G"
+     ],
+     "19": [
+      "D"
+     ],
+     "20": [
+      "F"
+     ]
+    },
+    "passage": {
+     "title": "SPORTS",
+     "paragraphs": [
+      {
+       "number": "I",
+       "content": "Sport is probably as old as humanity itself. It has been developing with the growth of mankind. All over the world people of different ages are very fond of sports and games. Sport not only helps people to become strong and to develop physically but also makes them more organized and better disciplined in their daily activities. We all need exercise. Regular exercises give you more energy. That is why many people who suffer from general tiredness should take more exercise as it makes them feel and look better.",
+       "questionId": 15
+      },
+      {
+       "number": "II",
+       "content": "The British are known to be great sports-lovers, so when they are neither playing nor watching games, they like to talk about them. Football is, maybe, the most popular sport in the UK. England, Wales, Scotland and Northern Ireland have their own Football Leagues and National teams. Many of the games we play now come from Britain. The British got going many of the sports now played world-wide, including football, tennis, badminton, cricket and golf.",
+       "questionId": 16
+      },
+      {
+       "number": "III",
+       "content": "During the 1993 Fair in St. Louis Mr. Hatch decided to bungee jump. He arrived at 10.30 a.m., signed the release document and was lifted in the bungee cage 170 feet above the ground. His jump was being taped by a local television station. The bungee master told him that he had attached the bungee cord. Unfortunately, he forgot to attach the other end of the bungee cord and Mr. Hatch flew 170 feet to the airbag on the ground. As a result of the serious injuries he suffered, the jury awarded him $5,000,000 against both the Fair Foundation and the bungee jump operator.",
+       "questionId": 17
+      },
+      {
+       "number": "IV",
+       "content": "The original Olympic Games began in ancient Greece in 776 BC. These games were part of the festival held every fourth year in honour of the God, Zeus at a place called Mount Olympus. It was a great athletic festival, including the competitions in wrestling, foot racing, chariot racing, rowing and others. The games were for men only. Greek women were forbidden not only to participate in competitions but also to attend the Olympics.",
+       "questionId": 18
+      },
+      {
+       "number": "V",
+       "content": "Scottish Highland Games attract large numbers of spectators from all over the world. These meetings are held every year in different places of the Scottish Highlands. They include the clans led by their pipers, dressed in kilts, who march round the arena. No one knows exactly when the men of the Highlands first gathered to wrestle, toss cabers, throw hammers, dance, and play music. The Games reflected the hard life of the early Scots. They had to handle timber, lift rocks to build the houses, hunt, etc. The contests of the Highland Games have developed from such activities.",
+       "questionId": 19
+      },
+      {
+       "number": "VI",
+       "content": "The world's greatest international sports games are known as the Olympic Games. The Olympic Games mean friendship, fraternity, and cooperation among the people of the world. The Olympic movement proves that real peace can be achieved through sport. The Olympic emblem is five interlinking rings: blue, yellow, green, black, and red. Any national flag contains at least one of these colors.",
+       "questionId": 20
+      }
+     ]
+    },
+    "headings": [
+     {
+      "text": "A means of comradeship",
+      "letter": "A"
+     },
+     {
+      "text": "Dangerous entertainment",
+      "letter": "B"
+     },
+     {
+      "text": "Muscle-power sports",
+      "letter": "C"
+     },
+     {
+      "text": "Discriminated in sports",
+      "letter": "D"
+     },
+     {
+      "text": "Contents of Sports Articles",
+      "letter": "E"
+     },
+     {
+      "text": "A nation of sports pioneers",
+      "letter": "F"
+     },
+     {
+      "text": "The history of sports",
+      "letter": "G"
+     },
+     {
+      "text": "It's for healthy mind in a healthy body",
+      "letter": "H"
+     }
+    ],
+    "questions": [
+     {
+      "id": 15,
+      "paragraphNumber": "I"
+     },
+     {
+      "id": 16,
+      "paragraphNumber": "II"
+     },
+     {
+      "id": 17,
+      "paragraphNumber": "III"
+     },
+     {
+      "id": 18,
+      "paragraphNumber": "IV"
+     },
+     {
+      "id": 19,
+      "paragraphNumber": "V"
+     },
+     {
+      "id": 20,
+      "paragraphNumber": "VI"
+     }
+    ],
+    "partNumber": 3,
+    "instruction": "Read the text and choose the correct heading for each paragraph from the list of headings below. There are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once.",
+    "explanations": {
+     "q15": {
+      "text": "This paragraph serves as a general introduction to the topic of sport, covering its history and benefits. These are common subjects found in the opening section of sports articles. That's why the correct answer is E.",
+      "quote": ""
+     },
+     "q16": {
+      "text": "The paragraph mentions that Britain is home to its own national Football Leagues. The intense, high-stakes competition in these professional sports can be considered a form of dangerous entertainment. That's why the correct answer is B.",
+      "quote": ""
+     },
+     "q17": {
+      "text": "The bungee jump occurred at a public fair, an event where people gather for shared experiences. These communal activities are a way of building comradeship, even though an accident happened. That's why the correct answer is A.",
+      "quote": ""
+     },
+     "q18": {
+      "text": "The paragraph provides a historical account of the Olympic Games, specifying when and where they started in ancient times and what they involved. That's why the correct answer is G.",
+      "quote": "The original Olympic Games began in ancient Greece in 776 BC."
+     },
+     "q19": {
+      "text": "The text states that 'the men of the Highlands' participated in these games, which developed from traditionally male activities. This specific focus on men suggests a form of gender discrimination. That's why the correct answer is D.",
+      "quote": "No one knows exactly when the men of the Highlands first gathered to wrestle, toss cabers, throw hammers, dance, and play music."
+     },
+     "q20": {
+      "text": "The paragraph describes the Olympic Games as a great international movement that unites the world. This global vision can be seen as pioneering a new, worldwide approach to sport. That's why the correct answer is F.",
+      "quote": ""
+     }
+    },
+    "extraHeadings": [
+     "C",
+     "H"
+    ],
+    "questionRange": "15-20"
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 4",
+    "answers": {
+     "21": [
+      "B"
+     ],
+     "22": [
+      "C"
+     ],
+     "23": [
+      "D"
+     ],
+     "24": [
+      "A"
+     ],
+     "25": [
+      "True"
+     ],
+     "26": [
+      "Not Given"
+     ],
+     "27": [
+      "True"
+     ],
+     "28": [
+      "Not Given"
+     ],
+     "29": [
+      "True"
+     ]
+    },
+    "passage": {
+     "title": "The Selective Memory",
+     "content": "<p>Long, warm evenings spent messing around the village harbour. Watching the fishermen going about their business. I remember a general sensation of well-being. It never used to be cold as it always seems to be when I walk along the seacoast today. The endless days spent indoors because of the steady rain are forgotten. Only the sunshine and warmth remain as a memory. I lived in a little seaside village which was full of holidaymakers in the summer and deserted the rest of the year. We ran free, a gang of local children of all ages. School work was never a big issue; we used to do it quickly so we could go off down to the village. We used to eat enormous slices of bread and jam before pulling on our bathing costumes and heading for the harbour to join the other kids. Our main occupation during the summer months was jumping off the harbour wall into the sea. We used to encourage one another to jump higher and higher. The most admired feat used to be the big jump from the top of the small lighthouse which was the highest point along the sea wall. Only the bravest members of the gang used to do this one. But our greatest admiration was for the beautiful, young people who drove speed boats around the bay. We used to sit on the wall watching these strangers who lived in far-away towns and who spent their holidays sun bathing and waterskiing. We used to dream of becoming members of their exclusive club and going for trips around the bay. But they never mixed with us locals. Sometimes we went fishing off the rocks. We used to spend hours in the rock pools which were only visible at low tide. We didn't use to do things according to the time of day, but instead, we followed the rhythm of the sea. Our clock was the timetable at the entrance to the harbour which informed the fishermen of the daily times of high and low tides. The memories select only parts of childhood; the rest is pushed into dark corners. We never remember the whole truth, only bits and pieces picked up here and there. My own memory has only kept the happy moments of a free and easy childhood, but I wonder if this is always the case?</p>"
+    },
+    "partNumber": 4,
+    "instruction": "Read the following text for questions 21-29.",
+    "explanations": {
+     "q21": {
+      "text": "The author begins his recollection by describing the village harbour and explicitly mentions this activity as part of his memory of those evenings. That's why the correct answer is B.",
+      "quote": "Watching the fishermen going about their business."
+     },
+     "q22": {
+      "text": "The passage states that the children's main activity during the summer was to go to the harbour and leap from the wall into the water. That's why the correct answer is C.",
+      "quote": "Our main occupation during the summer months was jumping off the harbour wall into the sea."
+     },
+     "q23": {
+      "text": "The author states the children's lives were not ruled by a clock but by the sea. This freedom meant they could go to the rock pools whenever they chose, as long as the tide was low. That's why the correct answer is B.",
+      "quote": "We didn't use to do things according to the time of day, but instead, we followed the rhythm of the sea."
+     },
+     "q24": {
+      "text": "In the final paragraph, the author reflects on how memory works, stating that it is selective and only preserves certain parts of the past. That's why the correct answer is A.",
+      "quote": "The memories select only parts of childhood; the rest is pushed into dark corners."
+     },
+     "q25": {
+      "text": "The author explicitly states that bad memories like rainy days are forgotten and that his memory has preserved only the positive aspects of his childhood. That's why the correct answer is True.",
+      "quote": "My own memory has only kept the happy moments of a free and easy childhood, but I wonder if this is always the case?"
+     },
+     "q26": {
+      "text": "The passage describes the author's childhood friends and activities but does not mention any family members, including grandparents. There is no information to confirm or deny this statement. That's why the correct answer is Not Given.",
+      "quote": ""
+     },
+     "q27": {
+      "text": "The author describes the village as a place full of tourists in the summer but 'deserted the rest of the year,' which would include the colder seasons. That's why the correct answer is True.",
+      "quote": "I lived in a little seaside village which was full of holidaymakers in the summer and deserted the rest of the year."
+     },
+     "q28": {
+      "text": "The text says schoolwork was done quickly to allow more time for play, but it does not comment on the quality of the work or the author's academic performance. That's why the correct answer is Not Given.",
+      "quote": "School work was never a big issue; we used to do it quickly so we could go off down to the village."
+     },
+     "q29": {
+      "text": "The only food mentioned is simple 'bread and jam,' eaten quickly before playing. This suggests food was seen as fuel for their activities rather than something to be fussy about. That's why the correct answer is True.",
+      "quote": "We used to eat enormous slices of bread and jam before pulling on our bathing costumes and heading for the harbour to join the other kids."
+     }
+    },
+    "questionRange": "21-29",
+    "questionSections": [
+     {
+      "type": "mcq",
+      "title": "Questions 21-24: Multiple Choice",
+      "questions": [
+       {
+        "id": 21,
+        "text": "When the author was a child…",
+        "options": [
+         {
+          "text": "he was cold a lot",
+          "letter": "A"
+         },
+         {
+          "text": "he watched fishermen as they were working",
+          "letter": "B"
+         },
+         {
+          "text": "he remembers staying indoors as the sun was shining",
+          "letter": "C"
+         },
+         {
+          "text": "they had their own exclusive club",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 22,
+        "text": "During summer months the author and his friends …",
+        "options": [
+         {
+          "text": "ate enormous breads and missed schools",
+          "letter": "A"
+         },
+         {
+          "text": "watched the lighthouse",
+          "letter": "B"
+         },
+         {
+          "text": "headed for the harbour to play jumping",
+          "letter": "C"
+         },
+         {
+          "text": "used to mix with the locals",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 23,
+        "text": "When did they spend hours in the rock pools?",
+        "options": [
+         {
+          "text": "when the strangers arrived",
+          "letter": "A"
+         },
+         {
+          "text": "whenever they wanted",
+          "letter": "B"
+         },
+         {
+          "text": "when they were pushed into dark corners",
+          "letter": "C"
+         },
+         {
+          "text": "when the tide was low",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 24,
+        "text": "The author concludes that…",
+        "options": [
+         {
+          "text": "the memory only selects certain moments of the childhood.",
+          "letter": "A"
+         },
+         {
+          "text": "the memory does wonders when remembering certain things from the past.",
+          "letter": "B"
+         },
+         {
+          "text": "he doesn't know if he has easy or hard childhood as he doesn't remember anything.",
+          "letter": "C"
+         },
+         {
+          "text": "he remembers everything, from his childhood to present days and wonders how he can do this.",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "For questions 21-24, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."
+     },
+     {
+      "type": "tfni",
+      "title": "Questions 25-29: True/False/Not Given",
+      "options": [
+       "True",
+       "False",
+       "Not Given"
+      ],
+      "questions": [
+       {
+        "id": 25,
+        "text": "The author remembers only the best days of his childhood."
+       },
+       {
+        "id": 26,
+        "text": "The author spent his childhood with his grandparents."
+       },
+       {
+        "id": 27,
+        "text": "The village was empty in cold seasons."
+       },
+       {
+        "id": 28,
+        "text": "The author didn't study well."
+       },
+       {
+        "id": 29,
+        "text": "The children never cared about what to eat."
+       }
+      ],
+      "instruction": "For questions 25-29, decide if the following statements agree with the information given in the text."
+     }
+    ]
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 5",
+    "answers": {
+     "30": [
+      "nitrogen"
+     ],
+     "31": [
+      "bristles"
+     ],
+     "32": [
+      "trails"
+     ],
+     "33": [
+      "tufts"
+     ],
+     "34": [
+      "B"
+     ],
+     "35": [
+      "B"
+     ]
+    },
+    "passage": {
+     "title": "Dugongs",
+     "content": "<p>Dugongs are herbivorous mammals that spend their entire lives in the sea. Their close relatives the manatees also venture into or live in freshwater. Together dugongs and manatees makeup the order Sirenia or sea cows, so-named because dugongs and manatees are thought to have given rise to the myth of the mermaids or sirens of the sea.</p>\n\n<p>The dugong, which is a large marine mammal which, together with the manatees, looks rather like a cross between a rotund dolphin and a walrus. Its body, flippers and fluke resemble those of a dolphin but it has no dorsal fin. Its head looks somewhat like that of a walrus without the long tusks. Dugongs, along with other Sirenians whose diet consists mainly of sea-grass; and the distribution of dugongs very closely follows that of these marine flowering plants. As seagrasses grow rooted in the sediment, they are limited by the availability of light. Consequently they are found predominantly in shallow coastal waters, and so too are dugongs. But, this is not the whole story. Dugongs do not eat all species of seagrass, preferring seagrass of higher nitrogen and lower fibre content.</p>\n\n<p>Due to their poor eyesight, dugongs often use smell to locate edible plants. They also have a strong tactile sense, and feel their surroundings with their long sensitive bristles. They will dig up an entire plant and then shake it to remove the sand before eating it. They have been known to collect a pile of plants in one area before eating them. The flexible and muscular upper lip is used to dig out the plants. When eating they ingest the whole plant, including the roots, although when this is impossible they will feed on just the leaves. A wide variety of seagrass has been found in dugong stomach contents, and evidence exists they will eat algae when seagrass is scarce. Although almost completely herbivorous, they will occasionally eat invertebrates such as jellyfish, sea squirts, and shellfish.</p>\n\n<p>A heavily grazed seagrass bed looks like a lawn mown by a drunk. Dugongs graze apparently at random within a seagrass bed, their trails meandering in all directions across the bottom. This is rather an inefficient means of removing seagrass that results in numerous small tufts remaining. And this is where the dugongs derive some advantage from their inefficiency. The species that recover most quickly from this disturbance, spreading out vegetatively from the remaining tufts, are those that dugongs like to eat. In addition, the new growth found in these areas tends to be exactly what hungry dugongs like.</p>\n\n<p>Dugongs are semi-nomadic, often travelling long distances in search of food, but staying within a certain range their entire life. Large numbers often move together from one area to another. It is thought that these movements are caused by changes in seagrass availability. Their memory allows them to return to specific points after long travels. Dugong movements mostly occur within a localised area of seagrass beds, and animals in the same region show individualistic patterns of movement.</p>\n\n<p>Recorded numbers of dugongs are generally believed to be lower than actual numbers, due to a lack of accurate surveys. Despite this, the dugong population is thought to be shrinking, with a worldwide decline of 20 per cent in the last 90 years. They have disappeared from the waters of Hong Kong, Mauritius, and Taiwan, as well as parts of Cambodia, Japan, the Philippines and Vietnam. Further disappearances are likely. (In the late 1960s, herds of up to 500 dugongs were observed off the coast of East Africa and nearby islands. However, current populations in this area are extremely small, numbering 50 and below, and it is thought likely they will become extinct. The eastern side of the Red Sea is the home of large populations numbering in the hundreds, and similar populations are thought to exist on the western side. In the 1980s, it was estimated there could be as many as 4,000 dugongs in the Red Sea. The Persian Gulf has the second-largest dugong population in the world, inhabiting most of the southern coast, and the current population is believed to be around 7,500. Australia is home to the largest population, stretching from Shark Bay in Western Australia to Moreton Bay in Queensland. The population of Shark Bay is thought to be stable with over 10,000 dugongs.)</p>\n\n<p>Experience from various parts of northern Australia suggests that Extreme weather such as cyclones and floods can destroy hundreds of square kilometres of seagrass meadows, as well as washing dugongs ashore. The recovery of seagrass meadows and the spread of seagrass into new areas, or areas where it has been destroyed, can take over a decade. For example, about 900 km2 of seagrass was lost in Hervey Bay in 1992, probably because of murky water from flooding of local rivers, and run-off turbulence from a cyclone three weeks later. Such events can cause extensive damage to seagrass communities through severe wave action, shifting sand and reduction in saltiness and light levels. Prior to the 1992 floods, the extensive seagrasses in Hervey Bay supported an estimated 1750 dugongs. Eight months after the floods the affected area was estimated to support only about 70 dugongs. Most animals presumably survived by moving to neighbouring areas. However, many died attempting to move to greener pastures, with emaciated carcasses washing up on beaches up to 900km away.</p>"
+    },
+    "partNumber": 5,
+    "instruction": "Read the following text for questions 30-35.",
+    "explanations": {
+     "q30": {
+      "text": "The passage explicitly states that dugongs prefer to eat seagrass that has a higher nitrogen content and a lower amount of fibre. That's why the correct answer is 'nitrogen'.",
+      "quote": "Dugongs do not eat all species of seagrass, preferring seagrass of higher nitrogen and lower fibre content."
+     },
+     "q31": {
+      "text": "The text explains that because dugongs have poor eyesight, they use their long, sensitive bristles to feel and explore their environment. That's why the correct answer is 'bristles'.",
+      "quote": "They also have a strong tactile sense, and feel their surroundings with their long sensitive bristles."
+     },
+     "q32": {
+      "text": "The passage describes the meandering paths that dugongs create while grazing on the sea bottom as 'trails'. That's why the correct answer is 'trails'.",
+      "quote": "Dugongs graze apparently at random within a seagrass bed, their trails meandering in all directions across the bottom."
+     },
+     "q33": {
+      "text": "The passage explains that the dugongs' inefficient grazing leaves behind many small bunches of seagrass on the seafloor. That's why the correct answer is 'tufts'.",
+      "quote": "This is rather an inefficient means of removing seagrass that results in numerous small tufts remaining."
+     },
+     "q34": {
+      "text": "The passage dedicates a paragraph to explaining how extreme weather events like cyclones and floods destroy large areas of seagrass, the dugongs' main food source. That's why the correct answer is B.",
+      "quote": "Experience from various parts of northern Australia suggests that Extreme weather such as cyclones and floods can destroy hundreds of square kilometres of seagrass meadows, as well as washing dugongs ashore."
+     },
+     "q35": {
+      "text": "The passage provides a comprehensive overview of dugongs, covering their biology, diet, behavior, and population status in a factual, descriptive manner. The main goal is to inform. That's why the correct answer is B.",
+      "quote": "Dugongs are herbivorous mammals that spend their entire lives in the sea."
+     }
+    },
+    "questionRange": "30-35",
+    "questionSections": [
+     {
+      "type": "gap-fill",
+      "title": "Questions 30-33: Gap Filling Section",
+      "questions": [
+       {
+        "id": 30,
+        "hint": "noun - chemical element"
+       },
+       {
+        "id": 31,
+        "hint": "noun - hair-like structures"
+       },
+       {
+        "id": 32,
+        "hint": "noun - paths"
+       },
+       {
+        "id": 33,
+        "hint": "noun - small bunches"
+       }
+      ],
+      "instruction": "Fill in the missing information in the numbered spaces. Write no more than ONE WORD and/or A NUMBER for each question.",
+      "summaryText": "<p>Dugongs are herbivorous mammals that spend their entire lives in the sea. Yet Dugongs are picky on their feeding Seagrass, and only chose seagrass with higher <span class=\"gap-input\" data-gap=\"30\">_____(30)_____</span> and lower fibre. To compensate for their poor eyesight, they use their sensitive <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span> to feel their surroundings. It is like Dugongs are \"farming\" seagrass. They often leave <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span> randomly in all directions across the sea bed. Dugongs prefer eating the newly grew seagrass recovering from the tiny <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span> left behind by the grazing dugongs.</p>"
+     },
+     {
+      "type": "mcq",
+      "title": "Questions 34-35: Multiple Choice",
+      "questions": [
+       {
+        "id": 34,
+        "text": "The writer in emphasises in the passage that…",
+        "options": [
+         {
+          "text": "We may never know the actual numbers of dugongs in the future",
+          "letter": "A"
+         },
+         {
+          "text": "Seagrass meadows are getting destroyed by saltiness, floods and cyclones",
+          "letter": "B"
+         },
+         {
+          "text": "Dugong habitat is destroyed after humans started to pollute the ocean",
+          "letter": "C"
+         },
+         {
+          "text": "After floods, Dugong doesn't move away from their habitat and therefore dies soon after.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 35,
+        "text": "What is the writer's purpose in the reading passage?",
+        "options": [
+         {
+          "text": "to raise awareness of dugongs and their precious habitat",
+          "letter": "A"
+         },
+         {
+          "text": "to give information about unique species",
+          "letter": "B"
+         },
+         {
+          "text": "to criticise the flooding of the seas",
+          "letter": "C"
+         },
+         {
+          "text": "to argue about the future of the sea",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "For questions 34-35, choose the correct answer A, B, C, or D."
+     }
+    ]
+   }
+  ],
+  "examDate": "2026-03-01",
+  "testInfo": {
+   "parts": 5,
+   "title": "CEFR B1-B2-C1 Reading Test 06",
+   "totalTime": 60,
+   "totalQuestions": 35
+  }
+ },
+ "created_at": "2026-05-12T16:21:12.103568+00:00",
+ "updated_at": "2026-10-11T11:36:57.594573+00:00"
+}

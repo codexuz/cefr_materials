@@ -1,0 +1,909 @@
+{
+ "id": 2250,
+ "mock_type": "ket-reading-writing",
+ "mock_number": 16,
+ "title": "KET Reading & Writing — Test 16",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "match-notices",
+    "items": [
+     {
+      "id": 1,
+      "answer": "C",
+      "prompt": "You can listen to a writer here one evening this week."
+     },
+     {
+      "id": 2,
+      "answer": "F",
+      "prompt": "If you have lost a book, call this number."
+     },
+     {
+      "id": 3,
+      "answer": "G",
+      "prompt": "Always keep your bags with you."
+     },
+     {
+      "id": 4,
+      "answer": "A",
+      "prompt": "When you have finished reading, put back all the books."
+     },
+     {
+      "id": 5,
+      "answer": "E",
+      "prompt": "You can eat lunch during this meeting."
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "B",
+     "number": 0,
+     "prompt": "For cheaper tickets, travel from Monday to Friday."
+    },
+    "notices": [
+     {
+      "text": "STUDENT LIBRARY\nReturn books to shelves after use",
+      "letter": "A"
+     },
+     {
+      "text": "All flights half price\n(weekdays only)",
+      "letter": "B"
+     },
+     {
+      "text": "THURSDAY 8 PM\nMARTIN BANKS WILL READ FROM HIS\nLATEST BOOK",
+      "letter": "C"
+     },
+     {
+      "text": "Only take small bags\ninto the library",
+      "letter": "D"
+     },
+     {
+      "text": "LANGUAGE CLUB\nEnglish Conversation: 1–2 pm Fridays\n— Bring sandwiches!",
+      "letter": "E"
+     },
+     {
+      "text": "Dictionary found. Phone Simon\non 529164 to get it back.",
+      "letter": "F"
+     },
+     {
+      "text": "CITY AIRPORT\nDO NOT LEAVE YOUR LUGGAGE\nUNATTENDED",
+      "letter": "G"
+     },
+     {
+      "text": "CONCERT TICKET OFFICE\nCLOSED FOR LUNCH\n24 HOUR BOOKING LINE: 0845 388420",
+      "letter": "H"
+     }
+    ],
+    "partNumber": 1,
+    "instruction": [
+     "Which notice (A–H) says this (1–5)?",
+     "For questions 1–5, mark the correct letter A–H on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "mcq-gap-fill-sentences",
+    "items": [
+     {
+      "id": 6,
+      "answer": "A",
+      "options": [
+       {
+        "text": "get",
+        "letter": "A"
+       },
+       {
+        "text": "come",
+        "letter": "B"
+       },
+       {
+        "text": "put",
+        "letter": "C"
+       }
+      ],
+      "sentence": "I finished my classes at 5 and went home to _____ ready for the concert."
+     },
+     {
+      "id": 7,
+      "answer": "C",
+      "options": [
+       {
+        "text": "finding",
+        "letter": "A"
+       },
+       {
+        "text": "keeping",
+        "letter": "B"
+       },
+       {
+        "text": "looking",
+        "letter": "C"
+       }
+      ],
+      "sentence": "I spent half an hour _____ for the tickets."
+     },
+     {
+      "id": 8,
+      "answer": "B",
+      "options": [
+       {
+        "text": "slowly",
+        "letter": "A"
+       },
+       {
+        "text": "late",
+        "letter": "B"
+       },
+       {
+        "text": "soon",
+        "letter": "C"
+       }
+      ],
+      "sentence": "The concert started at 8 and I didn't want to arrive _____ for the first band."
+     },
+     {
+      "id": 9,
+      "answer": "A",
+      "options": [
+       {
+        "text": "loud",
+        "letter": "A"
+       },
+       {
+        "text": "bright",
+        "letter": "B"
+       },
+       {
+        "text": "strong",
+        "letter": "C"
+       }
+      ],
+      "sentence": "The music was very _____ so I had to shout to my friends."
+     },
+     {
+      "id": 10,
+      "answer": "A",
+      "options": [
+       {
+        "text": "had",
+        "letter": "A"
+       },
+       {
+        "text": "made",
+        "letter": "B"
+       },
+       {
+        "text": "did",
+        "letter": "C"
+       }
+      ],
+      "sentence": "I _____ an excellent time at the concert."
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "options": [
+      {
+       "text": "went",
+       "letter": "A"
+      },
+      {
+       "text": "watched",
+       "letter": "B"
+      },
+      {
+       "text": "saw",
+       "letter": "C"
+      }
+     ],
+     "sentence": "I _____ to a pop concert with some friends last Friday."
+    },
+    "partNumber": 2,
+    "instruction": [
+     "Read the sentences about going to a concert.",
+     "Choose the best word (A, B or C) for each space.",
+     "For questions 6–10, mark A, B or C on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-response",
+    "items": [
+     {
+      "id": 11,
+      "answer": "B",
+      "prompt": "I don't think I can come to the concert.",
+      "options": [
+       {
+        "text": "What time will you arrive?",
+        "letter": "A"
+       },
+       {
+        "text": "Are you sure you can?",
+        "letter": "B"
+       },
+       {
+        "text": "Do you think you can?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "answer": "C",
+      "prompt": "Let's have supper now.",
+      "options": [
+       {
+        "text": "You aren't eating.",
+        "letter": "A"
+       },
+       {
+        "text": "There aren't any.",
+        "letter": "B"
+       },
+       {
+        "text": "Bill isn't here yet.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "answer": "A",
+      "prompt": "Have you shut the windows?",
+      "options": [
+       {
+        "text": "I'll just check.",
+        "letter": "A"
+       },
+       {
+        "text": "You don't remember.",
+        "letter": "B"
+       },
+       {
+        "text": "It isn't open.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "answer": "A",
+      "prompt": "My street is too noisy.",
+      "options": [
+       {
+        "text": "That's a pity!",
+        "letter": "A"
+       },
+       {
+        "text": "I'll go.",
+        "letter": "B"
+       },
+       {
+        "text": "Be careful!",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "answer": "A",
+      "prompt": "Can I speak to John, please?",
+      "options": [
+       {
+        "text": "Speaking.",
+        "letter": "A"
+       },
+       {
+        "text": "It doesn't matter.",
+        "letter": "B"
+       },
+       {
+        "text": "How are you?",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "prompt": "Where do you come from?",
+     "options": [
+      {
+       "text": "New York.",
+       "letter": "A"
+      },
+      {
+       "text": "School.",
+       "letter": "B"
+      },
+      {
+       "text": "Home.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partLetter": "a",
+    "partNumber": 3,
+    "instruction": [
+     "Complete the five conversations.",
+     "For questions 11–15, mark A, B or C on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "type": "match-dialogue",
+    "items": [
+     {
+      "id": 16,
+      "answer": "H"
+     },
+     {
+      "id": 17,
+      "answer": "D"
+     },
+     {
+      "id": 18,
+      "answer": "G"
+     },
+     {
+      "id": 19,
+      "answer": "B"
+     },
+     {
+      "id": 20,
+      "answer": "F"
+     }
+    ],
+    "example": {
+     "answer": "C",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "I don't like history much.",
+      "letter": "A"
+     },
+     {
+      "text": "What about your parents?",
+      "letter": "B"
+     },
+     {
+      "text": "Of course you can. What's the problem?",
+      "letter": "C"
+     },
+     {
+      "text": "Well, that's an interesting and useful science subject.",
+      "letter": "D"
+     },
+     {
+      "text": "Where will you study?",
+      "letter": "E"
+     },
+     {
+      "text": "I agree, money is quite important but I think your teachers are right.",
+      "letter": "F"
+     },
+     {
+      "text": "Have you talked to your teachers about it?",
+      "letter": "G"
+     },
+     {
+      "text": "Which subject are you best at?",
+      "letter": "H"
+     }
+    ],
+    "dialogue": [
+     {
+      "line": "Helen, you went to university, didn't you? Can I ask you something?",
+      "speaker": "Amy"
+     },
+     {
+      "gap": 0,
+      "speaker": "Helen"
+     },
+     {
+      "line": "I can't decide what subject to study at university.",
+      "speaker": "Amy"
+     },
+     {
+      "gap": 16,
+      "speaker": "Helen"
+     },
+     {
+      "line": "I always do well in chemistry exams.",
+      "speaker": "Amy"
+     },
+     {
+      "gap": 17,
+      "speaker": "Helen"
+     },
+     {
+      "line": "Yes, I agree. I don't like it. What I really enjoy studying is history.",
+      "speaker": "Amy"
+     },
+     {
+      "gap": 18,
+      "speaker": "Helen"
+     },
+     {
+      "line": "Yes. They all say I should choose the subject I enjoy the most.",
+      "speaker": "Amy"
+     },
+     {
+      "gap": 19,
+      "speaker": "Helen"
+     },
+     {
+      "line": "Well, Dad wants me to do business studies so I can earn a lot like you!",
+      "speaker": "Amy"
+     },
+     {
+      "gap": 20,
+      "speaker": "Helen"
+     },
+     {
+      "line": "So I should choose history then?",
+      "speaker": "Amy"
+     }
+    ],
+    "partLetter": "b",
+    "partNumber": 3,
+    "instruction": [
+     "Complete the conversation between two friends.",
+     "What does Helen say to Amy?",
+     "For questions 16–20, mark the correct letter A–H on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "type": "mcq-passage-rws",
+    "items": [
+     {
+      "id": 21,
+      "answer": "B",
+      "statement": "Jenny only gets wool from her sheep once a year."
+     },
+     {
+      "id": 22,
+      "answer": "C",
+      "statement": "It took Jenny a long time to make the sweaters."
+     },
+     {
+      "id": 23,
+      "answer": "A",
+      "statement": "Jenny couldn't sell the sweaters because it was the wrong time of year."
+     },
+     {
+      "id": 24,
+      "answer": "C",
+      "statement": "Jenny decided that socks were easier to make than sweaters."
+     },
+     {
+      "id": 25,
+      "answer": "B",
+      "statement": "Corryvale socks are still made on the farm."
+     },
+     {
+      "id": 26,
+      "answer": "B",
+      "statement": "You can't buy Corryvale socks for children."
+     },
+     {
+      "id": 27,
+      "answer": "A",
+      "statement": "People from many different countries buy Corryvale socks."
+     }
+    ],
+    "label": "PART 4",
+    "article": "Corryvale Farm is in the west of England. Stephen and Jenny Blackler keep cows and chickens and sell milk and eggs. But most of their money comes from Jenny's sheep.\n\nShe has 80 sheep and each one has enough wool for six sweaters. Every six months, Stephen cuts this wool off the sheep so they won't get too warm. Three years ago, Jenny made some sweaters with the wool and tried to sell them at country markets. But it was summer and the weather was hot and people didn't want to buy sweaters. She then made some socks. Everybody loved them because they were cheap, strong and easy to wash.\n\nThat's how Jenny's business started. At first she made the socks at home, but soon she had thousands of customers so she had to send the wool to a factory, where all the socks are now made on machines. There are six colours, five sizes for all ages, and different shapes for sportsmen and skiers. Jenny is busiest at Christmas because Corryvale socks are a favourite present. On the walls of Jenny's office, there are lots of letters from happy customers all over the world.",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "statement": "The Blacklers earn more from their sheep than from their other animals."
+    },
+    "partNumber": 4,
+    "instruction": [
+     "Read the article about Corryvale Farm.",
+     "Are sentences 21–27 'Right' (A) or 'Wrong' (B)?",
+     "If there is not enough information to answer 'Right' (A) or 'Wrong' (B), choose 'Doesn't say' (C).",
+     "For questions 21–27, mark A, B or C on your answer sheet."
+    ],
+    "articleTitle": "Corryvale Farm",
+    "questionsLabel": "QUESTIONS 21–27"
+   },
+   {
+    "type": "mcq-cloze-passage",
+    "items": [
+     {
+      "id": 28,
+      "answer": "A",
+      "options": [
+       {
+        "text": "there",
+        "letter": "A"
+       },
+       {
+        "text": "here",
+        "letter": "B"
+       },
+       {
+        "text": "it",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 29,
+      "answer": "B",
+      "options": [
+       {
+        "text": "that",
+        "letter": "A"
+       },
+       {
+        "text": "if",
+        "letter": "B"
+       },
+       {
+        "text": "so",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 30,
+      "answer": "B",
+      "options": [
+       {
+        "text": "go",
+        "letter": "A"
+       },
+       {
+        "text": "going",
+        "letter": "B"
+       },
+       {
+        "text": "went",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 31,
+      "answer": "A",
+      "options": [
+       {
+        "text": "were",
+        "letter": "A"
+       },
+       {
+        "text": "was",
+        "letter": "B"
+       },
+       {
+        "text": "are",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 32,
+      "answer": "C",
+      "options": [
+       {
+        "text": "those",
+        "letter": "A"
+       },
+       {
+        "text": "his",
+        "letter": "B"
+       },
+       {
+        "text": "their",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 33,
+      "answer": "C",
+      "options": [
+       {
+        "text": "any",
+        "letter": "A"
+       },
+       {
+        "text": "every",
+        "letter": "B"
+       },
+       {
+        "text": "some",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 34,
+      "answer": "A",
+      "options": [
+       {
+        "text": "near",
+        "letter": "A"
+       },
+       {
+        "text": "next",
+        "letter": "B"
+       },
+       {
+        "text": "at",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 35,
+      "answer": "C",
+      "options": [
+       {
+        "text": "to",
+        "letter": "A"
+       },
+       {
+        "text": "for",
+        "letter": "B"
+       },
+       {
+        "text": "about",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 5",
+    "example": {
+     "answer": "B",
+     "number": 0,
+     "options": [
+      {
+       "text": "after",
+       "letter": "A"
+      },
+      {
+       "text": "ago",
+       "letter": "B"
+      },
+      {
+       "text": "since",
+       "letter": "C"
+      }
+     ]
+    },
+    "passage": "Visiting the theatre in London 400 years {0} was very different from visiting a modern theatre.\n\nThe building was round, {28} was no roof, and people got cold and wet {29} the weather was bad. The queen loved {30} to the Globe Theatre, by the River Thames, to see the plays of William Shakespeare. All the actors at that time {31} men. The visitors ate, talked to {32} friends, walked about during the show, and {33} people even threw things at the actors!\n\nToday, it is still possible to visit the Globe Theatre. A new theatre stands in the same place {34} the river. You can enjoy a Shakespeare play there or just learn {35} life in the seventeenth century.",
+    "partNumber": 5,
+    "instruction": [
+     "Read the article about the Globe Theatre.",
+     "Choose the best word (A, B or C) for each space.",
+     "For questions 28–35, mark A, B or C on your answer sheet."
+    ],
+    "passageTitle": "The Globe Theatre",
+    "questionsLabel": "QUESTIONS 28–35"
+   },
+   {
+    "type": "vocab-first-letter",
+    "items": [
+     {
+      "id": 36,
+      "answer": "bowl",
+      "prompt": "Soup is usually put in this.",
+      "letters": 4,
+      "firstLetter": "b"
+     },
+     {
+      "id": 37,
+      "answer": "vegetable",
+      "prompt": "A carrot or an onion is an example of this.",
+      "letters": 9,
+      "firstLetter": "v"
+     },
+     {
+      "id": 38,
+      "answer": "waiter",
+      "prompt": "If you eat in a restaurant, this person brings your food to you.",
+      "letters": 6,
+      "firstLetter": "w"
+     },
+     {
+      "id": 39,
+      "answer": "lemon",
+      "prompt": "You can drink the juice of this yellow fruit, but it isn't sweet.",
+      "letters": 5,
+      "firstLetter": "l"
+     },
+     {
+      "id": 40,
+      "answer": "fry",
+      "prompt": "To make chips, you cut up potatoes, put them in oil and do this.",
+      "letters": 3,
+      "firstLetter": "f"
+     }
+    ],
+    "label": "PART 6",
+    "example": {
+     "answer": "knife",
+     "number": 0,
+     "prompt": "You need this to cut up meat.",
+     "firstLetter": "k"
+    },
+    "partNumber": 6,
+    "instruction": [
+     "Read the descriptions of some food and drink words.",
+     "What is the word for each one?",
+     "The first letter is already there. There is one space for each other letter in the word.",
+     "For questions 36–40, write the words on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 36–40"
+   },
+   {
+    "type": "open-cloze-letter",
+    "items": [
+     {
+      "id": 41,
+      "answer": "ago"
+     },
+     {
+      "id": 42,
+      "answer": "it"
+     },
+     {
+      "id": 43,
+      "answer": "every"
+     },
+     {
+      "id": 44,
+      "answer": "are"
+     },
+     {
+      "id": 45,
+      "answer": "last"
+     },
+     {
+      "id": 46,
+      "answer": "the"
+     },
+     {
+      "id": 47,
+      "answer": "colours"
+     },
+     {
+      "id": 48,
+      "answer": "is"
+     },
+     {
+      "id": 49,
+      "answer": "to"
+     },
+     {
+      "id": 50,
+      "answer": "of"
+     }
+    ],
+    "label": "PART 7",
+    "example": {
+     "answer": "in",
+     "number": 0
+    },
+    "letters": [
+     {
+      "body": "I'm having a good holiday (Example: in) Australia. When we arrived two weeks {41} the weather was bad and {42} was cold. Now the weather is better and we go to the beach {43} day.\n\nThis week we {44} staying in Sydney but {45} week we went to the Great Barrier Reef. Because {46} water was so warm, I loved swimming there. The fish were all different {47} — red, yellow, purple. Australia {48} very beautiful. We don't want {49} come home!\n\nSee you at the end {50} September.",
+      "closing": "Sue",
+      "greeting": "Dear Jeff,"
+     }
+    ],
+    "partNumber": 7,
+    "instruction": [
+     "Complete this letter.",
+     "Write ONE word for each space.",
+     "For questions 41–50, write the words on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 41–50"
+   },
+   {
+    "note": {
+     "body": "",
+     "dateLine": "",
+     "signature": ""
+    },
+    "rows": [
+     {
+      "label": "Customer's name:",
+      "prefilled": "Jane Usher"
+     },
+     {
+      "id": 51,
+      "label": "Daytime phone number:",
+      "answer": "922769"
+     },
+     {
+      "id": 52,
+      "label": "Name of book:",
+      "answer": "A Boy's Life"
+     },
+     {
+      "id": 53,
+      "label": "Name of writer:",
+      "answer": "Mick Blake"
+     },
+     {
+      "id": 54,
+      "label": "Price:",
+      "answer": "12.99",
+      "suffix": "£"
+     },
+     {
+      "id": 55,
+      "label": "Date needed by:",
+      "answer": "19 December"
+     }
+    ],
+    "type": "info-transfer-notes",
+    "label": "PART 8",
+    "notice": {
+     "body": "A BOY'S LIFE\n£12.99   NEW\n\n—————————————\nFrom: Ron Baker\nTo:   Jane Usher\n\nCan you get Mick Blake's new book for me? I think it costs £15. I can't remember what it is called. I liked his other book, 'Football Families'.\n\nI'm going to go on holiday on 20th December so I need it by the 19th.\n\nIf there's a problem, phone me at work (922769) or in the evening, at home (785541).\n\nThanks,\nJane Usher",
+     "title": "Book advertisement + e-mail"
+    },
+    "notesTitle": "BOOK ORDER FORM",
+    "partNumber": 8,
+    "instruction": [
+     "Read the advertisement for a book and the e-mail.",
+     "Fill in the information on the order form.",
+     "For questions 51–55, write the information on your answer sheet."
+    ],
+    "notesSubtitle": "",
+    "questionsLabel": "QUESTIONS 51–55"
+   },
+   {
+    "type": "writing-postcard",
+    "items": [
+     {
+      "id": 56,
+      "type": "free-text",
+      "answer": "Dear Ally,\nAt the party I ate a pizza with my friends, Jean and Marie. We saw a film and that I had presents: a lot of CDs and a computer game. It was very good.\nBey\nLuke",
+      "maxWords": 35,
+      "minWords": 25
+     }
+    ],
+    "label": "PART 9",
+    "footer": [
+     "Write 25–35 words.",
+     "Write the note on your answer sheet."
+    ],
+    "prompt": "Sorry I couldn't come to your birthday party.\n\nWhat did you do at the party? Who was there? What presents did you get?",
+    "wordCount": "25–35 words",
+    "partNumber": 9,
+    "instruction": [
+     "Read this note from your friend, Ally.",
+     "Write a note to Ally and answer her questions."
+    ],
+    "questionsLabel": "QUESTION 56",
+    "promptSignature": "Ally"
+   }
+  ],
+  "testInfo": {
+   "id": "ket-rw-16",
+   "level": "A2",
+   "paper": "Paper 1",
+   "parts": 9,
+   "title": "KET Reading & Writing — Test 16",
+   "totalTime": 70,
+   "totalQuestions": 56
+  }
+ },
+ "created_at": "2026-10-14T06:45:07.352039+00:00",
+ "updated_at": "2026-10-14T06:46:54.455171+00:00"
+}

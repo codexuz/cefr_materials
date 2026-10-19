@@ -1,0 +1,685 @@
+{
+ "id": 2291,
+ "mock_type": "pet-reading",
+ "mock_number": 1,
+ "title": "PET Reading — Test 1",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "sign-mcq",
+    "items": [
+     {
+      "id": 1,
+      "image": "https://audio.mock-stream.com/PET-Reading/test1/q1.png",
+      "answer": "C",
+      "prompt": " ",
+      "options": [
+       {
+        "text": "Lost locker keys can be replaced for a charge of 6€.",
+        "letter": "A"
+       },
+       {
+        "text": "You cannot collect your locker key until you have paid a 6€ deposit.",
+        "letter": "B"
+       },
+       {
+        "text": "We cannot return your 6€ deposit if you lose your locker key.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "image": "https://audio.mock-stream.com/PET-Reading/test1/q2.png",
+      "answer": "B",
+      "prompt": " ",
+      "options": [
+       {
+        "text": "Hannah has got a purple 'Fast Boys' T-shirt and wants one in another colour.",
+        "letter": "A"
+       },
+       {
+        "text": "Hannah would rather have a purple 'Fast Boys' T-shirt if possible.",
+        "letter": "B"
+       },
+       {
+        "text": "Hannah only wants a 'Fast Boys' T-shirt if it's a purple one.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 3,
+      "image": "https://audio.mock-stream.com/PET-Reading/test1/q3.png",
+      "answer": "B",
+      "prompt": "What has changed about Class 5's party?",
+      "options": [
+       {
+        "text": "the time",
+        "letter": "A"
+       },
+       {
+        "text": "the place",
+        "letter": "B"
+       },
+       {
+        "text": "the refreshments",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 4,
+      "image": "https://audio.mock-stream.com/PET-Reading/test1/q4.png",
+      "answer": "B",
+      "prompt": "Mum is writing to",
+      "options": [
+       {
+        "text": "tell Becky to stay at home to see her aunt.",
+        "letter": "A"
+       },
+       {
+        "text": "ask Becky to tidy the house before she leaves.",
+        "letter": "B"
+       },
+       {
+        "text": "remind Becky to go to her aunt's house.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 5,
+      "image": "https://audio.mock-stream.com/PET-Reading/test1/q5.png",
+      "answer": "A",
+      "prompt": "The school fitness centre will",
+      "options": [
+       {
+        "text": "change its opening hours at the end of August.",
+        "letter": "A"
+       },
+       {
+        "text": "have shorter opening hours until the end of August.",
+        "letter": "B"
+       },
+       {
+        "text": "open again to students at the end of August.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "image": "https://audio.mock-stream.com/PET-Reading/test1/q0.png",
+     "answer": "A",
+     "number": 0,
+     "prompt": "LOST FLOPPY DISC — Lost on Tuesday - contains important schoolwork. Hand in to office.",
+     "options": [
+      {
+       "text": "Go to the office if you have lost a floppy disc.",
+       "letter": "A"
+      },
+      {
+       "text": "Make sure all schoolwork is given in on floppy disc to the office.",
+       "letter": "B"
+      },
+      {
+       "text": "If you have found a floppy disc, please leave it at the office.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partNumber": 1,
+    "instruction": [
+     "Look at the text in each question.",
+     "What does it say?",
+     "Mark the correct letter A, B or C on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "match-people-texts",
+    "items": [
+     {
+      "id": 6,
+      "name": "Alice",
+      "image": "https://audio.mock-stream.com/PET-Reading/test1/p6.jpg",
+      "answer": "E",
+      "description": "Alice wants a course to help her with her drawing skills, particularly with drawing the latest styles of clothes, shoes and bags, because she wants to study this later at college."
+     },
+     {
+      "id": 7,
+      "name": "Darius",
+      "image": "https://audio.mock-stream.com/PET-Reading/test1/p7.jpg",
+      "answer": "C",
+      "description": "Darius loves making comic books, but isn't confident about his drawing. He wants to draw superheroes and animals and create adventures about them, but doesn't want to display his work."
+     },
+     {
+      "id": 8,
+      "name": "Cassie",
+      "image": "https://audio.mock-stream.com/PET-Reading/test1/p8.jpg",
+      "answer": "B",
+      "description": "Cassie enjoys making pictures and objects from different materials. During the course she'd like to use her love of sport in her designs, and visit an exhibition to get new ideas."
+     },
+     {
+      "id": 9,
+      "name": "Marc",
+      "image": "https://audio.mock-stream.com/PET-Reading/test1/p9.jpg",
+      "answer": "D",
+      "description": "Marc is talented at drawing, but also likes filming his friends on an old digital camera. He wants to develop this skill by learning to use more advanced equipment, and prepare for further study."
+     },
+     {
+      "id": 10,
+      "name": "Harry",
+      "image": "https://audio.mock-stream.com/PET-Reading/test1/p10.jpg",
+      "answer": "H",
+      "description": "Harry has done a course about printing on paper, and would like to learn how to print on other materials. He also wants to produce something to take home and wear."
+     }
+    ],
+    "label": "PART 2",
+    "texts": [
+     {
+      "body": "This course concentrates on teaching drawing and painting, and you'll use your new skills to make a wall poster on the theme of animals, to take home. And we've got lots of picture books from galleries around the world to give you ideas! There'll be an exhibition of everyone's work at the end, too.",
+      "title": "Wild Art",
+      "letter": "A"
+     },
+     {
+      "body": "Come and make a bag to keep your school games clothes in! We supply lots of colourful wool and printed cotton — you choose the design and colour (like your favourite football or hockey team colours!). There'll also be a trip to a gallery to help you get creative in your designs.",
+      "title": "Colourscape",
+      "letter": "B"
+     },
+     {
+      "body": "This course is all about telling good stories in pictures. We'll be cartoon films to watch, and instruction in how to draw your favourite characters — but your imagination is much more important than your drawing skills here! The course includes a visit to a cartoon museum.",
+      "title": "Create!",
+      "letter": "C"
+     },
+     {
+      "body": "You'll work on developing creative skills, like printing, photography, cartoons and movie-making, using the latest technology. This course is great for anyone wanting to take these subjects at college. Good drawing skills are helpful on this course, and students' work will be put into a book, where suitable, for everyone to buy.",
+      "title": "Art Attack",
+      "letter": "D"
+     },
+     {
+      "body": "This course will concentrate on different drawing techniques, including using inks and colour. We'll get you to draw live models wearing designer fashions and sportswear — so if you like designing fashion and think your future is in this area, then this course is for you!",
+      "title": "Art Matters",
+      "letter": "E"
+     },
+     {
+      "body": "This fun course shows you how to design and make fashion jewellery from natural materials, and particularly how to use photography to help you get ideas for your designs. So if you have your own camera, bring it along!",
+      "title": "Art Magic",
+      "letter": "F"
+     },
+     {
+      "body": "Ever wondered what your comic stories would look like on film? Here's your chance to find out! Bring along your own comic drawings or prints — good quality ones if possible — and we'll transfer the action from your page onto the screen! Film show of the best cartoons at the end!",
+      "title": "Arts Centre",
+      "letter": "G"
+     },
+     {
+      "body": "Bring along a clean white T-shirt for this fun course! Using printing inks and paints, we'll show you how to transfer a picture onto your T-shirt and create a special artwork that you can put on for everyone to admire!",
+      "title": "Rainbow",
+      "letter": "H"
+     }
+    ],
+    "partNumber": 2,
+    "textsTitle": "Short Art Courses",
+    "instruction": [
+     "The young people below all want to do an art course during their school holidays.",
+     "On the opposite page there are descriptions of eight short art courses.",
+     "Decide which course would be the most suitable for the following people.",
+     "For questions 6–10, mark the correct letter (A–H) on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "true-false",
+    "items": [
+     {
+      "id": 11,
+      "answer": "A",
+      "statement": "Paul has family connections with the place he first visited in New Zealand."
+     },
+     {
+      "id": 12,
+      "answer": "B",
+      "statement": "Paul and his family chose to go to Kaikoura as part of their tour."
+     },
+     {
+      "id": 13,
+      "answer": "B",
+      "statement": "As soon as Paul arrived in Kaikoura he knew he might see some dolphins there."
+     },
+     {
+      "id": 14,
+      "answer": "B",
+      "statement": "The weather got worse during Paul's boat trip."
+     },
+     {
+      "id": 15,
+      "answer": "A",
+      "statement": "Paul had expected to go swimming closer to land."
+     },
+     {
+      "id": 16,
+      "answer": "A",
+      "statement": "Paul was beginning to feel unhappy about the trip until someone saw the dolphins."
+     },
+     {
+      "id": 17,
+      "answer": "A",
+      "statement": "Paul believed the dolphins were inviting him to join them in the water."
+     },
+     {
+      "id": 18,
+      "answer": "B",
+      "statement": "Paul felt that he had failed to communicate with the dolphins."
+     },
+     {
+      "id": 19,
+      "answer": "B",
+      "statement": "One dolphin copied exactly what Paul did in the water."
+     },
+     {
+      "id": 20,
+      "answer": "A",
+      "statement": "Paul was pleased when the guides finally called them back onto the boat."
+     }
+    ],
+    "label": "PART 3",
+    "passage": "My family have always been huge fans of New Zealand — my mum comes from the capital — so we saved up and went for a holiday there. We started with a week in the city she grew up in. After that, we toured around for a while before ending up by chance in Kaikoura, a small town on the coast. The first evening it seemed a rather dull place, but the next day I remembered what I'd read about it — that it was often possible to see dolphins and whales there! I'll always think of Kaikoura as the place where I finally achieved my lifelong ambition — to swim with wild dolphins.\n\nMy family and I set off on a dolphin trip on a cold, grey day with a number of other people on a small boat. However, the sky soon turned blue, and we raced across the waves in the sunshine until we finally reached the place where we were supposed to go swimming. To my surprise, this was more than 40 km from land. I was quite cold by this time, and really starting to wonder why my family had made me come all the way out there, when suddenly someone shouted 'Dolphins!'.\n\nAll I could see were fins everywhere — there were more than a hundred dolphins, all swimming towards our boat! Many of them were jumping around in the water as if they were asking us to come and play. I put on my snorkel and jumped into the sea. Everywhere I looked, all I could see was dolphins, swimming under me and round me. Then I remembered the guide had told us to make sounds in the water to attract them. So I did and actually heard them making similar sounds, as if they were trying to answer me. I even made eye contact with one dolphin, and watched it carefully as I swam round in a circle. Amazingly, the dolphin almost followed me, but then changed its mind, although it kept eye contact with me all the time. It really made me realise how intelligent and beautiful these creatures are.\n\nThen after an hour of swimming the guides called us to get back onto the boat. Although I had enjoyed myself, I was keen to leave the water by then as I was very cold. As I got dry I noticed that everyone on board was smiling and I realised what a very special moment we'd had.\n\nI'll never forget that experience, and Kaikoura will always have a special place in my heart.",
+    "partNumber": 3,
+    "instruction": [
+     "Look at the sentences below about a family trip to see dolphins.",
+     "Read the text on the opposite page to decide if each sentence is correct or incorrect.",
+     "If it is correct, mark A on your answer sheet.",
+     "If it is not correct, mark B on your answer sheet."
+    ],
+    "passageImage": "https://audio.mock-stream.com/PET-Reading/test1/passage3.jpg",
+    "passageTitle": "Dolphin Trip",
+    "questionsLabel": "QUESTIONS 11–20",
+    "passageSubtitle": "By Paul Hannan"
+   },
+   {
+    "type": "passage-mcq",
+    "items": [
+     {
+      "id": 21,
+      "answer": "C",
+      "prompt": "What is Jessica trying to do in her essay?",
+      "options": [
+       {
+        "text": "explain what first attracted her to Bond films",
+        "letter": "A"
+       },
+       {
+        "text": "tell readers about the Bond DVDs she owns",
+        "letter": "B"
+       },
+       {
+        "text": "give a balanced view of a Bond film she has seen",
+        "letter": "C"
+       },
+       {
+        "text": "describe how Daniel Craig got the part of James Bond",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 22,
+      "answer": "B",
+      "prompt": "What can a reader find out from Jessica's essay?",
+      "options": [
+       {
+        "text": "whether Quantum of Solace is her favourite Bond film",
+        "letter": "A"
+       },
+       {
+        "text": "what other films Daniel Craig has made",
+        "letter": "B"
+       },
+       {
+        "text": "which other actors have played James Bond",
+        "letter": "C"
+       },
+       {
+        "text": "whether she thinks Daniel Craig is the best James Bond",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 23,
+      "answer": "A",
+      "prompt": "What does Jessica tell us about Craig in the new Bond film?",
+      "options": [
+       {
+        "text": "He performs some of the action scenes.",
+        "letter": "A"
+       },
+       {
+        "text": "He wears some stylish clothes.",
+        "letter": "B"
+       },
+       {
+        "text": "He is given a lot of lines to say.",
+        "letter": "C"
+       },
+       {
+        "text": "He looks strong and fit enough to fight the criminals.",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 24,
+      "answer": "B",
+      "prompt": "What is one problem with the film, according to Jessica?",
+      "options": [
+       {
+        "text": "It seems a bit too long.",
+        "letter": "A"
+       },
+       {
+        "text": "It's sometimes hard to understand what's happening.",
+        "letter": "B"
+       },
+       {
+        "text": "It has too much silly technology in it.",
+        "letter": "C"
+       },
+       {
+        "text": "It has jokes that aren't very funny.",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 25,
+      "answer": "C",
+      "prompt": "Which of these might appear in a magazine review of the new Bond film?",
+      "options": [
+       {
+        "text": "It's full of excitement, with Bond jumping across rooftops, so don't be disappointed by the slow start.",
+        "letter": "A"
+       },
+       {
+        "text": "The director wanted to move away from the last Bond film and include a bit less action.",
+        "letter": "B"
+       },
+       {
+        "text": "I'm not sure the title tells you much . . . but be prepared to watch a rather different kind of Bond movie.",
+        "letter": "C"
+       },
+       {
+        "text": "Daniel Craig performed well as James Bond, but the main female star was disappointing.",
+        "letter": "D"
+       }
+      ]
+     }
+    ],
+    "label": "PART 4",
+    "passage": "I'm a big fan of films featuring the spy James Bond. I've got most of them on DVD. We've recently bought Quantum of Solace, in which Daniel Craig plays the part of Bond. I don't know why the film's got that name — but it's a great movie, anyway.\n\nAll the actors who've played James Bond have been great, but Daniel Craig, who's made lots of other films, plays the part better than any of them. Even though he doesn't talk very much, I think he's the most perfect actor for the role. He even does a few of the more dangerous things in the film himself, instead of getting someone else to do them. I did wonder sometimes whether he'd be clever enough to defeat the bad people — but I'm not going to tell you the ending! The actress who stars with Craig gives a fantastic performance too — I loved all the glamorous clothes she wore!\n\nThe director probably had a hard job making this Bond film as full of action as earlier ones. But the excitement starts right at the beginning here, with a car chase along a mountain road, and plenty of other thrilling scenes, too — Bond leaping off tall buildings and so on. Unfortunately I found the story difficult to follow in places, and it also seemed to be over very quickly — it lasted under two hours. I also felt there weren't as many jokes as in the old Bond films. And where was all the ridiculous Bond equipment — the underwater car or exploding watch that everyone laughed at? This is a more serious, darker Bond film, but I still really enjoyed it.",
+    "partNumber": 4,
+    "instruction": [
+     "Read the text and questions below.",
+     "For each question, mark the correct letter A, B, C or D on your answer sheet."
+    ],
+    "passageTitle": "One to watch!",
+    "questionsLabel": "QUESTIONS 21–25",
+    "passageSubtitle": "Essay by Jessica Bourne, aged 14"
+   },
+   {
+    "type": "passage-cloze",
+    "items": [
+     {
+      "id": 26,
+      "answer": "B",
+      "options": [
+       {
+        "text": "chose",
+        "letter": "A"
+       },
+       {
+        "text": "decided",
+        "letter": "B"
+       },
+       {
+        "text": "selected",
+        "letter": "C"
+       },
+       {
+        "text": "picked",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 27,
+      "answer": "D",
+      "options": [
+       {
+        "text": "transport",
+        "letter": "A"
+       },
+       {
+        "text": "carry",
+        "letter": "B"
+       },
+       {
+        "text": "tour",
+        "letter": "C"
+       },
+       {
+        "text": "travel",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 28,
+      "answer": "C",
+      "options": [
+       {
+        "text": "said",
+        "letter": "A"
+       },
+       {
+        "text": "spoke",
+        "letter": "B"
+       },
+       {
+        "text": "told",
+        "letter": "C"
+       },
+       {
+        "text": "explained",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 29,
+      "answer": "A",
+      "options": [
+       {
+        "text": "because",
+        "letter": "A"
+       },
+       {
+        "text": "so",
+        "letter": "B"
+       },
+       {
+        "text": "but",
+        "letter": "C"
+       },
+       {
+        "text": "and",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 30,
+      "answer": "D",
+      "options": [
+       {
+        "text": "forget",
+        "letter": "A"
+       },
+       {
+        "text": "lose",
+        "letter": "B"
+       },
+       {
+        "text": "leave",
+        "letter": "C"
+       },
+       {
+        "text": "miss",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 31,
+      "answer": "B",
+      "options": [
+       {
+        "text": "further",
+        "letter": "A"
+       },
+       {
+        "text": "after",
+        "letter": "B"
+       },
+       {
+        "text": "next",
+        "letter": "C"
+       },
+       {
+        "text": "later",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 32,
+      "answer": "C",
+      "options": [
+       {
+        "text": "down",
+        "letter": "A"
+       },
+       {
+        "text": "along",
+        "letter": "B"
+       },
+       {
+        "text": "from",
+        "letter": "C"
+       },
+       {
+        "text": "away",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 33,
+      "answer": "B",
+      "options": [
+       {
+        "text": "shall",
+        "letter": "A"
+       },
+       {
+        "text": "could",
+        "letter": "B"
+       },
+       {
+        "text": "must",
+        "letter": "C"
+       },
+       {
+        "text": "would",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 34,
+      "answer": "A",
+      "options": [
+       {
+        "text": "nervous",
+        "letter": "A"
+       },
+       {
+        "text": "disappointed",
+        "letter": "B"
+       },
+       {
+        "text": "angry",
+        "letter": "C"
+       },
+       {
+        "text": "bored",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 35,
+      "answer": "C",
+      "options": [
+       {
+        "text": "knew",
+        "letter": "A"
+       },
+       {
+        "text": "found",
+        "letter": "B"
+       },
+       {
+        "text": "made",
+        "letter": "C"
+       },
+       {
+        "text": "met",
+        "letter": "D"
+       }
+      ]
+     }
+    ],
+    "label": "PART 5",
+    "example": {
+     "answer": "B",
+     "number": 0,
+     "prompt": "A which   B where   C who   D what"
+    },
+    "passage": "Last year my Dad got a new job. It was in a town (0) ___ was 100 kms from our home. Mum and Dad (26) ___ we would have to move, because it was a long way for Dad to (27) ___ every day.\n\nWhen they (28) ___ me about their plan I was upset (29) ___ . I loved my home and school. I was worried that I would (30) ___ all my friends and teachers a lot.\n\nAnyway, six months (31) ___ that, my family moved to the town of Hexford. The house was much bigger than our old one, and (32) ___ my bedroom window I (33) ___ see the sea.\n\nI wasn't looking forward to the first day at my new school. I felt really (34) ___ about meeting lots of new people. But when I got there everyone was great! My class teacher was nice and I (35) ___ friends with two girls in my class. Moving home isn't that bad, after all!",
+    "partNumber": 5,
+    "instruction": [
+     "Read the text below and choose the correct word for each space.",
+     "For each question, mark the correct letter A, B, C or D on your answer sheet."
+    ],
+    "passageTitle": "New Home – New School",
+    "questionsLabel": "QUESTIONS 26–35",
+    "passageSubtitle": "by Megan Williams, aged 13"
+   }
+  ],
+  "testInfo": {
+   "id": "pet-r-01",
+   "level": "B1",
+   "paper": "Paper 1 · Reading",
+   "parts": 5,
+   "title": "PET Reading — Test 1",
+   "totalTime": 50,
+   "totalQuestions": 35
+  }
+ },
+ "created_at": "2026-10-14T06:45:36.836023+00:00",
+ "updated_at": "2026-10-14T06:47:22.215569+00:00"
+}

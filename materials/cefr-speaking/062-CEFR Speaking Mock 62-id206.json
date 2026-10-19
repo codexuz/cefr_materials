@@ -1,0 +1,901 @@
+{
+ "id": 206,
+ "mock_type": "cefr-speaking",
+ "mock_number": 62,
+ "title": "CEFR Speaking Mock 62",
+ "status": "published",
+ "mock_data": {
+  "tags": {
+   "p2Topic": "Interacting with AI",
+   "p3Topic": "Educational TV shows",
+   "p11Topic": "Sweets, writing & music",
+   "p12Topic": "Concerts vs street music"
+  },
+  "images": {
+   "img1": "https://audio.mock-stream.com/CEFR%20Speaking%20images/speaking62/famous%20band.jpg",
+   "img2": "https://audio.mock-stream.com/CEFR%20Speaking%20images/speaking62/street%20singer.jpg",
+   "img1Alt": "A famous band performing at a large professional concert",
+   "img2Alt": "A street musician singing on the street",
+   "descImg1": "https://audio.mock-stream.com/CEFR%20Speaking%20images/speaking62/famous%20band.jpg",
+   "descImg2": "https://audio.mock-stream.com/CEFR%20Speaking%20images/speaking62/street%20singer.jpg",
+   "img1Desc": "A five-piece band play on a lit stage in a large hall. The singer holds a microphone, and there are guitarists, a drummer and a keyboard player. A big crowd watches with hands and phones raised.",
+   "img2Desc": "A young man stands on a street playing an acoustic guitar and singing into a microphone. His open guitar case on the ground holds coins and a sign reading DONATIONS APPRECIATED. People stand watching.",
+   "pairBoth": "Both photos show musicians performing live to an audience.",
+   "pairDiff": "The first shows a famous band on a big stage, the second a street singer performing outside.",
+   "descSource": "authored-2026-08-04"
+  },
+  "examDate": "2025-11-23",
+  "settings": {
+   "logoUrl": "https://audio.mock-stream.com/CEFR%20speaking%20media/WN0XY5Lv-logo.png",
+   "heading1": "Bilim va malakalarni baholash agentligi",
+   "heading2": "Chet tilini bilish darajasi",
+   "logoWording": "Mock Stream",
+   "testIdentifier": "mock_stream",
+   "telegramChannel": "@mock_stream"
+  },
+  "questions": [
+   {
+    "part": "Part 1",
+    "badge": "30s",
+    "number": 1,
+    "prompt": "What kind of sweets do you like most?",
+    "prepTime": 5,
+    "sampleA1": "<p>I like chocolate. Chocolate is good. I eat it.</p>",
+    "sampleA2": "<p>I like sweets. I like chocolate and candy. But I don't like too much sugar.</p>",
+    "sampleB1": "<p>I like sweets very much. My favorite is chocolate cake. <span class=\"ml-token adv\">For example</span>, I like chocolate cake with cream. <span class=\"ml-token adv\">However</span>, I also like ice cream. I eat sweets sometimes.</p>",
+    "sampleB2": "<span class=\"ml-token adv\">To be honest</span>, I've got a real <span class=\"ml-token colloc\">sweet tooth</span>, so I'd struggle to pick just one. But if I had to, I'd go for dark chocolate. <span class=\"ml-token linking\">The thing is</span>, it's not <span class=\"ml-token colloc\">sickly sweet</span> — it's got that slightly bitter edge that I find really <span class=\"ml-token colloc\">moreish</span>. I also love homemade cookies, <span class=\"ml-token colloc\">fresh out of the oven</span>.",
+    "audioFile": "https://audio.mock-stream.com/CEFR%20speaking%20media/cefr-speaking-mock-62-q1.mp3",
+    "hasImages": false,
+    "speakTime": 30,
+    "uzSampleA1": "<p>Men shokoladni yaxshi ko'raman. Shokolad yaxshi. Men uni yeyman.</p>",
+    "uzSampleA2": "<p>Men shirinliklarni yaxshi ko'raman. Men shokolad va konfetlarni yaxshi ko'raman. Lekin men juda ko'p shakarni yoqtirmayman.</p>",
+    "uzSampleB1": "<p>Men shirinliklarni juda yaxshi ko'raman. Mening eng sevimli shirinligim shokoladli tort. <br>Masalan, men krem bilan shokoladli tortni yaxshi ko'raman. <br>Biroq, muzqaymoqni ham yaxshi ko'raman. Men shirinliklarni ba'zan yeyman.</p>",
+    "uzSampleB2": "<p>Men turli xil shirinliklarni yaxshi ko'raman, lekin ayniqsa qora shokoladli narsalarga ko'proq moyilman. Ozgina achchiq ta'mi menga juda yoqadi. Shuningdek, uyda tayyorlangan pechene yoki tortlar kabi, haddan tashqari qayta ishlanmagan shirinliklarni ham yaxshi ko'raman. Nima yeyayotganingizga qanday ingredientlar qo'shilayotganini bilish juda yaxshi.</p>",
+    "vocabulary": {
+     "title": "What kind...",
+     "idioms": [
+      "<strong>a piece of cake</strong> - \"juda oson\"",
+      "<strong>have your cake and eat it too</strong> - \"ham rohatlanish, ham pulni tejash\"",
+      "<strong>sugarcoat something</strong> - \"bir narsani chiroyli qilib ko'rsatish\""
+     ],
+     "phrases": [
+      "<strong>sweet tooth</strong> - \"shirinlikka o'ch\"",
+      "<strong>balanced flavor profile</strong> - \"muvozanatlashgan ta'm profili\"",
+      "<strong>go-to treat</strong> - \"eng sevimli shirinlik\""
+     ],
+     "sentenceStarters": [
+      "\"I really like...\" - \"Menga juda yoqadi...\"",
+      "\"My favorite sweet is...\" - \"Mening eng sevimli shirinligim...\"",
+      "\"If I had to choose, I'd say...\" - \"Agar tanlashim kerak bo'lsa, men aytardimki...\" - "
+     ]
+    },
+    "sampleAnswer": "<p>Well, <span class=\"ml-token adv\">to be honest</span>, I <span class=\"ml-token phrasal\">have a sweet tooth</span>, so I like pretty much all kinds of sweets. But if I had to pick just one, I'd say I'm particularly fond of Turkish delight. There's something about the <span class=\"ml-token colloc\">delicate texture</span> and the subtle rosewater flavor that I find incredibly appealing.</p> <p>I also appreciate that it's not overly sweet, <span class=\"ml-token adv\">you know</span>? A lot of modern candies are just packed with sugar, but Turkish delight has a more balanced flavor profile. Plus, it <span class=\"ml-token phrasal\">brings back</span> childhood memories of holidays and special occasions when my family would share it. So, yeah, Turkish delight is definitely my <span class=\"ml-token idiom\">go-to</span> sweet treat.</p>",
+    "uzSampleAnswer": "<p>Rostini aytsam, men shirinlikka o‘chman, shuning uchun deyarli barcha turdagi shirinliklarni yaxshi ko‘raman. Lekin agar faqat bittasini tanlashim kerak bo‘lsa, men ayniqsa turk lokumini yaxshi ko‘raman derdim. Uning nozik tuzilishi va nozik gul suvi ta'mida meni juda o‘ziga tortadigan nimadir bor.</p> <p>Shuningdek, uning haddan tashqari shirin emasligini ham qadrlayman, bilasizmi? Ko'pgina zamonaviy konfetlar shunchaki shakar bilan to'ldirilgan, lekin turk lokumining ta'm profili muvozanatliroq. Qolaversa, u oilam bilan baham ko'rgan bayramlar va maxsus kunlar haqidagi bolalik xotiralarini eslatadi. Shunday qilib, ha, turk lokumi, albatta, mening eng sevimli shirinligim.</p>"
+   },
+   {
+    "part": "Part 1",
+    "badge": "30s",
+    "number": 2,
+    "prompt": "Do you read or write stories or poems?",
+    "prepTime": 5,
+    "sampleA1": "<p>I read stories. I like stories. Stories are fun.</p>",
+    "sampleA2": "<p>I read stories and poems. I like to read. But I don't write stories.</p>",
+    "sampleB1": "<p>I like to read stories. I read stories sometimes. <span class=\"ml-token adv\">For example</span>, I read fantasy stories. <span class=\"ml-token adv\">However</span>, I don't write stories. Writing is hard for me.</p>",
+    "sampleB2": "I'm an <span class=\"ml-token colloc\">avid reader</span>, to be honest — I always have a novel <span class=\"ml-token idiom\">on the go</span>. Writing is <span class=\"ml-token idiom\">a different story</span>, though. I <span class=\"ml-token phrasal\">dabble in</span> short stories <span class=\"ml-token adv\">now and then</span>, mostly for fun, but I wouldn't say I've got a real talent for it. Poetry isn't really <span class=\"ml-token idiom\">my cup of tea</span>.",
+    "audioFile": "https://audio.mock-stream.com/CEFR%20speaking%20media/cefr-speaking-mock-62-q2.mp3",
+    "hasImages": false,
+    "speakTime": 30,
+    "uzSampleA1": "<p>Men hikoyalar o'qiyman. Menga hikoyalar yoqadi. Hikoyalar qiziqarli.</p>",
+    "uzSampleA2": "<p>Men hikoyalar va she'rlar o'qiyman. O'qishni yaxshi ko'raman. Lekin men hikoyalar yozmayman.</p>",
+    "uzSampleB1": "<p>Men hikoyalar o'qishni yaxshi ko'raman. Men ba'zan hikoyalar o'qiyman. Masalan, men fantastik hikoyalar o'qiyman. Biroq, men hikoyalar yozmayman. Yozish men uchun qiyin.</p>",
+    "uzSampleB2": "<p>Men vaqti-vaqti bilan qisqa hikoyalar yozaman, garchi o'zimni jiddiy yozuvchi deb hisoblamasam ham. Asosan, buni zavq uchun qilaman. Ba'zida she'rlar ham yozaman, lekin bu ko'proq xobbiga o'xshaydi. Bu menga dam olishga va ijodkor bo'lishga yordam beradi. Bo'sh vaqtim bo'lganda bunga vaqt topaman.</p>",
+    "vocabulary": {
+     "title": "Do you read...",
+     "idioms": [
+      "<strong>once in a blue moon</strong> - \"juda kamdan-kam\"",
+      "<strong>hit the books</strong> - \"o'qishga kirishmoq\"",
+      "<strong>turn over a new leaf</strong> - \"yangi hayot boshlamoq\""
+     ],
+     "phrases": [
+      "<strong>dabble in</strong> - \"qiziqish bilan shug'ullanmoq\"",
+      "<strong>creative writing</strong> - \"ijodiy yozish\"",
+      "<strong>personal outlet</strong> - \"shaxsiy ifoda usuli\""
+     ],
+     "sentenceStarters": [
+      "\"I enjoy reading...\" - \"Men o'qishni yaxshi ko'raman...\"",
+      "\"I occasionally write...\" - \"Men vaqti-vaqti bilan yozaman...\"",
+      "\"I'm not much of a writer, but...\" - \"Men yozuvchi emasman, lekin...\""
+     ]
+    },
+    "sampleAnswer": "<p>I wouldn't say I'm a particularly dedicated writer of stories or poems, <span class=\"ml-token adv\">but</span> I do enjoy dabbling in creative writing from time to time. I mostly write short stories, usually in the fantasy or science fiction genres. It's a fun way to <span class=\"ml-token phrasal\">let off steam</span> and explore different ideas. I'm <span class=\"ml-token colloc\">by no means</span> a professional, <span class=\"ml-token adv\">mind you</span>.</p> <p>As for poetry, I <span class=\"ml-token phrasal\">have a go</span> at it occasionally, usually when I'm feeling particularly inspired by something. I find it a very cathartic way to express my emotions. It's not something I <span class=\"ml-token phrasal\">put out there</span> for public consumption, <span class=\"ml-token adv\">though</span>. It's more of a personal outlet for my creativity. <span class=\"ml-token proverb\">Practice makes perfect</span>, so I hope to improve with time.</p>",
+    "uzSampleAnswer": "<p>Men o'zimni hikoyalar yoki she'rlar yozishga bag'ishlangan odam deb ayta olmayman, lekin vaqti-vaqti bilan ijodiy yozuv bilan shug'ullanish menga yoqadi. Men asosan qisqa hikoyalar yozaman, odatda fantaziya yoki ilmiy fantastika janrlarida. Bu dam olish va turli g'oyalarni o'rganishning qiziqarli usuli. Men hech qanday professional emasman, shuni yodda tuting.</p> <p>She'riyatga kelsak, men vaqti-vaqti bilan unga urinib ko'raman, odatda nimadandir ilhomlanganimni his qilganimda. Men buni o'z his-tuyg'ularimni ifoda etishning juda katartik usuli deb bilaman. Bu men ommaga taqdim etadigan narsa emas, garchi. Bu mening ijodkorligim uchun shaxsiy chiqish yo'li. Mashq mukammallikka olib keladi, shuning uchun vaqt o'tishi bilan yaxshilanishga umid qilaman.</p>"
+   },
+   {
+    "part": "Part 1",
+    "badge": "30s",
+    "number": 3,
+    "prompt": "When do you usually listen to music?",
+    "prepTime": 5,
+    "sampleA1": "<p>I listen to music. I like music. Music is good.</p>",
+    "sampleA2": "<p>I listen to music every day. I listen to music when I walk. And I listen to music at home.</p>",
+    "sampleB1": "<p>I usually listen to music in the morning. I listen to music on my phone. <span class=\"ml-token adv\">For example</span>, I listen to pop music. <span class=\"ml-token adv\">However</span>, I also listen to classical music sometimes. Music makes me happy.</p>",
+    "sampleB2": "Honestly, I listen to music pretty much <span class=\"ml-token idiom\">round the clock</span>. I'll <span class=\"ml-token phrasal\">put on some tunes</span> <span class=\"ml-token colloc\">first thing in the morning</span> to <span class=\"ml-token phrasal\">get me going</span>, and then again on my commute. In the evening, it's the perfect way to <span class=\"ml-token phrasal\">wind down</span> after a <span class=\"ml-token colloc\">hectic day</span>. Music's the soundtrack to my life, really.",
+    "audioFile": "https://audio.mock-stream.com/CEFR%20speaking%20media/cefr-speaking-mock-62-q3.mp3",
+    "hasImages": false,
+    "speakTime": 30,
+    "uzSampleA1": "<p>Men musiqa tinglayman. Menga musiqa yoqadi. Musiqa yaxshi.</p>",
+    "uzSampleA2": "<p>Men har kuni musiqa tinglayman. Men piyoda yurganimda musiqa tinglayman. Va men uyda musiqa tinglayman.</p>",
+    "uzSampleB1": "<p>Men odatda ertalab musiqa tinglayman. Men telefonimda musiqa tinglayman. Misol uchun, men pop musiqasini tinglayman. Biroq, men ba'zan klassik musiqani ham tinglayman. Musiqa meni xursand qiladi.</p>",
+    "uzSampleB2": "<p>Men odatda kun davomida musiqa tinglayman, ayniqsa, ko'p diqqatni talab qilmaydigan vazifalarni bajarayotganimda. Bu menga diqqatni jamlash va motivatsiyani saqlashga yordam beradi. Shuningdek, mashq qilayotganimda yoki kechqurun uyda dam olayotganimda ham musiqa tinglashni yaxshi ko'raman. Bu haqiqatan ham kayfiyatni yaratadi.</p>",
+    "vocabulary": {
+     "title": "When do you...",
+     "idioms": [
+      "<strong>face the music</strong> - \"javobgarlikka tortilmoq\"",
+      "<strong>it takes two to tango</strong> - \"ikki tomon ham aybdor\"",
+      "<strong>blow your own trumpet</strong> - \"o'zini maqtab gapirmoq\""
+     ],
+     "phrases": [
+      "<strong>put on some tunes</strong> - \"musiqa qo'ymoq\"",
+      "<strong>makes the journey more enjoyable</strong> - \"sayohatni yanada yoqimli qiladi\"",
+      "<strong>wind down</strong> - \"dam olmoq\""
+     ],
+     "sentenceStarters": [
+      "\"I usually listen to music when...\" - \"Men odatda musiqa tinglayman, qachonki...\"",
+      "\"I often listen to music while...\" - \"Men ko'pincha musiqa tinglayman, ... vaqtida\"",
+      "\"I like to listen to music when...\" - \"Men musiqa tinglashni yaxshi ko'raman, qachonki...\""
+     ]
+    },
+    "sampleAnswer": "<p><span class=\"ml-token adv\">Generally speaking</span>, I listen to music pretty much every day. I often <span class=\"ml-token phrasal\">put on</span> some tunes while I'm working or studying; I find it helps me to focus. <span class=\"ml-token adv\">Also</span>, I frequently listen to music when I'm commuting, whether I'm on the bus or walking to work. It <span class=\"ml-token colloc\">makes the journey</span> more enjoyable.</p> <p>I also enjoy listening to music in the evenings when I'm relaxing at home. It's a great way to <span class=\"ml-token phrasal\">wind down</span> after a long day. <span class=\"ml-token adv\">Of course</span>, I also listen to music when I'm socializing with friends, whether we're at a concert or just hanging out at someone's house. Music is a really integral part of my life. <span class=\"ml-token proverb\">Music is the food of the soul</span>, as they say.</p>",
+    "uzSampleAnswer": "<p>Umuman olganda, men deyarli har kuni musiqa tinglayman. Ko'pincha ishlayotganimda yoki o'qiyotganimda biror narsa qo'yib olaman; bu menga diqqatimni jamlashga yordam beradi. Shuningdek, men qatnayotganimda, avtobusda bo'ladimi yoki ishga piyoda ketayotganimda ham tez-tez musiqa tinglayman. Bu sayohatni yanada yoqimli qiladi.</p> <p>Shuningdek, men kechqurunlari uyda dam olayotganimda musiqa tinglashdan zavqlanaman. Bu uzoq kundan keyin dam olishning ajoyib usuli. Albatta, men do'stlarim bilan muloqotda bo'lganimda ham musiqa tinglayman, xoh konsertda bo'laylik, xoh shunchaki kimningdir uyida vaqt o'tkazaylik. Musiqa mening hayotimning ajralmas qismi. Aytishlaricha, musiqa ruhning ozuqasi.</p>"
+   },
+   {
+    "part": "Part 1",
+    "badge": "45s",
+    "number": 4,
+    "prompt": "Describe these images.",
+    "prepTime": 10,
+    "sampleA1": "<p>One is concert. Two is street. Music.</p>",
+    "sampleA2": "<p>One is a big concert. The other is on the street. People listen to music.</p>",
+    "sampleB1": "<p>The first picture is a big concert. There is a band on stage. <span class=\"ml-token adv\">For example</span>, there are many lights. The second picture is a street musician. <span class=\"ml-token adv\">However</span>, there are few people. Both are music.</p>",
+    "sampleB2": "Both pictures show live musical performances, but they depict quite different settings. The first image is <span class=\"ml-token colloc\">set in</span> a large concert hall. A full band is on a professionally lit stage, and it's <span class=\"ml-token adv\">clearly</span> a big, organized event. <span class=\"ml-token linking\">In contrast</span>, the second picture shows a solo musician performing on a city street. He's managed to <span class=\"ml-token phrasal\">draw in</span> a <span class=\"ml-token colloc\">sizeable crowd</span> of people who have stopped to listen. It feels much more intimate and spontaneous. <span class=\"ml-token modal\">It must be</span> great to just <span class=\"ml-token phrasal\">stumble upon</span> a performance like that.",
+    "audioFile": "https://audio.mock-stream.com/CEFR%20speaking%20media/cefr-speaking-mock-62-q4.mp3",
+    "hasImages": true,
+    "speakTime": 45,
+    "uzSampleA1": "<p>Biri konsert. Ikkinchisi ko'cha. Musiqa.</p>",
+    "uzSampleA2": "<p>Birinchisi katta konsert. Ikkinchisi ko'chada. Odamlar musiqa tinglashyapti.</p>",
+    "uzSampleB1": "<p>Birinchi rasm katta konsert. Sahnada bir guruh bor. <br>Masalan, ko'p chiroqlar bor. Ikkinchi rasm ko'cha musiqachisi. <br>Biroq, odamlar kam. Ikkalasi ham musiqa.</p>",
+    "uzSampleB2": "<p>Birinchi rasmda mashhur guruh katta olomon uchun chiqish qilayotgan professional konsert tasvirlangan. Yoritish va sahna jihozlari juda murakkab. <br>Boshqa tomondan, ikkinchi rasmda ko'cha musiqachisi kichik bir guruh odamlar uchun o'ynamoqda. Muhit ancha norasmiy va samimiy. Ikkala vaziyat ham tomoshabinlar bilan musiqa baham ko'rishga asoslangan, garchi miqyoslar juda farq qilsa ham.</p>",
+    "vocabulary": {
+     "title": "Describe these images",
+     "idioms": [
+      "<strong>a picture is worth a thousand words</strong> - \"bir rasm ming so'zga teng\"",
+      "<strong>in the same boat</strong> - \"bir xil ahvolda\"",
+      "<strong>hit the nail on the head</strong> - \"to'g'ri gapni aytmoq\""
+     ],
+     "phrases": [
+      "<strong>elaborate stage setup</strong> - \"murakkab sahna jihozi\"",
+      "<strong>intimate atmosphere</strong> - \"samimiy muhit\"",
+      "<strong>sharing talent with the public</strong> - \"iste'dodni xalq bilan baham ko'rish\""
+     ],
+     "sentenceStarters": [
+      "\"The first image shows...\" - \"Birinchi rasmda ko'rsatilgan...\"",
+      "\"In contrast, the second image depicts...\" - \"Bunga qarama-qarshi o'laroq, ikkinchi rasmda...\"",
+      "\"Both images represent...\" - \"Ikkala rasm ham...\""
+     ]
+    },
+    "sampleAnswer": "<p>Okay, in the first image, we can see a famous band performing on a large stage at a professional concert. The stage is lit up with bright lights, and there's a huge audience in front of them. The band members are clearly very talented and energetic, and the whole atmosphere looks incredibly exciting and lively. It <span class=\"ml-token colloc\">looks like an amazing</span> experience.</p> <p>In contrast, the second image shows a street musician performing on the street for passersby. He's playing a guitar and singing, and there are a few people <span class=\"ml-token phrasal\">stopping by</span> to listen. The atmosphere is much more intimate and relaxed than in the first image. It's a more casual setting, <span class=\"ml-token adv\">you know</span>, but there's still something really special about the musician sharing his talent with the public. <span class=\"ml-token adv\">Ultimately</span>, both images showcase the power and beauty of music in different contexts. <span class=\"ml-token proverb\">Variety is the spice of life</span>, and both scenarios have their own appeal.</p>",
+    "uzSampleAnswer": "<p>Xo'sh, birinchi suratda biz mashhur guruhning professional konsertda katta sahnada chiqish qilayotganini ko'rishimiz mumkin. Sahna yorqin chiroqlar bilan yoritilgan va ularning oldida ulkan tomoshabinlar bor. Guruh a'zolari juda iste'dodli va g'ayratli ekanligi aniq ko'rinib turibdi va butun atmosfera nihoyatda hayajonli va jonli ko'rinadi. Bu ajoyib tajribaga o'xshaydi.</p> <p>Bunga zid ravishda, ikkinchi suratda ko'cha musiqachisi yo'lovchilar uchun ko'chada chiqish qilayotganini ko'rsatamiz. U gitara chalib, qo'shiq aytyapti va uni tinglash uchun bir nechta odam to'xtab o'tmoqda. Atmosfera birinchi suratdagiga qaraganda ancha samimiy va xotirjam. Bu ko'proq oddiy muhit, bilasizmi, lekin musiqachining o'z iste'dodini jamoatchilik bilan baham ko'rishida hali ham o'zgacha bir narsa bor. Oxir-oqibat, ikkala surat ham turli kontekstlarda musiqaning kuchini va go'zalligini namoyish etadi. Rang-baranglik hayotga fayz beradi va ikkala ssenariy ham o'ziga xos jozibaga ega.</p>"
+   },
+   {
+    "part": "Part 1",
+    "badge": "45s",
+    "number": 5,
+    "prompt": "What are the advantages of special concerts?",
+    "prepTime": 5,
+    "sampleA1": "<p>Concerts are good. I like music. It is fun.</p>",
+    "sampleA2": "<p>I like concerts. They are loud and fun. I like to dance with my friends.</p>",
+    "sampleB1": "<p>Special concerts are exciting. You can see famous singers. <span class=\"ml-token adv\">For example</span>, there are big lights and sounds. <span class=\"ml-token adv\">However</span>, they can be expensive. It is good to go with friends.</p>",
+    "sampleB2": "Well, the <span class=\"ml-token colloc\">biggest draw</span> is the atmosphere — there's nothing quite like <span class=\"ml-token phrasal\">feeding off</span> the energy of a live crowd. <span class=\"ml-token linking\">On top of that</span>, you get to see your favourite artists <span class=\"ml-token idiom\">in the flesh</span>, with <span class=\"ml-token colloc\">top-notch</span> sound and a dazzling light show. They also <span class=\"ml-token colloc\">bring people together</span> and give the local economy <span class=\"ml-token colloc\">a real boost</span>.",
+    "audioFile": "https://audio.mock-stream.com/CEFR%20speaking%20media/cefr-speaking-mock-62-q5.mp3",
+    "hasImages": true,
+    "speakTime": 30,
+    "uzSampleA1": "<p>Konsertlar yaxshi. Men musiqa yoqtiraman. Bu qiziqarli.</p>",
+    "uzSampleA2": "<p>Konsertlar menga yoqadi. Ular shovqinli va qiziqarli. Men do'stlarim bilan raqsga tushishni yaxshi ko'raman.</p>",
+    "uzSampleB1": "<p>Maxsus konsertlar qiziqarli. Siz mashhur qo'shiqchilarni ko'rishingiz mumkin. <br>Masalan, katta yorug'lik va tovushlar bo'ladi. <br>Biroq, ular qimmat bo'lishi mumkin. Do'stlar bilan borish yaxshi.</p>",
+    "uzSampleB2": "<p>Maxsus konsertlar boshqa joyda topib bo'lmaydigan noyob tajribani taqdim etadi. Siz o'zingizning sevimli san'atkorlaringizni jonli ijroda ko'rishingiz va olomonning energiyasidan bahramand bo'lishingiz mumkin. <br>Bundan tashqari, bu tadbirlarda ko'pincha ta'sirchan sahna dizaynlari va yuqori sifatli ovoz tizimlari mavjud. <br>Biroq, ular juda qimmat bo'lishi mumkin va katta olomon hamma uchun ham mos kelmasligi mumkin.</p>",
+    "vocabulary": {
+     "title": "What are the...",
+     "idioms": [
+      "<strong>a win-win</strong> - \"ikki tomon uchun ham foydali\"",
+      "<strong>up close and personal</strong> - \"yaqindan\"",
+      "<strong>in the same boat</strong> - \"bir xil ahvolda\""
+     ],
+     "phrases": [
+      "<strong>shared experience</strong> - \"umumiy tajriba\"",
+      "<strong>economic boost</strong> - \"iqtisodiy o'sish\"",
+      "<strong>local area</strong> - \"mahalliy hudud\""
+     ],
+     "sentenceStarters": [
+      "\"One advantage of...\" - \"...ning bir afzalligi\"",
+      "\"Concerts can provide...\" - \"Konsertlar ta'minlashi mumkin...\"",
+      "\"A key benefit is...\" - \"Asosiy foyda...\""
+     ]
+    },
+    "sampleAnswer": "<p>Well, <span class=\"ml-token adv\">broadly speaking</span>, special concerts, especially those featuring well-known artists, offer a unique shared experience. The energy of a large crowd, the amplified sound, and the visual spectacle <span class=\"ml-token phrasal\">add up to</span> something truly memorable. For fans, it's a chance to see their favorite performers <span class=\"ml-token phrasal\">up close and personal</span>, creating a strong sense of connection and excitement. It's <span class=\"ml-token adv\">also</span> a social event, where people can bond over their shared love of music.</p> <p> <span class=\"ml-token adv\">Furthermore</span>, these concerts often provide a significant economic boost to the local area, attracting tourists and generating revenue for businesses. The production quality is usually top-notch, with professional lighting, sound engineering, and stage design. It is <span class=\"ml-token colloc\">a win-win</span> for everyone involved. For the musicians, it's a way to connect with a large fanbase; for the local economy, it is a great boost. <span class=\"ml-token idiom\">It's all good!</span></p>",
+    "uzSampleAnswer": "<p>Xo'sh, umuman olganda, maxsus konsertlar, ayniqsa taniqli san'atkorlar ishtirokidagi konsertlar, o'ziga xos umumiy tajribani taqdim etadi. Katta olomonning energiyasi, kuchaytirilgan ovoz va vizual tomosha haqiqatan ham unutilmas narsaga qo'shiladi. Muxlislar uchun bu o'zlarining sevimli ijrochilarini yaqindan ko'rish, kuchli aloqa va hayajon hissini yaratish imkoniyatidir. Bu, shuningdek, odamlar musiqaga bo'lgan umumiy muhabbatlari bilan bog'lanishlari mumkin bo'lgan ijtimoiy tadbirdir.</p> <p>Bundan tashqari, bu konsertlar ko'pincha mahalliy hududga sezilarli iqtisodiy turtki beradi, turistlarni jalb qiladi va biznes uchun daromad keltiradi. Ishlab chiqarish sifati odatda yuqori darajada bo'ladi, professional yoritish, ovoz muhandisligi va sahna dizayni bilan. Bu barcha ishtirokchilar uchun foydali. Musiqachilar uchun bu katta muxlislar bazasi bilan bog'lanish usuli; mahalliy iqtisodiyot uchun bu katta turtki. Hammasi yaxshi!</p>"
+   },
+   {
+    "part": "Part 1",
+    "badge": "30s",
+    "number": 6,
+    "prompt": "Why do many people consider street musicians to be more sincere?",
+    "prepTime": 5,
+    "sampleA1": "<p>Street music is good. They play for people. It is nice.</p>",
+    "sampleA2": "<p>Street musicians play music. They are on the street. I think they are good.</p>",
+    "sampleB1": "<p>Many people like street musicians. They are playing outside. <span class=\"ml-token adv\">For example</span>, they don't have a big stage. <span class=\"ml-token adv\">However</span>, they play music. I think they are sincere.</p>",
+    "sampleB2": "<span class=\"ml-token adv\">I suppose</span> it's because there's nothing standing between them and the audience — no <span class=\"ml-token colloc\">flashy production</span>, no marketing machine. <span class=\"ml-token idiom\">What you see is what you get</span>. They're <span class=\"ml-token idiom\">playing their heart out</span> purely for the love of it, often just <span class=\"ml-token phrasal\">scraping by</span> on tips, and that honesty really <span class=\"ml-token idiom\">strikes a chord</span> with people who are tired of the polished, commercial side of music.",
+    "audioFile": "https://audio.mock-stream.com/CEFR%20speaking%20media/cefr-speaking-mock-62-q6.mp3",
+    "hasImages": true,
+    "speakTime": 30,
+    "uzSampleA1": "<p>Ko'cha musiqasi yaxshi. Ular odamlar uchun o'ynashadi. Bu yoqimli.</p>",
+    "uzSampleA2": "<p>Ko'cha musiqachilari musiqa chalishadi. Ular ko'chada bo'lishadi. Menimcha, ular yaxshi.</p>",
+    "uzSampleB1": "<p>Ko'p odamlarga ko'cha musiqachilari yoqadi. Ular tashqarida o'ynashadi. <br>Masalan, ularning katta sahnasi yo'q. <br>Biroq, ular musiqa chalishadi. Menimcha, ular samimiy.</p>",
+    "uzSampleB2": "<p>Ko'cha musiqachilari ko'pincha tijorat bosimi ta'sirida bo'lmaganligi sababli samimiyroq deb hisoblanadi. Ularning musiqasi qimmat chiptalar yoki murakkab marketingga hojat qoldirmay, hamma bahramand bo'lishi uchun ochiqda. <br>Qolaversa, ularning chiqishlarining soddaligi tetiklantiruvchi bo'lishi mumkin. Biroq, hamma ham bu xom yondashuvni qadrlamaydi, aksariyati professional yozuvlarning sayqallangan ovozini afzal ko'radi.</p>",
+    "vocabulary": {
+     "title": "Why do many...",
+     "idioms": [
+      "<strong>keeping it real</strong> - \"haqiqiy bo'lish\"",
+      "<strong>diamonds in the rough</strong> - \"qobiliyatli, lekin sayqallanmagan\"",
+      "<strong>underdog</strong> - \"mag'lub bo'lish ehtimoli yuqori bo'lgan\""
+     ],
+     "phrases": [
+      "<strong>direct connection</strong> - \"to'g'ridan-to'g'ri aloqa\"",
+      "<strong>mainstream music industry</strong> - \"ommaviy musiqa sanoati\"",
+      "<strong>raw and authentic</strong> - \"xom va haqiqiy\""
+     ],
+     "sentenceStarters": [
+      "\"People feel that...\" - \"Odamlar shunday his qilishadi...\"",
+      "\"The perception is that...\" - \"Tushuncha shuki...\"",
+      "\"It is often assumed that...\" - \"Ko'pincha shunday taxmin qilinadi...\""
+     ]
+    },
+    "sampleAnswer": "<p><span class=\"ml-token adv\">Well</span>, the perception of sincerity in street musicians often stems from their direct and unfiltered connection with the audience. They are not hidden behind elaborate stage productions or massive marketing campaigns. What you see is what you get; it's <span class=\"ml-token adv\">essentially</span> a raw and authentic expression of their art. This vulnerability and lack of artifice can resonate deeply with people who are <span class=\"ml-token colloc\">jaded by</span> the commercialism of the mainstream music industry.</p> <p><span class=\"ml-token adv\">Furthermore</span>, street musicians are often seen as representing the <span class=\"ml-token proverb\">underdog</span>, struggling to make a living through their talent. This can evoke a sense of empathy and admiration, leading people to perceive them as more genuine and sincere than artists who have already achieved mainstream success. <span class=\"ml-token idiom\">It's like they're keeping it real.</span> The <span class=\"ml-token colloc\">stripped-down</span> nature of their performances reinforces this idea; it's all about the music, not the spectacle.</p>",
+    "uzSampleAnswer": "<p>Xo'sh, ko'cha musiqachilarining samimiyligi haqidagi tasavvur ko'pincha ularning tomoshabinlar bilan bevosita va filtrlarsiz aloqasidan kelib chiqadi. Ular murakkab sahna ko'rinishlari yoki keng ko'lamli marketing kampaniyalari ortida yashirinmaydi. Ko'rganingiz - oladiganingiz; bu, asosan, ularning san'atining xom va haqiqiy ifodasidir. Bu zaiflik va sun'iylikning yo'qligi asosiy musiqa sanoatining tijoratlashuvidan zerikkan odamlarga chuqur ta'sir qilishi mumkin.</p> <p>Bundan tashqari, ko'cha musiqachilari ko'pincha o'z iste'dodi orqali tirikchilik qilishga harakat qilayotgan mag'lubiyat timsoli sifatida ko'riladi. Bu hamdardlik va hayrat tuyg'usini uyg'otishi mumkin, bu esa odamlarni ularni allaqachon asosiy muvaffaqiyatga erishgan san'atkorlarga qaraganda samimiyroq va chin dildan deb bilishga olib keladi. Go'yo ular haqiqatni saqlab qolishayotgandek. Ularning chiqishlarining soddalashtirilgan tabiati bu fikrni yanada kuchaytiradi; bu shou haqida emas, balki musiqa haqida.</p>"
+   },
+   {
+    "part": "Part 2",
+    "badge": "2:00",
+    "number": 7,
+    "prompt": "Can you describe a time when you interacted with artificial intelligence?",
+    "prepTime": 60,
+    "sampleA1": "<p>I use AI on my phone. It helps me. I like it.</p>",
+    "sampleA2": "<p>I use AI. It is on my computer. I use it for school because it is helpful.</p>",
+    "sampleB1": "<p>I talked to AI last week. It was a chatbot. <span class=\"ml-token adv\">For example</span>, I asked it a question. It gave me an answer. <span class=\"ml-token adv\">However</span>, I don't always trust it. AI can help with many things in the future.</p>",
+    "sampleB2": "Sure, I can think of a good example. Just the other day, I was completely stuck writing a cover letter for a job, so I <span class=\"ml-token phrasal\">turned to</span> an AI chatbot for a hand. I typed in a rough draft, and within seconds it had <span class=\"ml-token phrasal\">tidied up</span> my wording, suggested a stronger opening line, and even flagged a couple of grammar slips I'd missed. To be honest, I was <span class=\"ml-token idiom\">blown away</span> by how natural and polished the result sounded — it saved me a good hour of <span class=\"ml-token colloc\">head-scratching</span>. As for why people sometimes trust AI more than humans, I think it <span class=\"ml-token idiom\">boils down to</span> the idea that machines don't have an agenda. AI doesn't get tired, it doesn't <span class=\"ml-token idiom\">play favourites</span>, and it isn't <span class=\"ml-token colloc\">swayed by emotions</span> the way we are. So when it crunches through a mountain of data and spits out an answer, people tend to <span class=\"ml-token idiom\">take it at face value</span>. <span class=\"ml-token linking\">That said</span>, I'd be the first to point out that AI is only as good as the data it's fed, so it's <span class=\"ml-token colloc\">far from foolproof</span>. Looking ahead, I reckon AI could be <span class=\"ml-token idiom\">a real game-changer</span> <span class=\"ml-token idiom\">across the board</span>. In medicine, it might spot diseases earlier than any doctor could; in education, it could tailor lessons to each student; and in tackling climate change, it could crunch numbers that would take us years to work through. <span class=\"ml-token linking\">All in all</span>, if we use it wisely and keep a human eye on it, AI has the potential to <span class=\"ml-token idiom\">push the boundaries</span> of what we thought was possible.",
+    "audioFile": "https://audio.mock-stream.com/CEFR%20speaking%20media/cefr-speaking-mock-62-q7.mp3",
+    "hasImages": false,
+    "speakTime": 120,
+    "uzSampleA1": "<p>Men telefonimda sun'iy intellektdan foydalanaman. U menga yordam beradi. Menga yoqadi.</p>",
+    "uzSampleA2": "<p>Men sun'iy intellektdan foydalanaman. U mening kompyuterimda bor. Men undan maktab uchun foydalanaman, chunki u yordam beradi.</p>",
+    "uzSampleB1": "<p>Men o'tgan hafta sun'iy intellekt bilan gaplashdim. Bu chatbot edi. <br>Masalan, men undan savol so'radim. U menga javob berdi. <br>Biroq, men unga har doim ham ishonmayman. Sun'iy intellekt kelajakda ko'p narsalarda yordam berishi mumkin.</p>",
+    "uzSampleB2": "<p>Yaqinda men elektron pochta xatini yozishda yordam berish uchun sun'iy intellektdan foydalandim. U men o'ylamagan ba'zi iboralarni taklif qildi. O'ylashimcha, odamlar sun'iy intellektga ishonishadi, chunki u xolis deb qabul qilinadi. <br>Qolaversa, sun'iy intellekt katta hajmdagi ma'lumotlarni tezda tahlil qila oladi. <br>Biroq, sun'iy intellekt hali ham odamlar tomonidan ishlab chiqilganini unutmaslik kerak. Kelajakda sun'iy intellekt ko'plab sohalarda muhim rol o'ynashi mumkin.</p>",
+    "vocabulary": {
+     "title": "Can you describe...",
+     "idioms": [
+      "<strong>boils down to</strong> - \"...ga kelib taqaladi\"",
+      "<strong>pushing the envelope</strong> - \"chegaralarni kengaytirish\"",
+      "<strong>on the same page</strong> - \"bir fikrda bo'lish\""
+     ],
+     "phrases": [
+      "<strong>artificial intelligence</strong> - \"sun'iy intellekt\"",
+      "<strong>objective and unbiased</strong> - \"ob'ektiv va xolis\"",
+      "<strong>revolutionize various fields</strong> - \"turli sohalarni inqilob qilish\""
+     ],
+     "sentenceStarters": [
+      "\"I recently used AI to...\" - \"Men yaqinda AI-dan foydalandim...\"",
+      "\"AI has the potential to...\" - \"AI ning imkoniyati bor...\"",
+      "\"One example of AI in action is...\" - \"AI ning amaldagi bir misoli...\""
+     ]
+    },
+    "bulletPoints": [
+     "Can you describe a time when you interacted with artificial intelligence?",
+     "Why do people sometimes trust AI more than humans?",
+     "How can AI contribute to future innovations?"
+    ],
+    "contextImage": "https://audio.mock-stream.com/CEFR%20speaking%20media/cefr-speaking-mock-62-q7-context.jpg",
+    "sampleAnswer": "<p><span class=\"ml-token adv\">Certainly</span>, I can describe a time when I interacted with artificial intelligence. Just last week, I was researching a complex topic for a project, and I decided to use an AI-powered research assistant. This tool was able to <span class=\"ml-token phrasal\">sift through</span> vast amounts of data, summarize key findings, and even suggest potential research avenues that I hadn't considered. It was incredibly efficient and saved me a significant amount of time and effort. <span class=\"ml-token adv\">In fact</span>, I found that its insights were often more objective and comprehensive than what I could have achieved on my own.</p> <p>Now, regarding why people sometimes trust AI more than humans, I think it often boils down to the perception of objectivity and lack of bias. AI algorithms are designed to analyze data and make decisions based on predefined rules, without being influenced by emotions, personal opinions, or <span class=\"ml-token colloc\">ulterior motives</span>. Humans, <span class=\"ml-token adv\">on the other hand</span>, are inherently subjective and can be prone to errors in judgment. <span class=\"ml-token adv\">However</span>, it's crucial to remember that AI is created and trained by humans, so biases can still be embedded in the system. <span class=\"ml-token idiom\">It goes both ways.</span></p> <p>As for how AI can contribute to future innovations, the possibilities are virtually limitless. AI has the potential to revolutionize various fields, from healthcare and education to transportation and environmental conservation. It can accelerate scientific discovery by analyzing complex datasets, personalize learning experiences by adapting to individual student needs, and optimize resource allocation to improve efficiency and sustainability. <span class=\"ml-token adv\">Ultimately</span>, AI can empower us to solve some of the world's most pressing challenges and create a better future for all, <span class=\"ml-token colloc\">pushing the envelope</span> of human knowledge.</p>",
+    "uzSampleAnswer": "<p>Albatta, men sun'iy intellekt bilan o'zaro aloqada bo'lgan vaqtni tasvirlab bera olaman. O'tgan hafta men loyiha uchun murakkab mavzuni o'rganayotgan edim va AI bilan ishlaydigan tadqiqot yordamchisidan foydalanishga qaror qildim. Bu vosita katta hajmdagi ma'lumotlarni saralash, asosiy xulosalarni umumlashtirish va hatto men o'ylamagan tadqiqot yo'nalishlarini taklif qilishga qodir edi. Bu juda samarali edi va mening vaqtim va kuchimni sezilarli darajada tejadi. Aslida, uning tushunchalari ko'pincha men o'zim erisha oladiganidan ko'ra ob'ektivroq va kengroq ekanligini aniqladim.</p> <p>Endi, nima uchun odamlar ba'zan AIga odamlarga qaraganda ko'proq ishonishiga kelsak, menimcha, bu ko'pincha ob'ektivlik va xolislik yo'qligi haqidagi tasavvurga bog'liq. AI algoritmlari ma'lumotlarni tahlil qilish va oldindan belgilangan qoidalar asosida qarorlar qabul qilish uchun mo'ljallangan, bunda his-tuyg'ular, shaxsiy fikrlar yoki yashirin maqsadlar ta'sir qilmaydi. Odamlar esa, mohiyatan sub'ektivdir va hukm chiqarishda xatolarga yo'l qo'yishi mumkin. Biroq, shuni yodda tutish kerakki, AI odamlar tomonidan yaratilgan va o'qitilgan, shuning uchun tizimga hali ham xolisliklar kiritilishi mumkin. Bu ikki tomonlama jarayon.</p> <p>AI kelajakdagi innovatsiyalarga qanday hissa qo'shishi mumkinligiga kelsak, imkoniyatlar deyarli cheksizdir. AI sog'liqni saqlash va ta'limdan tortib transport va atrof-muhitni muhofaza qilishgacha bo'lgan turli sohalarda inqilob qilish potentsialiga ega. U murakkab ma'lumotlar to'plamlarini tahlil qilish orqali ilmiy kashfiyotlarni tezlashtirishi, har bir talabaning ehtiyojlariga moslashish orqali ta'lim tajribasini individuallashtirishi va samaradorlik va barqarorlikni oshirish uchun resurslarni taqsimlashni optimallashtirishi mumkin. Oxir oqibat, AI bizga dunyoning eng dolzarb muammolarini hal qilish va barcha uchun yaxshiroq kelajak yaratishga imkon beradi, inson bilimining chegaralarini kengaytiradi.</p>"
+   },
+   {
+    "part": "Part 3 (Discussion)",
+    "badge": "2:00",
+    "number": 8,
+    "prompt": "All TV Shows Should Be Educational",
+    "prepTime": 60,
+    "sampleA1": "<p>TV is fun. I watch cartoons. They are good.</p>",
+    "sampleA2": "<p>TV is fun, but it can be educational. I like cartoons and documentaries because I learn things.</p>",
+    "sampleB1": "<p>Some people think TV should be educational. It can teach you things. <span class=\"ml-token adv\">For example</span>, you can learn about animals. <span class=\"ml-token adv\">However</span>, entertainment is also important. People want to relax when they watch TV. It is good to have both.</p>",
+    "sampleB2": "Well, this is <span class=\"ml-token idiom\">a real balancing act</span>, and I can see where both sides are coming from. <span class=\"ml-token linking\">On the one hand</span>, there's a strong case for making TV more educational. Television reaches millions of people, so it's a brilliant platform for spreading knowledge and <span class=\"ml-token idiom\">opening people's eyes</span> to new cultures and ideas. Documentaries and nature programmes, for instance, can spark a lifelong curiosity and get people thinking critically about the world. In that sense, there's real value in shows that teach us something. <span class=\"ml-token linking\">On the other hand</span>, I'd argue that entertainment matters just as much. After a long, tiring day, most of us just want to <span class=\"ml-token phrasal\">switch off</span> and unwind in front of something light-hearted and fun. If every single show had to <span class=\"ml-token phrasal\">hammer home</span> a lesson, television would quickly become dull and preachy, and honestly, people would just <span class=\"ml-token phrasal\">tune out</span>. You can't <span class=\"ml-token colloc\">force-feed</span> education — it tends to backfire. To my mind, <span class=\"ml-token idiom\">the sweet spot</span> lies somewhere in the middle. The best programmes are the ones that slip a bit of learning into something genuinely enjoyable, so you barely notice you're <span class=\"ml-token phrasal\">picking things up</span>. Take a well-made historical drama — it entertains you and teaches you at the same time, giving you <span class=\"ml-token idiom\">the best of both worlds</span>. So no, I don't think every show should be strictly educational, but I do think there's room for a healthy mix. <span class=\"ml-token idiom\">At the end of the day</span>, variety is what keeps audiences hooked, and a bit of balance <span class=\"ml-token idiom\">goes a long way</span>.",
+    "audioFile": "https://audio.mock-stream.com/CEFR%20speaking%20media/cefr-speaking-mock-62-q8.mp3",
+    "hasImages": false,
+    "speakTime": 120,
+    "uzSampleA1": "<p>Televizor qiziqarli. Men multfilmlar ko'raman. Ular yaxshi.</p>",
+    "uzSampleA2": "<p>Televizor qiziqarli, lekin u ta'lim beruvchi ham bo'lishi mumkin. Men multfilmlar va hujjatli filmlarni yaxshi ko'raman, chunki ulardan nimadir o'rganaman.</p>",
+    "uzSampleB1": "<p>Ba'zi odamlar televizor ta'limiy bo'lishi kerak deb o'ylashadi. U sizga narsalarni o'rgatishi mumkin. <br>\n<br>\nMasalan, siz hayvonlar haqida bilib olishingiz mumkin. Biroq, ko'ngilochar tomosha ham muhim. Odamlar televizor ko'rayotganda dam olishni xohlashadi. Ikkalasining ham bo'lishi yaxshi.</p>",
+    "uzSampleB2": "<p>Barcha teleko'rsatuvlarni ta'limiy qilish tarafdori va qarshi argumentlar mavjud. Ta'limiy ko'rsatuvlar qimmatli ma'lumot va ko'nikmalarni o'rgatishi mumkin. <br>Qolaversa, ular qiziquvchanlikni uyg'otishi mumkin. <br>Biroq, dam olish uchun ko'ngilochar tomosha ham muhim. Barcha ko'rsatuvlarni ta'limiy bo'lishga majburlash ijodkorlikni cheklashi mumkin. Ta'lim va ko'ngilochar tomosha o'rtasidagi muvozanat eng yaxshi yechim bo'lishi mumkin.</p>",
+    "vocabulary": {
+     "title": "All TV Shows...",
+     "idioms": [
+      "<strong>a balancing act</strong> - \"muvozanatni saqlash\"",
+      "<strong>food for thought</strong> - \"o'ylash uchun narsa\"",
+      "<strong>the best of both worlds</strong> - \"ikkala dunyoning eng yaxshisi\""
+     ],
+     "phrases": [
+      "<strong>educational potential</strong> - \"ta'lim salohiyati\"",
+      "<strong>disseminating knowledge</strong> - \"bilim tarqatish\"",
+      "<strong>critical thinking</strong> - \"tanqidiy fikrlash\""
+     ],
+     "sentenceStarters": [
+      "\"While education is important,...\" - \"Ta'lim muhim bo'lsa-da,...\"",
+      "\"It is important to consider both...\" - \"Ikkalasini ham ko'rib chiqish muhim...\"",
+      "\"A balanced approach might be...\" - \"Muvozanatli yondashuv bo'lishi mumkin...\""
+     ]
+    },
+    "debatePoints": {
+     "for": [
+      "Teach knowledge and skills.",
+      "Encourage curiosity.",
+      "Can inspire creativity."
+     ],
+     "against": [
+      "Entertainment is also important.",
+      "People may watch TV to relax, not learn.",
+      "Limits creativity in producing fun content."
+     ]
+    },
+    "sampleAnswer": "<p><span class=\"ml-token adv\">Well</span>, the idea that all TV shows should be educational is a complex one with valid arguments on both sides. On the one hand, there's a strong case to be made for the educational potential of television. TV can be a powerful tool for disseminating knowledge, teaching valuable skills, and sparking curiosity about the world around us. Educational programs can expose viewers to new ideas, cultures, and perspectives, <span class=\"ml-token colloc\">broadening their horizons</span> and enriching their lives. <span class=\"ml-token adv\">Furthermore</span>, they can inspire creativity and critical thinking, encouraging viewers to question assumptions and explore new possibilities.</p> <p><span class=\"ml-token adv\">However</span>, it's <span class=\"ml-token adv\">also</span> important to recognize the value of entertainment for its own sake. People often turn to TV as a way to relax, unwind, and escape from the stresses of daily life. Entertainment programs can provide much-needed relief and enjoyment, helping viewers to recharge and rejuvenate. Imposing a strict educational mandate on all TV shows could stifle creativity and lead to a decline in the quality and diversity of programming. <span class=\"ml-token proverb\">All work and no play makes Jack a dull boy</span>, as they say.</p> <p> <span class=\"ml-token adv\">Ultimately</span>, a balanced approach is probably the most desirable. While it's important to ensure that there are plenty of high-quality educational programs available, it's <span class=\"ml-token adv\">also</span> crucial to preserve the space for pure entertainment. The key is to strike a balance that meets the diverse needs and preferences of viewers, allowing them to learn, grow, and be entertained in equal measure. <span class=\"ml-token idiom\">It's a balancing act</span>, really. The ideal scenario would involve integrating educational elements into entertainment programs in a subtle and engaging way, making learning fun and accessible for everyone.</p>",
+    "uzSampleAnswer": "<p>Xo'sh, barcha teleko'rsatuvlar ta'limiy bo'lishi kerak degan fikr murakkab bo'lib, har ikki tomonning ham asosli dalillari bor. Bir tomondan, televideniyaning ta'limiy salohiyati uchun kuchli asos bor. Televizor bilim tarqatish, qimmatli ko'nikmalarni o'rgatish va atrofimizdagi dunyoga qiziqish uyg'otish uchun kuchli vosita bo'lishi mumkin. Ta'lim dasturlari tomoshabinlarni yangi g'oyalar, madaniyatlar va nuqtai nazarlar bilan tanishtirishi, ularning dunyoqarashini kengaytirishi va hayotini boyitishi mumkin. Bundan tashqari, ular ijodkorlik va tanqidiy fikrlashga ilhomlantirishi, tomoshabinlarni taxminlarni shubha ostiga qo'yishga va yangi imkoniyatlarni o'rganishga undashi mumkin.</p> <p>Biroq, o'yin-kulgi o'z-o'zidan qimmatli ekanligini tan olish ham muhim. Odamlar ko'pincha televizorga dam olish, hordiq chiqarish va kundalik hayotning stresslaridan qochish yo'li sifatida murojaat qilishadi. Ko'ngilochar dasturlar juda zarur bo'lgan yengillik va zavqni ta'minlashi, tomoshabinlarga kuch yig'ish va tetiklashishga yordam berishi mumkin. Barcha teleko'rsatuvlarga qat'iy ta'limiy talabni qo'yish ijodkorlikni bo'g'ishi va dasturlarning sifati va xilma-xilligining pasayishiga olib kelishi mumkin. Doimiy ish hech kimga zavq bermaydi, deyishadi.</p> <p>Oxir oqibat, muvozanatli yondashuv eng maqbul bo'lishi mumkin. Yuqori sifatli ta'lim dasturlari mavjudligini ta'minlash muhim bo'lsa-da, sof o'yin-kulgi uchun joyni saqlab qolish ham juda muhim. Asosiysi, tomoshabinlarning turli ehtiyojlari va afzalliklariga javob beradigan, ularga teng ravishda o'rganish, o'sish va ko'ngil ochish imkonini beradigan muvozanatni topishdir. Bu haqiqatan ham muvozanatli harakat. Ideal ssenariy ta'lim elementlarini ko'ngilochar dasturlarga nozik va qiziqarli tarzda integratsiya qilishni o'z ichiga oladi, bu esa o'rganishni barcha uchun qiziqarli va oson qiladi.</p>"
+   }
+  ],
+  "tokenTranslations": {
+   "but": {
+    "uz": "lekin",
+    "type": "adv"
+   },
+   "Also": {
+    "uz": "Shuningdek",
+    "type": "adv"
+   },
+   "Well": {
+    "uz": "Xo'sh",
+    "type": "adv"
+   },
+   "go-to": {
+    "uz": "eng sevimli",
+    "type": "idiom"
+   },
+   "put on": {
+    "uz": "qo'ymoq",
+    "type": "phrasal"
+   },
+   "set in": {
+    "uz": "joylashgan",
+    "type": "colloc"
+   },
+   "though": {
+    "uz": "garchi",
+    "type": "adv"
+   },
+   "However": {
+    "uz": "Biroq",
+    "type": "adv"
+   },
+   "In fact": {
+    "uz": "Aslida",
+    "type": "adv"
+   },
+   "clearly": {
+    "uz": "aniq",
+    "type": "adv"
+   },
+   "draw in": {
+    "uz": "jalb qilmoq",
+    "type": "phrasal"
+   },
+   "moreish": {
+    "uz": "yana yegingiz keladigan",
+    "type": "colloc"
+   },
+   "such as": {
+    "uz": "kabi",
+    "type": "adv"
+   },
+   "Moreover": {
+    "uz": "Qolaversa",
+    "type": "adv"
+   },
+   "although": {
+    "uz": "garchi",
+    "type": "adv"
+   },
+   "feed off": {
+    "uz": "ta'sirlanmoq",
+    "type": "phrasal"
+   },
+   "jaded by": {
+    "uz": "zerikkan",
+    "type": "colloc"
+   },
+   "mind you": {
+    "uz": "aytmoqchimanki",
+    "type": "adv"
+   },
+   "tune out": {
+    "uz": "e'tibor bermay qo'ymoq",
+    "type": "phrasal"
+   },
+   "underdog": {
+    "uz": "ojiz",
+    "type": "proverb"
+   },
+   "you know": {
+    "uz": "bilasizmi",
+    "type": "adv"
+   },
+   "Certainly": {
+    "uz": "Albatta",
+    "type": "adv"
+   },
+   "I suppose": {
+    "uz": "menimcha",
+    "type": "adv"
+   },
+   "Of course": {
+    "uz": "Albatta",
+    "type": "adv"
+   },
+   "That said": {
+    "uz": "Shunga qaramay",
+    "type": "linking"
+   },
+   "a win-win": {
+    "uz": "ikki tomon uchun ham foydali",
+    "type": "colloc"
+   },
+   "add up to": {
+    "uz": "yig'ilib ...ni tashkil qiladi",
+    "type": "phrasal"
+   },
+   "dabble in": {
+    "uz": "havas uchun shug'ullanmoq",
+    "type": "phrasal"
+   },
+   "have a go": {
+    "uz": "urinib ko'rmoq",
+    "type": "phrasal"
+   },
+   "more like": {
+    "uz": "ko'proq ...ga o'xshash",
+    "type": "adv"
+   },
+   "on the go": {
+    "uz": "qo'lda, o'qilayotgan",
+    "type": "idiom"
+   },
+   "out there": {
+    "uz": "odamlarning oldida",
+    "type": "phrasal"
+   },
+   "tidied up": {
+    "uz": "tartibga keltirdi",
+    "type": "phrasal"
+   },
+   "top-notch": {
+    "uz": "yuqori sifatli",
+    "type": "colloc"
+   },
+   "turned to": {
+    "uz": "murojaat qildim",
+    "type": "phrasal"
+   },
+   "wind down": {
+    "uz": "dam olmoq, hordiq chiqarmoq",
+    "type": "phrasal"
+   },
+   "All in all": {
+    "uz": "Umuman olganda",
+    "type": "linking"
+   },
+   "It must be": {
+    "uz": "bo'lsa kerak",
+    "type": "modal"
+   },
+   "Ultimately": {
+    "uz": "Oxir-oqibat",
+    "type": "adv"
+   },
+   "blown away": {
+    "uz": "hayratda qoldim",
+    "type": "idiom"
+   },
+   "especially": {
+    "uz": "ayniqsa",
+    "type": "adv"
+   },
+   "force-feed": {
+    "uz": "zo'rlab singdirmoq",
+    "type": "colloc"
+   },
+   "going into": {
+    "uz": "kirishib ketmoq",
+    "type": "phrasal"
+   },
+   "hectic day": {
+    "uz": "band, shovqinli kun",
+    "type": "colloc"
+   },
+   "switch off": {
+    "uz": "miyaga dam bermoq",
+    "type": "phrasal"
+   },
+   "For example": {
+    "uz": "Masalan",
+    "type": "adv"
+   },
+   "Furthermore": {
+    "uz": "Bundan tashqari",
+    "type": "adv"
+   },
+   "In contrast": {
+    "uz": "Aksincha",
+    "type": "linking"
+   },
+   "avid reader": {
+    "uz": "mutolaani sevuvchi kitobxon",
+    "type": "colloc"
+   },
+   "belting out": {
+    "uz": "baland ovozda kuylamoq",
+    "type": "phrasal"
+   },
+   "brings back": {
+    "uz": "eslatadi",
+    "type": "phrasal"
+   },
+   "by no means": {
+    "uz": "hech qanday",
+    "type": "colloc"
+   },
+   "essentially": {
+    "uz": "asosan",
+    "type": "adv"
+   },
+   "feeding off": {
+    "uz": "quvvat olmoq",
+    "type": "phrasal"
+   },
+   "hammer home": {
+    "uz": "qattiq singdirmoq",
+    "type": "phrasal"
+   },
+   "scraping by": {
+    "uz": "zo'rg'a kun ko'rmoq",
+    "type": "phrasal"
+   },
+   "stopping by": {
+    "uz": "o'tib ketmoq",
+    "type": "phrasal"
+   },
+   "sweet tooth": {
+    "uz": "shirinlikka o'ch",
+    "type": "colloc"
+   },
+   "The thing is": {
+    "uz": "gap shundaki",
+    "type": "linking"
+   },
+   "To be honest": {
+    "uz": "rostini aytsam",
+    "type": "adv"
+   },
+   "a handful of": {
+    "uz": "bir nechta, bir hovuch",
+    "type": "colloc"
+   },
+   "a real boost": {
+    "uz": "haqiqiy turtki",
+    "type": "colloc"
+   },
+   "biggest draw": {
+    "uz": "eng katta jozibasi",
+    "type": "colloc"
+   },
+   "chilling out": {
+    "uz": "kayf qilmoq",
+    "type": "phrasal"
+   },
+   "come down to": {
+    "uz": "bog'liq bo'lmoq",
+    "type": "phrasal"
+   },
+   "get me going": {
+    "uz": "meni harakatga keltirish",
+    "type": "phrasal"
+   },
+   "in the flesh": {
+    "uz": "jonli, o'z ko'zi bilan",
+    "type": "idiom"
+   },
+   "now and then": {
+    "uz": "vaqti-vaqti bilan",
+    "type": "adv"
+   },
+   "sickly sweet": {
+    "uz": "haddan tashqari shirin",
+    "type": "colloc"
+   },
+   "sift through": {
+    "uz": "saralab olmoq",
+    "type": "phrasal"
+   },
+   "stumble upon": {
+    "uz": "tasodifan duch kelmoq",
+    "type": "phrasal"
+   },
+   "to be honest": {
+    "uz": "rostini aytsam",
+    "type": "adv"
+   },
+   "boils down to": {
+    "uz": "...ga kelib taqaladi",
+    "type": "idiom"
+   },
+   "get around to": {
+    "uz": "vaqt topmoq",
+    "type": "phrasal"
+   },
+   "helps me stay": {
+    "uz": "yordam beradi",
+    "type": "colloc"
+   },
+   "let off steam": {
+    "uz": "dardini yozmoq",
+    "type": "phrasal"
+   },
+   "my cup of tea": {
+    "uz": "menga yoqadigan narsa",
+    "type": "idiom"
+   },
+   "put out there": {
+    "uz": "e'lon qilmoq",
+    "type": "phrasal"
+   },
+   "sets the mood": {
+    "uz": "kayfiyatni ko'taradi",
+    "type": "phrasal"
+   },
+   "stripped-down": {
+    "uz": "soddalashtirilgan",
+    "type": "colloc"
+   },
+   "It's all good!": {
+    "uz": "Hammasi joyida!",
+    "type": "idiom"
+   },
+   "On top of that": {
+    "uz": "Bundan tashqari",
+    "type": "linking"
+   },
+   "helps me relax": {
+    "uz": "dam olishimga yordam beradi",
+    "type": "colloc"
+   },
+   "huge spectacle": {
+    "uz": "ulkan tomosha",
+    "type": "colloc"
+   },
+   "really appeals": {
+    "uz": "juda yoqadi",
+    "type": "colloc"
+   },
+   "sizeable crowd": {
+    "uz": "katta olomon",
+    "type": "colloc"
+   },
+   "the sweet spot": {
+    "uz": "eng maqbul nuqta",
+    "type": "idiom"
+   },
+   "On the one hand": {
+    "uz": "Bir tomondan",
+    "type": "linking"
+   },
+   "capture the joy": {
+    "uz": "quvonchni aks ettiradi",
+    "type": "colloc"
+   },
+   "goes a long way": {
+    "uz": "katta ahamiyatga ega",
+    "type": "idiom"
+   },
+   "head-scratching": {
+    "uz": "bosh qotirish",
+    "type": "colloc"
+   },
+   "play favourites": {
+    "uz": "birovni yon bosmaydi",
+    "type": "idiom"
+   },
+   "round the clock": {
+    "uz": "kechayu kunduz",
+    "type": "idiom"
+   },
+   "strikes a chord": {
+    "uz": "qalbga ta'sir qiladi",
+    "type": "idiom"
+   },
+   "across the board": {
+    "uz": "barcha sohalarda",
+    "type": "idiom"
+   },
+   "broadly speaking": {
+    "uz": "Umuman olganda",
+    "type": "adv"
+   },
+   "delicate texture": {
+    "uz": "nozik tuzilish",
+    "type": "colloc"
+   },
+   "hands in the air": {
+    "uz": "qo'llarini havoga ko'tarib",
+    "type": "colloc"
+   },
+   "ulterior motives": {
+    "uz": "yashirin maqsadlar",
+    "type": "colloc"
+   },
+   "On the other hand": {
+    "uz": "Boshqa tomondan",
+    "type": "linking"
+   },
+   "a different story": {
+    "uz": "boshqa masala",
+    "type": "idiom"
+   },
+   "far more intimate": {
+    "uz": "ancha samimiyroq",
+    "type": "colloc"
+   },
+   "flashy production": {
+    "uz": "dabdabali sahna bezagi",
+    "type": "colloc"
+   },
+   "makes the journey": {
+    "uz": "sayohatni qulay qiladi",
+    "type": "colloc"
+   },
+   "picking things up": {
+    "uz": "o'rganib olmoq",
+    "type": "phrasal"
+   },
+   "put on some tunes": {
+    "uz": "musiqa qo'ymoq",
+    "type": "phrasal"
+   },
+   "Generally speaking": {
+    "uz": "Umuman olganda",
+    "type": "adv"
+   },
+   "It goes both ways.": {
+    "uz": "ikki tomonlama",
+    "type": "idiom"
+   },
+   "far from foolproof": {
+    "uz": "mukammallikdan yiroq",
+    "type": "colloc"
+   },
+   "have a sweet tooth": {
+    "uz": "shirinlikka o'ch bo'lmoq",
+    "type": "phrasal"
+   },
+   "swayed by emotions": {
+    "uz": "his-tuyg'ularga berilmaydi",
+    "type": "colloc"
+   },
+   "a real game-changer": {
+    "uz": "haqiqiy o'yin o'zgartiruvchi",
+    "type": "idiom"
+   },
+   "push the boundaries": {
+    "uz": "chegaralarni kengaytirmoq",
+    "type": "idiom"
+   },
+   "It's a balancing act": {
+    "uz": "Muvozanatni saqlash kerak",
+    "type": "idiom"
+   },
+   "a real balancing act": {
+    "uz": "haqiqiy muvozanat masalasi",
+    "type": "idiom"
+   },
+   "pushing the envelope": {
+    "uz": "chegaralarni kengaytirish",
+    "type": "colloc"
+   },
+   "At the end of the day": {
+    "uz": "Oxir-oqibat",
+    "type": "idiom"
+   },
+   "bring people together": {
+    "uz": "odamlarni birlashtiradi",
+    "type": "colloc"
+   },
+   "fresh out of the oven": {
+    "uz": "yangigina pishirilgan",
+    "type": "colloc"
+   },
+   "looks like an amazing": {
+    "uz": "ajoyibga o'xshaydi",
+    "type": "colloc"
+   },
+   "opening people's eyes": {
+    "uz": "odamlarning ko'zini ochish",
+    "type": "idiom"
+   },
+   "take it at face value": {
+    "uz": "shundayligicha qabul qilishadi",
+    "type": "idiom"
+   },
+   "up close and personal": {
+    "uz": "yaqindan",
+    "type": "phrasal"
+   },
+   "Practice makes perfect": {
+    "uz": "Usta qo'rqoq emas",
+    "type": "proverb"
+   },
+   "bathed in bright lights": {
+    "uz": "yorqin chiroqlarga cho'milgan",
+    "type": "colloc"
+   },
+   "playing their heart out": {
+    "uz": "jon-dildan ijro etmoq",
+    "type": "idiom"
+   },
+   "the best of both worlds": {
+    "uz": "ikkala dunyoning eng yaxshisi",
+    "type": "idiom"
+   },
+   "broadening their horizons": {
+    "uz": "dunyoviy qarashlarini kengaytirish",
+    "type": "colloc"
+   },
+   "first thing in the morning": {
+    "uz": "ertalab birinchi navbatda",
+    "type": "colloc"
+   },
+   "Variety is the spice of life": {
+    "uz": "Har xillik hayotga fayz beradi",
+    "type": "proverb"
+   },
+   "What you see is what you get": {
+    "uz": "ko'rganingiz - o'shaning o'zi",
+    "type": "idiom"
+   },
+   "Music is the food of the soul": {
+    "uz": "Qo'shiq - dil ovqati",
+    "type": "proverb"
+   },
+   "It's like they're keeping it real.": {
+    "uz": "Go'yoki ular boricha ko'rinishga harakat qilishyapti.",
+    "type": "idiom"
+   },
+   "All work and no play makes Jack a dull boy": {
+    "uz": "Faqat ishlayversa, odam zerikib qoladi.",
+    "type": "proverb"
+   }
+  }
+ },
+ "created_at": "2026-05-08T17:23:14.292122+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

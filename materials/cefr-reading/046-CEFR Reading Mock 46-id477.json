@@ -1,0 +1,687 @@
+{
+ "id": 477,
+ "mock_type": "cefr-reading",
+ "mock_number": 46,
+ "title": "CEFR Reading Mock 46",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "gap-fill-text",
+    "title": "READING PART 1",
+    "answers": {
+     "1": [
+      "Forest"
+     ],
+     "2": [
+      "Path"
+     ],
+     "3": [
+      "Noise"
+     ],
+     "4": [
+      "Bird"
+     ],
+     "5": [
+      "Wing"
+     ],
+     "6": [
+      "Teacher"
+     ]
+    },
+    "passage": {
+     "title": "A Walk in the Forest",
+     "content": "<p>A boy named Tom went for his usual walk in the forest near his house. He enjoyed spending time in nature because it helped him relax and forget about school stress. There was a narrow path in the <span class=\"gap\" data-gap=\"1\">_____(1)_____</span> that he often followed. The path was quiet and peaceful, and Tom liked liked listening to the sounds of birds and the wind in the trees. One afternoon, while he was walking along the <span class=\"gap\" data-gap=\"2\">_____(2)_____</span>, he suddenly heard a strange noise coming from the bushes. At first, he felt a little nervous, but he was also curious. He walked towards the direction of the <span class=\"gap\" data-gap=\"3\">_____(3)_____</span>. As he got closer, he noticed something moving under the leaves. When he looked more carefully, he saw a small bird on the ground. The <span class=\"gap\" data-gap=\"4\">_____(4)_____</span> seemed weak, and a bird's wing was injured. It could not fly away. Tom felt sorry for the poor animal and decided to help it. He gently picked up the bird and carried it home to heal its <span class=\"gap\" data-gap=\"5\">_____(5)_____</span>. At home, Tom did not know what to do. He did not want to make the situation worse. Therefore, he decided to ask his biology teacher for advice. He called his <span class=\"gap\" data-gap=\"6\">_____(6)_____</span> and explained what had happened in the forest. The teacher told him how to take care of the bird and suggested taking it to a local animal clinic if the wing did not improve. Tom was proud of himself for helping the injured bird. It was a simple walk in the forest, but it became a meaningful experience for him.</p>"
+    },
+    "questions": [
+     {
+      "id": 1,
+      "hint": "There was a narrow path in the _____(1)_____ that he often followed."
+     },
+     {
+      "id": 2,
+      "hint": "One afternoon, while he was walking along the _____(2)_____, he suddenly heard a strange noise coming from the bushes."
+     },
+     {
+      "id": 3,
+      "hint": "He walked towards the direction of the _____(3)_____. As he got closer, he noticed something moving under the leaves."
+     },
+     {
+      "id": 4,
+      "hint": "When he looked more carefully, he saw a small bird on the ground. The _____(4)_____ seemed weak, and a bird's wing was injured."
+     },
+     {
+      "id": 5,
+      "hint": "He gently picked up the bird and carried it home to heal its _____(5)_____. At home, Tom did not know what to do."
+     },
+     {
+      "id": 6,
+      "hint": "He called his _____(6)_____ and explained what had happened in the forest."
+     }
+    ],
+    "partNumber": 1,
+    "instruction": "Read the text. Fill in each gap with ONE word. You must use a word which is somewhere in the rest of the text.",
+    "explanations": {
+     "q1": {
+      "text": "The passage begins by stating that Tom was walking in the forest. The sentence with the gap describes a path he followed, which would logically be located within that area. That's why the correct answer is 'Forest'.",
+      "quote": "A boy named Tom went for his usual walk in the forest near his house."
+     },
+     "q2": {
+      "text": "The text previously established that Tom was following a narrow path. Therefore, when he heard a noise, he was walking along that same route he had been following. That's why the correct answer is 'Path'.",
+      "quote": "There was a narrow path in the _____(1)_____ that he often followed."
+     },
+     "q3": {
+      "text": "The passage states that Tom heard a strange noise and was curious about it. It is logical that he would then walk towards the source of what he heard to investigate. That's why the correct answer is 'Noise'."
+     },
+     "q4": {
+      "text": "The previous sentence explicitly mentions that Tom saw a small bird on the ground. The sentence with the gap continues to describe this same creature's weak and injured condition. That's why the correct answer is 'Bird'.",
+      "quote": "When he looked more carefully, he saw a small bird on the ground."
+     },
+     "q5": {
+      "text": "The text previously mentioned that the bird had an injured wing. Since Tom decided to help the animal, he took it home specifically to care for this injury. That's why the correct answer is 'Wing'.",
+      "quote": "The _____(4)_____ seemed weak, and a bird's wing was injured."
+     },
+     "q6": {
+      "text": "The passage states that Tom decided to ask his biology teacher for advice because he didn't know what to do. The following sentence describes him making that call for help. That's why the correct answer is 'Teacher'.",
+      "quote": "Therefore, he decided to ask his biology teacher for advice."
+     }
+    },
+    "questionRange": "1-6"
+   },
+   {
+    "type": "matching",
+    "texts": [
+     {
+      "title": "Q7",
+      "number": 7,
+      "content": "SPANISH COURSES in BARCELONA General Spanish classes, all levels One- or two-month courses Free accommodation Registration starts 1 July Tel.: +34 4 50 53 07 56"
+     },
+     {
+      "title": "Q8",
+      "number": 8,
+      "content": "English Immersion in Canada ✓ INTENSIVE ESL INSTRUCTION ✓ HOMESTAY PROGRAM ✓ LEISURE ACTIVITIES Vancouver English Centre www.vec.com"
+     },
+     {
+      "title": "Q9",
+      "number": 9,
+      "content": "CENTRE for ENGLISH LANGUAGE and BRITISH STUDIES, University of East Anglia We offer: ▪ Courses to improve your knowledge of language and culture, with some opportunity for specialisation (1 or 2 semesters) ▪ Summer English courses at all levels (July–September) Please write to admissions.cebs@uea.co.uk for further information"
+     },
+     {
+      "title": "Q10",
+      "number": 10,
+      "content": "ST. JOHN’S LANGUAGE SCHOOL Fun English courses for all levels and needs • Examination preparation courses • Friendly school atmosphere • Trendy central London location • Highly motivated and qualified teachers 38 The Mall, London W5 3TJ www.stjohns.com"
+     },
+     {
+      "title": "Q11",
+      "number": 11,
+      "content": "French in France! Open all year round From 1 week up to 9 months All levels CERTIFIED EXAMS if required Rue de Clichy, 91456 Nantes"
+     },
+     {
+      "title": "Q12",
+      "number": 12,
+      "content": "SCHOLARSHIPS TO STUDY IN ITALY One semester abroad Covers: • Air travel • Tuition fee • Monthly allowance For IT and Engineering students Phone: +39 0737 237338"
+     },
+     {
+      "title": "Q13",
+      "number": 13,
+      "content": "ILS France Top quality courses for business executives and students – French for international relations – Commercial French – French through literature, music and film – French for the hotel and tourist industries ILS France, Rue de Paris, 03206 Vichy – France +33 4 70 30 26 10, contact@ils-france.fr"
+     },
+     {
+      "title": "Q14",
+      "number": 14,
+      "content": "INTENSIVE SPANISH LANGUAGE COURSES Stay with carefully chosen families * Socialize with guests from the local business community • Immerse yourself in the Spanish language and culture Visit our website for more information. www.slc-barcelona.es"
+     }
+    ],
+    "title": "Part 2",
+    "answers": {
+     "7": [
+      "G"
+     ],
+     "8": [
+      "C"
+     ],
+     "9": [
+      "F"
+     ],
+     "10": [
+      "D"
+     ],
+     "11": [
+      "I"
+     ],
+     "12": [
+      "B"
+     ],
+     "13": [
+      "A"
+     ],
+     "14": [
+      "J"
+     ]
+    },
+    "questions": [
+     {
+      "id": 7,
+      "textNumber": 7
+     },
+     {
+      "id": 8,
+      "textNumber": 8
+     },
+     {
+      "id": 9,
+      "textNumber": 9
+     },
+     {
+      "id": 10,
+      "textNumber": 10
+     },
+     {
+      "id": 11,
+      "textNumber": 11
+     },
+     {
+      "id": 12,
+      "textNumber": 12
+     },
+     {
+      "id": 13,
+      "textNumber": 13
+     },
+     {
+      "id": 14,
+      "textNumber": 14
+     }
+    ],
+    "partNumber": 2,
+    "statements": [
+     {
+      "text": "You need to learn the language for your job.",
+      "letter": "A"
+     },
+     {
+      "text": "You would like to continue your studies in another country.",
+      "letter": "B"
+     },
+     {
+      "text": "You want to learn the language and do interesting things in your free time.",
+      "letter": "C"
+     },
+     {
+      "text": "You want to learn the language in London.",
+      "letter": "D"
+     },
+     {
+      "text": "You want to have a higher education in England.",
+      "letter": "E"
+     },
+     {
+      "text": "You want to learn the language next summer.",
+      "letter": "F"
+     },
+     {
+      "text": "You need a free place to stay while studying.",
+      "letter": "G"
+     },
+     {
+      "text": "You would like to learn more than one language.",
+      "letter": "H"
+     },
+     {
+      "text": "You need to take an exam, finishing the course.",
+      "letter": "I"
+     },
+     {
+      "text": "You want to meet people from local companies during the course.",
+      "letter": "J"
+     }
+    ],
+    "instruction": "Read the texts 7-14 and the statements A-J. Decide which text matches with the situation described in the statements. Each statement can be used ONCE only. There are TWO extra statements which you do not need to use. A) You need to learn the language for your job. B) You would like to continue your studies in another country. C) You want to learn the language and do interesting things in your free time. D) You want to learn the language in London. E) You want to have a higher education in England. F) You want to learn the language next summer. G) You need a free place to stay while studying. H) You would like to learn more than one language. I) You need to take an exam, finishing the course. J) You want to meet people from local companies during the course. 7. SPANISH COURSES in BARCELONA General Spanish classes, all levels One- or two-month courses Free accommodation Registration starts 1 July Tel.: +34 4 50 53 07 56",
+    "explanations": {},
+    "questionRange": "7-14",
+    "extraStatements": [
+     "E",
+     "H"
+    ],
+    "statementsFirst": true
+   },
+   {
+    "type": "matching-headings",
+    "title": "Part 3",
+    "answers": {
+     "15": [
+      "G"
+     ],
+     "16": [
+      "D"
+     ],
+     "17": [
+      "F"
+     ],
+     "18": [
+      "C"
+     ],
+     "19": [
+      "H"
+     ],
+     "20": [
+      "B"
+     ]
+    },
+    "passage": {
+     "title": "The Fascinating World of Dragonflies",
+     "paragraphs": [
+      {
+       "number": "1",
+       "content": "Long before the dinosaurs walked the Earth, dragonflies took to the air. If we could transport ourselves back 250 million years, we would immediately recognize the familiar sight of dragonflies flying in pursuit of prey. Ancient dragonflies may have been considerably larger than those we see today. A fossilized impression of a dragonfly wing, found in a coal mine in England, is the oldest known dragonfly specimen. This dragonfly lived 320 million years ago and had a wingspan of 8 inches."
+      },
+      {
+       "number": "2",
+       "content": "Relative to other insects, dragonfly vision is extraordinarily good. The head consists almost entirely of two huge compound eyes, which gives the dragonfly nearly 360° vision. Each compound eye contains as many as 30,000 lenses, or ommatidia. A dragonfly uses about 80% of its brain to process all this visual information. They can see a wider spectrum of colours than humans. This remarkable vision helps them to detect the movement of other insects and avoid collisions in flight."
+      },
+      {
+       "number": "3",
+       "content": "Dragonflies can move each of their four wings independently. In addition to flapping each wing up and down, they can rotate their wings forward and back on”an axis. This flexibility enables them to put on an aerial show like no other insect. Dragonflies can move straight up or down, fly backwards, stop and hover, and make hairpin turns, at full speed or in slow motion. A dragonfly can fly forward at a speed of 100 body lengths per second, or up to 30 miles per hour."
+      },
+      {
+       "number": "4",
+       "content": "A number of dragonfly species are known to migrate. As with other organisms that migrate, dragonflies relocate to follow or find needed resources, or in response to environmental changes like cold weather. The globe skimmer is one of several species known to develop in temporary freshwater pools. Forced to follow the rains that replenish their breeding sites, the globe skimmer set a new insect world record when a biologist documented its 11,000 mile trip between India and Africa."
+      },
+      {
+       "number": "5",
+       "content": "Fifty years ago there were twice as many ponds in Britain as there are today. The draining of agricultural land, \"filling in and pollution have all contributed to the disappearance of most countryside ponds. Canals have also suffered from pollution, especially by chemicals used on farmland draining into water. The loss of suitable fresh water habitats has affected dragonflies enormously and they are becoming increasingly rare. Some of dragonflies which can be found living only in the Norfolk Broads, is on the list of British endangered species of insects."
+      },
+      {
+       "number": "6",
+       "content": "A dragonfly has two large compound eyes which take up most of its head. Dragonflies have long, delicate, membranous wings which are transparent and some have light yellow colouring near the tips. Their bodies are long and slender and they have short antennae. Dragonflies are very colourful. Some are red like the Comet Darner and yellow like the Emerald Darner. They can beat each pairs of wings together or separately and their rear wings can be out of phase with the front wings. Their wing beat is around 50-90 beats per second."
+      }
+     ]
+    },
+    "headings": [
+     {
+      "text": "Comparing insects",
+      "letter": "A"
+     },
+     {
+      "text": "Some special features",
+      "letter": "B"
+     },
+     {
+      "text": "Some dragonflies migrate",
+      "letter": "C"
+     },
+     {
+      "text": "Excellent vision",
+      "letter": "D"
+     },
+     {
+      "text": "Keeping them warm or cool",
+      "letter": "E"
+     },
+     {
+      "text": "Masters of flight",
+      "letter": "F"
+     },
+     {
+      "text": "Ancient insects",
+      "letter": "G"
+     },
+     {
+      "text": "Risks of extinction",
+      "letter": "H"
+     }
+    ],
+    "questions": [
+     {
+      "id": 15,
+      "text": "Paragraph 1"
+     },
+     {
+      "id": 16,
+      "text": "Paragraph 2"
+     },
+     {
+      "id": 17,
+      "text": "Paragraph 3"
+     },
+     {
+      "id": 18,
+      "text": "Paragraph 4"
+     },
+     {
+      "id": 19,
+      "text": "Paragraph 5"
+     },
+     {
+      "id": 20,
+      "text": "Paragraph 6"
+     }
+    ],
+    "partNumber": 3,
+    "instruction": "Read the text and choose the correct heading for each paragraph from the list of headings below.",
+    "explanations": {},
+    "extraHeadings": [
+     "A",
+     "E"
+    ],
+    "questionRange": "15-20"
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 4",
+    "answers": {
+     "21": [
+      "B"
+     ],
+     "22": [
+      "C"
+     ],
+     "23": [
+      "B"
+     ],
+     "24": [
+      "A"
+     ],
+     "25": [
+      "True",
+      "A"
+     ],
+     "26": [
+      "True",
+      "A"
+     ],
+     "27": [
+      "True",
+      "A"
+     ],
+     "28": [
+      "True",
+      "A"
+     ],
+     "29": [
+      "False",
+      "B"
+     ]
+    },
+    "passage": {
+     "title": "Meditation and Hormones",
+     "content": "<p>In recent years, meditation has gained worldwide popularity, not only as a spiritual or mindfulness practice but also as a scientifically supported method of enhancing physical and mental health. Among the most fascinating discoveries about meditation is its impact on the body’s hormonal system. Hormones play a crucial role in regulating mood, energy, sleep, and stress. Studies have shown that regular meditation can lead to significant hormonal changes, contributing to overall well-being and emotional balance.</p><p>One of the primary hormones influenced by meditation is cortisol, commonly known as the \"stress hormone\". Cortisol is released by the adrenal glands in response to physical or psychological stress. While short-term cortisol release is helpful in dangerous situations, chronic stress and high cortisol levels can lead to anxiety, insomnia, weight gain, and weakened immunity. Several clinical trials have demonstrated that individuals who practice mindfulness meditation experience notably lower cortisol levels, leading to reduced stress and improved emotional resilience.</p><p>In addition to reducing stress hormones, meditation also helps increase the levels of serotonin, a neurotransmitter that contributes to feelings of happiness and well-being. Low serotonin levels are associated with depression, mood swings, and fatigue. Meditation practices such as focused breathing, mantra repetition, or body scanning stimulate parts of the brain responsible for serotonin production. This natural boost in serotonin helps create a more positive mood and may even reduce the need for certain medications in mild cases of depression.</p><p>Another hormone positively affected by meditation is melatonin, which regulates the sleep-wake cycle. Practicing meditation before bedtime has been shown to increase melatonin production, leading to improved sleep quality and deeper rest. Better sleep, in turn, supports hormone regulation, mental clarity, and physical health. Some meditation techniques, such as yoga nidra or guided relaxation, are specifically designed to prepare the body for restful sleep by calming the nervous system.</p><p>Meditation may also influence the release of dopamine, often referred to as the “reward chemical.” Dopamine is linked to motivation, attention, and feelings of pleasure. Research using brain imaging has revealed that meditation can stimulate dopamine pathways, resulting in heightened focus and a sense of satisfaction. This might explain why experienced meditators often report a feeling of mental sharpness and joy during and after practice.</p><p>While the immediate effects of meditation on hormones can vary between individuals, long-term practice appears to lead to more stable and balanced hormone levels. This hormonal stability is believed to contribute to lower blood pressure, improved digestion, enhanced immune response, and a reduction in symptoms of chronic illnesses. Experts emphasize, however, that meditation should not replace medical treatment, but rather be used as a complementary practice within a holistic health approach.</p>"
+    },
+    "partNumber": 4,
+    "instruction": "Read the following text for questions 21-29.",
+    "explanations": {},
+    "questionRange": "21-29",
+    "questionSections": [
+     {
+      "type": "mcq",
+      "title": "Questions 21-24: Multiple Choice",
+      "questions": [
+       {
+        "id": 21,
+        "text": "What new discovery made scientists more interested in studying meditation?",
+        "options": [
+         {
+          "text": "It helps make bones stronger",
+          "letter": "A"
+         },
+         {
+          "text": "It clearly affects the body’s hormone system",
+          "letter": "B"
+         },
+         {
+          "text": "It can take the place of exercise for the heart",
+          "letter": "C"
+         },
+         {
+          "text": "It can quickly cure serious illnesses",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 22,
+        "text": "Which hormone goes down when people often do mindfulness meditation?",
+        "options": [
+         {
+          "text": "Dopamine",
+          "letter": "A"
+         },
+         {
+          "text": "Melatonin",
+          "letter": "B"
+         },
+         {
+          "text": "Cortisol",
+          "letter": "C"
+         },
+         {
+          "text": "Serotonin",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 23,
+        "text": "Which chemical that affects mood goes up with breathing exercises and repeating mantras?",
+        "options": [
+         {
+          "text": "Insulin",
+          "letter": "A"
+         },
+         {
+          "text": "Serotonin",
+          "letter": "B"
+         },
+         {
+          "text": "Adrenaline",
+          "letter": "C"
+         },
+         {
+          "text": "Progesterone",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 24,
+        "text": "Why do some people meditate at night before going to sleep?",
+        "options": [
+         {
+          "text": "It increases melatonin and helps them sleep better",
+          "letter": "A"
+         },
+         {
+          "text": "It gives more energy by raising dopamine levels",
+          "letter": "B"
+         },
+         {
+          "text": "It completely stops cortisol for a whole day",
+          "letter": "C"
+         },
+         {
+          "text": "It cools the body more than anything else",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "Choose the correct answer A, B, C, or D.",
+      "questionRange": "21-24"
+     },
+     {
+      "type": "tfni",
+      "title": "Questions 25-29: True/False/Not Given",
+      "options": [
+       "True",
+       "False",
+       "Not Given"
+      ],
+      "questions": [
+       {
+        "id": 25,
+        "text": "The text says that meditation can affect people’s hormones differently right away — it’s not the same for everyone."
+       },
+       {
+        "id": 26,
+        "text": "Meditating regularly for a long time can help reduce blood pressure."
+       },
+       {
+        "id": 27,
+        "text": "The passage says that better hormone balance from meditation might also help with digestion."
+       },
+       {
+        "id": 28,
+        "text": "The passage explains that keeping hormone levels balanced through meditation over time can make the immune system stronger."
+       },
+       {
+        "id": 29,
+        "text": "The text says that experts do not recommend using only meditation instead of regular medical treatment for serious health problems."
+       }
+      ],
+      "instruction": "Decide if the following statements agree with the information given in the text.",
+      "questionRange": "25-29"
+     }
+    ]
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 5",
+    "answers": {
+     "30": [
+      "asteroids"
+     ],
+     "31": [
+      "isotopes"
+     ],
+     "32": [
+      "rain"
+     ],
+     "33": [
+      "climate"
+     ],
+     "34": [
+      "B"
+     ],
+     "35": [
+      "C"
+     ]
+    },
+    "passage": {
+     "title": "The Mysterious Origins of Earth’s Water",
+     "content": "<p>Despite the fact that water covers over 70% of the Earth’s surface, scientists are still debating where it originally came from. Our planet is home to vast oceans, icy glaciers, rivers, and atmospheric vapor, yet the origins of this essential substance remain one of the biggest puzzles in planetary science. Did Earth always have water, or did it arrive later— possibly from outer space?</p><p>One leading theory suggests that water was delivered to Earth during the early stages of its formation by icy comets and asteroids. These space objects, composed largely of rock and frozen gases, may have collided with Earth approximately 4 billion years ago, depositing ice that later melted into liquid water. Isotopic analysis of water found in meteorites has revealed similarities to water found in Earth’s oceans, supporting this theory. However, the exact ratio of hydrogen isotopes doesn’t perfectly match, which has led to ongoing scientific debate.</p><p>Another possibility is that water emerged from volcanic activity deep within the planet. In this scenario, as Earth cooled and its crust began to form, volcanoes released large amounts of gases, including water vapor, into the early atmosphere. Over time, the vapor condensed and fell back to Earth as rain, gradually filling basins to create ancient oceans. This theory highlights how Earth’s volcanic past may have played a more direct role in shaping its climate and water systems.</p><p>Interestingly, both theories might be partially true. A growing number of scientists now believe that Earth’s water may have multiple sources—some originating from within the planet and some arriving from space. This dualorigin theory could explain why Earth's water has both volatile (easily vaporized) and non-volatile components, and why its chemical signature is so complex.</p><p>Water on Earth exists in all three states of matter: solid, liquid, and gas. The icy poles and glaciers act as massive freshwater reserves. The oceans regulate the planet’s temperature and are home to most of its biodiversity. Meanwhile, water vapor in the atmosphere plays a key role in weather patterns and the greenhouse effect. The Earth's unique ability to maintain water in all its forms is closely linked to its distance from the sun and the stability of its climate.</p><p>Modern space missions are also seeking answers beyond our planet. Instruments on spacecraft such as the European Space Agency’s Rosetta and NASA’s OSIRIS-REx are analyzing the composition of comets and asteroids to better understand their potential role in Earth’s water supply. Meanwhile, volcanic activity on moons like Enceladus (Saturn) and Io (Jupiter) shows that icy and volcanic processes may not be unique to Earth, hinting at the possibility of water—and perhaps even life—elsewhere in the solar system.</p>"
+    },
+    "partNumber": 5,
+    "instruction": "Read the following text for questions 30-35.",
+    "explanations": {
+     "q30": {
+      "text": "Javob matnda shu gapdan olinadi.",
+      "quote": "Did Earth always have water, or did it arrive later— possibly from outer space? One leading theory suggests that water was delivered to Earth during the early s"
+     },
+     "q31": {
+      "text": "Javob matnda shu gapdan olinadi.",
+      "quote": "However, the exact ratio of hydrogen isotopes doesn’t perfectly match, which has led to ongoing scientific debate."
+     },
+     "q32": {
+      "text": "Javob matnda shu gapdan olinadi.",
+      "quote": "Over time, the vapor condensed and fell back to Earth as rain, gradually filling basins to create ancient oceans."
+     },
+     "q33": {
+      "text": "Javob matnda shu gapdan olinadi.",
+      "quote": "This theory highlights how Earth’s volcanic past may have played a more direct role in shaping its climate and water systems."
+     }
+    },
+    "questionRange": "30-35",
+    "questionSections": [
+     {
+      "type": "gap-fill",
+      "title": "Questions 30-33: Gap Fill",
+      "questions": [
+       {
+        "id": 30,
+        "hint": "frozen space objects such as comets and _____"
+       },
+       {
+        "id": 31,
+        "hint": "came from space is that the hydrogen _____"
+       },
+       {
+        "id": 32,
+        "hint": "by eruptions eventually fell as _____"
+       },
+       {
+        "id": 33,
+        "hint": "states is partly due to its stable _____"
+       }
+      ],
+      "instruction": ", fill in the missing information in the numbered spaces.",
+      "summaryText": "According to one idea, Earth’s water may have come from frozen space objects such as comets and <span class=\"gap-input\" data-gap=\"30\">_____(30)_____</span>. One problem with the theory that water came from space is that the hydrogen <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span> in Earth’s water doesn’t exactly match the hydrogen in meteorites. According to the volcanic theory, water vapor released by eruptions eventually fell as <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span>. The fact that Earth supports water in all physical states is partly due to its stable <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span>.",
+      "summaryTitle": "The Mysterious Origins of Earth’s Water - Summary",
+      "questionRange": "30-33"
+     },
+     {
+      "type": "mcq",
+      "title": "Questions 34-35: Multiple Choice",
+      "questions": [
+       {
+        "id": 34,
+        "text": "Why do some scientists support a dual-origin theory of Earth’s water?",
+        "options": [
+         {
+          "text": "Because volcanic eruptions alone could not create enough water",
+          "letter": "A"
+         },
+         {
+          "text": "Because both internal and external sources explain water’s complexity",
+          "letter": "B"
+         },
+         {
+          "text": "Because all hydrogen isotopes match perfectly with meteorites",
+          "letter": "C"
+         },
+         {
+          "text": "Because water from Earth’s core evaporates too easily",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 35,
+        "text": "What is the writer’s main purpose in the passage?",
+        "options": [
+         {
+          "text": "To highlight the impact of water on Earth’s biodiversity",
+          "letter": "A"
+         },
+         {
+          "text": "To describe the role of space missions in planetary science",
+          "letter": "B"
+         },
+         {
+          "text": "To examine and compare different theories about Earth’s water origins",
+          "letter": "C"
+         },
+         {
+          "text": "To explain how Earth’s climate makes life possible",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "Choose the correct answer A, B, C, or D.",
+      "questionRange": "34-35"
+     }
+    ]
+   }
+  ],
+  "examDate": "2026-03-17",
+  "testInfo": {
+   "level": "B1-B2-C1",
+   "parts": 5,
+   "title": "CEFR Reading Mock 46",
+   "totalTime": 60,
+   "totalQuestions": 35
+  }
+ },
+ "created_at": "2026-05-17T15:03:41.065341+00:00",
+ "updated_at": "2026-10-12T01:50:01.022481+00:00"
+}

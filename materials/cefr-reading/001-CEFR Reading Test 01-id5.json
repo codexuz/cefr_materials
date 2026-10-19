@@ -1,0 +1,785 @@
+{
+ "id": 5,
+ "mock_type": "cefr-reading",
+ "mock_number": 1,
+ "title": "CEFR Reading Test 01",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "gap-fill-text",
+    "title": "Part 1",
+    "answers": {
+     "1": [
+      "noises"
+     ],
+     "2": [
+      "scientists"
+     ],
+     "3": [
+      "fossil"
+     ],
+     "4": [
+      "voice"
+     ],
+     "5": [
+      "muscles"
+     ],
+     "6": [
+      "tweeting"
+     ]
+    },
+    "passage": {
+     "title": "Dinosaur Sounds",
+     "content": "<p>There are many movies with dinosaurs making all kinds of noises. However, these <span class=\"gap\" data-gap=\"1\">_____(1)_____</span> are just guesses that movie directors make. A new discovery has given scientists a better idea of what dinosaurs sounded like. The <span class=\"gap\" data-gap=\"2\">_____(2)_____</span> examined a rare fossil from a dinosaur called an ankylosaur. The <span class=\"gap\" data-gap=\"3\">_____(3)_____</span> is 78 million years old. It includes a record of the ankylosaur's voice box. The scientists think the shape of the creature's <span class=\"gap\" data-gap=\"4\">_____(4)_____</span> box means it probably made bird-like sounds.</p>\n\n<p>The research was led by a dinosaur researcher at the Fukushima Museum in Japan. He did many tests on the shape of the fossilized voice box. He compared it with the voice box of birds, crocodiles and turtles. He now has an idea of what the voice box muscles looked like. The <span class=\"gap\" data-gap=\"5\">_____(5)_____</span> controlled the sounds of the voice box. The research may mean that movies like Jurassic Park got it wrong. Tyrannosaurus rex probably made more of a tweeting sound, like a bird. Hollywood may have to change its scary roars in future dinosaur films to a <span class=\"gap\" data-gap=\"6\">_____(6)_____</span> sound.</p>"
+    },
+    "questions": [
+     {
+      "id": 1,
+      "hint": "These _____ are just guesses"
+     },
+     {
+      "id": 2,
+      "hint": "The _____ examined a rare fossil"
+     },
+     {
+      "id": 3,
+      "hint": "The _____ is 78 million years old"
+     },
+     {
+      "id": 4,
+      "hint": "creature's _____ box"
+     },
+     {
+      "id": 5,
+      "hint": "The _____ controlled the sounds"
+     },
+     {
+      "id": 6,
+      "hint": "change its scary roars to a _____ sound"
+     }
+    ],
+    "partNumber": 1,
+    "instruction": "Read the texts. Fill in each gap with ONE word. You must use a word which is somewhere in the rest of the text.",
+    "explanations": {
+     "q1": {
+      "text": "The first sentence mentions the \"noises\" dinosaurs make in movies. The second sentence uses \"these\" to refer back to those sounds, which the passage says are just guesses. That's why the correct answer is 'noises'.",
+      "quote": "There are many movies with dinosaurs making all kinds of noises."
+     },
+     "q2": {
+      "text": "The previous sentence introduces \"scientists\" who have a better idea about dinosaur sounds because of a new discovery. The sentence with the gap describes the action they took: examining a fossil. That's why the correct answer is 'scientists'.",
+      "quote": "A new discovery has given scientists a better idea of what dinosaurs sounded like."
+     },
+     "q3": {
+      "text": "The preceding sentence introduces a \"rare fossil\" that was examined. The sentence with the gap provides the age of this specific object, which is 78 million years old. That's why the correct answer is 'fossil'.",
+      "quote": ""
+     },
+     "q4": {
+      "text": "The sentence just before the gap explicitly mentions the \"ankylosaur's voice box\". The sentence with the gap refers to the same object, calling the dinosaur a \"creature\". That's why the correct answer is 'voice'.",
+      "quote": "It includes a record of the ankylosaur's voice box."
+     },
+     "q5": {
+      "text": "The previous sentence mentions the researcher's idea about the \"voice box muscles\". The sentence with the gap explains the function of these parts, which was to control the sounds. That's why the correct answer is 'muscles'.",
+      "quote": "He now has an idea of what the voice box muscles looked like."
+     },
+     "q6": {
+      "text": "The text suggests that dinosaurs like T-rex probably didn't roar, but made a \"tweeting sound, like a bird\". Therefore, movies should change their roars to this kind of sound. That's why the correct answer is 'tweeting'.",
+      "quote": "Tyrannosaurus rex probably made more of a tweeting sound, like a bird."
+     }
+    },
+    "questionRange": "1-6"
+   },
+   {
+    "type": "matching",
+    "texts": [
+     {
+      "number": 7,
+      "content": "From electronics to folk, jazz and classical, this festival is renowned for bringing world-class musicians to this historical city. Starting with a great night of free music, 'Party in the city' this year is going to be no exception."
+     },
+     {
+      "number": 8,
+      "content": "Often referred to as Europe's leading festival for new music, more than 300 bands will perform to around 10,000 people in 30-plus venues, meaning you are sure to see the next big thing in music."
+     },
+     {
+      "number": 9,
+      "content": "The much loved television series Springwatch celebrates the countryside as it does every year, with sheep herding, wood carving demonstrations, insect hunts and more activities, accompanied by live music and a great farmers' market, offering all sorts of mouth-watering produce."
+     },
+     {
+      "number": 10,
+      "content": "Rightly nominated for the best family festival award every year since it began in 2005, this festival offers a combination of different music genres—many featuring artists from around the Wychwood area—and comedy, alongside a selection of outdoor cafes serving amazing world foods."
+     },
+     {
+      "number": 11,
+      "content": "Bringing together a selection of the finest produce, this festival aims to educate visitors about how food should be produced and where it should come from, through sampling a range of tasty treats, cooked on site."
+     },
+     {
+      "number": 12,
+      "content": "The UK's most magical, this is a three-day festival of folk art, live music and fashion shows set in the beautiful wild surroundings of Bodmin Moor. If you don't fancy taking a tent, some local residents usually offer to put visitors up."
+     },
+     {
+      "number": 13,
+      "content": "Featuring demonstrations from world champion dancers and star from the TV series Strictly Come Dancing, the festival promises toe tapping action, including a world record attempt, where everyone is invited to join in."
+     },
+     {
+      "number": 14,
+      "content": "Visit our exciting and colourful exhibition of South American botanical paintings, which brings the continent's exotic and lush plants to life in works from two hundred years ago and from this century."
+     }
+    ],
+    "title": "Part 2",
+    "answers": {
+     "7": [
+      "D"
+     ],
+     "8": [
+      "C"
+     ],
+     "9": [
+      "G"
+     ],
+     "10": [
+      "B"
+     ],
+     "11": [
+      "F"
+     ],
+     "12": [
+      "E"
+     ],
+     "13": [
+      "A"
+     ],
+     "14": [
+      "I"
+     ]
+    },
+    "questions": [
+     {
+      "id": 7,
+      "textNumber": 7
+     },
+     {
+      "id": 8,
+      "textNumber": 8
+     },
+     {
+      "id": 9,
+      "textNumber": 9
+     },
+     {
+      "id": 10,
+      "textNumber": 10
+     },
+     {
+      "id": 11,
+      "textNumber": 11
+     },
+     {
+      "id": 12,
+      "textNumber": 12
+     },
+     {
+      "id": 13,
+      "textNumber": 13
+     },
+     {
+      "id": 14,
+      "textNumber": 14
+     }
+    ],
+    "partNumber": 2,
+    "statements": [
+     {
+      "text": "Visitor can help to make one particular event a success at this festival.",
+      "letter": "A"
+     },
+     {
+      "text": "People can listen to local musicians here.",
+      "letter": "B"
+     },
+     {
+      "text": "At this festival, people can listen to music in lots of different places.",
+      "letter": "C"
+     },
+     {
+      "text": "It is not necessary to pay for one of the events here.",
+      "letter": "D"
+     },
+     {
+      "text": "It is possible to stay overnight at this festival.",
+      "letter": "E"
+     },
+     {
+      "text": "Visitors can get advice here.",
+      "letter": "F"
+     },
+     {
+      "text": "People can watch craftspeople at work here.",
+      "letter": "G"
+     },
+     {
+      "text": "Learning what all the different sections of a plant do.",
+      "letter": "H"
+     },
+     {
+      "text": "Seeing art showing plants from a different part of the world.",
+      "letter": "I"
+     },
+     {
+      "text": "The possibility of having your work exhibited.",
+      "letter": "J"
+     }
+    ],
+    "instruction": "Read the texts 7-14 and the statements A-J. Decide which text matches with the situation described in the statements. Each statement can be used ONCE only. There are TWO extra statements which you do not need to use.",
+    "explanations": {
+     "q7": {
+      "text": "The text says the festival begins with a 'great night of free music'. This means you don't have to pay for at least one event. That's why the correct answer is D.",
+      "quote": "Starting with a great night of free music, 'Party in the city' this year is going to be no exception."
+     },
+     "q8": {
+      "text": "The festival features over 300 bands performing in more than 30 different venues. This means you can listen to music in many different places. That's why the correct answer is C.",
+      "quote": ""
+     },
+     "q9": {
+      "text": "The festival includes 'wood carving demonstrations'. This means you can watch skilled people, or craftspeople, at work carving wood. That's why the correct answer is G.",
+      "quote": ""
+     },
+     "q10": {
+      "text": "The text states that the festival features many 'artists from around the Wychwood area'. This means you can listen to musicians who are from the local region. That's why the correct answer is B.",
+      "quote": ""
+     },
+     "q11": {
+      "text": "The festival's purpose is to educate visitors about food through sampling. For this event to be successful, visitors must participate by trying the food. That's why the correct answer is A.",
+      "quote": ""
+     },
+     "q12": {
+      "text": "The text mentions that if you don't want to use a tent, local people may 'put visitors up'. This means accommodation is available for overnight stays. That's why the correct answer is E.",
+      "quote": "If you don't fancy taking a tent, some local residents usually offer to put visitors up."
+     },
+     "q13": {
+      "text": "The festival includes a world record attempt and invites everyone to participate. By joining in, visitors can help make the record attempt successful. That's why the correct answer is A.",
+      "quote": ""
+     },
+     "q14": {
+      "text": "The text invites you to an exhibition of 'South American botanical paintings'. This is art that shows plants from another part of the world. That's why the correct answer is I.",
+      "quote": ""
+     }
+    },
+    "questionRange": "7-14",
+    "extraStatements": [
+     "H",
+     "J"
+    ],
+    "statementsFirst": true
+   },
+   {
+    "type": "matching-headings",
+    "title": "Part 3",
+    "answers": {
+     "15": [
+      "H"
+     ],
+     "16": [
+      "C"
+     ],
+     "17": [
+      "F"
+     ],
+     "18": [
+      "G"
+     ],
+     "19": [
+      "A"
+     ],
+     "20": [
+      "D"
+     ]
+    },
+    "passage": {
+     "title": "THE BEAUTIFUL ROSE",
+     "paragraphs": [
+      {
+       "number": "I",
+       "content": "The rose is the most deeply ingrained flower in human history and human culture. It has been immortalised and integrated into music, festivals, poetry and even wars. It has been used as a sign of passion as well as grief. It is also the sign of human love, given on different occasions. William Shakespeare surely immortalised the rose for the world in 1597, in his play \"Romeo and Juliet\", when Juliet so passionately said, \"What's in a name? That which we call a rose. By any other name would smell as sweet.\"",
+       "questionId": 15
+      },
+      {
+       "number": "II",
+       "content": "All species of roses are naturally found throughout the Northern Hemisphere. Some 150 wild species are spread worldwide, from Alaska to Mexico, from Northern Africa to China. All roses are close relatives of cherries, apples, pears, raspberries, and plums. Most species of roses have long been cultivated for their hips, the fruit of the rose flower that has nutritional and medicinal value. A unique characteristic of all species of roses is its ability to bloom over and over again, from early summer to late autumn.",
+       "questionId": 16
+      },
+      {
+       "number": "III",
+       "content": "The Romans at first believed that the rose was useful as a source of natural medicines. Soon, the beautiful flowers became necessities at Roman festivals. Roman emperors demanded that their baths be filled with rose water, and they reclined on carpets of rose petals during their feasts. Perfumes made from roses became a high-priority treasure for the ruling elite, and it resulted in hardships among the peasant class, who were forced to grow roses instead of cultivating much needed food.",
+       "questionId": 17
+      },
+      {
+       "number": "IV",
+       "content": "During the 15th century in England, the rose became the symbol of war between two families, both of whom had laid claim to the English crown. The War of the Roses lasted for 30 years and involved the House of York, whose symbol was the white rose, and the House of Lancaster, whose symbol was the red rose. Only in 1486, King Henry VII of the House of Lancaster, who was the first Tudor king, married Elizabeth of York, uniting the families and finally bringing the English civil war to an end.",
+       "questionId": 18
+      },
+      {
+       "number": "V",
+       "content": "In the 17th century, the rose became so valuable across Europe that it along with rose water was often used as currency. Roses were used to barter in market places across Europe, and commoners could pay their taxes to kings using roses and rose water. Josephine, wife of the Emperor Napoleon Bonaparte, created a great rose garden on the edge of Paris that contained over 200 varieties of the cherished rose. Most of the roses of Europe at that time were shades of pink or white until the early 19th century.",
+       "questionId": 19
+      },
+      {
+       "number": "VI",
+       "content": "Roses have always been extremely popular all over the world, and fossil records show the presence of ancient roses in the Tertiary Period, which began about 70 million years ago. Where, exactly, first roses appeared is still unknown. It is often believed that roses were probably first cultivated in the royal gardens of ancient China about 5,000 years ago. In Ur, an ancient city of Mesopotamia, 3,000-year-old clay tablets contain the first known written reference about roses growing in gardens of the city.",
+       "questionId": 20
+      }
+     ]
+    },
+    "headings": [
+     {
+      "text": "Beautiful money",
+      "letter": "A"
+     },
+     {
+      "text": "Ideal indeed",
+      "letter": "B"
+     },
+     {
+      "text": "Rose family traits",
+      "letter": "C"
+     },
+     {
+      "text": "Discovering origins",
+      "letter": "D"
+     },
+     {
+      "text": "Many choices",
+      "letter": "E"
+     },
+     {
+      "text": "A flower of luxury",
+      "letter": "F"
+     },
+     {
+      "text": "A flower of conflict",
+      "letter": "G"
+     },
+     {
+      "text": "A symbol for all times",
+      "letter": "H"
+     }
+    ],
+    "questions": [
+     {
+      "id": 15,
+      "paragraphNumber": "I"
+     },
+     {
+      "id": 16,
+      "paragraphNumber": "II"
+     },
+     {
+      "id": 17,
+      "paragraphNumber": "III"
+     },
+     {
+      "id": 18,
+      "paragraphNumber": "IV"
+     },
+     {
+      "id": 19,
+      "paragraphNumber": "V"
+     },
+     {
+      "id": 20,
+      "paragraphNumber": "VI"
+     }
+    ],
+    "partNumber": 3,
+    "instruction": "Read the text and choose the correct heading for each paragraph from the list of headings below. There are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once. Mark your answers on the answer sheet.",
+    "explanations": {
+     "q15": {
+      "text": "This paragraph describes the rose's many symbolic uses throughout history for passion, grief, love, and even war, showing its enduring cultural importance. That's why the correct answer is H.",
+      "quote": "The rose is the most deeply ingrained flower in human history and human culture."
+     },
+     "q16": {
+      "text": "The paragraph details the characteristics of roses: where they grow, what plants they are related to, and their unique ability to bloom repeatedly. That's why the correct answer is C.",
+      "quote": "All roses are close relatives of cherries, apples, pears, raspberries, and plums."
+     },
+     "q17": {
+      "text": "This section explains how Roman emperors and elites used roses extravagantly in baths, feasts, and perfumes, making them a high-priority treasure and a symbol of luxury. That's why the correct answer is F.",
+      "quote": "Perfumes made from roses became a high-priority treasure for the ruling elite, and it resulted in hardships among the peasant class, who were forced to grow roses instead of cultivating much needed food."
+     },
+     "q18": {
+      "text": "This paragraph focuses entirely on the 'War of the Roses,' a 30-year civil war where two families used different colored roses as their symbols while fighting for the English crown. That's why the correct answer is G.",
+      "quote": "During the 15th century in England, the rose became the symbol of war between two families, both of whom had laid claim to the English crown."
+     },
+     "q19": {
+      "text": "The text states that roses and rose water became so valuable in 17th-century Europe that they were used as a form of payment for bartering and paying taxes. That's why the correct answer is A.",
+      "quote": "In the 17th century, the rose became so valuable across Europe that it along with rose water was often used as currency."
+     },
+     "q20": {
+      "text": "This paragraph discusses the ancient history of the rose, including fossil records, the mystery of where it first appeared, and the earliest known cultivation and written records. That's why the correct answer is D.",
+      "quote": "Where, exactly, first roses appeared is still unknown."
+     }
+    },
+    "extraHeadings": [
+     "B",
+     "E"
+    ],
+    "questionRange": "15-20"
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 4",
+    "answers": {
+     "21": [
+      "C",
+      "was always busy with social interactions"
+     ],
+     "22": [
+      "A",
+      "wearing oversized glasses and formless clothing"
+     ],
+     "23": [
+      "C",
+      "to pursue a career in politics"
+     ],
+     "24": [
+      "B",
+      "Hillary Rodham"
+     ],
+     "25": [
+      "True"
+     ],
+     "26": [
+      "True"
+     ],
+     "27": [
+      "False"
+     ],
+     "28": [
+      "False"
+     ],
+     "29": [
+      "Not Given"
+     ]
+    },
+    "passage": {
+     "title": "Icon's Life",
+     "content": "<p>Hillary Clinton is certainly the incarnation of the dreams of many American women of her generation. She has got \"everything\": a family, a fine career, and a husband who not only supports her and approves of what she does, but also allows her to use her talents to the full. Hillary Rodham was born in Chicago in 1947, the daughter of a textile manufacturer. Her family was comfortably off, but not rich; she had two brothers, and her mother did not work.</p>\n\n<p>At school, she was always a brilliant student, though not the kind of girl who spent all her time in her books. On the contrary, she spent a lot of time on outside activities, something which is always greatly appreciated in American schools. It was while she was still at high school that Hillary began to take an interest in social issues, working in the poorer districts of town among immigrant families, and helping them to participate in elections. After graduating from high school, she went on to study at Wellesley College, one of the best universities on the East Coast, where she was elected President of the Students' Union. Photos taken at the time show her as a fairly plump young woman, dressed in rather shapeless clothes, and wearing large glasses. Looking smart was not one of her major concerns.</p>\n\n<p>It was at Yale Law School that Hillary first met Bill Clinton, a good-looking young man who, in spite of his reputation as a dilettante, was actually one of the brightest students in his year. The legend says that Bill finally \"noticed\" Hillary because she spoke so well. At the time, Hillary was actively involved in the Women's Liberation movement, and seemed to be much more interested in her career than in marriage. When, several years later, she was asked how it was that, after a long-complicated relationship, she finally ended up marrying Bill Clinton, she answered: \"Because he was the only guy I dated who wasn't afraid of me!\"</p>\n\n<p>Meanwhile, while Bill had gone back to his native Arkansas, intending to follow a career in politics, Hillary became a brilliant lawyer in Washington, where she took part in the famous Watergate hearings. Though several major firms of lawyers asked her to join them, she decided in 1973 to leave Washington and join Bill in Arkansas. They got married in 1975, and Hillary joined a firm of lawyers in Little Rock (the capital of Arkansas). In 1979, at the age of 32, Bill Clinton was elected Governor of Arkansas, becoming the youngest state Governor in the U.S.A. A year later, Hillary gave birth to their daughter Chelsea, named after a favorite hit song of the 1960's. During Bill's twelve years in office as Governor of Arkansas, Hillary helped him to radically reform the state's public-school system, and establish a school medical welfare system that had no equivalent anywhere else in the United States.</p>\n\n<p>As a solitary concession to the powerful conservative lobby in the Deep South, who were not accustomed to seeing wives working in partnership with their husbands, she agreed to add her husband's name to her own, and be called Hillary Rodham Clinton just to show that she really was married. She also changed her look, began to dress more smartly, did what was necessary and replaced her glasses with contact lenses. She was ready for Washington.</p>"
+    },
+    "partNumber": 4,
+    "instruction": "Read the following text for questions 21-29.",
+    "explanations": {
+     "q21": {
+      "text": "The passage states that Hillary was a brilliant student who didn't just study, but also spent a lot of time on 'outside activities' and social issues. That's why the correct answer is C.",
+      "quote": "On the contrary, she spent a lot of time on outside activities, something which is always greatly appreciated in American schools."
+     },
+     "q22": {
+      "text": "The text describes photos of her from university, stating she was a 'fairly plump young woman, dressed in rather shapeless clothes, and wearing large glasses.' This matches the description. That's why the correct answer is A.",
+      "quote": "Photos taken at the time show her as a fairly plump young woman, dressed in rather shapeless clothes, and wearing large glasses."
+     },
+     "q23": {
+      "text": "The passage explicitly states that Bill Clinton returned to his home state of Arkansas with the specific intention of starting a political career. That's why the correct answer is C.",
+      "quote": ""
+     },
+     "q24": {
+      "text": "The passage credits Hillary with helping her husband establish a school medical welfare system while he was governor, directly linking her to the program's implementation. That's why the correct answer is B.",
+      "quote": ""
+     },
+     "q25": {
+      "text": "The passage confirms that Hillary was an active participant in the Women's Liberation movement during her time at Yale Law School, which supports the statement. That's why the correct answer is True.",
+      "quote": "At the time, Hillary was actively involved in the Women's Liberation movement, and seemed to be much more interested in her career than in marriage."
+     },
+     "q26": {
+      "text": "The passage explicitly states the origin of their daughter's name, mentioning she was named Chelsea after a popular song from the 1960s. That's why the correct answer is True.",
+      "quote": "A year later, Hillary gave birth to their daughter Chelsea, named after a favorite hit song of the 1960's."
+     },
+     "q27": {
+      "text": "The passage states that Bill Clinton 'was elected' and became the youngest governor. He did not reject the position; he accepted it. That's why the correct answer is False.",
+      "quote": "In 1979, at the age of 32, Bill Clinton was elected Governor of Arkansas, becoming the youngest state Governor in the U.S.A."
+     },
+     "q28": {
+      "text": "The passage specifies that Hillary first met Bill Clinton at Yale Law School, not at the Students' Union of Wellesley College where she was president. That's why the correct answer is False.",
+      "quote": "It was at Yale Law School that Hillary first met Bill Clinton, a good-looking young man who, in spite of his reputation as a dilettante, was actually one of the brightest students in his year."
+     },
+     "q29": {
+      "text": "The text mentions that Hillary was president of the Students' Union, but it provides no details about the Union's activities, such as awarding scholarships. That's why the correct answer is Not Given.",
+      "quote": ""
+     }
+    },
+    "questionRange": "21-29",
+    "questionSections": [
+     {
+      "type": "mcq",
+      "title": "Questions 21-24: Multiple Choice",
+      "questions": [
+       {
+        "id": 21,
+        "text": "Hillary was a bright learner at school who ……",
+        "options": [
+         {
+          "text": "was busy with trade",
+          "letter": "A"
+         },
+         {
+          "text": "had good handwriting skills",
+          "letter": "B"
+         },
+         {
+          "text": "was always busy with social interactions",
+          "letter": "C"
+         },
+         {
+          "text": "had few friends and reserved",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 22,
+        "text": "She was a fairly chubby young woman……",
+        "options": [
+         {
+          "text": "wearing oversized glasses and formless clothing",
+          "letter": "A"
+         },
+         {
+          "text": "with reserved character",
+          "letter": "B"
+         },
+         {
+          "text": "with classical output and hat",
+          "letter": "C"
+         },
+         {
+          "text": "with looking smart lady",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 23,
+        "text": "Bill had returned to his native Arkansas at the time with plans….",
+        "options": [
+         {
+          "text": "to finance his deputy",
+          "letter": "A"
+         },
+         {
+          "text": "to collaborate with native land",
+          "letter": "B"
+         },
+         {
+          "text": "to pursue a career in politics",
+          "letter": "C"
+         },
+         {
+          "text": "to start his new life",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 24,
+        "text": "A program specialized for school medical services was implemented by ….",
+        "options": [
+         {
+          "text": "Bill Clinton",
+          "letter": "A"
+         },
+         {
+          "text": "Hillary Rodham",
+          "letter": "B"
+         },
+         {
+          "text": "a group of lawyers",
+          "letter": "C"
+         },
+         {
+          "text": "the governor of Arkansas",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "For questions 21-24, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."
+     },
+     {
+      "type": "tfni",
+      "title": "Questions 25-29: True/False/Not Given",
+      "options": [
+       "True",
+       "False",
+       "Not Given"
+      ],
+      "questions": [
+       {
+        "id": 25,
+        "text": "Hillary and Bill contributed actively in the struggle for women's liberation."
+       },
+       {
+        "id": 26,
+        "text": "Chelsea got her name from a popular 1960s hit song."
+       },
+       {
+        "id": 27,
+        "text": "Bill Clinton rejected to become the youngest state governor in American history when he was appointed governor of Arkansas at the age of thirty-two."
+       },
+       {
+        "id": 28,
+        "text": "At Students Union, Hillary encountered a handsome young man named Bill Clinton for the first time."
+       },
+       {
+        "id": 29,
+        "text": "Every year, the Students Union recognized the most distinguished individuals in the field with scholarships."
+       }
+      ],
+      "instruction": "For questions 25-29, decide if the following statements agree with the information given in the text. Mark your answers on the answer sheet."
+     }
+    ]
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 5",
+    "answers": {
+     "30": [
+      "cowboys"
+     ],
+     "31": [
+      "Europe"
+     ],
+     "32": [
+      "Stetson"
+     ],
+     "33": [
+      "lasso"
+     ],
+     "34": [
+      "B",
+      "saddle-bronc riding"
+     ],
+     "35": [
+      "C",
+      "clowns"
+     ]
+    },
+    "passage": {
+     "title": "Rodeo",
+     "content": "<p>At 1 p.m. the air is still, heavy with a confusion of smells that drifts among the stalls and the barbeques, the animal enclosures and the ice-cream vendors. In the hot midday sun, the fair throngs with visitors, but there's little shade to sit in, just narrow strips of shadow alongside the buildings and the tents. All around, the music is playing while kids run riot and stall-holders beckon passing visitors with their colorful displays. Then, as the time moves towards 2.30, there is a new sense of excitement in the air: people are no longer moving round randomly, but heading in the same direction, towards the dusty arena to the south of the showground. It's almost time for the rodeo! Here at last there is shade for everyone: the grandstand, with its tiered seating, rapidly fills up, as thousands of fair-goers pile in, eager for a good view of the excitement that is soon to begin.</p>\n\n<p>For some people it has already begun. Microlight kids on minuscule ponies are cavorting round the empty arena, while a handful of cowboys impeccably trained horses, walk or trot sedately round the ring. Suddenly a little blonde girl, hardly four feet tall, careers into view, riding bareback at the speed of light on bright white pony. No-one pays much attention. The folk in the stands are too busy talking about horses and rodeo-riders, discussing the last rodeo, predicting the winners of the next. Somehow, as someone who has not been brought up in the company of horses, I feel slightly out of place, as if everyone here except me knows everything about what is going on.</p>\n\n<p>I had been to a couple of rodeos before, including the biggest of them all, Canada's Calgary Stampede; but the other rodeos I had been to were put on for the tourists. Not this one; in central Oregon, there are few tourists. Rodeos here are for the locals, people who know them and understand them; most of the folk round me are from Redmond, or Prineville or Madras or Bend, certainly not from Europe! Then action: suddenly the gates at the end of the arena burst open, and a posse of flag-carrying girls erupts into view, circling the arena in formation on shining dark ponies. Dressed in patriotic red white and blue, courtesy of Pepsi-Cola, the girls come to a stop in the middle of the ring, as the crowd rise to their feet, the men take off their Stetson hats, and everyone joins in the singing of God Bless America.</p>\n\n<p>The rodeo has begun! For the next couple of hours, spectators watch with excitement as local heroes perform feats of dexterity on the backs of bucking animals! While some show their skills at calf roping — catching a running calf with a lasso and tying it up in just a few seconds — others demonstrate their daredevil skills by riding untamed broncos or bounding round on the backs of enormous raging bulls. As intrepid riders master for all of their wild mounts, the crowd cheer wildly or in apprehension, then burst into laughter as the obligatory clown, the matador of the rodeo, distracts the attention of the raging animals while mounted cowboys round them up and calm them down, coaxing them away into the pens from which they originally emerged, their day's work finished.</p>\n\n<p>Katie Sharpe, 21, the local Rodeo Queen, does a lap of honor, then participates in the ladies' events; but in this macho part of the world, the ladies do not get to pit themselves against untamed bulls and broncos! That's men's stuff! Katie and the other young ladies show their skills at \"barrel racing\", hurling their horses at breakneck speed round a triangular shaped race-course, marked out with barrels, in the middle of the arena. It's not as dramatic as bull-riding, but it's exciting, and the crowd roar their approval.</p>\n\n<p>As the sun falls lower in the sky and the shadows begin to lengthen, the final rounds of calf-roping and saddle-bronc riding bring another half hour of thrills and spills before the commentator finally announces that the Rodeo is drawing to an end. The last prizes are handed out, the last riders leave the arena, and the show is over. As the spectators pick up their belongings and move slowly towards the exits, the kids on their ponies come back again for another few minutes as imaginary champions, tomorrow's local heroes in the arena of the stars. Here, it seems, if rodeo does not flow in the blood, at least it's all in the family.</p>"
+    },
+    "partNumber": 5,
+    "instruction": "Read the following text for questions 30-35.",
+    "explanations": {
+     "q30": {
+      "text": "The passage states that before the rodeo officially started, a few cowboys were walking their perfectly trained horses around the ring in the arena. That's why the correct answer is 'cowboys'.",
+      "quote": "Microlight kids on minuscule ponies are cavorting round the empty arena, while a handful of cowboys impeccably trained horses, walk or trot sedately round the ring."
+     },
+     "q31": {
+      "text": "The narrator observes that the crowd is made up of locals from nearby towns and explicitly states that they are 'certainly not from Europe'. That's why the correct answer is 'Europe'.",
+      "quote": "Rodeos here are for the locals, people who know them and understand them; most of the folk round me are from Redmond, or Prineville or Madras or Bend, certainly not from Europe!"
+     },
+     "q32": {
+      "text": "When the flag-carrying girls entered the arena, the text says the crowd rose to their feet for the singing of 'God Bless America' and the men took off their Stetson hats. That's why the correct answer is 'Stetson'.",
+      "quote": ""
+     },
+     "q33": {
+      "text": "The passage describes the skills shown at the rodeo, and specifically defines the event of 'calf roping' as catching a running calf with a lasso. That's why the correct answer is 'lasso'.",
+      "quote": ""
+     },
+     "q34": {
+      "text": "The passage states that Katie Sharpe participates in 'barrel racing'. This event is described as racing horses at high speed around a triangular shaped race-course. That's why the correct answer is C.",
+      "quote": "Katie and the other young ladies show their skills at \"barrel racing\", hurling their horses at breakneck speed round a triangular shaped race-course, marked out with barrels, in the middle of the arena."
+     },
+     "q35": {
+      "text": "The text explains that after a rider has finished with a wild animal, a clown enters the arena to distract the raging animal so that cowboys can safely round it up. That's why the correct answer is C.",
+      "quote": ""
+     }
+    },
+    "questionRange": "30-35",
+    "questionSections": [
+     {
+      "type": "gap-fill",
+      "title": "Questions 30-33: Gap Filling Section",
+      "questions": [
+       {
+        "id": 30,
+        "hint": "horses were trained by _____"
+       },
+       {
+        "id": 31,
+        "hint": "all around the continent except _____"
+       },
+       {
+        "id": 32,
+        "hint": "not wearing their _____ hats"
+       },
+       {
+        "id": 33,
+        "hint": "rope calf with a _____"
+       }
+      ],
+      "instruction": "Fill in the missing information in the numbered spaces. Write no more than ONE WORD and/or A NUMBER for each question.",
+      "summaryText": "<p>Microlight kids were involved in their lovely sport in an empty arena, whereas horses were trained by <span class=\"gap-input\" data-gap=\"30\">_____(30)_____</span> around the ring. All young boys standing discussing winners, sharing their ideas with others around the ring came all around the continent except <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span>. God Bless America was played in the arena by young fellows not wearing their <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span> hats, with red white and blue outfits mostly, like brand drinks color. During the rodeo different performance were acted with many spectators by showing their talents to rope calf with a <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span> riding untamed bulls and broncs.</p>"
+     },
+     {
+      "type": "mcq",
+      "title": "Questions 34-35: Multiple Choice",
+      "questions": [
+       {
+        "id": 34,
+        "text": "Katie Sharpe, who was the local Rodeo Queen, demonstrated her talents by acting all types of rodeo apart from ….",
+        "options": [
+         {
+          "text": "calf roping",
+          "letter": "A"
+         },
+         {
+          "text": "saddle-bronc riding",
+          "letter": "B"
+         },
+         {
+          "text": "triangular shaped race-course",
+          "letter": "C"
+         },
+         {
+          "text": "dexterity on the backs",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 35,
+        "text": "Who turns up in the arena when there is a failure with wild mounts?",
+        "options": [
+         {
+          "text": "former cowboys",
+          "letter": "A"
+         },
+         {
+          "text": "spectators roar",
+          "letter": "B"
+         },
+         {
+          "text": "clowns",
+          "letter": "C"
+         },
+         {
+          "text": "rodeo-riders",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "Choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."
+     }
+    ]
+   }
+  ],
+  "examDate": "2026-05-10",
+  "testInfo": {
+   "level": "B1-B2-C1",
+   "parts": 5,
+   "title": "CEFR B1-B2-C1 Reading Test 01",
+   "totalTime": 60,
+   "totalQuestions": 35
+  }
+ },
+ "created_at": "2026-05-06T08:01:35.993298+00:00",
+ "updated_at": "2026-10-11T10:54:25.762211+00:00"
+}

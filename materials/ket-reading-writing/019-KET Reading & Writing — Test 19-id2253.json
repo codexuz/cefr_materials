@@ -1,0 +1,913 @@
+{
+ "id": 2253,
+ "mock_type": "ket-reading-writing",
+ "mock_number": 19,
+ "title": "KET Reading & Writing — Test 19",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "match-notices",
+    "items": [
+     {
+      "id": 1,
+      "answer": "G",
+      "prompt": "They need someone to work here."
+     },
+     {
+      "id": 2,
+      "answer": "B",
+      "prompt": "A special visitor is coming to the shop."
+     },
+     {
+      "id": 3,
+      "answer": "F",
+      "prompt": "Go here if you need help."
+     },
+     {
+      "id": 4,
+      "answer": "A",
+      "prompt": "This has moved to a different place."
+     },
+     {
+      "id": 5,
+      "answer": "E",
+      "prompt": "There is a new book on sale."
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "D",
+     "number": 0,
+     "prompt": "This is open all day."
+    },
+    "notices": [
+     {
+      "text": "Children's book\ndepartment now on\nground floor",
+      "letter": "A"
+     },
+     {
+      "text": "Grey's Books\nFamous children's writer, Michael\nWhistler, here on Monday 25th",
+      "letter": "B"
+     },
+     {
+      "text": "SALE\nAll travel books – half price",
+      "letter": "C"
+     },
+     {
+      "text": "Coffee shop first floor\nHot drinks & snacks\n9.30–6.30",
+      "letter": "D"
+     },
+     {
+      "text": "Just arrived! The Teenage Diaries\nby Judy Watson",
+      "letter": "E"
+     },
+     {
+      "text": "Can't find the right book?\nAsk at the information desk",
+      "letter": "F"
+     },
+     {
+      "text": "WANTED – Sales assistant to help\nin children's book department",
+      "letter": "G"
+     },
+     {
+      "text": "New for customers\nVisit our new website to order your books",
+      "letter": "H"
+     }
+    ],
+    "partNumber": 1,
+    "instruction": [
+     "Which notice (A–H) says this (1–5)?",
+     "For questions 1–5, mark the correct letter A–H on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "mcq-gap-fill-sentences",
+    "items": [
+     {
+      "id": 6,
+      "answer": "C",
+      "options": [
+       {
+        "text": "do",
+        "letter": "A"
+       },
+       {
+        "text": "begin",
+        "letter": "B"
+       },
+       {
+        "text": "make",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Teens Plus is a club for young adults who want to _____ new friends."
+     },
+     {
+      "id": 7,
+      "answer": "A",
+      "options": [
+       {
+        "text": "moved",
+        "letter": "A"
+       },
+       {
+        "text": "changed",
+        "letter": "B"
+       },
+       {
+        "text": "became",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Harry joined the club when he _____ to the town."
+     },
+     {
+      "id": 8,
+      "answer": "B",
+      "options": [
+       {
+        "text": "tall",
+        "letter": "A"
+       },
+       {
+        "text": "large",
+        "letter": "B"
+       },
+       {
+        "text": "full",
+        "letter": "C"
+       }
+      ],
+      "sentence": "There is a _____ number of activities to choose from."
+     },
+     {
+      "id": 9,
+      "answer": "A",
+      "options": [
+       {
+        "text": "meal",
+        "letter": "A"
+       },
+       {
+        "text": "food",
+        "letter": "B"
+       },
+       {
+        "text": "plate",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Last week, everyone went to a restaurant and had a nice _____ together."
+     },
+     {
+      "id": 10,
+      "answer": "B",
+      "options": [
+       {
+        "text": "learnt",
+        "letter": "A"
+       },
+       {
+        "text": "met",
+        "letter": "B"
+       },
+       {
+        "text": "got",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Harry has _____ lots of interesting people at the club."
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "options": [
+      {
+       "text": "called",
+       "letter": "A"
+      },
+      {
+       "text": "said",
+       "letter": "B"
+      },
+      {
+       "text": "told",
+       "letter": "C"
+      }
+     ],
+     "sentence": "Harry Brennan has just joined a club _____ Teens Plus."
+    },
+    "partNumber": 2,
+    "instruction": [
+     "Read the sentences about a club for teenagers.",
+     "Choose the best word (A, B or C) for each space.",
+     "For questions 6–10, mark A, B or C on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-response",
+    "items": [
+     {
+      "id": 11,
+      "answer": "A",
+      "prompt": "I loved the book!",
+      "options": [
+       {
+        "text": "Did you?",
+        "letter": "A"
+       },
+       {
+        "text": "Was it?",
+        "letter": "B"
+       },
+       {
+        "text": "Why not?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "answer": "B",
+      "prompt": "Would you like some water?",
+      "options": [
+       {
+        "text": "Yes, of course I do.",
+        "letter": "A"
+       },
+       {
+        "text": "Yes, with ice, please.",
+        "letter": "B"
+       },
+       {
+        "text": "Yes, I like it very much.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "answer": "C",
+      "prompt": "I watched a good film last night.",
+      "options": [
+       {
+        "text": "What time does it begin?",
+        "letter": "A"
+       },
+       {
+        "text": "Has it finished yet?",
+        "letter": "B"
+       },
+       {
+        "text": "What was it called?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "answer": "C",
+      "prompt": "Do you think Peter will like this sweater?",
+      "options": [
+       {
+        "text": "He isn't like that.",
+        "letter": "A"
+       },
+       {
+        "text": "You are right.",
+        "letter": "B"
+       },
+       {
+        "text": "I'm sure he will.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "answer": "A",
+      "prompt": "Here, I've found your glasses.",
+      "options": [
+       {
+        "text": "Well done.",
+        "letter": "A"
+       },
+       {
+        "text": "That's all.",
+        "letter": "B"
+       },
+       {
+        "text": "Never mind.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "prompt": "Where do you come from?",
+     "options": [
+      {
+       "text": "New York.",
+       "letter": "A"
+      },
+      {
+       "text": "School.",
+       "letter": "B"
+      },
+      {
+       "text": "Home.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partLetter": "a",
+    "partNumber": 3,
+    "instruction": [
+     "Complete the five conversations.",
+     "For questions 11–15, mark A, B or C on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "type": "match-dialogue",
+    "items": [
+     {
+      "id": 16,
+      "answer": "H"
+     },
+     {
+      "id": 17,
+      "answer": "C"
+     },
+     {
+      "id": 18,
+      "answer": "A"
+     },
+     {
+      "id": 19,
+      "answer": "F"
+     },
+     {
+      "id": 20,
+      "answer": "E"
+     }
+    ],
+    "example": {
+     "answer": "D",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "Well, they had lots left yesterday.",
+      "letter": "A"
+     },
+     {
+      "text": "Was it a famous singer?",
+      "letter": "B"
+     },
+     {
+      "text": "That's what I'm going to see on Saturday. Would you like to come?",
+      "letter": "C"
+     },
+     {
+      "text": "I'm going to the new theatre in Bridge Street.",
+      "letter": "D"
+     },
+     {
+      "text": "Shall I give it to you again?",
+      "letter": "E"
+     },
+     {
+      "text": "OK. I'll be home after eight o'clock.",
+      "letter": "F"
+     },
+     {
+      "text": "No, I don't really think so.",
+      "letter": "G"
+     },
+     {
+      "text": "What did you go and see?",
+      "letter": "H"
+     }
+    ],
+    "dialogue": [
+     {
+      "line": "Hello, Melissa, what are you doing this weekend?",
+      "speaker": "Saskia"
+     },
+     {
+      "gap": 0,
+      "speaker": "Melissa"
+     },
+     {
+      "line": "Oh yes, I've been there.",
+      "speaker": "Saskia"
+     },
+     {
+      "gap": 16,
+      "speaker": "Melissa"
+     },
+     {
+      "line": "I went to a concert, but I've heard there's a good play on this week.",
+      "speaker": "Saskia"
+     },
+     {
+      "gap": 17,
+      "speaker": "Melissa"
+     },
+     {
+      "line": "Do you think they've still got tickets for it?",
+      "speaker": "Saskia"
+     },
+     {
+      "gap": 18,
+      "speaker": "Melissa"
+     },
+     {
+      "line": "Great! I'll book today and call you this evening.",
+      "speaker": "Saskia"
+     },
+     {
+      "gap": 19,
+      "speaker": "Melissa"
+     },
+     {
+      "line": "Let me check I've got your mobile number.",
+      "speaker": "Saskia"
+     },
+     {
+      "gap": 20,
+      "speaker": "Melissa"
+     },
+     {
+      "line": "It's OK, I've got it.",
+      "speaker": "Saskia"
+     }
+    ],
+    "partLetter": "b",
+    "partNumber": 3,
+    "instruction": [
+     "Complete the conversation between two friends.",
+     "What does Melissa say to Saskia?",
+     "For questions 16–20, mark the correct letter A–H on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "type": "mcq-passage-rws",
+    "items": [
+     {
+      "id": 21,
+      "answer": "A",
+      "statement": "Nick says that people in the places he visits are very friendly."
+     },
+     {
+      "id": 22,
+      "answer": "C",
+      "statement": "Nick buys something to take home from every country he visits."
+     },
+     {
+      "id": 23,
+      "answer": "B",
+      "statement": "On some trips, Nick travels alone."
+     },
+     {
+      "id": 24,
+      "answer": "C",
+      "statement": "There are often problems with the television cameras."
+     },
+     {
+      "id": 25,
+      "answer": "A",
+      "statement": "Every time Nick goes away, he packs something to read."
+     },
+     {
+      "id": 26,
+      "answer": "B",
+      "statement": "Helen is unhappy when he's away from home."
+     },
+     {
+      "id": 27,
+      "answer": "B",
+      "statement": "When Helen was sick, Nick returned home."
+     }
+    ],
+    "label": "PART 4",
+    "article": "Nick Barlow loves his work. He's a British actor and he travels around the world making TV programmes. 'People welcome me everywhere I go and when I get home I remember all the wonderful things that happened in each country.' Nick has travelled to many places but there are a few trips that he would still like to make. 'I'd love to visit South America and go back to Australia one day,' he says.\n\nOn each trip, Nick travels with a team of people. They bring the cameras and other filming equipment needed to make the programme. Nick doesn't take a lot of things for himself, just a few shirts and trousers, but he always makes sure he has some books in his suitcase.\n\nNick's wife, Helen, doesn't mind him travelling for his work. She has a lot of friends and keeps busy. When he gets back, she likes to listen to all his travel stories. But sometimes there are problems. When he was in the Malaysian rain forest, Nick heard that his wife was ill in hospital. 'I felt terrible because I couldn't help, but she didn't want me to come home. I was so happy when I heard she was better.'",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "statement": "Nick Barlow enjoys his job."
+    },
+    "partNumber": 4,
+    "instruction": [
+     "Read the article about Nick Barlow, who makes travel programmes for television.",
+     "Are sentences 21–27 'Right' (A) or 'Wrong' (B)?",
+     "If there is not enough information to answer 'Right' (A) or 'Wrong' (B), choose 'Doesn't say' (C).",
+     "For questions 21–27, mark A, B or C on your answer sheet."
+    ],
+    "articleTitle": "World traveller",
+    "questionsLabel": "QUESTIONS 21–27"
+   },
+   {
+    "type": "mcq-cloze-passage",
+    "items": [
+     {
+      "id": 28,
+      "answer": "A",
+      "options": [
+       {
+        "text": "From",
+        "letter": "A"
+       },
+       {
+        "text": "At",
+        "letter": "B"
+       },
+       {
+        "text": "By",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 29,
+      "answer": "C",
+      "options": [
+       {
+        "text": "so",
+        "letter": "A"
+       },
+       {
+        "text": "if",
+        "letter": "B"
+       },
+       {
+        "text": "but",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 30,
+      "answer": "C",
+      "options": [
+       {
+        "text": "he",
+        "letter": "A"
+       },
+       {
+        "text": "they",
+        "letter": "B"
+       },
+       {
+        "text": "it",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 31,
+      "answer": "A",
+      "options": [
+       {
+        "text": "only",
+        "letter": "A"
+       },
+       {
+        "text": "just",
+        "letter": "B"
+       },
+       {
+        "text": "once",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 32,
+      "answer": "B",
+      "options": [
+       {
+        "text": "living",
+        "letter": "A"
+       },
+       {
+        "text": "live",
+        "letter": "B"
+       },
+       {
+        "text": "lives",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 33,
+      "answer": "C",
+      "options": [
+       {
+        "text": "another",
+        "letter": "A"
+       },
+       {
+        "text": "any",
+        "letter": "B"
+       },
+       {
+        "text": "other",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 34,
+      "answer": "A",
+      "options": [
+       {
+        "text": "All",
+        "letter": "A"
+       },
+       {
+        "text": "Every",
+        "letter": "B"
+       },
+       {
+        "text": "Each",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 35,
+      "answer": "B",
+      "options": [
+       {
+        "text": "too",
+        "letter": "A"
+       },
+       {
+        "text": "very",
+        "letter": "B"
+       },
+       {
+        "text": "even",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 5",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "options": [
+      {
+       "text": "many",
+       "letter": "A"
+      },
+      {
+       "text": "much",
+       "letter": "B"
+      },
+      {
+       "text": "more",
+       "letter": "C"
+      }
+     ]
+    },
+    "passage": "There are {0} different kinds of cats. They are different in size and they do not look or act the same.\n\nTigers are the biggest cats. {28} head to tail they can be 3.7m long. Most cats don't like water, {29} tigers will often lie in a pool of water when {30} is hot.\n\nLions are the {31} cats that stay together in large family groups. Several lions may work together to get food for the group. They usually {32} in flat, open countryside where they can see a long way and easily follow {33} animals.\n\n{34} cats need good eyes, because they catch smaller animals for their food. They also need to be fast, and {35} strong.",
+    "partNumber": 5,
+    "instruction": [
+     "Read the article about big cats.",
+     "Choose the best word (A, B or C) for each space.",
+     "For questions 28–35, mark A, B or C on your answer sheet."
+    ],
+    "passageTitle": "Big cats",
+    "questionsLabel": "QUESTIONS 28–35"
+   },
+   {
+    "type": "vocab-first-letter",
+    "items": [
+     {
+      "id": 36,
+      "answer": "college",
+      "prompt": "People can study different things here.",
+      "letters": 7,
+      "firstLetter": "c"
+     },
+     {
+      "id": 37,
+      "answer": "museum",
+      "prompt": "You can look at very old things here.",
+      "letters": 6,
+      "firstLetter": "m"
+     },
+     {
+      "id": 38,
+      "answer": "station",
+      "prompt": "You may need to buy a ticket before you go on the platform here.",
+      "letters": 7,
+      "firstLetter": "s"
+     },
+     {
+      "id": 39,
+      "answer": "restaurant",
+      "prompt": "In this place, a waiter will bring you your meal.",
+      "letters": 10,
+      "firstLetter": "r"
+     },
+     {
+      "id": 40,
+      "answer": "stadium",
+      "prompt": "You can go here to watch a big match.",
+      "letters": 7,
+      "firstLetter": "s"
+     }
+    ],
+    "label": "PART 6",
+    "example": {
+     "answer": "factory",
+     "number": 0,
+     "prompt": "This is where a company makes the things that it sells.",
+     "firstLetter": "f"
+    },
+    "partNumber": 6,
+    "instruction": [
+     "Read the descriptions of some buildings in a town.",
+     "What is the word for each one?",
+     "The first letter is already there. There is one space for each other letter in the word.",
+     "For questions 36–40, write the words on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 36–40"
+   },
+   {
+    "type": "open-cloze-letter",
+    "items": [
+     {
+      "id": 41,
+      "answer": "am"
+     },
+     {
+      "id": 42,
+      "answer": "was"
+     },
+     {
+      "id": 43,
+      "answer": "about"
+     },
+     {
+      "id": 44,
+      "answer": "would"
+     },
+     {
+      "id": 45,
+      "answer": "or"
+     },
+     {
+      "id": 46,
+      "answer": "What"
+     },
+     {
+      "id": 47,
+      "answer": "Have"
+     },
+     {
+      "id": 48,
+      "answer": "a"
+     },
+     {
+      "id": 49,
+      "answer": "next"
+     },
+     {
+      "id": 50,
+      "answer": "to"
+     }
+    ],
+    "label": "PART 7",
+    "example": {
+     "answer": "you",
+     "number": 0
+    },
+    "letters": [
+     {
+      "body": "It's great that (Example: you) are my new penfriend. My name is Tom and I {41} fifteen years old. I {42} born in Canada but I live in England now. Please write and tell me all {43} your life in India. I {44} love to go there one day.\n\nDo you live in a small village {45} in a big town? {46} is your school like? {47} you got any pictures of your school you could send me? I'm sending you {48} few photos of my family. I'll send more the {49} time I write.\n\nI hope you'll write {50} me soon.",
+      "closing": "Tom",
+      "greeting": "Dear Deshini,"
+     }
+    ],
+    "partNumber": 7,
+    "instruction": [
+     "Complete the letter.",
+     "Write ONE word for each space.",
+     "For questions 41–50, write the words on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 41–50"
+   },
+   {
+    "note": {
+     "body": "",
+     "dateLine": "",
+     "signature": ""
+    },
+    "rows": [
+     {
+      "label": "Where:",
+      "prefilled": "Riverside Sports Club"
+     },
+     {
+      "id": 51,
+      "label": "Which sport:",
+      "answer": "tennis"
+     },
+     {
+      "id": 52,
+      "label": "Day:",
+      "answer": "Thursday"
+     },
+     {
+      "id": 53,
+      "label": "Time:",
+      "answer": "8",
+      "suffix": "p.m."
+     },
+     {
+      "id": 54,
+      "label": "Number of people:",
+      "answer": "3"
+     },
+     {
+      "id": 55,
+      "label": "Cost each:",
+      "answer": "30",
+      "suffix": "£"
+     }
+    ],
+    "type": "info-transfer-notes",
+    "label": "PART 8",
+    "notice": {
+     "body": "RIVERSIDE SPORTS CLUB\nCLASSES\n\nSwimming\nThursday or Sunday\n2 p.m. and 7 p.m.\n\nTennis\nThursday or Saturday\n2 p.m. and 8 p.m.\n\nPrice of courses:\nDaytime   £20\nEvenings  £30\n\n—————————————\nFrom: Vika\nTo:   Marina\n\nCould you book a sports course for the three of us – us two and Ali? Let's have tennis lessons – we can do swimming in the summer. The weekend isn't good for me – it has to be Thursday. Also, Ali's music lesson is at 2 p.m. so we have to do the later class. It costs more, but never mind.",
+     "title": "Riverside Sports Club + Email"
+    },
+    "notesTitle": "Marina's notes",
+    "partNumber": 8,
+    "instruction": [
+     "Read the advertisement and the email.",
+     "Fill in the information in Marina's notes.",
+     "For questions 51–55, write the information on your answer sheet."
+    ],
+    "notesSubtitle": "Sports course",
+    "questionsLabel": "QUESTIONS 51–55"
+   },
+   {
+    "type": "writing-postcard",
+    "items": [
+     {
+      "id": 56,
+      "type": "free-text",
+      "answer": "How are you?\nYesterday I went shopping for clothes. I bought two trousers and one pair of shoes. I bought them because I have a birthday partie. Trousers cost each £20 and the pair of shoes it was free because direktor of this shop is my father.\nSee you soon\nŽeljka",
+      "maxWords": 35,
+      "minWords": 25
+     }
+    ],
+    "label": "PART 9",
+    "footer": [
+     "Write 25–35 words.",
+     "Write the postcard on your answer sheet."
+    ],
+    "prompt": "You went shopping for clothes yesterday. Write a postcard to a friend.",
+    "wordCount": "25–35 words",
+    "partNumber": 9,
+    "instruction": [
+     "You went shopping for clothes yesterday. Write a postcard to a friend.",
+     "Say:",
+     "• what clothes you bought",
+     "• why you bought them",
+     "• how much they cost."
+    ],
+    "questionsLabel": "QUESTION 56",
+    "promptSignature": ""
+   }
+  ],
+  "testInfo": {
+   "id": "ket-rw-19",
+   "level": "A2",
+   "paper": "Paper 1",
+   "parts": 9,
+   "title": "KET Reading & Writing — Test 19",
+   "totalTime": 70,
+   "totalQuestions": 56
+  }
+ },
+ "created_at": "2026-10-14T06:45:09.333188+00:00",
+ "updated_at": "2026-10-14T06:46:56.541045+00:00"
+}

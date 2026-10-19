@@ -1,0 +1,684 @@
+{
+ "id": 2294,
+ "mock_type": "pet-reading",
+ "mock_number": 4,
+ "title": "PET Reading — Test 4",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "sign-mcq",
+    "items": [
+     {
+      "id": 1,
+      "image": "https://audio.mock-stream.com/PET-Reading/test4/q1.png",
+      "answer": "B",
+      "prompt": " ",
+      "options": [
+       {
+        "text": "You can order your tickets for the trip tomorrow.",
+        "letter": "A"
+       },
+       {
+        "text": "Reserved tickets must be paid for by tomorrow.",
+        "letter": "B"
+       },
+       {
+        "text": "You should return unwanted tickets to Miss Phelps tomorrow.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "image": "https://audio.mock-stream.com/PET-Reading/test4/q2.png",
+      "answer": "C",
+      "prompt": " ",
+      "options": [
+       {
+        "text": "Nick's lesson will be on Tuesdays from now on.",
+        "letter": "A"
+       },
+       {
+        "text": "The time of Nick's lesson has changed.",
+        "letter": "B"
+       },
+       {
+        "text": "Nick's lesson this week is at the same time on a different day.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 3,
+      "image": "https://audio.mock-stream.com/PET-Reading/test4/q3.png",
+      "answer": "C",
+      "prompt": " ",
+      "options": [
+       {
+        "text": "You are not allowed to remove any of the pictures here.",
+        "letter": "A"
+       },
+       {
+        "text": "You are not allowed to display any of your photos here.",
+        "letter": "B"
+       },
+       {
+        "text": "You are not allowed to use your camera here.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 4,
+      "image": "https://audio.mock-stream.com/PET-Reading/test4/q4.png",
+      "answer": "C",
+      "prompt": "What should you do?",
+      "options": [
+       {
+        "text": "Insert CD, click on 'start' and then wait.",
+        "letter": "A"
+       },
+       {
+        "text": "Click on 'start', insert CD and then wait.",
+        "letter": "B"
+       },
+       {
+        "text": "Insert CD, wait and then click on 'start'.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 5,
+      "image": "https://audio.mock-stream.com/PET-Reading/test4/q5.png",
+      "answer": "A",
+      "prompt": " ",
+      "options": [
+       {
+        "text": "Mick will return Lara's computer game to her on Monday.",
+        "letter": "A"
+       },
+       {
+        "text": "Lara will give Eve's computer game to Mick on Monday.",
+        "letter": "B"
+       },
+       {
+        "text": "Mick and Eve will borrow Lara's computer game on Monday.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "image": "https://audio.mock-stream.com/PET-Reading/test4/q0.png",
+     "answer": "A",
+     "number": 0,
+     "prompt": "LOST FLOPPY DISC — Lost on Tuesday - contains important schoolwork. Hand in to office.",
+     "options": [
+      {
+       "text": "Go to the office if you have lost a floppy disc.",
+       "letter": "A"
+      },
+      {
+       "text": "Make sure all schoolwork is given in on floppy disc to the office.",
+       "letter": "B"
+      },
+      {
+       "text": "If you have found a floppy disc, please leave it at the office.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partNumber": 1,
+    "instruction": [
+     "Look at the text in each question.",
+     "What does it say?",
+     "Mark the correct letter A, B or C on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "match-people-texts",
+    "items": [
+     {
+      "id": 6,
+      "name": "Angela",
+      "image": "https://audio.mock-stream.com/PET-Reading/test4/p6.jpg",
+      "answer": "E",
+      "description": "Angela wants to go out with her younger sister in the evening. They both love learning about wildlife and would like to take part in an organised activity."
+     },
+     {
+      "id": 7,
+      "name": "Vic",
+      "image": "https://audio.mock-stream.com/PET-Reading/test4/p7.jpg",
+      "answer": "B",
+      "description": "Vic would like to go with his friends to listen to several different kinds of music. They also want to be able to buy something to eat."
+     },
+     {
+      "id": 8,
+      "name": "Beth and her sister",
+      "image": "https://audio.mock-stream.com/PET-Reading/test4/p8.jpg",
+      "answer": "F",
+      "description": "Beth and her twin sister are interested in art and would like to make something which they can take home as a souvenir of their day. They also want a nice place to eat their packed lunch."
+     },
+     {
+      "id": 9,
+      "name": "Mike",
+      "image": "https://audio.mock-stream.com/PET-Reading/test4/p9.jpg",
+      "answer": "H",
+      "description": "Mike wants to spend the day with a couple of friends. They all enjoy water sports and the open air and are also keen on history."
+     },
+     {
+      "id": 10,
+      "name": "Molly and her friend",
+      "image": "https://audio.mock-stream.com/PET-Reading/test4/p10.jpg",
+      "answer": "A",
+      "description": "Molly and her friend are enjoying a school project on the environment and are keen to discover more about this topic. They want to go somewhere where they can spend the day and also get some lunch."
+     }
+    ],
+    "label": "PART 2",
+    "texts": [
+     {
+      "body": "Have fun finding out how you can help save the planet. Learn from the experts who will give entertaining hands-on demonstrations about everything from water saving to energy efficiency. Everything sold in the park's restaurant is made from ingredients from the local area. 10 am – 6 pm.",
+      "title": "Waspbrook Park",
+      "letter": "A"
+     },
+     {
+      "body": "Travel by boat to an open-air concert in the beautiful surroundings of this unspoilt island. Hear some of the biggest artists from the rock, pop and jazz worlds. There'll be stalls offering a range of international foods. It'll be a truly amazing evening.",
+      "title": "Silverbank Island",
+      "letter": "B"
+     },
+     {
+      "body": "Bring a picnic lunch and relax for the afternoon in lovely landscaped gardens and watch a film. The large outdoor screen is well placed so all the audience can see it clearly. This week's film is the 1960s wildlife classic Born Free. It's a beautiful film which will be popular with young and old alike.",
+      "title": "Hopelands Hall",
+      "letter": "C"
+     },
+     {
+      "body": "Learn some traditional fishing skills on this popular all-day sports course. You'll learn about different types of environmentally-friendly fishing and will then have the opportunity to try them out yourself. Bring your camera — you'll want a souvenir of your day as any fish you catch must be thrown back in the water!",
+      "title": "Bramley River Centre",
+      "letter": "D"
+     },
+     {
+      "body": "Discover the different types of birds and animals that come out in the evening in the park. Staff have arranged special games to help you find out about these creatures. Hot drinks and tasty snacks will be provided. Don't forget to wear comfortable boots! 8 pm – 10 pm.",
+      "title": "Downland Park",
+      "letter": "E"
+     },
+     {
+      "body": "In the morning you can visit the centre's large collection of 20th century advertising posters, then spend the afternoon working on your own poster design to print and keep. You can picnic in the centre's spacious gardens while listening to rap songs from local musicians.",
+      "title": "The Collins Centre",
+      "letter": "F"
+     },
+     {
+      "body": "Do you like Brazilian music? Then come along to the all-day 'Samba' workshop at Oakwood Manor. You'll learn to play some cool sounds on the drums, and practise some great dances. A traditional Brazilian lunch is included in the price.",
+      "title": "Oakwood Manor",
+      "letter": "G"
+     },
+     {
+      "body": "There are lots of things to do in and around the castle during special activity days. Spend half the day sailing and then, after a picnic, go mountain biking. In the evening you can watch a battle for the castle and discover what life was like for a soldier here a thousand years ago.",
+      "title": "Westsea Castle",
+      "letter": "H"
+     }
+    ],
+    "partNumber": 2,
+    "textsTitle": "Special Events this Saturday",
+    "instruction": [
+     "The young people below all want to do something special this Saturday.",
+     "On the opposite page there are descriptions of eight events.",
+     "Decide which event would be the most suitable for the following people.",
+     "For questions 6–10, mark the correct letter (A–H) on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "true-false",
+    "items": [
+     {
+      "id": 11,
+      "answer": "B",
+      "statement": "Rebecca Hardy's home is close to the coast."
+     },
+     {
+      "id": 12,
+      "answer": "A",
+      "statement": "At the Ocean Centre, you can see fish from both seas and rivers."
+     },
+     {
+      "id": 13,
+      "answer": "B",
+      "statement": "All the creatures that are on display at the Centre are harmless."
+     },
+     {
+      "id": 14,
+      "answer": "A",
+      "statement": "The admission fee for the Centre goes towards environmental projects."
+     },
+     {
+      "id": 15,
+      "answer": "B",
+      "statement": "Rebecca was allowed to feed the fish at the Centre."
+     },
+     {
+      "id": 16,
+      "answer": "B",
+      "statement": "Rebecca had to book in advance to see the fish at their feeding time."
+     },
+     {
+      "id": 17,
+      "answer": "B",
+      "statement": "The Ocean Centre has the largest collection of seahorses in the world."
+     },
+     {
+      "id": 18,
+      "answer": "A",
+      "statement": "Rebecca was pleased that she was able to see baby seahorses in the exhibition."
+     },
+     {
+      "id": 19,
+      "answer": "B",
+      "statement": "Each day, the Centre holds lots of talks on different topics."
+     },
+     {
+      "id": 20,
+      "answer": "A",
+      "statement": "Rebecca found she could leave and return to the Centre during her visit without paying again."
+     }
+    ],
+    "label": "PART 3",
+    "passage": "My family and I went to the Ocean Centre in my home town recently. It was one of the most amazing places I've ever been. We don't live near the sea, so I don't get much chance to see living sea creatures for myself.\n\nInside the Centre you go on what they call an ocean journey. It takes you from the smallest stream, through rivers, and out into the deepest ocean. Along the way you meet fish and other creatures that live in these places. And there are thousands of them — some pretty and peaceful, and others frightening and deadly.\n\nOur guide told us that the Centre was originally set up to help look after the seas and protect the life within them. In fact, every entry ticket bought there helps the Centre to achieve this aim, so I felt my visit was in a good cause.\n\nBy chance, we arrived just at feeding time and watched staff give food to hundreds of fish. I wanted to do it too, but the staff wouldn't let me. But I'd still really recommend being there at feeding time. You'll see feeding times advertised at the ticket desk, or you can telephone in advance to find out when they are.\n\nThe most fascinating part of the visit for me was a new exhibition at the Centre that told the story of seahorses across the world. It has the biggest collection of these magical creatures in Europe, and almost as many as one in the USA. I found out about what they ate, and how a male seahorse managed to give birth to 1500 babies! And although our guide told us it was hard to see the young ones, we were lucky enough to catch sight of some in the tank!\n\nWe also went to one of the Centre's talks about the underwater world. Ours was called 'Sharks', and the one on the following day was called 'Creatures of the Deep'. There are talks on other topics given on different days, so it's best to check which talk will take place on the day you go.\n\nOnce we'd bought our ticket, we could go in and out of the Centre as many times as we liked during the day. You can also buy an annual pass that gives you unlimited entry all year round. I'm saving up for one!",
+    "partNumber": 3,
+    "instruction": [
+     "Look at the sentences below about a trip to an Ocean Centre.",
+     "Read the text on the opposite page to decide if each sentence is correct or incorrect.",
+     "If it is correct, mark A on your answer sheet.",
+     "If it is not correct, mark B on your answer sheet."
+    ],
+    "passageImage": "https://audio.mock-stream.com/PET-Reading/test4/passage3.jpg",
+    "passageTitle": "A visit to the Ocean Centre",
+    "questionsLabel": "QUESTIONS 11–20",
+    "passageSubtitle": "by Rebecca Hardy, aged 13"
+   },
+   {
+    "type": "passage-mcq",
+    "items": [
+     {
+      "id": 21,
+      "answer": "B",
+      "prompt": "In this text Rachel Martin",
+      "options": [
+       {
+        "text": "explains what equipment is needed for skateboarding.",
+        "letter": "A"
+       },
+       {
+        "text": "describes the places for skateboarding in her area.",
+        "letter": "B"
+       },
+       {
+        "text": "persuades young people to enter skateboarding competitions.",
+        "letter": "C"
+       },
+       {
+        "text": "compares skateboarding with other sports.",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 22,
+      "answer": "A",
+      "prompt": "Why was it hard for Rachel to go skateboarding last year?",
+      "options": [
+       {
+        "text": "There wasn't a skatepark near enough to her house.",
+        "letter": "A"
+       },
+       {
+        "text": "None of her friends were able to go with her.",
+        "letter": "B"
+       },
+       {
+        "text": "She was worried she would hurt herself.",
+        "letter": "C"
+       },
+       {
+        "text": "She wasn't allowed to go out in the evenings.",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 23,
+      "answer": "C",
+      "prompt": "What does Rachel say about the skatepark at her school?",
+      "options": [
+       {
+        "text": "It allows younger children to practise their skating.",
+        "letter": "A"
+       },
+       {
+        "text": "It takes too many people away from other sports.",
+        "letter": "B"
+       },
+       {
+        "text": "It is used for several different activities.",
+        "letter": "C"
+       },
+       {
+        "text": "It is more crowded than the skatepark in town.",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 24,
+      "answer": "B",
+      "prompt": "What does Rachel like about skateboarding?",
+      "options": [
+       {
+        "text": "getting the chance to be good at something",
+        "letter": "A"
+       },
+       {
+        "text": "having to think carefully",
+        "letter": "B"
+       },
+       {
+        "text": "learning new skills from her sister",
+        "letter": "C"
+       },
+       {
+        "text": "doing an activity with girls of her own age",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 25,
+      "answer": "D",
+      "prompt": "Which of the following might Rachel write in her diary?",
+      "options": [
+       {
+        "text": "Did another competition today – I won, although I was the youngest. But then I have got two years' experience.",
+        "letter": "A"
+       },
+       {
+        "text": "Didn't feel like practising tonight, so stayed in and watched TV instead. That's the fourth time this week!",
+        "letter": "B"
+       },
+       {
+        "text": "Was skating on the pavement today when I fell and hurt my ankle. I've done that three times now.",
+        "letter": "C"
+       },
+       {
+        "text": "Couldn't use school skatepark today – there were too many bikers. My little brother wanted to play there but it wasn't safe for him.",
+        "letter": "D"
+       }
+      ]
+     }
+    ],
+    "label": "PART 4",
+    "passage": "I've practised skateboarding for 18 months now, and I was the youngest person in a street skateboarding competition last year. I spend my free time at my town's new skatepark – I rarely stay at home and watch TV.\n\nBefore the new skatepark was built this year, the nearest skatepark was in a town 10 km away. Some of my older friends went there, but my mum wouldn't let me go because I wasn't old enough. The only place to skate was on the pavements, but then I fell and injured my arm. I wasn't popular with pedestrians either, so I stopped! Nowadays, though, I can use the new skatepark in the evenings – it's got huge lights, so you can use it even at night.\n\nWe've got a skatepark at our school now, too. It keeps us fit! The school skatepark is dangerous for smaller children like my little brother, though, as the teenage students also use their rollerskates or ride their BMX bikes there. I guess they prefer it because the skatepark in town is pretty busy.\n\nI've always found schoolwork easy, but skateboarding is hard! My favourite trick is jumping over boxes. Doing things like that really makes you concentrate, which is a challenge, but it's something I really enjoy. My older sister works as a skateboard instructor, so one day I'd like to be like her. It's unusual for girls to skate around here, so although I love it, it's a bit lonely. I'd like more girls to join in!",
+    "partNumber": 4,
+    "instruction": [
+     "Read the text and questions below.",
+     "For each question, mark the correct letter A, B, C or D on your answer sheet."
+    ],
+    "passageTitle": "Skateboarding",
+    "questionsLabel": "QUESTIONS 21–25",
+    "passageSubtitle": "by Rachel Martin, aged 11"
+   },
+   {
+    "type": "passage-cloze",
+    "items": [
+     {
+      "id": 26,
+      "answer": "B",
+      "options": [
+       {
+        "text": "for",
+        "letter": "A"
+       },
+       {
+        "text": "of",
+        "letter": "B"
+       },
+       {
+        "text": "from",
+        "letter": "C"
+       },
+       {
+        "text": "with",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 27,
+      "answer": "C",
+      "options": [
+       {
+        "text": "take",
+        "letter": "A"
+       },
+       {
+        "text": "do",
+        "letter": "B"
+       },
+       {
+        "text": "spend",
+        "letter": "C"
+       },
+       {
+        "text": "make",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 28,
+      "answer": "C",
+      "options": [
+       {
+        "text": "called",
+        "letter": "A"
+       },
+       {
+        "text": "noted",
+        "letter": "B"
+       },
+       {
+        "text": "known",
+        "letter": "C"
+       },
+       {
+        "text": "said",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 29,
+      "answer": "A",
+      "options": [
+       {
+        "text": "consists",
+        "letter": "A"
+       },
+       {
+        "text": "involves",
+        "letter": "B"
+       },
+       {
+        "text": "contains",
+        "letter": "C"
+       },
+       {
+        "text": "employs",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 30,
+      "answer": "B",
+      "options": [
+       {
+        "text": "size",
+        "letter": "A"
+       },
+       {
+        "text": "number",
+        "letter": "B"
+       },
+       {
+        "text": "level",
+        "letter": "C"
+       },
+       {
+        "text": "lot",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 31,
+      "answer": "A",
+      "options": [
+       {
+        "text": "part",
+        "letter": "A"
+       },
+       {
+        "text": "away",
+        "letter": "B"
+       },
+       {
+        "text": "place",
+        "letter": "C"
+       },
+       {
+        "text": "up",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 32,
+      "answer": "C",
+      "options": [
+       {
+        "text": "prepare",
+        "letter": "A"
+       },
+       {
+        "text": "attend",
+        "letter": "B"
+       },
+       {
+        "text": "improve",
+        "letter": "C"
+       },
+       {
+        "text": "produce",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 33,
+      "answer": "A",
+      "options": [
+       {
+        "text": "how",
+        "letter": "A"
+       },
+       {
+        "text": "about",
+        "letter": "B"
+       },
+       {
+        "text": "why",
+        "letter": "C"
+       },
+       {
+        "text": "well",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 34,
+      "answer": "D",
+      "options": [
+       {
+        "text": "moved",
+        "letter": "A"
+       },
+       {
+        "text": "held",
+        "letter": "B"
+       },
+       {
+        "text": "kept",
+        "letter": "C"
+       },
+       {
+        "text": "led",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 35,
+      "answer": "B",
+      "options": [
+       {
+        "text": "although",
+        "letter": "A"
+       },
+       {
+        "text": "when",
+        "letter": "B"
+       },
+       {
+        "text": "unless",
+        "letter": "C"
+       },
+       {
+        "text": "while",
+        "letter": "D"
+       }
+      ]
+     }
+    ],
+    "label": "PART 5",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "prompt": "A see   B look   C show   D visit"
+    },
+    "passage": "If you take a walk through Reykjavik – the capital of Iceland – this summer, you'll (0) ___ groups of young people working in parks, gardens and green areas around the city. Most (26) ___ these kids are in high school but they (27) ___ the summer keeping the city green as part of a program (28) ___ as 'work school'.\n\nThe 'work school' (29) ___ of a surprisingly large (30) ___ of Reykjavik's teenagers. Roughly 75% of Reykjavik's 14-year-olds and 60% of the city's 16-year-olds take (31) ___.\n\nThey get paid for their work, and at the same time they (32) ___ the environment of their city.\n\nThey also learn (33) ___ to work as a member of a team which is (34) ___ by an adult. This experience provides them with useful skills for (35) ___ they leave education and enter the world of work.",
+    "partNumber": 5,
+    "instruction": [
+     "Read the text below and choose the correct word for each space.",
+     "For each question, mark the correct letter A, B, C or D on your answer sheet."
+    ],
+    "passageTitle": "Summer Work in Reykjavik",
+    "questionsLabel": "QUESTIONS 26–35"
+   }
+  ],
+  "testInfo": {
+   "id": "pet-r-04",
+   "level": "B1",
+   "paper": "Paper 1 · Reading",
+   "parts": 5,
+   "title": "PET Reading — Test 4",
+   "totalTime": 50,
+   "totalQuestions": 35
+  }
+ },
+ "created_at": "2026-10-14T06:45:38.777875+00:00",
+ "updated_at": "2026-10-14T06:47:24.31033+00:00"
+}

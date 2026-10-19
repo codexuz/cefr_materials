@@ -1,0 +1,458 @@
+{
+ "id": 2280,
+ "mock_type": "ket-listening",
+ "mock_number": 18,
+ "title": "KET Listening — Test 18",
+ "status": "published",
+ "mock_data": {
+  "audio": {
+   "base": "https://audio.mock-stream.com/KET-Listening/test18/",
+   "files": {
+    "1": "PART1.m4a",
+    "2": "PART2.m4a",
+    "3": "PART3.m4a",
+    "4": "PART4.m4a",
+    "5": "PART5.m4a"
+   }
+  },
+  "parts": [
+   {
+    "type": "picture-mcq",
+    "items": [
+     {
+      "id": 1,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q1A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q1B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q1C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Where will the man and woman meet?"
+     },
+     {
+      "id": 2,
+      "answer": "C",
+      "options": [
+       {
+        "text": "21st June",
+        "letter": "A"
+       },
+       {
+        "text": "20th July",
+        "letter": "B"
+       },
+       {
+        "text": "21st July",
+        "letter": "C"
+       }
+      ],
+      "question": "What's the date of Emma's birthday party?"
+     },
+     {
+      "id": 3,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q3A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q3B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q3C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Where is Norah's watch?"
+     },
+     {
+      "id": 4,
+      "answer": "A",
+      "options": [
+       {
+        "text": "£3.50",
+        "letter": "A"
+       },
+       {
+        "text": "£6",
+        "letter": "B"
+       },
+       {
+        "text": "£10",
+        "letter": "C"
+       }
+      ],
+      "question": "How much is a ticket for tonight's match?"
+     },
+     {
+      "id": 5,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q5A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q5B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q5C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Which is the boy's brother?"
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "image": "q0A.png",
+       "letter": "A"
+      },
+      {
+       "image": "q0B.png",
+       "letter": "B"
+      },
+      {
+       "image": "q0C.png",
+       "letter": "C"
+      }
+     ],
+     "question": "How many people were at the meeting?"
+    },
+    "imageBase": "https://audio.mock-stream.com/KET-Listening/test18/p1/",
+    "partNumber": 1,
+    "instruction": [
+     "You will hear five short conversations.",
+     "You will hear each conversation twice.",
+     "There is one question for each conversation.",
+     "For questions 1–5, put a tick (✓) under the right answer."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "matching-list",
+    "items": [
+     {
+      "id": 6,
+      "name": "Alison",
+      "answer": "F"
+     },
+     {
+      "id": 7,
+      "name": "Helen",
+      "answer": "B"
+     },
+     {
+      "id": 8,
+      "name": "Lucy",
+      "answer": "G"
+     },
+     {
+      "id": 9,
+      "name": "Kerry",
+      "answer": "D"
+     },
+     {
+      "id": 10,
+      "name": "Jo",
+      "answer": "A"
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "name": "Amy",
+     "answer": "H",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "CD",
+      "letter": "A"
+     },
+     {
+      "text": "magazine",
+      "letter": "B"
+     },
+     {
+      "text": "mobile phone",
+      "letter": "C"
+     },
+     {
+      "text": "picture",
+      "letter": "D"
+     },
+     {
+      "text": "shoes",
+      "letter": "E"
+     },
+     {
+      "text": "suitcase",
+      "letter": "F"
+     },
+     {
+      "text": "sweater",
+      "letter": "G"
+     },
+     {
+      "text": "video",
+      "letter": "H"
+     }
+    ],
+    "scenario": "Amy telling her father about her shopping trip — things they bought",
+    "leftLabel": "People",
+    "partNumber": 2,
+    "rightLabel": "Things they bought",
+    "instruction": [
+     "Listen to Amy telling her father about her shopping trip.",
+     "What did she and her friends buy?",
+     "For questions 6–10, write a letter A–H next to each person.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-conversation",
+    "items": [
+     {
+      "id": 11,
+      "stem": "Jamie will go to university from the new flat",
+      "answer": "C",
+      "options": [
+       {
+        "text": "by bicycle.",
+        "letter": "A"
+       },
+       {
+        "text": "by bus.",
+        "letter": "B"
+       },
+       {
+        "text": "on foot.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "stem": "The new flat is",
+      "answer": "A",
+      "options": [
+       {
+        "text": "over a shop.",
+        "letter": "A"
+       },
+       {
+        "text": "on a noisy road.",
+        "letter": "B"
+       },
+       {
+        "text": "next to a café.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "stem": "How much will Jamie pay a week for the flat?",
+      "answer": "B",
+      "options": [
+       {
+        "text": "£200",
+        "letter": "A"
+       },
+       {
+        "text": "£40",
+        "letter": "B"
+       },
+       {
+        "text": "£14",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "stem": "What doesn't the flat have?",
+      "answer": "C",
+      "options": [
+       {
+        "text": "a cooker",
+        "letter": "A"
+       },
+       {
+        "text": "a fridge",
+        "letter": "B"
+       },
+       {
+        "text": "a washing machine",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "stem": "Jamie agrees to move into the new flat on",
+      "answer": "B",
+      "options": [
+       {
+        "text": "Saturday.",
+        "letter": "A"
+       },
+       {
+        "text": "Sunday.",
+        "letter": "B"
+       },
+       {
+        "text": "Monday.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "stem": "At the moment, Jamie is living",
+     "answer": "B",
+     "number": 0,
+     "options": [
+      {
+       "text": "at home.",
+       "letter": "A"
+      },
+      {
+       "text": "in the university.",
+       "letter": "B"
+      },
+      {
+       "text": "in a flat.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partNumber": 3,
+    "instruction": [
+     "Listen to Jamie talking to his mother about a flat.",
+     "For questions 11–15, tick (✓) A, B or C.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "rows": [
+     {
+      "id": 16,
+      "label": "There are tickets for show on:",
+      "answer": "Wednesday",
+      "suffix": "evening"
+     },
+     {
+      "id": 17,
+      "label": "Price for one ticket:",
+      "answer": "8.50",
+      "prefix": "£"
+     },
+     {
+      "id": 18,
+      "label": "Get tickets from box office in:",
+      "answer": "FERRET",
+      "suffix": "Road"
+     },
+     {
+      "id": 19,
+      "label": "Show starts at:",
+      "answer": "7.45",
+      "suffix": "p.m."
+     },
+     {
+      "id": 20,
+      "label": "Bus number:",
+      "answer": "136"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 4",
+    "subtitle": "Name of theatre: Queen's",
+    "noteTitle": "Theatre tickets",
+    "partNumber": 4,
+    "instruction": [
+     "You will hear a woman asking about tickets for the theatre.",
+     "Listen and complete questions 16–20.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "rows": [
+     {
+      "id": 21,
+      "label": "Number of nights:",
+      "answer": "3"
+     },
+     {
+      "id": 22,
+      "label": "Name of hotel:",
+      "answer": "FALKIRK",
+      "suffix": "Hotel"
+     },
+     {
+      "id": 23,
+      "label": "At hotel, you can play:",
+      "answer": "golf"
+     },
+     {
+      "label": "Call The Travel Programme",
+      "prefilled": ""
+     },
+     {
+      "id": 24,
+      "label": "Phone before midnight on:",
+      "answer": "Thursday"
+     },
+     {
+      "id": 25,
+      "label": "Phone number:",
+      "answer": "0208 66873"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 5",
+    "subtitle": "Win a holiday in: Scotland",
+    "noteTitle": "Holiday competition",
+    "partNumber": 5,
+    "instruction": [
+     "You will hear some information about a competition to win a holiday.",
+     "Listen and complete questions 21–25.",
+     "You will hear the information twice."
+    ],
+    "questionsLabel": "QUESTIONS 21–25"
+   }
+  ],
+  "testInfo": {
+   "id": "ket-l-18",
+   "level": "A2",
+   "paper": "Paper 2",
+   "parts": 5,
+   "title": "KET Listening — Test 18",
+   "totalTime": 30,
+   "totalQuestions": 25
+  }
+ },
+ "created_at": "2026-10-14T06:45:28.786956+00:00",
+ "updated_at": "2026-10-14T06:47:14.880448+00:00"
+}

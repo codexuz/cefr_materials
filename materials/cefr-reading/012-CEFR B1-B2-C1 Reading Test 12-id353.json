@@ -1,0 +1,793 @@
+{
+ "id": 353,
+ "mock_type": "cefr-reading",
+ "mock_number": 12,
+ "title": "CEFR B1-B2-C1 Reading Test 12",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "gap-fill-text",
+    "title": "Part 1",
+    "answers": {
+     "1": [
+      "exam"
+     ],
+     "2": [
+      "students"
+     ],
+     "3": [
+      "questions"
+     ],
+     "4": [
+      "maths"
+     ],
+     "5": [
+      "said"
+     ],
+     "6": [
+      "course"
+     ]
+    },
+    "passage": {
+     "title": "University Exam Petition",
+     "content": "<p>Final-year students at a university in England are angry after they took an economics exam. Students from the University of Sheffield have signed a petition to say the (1)<span class=\"gap\" data-gap=\"1\">_____(1)_____</span> questions were ‘impossible’ to answer. Nearly all of the 100 students who took the exam complained and signed the online petition. They want the university to look into this. The (2)<span class=\"gap\" data-gap=\"2\">_____(2)_____</span> say the exam contained questions on topics that were not in their course. They also say the (3)<span class=\"gap\" data-gap=\"3\">_____(3)_____</span> included a lot of difficult maths that they had not been taught. One student said a lecturer told them they would only need ‘simple’ (4)<span class=\"gap\" data-gap=\"4\">_____(4)_____</span>. They are now worried that they will get low test scores, and that this will affect what kind of degree they get.</p><p>The head of the economics department, professor Andy Dickerson, told the BBC that the exam was fair. He said not all the questions needed maths. He said the level of maths in the exams was the same as the level taught to students on the course. Professor Dickerson also (5)<span class=\"gap\" data-gap=\"5\">_____(5)_____</span> all the exam questions were on topics the students had studied. He said: “All questions were based on topics taught in the (6)<span class=\"gap\" data-gap=\"6\">_____(6)_____</span> and for which further reading was provided.” He added that one question in the exam used a term that students may not have seen before. He said this was no problem because the question explained the meaning of the term. The university said it would look carefully at the results.</p>"
+    },
+    "questions": [
+     {
+      "id": 1,
+      "hint": "the _____ questions"
+     },
+     {
+      "id": 2,
+      "hint": "The _____ say"
+     },
+     {
+      "id": 3,
+      "hint": "the _____ included"
+     },
+     {
+      "id": 4,
+      "hint": "need 'simple' _____"
+     },
+     {
+      "id": 5,
+      "hint": "Dickerson also _____"
+     },
+     {
+      "id": 6,
+      "hint": "taught in the _____"
+     }
+    ],
+    "partNumber": 1,
+    "instruction": "Read the text. Fill in each gap with ONE word. You must use a word which is somewhere in the rest of the text.",
+    "explanations": {
+     "q1": {
+      "text": "The passage is about a difficult economics exam that students took. The students complained that the questions on this test were impossible to answer. That's why the correct answer is 'exam'.",
+      "quote": "Final-year students at a university in England are angry after they took an economics exam."
+     },
+     "q2": {
+      "text": "The previous sentence mentions that 100 students complained and signed a petition. This sentence continues to explain what those people said in their complaint. That's why the correct answer is 'students'.",
+      "quote": "Nearly all of the 100 students who took the exam complained and signed the online petition."
+     },
+     "q3": {
+      "text": "The students are complaining about the content of the exam. They say the exam had questions on topics they didn't study and also that these items included difficult maths. That's why the correct answer is 'questions'.",
+      "quote": "He said not all the questions needed maths."
+     },
+     "q4": {
+      "text": "The students complained that the exam contained 'a lot of difficult maths'. This sentence contrasts that by saying a lecturer promised they would only need the simple version of it. That's why the correct answer is 'maths'.",
+      "quote": ""
+     },
+     "q5": {
+      "text": "This paragraph reports what Professor Dickerson told the BBC. The sentences use reporting verbs like 'told' and 'said' to introduce his statements, and this sentence continues that pattern. That's why the correct answer is 'said'.",
+      "quote": "He said the level of maths in the exams was the same as the level taught to students on the course."
+     },
+     "q6": {
+      "text": "Professor Dickerson is responding to the students' complaint that the exam had topics that were not part of their studies. He confirms the questions were based on material taught to them. That's why the correct answer is 'course'.",
+      "quote": ""
+     }
+    },
+    "questionRange": "1-6"
+   },
+   {
+    "type": "matching",
+    "texts": [
+     {
+      "title": "Global Wanderers",
+      "number": 7,
+      "content": "\"Discover Paris, the city of love, for only $999! Includes a 5-day guided tour, accommodation, and airport transfers. Stroll through the Eiffel Tower, Louvre, and charming cafes. Book now at globalwanderers.com or call +1 555 789 1234.\""
+     },
+     {
+      "title": "Mystic Adventures Travel",
+      "number": 8,
+      "content": "\"Explore the wonders of Machu Picchu for $1,499. Package includes a 7-day guided trek, meals, and a night in Cusco. Experience Peru’s ancient mysticism. Call us today at +51 987 654 321 or visit mysticadventures.com.\""
+     },
+     {
+      "title": "Sunrise Safari Tours",
+      "number": 9,
+      "content": "\"Embark on an African safari adventure for $2,799. Witness the Big Five in Kenya’s Masai Mara Reserve. 10-day package includes accommodation, game drives, and meals. Email us at safaris@sunrise.com for details.\""
+     },
+     {
+      "title": "Island Bliss Getaways",
+      "number": 10,
+      "content": "\"7 nights in the Maldives starting at $2,499 per person. Luxurious overwater villas, daily breakfast, and snorkeling tours included. Escape to paradise. Call +960 123 4567 or visit islandblissgetaways.com.\""
+     },
+     {
+      "title": "Northern Lights Expeditions",
+      "number": 11,
+      "content": "\"Chase the Aurora Borealis in Iceland for $1,199. 4-day tour includes Reykjavik stays, guided northern lights hunts, and a Blue Lagoon visit. Reserve your spot at northernlightsxp.com or dial +354 456 7890.\""
+     },
+     {
+      "title": "Historic Horizons",
+      "number": 12,
+      "content": "\"Immerse yourself in Rome’s ancient beauty for just $1,099. Package includes 5 days of guided tours, Colosseum tickets, and accommodations near the Vatican. Contact us at explore@historichorizons.com.\""
+     },
+     {
+      "title": "Tropical Trails Agency",
+      "number": 13,
+      "content": "\"5 nights in Bali for only $1,299. Package includes resort stays, guided temple tours, and a sunset cruise. Your tropical adventure awaits! Visit tropicaltrails.com or call +62 123 987 654.\""
+     },
+     {
+      "title": "Summit Seekers",
+      "number": 14,
+      "content": "\"Conquer Mount Everest Base Camp for $2,999. A 12-day guided trek includes meals, porters, and accommodation. Perfect for thrill-seekers. Book now: summitseekers.com or call +977 555 4321.\""
+     }
+    ],
+    "title": "Part 2",
+    "answers": {
+     "7": [
+      "E"
+     ],
+     "8": [
+      "G"
+     ],
+     "9": [
+      "A"
+     ],
+     "10": [
+      "B"
+     ],
+     "11": [
+      "J"
+     ],
+     "12": [
+      "D"
+     ],
+     "13": [
+      "H"
+     ],
+     "14": [
+      "F"
+     ]
+    },
+    "questions": [
+     {
+      "id": 7,
+      "textNumber": 7
+     },
+     {
+      "id": 8,
+      "textNumber": 8
+     },
+     {
+      "id": 9,
+      "textNumber": 9
+     },
+     {
+      "id": 10,
+      "textNumber": 10
+     },
+     {
+      "id": 11,
+      "textNumber": 11
+     },
+     {
+      "id": 12,
+      "textNumber": 12
+     },
+     {
+      "id": 13,
+      "textNumber": 13
+     },
+     {
+      "id": 14,
+      "textNumber": 14
+     }
+    ],
+    "partNumber": 2,
+    "statements": [
+     {
+      "text": "You and your partner want to go somewhere to experience nature in its true form.",
+      "letter": "A"
+     },
+     {
+      "text": "You want to escape to an island for a week.",
+      "letter": "B"
+     },
+     {
+      "text": "This tour is fully virtual.",
+      "letter": "C"
+     },
+     {
+      "text": "You can learn a lot about ancient history there.",
+      "letter": "D"
+     },
+     {
+      "text": "You feel like you haven’t visited a romantic city.",
+      "letter": "E"
+     },
+     {
+      "text": "You want to conquer a peak in your adventurous journey.",
+      "letter": "F"
+     },
+     {
+      "text": "You want to experience everything: historical places, mountains, local dishes and a cool relaxation in your journey.",
+      "letter": "G"
+     },
+     {
+      "text": "This 5-day island escapade tour has boat trip in the evening.",
+      "letter": "H"
+     },
+     {
+      "text": "You want to stay in Paris for a week.",
+      "letter": "I"
+     },
+     {
+      "text": "You can seek a natural beauty in this city tour.",
+      "letter": "J"
+     }
+    ],
+    "instruction": "Read the texts 7-14 and the statements A-J. Decide which text matches with the situation described in the statements. Each statement can be used ONCE only. There are TWO extra statements which you do not need to use.",
+    "explanations": {
+     "q7": {
+      "text": "The advertisement describes Paris as \"the city of love,\" which is a perfect destination for someone looking for a romantic city experience. That's why the correct answer is E.",
+      "quote": "Discover Paris, the city of love, for only $999!"
+     },
+     "q8": {
+      "text": "This tour offers a guided trek in the mountains, meals, and a chance to experience Peru's ancient history, matching the desire for a varied journey. That's why the correct answer is G.",
+      "quote": "Package includes a 7-day guided trek, meals, and a night in Cusco."
+     },
+     "q9": {
+      "text": "The safari offers a chance to see the \"Big Five\" animals in a nature reserve, which is a prime example of experiencing nature in its true form. That's why the correct answer is A.",
+      "quote": "Witness the Big Five in Kenya’s Masai Mara Reserve."
+     },
+     "q10": {
+      "text": "The advertisement is for a \"7 nights\" trip to the Maldives, an island nation. This perfectly matches the desire to escape to an island for a week. That's why the correct answer is B.",
+      "quote": "7 nights in the Maldives starting at $2,499 per person."
+     },
+     "q11": {
+      "text": "The main goal of this tour is to see the Aurora Borealis, which is a spectacular natural light display. This is a clear example of seeking natural beauty. That's why the correct answer is J.",
+      "quote": "Chase the Aurora Borealis in Iceland for $1,199."
+     },
+     "q12": {
+      "text": "The tour invites you to experience \"Rome’s ancient beauty\" and includes tickets to the Colosseum, a key site of ancient history. This is ideal for learning about the past. That's why the correct answer is D.",
+      "quote": "Immerse yourself in Rome’s ancient beauty for just $1,099."
+     },
+     "q13": {
+      "text": "The package is for \"5 nights\" in Bali, an island destination. It explicitly includes a \"sunset cruise,\" which is a boat trip that takes place in the evening. That's why the correct answer is H.",
+      "quote": "Package includes resort stays, guided temple tours, and a sunset cruise."
+     },
+     "q14": {
+      "text": "The advertisement directly invites you to \"Conquer Mount Everest Base Camp.\" This matches the desire to conquer a peak during an adventurous trip. That's why the correct answer is F.",
+      "quote": "Conquer Mount Everest Base Camp for $2,999."
+     }
+    },
+    "questionRange": "7-14",
+    "extraStatements": [
+     "C",
+     "I"
+    ],
+    "statementsFirst": true
+   },
+   {
+    "type": "matching-headings",
+    "title": "Part 3",
+    "answers": {
+     "15": [
+      "G"
+     ],
+     "16": [
+      "D"
+     ],
+     "17": [
+      "E"
+     ],
+     "18": [
+      "C"
+     ],
+     "19": [
+      "A"
+     ],
+     "20": [
+      "F"
+     ]
+    },
+    "passage": {
+     "title": "LOCOMOTIVES",
+     "paragraphs": [
+      {
+       "number": "I",
+       "content": "The invention of the steam locomotive made a breakthrough in the development of the railway system in the 19th century. Today the technology seems ordinary, but two hundred years ago it was revolutionary. Steam locomotives were fueled by burning coal, wood or oil, to produce steam in a boiler, which drove the engine. Of course, large amounts of water were also needed. In the 20th century, steam engines were gradually replaced with trains fueled by diesel or electricity.",
+       "questionId": 15
+      },
+      {
+       "number": "II",
+       "content": "Some long-distance passenger trains have become famous. For example, the Trans-Siberian Railway in Russia is the longest railway in the world, covering 9,259 kilometers and 10 time zones. In the United States, the California Zephyr travels between Chicago and San Francisco, and during the 3-day trip, passengers can enjoy amazing views of the Rocky Mountains. The Orient Express between Venice and Istanbul offers old-fashioned service that is luxurious, romantic, and expensive.",
+       "questionId": 16
+      },
+      {
+       "number": "III",
+       "content": "Of course, not all trains carry passengers. Many trains are freight trains, transporting goods from one location to another. The busiest freight system in the world is in China. Freight trains are usually much longer than passenger trains. The longest freight train recorded was in Australia with over 682 cars. Freight trains can carry anything — coal, cars, clothing — anything that people need. Refrigeration, which keeps food cold and fresh, revolutionized freight transportation.",
+       "questionId": 17
+      },
+      {
+       "number": "IV",
+       "content": "In many countries, overnight trains are a good option to air travel. For example, you might leave one city at 11:00 at night, and arrive at your destination at 7:00 the next morning. Typically, you share a cabin with three other people, who you might be travelling with, or who you might not know at all. Your seats become your beds and the price of your ticket includes your bedding. If you want, you can order tea and a snack from the cabin attendant.",
+       "questionId": 18
+      },
+      {
+       "number": "V",
+       "content": "Authors have been using trains in literature for as long as trains have been running. Indeed, it’s hard to imagine some stories without a train in them. Even people who have never read Anna Karenina know how the famous novel’s heroine dies at the end. Many American children learn the important lessons of optimism and hard-work reading the classic story The Little Engine that Could. And of course almost everyone on the planet knows about Hogwarts Express in the Harry Potter books.",
+       "questionId": 19
+      },
+      {
+       "number": "VI",
+       "content": "Many countries around the world are investing in high-speed trains. Today’s high-speed railways are amazing. They can go twice as fast as regular trains, and they are designed for passenger comfort with spacious chairs, internet access, and multi-media entertainment. High speed rail makes it possible to move many more people much faster over longer distances. High speed rail also can help the environment because it is more energy efficient and reduces cars on the roads.",
+       "questionId": 20
+      }
+     ]
+    },
+    "headings": [
+     {
+      "text": "Art and life",
+      "letter": "A"
+     },
+     {
+      "text": "In a railway museum",
+      "letter": "B"
+     },
+     {
+      "text": "Airplane alternative",
+      "letter": "C"
+     },
+     {
+      "text": "Long and special",
+      "letter": "D"
+     },
+     {
+      "text": "Goods delivery",
+      "letter": "E"
+     },
+     {
+      "text": "User and nature friendly",
+      "letter": "F"
+     },
+     {
+      "text": "From steam to electricity",
+      "letter": "G"
+     },
+     {
+      "text": "Not any more",
+      "letter": "H"
+     }
+    ],
+    "questions": [
+     {
+      "id": 15,
+      "paragraphNumber": "I"
+     },
+     {
+      "id": 16,
+      "paragraphNumber": "II"
+     },
+     {
+      "id": 17,
+      "paragraphNumber": "III"
+     },
+     {
+      "id": 18,
+      "paragraphNumber": "IV"
+     },
+     {
+      "id": 19,
+      "paragraphNumber": "V"
+     },
+     {
+      "id": 20,
+      "paragraphNumber": "VI"
+     }
+    ],
+    "partNumber": 3,
+    "instruction": "Read the text and choose the correct heading for each paragraph from the list of headings below. There are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once.",
+    "explanations": {
+     "q15": {
+      "text": "This paragraph describes the history of train power, starting with steam engines and mentioning how they were later replaced by diesel or electric trains. That's why the correct answer is G.",
+      "quote": "In the 20th century, steam engines were gradually replaced with trains fueled by diesel or electricity."
+     },
+     "q16": {
+      "text": "This paragraph describes famous passenger trains, focusing on their unique qualities like being the world's longest or offering luxurious, romantic service. That's why the correct answer is D.",
+      "quote": "Some long-distance passenger trains have become famous."
+     },
+     "q17": {
+      "text": "This paragraph is about freight trains, which are used for moving products and materials rather than people. This is also known as goods delivery. That's why the correct answer is E.",
+      "quote": "Many trains are freight trains, transporting goods from one location to another."
+     },
+     "q18": {
+      "text": "The paragraph opens by directly stating that overnight trains are a good substitute for flying, presenting them as another choice for long-distance travel. That's why the correct answer is C.",
+      "quote": "In many countries, overnight trains are a good option to air travel."
+     },
+     "q19": {
+      "text": "This paragraph discusses the role of trains in art, specifically literature, citing famous books where trains are a key element. That's why the correct answer is A.",
+      "quote": "Authors have been using trains in literature for as long as trains have been running."
+     },
+     "q20": {
+      "text": "The paragraph describes high-speed trains as comfortable for passengers (user friendly) and better for the environment because they are energy efficient (nature friendly). That's why the correct answer is F.",
+      "quote": "High speed rail also can help the environment because it is more energy efficient and reduces cars on the roads."
+     }
+    },
+    "extraHeadings": [
+     "B",
+     "H"
+    ],
+    "questionRange": "15-20"
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 4",
+    "answers": {
+     "21": [
+      "B",
+      "An area in the desert where water comes from the ground"
+     ],
+     "22": [
+      "A",
+      "From deep under the ground"
+     ],
+     "23": [
+      "D",
+      "All of the above."
+     ],
+     "24": [
+      "C",
+      "travel from place to place in the desert."
+     ],
+     "25": [
+      "True"
+     ],
+     "26": [
+      "False"
+     ],
+     "27": [
+      "Not Given"
+     ],
+     "28": [
+      "True"
+     ],
+     "29": [
+      "False"
+     ]
+    },
+    "passage": {
+     "title": "Deserts",
+     "content": "<p><strong>Deserts</strong> are areas of land where there is almost no rainfall. The land can be rocky or sandy. Most deserts lie in hot zones although some are cold. Also, very hot deserts can be very cold at night. Very little grows in desert lands, although some plants can survive from water beneath the surface.</p><p>The animals which live in the desert have learned how to survive. Reptiles, insects, birds and some mammals live in deserts. <strong>Camels</strong> are mammals which can go for long periods of time without water. Very few people live in deserts. It is difficult to adjust to the hot, dry climate.</p><p>Only a fifth of the world's deserts are sand. <strong>Sand</strong> is made up of very small particles of stone. These particles have worn off rock in time by the wind. The rest of the desert area is stone of some kind, mountains, or various types of dry soil. Stony deserts are called <strong>reg</strong>. Rocky deserts are called <strong>hamada</strong>.</p><p>Not very many people live in desert areas. Some live at <strong>oases</strong>. These are spots in the desert that have a supply of water. The water comes from deep wells under the sand. Small towns can grow up around these oases. The residents keep farm animals and grow dates and olives. <strong>Nomads</strong> are farmers who wander from place to place in the desert. They use camels to travel from one oasis to another. The camels carry all of their possessions.</p><p>Animals which live in the desert usually go out at night when it is cooler. During the day they stay in the shade. The smaller ones dig burrows to stay in during the hot part of the day. The <strong>kangaroo rat</strong> does this as well. Reptiles in the desert can stand more heat than mammals. Their skin is waterproof and it helps them keep their body moisture.</p><p>Desert animals can go without water for a long time. Some, like the kangaroo rat, get water from plants. Desert birds travel to oases to find water. They can also get water from seeds or insects. Some animals can go for long periods of time without food. The scorpion is on one of these.</p><p>Few plants grow in the dry conditions of a desert. Some get their water from deep in the ground with long roots. Some can store water in leaves or stems. <strong>Cactus</strong> plants store a large amount of water. Some plants don’t grow at all when it is dry. When rain appears, they shoot up from the ground. When the land dries up again, the seeds lie dormant. They may sprout after the next rain or it can be many years before this happens.</p><p>Many desert areas are getting bigger. People try to use the land for grazing. They can graze it too often and make the land bare. They chop down the trees and hen rain doesn’t come droughts occur. The wind blows the soil away. There is nothing to hold the soil in place. Mining can add to the creation of desert land. Governments in many countries are trying to save the land. They plant trees and they provide food for animals so they won’t have to graze. They are teaching farmers new ways of farming to help preserve the soil.</p><p>In summary, deserts are regions with little or no rainfall. They can be sandy or rocky. Most deserts lie in hot climate areas, though some can be in cold zones. Nights in hot deserts are may be cold as well. Not many plants can survive in the dryness of the desert. The ones which do often get their water from deep in the ground.</p>"
+    },
+    "partNumber": 4,
+    "instruction": "Read the following text for questions 21-29.",
+    "explanations": {
+     "q21": {
+      "text": "The passage defines oases as spots in the desert with a water supply that comes from deep wells under the sand. This matches the description in option B, which is why it's the correct answer.",
+      "quote": "These are spots in the desert that have a supply of water."
+     },
+     "q22": {
+      "text": "The passage explains that while few plants grow in the desert, some survive by getting water from deep in the ground with their long roots. That's why the correct answer is A.",
+      "quote": "Some get their water from deep in the ground with long roots."
+     },
+     "q23": {
+      "text": "The passage lists several reasons why deserts are expanding, including mining, overgrazing by farmers, and people chopping down trees. Since all these points are mentioned, that's why the correct answer is D.",
+      "quote": "Mining can add to the creation of desert land."
+     },
+     "q24": {
+      "text": "The passage provides a clear definition of nomads, stating that they are farmers who wander from one place to another within the desert. That's why the correct answer is C.",
+      "quote": "Nomads are farmers who wander from place to place in the desert."
+     },
+     "q25": {
+      "text": "The passage explicitly states that even very hot deserts can become very cold when night falls. This confirms the statement is accurate, so the correct answer is True.",
+      "quote": "Also, very hot deserts can be very cold at night."
+     },
+     "q26": {
+      "text": "The passage says that smaller animals, including the kangaroo rat, 'stay in' burrows during the hot part of the day. It does not say they are actively digging at this time. That's why the correct answer is False.",
+      "quote": "The smaller ones dig burrows to stay in during the hot part of the day."
+     },
+     "q27": {
+      "text": "The passage describes how some people live in deserts, but it does not mention any plans or desires they might have to move to different climates. That's why the correct answer is Not Given.",
+      "quote": ""
+     },
+     "q28": {
+      "text": "The passage explains that when people graze animals too often, the land becomes bare and the soil blows away. This process contributes to the creation of desert land. That's why the correct answer is True.",
+      "quote": "They can graze it too often and make the land bare."
+     },
+     "q29": {
+      "text": "The passage directly contradicts this statement by saying that governments are actively taking steps to save the land from becoming desert. That's why the correct answer is False.",
+      "quote": "Governments in many countries are trying to save the land."
+     }
+    },
+    "questionRange": "21-29",
+    "questionSections": [
+     {
+      "type": "mcq",
+      "title": "Questions 21-24: Multiple Choice",
+      "questions": [
+       {
+        "id": 21,
+        "text": "Which of the following is an oasis?",
+        "options": [
+         {
+          "text": "A dry spot in a valley",
+          "letter": "A"
+         },
+         {
+          "text": "An area in the desert where water comes from the ground",
+          "letter": "B"
+         },
+         {
+          "text": "A farm on grassy land",
+          "letter": "C"
+         },
+         {
+          "text": "A small rounded mountain",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 22,
+        "text": "Where do desert plants get their water?",
+        "options": [
+         {
+          "text": "From deep under the ground",
+          "letter": "A"
+         },
+         {
+          "text": "Occasional rainfall",
+          "letter": "B"
+         },
+         {
+          "text": "Oases",
+          "letter": "C"
+         },
+         {
+          "text": "From very small rivers throughout the deserts",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 23,
+        "text": "Which of the following tells why desert areas are getting larger?",
+        "options": [
+         {
+          "text": "Mining strips the land.",
+          "letter": "A"
+         },
+         {
+          "text": "Farmers overgraze the land.",
+          "letter": "B"
+         },
+         {
+          "text": "People chop down the trees.",
+          "letter": "C"
+         },
+         {
+          "text": "All of the above.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 24,
+        "text": "Nomads …",
+        "options": [
+         {
+          "text": "live at oases.",
+          "letter": "A"
+         },
+         {
+          "text": "use camel to gain access to water.",
+          "letter": "B"
+         },
+         {
+          "text": "travel from place to place in the desert.",
+          "letter": "C"
+         },
+         {
+          "text": "often wonders why they live in the desert.",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "For questions 21-24, choose the correct answer A, B, C, or D."
+     },
+     {
+      "type": "tfni",
+      "title": "Questions 25-29: True/False/Not Given",
+      "options": [
+       "True",
+       "False",
+       "Not Given"
+      ],
+      "questions": [
+       {
+        "id": 25,
+        "text": "Deserts may be hot during the day and cool at night."
+       },
+       {
+        "id": 26,
+        "text": "Kangaroo rats dig burrows in the heat of the day."
+       },
+       {
+        "id": 27,
+        "text": "People who live in the desert plans to migrate to mild climates."
+       },
+       {
+        "id": 28,
+        "text": "Grazing leads to desertification."
+       },
+       {
+        "id": 29,
+        "text": "Governments aren’t trying to save the land from desertification."
+       }
+      ],
+      "instruction": "For questions 25-29, decide if the following statements agree with the information given in the text."
+     }
+    ]
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 5",
+    "answers": {
+     "30": [
+      "element"
+     ],
+     "31": [
+      "applications"
+     ],
+     "32": [
+      "taxes"
+     ],
+     "33": [
+      "spirits"
+     ],
+     "34": [
+      "D",
+      "There are many commercial applications for salt."
+     ],
+     "35": [
+      "C",
+      "the first war may have been started over salt."
+     ]
+    },
+    "passage": {
+     "title": "The History of Salt",
+     "content": "<p>Salt is so simple and plentiful that we almost take it for granted. In chemical terms, salt is the combination “of a sodium ion with a chloride on, making it one of the most basic molecules on earth. It is also one of the most plentiful: it has been estimated that salt deposits under the state of Kansas alone could supply the entire world’s needs for the next 250,000 years.</p><p>But is salt is also an essential element. Without it, life itself would be impossible since the human body requires the mineral in order to function properly. The concentration of sodium ions in the blood is directly related to the regulation of safe body fluid levels. And while we are all familiar with its many uses in cooking, we may not be aware that this element is used in some 14,000 commercial applications. From manufacturing pulp and paper to setting dyes in textiles and fabric, from producing soaps and detergents to making our roads safe in winter, salt plays an essential part in our daily lives.</p><p>Salt has a long and influential role in world history. From the dawn of civilization, it has been a key factor in economic, religious, social and political development. In every corner of the world, it has been the subject of superstition, folklore, and warfare, and has even been used as currency.</p><p>As a precious and portable commodity, salt has long been a cornerstone of economies throughout history. In fact, researcher M.R. Bloch conjectured that civilization began along the edges of the desert because of the natural surface deposits of salt found there. Bloch also believed that the first war – likely fought near the ancient city of Assault on the Jordan River – could have been fought over the city’s precious supplies of the mineral.</p><p>In 2200 BC, the Chinese emperor Hsia Yu levied one of the first known taxes. He taxed salt. In Tibet, Marco Polo noted that tiny cakes of salt were pressed with images of the Grand Khan to be used as coins and to this day among the nomads of Ethiopia’s Danakil Plains it is still used as money. Greek slave traders often bartered it for slaves, giving rise to the expression that someone was “not worth his salt.” Roman legionnaires were paid in salt – a salarium, the Latin origin of the word “salary.”</p><p>Merchants in 12th-century Timbuktu – the gateway to the Sahara Desert and the seat of scholars – valued this mineral as highly as books and gold. In France, Charles of Anjou levied the gabelle, a salt tax, in 1259 to finance his conquest of the Kingdom of Naples. Outrage over the gabelle fueled the French Revolution. Though the revolutionaries eliminated the tax shortly after Louis XVI, the Republic of France re-established the gabelle in the early 19th Century; only in 1946 was it removed from the books.</p><p>The Erie Canal, an engineering marvel that connected the Great Lakes to New York’s Hudson River in 1825, was called “the ditch that salt built.” Salt tax revenues paid for half the cost of construction of the canal. The British monarchy supported itself with high salt taxes, leading to a bustling black market for the white crystal. In 1785, the earl of Dundonald wrote that every year in England, 10,000 people were arrested for salt smuggling. And protesting against British rule in 1930, Mahatma Gandhi led a 200-mile march to the Arabian Ocean to collect untaxed salt for India’s poor.</p><p>In religion and culture, salt long held an important place with Greek worshippers consecrating it in their rituals. Further, in Buddhist tradition, salt repels evil spirits, which is why it is customary to throw it over your shoulder before entering your house after a funeral: it scares off any evil spirits that may be clinging to your back. Shinto religion also uses it to purify an area. Before sumo wrestlers enter the ring for a match – which is, in reality, an elaborate Shinto rite – a handful is thrown into the center to drive off malevolent spirits.</p><p>In the Southwest of the United States, the Pueblo worship the Salt Mother. Other native tribes had significant restrictions on who was permitted to eat salt Hopi legend holds that the angry Warrior Twins punished mankind by placing valuable salt deposits far from civilization, requiring hard work and bravery to harvest the precious mineral. Today, a gift of salt endures in India as a potent symbol of good luck and a reference to Mahatma Gandhi’s liberation of India.</p><p>The effects of salt deficiency are highlighted in times of war, when human bodies and national economies are strained to their limits. Thousands of Napoleon’s troops died during the French retreat from Moscow due to inadequate wound healing and lowered resistance to disease – the results of salt deficiency.</p>"
+    },
+    "partNumber": 5,
+    "instruction": "Read the following text for questions 30-35.",
+    "explanations": {
+     "q30": {
+      "text": "The passage explicitly calls salt an \"essential element\" and states that without it, life would be impossible for humans. This matches the summary's meaning. That's why the correct answer is 'element'.",
+      "quote": "But is salt is also an essential element."
+     },
+     "q31": {
+      "text": "The text states that salt is used in 14,000 commercial applications, including making paper and soap. \"Commercial\" is another word for \"business\". That's why the correct answer is 'applications'.",
+      "quote": ""
+     },
+     "q32": {
+      "text": "The passage gives several historical examples of rulers raising money by taxing salt, such as the Chinese emperor Hsia Yu and Charles of Anjou in France. That's why the correct answer is 'taxes'.",
+      "quote": "In 2200 BC, the Chinese emperor Hsia Yu levied one of the first known taxes."
+     },
+     "q33": {
+      "text": "The passage explains that in Buddhist tradition, salt is believed to repel evil spirits. It is also used in Shinto rituals to drive off malevolent spirits. That's why the correct answer is 'spirits'.",
+      "quote": ""
+     },
+     "q34": {
+      "text": "The passage directly states that salt has around 14,000 commercial uses, ranging from manufacturing pulp and paper to producing soaps and detergents. That's why the correct answer is D.",
+      "quote": ""
+     },
+     "q35": {
+      "text": "The passage introduces researcher M.R. Bloch's theory that the very first war might have been fought over a city's valuable salt supplies. That's why the correct answer is C.",
+      "quote": "Bloch also believed that the first war – likely fought near the ancient city of Assault on the Jordan River – could have been fought over the city’s precious supplies of the mineral."
+     }
+    },
+    "questionRange": "30-35",
+    "questionSections": [
+     {
+      "type": "gap-fill",
+      "title": "Questions 30-33: Gap Filling Section",
+      "questions": [
+       {
+        "id": 30,
+        "hint": "essential _____"
+       },
+       {
+        "id": 31,
+        "hint": "business _____"
+       },
+       {
+        "id": 32,
+        "hint": "raise _____"
+       },
+       {
+        "id": 33,
+        "hint": "evil _____"
+       }
+      ],
+      "instruction": "For questions 30-33, fill in the missing information in the numbered spaces. Write no more than ONE WORD and/or A NUMBER for each question.",
+      "summaryText": "<p>Salt is such an essential <span class=\"gap-input\" data-gap=\"30\">_____(30)_____</span> that people would not be able to live without it. As well as its uses in cooking, this basic mineral has thousands of business <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span> ranging from making paper to the manufacture of soap. Being a prized and portable commodity, it has played a major part in the economies of many countries. As such, salt has not only led to war, but has also been used to raise <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span> by governments in many parts of the world. There are also many instances of its place in religion and culture, being used as a means to get rid of evil <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span>.</p>"
+     },
+     {
+      "type": "mcq",
+      "title": "Questions 34-35: Multiple Choice",
+      "questions": [
+       {
+        "id": 34,
+        "text": "Which of these statements is true of salt according to the passage?",
+        "options": [
+         {
+          "text": "A number of cities take their name from the word salt.",
+          "letter": "A"
+         },
+         {
+          "text": "Salt has been produced in China for less than 2000 years.",
+          "letter": "B"
+         },
+         {
+          "text": "Slaves used salt as a currency.",
+          "letter": "C"
+         },
+         {
+          "text": "There are many commercial applications for salt.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 35,
+        "text": "In this passage, the author argues that …",
+        "options": [
+         {
+          "text": "salt’s importance throughout the history has always been misrepresented.",
+          "letter": "A"
+         },
+         {
+          "text": "salt is no longer used as a form of currency.",
+          "letter": "B"
+         },
+         {
+          "text": "the first war may have been started over salt.",
+          "letter": "C"
+         },
+         {
+          "text": "salt has been regarded as precious and dangerous in the ancient times.",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "For questions 34-35, choose the correct answer A, B, C, or D."
+     }
+    ]
+   }
+  ],
+  "examDate": "2026-04-01",
+  "testInfo": {
+   "level": "B1-B2-C1",
+   "parts": 5,
+   "title": "CEFR B1-B2-C1 Reading Test 12",
+   "totalTime": 60,
+   "totalQuestions": 35
+  }
+ },
+ "created_at": "2026-05-12T16:21:23.411117+00:00",
+ "updated_at": "2026-10-11T10:54:25.762211+00:00"
+}

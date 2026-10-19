@@ -1,0 +1,797 @@
+{
+ "id": 372,
+ "mock_type": "cefr-reading",
+ "mock_number": 31,
+ "title": "CEFR B1-B2-C1 Reading Test 31",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "gap-fill-text",
+    "title": "Part 1",
+    "answers": {
+     "1": [
+      "Earth"
+     ],
+     "2": [
+      "Temperature"
+     ],
+     "3": [
+      "Greenhouse"
+     ],
+     "4": [
+      "Airplanes"
+     ],
+     "5": [
+      "Another"
+     ],
+     "6": [
+      "Fuel"
+     ]
+    },
+    "passage": {
+     "title": "Aviation and Net-Zero Emissions",
+     "content": "<p>The Earth's temperature is increasing. Many countries do not want the <span class=\"gap\" data-gap=\"1\">_____(1)_____</span> to become too warm. That is why they have set a goal to limit how much the <span class=\"gap\" data-gap=\"2\">_____(2)_____</span> increases. To reach their goal, the world must reach net-zero greenhouse gas emissions. That means that the amount of greenhouse gases released into the atmosphere is the same as the amount removed from the atmosphere.</p><p>The aviation industry produces a significant amount of carbon dioxide. This is a <span class=\"gap\" data-gap=\"3\">_____(3)_____</span> gas. Airplanes use fossil fuels as an energy source. Burning fossil fuels releases greenhouse gases. Scientists predict that the total greenhouse gas emissions released by <span class=\"gap\" data-gap=\"4\">_____(4)_____</span> will increase. That's because more people are traveling by air.</p><p>How can the aviation industry reach net-zero greenhouse gas emissions? There are many options. One way is for people to fly less. Another one is to make more efficient airplanes. <span class=\"gap\" data-gap=\"5\">_____(5)_____</span> option is to offset the carbon dioxide produced by air travel. That means that the industry pays someone else to remove carbon dioxide from the atmosphere. But this can be tricky if it is not done correctly. The last option is to switch the fuel used by airplanes. Instead of fossil fuels, planes could use a <span class=\"gap\" data-gap=\"6\">_____(6)_____</span> that does not produce greenhouse gases when used.</p>"
+    },
+    "questions": [
+     {
+      "id": 1,
+      "hint": "do not want the _____ to become too warm"
+     },
+     {
+      "id": 2,
+      "hint": "limit how much the _____ increases"
+     },
+     {
+      "id": 3,
+      "hint": "This is a _____ gas"
+     },
+     {
+      "id": 4,
+      "hint": "emissions released by _____ will increase"
+     },
+     {
+      "id": 5,
+      "hint": "_____ option is to offset"
+     },
+     {
+      "id": 6,
+      "hint": "planes could use a _____"
+     }
+    ],
+    "partNumber": 1,
+    "instruction": "Read the text. Fill in each gap with ONE word. You must use a word which is somewhere in the rest of the text.",
+    "explanations": {
+     "q1": {
+      "text": "The passage begins by stating that the Earth's temperature is rising. It logically follows that countries do not want the Earth to become too warm. That's why the correct answer is 'Earth'.",
+      "quote": "The Earth's temperature is increasing."
+     },
+     "q2": {
+      "text": "The passage states that the Earth's temperature is increasing. To prevent the Earth from getting too warm, countries have set a goal to limit this increase. That's why the correct answer is 'temperature'.",
+      "quote": "The Earth's temperature is increasing."
+     },
+     "q3": {
+      "text": "The text explains that burning fossil fuels releases greenhouse gases. Since airplanes produce carbon dioxide by burning these fuels, carbon dioxide is a type of greenhouse gas. That's why the correct answer is 'greenhouse'.",
+      "quote": "Burning fossil fuels releases greenhouse gases."
+     },
+     "q4": {
+      "text": "The passage discusses emissions from the aviation industry. It then explains that these emissions will increase because more people are traveling by air, which is done on airplanes. That's why the correct answer is 'airplanes'.",
+      "quote": "That's because more people are traveling by air."
+     },
+     "q5": {
+      "text": "The text lists several ways for the aviation industry to reduce emissions. It starts with \"One way,\" then \"Another one,\" so the next item in the list logically begins with \"Another.\" That's why the correct answer is 'Another'.",
+      "quote": "Another one is to make more efficient airplanes."
+     },
+     "q6": {
+      "text": "The sentence presents an alternative to fossil fuels. Since fossil fuels are a type of fuel, the alternative being discussed is also a type of fuel. That's why the correct answer is 'fuel'.",
+      "quote": "The last option is to switch the fuel used by airplanes."
+     }
+    },
+    "questionRange": "1-6"
+   },
+   {
+    "type": "matching",
+    "texts": [
+     {
+      "title": "Q7",
+      "number": 7,
+      "content": "Prior's Field School, Godalming, Surrey GU7 2RH. Independent Boarding School and Day School for girls aged 11-18 years."
+     },
+     {
+      "title": "Q8",
+      "number": 8,
+      "content": "Study Languages in Europe. Language courses abroad for business or pleasure, all ages including French for juniors in Montpellier. We can help you find the course to meet your personal requirements."
+     },
+     {
+      "title": "Q9",
+      "number": 9,
+      "content": "CIFE colleges: students come because they want to be taught in small groups, receive more individual attention, and study in a mature, supportive and focused environment."
+     },
+     {
+      "title": "Q10",
+      "number": 10,
+      "content": "Language courses abroad: holidays, revision courses, gap year and more programmes. Fantastic summer offers available. Call or email for a free brochure."
+     },
+     {
+      "title": "Q11",
+      "number": 11,
+      "content": "Cranleigh Preparatory School: a boarding and day school for 7-13 year olds. 11+ a popular entry point."
+     },
+     {
+      "title": "Q12",
+      "number": 12,
+      "content": "S. Anselm's: one of the very best prep schools in England. Happy family atmosphere, outstanding academic record, beautiful Peak District setting, excellent sport, music, drama, art."
+     },
+     {
+      "title": "Q13",
+      "number": 13,
+      "content": "Haberdashers' Monmouth Schools: with dedicated professional staff and superb facilities, the schools are confident they can develop your child's talents."
+     },
+     {
+      "title": "Q14",
+      "number": 14,
+      "content": "The Oratory School. Good at sports? Sports scholarships available."
+     }
+    ],
+    "title": "Part 2",
+    "answers": {
+     "7": [
+      "B"
+     ],
+     "8": [
+      "F"
+     ],
+     "9": [
+      "D"
+     ],
+     "10": [
+      "H"
+     ],
+     "11": [
+      "C"
+     ],
+     "12": [
+      "E"
+     ],
+     "13": [
+      "A"
+     ],
+     "14": [
+      "I"
+     ]
+    },
+    "questions": [
+     {
+      "id": 7,
+      "textNumber": 7
+     },
+     {
+      "id": 8,
+      "textNumber": 8
+     },
+     {
+      "id": 9,
+      "textNumber": 9
+     },
+     {
+      "id": 10,
+      "textNumber": 10
+     },
+     {
+      "id": 11,
+      "textNumber": 11
+     },
+     {
+      "id": 12,
+      "textNumber": 12
+     },
+     {
+      "id": 13,
+      "textNumber": 13
+     },
+     {
+      "id": 14,
+      "textNumber": 14
+     }
+    ],
+    "partNumber": 2,
+    "statements": [
+     {
+      "text": "Your daughter has a talent and wants to master it.",
+      "letter": "A"
+     },
+     {
+      "text": "This school is suitable for one gender.",
+      "letter": "B"
+     },
+     {
+      "text": "A lot of children join this school after the age of 11.",
+      "letter": "C"
+     },
+     {
+      "text": "This school has no big classes which helps them to keep focus.",
+      "letter": "D"
+     },
+     {
+      "text": "This school is in a nice district and has good variety of subjects.",
+      "letter": "E"
+     },
+     {
+      "text": "You want to study out of the country to study languages there.",
+      "letter": "F"
+     },
+     {
+      "text": "Your 20 years old girl has just won a scholarship.",
+      "letter": "G"
+     },
+     {
+      "text": "You want to know more about out of the country language courses.",
+      "letter": "H"
+     },
+     {
+      "text": "This school pays for a particular skill.",
+      "letter": "I"
+     },
+     {
+      "text": "This school is for sports only.",
+      "letter": "J"
+     }
+    ],
+    "instruction": "Read the texts 7-14 and the statements A-J. Decide which text matches with the situation described in the statements. Each statement can be used ONCE only. There are TWO extra statements which you do not need to use.",
+    "explanations": {
+     "q7": {
+      "text": "The text specifies that this is a school 'for girls', which means it is only suitable for one gender. That's why the correct answer is B.",
+      "quote": "Independent Boarding School and Day School for girls aged 11-18 years."
+     },
+     "q8": {
+      "text": "The advertisement is for language courses 'in Europe' and 'abroad', which means you would be studying in a different country. That's why the correct answer is F.",
+      "quote": ""
+     },
+     "q9": {
+      "text": "The text states that students are taught in 'small groups' to help them study in a 'focused environment', which means the classes are not large. That's why the correct answer is D.",
+      "quote": ""
+     },
+     "q10": {
+      "text": "The advertisement invites you to 'call or email for a free brochure' to get more information about their language courses. That's why the correct answer is H.",
+      "quote": "Call or email for a free brochure."
+     },
+     "q11": {
+      "text": "The text says that '11+ a popular entry point', meaning that many children join the school at the age of 11. That's why the correct answer is C.",
+      "quote": "11+ a popular entry point."
+     },
+     "q12": {
+      "text": "The school is located in the 'beautiful Peak District setting' and offers a variety of subjects including 'sport, music, drama, art'. That's why the correct answer is E.",
+      "quote": ""
+     },
+     "q13": {
+      "text": "The text states that the school is confident it can 'develop your child's talents', which is ideal for a student who wants to master a skill. That's why the correct answer is A.",
+      "quote": ""
+     },
+     "q14": {
+      "text": "The school offers 'sports scholarships', which is a form of payment or financial aid given to students for a particular skill. That's why the correct answer is I.",
+      "quote": "Sports scholarships available."
+     }
+    },
+    "questionRange": "7-14",
+    "extraStatements": [
+     "G",
+     "J"
+    ],
+    "statementsFirst": true
+   },
+   {
+    "type": "matching-headings",
+    "title": "Part 3",
+    "answers": {
+     "15": [
+      "E"
+     ],
+     "16": [
+      "B"
+     ],
+     "17": [
+      "G"
+     ],
+     "18": [
+      "D"
+     ],
+     "19": [
+      "C"
+     ],
+     "20": [
+      "A"
+     ]
+    },
+    "passage": {
+     "title": "Rice Around the World",
+     "paragraphs": [
+      {
+       "number": "I",
+       "content": "Over the centuries, rice has become a part of the traditions of many cultures. In some societies, it is traditional to throw a handful of rice on newlywed couples, symbolizing the wish for a large family and prosperity. In India, rice is traditionally the first food that bride offers her new husband. It is typical for people to leave offerings of rice in Buddhist temples.",
+       "questionId": 15
+      },
+      {
+       "number": "II",
+       "content": "The basic recipe for cooking rice is easy. First you need to bring 2 cups of water to boil. When the water is boiling, add 1 cup of rice. Cover the pot. As soon as the water boils again, reduce the heat. Let the rice cook for 15 to 20 minutes. The rice is ready when all the water is absorbed.",
+       "questionId": 16
+      },
+      {
+       "number": "III",
+       "content": "Rice is the primary source of nutrition for more than half of the world's population. Countries as different as Japan, India, Nigeria and Mexico use rice in their national cuisine. In Chinese, the word for rice is the same as the word for food.",
+       "questionId": 17
+      },
+      {
+       "number": "IV",
+       "content": "Many people consider rice to be one of the healthiest possible food choices. It has no sodium or cholesterol, and almost no fat. One half cup of rice has approximately 100 calories, and those calories are rich in important vitamins and minerals, including folic acid, iron and zinc.",
+       "questionId": 18
+      },
+      {
+       "number": "V",
+       "content": "Archeologists believe that rice has been grown as a source of food for at least 4000 years. It was first grown in China, and then introduced to India. Over the centuries the practice of growing rice has spread globally.",
+       "questionId": 19
+      },
+      {
+       "number": "VI",
+       "content": "One of the amazing things about rice is how adaptable it is. It is an essential ingredient in cuisines all around the world. Every country in West Africa has its own version of regional rice dishes, and rice is used in many forms from sushi to side dishes.",
+       "questionId": 20
+      }
+     ]
+    },
+    "headings": [
+     {
+      "text": "One product — many dishes",
+      "letter": "A"
+     },
+     {
+      "text": "Simple to prepare",
+      "letter": "B"
+     },
+     {
+      "text": "Once local — now global",
+      "letter": "C"
+     },
+     {
+      "text": "Good for everyone",
+      "letter": "D"
+     },
+     {
+      "text": "More than food",
+      "letter": "E"
+     },
+     {
+      "text": "Impossible to grow",
+      "letter": "F"
+     },
+     {
+      "text": "Synonymous to food",
+      "letter": "G"
+     },
+     {
+      "text": "Different table manners",
+      "letter": "H"
+     }
+    ],
+    "questions": [
+     {
+      "id": 15,
+      "text": "Paragraph I"
+     },
+     {
+      "id": 16,
+      "text": "Paragraph II"
+     },
+     {
+      "id": 17,
+      "text": "Paragraph III"
+     },
+     {
+      "id": 18,
+      "text": "Paragraph IV"
+     },
+     {
+      "id": 19,
+      "text": "Paragraph V"
+     },
+     {
+      "id": 20,
+      "text": "Paragraph VI"
+     }
+    ],
+    "partNumber": 3,
+    "instruction": "Read the text and choose the correct heading for each paragraph from the list of headings below. There are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once.",
+    "explanations": {
+     "q15": {
+      "text": "The paragraph discusses how rice is used in cultural traditions and ceremonies, such as weddings and temple offerings. This shows its importance goes beyond simple nutrition, which is why the correct answer is E.",
+      "quote": "Over the centuries, rice has become a part of the traditions of many cultures."
+     },
+     "q16": {
+      "text": "This paragraph gives a straightforward, step-by-step guide on how to cook rice. The instructions show that the process is not complicated, which is why the correct answer is B.",
+      "quote": "The basic recipe for cooking rice is easy."
+     },
+     "q17": {
+      "text": "The paragraph states that rice is the main food for over half the world's population and points out that in Chinese, the word for 'rice' is the same as 'food'. This is why the correct answer is G.",
+      "quote": "In Chinese, the word for rice is the same as the word for food."
+     },
+     "q18": {
+      "text": "This paragraph details the nutritional benefits of rice, mentioning it has no sodium or cholesterol and contains important vitamins and minerals. This makes it a healthy option, which is why the correct answer is D.",
+      "quote": "Many people consider rice to be one of the healthiest possible food choices."
+     },
+     "q19": {
+      "text": "The paragraph describes the history of rice, explaining that it was first grown in one place, China, and then its cultivation spread around the world over time. This is why the correct answer is C.",
+      "quote": "Over the centuries the practice of growing rice has spread globally."
+     },
+     "q20": {
+      "text": "This paragraph highlights how adaptable rice is, giving examples of its use in a wide variety of meals across different cultures, from regional dishes to sushi. This is why the correct answer is A.",
+      "quote": ""
+     }
+    },
+    "extraHeadings": [
+     "F",
+     "H"
+    ],
+    "questionRange": "15-20"
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 4",
+    "answers": {
+     "21": [
+      "C"
+     ],
+     "22": [
+      "C"
+     ],
+     "23": [
+      "B"
+     ],
+     "24": [
+      "D"
+     ],
+     "25": [
+      "True",
+      "A"
+     ],
+     "26": [
+      "False",
+      "B"
+     ],
+     "27": [
+      "True",
+      "A"
+     ],
+     "28": [
+      "False",
+      "B"
+     ],
+     "29": [
+      "True",
+      "A"
+     ]
+    },
+    "passage": {
+     "title": "Climate Change and Economic Risk",
+     "content": "<p><em>New modelling finds risk to global economies much worse than previously thought, but group of central banks says even this may be an underestimate.</em></p><p>The physical shocks caused by climate breakdown will hit global economic growth by a third, according to a risk assessment by a network of central banks. The rise in the estimated hit to the world's economies as a result of the shocks from flooding, droughts, temperature rises, and mitigating and adapting to extreme weather was the result of new climate modelling published this year.</p><p>The Network for Greening the Financial System, a membership body of global banks and financial organisations, said in a report this week that the huge increase in the risk from physical shocks to the economy marked a considerable change in the overall severity of the damage caused. The report was published as the business losses alone from the devastating floods in Valencia, which killed more than 200 people, were calculated at well over €10bn.</p><p>Despite the increase in risk to global economies, some experts say the analysis is a huge underestimate of the impact climate breakdown will wreak on economic growth. Sandy Trust, an actuary who works on sustainability and the climate crisis, said the small print in the report revealed they had failed to take in to account the impact of climate tipping points, sea temperature rises, migration and conflict as a result of global heating, human health impacts or biodiversity loss.</p><p>Climate tipping points, for example the melting of the Greenland ice sheet, are critical thresholds that, if crossed, will lead to huge changes in the climate system. Trust said this was a massive one-third hit from physical damage on GDP and had increased more than five times from about 6% to 33%.</p><p>The NGFS is a group of global banks that provide environmental and climate risk modelling in the financial sector. Its update on climate risks using the new methodology foresees more than 30% losses due to climate crisis by 2100 from a 3C rise in global average surface temperatures.</p><p>Yet the group warned that the future economic outlook may be significantly worse. It cannot be excluded that the economic effects of climate change might turn out to be even more severe than visualised under the NGFS scenarios, for instance, if certain tipping points are reached.</p>"
+    },
+    "partNumber": 4,
+    "instruction": "Read the following text for questions 21-29.",
+    "explanations": {
+     "q21": {
+      "text": "The passage states that physical shocks resulting from climate change are expected to reduce global economic growth by a third, which is a significant negative effect. That's why the correct answer is C.",
+      "quote": "The physical shocks caused by climate breakdown will hit global economic growth by a third, according to a risk assessment by a network of central banks."
+     },
+     "q22": {
+      "text": "The passage mentions that the floods in Valencia resulted in over 200 deaths and business losses exceeding €10 billion, indicating both a severe humanitarian and economic impact. That's why the correct answer is C.",
+      "quote": "The report was published as the business losses alone from the devastating floods in Valencia, which killed more than 200 people, were calculated at well over €10bn."
+     },
+     "q23": {
+      "text": "Sandy Trust argues that the report is a \"huge underestimate\" because it fails to include several critical factors, implying the real negative consequences of climate change will be much worse. That's why the correct answer is B.",
+      "quote": "Sandy Trust, an actuary who works on sustainability and the climate crisis, said the small print in the report revealed they had failed to take in to account the impact of climate tipping points, sea temperature rises, migration and conflict as a result of global heating, human health impacts or biodiversity loss."
+     },
+     "q24": {
+      "text": "The passage is focused on the economic consequences of global heating, stating that shocks from climate breakdown will reduce global economic growth by a third. That's why the correct answer is D.",
+      "quote": "The physical shocks caused by climate breakdown will hit global economic growth by a third, according to a risk assessment by a network of central banks."
+     },
+     "q25": {
+      "text": "The passage describes the NGFS as a \"membership body of global banks and financial organisations,\" indicating its central role and close relationship with these institutions. That's why the correct answer is True.",
+      "quote": "The Network for Greening the Financial System, a membership body of global banks and financial organisations, said in a report this week that the huge increase in the risk from physical shocks to the economy marked a considerable change in the overall severity of the damage caused."
+     },
+     "q26": {
+      "text": "The passage states the NGFS predicts \"more than 30% losses due to climate crisis,\" not a 30% reduction in climate change itself. The percentage refers to economic losses. That's why the correct answer is False.",
+      "quote": "Its update on climate risks using the new methodology foresees more than 30% losses due to climate crisis by 2100 from a 3C rise in global average surface temperatures."
+     },
+     "q27": {
+      "text": "The text explicitly warns that the economic effects could be \"even more severe\" than currently predicted if certain critical \"tipping points are reached.\" That's why the correct answer is True.",
+      "quote": "It cannot be excluded that the economic effects of climate change might turn out to be even more severe than visualised under the NGFS scenarios, for instance, if certain tipping points are reached."
+     },
+     "q28": {
+      "text": "The passage states that the estimated damage from climate change has increased from a previous figure of about 6% to 33%, which shows a prior prediction existed. That's why the correct answer is False.",
+      "quote": "Trust said this was a massive one-third hit from physical damage on GDP and had increased more than five times from about 6% to 33%."
+     },
+     "q29": {
+      "text": "The text directly states that the new climate modelling was the result of assessing shocks from ecological disasters like flooding, droughts, and extreme weather. That's why the correct answer is True.",
+      "quote": "The rise in the estimated hit to the world's economies as a result of the shocks from flooding, droughts, temperature rises, and mitigating and adapting to extreme weather was the result of new climate modelling published this year."
+     }
+    },
+    "questionRange": "21-29",
+    "questionSections": [
+     {
+      "type": "mcq",
+      "title": "Questions 21-24: Multiple Choice",
+      "questions": [
+       {
+        "id": 21,
+        "text": "According to the passage, the climate change ...",
+        "options": [
+         {
+          "text": "is going to rise by a third in the near future.",
+          "letter": "A"
+         },
+         {
+          "text": "is not a risk but an opportunity for bankers and investors.",
+          "letter": "B"
+         },
+         {
+          "text": "is to affect economies negatively soon.",
+          "letter": "C"
+         },
+         {
+          "text": "has been calculated as a foe which bankers fought before.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 22,
+        "text": "We can infer from the passage that the flood in Valencia...",
+        "options": [
+         {
+          "text": "didn't affect people much.",
+          "letter": "A"
+         },
+         {
+          "text": "is going to cause a major financial shock.",
+          "letter": "B"
+         },
+         {
+          "text": "has been a severe humanitarian and economical disaster.",
+          "letter": "C"
+         },
+         {
+          "text": "has been assessed by more than 200 people.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 23,
+        "text": "In the passage, Sandy Trust ...",
+        "options": [
+         {
+          "text": "warns that the climate change will vanish after some major catastrophes occur.",
+          "letter": "A"
+         },
+         {
+          "text": "claims that underestimating climate change will lead to negative consequences.",
+          "letter": "B"
+         },
+         {
+          "text": "states that after some tipping points there will be no major changes.",
+          "letter": "C"
+         },
+         {
+          "text": "is critical of the climate change threshold idea.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 24,
+        "text": "According the passage, global heating with some factors leads to ...",
+        "options": [
+         {
+          "text": "more conflict and wars in the world.",
+          "letter": "A"
+         },
+         {
+          "text": "the climate change.",
+          "letter": "B"
+         },
+         {
+          "text": "more floods in some areas.",
+          "letter": "C"
+         },
+         {
+          "text": "major economic changes.",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "Choose the correct letter A, B, C or D.",
+      "questionRange": "21-24"
+     },
+     {
+      "type": "tfni",
+      "title": "Questions 25-29: True/False/Not Given",
+      "options": [
+       "True",
+       "False",
+       "Not Given"
+      ],
+      "questions": [
+       {
+        "id": 25,
+        "text": "The Network for Greening the Financial System is the founder of global banks and other financial companies."
+       },
+       {
+        "id": 26,
+        "text": "The Network for Greening the Financial System calculates that, by 2100, climate change reduces by 30%."
+       },
+       {
+        "id": 27,
+        "text": "After reaching certain tipping points, effects of climate change may lead even bigger consequences than previously thought."
+       },
+       {
+        "id": 28,
+        "text": "Before the current report, global banks and other financial organizations had never predicted effects of climate change."
+       },
+       {
+        "id": 29,
+        "text": "Major ecological disasters was the reason of the new climate modelling."
+       }
+      ],
+      "instruction": "For questions 25-29, decide if the following statements agree with the information given in the text.",
+      "questionRange": "25-29"
+     }
+    ]
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 5",
+    "answers": {
+     "30": [
+      "Gold"
+     ],
+     "31": [
+      "Skill"
+     ],
+     "32": [
+      "Point"
+     ],
+     "33": [
+      "Manuscripts"
+     ],
+     "34": [
+      "B"
+     ],
+     "35": [
+      "D"
+     ]
+    },
+    "passage": {
+     "title": "The Forgotten Role of Women in Medieval Arts",
+     "content": "<p>A team of archaeologists recently and unexpectedly revealed direct archaeological evidence of the involvement of medieval women in the production of manuscripts. This challenges the widespread assumptions that men were the sole producers of books throughout the period in European history known as the Middle Ages. They did so by identifying particles of blue pigment in the fossilised dental plaque of a medieval woman as lapis lazuli, an extremely valuable stone at the time.</p><p>This discovery was made possible by applying technological advances in archaeological science to tartar on teeth. In most societies today, oral hygiene practices are part of our daily routine, meaning that dental plaque is regularly removed and does not have a chance to build up on our teeth. This was not the case in the past. Plaque built up and mineralised over the course of people's lives and can preserve tiny particles over very long periods.</p><p>The team analysed the skeletal remains of a female individual, known as B78, who lived in the 11th-12th century. She was buried in the grounds of a former women's monastery in Dalheim, Germany. They found well over 100 bright blue particles throughout the tartar that was still preserved on her teeth.</p><p>To be sure about the nature of the particles, a range of microscopy techniques were used. Results showed the blue specks were lazurite, the blue portion of lapis lazuli stone, a substance more precious than gold in Medieval Europe. Afghanistan was the only source of the stone at the time, and preparing the pigment took great skill.</p><p>The most likely explanation is that this woman was an artist who repeatedly used her lips to make a fine point on the end of her brush in order to paint intricate details on manuscripts. This finding suggests that women were more involved in the production of books throughout the Middle Ages than tends to be thought.</p><p>Additionally, artists are largely invisible in both historical and archaeological records, as they rarely signed their work before the 15th century. The work strongly points to the possibility of using microscopic particles trapped in ancient tartar to track artists and reveal the invisible workforce behind many forms of art.</p>"
+    },
+    "partNumber": 5,
+    "instruction": "Read the following text for questions 30-35.",
+    "explanations": {
+     "q30": {
+      "text": "The passage directly compares the value of lapis lazuli to gold, stating that the blue stone was considered 'more precious'. This means gold was less valuable, so that's why the correct answer is 'Gold'.",
+      "quote": "Results showed the blue specks were lazurite, the blue portion of lapis lazuli stone, a substance more precious than gold in Medieval Europe."
+     },
+     "q31": {
+      "text": "The passage explains that after sourcing the stone from Afghanistan, turning it into a pigment was a difficult process. It states that this preparation 'took great skill', so that's why the correct answer is 'skill'.",
+      "quote": "Afghanistan was the only source of the stone at the time, and preparing the pigment took great skill."
+     },
+     "q32": {
+      "text": "The passage suggests the woman was an artist. It describes how she might have gotten the pigment on her teeth by using her lips 'to make a fine point on the end of her brush', so that's why the correct answer is 'point'.",
+      "quote": "The most likely explanation is that this woman was an artist who repeatedly used her lips to make a fine point on the end of her brush in order to paint intricate details on manuscripts."
+     },
+     "q33": {
+      "text": "The passage explains that the woman was likely an artist who painted detailed work. The text specifies she was painting these details on 'manuscripts', which were medieval books, so that's why the correct answer is 'manuscripts'.",
+      "quote": "The most likely explanation is that this woman was an artist who repeatedly used her lips to make a fine point on the end of her brush in order to paint intricate details on manuscripts."
+     },
+     "q34": {
+      "text": "The passage does not directly state this. However, it suggests she was an artist working on manuscripts, a skilled profession that was not physically demanding compared to other forms of labour at the time. That's why the correct answer is B.",
+      "quote": ""
+     },
+     "q35": {
+      "text": "The final paragraph states that artists from this period are 'largely invisible' in historical records. This is because they did not often sign their work, creating a lack of evidence for their contributions, so that's why the correct answer is D.",
+      "quote": "Additionally, artists are largely invisible in both historical and archaeological records, as they rarely signed their work before the 15th century."
+     }
+    },
+    "questionRange": "30-35",
+    "questionSections": [
+     {
+      "type": "gap-fill",
+      "title": "Questions 30-33: Notes Completion",
+      "questions": [
+       {
+        "id": 30,
+        "hint": "even _____ was not as valuable"
+       },
+       {
+        "id": 31,
+        "hint": "a lot of _____ was needed"
+       },
+       {
+        "id": 32,
+        "hint": "make a _____ on their brushes"
+       },
+       {
+        "id": 33,
+        "hint": "needed for _____ and books"
+       }
+      ],
+      "instruction": "For questions 30-33, fill in the missing information in the numbered spaces. Write no more than ONE WORD and/or A NUMBER for each question.",
+      "summaryText": "A blue pigment used to create artworks in Europe in the Middle Ages was derived from a stone called lapis lazuli. In medieval times, even <span class=\"gap-input\" data-gap=\"30\">_____(30)_____</span> was not as valuable. Lapis lazuli could only be found in Afghanistan and a lot of <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span> was needed to make the pigment from the stone.<br><br>The procedure used to do this appeared much later in the manuals used by European artists and this suggests that the powder came to their countries as an imported powder. Artists often had to make a <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span> on their brushes using their mouths, which then enabled them to produce the fine features needed for <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span> and books.",
+      "summaryTitle": "Lapis Lazuli",
+      "questionRange": "30-33"
+     },
+     {
+      "type": "mcq",
+      "title": "Questions 34-35: Multiple Choice",
+      "questions": [
+       {
+        "id": 34,
+        "text": "What did the skeleton of B78 suggest about her?",
+        "options": [
+         {
+          "text": "She had not been very old when she died.",
+          "letter": "A"
+         },
+         {
+          "text": "Her life had not been very physically demanding.",
+          "letter": "B"
+         },
+         {
+          "text": "Her teeth had more tartar than most skeletons of that age.",
+          "letter": "C"
+         },
+         {
+          "text": "She had been given a grander burial than other women of her time.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 35,
+        "text": "What problem does the writer highlight about medieval artists in the last paragraph?",
+        "options": [
+         {
+          "text": "The poor facilities available to females in the profession.",
+          "letter": "A"
+         },
+         {
+          "text": "The small number of projects available to them.",
+          "letter": "B"
+         },
+         {
+          "text": "The difficulties locating their skeletal remains for study.",
+          "letter": "C"
+         },
+         {
+          "text": "The lack of evidence for their contribution to books.",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "Choose the correct letter A, B, C or D.",
+      "questionRange": "34-35"
+     }
+    ]
+   }
+  ],
+  "examDate": "2026-02-15",
+  "testInfo": {
+   "level": "B1-B2-C1",
+   "parts": 5,
+   "title": "CEFR B1-B2-C1 Reading Test 31",
+   "totalTime": 60,
+   "totalQuestions": 35
+  }
+ },
+ "created_at": "2026-05-12T16:21:59.842656+00:00",
+ "updated_at": "2026-10-11T10:31:33.381435+00:00"
+}

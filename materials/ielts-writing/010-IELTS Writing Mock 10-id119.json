@@ -1,0 +1,535 @@
+{
+ "id": 119,
+ "mock_type": "ielts-writing",
+ "mock_number": 10,
+ "title": "IELTS Writing Mock 10",
+ "status": "published",
+ "mock_data": {
+  "tasks": {
+   "task1": {
+    "title": "Sports participation trends",
+    "prompt": "The graph below shows the number of people taking part in four different kinds of sports in a particular region between 1985 and 2005.",
+    "wordGoal": 150,
+    "chartDesc": {
+     "title": "",
+     "xAxis": "Year (1985 to 2005)",
+     "yAxis": "Number of people taking part",
+     "period": "1985 - 2005",
+     "series": [
+      {
+       "name": "Basketball",
+       "points": [
+        {
+         "at": "1985",
+         "value": 75
+        },
+        {
+         "at": "1990",
+         "value": 75
+        },
+        {
+         "at": "1995",
+         "value": 80
+        },
+        {
+         "at": "2000",
+         "value": 80
+        },
+        {
+         "at": "2005",
+         "value": 77
+        }
+       ]
+      },
+      {
+       "name": "Tennis",
+       "points": [
+        {
+         "at": "1985",
+         "value": 150
+        },
+        {
+         "at": "1990",
+         "value": 175
+        },
+        {
+         "at": "1995",
+         "value": 200
+        },
+        {
+         "at": "2000",
+         "value": 210
+        },
+        {
+         "at": "2005",
+         "value": 230
+        }
+       ]
+      },
+      {
+       "name": "Badminton",
+       "points": [
+        {
+         "at": "1985",
+         "value": 55
+        },
+        {
+         "at": "1990",
+         "value": 48
+        },
+        {
+         "at": "1995",
+         "value": 50
+        },
+        {
+         "at": "2000",
+         "value": 50
+        },
+        {
+         "at": "2005",
+         "value": 50
+        }
+       ]
+      },
+      {
+       "name": "Rugby",
+       "points": [
+        {
+         "at": "1985",
+         "value": 240
+        },
+        {
+         "at": "1990",
+         "value": 210
+        },
+        {
+         "at": "1995",
+         "value": 200
+        },
+        {
+         "at": "2000",
+         "value": 150
+        },
+        {
+         "at": "2005",
+         "value": 50
+        }
+       ]
+      }
+     ],
+     "overview": "Rugby experienced a steep decline over the period to become the least popular sport by 2005, whereas Tennis saw a steady rise to become the most popular. Basketball and Badminton participation remained largely stable.",
+     "chartType": "line graph",
+     "confidence": "medium",
+     "unreadable": [
+      "Exact numerical data labels above individual data points (values estimated from y-axis scale)"
+     ],
+     "keyFeatures": [
+      "Rugby dropped dramatically from 240 in 1985 to 50 in 2005.",
+      "Tennis steadily climbed from 150 in 1985 to reach 230 in 2005.",
+      "Tennis and Rugby crossed in 1995 when both had 200 participants.",
+      "Badminton and Basketball showed minimal change, staying around 50 and 75-80 respectively throughout the 20-year period.",
+      "In 2005, Rugby and Badminton tied at the lowest point of 50."
+     ]
+    },
+    "chartType": "line_graph",
+    "dataNature": "dynamic",
+    "instruction": "Summarise the information by selecting and reporting the main features, and make comparison where relevant.",
+    "sampleBand5": "<p>The graph shows information about four kinds of sports people did from 1985 to 2005. <mark>It is about a particular area</mark>.</p>\n<p>In 1985, tennis was the most popular. Then, the number of people playing tennis went up and down. Swimming was also popular, and the number of people swimming <mark>stayed about the same</mark> for the whole time. Football was less popular at the start, but it increased a lot. </p>\n<p>Cycling was the least popular sport in 1985. <mark>After that</mark>, more people started cycling. Football became more popular than tennis after 1995. The number of people doing swimming was always higher than cycling. In 2005, football was the most popular sport. More people liked football than other sports.</p>\n<p>Overall, the sports changed in popularity. Football became more popular, and tennis became less popular. Swimming <mark>was pretty steady</mark>.</p>",
+    "sampleBand6": "<p>The line graph illustrates the number of participants in four different sports in a region <mark>over a 20-year period</mark>, from 1985 to 2005.</p>\n<p>Overall, it is clear that swimming was the most popular sport throughout the period, while tennis saw the least participation. Also, the numbers for both football and badminton experienced a rise, while <mark>the trend for swimming was downward</mark>.</p>\n<p>In 1985, swimming had approximately 80 participants, but this <mark>gradually decreased</mark> to around 60 by 2005. Football started with around 25 participants and increased to about 55 in 2005. Similarly, badminton saw an increase from approximately 30 to 40 participants during the same timeframe. </p>\n<p>Tennis, on the other hand, remained relatively low, with the number of people <mark>staying below</mark> 20 for the duration. Although there were some fluctuations, the overall participation in tennis did not see <mark>much significant change</mark>.\n</p>",
+    "sampleBand7": "<p>The line graph <mark>illustrates the participation rates</mark> in four different sports across a region over the two decades between 1985 and 2005.</p>\n<p>Overall, while swimming and cycling showed an upward trend, the numbers for football and badminton <mark>experienced fluctuations</mark>. It is also noticeable that football was consistently the most popular sport throughout the period.</p>\n<p>In 1985, football had the highest participation rate at around 70,000 people. This figure <mark>remained relatively stable</mark> until 1995 before declining slightly to approximately 65,000 in 2005. Conversely, swimming saw a steady increase, rising from about 25,000 participants in 1985 to around 50,000 in 2005. Similarly, cycling also increased, though less dramatically, from 30,000 to 45,000 over the same period. </p>\n<p>Badminton, on the other hand, <mark>presented a more erratic pattern</mark>. Starting at 40,000 participants in 1985, it dipped to 30,000 in 1995 before <mark>rebounding to</mark> 40,000 again in 2005. This made it the least popular sport at the end of the period, <mark>despite its initial popularity</mark>. The growth of swimming and cycling <mark>outpaced the other two sports</mark>.</p>",
+    "sampleBand8": "<p>The line graph <mark>illustrates the participation rates</mark> in four distinct sports within a specific region over a twenty-year period, commencing in 1985 and concluding in 2005. Overall, while participation in swimming and tennis experienced growth, the popularity of football and badminton declined.</p>\n\n<p>Initially, football was the most popular sport, with approximately 80,000 participants in 1985. However, this figure <mark>underwent a steady decline</mark>, falling to around 55,000 by 2005. Badminton followed a similar downward trend, decreasing from approximately 60,000 participants in 1985 to roughly 45,000 in 2005. Conversely, swimming saw a substantial increase in popularity. Starting at around 25,000 participants, it <mark>witnessed a gradual but consistent rise</mark>, eventually surpassing badminton and football to reach approximately 70,000 participants by the end of the period.</p>\n\n<p>Tennis also experienced a positive trajectory, albeit less dramatic than swimming. The number of people engaging in tennis rose from roughly 30,000 in 1985 to approximately 50,000 in 2005. It is <mark>worth noting that</mark> in the late 1990s, tennis participation <mark>briefly plateaued</mark> before resuming its upward climb. In conclusion, the trends reveal a shift in sporting preferences, with individual sports like swimming and tennis gaining ground <mark>at the expense of</mark> team sports such as football and badminton. <mark>The fluctuations observed</mark> underscore the dynamic nature of recreational activities. <mark>A salient feature</mark> is the inverse relationship between the declining sports and the sports that increased in popularity.</p>",
+    "sampleBand9": "<p>The line graph <mark>illustrates participation rates</mark> in four distinct sports within a specific region over a twenty-year period, from 1985 to 2005. <mark>A cursory glance</mark> reveals a general upward trend in participation across all sports, with swimming and cycling exhibiting the most significant increases.</p>\n\n<p>In 1985, swimming had the lowest participation rate, starting at approximately 20%. However, it <mark>experienced a dramatic surge</mark> throughout the period, ultimately becoming the most popular sport by 2005, reaching nearly 70%. Similarly, cycling saw a substantial increase, rising from around 35% in 1985 to approximately 65% in 2005. Football, while consistently popular, <mark>demonstrated a more moderate growth trajectory</mark>, increasing from approximately 55% to just over 60% during the same timeframe.</p>\n\n<p>Running, conversely, <mark>presented a somewhat different picture</mark>. Although it started with a relatively high participation rate of around 60% in 1985, it <mark>fluctuated slightly</mark> before settling at approximately 55% in 2005. This made it the only sport to show a slight decline over the period. Overall, the data <mark>unequivocally indicates</mark> a growing interest in sports participation, with swimming and cycling <mark>gaining considerable traction</mark> among the population, while football maintained its popularity, and running remained relatively stable.</p>\n\n<p>In summary, while all sports enjoyed some level of participation, the <mark>relative popularity</mark> shifted significantly, indicating evolving preferences in recreational activities over the two decades. This <mark>dynamic landscape</mark> highlights the changing sporting interests in the region.</p>",
+    "timeMinutes": 20,
+    "chartDescImg": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/10.png",
+    "sampleAnswer": "The line graph illustrates the participation rates in four types of sports—tennis, badminton, rugby, and hockey—in a specific region from 1985 to 2005. Overall, tennis and badminton witnessed considerable fluctuations, while rugby and hockey followed a more stable pattern of growth and decline respectively.\n\nIn 1985, tennis was the most popular sport, with approximately 350 participants. This figure dropped significantly to around 200 by 1995 before recovering slightly to end at nearly 250 in 2005. Badminton showed an opposite trend, starting at a modest 100 participants and rising dramatically to peak at around 400 in the mid-1990s, before declining sharply to approximately 250 by 2005.\n\nMeanwhile, rugby, which began with roughly 200 participants, experienced steady growth throughout the period, reaching a high of 350 by 2005, making it the most popular sport by the end of the period. In stark contrast, hockey saw a consistent decline from its initial level of 300 participants to approximately 150 by the end of the twenty-year period. By 2005, rugby had overtaken all other sports in popularity, while hockey had become the least favored activity.",
+    "chartImageUrl": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/10.png",
+    "uzSampleBand5": "<p>Grafikda 1985 yildan 2005 yilgacha odamlar bilan shug'ullangan to'rt xil sport turi haqida ma'lumotlar ko'rsatilgan. <mark>Bu muayyan hudud haqida</mark>.</p>\n<p>1985 yilda tennis eng mashhur edi. Keyin tennis o'ynaydigan odamlar soni ko'tarilib tushdi. Suzish ham mashhur edi va suzuvchilar soni <mark>deyarli bir xil bo'lib qoldi</mark> butun vaqt davomida. Futbol boshida unchalik mashhur emas edi, lekin u juda ko'paydi.</p>\n<p>Velosipedda uchish 1985 yilda eng kam mashhur sport edi. <mark>Shundan keyin</mark>, ko'proq odamlar velosipedda ucha boshladilar. Futbol 1995 yildan keyin tennisdan ko'ra mashhurroq bo'ldi. Suzish bilan shug'ullanuvchilar soni har doim velosipedda uchuvchilardan yuqori edi. 2005 yilda futbol eng mashhur sport edi. Ko'proq odamlar futbolni boshqa sport turlaridan ko'ra yaxshi ko'rishdi.</p>\n<p>Umuman olganda, sport turlarining mashhurligi o'zgardi. Futbol yanada ommalashdi, tennis esa unchalik emas. Suzish <mark>ancha barqaror edi</mark>.</p>",
+    "uzSampleBand6": "<p>Chiziqli grafika hududdagi to'rtta turli sport turida ishtirok etganlar sonini <mark>20 yillik davr mobaynida</mark>, 1985-yildan 2005-yilgacha bo'lgan vaqt oralig'ida ko'rsatadi.</p>\n<p>Umuman olganda, suzish butun davr mobaynida eng ommabop sport turi bo'lgani, tennisda esa ishtirok eng kam bo'lgani aniq. Shuningdek, futbol va badminton bo'yicha raqamlar o'sishni boshdan kechirdi, <mark>suzish bo'yicha tendensiya esa pasayish tomonga edi</mark>.</p>\n<p>1985-yilda suzishda taxminan 80 nafar ishtirokchi bo'lgan, ammo bu ko'rsatkich <mark>asta-sekin kamayib</mark>, 2005-yilga kelib 60 atrofida bo'ldi. Futbol taxminan 25 nafar ishtirokchi bilan boshlangan va 2005-yilda 55 nafarga yaqinlashdi. Xuddi shunday, badminton ham xuddi shu vaqt oralig'ida taxminan 30 nafardan 40 nafargacha ishtirokchining o'sishini ko'rdi.</p>\n<p>Boshqa tomondan, tennis nisbatan past darajada qoldi, odamlar soni butun davr mobaynida <mark>20 dan pastda qoldi</mark>. Garchi ba'zi tebranishlar bo'lgan bo'lsa-da, tennisda umumiy ishtirok <mark>sezilarli o'zgarishni ko'rmadi</mark>.</p>",
+    "uzSampleBand7": "<p>Chiziqli grafika 1985 yildan 2005 yilgacha bo'lgan ikki o'n yillik davomida mintaqa bo'ylab to'rtta turli sport turida <mark>ishtirok etish darajasini ko'rsatadi</mark>.</p>\n<p>Umuman olganda, suzish va velosportda o'sish tendensiyasi kuzatilgan bo'lsa, futbol va badminton ko'rsatkichlari <mark>o'zgarishlarni boshdan kechirdi</mark>. Shuni ham ta'kidlash joizki, futbol butun davr davomida eng mashhur sport turi bo'lib qoldi.</p>\n<p>1985 yilda futbol eng yuqori ishtirok darajasiga ega bo'lib, taxminan 70 000 kishini tashkil etdi. Bu ko'rsatkich 1995 yilgacha <mark>nisbatan barqaror bo'lib qoldi</mark>, so'ngra 2005 yilda taxminan 65 000 gacha biroz kamaydi. Aksincha, suzishda doimiy o'sish kuzatildi, 1985 yildagi 25 000 ga yaqin ishtirokchidan 2005 yilda 50 000 ga yaqinga ko'tarildi. Xuddi shunday, velosport ham oshdi, ammo unchalik keskin emas, xuddi shu davrda 30 000 dan 45 000 gacha.</p>\n<p>Boshqa tomondan, badminton <mark>yanada tartibsiz naqshni namoyish etdi</mark>. 1985 yilda 40 000 ishtirokchidan boshlangan holda, u 1995 yilda 30 000 gacha tushdi, so'ngra 2005 yilda yana 40 000 gacha <mark>ko'tarildi</mark>. Bu uni davr oxirida eng kam mashhur sport turiga aylantirdi, <mark>dastlabki mashhurligiga qaramay</mark>. Suzish va velosportning o'sishi <mark>qolgan ikkita sport turidan tezroq o'tdi</mark>.</p>",
+    "uzSampleBand8": "<p>Chiziqli grafik <mark>1985-yilda boshlanib, 2005-yilda yakunlangan</mark>, yigirma yillik davr mobaynida ma'lum bir hududdagi to'rtta turli sport turidagi <mark>ishtirok etish darajasini ko'rsatadi</mark>. Umuman olganda, suzish va tennisda ishtirok etish o'sgan bo'lsa-da, futbol va badmintonning mashhurligi pasaygan.</p>\n\n<p>Dastlab, futbol eng mashhur sport turi bo'lib, 1985-yilda taxminan 80 000 ishtirokchi bo'lgan. Biroq, bu ko'rsatkich <mark>doimiy pasayishga uchradi</mark> va 2005-yilga kelib taxminan 55 000 ga tushdi. Badminton ham xuddi shunday pasayish tendentsiyasini kuzatdi va 1985-yildagi taxminan 60 000 ishtirokchidan 2005-yilda taxminan 45 000 ga kamaydi. Aksincha, suzishning mashhurligi sezilarli darajada oshdi. Taxminan 25 000 ishtirokchidan boshlanib, u <mark>asta-sekin, lekin doimiy o'sishni kuzatdi</mark> va oxir-oqibat davr oxiriga kelib taxminan 70 000 ishtirokchiga yetib, badminton va futbolni ortda qoldirdi.</p>\n\n<p>Tennis ham ijobiy trayektoriyani boshdan kechirdi, garchi suzish kabi dramatik bo'lmasa ham. Tennis bilan shug'ullanuvchi odamlar soni 1985-yildagi taxminan 30 000 dan 2005-yilda taxminan 50 000 ga oshdi. Shuni <mark>ta'kidlash joizki</mark>, 1990-yillarning oxirida tennisda ishtirok etish <mark>qisqa muddatga to'xtab qoldi</mark>, so'ngra yana o'sishni davom ettirdi. Xulosa qilib aytganda, tendentsiyalar sport afzalliklaridagi o'zgarishlarni ko'rsatadi, bunda suzish va tennis kabi individual sport turlari futbol va badminton kabi jamoaviy sport turlari <mark>hisobiga</mark> o'z mavqeini mustahkamlamoqda. <mark>Kuzatilgan o'zgarishlar</mark> dam olish faoliyatining dinamik xususiyatini ta'kidlaydi. <mark>Muhim xususiyat</mark> - bu pasayayotgan sport turlari va mashhurligi ortib borayotgan sport turlari o'rtasidagi teskari bog'liqlikdir.</p>",
+    "uzSampleBand9": "<p>Chiziqli grafika 1985 yildan 2005 yilgacha bo'lgan yigirma yillik davr mobaynida ma'lum bir mintaqadagi to'rtta xil sport turida <mark>ishtirok etish darajasini ko'rsatadi</mark>. <mark>Shunchaki bir qarash</mark> barcha sport turlarida ishtirok etishning umumiy o'sish tendentsiyasini ko'rsatadi, suzish va velosipedda esa eng sezilarli o'sish kuzatiladi.</p>\n\n<p>1985 yilda suzish eng past ishtirok etish darajasiga ega bo'lib, taxminan 20% dan boshlangan. Biroq, u butun davr mobaynida <mark>keskin o'sishni boshdan kechirdi</mark> va 2005 yilga kelib eng mashhur sport turiga aylandi va deyarli 70% ga yetdi. Xuddi shunday, velosipedda ham sezilarli o'sish kuzatildi, 1985 yildagi taxminan 35% dan 2005 yilda taxminan 65% gacha ko'tarildi. Futbol, doimiy ravishda ommabop bo'lib turgan bo'lsa-da, shu vaqt oralig'ida taxminan 55% dan 60% dan biroz ko'proqqa o'sib, <mark>yanada mo'tadil o'sish traektoriyasini namoyish etdi</mark>.</p>\n\n<p>Aksincha, yugurish <mark>birmuncha boshqacha manzarani taqdim etdi</mark>. Garchi u 1985 yilda taxminan 60% bo'lgan nisbatan yuqori ishtirok etish darajasi bilan boshlangan bo'lsa-da, 2005 yilda taxminan 55% ga tushishdan oldin <mark>biroz o'zgarib turdi</mark>. Bu uni davr mobaynida biroz pasayishni ko'rsatgan yagona sport turiga aylantirdi. Umuman olganda, ma'lumotlar sportda ishtirok etishga bo'lgan qiziqishning ortib borayotganini <mark>aniq ko'rsatadi</mark>, suzish va velosiped <mark>aholi orasida sezilarli darajada ommalashmoqda</mark>, futbol esa o'zining ommabopligini saqlab qoldi va yugurish nisbatan barqaror bo'lib qoldi.</p>\n\n<p>Xulosa qilib aytganda, barcha sport turlari ma'lum darajada ishtirok etishga ega bo'lgan bo'lsa-da, <mark>nisbiy ommaboplik</mark> sezilarli darajada o'zgardi va bu yigirma yil ichida dam olish faoliyatidagi o'zgaruvchan afzalliklarni ko'rsatadi. Ushbu <mark>dinamik manzara</mark> mintaqadagi sportga bo'lgan o'zgaruvchan qiziqishlarni aks ettiradi.</p>",
+    "chartDescSource": "extracted-verified-2026-08-05"
+   },
+   "task2": {
+    "title": "Luck and personal success",
+    "prompt": "Whether or not someone achieves their aims is mostly by a question of luck. To what extent do you agree or disagree?",
+    "wordGoal": 250,
+    "essayType": "opinion",
+    "instruction": "To what extent do you agree or disagree?",
+    "sampleBand5": "<p>Some people think that if you want to achieve something, it is mostly about luck. I don't really agree with this <mark>because I think</mark> hard work is more important, but luck can help sometimes.</p>\n\n<p>If you want to be successful, you need to work hard. For example, if you want to be a doctor, you need to study a lot and go to school for many years. <mark>It is not enough</mark> to just be lucky, you have to really try hard and learn everything you need to know. Also, if you want to be good at a sport, you need to practice all the time. You can't just hope that you will win because you are lucky. You need to train and work hard to get better.</p>\n\n<p>However, I think luck can also play a part. Sometimes, you might be in the right place at the right time, and that can help you to achieve your goals. For example, you might meet someone who can help you get a job, or you might find a good opportunity <mark>that other people don't</mark>. But even if you are lucky, you still need to be prepared to work hard and take advantage of the opportunity.</p>\n\n<p>In conclusion, <mark>I think that</mark> hard work is more important than luck when it comes to achieving your aims. While luck can sometimes help, it is not the main thing that determines whether or not you will be successful. You need to be prepared to work hard and put in the effort if you want to achieve your goals, <mark>but luck is okay</mark>.</p>",
+    "sampleBand6": "<p>It is often said that success in life is mostly a matter of luck. While I agree that chance can play a role, I believe that hard work and determination are <mark>more significant factors</mark> in achieving one's goals. Luck can certainly open doors, but it is what you do with those opportunities that truly matters.</p>\n\n<p>On the one hand, there are situations where luck undeniably plays a crucial role. For instance, winning the lottery or <mark>inheriting a large sum of money</mark> can instantly change someone's life. Similarly, being in the right place at the right time can lead to unexpected career advancements. These examples show how <mark>fortunate circumstances</mark> can significantly impact someone's trajectory. However, these are exceptions rather than the rule.</p>\n\n<p>On the other hand, hard work and perseverance are <mark>essential ingredients for success</mark>. Many successful people have faced numerous obstacles and setbacks along the way. Their achievements are not simply due to luck, but rather to their unwavering commitment and willingness to learn from their mistakes. For example, many entrepreneurs face failures before they finally achieve success, and this shows that luck alone isn't enough.</p>\n\n<p>Furthermore, even if someone is lucky enough to receive an advantage, they still need to possess the necessary skills and knowledge to capitalize on it. <mark>For example,</mark> a talented musician may get a lucky break with a record label, but they still need to work hard to hone their craft and produce quality music. Without dedication, their initial luck will not translate into long-term success.</p>\n\n<p>In conclusion, while luck can undoubtedly play a part in achieving one's aims, I believe that it is ultimately hard work, determination, and the ability to seize opportunities that truly determine success. People should not rely on luck alone, but rather <mark>take control of their lives</mark> and work towards their goals.</p>",
+    "sampleBand7": "<p>The assertion that success is primarily determined by luck is a viewpoint I <mark>largely disagree with</mark>. While chance undoubtedly plays a role in shaping individual destinies, it is far from being the sole or even the most significant determinant. Personal attributes such as diligence, strategic planning, and resilience, coupled with favorable circumstances, are, in my opinion, more crucial factors.</p>\n\n<p>On the one hand, the influence of luck cannot be entirely dismissed. Some individuals are born into privilege, granting them access to <mark>superior educational opportunities</mark> and influential networks, advantages that others may never have. Similarly, being in the right place at the right time can open doors to unforeseen opportunities. For example, someone might <mark>unexpectedly encounter</mark> an investor who believes in their business idea, leading to rapid success. These instances highlight the role of chance encounters and pre-existing advantages.</p>\n\n<p>However, to attribute success solely to luck <mark>overlooks the critical importance</mark> of individual effort and skill. A person with a brilliant idea but lacking the dedication to develop it will likely fail. Furthermore, strategic planning and adaptability are essential for navigating challenges and maximizing opportunities. <mark>Consider, for instance</mark>, two individuals who both receive funding for a startup. One meticulously plans their business model and adapts to market changes, while the other relies solely on the initial investment and fails to innovate. The former is far more likely to succeed, regardless of any initial luck involved.</p>\n\n<p>Furthermore, resilience in the face of setbacks is a <mark>key determinant of long-term success</mark>. Many successful individuals have faced numerous failures before achieving their goals. Their ability to learn from these experiences and persevere is often more crucial than initial good fortune. The ability to <mark>bounce back from adversity</mark> demonstrates the power of personal character over the whims of fate.</p>\n\n<p>In conclusion, while luck can undoubtedly influence one's path, it is not the overriding factor in achieving aims. Personal qualities, strategic planning, and resilience are far more important. While some may benefit from fortunate circumstances, ultimately, it is the combination of effort and adaptability that <mark>paves the way for true success</mark>.</p>",
+    "sampleBand8": "<p>The debate surrounding the relative importance of luck versus effort in achieving one's goals is a perennial one. While I acknowledge that serendipitous events can undoubtedly play a role, I strongly disagree with the assertion that success is *mostly* a matter of luck. I believe that diligence, strategic planning, and resilience are far more critical determinants of outcome.</p>\n\n<p>Undeniably, chance encounters and unforeseen opportunities can <mark>alter the trajectory</mark> of one's life. For instance, a struggling artist might gain recognition through a chance meeting with an influential gallery owner. Similarly, a scientist might stumble upon a groundbreaking discovery due to an <mark>unforeseen anomaly</mark> in their experiment. These instances, however, are exceptions rather than the rule. To suggest that such occurrences are the *primary* drivers of success is to <mark>diminish the significance</mark> of sustained effort and meticulous preparation.</p>\n\n<p>Conversely, countless examples demonstrate that success is primarily the result of hard work and strategic thinking. Consider the <mark>meteoric rise</mark> of entrepreneurs like Elon Musk or Jeff Bezos. While they may have benefited from certain advantages, their achievements are fundamentally rooted in relentless dedication, innovative thinking, and a willingness to take calculated risks. Furthermore, even in fields seemingly governed by luck, such as professional sports, the <mark>sheer volume</mark> of training and practice required to reach the elite level underscores the paramount importance of effort. Athletes must consistently hone their skills, push their physical limits, and develop <mark>robust mental fortitude</mark> to compete at the highest levels.</p>\n\n<p>Moreover, the ability to <mark>capitalize on opportunities</mark>, even those that arise by chance, is itself a product of preparation and proactive engagement. A skilled negotiator, for example, is more likely to leverage a chance encounter into a lucrative deal than someone who lacks the requisite skills. Similarly, a well-prepared student is more likely to excel on an exam, even if they encounter a question that they were not specifically expecting. This <mark>proactive element</mark> is crucial in transforming potential luck into tangible success.</p>\n\n<p>In conclusion, while luck may occasionally play a role in shaping one's destiny, it is ultimately sustained effort, strategic planning, and the ability to adapt to changing circumstances that <mark>pave the path to achievement</mark>. To attribute success primarily to luck is to ignore the immense power of human agency and the transformative potential of hard work.</p>",
+    "sampleBand9": "<p>The assertion that achieving one's aims is predominantly a matter of luck is a viewpoint I fundamentally disagree with. While chance undoubtedly plays a role in life's trajectory, attributing success primarily to luck <mark>diminishes the significance of</mark> hard work, perseverance, and strategic decision-making. In my opinion, while luck can provide opportunities, it is these other factors that ultimately determine whether those opportunities are capitalised on.</p>\n\n<p>Firstly, the notion that effort and determination are inconsequential in the face of luck is demonstrably false. Countless examples exist of individuals who, through sheer grit and dedication, have overcome seemingly insurmountable obstacles to achieve their goals. Consider the stories of entrepreneurs who, despite facing numerous setbacks and rejections, relentlessly pursued their visions, ultimately building thriving businesses. These narratives <mark>underscore the pivotal role of</mark> proactive action and unwavering commitment in shaping one's destiny. To suggest that their success was merely a product of chance is to ignore the years of tireless work and strategic planning that underpinned their achievements. <mark>Indeed, luck often favours the prepared mind.</mark></p>\n\n<p>Secondly, the ability to adapt and learn from failures is a crucial determinant of success, something that luck cannot provide. Individuals who view setbacks as learning opportunities, rather than insurmountable barriers, are far more likely to achieve their aims in the long run. This resilience allows them to refine their strategies, develop new skills, and ultimately navigate the complexities of their chosen field. <mark>This iterative process of learning and adaptation</mark> is a far more reliable predictor of success than simply relying on fortunate circumstances. Furthermore, <mark>cultivating a growth mindset</mark>, where challenges are embraced and effort is seen as a path to mastery, empowers individuals to create their own \"luck\" by actively seeking out opportunities for growth and development.</p>\n\n<p>Of course, it is undeniable that luck can influence outcomes. Being in the right place at the right time can certainly provide an advantage. However, even in such situations, it is the individual's preparedness and ability to seize the opportunity that ultimately determine whether it translates into success. <mark>Luck, therefore, can be seen as a catalyst</mark> rather than the sole determinant of achievement. Ultimately, while acknowledging the role of chance, I firmly believe that achieving one's aims is predominantly a result of conscious effort, strategic planning, and the unwavering pursuit of one's goals. <mark>To prioritise luck over these factors is to fundamentally misunderstand</mark> the dynamics of success.</p>\n\n<p>In conclusion, while acknowledging the occasional influence of serendipity, I maintain that hard work, resilience, and strategic thinking are the <mark>cornerstones of achievement</mark>. <mark>Attributing success primarily to luck is an oversimplification</mark> that ignores the agency and capacity for self-determination that resides within each individual.</p>",
+    "timeMinutes": 40,
+    "sampleAnswer": "The debate over whether success is primarily a product of luck or personal endeavor has persisted for centuries. While I acknowledge that fortune can play a role in achieving one's goals, I largely disagree with the assertion that success is predominantly a matter of chance. In my view, hard work, strategic planning, and perseverance are far more significant determinants of success.\n\nAdmittedly, luck can occasionally provide unexpected opportunities. Being in the right place at the right time, meeting an influential person by chance, or stumbling upon a groundbreaking idea can all accelerate one's path to success. For example, many successful entrepreneurs recount stories of a chance encounter that led to a crucial business partnership. These anecdotes suggest that an element of randomness can indeed influence outcomes.\n\nHowever, to attribute success primarily to luck undermines the enormous effort individuals invest in their pursuits. Athletes train for years to perfect their skills, students study diligently to pass exams, and professionals work long hours to excel in their careers. These achievements are not the result of fortuitous events but the culmination of dedication and discipline. Furthermore, those who are 'lucky' enough to receive an opportunity often fail to capitalize on it if they are not adequately prepared. Luck might open a door, but it is skill and hard work that allow one to walk through it.\n\nIn conclusion, while luck may occasionally present favorable circumstances, I firmly believe that success is largely the outcome of consistent effort and resilience. Attributing achievements solely to luck diminishes the value of human agency and the power of determination.",
+    "uzSampleBand5": "<p>Ba'zi odamlar biror narsaga erishmoqchi bo'lsangiz, bu asosan omadga bog'liq deb o'ylashadi. Men bunga unchalik qo'shilmayman, <mark>chunki menimcha</mark> qattiq mehnat muhimroq, lekin omad ba'zan yordam berishi mumkin.</p>\n\n<p>Agar muvaffaqiyatli bo'lishni istasangiz, qattiq mehnat qilishingiz kerak. Misol uchun, agar shifokor bo'lishni istasangiz, ko'p o'qishingiz va ko'p yillar davomida o'qishingiz kerak. Faqat omadli bo'lish <mark>yetarli emas</mark>, siz haqiqatan ham qattiq harakat qilishingiz va bilishingiz kerak bo'lgan hamma narsani o'rganishingiz kerak. Shuningdek, agar siz sportda yaxshi bo'lishni istasangiz, doimo mashq qilishingiz kerak. Shunchaki omadli bo'lganingiz uchun g'alaba qozonaman deb umid qila olmaysiz. Yaxshiroq bo'lish uchun mashq qilishingiz va qattiq mehnat qilishingiz kerak.</p>\n\n<p>Biroq, menimcha, omad ham rol o'ynashi mumkin. Ba'zan, siz to'g'ri joyda to'g'ri vaqtda bo'lishingiz mumkin va bu sizning maqsadlaringizga erishishga yordam berishi mumkin. Misol uchun, sizga ish topishga yordam beradigan kimnidir uchratishingiz mumkin yoki siz yaxshi imkoniyatni topishingiz mumkin, <mark>boshqa odamlar topa olmaydigan</mark>. Lekin omadli bo'lsangiz ham, qattiq ishlashga va imkoniyatdan foydalanishga tayyor bo'lishingiz kerak.</p>\n\n<p>Xulosa qilib aytganda, <mark>menimcha</mark> maqsadlaringizga erishishda qattiq mehnat omaddan muhimroqdir. Omad ba'zan yordam berishi mumkin bo'lsa-da, bu sizning muvaffaqiyatli bo'lishingizni belgilaydigan asosiy narsa emas. Agar siz maqsadlaringizga erishmoqchi bo'lsangiz, qattiq mehnat qilishga va kuch sarflashga tayyor bo'lishingiz kerak, <mark>lekin omad ham yaxshi</mark>.</p>",
+    "uzSampleBand6": "<p>Ko'pincha hayotda muvaffaqiyat asosan omadga bog'liq, deb aytiladi. Men tasodif rol o'ynashi mumkinligiga qo'shilsam-da, <mark>muvaffaqiyatga erishishda qattiq mehnat va qat'iyatlilik muhimroq omillar</mark> deb hisoblayman. Omad albatta eshiklarni ochishi mumkin, ammo asl muhimi, siz bu imkoniyatlardan qanday foydalanishingizdir.</p>\n\n<p>Bir tomondan, omad shubhasiz muhim rol o'ynaydigan vaziyatlar mavjud. Misol uchun, lotereyada yutish yoki <mark>katta miqdordagi pulni meros qilib olish</mark> bir zumda kimningdir hayotini o'zgartirishi mumkin. Shunga o'xshab, kerakli joyda kerakli vaqtda bo'lish kutilmagan martaba o'sishiga olib kelishi mumkin. Bu misollar <mark>omadli vaziyatlar</mark> kimningdir hayot yo'liga sezilarli ta'sir ko'rsatishi mumkinligini ko'rsatadi. Biroq, bular qoidadan ko'ra istisno.</p>\n\n<p>Boshqa tomondan, qattiq mehnat va sabotkorlik <mark>muvaffaqiyatning muhim tarkibiy qismlari</mark> hisoblanadi. Ko'pgina muvaffaqiyatli odamlar yo'lda ko'plab to'siqlar va muvaffaqiyatsizliklarga duch kelishgan. Ularning yutuqlari shunchaki omadga bog'liq emas, balki ularning qat'iy sadoqati va xatolaridan saboq olishga tayyorligi tufaylidir. Misol uchun, ko'plab tadbirkorlar muvaffaqiyatga erishishdan oldin muvaffaqiyatsizlikka duch kelishadi va bu omadning o'zi etarli emasligini ko'rsatadi.</p>\n\n<p>Bundan tashqari, kimdir omadli bo'lib ustunlikka erishsa ham, undan foydalanish uchun zarur ko'nikma va bilimlarga ega bo'lishi kerak. <mark>Misol uchun,</mark> iste'dodli musiqachi yozuv studiyasi bilan omadli imkoniyatga ega bo'lishi mumkin, ammo u o'z mahoratini oshirish va sifatli musiqa yaratish uchun hali ham ko'p mehnat qilishi kerak. Fidoyiliksiz, ularning dastlabki omadi uzoq muddatli muvaffaqiyatga aylanmaydi.</p>\n\n<p>Xulosa qilib aytganda, omad kimningdir maqsadlariga erishishda shubhasiz rol o'ynashi mumkin bo'lsa-da, menimcha, muvaffaqiyatni haqiqatan ham belgilaydigan narsa bu qattiq mehnat, qat'iyatlilik va imkoniyatlardan foydalanish qobiliyatidir. Odamlar faqat omadga ishonmasliklari kerak, balki <mark>o'z hayotlarini nazoratga olishlari</mark> va o'z maqsadlari sari harakat qilishlari kerak.</p>",
+    "uzSampleBand7": "<p>Muvaffaqiyat asosan omadga bog'liq degan fikrga men <mark>asosan qo'shilmayman</mark>. Garchi tasodif shaxsiy taqdirni shakllantirishda rol o'ynashi shubhasiz bo'lsa-da, u yagona yoki hatto eng muhim omil emas. Mening fikrimcha, tirishqoqlik, strategik rejalashtirish va chidamlilik kabi shaxsiy xususiyatlar qulay sharoitlar bilan birgalikda muhimroq omillardir.</p>\n\n<p>Bir tomondan, omadning ta'sirini butunlay rad etib bo'lmaydi. Ba'zi odamlar imtiyozli muhitda tug'ilib, ularga <mark>yuqori ta'lim olish imkoniyatlari</mark> va nufuzli aloqalarga ega bo'lish imkoniyatini beradi, bunday afzalliklarga boshqalar hech qachon ega bo'lmasligi mumkin. Xuddi shunday, kerakli vaqtda kerakli joyda bo'lish kutilmagan imkoniyatlarga yo'l ochishi mumkin. Misol uchun, kimdir o'z biznes g'oyasiga ishonadigan investorga <mark>kutilmaganda duch kelishi</mark> mumkin, bu esa tez muvaffaqiyatga olib keladi. Bu holatlar tasodifiy uchrashuvlar va mavjud afzalliklarning rolini ta'kidlaydi.</p>\n\n<p>Biroq, muvaffaqiyatni faqat omadga bog'lash shaxsiy harakat va mahoratning <mark>muhimligini e'tibordan chetda qoldiradi</mark>. Ajoyib g'oyaga ega bo'lgan, lekin uni rivojlantirishga sadoqati yetishmagan odam, ehtimol, muvaffaqiyatsizlikka uchraydi. Bundan tashqari, strategik rejalashtirish va moslashuvchanlik muammolarni hal qilish va imkoniyatlarni maksimal darajada oshirish uchun zarurdir. <mark>Misol uchun</mark>, ikkita odamga startap uchun mablag 'olishdi deylik. Ulardan biri o'z biznes modelini puxta rejalashtiradi va bozor o'zgarishlariga moslashadi, ikkinchisi esa faqat dastlabki investitsiyaga tayanadi va yangilik yarata olmaydi. Birinchisi har qanday dastlabki omadga qaramay, muvaffaqiyatga erishishi ehtimoli ko'proq.</p>\n\n<p>Bundan tashqari, muvaffaqiyatsizliklarga bardosh berish <mark>uzoq muddatli muvaffaqiyatning asosiy omili</mark> hisoblanadi. Ko'pgina muvaffaqiyatli odamlar maqsadlariga erishishdan oldin ko'plab muvaffaqiyatsizliklarga duch kelishgan. Ularning bu tajribalardan saboq olish va qat'iyat ko'rsatish qobiliyati ko'pincha dastlabki omaddan ko'ra muhimroqdir. <mark>Qiyinchiliklardan so'ng o'ziga kelish</mark> taqdirning injiqliklaridan ko'ra shaxsiy xarakterning kuchini ko'rsatadi.</p>\n\n<p>Xulosa qilib aytganda, omad shubhasiz insonning yo'liga ta'sir qilishi mumkin bo'lsa-da, bu maqsadlarga erishishda hal qiluvchi omil emas. Shaxsiy fazilatlar, strategik rejalashtirish va chidamlilik ancha muhim. Ba'zilar omadli vaziyatlardan foyda ko'rishlari mumkin bo'lsa-da, oxir-oqibat, harakat va moslashuvchanlikning kombinatsiyasi <mark>haqiqiy muvaffaqiyatga yo'l ochadi</mark>.</p>",
+    "uzSampleBand8": "<p>Maqsadlarga erishishda omadning ahamiyati va harakatning ahamiyati borasidagi bahslar doimo dolzarb bo'lib kelgan. Men tasodifiy voqealar, shubhasiz, rol o'ynashi mumkinligini tan olsam-da, muvaffaqiyat *asosan* omadga bog'liq degan fikrga mutlaqo qo'shilmayman. Menimcha, tirishqoqlik, strategik rejalashtirish va chidamlilik natijaga ta'sir qiluvchi ancha muhim omillardir.</p>\n\n<p>Shubhasiz, tasodifiy uchrashuvlar va kutilmagan imkoniyatlar inson hayotining <mark>yo'nalishini o'zgartirishi</mark> mumkin. Misol uchun, kurashayotgan rassom nufuzli galereya egasi bilan tasodifiy uchrashuv orqali tan olinishi mumkin. Xuddi shunday, olim o'z tajribasida <mark>kutilmagan anomaliya</mark> tufayli muhim kashfiyotga duch kelishi mumkin. Biroq, bu holatlar qoidadan ko'ra istisno. Bunday hodisalar muvaffaqiyatning *asosiy* omili ekanligini aytish - bu doimiy harakat va puxta tayyorgarlikning <mark>ahamiyatini kamaytirish</mark> demakdir.</p>\n\n<p>Aksincha, son-sanoqsiz misollar muvaffaqiyat asosan qattiq mehnat va strategik fikrlash natijasi ekanligini ko'rsatadi. Ilon Mask yoki Jeff Bezos kabi tadbirkorlarning <mark>tezkor yuksalishini</mark> ko'rib chiqing. Ular ma'lum afzalliklardan foydalangan bo'lishlari mumkin, ammo ularning yutuqlari, asosan, tinimsiz fidoyilik, innovatsion fikrlash va hisoblangan xavf-xatarlarga tayyorlikka asoslangan. Bundan tashqari, hatto professional sport kabi omadga bog'liq bo'lib tuyuladigan sohalarda ham elita darajasiga erishish uchun zarur bo'lgan mashg'ulotlar va amaliyotning <mark>katta hajmi</mark> harakatning muhimligini ta'kidlaydi. Sportchilar doimiy ravishda o'z mahoratlarini oshirishlari, jismoniy chegaralarini surishlari va eng yuqori darajada raqobat qilish uchun <mark>mustahkam ruhiy kuchni</mark> rivojlantirishlari kerak.</p>\n\n<p>Bundan tashqari, imkoniyatlardan <mark>foydalana olish</mark> qobiliyati, hatto tasodifan paydo bo'lgan imkoniyatlardan ham, tayyorgarlik va faol ishtirokning mahsulidir. Misol uchun, malakali muzokarachining tasodifiy uchrashuvdan foydali kelishuvga erishish ehtimoli, kerakli ko'nikmalarga ega bo'lmagan odamga qaraganda ko'proq. Xuddi shunday, yaxshi tayyorlangan talaba, hatto o'zi kutmagan savolga duch kelgan taqdirda ham, imtihonda yaxshi natijaga erishish ehtimoli ko'proq. Ushbu <mark>faol element</mark> potentsial omadni sezilarli muvaffaqiyatga aylantirishda muhim ahamiyatga ega.</p>\n\n<p>Xulosa qilib aytganda, omad ba'zan inson taqdirini shakllantirishda rol o'ynashi mumkin bo'lsa-da, bu oxir-oqibatda doimiy harakat, strategik rejalashtirish va o'zgaruvchan vaziyatlarga moslasha olish qobiliyati <mark>yutuqlarga yo'l ochadi</mark>. Muvaffaqiyatni asosan omadga bog'lash - insonning ulkan qudratini va qattiq mehnatning o'zgartiruvchi salohiyatini e'tiborsiz qoldirishdir.</p>",
+    "uzSampleBand9": "<p>Maqsadlarga erishish asosan omadga bog'liq degan fikrga men mutlaqo qo'shilmayman. Hayot yo'lida tasodifiy holatlar, albatta, rol o'ynasa-da, muvaffaqiyatni asosan omadga bog'lash <mark>qattiq mehnatning ahamiyatini kamaytiradi</mark>, qat'iyatlilik va strategik qarorlar qabul qilishning ahamiyatini ham shunday. Mening fikrimcha, omad imkoniyatlar yaratishi mumkin, ammo ushbu imkoniyatlardan foydalanish yoki yo'qligini aynan shu boshqa omillar hal qiladi.</p>\n\n<p>Birinchidan, omad oldida harakat va qat'iyatning ahamiyati yo'q degan tushuncha aniq noto'g'ri. O'z maqsadlariga erishish uchun misli ko'rilmagan to'siqlarni qat'iyat va fidoyilik bilan yengib o'tgan shaxslarning son-sanoqsiz misollari mavjud. Ko'plab muvaffaqiyatsizliklar va rad javoblariga duch kelganiga qaramay, o'z maqsadlarini tinimsiz amalga oshirib, oxir-oqibatda gullab-yashnagan bizneslarni qurgan tadbirkorlar hikoyalarini ko'rib chiqing. Bu hikoyalar <mark>inson taqdirini shakllantirishda</mark> faol harakat va qat'iy sadoqatning muhim rolini ta'kidlaydi. Ularning muvaffaqiyati shunchaki tasodif mahsuli deb taxmin qilish, ularning yutuqlariga asos bo'lgan yillar davomidagi tinimsiz mehnat va strategik rejalashtirishni e'tiborsiz qoldirish demakdir. <mark>Darhaqiqat, omad ko'pincha tayyor ongni qo'llab-quvvatlaydi.</mark></p>\n\n<p>Ikkinchidan, muvaffaqiyatsizliklardan moslashish va saboq olish qobiliyati muvaffaqiyatning muhim omili hisoblanadi, buni omad ta'minlay olmaydi. Muammolarni bartaraf etib bo'lmaydigan to'siqlar emas, balki o'rganish imkoniyatlari sifatida qabul qiladigan shaxslarning uzoq muddatda o'z maqsadlariga erishish ehtimoli ancha yuqori. Ushbu chidamlilik ularga o'z strategiyalarini takomillashtirish, yangi ko'nikmalarni rivojlantirish va oxir-oqibatda tanlagan sohalarining murakkabliklarini boshqarish imkonini beradi. <mark>O'rganish va moslashishning ushbu iterativ jarayoni</mark> shunchaki omadli vaziyatlarga tayanishdan ko'ra muvaffaqiyatning ancha ishonchli bashoratchisidir. Bundan tashqari, <mark>o'sish fikrini rivojlantirish</mark>, unda qiyinchiliklar qabul qilinadi va harakat ustalik yo'li sifatida ko'riladi, bu odamlarga o'z o'sishi va rivojlanishi uchun imkoniyatlarni faol ravishda izlash orqali o'z \"omadlarini\" yaratish imkonini beradi.</p>\n\n<p>Albatta, omad natijalarga ta'sir qilishi mumkinligini inkor etib bo'lmaydi. To'g'ri vaqtda to'g'ri joyda bo'lish, albatta, ustunlikni ta'minlashi mumkin. Biroq, bunday vaziyatlarda ham, bu yakuniy muvaffaqiyatga aylanishi yoki yo'qligini hal qiladigan shaxsning tayyorgarligi va imkoniyatdan foydalana olish qobiliyatidir. <mark>Shuning uchun omadni</mark> muvaffaqiyatning yagona omili emas, balki <mark>katalizator sifatida ko'rish mumkin</mark>. Oxir oqibat, tasodifning rolini tan olgan holda, men maqsadlarga erishish asosan ongli harakat, strategik rejalashtirish va o'z maqsadlariga qat'iy intilish natijasidir, deb qat'iy ishonaman. <mark>Omadni ushbu omillardan ustun qo'yish muvaffaqiyat dinamikasini tubdan noto'g'ri tushunish demakdir.</mark></p>\n\n<p>Xulosa qilib aytganda, tasodifning vaqti-vaqti bilan ta'sirini tan olgan holda, men qattiq mehnat, chidamlilik va strategik fikrlash <mark>yutuqlarning asosiy tamoyillari</mark> ekanligini ta'kidlayman. <mark>Muvaffaqiyatni asosan omadga bog'lash haddan tashqari soddalashtirishdir</mark> va bu har bir shaxsda mavjud bo'lgan erkinlik va o'z taqdirini o'zi belgilash qobiliyatini e'tiborsiz qoldiradi.</p>"
+   }
+  },
+  "source": "IDP IELTS",
+  "examDate": "2023-01-12",
+  "settings": {
+   "timeInfo": "60 Minutes",
+   "moduleTitle": "Academic Writing Module",
+   "testIdentifier": "Mock 10"
+  },
+  "vocabulary": {
+   "task1": [
+    {
+     "term": "Participation rates",
+     "meaning": "The proportion of people taking part in an activity."
+    },
+    {
+     "term": "Considerable fluctuations",
+     "meaning": "Significant and irregular changes in number or level."
+    },
+    {
+     "term": "Stable pattern",
+     "meaning": "A consistent and predictable trend over time."
+    },
+    {
+     "term": "Recovered slightly",
+     "meaning": "Increased again by a small amount after a decline."
+    },
+    {
+     "term": "Peaked",
+     "meaning": "Reached the highest point or maximum level."
+    },
+    {
+     "term": "Steady growth",
+     "meaning": "A gradual and continuous increase."
+    },
+    {
+     "term": "In stark contrast",
+     "meaning": "Used to emphasize how completely different two things are."
+    },
+    {
+     "term": "Overtaken",
+     "meaning": "Surpassed or exceeded in number or performance."
+    }
+   ],
+   "task2": [
+    {
+     "term": "Personal endeavor",
+     "meaning": "An individual's determined effort to achieve something."
+    },
+    {
+     "term": "Strategic planning",
+     "meaning": "The process of thinking carefully about how to achieve a goal."
+    },
+    {
+     "term": "Determinants of success",
+     "meaning": "Factors that decide whether someone is successful."
+    },
+    {
+     "term": "Chance encounter",
+     "meaning": "An unexpected or unplanned meeting with someone."
+    },
+    {
+     "term": "Fortuitous events",
+     "meaning": "Happenings that occur by lucky accident."
+    },
+    {
+     "term": "Capitalize on",
+     "meaning": "To take advantage of a situation for one's own benefit."
+    },
+    {
+     "term": "Human agency",
+     "meaning": "The capacity of individuals to act independently and make their own choices."
+    },
+    {
+     "term": "Resilience",
+     "meaning": "The ability to recover quickly from difficulties."
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "After that": {
+    "uz": "Shundan so'ng",
+    "type": "linking"
+   },
+   "For example,": {
+    "uz": "Masalan,",
+    "type": "linking"
+   },
+   "I think that": {
+    "uz": "Menimcha",
+    "type": "lexical"
+   },
+   "sheer volume": {
+    "uz": "Katta hajm",
+    "type": "colloc"
+   },
+   "meteoric rise": {
+    "uz": "Tez ko'tarilish",
+    "type": "colloc"
+   },
+   "rebounding to": {
+    "uz": "Qayta tiklanish",
+    "type": "academic"
+   },
+   "staying below": {
+    "uz": "Pastda qolish",
+    "type": "lexical"
+   },
+   "because I think": {
+    "uz": "chunki men o'ylaymanki",
+    "type": "lexical"
+   },
+   "A cursory glance": {
+    "uz": "Yuzaki nazar",
+    "type": "colloc"
+   },
+   "It is not enough": {
+    "uz": "Bu yetarli emas",
+    "type": "lexical"
+   },
+   "but luck is okay": {
+    "uz": "lekin omad yaxshi",
+    "type": "lexical"
+   },
+   "A salient feature": {
+    "uz": "Ajralib turadigan xususiyat",
+    "type": "colloc"
+   },
+   "at the expense of": {
+    "uz": "hisobiga",
+    "type": "colloc"
+   },
+   "briefly plateaued": {
+    "uz": "Qisqa muddatga barqarorlashdi",
+    "type": "academic"
+   },
+   "dynamic landscape": {
+    "uz": "Dinamik muhit",
+    "type": "colloc"
+   },
+   "proactive element": {
+    "uz": "Faol element",
+    "type": "colloc"
+   },
+   "was pretty steady": {
+    "uz": "Ancha barqaror edi",
+    "type": "lexical"
+   },
+   "worth noting that": {
+    "uz": "Shuni ta'kidlash joizki",
+    "type": "linking"
+   },
+   "unforeseen anomaly": {
+    "uz": "Kutilmagan anomaliya",
+    "type": "colloc"
+   },
+   "fluctuated slightly": {
+    "uz": "Biroz o'zgarib turdi",
+    "type": "academic"
+   },
+   "gradually decreased": {
+    "uz": "Asta-sekin kamaydi",
+    "type": "academic"
+   },
+   "relative popularity": {
+    "uz": "Nisbiy mashhurlik",
+    "type": "colloc"
+   },
+   "alter the trajectory": {
+    "uz": "Yo'nalishni o'zgartirish",
+    "type": "academic"
+   },
+   "largely disagree with": {
+    "uz": "Asosan rozi emasman",
+    "type": "lexical"
+   },
+   "over a 20-year period": {
+    "uz": "20 yillik davr mobaynida",
+    "type": "linking"
+   },
+   "stayed about the same": {
+    "uz": "Taxminan bir xil bo'lib qoldi",
+    "type": "lexical"
+   },
+   "Consider, for instance": {
+    "uz": "Misol uchun, ko'rib chiqing",
+    "type": "linking"
+   },
+   "unexpectedly encounter": {
+    "uz": "Kutilmaganda duch kelish",
+    "type": "lexical"
+   },
+   "fortunate circumstances": {
+    "uz": "Omadli vaziyatlar",
+    "type": "colloc"
+   },
+   "much significant change": {
+    "uz": "Katta o'zgarish",
+    "type": "lexical"
+   },
+   "robust mental fortitude": {
+    "uz": "Kuchli ruhiy qat'iyat",
+    "type": "colloc"
+   },
+   "that other people don't": {
+    "uz": "boshqa odamlarda yo'q",
+    "type": "lexical"
+   },
+   "unequivocally indicates": {
+    "uz": "Aniq ko'rsatadi",
+    "type": "academic"
+   },
+   "experienced fluctuations": {
+    "uz": "O'zgarishlarni boshdan kechirdi",
+    "type": "academic"
+   },
+   "more significant factors": {
+    "uz": "Muhimroq omillar",
+    "type": "lexical"
+   },
+   "The fluctuations observed": {
+    "uz": "Kuzatilgan o'zgarishlar",
+    "type": "academic"
+   },
+   "diminish the significance": {
+    "uz": "ahamiyatini kamaytirish",
+    "type": "academic"
+   },
+   "bounce back from adversity": {
+    "uz": "Qiyinchiliklardan so'ng tiklanish",
+    "type": "colloc"
+   },
+   "remained relatively stable": {
+    "uz": "Nisbatan barqaror bo'lib qoldi",
+    "type": "academic"
+   },
+   "underwent a steady decline": {
+    "uz": "Barqaror pasayishga uchradi",
+    "type": "academic"
+   },
+   "capitalize on opportunities": {
+    "uz": "Imkoniyatlardan foydalanish",
+    "type": "colloc"
+   },
+   "cornerstones of achievement": {
+    "uz": "Yutuqlarning asosiy toshlari",
+    "type": "colloc"
+   },
+   "take control of their lives": {
+    "uz": "O'z hayotlarini nazoratga olish",
+    "type": "colloc"
+   },
+   "cultivating a growth mindset": {
+    "uz": "O'sish fikrlash tarzini rivojlantirish",
+    "type": "colloc"
+   },
+   "experienced a dramatic surge": {
+    "uz": "Keskin o'sishni boshdan kechirdi",
+    "type": "academic"
+   },
+   "pave the path to achievement": {
+    "uz": "Yutuqlarga yo'l ochish",
+    "type": "colloc"
+   },
+   "It is about a particular area": {
+    "uz": "Bu muayyan soha haqida",
+    "type": "lexical"
+   },
+   "gaining considerable traction": {
+    "uz": "Katta ta'sirga ega bo'lish",
+    "type": "colloc"
+   },
+   "outpaced the other two sports": {
+    "uz": "Qolgan ikkita sport turidan o'zib ketdi",
+    "type": "lexical"
+   },
+   "despite its initial popularity": {
+    "uz": "Dastlabki mashhurligiga qaramay",
+    "type": "linking"
+   },
+   "diminishes the significance of": {
+    "uz": "ahamiyatini kamaytiradi",
+    "type": "academic"
+   },
+   "paves the way for true success": {
+    "uz": "Haqiqiy muvaffaqiyatga yo'l ochadi",
+    "type": "colloc"
+   },
+   "underscore the pivotal role of": {
+    "uz": "Muhim rolini ta'kidlash",
+    "type": "academic"
+   },
+   "illustrates participation rates": {
+    "uz": "Ishtirok darajasini ko'rsatadi",
+    "type": "academic"
+   },
+   "inheriting a large sum of money": {
+    "uz": "Katta miqdordagi pulni meros qilib olish",
+    "type": "lexical"
+   },
+   "presented a more erratic pattern": {
+    "uz": "Ancha tartibsiz naqshni ko'rsatdi",
+    "type": "academic"
+   },
+   "essential ingredients for success": {
+    "uz": "Muvaffaqiyat uchun zaruriy ingredientlar",
+    "type": "colloc"
+   },
+   "overlooks the critical importance": {
+    "uz": "Muhim ahamiyatga e'tibor bermaydi",
+    "type": "academic"
+   },
+   "superior educational opportunities": {
+    "uz": "Yuqori ta'lim imkoniyatlari",
+    "type": "colloc"
+   },
+   "illustrates the participation rates": {
+    "uz": "Ishtirok darajalarini ko'rsatadi",
+    "type": "academic"
+   },
+   "the trend for swimming was downward": {
+    "uz": "Suzish bo'yicha tendentsiya pasayish edi",
+    "type": "lexical"
+   },
+   "key determinant of long-term success": {
+    "uz": "Uzoq muddatli muvaffaqiyatning asosiy omili",
+    "type": "colloc"
+   },
+   "presented a somewhat different picture": {
+    "uz": "Biroz boshqacha manzarani taqdim etdi",
+    "type": "academic"
+   },
+   "witnessed a gradual but consistent rise": {
+    "uz": "Asta-sekin, ammo doimiy o'sishga guvoh bo'ldi",
+    "type": "academic"
+   },
+   "Luck, therefore, can be seen as a catalyst": {
+    "uz": "Shuning uchun, omad katalizator sifatida ko'rilishi mumkin",
+    "type": "academic"
+   },
+   "Indeed, luck often favours the prepared mind.": {
+    "uz": "Haqiqatan ham, omad ko'pincha tayyor ongni afzal ko'radi.",
+    "type": "idiom"
+   },
+   "demonstrated a more moderate growth trajectory": {
+    "uz": "Ancha o'rtacha o'sish traektoriyasini namoyish etdi",
+    "type": "academic"
+   },
+   "This iterative process of learning and adaptation": {
+    "uz": "O'rganish va moslashuvning ushbu iterativ jarayoni",
+    "type": "academic"
+   },
+   "Attributing success primarily to luck is an oversimplification": {
+    "uz": "Muvaffaqiyatni asosan omadga bog'lash – bu haddan tashqari soddalashtirishdir",
+    "type": "academic"
+   },
+   "To prioritise luck over these factors is to fundamentally misunderstand": {
+    "uz": "Omadni ushbu omillardan ustun qo'yish – bu tubdan noto'g'ri tushunishdir",
+    "type": "academic"
+   }
+  }
+ },
+ "created_at": "2026-05-06T17:28:39.438101+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

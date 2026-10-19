@@ -1,0 +1,593 @@
+{
+ "id": 54,
+ "mock_type": "cefr-writing",
+ "mock_number": 44,
+ "title": "CEFR Writing Mock 44",
+ "status": "published",
+ "mock_data": {
+  "part1": {
+   "chip": "food",
+   "topic": "Food delivery"
+  },
+  "tasks": {
+   "t2": {
+    "chip": "education",
+    "genre": "forum",
+    "title": "Homework be abolished in schools",
+    "prompt": "You are participating in an online discussion forum. The topic is: \"Should homework be abolished in schools?\" Write your response, giving reasons and examples. Write 180–200 words.",
+    "sample": "<h2>Food Delivery: Convenience or Laziness?</h2>\n\n<p><span class=\"ml-token colloc\">Food delivery apps</span> have <span class=\"ml-token adv\">revolutionized</span> how we eat. But critics argue they're making us lazy. Let me share my perspective.</p>\n\n<p><span class=\"ml-token adv\">Honestly</span>, I think it depends on how you use them. For busy professionals working long hours, delivery apps provide <span class=\"ml-token colloc\">valuable time savings</span>. That's <span class=\"ml-token colloc\">efficiency</span>, not laziness.</p>\n\n<p><span class=\"ml-token adv\">Moreover</span>, these apps support local restaurants and create <span class=\"ml-token colloc\">employment opportunities</span> for delivery drivers. They're a <span class=\"ml-token colloc\">legitimate service</span> meeting real needs.</p>\n\n<p><span class=\"ml-token adv\">However</span>, there are valid concerns. Relying <span class=\"ml-token adv\">exclusively</span> on delivery <span class=\"ml-token modal\">can</span> be expensive, less healthy, and <span class=\"ml-token modal\">may</span> reduce our <span class=\"ml-token colloc\">cooking skills</span>.</p>\n\n<p><span class=\"ml-token adv\">Additionally</span>, the <span class=\"ml-token colloc\">environmental impact</span> of countless delivery vehicles and <span class=\"ml-token colloc\">single-use packaging</span> is concerning.</p>\n\n<p><span class=\"ml-token adv\">Ultimately</span>, moderation is key. Using delivery apps <span class=\"ml-token adv\">occasionally</span> when genuinely needed makes sense. But replacing all home cooking? That's where convenience becomes <span class=\"ml-token colloc\">problematic</span>.</p>\n\n<p>What's your relationship with food delivery apps?</p>",
+    "target": "180–200 words",
+    "sampleA1": "<p>Hi QuickBite!</p><br><p>Food good. Fast. App okay. I like pizza. I want pizza again. Bye.</p>",
+    "sampleA2": "<p>Hello QuickBite,</p><br><p>The food was good and it was fast. The app was easy to use but I think it needs more pictures. I want to use the app again because it is easy and the food is good. Thank you.</p>",
+    "sampleB1": "<p>Dear QuickBite Support Team,</p><br><p>Thank you for asking about my first experience. The delivery was quite fast, and the food arrived still warm, which was good. The app was generally easy to navigate, although I did have a little trouble finding the filter options at first. I think making those more obvious would be helpful.</p><br><p>To become a regular customer, I'd suggest offering more deals or discounts for frequent users. Also, a wider selection of restaurants in my area would be great. If you had those things, I would definitely use QuickBite more often.</p><br><p>Overall, it was a positive experience.</p>",
+    "sampleB2": "Hi everyone,\nInteresting topic! I've seen a few heated debates about this online, so I thought I'd <span class=\"ml-token idiom\">throw in my two cents</span>.\nPersonally, I don't think homework should be <span class=\"ml-token phrasal\">scrapped altogether</span>, but it does need <span class=\"ml-token colloc\">a serious rethink</span>. <span class=\"ml-token linking\">On the plus side</span>, homework helps students revise what they've learned and builds good <span class=\"ml-token colloc\">study habits</span> they'll rely on later in life. When you practise something at home, it genuinely tends to stick.\n<span class=\"ml-token linking\">That said</span>, I completely get the frustration. Cramming in endless worksheets after a long school day can <span class=\"ml-token phrasal\">burn kids out</span> and leave zero time for hobbies, family or simply <span class=\"ml-token phrasal\">switching off</span>. A lot of it is just busywork that teaches nothing and only piles on stress.\nFor me, the answer <span class=\"ml-token idiom\">lies somewhere in the middle</span>. Schools should set less homework, but make it count — think creative projects or a bit of reading rather than mindless repetition. <span class=\"ml-token idiom\">Quality over quantity</span>, basically.\nSo what do you all reckon? Should we keep homework, ditch it, or rethink it completely? I'd love to hear from teachers especially — you see both sides.\nLooking forward to your replies!\nDilshod Rahimov",
+    "uzSample": "<h2>Oziq-ovqat yetkazib berish: Qulaylikmi yoki dangasalik?</h2>\n\n<p>Oziq-ovqat yetkazib berish ilovalari ovqatlanish usulimizda inqilob qildi. Ammo tanqidchilarning ta'kidlashicha, ular bizni dangasa qilib qo'ymoqda. Keling, o'z nuqtai nazarimni baham ko'rsam.</p>\n\n<p>Rostini aytsam, menimcha, bu ulardan qanday foydalanishingizga bog'liq. Uzoq soatlar davomida ishlaydigan band professional mutaxassislar uchun yetkazib berish ilovalari qimmatli vaqtni tejaydi. Bu samaradorlik, dangasalik emas.</p>\n\n<p>Bundan tashqari, ushbu ilovalar mahalliy restoranlarni qo'llab-quvvatlaydi va yetkazib berish haydovchilari uchun ish o'rinlarini yaratadi. Ular haqiqiy ehtiyojlarni qondiradigan qonuniy xizmatdir.</p>\n\n<p>Biroq, asosli xavotirlar ham mavjud. Faqat yetkazib berishga tayanish qimmatga tushishi, unchalik sog'lom bo'lmasligi va ovqat tayyorlash mahoratimizni kamaytirishi mumkin.</p>\n\n<p>Bundan tashqari, son-sanoqsiz yetkazib berish transport vositalarining va bir martalik qadoqlashning atrof-muhitga ta'siri tashvishlidir.</p>\n\n<p>Oxir oqibat, me'yor muhim. Haqiqatan ham zarur bo'lganda, vaqti-vaqti bilan yetkazib berish ilovalaridan foydalanish mantiqan to'g'ri keladi. Ammo barcha uyda ovqat tayyorlashni almashtirishmi? Qulaylik muammoli bo'lib qoladigan joy shu.</p>\n\n<p>Sizning oziq-ovqat yetkazib berish ilovalari bilan munosabatingiz qanday?</p>",
+    "uzSampleA1": "<p>Salom, QuickBite!</p><br><p>Ovqat yaxshi. Tez. Ilova yaxshi. Menga pizza yoqadi. Men yana pizza xohlayman. Xayr.</p>",
+    "uzSampleA2": "<p>Salom QuickBite,</p><br><p>Ovqat yaxshi va tez edi. Ilovadan foydalanish oson edi, lekin menimcha, unga ko'proq rasmlar kerak. Men ilovadan yana foydalanmoqchiman, chunki u oson va ovqat yaxshi. Rahmat.</p>",
+    "uzSampleB1": "<p>Hurmatli QuickBite qo'llab-quvvatlash jamoasi,</p><br><p>Mening birinchi tajribam haqida so'raganingiz uchun rahmat. Yetkazib berish juda tez bo'ldi va ovqat hali ham iliq holda yetib keldi, bu yaxshi. Ilova odatda navigatsiya qilish uchun oson edi, garchi men birinchi marta filtr variantlarini topishda biroz qiyinchilikka duch keldim. O'ylaymanki, ularni yanada aniqroq qilish foydali bo'ladi.</p><br><p>Doimiy mijoz bo'lish uchun men tez-tez foydalanuvchilar uchun ko'proq takliflar yoki chegirmalar berishni taklif qilaman. Shuningdek, mening hududimda restoranlarning kengroq tanlovi ajoyib bo'lardi. Agar sizda shu narsalar bo'lsa, men QuickBite-dan tez-tez foydalangan bo'lardim.</p><br><p>Umuman olganda, bu ijobiy tajriba edi.</p>",
+    "uzSampleB2": "<p>Hurmatli QuickBite qo'llab-quvvatlash jamoasi,</p><br><p>QuickBite bilan dastlabki tajribam yuzasidan kuzatuvlaringiz uchun tashakkur. Yetkazib berish tezligi maqtovga loyiq ekanligini aniqladim; ovqat taxminiy vaqt oralig'ida yetib keldi va maqbul haroratni saqlab qoldi. Ovqatning sifati qoniqarli bo'lib, restoranning odatdagi standartlariga mos keldi.</p><br><p>Ilovaning foydalanuvchi interfeysi nisbatan intuitiv edi, garchi qidiruv funksionalligi bo'yicha takomillashtirishga ehtiyoj bor deb hisoblayman. Batafsil filtrlash imkoniyatlarini joriy etish – ehtimol, parhez cheklovlari yoki oshxona turi bo'yicha – foydalanuvchi tajribasini sezilarli darajada yaxshilaydi. Bundan tashqari, asosiy buyurtma holati yangilanishlaridan tashqari real vaqt rejimida kuzatish funksiyasini kiritish qo'shimcha ishonch beradi.</p><br><p>Mening sodiqligimni rivojlantirish uchun men pog'onali mukofotlash tizimini o'rganishni yoki o'tmishdagi buyurtmalar asosida shaxsiy tavsiyalarni taklif qilishni tavsiya qilaman. Raqobatbardosh narxlar va eksklyuziv aksiyalar ham doimiy mijozga aylanishimda ta'sirchan omillar bo'ladi. Ushbu masalalarni hal qilish, shubhasiz, QuickBite'ning afzal ko'rilgan yetkazib berish xizmati sifatidagi o'rnini mustahkamlaydi.</p><br><p>Hurmat bilan,</p>"
+   },
+   "t11": {
+    "title": "informal letter · to friend",
+    "prompt": "Write a letter to your friend, who hasn't tried food delivery apps. Write about your feelings and what you think they should do.",
+    "sample": "Hey!\n\nYou <span class=\"ml-token modal\">have to</span> try QuickBite! I <span class=\"ml-token adv\">just</span> ordered dinner and it arrived in 20 minutes! The <span class=\"ml-token colloc\">app</span> is <span class=\"ml-token adv\">super</span> easy to use and there are <span class=\"ml-token adv\">tons</span> of <span class=\"ml-token colloc\">restaurants</span> to choose from.\n\nSo convenient when you're too tired to cook!",
+    "target": "50 words",
+    "sampleA1": "<p>Hi! <br> I use app. Food come. Good! <br> You try. <br> Bye</p>",
+    "sampleA2": "<p>Hi! <br> I used a food app. It is good. The food came fast and it was hot. <br> The app is easy to use. You should try it because it is easy and good food. <br> Bye!</p>",
+    "sampleB1": "<p>Hey! <br> I tried a new food delivery app called QuickBite. It was pretty good! The food arrived quickly, and it was still warm. <br> I think you should try it. It's much easier than cooking when you don't have time. The app is also easy to use. <br> Let me know what you think if you try it! </p>",
+    "sampleB2": "Hi Nodira,\nYou've <span class=\"ml-token modal\">got to try</span> one of these food delivery apps! I ordered from QuickBite last night and dinner <span class=\"ml-token phrasal\">turned up</span> <span class=\"ml-token colloc\">piping hot</span> in twenty minutes. No cooking, no <span class=\"ml-token phrasal\">washing up</span> — a <span class=\"ml-token idiom\">total lifesaver</span> on a busy day. The app's dead easy, too. <span class=\"ml-token idiom\">Give it a go</span>; you <span class=\"ml-token idiom\">won't look back</span>!\nTake care,\nDilnoza Karimova",
+    "uzSample": "<p>Salom!</p>\n<p>Sen albatta QuickBite'ni sinab ko'rishing kerak! Men hozirgina kechki ovqatga buyurtma berdim va u 20 daqiqada yetib keldi! Ilova juda oson ishlatiladi va tanlash uchun juda ko'p restoranlar bor.</p>\n<p>Ovqat tayyorlashga juda eringaningda juda qulay!</p>",
+    "uzSampleA1": "<p>Salom! <br> Men ilova ishlataman. Ovqat keladi. Yaxshi! <br> Sen ham urinib ko'r. <br> Xayr</p>",
+    "uzSampleA2": "<p>Salom! <br> Men ovqat yetkazib berish ilovasidan foydalandim. U yaxshi. Ovqat tez keldi va issiq edi. <br> Ilovani ishlatish oson. Siz ham urinib ko'rishingiz kerak, chunki u oson va ovqati yaxshi. <br> Xayr!</p>",
+    "uzSampleB1": "<p>Salom! <br> Men QuickBite deb nomlangan yangi oziq-ovqat yetkazib berish ilovasini sinab ko'rdim. Juda yaxshi bo'ldi! Ovqat tezda yetib keldi va hali ham issiq edi. <br> O'ylaymanki, sen ham sinab ko'rishing kerak. Vaqting bo'lmaganda ovqat pishirishdan ko'ra ancha oson. Ilovadan foydalanish ham oson. <br> Agar sinab ko'rsang, fikringni menga bildir! </p>",
+    "uzSampleB2": "<p>Salom Zarina, <br> Nima qilganimga ishonmaysan – nihoyat taslim bo'ldim va ovqat yetkazib berish ilovasidan foydalanib ko'rdim! Bu QuickBite edi va rostini aytsam, men juda xursand bo'ldim. Tezligi hayratlanarli edi; ovqat yarim soat ichida issiqqina bo'lib keldi. <br> Bilaman, sen doim band bo'lasan, shuning uchun men chin dildan senga buni sinab ko'rishingni maslahat beraman. Faqatgina qulaylik omili o'ziyoq katta o'zgarish, ayniqsa ovqat pishirish juda qiyin vazifadek tuyulgan oqshomlarda. Ilovaning o'zi ham juda tushunarli. <br> Agar sinab ko'rishga qaror qilsang, menga xabar ber; fikrlaringni eshitishga qiziqaman. <br> Eng yaxshi tilaklar bilan, <br> Charos Karimova</p>"
+   },
+   "t12": {
+    "title": "formal letter · to recipient",
+    "prompt": "Write a letter to the food delivery service. Write about your feelings and what you think they should do.",
+    "sample": "<p>Dear QuickBite Support Team,</p>\n\n<p>Thank you for reaching out. I am pleased to share my feedback on my first order.</p>\n\n<p><span class=\"ml-token adv\">Firstly</span>, the <span class=\"ml-token colloc\">delivery speed</span> was <span class=\"ml-token colloc\">impressive</span>. My food arrived well within the <span class=\"ml-token colloc\">estimated time</span> and was still hot.</p>\n\n<p><span class=\"ml-token adv\">However</span>, I noticed the <span class=\"ml-token colloc\">packaging</span> was <span class=\"ml-token adv\">somewhat</span> flimsy, causing minor spillage. Using <span class=\"ml-token colloc\">sturdier containers</span> <span class=\"ml-token modal\">would</span> prevent this issue.</p>\n\n<p><span class=\"ml-token adv\">Additionally</span>, the <span class=\"ml-token colloc\">delivery fee</span> seemed high for short distances. Introducing <span class=\"ml-token colloc\">tiered pricing</span> based on distance <span class=\"ml-token modal\">would</span> be fairer.</p>\n\n<p><span class=\"ml-token adv\">Furthermore</span>, offering a <span class=\"ml-token colloc\">loyalty program</span> with rewards for frequent orders <span class=\"ml-token modal\">would</span> <span class=\"ml-token adv\">certainly</span> encourage <span class=\"ml-token colloc\">repeat business</span>.</p>\n\n<p>The <span class=\"ml-token colloc\">real-time tracking</span> feature was excellent and <span class=\"ml-token adv\">greatly</span> appreciated.</p>\n\n<p>Kind regards,<br>A New Customer</p>",
+    "target": "120–150 words",
+    "sampleA1": "<p>Hi QuickBite!</p><br><p>Food good. Fast. App okay.</p><br><p>More food?</p><br><p>Bye!</p>",
+    "sampleA2": "<p>Hello QuickBite,</p><br><p>I used your app. The food was good and it came fast. But the app is a little hard to use. I want more food choices. And maybe cheaper prices because it is expensive. Thank you.</p><br><p>Bye,</p><br><p>A Customer</p>",
+    "sampleB1": "<p>Dear QuickBite Support Team,</p><br><p>Thank you for asking about my first order. The delivery was quite fast, which I appreciated. The food tasted good too.</p><br><p>However, I think the app could be better. It was a little confusing to find what I wanted. Also, the delivery cost was a bit high. Maybe you could lower the price?</p><br><p>I would order again if the app was easier to use and if the delivery wasn't so expensive. Thank you for listening.</p><br><p>Sincerely,<br>A New Customer</p>",
+    "sampleB2": "Dear QuickBite Support Team,\nThank you for <span class=\"ml-token phrasal\">getting in touch</span> about my first order. <span class=\"ml-token linking\">On the whole</span>, I was very pleased with the service, though I have a few suggestions to pass on.\nTo start with, the delivery speed was excellent — my meal arrived <span class=\"ml-token idiom\">ahead of schedule</span> and was still hot. The food quality <span class=\"ml-token phrasal\">lived up to</span> the restaurant's reputation, so I really can't complain there.\n<span class=\"ml-token linking\">That said</span>, I found the app a little <span class=\"ml-token colloc\">tricky to navigate</span>, especially when filtering by cuisine. Streamlining the search function would make a real difference. The delivery fee also felt <span class=\"ml-token colloc\">rather steep</span> for such a short trip.\nTo win my loyalty, I'd suggest bringing in a <span class=\"ml-token colloc\">rewards scheme</span> for regular customers. Small discounts <span class=\"ml-token idiom\">go a long way</span>.\nThanks for <span class=\"ml-token idiom\">taking my feedback on board</span>.\nYours faithfully,\nBekzod Aliyev",
+    "uzSample": "<p>Hurmatli QuickBite qo'llab-quvvatlash jamoasi,</p>\n\n<p>Murojaatingiz uchun rahmat. Birinchi buyurtmam bo'yicha fikr-mulohazalarimni baham ko'rishdan mamnunman.</p>\n\n<p>Avvalo, yetkazib berish tezligi hayratlanarli edi. Ovqatim belgilangan vaqt ichida yaxshi yetib keldi va hali ham issiq edi.</p>\n\n<p>Biroq, men qadoqlash biroz nozik ekanligini payqadim, bu esa ozgina to'kilishga sabab bo'ldi. Mustahkamroq konteynerlardan foydalanish bu muammoning oldini oladi.</p>\n\n<p>Bundan tashqari, yetkazib berish narxi qisqa masofalar uchun yuqori ko'rindi. Masofaga asoslangan narxlash tizimini joriy etish adolatliroq bo'ladi.</p>\n\n<p>Bundan tashqari, tez-tez buyurtma berish uchun mukofotlar bilan sodiqlik dasturini taklif qilish, albatta, qayta buyurtma berishni rag'batlantiradi.</p>\n\n<p>Real vaqtda kuzatish funksiyasi juda yaxshi edi va juda qadrlanadi.</p>\n\n<p>Hurmat bilan,<br>Yangi mijoz</p>",
+    "uzSampleA1": "<p>Salom QuickBite!</p><br><p>Ovqat yaxshi. Tez. Ilova yaxshi.</p><br><p>Ko'proq ovqat?</p><br><p>Xayr!</p>",
+    "uzSampleA2": "<p>Salom QuickBite,</p><br><p>Men sizning ilovangizdan foydalandim. Ovqat mazali edi va tez keldi. Lekin ilovani ishlatish biroz qiyin. Men ko'proq ovqat tanlovlarini xohlayman. Va balki narxlar arzonroq bo'lishi kerak, chunki qimmat.</p><br><p>Xayr,</p><br><p>Mijoz</p>",
+    "uzSampleB1": "<p>Hurmatli QuickBite qo'llab-quvvatlash jamoasi,</p><br><p>Birinchi buyurtmam haqida so'raganingiz uchun rahmat. Yetkazib berish juda tez bo'ldi, bu menga yoqdi. Ovqat ham mazali edi.</p><br><p>Biroq, menimcha, ilova yaxshiroq bo'lishi mumkin. Menga kerakli narsani topish biroz chalkash edi. Shuningdek, yetkazib berish narxi biroz qimmat edi. Balki narxni pasaytirsangiz bo'lar?</p><br><p>Agar ilova ishlatish uchun osonroq bo'lsa va yetkazib berish bunchalik qimmat bo'lmasa, men yana buyurtma berardim. E'tiboringiz uchun rahmat.</p><br><p>Hurmat bilan,<br>Yangi mijoz</p>",
+    "uzSampleB2": "<p>Hurmatli QuickBite qo'llab-quvvatlash jamoasi,</p><br><p>Sizning xizmatingiz orqali bergan birinchi buyurtmam bo'yicha javobingiz uchun rahmat. Umuman olganda, men ijobiy tajribaga ega bo'ldim, lekin takomillashtirish bo'yicha ba'zi takliflarim ham bor.</p><br><p>Yetkazib berish tezligi maqtovga loyiq edi va ovqat belgilangan vaqt ichida yetib keldi. Biroq, menimcha, ilova interfeysi yanada intuitiv bo'lishi mumkin. Turli restoran variantlari bo'ylab harakatlanish va oshxona bo'yicha filtrlash biroz noqulay tuyuldi.</p><br><p>Bundan tashqari, yetkazib berish narxlari biroz nomutanosibdek tuyuladi, ayniqsa yaqin joylashgan muassasalar uchun. Ehtimol, masofani hisobga oladigan dinamik narxlash modelini joriy etish mijozlar ehtiyojini qondirishni yaxshilashi mumkin. Tez-tez foydalanuvchilar uchun reklama chegirmalari yoki mukofotlash dasturini taklif qilish ham takroriy buyurtmalarni rag'batlantiradi.</p><br><p>Fikrlarimni ko'rib chiqayotganingiz uchun tashakkur. QuickBite qanday rivojlanishini ko'rishni intiqlik bilan kutaman.</p><br><p>Hurmat bilan,<br>Qoniqish hosil qilgan mijoz</p>"
+   },
+   "p1_context": "You recently used a food delivery app for the first time.",
+   "p1_scenario": "Dear Valued Customer,\n\nThank you for trying QuickBite Food Delivery! We hope your first order exceeded expectations.\nHow was the delivery speed and food quality upon arrival? Was our app easy to use?\nWhat would make you a regular customer?\n\nQuickBite Support Team"
+  },
+  "examDate": "2026-02-24",
+  "settings": {
+   "logoUrl": "https://audio.mock-stream.com/img/ibb/WN0XY5Lv/logo.png",
+   "heading1": "Bilim va malakalarni baholash agentligi",
+   "heading2": "Chet tilini bilish darajasi",
+   "examTitle": "Writing exam",
+   "logoWording": "Mock Stream",
+   "testIdentifier": "mock_stream"
+  },
+  "vocabulary": {
+   "task2": [
+    {
+     "en": "food delivery apps",
+     "uz": "ovqat yetkazib berish ilovalari"
+    },
+    {
+     "en": "revolutionized",
+     "uz": "inqilob qildi"
+    },
+    {
+     "en": "valuable time savings",
+     "uz": "qimmatli vaqtni tejash"
+    },
+    {
+     "en": "efficiency",
+     "uz": "samaradorlik"
+    },
+    {
+     "en": "busy professionals",
+     "uz": "band mutaxassislar"
+    },
+    {
+     "en": "employment opportunities",
+     "uz": "ish imkoniyatlari"
+    },
+    {
+     "en": "delivery drivers",
+     "uz": "yetkazib beruvchilar"
+    },
+    {
+     "en": "legitimate service",
+     "uz": "qonuniy xizmat"
+    },
+    {
+     "en": "cooking skills",
+     "uz": "oshpazlik ko'nikmalari"
+    },
+    {
+     "en": "environmental impact",
+     "uz": "atrof-muhitga ta'sir"
+    },
+    {
+     "en": "single-use packaging",
+     "uz": "bir martalik qadoqlash"
+    },
+    {
+     "en": "moderation is key",
+     "uz": "me'yoriylik muhim"
+    },
+    {
+     "en": "problematic",
+     "uz": "muammoli"
+    },
+    {
+     "en": "home cooking",
+     "uz": "uy ovqati"
+    },
+    {
+     "en": "genuinely needed",
+     "uz": "haqiqatan kerak"
+    },
+    {
+     "en": "relying exclusively",
+     "uz": "faqat tayanish"
+    },
+    {
+     "en": "valid concerns",
+     "uz": "asosli tashvishlar"
+    },
+    {
+     "en": "support local restaurants",
+     "uz": "mahalliy restoranlarni qo'llab-quvvatlash"
+    },
+    {
+     "en": "convenience",
+     "uz": "qulaylik"
+    },
+    {
+     "en": "laziness",
+     "uz": "dangasalik"
+    }
+   ],
+   "task11": [
+    {
+     "en": "have to try",
+     "uz": "sinab ko'rishingiz kerak"
+    },
+    {
+     "en": "just ordered",
+     "uz": "endigina buyurtma qildim"
+    },
+    {
+     "en": "arrived quickly",
+     "uz": "tez yetib keldi"
+    },
+    {
+     "en": "super easy",
+     "uz": "juda oson"
+    },
+    {
+     "en": "tons of restaurants",
+     "uz": "juda ko'p restoranlar"
+    },
+    {
+     "en": "choose from",
+     "uz": "tanlamoq"
+    },
+    {
+     "en": "so convenient",
+     "uz": "juda qulay"
+    },
+    {
+     "en": "too tired",
+     "uz": "juda charchagan"
+    },
+    {
+     "en": "to cook",
+     "uz": "ovqat tayyorlash"
+    },
+    {
+     "en": "pretty fast",
+     "uz": "ancha tez"
+    },
+    {
+     "en": "good prices",
+     "uz": "yaxshi narxlar"
+    },
+    {
+     "en": "highly recommend",
+     "uz": "juda tavsiya qilaman"
+    },
+    {
+     "en": "game changer",
+     "uz": "hayotni o'zgartiruvchi"
+    },
+    {
+     "en": "no hassle",
+     "uz": "hech qanday muammo yo'q"
+    },
+    {
+     "en": "totally worth it",
+     "uz": "to'liq arziydi"
+    },
+    {
+     "en": "check it out",
+     "uz": "ko'rib chiqing"
+    },
+    {
+     "en": "let me know",
+     "uz": "menga ayting"
+    },
+    {
+     "en": "download the app",
+     "uz": "ilovani yuklab oling"
+    },
+    {
+     "en": "first order discount",
+     "uz": "birinchi buyurtma chegirmasi"
+    },
+    {
+     "en": "use promo code",
+     "uz": "promo kodni ishlating"
+    }
+   ],
+   "task12": [
+    {
+     "en": "delivery speed",
+     "uz": "yetkazib berish tezligi"
+    },
+    {
+     "en": "impressive",
+     "uz": "taassurot qoldiruvchi"
+    },
+    {
+     "en": "estimated time",
+     "uz": "taxminiy vaqt"
+    },
+    {
+     "en": "packaging",
+     "uz": "qadoqlash"
+    },
+    {
+     "en": "flimsy",
+     "uz": "yupqa"
+    },
+    {
+     "en": "minor spillage",
+     "uz": "ozgina to'kilish"
+    },
+    {
+     "en": "sturdier containers",
+     "uz": "mustahkamroq idishlar"
+    },
+    {
+     "en": "delivery fee",
+     "uz": "yetkazib berish to'lovi"
+    },
+    {
+     "en": "tiered pricing",
+     "uz": "bosqichli narxlash"
+    },
+    {
+     "en": "loyalty program",
+     "uz": "sodiqlik dasturi"
+    },
+    {
+     "en": "repeat business",
+     "uz": "takroriy biznes"
+    },
+    {
+     "en": "real-time tracking",
+     "uz": "real vaqtda kuzatish"
+    },
+    {
+     "en": "greatly appreciated",
+     "uz": "juda qadrlangan"
+    },
+    {
+     "en": "new customer",
+     "uz": "yangi mijoz"
+    },
+    {
+     "en": "kind regards",
+     "uz": "hurmat bilan"
+    },
+    {
+     "en": "reaching out",
+     "uz": "murojaat qilish"
+    },
+    {
+     "en": "still hot",
+     "uz": "hali issiq"
+    },
+    {
+     "en": "short distances",
+     "uz": "qisqa masofalar"
+    },
+    {
+     "en": "frequent orders",
+     "uz": "tez-tez buyurtmalar"
+    },
+    {
+     "en": "prevent issue",
+     "uz": "muammoni oldini olmoq"
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "app": {
+    "uz": "dastur",
+    "type": "colloc"
+   },
+   "can": {
+    "uz": "mumkin",
+    "type": "modal"
+   },
+   "may": {
+    "uz": "mumkin",
+    "type": "modal"
+   },
+   "just": {
+    "uz": "faqat",
+    "type": "adv"
+   },
+   "tons": {
+    "uz": "ko'p",
+    "type": "adv"
+   },
+   "super": {
+    "uz": "juda",
+    "type": "adv"
+   },
+   "would": {
+    "uz": "bo'lardi",
+    "type": "modal"
+   },
+   "Firstly": {
+    "uz": "Birinchidan",
+    "type": "adv"
+   },
+   "However": {
+    "uz": "Biroq",
+    "type": "adv"
+   },
+   "greatly": {
+    "uz": "juda",
+    "type": "adv"
+   },
+   "have to": {
+    "uz": "majbur bo'lmoq",
+    "type": "modal"
+   },
+   "Honestly": {
+    "uz": "Rostini aytsam",
+    "type": "adv"
+   },
+   "Moreover": {
+    "uz": "Qolaversa",
+    "type": "adv"
+   },
+   "somewhat": {
+    "uz": "bir oz",
+    "type": "adv"
+   },
+   "That said": {
+    "uz": "shunga qaramay, biroq",
+    "type": "linking"
+   },
+   "certainly": {
+    "uz": "albatta",
+    "type": "adv"
+   },
+   "packaging": {
+    "uz": "qadoqlash",
+    "type": "colloc"
+   },
+   "turned up": {
+    "uz": "yetib keldi, paydo bo'ldi",
+    "type": "phrasal"
+   },
+   "Ultimately": {
+    "uz": "Oxir-oqibat",
+    "type": "adv"
+   },
+   "efficiency": {
+    "uz": "samaradorlik",
+    "type": "colloc"
+   },
+   "got to try": {
+    "uz": "sinab ko'rishing kerak",
+    "type": "modal"
+   },
+   "impressive": {
+    "uz": "ta'sirli",
+    "type": "colloc"
+   },
+   "piping hot": {
+    "uz": "qip-qizib, jazillab turgan issiq",
+    "type": "colloc"
+   },
+   "washing up": {
+    "uz": "idish-tovoq yuvish",
+    "type": "phrasal"
+   },
+   "Furthermore": {
+    "uz": "Qolaversa",
+    "type": "adv"
+   },
+   "exclusively": {
+    "uz": "faqatgina",
+    "type": "adv"
+   },
+   "lived up to": {
+    "uz": "umidni oqladi, talabga javob berdi",
+    "type": "phrasal"
+   },
+   "problematic": {
+    "uz": "muammoli",
+    "type": "colloc"
+   },
+   "restaurants": {
+    "uz": "restoranlar",
+    "type": "colloc"
+   },
+   "Additionally": {
+    "uz": "Bundan tashqari",
+    "type": "adv"
+   },
+   "Give it a go": {
+    "uz": "bir sinab ko'r",
+    "type": "idiom"
+   },
+   "On the whole": {
+    "uz": "umuman olganda",
+    "type": "linking"
+   },
+   "delivery fee": {
+    "uz": "yetkazib berish to'lovi",
+    "type": "colloc"
+   },
+   "occasionally": {
+    "uz": "vaqti-vaqti bilan",
+    "type": "adv"
+   },
+   "rather steep": {
+    "uz": "ancha qimmat",
+    "type": "colloc"
+   },
+   "study habits": {
+    "uz": "o'qish/mashg'ulot odatlari",
+    "type": "colloc"
+   },
+   "burn kids out": {
+    "uz": "bolalarni holdan toydirmoq, charchatib yubormoq",
+    "type": "phrasal"
+   },
+   "go a long way": {
+    "uz": "katta ahamiyatga ega, ko'p yordam beradi",
+    "type": "idiom"
+   },
+   "switching off": {
+    "uz": "dam olmoq, miyani bo'shatmoq",
+    "type": "phrasal"
+   },
+   "cooking skills": {
+    "uz": "pazandalik mahorati",
+    "type": "colloc"
+   },
+   "delivery speed": {
+    "uz": "yetkazib berish tezligi",
+    "type": "colloc"
+   },
+   "estimated time": {
+    "uz": "taxminiy vaqt",
+    "type": "colloc"
+   },
+   "revolutionized": {
+    "uz": "tubdan o'zgartirdi",
+    "type": "adv"
+   },
+   "rewards scheme": {
+    "uz": "mukofot/sodiqlik dasturi",
+    "type": "colloc"
+   },
+   "tiered pricing": {
+    "uz": "bosqichli narxlar",
+    "type": "colloc"
+   },
+   "loyalty program": {
+    "uz": "sodiqlik dasturi",
+    "type": "colloc"
+   },
+   "repeat business": {
+    "uz": "qayta murojaat",
+    "type": "colloc"
+   },
+   "total lifesaver": {
+    "uz": "haqiqiy najotkor, juda qo'l keladigan narsa",
+    "type": "idiom"
+   },
+   "won't look back": {
+    "uz": "afsuslanmaysan, ortga qaramaysan",
+    "type": "idiom"
+   },
+   "On the plus side": {
+    "uz": "ijobiy tomondan",
+    "type": "linking"
+   },
+   "getting in touch": {
+    "uz": "bog'lanish, murojaat qilish",
+    "type": "phrasal"
+   },
+   "a serious rethink": {
+    "uz": "jiddiy qayta ko'rib chiqish",
+    "type": "colloc"
+   },
+   "ahead of schedule": {
+    "uz": "belgilangan vaqtdan oldin",
+    "type": "idiom"
+   },
+   "Food delivery apps": {
+    "uz": "Oziq-ovqat yetkazib berish ilovalari",
+    "type": "colloc"
+   },
+   "legitimate service": {
+    "uz": "qonuniy xizmat",
+    "type": "colloc"
+   },
+   "real-time tracking": {
+    "uz": "real vaqt rejimida kuzatish",
+    "type": "colloc"
+   },
+   "tricky to navigate": {
+    "uz": "harakatlanish/foydalanish qiyin",
+    "type": "colloc"
+   },
+   "scrapped altogether": {
+    "uz": "butunlay bekor qilinmoq",
+    "type": "phrasal"
+   },
+   "sturdier containers": {
+    "uz": "mustahkamroq idishlar",
+    "type": "colloc"
+   },
+   "environmental impact": {
+    "uz": "atrof-muhitga ta'siri",
+    "type": "colloc"
+   },
+   "single-use packaging": {
+    "uz": "bir martalik qadoqlash",
+    "type": "colloc"
+   },
+   "Quality over quantity": {
+    "uz": "sifat miqdordan muhimroq",
+    "type": "idiom"
+   },
+   "throw in my two cents": {
+    "uz": "o'z fikrimni bildirmoq",
+    "type": "idiom"
+   },
+   "valuable time savings": {
+    "uz": "vaqtni sezilarli darajada tejash",
+    "type": "colloc"
+   },
+   "employment opportunities": {
+    "uz": "ish bilan ta'minlash imkoniyatlari",
+    "type": "colloc"
+   },
+   "taking my feedback on board": {
+    "uz": "fikr-mulohazamni inobatga olish",
+    "type": "idiom"
+   },
+   "lies somewhere in the middle": {
+    "uz": "o'rtada, ikki tomon o'rtasida",
+    "type": "idiom"
+   }
+  }
+ },
+ "created_at": "2026-05-06T15:00:00.001803+00:00",
+ "updated_at": "2026-07-06T10:56:12.575305+00:00"
+}

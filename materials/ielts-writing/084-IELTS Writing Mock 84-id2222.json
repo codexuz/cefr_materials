@@ -1,0 +1,419 @@
+{
+ "id": 2222,
+ "mock_type": "ielts-writing",
+ "mock_number": 84,
+ "title": "IELTS Writing Mock 84",
+ "status": "published",
+ "mock_data": {
+  "tasks": {
+   "task1": {
+    "title": "Workers absent due to illness in five European countries, 1991–2001",
+    "prompt": "The graph below shows the percentage of workers from five different European countries that were absent for a day or more due to illness from 1991 to 2001.",
+    "wordGoal": 150,
+    "chartDesc": {
+     "title": "Percentage of workers with Illness Absence",
+     "xAxis": "Years (1991 to 2001)",
+     "yAxis": "Percentage of workers (%)",
+     "period": "1991-2001",
+     "series": [
+      {
+       "name": "Netherlands",
+       "points": [
+        {
+         "at": "1991",
+         "value": 4.9
+        },
+        {
+         "at": "1992",
+         "value": 5.55
+        },
+        {
+         "at": "1993",
+         "value": 5.45
+        },
+        {
+         "at": "1994",
+         "value": 5.2
+        },
+        {
+         "at": "1995",
+         "value": 4.85
+        },
+        {
+         "at": "1996",
+         "value": 4.3
+        },
+        {
+         "at": "1997",
+         "value": 4.6
+        },
+        {
+         "at": "1998",
+         "value": 4.8
+        },
+        {
+         "at": "1999",
+         "value": 5
+        },
+        {
+         "at": "2000",
+         "value": 5.2
+        },
+        {
+         "at": "2001",
+         "value": 5.4
+        }
+       ]
+      },
+      {
+       "name": "France",
+       "points": [
+        {
+         "at": "1991",
+         "value": 5
+        },
+        {
+         "at": "1992",
+         "value": 4.35
+        },
+        {
+         "at": "1993",
+         "value": 4.1
+        },
+        {
+         "at": "1994",
+         "value": 3.8
+        },
+        {
+         "at": "1995",
+         "value": 3.4
+        },
+        {
+         "at": "1996",
+         "value": 3.2
+        },
+        {
+         "at": "1997",
+         "value": 3.1
+        },
+        {
+         "at": "1998",
+         "value": 3
+        },
+        {
+         "at": "1999",
+         "value": 3
+        },
+        {
+         "at": "2000",
+         "value": 3
+        },
+        {
+         "at": "2001",
+         "value": 3
+        }
+       ]
+      },
+      {
+       "name": "Sweden",
+       "points": [
+        {
+         "at": "1991",
+         "value": 3
+        },
+        {
+         "at": "1992",
+         "value": 3.1
+        },
+        {
+         "at": "1993",
+         "value": 3
+        },
+        {
+         "at": "1994",
+         "value": 2.95
+        },
+        {
+         "at": "1995",
+         "value": 2.95
+        },
+        {
+         "at": "1996",
+         "value": 3.2
+        },
+        {
+         "at": "1997",
+         "value": 3.4
+        },
+        {
+         "at": "1998",
+         "value": 3.8
+        },
+        {
+         "at": "1999",
+         "value": 4.1
+        },
+        {
+         "at": "2000",
+         "value": 4.35
+        },
+        {
+         "at": "2001",
+         "value": 4.6
+        }
+       ]
+      },
+      {
+       "name": "UK",
+       "points": [
+        {
+         "at": "1991",
+         "value": 2.3
+        },
+        {
+         "at": "1992",
+         "value": 2.45
+        },
+        {
+         "at": "1993",
+         "value": 2.45
+        },
+        {
+         "at": "1994",
+         "value": 2.4
+        },
+        {
+         "at": "1995",
+         "value": 2.4
+        },
+        {
+         "at": "1996",
+         "value": 2.4
+        },
+        {
+         "at": "1997",
+         "value": 2.4
+        },
+        {
+         "at": "1998",
+         "value": 2.4
+        },
+        {
+         "at": "1999",
+         "value": 2.4
+        },
+        {
+         "at": "2000",
+         "value": 2.4
+        },
+        {
+         "at": "2001",
+         "value": 2.4
+        }
+       ]
+      },
+      {
+       "name": "Germany",
+       "points": [
+        {
+         "at": "1991",
+         "value": 1.8
+        },
+        {
+         "at": "1992",
+         "value": 1.7
+        },
+        {
+         "at": "1993",
+         "value": 1.6
+        },
+        {
+         "at": "1994",
+         "value": 1.65
+        },
+        {
+         "at": "1995",
+         "value": 1.65
+        },
+        {
+         "at": "1996",
+         "value": 1.6
+        },
+        {
+         "at": "1997",
+         "value": 1.75
+        },
+        {
+         "at": "1998",
+         "value": 1.7
+        },
+        {
+         "at": "1999",
+         "value": 1.7
+        },
+        {
+         "at": "2000",
+         "value": 1.7
+        },
+        {
+         "at": "2001",
+         "value": 1.6
+        }
+       ]
+      }
+     ],
+     "overview": "The Netherlands consistently maintained the highest percentage of illness absence throughout the period, while Germany remained the lowest. Notably, Sweden and France showed opposing trends, with Sweden rising significantly after 1996 while France declined.",
+     "chartType": "line graph",
+     "confidence": "medium",
+     "unreadable": [
+      "Exact numerical figures for individual data points are not explicitly labeled on the graph lines; values are visually estimated against the y-axis."
+     ],
+     "keyFeatures": [
+      "Netherlands peaked at around 5.55% in 1992, dipped to a low of 4.3% in 1996, and rose back to 5.4% by 2001.",
+      "France started second highest at 5.0% in 1991, then steadily declined to stabilize at 3.0% from 1998 to 2001.",
+      "Sweden overtook France around 1996 at roughly 3.2% and increased to become the second highest at 4.6% in 2001.",
+      "Germany consistently recorded the lowest absence rate, remaining between 1.6% and 1.8% over the entire period.",
+      "UK absence rates remained almost stable, fluctuating slightly between 2.3% and 2.45%."
+     ]
+    },
+    "chartType": "line_graph",
+    "dataNature": "dynamic",
+    "instruction": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+    "sampleBand5": "",
+    "sampleBand6": "",
+    "sampleBand7": "",
+    "sampleBand8": "<p>The line graph compares the proportion of employees in five European countries who took at least one day off work because of illness between 1991 and 2001.</p>\n<p>Overall, the Netherlands reported the highest level of sickness absence for most of the period, while Germany <mark>consistently</mark> had the lowest. The most striking changes were the <mark>opposing trends</mark> in France, where absence <mark>fell sharply</mark>, and Sweden, where it rose markedly, whereas the British and German figures were <mark>remarkably stable</mark>.</p>\n<p>In 1991, France and the Netherlands topped the chart at around 5%. The Dutch figure <mark>peaked at</mark> roughly 5.5% in 1992, then slid to a <mark>low point</mark> of about 4.3% in 1996 before recovering steadily to almost 5.5% by 2001. France followed the opposite path, <mark>declining steeply</mark> to about 3% by 1997 and then <mark>levelling off</mark> at that figure for the rest of the period.</p>\n<p>Sweden's rate <mark>hovered around</mark> 3% until 1995, after which it climbed strongly to reach approximately 4.6% in 2001, <mark>overtaking</mark> France in the mid-1990s. By contrast, absence in the UK barely moved from about 2.4% across the whole decade, and Germany's rate was even flatter, staying between roughly 1.6% and 1.8% throughout.</p>",
+    "sampleBand9": "",
+    "timeMinutes": 20,
+    "chartDescImg": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/84.png",
+    "sampleAnswer": "",
+    "chartImageUrl": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/84.png",
+    "uzSampleBand5": "",
+    "uzSampleBand6": "",
+    "uzSampleBand7": "",
+    "uzSampleBand8": "<p>Chiziqli grafik 1991–2001-yillarda besh Yevropa mamlakatida kasallik tufayli kamida bir kun ishga chiqmagan xodimlar ulushini solishtiradi.</p>\n<p>Umuman olganda, davrning katta qismida kasallik sababli ishga chiqmaslik darajasi eng yuqori Niderlandiyada qayd etilgan, Germaniyada esa <mark>doimiy ravishda</mark> eng past bo'lgan. Eng ko'zga tashlanadigan o'zgarishlar — Fransiyadagi <mark>keskin pasaygan</mark> va Shvetsiyadagi sezilarli o'sgan <mark>qarama-qarshi tendensiyalar</mark> bo'ldi, Britaniya va Germaniya ko'rsatkichlari esa <mark>hayratlanarli darajada barqaror</mark> qoldi.</p>\n<p>1991-yilda Fransiya va Niderlandiya taxminan 5% bilan ro'yxat boshida turgan. Gollandiya ko'rsatkichi 1992-yilda qariyb 5,5% bilan <mark>cho'qqiga chiqqan</mark>, so'ng 1996-yilda taxminan 4,3% lik <mark>eng past nuqtaga</mark> tushib, 2001-yilga qadar yana deyarli 5,5% gacha barqaror tiklangan. Fransiya buning aksi yo'lini bosib o'tdi: 1997-yilga kelib taxminan 3% gacha <mark>tik pasaydi</mark>, keyin esa davr oxirigacha shu darajada <mark>tekislanib qoldi</mark>.</p>\n<p>Shvetsiya ko'rsatkichi 1995-yilgacha 3% <mark>atrofida tebranib turdi</mark>, shundan so'ng kuchli ko'tarilib 2001-yilda taxminan 4,6% ga yetdi va 1990-yillar o'rtalarida Fransiyadan <mark>o'zib ketdi</mark>. Bundan farqli o'laroq, Buyuk Britaniyada bu ko'rsatkich butun o'n yillik davomida taxminan 2,4% dan deyarli qimirlamadi, Germaniyaniki esa undan ham tekisroq bo'lib, boshdan-oxir taxminan 1,6–1,8% oralig'ida qoldi.</p>",
+    "uzSampleBand9": "",
+    "chartDescSource": "extracted-verified-2026-08-05"
+   },
+   "task2": {
+    "title": "Compulsory yearly parenting courses",
+    "prompt": "Some people believe that the best way to ensure a happy family life for children is to require all mothers and fathers to attend parenting courses every year. To what extent do you agree or disagree?",
+    "wordGoal": 250,
+    "essayType": "opinion",
+    "instruction": "Give reasons for your answer and include any relevant examples from your own knowledge or experience.",
+    "sampleBand5": "",
+    "sampleBand6": "",
+    "sampleBand7": "",
+    "sampleBand8": "<p>Some argue that the surest route to happy family life is to make annual <mark>parenting courses</mark> <mark>compulsory</mark> for every mother and father. Although I fully support giving parents more guidance, I strongly disagree that forcing all of them onto yearly courses is the best way to achieve this.</p>\n<p>The idea does have a certain logic. Parenting is one of the few demanding jobs people take on with no training at all, and classes could spread valuable knowledge about child development, discipline and online safety. For <mark>first-time parents</mark> in particular, expert advice and the chance to share experiences with others can reduce anxiety and prevent harmful practices being passed down <mark>from one generation to the next</mark>.</p>\n<p>Nevertheless, making such courses universal and annual would be both unfair and <mark>impractical</mark>. Families differ enormously, and a single <mark>one-size-fits-all</mark> curriculum could never suit a single father of teenagers and a wealthy couple with a newborn equally well. Compelling millions of competent, loving parents to attend would waste their scarce time and public money, and might even be <mark>counterproductive</mark>: parents who feel <mark>patronised</mark> by the state are unlikely to absorb its advice. Enforcement would also be a nightmare — it is hard to imagine sanctioning busy parents for missing a class without harming the very children the policy aims to protect. Happy families, moreover, depend at least as much on income security, housing and parents' <mark>time off work</mark> as on formal instruction.</p>\n<p>In conclusion, while parenting education is valuable, it should be offered as accessible, <mark>voluntary</mark> support — especially for new or struggling parents — rather than imposed on everyone every year.</p>",
+    "sampleBand9": "",
+    "timeMinutes": 40,
+    "sampleAnswer": "",
+    "uzSampleBand5": "",
+    "uzSampleBand6": "",
+    "uzSampleBand7": "",
+    "uzSampleBand8": "<p>Ba'zilar baxtli oilaviy hayotning eng ishonchli yo'li — har bir ota va onani yiliga bir marta <mark>ota-onalik kurslaridan</mark> o'tishga <mark>majburlash</mark> deb hisoblaydi. Ota-onalarga ko'proq yo'l-yo'riq berishni to'liq qo'llab-quvvatlasam-da, ularning barchasini yillik kurslarga majburlash buning eng yaxshi yo'li degan fikrga qat'iyan qo'shilmayman.</p>\n<p>Bu g'oyada ma'lum mantiq bor. Ota-onalik — odamlar hech qanday tayyorgarliksiz zimmasiga oladigan kam sonli mas'uliyatli ishlardan biri bo'lib, darslar bola rivoji, tarbiya va internet xavfsizligi haqidagi qimmatli bilimlarni tarqata olardi. Ayniqsa <mark>ilk bor ota-ona bo'layotganlar</mark> uchun mutaxassis maslahati va boshqalar bilan tajriba almashish imkoniyati xavotirni kamaytirib, zararli odatlarning <mark>avloddan avlodga</mark> o'tishining oldini olishi mumkin.</p>\n<p>Shunga qaramay, bunday kurslarni hamma uchun va har yili majburiy qilish ham adolatsiz, ham <mark>amalga oshirish qiyin</mark> bo'lardi. Oilalar bir-biridan juda farq qiladi va yagona <mark>hammaga bir xil andozadagi</mark> dastur o'smir farzandli yolg'iz otaga ham, chaqaloqli badavlat juftlikka ham birdek mos kelishi mumkin emas. Millionlab uddaburon, mehribon ota-onalarni qatnashishga majburlash ularning tanqis vaqtini va davlat mablag'ini isrof qiladi, hatto <mark>teskari samara berishi</mark> ham mumkin: davlat tomonidan <mark>o'zini kamsitilgandek his qilgan</mark> ota-onalar uning maslahatlarini qabul qilishi dargumon. Nazorat ham dahshatli muammoga aylanardi — band ota-onalarni darsni qoldirgani uchun jazolashni, siyosat himoya qilmoqchi bo'lgan bolalarning o'ziga zarar yetkazmasdan, tasavvur qilish qiyin. Qolaversa, baxtli oilalar rasmiy ta'limdan kam bo'lmagan darajada daromad barqarorligi, uy-joy va ota-onalarning <mark>ishdan bo'sh vaqtiga</mark> ham bog'liq.</p>\n<p>Xulosa qilib aytganda, ota-onalik ta'limi qimmatli bo'lsa-da, u har yili hammaga majburan yuklanmasdan, ayniqsa yangi yoki qiynalayotgan ota-onalar uchun qulay, <mark>ixtiyoriy</mark> yordam sifatida taklif etilishi kerak.</p>",
+    "uzSampleBand9": ""
+   }
+  },
+  "source": "CDI Report",
+  "examDate": "2026-07-15",
+  "settings": {
+   "logoUrl": "https://audio.mock-stream.com/img/ibb/WN0XY5Lv/logo.png",
+   "timeInfo": "⏱ Total time: 60 minutes | Task 1: 20 min (150 words) | Task 2: 40 min (250 words)",
+   "logoWording": "Mock Stream",
+   "moduleTitle": "Academic Writing Module",
+   "testIdentifier": "IELTS Mock 84"
+  },
+  "bandLabels": {
+   "8": "Band 7.5"
+  },
+  "vocabulary": {
+   "task1": [],
+   "task2": []
+  },
+  "tokenTranslations": {
+   "low point": {
+    "uz": "eng past nuqta",
+    "type": "noun phrase"
+   },
+   "peaked at": {
+    "uz": "...da cho'qqiga chiqdi",
+    "type": "colloc"
+   },
+   "voluntary": {
+    "uz": "ixtiyoriy",
+    "type": "adj"
+   },
+   "compulsory": {
+    "uz": "majburiy",
+    "type": "adj"
+   },
+   "overtaking": {
+    "uz": "o'zib ketish",
+    "type": "verb"
+   },
+   "patronised": {
+    "uz": "kamsitilgandek munosabat ko'rgan",
+    "type": "adj"
+   },
+   "impractical": {
+    "uz": "amalga oshirish qiyin, noamaliy",
+    "type": "adj"
+   },
+   "consistently": {
+    "uz": "doimiy ravishda, izchil",
+    "type": "adverb"
+   },
+   "fell sharply": {
+    "uz": "keskin pasaydi",
+    "type": "colloc"
+   },
+   "levelling off": {
+    "uz": "tekislanib qolish, barqarorlashish",
+    "type": "phrasal"
+   },
+   "time off work": {
+    "uz": "ishdan bo'sh vaqt",
+    "type": "noun phrase"
+   },
+   "hovered around": {
+    "uz": "...atrofida tebranib turdi",
+    "type": "colloc"
+   },
+   "opposing trends": {
+    "uz": "qarama-qarshi tendensiyalar",
+    "type": "noun phrase"
+   },
+   "counterproductive": {
+    "uz": "teskari samara beradigan",
+    "type": "adj"
+   },
+   "declining steeply": {
+    "uz": "tik pasayish",
+    "type": "colloc"
+   },
+   "one-size-fits-all": {
+    "uz": "hammaga bir xil andozadagi",
+    "type": "adj"
+   },
+   "parenting courses": {
+    "uz": "ota-onalik kurslari",
+    "type": "noun phrase"
+   },
+   "remarkably stable": {
+    "uz": "hayratlanarli darajada barqaror",
+    "type": "colloc"
+   },
+   "first-time parents": {
+    "uz": "ilk bor ota-ona bo'layotganlar",
+    "type": "noun phrase"
+   },
+   "from one generation to the next": {
+    "uz": "avloddan avlodga",
+    "type": "colloc"
+   }
+  }
+ },
+ "created_at": "2026-07-21T14:51:15.057942+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

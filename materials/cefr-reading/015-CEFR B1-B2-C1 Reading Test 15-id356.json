@@ -1,0 +1,796 @@
+{
+ "id": 356,
+ "mock_type": "cefr-reading",
+ "mock_number": 15,
+ "title": "CEFR B1-B2-C1 Reading Test 15",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "gap-fill-text",
+    "title": "Part 1",
+    "answers": {
+     "1": [
+      "ink"
+     ],
+     "2": [
+      "North"
+     ],
+     "3": [
+      "bottle",
+      "it",
+      "message"
+     ],
+     "4": [
+      "museum"
+     ],
+     "5": [
+      "found"
+     ],
+     "6": [
+      "letter"
+     ]
+    },
+    "passage": {
+     "title": "Message in the Bottle",
+     "content": "<p>More than 110 years ago a young woman named Sofia Nielsen was walking on the seaside of the North Sea. During the trip, she got a crazy idea. She wrote a message with the <span class=\"gap\" data-gap=\"1\">_____(1)_____</span>, put it in a green bottle and threw the bottle into the <span class=\"gap\" data-gap=\"2\">_____(2)_____</span> Sea. What she didn't know is that <span class=\"gap\" data-gap=\"3\">_____(3)_____</span> would survive so long. Last week, a Danish fisherman found Nielsen's bottle when he was on his everyday fishing trip. He carried it to a museum.</p><p>The historians in the <span class=\"gap\" data-gap=\"4\">_____(4)_____</span> discovered that it's the historic message in the bottle in the world! They also <span class=\"gap\" data-gap=\"5\">_____(5)_____</span> Nielsen's grandson, Malthe who is now 72 years old. He lives in Copenhagen and never met his grandmother who died in 1940. What did the bottle contain? Well, there was a letter inside. Nielsen asked the finder to return it to his home address in Copenhagen. They couldn't read the rest of the <span class=\"gap\" data-gap=\"6\">_____(6)_____</span> because some water got inside and damaged the ink. But it didn't stop the specialists. They're trying to figure out the entire letter and hope it'll be possible to read it soon.</p>"
+    },
+    "questions": [
+     {
+      "id": 1,
+      "hint": "wrote a message with the _____"
+     },
+     {
+      "id": 2,
+      "hint": "threw the bottle into the _____ Sea"
+     },
+     {
+      "id": 3,
+      "hint": "didn't know is that _____ would survive"
+     },
+     {
+      "id": 4,
+      "hint": "historians in the _____"
+     },
+     {
+      "id": 5,
+      "hint": "They also _____ Nielsen's grandson"
+     },
+     {
+      "id": 6,
+      "hint": "read the rest of the _____"
+     }
+    ],
+    "partNumber": 1,
+    "instruction": "Read the text. Fill in each gap with ONE word. You must use a word which is somewhere in the rest of the text.",
+    "explanations": {
+     "q1": {
+      "text": "The end of the passage explains that water got inside the bottle and damaged the ink. This tells us what the message was written with. That's why the correct answer is 'ink'.",
+      "quote": "They couldn't read the rest of the _____(6)_____ because some water got inside and damaged the ink."
+     },
+     "q2": {
+      "text": "The first sentence states that Sofia Nielsen was walking beside the North Sea. This is the sea where she threw the bottle. That's why the correct answer is 'North'.",
+      "quote": "More than 110 years ago a young woman named Sofia Nielsen was walking on the seaside of the North Sea."
+     },
+     "q3": {
+      "text": "Sofia put a message in a bottle and threw it into the sea. The story is about this object being found many years later, which means it survived. That's why the correct answer is 'bottle' or 'it'.",
+      "quote": "Last week, a Danish fisherman found Nielsen's bottle when he was on his everyday fishing trip."
+     },
+     "q4": {
+      "text": "The fisherman took the bottle to a museum. The next sentence mentions the historians who were working in that specific place. That's why the correct answer is 'museum'.",
+      "quote": "He carried it to a museum. The historians in the _____(4)_____ discovered that it's the historic message in the bottle in the world!"
+     },
+     "q5": {
+      "text": "After the historians discovered the bottle was historic, they located a living relative of Sofia Nielsen. The verb that best describes this action is 'found'. That's why the correct answer is 'found'.",
+      "quote": "They also _____(5)_____ Nielsen's grandson, Malthe who is now 72 years old."
+     },
+     "q6": {
+      "text": "The passage clearly states that the bottle contained a letter. The water damage made it difficult to read this specific item. That's why the correct answer is 'letter'.",
+      "quote": "Well, there was a letter inside."
+     }
+    },
+    "questionRange": "1-6"
+   },
+   {
+    "type": "matching",
+    "texts": [
+     {
+      "title": "Affordable Moving",
+      "number": 7,
+      "content": "The best move you can make. Local. Overseas shipping. Long distance. Storage. Packing. Family owned and operated. Call for your free estimate. Professional moving at an affordable rate. 24 hours, 7 days a week. Call 277 4086."
+     },
+     {
+      "title": "U Drive One Way Truck Rental",
+      "number": 8,
+      "content": "GUARANTEED NEW MODEL VEHICLES. FREE ROADSIDE ASSISTANCE. GUARANTEED RESERVATIONS. All trucks include: Diesel engine, Air conditioning, Automatic transmission, Walk up ramps, Am/Fm cassette. Move yourself and save. Low rate by the day, week or longer. Furniture pads and dollies. Mini storage available."
+     },
+     {
+      "title": "Professional Relocation Services",
+      "number": 9,
+      "content": "WORLD WIDE MOVING. FROM A SINGLE ITEM TO A FULL HOUSE. Free, no obligation consultation. Free written estimate to or from anywhere in the world. Special service for cars. Shared rates to and from Australia, Hong Kong, Japan, North America, UK. Packing crates, storage, customs bonded carrier. TOLL FREE 18999601847."
+     },
+     {
+      "title": "Al's Junk and Moving Express",
+      "number": 10,
+      "content": "Pick up furniture or small household items. Need a small truck to move? Cleaning up a yard? Get rid of that junk! Serving the local area 7341-8345."
+     },
+     {
+      "title": "GET MOVING",
+      "number": 11,
+      "content": "Car and Truck Rental. Move yourself and save. 7 days a week, commercial rates. 2 and 4-hour specialists. Low rates by the day, week or longer. Furniture pads and dollies. Heavy duty specs, for commercial use. Cube vans, flat decks, moving vans, pick ups and panels. Mini-storage available. For reservation call 641-8193."
+     },
+     {
+      "title": "Blue Star",
+      "number": 12,
+      "content": "TAXI TRUCKS, REMOVALS, STORAGE. FOR ALL YOUR MOVING NEEDS. On time, On budget, On location. Full range of taxi truck services – 2 tons to 12 van or tray. Guaranteed pick up within 2-3 hours, all suburbs 24 hours a day, 7 days a week. We take responsibility for, and insure, your goods. Modern fully equipped vehicles complete with safety handling equipment. Vehicles have furniture pads, tailgate loaders. Billiard table? Piano? Freezer? Large pieces of furniture? Awkward locations? No problem – our drivers and assistants are specialists. Booking is easy and fast Tel 9807012."
+     },
+     {
+      "title": "Vanline Moving",
+      "number": 13,
+      "content": "Do you need to move urgently or the same day due to work or having a short notice to move? Last-minute moving service is inclusive of services: packing, loading, unloading. Experts will handle your last distance move from start to end, which means packing to unloading. Customized moving plans by the experts will make your move smooth. We have moving companies specialized in long-distance, local, and commercial last-minute moves. Call 98211663 and book our service."
+     },
+     {
+      "title": "AIR MOVING",
+      "number": 14,
+      "content": "Helicopter and small planes. Move your items by air. Fast and safe moving. Affordable prices. Move to the locations out of reach for cars. Packing service not available. Reserve at least 1 week in advance, call 5589446."
+     }
+    ],
+    "title": "Part 2",
+    "answers": {
+     "7": [
+      "E"
+     ],
+     "8": [
+      "J"
+     ],
+     "9": [
+      "B"
+     ],
+     "10": [
+      "G"
+     ],
+     "11": [
+      "F"
+     ],
+     "12": [
+      "A"
+     ],
+     "13": [
+      "H"
+     ],
+     "14": [
+      "C"
+     ]
+    },
+    "questions": [
+     {
+      "id": 7,
+      "textNumber": 7
+     },
+     {
+      "id": 8,
+      "textNumber": 8
+     },
+     {
+      "id": 9,
+      "textNumber": 9
+     },
+     {
+      "id": 10,
+      "textNumber": 10
+     },
+     {
+      "id": 11,
+      "textNumber": 11
+     },
+     {
+      "id": 12,
+      "textNumber": 12
+     },
+     {
+      "id": 13,
+      "textNumber": 13
+     },
+     {
+      "id": 14,
+      "textNumber": 14
+     }
+    ],
+    "partNumber": 2,
+    "statements": [
+     {
+      "text": "You have just bought a piano and need delivery to your second floor apartment.",
+      "letter": "A"
+     },
+     {
+      "text": "You are immigrating to England, with all your household goods plus a car.",
+      "letter": "B"
+     },
+     {
+      "text": "You have bought a house on an island and you want to move your things there from the mainland.",
+      "letter": "C"
+     },
+     {
+      "text": "You need fast service to deliver to your house a sofa you just bought.",
+      "letter": "D"
+     },
+     {
+      "text": "You want an inexpensive service to help you move and store apartment furniture.",
+      "letter": "E"
+     },
+     {
+      "text": "You are moving house and need a truck for a few hours which you will load and drive.",
+      "letter": "F"
+     },
+     {
+      "text": "You need to remove some old unnecessary things.",
+      "letter": "G"
+     },
+     {
+      "text": "You need someone experienced to advise you on how to move.",
+      "letter": "H"
+     },
+     {
+      "text": "You want a moving company owned by the Chinese.",
+      "letter": "I"
+     },
+     {
+      "text": "You got a job in another city. You want to rent a truck to move your household goods by yourself, one way only.",
+      "letter": "J"
+     }
+    ],
+    "instruction": "Read the texts 1-8 and the statements A-J. Decide which text matches with the situation described in the statements. Each statement can be used ONCE only. There are TWO extra statements which you do not need to use.",
+    "explanations": {
+     "q7": {
+      "text": "This service offers moving and storage at a low price, which is ideal for someone needing to move and store apartment furniture inexpensively. That's why the correct answer is E.",
+      "quote": "Professional moving at an affordable rate."
+     },
+     "q8": {
+      "text": "This company rents trucks for people who want to transport their own belongings to save money. This is a good option for someone moving to another city for a new job. That's why the correct answer is J.",
+      "quote": "Move yourself and save."
+     },
+     "q9": {
+      "text": "This company offers international moving for entire households and also has a special service for cars. They ship to the UK, which is where England is located. That's why the correct answer is B.",
+      "quote": "Special service for cars."
+     },
+     "q10": {
+      "text": "This service is for small local jobs, including cleaning up and removing unwanted items. The advertisement specifically mentions getting rid of junk. That's why the correct answer is G.",
+      "quote": "Get rid of that junk!"
+     },
+     "q11": {
+      "text": "This company rents trucks for short periods, as they are \"2 and 4-hour specialists.\" It is a \"move yourself\" service, meaning you load and drive the truck yourself. That's why the correct answer is F.",
+      "quote": "2 and 4-hour specialists."
+     },
+     "q12": {
+      "text": "This moving service explicitly states they can handle large, difficult items like a piano. They are also specialists in dealing with \"awkward locations,\" such as a second-floor apartment. That's why the correct answer is A.",
+      "quote": "Billiard table? Piano? Freezer? Large pieces of furniture? Awkward locations? No problem – our drivers and assistants are specialists."
+     },
+     "q13": {
+      "text": "This company provides \"experts\" who create \"customized moving plans\" to ensure a smooth move. This means they offer experienced advice and planning for your specific situation. That's why the correct answer is H.",
+      "quote": "Customized moving plans by the experts will make your move smooth."
+     },
+     "q14": {
+      "text": "This service uses helicopters and small planes to move items to places that cars cannot get to. An island is a perfect example of such a location. That's why the correct answer is C.",
+      "quote": "Move to the locations out of reach for cars."
+     }
+    },
+    "questionRange": "7-14",
+    "extraStatements": [
+     "D",
+     "I"
+    ],
+    "statementsFirst": true
+   },
+   {
+    "type": "matching-headings",
+    "title": "Part 3",
+    "answers": {
+     "15": [
+      "B"
+     ],
+     "16": [
+      "D"
+     ],
+     "17": [
+      "G"
+     ],
+     "18": [
+      "C"
+     ],
+     "19": [
+      "F"
+     ],
+     "20": [
+      "A"
+     ]
+    },
+    "passage": {
+     "title": "Flamingos",
+     "paragraphs": [
+      {
+       "number": "I",
+       "content": "Flamingos are very social and often live in large groups, called colonies throughout the world. They are found in both the Eastern and Western hemispheres. The American Flamingo is the only one that lives in the wild North America, and on many Caribbean islands such as the Bahamas, Cuba and Hispaniola. It also lives in northern South America, the Galapagos Islands, and parts of Mexico.",
+       "questionId": 15
+      },
+      {
+       "number": "II",
+       "content": "Flamingos fish while walking in shallow water and mud. When a flamingo notices its potential dinner (for example, shrimp, snails, and plantlike water organisms), it plunges its head into the water, twists its head ups down, and scoops the fish up using its upper beak like a shovel. Flamingos get their pink coloring from the carotenoid pigment in their food, which the same pigment that makes carrots orange.",
+       "questionId": 16
+      },
+      {
+       "number": "III",
+       "content": "Flamingos build nests that look like mounds of mud along waterways. The parents take turns sitting on the egg to keep it warm and after about 30 days the egg hatches. Young flamingos are born white, with soft, downy feathers and a straight bill. Both adult birds look after the newborn flamingo. The young leave the nest after about five days to join other young flamingos in small groups, returning to their parents for food.",
+       "questionId": 17
+      },
+      {
+       "number": "IV",
+       "content": "Scientists aren't 100% sure why flamingos stand on one leg, but they have some theories. One theory says that it is to keep one leg warm. Another idea is that flamingos are drying out one leg at a time. A third theory states that it helps them deceive their catch, because one leg looks more like a plant than do two. Whatever the reason, it is truly amazing that these top heavy birds can balance on one leg for hours at a time.",
+       "questionId": 18
+      },
+      {
+       "number": "V",
+       "content": "Ancient Egyptians believed that flamingos were the living representation of the god Ra. In the Americas, the Moche people of ancient Peru worshipped nature and paid a great deal of attention to these birds and often depicted flamingos in their art. However, Andean miners killed flamingos for their fat, which is believed to be a remedy for tuberculosis, and in Ancient Rome their tongues were considered a delicacy.",
+       "questionId": 19
+      },
+      {
+       "number": "VI",
+       "content": "Many people have plastic flamingos in their yards as ornaments. This is a fun and inexpensive way to add some elegance to one's landscaping. In many parts of the world flamingos are popular collectibles, appearing in the form of magnets, water globes, and jewelry. They are also said to be an image that people find to be calming and exciting at the same time. For these purposes people buy millions of plastic flamingos annually all around the world.",
+       "questionId": 20
+      }
+     ]
+    },
+    "headings": [
+     {
+      "text": "How people started to collect their images",
+      "letter": "A"
+     },
+     {
+      "text": "Where they live",
+      "letter": "B"
+     },
+     {
+      "text": "How they confuse the scientists",
+      "letter": "C"
+     },
+     {
+      "text": "How they get their food",
+      "letter": "D"
+     },
+     {
+      "text": "What endangers them",
+      "letter": "E"
+     },
+     {
+      "text": "How people used to treat them",
+      "letter": "F"
+     },
+     {
+      "text": "How they breed",
+      "letter": "G"
+     },
+     {
+      "text": "How they scare the people",
+      "letter": "H"
+     }
+    ],
+    "questions": [
+     {
+      "id": 15,
+      "paragraphNumber": "I"
+     },
+     {
+      "id": 16,
+      "paragraphNumber": "II"
+     },
+     {
+      "id": 17,
+      "paragraphNumber": "III"
+     },
+     {
+      "id": 18,
+      "paragraphNumber": "IV"
+     },
+     {
+      "id": 19,
+      "paragraphNumber": "V"
+     },
+     {
+      "id": 20,
+      "paragraphNumber": "VI"
+     }
+    ],
+    "partNumber": 3,
+    "instruction": "Read the text and choose the correct heading for each paragraph from the list of headings below. There are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once.",
+    "explanations": {
+     "q15": {
+      "text": "This paragraph lists the various geographical locations where flamingos live, such as continents, countries, and islands. This information is about their habitat and distribution, which is why the correct answer is B.",
+      "quote": "They are found in both the Eastern and Western hemispheres."
+     },
+     "q16": {
+      "text": "The paragraph describes the specific technique flamingos use to catch their food, including plunging their heads into the water and using their beaks like a shovel. This explains their feeding method, so the correct answer is D.",
+      "quote": "When a flamingo notices its potential dinner (for example, shrimp, snails, and plantlike water organisms), it plunges its head into the water, twists its head ups down, and scoops the fish up using its upper beak like a shovel."
+     },
+     "q17": {
+      "text": "This section details the flamingo reproductive process, from building nests and incubating eggs to raising the young chicks after they hatch. This is all about their breeding habits, which is why the correct answer is G.",
+      "quote": "The parents take turns sitting on the egg to keep it warm and after about 30 days the egg hatches."
+     },
+     "q18": {
+      "text": "The paragraph explicitly states that scientists are uncertain about why flamingos stand on one leg and lists several unproven theories. This lack of a definitive answer shows how the birds confuse scientists, so the correct answer is C.",
+      "quote": "Scientists aren't 100% sure why flamingos stand on one leg, but they have some theories."
+     },
+     "q19": {
+      "text": "This paragraph describes how different ancient cultures interacted with flamingos, from worshipping them as gods to killing them for their fat or tongues. This explains how people treated them in the past, so the correct answer is F.",
+      "quote": "However, Andean miners killed flamingos for their fat, which is believed to be a remedy for tuberculosis, and in Ancient Rome their tongues were considered a delicacy."
+     },
+     "q20": {
+      "text": "The paragraph discusses the modern popularity of flamingo-themed items, such as yard ornaments, magnets, and jewelry. This describes the trend of collecting items with their image, which is why the correct answer is A.",
+      "quote": "In many parts of the world flamingos are popular collectibles, appearing in the form of magnets, water globes, and jewelry."
+     }
+    },
+    "extraHeadings": [
+     "E",
+     "H"
+    ],
+    "questionRange": "15-20"
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 4",
+    "answers": {
+     "21": [
+      "B",
+      "offers protection"
+     ],
+     "22": [
+      "C",
+      "not as serious for Katy's business as it could have been."
+     ],
+     "23": [
+      "A",
+      "relaxed"
+     ],
+     "24": [
+      "B",
+      "people don't think of the results of their actions online."
+     ],
+     "25": [
+      "True"
+     ],
+     "26": [
+      "Not Given"
+     ],
+     "27": [
+      "False"
+     ],
+     "28": [
+      "False"
+     ],
+     "29": [
+      "True"
+     ]
+    },
+    "passage": {
+     "title": "BE WEB WISE",
+     "content": "<p><strong>Protect your computer, by all means, but don't forget to protect yourself, advises web safety expert, Amanda Knox.</strong></p><p>We're always being urged to stay safe online. But in an era where the internet is part of our everyday lives for work, fun, study, shopping, even managing finances it's not always easy to spot the dangers. Web safety expert, Amanda Knox, explores some of the issues lurking in cyberspace. Her first piece of advice is to install software and a firewall to protect your computer from viruses, hackers and criminals who want to steal your data or financial information. \"Think of these as your first line of defense,\" says Amanda.</p><p>So much for protecting yourself against intruders, but what about other problems? Say you've accidentally deleted an important file or you've been at the mercy of a natural disaster. Katy Marsh runs an online photography business from home and when a fire destroyed part of her house it could easily have spelled ruin for her business too. \"Luckily I keep a regular back-up of my data so it wasn't a catastrophe.\" Amanda advises that while back-ups are good to have we must ensure we protect our computers to start with. Whilst most of us are aware of the need to protect our computers, it seems we're more lax when it comes to looking out for ourselves, at least according to a recent web awareness survey. Web safety specialists say better personal awareness is needed and this is due in part to the rise of 'Social Networking' sites like 'Facebook' or 'Twitter', which allow us to connect with people around the world with similar interests and professional backgrounds.</p><p>Chris Simpson, a computer programmer, learnt the hard way. \"I joined a free online networking group in the hope of making some professional contacts to help me find a new job. After a month; one of my online contacts invited me to take out a subscription to a club that promised access to a network of job recruiters. It turned out to be a waste of money! I ended up a laughing stock with my mates – they couldn't believe that someone in my job could get taken in so easily.\" No wonder then that Amanda warns, \"It's easy to get complacent and let our guard down when we meet someone with the same interests online.\"</p><p>This brings us to other potential pitfalls. Are the people you meet online who they really claim to be? Can you be sure the person you're chatting with is in fact a 22-year-old Maths undergraduate from London and not someone merely masquerading as a student to win your trust? Khaled, a postgrad from Manchester University, quickly realized that it was unwise of him to post his phone number and email address in the public forum of an online academic discussion group. He was soon bombarded with unwanted emails and nuisance phone calls. Yet, it's astonishing how many highly educated people do this without considering the consequences that anyone in the world could use the information to make (unwanted) contact.</p><p>When networking and joining online communities it's better to be cautious about the amount of personal information you share. For example, it isn't always necessary to use your real name as a username when registering for a service. You could instead use a pseudonym, or a name that doesn't give away your real identity to other users. And is it really important to tell the world details about your school, college or any local clubs you're a member of? Sometimes it pays to be a little vague and simply say something like \"I'm studying at college in Madrid at the moment and I'm a member of a local tennis club\".</p>"
+    },
+    "partNumber": 4,
+    "instruction": "Read the following text for questions 21-29.",
+    "explanations": {
+     "q21": {
+      "text": "The passage advises installing software and a firewall to protect your computer. These protective measures are then referred to as the \"first line of defense,\" directly linking the phrase to offering protection. That's why the correct answer is B.",
+      "quote": "Her first piece of advice is to install software and a firewall to protect your computer from viruses, hackers and criminals who want to steal your data or financial information."
+     },
+     "q22": {
+      "text": "The fire could have ruined Katy's business, but because she had a data backup, the situation \"wasn't a catastrophe.\" This means the damage was much less severe than it could have been. That's why the correct answer is C.",
+      "quote": "Luckily I keep a regular back-up of my data so it wasn't a catastrophe."
+     },
+     "q23": {
+      "text": "The passage cites a survey finding that people are \"more lax\" about their personal safety online. The word \"lax\" means not being careful or strict, which is very similar to being relaxed or careless. That's why the correct answer is A.",
+      "quote": "Whilst most of us are aware of the need to protect our computers, it seems we're more lax when it comes to looking out for ourselves, at least according to a recent web awareness survey."
+     },
+     "q24": {
+      "text": "After describing Khaled's situation, the writer expresses surprise that educated people share personal details \"without considering the consequences.\" This shows astonishment at people not thinking about the results of their online actions. That's why the correct answer is B.",
+      "quote": "Yet, it's astonishing how many highly educated people do this without considering the consequences that anyone in the world could use the information to make (unwanted) contact."
+     },
+     "q25": {
+      "text": "The passage details numerous online dangers, including viruses, hackers, financial scams, and unwanted personal contact. These examples show that the internet can negatively affect people's safety in various ways. That's why the correct answer is True.",
+      "quote": "But in an era where the internet is part of our everyday lives for work, fun, study, shopping, even managing finances it's not always easy to spot the dangers."
+     },
+     "q26": {
+      "text": "The text states that hackers want to \"steal your data or financial information,\" but it does not mention what they do with it afterwards. There is no information about them selling it to third parties. That's why the correct answer is Not Given.",
+      "quote": "Her first piece of advice is to install software and a firewall to protect your computer from viruses, hackers and criminals who want to steal your data or financial information."
+     },
+     "q27": {
+      "text": "This statement is false because Katy had protected her business materials. She says she kept a \"regular back-up\" of her data, which prevented the fire from being a catastrophe and allowed her to recover. That's why the correct answer is False.",
+      "quote": "Luckily I keep a regular back-up of my data so it wasn't a catastrophe."
+     },
+     "q28": {
+      "text": "This statement is false. Chris Simpson's online contact tricked him into paying for a useless subscription, which he describes as \"a waste of money.\" He did not find a job through this person. That's why the correct answer is False.",
+      "quote": "It turned out to be a waste of money! I ended up a laughing stock with my mates – they couldn't believe that someone in my job could get taken in so easily."
+     },
+     "q29": {
+      "text": "The author suggests being \"cautious about the amount of personal information you share.\" Specific advice includes using a pseudonym and being vague about personal details to protect your identity online. That's why the correct answer is True.",
+      "quote": "When networking and joining online communities it's better to be cautious about the amount of personal information you share."
+     }
+    },
+    "questionRange": "21-29",
+    "questionSections": [
+     {
+      "type": "mcq",
+      "title": "Questions 21-24: Multiple Choice",
+      "questions": [
+       {
+        "id": 21,
+        "text": "In the second paragraph the phrase \"first line of defence\" suggests something",
+        "options": [
+         {
+          "text": "is the only option",
+          "letter": "A"
+         },
+         {
+          "text": "offers protection",
+          "letter": "B"
+         },
+         {
+          "text": "is an instruction",
+          "letter": "C"
+         },
+         {
+          "text": "shows weakness",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 22,
+        "text": "The effect of the fire was",
+        "options": [
+         {
+          "text": "worse for Katy's business than her home.",
+          "letter": "A"
+         },
+         {
+          "text": "to ruin Katy's business.",
+          "letter": "B"
+         },
+         {
+          "text": "not as serious for Katy's business as it could have been.",
+          "letter": "C"
+         },
+         {
+          "text": "to make Katy start to back up her data.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 23,
+        "text": "According to the web awareness survey, our attitude to our personal safety is rather",
+        "options": [
+         {
+          "text": "relaxed",
+          "letter": "A"
+         },
+         {
+          "text": "concerned",
+          "letter": "B"
+         },
+         {
+          "text": "positive",
+          "letter": "C"
+         },
+         {
+          "text": "uncertain",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 24,
+        "text": "Regarding Khaled's experience the writer is surprised that",
+        "options": [
+         {
+          "text": "people telephone complete strangers.",
+          "letter": "A"
+         },
+         {
+          "text": "people don't think of the results of their actions online.",
+          "letter": "B"
+         },
+         {
+          "text": "university students take part in online discussions.",
+          "letter": "C"
+         },
+         {
+          "text": "people sent emails to Khaled without asking permission.",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "For questions 21-24, choose the correct answer A, B, C, or D."
+     },
+     {
+      "type": "tfni",
+      "title": "Questions 25-29: True/False/Not Given",
+      "options": [
+       "True",
+       "False",
+       "Not Given"
+      ],
+      "questions": [
+       {
+        "id": 25,
+        "text": "The spread of the internet may affect adversely the safety of people in many different ways."
+       },
+       {
+        "id": 26,
+        "text": "The main aim of hackers is to sell your financial information to third parties."
+       },
+       {
+        "id": 27,
+        "text": "For Katy, it was impossible to restore any materials related to her business after the fire."
+       },
+       {
+        "id": 28,
+        "text": "Simpson was lucky to find a new job with the help of his online contact."
+       },
+       {
+        "id": 29,
+        "text": "The author advises avoiding sharing accurate personal information on the internet to be safe."
+       }
+      ],
+      "instruction": "For questions 25-29, decide if the following statements agree with the information given in the text."
+     }
+    ]
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 5",
+    "answers": {
+     "30": [
+      "skin",
+      "skins"
+     ],
+     "31": [
+      "clues"
+     ],
+     "32": [
+      "stress"
+     ],
+     "33": [
+      "lights"
+     ],
+     "34": [
+      "D",
+      "There may be many causes of certain body behavior."
+     ],
+     "35": [
+      "B",
+      "To show the relation between true emotions and body behavior."
+     ]
+    },
+    "passage": {
+     "title": "How to Spot a Liar",
+     "content": "<p>However much we may abhor it, deception comes naturally to all living things. Birds do it by feigning injury to lead hungry predators away from nesting young. Spider crabs do it by disguise: adorning themselves with strips of kelp and other debris, they pretend to be something they are not – and so escape their enemies. Nature amply rewards successful deceivers by allowing them to survive long enough to mate and reproduce. So it may come as no surprise to learn that human beings – who, according to psychologist Gerald Johnson of the University of South California, or lied to about 200 times a day, roughly one untruth every 5 minutes – often deceive for exactly the same reasons: to save their own skins or to get something they can't get by other means.</p><p>But knowing how to catch deceit can be just as important a survival skill as knowing how to tell a lie and get away with it. A person able to spot falsehood quickly is unlikely to be swindled by an unscrupulous business associate or hoodwinked by a devious spouse. Luckily, nature provides more than enough clues to trap dissemblers in their own tangled webs – if you know where to look. By closely observing facial expressions, body language and tone of voice, practically anyone can recognize the tell-tale signs of lying. Researchers are even programming computers – like those used on Lie Detector – to get at the truth by analyzing the same physical cues available to the naked eye and ear. \"With the proper training, many people can learn to reliably detect lies,\" says Paul Ekman, professor of psychology at the University of California, San Francisco, who has spent the past 15 years studying the secret art of deception.</p><p>In order to know what kind of lies work best, successful liars need to accurately assess other people's emotional states. Ekman's research shows that this same emotional intelligence is essential for good lie detectors, too. The emotional state to watch out for is stress, the conflict most liars feel between the truth and what they actually say and do.</p><p>Even high-tech lie detectors don't detect lies as such, they merely detect the physical cues of emotions, which may or may not correspond to what the person being tested is saying. Polygraphs, for instance, measure respiration, heart rate and skin conductivity, which tend to increase when people are nervous – as they usually are when lying. Nervous people typically perspire, and the salts contained in perspiration conducts electricity. That's why sudden leap in skin conductivity indicates nervousness – about getting caught, perhaps – which makes, in turn, suggest that someone is being economical with the truth. On the other hand, it might also mean that the lights in the television studio are too hot – which is one reason polygraph tests are inadmissible in court.</p><p>\"Good lie detectors don't rely on a single thing\" says Ekman, \"but interpret clusters of verbal and non-verbal clues that suggest someone might be lying.\" The clues are written all over the face. Because the musculature of the face is directly connected to the areas of the brain that processes emotion, the countenance can be a window to the soul. Neurological studies even suggest that genuine emotions travel different pathways through the brain than insincere ones. If a patient paralyzed by stroke on one side of the face, for example, is asked to smile deliberately, only the mobile side of the mouth is raised. But tell that same person a funny joke, and the patient breaks into a full and spontaneous smile. Very few people – most notably, actors and politicians – are able to consciously control all of their facial expressions. Lies can often be caught when the liars' true feelings briefly leak through the mask of deception. We don't think before we feel, Ekman says. \"Expressions tend to show up on the face before we're even conscious of experiencing an emotion.\"</p>"
+    },
+    "partNumber": 5,
+    "instruction": "Read the following text for questions 30-35.",
+    "explanations": {
+     "q30": {
+      "text": "The passage states that humans often lie for the same reasons as animals in nature, which is to protect themselves. This is expressed by the idiom 'to save their own skins.' That's why the correct answer is 'skins'.",
+      "quote": "So it may come as no surprise to learn that human beings – who, according to psychologist Gerald Johnson of the University of South California, or lied to about 200 times a day, roughly one untruth every 5 minutes – often deceive for exactly the same reasons: to save their own skins or to get something they can't get by other means."
+     },
+     "q31": {
+      "text": "The passage explains that nature provides ways to identify liars. It explicitly states that there are 'more than enough clues' to observe if you know what to look for. That's why the correct answer is 'clues'.",
+      "quote": "Luckily, nature provides more than enough clues to trap dissemblers in their own tangled webs – if you know where to look."
+     },
+     "q32": {
+      "text": "The passage identifies a key emotional state to watch for when trying to detect a lie. This state is the internal conflict a liar feels, which is defined as stress. That's why the correct answer is 'stress'.",
+      "quote": "The emotional state to watch out for is stress, the conflict most liars feel between the truth and what they actually say and do."
+     },
+     "q33": {
+      "text": "The passage explains why polygraph tests are inadmissible in court by giving an example. A person's nervousness could be caused by hot studio lights, not just by lying. That's why the correct answer is 'lights'.",
+      "quote": "On the other hand, it might also mean that the lights in the television studio are too hot – which is one reason polygraph tests are inadmissible in court."
+     },
+     "q34": {
+      "text": "The passage states that lie detectors only measure physical signs of emotion, like nervousness, not lies themselves. These physical signs can have other causes besides deception, such as hot lights. That's why the correct answer is D.",
+      "quote": "Even high-tech lie detectors don't detect lies as such, they merely detect the physical cues of emotions, which may or may not correspond to what the person being tested is saying."
+     },
+     "q35": {
+      "text": "The author uses the patient to show that genuine emotions and fake emotions travel along different brain pathways, resulting in different physical expressions. This demonstrates the link between true feelings and physical reactions. That's why the correct answer is B.",
+      "quote": "Neurological studies even suggest that genuine emotions travel different pathways through the brain than insincere ones."
+     }
+    },
+    "questionRange": "30-35",
+    "questionSections": [
+     {
+      "type": "gap-fill",
+      "title": "Questions 30-33: Gap Filling Section",
+      "questions": [
+       {
+        "id": 30,
+        "hint": "to protect their _____"
+       },
+       {
+        "id": 31,
+        "hint": "more than enough _____"
+       },
+       {
+        "id": 32,
+        "hint": "_____ puts liars in awkward situation"
+       },
+       {
+        "id": 33,
+        "hint": "rejection reason is _____"
+       }
+      ],
+      "instruction": "For questions 30-33, fill in the missing information in the numbered spaces. Write no more than ONE WORD and/or A NUMBER for each question.",
+      "summaryText": "<p>Johnson mentions that the most common reason for deceiving people is to protect their <span class=\"gap-input\" data-gap=\"30\">_____(30)_____</span>.</p><p>Fortunately, there are more than enough <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span> which are provided by the nature to detect a lying person.</p><p>One of the emotional states which should be observed carefully is <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span> puts liars in awkward situation.</p><p>The main reason for the rejection of polygraph tests in the court is <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span>.</p>"
+     },
+     {
+      "type": "mcq",
+      "title": "Questions 34-35: Multiple Choice",
+      "questions": [
+       {
+        "id": 34,
+        "text": "Lie detectors can't be used as evidence in a court of law because",
+        "options": [
+         {
+          "text": "Lights often cause lie detectors to malfunction.",
+          "letter": "A"
+         },
+         {
+          "text": "They are based on too many verbal and non-verbal clues.",
+          "letter": "B"
+         },
+         {
+          "text": "Polygraph tests are often inaccurate.",
+          "letter": "C"
+         },
+         {
+          "text": "There may be many causes of certain body behavior.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 35,
+        "text": "Why does the author mention the paralyzed patients?",
+        "options": [
+         {
+          "text": "To demonstrate how a paralyzed patient smiles.",
+          "letter": "A"
+         },
+         {
+          "text": "To show the relation between true emotions and body behavior.",
+          "letter": "B"
+         },
+         {
+          "text": "To examine how they were paralyzed.",
+          "letter": "C"
+         },
+         {
+          "text": "To show the importance of happiness of recovery.",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "For questions 34-35, choose the correct answer A, B, C, or D."
+     }
+    ]
+   }
+  ],
+  "examDate": "2026-04-23",
+  "testInfo": {
+   "level": "B1-B2-C1",
+   "parts": 5,
+   "title": "CEFR B1-B2-C1 Reading Test 15",
+   "totalTime": 60,
+   "totalQuestions": 35
+  }
+ },
+ "created_at": "2026-05-12T16:21:29.104676+00:00",
+ "updated_at": "2026-10-11T10:54:25.762211+00:00"
+}

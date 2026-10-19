@@ -1,0 +1,605 @@
+{
+ "id": 58,
+ "mock_type": "cefr-writing",
+ "mock_number": 48,
+ "title": "CEFR Writing Mock 48",
+ "status": "published",
+ "mock_data": {
+  "part1": {
+   "chip": "health",
+   "topic": "Dental clinic"
+  },
+  "tasks": {
+   "t2": {
+    "chip": "family",
+    "genre": "forum",
+    "title": "Parents limit their children's screen time",
+    "prompt": "You are participating in an online discussion forum. The topic is: \"Should parents limit their children's screen time?\" Write your response, giving reasons and examples. Write 180–200 words.",
+    "sample": "<p>This is such an important topic! I <span class=\"ml-token adv\">firmly</span> believe <span class=\"ml-token colloc\">dental care</span> <span class=\"ml-token modal\">should</span> be included in <span class=\"ml-token colloc\">universal healthcare</span>.</p>\n\n<p><span class=\"ml-token adv\">Firstly</span>, <span class=\"ml-token colloc\">oral health</span> is <span class=\"ml-token adv\">directly</span> connected to <span class=\"ml-token colloc\">overall health</span>. Poor dental hygiene is linked to heart disease, diabetes complications, and other <span class=\"ml-token colloc\">serious conditions</span>. Separating dental care makes no medical sense.</p>\n\n<p><span class=\"ml-token adv\">Moreover</span>, many people avoid the dentist due to <span class=\"ml-token colloc\">high costs</span>. This leads to <span class=\"ml-token colloc\">preventable problems</span> becoming serious, requiring even more expensive <span class=\"ml-token colloc\">emergency treatment</span>.</p>\n\n<p><span class=\"ml-token adv\">Additionally</span>, <span class=\"ml-token colloc\">dental issues</span> disproportionately affect <span class=\"ml-token colloc\">lower-income</span> communities who <span class=\"ml-token modal\">cannot</span> afford private care. This creates <span class=\"ml-token colloc\">health inequality</span>.</p>\n\n<p><span class=\"ml-token adv\">Admittedly</span>, including dental care <span class=\"ml-token modal\">would</span> increase healthcare costs. <span class=\"ml-token adv\">However</span>, <span class=\"ml-token colloc\">preventive care</span> is far cheaper than treating advanced problems.</p>\n\n<p><span class=\"ml-token adv\">Ultimately</span>, teeth are part of our bodies. Healthcare systems that exclude dental care are <span class=\"ml-token adv\">fundamentally</span> incomplete.</p>\n\n<p>What's your experience with dental care costs?</p>",
+    "target": "180–200 words",
+    "sampleA1": "<p>Hi SmileCare!</p>\r\n<p>Good. Staff good. Clinic good.</p>\r\n<p>Bye!</p>",
+    "sampleA2": "<p>Hello SmileCare,</p>\r\n<p>The clinic is nice and the people are friendly. The treatment was okay, but I was a little scared. <br>Maybe you can have some toys for kids? And maybe the dentist can smile more!</p>\r\n<p>Thank you.</p>",
+    "sampleB1": "<p>Dear SmileCare Team,</p>\r\n<p>Thank you for your email. I wanted to give you some feedback about my recent visit.</p>\r\n<p>Overall, I thought the facilities were clean and modern. The staff were mostly friendly and helpful, but I felt like the dentist was a bit rushed. The treatment seemed fine, but I'm not an expert!</p>\r\n<p>To encourage me to become a regular patient, perhaps you could offer some loyalty discounts or family packages? Also, clearer explanations about the treatment options would be helpful.</p>\r\n<p>Sincerely,<br>A Satisfied Customer</p>",
+    "sampleB2": "This is a topic that's <span class=\"ml-token idiom\">close to my heart</span>, so I couldn't scroll past without <span class=\"ml-token phrasal\">chipping in</span>!\nIn my view, parents absolutely should <span class=\"ml-token phrasal\">keep an eye on</span> how long their kids spend <span class=\"ml-token idiom\">glued to a screen</span>. Don't get me wrong — I'm not against technology at all. Tablets and phones can be brilliant learning tools, and banning them outright would be unrealistic these days.\nHowever, too much screen time can really <span class=\"ml-token idiom\">take its toll</span>. Children who are constantly online often struggle to get enough sleep, and their schoolwork tends to suffer as a result. <span class=\"ml-token linking\">On top of that</span>, they <span class=\"ml-token phrasal\">miss out on</span> playing outside and spending <span class=\"ml-token colloc\">quality time</span> with family and friends.\nThat said, I don't think strict bans are the answer. What works far better is setting sensible limits and <span class=\"ml-token idiom\">leading by example</span> — after all, kids copy what they see. Agreeing on screen-free mealtimes is a great place to start.\n<span class=\"ml-token idiom\">At the end of the day</span>, it all comes down to balance. What do you all think? Has anyone found a rule that actually sticks? I'd love to hear your experiences!",
+    "uzSample": "<p>Bu juda muhim mavzu! Men tish sog'lig'i universal sog'liqni saqlashga kiritilishi kerakligiga qat'iy ishonaman.</p>\n\n<p>Birinchidan, og'iz bo'shlig'i salomatligi umumiy salomatlik bilan bevosita bog'liq. Tish gigiyenasining yomonligi yurak kasalliklari, diabet asoratlari va boshqa jiddiy kasalliklar bilan bog'liq. Tish parvarishini ajratish tibbiy jihatdan hech qanday ma'noga ega emas.</p>\n\n<p>Bundan tashqari, ko'p odamlar yuqori xarajatlar tufayli stomatologga borishdan qochishadi. Bu oldini olish mumkin bo'lgan muammolarning jiddiylashishiga olib keladi, bu esa yanada qimmat favqulodda davolanishni talab qiladi.</p>\n\n<p>Qo'shimcha ravishda, tish muammolari xususiy parvarishga qodir bo'lmagan kam daromadli aholiga nomutanosib ta'sir qiladi. Bu sog'liqni saqlashdagi tengsizlikni yaratadi.</p>\n\n<p>Tan olish kerakki, tish parvarishini kiritish sog'liqni saqlash xarajatlarini oshiradi. Biroq, profilaktik parvarish rivojlangan muammolarni davolashdan ancha arzon.</p>\n\n<p>Oxir oqibat, tishlar bizning tanamizning bir qismidir. Tish parvarishini istisno qiladigan sog'liqni saqlash tizimlari tubdan to'liq emas.</p>\n\n<p>Tish parvarishi xarajatlari bilan bog'liq tajribangiz qanday?</p>",
+    "uzSampleA1": "<p>Salom, SmileCare!</p>\n<p>Yaxshi. Xodimlar yaxshi. Klinika yaxshi.</p>\n<p>Xayr!</p>",
+    "uzSampleA2": "<p>Salom SmileCare,</p>\n<p>Klinika yaxshi va odamlar do'stona. Davolanish yaxshi bo'ldi, lekin men biroz qo'rqdim. <br>Balki bolalar uchun o'yinchoqlar bo'lishi mumkin? Va balki tish shifokori ko'proq kulishi mumkin!</p>\n<p>Rahmat.</p>",
+    "uzSampleB1": "<p>Hurmatli SmileCare jamoasi,</p>\n<p>Elektron pochtangiz uchun rahmat. Yaqinda tashrifim haqida ba'zi fikr-mulohazalarimni bildirmoqchi edim.</p>\n<p>Umuman olganda, men binolarning toza va zamonaviy ekanligini o'yladim. Xodimlar asosan do'stona va yordam berishga tayyor edilar, lekin men stomatolog biroz shoshilayotgandek his qildim. Davolash yaxshi bo'lib tuyuldi, lekin men mutaxassis emasman!</p>\n<p>Meni doimiy bemor bo'lishga undash uchun, ehtimol, siz sodiqlik chegirmalarini yoki oilaviy paketlarni taklif qilishingiz mumkin? Shuningdek, davolash usullari haqida aniqroq tushuntirishlar foydali bo'ladi.</p>\n<p>Hurmat bilan,<br>Qoniqish hosil qilgan mijoz</p>",
+    "uzSampleB2": "<p>Hurmatli SmileCare jamoasi,</p>\n<p>Sizning keyingi elektron pochtangiz uchun rahmat. Klinikangizda bo'lib o'tgan so'nggi qabulim haqida fikr-mulohazalar bildirishdan xursandman.</p>\n<p>Muassasalar, shubhasiz, zamonaviy va yaxshi saqlangan bo'lib, ijobiy birinchi taassurot qoldirdi. Xodimlar odatda xushmuomala va professional bo'lishsa-da, biroz iliqroq yondashuv, ehtimol, shaxsiy e'tibor bilan bemor tajribasini yanada yaxshilashi mumkin. Davolashning o'zi yuqori standartga ega bo'lib tuyuldi, ammo muolajalar va keyingi parvarish bo'yicha ko'proq batafsil tushuntirishlar qadrlangan bo'lar edi.</p>\n<p>Uzoq muddatli bemorlar bilan munosabatlarni rivojlantirish uchun takroriy tashriflar va tavsiyalarni taqdirlaydigan ko'p darajali sodiqlik dasturini ko'rib chiqishni taklif qilaman. Bundan tashqari, moslashuvchan to'lov rejalarini taklif qilish yoki sug'urta provayderlari bilan hamkorlik qilib, da'volarni qayta ishlashni soddalashtirish ham foydali bo'lishi mumkin. Nihoyat, axborot beruvchi broshyuralar yoki onlayn videolar kabi bemorlarni o'qitish resurslariga sarmoya kiritish, profilaktika yordamiga sodiqlikni namoyish etadi va bemorlarga og'iz bo'shlig'i salomatligi haqida asosli qarorlar qabul qilish imkoniyatini beradi.</p>\n<p>Hurmat bilan,<br>Qadrdon bemoringiz</p>"
+   },
+   "t11": {
+    "title": "informal letter · to friend",
+    "prompt": "Write a letter to your friend, who is looking for a good dentist. Write about your feelings and what you think they should do.",
+    "sample": "Hey!\n\nI <span class=\"ml-token adv\">finally</span> found a great <span class=\"ml-token colloc\">dentist</span>! SmileCare is <span class=\"ml-token adv\">really</span> good – the <span class=\"ml-token colloc\">staff</span> are friendly and the <span class=\"ml-token colloc\">clinic</span> is super modern. <span class=\"ml-token adv\">Honestly</span>, I didn't feel <span class=\"ml-token colloc\">nervous</span> at all!\n\nYou <span class=\"ml-token modal\">should</span> <span class=\"ml-token adv\">definitely</span> book an appointment there!",
+    "target": "50 words",
+    "sampleA1": "<p>Hi Feruza,<br> Dentist good. SmileCare. Nice.<br> Go there. Bye.</p>",
+    "sampleA2": "<p>Hi Feruza,<br> I went to a new dentist. It is called SmileCare and it is good. The people are nice and my teeth feel clean. You should go there because it is good. See you!</p>",
+    "sampleB1": "<p>Hi Feruza,<br> I wanted to tell you about a new dentist I went to, SmileCare. I think it's really good. The staff were friendly, and the clinic was very clean. I felt comfortable there. In my opinion, you should try it. I think you will like it. Let me know what you think!<br> Best,<br> Feruza Yusupova</p>",
+    "sampleB2": "Hey Feruza!\nGuess what — I've <span class=\"ml-token phrasal\">tracked down</span> a brilliant dentist! It's called SmileCare, and <span class=\"ml-token adv\">honestly</span>, I was <span class=\"ml-token idiom\">over the moon</span> with the whole visit. The staff are <span class=\"ml-token colloc\">so friendly</span> and the place is <span class=\"ml-token colloc\">spotless</span>. You should <span class=\"ml-token phrasal\">book yourself in</span> there — trust me, you <span class=\"ml-token colloc\">won't regret it</span>!\nTake care,\nBekzod Aliyev",
+    "uzSample": "<p>Salom!</p>\n<p>Men nihoyat ajoyib stomatolog topdim! SmileCare juda yaxshi – xodimlari do'stona va klinikasi juda zamonaviy. Rostini aytsam, men umuman asabiylashmadim!</p>\n<p>Sen u yerga albatta uchrashuvga yozilishing kerak!</p>",
+    "uzSampleA1": "<p>Salom, Feruza,<br> Tish shifokori yaxshi. SmileCare. Yaxshi.<br> U yerga boring. Xayr.</p>",
+    "uzSampleA2": "<p>Salom, Feruza,<br> Men yangi tish shifokoriga bordim. U SmileCare deb ataladi va u yaxshi. Odamlar yaxshi va tishlarim toza bo'lib qoldi. Sen ham u yerga borishing kerak, chunki u yaxshi. Ko'rishguncha!</p>",
+    "uzSampleB1": "<p>Salom, Feruza,<br> Men sizga SmileCare nomli yangi tish shifokoriga borganim haqida aytmoqchi edim. Menimcha, u juda yaxshi. Xodimlar do'stona edi va klinika juda toza edi. Men u yerda o'zimni qulay his qildim. Mening fikrimcha, siz ham urinib ko'rishingiz kerak. O'ylaymanki, sizga yoqadi. Fikringizni menga bildiring!<br> Eng yaxshi tilaklar bilan,<br> Feruza Yusupova</p>",
+    "uzSampleB2": "<p>Salom Feruza,<br> Yaqinda borgan SmileCare nomli stomatologiya klinikasini tavsiya qilmoqchiman. Bilaman, yaxshi stomatolog qidiryapsan va menimcha bu joy senga juda mos kelishi mumkin. U yerdagi jihozlar zamonaviy va toza, xodimlar esa juda do'stona va professional edi. Butun qabul davomida o'zimni juda qulay his qildim. Maslahatlashuvga yozilishni juda tavsiya qilaman. Agar borishga qaror qilsang, menga xabar ber!<br> Eng yaxshi tilaklar bilan,<br> Feruza Yusupova</p>"
+   },
+   "t12": {
+    "title": "formal letter · to recipient",
+    "prompt": "Write a letter to the dental clinic. Write about your feelings and what you think they should do.",
+    "sample": "<p>Dear SmileCare Team,</p>\n\n<p>Thank you for the excellent care during my recent visit.</p>\n\n<p><span class=\"ml-token adv\">Firstly</span>, the <span class=\"ml-token colloc\">clinic facilities</span> were <span class=\"ml-token colloc\">impressive</span>. The modern equipment and <span class=\"ml-token colloc\">hygienic environment</span> immediately put me at ease.</p>\n\n<p><span class=\"ml-token adv\">However</span>, I have some suggestions. The <span class=\"ml-token colloc\">waiting time</span> was <span class=\"ml-token adv\">rather</span> long despite my appointment. Improving <span class=\"ml-token colloc\">scheduling efficiency</span> <span class=\"ml-token modal\">would</span> reduce patient frustration.</p>\n\n<p><span class=\"ml-token adv\">Additionally</span>, the <span class=\"ml-token colloc\">treatment costs</span> were not clearly communicated beforehand. Providing <span class=\"ml-token colloc\">transparent pricing</span> <span class=\"ml-token modal\">would</span> help patients make <span class=\"ml-token colloc\">informed decisions</span>.</p>\n\n<p><span class=\"ml-token adv\">Furthermore</span>, offering <span class=\"ml-token colloc\">payment plans</span> for expensive procedures <span class=\"ml-token modal\">would</span> make dental care more accessible.</p>\n\n<p>The dentist was <span class=\"ml-token adv\">exceptionally</span> gentle and <span class=\"ml-token colloc\">explained everything</span> clearly, which I <span class=\"ml-token adv\">greatly</span> appreciated.</p>\n\n<p>Kind regards,<br>A New Patient</p>",
+    "target": "120–150 words",
+    "sampleA1": "<p>Hi SmileCare,</p><br><p>I come to your clinic. It is okay. The doctor is nice. Clean. I like it. See you later.</p><br><p>Bye,</p><br><p>A Patient</p>",
+    "sampleA2": "<p>Dear SmileCare,</p><br><p>Thank you for my visit. The clinic is good and clean. The doctor was nice, and I liked the treatment. But the waiting was long, and I was bored. Maybe you can have some magazines. I want to come again because it is near my house. </p><br><p>Thanks,</p><br><p>A Patient</p>",
+    "sampleB1": "<p>Dear SmileCare Team,</p><br><p>Thank you for my appointment last week. I think the clinic is very modern and clean, and the staff were friendly. However, I have a few suggestions. The waiting area could be more comfortable. For example, some more comfortable chairs would be good. Also, I think it would be helpful if you explained the costs of the treatment more clearly before you start. In my opinion, this would help patients feel more confident. Overall, I had a good experience and I would consider coming back again.</p><br><p>Sincerely,</p><br><p>A Patient</p>",
+    "sampleB2": "Dear SmileCare Team,\nI am writing to share some feedback following my recent appointment at your clinic.\nOn the whole, I was <span class=\"ml-token colloc\">thoroughly impressed</span>. The facilities were spotless and <span class=\"ml-token colloc\">up to date</span>, and the dentist <span class=\"ml-token idiom\">put me at ease</span> <span class=\"ml-token adv\">straight away</span> by explaining each step clearly.\nThat said, there are one or two things you might <span class=\"ml-token phrasal\">look into</span>. The waiting time was longer than expected, so a smoother booking system would certainly help. A quick text reminder the day before would also be a nice touch. In addition, the costs were not <span class=\"ml-token phrasal\">spelled out</span> beforehand, and offering <span class=\"ml-token colloc\">transparent pricing</span> up front would allow patients to make <span class=\"ml-token colloc\">informed decisions</span> without any nasty surprises.\nOverall, I had a really positive experience and would gladly return, and I'd happily recommend you to friends. I do hope you <span class=\"ml-token idiom\">take these suggestions on board</span>.\nYours sincerely,\nDilnoza Karimova",
+    "uzSample": "<p>Hurmatli SmileCare jamoasi,</p>\n\n<p>Yaqinda tashrifim davomida ko'rsatgan a'lo darajadagi xizmatingiz uchun tashakkur.</p>\n\n<p>Avvalo, klinika sharoitlari hayratlanarli edi. Zamonaviy uskunalar va gigiyenik muhit meni darhol xotirjam qildi.</p>\n\n<p>Biroq, mening ba'zi takliflarim bor. Belgilangan vaqtimga qaramay, kutish vaqti juda uzoq edi. Jadval samaradorligini oshirish bemorlarning noroziligini kamaytiradi.</p>\n\n<p>Bundan tashqari, davolanish narxlari oldindan aniq aytilmadi. Shaffof narxlarni taqdim etish bemorlarga asosli qarorlar qabul qilishga yordam beradi.</p>\n\n<p>Qolaversa, qimmat protseduralar uchun to'lov rejalarini taklif qilish stomatologik yordamni yanada ommabop qiladi.</p>\n\n<p>Stomatolog juda muloyim edi va hamma narsani aniq tushuntirdi, buni men juda qadrladim.</p>\n\n<p>Hurmat bilan,<br>Yangi bemor</p>",
+    "uzSampleA1": "<p>Salom SmileCare,</p><br><p>Men sizning klinikangizga kelaman. Yaxshi. Doktor yaxshi. Toza. Menga yoqadi. Keyinroq ko'rishguncha.</p><br><p>Xayr,</p><br><p>Bemor</p>",
+    "uzSampleA2": "<p>Hurmatli SmileCare,</p><br><p>Tashrifim uchun rahmat. Klinika yaxshi va toza. Doktor yoqimli edi va menga davolanish yoqdi. Ammo kutish uzoq bo'ldi va men zerikdim. Balki sizda ba'zi jurnallar bo'lishi mumkin. Men yana kelmoqchiman, chunki u uyimga yaqin.</p><br><p>Rahmat,</p><br><p>Bir bemor</p>",
+    "uzSampleB1": "<p>Hurmatli SmileCare jamoasi,</p><br><p>O'tgan haftadagi qabul uchun rahmat. Menimcha, klinika juda zamonaviy va toza, xodimlar esa do'stona edi. Biroq, mening bir nechta takliflarim bor. Kutish joyi yanada qulayroq bo'lishi mumkin. Misol uchun, yanada qulay stullar yaxshi bo'lardi. Shuningdek, davolash narxlarini boshlashdan oldin aniqroq tushuntirsangiz, foydali bo'lardi deb o'ylayman. Mening fikrimcha, bu bemorlarga o'zlarini ishonchli his qilishlariga yordam beradi. Umuman olganda, men yaxshi tajribaga ega bo'ldim va yana qaytib kelishni o'ylab ko'raman.</p><br><p>Hurmat bilan,</p><br><p>Bemor</p>",
+    "uzSampleB2": "<p>Hurmatli SmileCare jamoasi,</p><br><p>Men sizning klinikangizdagi yaqinda bo'lib o'tgan qabulingiz haqida fikr-mulohazalarimni bildirish uchun yozyapman. Umuman olganda, men olgan yordam darajasidan mamnun bo'ldim. Muassasalar zamonaviy va yaxshi saqlangan, xodimlar doimiy ravishda xushmuomala va professional edi.</p><br><p>Biroq, menimcha, yaxshilanishi mumkin bo'lgan bir nechta sohalar mavjud. Birinchidan, kutish vaqti kutilganidan uzoqroq bo'ldi, bu biroz noqulay edi. Ehtimol, yanada samarali qabul qilish jadvalini tuzish tizimi bu muammoni hal qilishi mumkin.</p><br><p>Ikkinchidan, stomatolog davolash jarayonini batafsil tushuntirgan bo'lsa-da, xarajatlar tafsiloti oldindan to'liq aniq emas edi. Muolajadan oldin batafsil smeta taqdim etish shaffoflikni oshiradi va bemorlarga yanada asosli qarorlar qabul qilish imkonini beradi.</p><br><p>Ushbu kichik kamchiliklarga qaramay, men umuman olganda tajribamdan qoniqdim va kelajakdagi stomatologik ehtiyojlarim uchun SmileCare stomatologiya klinikasini ko'rib chiqaman.</p><br><p>Hurmat bilan,</p><br><p>Bemor</p>"
+   },
+   "p1_context": "You recently visited a new dental clinic.",
+   "p1_scenario": "Dear Patient,\n\nThank you for choosing SmileCare Dental Clinic for your recent appointment. We hope you had a comfortable experience.\nHow did you find our facilities and the treatment quality? Was our staff friendly and professional?\nWhat improvements would encourage you to become a regular patient?\n\nSmileCare Team"
+  },
+  "examDate": "2026-04-17",
+  "settings": {
+   "logoUrl": "https://audio.mock-stream.com/img/ibb/WN0XY5Lv/logo.png",
+   "heading1": "Bilim va malakalarni baholash agentligi",
+   "heading2": "Chet tilini bilish darajasi",
+   "examTitle": "Writing exam",
+   "logoWording": "Mock Stream",
+   "testIdentifier": "mock_stream"
+  },
+  "vocabulary": {
+   "task2": [
+    {
+     "en": "dental care",
+     "uz": "tish parvarishi"
+    },
+    {
+     "en": "universal healthcare",
+     "uz": "universal sog'liqni saqlash"
+    },
+    {
+     "en": "oral health",
+     "uz": "og'iz sog'lig'i"
+    },
+    {
+     "en": "overall health",
+     "uz": "umumiy sog'liq"
+    },
+    {
+     "en": "serious conditions",
+     "uz": "jiddiy holatlar"
+    },
+    {
+     "en": "high costs",
+     "uz": "yuqori xarajatlar"
+    },
+    {
+     "en": "preventable problems",
+     "uz": "oldini olish mumkin bo'lgan muammolar"
+    },
+    {
+     "en": "emergency treatment",
+     "uz": "tezkor davolash"
+    },
+    {
+     "en": "dental issues",
+     "uz": "tish muammolari"
+    },
+    {
+     "en": "lower-income",
+     "uz": "past daromadli"
+    },
+    {
+     "en": "health inequality",
+     "uz": "sog'liq tengsizligi"
+    },
+    {
+     "en": "healthcare costs",
+     "uz": "sog'liqni saqlash xarajatlari"
+    },
+    {
+     "en": "preventive care",
+     "uz": "profilaktik parvarish"
+    },
+    {
+     "en": "advanced problems",
+     "uz": "ilg'or muammolar"
+    },
+    {
+     "en": "fundamentally incomplete",
+     "uz": "asosan to'liq emas"
+    },
+    {
+     "en": "firmly believe",
+     "uz": "qat'iy ishonaman"
+    },
+    {
+     "en": "directly connected",
+     "uz": "bevosita bog'langan"
+    },
+    {
+     "en": "diabetes complications",
+     "uz": "diabet asoratlari"
+    },
+    {
+     "en": "private care",
+     "uz": "xususiy parvarish"
+    },
+    {
+     "en": "disproportionately affect",
+     "uz": "nomutanosib ta'sir qilmoq"
+    }
+   ],
+   "task11": [
+    {
+     "en": "finally found",
+     "uz": "nihoyat topdim"
+    },
+    {
+     "en": "great dentist",
+     "uz": "ajoyib tish shifokori"
+    },
+    {
+     "en": "really good",
+     "uz": "juda yaxshi"
+    },
+    {
+     "en": "friendly staff",
+     "uz": "do'stona xodimlar"
+    },
+    {
+     "en": "super modern",
+     "uz": "juda zamonaviy"
+    },
+    {
+     "en": "didn't feel nervous",
+     "uz": "hayajonlanmadim"
+    },
+    {
+     "en": "book an appointment",
+     "uz": "uchrashuv belgilash"
+    },
+    {
+     "en": "definitely try",
+     "uz": "albatta sinab ko'ring"
+    },
+    {
+     "en": "highly recommend",
+     "uz": "juda tavsiya qilaman"
+    },
+    {
+     "en": "clean and modern",
+     "uz": "toza va zamonaviy"
+    },
+    {
+     "en": "painless treatment",
+     "uz": "og'riqsiz davolash"
+    },
+    {
+     "en": "professional care",
+     "uz": "professional g'amxo'rlik"
+    },
+    {
+     "en": "very gentle",
+     "uz": "juda yumshoq"
+    },
+    {
+     "en": "explained everything",
+     "uz": "hamma narsani tushuntirdi"
+    },
+    {
+     "en": "no pain at all",
+     "uz": "umuman og'riq yo'q"
+    },
+    {
+     "en": "worth checking out",
+     "uz": "ko'rib chiqishga arziydi"
+    },
+    {
+     "en": "let me know",
+     "uz": "menga ayting"
+    },
+    {
+     "en": "great experience",
+     "uz": "ajoyib tajriba"
+    },
+    {
+     "en": "comfortable atmosphere",
+     "uz": "qulay muhit"
+    },
+    {
+     "en": "good prices",
+     "uz": "yaxshi narxlar"
+    }
+   ],
+   "task12": [
+    {
+     "en": "clinic facilities",
+     "uz": "klinika sharoitlari"
+    },
+    {
+     "en": "impressive",
+     "uz": "taassurot qoldiruvchi"
+    },
+    {
+     "en": "hygienic environment",
+     "uz": "gigiyenik muhit"
+    },
+    {
+     "en": "put at ease",
+     "uz": "tinchlantiruv"
+    },
+    {
+     "en": "waiting time",
+     "uz": "kutish vaqti"
+    },
+    {
+     "en": "scheduling efficiency",
+     "uz": "rejalashtirish samaradorligi"
+    },
+    {
+     "en": "patient frustration",
+     "uz": "bemor asabiyligi"
+    },
+    {
+     "en": "treatment costs",
+     "uz": "davolash xarajatlari"
+    },
+    {
+     "en": "transparent pricing",
+     "uz": "shaffof narxlash"
+    },
+    {
+     "en": "informed decisions",
+     "uz": "asoslangan qarorlar"
+    },
+    {
+     "en": "payment plans",
+     "uz": "to'lov rejalari"
+    },
+    {
+     "en": "expensive procedures",
+     "uz": "qimmat protseduralar"
+    },
+    {
+     "en": "dental care",
+     "uz": "tish parvarishi"
+    },
+    {
+     "en": "exceptionally gentle",
+     "uz": "juda yumshoq"
+    },
+    {
+     "en": "explained clearly",
+     "uz": "aniq tushuntirdi"
+    },
+    {
+     "en": "greatly appreciated",
+     "uz": "juda qadrlangan"
+    },
+    {
+     "en": "new patient",
+     "uz": "yangi bemor"
+    },
+    {
+     "en": "kind regards",
+     "uz": "hurmat bilan"
+    },
+    {
+     "en": "modern equipment",
+     "uz": "zamonaviy jihozlar"
+    },
+    {
+     "en": "communicated beforehand",
+     "uz": "oldindan xabar berilgan"
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "staff": {
+    "uz": "xodimlar",
+    "type": "colloc"
+   },
+   "would": {
+    "uz": "edi",
+    "type": "modal"
+   },
+   "cannot": {
+    "uz": "mumkin emas",
+    "type": "modal"
+   },
+   "clinic": {
+    "uz": "klinika",
+    "type": "colloc"
+   },
+   "firmly": {
+    "uz": "qat'iy",
+    "type": "adv"
+   },
+   "rather": {
+    "uz": "ko'proq",
+    "type": "adv"
+   },
+   "really": {
+    "uz": "haqiqatan ham",
+    "type": "adv"
+   },
+   "should": {
+    "uz": "kerak",
+    "type": "modal"
+   },
+   "Firstly": {
+    "uz": "avvalo",
+    "type": "adv"
+   },
+   "However": {
+    "uz": "ammo",
+    "type": "adv"
+   },
+   "dentist": {
+    "uz": "tish shifokori",
+    "type": "colloc"
+   },
+   "finally": {
+    "uz": "nihoyat",
+    "type": "adv"
+   },
+   "greatly": {
+    "uz": "juda",
+    "type": "adv"
+   },
+   "nervous": {
+    "uz": "asabiy",
+    "type": "colloc"
+   },
+   "Honestly": {
+    "uz": "rostini aytsam",
+    "type": "adv"
+   },
+   "Moreover": {
+    "uz": "Bundan tashqari",
+    "type": "adv"
+   },
+   "directly": {
+    "uz": "to'g'ridan-to'g'ri",
+    "type": "adv"
+   },
+   "honestly": {
+    "uz": "rostini aytsam",
+    "type": "adv"
+   },
+   "spotless": {
+    "uz": "benuqson toza",
+    "type": "colloc"
+   },
+   "look into": {
+    "uz": "ko'rib chiqmoq",
+    "type": "phrasal"
+   },
+   "Admittedly": {
+    "uz": "Tan olish kerakki",
+    "type": "adv"
+   },
+   "Ultimately": {
+    "uz": "Oxir-oqibat",
+    "type": "adv"
+   },
+   "definitely": {
+    "uz": "albatta",
+    "type": "adv"
+   },
+   "high costs": {
+    "uz": "yuqori xarajatlar",
+    "type": "colloc"
+   },
+   "impressive": {
+    "uz": "ta'sirli",
+    "type": "colloc"
+   },
+   "up to date": {
+    "uz": "zamonaviy, eng so'nggi",
+    "type": "colloc"
+   },
+   "Furthermore": {
+    "uz": "bundan tashqari",
+    "type": "adv"
+   },
+   "chipping in": {
+    "uz": "fikr qo'shmoq",
+    "type": "phrasal"
+   },
+   "dental care": {
+    "uz": "tish davolash",
+    "type": "colloc"
+   },
+   "miss out on": {
+    "uz": "mahrum bo'lmoq",
+    "type": "phrasal"
+   },
+   "oral health": {
+    "uz": "og'iz bo'shlig'i salomatligi",
+    "type": "colloc"
+   },
+   "so friendly": {
+    "uz": "juda do'stona",
+    "type": "colloc"
+   },
+   "spelled out": {
+    "uz": "batafsil tushuntirilgan",
+    "type": "phrasal"
+   },
+   "Additionally": {
+    "uz": "qo'shimcha ravishda",
+    "type": "adv"
+   },
+   "lower-income": {
+    "uz": "kam daromadli",
+    "type": "colloc"
+   },
+   "quality time": {
+    "uz": "sifatli vaqt",
+    "type": "colloc"
+   },
+   "tracked down": {
+    "uz": "topib oldim",
+    "type": "phrasal"
+   },
+   "waiting time": {
+    "uz": "kutish vaqti",
+    "type": "colloc"
+   },
+   "dental issues": {
+    "uz": "tish muammolari",
+    "type": "colloc"
+   },
+   "exceptionally": {
+    "uz": "g'oyatda",
+    "type": "adv"
+   },
+   "fundamentally": {
+    "uz": "tubdan",
+    "type": "adv"
+   },
+   "over the moon": {
+    "uz": "nihoyatda xursand edim",
+    "type": "idiom"
+   },
+   "payment plans": {
+    "uz": "to'lov rejalari",
+    "type": "colloc"
+   },
+   "straight away": {
+    "uz": "darhol",
+    "type": "adv"
+   },
+   "take its toll": {
+    "uz": "salbiy ta'sir ko'rsatmoq",
+    "type": "idiom"
+   },
+   "On top of that": {
+    "uz": "bundan tashqari",
+    "type": "linking"
+   },
+   "keep an eye on": {
+    "uz": "nazorat qilib turmoq",
+    "type": "phrasal"
+   },
+   "overall health": {
+    "uz": "umumiy salomatlik",
+    "type": "colloc"
+   },
+   "put me at ease": {
+    "uz": "meni tinchlantirdi",
+    "type": "idiom"
+   },
+   "preventive care": {
+    "uz": "profilaktik yordam",
+    "type": "colloc"
+   },
+   "treatment costs": {
+    "uz": "davolash narxlari",
+    "type": "colloc"
+   },
+   "won't regret it": {
+    "uz": "afsuslanmaysan",
+    "type": "colloc"
+   },
+   "book yourself in": {
+    "uz": "yozilib qo'ymoq",
+    "type": "phrasal"
+   },
+   "clinic facilities": {
+    "uz": "klinika qulayliklari",
+    "type": "colloc"
+   },
+   "close to my heart": {
+    "uz": "menga juda qadrli",
+    "type": "idiom"
+   },
+   "glued to a screen": {
+    "uz": "ekranga mixlanib qolgan",
+    "type": "idiom"
+   },
+   "health inequality": {
+    "uz": "sog'liqni saqlashdagi tengsizlik",
+    "type": "colloc"
+   },
+   "informed decisions": {
+    "uz": "asosli qarorlar",
+    "type": "colloc"
+   },
+   "leading by example": {
+    "uz": "o'z namunasi bilan yetakchilik qilmoq",
+    "type": "idiom"
+   },
+   "serious conditions": {
+    "uz": "og'ir ahvol",
+    "type": "colloc"
+   },
+   "emergency treatment": {
+    "uz": "shoshilinch davolash",
+    "type": "colloc"
+   },
+   "transparent pricing": {
+    "uz": "shaffof narxlar",
+    "type": "colloc"
+   },
+   "explained everything": {
+    "uz": "hammasini tushuntirib berdi",
+    "type": "colloc"
+   },
+   "hygienic environment": {
+    "uz": "gigienik muhit",
+    "type": "colloc"
+   },
+   "preventable problems": {
+    "uz": "oldini olish mumkin bo'lgan muammolar",
+    "type": "colloc"
+   },
+   "thoroughly impressed": {
+    "uz": "juda hayratlandim",
+    "type": "colloc"
+   },
+   "universal healthcare": {
+    "uz": "universal sog'liqni saqlash",
+    "type": "colloc"
+   },
+   "At the end of the day": {
+    "uz": "oxir-oqibat",
+    "type": "idiom"
+   },
+   "scheduling efficiency": {
+    "uz": "jadval tuzish samaradorligi",
+    "type": "colloc"
+   },
+   "take these suggestions on board": {
+    "uz": "bu takliflarni inobatga olmoq",
+    "type": "idiom"
+   }
+  }
+ },
+ "created_at": "2026-05-06T15:00:06.193893+00:00",
+ "updated_at": "2026-07-06T10:56:21.658673+00:00"
+}

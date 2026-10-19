@@ -1,0 +1,456 @@
+{
+ "id": 2288,
+ "mock_type": "ket-listening",
+ "mock_number": 26,
+ "title": "KET Listening — Test 26",
+ "status": "published",
+ "mock_data": {
+  "audio": {
+   "base": "https://audio.mock-stream.com/KET-Listening/test26/",
+   "files": {
+    "1": "PART1.m4a",
+    "2": "PART2.m4a",
+    "3": "PART3.m4a",
+    "4": "PART4.m4a",
+    "5": "PART5.m4a"
+   }
+  },
+  "parts": [
+   {
+    "type": "picture-mcq",
+    "items": [
+     {
+      "id": 1,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q1A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q1B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q1C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What does the woman order?"
+     },
+     {
+      "id": 2,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q2A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q2B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q2C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What size boots is the woman going to try on next?"
+     },
+     {
+      "id": 3,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q3A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q3B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q3C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Where will the man get off the bus?"
+     },
+     {
+      "id": 4,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q4A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q4B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q4C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "How many books does the boy want to borrow now?"
+     },
+     {
+      "id": 5,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q5A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q5B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q5C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What job does Mark's brother do?"
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "image": "q0A.png",
+       "letter": "A"
+      },
+      {
+       "image": "q0B.png",
+       "letter": "B"
+      },
+      {
+       "image": "q0C.png",
+       "letter": "C"
+      }
+     ],
+     "question": "How many people were at the meeting?"
+    },
+    "imageBase": "https://audio.mock-stream.com/KET-Listening/test26/p1/",
+    "partNumber": 1,
+    "instruction": [
+     "You will hear five short conversations.",
+     "You will hear each conversation twice.",
+     "There is one question for each conversation.",
+     "For questions 1–5, put a tick (✓) under the right answer."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "matching-list",
+    "items": [
+     {
+      "id": 6,
+      "name": "Pete",
+      "answer": "B"
+     },
+     {
+      "id": 7,
+      "name": "Emily",
+      "answer": "H"
+     },
+     {
+      "id": 8,
+      "name": "Jenny",
+      "answer": "E"
+     },
+     {
+      "id": 9,
+      "name": "Joe",
+      "answer": "D"
+     },
+     {
+      "id": 10,
+      "name": "Andy",
+      "answer": "G"
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "name": "John",
+     "answer": "C",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "basketball",
+      "letter": "A"
+     },
+     {
+      "text": "cycling",
+      "letter": "B"
+     },
+     {
+      "text": "fishing",
+      "letter": "C"
+     },
+     {
+      "text": "football",
+      "letter": "D"
+     },
+     {
+      "text": "skateboarding",
+      "letter": "E"
+     },
+     {
+      "text": "swimming",
+      "letter": "F"
+     },
+     {
+      "text": "table-tennis",
+      "letter": "G"
+     },
+     {
+      "text": "tennis",
+      "letter": "H"
+     }
+    ],
+    "scenario": "Emily and John talking about activities last weekend",
+    "leftLabel": "People",
+    "partNumber": 2,
+    "rightLabel": "Activities",
+    "instruction": [
+     "Listen to Emily and John talking about activities they did last weekend.",
+     "Which activity did each person do?",
+     "For questions 6–10, write a letter A–H next to each person.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-conversation",
+    "items": [
+     {
+      "id": 11,
+      "stem": "Where is the new shop?",
+      "answer": "C",
+      "options": [
+       {
+        "text": "near the college",
+        "letter": "A"
+       },
+       {
+        "text": "outside the town centre",
+        "letter": "B"
+       },
+       {
+        "text": "opposite the newsagent's",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "stem": "In the shop you cannot buy",
+      "answer": "B",
+      "options": [
+       {
+        "text": "clothes.",
+        "letter": "A"
+       },
+       {
+        "text": "bags.",
+        "letter": "B"
+       },
+       {
+        "text": "boots.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "stem": "What time does the shop close on a Thursday?",
+      "answer": "B",
+      "options": [
+       {
+        "text": "6 p.m.",
+        "letter": "A"
+       },
+       {
+        "text": "8 p.m.",
+        "letter": "B"
+       },
+       {
+        "text": "10 p.m.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "stem": "What days does the shop open?",
+      "answer": "A",
+      "options": [
+       {
+        "text": "Tuesday to Sunday",
+        "letter": "A"
+       },
+       {
+        "text": "every day",
+        "letter": "B"
+       },
+       {
+        "text": "Monday to Friday",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "stem": "What should Suzy's friend do if she wants a job?",
+      "answer": "B",
+      "options": [
+       {
+        "text": "phone the manager",
+        "letter": "A"
+       },
+       {
+        "text": "go to the shop",
+        "letter": "B"
+       },
+       {
+        "text": "write a letter",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "stem": "When did the new shop open?",
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "text": "today",
+       "letter": "A"
+      },
+      {
+       "text": "yesterday",
+       "letter": "B"
+      },
+      {
+       "text": "last week",
+       "letter": "C"
+      }
+     ]
+    },
+    "partNumber": 3,
+    "instruction": [
+     "Listen to Suzy talking to a friend about a new shop.",
+     "For questions 11–15, tick (✓) A, B or C.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "rows": [
+     {
+      "id": 16,
+      "label": "Price of flat:",
+      "answer": "825",
+      "prefix": "£",
+      "suffix": "a month"
+     },
+     {
+      "id": 17,
+      "label": "How far from station:",
+      "answer": "15",
+      "suffix": "minutes on foot"
+     },
+     {
+      "id": 18,
+      "label": "Number of bedrooms:",
+      "answer": "2"
+     },
+     {
+      "id": 19,
+      "label": "Furniture in flat:",
+      "answer": "sofa",
+      "suffix": "and table"
+     },
+     {
+      "id": 20,
+      "label": "Day to see flat:",
+      "answer": "Monday"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 4",
+    "subtitle": "Address of flat: 25A Green Street",
+    "noteTitle": "Flat to rent",
+    "partNumber": 4,
+    "instruction": [
+     "You will hear a man phoning about a flat he wants to rent.",
+     "Listen and complete questions 16–20.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "rows": [
+     {
+      "id": 21,
+      "label": "Cost to join sports centre per year:",
+      "answer": "79",
+      "prefix": "£"
+     },
+     {
+      "id": 22,
+      "label": "Closing time of café:",
+      "answer": "3",
+      "suffix": "p.m."
+     },
+     {
+      "id": 23,
+      "label": "Name of receptionist:",
+      "answer": "Myatt",
+      "prefix": "Mrs"
+     },
+     {
+      "id": 24,
+      "label": "Phone number:",
+      "answer": "99365412704"
+     },
+     {
+      "id": 25,
+      "label": "What to bring to college:",
+      "answer": "photo"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 5",
+    "subtitle": "Day classes start: Wednesday",
+    "noteTitle": "Langley College",
+    "partNumber": 5,
+    "instruction": [
+     "You will hear some information for new students about a college.",
+     "Listen and complete questions 21–25.",
+     "You will hear the information twice."
+    ],
+    "questionsLabel": "QUESTIONS 21–25"
+   }
+  ],
+  "testInfo": {
+   "id": "ket-l-26",
+   "level": "A2",
+   "paper": "Paper 2",
+   "parts": 5,
+   "title": "KET Listening — Test 26",
+   "totalTime": 30,
+   "totalQuestions": 25
+  }
+ },
+ "created_at": "2026-10-14T06:45:34.836021+00:00",
+ "updated_at": "2026-10-14T06:47:20.234014+00:00"
+}

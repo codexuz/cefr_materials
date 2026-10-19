@@ -1,0 +1,477 @@
+{
+ "id": 136,
+ "mock_type": "ielts-writing",
+ "mock_number": 27,
+ "title": "IELTS Writing Mock 27",
+ "status": "published",
+ "mock_data": {
+  "tasks": {
+   "task1": {
+    "title": "Renewable energy supply",
+    "prompt": "The bar chart below shows the proportion of renewable energy of total supply in 2000, 2004, and 2007.",
+    "wordGoal": 150,
+    "chartDesc": {
+     "title": "renewable energy of the total supply",
+     "xAxis": "Countries",
+     "yAxis": "Percentage",
+     "period": "2000, 2004, and 2007",
+     "series": [
+      {
+       "name": "2000",
+       "points": [
+        {
+         "at": "Australia",
+         "value": 8
+        },
+        {
+         "at": "Germany",
+         "value": 12
+        },
+        {
+         "at": "Norway",
+         "value": 62
+        },
+        {
+         "at": "Iceland",
+         "value": 52
+        }
+       ]
+      },
+      {
+       "name": "2004",
+       "points": [
+        {
+         "at": "Australia",
+         "value": 10
+        },
+        {
+         "at": "Germany",
+         "value": 15
+        },
+        {
+         "at": "Norway",
+         "value": 65
+        },
+        {
+         "at": "Iceland",
+         "value": 59
+        }
+       ]
+      },
+      {
+       "name": "2007",
+       "points": [
+        {
+         "at": "Australia",
+         "value": 9
+        },
+        {
+         "at": "Germany",
+         "value": 17
+        },
+        {
+         "at": "Norway",
+         "value": 78
+        },
+        {
+         "at": "Iceland",
+         "value": 55
+        }
+       ]
+      }
+     ],
+     "overview": "Norway and Iceland supplied a significantly higher proportion of renewable energy compared to Australia and Germany across all three years. Norway showed the largest overall increase, while Australia consistently had the lowest share.",
+     "chartType": "bar chart",
+     "confidence": "medium",
+     "unreadable": [
+      "Exact numerical value labels above the bars are omitted; figures are read against the y-axis grid lines."
+     ],
+     "keyFeatures": [
+      "Norway had the highest share of renewable energy, rising from approximately 62% in 2000 to nearly 78% in 2007.",
+      "Australia recorded the lowest proportion, remaining at or below 10% throughout (8% in 2000, 10% in 2004, and 9% in 2007).",
+      "Germany experienced steady growth from 12% in 2000 to 17% in 2007.",
+      "Iceland peaked at around 59% in 2004 before decreasing slightly to 55% in 2007."
+     ]
+    },
+    "chartType": "bar_chart",
+    "dataNature": "dynamic",
+    "instruction": "Summarise the information by selecting and reporting the main features, and make comparison where relevant.",
+    "sampleBand5": "<p>The bar chart shows the <mark>proportion of renewable energy</mark> used in total energy supply for three years: 2000, 2004, and 2007.</p>\n<p>In 2000, the amount of renewable energy was 6%. Then, <mark>in the year of</mark> 2004, it went up to 7%. After this, in 2007, it increased again to 9%. So, it went up <mark>every time</mark>.</p>\n<p>It is clear that renewable energy use was increasing. <mark>More and more</mark> people used it over the years. The biggest change was between 2004 and 2007.</p>\n<p>Overall, the bar chart shows a positive trend for renewable energy. It was always going up, even though the numbers are not very big. </p>",
+    "sampleBand6": "<p>The bar chart shows the proportion of renewable energy <mark>as a percentage of</mark> the total energy supply in a number of years, specifically 2000, 2004 and 2007.</p>\n<p>Overall, it is clear that the proportion of renewable energy fluctuated <mark>over the period given</mark>. There were some increases and decreases, but the general trend was an upward one. It is also noticeable that the proportion was always below a quarter of the total energy supply.</p>\n<p>In 2000, the proportion of renewable energy was around 17%. This fell <mark>slightly to just under</mark> 16% in 2004. However, by 2007, this had risen to approximately 22%. So, although there was a decrease initially, the proportion <mark>ended at a higher level</mark> than it started. The biggest increase was between 2004 and 2007. <mark>It can be seen that</mark> the renewable energy made up a small part of the total energy.</p>",
+    "sampleBand7": "<p>The bar chart illustrates the proportion of renewable energy sources as a percentage of total energy supply across a number of countries in the years 2000, 2004, and 2007.</p>\n<p>Overall, it is clear that the proportion of renewable energy <mark>experienced fluctuations</mark> across the three specified years. While some countries saw an increase in their renewable energy usage, others showed a decrease. It is also <mark>readily apparent</mark> that Iceland consistently had the highest proportion of renewable energy in its total supply.</p>\n<p>In 2000, Iceland <mark>stood out significantly</mark> with approximately 70% of its energy coming from renewable sources. This figure remained relatively stable, with only a slight increase to around 72% by 2007. Sweden, on the other hand, started at around 48% in 2000, <mark>witnessing a gradual decline</mark> to approximately 45% in 2004 before slightly recovering to around 52% in 2007.</p>\n<p>Other countries showed different patterns. While Italy's renewable energy proportion <mark>remained relatively consistent</mark> at around 5% throughout the period, the proportion in Canada <mark>showed an upward trend</mark>, rising from approximately 22% in 2000 to around 26% in 2007. The United States <mark>had the lowest percentage overall</mark>, starting at about 3% and reaching only around 6% by 2007. </p>",
+    "sampleBand8": "<p>The bar chart <mark>illustrates the proportion</mark> of total energy derived from renewable sources in a given nation across the years 2000, 2004, and 2007.</p>\n\n<p>Overall, it is <mark>immediately apparent</mark> that the percentage of renewable energy <mark>witnessed an increase</mark> over the period. Furthermore, the most significant growth occurred between 2004 and 2007. While there were fluctuations, the overall trend indicates a <mark>gradual shift</mark> towards greater reliance on renewable energy sources.</p>\n\n<p>In 2000, the proportion of renewable energy stood at approximately 5%. This figure <mark>remained relatively stable</mark> until 2004, experiencing only a marginal increase. However, between 2004 and 2007, there was a <mark>noticeable surge</mark>, with the percentage climbing to around 8%. This represents a significant increase compared to the earlier period. While not explicitly stated, this increase may be attributable to <mark>a concerted effort</mark> to promote and invest in renewable energy technologies during this time.</p>\n\n<p>In conclusion, the data suggests a positive trend in the adoption of renewable energy sources. Although the initial growth was slow, the <mark>accelerated pace</mark> of increase between 2004 and 2007 suggests a promising future for renewable energy adoption.</p>",
+    "sampleBand9": "<p>The bar chart <mark>elucidates the proportion</mark> of total energy derived from renewable sources across a selection of countries in the years 2000, 2004, and 2007.</p>\n\n<p>Overall, it is <mark>immediately apparent</mark> that the contribution of renewable energy to total supply witnessed an upward trend across all nations during the observed period. Furthermore, the proportion of renewable energy was consistently highest in Iceland and lowest in the United Kingdom.</p>\n\n<p>In 2000, Iceland <mark>led the way</mark> with approximately 30% of its energy sourced from renewable means, followed by Sweden at around 17%. Italy and the UK <mark>lagged considerably behind</mark>, with approximately 2% and 1% respectively. By 2004, all countries had experienced an increase in renewable energy usage. Iceland’s proportion <mark>had risen substantially</mark> to almost 45%, while Sweden’s reached close to 20%. Italy doubled its proportion to 4%, and the UK <mark>experienced a modest increase</mark> to 2%. </p>\n\n<p>The trend of increased renewable energy usage continued into 2007. Iceland <mark>maintained its position</mark> as the leader, with approximately 53% of its total energy coming from renewable sources. Sweden also saw further growth, reaching around 22%. Italy nearly doubled again to 7%, while the UK, although still the lowest, <mark>showed a more marked increase</mark> to around 5%. In summary, although the UK's growth seems small, it is important to note that it still <mark>represents a substantial increase percentage-wise</mark>, despite remaining at the bottom of the comparison.</p>",
+    "timeMinutes": 20,
+    "chartDescImg": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/27.png",
+    "sampleAnswer": "The bar chart compares the percentage of renewable energy in the total energy supply across several countries in three different years: 2000, 2004, and 2007. Overall, while most countries showed increases in renewable energy usage, the proportions varied significantly between nations.\n\nIn 2000, Iceland had by far the highest proportion of renewable energy at approximately 70% of its total supply, followed by Norway at around 45%. New Zealand and Sweden both had figures of approximately 30%, while other countries such as the USA, UK, and Japan had much lower proportions, all below 10%.\n\nBy 2007, most countries had increased their renewable energy usage. Iceland remained the leader, increasing slightly to about 75%. Norway also showed growth, reaching approximately 55%. Sweden demonstrated notable improvement, rising to about 40%. New Zealand maintained its position at around 30%.\n\nInterestingly, some countries showed minimal change over the period. The USA, UK, Germany, and Japan all remained below 15% throughout the seven-year period, although each showed slight increases. The data suggests that countries with already high renewable energy usage continued to lead, while those starting from low bases made only modest progress.",
+    "chartImageUrl": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/27.png",
+    "uzSampleBand5": "<p>Ustunli diagramma uch yil davomida umumiy energiya ta'minotida ishlatilgan <mark>qayta tiklanadigan energiya ulushini</mark> ko'rsatadi: 2000, 2004 va 2007.</p>\n<p>2000-yilda qayta tiklanadigan energiya miqdori 6% edi. Keyin, <mark>2004-yilda</mark> u 7% gacha ko'tarildi. Shundan so'ng, 2007-yilda u yana 9% gacha oshdi. Demak, u <mark>har safar</mark> ko'tarilib bordi.</p>\n<p>Shuni aniq ko'rish mumkinki, qayta tiklanadigan energiyadan foydalanish ortib borgan. Yillar davomida <mark>borgan sari ko'proq</mark> odamlar undan foydalanishdi. Eng katta o'zgarish 2004 va 2007-yillar oralig'ida bo'ldi.</p>\n<p>Umuman olganda, ustunli diagramma qayta tiklanadigan energiya uchun ijobiy tendentsiyani ko'rsatadi. Raqamlar juda katta bo'lmasa ham, u doimo o'sib bordi.</p>",
+    "uzSampleBand6": "<p>Ustunli diagrammada qayta tiklanadigan energiya manbalarining umumiy energiya ta'minotidagi <mark>foiz nisbati</mark> bir qator yillar, xususan, 2000, 2004 va 2007 yillarda ko'rsatilgan.</p>\n<p>Umuman olganda, qayta tiklanadigan energiya manbalarining nisbati <mark>berilgan davr mobaynida</mark> o'zgarib turgani aniq. Ba'zi o'sish va pasayishlar bo'lgan, ammo umumiy tendentsiya yuqoriga qarab bo'lgan. Shuni ham ta'kidlash joizki, bu nisbat har doim umumiy energiya ta'minotining choragidan past bo'lgan.</p>\n<p>2000 yilda qayta tiklanadigan energiya manbalarining nisbati taxminan 17% ni tashkil etdi. Bu 2004 yilda <mark>biroz kamayib, deyarli</mark> 16% dan pastroqqa tushdi. Biroq, 2007 yilga kelib, bu ko'rsatkich taxminan 22% gacha ko'tarildi. Shunday qilib, dastlab pasayish bo'lganiga qaramay, nisbat <mark>boshlang'ich darajadan yuqoriroq darajada yakunlandi</mark>. Eng katta o'sish 2004 va 2007 yillar oralig'ida bo'ldi. <mark>Ko'rinib turibdiki,</mark> qayta tiklanadigan energiya umumiy energiyaning kichik bir qismini tashkil etdi.</p>",
+    "uzSampleBand7": "<p>Ustunli diagramma bir qator mamlakatlar bo'ylab 2000, 2004 va 2007-yillarda qayta tiklanuvchi energiya manbalarining umumiy energiya ta'minotidagi foizini ko'rsatadi.</p>\n<p>Umuman olganda, qayta tiklanuvchi energiya ulushi uchta belgilangan yil davomida <mark>o'zgarishlarni boshdan kechirgani</mark> aniq. Ba'zi mamlakatlar qayta tiklanuvchi energiyadan foydalanishning ortishini kuzatgan bo'lsa, boshqalari pasayishni ko'rsatdi. Shuningdek, Islandiya doimiy ravishda umumiy ta'minotida qayta tiklanuvchi energiyaning eng yuqori ulushiga ega bo'lgani <mark>yaqqol ko'rinib turibdi</mark>.</p>\n<p>2000-yilda Islandiya energiya ta'minotining taxminan 70 foizi qayta tiklanuvchi manbalardan kelgani bilan <mark>sezilarli darajada ajralib turardi</mark>. Bu ko'rsatkich nisbatan barqaror bo'lib qoldi, 2007-yilga kelib faqatgina ozgina o'sish bilan taxminan 72 foizni tashkil etdi. Shvetsiya esa, aksincha, 2000-yilda taxminan 48 foizdan boshlangan bo'lib, 2004-yilda taxminan 45 foizga <mark>asta-sekin pasayishga guvoh bo'ldi</mark>, so'ngra 2007-yilda biroz tiklanib, taxminan 52 foizni tashkil etdi.</p>\n<p>Boshqa mamlakatlar turli xil naqshlarni ko'rsatdi. Italiyaning qayta tiklanuvchi energiya ulushi butun davr davomida taxminan 5 foizda <mark>nisbatan barqaror bo'lib qolgan</mark> bo'lsa, Kanadada bu ko'rsatkich <mark>yuqoriga qarab o'sish tendentsiyasini ko'rsatdi</mark>, 2000-yildagi taxminan 22 foizdan 2007-yilda taxminan 26 foizga ko'tarildi. Qo'shma Shtatlar <mark>umumiy jihatdan eng past foizga ega edi</mark>, taxminan 3 foizdan boshlanib, 2007-yilga kelib atigi 6 foizga yetdi.</p>",
+    "uzSampleBand8": "<p>Ushbu ustunli diagramma 2000, 2004 va 2007-yillarda ma'lum bir davlatda qayta tiklanadigan manbalardan olingan umumiy energiyaning <mark>nisbatini ko'rsatadi</mark>.</p>\n\n<p>Umuman olganda, qayta tiklanadigan energiyaning foizi <mark>darhol ko'rinib turibdiki</mark> davr mobaynida <mark>o'sishni kuzatdi</mark>. Bundan tashqari, eng sezilarli o'sish 2004 va 2007-yillar oralig'ida sodir bo'ldi. O'zgarishlar bo'lgan bo'lsa-da, umumiy tendentsiya qayta tiklanadigan energiya manbalariga <mark>asta-sekin o'tishni</mark> ko'rsatadi.</p>\n\n<p>2000-yilda qayta tiklanadigan energiyaning nisbati taxminan 5% ni tashkil etdi. Bu ko'rsatkich 2004-yilgacha <mark>nisbatan barqaror bo'lib qoldi</mark> va faqatgina ozgina o'sishni boshdan kechirdi. Biroq, 2004 va 2007-yillar oralig'ida <mark>sezilarli o'sish</mark> kuzatildi, foiz taxminan 8% gacha ko'tarildi. Bu avvalgi davrga nisbatan sezilarli o'sishni anglatadi. Ochiq aytilmagan bo'lsa-da, bu o'sish shu vaqt ichida qayta tiklanadigan energiya texnologiyalarini targ'ib qilish va ularga sarmoya kiritish bo'yicha <mark>uyushgan harakat</mark> bilan bog'liq bo'lishi mumkin.</p>\n\n<p>Xulosa qilib aytganda, ma'lumotlar qayta tiklanadigan energiya manbalarini qabul qilishda ijobiy tendentsiyani ko'rsatadi. Dastlabki o'sish sekin bo'lgan bo'lsa-da, 2004 va 2007-yillar oralig'idagi o'sishning <mark>tezlashgan sur'ati</mark> qayta tiklanadigan energiyani qabul qilish uchun istiqbolli kelajakni ko'rsatadi.</p>",
+    "uzSampleBand9": "<p>Ustunli diagramma 2000, 2004 va 2007-yillarda bir qator mamlakatlar bo'ylab qayta tiklanadigan manbalardan olingan umumiy energiya <mark>ulushini aniqlab beradi</mark>.</p>\n\n<p>Umuman olganda, shuni <mark>darhol anglash mumkinki</mark>, kuzatilgan davr mobaynida barcha davlatlarda umumiy ta'minotga qayta tiklanadigan energiyaning hissasi o'sib borish tendentsiyasiga ega bo'lgan. Bundan tashqari, qayta tiklanadigan energiya ulushi doimiy ravishda Islandiyada eng yuqori va Buyuk Britaniyada eng past bo'lgan.</p>\n\n<p>2000-yilda Islandiya energiyasining taxminan 30 foizini qayta tiklanadigan manbalardan olib, <mark>yetakchilik qildi</mark>, undan keyin Shvetsiya taxminan 17 foiz bilan. Italiya va Buyuk Britaniya <mark>sezilarli darajada orqada qoldi</mark>, mos ravishda taxminan 2% va 1% bilan. 2004-yilga kelib, barcha mamlakatlar qayta tiklanadigan energiyadan foydalanishning o'sishini boshdan kechirdi. Islandiyaning ulushi <mark>sezilarli darajada oshib</mark> deyarli 45% ga yetdi, Shvetsiyaniki esa 20% ga yaqinlashdi. Italiya o'z ulushini ikki baravar oshirib 4% ga, Buyuk Britaniya esa <mark>kichik o'sishni boshdan kechirdi</mark> va 2% ga yetdi.</p>\n\n<p>Qayta tiklanadigan energiyadan foydalanishning o'sish tendentsiyasi 2007-yilgacha davom etdi. Islandiya umumiy energiyasining taxminan 53 foizi qayta tiklanadigan manbalardan kelgan holda <mark>o'z mavqeini saqlab qoldi</mark>. Shvetsiya ham o'sishni ko'rsatdi va taxminan 22% ga yetdi. Italiya yana deyarli ikki baravar oshib 7% ga yetdi, Buyuk Britaniya esa, garchi hali ham eng past bo'lsa-da, taxminan 5% ga <mark>yanada sezilarli o'sishni ko'rsatdi</mark>. Xulosa qilib aytganda, Buyuk Britaniyaning o'sishi kichik bo'lib tuyulsa-da, shuni ta'kidlash kerakki, u taqqoslashning eng pastki qismida qolishiga qaramay, u hali ham <mark>foiz hisobida sezilarli o'sishni anglatadi</mark>.</p>",
+    "chartDescSource": "extracted-verified-2026-08-05"
+   },
+   "task2": {
+    "title": "TV content and child behaviour",
+    "prompt": "Some people say that what children watch on TV influences their behaviour while others say the amount of time children spend watching TV influences their behaviour. Discuss both views and give your opinion.",
+    "wordGoal": 250,
+    "essayType": "balanced",
+    "instruction": "Discuss both views and give your opinion.",
+    "sampleBand5": "<p>Television is very common now, and children watch it a lot. Some people think the shows they watch make them behave in certain ways. Others think it's <mark>just the time</mark> they spend watching TV that changes them. I think both are important.</p>\n\n<p>On the one hand, what children see on TV can be a big influence. If they watch violent cartoons, they might <mark>think its okay to hit</mark> their friends. Programs that show people being unkind can make children think that's how they should act too. Also, adverts can make children want things they don't need, and this can lead to arguments with their parents. So, the content is important.</p>\n\n<p>However, the amount of time spent watching TV is also a problem. If children spend too long watching TV, they are not doing other things like playing outside or reading. This can affect their health and their <mark>brain development</mark>. They might not learn social skills because they are not interacting with other children. Also, they might not do their homework, which can affect their grades in school. It is <mark>like a waste of time</mark>.</p>\n\n<p>In conclusion, both the content of TV programs and the amount of time children spend watching them can influence their behaviour. Parents should be careful about what their children watch and how long they watch it for. They should also encourage them to do other activities. It is important to have a balance.</p>",
+    "sampleBand6": "<p>It is often debated whether the content of television programs or the amount of time children spend watching TV has a greater impact on their behaviour. Both views have merit, and it is important to consider both sides of the argument before forming an opinion. <mark>On the one hand</mark>, the content that children are exposed to can certainly influence them.</p>\n\n<p>If children regularly watch violent programs, they may become desensitized to violence and more likely to engage in aggressive behaviour. Similarly, if they watch shows that promote unhealthy lifestyles, such as excessive consumption of junk food, it could <mark>have a negative impact</mark> on their own habits. Programs with positive role models, however, can encourage children to develop good values and behaviours. The influence of content is therefore undeniable, and parents should be mindful of what their children are watching.</p>\n\n<p>However, the amount of time spent watching TV is also a significant factor. Even if the content is relatively harmless, <mark>spending too much time</mark> in front of the television can have detrimental effects. Children who spend hours watching TV are less likely to engage in physical activity, which can lead to obesity and other health problems. They may also have less time for other important activities, such as reading, playing, and socializing with friends and family. This can affect their cognitive and social development. <mark>It is also believed that</mark> too much screen time can affect their attention spans.</p>\n\n<p>In conclusion, both the content and the amount of time spent watching TV can influence children's behaviour. While the content can shape their values and attitudes, the amount of time spent watching can affect their physical and cognitive development. In my opinion, both factors are important, and parents should strive to find a balance between <mark>allowing children to enjoy TV</mark> and ensuring they are not negatively affected by it.</p>",
+    "sampleBand7": "<p>The question of how television impacts children's behaviour is a subject of considerable debate. While some argue that the content of programmes is the primary influence, others believe that the sheer amount of time spent watching TV is the more significant factor. <mark>Both perspectives have merit</mark>, and in my opinion, both contribute to shaping a child's behaviour, although the amount of time may be the more pervasive influence.</p>\n\n<p>Those who emphasise the influence of content often point to the <mark>potential for exposure</mark> to violence, inappropriate language, or unrealistic portrayals of life. It is argued that children, especially those who are very young, are highly impressionable and may imitate what they see on screen. For instance, a child repeatedly exposed to aggressive behaviour in cartoons might display similar tendencies in their own interactions. Furthermore, the values and attitudes presented in television programmes can shape a child's understanding of the world and their place in it. However, this view <mark>overlooks the role</mark> of parents and educators in mediating these influences.</p>\n\n<p>Conversely, the argument that the amount of time spent watching TV is more influential suggests that excessive viewing can displace other important activities. Children who spend hours in front of the television are less likely to engage in physical activity, read books, or interact with family and friends. This can lead to a range of negative consequences, including obesity, poor social skills, and reduced academic performance. Moreover, <mark>prolonged screen time</mark> can be detrimental to a child's cognitive development, as it may hinder the development of critical thinking and problem-solving skills. While the content may be harmless, the sheer volume of viewing can still have a significant impact.</p>\n\n<p>In conclusion, while the content of television programmes undoubtedly plays a role in shaping children's behaviour, the amount of time spent watching TV is arguably a more significant factor. The <mark>displacement of essential activities</mark> and the potential for cognitive impairment associated with excessive viewing can have far-reaching consequences. Therefore, parents should strive to <mark>strike a balance</mark>, ensuring that children have access to age-appropriate and educational content while also limiting their overall screen time and encouraging other beneficial activities. It is not simply <mark>what children watch</mark>, but how much they watch that matters.</p>",
+    "sampleBand8": "<p>The debate surrounding the influences on children's behaviour often centres on television, with some arguing that the content of programmes is the primary factor, while others believe that the sheer amount of time spent watching TV is more significant. Both perspectives <mark>hold a degree of validity</mark>, and this essay will explore these viewpoints before offering a considered opinion.</p>\n\n<p>Proponents of the content argument suggest that what children watch directly shapes their understanding of the world and their behaviour. For example, exposure to violent cartoons or programmes that <mark>glamorise antisocial behaviour</mark> could desensitise children to violence or lead them to emulate negative role models. Educational programmes, conversely, can foster positive values and expand their knowledge base. There is ample research suggesting a correlation between media consumption and behaviour, though establishing a definitive causal link remains complex. Furthermore, the <mark>ubiquitous nature</mark> of advertising within children's programming can influence their desires and materialistic tendencies.</p>\n\n<p>Conversely, the 'time spent' argument posits that regardless of the content, excessive television viewing can negatively impact a child's development. Spending countless hours glued to the screen reduces opportunities for crucial social interaction, physical activity, and creative play. This can lead to social isolation, obesity, and a <mark>stunted development of crucial</mark> cognitive and social skills. Even seemingly harmless programmes can contribute to this problem if they displace more beneficial activities. Children need diverse experiences to develop holistically, and excessive screen time inevitably limits these opportunities. This is especially true for very young children whose brains are rapidly developing, and for whom real-world experiences are paramount.</p>\n\n<p>In conclusion, while the content of television programmes certainly plays a role in shaping children's behaviour, I believe that the amount of time spent watching TV is ultimately the more significant factor. Even positive content can be detrimental if it consumes too much of a child's time, <mark>crowding out</mark> other essential experiences. Therefore, parents should focus on <mark>establishing healthy boundaries</mark> around screen time, encouraging a balanced lifestyle that incorporates a variety of activities. <mark>Striking this balance</mark> is crucial for fostering well-rounded and healthy development. To mitigate the negative effects of prolonged viewing, families should <mark>actively engage in discussions</mark> about the programs watched, <mark>thereby providing context and critical analysis</mark>.</p>",
+    "sampleBand9": "<p>The debate surrounding the impact of television on children's behaviour often centres on two key perspectives: the content they consume and the duration of their viewing. While both aspects undoubtedly play a role, their relative influence is a complex issue worthy of careful consideration. I believe that the content children watch is ultimately more influential, although the amount of time spent viewing certainly exacerbates any negative effects.</p>\n\n<p>Proponents of the \"content matters most\" argument highlight the <mark>power of modelling</mark>. Children are highly impressionable and learn by observing the behaviours portrayed on screen. If they are consistently exposed to violence, aggression, or disrespectful attitudes, they are more likely to internalise and replicate these behaviours in their own interactions. Educational programmes, on the other hand, can foster positive values such as empathy, cooperation, and critical thinking. <mark>Furthermore, the narratives children engage with</mark> can shape their understanding of the world, influencing their beliefs, aspirations, and even their sense of identity. Therefore, controlling the type of programmes children access is crucial for promoting healthy development.</p>\n\n<p>Conversely, the \"time spent\" argument posits that excessive television viewing, regardless of content, can negatively impact behaviour. Spending countless hours glued to the screen reduces opportunities for crucial real-world experiences, such as playing outdoors, engaging in social interactions, and pursuing hobbies. This can lead to social isolation, attention deficits, and a decline in physical health. <mark>Prolonged screen time has also been linked to</mark> sleep disturbances, which can further affect mood, concentration, and overall well-being. Therefore, limiting the amount of time children spend watching television is essential for preventing these negative consequences.</p>\n\n<p>In my opinion, while excessive screen time is undoubtedly detrimental, the *type* of content children are exposed to has a more profound and lasting impact on their behaviour. A child who watches a moderate amount of educational and enriching programmes is likely to develop more positively than a child who spends the same amount of time watching violent or inappropriate content. However, it is important to acknowledge that the two factors are interconnected. <mark>The more time children spend watching television</mark>, the greater the potential for exposure to harmful content, and the more likely they are to be influenced by it. <mark>Ultimately, a balanced approach is required</mark>, one that prioritises both the quality and quantity of television viewing. Parents should actively monitor their children's viewing habits, selecting age-appropriate and educational programmes while also encouraging them to engage in a variety of other activities. <mark>This multifaceted strategy offers the best chance of</mark> mitigating the negative effects of television and harnessing its potential as a positive influence.</p>\n\n<p>In conclusion, while both the content and duration of television viewing influence children's behaviour, the content appears to be the more significant factor. <mark>By carefully curating the programmes children watch</mark> and limiting their overall screen time, parents can help to ensure that television serves as a valuable tool for learning and development, rather than a source of negative influence. <mark>This proactive approach is paramount</mark> in navigating the complexities of modern childhood.</p>",
+    "timeMinutes": 40,
+    "sampleAnswer": "The impact of television on children's behavior has long been a subject of debate among parents, educators, and researchers. While some emphasize the importance of program content, others focus on the duration of viewing time. This essay will examine both perspectives before presenting my own view.\n\nThose who believe that content is the primary factor argue that children are highly impressionable and tend to imitate what they see on screen. Violent programs may normalize aggressive behavior, while educational shows can promote positive social skills and cognitive development. From this perspective, carefully curated programming can be beneficial regardless of how long children watch. Research has shown that children who view prosocial content demonstrate more empathy and cooperative behavior than those exposed to violent media.\n\nConversely, proponents of the view that viewing time matters more contend that excessive television watching, regardless of content, has negative effects on children. Extended screen time reduces physical activity, contributing to obesity and related health problems. It also displaces time that could be spent on more beneficial activities such as reading, playing outdoors, or interacting with family and friends. Furthermore, prolonged television viewing has been linked to attention problems and reduced academic performance.\n\nIn my opinion, both factors are important, but I believe that content has a more significant influence on behavior. While limiting screen time is certainly advisable, the type of programs children watch has a more direct impact on the values and behaviors they develop. A child who watches two hours of educational programming is likely to benefit more than one who watches thirty minutes of violent content.\n\nIn conclusion, ideally, parents should monitor both what their children watch and for how long, but prioritizing appropriate content is more crucial for healthy behavioral development.",
+    "uzSampleBand5": "<p>Televizor hozir juda keng tarqalgan va bolalar uni ko'p tomosha qilishadi. Ba'zi odamlar ularning tomosha qilayotgan ko'rsatuvlari ularni ma'lum tarzda o'zini tutishga majbur qiladi deb o'ylashadi. Boshqalar esa, bu faqat televizorni tomosha qilishga <mark>sarflaydigan vaqti</mark> ularni o'zgartiradi deb o'ylashadi. Men ikkalasi ham muhim deb o'ylayman.</p>\n\n<p>Bir tomondan, bolalar televizorda ko'rgan narsalar katta ta'sir ko'rsatishi mumkin. Agar ular zo'ravon multfilmlarni tomosha qilsalar, ular do'stlarini <mark>urish yaxshi deb o'ylashlari</mark> mumkin. Odamlarning mehribon bo'lmaganini ko'rsatadigan dasturlar bolalarni xuddi shunday harakat qilishlari kerak deb o'ylashlariga olib kelishi mumkin. Shuningdek, reklamalar bolalarni ularga kerak bo'lmagan narsalarni xohlashga majbur qilishi mumkin va bu ota-onalari bilan janjallarga olib kelishi mumkin. Demak, kontent muhim.</p>\n\n<p>Biroq, televizor tomosha qilishga sarflangan vaqt miqdori ham muammo. Agar bolalar televizorni tomosha qilishga juda ko'p vaqt sarflashsa, ular tashqarida o'ynash yoki o'qish kabi boshqa ishlarni qilmaydilar. Bu ularning sog'lig'iga va <mark>miya rivojlanishiga</mark> ta'sir qilishi mumkin. Ular boshqa bolalar bilan muloqot qilmasligi sababli ijtimoiy ko'nikmalarni o'rganmasligi mumkin. Bundan tashqari, ular uy vazifalarini qilmasliklari mumkin, bu esa maktabdagi baholariga ta'sir qilishi mumkin. Bu <mark>vaqtni behuda sarflashga o'xshaydi</mark>.</p>\n\n<p>Xulosa qilib aytganda, televizor dasturlarining mazmuni ham, bolalarning ularni tomosha qilishga sarflagan vaqti ham ularning xulq-atvoriga ta'sir qilishi mumkin. Ota-onalar bolalarining nima tomosha qilayotganiga va qancha vaqt tomosha qilayotganiga e'tiborli bo'lishlari kerak. Ular, shuningdek, ularni boshqa faoliyatlar bilan shug'ullanishga undashlari kerak. Muvozanatni saqlash muhim.</p>",
+    "uzSampleBand6": "<p>Televideniye dasturlarining mazmuni yoki bolalarning televizor ko'rishga sarflaydigan vaqti ularning xulq-atvoriga qaysi biri ko'proq ta'sir qilishi ko'p bahs qilinadi. Ikkala nuqtai nazar ham o'rinli va fikr bildirishdan oldin argumentning ikkala tomonini ham ko'rib chiqish muhimdir. <mark>Bir tomondan</mark>, bolalar duch keladigan mazmun ularga albatta ta'sir qilishi mumkin.</p>\n\n<p>Agar bolalar doimiy ravishda zo'ravonlik dasturlarini ko'rishsa, ular zo'ravonlikka nisbatan sezgirlikni yo'qotishi va tajovuzkor xatti-harakatlarda qatnashish ehtimoli ko'proq bo'lishi mumkin. Xuddi shunday, agar ular zararli turmush tarzini targ'ib qiluvchi ko'rsatuvlarni tomosha qilsalar, masalan, keraksiz ovqatlarni haddan tashqari iste'mol qilish, bu ularning o'z odatlariga <mark>salbiy ta'sir ko'rsatishi</mark> mumkin. Biroq, ijobiy namunalarga ega dasturlar bolalarni yaxshi qadriyatlar va xatti-harakatlarni rivojlantirishga undashi mumkin. Shuning uchun mazmunning ta'siri inkor etib bo'lmaydi va ota-onalar farzandlari nima tomosha qilayotganiga e'tiborli bo'lishlari kerak.</p>\n\n<p>Biroq, televizor ko'rishga sarflangan vaqt ham muhim omil hisoblanadi. Mazmun nisbatan zararsiz bo'lsa ham, televizor oldida <mark>juda ko'p vaqt o'tkazish</mark> zararli ta'sir ko'rsatishi mumkin. Televizor ko'rishga soatlab vaqt sarflaydigan bolalar jismoniy faoliyat bilan shug'ullanish ehtimoli kamroq, bu esa semizlik va boshqa sog'liq muammolariga olib kelishi mumkin. Shuningdek, ularda o'qish, o'ynash va do'stlar va oila bilan muloqot qilish kabi boshqa muhim faoliyatlar uchun kamroq vaqt bo'lishi mumkin. Bu ularning kognitiv va ijtimoiy rivojlanishiga ta'sir qilishi mumkin. <mark>Shuningdek, shunday ishoniladi</mark>ki, haddan tashqari ekran vaqti ularning diqqat davomiyligiga ta'sir qilishi mumkin.</p>\n\n<p>Xulosa qilib aytganda, televizor ko'rishga sarflangan mazmun ham, vaqt ham bolalarning xulq-atvoriga ta'sir qilishi mumkin. Mazmun ularning qadriyatlari va munosabatlarini shakllantirishi mumkin bo'lsa, ko'rishga sarflangan vaqt ularning jismoniy va kognitiv rivojlanishiga ta'sir qilishi mumkin. Mening fikrimcha, ikkala omil ham muhim va ota-onalar <mark>bolalarga televizordan zavqlanishga ruxsat berish</mark> va uning salbiy ta'siriga uchramasligini ta'minlash o'rtasida muvozanatni topishga intilishlari kerak.</p>",
+    "uzSampleBand7": "<p>Televideniyening bolalarning xulq-atvoriga qanday ta'sir qilishi masalasi ancha munozarali mavzu. Ba'zilar dasturlarning mazmuni asosiy ta'sir o'tkazadi, deb hisoblasa, boshqalar televizor ko'rishga sarflangan vaqtning o'zi muhimroq omil deb hisoblaydi. <mark>Ikkala nuqtai nazar ham o'rinli</mark>, va mening fikrimcha, ikkalasi ham bolaning xulq-atvorini shakllantirishga hissa qo'shadi, garchi vaqt miqdori ko'proq tarqalgan ta'sir bo'lishi mumkin.</p>\n\n<p>Mazmunning ta'sirini ta'kidlaydiganlar ko'pincha zo'ravonlik, noo'rin til yoki hayotning noreal tasvirlariga <mark>duchor bo'lish ehtimolini</mark> ko'rsatadilar. Ta'kidlanishicha, bolalar, ayniqsa juda yosh bolalar, juda ta'sirchan bo'lib, ekranda ko'rgan narsalariga taqlid qilishlari mumkin. Misol uchun, multfilmlarda doimiy ravishda tajovuzkor xatti-harakatlarga duchor bo'lgan bola o'zaro munosabatlarida shunga o'xshash tendentsiyalarni namoyon qilishi mumkin. Bundan tashqari, televizion dasturlarda taqdim etilgan qadriyatlar va munosabatlar bolaning dunyoqarashini va undagi o'rnini shakllantirishi mumkin. Biroq, bu nuqtai nazar ota-onalarning va o'qituvchilarning bu ta'sirlarni vositachilik qilishdagi <mark>rolini e'tibordan chetda qoldiradi</mark>.</p>\n\n<p>Aksincha, televizor ko'rishga sarflangan vaqt ko'proq ta'sir qiladi degan argument shuni ko'rsatadiki, haddan tashqari ko'rish boshqa muhim faoliyatlarni almashtirishi mumkin. Televizor oldida soatlab vaqt o'tkazadigan bolalar jismoniy faoliyat bilan shug'ullanishi, kitob o'qishi yoki oila va do'stlar bilan muloqot qilish ehtimoli kamroq. Bu semizlik, yomon ijtimoiy ko'nikmalar va akademik ko'rsatkichlarning pasayishi kabi bir qator salbiy oqibatlarga olib kelishi mumkin. Bundan tashqari, <mark>uzoq vaqt ekran oldida o'tirish</mark> bolaning kognitiv rivojlanishiga zarar etkazishi mumkin, chunki u tanqidiy fikrlash va muammolarni hal qilish ko'nikmalarining rivojlanishiga to'sqinlik qilishi mumkin. Mazmun zararsiz bo'lishi mumkin bo'lsa-da, ko'rishning katta hajmi hali ham sezilarli ta'sir ko'rsatishi mumkin.</p>\n\n<p>Xulosa qilib aytganda, televizion dasturlarning mazmuni bolalarning xulq-atvorini shakllantirishda shubhasiz rol o'ynasa-da, televizor ko'rishga sarflangan vaqt bahsli ravishda muhimroq omildir. Haddan tashqari ko'rish bilan bog'liq <mark>muhim faoliyatlarning o'rnini bosishi</mark> va kognitiv buzilish ehtimoli uzoq muddatli oqibatlarga olib kelishi mumkin. Shuning uchun ota-onalar <mark>muvozanatga erishishga</mark> harakat qilishlari kerak, bolalarning yoshiga mos va ta'limiy mazmunga ega bo'lishini ta'minlash, shuningdek, ularning umumiy ekran vaqtini cheklash va boshqa foydali faoliyatlarni rag'batlantirish kerak. Bu shunchaki bolalar <mark>nima ko'rishi</mark> emas, balki qancha ko'rishi muhimdir.</p>",
+    "uzSampleBand8": "<p>Bolalarning xulq-atvoriga ta'sir ko'rsatuvchi omillar atrofidagi munozaralar ko'pincha televideniyoga qaratiladi, ba'zilar dasturlarning mazmuni asosiy omil deb hisoblasa, boshqalar TV tomosha qilishga sarflangan vaqtning o'zi muhimroq deb hisoblaydi. Ikkala nuqtai nazar ham <mark>ma'lum darajada asosga ega</mark>, va ushbu insho ushbu qarashlarni o'rganib, so'ngra puxta o'ylangan fikrni taqdim etadi.</p>\n\n<p>Mazmun argumentining tarafdorlari bolalar nima tomosha qilsa, ularning dunyoqarashi va xulq-atvorini bevosita shakllantiradi deb hisoblaydi. Misol uchun, zo'ravonlik multfilmlari yoki <mark>antisotsial xatti-harakatlarni jozibador ko'rsatadigan</mark> dasturlarni tomosha qilish bolalarni zo'ravonlikka befarq qoldirishi yoki salbiy rol modellariga taqlid qilishiga olib kelishi mumkin. Aksincha, ta'lim dasturlari ijobiy qadriyatlarni shakllantirishi va bilim bazasini kengaytirishi mumkin. Ommaviy axborot vositalarini iste'mol qilish va xulq-atvor o'rtasida o'zaro bog'liqlikni ko'rsatadigan ko'plab tadqiqotlar mavjud, ammo aniq sababiy bog'liqlikni o'rnatish murakkabligicha qolmoqda. Bundan tashqari, bolalar dasturlarida reklamaning <mark>hamma joyda mavjudligi</mark> ularning istaklari va moddiy manfaatdorligiga ta'sir qilishi mumkin.</p>\n\n<p>Aksincha, \"sarflangan vaqt\" argumenti mazmunidan qat'i nazar, haddan tashqari televizor tomosha qilish bolaning rivojlanishiga salbiy ta'sir ko'rsatishi mumkinligini ta'kidlaydi. Ekranga tikilib soatlab vaqt sarflash muhim ijtimoiy muloqot, jismoniy faollik va ijodiy o'yin uchun imkoniyatlarni kamaytiradi. Bu ijtimoiy izolyatsiyaga, semirishga va <mark>muhim</mark> kognitiv va ijtimoiy ko'nikmalarning <mark>zaiflashuviga</mark> olib kelishi mumkin. Hatto zararsiz ko'rinadigan dasturlar ham ko'proq foydali faoliyatlarni siqib chiqarsa, bu muammoga hissa qo'shishi mumkin. Bolalar har tomonlama rivojlanish uchun turli xil tajribalarga muhtoj va haddan tashqari ekran vaqti muqarrar ravishda bu imkoniyatlarni cheklaydi. Bu, ayniqsa, miyasi tez rivojlanayotgan va real dunyo tajribasi muhim bo'lgan juda yosh bolalar uchun to'g'ri.</p>\n\n<p>Xulosa qilib aytganda, televizion dasturlarning mazmuni, albatta, bolalarning xulq-atvorini shakllantirishda rol o'ynasa-da, menimcha, televizor tomosha qilishga sarflangan vaqt oxir-oqibat eng muhim omil hisoblanadi. Hatto ijobiy mazmun ham bolaning vaqtining ko'p qismini egallasa, boshqa muhim tajribalarni <mark>siqib chiqarsa</mark>, zararli bo'lishi mumkin. Shuning uchun, ota-onalar ekran vaqti atrofida <mark>sog'lom chegaralarni o'rnatishga</mark>, turli xil faoliyatlarni o'z ichiga olgan muvozanatli turmush tarzini rag'batlantirishga e'tibor qaratishlari kerak. <mark>Ushbu muvozanatga erishish</mark> har tomonlama va sog'lom rivojlanishni ta'minlash uchun juda muhimdir. Uzoq vaqt tomosha qilishning salbiy oqibatlarini yumshatish uchun oilalar tomosha qilingan dasturlar haqida <mark>faol muhokamalarda ishtirok etishlari</mark>, <mark>shu bilan kontekst va tanqidiy tahlilni ta'minlashlari</mark> kerak.</p>",
+    "uzSampleBand9": "<p>Bolalarning xulq-atvoriga televizorning ta'siri atrofidagi bahslar ko'pincha ikki asosiy nuqtai nazarga qaratiladi: ular iste'mol qiladigan kontent va tomosha qilish davomiyligi. Ikkala jihat ham, shubhasiz, rol o'ynasa-da, ularning nisbiy ta'siri ehtiyotkorlik bilan ko'rib chiqishga arziydigan murakkab masala. Menimcha, bolalar tomosha qiladigan kontent oxir-oqibatda ko'proq ta'sir ko'rsatadi, garchi tomosha qilishga sarflangan vaqt har qanday salbiy ta'sirni kuchaytiradi.</p>\n\n<p>\"Kontent muhimroq\" argumentining tarafdorlari <mark>namuna kuchini</mark> ta'kidlashadi. Bolalar juda ta'sirchan va ekranda tasvirlangan xatti-harakatlarni kuzatish orqali o'rganadilar. Agar ular doimiy ravishda zo'ravonlik, tajovuzkorlik yoki hurmatsizlik munosabatlariga duchor bo'lsalar, o'zaro munosabatlarida bu xatti-harakatlarni ichki tomondan qabul qilishlari va takrorlashlari ehtimoli ko'proq. Boshqa tomondan, ta'lim dasturlari hamdardlik, hamkorlik va tanqidiy fikrlash kabi ijobiy qadriyatlarni rivojlantirishi mumkin. <mark>Bundan tashqari, bolalar qatnashadigan hikoyalar</mark> ularning dunyoqarashini shakllantirishi, e'tiqodlari, intilishlari va hatto o'zligini anglashlariga ta'sir qilishi mumkin. Shuning uchun bolalarning qanday dasturlarga kirishini nazorat qilish sog'lom rivojlanishni rag'batlantirish uchun juda muhimdir.</p>\n\n<p>Aksincha, \"sarflangan vaqt\" argumenti shuni ko'rsatadiki, kontentdan qat'i nazar, televizorni haddan tashqari tomosha qilish xulq-atvorga salbiy ta'sir ko'rsatishi mumkin. Ekranga yopishib qolgan holda son-sanoqsiz soatlarni o'tkazish ochiq havoda o'ynash, ijtimoiy munosabatlarga kirishish va sevimli mashg'ulotlar bilan shug'ullanish kabi muhim real dunyo tajribalari uchun imkoniyatlarni kamaytiradi. Bu ijtimoiy izolyatsiya, e'tibor tanqisligi va jismoniy salomatlikning pasayishiga olib kelishi mumkin. <mark>Uzoq muddatli ekran vaqti ham</mark> uyqu buzilishlari bilan bog'langan, bu esa kayfiyatga, konsentratsiyaga va umumiy farovonlikka ta'sir qilishi mumkin. Shuning uchun bolalarning televizor tomosha qilish vaqtini cheklash ushbu salbiy oqibatlarning oldini olish uchun zarurdir.</p>\n\n<p>Mening fikrimcha, ekran vaqti haddan tashqari bo'lsa-da, bolalar duch keladigan kontentning *turi* ularning xulq-atvoriga chuqurroq va uzoq muddatli ta'sir ko'rsatadi. O'rtacha miqdorda ta'lim va boyituvchi dasturlarni tomosha qiladigan bola xuddi shu vaqtni zo'ravonlik yoki nomaqbul kontentni tomosha qilishga sarflaydigan bolaga qaraganda ijobiyroq rivojlanishi mumkin. Biroq, ikkala omil o'zaro bog'liqligini tan olish muhim. <mark>Bolalar televizorni qancha ko'p tomosha qilsalar</mark>, zararli kontentga duchor bo'lish ehtimoli shunchalik yuqori bo'ladi va ularga ta'sir qilish ehtimoli shunchalik yuqori bo'ladi. <mark>Oxir oqibat, muvozanatli yondashuv talab etiladi</mark>, bu televizor tomosha qilishning sifati va miqdoriga ustunlik beradi. Ota-onalar bolalarining tomosha qilish odatlarini faol ravishda kuzatib borishlari, yoshga mos va ta'limiy dasturlarni tanlashlari, shuningdek, ularni boshqa turli xil tadbirlar bilan shug'ullanishga undashlari kerak. <mark>Ushbu ko'p qirrali strategiya televizorning salbiy ta'sirini yumshatish va uning ijobiy ta'sir sifatida salohiyatidan foydalanishning eng yaxshi imkoniyatini beradi</mark>.</p>\n\n<p>Xulosa qilib aytganda, televizor tomosha qilishning kontenti va davomiyligi bolalarning xulq-atvoriga ta'sir qilsa-da, kontent muhimroq omil bo'lib ko'rinadi. <mark>Ota-onalar bolalar tomosha qiladigan dasturlarni ehtiyotkorlik bilan tanlab</mark> va ularning umumiy ekran vaqtini cheklab, televizor salbiy ta'sir manbai emas, balki o'rganish va rivojlanish uchun qimmatli vosita bo'lishini ta'minlashga yordam berishi mumkin. <mark>Ushbu faol yondashuv</mark> zamonaviy bolalikning murakkabliklarini boshqarishda muhim ahamiyatga ega.</p>"
+   }
+  },
+  "source": "Makkar IELTS",
+  "examDate": "2020-11-14",
+  "settings": {
+   "timeInfo": "60 Minutes",
+   "moduleTitle": "Academic Writing Module",
+   "testIdentifier": "Mock 27"
+  },
+  "vocabulary": {
+   "task1": [
+    {
+     "term": "Renewable energy",
+     "meaning": "Energy from sources that are naturally replenished, such as solar or wind."
+    },
+    {
+     "term": "Total energy supply",
+     "meaning": "The complete amount of energy available for use."
+    },
+    {
+     "term": "Proportion",
+     "meaning": "A part or share of a whole, often expressed as a percentage."
+    },
+    {
+     "term": "Varied significantly",
+     "meaning": "Differed to a large degree."
+    },
+    {
+     "term": "Notable improvement",
+     "meaning": "A clear and significant positive change."
+    },
+    {
+     "term": "Minimal change",
+     "meaning": "Very little or no difference."
+    },
+    {
+     "term": "Low bases",
+     "meaning": "Starting points that are relatively small."
+    },
+    {
+     "term": "Modest progress",
+     "meaning": "Limited or small advancement."
+    }
+   ],
+   "task2": [
+    {
+     "term": "Impressionable",
+     "meaning": "Easily influenced or affected by others."
+    },
+    {
+     "term": "Normalize",
+     "meaning": "Make something seem normal or acceptable."
+    },
+    {
+     "term": "Cognitive development",
+     "meaning": "The growth of thinking and learning abilities."
+    },
+    {
+     "term": "Prosocial content",
+     "meaning": "Media that promotes positive social behaviors."
+    },
+    {
+     "term": "Displaces",
+     "meaning": "Takes the place of something else."
+    },
+    {
+     "term": "Academic performance",
+     "meaning": "How well someone does in school or studies."
+    },
+    {
+     "term": "Curated programming",
+     "meaning": "Content that has been carefully selected."
+    },
+    {
+     "term": "Behavioral development",
+     "meaning": "The way actions and conduct grow and change over time."
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "every time": {
+    "uz": "har safar",
+    "type": "linking"
+   },
+   "led the way": {
+    "uz": "yo'l boshladi",
+    "type": "colloc"
+   },
+   "crowding out": {
+    "uz": "siqib chiqarish",
+    "type": "lexical"
+   },
+   "More and more": {
+    "uz": "Ko'proq va ko'proq",
+    "type": "linking"
+   },
+   "gradual shift": {
+    "uz": "asta-sekin o'zgarish",
+    "type": "colloc"
+   },
+   "just the time": {
+    "uz": "aynan o'sha vaqt",
+    "type": "colloc"
+   },
+   "in the year of": {
+    "uz": "yilida",
+    "type": "lexical"
+   },
+   "On the one hand": {
+    "uz": "Bir tomondan",
+    "type": "linking"
+   },
+   "accelerated pace": {
+    "uz": "tezlashgan sur'at",
+    "type": "colloc"
+   },
+   "noticeable surge": {
+    "uz": "sezilarli ko'tarilish",
+    "type": "lexical"
+   },
+   "readily apparent": {
+    "uz": "osonlik bilan ko'rinadi",
+    "type": "academic"
+   },
+   "strike a balance": {
+    "uz": "muvozanatni topish",
+    "type": "colloc"
+   },
+   "brain development": {
+    "uz": "miya rivojlanishi",
+    "type": "lexical"
+   },
+   "ubiquitous nature": {
+    "uz": "keng tarqalgan xususiyat",
+    "type": "lexical"
+   },
+   "a concerted effort": {
+    "uz": "kelishilgan harakat",
+    "type": "colloc"
+   },
+   "as a percentage of": {
+    "uz": "foiz sifatida",
+    "type": "lexical"
+   },
+   "overlooks the role": {
+    "uz": "rolini e'tibordan chetda qoldiradi",
+    "type": "academic"
+   },
+   "power of modelling": {
+    "uz": "namuna kuch",
+    "type": "lexical"
+   },
+   "It can be seen that": {
+    "uz": "Shuni ko'rish mumkinki",
+    "type": "academic"
+   },
+   "what children watch": {
+    "uz": "bolalar nimani tomosha qiladi",
+    "type": "colloc"
+   },
+   "immediately apparent": {
+    "uz": "darhol ko'rinadi",
+    "type": "academic"
+   },
+   "like a waste of time": {
+    "uz": "vaqtni behuda sarflashga o'xshaydi",
+    "type": "idiom"
+   },
+   "Striking this balance": {
+    "uz": "Ushbu muvozanatni saqlash",
+    "type": "colloc"
+   },
+   "over the period given": {
+    "uz": "berilgan davr mobaynida",
+    "type": "lexical"
+   },
+   "prolonged screen time": {
+    "uz": "uzoq vaqt ekran qarshisida o'tirish",
+    "type": "lexical"
+   },
+   "think its okay to hit": {
+    "uz": "urish yaxshi deb o'ylash",
+    "type": "idiom"
+   },
+   "witnessed an increase": {
+    "uz": "o'sishga guvoh bo'ldi",
+    "type": "lexical"
+   },
+   "have a negative impact": {
+    "uz": "salbiy ta'sir ko'rsatish",
+    "type": "colloc"
+   },
+   "potential for exposure": {
+    "uz": "ta'sir qilish imkoniyati",
+    "type": "lexical"
+   },
+   "showed an upward trend": {
+    "uz": "o'sish tendentsiyasini ko'rsatdi",
+    "type": "lexical"
+   },
+   "slightly to just under": {
+    "uz": "birozdan deyarli tagigacha",
+    "type": "lexical"
+   },
+   "spending too much time": {
+    "uz": "juda ko'p vaqt sarflash",
+    "type": "colloc"
+   },
+   "ended at a higher level": {
+    "uz": "yuqori darajada tugadi",
+    "type": "lexical"
+   },
+   "had risen substantially": {
+    "uz": "sezilarli darajada ko'tarilgan edi",
+    "type": "lexical"
+   },
+   "maintained its position": {
+    "uz": "o'z o'rnini saqlab qoldi",
+    "type": "lexical"
+   },
+   "stood out significantly": {
+    "uz": "sezilarli darajada ajralib turdi",
+    "type": "lexical"
+   },
+   "It is also believed that": {
+    "uz": "Shuningdek, ishoniladi",
+    "type": "academic"
+   },
+   "experienced fluctuations": {
+    "uz": "o'zgarishlarni boshdan kechirdi",
+    "type": "lexical"
+   },
+   "elucidates the proportion": {
+    "uz": "nisbatni aniqlashtiradi",
+    "type": "academic"
+   },
+   "hold a degree of validity": {
+    "uz": "ma'lum bir darajada haqiqiylikka ega",
+    "type": "academic"
+   },
+   "illustrates the proportion": {
+    "uz": "nisbatni ko'rsatadi",
+    "type": "academic"
+   },
+   "lagged considerably behind": {
+    "uz": "sezilarli darajada orqada qoldi",
+    "type": "lexical"
+   },
+   "remained relatively stable": {
+    "uz": "nisbatan barqaror bo'lib qoldi",
+    "type": "lexical"
+   },
+   "Both perspectives have merit": {
+    "uz": "Ikkala nuqtai nazar ham o'rinli.",
+    "type": "academic"
+   },
+   "witnessing a gradual decline": {
+    "uz": "asta-sekin pasayishga guvoh bo'lish",
+    "type": "lexical"
+   },
+   "allowing children to enjoy TV": {
+    "uz": "bolalarga televizordan zavqlanishga ruxsat berish",
+    "type": "colloc"
+   },
+   "experienced a modest increase": {
+    "uz": "ozgina o'sishni boshdan kechirdi",
+    "type": "lexical"
+   },
+   "showed a more marked increase": {
+    "uz": "yanada sezilarli o'sishni ko'rsatdi",
+    "type": "lexical"
+   },
+   "actively engage in discussions": {
+    "uz": "muhokamalarda faol ishtirok etish",
+    "type": "colloc"
+   },
+   "glamorise antisocial behaviour": {
+    "uz": "ijtimoiyga zid xatti-harakatlarni jozibador qilib ko'rsatish",
+    "type": "colloc"
+   },
+   "proportion of renewable energy": {
+    "uz": "qayta tiklanadigan energiya ulushi",
+    "type": "lexical"
+   },
+   "remained relatively consistent": {
+    "uz": "nisbatan barqaror bo'lib qoldi",
+    "type": "lexical"
+   },
+   "stunted development of crucial": {
+    "uz": "muhim narsalarning rivojlanishini to'xtatish",
+    "type": "lexical"
+   },
+   "establishing healthy boundaries": {
+    "uz": "sog'lom chegaralarni o'rnatish",
+    "type": "colloc"
+   },
+   "had the lowest percentage overall": {
+    "uz": "umumiy hisobda eng past foizga ega edi",
+    "type": "lexical"
+   },
+   "This proactive approach is paramount": {
+    "uz": "Ushbu faol yondashuv muhim ahamiyatga ega",
+    "type": "academic"
+   },
+   "displacement of essential activities": {
+    "uz": "muhim faoliyatlarning o'rnini bosish",
+    "type": "lexical"
+   },
+   "Ultimately, a balanced approach is required": {
+    "uz": "Oxir-oqibat, muvozanatli yondashuv talab etiladi",
+    "type": "academic"
+   },
+   "Prolonged screen time has also been linked to": {
+    "uz": "Uzoq vaqt ekran qarshisida o'tirish ham bog'langan",
+    "type": "academic"
+   },
+   "thereby providing context and critical analysis": {
+    "uz": "shu bilan birga kontekst va tanqidiy tahlilni ta'minlaydi",
+    "type": "academic"
+   },
+   "Furthermore, the narratives children engage with": {
+    "uz": "Bundan tashqari, bolalar qatnashadigan hikoyalar",
+    "type": "linking"
+   },
+   "The more time children spend watching television": {
+    "uz": "Bolalar televizor tomosha qilishga qancha ko'p vaqt sarflasa",
+    "type": "colloc"
+   },
+   "represents a substantial increase percentage-wise": {
+    "uz": "foiz hisobida sezilarli o'sishni ifodalaydi",
+    "type": "lexical"
+   },
+   "By carefully curating the programmes children watch": {
+    "uz": "Bolalarning tomosha qiladigan dasturlarini diqqat bilan tanlash orqali",
+    "type": "colloc"
+   },
+   "This multifaceted strategy offers the best chance of": {
+    "uz": "Ushbu ko'p qirrali strategiya eng yaxshi imkoniyatni taqdim etadi",
+    "type": "academic"
+   }
+  }
+ },
+ "created_at": "2026-05-06T17:29:05.679404+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

@@ -1,0 +1,457 @@
+{
+ "id": 2265,
+ "mock_type": "ket-listening",
+ "mock_number": 3,
+ "title": "KET Listening — Test 3",
+ "status": "published",
+ "mock_data": {
+  "audio": {
+   "base": "https://audio.mock-stream.com/KET-Listening/test3/",
+   "files": {
+    "1": "PART1.m4a",
+    "2": "PART2.m4a",
+    "3": "PART3.m4a",
+    "4": "PART4.m4a",
+    "5": "PART5.m4a"
+   }
+  },
+  "parts": [
+   {
+    "type": "picture-mcq",
+    "items": [
+     {
+      "id": 1,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q1A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q1B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q1C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "How does the man travel to Liverpool?"
+     },
+     {
+      "id": 2,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q2A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q2B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q2C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Which bill has just arrived?"
+     },
+     {
+      "id": 3,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q3A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q3B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q3C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What will they do tomorrow afternoon?"
+     },
+     {
+      "id": 4,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q4A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q4B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q4C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "How did the man hear about the fire?"
+     },
+     {
+      "id": 5,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q5A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q5B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q5C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What time did Mr Thompson ring?"
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "image": "q0A.png",
+       "letter": "A"
+      },
+      {
+       "image": "q0B.png",
+       "letter": "B"
+      },
+      {
+       "image": "q0C.png",
+       "letter": "C"
+      }
+     ],
+     "question": "What time is it?"
+    },
+    "imageBase": "https://audio.mock-stream.com/KET-Listening/test3/p1/",
+    "partNumber": 1,
+    "instruction": [
+     "You will hear five short conversations.",
+     "You will hear each conversation twice.",
+     "There is one question for each conversation.",
+     "For questions 1–5, put a tick (✓) under the right answer."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "matching-list",
+    "items": [
+     {
+      "id": 6,
+      "name": "Barbara",
+      "answer": "F"
+     },
+     {
+      "id": 7,
+      "name": "Paul",
+      "answer": "C"
+     },
+     {
+      "id": 8,
+      "name": "Diana",
+      "answer": "D"
+     },
+     {
+      "id": 9,
+      "name": "Jim",
+      "answer": "B"
+     },
+     {
+      "id": 10,
+      "name": "Julie",
+      "answer": "G"
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "name": "Kevin",
+     "answer": "E",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "coffee",
+      "letter": "A"
+     },
+     {
+      "text": "coke",
+      "letter": "B"
+     },
+     {
+      "text": "ice-cream",
+      "letter": "C"
+     },
+     {
+      "text": "milk",
+      "letter": "D"
+     },
+     {
+      "text": "orange juice",
+      "letter": "E"
+     },
+     {
+      "text": "sandwich",
+      "letter": "F"
+     },
+     {
+      "text": "tea",
+      "letter": "G"
+     },
+     {
+      "text": "water",
+      "letter": "H"
+     }
+    ],
+    "scenario": "Jim and Julie at a party — what guests want to eat/drink",
+    "leftLabel": "PEOPLE",
+    "partNumber": 2,
+    "rightLabel": "FOOD AND DRINK",
+    "instruction": [
+     "Listen to Jim and Julie talking at a party.",
+     "What do the guests want to eat or drink?",
+     "For questions 6–10, write a letter A–H next to each person.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-conversation",
+    "items": [
+     {
+      "id": 11,
+      "stem": "The plane leaves at",
+      "answer": "B",
+      "options": [
+       {
+        "text": "12 a.m.",
+        "letter": "A"
+       },
+       {
+        "text": "2 p.m.",
+        "letter": "B"
+       },
+       {
+        "text": "3 p.m.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "stem": "The bus station is in",
+      "answer": "C",
+      "options": [
+       {
+        "text": "Bill Street.",
+        "letter": "A"
+       },
+       {
+        "text": "Hill Street.",
+        "letter": "B"
+       },
+       {
+        "text": "Mill Street.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "stem": "The journey to the airport takes",
+      "answer": "B",
+      "options": [
+       {
+        "text": "1 hour 15 minutes.",
+        "letter": "A"
+       },
+       {
+        "text": "1 hour 30 minutes.",
+        "letter": "B"
+       },
+       {
+        "text": "1 hour 45 minutes.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "stem": "The man's ticket to Buenos Aires will cost",
+      "answer": "A",
+      "options": [
+       {
+        "text": "£240.",
+        "letter": "A"
+       },
+       {
+        "text": "£300.",
+        "letter": "B"
+       },
+       {
+        "text": "£320.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "stem": "The coach costs",
+      "answer": "A",
+      "options": [
+       {
+        "text": "£13.50.",
+        "letter": "A"
+       },
+       {
+        "text": "£14.50.",
+        "letter": "B"
+       },
+       {
+        "text": "£30.50.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "stem": "You can fly to Buenos Aires",
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "text": "once a week.",
+       "letter": "A"
+      },
+      {
+       "text": "twice a week.",
+       "letter": "B"
+      },
+      {
+       "text": "three times a week.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partNumber": 3,
+    "instruction": [
+     "Listen to a man asking for information in a travel agency.",
+     "For questions 11–15, tick (✓) A, B or C.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "rows": [
+     {
+      "id": 16,
+      "label": "Name of hospital:",
+      "answer": "City"
+     },
+     {
+      "id": 17,
+      "label": "Room:",
+      "answer": "G8"
+     },
+     {
+      "id": 18,
+      "label": "Floor:",
+      "answer": "3rd"
+     },
+     {
+      "id": 19,
+      "label": "Visiting hours:",
+      "answer": "7 p.m.",
+      "prefix": "4 p.m. to",
+      "suffix": "every day"
+     },
+     {
+      "id": 20,
+      "label": "Please take:",
+      "answer": "some magazines"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 4",
+    "subtitle": "He's hurt his: leg",
+    "noteTitle": "Toni's had an accident.",
+    "partNumber": 4,
+    "instruction": [
+     "You will hear a girl talking about her brother, Toni.",
+     "Listen and complete questions 16–20.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "rows": [
+     {
+      "id": 21,
+      "label": "Food in:",
+      "answer": "Black",
+      "suffix": "Cat Tea Room"
+     },
+     {
+      "id": 22,
+      "label": "Opens at:",
+      "answer": "10.30"
+     },
+     {
+      "label": "Closes at:",
+      "prefilled": "5 p.m."
+     },
+     {
+      "id": 23,
+      "label": "Family ticket costs:",
+      "answer": "17",
+      "prefix": "£"
+     },
+     {
+      "id": 24,
+      "label": "Don't bring:",
+      "answer": "dog"
+     },
+     {
+      "id": 25,
+      "label": "Not far from:",
+      "answer": "the river"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 5",
+    "subtitle": "To see: Farm Animals",
+    "noteTitle": "PARK FARM",
+    "partNumber": 5,
+    "instruction": [
+     "You will hear some information about a farm.",
+     "Listen and complete questions 21–25.",
+     "You will hear the information twice."
+    ],
+    "questionsLabel": "QUESTIONS 21–25"
+   }
+  ],
+  "testInfo": {
+   "id": "ket-l-3",
+   "level": "A2",
+   "paper": "Paper 2",
+   "parts": 5,
+   "title": "KET Listening — Test 3",
+   "totalTime": 30,
+   "totalQuestions": 25
+  }
+ },
+ "created_at": "2026-10-14T06:45:18.205024+00:00",
+ "updated_at": "2026-10-14T06:47:04.822177+00:00"
+}

@@ -1,0 +1,653 @@
+{
+ "id": 92,
+ "mock_type": "cefr-writing",
+ "mock_number": 82,
+ "title": "CEFR Writing Mock 82",
+ "status": "published",
+ "mock_data": {
+  "part1": {
+   "chip": "housing",
+   "topic": "Furniture store"
+  },
+  "tasks": {
+   "t2": {
+    "chip": "education",
+    "genre": "article",
+    "title": "It better to rent or buy a home",
+    "prompt": "A student magazine announced an article writing contest. The best ones will be published in the magazine. Write your article on this topic: \"Is it better to rent or buy a home?\" Write 180–200 words, giving reasons and examples.",
+    "sample": "<p>The <span class=\"ml-token colloc\">rent versus buy</span> debate is relevant for young adults everywhere. I believe the best choice depends on individual circumstances.</p>\n\n<p><span class=\"ml-token adv\">Firstly</span>, buying a home builds <span class=\"ml-token colloc\">long-term wealth</span>. <span class=\"ml-token colloc\">Property values</span> <span class=\"ml-token adv\">typically</span> increase over time, and mortgage payments contribute to ownership rather than disappearing as rent. <span class=\"ml-token adv\">Eventually</span>, homeowners have a valuable asset.</p>\n\n<p><span class=\"ml-token adv\">Secondly</span>, owning provides stability and freedom. Homeowners can renovate, decorate, and stay <span class=\"ml-token adv\">indefinitely</span> without fear of <span class=\"ml-token colloc\">landlord decisions</span> or <span class=\"ml-token colloc\">rent increases</span>.</p>\n\n<p><span class=\"ml-token adv\">However</span>, renting offers significant advantages. <span class=\"ml-token colloc\">Flexibility</span> is crucial for young professionals who may relocate for career opportunities. Renters avoid <span class=\"ml-token colloc\">maintenance costs</span>, <span class=\"ml-token colloc\">property taxes</span>, and the <span class=\"ml-token colloc\">financial risk</span> of falling property values.</p>\n\n<p><span class=\"ml-token adv\">Furthermore</span>, <span class=\"ml-token colloc\">housing affordability</span> varies dramatically by location. In expensive cities, renting <span class=\"ml-token modal\">may</span> be the only <span class=\"ml-token colloc\">viable option</span> for years while saving for a deposit.</p>\n\n<p><span class=\"ml-token adv\">In conclusion</span>, young people <span class=\"ml-token modal\">should</span> rent while building careers and savings, then consider buying when ready to settle. Neither option is <span class=\"ml-token adv\">universally</span> better – <span class=\"ml-token colloc\">personal circumstances</span> determine the right choice.</p>",
+    "target": "180–200 words",
+    "sampleA1": "<p>Hi!<br>I buy chair. Good chair. I like it. Shop good. Bye!</p>",
+    "sampleA2": "<p>Hello,<br>I buy a table from your shop. The table is nice and I like it. The delivery was okay, but it was late. I think you need more chairs. Thank you.</p>",
+    "sampleB1": "<p>Dear HomeStyle Team,<br>I am writing to you about my recent purchase. I bought a sofa and a lamp. The product selection was good, you had many options. The quality seems okay so far, but I haven't had them for long. The delivery was on time, however, the assembly was a bit difficult. I think you should offer more help with assembly.<br>In my opinion, you could also sell more decorations, like pictures and plants. That would be helpful. Thank you for your service.<br>Sincerely,<br>Muattar Aliyeva</p>",
+    "sampleB2": "Renting or Buying: What's the Smart Move?\nAsk almost any young person what they dream of, and owning a home is bound to come up. But with prices sky-high, is buying really the best path — or is renting an option worth a second look?\n<span class=\"ml-token linking\">On the one hand</span>, buying a home is a solid <span class=\"ml-token colloc\">long-term investment</span>. Every mortgage payment <span class=\"ml-token colloc\">builds equity</span>, and over time property values tend to climb, leaving owners with a valuable asset. There's also a comforting sense of stability: you can decorate, renovate, and truly make the place your own.\n<span class=\"ml-token linking\">On the other hand</span>, renting offers a kind of freedom that ownership simply can't match. Young professionals who may need to move for work benefit hugely from the flexibility to <span class=\"ml-token idiom\">up sticks and go</span>. Renters also <span class=\"ml-token idiom\">steer clear of</span> hefty maintenance costs, property taxes, and the risk of falling house prices.\nSo, which wins? In my view, it all <span class=\"ml-token phrasal\">comes down to</span> your stage in life. While you're chasing a career and building up savings, renting makes perfect sense. Once you're ready to <span class=\"ml-token phrasal\">settle down</span>, buying becomes the wiser call.\nAt the end of the day, there's no <span class=\"ml-token idiom\">one-size-fits-all</span> answer — only the choice that fits you best.",
+    "uzSample": "<p>Ijara yoki sotib olish bahsi hamma joydagi yoshlar uchun dolzarb. Menimcha, eng yaxshi tanlov individual sharoitlarga bog'liq.</p>\n\n<p>Birinchidan, uy sotib olish uzoq muddatli boylikni yaratadi. Ko'chmas mulk qiymati odatda vaqt o'tishi bilan oshadi va ipoteka to'lovlari ijara sifatida yo'q bo'lib ketish o'rniga egalikka hissa qo'shadi. Oxir-oqibat, uy egalari qimmatli aktivga ega bo'ladilar.</p>\n\n<p>Ikkinchidan, egalik barqarorlik va erkinlikni ta'minlaydi. Uy egalari ta'mirlash, bezash va uy egasining qarorlari yoki ijara narxining oshishidan qo'rqmasdan cheksiz qolishlari mumkin.</p>\n\n<p>Biroq, ijaraga olish sezilarli afzalliklarni taklif etadi. Moslashuvchanlik, martaba imkoniyatlari uchun ko'chib o'tishi mumkin bo'lgan yosh mutaxassislar uchun juda muhimdir. Ijarachilar ta'mirlash xarajatlari, mol-mulk solig'i va mulk qiymatining pasayishi xavfidan qochadilar.</p>\n\n<p>Bundan tashqari, uy-joyning arzonligi joylashuvga qarab keskin farq qiladi. Qimmat shaharlarda, depozit uchun pul yig'ish davrida ijaraga olish yagona maqbul variant bo'lishi mumkin.</p>\n\n<p>Xulosa qilib aytganda, yoshlar martaba va jamg'arma yaratish davrida ijaraga olishlari, keyin esa joylashishga tayyor bo'lganda sotib olishni o'ylab ko'rishlari kerak. Hech qanday variant universal tarzda yaxshiroq emas – shaxsiy sharoitlar to'g'ri tanlovni belgilaydi.</p>",
+    "uzSampleA1": "<p>Salom!<br>Men stul sotib oldim. Yaxshi stul. Menga yoqadi. Do'kon yaxshi. Xayr!</p>",
+    "uzSampleA2": "<p>Salom,<br>Men sizning do'koningizdan stol sotib oldim. Stol chiroyli va menga yoqdi. Yetkazib berish yaxshi bo'ldi, lekin kechikdi. Menimcha, sizga ko'proq stullar kerak. Rahmat.</p>",
+    "uzSampleB1": "<p>Hurmatli HomeStyle jamoasi,<br>Men sizga yaqinda qilgan xaridim haqida yozmoqdaman. Men divan va lampa sotib oldim. Mahsulotlar tanlovi yaxshi edi, sizda ko'plab variantlar bor edi. Sifat hozircha yaxshi ko'rinadi, lekin ularni yaqinda sotib oldim. Yetkazib berish o'z vaqtida bo'ldi, ammo yig'ish biroz qiyin bo'ldi. Menimcha, siz yig'ishda ko'proq yordam taklif qilishingiz kerak.<br>Mening fikrimcha, siz ko'proq bezaklarni, masalan, rasmlar va o'simliklarni ham sotishingiz mumkin. Bu foydali bo'lardi. Xizmatingiz uchun rahmat.<br>Hurmat bilan,<br>Muattar Aliyeva</p>",
+    "uzSampleB2": "<p>Hurmatli HomeStyle jamoasi,<br>Men sizning do'koningizdan yaqinda mebel sotib olish bo'yicha tajribam haqida fikr-mulohazalarimni bildirish uchun yozyapman. Umuman olganda, men qoniqdim, lekin takomillashtirish uchun bir nechta takliflarim bor.<br>Mahsulot tanlovi ta'sirli bo'lib, turli xil uslublar va narxlar diapazonini taklif etadi. Mebelning sifati yuqori ko'rinadi, garchi uning chidamliligini to'liq baholash uchun menga ko'proq vaqt kerak bo'ladi. Yetkazib berish xizmati qoniqarli bo'lib, belgilangan muddat ichida yetib keldi. Biroq, yig'ish bo'yicha ko'rsatmalar aniqroq bo'lishi mumkin edi; men muayyan qadamda qiynaldim va onlayn manbalarga murojaat qilishimga to'g'ri keldi.<br>Qo'shimcha mahsulotlar yoki xizmatlarga kelsak, menimcha, interyer dizayni bo'yicha maslahatlar berish qimmatli qo'shimcha bo'ladi. Ko'pgina mijozlar, shu jumladan men ham, mebellarni muvofiqlashtirish va uyg'un yashash joyini yaratish bo'yicha ekspert maslahatini qadrlashadi. Bundan tashqari, matolarni himoya qilish xizmatlarini taqdim etish dog'lar va eskirishdan xavotirda bo'lgan mijozlarga yoqishi mumkin.<br>E'tiboringiz uchun rahmat. Umid qilamanki, bu sizning mijozlarga xizmat ko'rsatishingizni yaxshilashga yordam beradi.<br>Hurmat bilan,<br>Muattar Aliyeva</p>"
+   },
+   "t11": {
+    "title": "informal letter · to friend",
+    "prompt": "Write a letter to your friend, who is moving into a new apartment. Write about your feelings and what you think they should do.",
+    "sample": "Hey!\n\nI heard you're moving – how exciting! I <span class=\"ml-token adv\">recently</span> furnished my place using HomeStyle and they were <span class=\"ml-token adv\">brilliant</span>! The quality is <span class=\"ml-token adv\">amazing</span> and prices are <span class=\"ml-token adv\">really</span> reasonable. They even offer free <span class=\"ml-token colloc\">assembly service</span>. You <span class=\"ml-token modal\">should</span> <span class=\"ml-token adv\">definitely</span> <span class=\"ml-token phrasal\">check them out</span> before buying elsewhere!\n\n<span class=\"ml-token phrasal\">Take care</span>!",
+    "target": "50–70 words",
+    "sampleA1": "<p>Hi Dilnoza,<br>New house! Good!<br>I like my house. New sofa. Blue.<br>Bye.</p>",
+    "sampleA2": "<p>Hi Dilnoza,<br>I hear you move house. That is good! I am happy for you. <br>I buy sofa for my house. It is from HomeStyle. It is nice and cheap. You can look there. <br>Bye!</p>",
+    "sampleB1": "<p>Hi Dilnoza,<br>I was so happy to hear about your new apartment! That's great news. <br>I just bought some furniture from a shop called HomeStyle. I think you should check them out when you need furniture. The quality is good, and the prices are reasonable. <br>Good luck with the move!<br>Best,<br>Muattar Aliyeva</p>",
+    "sampleB2": "Hi Dilnoza,\nI just heard you're moving into your own place — that's fantastic news, I'm <span class=\"ml-token idiom\">over the moon</span> for you! Since you'll need to <span class=\"ml-token phrasal\">kit it out</span>, you've got to <span class=\"ml-token phrasal\">check out</span> HomeStyle Furniture. I <span class=\"ml-token phrasal\">picked up</span> a few bits there last month and the quality <span class=\"ml-token idiom\">blew me away</span>, plus the prices <span class=\"ml-token idiom\">won't break the bank</span>. <span class=\"ml-token idiom\">Give me a shout</span> if you <span class=\"ml-token idiom\">need a hand</span>!\nLove,\nNigora Yusupova",
+    "uzSample": "<p>Salom!</p>\n<p>Eshitishimcha, ko'chib o'tyapsan – qanday ajoyib! Men yaqinda HomeStyle yordamida uyimni jihozladim va ular juda a'lo darajada edi! Sifatlari ajoyib va narxlari juda maqbul. Ular hatto bepul yig'ish xizmatini ham taklif qilishadi. Boshqa joydan sotib olishdan oldin, albatta, ularni ko'rib chiqishing kerak!</p>\n<p>O'zingni asra!</p>",
+    "uzSampleA1": "<p>Salom, Dilnoza,<br>Yangi uy! Yaxshi!<br>Menga uyim yoqadi. Yangi divan. Ko'k.<br>Xayr.</p>",
+    "uzSampleA2": "<p>Salom, Dilnoza,<br>Eshitishimcha, uyga ko'chib o'tyapsan. Bu yaxshi! Men sen uchun xursandman.<br>Men uyim uchun divan sotib oldim. U HomeStyle'dan. U yaxshi va arzon. Sen u yerga qarashing mumkin.<br>Xayr!</p>",
+    "uzSampleB1": "<p>Salom Dilnoza,<br>Sening yangi kvartirang haqida eshitib juda xursand bo'ldim! Bu ajoyib yangilik.<br>Men yaqinda HomeStyle degan do'kondan mebel sotib oldim. O'ylashimcha, mebelga ehtiyojing bo'lganda ularni tekshirib ko'rishing kerak. Sifati yaxshi va narxlari ham maqbul.<br>Ko'chishingda omad tilayman!<br>Eng yaxshi tilaklar bilan,<br>Muattar Aliyeva</p>",
+    "uzSampleB2": "<p>Aziz Dilnoza,<br>Sizning ko'chishingiz haqida eshitib juda xursand bo'ldim! Yangi kvartira ajoyib imkoniyatdek tuyuladi.<br>Yangi joyni jihozlayotganingiz sababli, yaqinda o'zim foydalangan HomeStyle Furniture do'konini tavsiya qilmoqchiman. Ularning tanlovi juda keng ekanligini va sifati hozircha a'lo darajada ekanligini aniqladim. Boshqa narsaga qaror qilishdan oldin ularning veb-saytini ko'rib chiqish yoki ko'rgazma zaliga tashrif buyurishga arziydi.<br>Xullas, siz va yangi joy uchun xursandman! Agar ko'chishda yordam kerak bo'lsa, menga xabar bering.<br>Eng yaxshi tilaklar bilan,<br>Muattar Aliyeva</p>"
+   },
+   "t12": {
+    "title": "formal letter · to recipient",
+    "prompt": "Write a letter to the furniture store. Write about your feelings and what you think they should do.",
+    "sample": "Dear HomeStyle Team,\n\nThank you for asking about my experience at your <span class=\"ml-token colloc\">furniture store</span>.\n\nI am <span class=\"ml-token adv\">very</span> satisfied with my purchase. The <span class=\"ml-token colloc\">product range</span> was impressive, and the quality exceeded my expectations. Your <span class=\"ml-token colloc\">sales staff</span> were <span class=\"ml-token adv\">extremely</span> helpful without being pushy. The <span class=\"ml-token colloc\">delivery team</span> arrived on time and assembled everything <span class=\"ml-token adv\">professionally</span>.\n\n<span class=\"ml-token adv\">However</span>, I have some suggestions. The <span class=\"ml-token colloc\">showroom layout</span> was <span class=\"ml-token adv\">slightly</span> confusing, making it hard to find specific items. <span class=\"ml-token adv\">Additionally</span>, the <span class=\"ml-token colloc\">delivery window</span> of 4 hours was <span class=\"ml-token adv\">rather</span> inconvenient for working people.\n\nI <span class=\"ml-token modal\">would</span> appreciate an <span class=\"ml-token colloc\">interior design</span> consultation service. A <span class=\"ml-token colloc\">virtual room planner</span> tool on your website <span class=\"ml-token modal\">would</span> help customers visualize furniture. <span class=\"ml-token adv\">Also</span>, offering <span class=\"ml-token colloc\">eco-friendly furniture</span> options <span class=\"ml-token modal\">would</span> attract environmentally conscious buyers.\n\n<span class=\"ml-token adv\">Overall</span>, I am delighted with my purchase.\n\nYours sincerely,\nMuattar Aliyeva",
+    "target": "120–150 words",
+    "sampleA1": "<p>Hi HomeStyle!</p>\r\n<p>I buy chair. Chair good. <br> Delivery man nice. <br> I like shop. Bye!</p>",
+    "sampleA2": "<p>Hello HomeStyle,</p>\r\n<p>Thank you for the letter. I bought a table and chairs. The table is good, and the chairs are nice too. <br> The delivery was okay, but it was late. I was waiting. <br> Maybe you can sell more lamps? And maybe the delivery can be faster. Thank you!</p>\r\n<p>Bye,</p>\r\n<p>Muattar Aliyeva</p>",
+    "sampleB1": "<p>Dear HomeStyle Furniture,</p>\r\n<p>Thank you for your email. I wanted to tell you about my experience with your store. I bought a sofa and I like it very much. The quality seems good, and it's comfortable.</p>\r\n<p>The delivery was mostly good, however, the men who delivered the sofa were a little late. Also, I think you should have more options for smaller apartments. It was difficult to find something that fit my living room.</p>\r\n<p>In my opinion, you could also offer some discounts for students or senior citizens. That would be a good idea. Overall, I am happy with my purchase. </p>\r\n<p>Sincerely,<br>Muattar Aliyeva</p>",
+    "sampleB2": "Dear HomeStyle Team,\nThank you for your email asking about my recent purchase.\n<span class=\"ml-token linking\">On the whole</span>, I was thoroughly impressed with my experience. Your <span class=\"ml-token colloc\">product selection</span> was wide-ranging, catering to every taste and budget, and the quality of the furniture has <span class=\"ml-token colloc\">exceeded my expectations</span>. The delivery arrived right on schedule, and the team assembled everything with great care, which I really appreciated.\n<span class=\"ml-token linking\">That said</span>, I would like to <span class=\"ml-token phrasal\">put forward</span> a couple of suggestions. Firstly, the four-hour <span class=\"ml-token colloc\">delivery window</span> is <span class=\"ml-token colloc\">rather inconvenient</span> for those of us in full-time work, so shorter, more flexible slots would <span class=\"ml-token idiom\">go down well</span>. Secondly, I would love to see an <span class=\"ml-token colloc\">interior design consultation</span> service, as expert advice on pulling a room together would be a real bonus.\nOverall, I am delighted with my purchase and will happily shop with you again.\nYours sincerely,\nBekzod Aliyev",
+    "uzSample": "<p>Hurmatli HomeStyle jamoasi,</p>\n<p>Sizning mebel do'koningizda bo'lgan tajribam haqida so'raganingiz uchun rahmat.</p>\n<p>Men xaridimdan juda mamnunman. Mahsulotlar assortimenti ta'sirli edi va sifati mening kutganimdan ham oshib ketdi. Sizning savdo xodimlaringiz juda foydali bo'lishdi, lekin hech qanday majburlash yo'q edi. Yetkazib berish guruhi o'z vaqtida keldi va hamma narsani professional tarzda o'rnatdi.</p>\n<p>Biroq, menda ba'zi takliflar bor. Ko'rgazma zalining joylashuvi biroz chalkash edi, bu esa muayyan narsalarni topishni qiyinlashtirdi. Bundan tashqari, 4 soatlik yetkazib berish vaqti ishlaydigan odamlar uchun ancha noqulay edi.</p>\n<p>Men ichki dizayn bo'yicha maslahat xizmatini qadrlagan bo'lardim. Veb-saytingizdagi virtual xona rejalashtiruvchi vositasi xaridorlarga mebellarni tasavvur qilishga yordam beradi. Shuningdek, ekologik toza mebel variantlarini taklif qilish atrof-muhitga befarq bo'lmagan xaridorlarni jalb qiladi.</p>\n<p>Umuman olganda, men xaridimdan juda xursandman.</p>\n<p>Hurmat bilan,<br>Muattar Aliyeva</p>",
+    "uzSampleA1": "<p>Salom, HomeStyle!</p>\n<p>Men stul sotib oldim. Stul yaxshi. <br> Yetkazib beruvchi odam yaxshi. <br> Menga do'kon yoqadi. Xayr!</p>",
+    "uzSampleA2": "<p>Salom HomeStyle,</p>\n<p>Xat uchun rahmat. Men stol va stullar sotib oldim. Stol yaxshi, stullar ham chiroyli. <br> Yetkazib berish yaxshi bo'ldi, lekin kech qoldi. Men kutdim. <br> Balki siz ko'proq lampalar sotsangiz bo'lar? Va balki yetkazib berish tezroq bo'lishi mumkin. Rahmat!</p>\n<p>Xayr,</p>\n<p>Muattar Aliyeva</p>",
+    "uzSampleB1": "<p>Hurmatli HomeStyle Mebel do'koni,</p>\n<p>Elektron pochtangiz uchun rahmat. Sizga do'koningizdagi tajribam haqida aytmoqchi edim. Men divan sotib oldim va u menga juda yoqdi. Sifati yaxshi ko'rinadi va u qulay.</p>\n<p>Yetkazib berish asosan yaxshi bo'ldi, ammo divanni yetkazib bergan odamlar biroz kechikishdi. Shuningdek, sizda kichikroq kvartiralar uchun ko'proq variantlar bo'lishi kerak deb o'ylayman. Mening mehmonxonamga mos keladigan narsani topish qiyin edi.</p>\n<p>Mening fikrimcha, siz talabalar yoki keksa fuqarolar uchun ham chegirmalar taklif qilishingiz mumkin. Bu yaxshi fikr bo'lardi. Umuman olganda, men xaridimdan mamnunman.</p>\n<p>Hurmat bilan,<br>Muattar Aliyeva</p>",
+    "uzSampleB2": "<p>Hurmatli HomeStyle Mebel Jamoasi,</p>\n<p>Yaqinda qilgan xaridim bo'yicha kuzatuv xatingiz uchun rahmat. Sizning do'koningizdagi tajribam haqida fikr-mulohazalarimni bildirish uchun yozmoqdaman.</p>\n<p>Umuman olganda, men sotib olgan mebelimdan mamnunman. Sifati juda yaxshi ko'rinadi va dizayni men qidirgan narsaga aynan mos keladi. Mahsulotlar tanlovi ham yetarlicha xilma-xil edi, garchi menimcha, kofe stollari assortimentida ko'proq xilma-xillik bo'lishi mumkin.</p>\n<p>Biroq, menda bir nechta kichik muammolar bo'ldi. Birinchidan, kitob javoni uchun yig'ish bo'yicha ko'rsatmalar biroz tushunarsiz edi, bu jarayonni keragidan ortiq qiyinlashtirdi. Ikkinchidan, yetkazib berish xizmati tezkor bo'lsa-da, yetkazib berish haydovchisi unchalik muloqot qiluvchan emas edi.</p>\n<p>Yaxshilash bo'yicha takliflarimga kelsak, men aniqroq yig'ish ko'rsatmalarini berishni va, ehtimol, barqaror yoki ekologik toza mebel variantlarini kengroq tanlashni taklif qilaman. Shuningdek, mijozlar sodiqlik dasturi foydali bo'lishi mumkin deb o'ylayman.</p>\n<p>Umuman olganda, men xaridimdan qoniqdim va kelajakda HomeStyle Mebel do'konida yana xarid qilishni o'ylab ko'raman.</p>\n<p>Hurmat bilan,<br>Muattar Aliyeva</p>"
+   },
+   "p1_context": "You recently purchased furniture from a new home furnishing store.",
+   "p1_scenario": "Dear Customer,\n\nThank you for shopping at HomeStyle Furniture! We hope your new pieces have transformed your living space.\nHow did you find our product selection and the quality of our furniture? Was the delivery and assembly service satisfactory?\nWhat additional products or services would you like us to offer?\n\nHomeStyle Team"
+  },
+  "examDate": "2026-04-27",
+  "settings": {
+   "logoUrl": "https://audio.mock-stream.com/img/ibb/WN0XY5Lv/logo.png",
+   "heading1": "Bilim va malakalarni baholash agentligi",
+   "heading2": "Chet tilini bilish darajasi",
+   "examTitle": "Writing exam",
+   "logoWording": "Mock Stream",
+   "testIdentifier": "mock_stream"
+  },
+  "vocabulary": {
+   "task2": [
+    {
+     "en": "rent versus buy",
+     "uz": "ijaraga olish va sotib olish"
+    },
+    {
+     "en": "long-term wealth",
+     "uz": "uzoq muddatli boylik"
+    },
+    {
+     "en": "property values",
+     "uz": "mulk qiymatlari"
+    },
+    {
+     "en": "landlord decisions",
+     "uz": "uy egasi qarorlari"
+    },
+    {
+     "en": "rent increases",
+     "uz": "ijara oshishi"
+    },
+    {
+     "en": "maintenance costs",
+     "uz": "ta'mirlash xarajatlari"
+    },
+    {
+     "en": "property taxes",
+     "uz": "mulk solig'i"
+    },
+    {
+     "en": "financial risk",
+     "uz": "moliyaviy xavf"
+    },
+    {
+     "en": "housing affordability",
+     "uz": "uy-joy arzonligi"
+    },
+    {
+     "en": "viable option",
+     "uz": "mumkin bo'lgan variant"
+    },
+    {
+     "en": "personal circumstances",
+     "uz": "shaxsiy sharoitlar"
+    },
+    {
+     "en": "mortgage payments",
+     "uz": "ipoteka to'lovlari"
+    },
+    {
+     "en": "valuable asset",
+     "uz": "qimmatli aktiv"
+    },
+    {
+     "en": "stability and freedom",
+     "uz": "barqarorlik va erkinlik"
+    },
+    {
+     "en": "career opportunities",
+     "uz": "karyera imkoniyatlari"
+    },
+    {
+     "en": "falling property values",
+     "uz": "mulk qiymatining pasayishi"
+    },
+    {
+     "en": "saving for deposit",
+     "uz": "omonat uchun tejash"
+    },
+    {
+     "en": "ready to settle",
+     "uz": "joylashishga tayyor"
+    },
+    {
+     "en": "in conclusion",
+     "uz": "xulosa qilib aytganda"
+    },
+    {
+     "en": "right choice",
+     "uz": "to'g'ri tanlov"
+    }
+   ],
+   "task11": [
+    {
+     "en": "furniture store",
+     "uz": "mebel do'koni"
+    },
+    {
+     "en": "new apartment",
+     "uz": "yangi kvartira"
+    },
+    {
+     "en": "recently furnished",
+     "uz": "yaqinda jihozlangan"
+    },
+    {
+     "en": "amazing quality",
+     "uz": "ajoyib sifat"
+    },
+    {
+     "en": "reasonable prices",
+     "uz": "maqbul narxlar"
+    },
+    {
+     "en": "assembly service",
+     "uz": "yig'ish xizmati"
+    },
+    {
+     "en": "definitely check out",
+     "uz": "albatta ko'ring"
+    },
+    {
+     "en": "take care",
+     "uz": "o'zingizga g'amxo'rlik qiling"
+    },
+    {
+     "en": "moving in",
+     "uz": "ko'chib kirish"
+    },
+    {
+     "en": "how exciting",
+     "uz": "qanday hayajonli"
+    },
+    {
+     "en": "highly recommend",
+     "uz": "qattiq tavsiya qilmoq"
+    },
+    {
+     "en": "great selection",
+     "uz": "ajoyib tanlov"
+    },
+    {
+     "en": "free delivery",
+     "uz": "bepul yetkazib berish"
+    },
+    {
+     "en": "modern designs",
+     "uz": "zamonaviy dizaynlar"
+    },
+    {
+     "en": "comfortable furniture",
+     "uz": "qulay mebel"
+    },
+    {
+     "en": "worth visiting",
+     "uz": "tashrif buyurishga arziydi"
+    },
+    {
+     "en": "friendly staff",
+     "uz": "do'stona xodimlar"
+    },
+    {
+     "en": "home furnishing",
+     "uz": "uy jihozlash"
+    },
+    {
+     "en": "let me know",
+     "uz": "menga xabar bering"
+    },
+    {
+     "en": "good luck",
+     "uz": "omad tilayman"
+    }
+   ],
+   "task12": [
+    {
+     "en": "furniture store",
+     "uz": "mebel do'koni"
+    },
+    {
+     "en": "product range",
+     "uz": "mahsulot assortimenti"
+    },
+    {
+     "en": "sales staff",
+     "uz": "savdo xodimlari"
+    },
+    {
+     "en": "delivery team",
+     "uz": "yetkazib berish jamoasi"
+    },
+    {
+     "en": "showroom layout",
+     "uz": "ko'rgazma zali joylashuvi"
+    },
+    {
+     "en": "delivery window",
+     "uz": "yetkazib berish oynasi"
+    },
+    {
+     "en": "interior design",
+     "uz": "interyer dizayni"
+    },
+    {
+     "en": "virtual room planner",
+     "uz": "virtual xona rejalashtiruvchi"
+    },
+    {
+     "en": "eco-friendly furniture",
+     "uz": "ekologik toza mebel"
+    },
+    {
+     "en": "very satisfied",
+     "uz": "juda mamnun"
+    },
+    {
+     "en": "exceeded expectations",
+     "uz": "kutilganlardan oshdi"
+    },
+    {
+     "en": "extremely helpful",
+     "uz": "juda foydali"
+    },
+    {
+     "en": "arrived on time",
+     "uz": "o'z vaqtida keldi"
+    },
+    {
+     "en": "assembled professionally",
+     "uz": "professional yig'ilgan"
+    },
+    {
+     "en": "slightly confusing",
+     "uz": "biroz chalkash"
+    },
+    {
+     "en": "rather inconvenient",
+     "uz": "ancha noqulay"
+    },
+    {
+     "en": "I would appreciate",
+     "uz": "Men minnatdor bo'lardim"
+    },
+    {
+     "en": "visualize furniture",
+     "uz": "mebelni tasavvur qilish"
+    },
+    {
+     "en": "Yours sincerely",
+     "uz": "Hurmat bilan"
+    },
+    {
+     "en": "delighted with",
+     "uz": "xursand bo'ldim"
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "may": {
+    "uz": "mumkin",
+    "type": "modal"
+   },
+   "Also": {
+    "uz": "Shuningdek",
+    "type": "adv"
+   },
+   "very": {
+    "uz": "juda",
+    "type": "adv"
+   },
+   "would": {
+    "uz": "iltimos qilmoq",
+    "type": "modal"
+   },
+   "rather": {
+    "uz": "ancha",
+    "type": "adv"
+   },
+   "really": {
+    "uz": "haqiqatan",
+    "type": "adv"
+   },
+   "should": {
+    "uz": "kerak",
+    "type": "modal"
+   },
+   "Firstly": {
+    "uz": "Birinchidan",
+    "type": "adv"
+   },
+   "However": {
+    "uz": "Biroq",
+    "type": "adv"
+   },
+   "Overall": {
+    "uz": "Umuman olganda",
+    "type": "adv"
+   },
+   "amazing": {
+    "uz": "ajoyib",
+    "type": "adv"
+   },
+   "Secondly": {
+    "uz": "Ikkinchidan",
+    "type": "adv"
+   },
+   "recently": {
+    "uz": "yaqinda",
+    "type": "adv"
+   },
+   "slightly": {
+    "uz": "biroz",
+    "type": "adv"
+   },
+   "threw in": {
+    "uz": "ustiga qo'shib berishdi",
+    "type": "phrasal"
+   },
+   "Take care": {
+    "uz": "o'zingni ehtiyot qil",
+    "type": "phrasal"
+   },
+   "That said": {
+    "uz": "Shunga qaramay",
+    "type": "linking"
+   },
+   "brilliant": {
+    "uz": "a'lo",
+    "type": "adv"
+   },
+   "check out": {
+    "uz": "ko'rib chiqmoq",
+    "type": "phrasal"
+   },
+   "extremely": {
+    "uz": "o'ta",
+    "type": "adv"
+   },
+   "picked up": {
+    "uz": "sotib oldim",
+    "type": "phrasal"
+   },
+   "typically": {
+    "uz": "odatda",
+    "type": "adv"
+   },
+   "Eventually": {
+    "uz": "Oxir-oqibat",
+    "type": "adv"
+   },
+   "definitely": {
+    "uz": "albatta",
+    "type": "adv"
+   },
+   "kit it out": {
+    "uz": "jihozlab olmoq",
+    "type": "phrasal"
+   },
+   "Flexibility": {
+    "uz": "Moslashuvchanlik",
+    "type": "colloc"
+   },
+   "Furthermore": {
+    "uz": "Bundan tashqari",
+    "type": "adv"
+   },
+   "need a hand": {
+    "uz": "yordam kerak bo'lsa",
+    "type": "idiom"
+   },
+   "put forward": {
+    "uz": "ilgari surmoq, taklif qilmoq",
+    "type": "phrasal"
+   },
+   "sales staff": {
+    "uz": "sotuv xodimlari",
+    "type": "colloc"
+   },
+   "settle down": {
+    "uz": "joylashib olmoq",
+    "type": "phrasal"
+   },
+   "universally": {
+    "uz": "universal tarzda",
+    "type": "adv"
+   },
+   "Additionally": {
+    "uz": "Bundan tashqari",
+    "type": "adv"
+   },
+   "On the whole": {
+    "uz": "Umuman olganda",
+    "type": "linking"
+   },
+   "blew me away": {
+    "uz": "meni hayratda qoldirdi",
+    "type": "idiom"
+   },
+   "go down well": {
+    "uz": "yaxshi qabul qilinardi",
+    "type": "idiom"
+   },
+   "how exciting": {
+    "uz": "qanday ajoyib",
+    "type": "colloc"
+   },
+   "indefinitely": {
+    "uz": "cheksiz",
+    "type": "adv"
+   },
+   "very pleased": {
+    "uz": "juda mamnun",
+    "type": "colloc"
+   },
+   "In conclusion": {
+    "uz": "Xulosa qilib aytganda",
+    "type": "adv"
+   },
+   "builds equity": {
+    "uz": "mulkdagi ulushni oshiradi",
+    "type": "colloc"
+   },
+   "comes down to": {
+    "uz": "bog'liq bo'ladi",
+    "type": "phrasal"
+   },
+   "delivery team": {
+    "uz": "yetkazib berish jamoasi",
+    "type": "colloc"
+   },
+   "free assembly": {
+    "uz": "bepul yig'ish",
+    "type": "colloc"
+   },
+   "over the moon": {
+    "uz": "juda xursand, baxtdan boshi osmonda",
+    "type": "idiom"
+   },
+   "product range": {
+    "uz": "mahsulot assortimenti",
+    "type": "colloc"
+   },
+   "tops the list": {
+    "uz": "ro'yxatning boshida turadi",
+    "type": "idiom"
+   },
+   "viable option": {
+    "uz": "maqbul variant",
+    "type": "colloc"
+   },
+   "check them out": {
+    "uz": "ko'rib chiq",
+    "type": "phrasal"
+   },
+   "financial risk": {
+    "uz": "moliyaviy xavf",
+    "type": "colloc"
+   },
+   "professionally": {
+    "uz": "professional tarzda",
+    "type": "adv"
+   },
+   "property taxes": {
+    "uz": "mol-mulk solig'i",
+    "type": "colloc"
+   },
+   "rent increases": {
+    "uz": "ijara narxlarining oshishi",
+    "type": "colloc"
+   },
+   "steer clear of": {
+    "uz": "chetlab o'tishadi",
+    "type": "idiom"
+   },
+   "Give me a shout": {
+    "uz": "menga xabar ber",
+    "type": "idiom"
+   },
+   "On the one hand": {
+    "uz": "Bir tomondan",
+    "type": "linking"
+   },
+   "Property values": {
+    "uz": "Ko'chmas mulk qiymati",
+    "type": "colloc"
+   },
+   "Yours sincerely": {
+    "uz": "Hurmat bilan",
+    "type": "colloc"
+   },
+   "delivery window": {
+    "uz": "yetkazib berish vaqti oralig'i",
+    "type": "colloc"
+   },
+   "furniture store": {
+    "uz": "mebel do'koni",
+    "type": "colloc"
+   },
+   "interior design": {
+    "uz": "ichki dizayn",
+    "type": "colloc"
+   },
+   "rent versus buy": {
+    "uz": "ijaraga olish yoki sotib olish",
+    "type": "colloc"
+   },
+   "showroom layout": {
+    "uz": "ko'rgazma zali tartibi",
+    "type": "colloc"
+   },
+   "assembly service": {
+    "uz": "yig'ish xizmati",
+    "type": "colloc"
+   },
+   "long-term wealth": {
+    "uz": "uzoq muddatli boylik",
+    "type": "colloc"
+   },
+   "really impressed": {
+    "uz": "juda ta'sirlandim",
+    "type": "colloc"
+   },
+   "up sticks and go": {
+    "uz": "joyini yig'ishtirib ko'chib ketmoq",
+    "type": "idiom"
+   },
+   "On the other hand": {
+    "uz": "Boshqa tomondan",
+    "type": "linking"
+   },
+   "maintenance costs": {
+    "uz": "ta'mirlash xarajatlari",
+    "type": "colloc"
+   },
+   "one-size-fits-all": {
+    "uz": "hammaga mos keladigan yagona",
+    "type": "idiom"
+   },
+   "product selection": {
+    "uz": "mahsulot tanlovi",
+    "type": "colloc"
+   },
+   "landlord decisions": {
+    "uz": "uy egasining qarorlari",
+    "type": "colloc"
+   },
+   "rather inconvenient": {
+    "uz": "ancha noqulay",
+    "type": "colloc"
+   },
+   "long-term investment": {
+    "uz": "uzoq muddatli sarmoya",
+    "type": "colloc"
+   },
+   "virtual room planner": {
+    "uz": "virtual xona rejalashtiruvchisi",
+    "type": "colloc"
+   },
+   "won't break the bank": {
+    "uz": "cho'ntagingga urmaydi, qimmatga tushmaydi",
+    "type": "idiom"
+   },
+   "housing affordability": {
+    "uz": "uy-joyning arzonligi",
+    "type": "colloc"
+   },
+   "eco-friendly furniture": {
+    "uz": "ekologik toza mebel",
+    "type": "colloc"
+   },
+   "personal circumstances": {
+    "uz": "shaxsiy sharoitlar",
+    "type": "colloc"
+   },
+   "exceeded my expectations": {
+    "uz": "kutganimdan oshib ketdi",
+    "type": "colloc"
+   },
+   "interior design consultation": {
+    "uz": "interyer dizayni bo'yicha maslahat",
+    "type": "colloc"
+   },
+   "assembled everything professionally": {
+    "uz": "hamma narsani professional tarzda yig'ishdi",
+    "type": "colloc"
+   }
+  }
+ },
+ "created_at": "2026-05-06T15:00:53.816969+00:00",
+ "updated_at": "2026-07-06T10:57:38.986911+00:00"
+}

@@ -1,0 +1,914 @@
+{
+ "id": 2256,
+ "mock_type": "ket-reading-writing",
+ "mock_number": 22,
+ "title": "KET Reading & Writing — Test 22",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "match-notices",
+    "items": [
+     {
+      "id": 1,
+      "answer": "C",
+      "prompt": "Do not leave any food here."
+     },
+     {
+      "id": 2,
+      "answer": "B",
+      "prompt": "Do not leave your suitcases in front of the doors."
+     },
+     {
+      "id": 3,
+      "answer": "E",
+      "prompt": "You can write to people from here."
+     },
+     {
+      "id": 4,
+      "answer": "G",
+      "prompt": "Do not bring your own sandwiches here."
+     },
+     {
+      "id": 5,
+      "answer": "F",
+      "prompt": "Be very careful to watch your bags and suitcases."
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "H",
+     "number": 0,
+     "prompt": "You must not take photographs in here."
+    },
+    "notices": [
+     {
+      "text": "School Trip to the Sea\nDon't forget your picnic!",
+      "letter": "A"
+     },
+     {
+      "text": "City Airport\nPlease keep exits free from luggage",
+      "letter": "B"
+     },
+     {
+      "text": "INGHAM COUNTRY PARK\nAfter eating, take your\npicnic things home",
+      "letter": "C"
+     },
+     {
+      "text": "Please write your name and\naddress on all your luggage",
+      "letter": "D"
+     },
+     {
+      "text": "Internet Café\nSend emails, surf the net\n£2 per hour",
+      "letter": "E"
+     },
+     {
+      "text": "Central Station\nKeep your luggage with you at all times",
+      "letter": "F"
+     },
+     {
+      "text": "Pietro's Café\nPlease only eat food\nyou have bought here",
+      "letter": "G"
+     },
+     {
+      "text": "SOUTHPORT ART MUSEUM\nSorry, no cameras",
+      "letter": "H"
+     }
+    ],
+    "partNumber": 1,
+    "instruction": [
+     "Which notice (A–H) says this (1–5)?",
+     "For questions 1–5, mark the correct letter A–H on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "mcq-gap-fill-sentences",
+    "items": [
+     {
+      "id": 6,
+      "answer": "B",
+      "options": [
+       {
+        "text": "tall",
+        "letter": "A"
+       },
+       {
+        "text": "high",
+        "letter": "B"
+       },
+       {
+        "text": "long",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Ingrid likes living _____ above the city streets."
+     },
+     {
+      "id": 7,
+      "answer": "C",
+      "options": [
+       {
+        "text": "hopes",
+        "letter": "A"
+       },
+       {
+        "text": "wants",
+        "letter": "B"
+       },
+       {
+        "text": "prefers",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Ingrid was born in the countryside, but she _____ living in the city."
+     },
+     {
+      "id": 8,
+      "answer": "B",
+      "options": [
+       {
+        "text": "uses",
+        "letter": "A"
+       },
+       {
+        "text": "takes",
+        "letter": "B"
+       },
+       {
+        "text": "needs",
+        "letter": "C"
+       }
+      ],
+      "sentence": "It only _____ Ingrid ten minutes to walk from the flat to her school."
+     },
+     {
+      "id": 9,
+      "answer": "C",
+      "options": [
+       {
+        "text": "arriving",
+        "letter": "A"
+       },
+       {
+        "text": "climbing",
+        "letter": "B"
+       },
+       {
+        "text": "working",
+        "letter": "C"
+       }
+      ],
+      "sentence": "When the lift isn't _____, Ingrid has to walk up the stairs to her flat!"
+     },
+     {
+      "id": 10,
+      "answer": "A",
+      "options": [
+       {
+        "text": "meal",
+        "letter": "A"
+       },
+       {
+        "text": "dish",
+        "letter": "B"
+       },
+       {
+        "text": "food",
+        "letter": "C"
+       }
+      ],
+      "sentence": "When she gets home, her mother cooks a big _____."
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "options": [
+      {
+       "text": "floor",
+       "letter": "A"
+      },
+      {
+       "text": "line",
+       "letter": "B"
+      },
+      {
+       "text": "platform",
+       "letter": "C"
+      }
+     ],
+     "sentence": "Ingrid lives in a flat on the seventh _____ of a large, modern building."
+    },
+    "partNumber": 2,
+    "instruction": [
+     "Read the sentences about Ingrid's home.",
+     "Choose the best word (A, B or C) for each space.",
+     "For questions 6–10, mark A, B or C on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-response",
+    "items": [
+     {
+      "id": 11,
+      "answer": "A",
+      "prompt": "I like your new dress.",
+      "options": [
+       {
+        "text": "Do you really?",
+        "letter": "A"
+       },
+       {
+        "text": "What's it like?",
+        "letter": "B"
+       },
+       {
+        "text": "Do you think so?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "answer": "C",
+      "prompt": "How did you get to Portugal?",
+      "options": [
+       {
+        "text": "It was £50.",
+        "letter": "A"
+       },
+       {
+        "text": "Last week.",
+        "letter": "B"
+       },
+       {
+        "text": "By plane.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "answer": "B",
+      "prompt": "I'm sorry I'm late.",
+      "options": [
+       {
+        "text": "You can't go.",
+        "letter": "A"
+       },
+       {
+        "text": "That's all right.",
+        "letter": "B"
+       },
+       {
+        "text": "There isn't time.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "answer": "C",
+      "prompt": "Hello. Can I speak to Jane, please?",
+      "options": [
+       {
+        "text": "Can I leave a message?",
+        "letter": "A"
+       },
+       {
+        "text": "I'll try again later.",
+        "letter": "B"
+       },
+       {
+        "text": "Can I ask who's calling?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "answer": "A",
+      "prompt": "Remember to buy some coffee!",
+      "options": [
+       {
+        "text": "I won't forget.",
+        "letter": "A"
+       },
+       {
+        "text": "I don't mind.",
+        "letter": "B"
+       },
+       {
+        "text": "I'm certain, thank you.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "prompt": "Where do you come from?",
+     "options": [
+      {
+       "text": "New York.",
+       "letter": "A"
+      },
+      {
+       "text": "School.",
+       "letter": "B"
+      },
+      {
+       "text": "Home.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partLetter": "a",
+    "partNumber": 3,
+    "instruction": [
+     "Complete the five conversations.",
+     "For questions 11–15, mark A, B or C on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "type": "match-dialogue",
+    "items": [
+     {
+      "id": 16,
+      "answer": "E"
+     },
+     {
+      "id": 17,
+      "answer": "A"
+     },
+     {
+      "id": 18,
+      "answer": "F"
+     },
+     {
+      "id": 19,
+      "answer": "B"
+     },
+     {
+      "id": 20,
+      "answer": "D"
+     }
+    ],
+    "example": {
+     "answer": "G",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "Our teacher said he needed it – but it was so boring.",
+      "letter": "A"
+     },
+     {
+      "text": "OK. But why don't we play today?",
+      "letter": "B"
+     },
+     {
+      "text": "Where did you play?",
+      "letter": "C"
+     },
+     {
+      "text": "Mm, I should do my homework first. Let's go later.",
+      "letter": "D"
+     },
+     {
+      "text": "You're lucky! We had an extra maths lesson.",
+      "letter": "E"
+     },
+     {
+      "text": "I did. It was really good. I won all my games!",
+      "letter": "F"
+     },
+     {
+      "text": "Not bad. How was your day?",
+      "letter": "G"
+     },
+     {
+      "text": "Then we can have dinner after our game.",
+      "letter": "H"
+     }
+    ],
+    "dialogue": [
+     {
+      "line": "Hi Sara. Did you have a good day at school?",
+      "speaker": "Father"
+     },
+     {
+      "gap": 0,
+      "speaker": "Sara"
+     },
+     {
+      "line": "Good, thanks. I played a game of golf.",
+      "speaker": "Father"
+     },
+     {
+      "gap": 16,
+      "speaker": "Sara"
+     },
+     {
+      "line": "Oh! Why was that?",
+      "speaker": "Father"
+     },
+     {
+      "gap": 17,
+      "speaker": "Sara"
+     },
+     {
+      "line": "Oh well. Did you play tennis this afternoon?",
+      "speaker": "Father"
+     },
+     {
+      "gap": 18,
+      "speaker": "Sara"
+     },
+     {
+      "line": "Good for you! We must have a game at the weekend.",
+      "speaker": "Father"
+     },
+     {
+      "gap": 19,
+      "speaker": "Sara"
+     },
+     {
+      "line": "Good idea. Would you like to go now?",
+      "speaker": "Father"
+     },
+     {
+      "gap": 20,
+      "speaker": "Sara"
+     },
+     {
+      "line": "OK. Dinner will be ready at 7, so we can go at about 8.",
+      "speaker": "Father"
+     }
+    ],
+    "partLetter": "b",
+    "partNumber": 3,
+    "instruction": [
+     "Complete the conversation.",
+     "What does Sara say to her father?",
+     "For questions 16–20, mark the correct letter A–H on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "type": "mcq-passage-rws",
+    "items": [
+     {
+      "id": 21,
+      "answer": "A",
+      "statement": "Anna left home and began working in a department store."
+     },
+     {
+      "id": 22,
+      "answer": "C",
+      "statement": "The young man who spoke to Anna wanted to buy a new jacket."
+     },
+     {
+      "id": 23,
+      "answer": "C",
+      "statement": "Anna was younger than Michelle."
+     },
+     {
+      "id": 24,
+      "answer": "A",
+      "statement": "Michelle and the young man were students together."
+     },
+     {
+      "id": 25,
+      "answer": "B",
+      "statement": "Anna got a job with the same company in San Francisco."
+     },
+     {
+      "id": 26,
+      "answer": "B",
+      "statement": "Anna was at work when she met the young man for the second time."
+     },
+     {
+      "id": 27,
+      "answer": "C",
+      "statement": "Anna was angry when the young man spoke to her a second time."
+     }
+    ],
+    "label": "PART 4",
+    "article": "My name is Anna King and I was born in a small town called Madison in Wyoming in the centre of the USA. When I was twenty, I moved to the east coast, to a town just south of New York, to start a job in a department store. One day, a young man with short brown hair who was shopping in the store looked at me and asked, 'Are you Michelle Golden?'\n\n'No,' I said. 'But do you mean Michelle Golden from Madison?' He did. I told him that I was at school with Michelle. He wasn't much older than me and people often said that we looked just like each other. Then the young man told me that Michelle was in the same history class at university as he was.\n\nSix months later, I got a better job with another department store and moved to the west coast to work at their San Francisco store. One day on my way home from work, a young man with short brown hair passed me in the street and asked, 'Are you Michelle Golden?'\n\n'No,' I answered. 'You asked me that when we met in a shop several thousand miles away, near New York.'",
+    "example": {
+     "answer": "B",
+     "number": 0,
+     "statement": "Anna was born in a large town."
+    },
+    "partNumber": 4,
+    "instruction": [
+     "Read the article about two strange meetings.",
+     "Are sentences 21–27 'Right' (A) or 'Wrong' (B)?",
+     "If there is not enough information to answer 'Right' (A) or 'Wrong' (B), choose 'Doesn't say' (C).",
+     "For questions 21–27, mark A, B or C on your answer sheet."
+    ],
+    "articleTitle": "We meet twice",
+    "questionsLabel": "QUESTIONS 21–27"
+   },
+   {
+    "type": "mcq-cloze-passage",
+    "items": [
+     {
+      "id": 28,
+      "answer": "C",
+      "options": [
+       {
+        "text": "that",
+        "letter": "A"
+       },
+       {
+        "text": "it",
+        "letter": "B"
+       },
+       {
+        "text": "there",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 29,
+      "answer": "B",
+      "options": [
+       {
+        "text": "much",
+        "letter": "A"
+       },
+       {
+        "text": "many",
+        "letter": "B"
+       },
+       {
+        "text": "any",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 30,
+      "answer": "C",
+      "options": [
+       {
+        "text": "each",
+        "letter": "A"
+       },
+       {
+        "text": "every",
+        "letter": "B"
+       },
+       {
+        "text": "some",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 31,
+      "answer": "A",
+      "options": [
+       {
+        "text": "from",
+        "letter": "A"
+       },
+       {
+        "text": "in",
+        "letter": "B"
+       },
+       {
+        "text": "through",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 32,
+      "answer": "B",
+      "options": [
+       {
+        "text": "during",
+        "letter": "A"
+       },
+       {
+        "text": "until",
+        "letter": "B"
+       },
+       {
+        "text": "above",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 33,
+      "answer": "A",
+      "options": [
+       {
+        "text": "these",
+        "letter": "A"
+       },
+       {
+        "text": "those",
+        "letter": "B"
+       },
+       {
+        "text": "this",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 34,
+      "answer": "A",
+      "options": [
+       {
+        "text": "same",
+        "letter": "A"
+       },
+       {
+        "text": "one",
+        "letter": "B"
+       },
+       {
+        "text": "other",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 35,
+      "answer": "B",
+      "options": [
+       {
+        "text": "such",
+        "letter": "A"
+       },
+       {
+        "text": "too",
+        "letter": "B"
+       },
+       {
+        "text": "enough",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 5",
+    "example": {
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "text": "large",
+       "letter": "A"
+      },
+      {
+       "text": "larger",
+       "letter": "B"
+      },
+      {
+       "text": "largest",
+       "letter": "C"
+      }
+     ]
+    },
+    "passage": "Tigers are the {0} cats of all. A hundred years ago 100,000 tigers lived across Asia, but today {28} are only about 6000, with {29} living in zoos around the world.\n\nTigers usually live in forests but {30} are found in wetter areas. Most of them live {31} 12 to 18 years, but in zoos they can live {32} they are 25. The coats of {33} beautiful animals are orange and black but, surprisingly, no two coats are ever the {34}. They look for food at night, and will eat fish and birds as well as larger animals.\n\nTigers are different from most cats because they like water. They are strong swimmers, and often go into rivers when the weather gets {35} hot.",
+    "partNumber": 5,
+    "instruction": [
+     "Read the article about tigers.",
+     "Choose the best word (A, B or C) for each space.",
+     "For questions 28–35, mark A, B or C on your answer sheet."
+    ],
+    "passageTitle": "Tigers",
+    "questionsLabel": "QUESTIONS 28–35"
+   },
+   {
+    "type": "vocab-first-letter",
+    "items": [
+     {
+      "id": 36,
+      "answer": "diary",
+      "prompt": "People often write their appointments in this.",
+      "letters": 5,
+      "firstLetter": "d"
+     },
+     {
+      "id": 37,
+      "answer": "glasses",
+      "prompt": "Some people wear these so they can see better.",
+      "letters": 7,
+      "firstLetter": "g"
+     },
+     {
+      "id": 38,
+      "answer": "ticket",
+      "prompt": "You will need to keep this with you when you travel by train.",
+      "letters": 6,
+      "firstLetter": "t"
+     },
+     {
+      "id": 39,
+      "answer": "magazine",
+      "prompt": "You can read about famous people in this and it also has lots of pictures.",
+      "letters": 8,
+      "firstLetter": "m"
+     },
+     {
+      "id": 40,
+      "answer": "wallet",
+      "prompt": "Many people keep their money inside this.",
+      "letters": 6,
+      "firstLetter": "w"
+     }
+    ],
+    "label": "PART 6",
+    "example": {
+     "answer": "licence",
+     "number": 0,
+     "prompt": "If you drive a car, you should carry this with you.",
+     "firstLetter": "l"
+    },
+    "partNumber": 6,
+    "instruction": [
+     "Read the descriptions of some things people often carry with them in their bags or pockets.",
+     "What is the word for each one?",
+     "The first letter is already there. There is one space for each other letter in the word.",
+     "For questions 36–40, write the words on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 36–40"
+   },
+   {
+    "type": "open-cloze-letter",
+    "items": [
+     {
+      "id": 41,
+      "answer": "with"
+     },
+     {
+      "id": 42,
+      "answer": "it"
+     },
+     {
+      "id": 43,
+      "answer": "few"
+     },
+     {
+      "id": 44,
+      "answer": "much"
+     },
+     {
+      "id": 45,
+      "answer": "at"
+     },
+     {
+      "id": 46,
+      "answer": "them"
+     },
+     {
+      "id": 47,
+      "answer": "would"
+     },
+     {
+      "id": 48,
+      "answer": "of"
+     },
+     {
+      "id": 49,
+      "answer": "is"
+     },
+     {
+      "id": 50,
+      "answer": "hope"
+     }
+    ],
+    "label": "PART 7",
+    "example": {
+     "answer": "for",
+     "number": 0
+    },
+    "letters": [
+     {
+      "body": "Thank you (Example: for) letting me stay {41} you in Ljubljana last week. Slovenia's a great country and {42} was really nice to spend a {43} days with you and your family. I learned so {44} about Slovenian cooking from your mother!\n\nI really enjoyed meeting your friends {45} the university too. Please say hello to all of {46}.\n\nI {47} like to come back to Slovenia. If I do that, I'll make sure I can speak {48} your language. What {49} the best Slovene textbook?\n\nI {50} everyone in your family is well.",
+      "header": "From: Margaret\nTo:   Lidja",
+      "closing": "",
+      "greeting": ""
+     }
+    ],
+    "partNumber": 7,
+    "instruction": [
+     "Complete the email.",
+     "Write ONE word for each space.",
+     "For questions 41–50, write the words on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 41–50"
+   },
+   {
+    "note": {
+     "body": "",
+     "dateLine": "",
+     "signature": ""
+    },
+    "rows": [
+     {
+      "label": "Name of camp:",
+      "prefilled": "Camp Bellamy"
+     },
+     {
+      "id": 51,
+      "label": "Activity booked:",
+      "answer": "climbing"
+     },
+     {
+      "id": 52,
+      "label": "Start date:",
+      "answer": "21 April"
+     },
+     {
+      "id": 53,
+      "label": "Time:",
+      "answer": "2.30",
+      "suffix": "pm"
+     },
+     {
+      "id": 54,
+      "label": "Price per person:",
+      "answer": "60",
+      "suffix": "£"
+     },
+     {
+      "id": 55,
+      "label": "Take:",
+      "answer": "food"
+     }
+    ],
+    "type": "info-transfer-notes",
+    "label": "PART 8",
+    "notice": {
+     "body": "CAMP BELLAMY\nSPRING ACTIVITIES\n\nClimbing\n(Ages 13–16)\n£60\n\nSailing\n(Ages 17–19)\n£80\n\nTimes:  8.30 am or 2.30 pm\n\nCourses begin:\n14 April and 21 April\n\n—————————————\nFrom: Connor\nTo:   Marco\n\nI've booked us on the climbing course in the afternoon at Camp Bellamy because we're not old enough to go sailing.\n\nI know you're on holiday until 15 April, so we will start on 21 April. You need to bring some food with you but we are given special shoes when we arrive.",
+     "title": "Camp Bellamy + Email"
+    },
+    "notesTitle": "Marco's notes",
+    "partNumber": 8,
+    "instruction": [
+     "Read the advertisement and the email.",
+     "Fill in the information in Marco's notes.",
+     "For questions 51–55, write the information on your answer sheet."
+    ],
+    "notesSubtitle": "Spring activities",
+    "questionsLabel": "QUESTIONS 51–55"
+   },
+   {
+    "type": "writing-postcard",
+    "items": [
+     {
+      "id": 56,
+      "type": "free-text",
+      "answer": "Hi Pat,\nHow are you? I'm good. I've got a new job. It's teaching Japanese.\nI teach every Thursday. I like my new job because the teaching is very interesting for me.\nSee you.\nKeiko",
+      "maxWords": 35,
+      "minWords": 25
+     }
+    ],
+    "label": "PART 9",
+    "footer": [
+     "Write 25–35 words.",
+     "Write the email on your answer sheet."
+    ],
+    "prompt": "You have just started a new summer job. Write an email to your English friend, Pat.",
+    "wordCount": "25–35 words",
+    "partNumber": 9,
+    "instruction": [
+     "You have just started a new summer job. Write an email to your English friend, Pat.",
+     "Say:",
+     "• what your new job is",
+     "• which days you work",
+     "• why you like it."
+    ],
+    "questionsLabel": "QUESTION 56",
+    "promptSignature": ""
+   }
+  ],
+  "testInfo": {
+   "id": "ket-rw-22",
+   "level": "A2",
+   "paper": "Paper 1",
+   "parts": 9,
+   "title": "KET Reading & Writing — Test 22",
+   "totalTime": 70,
+   "totalQuestions": 56
+  }
+ },
+ "created_at": "2026-10-14T06:45:11.396938+00:00",
+ "updated_at": "2026-10-14T06:46:58.521783+00:00"
+}

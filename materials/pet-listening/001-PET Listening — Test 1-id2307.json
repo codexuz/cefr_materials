@@ -1,0 +1,413 @@
+{
+ "id": 2307,
+ "mock_type": "pet-listening",
+ "mock_number": 1,
+ "title": "PET Listening — Test 1",
+ "status": "published",
+ "mock_data": {
+  "audio": {
+   "base": "https://audio.mock-stream.com/PET-Listening/test1/",
+   "files": {
+    "1": "PART1.m4a",
+    "2": "PART2.m4a",
+    "3": "PART3.m4a",
+    "4": "PART4.m4a"
+   }
+  },
+  "parts": [
+   {
+    "type": "picture-mcq",
+    "items": [
+     {
+      "id": 1,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q1A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q1B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q1C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Which dish did Mark cook in the competition?"
+     },
+     {
+      "id": 2,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q2A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q2B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q2C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Where is the girl's book now?"
+     },
+     {
+      "id": 3,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q3A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q3B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q3C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Who lives with Josh in his house?"
+     },
+     {
+      "id": 4,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q4A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q4B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q4C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What will the girl take with her on holiday?"
+     },
+     {
+      "id": 5,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q5A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q5B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q5C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What time will the train to Manchester leave?"
+     },
+     {
+      "id": 6,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q6A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q6B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q6C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Where will the friends meet?"
+     },
+     {
+      "id": 7,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q7A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q7B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q7C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Which sport will the boy do soon at the centre?"
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "options": [
+      {
+       "image": "q0A.png",
+       "letter": "A"
+      },
+      {
+       "image": "q0B.png",
+       "letter": "B"
+      },
+      {
+       "image": "q0C.png",
+       "letter": "C"
+      }
+     ],
+     "question": "Where is the girl's hat?"
+    },
+    "imageBase": "https://audio.mock-stream.com/PET-Listening/test1/p1/",
+    "partNumber": 1,
+    "instruction": [
+     "There are seven questions in this part.",
+     "For each question there are three pictures and a short recording.",
+     "For each question, choose the correct answer A, B or C."
+    ],
+    "questionsLabel": "QUESTIONS 1–7"
+   },
+   {
+    "type": "mcq-conversation",
+    "items": [
+     {
+      "id": 8,
+      "stem": "When Nick and Mel were younger,",
+      "answer": "B",
+      "options": [
+       {
+        "text": "they studied music at school.",
+        "letter": "A"
+       },
+       {
+        "text": "their father took them to live concerts.",
+        "letter": "B"
+       },
+       {
+        "text": "their mother encouraged them to play music.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 9,
+      "stem": "When Nick and Mel started writing music together, they",
+      "answer": "C",
+      "options": [
+       {
+        "text": "disagreed about the style they should have.",
+        "letter": "A"
+       },
+       {
+        "text": "didn't want to be the same as other bands.",
+        "letter": "B"
+       },
+       {
+        "text": "were influenced by different kinds of music.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 10,
+      "stem": "The band Krispy was started after",
+      "answer": "B",
+      "options": [
+       {
+        "text": "Nick began studying at music school.",
+        "letter": "A"
+       },
+       {
+        "text": "two other musicians heard Nick and Mel playing.",
+        "letter": "B"
+       },
+       {
+        "text": "Nick and Mel advertised for the band members.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 11,
+      "stem": "In the band's first year together,",
+      "answer": "A",
+      "options": [
+       {
+        "text": "concert audiences liked their music.",
+        "letter": "A"
+       },
+       {
+        "text": "they signed a recording contract.",
+        "letter": "B"
+       },
+       {
+        "text": "their national tour was very successful.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "stem": "What does Nick say about life in the band today?",
+      "answer": "A",
+      "options": [
+       {
+        "text": "The older members look after him and Mel.",
+        "letter": "A"
+       },
+       {
+        "text": "He's pleased to have the chance to travel.",
+        "letter": "B"
+       },
+       {
+        "text": "There's no opportunity for them to relax together.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "stem": "What disappointment has the band had?",
+      "answer": "C",
+      "options": [
+       {
+        "text": "They haven't yet had a number one single.",
+        "letter": "A"
+       },
+       {
+        "text": "Their first album sold under a million copies.",
+        "letter": "B"
+       },
+       {
+        "text": "A health problem delayed their album recording.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 2",
+    "partNumber": 2,
+    "instruction": [
+     "You will hear an interview with a singer called Nick Parker who plays in a band called Krispy with his sister Mel.",
+     "For each question, choose the correct answer A, B or C."
+    ],
+    "questionsLabel": "QUESTIONS 8–13"
+   },
+   {
+    "rows": [
+     {
+      "id": 14,
+      "label": "Name of Ben's organisation:",
+      "answer": "Nature"
+     },
+     {
+      "id": 15,
+      "label": "Aim of course: Discovering",
+      "answer": "wildlife"
+     },
+     {
+      "id": 16,
+      "label": "Closest course location for this group:",
+      "answer": "forest"
+     },
+     {
+      "id": 17,
+      "label": "Length of course:",
+      "answer": "12",
+      "suffix": "weeks"
+     },
+     {
+      "id": 18,
+      "label": "Examples of activities we will do: Make a",
+      "answer": "fire"
+     },
+     {
+      "id": 19,
+      "label": "Design a",
+      "answer": "birdhouse",
+      "suffix": "to take home."
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 3",
+    "noteTitle": "Saturday course",
+    "partNumber": 3,
+    "instruction": [
+     "You will hear a man called Ben, from a young people's organisation, telling a youth group about a course they can do on Saturdays.",
+     "For each question, fill in the missing information in the numbered space."
+    ],
+    "questionsLabel": "QUESTIONS 14–19"
+   },
+   {
+    "type": "true-false",
+    "items": [
+     {
+      "id": 20,
+      "answer": "A",
+      "statement": "Ruby realises that the first design of the poster may need improving."
+     },
+     {
+      "id": 21,
+      "answer": "B",
+      "statement": "Thomas thinks the poster should be bigger than last year's."
+     },
+     {
+      "id": 22,
+      "answer": "B",
+      "statement": "Ruby and Thomas agree that the poster should be in colour."
+     },
+     {
+      "id": 23,
+      "answer": "A",
+      "statement": "Ruby thinks the photograph should be in the middle of the poster."
+     },
+     {
+      "id": 24,
+      "answer": "B",
+      "statement": "Thomas suggests they use the same photograph as last year."
+     },
+     {
+      "id": 25,
+      "answer": "B",
+      "statement": "Ruby thinks every word on the poster should be the same size."
+     }
+    ],
+    "label": "PART 4",
+    "scenario": "Thomas and Ruby — discussing a poster for their school sports day",
+    "partNumber": 4,
+    "instruction": [
+     "Look at the six sentences for this part.",
+     "You will hear a boy called Thomas and a girl called Ruby talking about a poster for their school sports day.",
+     "Decide if each sentence is correct or incorrect.",
+     "If it is correct, choose the letter A for YES. If it is not correct, choose the letter B for NO."
+    ],
+    "questionsLabel": "QUESTIONS 20–25"
+   }
+  ],
+  "testInfo": {
+   "id": "pet-l-01",
+   "level": "B1",
+   "paper": "Paper 2 · Listening",
+   "parts": 4,
+   "title": "PET Listening — Test 1",
+   "totalTime": 35,
+   "totalQuestions": 25
+  }
+ },
+ "created_at": "2026-10-14T06:45:47.886527+00:00",
+ "updated_at": "2026-10-14T06:47:33.149133+00:00"
+}

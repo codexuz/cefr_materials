@@ -1,0 +1,748 @@
+{
+ "id": 6,
+ "mock_type": "cefr-listening",
+ "mock_number": 1,
+ "title": "CEFR Listening Mock Test 01",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "mcq-reply",
+    "title": "Part 1",
+    "answers": {
+     "1": "A",
+     "2": "A",
+     "3": "A",
+     "4": "B",
+     "5": "B",
+     "6": "C",
+     "7": "B",
+     "8": "A"
+    },
+    "audioFile": "https://audio.mock-stream.com/test1/PART%201.m4a",
+    "questions": [
+     {
+      "id": 1,
+      "options": [
+       {
+        "text": "Here you are.",
+        "letter": "A"
+       },
+       {
+        "text": "Thank you.",
+        "letter": "B"
+       },
+       {
+        "text": "I don't know.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "options": [
+       {
+        "text": "I love it.",
+        "letter": "A"
+       },
+       {
+        "text": "It's six pounds.",
+        "letter": "B"
+       },
+       {
+        "text": "The shop's open.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 3,
+      "options": [
+       {
+        "text": "When did you do it?",
+        "letter": "A"
+       },
+       {
+        "text": "Please do it.",
+        "letter": "B"
+       },
+       {
+        "text": "Have you done it yet?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 4,
+      "options": [
+       {
+        "text": "It's Thursday.",
+        "letter": "A"
+       },
+       {
+        "text": "The third, I think.",
+        "letter": "B"
+       },
+       {
+        "text": "I'm 22 today.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 5,
+      "options": [
+       {
+        "text": "Oh, Helen, I'm so sorry.",
+        "letter": "A"
+       },
+       {
+        "text": "No, not really. Why?",
+        "letter": "B"
+       },
+       {
+        "text": "No, I didn't.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 6,
+      "options": [
+       {
+        "text": "She was all right.",
+        "letter": "A"
+       },
+       {
+        "text": "She has been good.",
+        "letter": "B"
+       },
+       {
+        "text": "She'll be all right in a day or two.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 7,
+      "options": [
+       {
+        "text": "The nearest pub is round the corner.",
+        "letter": "A"
+       },
+       {
+        "text": "That's a good idea, I haven't been to any pub lately.",
+        "letter": "B"
+       },
+       {
+        "text": "We have no pubs in our country.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 8,
+      "options": [
+       {
+        "text": "No, thank you.",
+        "letter": "A"
+       },
+       {
+        "text": "It's a pity.",
+        "letter": "B"
+       },
+       {
+        "text": "I'm sorry.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "partNumber": 1,
+    "transcript": "Exercise 13.\n\nSpeaker 1.\n\nCould you give me the butter?\nCould you give me the butter?\n\nSpeaker two.\n\nJohn hates shopping.\nJohn hates shopping.\n\nSpeaker three.\n\nI've already done my homework.\nI've already done my homework.\n\nSpeaker four.\n\nWhat's the date today?\nWhat's the date today?\n\nSpeaker five.\n\nNick, have you got anything special for tonight?\nNick, have you got anything special for tonight?\n\nSpeaker six.\n\nDoctor, do you think she is better?\nDoctor, do you think she is better?\n\nSpeaker seven.\n\nShall we have a snack lunch in a pub for a change?\nShall we have a snack lunch in a pub for a change?\n\nSpeaker eight.\n\nWould you like a cup of tea?\nWould you like a cup of tea?",
+    "instruction": "You will hear some sentences. You will hear each sentence twice. Choose the correct reply to each sentence (A, B, or C).",
+    "questionRange": "1-8",
+    "answerHighlights": {
+     "1": [
+      4
+     ],
+     "2": [
+      9
+     ],
+     "3": [
+      14
+     ],
+     "4": [
+      19
+     ],
+     "5": [
+      24
+     ],
+     "6": [
+      29
+     ],
+     "7": [
+      34
+     ],
+     "8": [
+      39
+     ]
+    }
+   },
+   {
+    "type": "gap-fill-form",
+    "title": "Part 2",
+    "answers": {
+     "9": [
+      "pet",
+      "Pet",
+      "PET"
+     ],
+     "10": [
+      "cleaners",
+      "Cleaners",
+      "CLEANERS"
+     ],
+     "11": [
+      "magazines",
+      "Magazines",
+      "MAGAZINES"
+     ],
+     "12": [
+      "10.30 PM",
+      "10.30 pm",
+      "22.30",
+      "10:30 PM",
+      "10:30 pm"
+     ],
+     "13": [
+      "theatre",
+      "Theatre",
+      "THEATRE",
+      "theater",
+      "Theater"
+     ],
+     "14": [
+      "tickets",
+      "Tickets",
+      "TICKETS"
+     ]
+    },
+    "audioFile": "https://audio.mock-stream.com/test1/PART%202.m4a",
+    "formTitle": "Milburn's Stores",
+    "questions": [
+     {
+      "id": 9,
+      "hint": "something for your ____"
+     },
+     {
+      "id": 10,
+      "hint": "trainee managers and ____"
+     },
+     {
+      "id": 11,
+      "hint": "Collect a ____"
+     },
+     {
+      "id": 12,
+      "hint": "open until ____"
+     },
+     {
+      "id": 13,
+      "hint": "Children's ____ Group"
+     },
+     {
+      "id": 14,
+      "hint": "given a ____"
+     }
+    ],
+    "partNumber": 2,
+    "transcript": "Narrator: Exercise 13.\nNarrator: You will hear an announcement in a supermarket.\nSpeaker 1: Welcome to Milburns. If you're looking for a sale or for something unusual, don't forget our Thursday special Buyday, where you'll find some great offers. These change every week and are removed from the shelves at the end of the day. This Thursday, you'll be able to buy a special gift for your pet with lots of items at low, low prices. Come early and don't miss our offers.\nSpeaker 1: Are you interested in a career with Milburns? We're looking for new staff in various areas of the business. There are now opportunities to join our trainee manager program and several jobs for cleaners. We are proud of our staff and like to think they're proud to be part of the Milburn family.\nSpeaker 1: Why not speak to our manager today if you're interested in joining us? Or pick up our magazine at the exit for details about how to apply.\nSpeaker 1: As the new year approaches, we know you'll need to get your shopping done ready for all the celebrations. We'll be opening until 10:30 on Friday evening to give you time to get ready for the big day.\nSpeaker 1: Don't forget we'll be closed on the first, but open again on the second, when we return to normal opening hours.\nSpeaker 1: We value our local community and are always looking for the chance to help out where we can. This month, we're supporting the local arts project and the children's theater group. When you pay for your shopping, you'll be given a ticket. To show your support, choose which of the organizations you would like to give this to by putting it in the box by the exit. We'll turn these into cash when they are counted up at the end of the month.\nNarrator: Now listen again.\nSpeaker 1: Welcome to Milburns. If you're looking for a sale or for something unusual, don't forget our Thursday special Buyday, where you'll find some great offers. These change every week and are removed from the shelves at the end of the day. This Thursday, you'll be able to buy a special gift for your pet with lots of items at low, low prices. Come early and don't miss our offers.\nSpeaker 1: Are you interested in a career with Milburns? We're looking for new staff in various areas of the business. There are now opportunities to join our trainee manager program and several jobs for cleaners. We are proud of our staff and like to think they're proud to be part of the Milburn family.\nSpeaker 1: Why not speak to our manager today if you're interested in joining us? Or pick up our magazine at the exit for details about how to apply.\nSpeaker 1: As the new year approaches, we know you'll need to get your shopping done ready for all the celebrations. We'll be opening until 10:30 on Friday evening to give you time to get ready for the big day.\nSpeaker 1: Don't forget we'll be closed on the first, but open again on the second, when we return to normal opening hours.\nSpeaker 1: We value our local community and are always looking for the chance to help out where we can. This month, we're supporting the local arts project and the children's theater group. When you pay for your shopping, you'll be given a ticket. To show your support, choose which of the organizations you would like to give this to by putting it in the box by the exit. We'll turn these into cash when they are counted up at the end of the month.",
+    "formContent": [
+     {
+      "text": "At this Thursday's 'Special Buy' day you can get something for your",
+      "type": "item-gap",
+      "gapId": 9
+     },
+     {
+      "text": "There are jobs available for trainee managers and",
+      "type": "item-gap",
+      "gapId": 10
+     },
+     {
+      "text": "Collect a",
+      "type": "item-gap",
+      "gapId": 11,
+      "gapSuffix": "by the exit for information about how to apply."
+     },
+     {
+      "text": "On Friday the supermarket will open until",
+      "type": "item-gap",
+      "gapId": 12
+     },
+     {
+      "text": "This month Milburn's are supporting the local Arts Project and Children's",
+      "type": "item-gap",
+      "gapId": 13,
+      "gapSuffix": "Group."
+     },
+     {
+      "text": "You will be given a",
+      "type": "item-gap",
+      "gapId": 14,
+      "gapSuffix": "when you pay to show your support."
+     }
+    ],
+    "instruction": "You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. Write ONE WORD and/or A NUMBER for each answer.",
+    "questionRange": "9-14",
+    "answerHighlights": {
+     "9": [
+      2
+     ],
+     "10": [
+      3
+     ],
+     "11": [
+      4
+     ],
+     "12": [
+      5
+     ],
+     "13": [
+      7
+     ],
+     "14": [
+      7
+     ]
+    }
+   },
+   {
+    "type": "matching-speakers",
+    "title": "Part 3",
+    "answers": {
+     "15": "H",
+     "16": "E",
+     "17": "D",
+     "18": "F",
+     "19": "C"
+    },
+    "options": [
+     {
+      "text": "collect some surgical knives",
+      "letter": "A"
+     },
+     {
+      "text": "collect somebody",
+      "letter": "B"
+     },
+     {
+      "text": "deliver supplies",
+      "letter": "C"
+     },
+     {
+      "text": "visit a relative",
+      "letter": "D"
+     },
+     {
+      "text": "have an operation",
+      "letter": "E"
+     },
+     {
+      "text": "do maintenance work",
+      "letter": "F"
+     },
+     {
+      "text": "check a mental problem",
+      "letter": "G"
+     },
+     {
+      "text": "have a medical check-up",
+      "letter": "H"
+     }
+    ],
+    "speakers": [
+     {
+      "id": 15,
+      "label": "Speaker 1"
+     },
+     {
+      "id": 16,
+      "label": "Speaker 2"
+     },
+     {
+      "id": 17,
+      "label": "Speaker 3"
+     },
+     {
+      "id": 18,
+      "label": "Speaker 4"
+     },
+     {
+      "id": 19,
+      "label": "Speaker 5"
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test1/PART%203.m4a",
+    "partNumber": 3,
+    "transcript": "Exercise 13.\nYou will hear five different people talking about visits they have made to a hospital.\nSpeaker one.\nWell, the last time I went to the hospital was because I needed a medical certificate.\nI'd just been offered the job in Kuwait, and they needed an official piece of paper from any qualified doctor saying that I had healthy lungs, heart, liver, and good eyesight.\nAnd, well, I couldn't go to my regular doctor because I had already given his name as a reference.\nAnd, well, I was a bit nervous, because if the doctor didn't declare that I was perfectly healthy, I wouldn't get the job.\nSpeaker two.\nI'd always thought they'd give me something to put me to sleep, and when I came round, everything would be over, and all I would see would be a few stitches.\nBut these days, it's all done with a local anesthetic, so you stay awake through the whole thing, and you can see everything they're doing.\nOf course, they tell you that you don't have to look, but you can't really look anywhere else, can you?\nOf course, you don't feel anything, but it's a bit scary.\nSpeaker three.\nI didn't know what to expect.\nI mean, when somebody has such a big operation, nothing really prepares you for what happens afterwards.\nIt's not a bit like it is on telly.\nWhen at last I managed to find the right room, I almost didn't recognize her.\nIt really was a bit of a shock.\nBut the staff all seemed really pleased with her progress, and were even talking about going home in just a few days.\nI don't know about these things, and I believed what they said.\nIf I'd known what was going to happen, I'd have stayed there all night just to be with her right up to the end.\nSpeaker four.\nWell, the call on my answer phone said there was this leaking roof in one of the wards, a drip, they called it.\nWell, it hadn't been raining much, so I suppose it didn't seem too bad to them.\nBut when I got up there, the whole roof was in a shocking state.\nIt's a good thing I looked at it when I did, because one heavy rainstorm and all that lot was going to collapse, and with all the patients in their beds underneath.\nI mean, I know the National Health hasn't got much cash these days, but they should have had the whole roof fixed.\nSo, in the end, I told them to get someone else to do it.\nAnd I'll tell you another thing.\nI'm going private from now on.\nSpeaker five.\nThe address on the package says room 4J.\nAnyway, I've been to the hospital loads of times to visit my gran.\nSo I know the layout pretty well.\nAnyway, I find room 4H in no time.\nIt says checkups on the door, so it can't be the room I want.\nBut then there's no room 4I or 4J.\nAnd room 4K is the maintenance office, and they certainly don't want a box of surgical knives.\nSo, after I've been looking for a good 10 minutes, I ask someone, and they tell me, as though everyone knows, it's on the next floor, of course.\nHow was I to know?\nAnyway, I'll take it up there, and then there's nobody there to sign the documents to say they've received it, so I have to come all the way back to the front.\nYou will hear the piece again.\nSpeaker one.\nWell, the last time I went to the hospital was because I needed a medical certificate.\nI'd just been offered the job in Kuwait, and they needed an official piece of paper from any qualified doctor saying that I had healthy lungs, heart, liver, and good eyesight.\nAnd, well, I couldn't go to my regular doctor because I had already given his name as a reference.\nAnd, well, I was a bit nervous, because if the doctor didn't declare that I was perfectly healthy, I wouldn't get the job.\nSpeaker two.\nI'd always thought they'd give me something to put me to sleep, and when I came round, everything would be over, and all I would see would be a few stitches.\nBut these days, it's all done with a local anesthetic, so you stay awake through the whole thing, and you can see everything they're doing.\nOf course, they tell you that you don't have to look, but you can't really look anywhere else, can you?\nOf course, you don't feel anything, but it's a bit scary.\nSpeaker three.\nI didn't know what to expect.\nI mean, when somebody has such a big operation, nothing really prepares you for what happens afterwards.\nIt's not a bit like it is on telly.\nWhen at last I managed to find the right room, I almost didn't recognize her.\nIt really was a bit of a shock.\nBut the staff all seemed really pleased with her progress, and were even talking about going home in just a few days.\nI don't know about these things, and I believed what they said.\nIf I'd known what was going to happen, I'd have stayed there all night just to be with her right up to the end.\nSpeaker four.\nWell, the call on my answer phone said there was this leaking roof in one of the wards, a drip, they called it.\nWell, it hadn't been raining much, so I suppose it didn't seem too bad to them.\nBut when I got up there, the whole roof was in a shocking state.\nIt's a good thing I looked at it when I did, because one heavy rainstorm and all that lot was going to collapse, and with all the patients in their beds underneath.\nI mean, I know the National Health hasn't got much cash these days, but they should have had the whole roof fixed.\nSo, in the end, I told them to get someone else to do it.\nAnd I'll tell you another thing.\nI'm going private from now on.\nSpeaker five.\nThe address on the package says room 4J.\nAnyway, I've been to the hospital loads of times to visit my gran.\nSo I know the layout pretty well.\nAnyway, I find room 4H in no time.\nIt says checkups on the door, so it can't be the room I want.\nBut then there's no room 4I or 4J.\nAnd room 4K is the maintenance office, and they certainly don't want a box of surgical knives.\nSo, after I've been looking for a good 10 minutes, I ask someone, and they tell me, as though everyone knows, it's on the next floor, of course.\nHow was I to know?\nAnyway, I'll take it up there, and then there's nobody there to sign the documents to say they've received it, so I have to come all the way back to the front.",
+    "instruction": "You will hear five different people talking about visits they have made to a hospital. For questions 1-5, choose from the list A-H the reasons why each attended the hospital on the occasion described. Use the letters only once. There are THREE EXTRA letters which you do not need to use.",
+    "questionRange": "15-19",
+    "answerHighlights": {
+     "15": [
+      3,
+      4
+     ],
+     "16": [
+      8,
+      9
+     ],
+     "17": [
+      16
+     ],
+     "18": [
+      22,
+      24
+     ],
+     "19": [
+      31,
+      37
+     ]
+    }
+   },
+   {
+    "type": "map-labeling",
+    "title": "Part 4",
+    "answers": {
+     "20": "E",
+     "21": "D",
+     "22": "B",
+     "23": "C",
+     "24": "H"
+    },
+    "mapImage": "https://audio.mock-stream.com/test1/Screenshot%202026-01-13%20171408.png",
+    "mapTitle": "Town Map",
+    "audioFile": "https://audio.mock-stream.com/test1/PART%204.m4a",
+    "mapLabels": [
+     "A",
+     "B",
+     "C",
+     "D",
+     "E",
+     "F",
+     "G",
+     "H",
+     "I"
+    ],
+    "questions": [
+     {
+      "id": 20,
+      "place": "New traffic lights"
+     },
+     {
+      "id": 21,
+      "place": "Pedestrian crossing"
+     },
+     {
+      "id": 22,
+      "place": "Parking allowed"
+     },
+     {
+      "id": 23,
+      "place": "New disabled parking spaces"
+     },
+     {
+      "id": 24,
+      "place": "Widened pavement"
+     }
+    ],
+    "partNumber": 4,
+    "transcript": "Narrator: Exercise 13.\nSpeaker 1: Okay, so this slide shows a map of the central area of Grandford with the High Street in the middle, and School Road on the right.\nNow, we already have a set of traffic lights in the High Street at the junction with Station Road.\nBut we're planning to have another set at the other end, at the School Road junction to regulate the flow of traffic along the High Street.\nWe've decided we definitely need a pedestrian crossing.\nWe considered putting this on School Road just outside the school, but in the end, we decided that could lead to a lot of traffic congestion.\nSo we decided to locate it on the High Street, crossing the road in front of the supermarket.\nThat's a very busy area, so it should help things there.\nWe are proposing some changes to parking.\nAt present, parking isn't allowed on the High Street outside the library, but we're going to change that and allow parking there, but not at the other end of the High Street near School Road.\nThere'll be a new 'no parking' sign on School Road, just by the entrance to the school, forbidding parking for 25 meters.\nThis should improve visibility for drivers and pedestrians, especially on the bend just to the north of the school.\nAs far as disabled drivers are concerned, at present, they have parking outside the supermarket, but lorries also use those spaces, so we've got two new disabled parking spaces on the side road, up towards the bank.\nIt's not ideal, but probably better than the present arrangement.\nWe also plan to widen the pavement on School Road.\nWe think we can manage to get an extra half meter on the bend just before you get to the school on the same side of the road.\nFinally, we've introduced new restrictions on loading and unloading for the supermarket, so lorries will only be allowed to stop there before 8:00 a.m.\nThat's the supermarket on School Road.\nWe kept to the existing arrangements with the High Street supermarket.\nOkay, so that's about it.\nNow, would any\nNarrator: Now, listen again.\nSpeaker 1: Okay, so this slide shows a map of the central area of Grandford, with the High Street in the middle, and School Road on the right.\nNow, we already have a set of traffic lights in the High Street at the junction with Station Road.\nBut we're planning to have another set at the other end, at the School Road junction to regulate the flow of traffic along the High Street.\nWe've decided we definitely need a pedestrian crossing.\nWe considered putting this on School Road just outside the school, but in the end, we decided that could lead to a lot of traffic congestion.\nSo we decided to locate it on the High Street, crossing the road in front of the supermarket.\nThat's a very busy area, so it should help things there.\nWe are proposing some changes to parking.\nAt present, parking isn't allowed on the High Street outside the library, but we're going to change that and allow parking there, but not at the other end of the High Street near School Road.\nThere'll be a new 'no parking' sign on School Road, just by the entrance to the school, forbidding parking for 25 meters.\nThis should improve visibility for drivers and pedestrians, especially on the bend just to the north of the school.\nAs far as disabled drivers are concerned, at present, they have parking outside the supermarket, but lorries also use those spaces, so we've got two new disabled parking spaces on the side road, up towards the bank.\nIt's not ideal, but probably better than the present arrangement.\nWe also plan to widen the pavement on School Road.\nWe think we can manage to get an extra half meter on the bend just before you get to the school on the same side of the road.\nFinally, we've introduced new restrictions on loading and unloading for the supermarket, so lorries will only be allowed to stop there before 8:00 a.m.\nThat's the supermarket on School Road.\nWe kept to the existing arrangements with the High Street supermarket.\nOkay, so that's about it.\nNow, would any",
+    "instruction": "You will hear someone giving a talk. Label the places on the map. There is ONE extra option which you do not need to use.",
+    "questionRange": "20-24",
+    "answerHighlights": {
+     "20": [
+      12
+     ],
+     "21": [
+      12
+     ],
+     "22": [
+      6
+     ],
+     "23": [
+      3
+     ],
+     "24": [
+      10
+     ]
+    }
+   },
+   {
+    "type": "mcq-extracts",
+    "title": "Part 5",
+    "answers": {
+     "25": "B",
+     "26": "B",
+     "27": "B",
+     "28": "A",
+     "29": "A",
+     "30": "B"
+    },
+    "extracts": [
+     {
+      "title": "Extract One",
+      "questions": [
+       {
+        "id": 25,
+        "text": "What point does the tutor make about a teacher's attitude?",
+        "options": [
+         {
+          "text": "A good teacher can put any subject across effectively.",
+          "letter": "A"
+         },
+         {
+          "text": "Students will pick up on a teacher's commitment.",
+          "letter": "B"
+         },
+         {
+          "text": "There's little point in a teacher trying to fake passion for a subject.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 26,
+        "text": "What is Susanna doing?",
+        "options": [
+         {
+          "text": "complaining about her students' lack of enthusiasm",
+          "letter": "A"
+         },
+         {
+          "text": "proposing ways of making her subject more appealing",
+          "letter": "B"
+         },
+         {
+          "text": "asking for ideas about exercises her students could do",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Extract Two",
+      "questions": [
+       {
+        "id": 27,
+        "text": "Sam is trying to",
+        "options": [
+         {
+          "text": "suggest how the visual impact could have been improved.",
+          "letter": "A"
+         },
+         {
+          "text": "challenge Ella's preconceptions about the music.",
+          "letter": "B"
+         },
+         {
+          "text": "persuade Ella to go to a similar one in the future.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 28,
+        "text": "In Sam's opinion, what makes the performer stand out?",
+        "options": [
+         {
+          "text": "the influence her academic background has on her music",
+          "letter": "A"
+         },
+         {
+          "text": "the instinctive way she responds to her audience",
+          "letter": "B"
+         },
+         {
+          "text": "the high level of stage presence she displays",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Extract Three",
+      "questions": [
+       {
+        "id": 29,
+        "text": "Staff have been planting trees in order to",
+        "options": [
+         {
+          "text": "promote a desirable image.",
+          "letter": "A"
+         },
+         {
+          "text": "encourage a spirit of mutual co-operation.",
+          "letter": "B"
+         },
+         {
+          "text": "compensate for environmental damage.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 30,
+        "text": "The company was surprised that its remote working initiative resulted in",
+        "options": [
+         {
+          "text": "more appreciative customers.",
+          "letter": "A"
+         },
+         {
+          "text": "a better standard of new recruits.",
+          "letter": "B"
+         },
+         {
+          "text": "a more motivated workforce.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test1/PART%205.m4a",
+    "partNumber": 5,
+    "transcript": "Narrator: Exercise 13.\n\nYou'll hear three different extracts. For questions 1 to 6, choose the answer A, B, or C, which fits best according to what you hear. There are two questions for each extract.\n\nExtract 1. You hear a trainee teacher called Susanna talking to her tutor. Now look at questions 1 and 2.\n\nSpeaker 1: How are you finding the teaching course, Susanna? You seem to have been making good progress so far.\nSpeaker 2: Yeah, I'm feeling more confident in front of my students, but I worry about whether they're inspired by the activities I do with them sometimes. I guess this is a wake-up call for me that it's just too much to expect them to be as excited about maths as I am.\nSpeaker 1: I think when a teacher is motivated, that can't fail to make an impression. You can't expect your students to love a subject unless they can see you love it yourself. Sure, your students will think you're crazy if you talk about math as if it were a spectator sport, but in the end, your attitude will rub off on them.\nSpeaker 2: I was reading about some techniques I could try in the classroom to keep their interest levels up. I've been trying to get some more hands-on stuff into my classes, you know, trying things out in a practical sense rather than sticking to boring theory.\nSpeaker 1: Sounds like an excellent idea. Students always appreciate a teacher who goes the extra mile for them.\n\nSpeaker 1: How are you finding the teaching course, Susanna? You seem to have been making good progress so far.\nSpeaker 2: Yeah, I'm feeling more confident in front of my students, but I worry about whether they're inspired by the activities I do with them sometimes. I guess this is a wake-up call for me that it's just too much to expect them to be as excited about maths as I am.\nSpeaker 1: I think when a teacher is motivated, that can't fail to make an impression. You can't expect your students to love a subject unless they can see you love it yourself. Sure, your students will think you're crazy if you talk about math as if it were a spectator sport, but in the end, your attitude will rub off on them.\nSpeaker 2: I was reading about some techniques I could try in the classroom to keep their interest levels up. I've been trying to get some more hands-on stuff into my classes, you know, trying things out in a practical sense rather than sticking to boring theory.\nSpeaker 1: Sounds like an excellent idea. Students always appreciate a teacher who goes the extra mile for them.\n\nNarrator: Extract 2. You'll hear a student called Sam, telling his friend Ella about a concert he's been to.\nNow look at questions 3 and 4.\n\nSpeaker 2: So you decided against the concert then?\nSpeaker 3: I thought about it, but I don't really think it's possible to get caught up in the atmosphere when all you see is someone pressing buttons on a computer and tinkling the keys on a synthesizer. That's all this electronic music amounts to.\nSpeaker 2: Admittedly, the performer was dressed all in black and she looked like a scene shifter, and the visuals were limited. There was a screen but just with some sober animations on it, trees, castles, rippling water, that sort of thing.\nSpeaker 3: Yeah, that says it all.\nSpeaker 2: But does that matter if the music's brilliant? And it certainly was, but that's just my opinion.\nSpeaker 3: Tell me something about her then.\nSpeaker 2: Well, she's a student, studying comparative literature, I think. That seems to give a bit of substance to her music, make it thoughtful and rigorous.\nSpeaker 3: Sounds overly serious.\nSpeaker 2: Well, it all paid off. When the audience got more lively towards the end, she kept it steady and didn't change pace to build excitement, and she didn't seem to need the pyrotechnics and lasers that so many techies rely on.\n\nSpeaker 3: So you decided against the concert then?\nSpeaker 4: I thought about it, but I don't really think it's possible to get caught up in the atmosphere when all you see is someone pressing buttons on a computer and tinkling the keys on a synthesizer. That's all this electronic music amounts to.\nSpeaker 3: Admittedly, the performer was dressed all in black and she looked like a scene shifter, and the visuals were limited. There was a screen but just with some sober animations on it, trees, castles, rippling water, that sort of thing.\nSpeaker 4: Yeah, that says it all.\nSpeaker 3: But does that matter if the music's brilliant? And it certainly was, but that's just my opinion.\nSpeaker 4: Tell me something about her then.\nSpeaker 3: Well, she's a student, studying comparative literature, I think. That seems to give a bit of substance to her music, make it thoughtful and rigorous.\nSpeaker 4: Sounds overly serious.\nSpeaker 3: Well, it all paid off. When the audience got more lively towards the end, she kept it steady and didn't change pace to build excitement, and she didn't seem to need the pyrotechnics and lasers that so many techies rely on.\n\nNarrator: Extract 3.\nYou hear a woman telling her friend about new policies adopted by her company.\nNow look at questions 5 and 6.\n\nSpeaker 5: I heard that people from your office were planting trees last week. What's going on?\nSpeaker 6: Sustainability is the new watchword these days. Last year, we concentrated on cutting down on our use of paper and providing raw material for more also seemed a good thing to do.\nSpeaker 5: And easier, too. Your office is next door to a big forest, isn't it?\nSpeaker 6: Yes, very convenient. We're really keen on the idea that the company should be seen to identify with a certain set of values, and I think we were doing just that out there in the woods. So much internal conflict seemed forgotten, too, which may not last, of course.\nSpeaker 5: What else have you done?\nSpeaker 6: It's not just the trees, of course. We've cut down our carbon footprint and reduced staff travel by encouraging remote working and flexible homeworking, so people have been understandably pleased about that. And word seems to have got round because the last bunch of job applicants were a very noticeably higher caliber than previously, and I'm pretty sure that wasn't just a coincidence, though it wasn't part of our original thinking. There are certainly plenty of happy clients, but they've always been keen on the idea of supporting community projects through our efforts.\n\nSpeaker 5: I heard that people from your office were planting trees last week. What's going on?\nSpeaker 6: Sustainability is the new watchword these days. Last year, we concentrated on cutting down on our use of paper and providing raw material for more also seemed a good thing to do.\nSpeaker 5: And easier, too. Your office is next door to a big forest, isn't it?\nSpeaker 6: Yes, very convenient. We're really keen on the idea that the company should be seen to identify with a certain set of values, and I think we were doing just that out there in the woods. So much internal conflict seemed forgotten, too, which may not last, of course.\nSpeaker 5: What else have you done?\nSpeaker 6: It's not just the trees, of course. We've cut down our carbon footprint and reduced staff travel by encouraging remote working and flexible homeworking, so people have been understandably pleased about that. And word seems to have got round because the last bunch of job applicants were a very noticeably higher caliber than previously, and I'm pretty sure that wasn't just a coincidence, though it wasn't part of our original thinking. There are certainly plenty of happy clients, but they've always been keen on the idea of supporting community projects through our efforts.",
+    "instruction": "You will hear three extracts. Choose the correct answer (A, B or C) for each question (25-30). There are TWO questions for each extract. Mark your answers on the answer sheet.",
+    "questionRange": "25-30",
+    "answerHighlights": {
+     "25": [
+      6,
+      7
+     ],
+     "26": [
+      9
+     ],
+     "27": [
+      22
+     ],
+     "28": [
+      29
+     ],
+     "29": [
+      48
+     ],
+     "30": [
+      50
+     ]
+    }
+   },
+   {
+    "type": "sentence-completion",
+    "title": "Part 6",
+    "answers": {
+     "31": [
+      "water",
+      "Water",
+      "WATER"
+     ],
+     "32": [
+      "minerals",
+      "Minerals",
+      "MINERALS"
+     ],
+     "33": [
+      "gold",
+      "Gold",
+      "GOLD"
+     ],
+     "34": [
+      "stone",
+      "Stone",
+      "STONE"
+     ],
+     "35": [
+      "cooling",
+      "Cooling",
+      "COOLING"
+     ],
+     "36": [
+      "windows",
+      "Windows",
+      "WINDOWS"
+     ]
+    },
+    "audioFile": "https://audio.mock-stream.com/test1/PART%206.m4a",
+    "questions": [
+     {
+      "id": 31,
+      "hint": "store ____"
+     },
+     {
+      "id": 32,
+      "hint": "mixing ____ with the clay"
+     },
+     {
+      "id": 33,
+      "hint": "white ____"
+     },
+     {
+      "id": 34,
+      "hint": "____ to clay"
+     },
+     {
+      "id": 35,
+      "hint": "rate of ____"
+     },
+     {
+      "id": 36,
+      "hint": "make ____"
+     }
+    ],
+    "partNumber": 6,
+    "transcript": "Exercise 13. You will hear a lecture about how the production of ceramics, such as plates, pots, and glass, first began.\nHi, everyone. Today, I'm going to be talking about the origins of ceramics. So, first of all, let's start off with what is a ceramic? Well, generally speakings, ceramics are what you get when you apply heat to certain inorganic non-metallic solids and then allow them to cool. And examples of ceramics are everyday things like earthenware pots, crockery, glassware, and even concrete.\nSo, how did it all begin? Well, it all started around 29,000 years ago, when humans discovered that if you dig up some soft clay from the ground, mold it into a shape, and then heat it up to a very high temperature, when it cools, the clay has been transformed into something hard and rigid. And so, what did those first humans do with their discovery? Well, they created figurines, which were small statues and which depicted animals or gods or any shape that the clay could be molded into. And all this activity was centered around Southern Europe, where there is also evidence of ceramics that were created much later.\nThe early humans also found a practical use for their discovery, such as storing things like grain, although there were drawbacks. The pots were porous, so that although they could carry water in them, it wasn't possible to store it over a long period. And also, they were quite brittle and shattered very easily if they were dropped. But, despite these problems, it was many thousands of years before there were any improvements. In China, at around 200 BC, they discovered that by adding minerals to the clay, they could improve both the appearance and the strength of the ceramics.\nBut it took nearly 1,000 years before they perfected the process to produce high-quality ceramics, known as porcelain. And once they had perfected the process, they kept it a secret for another 1,000 years. Compared to the first ceramics, porcelain was lighter, finer, harder, and whiter and became an important commodity in China's trading with the rest of the world for hundreds of years. In fact, it became so valuable that it was known as White Gold, and spies were sent to China to discover what they did to the clay to produce such high-quality merchandise.\nIt wasn't until the 18th century that the secret began to unravel. A German alchemist, called Johann Friedrich Bottger, was asked by the king to make gold out of lead. Unfortunately, Bottger failed to achieve this and soon gave up. But in order to please the king, he attempted to make high-quality porcelain. And after many years of experimentation, he discovered that by adding quartz and a material called China stone to very high-quality clay, he managed to get the same results that the Chinese had been achieving for the last 1,000 years.\nWe'll now look at another ceramic, which is made from mixing sand with minerals and heating to over 600° Celsius. When this mixture cools, the result is, of course, glass. The main difference between ceramics made from clay and glass is that clay is made up of crystalline plates, which become locked together in the cooling process, whereas glass cools too quickly for crystals to form. Apart from that, the process of heating up naturally occurring materials to transform them is the same.\nThe origins of glass date back to 3,500 BC, but it wasn't until the Roman Empire 2,000 years ago, that the art of glassblowing and the practical uses of glass became more widespread. One of the more innovative uses was to use it in windows, as up until then, they had just been holes in walls.",
+    "instruction": "You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. Write ONE WORD and/or A NUMBER for each answer.",
+    "passageTitle": "Ceramics",
+    "questionRange": "31-36",
+    "passageContent": "Ceramics date back approximately 29,000 years. The first figurines were made in the area of south Europe.<br><br>Early humans could not use their pots to store <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span>.<br><br>The Chinese improved the quality of ceramics by mixing <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span> with the clay.<br><br>Chinese porcelain was also called white <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span>.<br><br>Bother added quartz and china. <span class=\"gap-input\" data-gap=\"34\">_____(34)_____</span> to clay to make porcelain. Glass.<br><br>Glass production is similar to clay ceramics apart from the rate of <span class=\"gap-input\" data-gap=\"35\">_____(35)_____</span>.<br><br>The Romans introduced the use of glass to make <span class=\"gap-input\" data-gap=\"36\">_____(36)_____</span>.",
+    "answerHighlights": {
+     "31": [
+      3
+     ],
+     "32": [
+      3
+     ],
+     "33": [
+      4,
+      5
+     ],
+     "34": [
+      5
+     ],
+     "35": [
+      1,
+      6
+     ],
+     "36": [
+      7
+     ]
+    }
+   }
+  ],
+  "examDate": "2026-03-29",
+  "testInfo": {
+   "id": "cefr-listening-01",
+   "level": "B2",
+   "parts": 6,
+   "title": "CEFR Listening Mock Test 01",
+   "totalTime": 40,
+   "totalQuestions": 36
+  },
+  "audioLayout": "per-part"
+ },
+ "created_at": "2026-05-06T08:19:05.200181+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

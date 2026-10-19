@@ -1,0 +1,455 @@
+{
+ "id": 2276,
+ "mock_type": "ket-listening",
+ "mock_number": 14,
+ "title": "KET Listening — Test 14",
+ "status": "published",
+ "mock_data": {
+  "audio": {
+   "base": "https://audio.mock-stream.com/KET-Listening/test14/",
+   "files": {
+    "1": "PART1.m4a",
+    "2": "PART2.m4a",
+    "3": "PART3.m4a",
+    "4": "PART4.m4a",
+    "5": "PART5.m4a"
+   }
+  },
+  "parts": [
+   {
+    "type": "picture-mcq",
+    "items": [
+     {
+      "id": 1,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q1A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q1B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q1C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What are they going to buy for Pam?"
+     },
+     {
+      "id": 2,
+      "answer": "B",
+      "options": [
+       {
+        "text": "Wednesday",
+        "letter": "A"
+       },
+       {
+        "text": "Thursday",
+        "letter": "B"
+       },
+       {
+        "text": "Friday",
+        "letter": "C"
+       }
+      ],
+      "question": "When is the man's appointment?"
+     },
+     {
+      "id": 3,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q3A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q3B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q3C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Which is the aunt's postcard?"
+     },
+     {
+      "id": 4,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q4A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q4B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q4C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What time will the plane to Milan leave?"
+     },
+     {
+      "id": 5,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q5A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q5B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q5C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What does Sue's father do?"
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "image": "q0A.png",
+       "letter": "A"
+      },
+      {
+       "image": "q0B.png",
+       "letter": "B"
+      },
+      {
+       "image": "q0C.png",
+       "letter": "C"
+      }
+     ],
+     "question": "How many people were at the meeting?"
+    },
+    "imageBase": "https://audio.mock-stream.com/KET-Listening/test14/p1/",
+    "partNumber": 1,
+    "instruction": [
+     "You will hear five short conversations.",
+     "You will hear each conversation twice.",
+     "There is one question for each conversation.",
+     "For questions 1–5, put a tick (✓) under the right answer."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "matching-list",
+    "items": [
+     {
+      "id": 6,
+      "name": "John",
+      "answer": "E"
+     },
+     {
+      "id": 7,
+      "name": "Mary",
+      "answer": "C"
+     },
+     {
+      "id": 8,
+      "name": "Bob",
+      "answer": "H"
+     },
+     {
+      "id": 9,
+      "name": "David",
+      "answer": "G"
+     },
+     {
+      "id": 10,
+      "name": "Sally",
+      "answer": "D"
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "name": "Jenny",
+     "answer": "A",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "blonde",
+      "letter": "A"
+     },
+     {
+      "text": "famous",
+      "letter": "B"
+     },
+     {
+      "text": "friendly",
+      "letter": "C"
+     },
+     {
+      "text": "interesting",
+      "letter": "D"
+     },
+     {
+      "text": "quiet",
+      "letter": "E"
+     },
+     {
+      "text": "short",
+      "letter": "F"
+     },
+     {
+      "text": "tall",
+      "letter": "G"
+     },
+     {
+      "text": "young",
+      "letter": "H"
+     }
+    ],
+    "scenario": "Sarah and Matthew talking about people at a party — descriptions",
+    "leftLabel": "People",
+    "partNumber": 2,
+    "rightLabel": "Descriptions",
+    "instruction": [
+     "Listen to Sarah and Matthew talking about the people they met at a party.",
+     "What do they say about each person?",
+     "For questions 6–10, write a letter A–H next to each person.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-conversation",
+    "items": [
+     {
+      "id": 11,
+      "stem": "At the moment, the shopping centre sells",
+      "answer": "A",
+      "options": [
+       {
+        "text": "clothes.",
+        "letter": "A"
+       },
+       {
+        "text": "books.",
+        "letter": "B"
+       },
+       {
+        "text": "food.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "stem": "You can take a coach to the shopping centre on",
+      "answer": "B",
+      "options": [
+       {
+        "text": "Mondays.",
+        "letter": "A"
+       },
+       {
+        "text": "Tuesdays.",
+        "letter": "B"
+       },
+       {
+        "text": "Saturdays.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "stem": "Anne's coach ticket will cost",
+      "answer": "B",
+      "options": [
+       {
+        "text": "£2.50.",
+        "letter": "A"
+       },
+       {
+        "text": "£5.60.",
+        "letter": "B"
+       },
+       {
+        "text": "£10.80.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "stem": "The nearest coach stop to Anne's house is",
+      "answer": "C",
+      "options": [
+       {
+        "text": "in the bus station.",
+        "letter": "A"
+       },
+       {
+        "text": "in the market square.",
+        "letter": "B"
+       },
+       {
+        "text": "outside the museum.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "stem": "The coach journey takes",
+      "answer": "C",
+      "options": [
+       {
+        "text": "10 minutes.",
+        "letter": "A"
+       },
+       {
+        "text": "20 minutes.",
+        "letter": "B"
+       },
+       {
+        "text": "40 minutes.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "stem": "The name of the new shopping centre is",
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "text": "The Rivers.",
+       "letter": "A"
+      },
+      {
+       "text": "The Forest Centre.",
+       "letter": "B"
+      },
+      {
+       "text": "Queen's.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partNumber": 3,
+    "instruction": [
+     "Listen to Anne asking her friend about going to a shopping centre.",
+     "For questions 11–15, tick (✓) A, B or C.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "rows": [
+     {
+      "id": 16,
+      "label": "Name:",
+      "answer": "Brierley",
+      "prefix": "Mr"
+     },
+     {
+      "id": 17,
+      "label": "Will leave on:",
+      "answer": "9th",
+      "suffix": "December"
+     },
+     {
+      "id": 18,
+      "label": "Will return on:",
+      "answer": "March",
+      "prefix": "30th"
+     },
+     {
+      "id": 19,
+      "label": "Price:",
+      "answer": "365",
+      "prefix": "£"
+     },
+     {
+      "id": 20,
+      "label": "Travel to airport by:",
+      "answer": "train"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 4",
+    "subtitle": "Travel to: New York",
+    "noteTitle": "JOHN LOCKE TRAVEL",
+    "partNumber": 4,
+    "instruction": [
+     "You will hear a telephone conversation about a journey to New York.",
+     "Listen and complete questions 16–20.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "rows": [
+     {
+      "id": 21,
+      "label": "Buy:",
+      "answer": "T-shirt",
+      "prefix": "a white"
+     },
+     {
+      "id": 22,
+      "label": "Name of shop:",
+      "answer": "Davey's"
+     },
+     {
+      "id": 23,
+      "label": "In High Street, next to:",
+      "answer": "the cinema"
+     },
+     {
+      "id": 24,
+      "label": "Size:",
+      "answer": "large"
+     },
+     {
+      "id": 25,
+      "label": "Price:",
+      "answer": "8.99",
+      "prefix": "£"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 5",
+    "subtitle": "From: Susanna",
+    "noteTitle": "Message",
+    "partNumber": 5,
+    "instruction": [
+     "You will hear Susanna leaving a phone message for her mother.",
+     "Listen and complete questions 21–25.",
+     "You will hear the information twice."
+    ],
+    "questionsLabel": "QUESTIONS 21–25"
+   }
+  ],
+  "testInfo": {
+   "id": "ket-l-14",
+   "level": "A2",
+   "paper": "Paper 2",
+   "parts": 5,
+   "title": "KET Listening — Test 14",
+   "totalTime": 30,
+   "totalQuestions": 25
+  }
+ },
+ "created_at": "2026-10-14T06:45:25.730306+00:00",
+ "updated_at": "2026-10-14T06:47:11.968988+00:00"
+}

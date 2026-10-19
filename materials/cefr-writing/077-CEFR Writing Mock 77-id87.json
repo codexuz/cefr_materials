@@ -1,0 +1,601 @@
+{
+ "id": 87,
+ "mock_type": "cefr-writing",
+ "mock_number": 77,
+ "title": "CEFR Writing Mock 77",
+ "status": "published",
+ "mock_data": {
+  "part1": {
+   "chip": "",
+   "topic": "Beauty salon"
+  },
+  "tasks": {
+   "t2": {
+    "chip": "",
+    "genre": "forum",
+    "title": "Society too focused on physical appearance",
+    "prompt": "You are participating in an online discussion forum. The topic is: \"Is society too focused on physical appearance?\" Write your response, giving reasons and examples. Write 180–200 words.",
+    "sample": "<p>In today's image-obsessed culture, <span class=\"ml-token colloc\">physical appearance</span> seems to dominate. I believe society has become <span class=\"ml-token adv\">excessively</span> focused on looks, with negative consequences.</p>\n\n<p><span class=\"ml-token adv\">Firstly</span>, <span class=\"ml-token colloc\">social media</span> has intensified pressure to look perfect. Filtered photos and edited images create <span class=\"ml-token colloc\">unrealistic beauty standards</span> that cause <span class=\"ml-token colloc\">body image issues</span>, <span class=\"ml-token adv\">particularly</span> among young people. Studies link this to increased rates of <span class=\"ml-token colloc\">anxiety and depression</span>.</p>\n\n<p><span class=\"ml-token adv\">Secondly</span>, judging people by appearance leads to <span class=\"ml-token colloc\">discrimination</span>. Research shows attractive people often receive preferential treatment in jobs and relationships. This superficial assessment ignores important qualities like intelligence, kindness, and character.</p>\n\n<p><span class=\"ml-token adv\">However</span>, caring about appearance isn't <span class=\"ml-token adv\">entirely</span> negative. <span class=\"ml-token colloc\">Personal grooming</span> can boost confidence and <span class=\"ml-token colloc\">self-esteem</span>. The problem arises when external appearance becomes the primary measure of worth.</p>\n\n<p><span class=\"ml-token adv\">Furthermore</span>, we <span class=\"ml-token modal\">should</span> promote <span class=\"ml-token colloc\">diverse beauty standards</span> and celebrate different body types, ages, and features rather than one narrow ideal.</p>\n\n<p><span class=\"ml-token adv\">In conclusion</span>, while appearance matters to some extent, society <span class=\"ml-token modal\">should</span> value <span class=\"ml-token colloc\">inner qualities</span> equally. True beauty encompasses personality, actions, and character.</p>",
+    "target": "180–200 words",
+    "sampleA1": "<p>Hi!<br>I go salon. It is ok. My hair is nice. I like face clean. Bye!</p>",
+    "sampleA2": "<p>Hello,<br>I think people look too much at faces and hair. It is important but not the only thing. Some people are nice but not pretty. I like my hair after the salon. It is good. But I also want to be smart. My friend is very pretty and she is not nice. So, it is not good. Thank you.</p>",
+    "sampleB1": "<p>I think that society does focus too much on how people look. It's everywhere you see, like on TV and in magazines. Everyone wants to be beautiful, but it's not always possible or healthy.<br><br>For example, a lot of young people feel bad about themselves because they don't look like the models they see online. This can make them sad or even sick. Also, sometimes people are mean to others who don't look a certain way. This is not fair.<br><br>However, I also think it's okay to want to look good. Taking care of yourself can make you feel better. But it shouldn't be the most important thing in life. It is important to be a good person too.</p>",
+    "sampleB2": "Great topic — this is something I've thought about a lot, so I'll <span class=\"ml-token idiom\">jump straight in</span>.\nIn my opinion, society has definitely become too <span class=\"ml-token idiom\">wrapped up in</span> how people look. Everywhere you turn, from adverts to social media feeds, we're <span class=\"ml-token phrasal\">bombarded with</span> images of so-called 'perfect' faces and bodies. The trouble is, most of these pictures are heavily edited, yet people still <span class=\"ml-token colloc\">measure themselves against</span> them and end up feeling like they don't quite match up.\nThis constant pressure <span class=\"ml-token idiom\">takes a real toll on</span> young people especially. Many spend hours worrying about their appearance instead of focusing on things that actually matter, like their talents, friendships and health.\n<span class=\"ml-token linking\">That said</span>, I don't think caring about how you look is a bad thing in itself. Making an effort can give your confidence a real boost — the problem only starts when looks become <span class=\"ml-token idiom\">the be-all and end-all</span>.\n<span class=\"ml-token idiom\">At the end of the day</span>, we should judge people by who they are, not what they look like. What do you all think? Has social media made this worse, or was it always like this?\nCheers,\nDilnoza Karimova",
+    "uzSample": "<p>Bugungi kunda tashqi ko'rinishga haddan tashqari e'tibor qaratiladigan madaniyatda, jismoniy ko'rinish ustunlik qiladiganga o'xshaydi. Menimcha, jamiyat tashqi ko'rinishga haddan tashqari e'tiborli bo'lib ketgan va buning salbiy oqibatlari mavjud.</p>\n\n<p>Birinchidan, ijtimoiy tarmoqlar mukammal ko'rinishga bo'lgan bosimni kuchaytirdi. Filtrdan o'tgan fotosuratlar va tahrirlangan rasmlar noreal go'zallik standartlarini yaratadi, bu esa, ayniqsa, yoshlar orasida tana bilan bog'liq muammolarni keltirib chiqaradi. Tadqiqotlar buni xavotirlik va depressiya darajasining oshishi bilan bog'laydi.</p>\n\n<p>Ikkinchidan, odamlarni tashqi ko'rinishi bo'yicha baholash kamsitishga olib keladi. Tadqiqotlar shuni ko'rsatadiki, jozibali odamlar ko'pincha ishda va munosabatlarda imtiyozli munosabatda bo'lishadi. Bu yuzaki baholash aql, mehribonlik va xarakter kabi muhim fazilatlarni e'tibordan chetda qoldiradi.</p>\n\n<p>Biroq, tashqi ko'rinishga e'tibor berish butunlay salbiy emas. Shaxsiy parvarish o'ziga bo'lgan ishonchni va o'z-o'zini qadrlashni oshirishi mumkin. Muammo tashqi ko'rinish qadriyatning asosiy o'lchoviga aylanganda yuzaga keladi.</p>\n\n<p>Bundan tashqari, biz xilma-xil go'zallik standartlarini targ'ib qilishimiz va bitta tor ideal o'rniga turli xil tana turlarini, yoshlarni va xususiyatlarni nishonlashimiz kerak.</p>\n\n<p>Xulosa qilib aytganda, tashqi ko'rinish ma'lum darajada ahamiyatga ega bo'lsa-da, jamiyat ichki fazilatlarni ham teng qadrlashi kerak. Haqiqiy go'zallik shaxsiyatni, harakatlarni va xarakterni o'z ichiga oladi.</p>",
+    "uzSampleA1": "<p>Salom!<br>Men salonga boraman. Bu yaxshi. Sochim chiroyli. Menga yuzimning toza bo'lishi yoqadi. Xayr!</p>",
+    "uzSampleA2": "<p>Salom,<br>Menimcha, odamlar yuz va sochga juda ko'p e'tibor berishadi. Bu muhim, lekin yagona narsa emas. Ba'zi odamlar yaxshi, lekin chiroyli emas. Menga sochlarim salondan keyin yoqadi. U yaxshi. Lekin men ham aqlli bo'lishni xohlayman. Mening do'stim juda chiroyli va u yaxshi emas. Shunday qilib, bu yaxshi emas. Rahmat.</p>",
+    "uzSampleB1": "<p>Menimcha, jamiyat odamlarning tashqi ko'rinishiga juda ko'p e'tibor qaratadi. Bu hamma joyda ko'rinadi, masalan, televizorda va jurnallarda. Hamma chiroyli bo'lishni xohlaydi, lekin bu har doim ham mumkin emas yoki sog'lom emas.<br><br>Misol uchun, ko'plab yoshlar o'zlarini yomon his qilishadi, chunki ular internetda ko'rgan modellarga o'xshamaydilar. Bu ularni xafa qilishi yoki hatto kasal qilishi mumkin. Shuningdek, ba'zida odamlar ma'lum bir ko'rinishga ega bo'lmaganlarga nisbatan yomon munosabatda bo'lishadi. Bu adolatdan emas.<br><br>Biroq, men ham yaxshi ko'rinishni xohlash yaxshi deb o'ylayman. O'zingizga g'amxo'rlik qilish o'zingizni yaxshi his qilishingizga yordam beradi. Lekin bu hayotdagi eng muhim narsa bo'lmasligi kerak. Yaxshi inson bo'lish ham muhim.</p>",
+    "uzSampleB2": "<p>Menga shunday tuyuladiki, jamiyat tashqi ko'rinishga haddan tashqari e'tibor qaratmoqda. Shaxsiy taqdimot muhim bo'lsa-da, hozirgi e'tibor darajasi nomutanosib va potentsial jihatdan zararli.<br><br>Bunga asosiy sabablardan biri, shubhasiz, ijtimoiy tarmoqlardir. Doimiy ravishda saralangan rasmlar va noreal go'zallik standartlari, ayniqsa, yoshlar uchun bosimni yaratadi, bu esa tana obrazi bilan bog'liq muammolarga va past o'z-o'zini baholashga olib keladi. Misol uchun, filtrlar va tahrirlash vositalarining keng qo'llanilishi erishib bo'lmaydigan idealni targ'ib qiladi.<br><br>Bundan tashqari, tashqi ko'rinishga bo'lgan bu qiziqish kamsitish va diskriminatsiyaga olib kelishi mumkin. Tadqiqotlar shuni ko'rsatadiki, jozibali odamlar ko'pincha hayotning turli jabhalarida, jumladan, ish bilan ta'minlash va ijtimoiy munosabatlarda imtiyozli munosabatdan foyda ko'rishadi. Bu haqiqiy fazilatlar o'rniga yuzaki sifatlarga asoslangan adolatsiz ustunlikni yaratadi.<br><br>Albatta, o'z tashqi ko'rinishingizdan faxrlanish aslida salbiy emas. Biroq, tashqi tasdiqlash o'z-o'zini qadrlashning asosiy manbai bo'lganda, bu nosog'lom xatti-harakatlarga va qadriyatlarning buzilgan tuyg'usiga olib kelishi mumkin. Biz e'tiborni mehribonlik, aql va xarakter kabi ichki sifatlarga qaratishimiz kerak.</p>"
+   },
+   "t11": {
+    "title": "informal letter · to friend",
+    "prompt": "Write a letter to your friend, who is looking for a good beauty salon. Write about your feelings and what you think they should do.",
+    "sample": "Hey!\n\nI know you've been looking for a good salon. I <span class=\"ml-token adv\">just</span> tried GlowUp and it was <span class=\"ml-token adv\">amazing</span>! The stylist <span class=\"ml-token adv\">really</span> listened to what I wanted and my hair looks <span class=\"ml-token adv\">absolutely</span> fantastic. The <span class=\"ml-token colloc\">atmosphere</span> was <span class=\"ml-token adv\">so</span> relaxing too. You <span class=\"ml-token modal\">should</span> <span class=\"ml-token adv\">definitely</span> book an appointment!\n\n<span class=\"ml-token phrasal\">Take care</span>!",
+    "target": "50–70 words",
+    "sampleA1": "<p>Hi Sardor,<br>I go salon. Good. Hair nice. You go.<br>Bye</p>",
+    "sampleA2": "<p>Hi Sardor,<br>I went to a new salon. It is called GlowUp. I liked it and my hair is good. The people are nice. You should go there because it is good. <br>See you!</p>",
+    "sampleB1": "<p>Hi Sardor,<br>I wanted to tell you about a new salon I tried, GlowUp. It was actually really good! My hair looks great, and the people were friendly. I think you should try it. It's a bit expensive, but in my opinion, it's worth it. Let me know if you go!<br>Best,<br>Aziz Ergashev</p>",
+    "sampleB2": "Hi Sardor,\nI've been meaning to tell you — I finally found a salon that's actually <span class=\"ml-token colloc\">worth going to</span>! It's called GlowUp, and honestly, I came out <span class=\"ml-token idiom\">over the moon</span> with my hair. The staff really <span class=\"ml-token idiom\">know their stuff</span> and the place is so relaxing. Since you've been <span class=\"ml-token phrasal\">hunting for</span> a decent one for ages, you should <span class=\"ml-token idiom\">give it a go</span>. <span class=\"ml-token phrasal\">Let me know</span> how it goes!\n<span class=\"ml-token phrasal\">Take care</span>,\nDilnoza Karimova",
+    "uzSample": "<p>Salom!</p>\n<p>Bilaman, sen yaxshi salon qidiryapsan. Men yaqinda GlowUpga bordim va u juda ajoyib edi! Stilist men nima xohlayotganimni diqqat bilan eshitdi va sochlarim mutlaqo ajoyib ko'rinishga ega bo'ldi. Atmosfera ham juda tinchlantiruvchi edi. Sen albatta uchrashuvga yozilishing kerak!</p>\n<p>O'zingni asra!</p>",
+    "uzSampleA1": "<p>Salom, Sardor,<br>Men salonga boraman. Yaxshi. Sochlar chiroyli. Sen bor.<br>Xayr</p>",
+    "uzSampleA2": "<p>Salom, Sardor,<br>Men yangi salonga bordim. U GlowUp deb nomlanadi. Menga yoqdi va sochlarim yaxshi. Odamlari yaxshi. Sen u yerga borishing kerak, chunki u yaxshi.<br>Ko'rishguncha!</p>",
+    "uzSampleB1": "<p>Salom, Sardor,<br>Sizga men yaqinda borgan yangi salon, GlowUp haqida aytib bermoqchiman. U aslida juda yaxshi ekan! Sochlarim ajoyib ko'rinishga ega bo'ldi va odamlar ham do'stona munosabatda bo'lishdi. O'ylaymanki, siz ham urinib ko'rishingiz kerak. Narxi biroz qimmatroq, lekin menimcha, bunga arziydi. Agar borsangiz, menga xabar bering!<br>Eng yaxshi tilaklar bilan,<br>Aziz Ergashev</p>",
+    "uzSampleB2": "<p>Salom Sardor,<br>Nima deb o'ylaysan? Men nihoyat yaxshi salon topdim! U \"GlowUp\" deb ataladi va menda juda ijobiy tajriba bo'ldi. Stilist aynan nimani xohlayotganimni tushundi va atmosfera hayratlanarli darajada tinchlantiruvchi edi. Bilaman, sen ishonchli joy qidiryapsan, shuning uchun men uni tavsiya qilmoqchi edim. Albatta, uchrashuvga yozilishni o'ylab ko'rishing kerak. Ular boshqa joylarga qaraganda biroz qimmatroq, lekin sifati albatta bor.<br>Xayr,<br>Aziz Ergashev</p>"
+   },
+   "t12": {
+    "title": "formal letter · to recipient",
+    "prompt": "Write a letter to the beauty salon. Write about your feelings and what you think they should do.",
+    "sample": "Dear GlowUp Team,\n\nThank you for asking about my recent visit to your <span class=\"ml-token colloc\">beauty salon</span>.\n\nI was <span class=\"ml-token adv\">extremely</span> impressed with my experience. My stylist was <span class=\"ml-token adv\">highly</span> skilled and took time to understand exactly what I wanted. The <span class=\"ml-token colloc\">facial treatment</span> was <span class=\"ml-token adv\">wonderfully</span> relaxing, and the salon's <span class=\"ml-token colloc\">ambiance</span> was calm and luxurious.\n\n<span class=\"ml-token adv\">However</span>, I have some suggestions. The <span class=\"ml-token colloc\">appointment booking</span> system was <span class=\"ml-token adv\">rather</span> confusing online. A simpler <span class=\"ml-token colloc\">booking platform</span> with clear time slots <span class=\"ml-token modal\">would</span> be helpful. <span class=\"ml-token adv\">Additionally</span>, the <span class=\"ml-token colloc\">waiting area</span> felt <span class=\"ml-token adv\">slightly</span> cramped when busy.\n\nI <span class=\"ml-token modal\">would</span> love to see <span class=\"ml-token colloc\">nail art services</span> and <span class=\"ml-token colloc\">organic skincare</span> options added to your menu. A <span class=\"ml-token colloc\">membership package</span> with discounts for regular visits <span class=\"ml-token modal\">would</span> also be attractive.\n\n<span class=\"ml-token adv\">Overall</span>, I had a wonderful experience and <span class=\"ml-token modal\">will</span> <span class=\"ml-token adv\">certainly</span> return.\n\nYours sincerely,\nAziz Ergashev",
+    "target": "120–150 words",
+    "sampleA1": "<p>Hi GlowUp!</p>\n<p>It was good. Hair nice. Face good. </p>\n<p>More colors? Bye.</p>",
+    "sampleA2": "<p>Dear GlowUp Team,</p>\n<p>Thank you for the letter. I liked the salon. My hair is nice and my face feels good. The people are nice too.</p>\n<p>But the music was loud and I didn't like it. And maybe you can have more magazines to read. </p>\n<p>Thank you. Bye.</p>",
+    "sampleB1": "<p>Dear GlowUp Team,</p>\n<p>Thank you for your email. I wanted to tell you about my visit to your salon. I thought it was quite good. My hair looks nice, and the facial was relaxing. The staff were friendly and helpful.</p>\n<p>However, I think there are some things you could improve. For example, the prices are a little high. Also, it was difficult to find parking near the salon.</p>\n<p>I think it would be good if you offered more discounts for students. Also, maybe you could sell some of the skincare products you use in the salon.</p>\n<p>Overall, I enjoyed my visit and I would probably come back again.</p>\n<p>Sincerely,<br>Aziz Ergashev</p>",
+    "sampleB2": "Dear GlowUp Team,\nThank you for your kind message following my recent visit. I'm happy to share my thoughts on the experience.\n<span class=\"ml-token linking\">On the whole</span>, I was <span class=\"ml-token colloc\">thoroughly impressed</span>. My stylist took the time to understand exactly <span class=\"ml-token idiom\">what I was after</span>, and the skincare treatment left my skin feeling noticeably fresher. The salon itself was calm and welcoming, which made the whole visit <span class=\"ml-token idiom\">a real treat</span>.\nThat said, there is some <span class=\"ml-token colloc\">room for improvement</span>. The online booking system was rather fiddly, so a clearer layout with visible time slots would <span class=\"ml-token idiom\">go a long way</span>. I would also love to see <span class=\"ml-token colloc\">organic skincare</span> products and a <span class=\"ml-token colloc\">loyalty scheme</span> for regular customers.\n<span class=\"ml-token linking\">All in all</span>, I had a lovely experience and will certainly be coming back.\n<span class=\"ml-token colloc\">Yours sincerely</span>,\nBekzod Aliyev",
+    "uzSample": "<p>Hurmatli GlowUp jamoasi,</p>\n<p>Go'zallik saloningizga yaqinda tashrif buyurganim haqida so'raganingiz uchun rahmat.</p>\n<p>Men olgan taassurotlarimdan juda mamnun bo'ldim. Mening stilistim juda mahoratli edi va men nima xohlayotganimni aniq tushunishga vaqt ajratdi. Yuz parvarishi juda yoqimli va dam beruvchi bo'ldi, salonning muhiti esa tinch va hashamatli edi.</p>\n<p>Biroq, mening ba'zi takliflarim bor. Onlayn tarzda uchrashuvni bron qilish tizimi biroz chalkash edi. Aniq vaqt oralig'i ko'rsatilgan oddiyroq bron qilish platformasi foydali bo'lardi. Bundan tashqari, kutish xonasi gavjum paytlarda biroz tor bo'lib qolardi.</p>\n<p>Men sizning menyuingizga tirnoqlarga rasm chizish xizmatlari va organik terini parvarishlash vositalari qo'shilishini xohlardim. Muntazam tashriflar uchun chegirmalar bilan a'zolik paketi ham jozibali bo'lardi.</p>\n<p>Umuman olganda, men ajoyib tajribaga ega bo'ldim va albatta qaytib kelaman.</p>\n<p>Hurmat bilan,\nAziz Ergashev</p>",
+    "uzSampleA1": "<p>Salom GlowUp!</p>\n<p>Yaxshi bo'ldi. Sochlar chiroyli. Yuz yaxshi.</p>\n<p>Ko'proq ranglar kerakmi? Xayr.</p>",
+    "uzSampleA2": "<p>Hurmatli GlowUp jamoasi,</p>\n<p>Xat uchun rahmat. Menga salon yoqdi. Sochim chiroyli va yuzim yaxshi his qilyapti. Odamlar ham yaxshi.</p>\n<p>Lekin musiqa baland edi va menga yoqmadi. Va balki o'qish uchun ko'proq jurnallar bo'lishi mumkin.</p>\n<p>Rahmat. Xayr.</p>",
+    "uzSampleB1": "<p>Hurmatli GlowUp jamoasi,</p>\n<p>Elektron pochtangiz uchun rahmat. Men sizga saloningizga tashrifim haqida aytmoqchi edim. Menimcha, u juda yaxshi edi. Sochlarim chiroyli ko'rinadi va yuzni tozalash juda yoqimli bo'ldi. Xodimlar do'stona va yordam berishga tayyor edilar.</p>\n<p>Biroq, menimcha, siz yaxshilashingiz mumkin bo'lgan ba'zi narsalar bor. Masalan, narxlar biroz qimmat. Bundan tashqari, salon yaqinida mashina qo'yish joyini topish qiyin edi.</p>\n<p>Menimcha, agar siz talabalar uchun ko'proq chegirmalar taklif qilsangiz yaxshi bo'lardi. Shuningdek, balki siz salonda ishlatadigan terini parvarishlash vositalarining ba'zilarini sotsangiz ham bo'ladi.</p>\n<p>Umuman olganda, tashrifimdan mamnun bo'ldim va ehtimol yana qaytib kelaman.</p>\n<p>Hurmat bilan,<br>Aziz Ergashev</p>",
+    "uzSampleB2": "<p>Hurmatli GlowUp jamoasi,</p>\n<p>Saloningizda yaqinda bo'lib o'tgan uchrashuvim haqidagi keyingi elektron pochtangiz uchun rahmat. O'z tajribam haqida ba'zi fikr-mulohazalarimni bildirishni istardim.</p>\n<p>Umuman olganda, men olgan xizmatlardan mamnun bo'ldim. Stilist mening talablarimga e'tiborli edi va men oldindan batafsil maslahatlashuvni qadrladim. Terini parvarishlash muolajasi ham juda samarali bo'ldi va men terining tuzilishida sezilarli yaxshilanishni sezdim.</p>\n<p>Biroq, menimcha, yaxshilanishlar kiritilishi mumkin bo'lgan bir nechta sohalar mavjud. Birinchidan, kutish joyi qulayroq o'tirish tartibidan foyda ko'rishi mumkin. Ikkinchidan, mahsulotlarni reklama qilish zarurligini tushunsam ham, uchrashuvim oxirida narsalarni sotib olishga biroz majburlanganimni his qildim.</p>\n<p>Qo'shimcha xizmatlar nuqtai nazaridan, men sezgir teri uchun maxsus muolajalarni taklif qilish qimmatli qo'shimcha bo'ladi deb o'ylayman. Bundan tashqari, ehtimol, doimiy mijozlarni taqdirlash uchun sodiqlik dasturini amalga oshirishni ko'rib chiqishingiz mumkin.</p>\n<p>Umuman olganda, men GlowUp-da ijobiy tajribaga ega bo'ldim va kelajakda qaytishni o'ylab ko'raman. Fikr-mulohazalarimga e'tiboringiz uchun rahmat.</p>\n<p>Hurmat bilan,<br>Aziz Ergashev</p>"
+   },
+   "p1_context": "You recently visited a new beauty salon for hair and skincare treatments.",
+   "p1_scenario": "Dear Client,\n\nThank you for visiting GlowUp Beauty Salon! We hope you left feeling refreshed and beautiful.\nHow did you find our treatments and the expertise of our stylists? Was the salon environment relaxing?\nWhat additional treatments or services would you like us to offer?\n\nGlowUp Team"
+  },
+  "examDate": "2025-11-16",
+  "settings": {
+   "logoUrl": "https://audio.mock-stream.com/img/ibb/WN0XY5Lv/logo.png",
+   "heading1": "Bilim va malakalarni baholash agentligi",
+   "heading2": "Chet tilini bilish darajasi",
+   "examTitle": "Writing exam",
+   "logoWording": "Mock Stream",
+   "testIdentifier": "mock_stream"
+  },
+  "vocabulary": {
+   "task2": [
+    {
+     "en": "physical appearance",
+     "uz": "tashqi ko'rinish"
+    },
+    {
+     "en": "social media",
+     "uz": "ijtimoiy tarmoqlar"
+    },
+    {
+     "en": "unrealistic beauty standards",
+     "uz": "haqiqiy bo'lmagan go'zallik standartlari"
+    },
+    {
+     "en": "body image issues",
+     "uz": "tana tasviri muammolari"
+    },
+    {
+     "en": "anxiety and depression",
+     "uz": "tashvish va depressiya"
+    },
+    {
+     "en": "discrimination",
+     "uz": "kamsitish"
+    },
+    {
+     "en": "personal grooming",
+     "uz": "shaxsiy parvarish"
+    },
+    {
+     "en": "self-esteem",
+     "uz": "o'zini hurmat qilish"
+    },
+    {
+     "en": "diverse beauty standards",
+     "uz": "xilma-xil go'zallik standartlari"
+    },
+    {
+     "en": "inner qualities",
+     "uz": "ichki fazilatlar"
+    },
+    {
+     "en": "image-obsessed culture",
+     "uz": "tasvirga bog'liq madaniyat"
+    },
+    {
+     "en": "filtered photos",
+     "uz": "filtrlangan suratlar"
+    },
+    {
+     "en": "preferential treatment",
+     "uz": "imtiyozli munosabat"
+    },
+    {
+     "en": "superficial assessment",
+     "uz": "yuzaki baholash"
+    },
+    {
+     "en": "intelligence and kindness",
+     "uz": "aql va mehribonlik"
+    },
+    {
+     "en": "boost confidence",
+     "uz": "ishonchni oshirmoq"
+    },
+    {
+     "en": "measure of worth",
+     "uz": "qiymat o'lchovi"
+    },
+    {
+     "en": "different body types",
+     "uz": "turli xil tana turlari"
+    },
+    {
+     "en": "in conclusion",
+     "uz": "xulosa qilib aytganda"
+    },
+    {
+     "en": "true beauty",
+     "uz": "haqiqiy go'zallik"
+    }
+   ],
+   "task11": [
+    {
+     "en": "beauty salon",
+     "uz": "go'zallik saloni"
+    },
+    {
+     "en": "amazing experience",
+     "uz": "ajoyib tajriba"
+    },
+    {
+     "en": "listened carefully",
+     "uz": "diqqat bilan tingladi"
+    },
+    {
+     "en": "absolutely fantastic",
+     "uz": "mutlaqo ajoyib"
+    },
+    {
+     "en": "relaxing atmosphere",
+     "uz": "tinchlantiruvchi muhit"
+    },
+    {
+     "en": "definitely book",
+     "uz": "albatta band qiling"
+    },
+    {
+     "en": "take care",
+     "uz": "o'zingizga g'amxo'rlik qiling"
+    },
+    {
+     "en": "good salon",
+     "uz": "yaxshi salon"
+    },
+    {
+     "en": "skilled stylist",
+     "uz": "malakali stilist"
+    },
+    {
+     "en": "highly recommend",
+     "uz": "qattiq tavsiya qilmoq"
+    },
+    {
+     "en": "hair treatment",
+     "uz": "soch davolash"
+    },
+    {
+     "en": "great results",
+     "uz": "ajoyib natijalar"
+    },
+    {
+     "en": "friendly service",
+     "uz": "do'stona xizmat"
+    },
+    {
+     "en": "professional staff",
+     "uz": "professional xodimlar"
+    },
+    {
+     "en": "worth visiting",
+     "uz": "tashrif buyurishga arziydi"
+    },
+    {
+     "en": "make an appointment",
+     "uz": "uchrashuv belgilamoq"
+    },
+    {
+     "en": "new look",
+     "uz": "yangi ko'rinish"
+    },
+    {
+     "en": "pamper yourself",
+     "uz": "o'zingizni erkalatmoq"
+    },
+    {
+     "en": "let me know",
+     "uz": "menga xabar bering"
+    },
+    {
+     "en": "good luck",
+     "uz": "omad tilayman"
+    }
+   ],
+   "task12": [
+    {
+     "en": "beauty salon",
+     "uz": "go'zallik saloni"
+    },
+    {
+     "en": "facial treatment",
+     "uz": "yuz parvarishi"
+    },
+    {
+     "en": "ambiance",
+     "uz": "muhit"
+    },
+    {
+     "en": "appointment booking",
+     "uz": "uchrashuv band qilish"
+    },
+    {
+     "en": "booking platform",
+     "uz": "band qilish platformasi"
+    },
+    {
+     "en": "waiting area",
+     "uz": "kutish joyi"
+    },
+    {
+     "en": "nail art services",
+     "uz": "tirnoq san'ati xizmatlari"
+    },
+    {
+     "en": "organic skincare",
+     "uz": "organik teri parvarishi"
+    },
+    {
+     "en": "membership package",
+     "uz": "a'zolik paketi"
+    },
+    {
+     "en": "extremely impressed",
+     "uz": "juda hayratda qoldim"
+    },
+    {
+     "en": "highly skilled",
+     "uz": "yuqori malakali"
+    },
+    {
+     "en": "wonderfully relaxing",
+     "uz": "ajoyib tinchlantiruvchi"
+    },
+    {
+     "en": "calm and luxurious",
+     "uz": "tinch va hashamatli"
+    },
+    {
+     "en": "rather confusing",
+     "uz": "ancha chalkash"
+    },
+    {
+     "en": "clear time slots",
+     "uz": "aniq vaqt oralig'i"
+    },
+    {
+     "en": "slightly cramped",
+     "uz": "biroz tor"
+    },
+    {
+     "en": "I would love to see",
+     "uz": "Ko'rishni xohlardim"
+    },
+    {
+     "en": "certainly return",
+     "uz": "albatta qaytaman"
+    },
+    {
+     "en": "Yours sincerely",
+     "uz": "Hurmat bilan"
+    },
+    {
+     "en": "wonderful experience",
+     "uz": "ajoyib tajriba"
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "so": {
+    "uz": "shunday",
+    "type": "adv"
+   },
+   "just": {
+    "uz": "faqat",
+    "type": "adv"
+   },
+   "will": {
+    "uz": "-adi/-ydi",
+    "type": "modal"
+   },
+   "would": {
+    "uz": "edi",
+    "type": "modal"
+   },
+   "highly": {
+    "uz": "yuqori darajada",
+    "type": "adv"
+   },
+   "rather": {
+    "uz": "ancha",
+    "type": "adv"
+   },
+   "really": {
+    "uz": "haqiqatan",
+    "type": "adv"
+   },
+   "should": {
+    "uz": "kerak",
+    "type": "modal"
+   },
+   "Firstly": {
+    "uz": "Birinchidan",
+    "type": "adv"
+   },
+   "However": {
+    "uz": "Biroq",
+    "type": "adv"
+   },
+   "Overall": {
+    "uz": "Umuman olganda",
+    "type": "adv"
+   },
+   "amazing": {
+    "uz": "ajoyib",
+    "type": "adv"
+   },
+   "Secondly": {
+    "uz": "Ikkinchidan",
+    "type": "adv"
+   },
+   "ambiance": {
+    "uz": "muhiti",
+    "type": "colloc"
+   },
+   "entirely": {
+    "uz": "butunlay",
+    "type": "adv"
+   },
+   "slightly": {
+    "uz": "biroz",
+    "type": "adv"
+   },
+   "Take care": {
+    "uz": "o'zingni ehtiyot qil",
+    "type": "phrasal"
+   },
+   "That said": {
+    "uz": "Shunday bo'lsa-da",
+    "type": "linking"
+   },
+   "certainly": {
+    "uz": "albatta",
+    "type": "adv"
+   },
+   "extremely": {
+    "uz": "juda ham",
+    "type": "adv"
+   },
+   "All in all": {
+    "uz": "Umuman",
+    "type": "linking"
+   },
+   "absolutely": {
+    "uz": "mutlaqo",
+    "type": "adv"
+   },
+   "atmosphere": {
+    "uz": "muhit",
+    "type": "colloc"
+   },
+   "definitely": {
+    "uz": "albatta",
+    "type": "adv"
+   },
+   "Furthermore": {
+    "uz": "Bundan tashqari",
+    "type": "adv"
+   },
+   "Let me know": {
+    "uz": "menga xabar ber",
+    "type": "phrasal"
+   },
+   "excessively": {
+    "uz": "haddan tashqari",
+    "type": "adv"
+   },
+   "hunting for": {
+    "uz": "izlab yurmoq, qidirmoq",
+    "type": "phrasal"
+   },
+   "self-esteem": {
+    "uz": "o'z-o'zini qadrlash",
+    "type": "colloc"
+   },
+   "wonderfully": {
+    "uz": "ajoyib tarzda",
+    "type": "adv"
+   },
+   "Additionally": {
+    "uz": "Qo'shimcha ravishda",
+    "type": "adv"
+   },
+   "On the whole": {
+    "uz": "Umuman olganda",
+    "type": "linking"
+   },
+   "a real treat": {
+    "uz": "haqiqiy zavq, rohat",
+    "type": "idiom"
+   },
+   "beauty salon": {
+    "uz": "go'zallik saloni",
+    "type": "colloc"
+   },
+   "give it a go": {
+    "uz": "bir sinab ko'rmoq",
+    "type": "idiom"
+   },
+   "particularly": {
+    "uz": "ayniqsa",
+    "type": "adv"
+   },
+   "social media": {
+    "uz": "ijtimoiy tarmoqlar",
+    "type": "colloc"
+   },
+   "waiting area": {
+    "uz": "kutish joyi",
+    "type": "colloc"
+   },
+   "In conclusion": {
+    "uz": "Xulosa qilib aytganda",
+    "type": "adv"
+   },
+   "go a long way": {
+    "uz": "ancha foyda berardi, katta yordam bo'lardi",
+    "type": "idiom"
+   },
+   "over the moon": {
+    "uz": "baxtdan boshim osmonda edi",
+    "type": "idiom"
+   },
+   "wrapped up in": {
+    "uz": "berilib ketmoq, o'ta band bo'lmoq",
+    "type": "idiom"
+   },
+   "bombarded with": {
+    "uz": "yog'dirilmoq, ko'plab duch kelmoq",
+    "type": "phrasal"
+   },
+   "discrimination": {
+    "uz": "kamsitish",
+    "type": "colloc"
+   },
+   "loyalty scheme": {
+    "uz": "sodiqlik dasturi",
+    "type": "colloc"
+   },
+   "worth going to": {
+    "uz": "borishga arziydi",
+    "type": "colloc"
+   },
+   "Yours sincerely": {
+    "uz": "Hurmat bilan",
+    "type": "colloc"
+   },
+   "inner qualities": {
+    "uz": "ichki sifatlar",
+    "type": "colloc"
+   },
+   "booking platform": {
+    "uz": "bron qilish platformasi",
+    "type": "colloc"
+   },
+   "facial treatment": {
+    "uz": "yuz parvarishi",
+    "type": "colloc"
+   },
+   "jump straight in": {
+    "uz": "to'g'ridan-to'g'ri mavzuga o'tmoq",
+    "type": "idiom"
+   },
+   "know their stuff": {
+    "uz": "o'z ishini yaxshi biladi",
+    "type": "idiom"
+   },
+   "organic skincare": {
+    "uz": "organik teri parvarishi",
+    "type": "colloc"
+   },
+   "what I was after": {
+    "uz": "aynan nimani xohlayotganimni",
+    "type": "idiom"
+   },
+   "Personal grooming": {
+    "uz": "shaxsiy parvarish",
+    "type": "colloc"
+   },
+   "body image issues": {
+    "uz": "tana tuzilishi bilan bog'liq muammolar",
+    "type": "colloc"
+   },
+   "nail art services": {
+    "uz": "tirnoq dizayni xizmatlari",
+    "type": "colloc"
+   },
+   "membership package": {
+    "uz": "a'zolik to'plami",
+    "type": "colloc"
+   },
+   "appointment booking": {
+    "uz": "qabulga yozilish",
+    "type": "colloc"
+   },
+   "physical appearance": {
+    "uz": "tashqi ko'rinish",
+    "type": "colloc"
+   },
+   "room for improvement": {
+    "uz": "yaxshilash uchun imkoniyat bor",
+    "type": "colloc"
+   },
+   "takes a real toll on": {
+    "uz": "jiddiy salbiy ta'sir ko'rsatadi",
+    "type": "idiom"
+   },
+   "thoroughly impressed": {
+    "uz": "juda ta'sirlandim",
+    "type": "colloc"
+   },
+   "At the end of the day": {
+    "uz": "Oxir-oqibat, pirovardida",
+    "type": "idiom"
+   },
+   "anxiety and depression": {
+    "uz": "xavotirlik va depressiya",
+    "type": "colloc"
+   },
+   "the be-all and end-all": {
+    "uz": "eng muhim, yagona narsa",
+    "type": "idiom"
+   },
+   "diverse beauty standards": {
+    "uz": "turli xil go'zallik me'yorlari",
+    "type": "colloc"
+   },
+   "measure themselves against": {
+    "uz": "o'zlarini ular bilan solishtirmoq",
+    "type": "colloc"
+   },
+   "unrealistic beauty standards": {
+    "uz": "haqiqatga to'g'ri kelmaydigan go'zallik me'yorlari",
+    "type": "colloc"
+   }
+  }
+ },
+ "created_at": "2026-05-06T15:00:47.337382+00:00",
+ "updated_at": "2026-07-06T10:57:27.801505+00:00"
+}

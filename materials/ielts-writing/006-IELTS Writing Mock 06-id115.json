@@ -1,0 +1,467 @@
+{
+ "id": 115,
+ "mock_type": "ielts-writing",
+ "mock_number": 6,
+ "title": "IELTS Writing Mock 06",
+ "status": "published",
+ "mock_data": {
+  "tasks": {
+   "task1": {
+    "title": "Shakefield town changes",
+    "prompt": "The diagram below shows the changes of the town named Shakefield from 1995 until now.",
+    "wordGoal": 150,
+    "chartDesc": {
+     "title": "",
+     "views": [
+      {
+       "name": "1995",
+       "features": [
+        "Housing",
+        "Sport",
+        "Fish market",
+        "Hotel",
+        "Coffee",
+        "Public park",
+        "Farm land",
+        "Morning fish boat",
+        "Sea"
+       ]
+      },
+      {
+       "name": "Present",
+       "features": [
+        "Housing",
+        "Restaurant",
+        "Apartment",
+        "Hotel",
+        "Coffee",
+        "Holiday homes",
+        "Golf Course",
+        "Tennis Course",
+        "Car park",
+        "Yacht",
+        "Sea"
+       ]
+      }
+     ],
+     "changes": [
+      "Farm land in the northeast replaced by a Golf Course and Tennis Course",
+      "Public park in the center-right replaced by Holiday homes",
+      "Sport area in the west replaced by a Restaurant",
+      "Fish market in the southwest replaced by Apartment buildings",
+      "Morning fish boat area in the sea replaced by Yacht anchorages",
+      "Hotel in the center expanded",
+      "Housing in the northwest expanded",
+      "Car park added along the road on the eastern side"
+     ],
+     "overview": "Between 1995 and the present, Shakefield transformed from a small coastal fishing and farming town into a tourist-oriented resort featuring enhanced residential options and recreational facilities.",
+     "chartType": "map",
+     "unchanged": [
+      "Coffee shop south of the hotel",
+      "Main road network"
+     ],
+     "confidence": "high",
+     "unreadable": [],
+     "keyFeatures": [
+      "Replacement of Farm land with a Golf Course and Tennis Course",
+      "Conversion of the Public park into Holiday homes",
+      "Replacement of the Fish market and Morning fish boat with Apartments and Yachts",
+      "Expansion of the Hotel and Housing area",
+      "Replacement of Sport facilities with a Restaurant",
+      "Addition of a Car park"
+     ]
+    },
+    "chartType": "map",
+    "dataNature": "dynamic",
+    "instruction": "Summarise the information by selecting and reporting the main features, and make comparison where relevant.",
+    "sampleBand5": "<p>The diagram shows the changes in Shakefield town from 1995 to now. <mark>Overall, there have been</mark> some big changes to the town's facilities.</p>\n<p>In 1995, there was a shop and a school in the north. Now, the shop has gone, and there is housing instead. The school is still there. In the south, there was a park. <mark>This has changed</mark> to become a shopping centre. A new park has been built next to the shopping centre.</p>\n<p>In the middle of the town, the river is still there. On the east side, there was a factory. Now, the factory is housing. On the west side, the houses are still there. <mark>There is also</mark> a new bridge over the river. <mark>The main change</mark> is there are more houses and shops and less factories.</p>",
+    "sampleBand6": "<p>The diagram <mark>shows how</mark> the town of Shakefield changed between 1995 and the present day. Overall, the town became more developed, with new facilities and the removal of some older features.</p>\n\n<p>In 1995, Shakefield was a smaller town. There was a park in the north, a factory in the south, and houses in the middle. The factory was <mark>quite large</mark>. There was also a river running through the town. By the present day, the factory has been replaced with a shopping center. The park <mark>remained in the same location</mark>, but it was made smaller because some new houses were build next to it. </p>\n\n<p>Furthermore, the river is still there, but a bridge has been built across it, which <mark>gives access</mark> to the new shopping center from the houses. <mark>In addition to</mark> the new houses near the park, more houses have been built where the factory used to be before the shopping center was constructed. The town has clearly grown and become more modern.</p>",
+    "sampleBand7": "<p>The diagrams <mark>illustrate the transformation</mark> of the town of Shakefield between 1995 and the present day. <mark>Overall,</mark> the town has experienced considerable development, particularly in infrastructure and residential areas, with a noticeable shift away from agriculture.</p>\n\n<p>In 1995, Shakefield was primarily characterized by farmland to the north and west of the town center. The town center itself consisted of housing and shops. <mark>By the present day,</mark> the farmland to the north has been replaced by a large golf course and a new housing estate. The farmland to the west has been converted into an industrial area.</p>\n\n<p>The town center has also seen significant changes. The number of houses has increased, and a new school has been built. <mark>Furthermore,</mark> transport infrastructure has been improved with the construction of a ring road around the town, <mark>presumably to alleviate</mark> traffic congestion. While the shops remain in the town center, their size or number is not readily apparent from the diagrams. <mark>In summary,</mark> Shakefield has become more urbanized, with less agricultural land and better facilities for its residents.</p>",
+    "sampleBand8": "<p>The diagram <mark>illustrates the evolution</mark> of the town of Shakefield from 1995 to the present day. <mark>Overall</mark>, the town has undergone significant transformations, primarily involving the development of residential areas and the introduction of modern amenities, while the industrial sector has diminished.</p>\n\n<p>In 1995, Shakefield was characterized by a large factory in the north and farmland to the south. A river ran through the town centre. By contrast, the present day shows that the factory has been demolished and replaced with housing. The farmland has also been <mark>redeveloped into</mark> a substantial residential area, effectively doubling the size of the town's housing capacity. A shopping centre has been constructed to the east of the new housing, <mark>catering to the needs of</mark> the expanded population.</p>\n\n<p>Furthermore, the river, which previously flowed unimpeded through the town, now features a bridge facilitating access to the new shopping centre. The original housing area in the town centre remains, but its relative size is considerably smaller compared to the <mark>newly established</mark> residential zones. A park has also been created in the southern part of the town, providing a <mark>green space for recreation</mark>. <mark>It is noteworthy that</mark> the overall layout of the town has become more structured and modern, <mark>reflecting a shift away from</mark> its previous industrial and agricultural focus.</p>\n\n<p>In summary, Shakefield has experienced a <mark>transition from</mark> an industrial and agricultural town to a primarily residential area with enhanced amenities and infrastructure.</p>",
+    "sampleBand9": "<p>The diagram <mark>illustrates the transformation</mark> of Shakefield town between 1995 and the present day. <mark>Overall, the town has undergone significant development</mark>, primarily involving expansion and modernisation of infrastructure and amenities.</p>\n\n<p>In 1995, Shakefield was a relatively small town <mark>characterised by</mark> a limited number of residential areas and a prominent industrial zone to the east. The town centre contained shops and offices, and a single main road ran through the area. By contrast, the present-day Shakefield shows a considerable increase in housing, with new residential areas constructed to the north and west. <mark>Notably, the industrial zone has been entirely repurposed</mark>, replaced by a new park and a shopping centre, <mark>indicating a shift away from industry</mark>.</p>\n\n<p>Furthermore, the road network has been substantially improved. The single main road has been upgraded to a dual carriageway, and a new road now bypasses the town centre, <mark>alleviating traffic congestion</mark>. The town centre itself appears to have been modernised, although the diagram provides no specific details. <mark>It is also worth noting that</mark> a new school has been built to serve the expanded residential population. <mark>In summary, Shakefield has evolved from a small, industry-focused town into a larger, more residential and service-oriented community</mark>, with improved infrastructure to support its growth.</p>",
+    "timeMinutes": 20,
+    "chartDescImg": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/Shakefield%20map.png",
+    "sampleAnswer": "The two maps compare the town of Shakefield as it appeared in 1995 with its current layout. Overall, the town has undergone significant urban development, transitioning from a primarily residential and industrial area into a more commercialized and accessible urban center. Most notable is the expansion of transport infrastructure and the replacement of industrial zones with commercial facilities.\n\nIn 1995, the north-western part of the town was dominated by a large industrial estate, which has since been demolished and replaced with a modern shopping mall. Adjacent to this, the residential housing in the north-east has remained largely intact, though a new primary school has been constructed nearby to cater to the local population. The central area, which previously featured a small park, has been redesigned to include a larger recreational space with an added fountain and seating areas.\n\nInfrastructure improvements are also highly visible. The narrow road running through the town center in 1995 has been widened into a dual carriageway. Furthermore, a new train station has been built on the southern edge of the town, connected to the center by a dedicated bus lane. The old woodland area in the south-east has been partially cleared to make way for a new apartment complex, reflecting the town's growing housing demands.",
+    "chartImageUrl": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/Shakefield%20map.png",
+    "uzSampleBand5": "<p>Diagram Shakefield shaharchasida 1995-yildan hozirgi kungacha bo'lgan o'zgarishlarni ko'rsatadi. <mark>Umuman olganda, sodir bo'ldi</mark> shaharning infratuzilmasida katta o'zgarishlar.</p>\n<p>1995-yilda shimolda do'kon va maktab bor edi. Hozir do'kon yo'q, uning o'rnida uy-joylar qurilgan. Maktab hali ham o'sha yerda. Janubda park bor edi. <mark>Bu o'zgardi</mark> va savdo markaziga aylandi. Savdo markazi yonida yangi park qurildi.</p>\n<p>Shaharning o'rtasida daryo hali ham oqib turibdi. Sharqiy tomonda fabrika bor edi. Hozir fabrikada uy-joylar qurilgan. G'arbiy tomonda uylar hali ham o'sha yerda. <mark>Bundan tashqari</mark> daryo ustidan yangi ko'prik qurilgan. <mark>Asosiy o'zgarish</mark> shundan iboratki, uylar va do'konlar ko'paygan, fabrikalar esa kamaygan.</p>",
+    "uzSampleBand6": "<p>Diagram <mark>Shakefield shahrining</mark> 1995-yildan hozirgi kungacha qanday o'zgarganini <mark>ko'rsatadi</mark>. Umuman olganda, shahar yangi inshootlar bilan rivojlangan va ba'zi eski xususiyatlar olib tashlangan.</p>\n\n<p>1995-yilda Shakefield kichikroq shahar edi. Shimolda park, janubda zavod va o'rtada uylar bor edi. Zavod <mark>anchagina katta</mark> edi. Shahar bo'ylab daryo ham oqib o'tgan. Hozirgi kunga kelib, zavod o'rniga savdo markazi qurilgan. Park <mark>o'sha joyida qoldi</mark>, lekin uning yonida yangi uylar qurilganligi sababli kichraytirildi.</p>\n\n<p>Bundan tashqari, daryo hanuzgacha o'sha yerda, lekin uning ustidan ko'prik qurilgan, bu <mark>uyalardan</mark> yangi savdo markaziga <mark>kirish imkonini beradi</mark>. Park yaqinidagi yangi uylardan <mark>tashqari</mark>, savdo markazi qurilishidan oldin zavod joylashgan joyda ham ko'proq uylar qurilgan. Shahar aniq o'sgan va zamonaviyroq bo'lgan.</p>",
+    "uzSampleBand7": "<p>Diagrammalar Sheykfild shahrining 1995-yildan hozirgi kungacha bo'lgan davrdagi <mark>o'zgarishini ko'rsatadi</mark>. <mark>Umuman olganda,</mark> shahar sezilarli rivojlanishni boshdan kechirdi, ayniqsa infratuzilma va turar-joy hududlarida, qishloq xo'jaligidan sezilarli darajada uzoqlashish bilan.</p>\n\n<p>1995-yilda Sheykfild asosan shahar markazining shimoliy va g'arbiy tomonlarida joylashgan qishloq xo'jaligi yerlari bilan ajralib turardi. Shahar markazining o'zi uy-joy va do'konlardan iborat edi. <mark>Hozirgi kunga kelib,</mark> shimoldagi qishloq xo'jaligi yerlari katta golf maydoni va yangi turar-joy massivi bilan almashtirildi. G'arbdagi qishloq xo'jaligi yerlari sanoat hududiga aylantirildi.</p>\n\n<p>Shahar markazida ham sezilarli o'zgarishlar bo'ldi. Uylar soni ko'paydi va yangi maktab qurildi. <mark>Bundan tashqari,</mark> shahar atrofida halqa yo'li qurilishi bilan transport infratuzilmasi yaxshilandi, bu <mark>ehtimol, yengillashtirish uchun</mark> tirbandlikni kamaytirishga qaratilgan. Do'konlar shahar markazida qolgan bo'lsa-da, ularning hajmi yoki soni diagrammalardan aniq ko'rinmaydi. <mark>Xulosa qilib aytganda,</mark> Sheykfild qishloq xo'jaligi yerlari kamaygan va aholi uchun qulayliklar yaxshilangan holda, ko'proq urbanizatsiyalashgan.</p>",
+    "uzSampleBand8": "<p>Diagram 1995-yildan hozirgi kungacha Shakefield shaharchasining <mark>rivojlanishini tasvirlaydi</mark>. <mark>Umuman olganda</mark>, shaharcha sezilarli o'zgarishlarga duch keldi, asosan turar-joy hududlarining rivojlanishi va zamonaviy qulayliklarning joriy etilishi bilan, sanoat sektori esa qisqardi.</p>\n\n<p>1995-yilda Shakefield shimolda katta fabrika va janubda qishloq xo'jaligi yerlari bilan ajralib turardi. Shahar markazidan daryo oqib o'tardi. Aksincha, hozirgi kunda fabrika buzib tashlangan va uning o'rniga uy-joy qurilganini ko'rish mumkin. Qishloq xo'jaligi yerlari ham <mark>qayta qurilib</mark> sezilarli turar-joy hududiga aylantirildi, bu esa shaharning uy-joy sig'imini ikki barobarga oshirdi. Yangi uy-joyning sharqiy qismida savdo markazi qurildi, bu esa <mark>kengaygan aholining ehtiyojlarini qondirishga qaratilgan</mark>.</p>\n\n<p>Bundan tashqari, ilgari shahardan to'siqsiz oqib o'tgan daryoda endi yangi savdo markaziga kirishni osonlashtiradigan ko'prik mavjud. Shahar markazidagi asl uy-joy hududi saqlanib qolgan, ammo uning nisbiy hajmi <mark>yangi tashkil etilgan</mark> turar-joy zonalariga nisbatan ancha kichik. Shaharning janubiy qismida bog' ham yaratildi, bu esa <mark>dam olish uchun yashil hudud</mark> taqdim etadi. <mark>Shuni ta'kidlash joizki</mark>, shaharning umumiy tuzilishi yanada tartibli va zamonaviy bo'lib, <mark>uning avvalgi sanoat va qishloq xo'jaligi yo'nalishidan uzoqlashishini aks ettiradi</mark>.</p>\n\n<p>Xulosa qilib aytganda, Shakefield sanoat va qishloq xo'jaligi shaharchasidan takomillashtirilgan qulayliklar va infratuzilmaga ega bo'lgan asosan turar-joy hududiga <mark>o'tishni boshidan kechirdi</mark>.</p>",
+    "uzSampleBand9": "<p>Diagrammada Sheykfild shahrining 1995-yildan hozirgi kungacha bo'lgan davrdagi <mark>o'zgarishi tasvirlangan</mark>. <mark>Umuman olganda, shahar sezilarli darajada rivojlandi</mark>, asosan infratuzilma va qulayliklarni kengaytirish va modernizatsiya qilish bilan bog'liq.</p>\n\n<p>1995-yilda Sheykfild nisbatan kichik shahar edi, <mark>xususiyati</mark> cheklangan turar-joy hududlari va sharqda joylashgan taniqli sanoat zonasi edi. Shahar markazida do'konlar va ofislar joylashgan bo'lib, hudud bo'ylab bitta asosiy yo'l o'tgan. Aksincha, hozirgi Sheykfildda uy-joylar soni sezilarli darajada oshgan, shimol va g'arbda yangi turar-joy hududlari qurilgan. <mark>Shuni ta'kidlash joizki, sanoat zonasi butunlay qayta maqsadga yo'naltirilgan</mark>, uning o'rniga yangi park va savdo markazi qurilgan, <mark>bu sanoatdan uzoqlashishni ko'rsatadi</mark>.</p>\n\n<p>Bundan tashqari, yo'l tarmog'i sezilarli darajada yaxshilandi. Yagona asosiy yo'l ikki qatorli yo'lga aylantirildi va yangi yo'l endi shahar markazini aylanib o'tadi, <mark>bu tirbandlikni kamaytiradi</mark>. Shahar markazining o'zi zamonaviylashtirilganga o'xshaydi, garchi diagrammada aniq tafsilotlar keltirilmagan. <mark>Shuni ham ta'kidlash joizki</mark>, kengaygan aholiga xizmat ko'rsatish uchun yangi maktab qurilgan. <mark>Xulosa qilib aytganda, Sheykfild kichik, sanoatga yo'naltirilgan shahardan kattaroq, ko'proq turar-joy va xizmat ko'rsatishga yo'naltirilgan jamiyatga aylandi</mark>, o'sishini qo'llab-quvvatlash uchun yaxshilangan infratuzilmaga ega.</p>",
+    "chartDescSource": "extracted-verified-2026-08-05"
+   },
+   "task2": {
+    "title": "Oil exploration in remote areas",
+    "prompt": "The global demand for oil and gas is increasing. Some believe that we should therefore encourage the exploitation of remote areas. Do the advantages of this outweigh the disadvantages?",
+    "wordGoal": 250,
+    "essayType": "advantage-disadvantage",
+    "instruction": "Do the advantages of this outweigh the disadvantages?",
+    "sampleBand5": "<p>Nowadays, the demand for oil and gas is getting more and more. Some people think it is good to <mark>try and find</mark> these things in faraway places. This essay will talk about the good things and bad things about this idea.</p>\n\n<p>One good thing is that it could give us more energy. If we find more oil and gas, then we will have more fuel for our cars and power for our homes. This is <mark>important for keeping</mark> the economy going. Also, it could make some countries richer because they can sell the oil and gas to other countries. It creates job opportunities.</p>\n\n<p>But there are also bad things. One big problem is that it can hurt the environment. <mark>When they dig</mark> for oil and gas, they can damage the land and the water. This can kill plants and animals, and it can also pollute the air. Remote areas are often very beautiful and untouched, so it is a shame to ruin them. Also, it can be very expensive to get oil and gas from these places. It needs new technology and it can be difficult to get the oil and gas back.</p>\n\n<p>To sum up, finding oil and gas in remote areas has both good and bad points. While it can give us more energy and money, it can also damage the environment and cost a lot. <mark>I think it is important</mark> to think about all of these things before we decide to do it. We need to find a way to get energy without hurting the planet too much.</p>",
+    "sampleBand6": "<p>The increasing global demand for oil and gas has led to suggestions that we should exploit remote areas to meet this need. While there may be some benefits to this approach, I believe that the disadvantages <mark>are more significant</mark>.</p>\n\n<p>One potential advantage is that exploiting remote areas could <mark>boost economic growth</mark>. This is because new jobs would be created in the extraction and transportation of these resources. <mark>For example</mark>, communities near oil fields could benefit from increased employment opportunities. Furthermore, the revenue generated from the sale of oil and gas could be used to fund public services, such as education and healthcare. However, these benefits are often short-term and may not outweigh the long-term costs.</p>\n\n<p>On the other hand, there are several disadvantages to exploiting remote areas. Firstly, it can have a devastating impact on the environment. The extraction of oil and gas can lead to deforestation, pollution, and the destruction of natural habitats. <mark>Furthermore</mark>, the transportation of these resources can also pose a risk of oil spills and other environmental disasters. Secondly, exploiting remote areas can disrupt the lives of indigenous communities who depend on these areas for their livelihoods. These communities may be displaced from their homes and lose access to traditional hunting and fishing grounds. <mark>In addition to this</mark>, the influx of workers into these areas can lead to social problems, such as crime and drug abuse.</p>\n\n<p>In conclusion, while the exploitation of remote areas may offer some economic benefits, the environmental and social costs are too high. We should <mark>focus on developing</mark> renewable energy sources and reducing our reliance on fossil fuels instead of damaging these fragile environments. <mark>It is important to consider</mark> the long-term consequences of our actions and prioritize the protection of our planet and its people.</p>",
+    "sampleBand7": "<p>With the global demand for oil and gas constantly on the rise, the question of whether we should exploit remote areas to meet this demand is a pressing one. While there are certain advantages to pursuing this course of action, I believe that the disadvantages <mark>ultimately outweigh</mark> them.</p>\n\n<p>One key advantage is the potential for economic growth. Exploiting resources in remote areas can create jobs, stimulate local economies, and generate significant revenue for governments. <mark>Furthermore</mark>, it could reduce a nation’s reliance on foreign energy sources, enhancing its energy security. For instance, the development of oil fields in the North Sea, although challenging, transformed the UK economy in the late 20th century. This demonstrates that resource exploitation can <mark>indeed bring about</mark> considerable economic benefits. However, these benefits must be weighed against the potential environmental and social costs.</p>\n\n<p>The disadvantages of exploiting remote areas are numerous and significant. Environmentally, these regions are often fragile and pristine ecosystems that are highly vulnerable to damage from resource extraction. Oil spills, deforestation, and habitat destruction can have devastating and long-lasting consequences. For example, the extraction of oil from the Amazon rainforest has led to widespread environmental damage and the displacement of indigenous communities. <mark>Moreover</mark>, the infrastructure required for resource extraction, such as roads and pipelines, can further fragment habitats and disrupt wildlife. </p>\n\n<p>Socially, the exploitation of remote areas can also have negative impacts on local communities. The influx of workers and the disruption of traditional ways of life can lead to social unrest and cultural erosion. <mark>Additionally</mark>, the benefits of resource extraction may not always be equitably distributed, leading to inequality and resentment. While companies may promise jobs and development, these promises are not always fulfilled, leaving communities worse off than before. <mark>In light of these considerations</mark>, the social costs can be substantial.</p>\n\n<p>In conclusion, while the exploitation of remote areas for oil and gas may offer some economic advantages and enhanced energy security, the environmental and social disadvantages are considerable. <mark>Therefore, on balance</mark>, I believe that the disadvantages outweigh the advantages, and that we should prioritize alternative energy sources and more sustainable practices.</p>",
+    "sampleBand8": "<p>The escalating global demand for oil and gas has sparked debate regarding the exploitation of resources in remote and often environmentally sensitive areas. While tapping into these reserves could offer certain advantages, I believe that the potential disadvantages, particularly concerning environmental degradation and social impact, <mark>substantially outweigh</mark> any perceived benefits.</p>\n\n<p>One potential advantage lies in increased energy security. Accessing previously untapped reserves in remote regions could reduce reliance on politically unstable nations and <mark>bolster domestic energy production</mark>. This could lead to lower energy prices and a more stable economy. Furthermore, such projects often create jobs in the construction and energy sectors, <mark>offering economic opportunities</mark> to local communities. However, these benefits are often short-lived and disproportionately distributed, with multinational corporations reaping the majority of the profits.</p>\n\n<p>Conversely, the disadvantages of exploiting remote areas for oil and gas are considerable. The most significant concern is the environmental impact. Drilling and extraction processes can lead to <mark>devastating oil spills</mark>, habitat destruction, and pollution of water sources. Remote areas are often home to unique ecosystems and endangered species that are particularly vulnerable to such disturbances. The construction of infrastructure, such as roads and pipelines, further fragments habitats and disrupts wildlife migration patterns. <mark>Moreover, the carbon footprint</mark> associated with extracting and transporting these resources contributes significantly to climate change, exacerbating existing environmental problems.</p>\n\n<p>Beyond the environmental consequences, the social impact on indigenous communities must also be considered. These communities often have deep cultural and spiritual connections to the land, which can be irrevocably disrupted by resource extraction. The influx of workers can lead to social problems such as increased crime rates and the spread of diseases. Furthermore, indigenous communities may not receive adequate compensation or benefits from these projects, <mark>leading to displacement and marginalization</mark>. It is crucial to acknowledge that while economic gains may be achieved, they often come at the expense of cultural heritage and traditional ways of life. <mark>A more sustainable approach</mark> involves investing in renewable energy sources and reducing overall energy consumption.</p>\n\n<p>In conclusion, while the exploitation of remote areas for oil and gas may offer some short-term economic benefits, the long-term environmental and social costs are too high. The potential for environmental damage, disruption of indigenous communities, and contribution to climate change <mark>render this approach unsustainable</mark>. A more responsible path forward involves prioritizing renewable energy and <mark>implementing stringent environmental regulations</mark> to protect our planet's fragile ecosystems.</p>",
+    "sampleBand9": "<p>The increasing global demand for oil and gas has prompted suggestions that <mark>exploiting resources in remote and previously untouched areas</mark> is necessary. While there may be some economic benefits to this approach, I believe that the disadvantages, particularly environmental and social costs, significantly outweigh any potential advantages.</p>\n\n<p>One potential advantage of exploiting remote areas for oil and gas is the economic boost it can provide. <mark>Such ventures often generate</mark> employment opportunities for local communities, injecting capital into otherwise economically depressed regions. Furthermore, the extraction and sale of these resources can contribute significantly to national GDP, funding public services and infrastructure projects. <mark>Advocates argue that</mark> these economic gains are essential for development and improving living standards, particularly in countries heavily reliant on fossil fuel exports.</p>\n\n<p>However, the disadvantages of this approach are far more compelling. The environmental impact of extracting resources from remote areas is often devastating. <mark>Fragile ecosystems</mark>, such as the Arctic tundra or rainforests, are particularly vulnerable to the disruption caused by drilling, pipelines, and increased human activity. Oil spills, habitat destruction, and the release of greenhouse gases are just some of the potential consequences. Moreover, the <mark>long-term ecological damage</mark> can be irreversible, threatening biodiversity and contributing to climate change. The social costs can also be considerable. Indigenous communities, who often rely on these areas for their traditional livelihoods and cultural practices, may be displaced or otherwise negatively impacted by resource extraction. <mark>This can lead to</mark> social unrest, loss of cultural identity, and increased inequality.</p>\n\n<p>In conclusion, while the exploitation of remote areas for oil and gas may offer some short-term economic advantages, these are <mark>dwarfed by the significant environmental and social costs</mark>. A more sustainable and responsible approach would be to prioritize investment in renewable energy sources and energy efficiency measures, rather than <mark>pursuing environmentally damaging and socially disruptive</mark> resource extraction in fragile ecosystems. <mark>A paradigm shift towards sustainability</mark> is not merely desirable but essential for the long-term well-being of both the planet and its inhabitants. The <mark>purported economic benefits</mark> simply do not justify the inherent risks.</p>",
+    "timeMinutes": 40,
+    "sampleAnswer": "In the face of burgeoning global energy requirements, the proposal to extract fossil fuels from previously untouched remote regions, such as the Arctic or deep-sea environments, has become a point of intense contention. While this approach offers significant economic and energy security benefits, I believe that the catastrophic environmental risks and the urgent need for a transition to renewable energy mean that the disadvantages ultimately outweigh the advantages.\n\nOn the one hand, the primary argument for exploiting remote areas is the maintenance of energy stability. As traditional reserves are depleted, tapping into new sources ensures that the global economy does not suffer from crippling energy shortages or price hikes. Furthermore, such projects often bring immense economic prosperity to the investing nations, creating thousands of high-skilled jobs and stimulating technological innovation in extraction techniques. For countries heavily reliant on energy imports, this move toward self-sufficiency is a powerful incentive.\n\nHowever, the environmental cost of such ventures is often irreversible. Remote areas are frequently home to fragile ecosystems that are highly sensitive to industrial activity. An oil spill in the Arctic, for instance, would be nearly impossible to contain or clean up due to the extreme conditions, leading to the long-term destruction of unique biodiversity. Moreover, encouraging further fossil fuel exploitation distracts from the vital goal of achieving carbon neutrality. Instead of investing billions into accessing difficult-to-reach oil, those resources would be better spent on accelerating the development of solar, wind, and hydrogen technologies, which are the only sustainable solutions to the climate crisis.\n\nIn conclusion, although the exploitation of remote areas provides a short-term fix for energy demands and significant economic gains, the potential for ecological disaster is too great. The long-term survival of the planet depends on our ability to move away from fossil fuels entirely, making the pursuit of remote oil reserves a regressive and dangerous strategy.",
+    "uzSampleBand5": "<p>Hozirgi kunda neft va gazga bo'lgan talab tobora ortib bormoqda. Ba'zi odamlar buni <mark>urinib, topishga harakat qilish</mark> uzoq joylarda yaxshi deb o'ylashadi. Ushbu insho ushbu fikrning yaxshi va yomon tomonlari haqida gapiradi.</p>\n\n<p>Bir yaxshi tomoni shundaki, bu bizga ko'proq energiya berishi mumkin. Agar biz ko'proq neft va gaz topsak, unda bizda mashinalarimiz uchun ko'proq yoqilg'i va uylarimiz uchun quvvat bo'ladi. Bu iqtisodiyotni <mark>saqlab turish uchun muhim</mark>. Bundan tashqari, bu ba'zi mamlakatlarni boyroq qilishi mumkin, chunki ular neft va gazni boshqa mamlakatlarga sotishlari mumkin. Bu ish o'rinlarini yaratadi.</p>\n\n<p>Ammo yomon tomonlari ham bor. Bir katta muammo shundaki, bu atrof-muhitga zarar etkazishi mumkin. <mark>Ular neft va gaz qaziyotganda</mark>, ular er va suvga zarar etkazishi mumkin. Bu o'simliklar va hayvonlarni o'ldirishi mumkin, shuningdek, havoni ifloslantirishi mumkin. Uzoq hududlar ko'pincha juda chiroyli va daxlsiz bo'ladi, shuning uchun ularni buzish achinarli. Bundan tashqari, bu joylardan neft va gaz olish juda qimmatga tushishi mumkin. Unga yangi texnologiya kerak va neft va gazni qaytarib olish qiyin bo'lishi mumkin.</p>\n\n<p>Xulosa qilib aytganda, uzoq hududlarda neft va gaz topishning ham yaxshi, ham yomon tomonlari bor. Bu bizga ko'proq energiya va pul berishi mumkin bo'lsa-da, u atrof-muhitga zarar etkazishi va qimmatga tushishi mumkin. <mark>Menimcha, bu juda muhim</mark> buni qilishga qaror qilishdan oldin bularning barchasi haqida o'ylab ko'rish. Biz sayyoraga juda ko'p zarar etkazmasdan energiya olish yo'lini topishimiz kerak.</p>",
+    "uzSampleBand6": "<p>Neft va gazga bo'lgan global talabning ortishi ushbu ehtiyojni qondirish uchun olis hududlardan foydalanishimiz kerak degan takliflarga olib keldi. Ushbu yondashuvning ba'zi afzalliklari bo'lishi mumkin bo'lsa-da, menimcha, kamchiliklari <mark>sezilarliroq</mark>.</p>\n\n<p>Potensial afzalliklardan biri shundaki, olis hududlardan foydalanish <mark>iqtisodiy o'sishni rag'batlantirishi</mark> mumkin. Buning sababi shundaki, ushbu resurslarni qazib olish va tashishda yangi ish o'rinlari yaratiladi. <mark>Misol uchun</mark>, neft konlari yaqinidagi jamoalar bandlik imkoniyatlarining ortishidan foyda ko'rishlari mumkin. Bundan tashqari, neft va gazni sotishdan tushgan daromad ta'lim va sog'liqni saqlash kabi davlat xizmatlarini moliyalashtirish uchun ishlatilishi mumkin. Biroq, bu imtiyozlar ko'pincha qisqa muddatli bo'ladi va uzoq muddatli xarajatlardan ustun kelmasligi mumkin.</p>\n\n<p>Boshqa tomondan, olis hududlardan foydalanishning bir nechta kamchiliklari mavjud. Birinchidan, bu atrof-muhitga halokatli ta'sir ko'rsatishi mumkin. Neft va gaz qazib olish o'rmonlarning kesilishiga, ifloslanishga va tabiiy yashash joylarining yo'q qilinishiga olib kelishi mumkin. <mark>Bundan tashqari</mark>, ushbu resurslarni tashish neft to'kilishi va boshqa ekologik ofatlar xavfini ham keltirib chiqarishi mumkin. Ikkinchidan, olis hududlardan foydalanish ushbu hududlarga tirikchilik uchun bog'liq bo'lgan mahalliy jamoalarning hayotini buzishi mumkin. Bu jamoalar o'z uylaridan ko'chirilishi va an'anaviy ov va baliq ovlash joylaridan mahrum bo'lishi mumkin. <mark>Bundan tashqari</mark>, bu hududlarga ishchilarning kirib kelishi jinoyatchilik va giyohvandlik kabi ijtimoiy muammolarga olib kelishi mumkin.</p>\n\n<p>Xulosa qilib aytganda, olis hududlardan foydalanish ba'zi iqtisodiy foyda keltirishi mumkin bo'lsa-da, atrof-muhit va ijtimoiy xarajatlar juda yuqori. Biz bu mo'rt muhitga zarar yetkazish o'rniga, qayta tiklanadigan energiya manbalarini <mark>rivojlantirishga e'tibor qaratishimiz</mark> va qazib olinadigan yoqilg'iga bo'lgan ishonchimizni kamaytirishimiz kerak. <mark>Harakatlarimizning uzoq muddatli oqibatlarini ko'rib chiqish</mark> va sayyoramiz va uning aholisini himoya qilishni ustuvor vazifa deb bilish muhimdir.</p>",
+    "uzSampleBand7": "<p>Neft va gazga bo'lgan global talab doimiy ravishda o'sib borayotganligi sababli, ushbu talabni qondirish uchun olis hududlarni o'zlashtirishimiz kerakmi degan savol dolzarbdir. Ushbu harakat yo'lini davom ettirishning ma'lum afzalliklari bo'lsa-da, menimcha, kamchiliklar <mark>oxir-oqibatda ustun keladi</mark>.</p>\n\n<p>Asosiy afzalliklardan biri bu iqtisodiy o'sish potentsialidir. Olib hududlardagi resurslarni o'zlashtirish ish o'rinlarini yaratishi, mahalliy iqtisodiyotni rag'batlantirishi va hukumatlar uchun sezilarli daromad keltirishi mumkin. <mark>Bundan tashqari</mark>, bu mamlakatning xorijiy energiya manbalariga bog'liqligini kamaytirishi, uning energiya xavfsizligini oshirishi mumkin. Misol uchun, Shimoliy dengizdagi neft konlarining rivojlanishi, garchi qiyin bo'lsa-da, 20-asrning oxirida Buyuk Britaniya iqtisodiyotini o'zgartirdi. Bu resurslardan foydalanish <mark>haqiqatan ham olib kelishi mumkin</mark> sezilarli iqtisodiy foyda. Biroq, bu afzalliklar potentsial ekologik va ijtimoiy xarajatlarga qarshi baholanishi kerak.</p>\n\n<p>Olib hududlarni o'zlashtirishning kamchiliklari ko'p va muhimdir. Ekologik jihatdan, bu hududlar ko'pincha nozik va buzilmagan ekotizimlar bo'lib, resurslarni qazib olishdan keladigan zararga juda moyil. Neft to'kilishi, o'rmonlarning yo'q qilinishi va yashash joylarining buzilishi halokatli va uzoq muddatli oqibatlarga olib kelishi mumkin. Misol uchun, Amazon o'rmonidan neft qazib olish keng ko'lamli ekologik zararga va mahalliy jamoalarning ko'chirilishiga olib keldi. <mark>Qolaversa</mark>, resurslarni qazib olish uchun zarur bo'lgan infratuzilma, masalan, yo'llar va quvurlar, yashash joylarini yanada bo'laklarga bo'lishi va yovvoyi tabiatga putur etkazishi mumkin.</p>\n\n<p>Ijtimoiy jihatdan olib hududlarni o'zlashtirish mahalliy jamoalarga ham salbiy ta'sir ko'rsatishi mumkin. Ishchilarning kirib kelishi va an'anaviy turmush tarzining buzilishi ijtimoiy tartibsizliklarga va madaniy emirilishga olib kelishi mumkin. <mark>Bundan tashqari</mark>, resurslarni qazib olishdan olinadigan foyda har doim ham adolatli taqsimlanmasligi mumkin, bu esa tengsizlik va norozilikka olib keladi. Kompaniyalar ish o'rinlari va rivojlanishni va'da qilishi mumkin bo'lsa-da, bu va'dalar har doim ham bajarilmaydi va jamoalarni avvalgidan ham yomon ahvolga solib qo'yadi. <mark>Ushbu mulohazalarni inobatga olgan holda</mark>, ijtimoiy xarajatlar sezilarli bo'lishi mumkin.</p>\n\n<p>Xulosa qilib aytganda, neft va gaz uchun olib hududlarni o'zlashtirish ba'zi iqtisodiy afzalliklarni va energiya xavfsizligini oshirishni taklif qilishi mumkin bo'lsa-da, ekologik va ijtimoiy kamchiliklar sezilarli. <mark>Shuning uchun, muvozanatda</mark>, menimcha, kamchiliklar afzalliklardan ustun turadi va biz muqobil energiya manbalariga va barqaror amaliyotlarga ustuvor ahamiyat berishimiz kerak.</p>",
+    "uzSampleBand8": "<p>Neft va gazga bo'lgan global talabning oshishi uzoq va ko'pincha ekologik jihatdan nozik hududlardagi resurslardan foydalanish bo'yicha bahslarni keltirib chiqardi. Ushbu zaxiralarni ishga tushirish muayyan afzalliklarni taqdim etishi mumkin bo'lsa-da, menimcha, potentsial kamchiliklar, ayniqsa atrof-muhitning buzilishi va ijtimoiy ta'sirga oid jihatlar, har qanday ko'rinadigan foydadan <mark>sezilarli darajada ustun turadi</mark>.</p>\n\n<p>Bir potentsial afzallik energiya xavfsizligining oshishida. Ilgari foydalanilmagan uzoq hududlardagi zaxiralarga kirish siyosiy beqaror davlatlarga qaramlikni kamaytirishi va <mark>ichki energiya ishlab chiqarishni kuchaytirishi</mark> mumkin. Bu energiya narxlarining pasayishiga va yanada barqaror iqtisodiyotga olib kelishi mumkin. Bundan tashqari, bunday loyihalar ko'pincha qurilish va energetika sohalarida ish o'rinlarini yaratadi, bu esa mahalliy aholiga <mark>iqtisodiy imkoniyatlar beradi</mark>. Biroq, bu afzalliklar ko'pincha qisqa umr ko'radi va nomutanosib ravishda taqsimlanadi, ko'p millatli korporatsiyalar foydaning asosiy qismini oladi.</p>\n\n<p>Aksincha, neft va gaz uchun uzoq hududlardan foydalanishning kamchiliklari sezilarli. Eng muhim muammo - atrof-muhitga ta'siri. Burg'ilash va qazib olish jarayonlari <mark>halokatli neft to'kilishiga</mark>, yashash joylarining yo'q qilinishiga va suv manbalarining ifloslanishiga olib kelishi mumkin. Uzoq hududlar ko'pincha noyob ekotizimlarga va bunday buzilishlarga ayniqsa zaif bo'lgan yo'qolib ketish xavfi ostida turgan turlarga ega. Yo'llar va quvurlar kabi infratuzilmani qurish yashash joylarini yanada parchalaydi va yovvoyi tabiat migratsiyasi namunalarini buzadi. <mark>Bundan tashqari, uglerod izi</mark> ushbu resurslarni qazib olish va tashish bilan bog'liq bo'lib, iqlim o'zgarishiga sezilarli hissa qo'shadi va mavjud ekologik muammolarni yanada kuchaytiradi.</p>\n\n<p>Ekologik oqibatlardan tashqari, mahalliy aholiga bo'lgan ijtimoiy ta'sir ham hisobga olinishi kerak. Ushbu jamoalarning ko'pincha er bilan chuqur madaniy va ma'naviy aloqalari bor, bu esa resurslarni qazib olish natijasida qaytarib bo'lmaydigan darajada buzilishi mumkin. Ishchilarning kirib kelishi jinoyatchilik darajasining oshishi va kasalliklarning tarqalishi kabi ijtimoiy muammolarga olib kelishi mumkin. Bundan tashqari, mahalliy aholi ushbu loyihalardan etarli kompensatsiya yoki foyda olmasligi mumkin, bu esa <mark>ko'chirish va chetlashtirishga olib keladi</mark>. Iqtisodiy yutuqlarga erishish mumkin bo'lsa-da, ular ko'pincha madaniy meros va an'anaviy turmush tarzi hisobiga bo'lishini tan olish juda muhim. <mark>Yanada barqaror yondashuv</mark> qayta tiklanadigan energiya manbalariga sarmoya kiritish va umumiy energiya sarfini kamaytirishni o'z ichiga oladi.</p>\n\n<p>Xulosa qilib aytganda, neft va gaz uchun uzoq hududlardan foydalanish qisqa muddatli iqtisodiy foyda keltirishi mumkin bo'lsa-da, uzoq muddatli ekologik va ijtimoiy xarajatlar juda yuqori. Atrof-muhitga zarar etkazish, mahalliy aholini buzish va iqlim o'zgarishiga qo'shilish potentsiali <mark>bu yondashuvni beqaror qiladi</mark>. Oldinga yanada mas'uliyatli yo'l qayta tiklanadigan energiyaga ustuvor ahamiyat berishni va sayyoramizning mo'rt ekotizimlarini himoya qilish uchun <mark>qattiq ekologik qoidalarni joriy etishni</mark> o'z ichiga oladi.</p>",
+    "uzSampleBand9": "<p>Neft va gazga bo'lgan global talabning ortishi <mark>chekka va ilgari tegib o'tilmagan hududlardagi resurslardan foydalanish</mark> zarur degan takliflarni keltirib chiqardi. Ushbu yondashuvning ba'zi iqtisodiy foydalari bo'lishi mumkin bo'lsa-da, menimcha, kamchiliklar, ayniqsa atrof-muhit va ijtimoiy xarajatlar har qanday potentsial afzalliklardan sezilarli darajada ustundir.</p>\n\n<p>Chekka hududlarda neft va gaz qazib olishning potentsial afzalliklaridan biri bu keltirishi mumkin bo'lgan iqtisodiy o'sishdir. <mark>Bunday korxonalar ko'pincha</mark> mahalliy jamoalar uchun ish o'rinlarini yaratadi va aks holda iqtisodiy jihatdan tushkunlikka uchragan hududlarga kapital kiritadi. Bundan tashqari, ushbu resurslarni qazib olish va sotish milliy YaIMga sezilarli hissa qo'shishi, davlat xizmatlari va infratuzilma loyihalarini moliyalashtirishi mumkin. <mark>Tarafdorlar ta'kidlashicha</mark>, ushbu iqtisodiy yutuqlar, ayniqsa qazib olinadigan yoqilg'i eksportiga qattiq bog'langan mamlakatlarda, rivojlanish va turmush darajasini yaxshilash uchun zarurdir.</p>\n\n<p>Biroq, bu yondashuvning kamchiliklari ancha ishonchliroqdir. Chekka hududlardan resurslarni qazib olishning atrof-muhitga ta'siri ko'pincha halokatli bo'ladi. <mark>Mo'rt ekotizimlar</mark>, masalan, Arktika tundrasi yoki tropik o'rmonlar, burg'ulash, quvurlar va inson faolligining oshishi natijasida kelib chiqadigan buzilishlarga ayniqsa zaifdir. Neft to'kilishi, yashash joylarining yo'q qilinishi va issiqxona gazlarining chiqarilishi potentsial oqibatlarning faqat bir qismidir. Bundan tashqari, <mark>uzoq muddatli ekologik zarar</mark> qaytarilmas bo'lishi, biologik xilma-xillikka tahdid solishi va iqlim o'zgarishiga hissa qo'shishi mumkin. Ijtimoiy xarajatlar ham sezilarli bo'lishi mumkin. Ko'pincha ushbu hududlarga o'zlarining an'anaviy turmush tarzi va madaniy amaliyotlari uchun tayanadigan mahalliy jamoalar ko'chirilishi yoki resurslarni qazib olishdan salbiy ta'sirlanishi mumkin. <mark>Bu olib kelishi mumkin</mark> ijtimoiy tartibsizliklar, madaniy o'zlikni yo'qotish va tengsizlikning kuchayishi.</p>\n\n<p>Xulosa qilib aytganda, chekka hududlarda neft va gaz qazib olish ba'zi qisqa muddatli iqtisodiy afzalliklarni taklif qilishi mumkin bo'lsa-da, bular <mark>sezilarli atrof-muhit va ijtimoiy xarajatlar bilan solishtirganda juda kichikdir</mark>. Barqaror va mas'uliyatli yondashuv mo'rt ekotizimlarda <mark>atrof-muhitga zarar etkazuvchi va ijtimoiy jihatdan buzuvchi</mark> resurslarni qazib olishdan ko'ra, qayta tiklanadigan energiya manbalari va energiya samaradorligi choralariga investitsiya kiritishni ustuvor vazifa sifatida belgilash bo'ladi. <mark>Barqarorlikka qarab paradigma o'zgarishi</mark> nafaqat maqbul, balki sayyora va uning aholisining uzoq muddatli farovonligi uchun zarurdir. <mark>Iqtisodiy foydalarning da'vo qilinishi</mark> shunchaki xavf-xatarlarni oqlamaydi.</p>"
+   }
+  },
+  "source": "Makkar IELTS",
+  "examDate": "2024-02-17",
+  "settings": {
+   "timeInfo": "60 Minutes",
+   "moduleTitle": "Academic Writing Module",
+   "testIdentifier": "Mock 06"
+  },
+  "vocabulary": {
+   "task1": [
+    {
+     "term": "Urban development",
+     "meaning": "The social, cultural, economic and physical development of cities."
+    },
+    {
+     "term": "Transitioning",
+     "meaning": "Changing from one state or condition to another."
+    },
+    {
+     "term": "Infrastructure",
+     "meaning": "The basic physical and organizational structures (e.g. buildings, roads, power supplies) needed for the operation of a society."
+    },
+    {
+     "term": "Recreational space",
+     "meaning": "An area of land set aside for public enjoyment, such as a park or playground."
+    },
+    {
+     "term": "Intact",
+     "meaning": "Not damaged or impaired in any way; complete."
+    },
+    {
+     "term": "Cater to",
+     "meaning": "To provide what is needed or required by a particular group of people."
+    },
+    {
+     "term": "Demolished",
+     "meaning": "Pulled or knocked down (a building)."
+    },
+    {
+     "term": "Intensified",
+     "meaning": "Become or make more intense."
+    }
+   ],
+   "task2": [
+    {
+     "term": "Burgeoning demand",
+     "meaning": "Rapidly growing or increasing need for something."
+    },
+    {
+     "term": "Untouched remote regions",
+     "meaning": "Areas that are far away and have not been affected by human industrial activity."
+    },
+    {
+     "term": "Energy security",
+     "meaning": "The association between national security and the availability of natural resources for energy consumption."
+    },
+    {
+     "term": "Catastrophic risks",
+     "meaning": "Potential for events that cause great and sudden damage or suffering."
+    },
+    {
+     "term": "Fragile ecosystems",
+     "meaning": "Biological environments that are easily disturbed or destroyed."
+    },
+    {
+     "term": "Biodiversity",
+     "meaning": "The variety of plant and animal life in the world or in a particular habitat."
+    },
+    {
+     "term": "Carbon neutrality",
+     "meaning": "Achieving net-zero carbon dioxide emissions by balancing carbon emissions with carbon removal."
+    },
+    {
+     "term": "Regressive strategy",
+     "meaning": "A plan or approach that moves backward or shows a return to a less developed state."
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "Overall": {
+    "uz": "Umuman olganda",
+    "type": "linking"
+   },
+   "Moreover": {
+    "uz": "Bundan tashqari",
+    "type": "linking"
+   },
+   "Overall,": {
+    "uz": "Umuman olganda,",
+    "type": "linking"
+   },
+   "shows how": {
+    "uz": "qanday ekanligini ko'rsatadi",
+    "type": "colloc"
+   },
+   "For example": {
+    "uz": "Misol uchun",
+    "type": "linking"
+   },
+   "Furthermore": {
+    "uz": "Bundan tashqari",
+    "type": "linking"
+   },
+   "In summary,": {
+    "uz": "Xulosa qilib aytganda,",
+    "type": "linking"
+   },
+   "quite large": {
+    "uz": "juda katta",
+    "type": "colloc"
+   },
+   "Additionally": {
+    "uz": "Bundan tashqari",
+    "type": "linking"
+   },
+   "Furthermore,": {
+    "uz": "Bundan tashqari,",
+    "type": "linking"
+   },
+   "gives access": {
+    "uz": "kirish imkonini beradi",
+    "type": "colloc"
+   },
+   "try and find": {
+    "uz": "topishga harakat qiling",
+    "type": "colloc"
+   },
+   "There is also": {
+    "uz": "Shuningdek, bor",
+    "type": "colloc"
+   },
+   "When they dig": {
+    "uz": "Ular qazishganda",
+    "type": "colloc"
+   },
+   "In addition to": {
+    "uz": "Bundan tashqari",
+    "type": "linking"
+   },
+   "The main change": {
+    "uz": "Asosiy o'zgarish",
+    "type": "lexical"
+   },
+   "transition from": {
+    "uz": "dan o'tish",
+    "type": "lexical"
+   },
+   "This can lead to": {
+    "uz": "Bu olib kelishi mumkin",
+    "type": "colloc"
+   },
+   "This has changed": {
+    "uz": "Bu o'zgardi",
+    "type": "colloc"
+   },
+   "characterised by": {
+    "uz": "bilan tavsiflanadi",
+    "type": "academic"
+   },
+   "redeveloped into": {
+    "uz": "qayta qurilgan",
+    "type": "lexical"
+   },
+   "newly established": {
+    "uz": "yangi tashkil etilgan",
+    "type": "lexical"
+   },
+   "Fragile ecosystems": {
+    "uz": "Mo'rt ekotizimlar",
+    "type": "lexical"
+   },
+   "indeed bring about": {
+    "uz": "haqiqatan ham olib keladi",
+    "type": "colloc"
+   },
+   "By the present day,": {
+    "uz": "Bugungi kunga kelib,",
+    "type": "academic"
+   },
+   "In addition to this": {
+    "uz": "Bundan tashqari",
+    "type": "linking"
+   },
+   "focus on developing": {
+    "uz": "rivojlantirishga e'tibor qaratish",
+    "type": "lexical"
+   },
+   "ultimately outweigh": {
+    "uz": "oxir-oqibatda ustun keladi",
+    "type": "lexical"
+   },
+   "Advocates argue that": {
+    "uz": "Himoyachilarning ta'kidlashicha",
+    "type": "academic"
+   },
+   "are more significant": {
+    "uz": "muhimroq",
+    "type": "lexical"
+   },
+   "It is noteworthy that": {
+    "uz": "Shuni ta'kidlash kerakki",
+    "type": "colloc"
+   },
+   "Therefore, on balance": {
+    "uz": "Shuning uchun, muvozanatda",
+    "type": "linking"
+   },
+   "boost economic growth": {
+    "uz": "iqtisodiy o'sishni rag'batlantirish",
+    "type": "lexical"
+   },
+   "important for keeping": {
+    "uz": "saqlash uchun muhim",
+    "type": "colloc"
+   },
+   "devastating oil spills": {
+    "uz": "halokatli neft to'kilishi",
+    "type": "lexical"
+   },
+   "substantially outweigh": {
+    "uz": "sezilarli darajada ustun keladi",
+    "type": "lexical"
+   },
+   "I think it is important": {
+    "uz": "Menimcha, bu muhim",
+    "type": "colloc"
+   },
+   "presumably to alleviate": {
+    "uz": "taxminan kamaytirish uchun",
+    "type": "colloc"
+   },
+   "Overall, there have been": {
+    "uz": "Umuman olganda, bo'lgan",
+    "type": "academic"
+   },
+   "catering to the needs of": {
+    "uz": "ehtiyojlarini qondirish",
+    "type": "lexical"
+   },
+   "illustrates the evolution": {
+    "uz": "evolutsiyani tasvirlaydi",
+    "type": "academic"
+   },
+   "green space for recreation": {
+    "uz": "dam olish uchun yashil maydon",
+    "type": "lexical"
+   },
+   "A more sustainable approach": {
+    "uz": "Barqarorroq yondashuv",
+    "type": "lexical"
+   },
+   "It is important to consider": {
+    "uz": "Ko'rib chiqish muhim",
+    "type": "colloc"
+   },
+   "long-term ecological damage": {
+    "uz": "uzoq muddatli ekologik zarar",
+    "type": "lexical"
+   },
+   "purported economic benefits": {
+    "uz": "faraz qilingan iqtisodiy foydalar",
+    "type": "lexical"
+   },
+   "It is also worth noting that": {
+    "uz": "Shuni ham ta'kidlash joizki",
+    "type": "colloc"
+   },
+   "Such ventures often generate": {
+    "uz": "Bunday tadbirlar ko'pincha hosil qiladi",
+    "type": "academic"
+   },
+   "reflecting a shift away from": {
+    "uz": "dan uzoqlashishni aks ettiradi",
+    "type": "academic"
+   },
+   "illustrate the transformation": {
+    "uz": "o'zgarishni tasvirlaydi",
+    "type": "academic"
+   },
+   "remained in the same location": {
+    "uz": "xuddi shu joyda qoldi",
+    "type": "lexical"
+   },
+   "Moreover, the carbon footprint": {
+    "uz": "Bundan tashqari, karbon izi",
+    "type": "academic"
+   },
+   "alleviating traffic congestion": {
+    "uz": "transport tirbandligini kamaytirish",
+    "type": "lexical"
+   },
+   "illustrates the transformation": {
+    "uz": "o'zgarishni tasvirlaydi",
+    "type": "academic"
+   },
+   "offering economic opportunities": {
+    "uz": "iqtisodiy imkoniyatlarni taklif qilish",
+    "type": "lexical"
+   },
+   "In light of these considerations": {
+    "uz": "Ushbu mulohazalarni hisobga olgan holda",
+    "type": "linking"
+   },
+   "bolster domestic energy production": {
+    "uz": "ichki energiya ishlab chiqarishni qo'llab-quvvatlash",
+    "type": "lexical"
+   },
+   "render this approach unsustainable": {
+    "uz": "bu yondashuvni beqaror qiladi",
+    "type": "lexical"
+   },
+   "indicating a shift away from industry": {
+    "uz": "sanoatdan uzoqlashishni ko'rsatadi",
+    "type": "academic"
+   },
+   "A paradigm shift towards sustainability": {
+    "uz": "Barqarorlik sari paradigma o'zgarishi",
+    "type": "lexical"
+   },
+   "leading to displacement and marginalization": {
+    "uz": "ko'chish va chetlashtirishga olib keladi",
+    "type": "lexical"
+   },
+   "implementing stringent environmental regulations": {
+    "uz": "qat'iy ekologik qoidalarni joriy etish",
+    "type": "lexical"
+   },
+   "Overall, the town has undergone significant development": {
+    "uz": "Umuman olganda, shahar sezilarli rivojlanishni boshdan kechirdi.",
+    "type": "academic"
+   },
+   "Notably, the industrial zone has been entirely repurposed": {
+    "uz": "Shuni ta'kidlash joizki, sanoat zonasi butunlay qayta maqsadga yo'naltirildi.",
+    "type": "academic"
+   },
+   "dwarfed by the significant environmental and social costs": {
+    "uz": "muhim ekologik va ijtimoiy xarajatlar oldida xira tortadi",
+    "type": "lexical"
+   },
+   "pursuing environmentally damaging and socially disruptive": {
+    "uz": "atrof-muhitga zarar etkazuvchi va ijtimoiy buzuvchi faoliyatni davom ettirish",
+    "type": "lexical"
+   },
+   "exploiting resources in remote and previously untouched areas": {
+    "uz": "uzoq va ilgari tegmagan hududlarda resurslardan foydalanish",
+    "type": "lexical"
+   },
+   "In summary, Shakefield has evolved from a small, industry-focused town into a larger, more residential and service-oriented community": {
+    "uz": "Xulosa qilib aytganda, Shakefield kichik, sanoatga yo'naltirilgan shaharchadan kattaroq, ko'proq turar-joy va xizmat ko'rsatishga yo'naltirilgan jamoaga aylandi.",
+    "type": "academic"
+   }
+  }
+ },
+ "created_at": "2026-05-06T17:28:33.149351+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

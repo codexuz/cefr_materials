@@ -1,0 +1,909 @@
+{
+ "id": 2237,
+ "mock_type": "ket-reading-writing",
+ "mock_number": 3,
+ "title": "KET Reading & Writing — Test 3",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "match-notices",
+    "items": [
+     {
+      "id": 1,
+      "answer": "F",
+      "prompt": "You can get a car at any time."
+     },
+     {
+      "id": 2,
+      "answer": "A",
+      "prompt": "You pay the same price but you get more."
+     },
+     {
+      "id": 3,
+      "answer": "G",
+      "prompt": "In the evening, children may not come in."
+     },
+     {
+      "id": 4,
+      "answer": "C",
+      "prompt": "There are two prices for tickets."
+     },
+     {
+      "id": 5,
+      "answer": "D",
+      "prompt": "You can buy food here on Sunday."
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "H",
+     "number": 0,
+     "prompt": "You cannot have a cigarette here."
+    },
+    "notices": [
+     {
+      "text": "TOMATO JUICE\n10% extra — FREE",
+      "letter": "A"
+     },
+     {
+      "text": "NO RIGHT TURN",
+      "letter": "B"
+     },
+     {
+      "text": "Admission £6.00\nSchoolchildren, Students and\nOver-65s: £3.00",
+      "letter": "C"
+     },
+     {
+      "text": "Pat's Pizza Place\nOpen 12 noon till late,\nseven days a week",
+      "letter": "D"
+     },
+     {
+      "text": "Beach Umbrellas\nFor Hire",
+      "letter": "E"
+     },
+     {
+      "text": "YELLOWBIRD TAXIS\n24-hour service",
+      "letter": "F"
+     },
+     {
+      "text": "7.30 p.m. – 9.30 p.m.\nAdult Swimming Only",
+      "letter": "G"
+     },
+     {
+      "text": "NO SMOKING SECTION",
+      "letter": "H"
+     }
+    ],
+    "partNumber": 1,
+    "instruction": [
+     "Which notice (A–H) says this (1–5)?",
+     "For questions 1–5, mark the correct letter A–H on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "mcq-gap-fill-sentences",
+    "items": [
+     {
+      "id": 6,
+      "answer": "B",
+      "options": [
+       {
+        "text": "plate",
+        "letter": "A"
+       },
+       {
+        "text": "meal",
+        "letter": "B"
+       },
+       {
+        "text": "dish",
+        "letter": "C"
+       }
+      ],
+      "sentence": "One day, we decided to go there for a _____."
+     },
+     {
+      "id": 7,
+      "answer": "A",
+      "options": [
+       {
+        "text": "book",
+        "letter": "A"
+       },
+       {
+        "text": "keep",
+        "letter": "B"
+       },
+       {
+        "text": "take",
+        "letter": "C"
+       }
+      ],
+      "sentence": "First we telephoned to _____ a table."
+     },
+     {
+      "id": 8,
+      "answer": "C",
+      "options": [
+       {
+        "text": "advertisement",
+        "letter": "A"
+       },
+       {
+        "text": "programme",
+        "letter": "B"
+       },
+       {
+        "text": "menu",
+        "letter": "C"
+       }
+      ],
+      "sentence": "The _____ was very long so it was difficult to choose what to eat."
+     },
+     {
+      "id": 9,
+      "answer": "A",
+      "options": [
+       {
+        "text": "good",
+        "letter": "A"
+       },
+       {
+        "text": "sweet",
+        "letter": "B"
+       },
+       {
+        "text": "great",
+        "letter": "C"
+       }
+      ],
+      "sentence": "The food was very _____ so everyone enjoyed it."
+     },
+     {
+      "id": 10,
+      "answer": "B",
+      "options": [
+       {
+        "text": "little",
+        "letter": "A"
+       },
+       {
+        "text": "cheap",
+        "letter": "B"
+       },
+       {
+        "text": "small",
+        "letter": "C"
+       }
+      ],
+      "sentence": "We were pleased when we got the bill because it was quite _____."
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "text": "come",
+       "letter": "A"
+      },
+      {
+       "text": "begun",
+       "letter": "B"
+      },
+      {
+       "text": "opened",
+       "letter": "C"
+      }
+     ],
+     "sentence": "A new restaurant has just _____ near our house."
+    },
+    "partNumber": 2,
+    "instruction": [
+     "Read the sentences (6–10) about going to a restaurant.",
+     "Choose the best word (A, B or C) for each space.",
+     "For questions 6–10, mark A, B or C on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-response",
+    "items": [
+     {
+      "id": 11,
+      "answer": "C",
+      "prompt": "Why don't you ask Sandra?",
+      "options": [
+       {
+        "text": "I hope so.",
+        "letter": "A"
+       },
+       {
+        "text": "Never mind.",
+        "letter": "B"
+       },
+       {
+        "text": "That's a good idea.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "answer": "B",
+      "prompt": "Congratulations!",
+      "options": [
+       {
+        "text": "I'm sorry.",
+        "letter": "A"
+       },
+       {
+        "text": "Thank you.",
+        "letter": "B"
+       },
+       {
+        "text": "What a pity!",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "answer": "A",
+      "prompt": "How is your son?",
+      "options": [
+       {
+        "text": "Fine, thanks.",
+        "letter": "A"
+       },
+       {
+        "text": "Four months old.",
+        "letter": "B"
+       },
+       {
+        "text": "With his father.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "answer": "C",
+      "prompt": "Can I help you?",
+      "options": [
+       {
+        "text": "At two o'clock.",
+        "letter": "A"
+       },
+       {
+        "text": "I can help you.",
+        "letter": "B"
+       },
+       {
+        "text": "Yes, please.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "answer": "A",
+      "prompt": "I'd like to try those shoes on, please.",
+      "options": [
+       {
+        "text": "What size are you?",
+        "letter": "A"
+       },
+       {
+        "text": "Are they black?",
+        "letter": "B"
+       },
+       {
+        "text": "Do you like it?",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "prompt": "When did you arrive?",
+     "options": [
+      {
+       "text": "Tuesday.",
+       "letter": "A"
+      },
+      {
+       "text": "Half past eight.",
+       "letter": "B"
+      },
+      {
+       "text": "1998.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partLetter": "a",
+    "partNumber": 3,
+    "instruction": [
+     "Complete the five conversations.",
+     "For conversations 11–15, mark A, B or C on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "type": "match-dialogue",
+    "items": [
+     {
+      "id": 16,
+      "answer": "H"
+     },
+     {
+      "id": 17,
+      "answer": "A"
+     },
+     {
+      "id": 18,
+      "answer": "C"
+     },
+     {
+      "id": 19,
+      "answer": "B"
+     },
+     {
+      "id": 20,
+      "answer": "F"
+     }
+    ],
+    "example": {
+     "answer": "E",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "Well, two people left their coats behind. What colour is yours?",
+      "letter": "A"
+     },
+     {
+      "text": "You'll have to come before 7.15. I'm going out then.",
+      "letter": "B"
+     },
+     {
+      "text": "Yes, there's a green one here.",
+      "letter": "C"
+     },
+     {
+      "text": "What time is it?",
+      "letter": "D"
+     },
+     {
+      "text": "Hi Maria, how are you?",
+      "letter": "E"
+     },
+     {
+      "text": "All right, see you later.",
+      "letter": "F"
+     },
+     {
+      "text": "It's a beautiful coat, isn't it?",
+      "letter": "G"
+     },
+     {
+      "text": "Good. I'm glad you enjoyed it.",
+      "letter": "H"
+     }
+    ],
+    "dialogue": [
+     {
+      "line": "Hello, Tom. This is Maria.",
+      "speaker": "Maria"
+     },
+     {
+      "gap": 0,
+      "speaker": "Tom"
+     },
+     {
+      "line": "Fine. Thank you for the party last night. I had a great time.",
+      "speaker": "Maria"
+     },
+     {
+      "gap": 16,
+      "speaker": "Tom"
+     },
+     {
+      "line": "Tom, did I leave my coat at your house last night?",
+      "speaker": "Maria"
+     },
+     {
+      "gap": 17,
+      "speaker": "Tom"
+     },
+     {
+      "line": "It's green with a black collar.",
+      "speaker": "Maria"
+     },
+     {
+      "gap": 18,
+      "speaker": "Tom"
+     },
+     {
+      "line": "I'm going to work now. Can I come and get it this evening?",
+      "speaker": "Maria"
+     },
+     {
+      "gap": 19,
+      "speaker": "Tom"
+     },
+     {
+      "line": "I'll come at 6.30.",
+      "speaker": "Maria"
+     },
+     {
+      "gap": 20,
+      "speaker": "Tom"
+     },
+     {
+      "line": "OK. Goodbye.",
+      "speaker": "Maria"
+     }
+    ],
+    "partLetter": "b",
+    "partNumber": 3,
+    "instruction": [
+     "Complete the telephone conversation.",
+     "What does Tom say to Maria?",
+     "For questions 16–20, mark the correct letter A–H on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "type": "mcq-passage-rws",
+    "items": [
+     {
+      "id": 21,
+      "answer": "B",
+      "statement": "The Edinburgh Festival is a month long."
+     },
+     {
+      "id": 22,
+      "answer": "B",
+      "statement": "The Edinburgh Festival is in October."
+     },
+     {
+      "id": 23,
+      "answer": "A",
+      "statement": "Actors come to the Edinburgh Festival from lots of different countries."
+     },
+     {
+      "id": 24,
+      "answer": "A",
+      "statement": "You can hear music all day."
+     },
+     {
+      "id": 25,
+      "answer": "C",
+      "statement": "More than ten thousand students come to the Edinburgh Festival every year."
+     },
+     {
+      "id": 26,
+      "answer": "B",
+      "statement": "It is expensive to go to the theatre in Edinburgh."
+     },
+     {
+      "id": 27,
+      "answer": "A",
+      "statement": "It is usually more difficult to see famous actors in London than in Edinburgh."
+     }
+    ],
+    "label": "PART 4",
+    "article": "Every year, thousands of people come to Edinburgh, the capital city of Scotland, to be part of the Edinburgh Festival. For three weeks every August and September the city is filled with actors and artists from all over the world. They come to Edinburgh for the biggest arts festival in Britain. During this time the streets of the city are alive with music and dance from early morning until late at night. You can even see artists painting pictures on the streets. One of the best parts of the Festival is the 'Fringe', where students do comedy shows in small halls and cafés.\n\nTens of thousands of tourists come to the Festival to see new films and plays and hear music played by famous musicians. This year, you can see over five hundred performances with actors from more than forty countries.\n\nThe tickets for these performances are quite cheap and it is usually easier to see your favourite star in Edinburgh than it is in London. So come to Edinburgh next summer, but remember it can be difficult to find a room, so why not book your hotel now!",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "statement": "Edinburgh is the capital of Scotland."
+    },
+    "partNumber": 4,
+    "instruction": [
+     "Read the article about the Edinburgh Festival.",
+     "Are sentences 21–27 'Right' (A) or 'Wrong' (B)?",
+     "If there is not enough information to answer 'Right' (A) or 'Wrong' (B), choose 'Doesn’t say' (C).",
+     "For questions 21–27, mark A, B or C on the answer sheet."
+    ],
+    "articleTitle": "Visit the Edinburgh Festival!",
+    "questionsLabel": "QUESTIONS 21–27"
+   },
+   {
+    "type": "mcq-cloze-passage",
+    "items": [
+     {
+      "id": 28,
+      "answer": "B",
+      "options": [
+       {
+        "text": "these",
+        "letter": "A"
+       },
+       {
+        "text": "the",
+        "letter": "B"
+       },
+       {
+        "text": "an",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 29,
+      "answer": "A",
+      "options": [
+       {
+        "text": "little",
+        "letter": "A"
+       },
+       {
+        "text": "many",
+        "letter": "B"
+       },
+       {
+        "text": "few",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 30,
+      "answer": "B",
+      "options": [
+       {
+        "text": "to",
+        "letter": "A"
+       },
+       {
+        "text": "of",
+        "letter": "B"
+       },
+       {
+        "text": "for",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 31,
+      "answer": "A",
+      "options": [
+       {
+        "text": "on",
+        "letter": "A"
+       },
+       {
+        "text": "in",
+        "letter": "B"
+       },
+       {
+        "text": "at",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 32,
+      "answer": "C",
+      "options": [
+       {
+        "text": "slow",
+        "letter": "A"
+       },
+       {
+        "text": "slower",
+        "letter": "B"
+       },
+       {
+        "text": "slowly",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 33,
+      "answer": "A",
+      "options": [
+       {
+        "text": "eat",
+        "letter": "A"
+       },
+       {
+        "text": "eats",
+        "letter": "B"
+       },
+       {
+        "text": "ate",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 34,
+      "answer": "C",
+      "options": [
+       {
+        "text": "since",
+        "letter": "A"
+       },
+       {
+        "text": "during",
+        "letter": "B"
+       },
+       {
+        "text": "for",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 35,
+      "answer": "C",
+      "options": [
+       {
+        "text": "lives",
+        "letter": "A"
+       },
+       {
+        "text": "living",
+        "letter": "B"
+       },
+       {
+        "text": "live",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 5",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "options": [
+      {
+       "text": "are",
+       "letter": "A"
+      },
+      {
+       "text": "is",
+       "letter": "B"
+      },
+      {
+       "text": "were",
+       "letter": "C"
+      }
+     ]
+    },
+    "passage": "There {0} five different types of rhino in the world today. The Black and White Rhino live in {28} open fields of Africa. The others live in forests in Asia.\n\nAll rhinos have big, heavy bodies. Their skin is very hard and they have very {29} hair. The great body {30} the rhino stands {31} four short legs. Each foot has three toes. They usually walk very {32}, but they can run at 50 kilometres an hour. Rhinos are usually quiet and calm animals, and they only {33} grass and other plants.\n\nA baby rhino weighs 40 kilos when it is born. It has been inside its mother {34} about fifteen months. An adult rhino weighs over 1200 kilos and may {35} to be 50 years old.",
+    "partNumber": 5,
+    "instruction": [
+     "Read the information about rhinos.",
+     "Choose the best word (A, B or C) for each space (28–35).",
+     "For questions 28–35, mark A, B or C on the answer sheet."
+    ],
+    "passageTitle": "Rhinos",
+    "questionsLabel": "QUESTIONS 28–35"
+   },
+   {
+    "type": "vocab-first-letter",
+    "items": [
+     {
+      "id": 36,
+      "answer": "boat",
+      "prompt": "You can have a ride on the water in this.",
+      "letters": 4,
+      "firstLetter": "b"
+     },
+     {
+      "id": 37,
+      "answer": "fish",
+      "prompt": "You may see these swimming in the water.",
+      "letters": 4,
+      "firstLetter": "f"
+     },
+     {
+      "id": 38,
+      "answer": "sunglasses",
+      "prompt": "You put these on when the sun is too strong for your eyes.",
+      "letters": 10,
+      "firstLetter": "s"
+     },
+     {
+      "id": 39,
+      "answer": "ball",
+      "prompt": "People enjoy throwing and catching this.",
+      "letters": 4,
+      "firstLetter": "b"
+     },
+     {
+      "id": 40,
+      "answer": "sandwich",
+      "prompt": "You can make this with bread at home and eat it on the beach.",
+      "letters": 8,
+      "firstLetter": "s"
+     }
+    ],
+    "label": "PART 6",
+    "example": {
+     "answer": "towel",
+     "number": 0,
+     "prompt": "You lie on this on the beach.",
+     "firstLetter": "t"
+    },
+    "partNumber": 6,
+    "instruction": [
+     "Read the descriptions (36–40) of some things you can see at the beach.",
+     "What is the word for each description?",
+     "The first letter is already there. There is one space for each other letter in the word.",
+     "For questions 36–40, write the words on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 36–40"
+   },
+   {
+    "type": "open-cloze-letter",
+    "items": [
+     {
+      "id": 41,
+      "answer": "a"
+     },
+     {
+      "id": 42,
+      "answer": "in"
+     },
+     {
+      "id": 43,
+      "answer": "He"
+     },
+     {
+      "id": 44,
+      "answer": "with"
+     },
+     {
+      "id": 45,
+      "answer": "to"
+     },
+     {
+      "id": 46,
+      "answer": "much"
+     },
+     {
+      "id": 47,
+      "answer": "went"
+     },
+     {
+      "id": 48,
+      "answer": "was"
+     },
+     {
+      "id": 49,
+      "answer": "going"
+     },
+     {
+      "id": 50,
+      "answer": "of"
+     }
+    ],
+    "label": "PART 7",
+    "example": {
+     "answer": "me",
+     "number": 0
+    },
+    "letters": [
+     {
+      "body": "Thank you for helping (Example: me) with my English. You are {41} very good teacher. I enjoyed my stay {42} Cambridge.\n\nNow I am staying at my brother's flat. {43} is studying to be a doctor. I will stay {44} him for two weeks and then go home {45} Greece.\n\nI like London very {46}. We {47} to Regents Park by bus yesterday. It {48} very sunny and we had a good time.\n\nTonight, I am {49} to see a film with my brother and some {50} his friends.\n\nI'll write again from Greece.",
+      "header": "17 Green Street\nCamden\nLondon\n\n29th August 2002",
+      "closing": "Best wishes,\nKostas",
+      "greeting": "Dear John,"
+     }
+    ],
+    "partNumber": 7,
+    "instruction": [
+     "Complete this letter.",
+     "Write ONE word for each space (41–50).",
+     "For questions 41–50, write your words on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 41–50"
+   },
+   {
+    "note": {
+     "body": "Dear Mrs Smith,\n\nWe would like our daughter, Claire, to have a place at the camp at the beginning of August. She is thirteen years old. She likes swimming and playing the piano. Her best friend, Rosie Brown, wants to come to the camp, too.",
+     "dateLine": "Crow Cottage, Bradley",
+     "signature": "Linda and Derek Drake"
+    },
+    "rows": [
+     {
+      "label": "Name:",
+      "prefilled": "Claire Drake"
+     },
+     {
+      "id": 51,
+      "label": "Age next birthday:",
+      "answer": "14"
+     },
+     {
+      "id": 52,
+      "label": "Address:",
+      "answer": "Crow Cottage, Bradley"
+     },
+     {
+      "id": 53,
+      "label": "Hobbies:",
+      "answer": "swimming and playing the piano"
+     },
+     {
+      "id": 54,
+      "label": "Dates:",
+      "answer": "3-9 August"
+     },
+     {
+      "id": 55,
+      "label": "I would like to be in the same tent as:",
+      "answer": "Rosie Brown"
+     }
+    ],
+    "type": "info-transfer-notes",
+    "label": "PART 8",
+    "notice": {
+     "body": "3–9 August\nOR\n10–16 August\n\nAges 12–16\n\nHorse-riding   Swimming   Sports\n\nWrite to:\nMrs Smith, Sunnysands Campsite, Westsea",
+     "title": "Young People's Camp"
+    },
+    "notesTitle": "YOUNG PEOPLE'S CAMP APPLICATION FORM",
+    "partNumber": 8,
+    "instruction": [
+     "Read the advertisement and the letter about the Young People's Camp.",
+     "Fill in the information on the Application Form.",
+     "For questions 51–55, write the information on the answer sheet."
+    ],
+    "notesSubtitle": "",
+    "questionsLabel": "QUESTIONS 51–55"
+   },
+   {
+    "type": "writing-postcard",
+    "items": [
+     {
+      "id": 56,
+      "type": "free-text",
+      "answer": "Dear Eric,\nThanks for make the meal tonight. I'd like meat and I want beans. I'll be home at half past seven.\nBest wishes\nIñigo",
+      "maxWords": 35,
+      "minWords": 25
+     }
+    ],
+    "label": "PART 9",
+    "footer": [
+     "Write 25–35 words.",
+     "Write your note on the answer sheet."
+    ],
+    "prompt": "I'll make the meal tonight.\n\nWould you like meat or fish?\n\nWhat vegetables do you want?\n\nWhat time will you be home?\n\nBest wishes.",
+    "wordCount": "25–35 words",
+    "partNumber": 9,
+    "instruction": [
+     "Read the note from your friend Eric.",
+     "Write a note to Eric to answer his questions."
+    ],
+    "questionsLabel": "QUESTION 56",
+    "promptSignature": "Eric"
+   }
+  ],
+  "testInfo": {
+   "id": "ket-rw-03",
+   "level": "A2",
+   "paper": "Paper 1",
+   "parts": 9,
+   "title": "KET Reading & Writing — Test 3",
+   "totalTime": 70,
+   "totalQuestions": 56
+  }
+ },
+ "created_at": "2026-10-14T06:44:57.541558+00:00",
+ "updated_at": "2026-10-14T06:46:45.604394+00:00"
+}

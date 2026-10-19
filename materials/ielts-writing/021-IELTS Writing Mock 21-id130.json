@@ -1,0 +1,502 @@
+{
+ "id": 130,
+ "mock_type": "ielts-writing",
+ "mock_number": 21,
+ "title": "IELTS Writing Mock 21",
+ "status": "published",
+ "mock_data": {
+  "tasks": {
+   "task1": {
+    "title": "Forest industry products",
+    "prompt": "The graph below shows the production of three forest industry products in a European country, namely timber, pulp, and paper, from 1980 to 2000.",
+    "wordGoal": 150,
+    "chartDesc": {
+     "title": "Forest industry production, 1980-2000",
+     "xAxis": "Year (1980 - 2000)",
+     "yAxis": "million tonnes",
+     "period": "1980-2000",
+     "series": [
+      {
+       "name": "Pulp",
+       "points": [
+        {
+         "at": "1980",
+         "value": 5.8
+        },
+        {
+         "at": "1985",
+         "value": 7
+        },
+        {
+         "at": "1990",
+         "value": 8
+        },
+        {
+         "at": "1995",
+         "value": 8.3
+        },
+        {
+         "at": "2000",
+         "value": 9.8
+        }
+       ]
+      },
+      {
+       "name": "Timber",
+       "points": [
+        {
+         "at": "1980",
+         "value": 5
+        },
+        {
+         "at": "1985",
+         "value": 10
+        },
+        {
+         "at": "1990",
+         "value": 8
+        },
+        {
+         "at": "1995",
+         "value": 6.5
+        },
+        {
+         "at": "2000",
+         "value": 7.5
+        }
+       ]
+      },
+      {
+       "name": "Paper",
+       "points": [
+        {
+         "at": "1980",
+         "value": 4
+        },
+        {
+         "at": "1985",
+         "value": 6
+        },
+        {
+         "at": "1990",
+         "value": 7
+        },
+        {
+         "at": "1995",
+         "value": 9
+        },
+        {
+         "at": "2000",
+         "value": 12
+        }
+       ]
+      }
+     ],
+     "overview": "Paper production experienced the strongest growth overall, eventually surpassing both timber and pulp to become the highest produced item by 2000. Timber production peaked mid-period before declining, while pulp dipped sharply early on before steadily climbing.",
+     "chartType": "line graph",
+     "confidence": "high",
+     "unreadable": [],
+     "keyFeatures": [
+      "Paper production increased steadily from the lowest start of 4 million tonnes in 1980 to reach the highest overall total of 12 million tonnes in 2000.",
+      "Timber peaked in 1985 at 10 million tonnes, making it the dominant product at that time, before dropping to 7.5 million tonnes by 2000.",
+      "Pulp dropped sharply between 1980 and 1983 to around 2.5 million tonnes before recovering to nearly 10 million tonnes by 2000."
+     ]
+    },
+    "chartType": "line_graph",
+    "dataNature": "dynamic",
+    "instruction": "Summarise the information by selecting and reporting the main features, and make comparison where relevant.",
+    "sampleBand5": "<p>The graph shows the production of timber, pulp and paper <mark>in a country in Europe</mark> between 1980 and 2000.</p>\n<p>Overall, the production of paper increased, and timber production also increased <mark>but then it went down</mark>. The pulp production stayed about the same. </p>\n<p>In 1980, the production of timber was about 8 million tonnes. Then it went up to about 10 million tonnes in 1990. After that <mark>it decreased a lot</mark> to about 6 million tonnes in 2000. The pulp production was about 6 million tonnes in 1980 and it was still about the same in 2000. The paper production started at about 4 million tonnes in 1980. After that it increased to about 8 million tonnes in 2000. So, paper production had the biggest increase. The pulp production <mark>didn't change very much</mark> during this time.</p>",
+    "sampleBand6": "<p>The graph shows the production levels for timber, pulp, and paper in a European country <mark>over a twenty-year period</mark>, from 1980 to 2000.</p>\n<p>Overall, timber production <mark>experienced a general increase</mark>, while pulp and paper production fluctuated. There were some periods of growth and decline for all three products.</p>\n<p>In 1980, timber production started at around 4 million tonnes. It then increased steadily to reach a peak of about 8 million tonnes in 2000. Pulp production began at approximately 10 million tonnes, and it increased to around 12 million tonnes in 1990. After that, it decreased <mark>to some extent</mark> to finish at just below 12 million tonnes in 2000. Paper production started at about 6 million tonnes in 1980. It went up to around 8 million tonnes in 1990, before falling back to 6 million tonnes in 2000. The production levels <mark>were quite similar</mark> at the start and end for paper.</p>\n<p>It is clear that timber had the most significant increase, while paper and pulp production <mark>stayed relatively stable</mark>.</p>",
+    "sampleBand7": "<p>The graph <mark>illustrates the trends</mark> in the production of timber, pulp, and paper in a particular European country over a 20-year period, from 1980 to 2000.</p>\n<p>Overall, paper production experienced the most significant growth, while timber production fluctuated and pulp production remained relatively stable. It is <mark>noticeable that</mark> timber production showed the most volatility <mark>throughout the period</mark>.</p>\n<p>In 1980, timber production began at approximately 8 million tonnes. It then <mark>underwent a period of ups and downs</mark>, peaking at around 12 million tonnes in 1990 before declining to approximately 9 million tonnes by 2000. Pulp production started at roughly 6 million tonnes in 1980 and remained fairly constant, with only minor fluctuations, ending the period at approximately 7 million tonnes. <mark>In contrast</mark>, paper production steadily increased from about 5 million tonnes in 1980 to reach a high of 15 million tonnes by the year 2000, <mark>demonstrating substantial growth</mark>. The increase was particularly pronounced in the later half of the period.</p>",
+    "sampleBand8": "<p>The line graph <mark>illustrates the fluctuating production levels</mark> of timber, pulp, and paper in an unnamed European nation over the two decades from 1980 to 2000.</p>\n<p>An <mark>initial overview</mark> reveals that while paper production experienced an overall increase, timber production witnessed a decline. Pulp production, conversely, remained relatively stable throughout the period, <mark>albeit with some oscillations</mark>.</p>\n<p>In 1980, timber production stood at approximately 8 million tonnes, but then <mark>underwent a marked decrease</mark>, reaching a low of around 6 million tonnes by 2000. In contrast, paper production started at roughly 5 million tonnes and then <mark>exhibited a consistent upward trend</mark>, peaking at 10 million tonnes at the end of the period. Pulp production, starting at approximately 4 million tonnes, <mark>displayed a degree of volatility</mark>. It rose to around 6 million tonnes by 1990, then decreased to its initial level by 2000.</p>\n<p><mark>As a final observation</mark>, paper production doubled over the two decades, while timber production <mark>experienced a notable contraction</mark>. Pulp production, despite its fluctuations, ultimately ended at its starting point, demonstrating the least change during the period.</p>",
+    "sampleBand9": "<p>The line graph <mark>depicts the fluctuating production levels</mark> of timber, pulp, and paper in a certain European country over a twenty-year period, from 1980 to 2000.</p>\n\n<p>An <mark>initial overview</mark> reveals that paper production experienced the most significant growth, while timber production saw a period of decline before recovering. Pulp production, conversely, remained relatively stable throughout the period, <mark>albeit with some minor oscillations</mark>. </p>\n\n<p>In 1980, timber production stood at approximately 12 million tonnes, but this <mark>witnessed a steady downturn</mark> to reach a low of around 8 million tonnes by 1990. Subsequently, it <mark>underwent a resurgence</mark>, climbing back to approximately 12 million tonnes by the year 2000. Pulp production, meanwhile, <mark>demonstrated a more consistent pattern</mark>, hovering between 10 and 12 million tonnes for the entirety of the two decades. There was a slight dip in the mid-1980s and a minor peak in the early 1990s, but these fluctuations were <mark>relatively inconsequential</mark>.</p>\n\n<p>Paper production, in stark contrast, <mark>exhibited a pronounced upward trajectory</mark>. Starting at around 6 million tonnes in 1980, it <mark>increased steadily</mark>, surpassing timber production in the mid-1990s and ultimately reaching a peak of approximately 16 million tonnes by 2000. This <mark>represented a substantial increase</mark> compared to the other two commodities. It is <mark>evident from the data</mark> that paper became the dominant forest industry product by the end of the period, <mark>significantly outstripping</mark> both timber and pulp in terms of production volume.</p>",
+    "timeMinutes": 20,
+    "chartDescImg": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/21.png",
+    "sampleAnswer": "The line graph illustrates the production levels of three forest industry products—timber, pulp, and paper—in a European country over a twenty-year period from 1980 to 2000. Overall, while paper production increased significantly, timber and pulp showed more variable trends over the period.\n\nIn 1980, timber production was the highest among the three products at approximately 35 million tonnes, followed by pulp at around 25 million tonnes and paper at roughly 20 million tonnes. Over the following decade, timber production fluctuated, dipping to about 30 million tonnes in 1985 before recovering to 35 million tonnes by 1990.\n\nPaper production showed the most consistent growth, rising steadily from 20 million tonnes in 1980 to approximately 40 million tonnes by 2000, eventually surpassing timber as the dominant product. Pulp production remained relatively stable throughout the period, hovering around 25-30 million tonnes.\n\nBy 2000, paper had become the leading product, with timber in second place at around 32 million tonnes and pulp remaining the least produced at approximately 28 million tonnes. The most notable trend was the reversal in the positions of paper and timber.",
+    "chartImageUrl": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/21.png",
+    "uzSampleBand5": "<p>Grafikda 1980 yildan 2000 yilgacha bo'lgan davrda <mark>Yevropadagi bir mamlakatda</mark> yog'och, sellyuloza va qog'oz ishlab chiqarilishi ko'rsatilgan.</p>\n<p>Umuman olganda, qog'oz ishlab chiqarish o'sdi va yog'och ishlab chiqarish ham o'sdi, <mark>lekin keyin pasayib ketdi</mark>. Sellyuloza ishlab chiqarish taxminan bir xil bo'lib qoldi.</p>\n<p>1980 yilda yog'och ishlab chiqarish taxminan 8 million tonnani tashkil etdi. Keyin u 1990 yilda taxminan 10 million tonnagacha ko'tarildi. Shundan so'ng <mark>u juda kamayib ketdi</mark> va 2000 yilda taxminan 6 million tonnani tashkil qildi. Sellyuloza ishlab chiqarish 1980 yilda taxminan 6 million tonna edi va 2000 yilda ham taxminan shunday edi. Qog'oz ishlab chiqarish 1980 yilda taxminan 4 million tonnadan boshlandi. Shundan so'ng u 2000 yilda taxminan 8 million tonnagacha ko'tarildi. Shunday qilib, qog'oz ishlab chiqarish eng katta o'sishga erishdi. Sellyuloza ishlab chiqarish <mark>bu vaqt davomida uncha o'zgarmadi</mark>.</p>",
+    "uzSampleBand6": "<p>Grafik Yevropa mamlakatida yog'och, sellyuloza va qog'oz ishlab chiqarish darajalarini 1980-yildan 2000-yilgacha bo'lgan <mark>yigirma yillik davr mobaynida</mark> ko'rsatadi.</p>\n<p>Umuman olganda, yog'och ishlab chiqarish <mark>umumiy o'sishni boshdan kechirdi</mark>, sellyuloza va qog'oz ishlab chiqarish esa o'zgarib turdi. Barcha uchta mahsulot uchun o'sish va pasayish davrlari bo'lgan.</p>\n<p>1980-yilda yog'och ishlab chiqarish taxminan 4 million tonnadan boshlandi. Keyin u doimiy ravishda o'sib, 2000-yilda taxminan 8 million tonnaga yetdi. Selluloza ishlab chiqarish taxminan 10 million tonnadan boshlandi va 1990-yilda taxminan 12 million tonnagacha oshdi. Shundan so'ng, u <mark>bir qadar</mark> kamayib, 2000-yilda 12 million tonnadan biroz pastroqda yakunlandi. Qog'oz ishlab chiqarish 1980-yilda taxminan 6 million tonnadan boshlandi. U 1990-yilda taxminan 8 million tonnagacha ko'tarildi, so'ngra 2000-yilda 6 million tonnaga tushdi. Qog'oz uchun ishlab chiqarish darajalari boshida va oxirida <mark>juda o'xshash edi</mark>.</p>\n<p>Yog'och eng sezilarli o'sishga erishgani, qog'oz va sellyuloza ishlab chiqarish esa <mark>nisbatan barqaror bo'lib qolgani</mark> aniq.</p>",
+    "uzSampleBand7": "<p>Grafik <mark>muayyan bir tendensiyalarni ko'rsatadi</mark> Yevropa mamlakatida yog'och, sellyuloza va qog'oz ishlab chiqarishning 1980 yildan 2000 yilgacha bo'lgan 20 yillik davrdagi o'zgarishlarini aks ettiradi.</p>\n<p>Umuman olganda, qog'oz ishlab chiqarish eng sezilarli o'sishni boshdan kechirdi, yog'och ishlab chiqarish o'zgarib turdi va sellyuloza ishlab chiqarish nisbatan barqaror bo'lib qoldi. Shuni <mark>ta'kidlash joizki</mark>, yog'och ishlab chiqarish <mark>butun davr mobaynida</mark> eng katta o'zgaruvchanlikni ko'rsatdi.</p>\n<p>1980 yilda yog'och ishlab chiqarish taxminan 8 million tonnadan boshlandi. Keyin u <mark>ko'tarilish va pasayish davrini boshdan kechirdi</mark>, 1990 yilda taxminan 12 million tonnaga yetdi va 2000 yilga kelib taxminan 9 million tonnaga tushdi. Sellyuloza ishlab chiqarish 1980 yilda taxminan 6 million tonnadan boshlandi va unchalik katta bo'lmagan o'zgarishlar bilan deyarli doimiy bo'lib qoldi va davrni taxminan 7 million tonna bilan yakunladi. <mark>Bunga javoban</mark>, qog'oz ishlab chiqarish 1980 yilda taxminan 5 million tonnadan doimiy ravishda o'sib, 2000 yilga kelib 15 million tonnaga yetdi, bu <mark>sezilarli o'sishni namoyish etadi</mark>. O'sish, ayniqsa, davrning ikkinchi yarmida yaqqol sezildi.</p>",
+    "uzSampleBand8": "<p>Chiziqli grafikda noma'lum Yevropa davlatida 1980 yildan 2000 yilgacha bo'lgan ikki o'n yillik davrda yog'och, sellyuloza va qog'ozning <mark>o'zgaruvchan ishlab chiqarish darajalari tasvirlangan</mark>.</p>\n<p><mark>Dastlabki umumiy ko'rinish</mark> shuni ko'rsatadiki, qog'oz ishlab chiqarish umumiy o'sishni boshdan kechirgan bo'lsa, yog'och ishlab chiqarish pasayishga guvoh bo'ldi. Aksincha, sellyuloza ishlab chiqarish davr davomida nisbatan barqaror bo'lib qoldi, <mark>garchi ba'zi tebranishlar bilan</mark>.</p>\n<p>1980 yilda yog'och ishlab chiqarish taxminan 8 million tonnani tashkil etdi, ammo keyin <mark>sezilarli pasayishga uchradi</mark> va 2000 yilga kelib taxminan 6 million tonnaga tushdi. Aksincha, qog'oz ishlab chiqarish taxminan 5 million tonnadan boshlandi va keyin <mark>doimiy o'sish tendentsiyasini namoyish etdi</mark> va davr oxirida 10 million tonnaga yetdi. Taxminan 4 million tonnadan boshlangan sellyuloza ishlab chiqarish <mark>ma'lum darajada o'zgaruvchanlikni ko'rsatdi</mark>. U 1990 yilga kelib taxminan 6 million tonnaga ko'tarildi, so'ngra 2000 yilga kelib dastlabki darajasiga tushdi.</p>\n<p><mark>Yakuniy kuzatuv sifatida</mark>, qog'oz ishlab chiqarish ikki o'n yillik davomida ikki barobar ko'paydi, yog'och ishlab chiqarish esa <mark>sezilarli qisqarishni boshdan kechirdi</mark>. Selluloza ishlab chiqarish, tebranishlarga qaramay, oxir-oqibat o'zining boshlang'ich nuqtasida yakunlandi va bu davrda eng kam o'zgarishni ko'rsatdi.</p>",
+    "uzSampleBand9": "<p>Chiziqli grafika 1980-yildan 2000-yilgacha bo'lgan yigirma yillik davrda ma'lum bir Yevropa mamlakatida yog'och, tsellyuloza va qog'ozning <mark>o'zgaruvchan ishlab chiqarish darajalarini tasvirlaydi</mark>.</p>\n\n<p><mark>Dastlabki umumiy ko'rinish</mark> shuni ko'rsatadiki, qog'oz ishlab chiqarish eng sezilarli o'sishni boshdan kechirdi, yog'och ishlab chiqarish esa tiklanishdan oldin pasayish davrini ko'rdi. Tsellyuloza ishlab chiqarish, aksincha, butun davr davomida nisbatan barqaror bo'lib qoldi, <mark>garchi ba'zi kichik tebranishlar bilan</mark>.</p>\n\n<p>1980-yilda yog'och ishlab chiqarish taxminan 12 million tonnani tashkil etdi, ammo bu 1990-yilga kelib taxminan 8 million tonnagacha pastlash <mark>doimiy pasayishni kuzatdi</mark>. Keyinchalik, u <mark>qayta tiklanishni boshdan kechirdi</mark> va 2000-yilga kelib taxminan 12 million tonnaga ko'tarildi. Shu bilan birga, tsellyuloza ishlab chiqarish <mark>yanada izchil namunani namoyish etdi</mark>, ikki o'n yillik davomida 10 million tonnadan 12 million tonnagacha bo'lgan oraliqda tebranib turdi. 1980-yillarning o'rtalarida biroz pasayish va 1990-yillarning boshlarida kichik cho'qqi kuzatildi, ammo bu tebranishlar <mark>nisbatan ahamiyatsiz edi</mark>.</p>\n\n<p>Qog'oz ishlab chiqarish, buning aksi o'laroq, <mark>yaqqol yuqoriga yo'nalishni namoyish etdi</mark>. 1980-yilda taxminan 6 million tonnadan boshlab, u <mark>doimiy ravishda oshdi</mark>, 1990-yillarning o'rtalarida yog'och ishlab chiqarishdan oshib ketdi va oxir-oqibat 2000-yilga kelib taxminan 16 million tonna cho'qqisiga yetdi. Bu boshqa ikki tovar bilan solishtirganda <mark>sezilarli o'sishni anglatardi</mark>. <mark>Ma'lumotlardan ko'rinib turibdiki</mark>, qog'oz davr oxiriga kelib o'rmon sanoatining asosiy mahsulotiga aylandi, ishlab chiqarish hajmi bo'yicha yog'och va tsellyulozadan <mark>sezilarli darajada ustun keldi</mark>.</p>",
+    "chartDescSource": "extracted-verified-2026-08-05"
+   },
+   "task2": {
+    "title": "Schools teaching good behaviour",
+    "prompt": "It is the responsibility of schools to teach children good behaviour in addition to providing formal education. To what extent to you agree or disagree?",
+    "wordGoal": 250,
+    "essayType": "opinion",
+    "instruction": "To what extent to you agree or disagree?",
+    "sampleBand5": "<p>Schools are very important. They teach children many things like reading and writing. But some people think schools should also teach children how to behave well. I agree with this <mark>to some extent</mark>.</p>\n\n<p>It is important for children to learn good behaviour. If they don't, they might be rude to other people. They might not listen to their teachers. <mark>This can make problems</mark> in the classroom. If schools teach good behaviour, children will know how to treat others with respect. They will also learn how to follow rules.</p>\n\n<p>Parents also have a role to play. They should teach their children good manners at home. But sometimes parents are busy. They don't have time to teach their children everything. <mark>So schools can help.</mark> Schools have teachers who are trained to teach children. They can teach children about sharing and being kind.</p>\n\n<p>However, schools should not only focus on behaviour. They also need to teach academic subjects. Children need to learn maths, science, and history. These subjects are important for their future. If schools only teach behaviour, children might not get a good education. <mark>This is not very good.</mark></p>\n\n<p>In conclusion, I think schools should teach children good behaviour. But they should also teach academic subjects. Both are important for children's development. Schools can help parents, but parents also have a responsibility. It's important to find a balance. </p>",
+    "sampleBand6": "<p>It is often said that schools should not only provide education but also teach students how to behave well. I <mark>somewhat agree</mark> with this statement. While parents have a primary role in shaping a child's character, schools also have an important part to play.</p>\n\n<p>On the one hand, the family is where children first learn about values and ethics. Parents are the first role models, and they teach their children the difference between right and wrong. <mark>It is also true that</mark> different families have different ideas about what good behaviour actually is. Therefore, it is difficult for schools to impose a single standard that everyone agrees with.</p>\n\n<p>However, schools are a place where children spend a lot of time, and they interact with many other people. Schools can teach students important social skills like how to cooperate, how to respect others, and how to resolve conflicts peacefully. <mark>Furthermore</mark>, schools can provide a structured environment where good behaviour is rewarded and bad behaviour is punished. This can help children learn to make good choices.</p>\n\n<p>Of course, schools should not try to replace parents. The best approach is for schools and families to work together to teach children good behaviour. Parents can reinforce the lessons that children learn at school, and schools can support the values that children learn at home. <mark>In addition</mark>, schools can teach children about citizenship and their responsibilities to the community.</p>\n\n<p>In conclusion, while parents have the main responsibility for teaching their children how to behave, schools also have a significant role to play. By working together, families and schools can help children grow into responsible and well-behaved adults. <mark>I believe it is important</mark> for schools to actively promote good behaviour among their students.</p>",
+    "sampleBand7": "<p>The issue of whether schools should be responsible for teaching children good behaviour, in addition to providing formal education, is a subject of much debate. While some argue that this is primarily the role of parents, I believe that schools have a significant, and perhaps even vital, role to play in shaping a child's character and instilling positive values. <mark>To a considerable extent</mark>, the responsibility should be shared between home and school.</p>\n\n<p>One of the main reasons why schools should be involved in teaching good behaviour is that children spend a significant portion of their time at school. During these formative years, they are constantly observing and learning from their teachers and peers. <mark>Consequently, the school environment</mark> can have a profound impact on their developing sense of right and wrong. If schools actively promote values such as respect, empathy, and responsibility, children are more likely to internalise these values and demonstrate them in their interactions with others. For example, implementing programs that encourage teamwork and conflict resolution can help children develop crucial social skills and learn how to behave appropriately in different situations.</p>\n\n<p>Furthermore, not all children receive adequate guidance on behaviour at home. Some parents may be too busy to dedicate sufficient time to teaching their children proper manners and social etiquette. In other cases, parents may <mark>lack the necessary skills or knowledge</mark> to effectively guide their children's behaviour. In such situations, the school can act as a crucial support system, providing children with the guidance and structure they need to develop into well-rounded individuals. <mark>This is not to say that schools should replace parents</mark>, but rather that they should supplement the efforts of parents and provide additional support where needed.</p>\n\n<p>However, it is important to acknowledge that the primary responsibility for teaching children good behaviour ultimately lies with parents. Parents are the first role models in a child's life, and they have the greatest influence on their children's values and beliefs. Schools can reinforce the values that are taught at home, but they cannot completely compensate for a lack of parental involvement. <mark>It is therefore essential</mark> that parents and schools work together to create a consistent and supportive environment for children to learn and grow.</p>\n\n<p>In conclusion, while parents undoubtedly play a crucial role in teaching children good behaviour, schools also have a significant responsibility in this area. By actively promoting positive values and providing guidance and support, schools can help children develop into responsible and well-behaved members of society. <mark>This collaborative approach</mark>, where both parents and schools work together, is the most effective way to ensure that children receive the comprehensive education they need to thrive.</p>",
+    "sampleBand8": "<p>The question of whether schools should be responsible for teaching children good behaviour, in addition to providing formal education, is a complex one. While the primary function of schools is undoubtedly academic instruction, I strongly believe that instilling positive character traits and ethical conduct is an equally vital, <mark>complementary role</mark> that schools must embrace.</p>\n\n<p>Firstly, the family unit, traditionally considered the primary source of moral guidance, is increasingly facing challenges in the modern world. With both parents often working long hours, and the prevalence of single-parent households, children may not always receive the consistent and comprehensive guidance they need to develop into responsible and well-behaved individuals. Therefore, schools can <mark>effectively supplement</mark> the efforts of parents by explicitly teaching values such as respect, empathy, and honesty. For instance, implementing programmes that promote conflict resolution skills or encourage community service can have a <mark>profound impact</mark> on students' behaviour, both within and outside the school environment. Many schools now incorporate restorative justice practices, which help students understand the impact of their actions and take responsibility for them, fostering a sense of accountability.</p>\n\n<p>Secondly, schools provide a unique social environment where children interact with peers from diverse backgrounds. This setting presents valuable opportunities to learn essential social skills, such as cooperation, teamwork, and tolerance. By creating a <mark>supportive and inclusive</mark> school culture, educators can actively model and reinforce positive behaviours. Moreover, teachers can serve as role models, demonstrating ethical conduct and <mark>exemplifying respectful communication</mark>. Furthermore, schools are uniquely positioned to address issues such as bullying and cyberbullying, which are prevalent in today's society. Educating students about the harmful effects of these behaviours and providing them with strategies to prevent and respond to them is crucial for creating a safe and respectful learning environment. <mark>To illustrate</mark>, anti-bullying workshops and peer mentoring programs can be invaluable tools in promoting positive social interactions and preventing harmful behaviours.</p>\n\n<p>In conclusion, while academic excellence remains a core objective of education, it is equally important for schools to actively contribute to the development of well-rounded individuals with strong moral character. By <mark>integrating character education</mark> into the curriculum and fostering a positive school culture, schools can play a crucial role in shaping the next generation of responsible and ethical citizens. This <mark>holistic approach to education</mark>, which encompasses both academic and behavioural development, is essential for preparing children to thrive in an increasingly complex and interconnected world. <mark>It is therefore my firm conviction</mark> that schools have a significant responsibility to teach children good behaviour, alongside formal education.</p>",
+    "sampleBand9": "<p>The debate surrounding the role of schools in shaping children's behaviour, beyond their academic instruction, is a complex one. While formal education undeniably holds paramount importance, I strongly believe that schools also bear a significant responsibility in nurturing <mark>positive behavioural traits</mark> in students, as these qualities are <mark>intrinsically linked to</mark> their overall development and future success.</p>\n\n<p>Firstly, schools represent a <mark>microcosm of society</mark>. Children spend a considerable portion of their formative years within the school environment, interacting with peers and teachers from diverse backgrounds. This setting provides an ideal platform for learning and internalizing crucial social skills such as empathy, respect, and cooperation. By actively promoting and modelling good behaviour, schools can equip students with the <mark>interpersonal skills</mark> necessary to navigate social complexities and contribute positively to their communities. Neglecting this aspect of education would be a <mark>disservice to</mark> students, potentially hindering their ability to form healthy relationships and function effectively in collaborative settings.</p>\n\n<p>Secondly, instilling good behaviour can directly enhance academic performance. A classroom environment characterized by discipline and mutual respect <mark>fosters a conducive atmosphere</mark> for learning. When students are taught to listen attentively, participate constructively, and resolve conflicts peacefully, teachers can dedicate more time to instruction and less time to managing disruptive behaviour. Moreover, qualities such as diligence, perseverance, and a strong work ethic, which are integral components of good behaviour, are also essential for academic achievement. Therefore, by actively cultivating these traits, schools can <mark>indirectly but significantly</mark> improve students' academic outcomes.</p>\n\n<p>Admittedly, the primary responsibility for shaping a child's behaviour lies with their parents or guardians. However, the influence of the school environment should not be underestimated. In many cases, schools serve as a vital support system, particularly for children from disadvantaged backgrounds where positive role models may be lacking. Furthermore, schools can reinforce the values and principles taught at home, creating a <mark>synergistic effect</mark> that strengthens a child's moral compass. Ultimately, a collaborative effort between parents and schools is crucial for <mark>holistic child development</mark>.</p>\n\n<p>In conclusion, while formal education remains the core function of schools, their role in teaching good behaviour is equally important. By fostering a positive and supportive learning environment, schools can equip students with the social and emotional skills necessary to thrive both academically and personally. Therefore, I firmly believe that schools have a <mark>moral imperative</mark> to prioritize the development of well-rounded individuals who are not only knowledgeable but also responsible and compassionate citizens. The <mark>confluence of</mark> academic excellence and exemplary behaviour should be the <mark>hallmark of</mark> a comprehensive education.</p>",
+    "timeMinutes": 40,
+    "sampleAnswer": "There is an ongoing debate about whether schools should bear responsibility for teaching children good behavior alongside academic subjects. I strongly agree that schools play a vital role in shaping students' conduct and values, and this should be considered an integral part of their educational mission.\n\nFirstly, children spend a significant portion of their formative years in school, making it one of the most influential environments in their lives. Schools provide a structured social setting where children interact with peers and authority figures, offering countless opportunities to learn appropriate behavior. Through classroom rules, group activities, and interactions with teachers, students can develop essential social skills such as respect, cooperation, and conflict resolution.\n\nSecondly, not all children receive adequate behavioral guidance at home. Some parents may lack the time, resources, or skills to instill good values in their children. In such cases, schools can serve as an equalizing force, ensuring that all children, regardless of their home situation, are exposed to positive behavioral models and expectations. Teaching good behavior at school can help compensate for gaps in parental guidance.\n\nHowever, it is important to acknowledge that schools cannot solely be responsible for children's behavior. Parents remain the primary role models and must reinforce at home the values taught at school. A collaborative approach between schools and families would be most effective.\n\nIn conclusion, I firmly believe that teaching good behavior should be considered a core responsibility of schools, working in partnership with parents to develop well-rounded, socially responsible individuals.",
+    "uzSampleBand5": "<p>Maktablar juda muhim. Ular bolalarga o'qish va yozish kabi ko'p narsalarni o'rgatadi. Ammo ba'zi odamlar maktablar bolalarga o'zini yaxshi tutishni ham o'rgatishi kerak deb o'ylashadi. Men bunga <mark>ma'lum darajada</mark> qo'shilaman.</p>\n\n<p>Bolalarga yaxshi xulq-atvorni o'rganish muhim. Agar ular o'rganmasa, boshqa odamlarga qo'pol munosabatda bo'lishi mumkin. Ular o'qituvchilarini tinglamasligi mumkin. <mark>Bu muammolarni keltirib chiqarishi mumkin</mark> sinfda. Agar maktablar yaxshi xulq-atvorni o'rgatsa, bolalar boshqalarga hurmat bilan munosabatda bo'lishni bilishadi. Ular, shuningdek, qoidalarga rioya qilishni o'rganadilar.</p>\n\n<p>Ota-onalar ham o'z rolini o'ynashi kerak. Ular farzandlariga uyda yaxshi odob-axloqni o'rgatishlari kerak. Ammo ba'zida ota-onalar band bo'lishadi. Ularning farzandlariga hamma narsani o'rgatishga vaqti yo'q. <mark>Shunday qilib, maktablar yordam berishi mumkin.</mark> Maktablarda bolalarga ta'lim berish uchun tayyorlangan o'qituvchilar bor. Ular bolalarga baham ko'rish va mehribon bo'lish haqida o'rgatishi mumkin.</p>\n\n<p>Biroq, maktablar faqat xulq-atvorga e'tibor qaratmasligi kerak. Ular, shuningdek, akademik fanlarni o'qitishlari kerak. Bolalar matematika, fizika va tarixni o'rganishlari kerak. Bu fanlar ularning kelajagi uchun muhim. Agar maktablar faqat xulq-atvorni o'rgatsa, bolalar yaxshi ta'lim olmasligi mumkin. <mark>Bu juda yaxshi emas.</mark></p>\n\n<p>Xulosa qilib aytganda, menimcha, maktablar bolalarga yaxshi xulq-atvorni o'rgatishi kerak. Ammo ular, shuningdek, akademik fanlarni o'qitishlari kerak. Ikkalasi ham bolalarning rivojlanishi uchun muhim. Maktablar ota-onalarga yordam berishi mumkin, lekin ota-onalarning ham mas'uliyati bor. Muvozanatni topish muhim.</p>",
+    "uzSampleBand6": "<p>Ko'pincha maktablar nafaqat ta'lim berishi, balki o'quvchilarga o'zini yaxshi tutishni ham o'rgatishi kerakligi aytiladi. Men bu fikrga <mark>qisman qo'shilaman</mark>. Bolaning xarakterini shakllantirishda ota-onalarning asosiy roli bo'lsa-da, maktablar ham muhim rol o'ynaydi.</p>\n\n<p>Bir tomondan, oila - bu bolalar qadriyatlar va axloq haqida birinchi bo'lib o'rganadigan joy. Ota-onalar birinchi namuna bo'ladi va ular bolalariga yaxshi va yomon o'rtasidagi farqni o'rgatadi. <mark>Shuningdek, shuni ham aytish kerakki</mark>, turli oilalar yaxshi xulq-atvor nima ekanligi haqida turli xil tasavvurlarga ega. Shuning uchun maktablar hamma rozi bo'ladigan yagona standartni o'rnatishi qiyin.</p>\n\n<p>Biroq, maktablar - bu bolalar ko'p vaqt o'tkazadigan va boshqa ko'plab odamlar bilan muloqot qiladigan joy. Maktablar o'quvchilarga hamkorlik qilish, boshqalarni hurmat qilish va nizolarni tinch yo'l bilan hal qilish kabi muhim ijtimoiy ko'nikmalarni o'rgatishi mumkin. <mark>Bundan tashqari</mark>, maktablar yaxshi xulq-atvor rag'batlantiriladigan va yomon xulq-atvor jazolanadigan tuzilgan muhitni ta'minlashi mumkin. Bu bolalarga to'g'ri tanlov qilishni o'rganishga yordam beradi.</p>\n\n<p>Albatta, maktablar ota-onalarning o'rnini bosishga urinmasligi kerak. Eng yaxshi yondashuv - bu maktablar va oilalar bolalarga yaxshi xulq-atvorni o'rgatish uchun birgalikda ishlashidir. Ota-onalar bolalarning maktabda olgan saboqlarini mustahkamlashi, maktablar esa bolalarning uyda o'rgangan qadriyatlarini qo'llab-quvvatlashi mumkin. <mark>Bundan tashqari</mark>, maktablar bolalarga fuqarolik va jamiyat oldidagi mas'uliyatlari haqida o'rgatishi mumkin.</p>\n\n<p>Xulosa qilib aytganda, bolalarga o'zini qanday tutishni o'rgatishda ota-onalarning asosiy mas'uliyati bo'lsa-da, maktablar ham muhim rol o'ynaydi. Birgalikda ishlayotgan oilalar va maktablar bolalarga mas'uliyatli va yaxshi xulqli kattalar bo'lib o'sishiga yordam berishi mumkin. <mark>Menimcha, muhim</mark> maktablar o'quvchilari o'rtasida yaxshi xulq-atvorni faol ravishda targ'ib qilishlari kerak.</p>",
+    "uzSampleBand7": "<p>Maktablar nafaqat rasmiy ta'lim berish bilan birga, bolalarga yaxshi xulq-atvorni o'rgatish uchun ham mas'ul bo'lishi kerakmi degan masala ko'plab bahslarga sabab bo'lmoqda. Ba'zilar bu, asosan, ota-onalarning vazifasi deb hisoblasa, men maktablar bolaning xarakterini shakllantirishda va ijobiy qadriyatlarni singdirishda muhim, balki hayotiy rol o'ynashi kerak, deb hisoblayman. <mark>Ancha darajada</mark>, mas'uliyat uy va maktab o'rtasida bo'lishi kerak.</p>\n\n<p>Maktablar yaxshi xulq-atvorni o'rgatishda ishtirok etishi kerak bo'lgan asosiy sabablardan biri shundaki, bolalar vaqtlarining katta qismini maktabda o'tkazadilar. Ushbu shakllanish yillarida ular doimo o'qituvchilari va tengdoshlaridan kuzatadilar va o'rganadilar. <mark>Natijada, maktab muhiti</mark> ularning to'g'ri va noto'g'ri tushunchalarining rivojlanishiga katta ta'sir ko'rsatishi mumkin. Agar maktablar hurmat, hamdardlik va mas'uliyat kabi qadriyatlarni faol ravishda targ'ib qilsa, bolalar bu qadriyatlarni o'zlashtirib, boshqalar bilan munosabatlarida namoyon etishlari ehtimoli ko'proq. Misol uchun, jamoaviy ish va nizolarni hal qilishni rag'batlantiradigan dasturlarni amalga oshirish bolalarga muhim ijtimoiy ko'nikmalarni rivojlantirishga va turli vaziyatlarda o'zini to'g'ri tutishni o'rganishga yordam beradi.</p>\n\n<p>Bundan tashqari, barcha bolalar uyda xulq-atvor bo'yicha yetarli yo'l-yo'riq olmaydilar. Ba'zi ota-onalar farzandlariga to'g'ri odob-axloq qoidalari va ijtimoiy odoblarni o'rgatishga yetarli vaqt ajratishga juda band bo'lishi mumkin. Ba'zi hollarda esa, ota-onalar farzandlarining xulq-atvoriga samarali yo'l-yo'riq ko'rsatish uchun <mark>zarur ko'nikma yoki bilimga ega bo'lmasligi</mark> mumkin. Bunday vaziyatlarda maktab muhim qo'llab-quvvatlash tizimi bo'lib, bolalarni har tomonlama rivojlangan shaxslar sifatida shakllantirish uchun zarur bo'lgan yo'l-yo'riq va tuzilmani ta'minlaydi. <mark>Bu maktablar ota-onalarning o'rnini bosishi kerak degani emas</mark>, balki ular ota-onalarning sa'y-harakatlarini to'ldirishi va zarur bo'lganda qo'shimcha yordam berishi kerak.</p>\n\n<p>Biroq, bolalarga yaxshi xulq-atvorni o'rgatish bo'yicha asosiy mas'uliyat, oxir-oqibat, ota-onalarga yuklanishini tan olish muhim. Ota-onalar bolaning hayotidagi birinchi namunalardir va ular farzandlarining qadriyatlari va e'tiqodlariga eng katta ta'sir ko'rsatadi. Maktablar uyda o'rgatilgan qadriyatlarni mustahkamlashi mumkin, lekin ular ota-onalarning ishtiroki yo'qligini to'liq qoplashga qodir emas. <mark>Shuning uchun muhimdir</mark> ota-onalar va maktablar bolalarning o'rganishi va o'sishi uchun barqaror va qo'llab-quvvatlovchi muhit yaratish uchun birgalikda ishlashi.</p>\n\n<p>Xulosa qilib aytganda, ota-onalar bolalarga yaxshi xulq-atvorni o'rgatishda shubhasiz muhim rol o'ynasa-da, maktablar ham bu sohada katta mas'uliyatga ega. Ijobiy qadriyatlarni faol ravishda targ'ib qilish va yo'l-yo'riq hamda yordam berish orqali maktablar bolalarga jamiyatning mas'uliyatli va yaxshi xulqli a'zolariga aylanishiga yordam berishi mumkin. <mark>Ushbu hamkorlik yondashuvi</mark>, bunda ota-onalar ham, maktablar ham birgalikda ishlaydi, bolalarning rivojlanishi uchun zarur bo'lgan har tomonlama ta'limni olishini ta'minlashning eng samarali usulidir.</p>",
+    "uzSampleBand8": "<p>Maktablar rasmiy ta'lim berish bilan bir qatorda bolalarga yaxshi xulq-atvorni o'rgatish uchun ham mas'ul bo'lishi kerakmi degan savol murakkab masala. Maktablarning asosiy vazifasi shubhasiz akademik ta'lim bo'lsa-da, men ijobiy xarakter xususiyatlarini va axloqiy xulq-atvorni singdirish maktablar qabul qilishi kerak bo'lgan <mark>qo'shimcha muhim rol</mark> ekanligiga qat'iy ishonaman.</p>\n\n<p>Birinchidan, an'anaviy ravishda axloqiy yo'l-yo'riqning asosiy manbai hisoblangan oila zamonaviy dunyoda tobora ko'proq muammolarga duch kelmoqda. Ota-onalarning ikkalasi ham ko'pincha uzoq soatlar davomida ishlayotgani va to'liqsiz oilalar keng tarqalganligi sababli, bolalar mas'uliyatli va yaxshi xulqli shaxslar sifatida rivojlanishlari uchun zarur bo'lgan doimiy va har tomonlama yo'l-yo'riqni har doim ham olmasligi mumkin. Shuning uchun maktablar hurmat, hamdardlik va halollik kabi qadriyatlarni aniq o'rgatish orqali ota-onalarning sa'y-harakatlarini <mark>samarali to'ldirishi</mark> mumkin. Misol uchun, nizolarni hal qilish ko'nikmalarini rivojlantirishga yoki jamiyatga xizmat qilishni rag'batlantirishga qaratilgan dasturlarni amalga oshirish talabalarning xulq-atvoriga maktab ichida ham, tashqarisida ham <mark>kuchli ta'sir</mark> ko'rsatishi mumkin. Ko'pgina maktablar hozirda tiklovchi adolat amaliyotlarini joriy qilmoqda, bu talabalarga o'z harakatlarining ta'sirini tushunishga va ular uchun javobgarlikni o'z zimmasiga olishga yordam beradi va hisobdorlik tuyg'usini rivojlantiradi.</p>\n\n<p>Ikkinchidan, maktablar bolalar turli xil kelib chiqishi bo'lgan tengdoshlari bilan muloqot qiladigan noyob ijtimoiy muhitni ta'minlaydi. Ushbu muhit hamkorlik, jamoaviy ish va bag'rikenglik kabi muhim ijtimoiy ko'nikmalarni o'rganish uchun qimmatli imkoniyatlarni taqdim etadi. <mark>Qo'llab-quvvatlovchi va inklyuziv</mark> maktab madaniyatini yaratish orqali o'qituvchilar ijobiy xatti-harakatlarni faol ravishda modellashtirishi va mustahkamlashi mumkin. Bundan tashqari, o'qituvchilar axloqiy xulq-atvorni namoyish etuvchi va <mark>hurmatli muloqotga misol bo'luvchi</mark> rol o'ynashi mumkin. Bundan tashqari, maktablar bugungi kunda keng tarqalgan tahqirlash va kiber tahqirlash kabi muammolarni hal qilish uchun noyob imkoniyatga ega. Talabalarni ushbu xatti-harakatlarning zararli oqibatlari haqida o'qitish va ularga oldini olish va javob berish strategiyalari bilan ta'minlash xavfsiz va hurmatli o'quv muhitini yaratish uchun juda muhimdir. <mark>Misol keltiradigan bo'lsak</mark>, tahqirlashga qarshi seminarlar va tengdoshlar mentorlik dasturlari ijobiy ijtimoiy munosabatlarni rivojlantirish va zararli xatti-harakatlarning oldini olishda bebaho vosita bo'lishi mumkin.</p>\n\n<p>Xulosa qilib aytganda, akademik mukammallik ta'limning asosiy maqsadi bo'lib qolayotgan bo'lsa-da, maktablar kuchli axloqiy xarakterga ega bo'lgan har tomonlama rivojlangan shaxslarning rivojlanishiga faol hissa qo'shishi ham muhimdir. <mark>Xarakterli ta'limni</mark> o'quv dasturiga integratsiya qilish va ijobiy maktab madaniyatini rivojlantirish orqali maktablar mas'uliyatli va axloqli fuqarolarning keyingi avlodini shakllantirishda muhim rol o'ynashi mumkin. Akademik va xulq-atvor rivojlanishini o'z ichiga olgan ushbu <mark>ta'limga yaxlit yondashuv</mark> bolalarni tobora murakkab va o'zaro bog'liq dunyoda gullab-yashnashga tayyorlash uchun zarurdir. <mark>Shuning uchun men qat'iy ishonamanki</mark>, maktablar rasmiy ta'lim bilan bir qatorda bolalarga yaxshi xulq-atvorni o'rgatish uchun muhim mas'uliyatga ega.</p>",
+    "uzSampleBand9": "<p>Maktablarning bolalar xulq-atvorini shakllantirishdagi roli, ularning akademik ta'limidan tashqari, murakkab bahs mavzusi. Rasmiy ta'limning ahamiyati inkor etib bo'lmas darajada yuqori bo'lsa-da, men maktablar o'quvchilarda <mark>ijobiy xulq-atvor xususiyatlarini</mark> rivojlantirishda ham muhim mas'uliyatga ega deb hisoblayman, chunki bu sifatlar ularning umumiy rivojlanishi va kelajakdagi muvaffaqiyatlari bilan <mark>chambarchas bog'liq</mark>.</p>\n\n<p>Birinchidan, maktablar jamiyatning <mark>kichik bir modeli</mark> hisoblanadi. Bolalar o'zlarining shakllanish yillarining katta qismini maktab muhitida o'tkazadilar, turli xil kelib chiqishi bo'lgan tengdoshlari va o'qituvchilari bilan muloqot qilishadi. Bu muhit hamdardlik, hurmat va hamkorlik kabi muhim ijtimoiy ko'nikmalarni o'rganish va o'zlashtirish uchun ideal platformani taqdim etadi. Maktablar yaxshi xulq-atvorni faol ravishda targ'ib qilish va modellashtirish orqali talabalarni ijtimoiy murakkabliklarni hal qilish va o'z jamoalariga ijobiy hissa qo'shish uchun zarur bo'lgan <mark>shaxslararo ko'nikmalar</mark> bilan ta'minlashi mumkin. Ta'limning bu jihatiga e'tibor bermaslik talabalarga nisbatan <mark>yomonlik qilish</mark> bo'ladi, bu ularning sog'lom munosabatlar o'rnatish va hamkorlik muhitida samarali ishlash qobiliyatiga to'sqinlik qilishi mumkin.</p>\n\n<p>Ikkinchidan, yaxshi xulq-atvorni singdirish akademik ko'rsatkichlarni bevosita yaxshilashi mumkin. Intizom va o'zaro hurmatga asoslangan sinf muhiti o'rganish uchun <mark>qulay muhitni yaratadi</mark>. Talabalar diqqat bilan tinglash, konstruktiv ishtirok etish va nizolarni tinch yo'l bilan hal qilishga o'rgatilganda, o'qituvchilar dars berishga ko'proq vaqt ajratishi va buzuvchi xatti-harakatlarni boshqarishga kamroq vaqt sarflashi mumkin. Bundan tashqari, tirishqoqlik, qat'iyatlilik va kuchli ish axloqi kabi sifatlar, yaxshi xulq-atvorning ajralmas qismlari bo'lib, akademik yutuqlar uchun ham zarurdir. Shuning uchun, bu xususiyatlarni faol ravishda rivojlantirish orqali maktablar talabalarning akademik natijalarini <mark>bilvosita, lekin sezilarli darajada</mark> yaxshilashi mumkin.</p>\n\n<p>Tan olish kerakki, bolaning xulq-atvorini shakllantirish uchun asosiy mas'uliyat ularning ota-onalari yoki vasiylariga yuklatiladi. Biroq, maktab muhitining ta'sirini kam baholamaslik kerak. Ko'p hollarda maktablar muhim yordam tizimi bo'lib xizmat qiladi, ayniqsa ijobiy rol modellari etishmayotgan kam ta'minlangan oilalardan chiqqan bolalar uchun. Bundan tashqari, maktablar uyda o'rgatilgan qadriyatlar va tamoyillarni mustahkamlashi, bolaning axloqiy kompasini kuchaytiradigan <mark>sinergik effektni</mark> yaratishi mumkin. Oxir oqibat, ota-onalar va maktablar o'rtasidagi hamkorlik bolaning <mark>har tomonlama rivojlanishi</mark> uchun juda muhimdir.</p>\n\n<p>Xulosa qilib aytganda, rasmiy ta'lim maktablarning asosiy vazifasi bo'lib qolayotgan bo'lsa-da, ularning yaxshi xulq-atvorni o'rgatishdagi roli ham muhimdir. Ijobiy va qo'llab-quvvatlovchi o'quv muhitini yaratish orqali maktablar talabalarni ham akademik, ham shaxsiy jihatdan rivojlanish uchun zarur bo'lgan ijtimoiy va hissiy ko'nikmalar bilan ta'minlashi mumkin. Shuning uchun, men maktablar nafaqat bilimli, balki mas'uliyatli va rahm-shafqatli fuqarolar bo'lgan har tomonlama rivojlangan shaxslarni rivojlantirishga ustuvor ahamiyat berishi <mark>axloqiy zarurat</mark> deb qat'iy ishonaman. Akademik mukammallik va namunali xulq-atvorning <mark>qo'shilishi</mark> har tomonlama ta'limning <mark>ajralmas belgisi</mark> bo'lishi kerak.</p>"
+   }
+  },
+  "source": "Cambridge IELTS 17",
+  "examDate": "2023-11-04",
+  "settings": {
+   "timeInfo": "60 Minutes",
+   "moduleTitle": "Academic Writing Module",
+   "testIdentifier": "Mock 21"
+  },
+  "vocabulary": {
+   "task1": [
+    {
+     "term": "Production levels",
+     "meaning": "The amount of goods manufactured or output achieved."
+    },
+    {
+     "term": "Variable trends",
+     "meaning": "Patterns that change or fluctuate over time."
+    },
+    {
+     "term": "Fluctuated",
+     "meaning": "Rose and fell irregularly in number or amount."
+    },
+    {
+     "term": "Consistent growth",
+     "meaning": "A steady and reliable increase over time."
+    },
+    {
+     "term": "Surpassing",
+     "meaning": "Exceeding or going beyond in amount or quality."
+    },
+    {
+     "term": "Dominant product",
+     "meaning": "The leading or most important item in a category."
+    },
+    {
+     "term": "Hovering around",
+     "meaning": "Remaining at or near a particular level."
+    },
+    {
+     "term": "Reversal",
+     "meaning": "A change to an opposite direction, position, or course of action."
+    }
+   ],
+   "task2": [
+    {
+     "term": "Ongoing debate",
+     "meaning": "A discussion or argument that continues over time."
+    },
+    {
+     "term": "Formative years",
+     "meaning": "The period during which a person's character is developed."
+    },
+    {
+     "term": "Influential environments",
+     "meaning": "Settings that have a significant effect on development."
+    },
+    {
+     "term": "Conflict resolution",
+     "meaning": "Methods of ending a disagreement in a peaceful way."
+    },
+    {
+     "term": "Equalizing force",
+     "meaning": "Something that creates fairness or balance."
+    },
+    {
+     "term": "Compensate for gaps",
+     "meaning": "To make up for deficiencies or shortcomings."
+    },
+    {
+     "term": "Collaborative approach",
+     "meaning": "Working together with others to achieve a goal."
+    },
+    {
+     "term": "Well-rounded individuals",
+     "meaning": "People who are fully developed in all aspects."
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "Furthermore": {
+    "uz": "Bundan tashqari",
+    "type": "linking"
+   },
+   "In addition": {
+    "uz": "Qo'shimcha ravishda",
+    "type": "linking"
+   },
+   "In contrast": {
+    "uz": "Farqli o'laroq",
+    "type": "linking"
+   },
+   "hallmark of": {
+    "uz": "ning o'ziga xos belgisi",
+    "type": "lexical"
+   },
+   "To illustrate": {
+    "uz": "Misol uchun",
+    "type": "linking"
+   },
+   "confluence of": {
+    "uz": "qo'shilishi / tutashuvi",
+    "type": "lexical"
+   },
+   "disservice to": {
+    "uz": "nisbatan yomonlik / xizmat qilmaslik",
+    "type": "lexical"
+   },
+   "somewhat agree": {
+    "uz": "qisman qo'shilaman",
+    "type": "colloc"
+   },
+   "to some extent": {
+    "uz": "qisman",
+    "type": "academic"
+   },
+   "noticeable that": {
+    "uz": "shuni ta'kidlash joizki",
+    "type": "academic"
+   },
+   "profound impact": {
+    "uz": "chuqur ta'sir",
+    "type": "lexical"
+   },
+   "initial overview": {
+    "uz": "dastlabki umumiy ko'rinish",
+    "type": "academic"
+   },
+   "moral imperative": {
+    "uz": "axloqiy majburiyat",
+    "type": "lexical"
+   },
+   "complementary role": {
+    "uz": "bir-birini to'ldiruvchi rol",
+    "type": "lexical"
+   },
+   "increased steadily": {
+    "uz": "doimiy ravishda oshdi",
+    "type": "academic"
+   },
+   "it decreased a lot": {
+    "uz": "u juda kamaydi",
+    "type": "colloc"
+   },
+   "synergistic effect": {
+    "uz": "sinergetik ta'sir",
+    "type": "lexical"
+   },
+   "were quite similar": {
+    "uz": "juda o'xshash edi",
+    "type": "colloc"
+   },
+   "It is also true that": {
+    "uz": "Shuni ham aytish kerakki",
+    "type": "academic"
+   },
+   "So schools can help.": {
+    "uz": "Shunday qilib, maktablar yordam berishi mumkin.",
+    "type": "colloc"
+   },
+   "interpersonal skills": {
+    "uz": "shaxslararo ko'nikmalar",
+    "type": "lexical"
+   },
+   "microcosm of society": {
+    "uz": "jamiyatning mikrokosmi",
+    "type": "lexical"
+   },
+   "but then it went down": {
+    "uz": "lekin keyin pasayib ketdi",
+    "type": "colloc"
+   },
+   "evident from the data": {
+    "uz": "ma'lumotlardan ko'rinib turibdi",
+    "type": "academic"
+   },
+   "throughout the period": {
+    "uz": "davr mobaynida",
+    "type": "academic"
+   },
+   "As a final observation": {
+    "uz": "Xulosa sifatida aytganda",
+    "type": "linking"
+   },
+   "This can make problems": {
+    "uz": "Bu muammolarni keltirib chiqarishi mumkin",
+    "type": "colloc"
+   },
+   "This is not very good.": {
+    "uz": "Bu juda yaxshi emas.",
+    "type": "colloc"
+   },
+   "effectively supplement": {
+    "uz": "samarali ravishda to'ldirish",
+    "type": "academic"
+   },
+   "illustrates the trends": {
+    "uz": "tendentsiyalarni tasvirlaydi",
+    "type": "academic"
+   },
+   "in a country in Europe": {
+    "uz": "Yevropadagi bir mamlakatda",
+    "type": "colloc"
+   },
+   "underwent a resurgence": {
+    "uz": "qayta tiklanishni boshdan kechirdi",
+    "type": "academic"
+   },
+   "didn't change very much": {
+    "uz": "unchalik o'zgarmadi",
+    "type": "colloc"
+   },
+   "intrinsically linked to": {
+    "uz": "o'z-o'zidan bog'liq",
+    "type": "lexical"
+   },
+   "To a considerable extent": {
+    "uz": "Ancha darajada",
+    "type": "academic"
+   },
+   "stayed relatively stable": {
+    "uz": "nisbatan barqaror bo'lib qoldi",
+    "type": "academic"
+   },
+   "supportive and inclusive": {
+    "uz": "qo'llab-quvvatlovchi va inklyuziv",
+    "type": "lexical"
+   },
+   "I believe it is important": {
+    "uz": "Menimcha, bu muhim",
+    "type": "academic"
+   },
+   "It is therefore essential": {
+    "uz": "Shuning uchun bu zarur",
+    "type": "academic"
+   },
+   "over a twenty-year period": {
+    "uz": "yigirma yillik davr mobaynida",
+    "type": "academic"
+   },
+   "holistic child development": {
+    "uz": "bolaning yaxlit rivojlanishi",
+    "type": "lexical"
+   },
+   "relatively inconsequential": {
+    "uz": "nisbatan ahamiyatsiz",
+    "type": "academic"
+   },
+   "significantly outstripping": {
+    "uz": "sezilarli darajada o'zib ketmoqda",
+    "type": "academic"
+   },
+   "This collaborative approach": {
+    "uz": "Bu hamkorlik yondashuvi",
+    "type": "academic"
+   },
+   "positive behavioural traits": {
+    "uz": "ijobiy xulq-atvor xususiyatlari",
+    "type": "lexical"
+   },
+   "underwent a marked decrease": {
+    "uz": "sezilarli pasayishni boshdan kechirdi",
+    "type": "academic"
+   },
+   "witnessed a steady downturn": {
+    "uz": "doimiy pasayishga guvoh bo'ldi",
+    "type": "academic"
+   },
+   "indirectly but significantly": {
+    "uz": "bilvosita, lekin sezilarli darajada",
+    "type": "academic"
+   },
+   "albeit with some oscillations": {
+    "uz": "garchi ba'zi tebranishlar bilan bo'lsa ham",
+    "type": "academic"
+   },
+   "experienced a general increase": {
+    "uz": "umumiy o'sishni boshdan kechirdi",
+    "type": "academic"
+   },
+   "fosters a conducive atmosphere": {
+    "uz": "qulay muhit yaratadi",
+    "type": "academic"
+   },
+   "holistic approach to education": {
+    "uz": "ta'limga yaxlit yondashuv",
+    "type": "lexical"
+   },
+   "integrating character education": {
+    "uz": "xarakterni tarbiyalashni integratsiya qilish",
+    "type": "lexical"
+   },
+   "demonstrating substantial growth": {
+    "uz": "sezilarli o'sishni namoyish etmoqda",
+    "type": "academic"
+   },
+   "displayed a degree of volatility": {
+    "uz": "o'zgaruvchanlik darajasini namoyish etdi",
+    "type": "academic"
+   },
+   "experienced a notable contraction": {
+    "uz": "sezilarli qisqarishni boshdan kechirdi",
+    "type": "academic"
+   },
+   "It is therefore my firm conviction": {
+    "uz": "Shuning uchun men qat'iy ishonaman",
+    "type": "academic"
+   },
+   "represented a substantial increase": {
+    "uz": "sezilarli o'sishni ifodaladi",
+    "type": "academic"
+   },
+   "albeit with some minor oscillations": {
+    "uz": "garchi biroz tebranishlar bilan bo'lsa ham",
+    "type": "academic"
+   },
+   "exhibited a consistent upward trend": {
+    "uz": "doimiy o'sish tendentsiyasini namoyish etdi",
+    "type": "academic"
+   },
+   "underwent a period of ups and downs": {
+    "uz": "ko'tarilish va pasayish davrini boshdan kechirdi",
+    "type": "academic"
+   },
+   "Consequently, the school environment": {
+    "uz": "Natijada, maktab muhiti",
+    "type": "academic"
+   },
+   "exemplifying respectful communication": {
+    "uz": "hurmatli muloqotni namuna qilib ko'rsatish",
+    "type": "academic"
+   },
+   "demonstrated a more consistent pattern": {
+    "uz": "yanada izchil naqsh namoyish etdi",
+    "type": "academic"
+   },
+   "lack the necessary skills or knowledge": {
+    "uz": "kerakli ko'nikmalar yoki bilimga ega emas",
+    "type": "academic"
+   },
+   "exhibited a pronounced upward trajectory": {
+    "uz": "aniq yuqoriga ko'tarilish traektoriyasini namoyish etdi",
+    "type": "academic"
+   },
+   "depicts the fluctuating production levels": {
+    "uz": "ishlab chiqarishning o'zgaruvchan darajalarini tasvirlaydi",
+    "type": "academic"
+   },
+   "illustrates the fluctuating production levels": {
+    "uz": "ishlab chiqarishning o'zgaruvchan darajalarini tasvirlaydi",
+    "type": "academic"
+   },
+   "This is not to say that schools should replace parents": {
+    "uz": "Bu maktablar ota-onalarning o'rnini bosishi kerak degani emas",
+    "type": "academic"
+   }
+  }
+ },
+ "created_at": "2026-05-06T17:28:56.313197+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

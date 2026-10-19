@@ -1,0 +1,798 @@
+{
+ "id": 380,
+ "mock_type": "cefr-reading",
+ "mock_number": 39,
+ "title": "CEFR B1-B2-C1 Reading Test 39",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "gap-fill-text",
+    "title": "Part 1",
+    "answers": {
+     "1": [
+      "scientists"
+     ],
+     "2": [
+      "earthquakes"
+     ],
+     "3": [
+      "tectonic"
+     ],
+     "4": [
+      "category"
+     ],
+     "5": [
+      "seismologist"
+     ],
+     "6": [
+      "quakes"
+     ]
+    },
+    "passage": {
+     "title": "Earthquakes",
+     "content": "<p>Scientists say we need a new category for earthquakes. This is because tectonic activity is causing more powerful quakes. The <span class=\"gap\" data-gap=\"1\">_____</span> want to extend the current 1 to 10 scale used to measure earthquakes. A category 10 is currently the strongest. This is when magnitudes reach 9.0 on the Richter scale. The scientists say a new category of 11 is needed for magnitudes of over 9.5. They say that in the past decade, there have been several <span class=\"gap\" data-gap=\"2\">_____</span> that would be a category 11. Earthquakes can occur anywhere in the world, but are most common along <span class=\"gap\" data-gap=\"3\">_____</span> plate boundaries.</p><p>A seismologist said the USA's Geological Survey would need to start researching intense quakes to create the <span class=\"gap\" data-gap=\"4\">_____</span> 11. He wants more discussions, &quot;about how to better prepare for risk in a tectonically active world&quot;. He said human activities, such as mining and reservoir-induced seismicity, are increasing the chances of stronger quakes. This is causing more energy to be released, which makes earthquakes more powerful. The <span class=\"gap\" data-gap=\"5\">_____</span> thinks there will be more &quot;mega-quakes&quot; in the future. He said: &quot;These <span class=\"gap\" data-gap=\"6\">_____</span> keep getting stronger as tectonic activities increase.&quot;</p>"
+    },
+    "questions": [
+     {
+      "id": 1,
+      "hint": "The _____ want to extend the current scale"
+     },
+     {
+      "id": 2,
+      "hint": "there have been several _____"
+     },
+     {
+      "id": 3,
+      "hint": "most common along _____ plate boundaries"
+     },
+     {
+      "id": 4,
+      "hint": "create the _____ 11"
+     },
+     {
+      "id": 5,
+      "hint": "The _____ thinks there will be more mega-quakes"
+     },
+     {
+      "id": 6,
+      "hint": "These _____ keep getting stronger"
+     }
+    ],
+    "partNumber": 1,
+    "instruction": "Read the text. Fill in each gap with ONE word. You must use a word which is somewhere in the rest of the text.",
+    "explanations": {
+     "q1": {
+      "text": "The first sentence introduces the 'scientists' who believe a new category is needed. The sentence with the gap refers to this same group of people who want to change the scale. That's why the correct answer is 'scientists'.",
+      "quote": "Scientists say we need a new category for earthquakes."
+     },
+     "q2": {
+      "text": "The passage discusses creating a new category for very powerful earthquakes. The sentence with the gap refers to recent seismic events that would have fit into this new, higher category. That's why the correct answer is 'earthquakes'.",
+      "quote": "The scientists say a new category of 11 is needed for magnitudes of over 9.5."
+     },
+     "q3": {
+      "text": "The passage states that 'tectonic activity' is causing stronger quakes. The sentence with the gap uses the same adjective to describe the specific type of plate boundaries where earthquakes are common. That's why the correct answer is 'tectonic'.",
+      "quote": "This is because tectonic activity is causing more powerful quakes."
+     },
+     "q4": {
+      "text": "The text repeatedly mentions the need for a 'new category' for earthquakes, specifically a 'category of 11'. The sentence with the gap refers to the action of creating this new classification. That's why the correct answer is 'category'.",
+      "quote": "The scientists say a new category of 11 is needed for magnitudes of over 9.5."
+     },
+     "q5": {
+      "text": "The passage introduces a 'seismologist' who discusses the need for more research. The sentence with the gap continues to describe this same expert's opinion about future seismic events. That's why the correct answer is 'seismologist'.",
+      "quote": "A seismologist said the USA's Geological Survey would need to start researching intense quakes to create the _____ 11."
+     },
+     "q6": {
+      "text": "The seismologist predicts more 'mega-quakes' in the future. The final sentence is a direct quote from him, continuing this thought by using 'quakes', a shortened form of 'earthquakes'. That's why the correct answer is 'quakes'.",
+      "quote": "This is causing more energy to be released, which makes earthquakes more powerful."
+     }
+    },
+    "questionRange": "1-6"
+   },
+   {
+    "type": "matching",
+    "texts": [
+     {
+      "title": "Q7",
+      "number": 7,
+      "content": "The FlexiPad Pro is a versatile 2-in-1 device that can function both as a laptop and a tablet. With its detachable keyboard and touchscreen, it's perfect for those who need flexibility in their computing tasks."
+     },
+     {
+      "title": "Q8",
+      "number": 8,
+      "content": "Built to last, the RuggedBook 14 is designed to withstand harsh conditions. Whether you're working outdoors or in a demanding environment, this laptop's reinforced chassis and water-resistant keyboard offer superior durability."
+     },
+     {
+      "title": "Q9",
+      "number": 9,
+      "content": "The MacBook Air M2 is perfect for those who are deeply integrated into the Apple ecosystem. With seamless connectivity to other Apple devices, including iPhones and iPads, this laptop offers a smooth and intuitive experience."
+     },
+     {
+      "title": "Q10",
+      "number": 10,
+      "content": "Equipped with a 17-inch 4K display, the DesignPro 17 is the ideal choice for graphic designers and visual artists. Its high-resolution screen ensures that every detail is crystal clear, and the powerful GPU accelerates rendering tasks."
+     },
+     {
+      "title": "Q11",
+      "number": 11,
+      "content": "For gamers and multimedia enthusiasts, the PowerPlay X15 delivers high-end performance with its latest Intel i9 processor and NVIDIA RTX graphics card. It's built to handle demanding games and multimedia tasks with ease, offering a truly immersive experience."
+     },
+     {
+      "title": "Q12",
+      "number": 12,
+      "content": "The StudyMate Pro is tailored for students who need a reliable yet affordable laptop. With a balance of performance and price, it comes with the essential features for studying, such as a comfortable keyboard, a clear display, and a long battery life."
+     },
+     {
+      "title": "Q13",
+      "number": 13,
+      "content": "SecurePro Business is tailored for professionals who prioritize security in an affordable price. It features advanced encryption, fingerprint scanning, and secure boot options, making it the ideal choice for business users where data protection is critical."
+     },
+     {
+      "title": "Q14",
+      "number": 14,
+      "content": "Weighing just under 2 pounds, the TravelMate Ultra is designed for those who are constantly on the go. Its slim profile and lightweight build make it the perfect companion for frequent travelers. With up to 10 hours of battery life, it ensures you stay powered throughout the day."
+     }
+    ],
+    "title": "Part 2",
+    "answers": {
+     "7": [
+      "I"
+     ],
+     "8": [
+      "F"
+     ],
+     "9": [
+      "G"
+     ],
+     "10": [
+      "E"
+     ],
+     "11": [
+      "B"
+     ],
+     "12": [
+      "C"
+     ],
+     "13": [
+      "D"
+     ],
+     "14": [
+      "A"
+     ]
+    },
+    "questions": [
+     {
+      "id": 7,
+      "textNumber": 7
+     },
+     {
+      "id": 8,
+      "textNumber": 8
+     },
+     {
+      "id": 9,
+      "textNumber": 9
+     },
+     {
+      "id": 10,
+      "textNumber": 10
+     },
+     {
+      "id": 11,
+      "textNumber": 11
+     },
+     {
+      "id": 12,
+      "textNumber": 12
+     },
+     {
+      "id": 13,
+      "textNumber": 13
+     },
+     {
+      "id": 14,
+      "textNumber": 14
+     }
+    ],
+    "partNumber": 2,
+    "statements": [
+     {
+      "text": "You require a highly portable laptop that is lightweight and ideal for frequent travel.",
+      "letter": "A"
+     },
+     {
+      "text": "You are in search of a high-performance laptop capable of handling intensive gaming and multimedia applications.",
+      "letter": "B"
+     },
+     {
+      "text": "You prioritize a laptop with exceptional battery longevity, suitable for prolonged use without access to power sources.",
+      "letter": "C"
+     },
+     {
+      "text": "You seek a cost-effective laptop that offers essential features, making it an excellent choice for students on a budget.",
+      "letter": "D"
+     },
+     {
+      "text": "You need a laptop with an expansive, high-definition display tailored for graphic design and detailed visual work.",
+      "letter": "E"
+     },
+     {
+      "text": "You are looking for a robustly built laptop, engineered to withstand rigorous and demanding usage.",
+      "letter": "F"
+     },
+     {
+      "text": "You require a laptop that seamlessly integrates within the Apple ecosystem, enhancing connectivity with other Apple devices.",
+      "letter": "G"
+     },
+     {
+      "text": "You prefer a laptop equipped with sophisticated security features, designed for professional and business environments.",
+      "letter": "H"
+     },
+     {
+      "text": "You are interested in a versatile 2-in-1 laptop that also functions as a tablet for enhanced flexibility.",
+      "letter": "I"
+     },
+     {
+      "text": "You prioritize a laptop that is optimized for seamless video conferencing and virtual meetings, ensuring superior online communication.",
+      "letter": "J"
+     }
+    ],
+    "instruction": "Read the texts 7-14 and the statements A-J. Decide which text matches with the situation described in the statements. Each statement can be used ONCE only. There are TWO extra statements which you do not need to use.",
+    "explanations": {
+     "q7": {
+      "text": "The passage describes the FlexiPad Pro as a 'versatile 2-in-1 device' that can be used as both a laptop and a tablet for flexibility. That's why the correct answer is I.",
+      "quote": "The FlexiPad Pro is a versatile 2-in-1 device that can function both as a laptop and a tablet."
+     },
+     "q8": {
+      "text": "The text states this laptop is 'built to last' and designed to 'withstand harsh conditions,' which means it is robust and engineered for demanding use. That's why the correct answer is F.",
+      "quote": "Built to last, the RuggedBook 14 is designed to withstand harsh conditions."
+     },
+     "q9": {
+      "text": "The passage says this laptop is perfect for those 'deeply integrated into the Apple ecosystem' because of its 'seamless connectivity to other Apple devices'. That's why the correct answer is G.",
+      "quote": "The MacBook Air M2 is perfect for those who are deeply integrated into the Apple ecosystem."
+     },
+     "q10": {
+      "text": "This laptop is described as the 'ideal choice for graphic designers and visual artists' because of its large, '17-inch 4K display' for detailed visual work. That's why the correct answer is E.",
+      "quote": "Equipped with a 17-inch 4K display, the DesignPro 17 is the ideal choice for graphic designers and visual artists."
+     },
+     "q11": {
+      "text": "The passage states this laptop is for 'gamers and multimedia enthusiasts' and is built to 'handle demanding games and multimedia tasks,' indicating high performance. That's why the correct answer is B.",
+      "quote": "It's built to handle demanding games and multimedia tasks with ease, offering a truly immersive experience."
+     },
+     "q12": {
+      "text": "The passage lists 'a long battery life' as one of the essential features of this laptop, making it suitable for prolonged use without access to power. That's why the correct answer is C.",
+      "quote": ""
+     },
+     "q13": {
+      "text": "The passage mentions that this laptop is available at an 'affordable price,' which directly corresponds to the description of a 'cost-effective laptop'. That's why the correct answer is D.",
+      "quote": "SecurePro Business is tailored for professionals who prioritize security in an affordable price."
+     },
+     "q14": {
+      "text": "The text describes this laptop as having a 'lightweight build' and being the 'perfect companion for frequent travelers,' matching the need for a highly portable device. That's why the correct answer is A.",
+      "quote": "Its slim profile and lightweight build make it the perfect companion for frequent travelers."
+     }
+    },
+    "questionRange": "7-14",
+    "extraStatements": [
+     "H",
+     "J"
+    ],
+    "statementsFirst": true
+   },
+   {
+    "type": "matching-headings",
+    "title": "Part 3",
+    "answers": {
+     "15": [
+      "E"
+     ],
+     "16": [
+      "H"
+     ],
+     "17": [
+      "D"
+     ],
+     "18": [
+      "B"
+     ],
+     "19": [
+      "C"
+     ],
+     "20": [
+      "G"
+     ]
+    },
+    "passage": {
+     "title": "Mixed Descriptions",
+     "paragraphs": [
+      {
+       "number": "15",
+       "content": "If you go to the Insular Mountain Range of Vancouver Island and face the open Pacific Ocean, be ready to experience the magnificent natural and cultural heritage of Canada's west coast ... breathtaking beaches that make this an island paradise.",
+       "questionId": 15
+      },
+      {
+       "number": "16",
+       "content": "The resort town of Whistler ... popular among tourists for adventure ... one of the best destinations in the world for first-class skiing.",
+       "questionId": 16
+      },
+      {
+       "number": "17",
+       "content": "A prized national treasure, Banff National Park ... one of five national parks ... attracts millions ...",
+       "questionId": 17
+      },
+      {
+       "number": "18",
+       "content": "Niagara Falls ... partly a small-scale Las Vegas and a theme park ... region as a whole is worth deeper exploration.",
+       "questionId": 18
+      },
+      {
+       "number": "19",
+       "content": "Tourists are naturally drawn to tall buildings where they can get a bird's eye view ... CN Tower ... glass-floored outdoor observation deck ...",
+       "questionId": 19
+      },
+      {
+       "number": "20",
+       "content": "The 300 km long Cabot Trail ... especially popular in the fall ...",
+       "questionId": 20
+      }
+     ]
+    },
+    "headings": [
+     {
+      "text": "Musical performance",
+      "letter": "A"
+     },
+     {
+      "text": "Captivating landscape",
+      "letter": "B"
+     },
+     {
+      "text": "Ideal holidays",
+      "letter": "C"
+     },
+     {
+      "text": "Girl's portrait",
+      "letter": "D"
+     },
+     {
+      "text": "Family-friendly film",
+      "letter": "E"
+     },
+     {
+      "text": "Thrilling hobby",
+      "letter": "F"
+     },
+     {
+      "text": "Vibrant festival",
+      "letter": "G"
+     },
+     {
+      "text": "Engaging book",
+      "letter": "H"
+     }
+    ],
+    "questions": [
+     {
+      "id": 15,
+      "text": "Paragraph I"
+     },
+     {
+      "id": 16,
+      "text": "Paragraph II"
+     },
+     {
+      "id": 17,
+      "text": "Paragraph III"
+     },
+     {
+      "id": 18,
+      "text": "Paragraph IV"
+     },
+     {
+      "id": 19,
+      "text": "Paragraph V"
+     },
+     {
+      "id": 20,
+      "text": "Paragraph VI"
+     }
+    ],
+    "partNumber": 3,
+    "instruction": "Read the text and choose the correct heading for each paragraph from the list of headings below. There are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once. Mark your answers on the answer sheet.",
+    "explanations": {
+     "q15": {
+      "text": "The paragraph describes a magnificent and breathtaking island paradise. This kind of beautiful scenery is often featured as the setting for a family-friendly film. That's why the correct answer is E.",
+      "quote": ""
+     },
+     "q16": {
+      "text": "The text describes Whistler as a world-famous destination for adventure and skiing. The exciting stories and experiences one could have there would make for an engaging book. That's why the correct answer is H.",
+      "quote": ""
+     },
+     "q17": {
+      "text": "The paragraph refers to Banff National Park as a 'prized national treasure'. A valuable and famous work of art, such as a girl's portrait, could also be described this way. That's why the correct answer is D.",
+      "quote": ""
+     },
+     "q18": {
+      "text": "The paragraph describes Niagara Falls and the surrounding region. The text encourages deeper exploration of the area, which is a famous natural landmark and a captivating landscape. That's why the correct answer is B.",
+      "quote": ""
+     },
+     "q19": {
+      "text": "The paragraph states that tourists are drawn to the CN Tower. Visiting famous attractions to get a great view is a very popular activity for people on holiday. That's why the correct answer is C.",
+      "quote": "Tourists are naturally drawn to tall buildings where they can get a bird's eye view ... CN Tower ..."
+     },
+     "q20": {
+      "text": "The text notes that the Cabot Trail is very popular in the fall. This season is often celebrated with vibrant festivals that showcase the colourful autumn leaves. That's why the correct answer is G.",
+      "quote": "The 300 km long Cabot Trail ... especially popular in the fall ..."
+     }
+    },
+    "extraHeadings": [
+     "A",
+     "F"
+    ],
+    "questionRange": "15-20"
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 4",
+    "answers": {
+     "21": [
+      "B"
+     ],
+     "22": [
+      "C"
+     ],
+     "23": [
+      "B"
+     ],
+     "24": [
+      "C"
+     ],
+     "25": [
+      "True",
+      "A"
+     ],
+     "26": [
+      "False",
+      "B"
+     ],
+     "27": [
+      "False",
+      "B"
+     ],
+     "28": [
+      "Not Given",
+      "C"
+     ],
+     "29": [
+      "True",
+      "A"
+     ]
+    },
+    "passage": {
+     "title": "Raisins",
+     "content": "<p>Few foods can claim a history as long as the humble raisin. Long before refrigeration or canning existed, people discovered that grapes left in the sun would shrink, darken and keep for months. Archaeological evidence suggests that ancient civilisations in the Middle East were sun-drying grapes as early as 2000 BC, and the practice soon spread across the Mediterranean. The Phoenicians and Armenians carried them along their trade routes, the Romans offered them as prizes in sporting contests, and medieval European physicians prescribed them for everything from coughs to poor digestion. Today raisins are produced and eaten on every inhabited continent, which makes them one of the oldest preserved foods still in daily use.</p><p>For the modern food industry, the raisin's greatest asset is its durability. Because most of the water has been removed, raisins resist the growth of bacteria and mould and, if stored correctly, remain edible for up to a year without refrigeration. This long shelf life lowers storage and transport costs, allowing manufacturers to ship them across the globe with little waste. Their versatility is equally valuable: raisins appear in breakfast cereals, cakes, bread, biscuits, sauces and even savoury rice dishes such as Uzbek plov. As a natural sweetener, they also allow producers to reduce the amount of refined sugar added to their products.</p><p>Production is dominated by a handful of countries, with Turkey, the United States, Iran and Uzbekistan among the largest suppliers. In California, which grows almost all American raisins, grapes are still largely dried in the open air on paper trays laid between the vines. While this traditional technique has hardly changed, the way the grapes are grown certainly has. The majority of large companies rely on conventional farming, using chemical fertilisers and pesticides to maximise yields. Organic methods, though increasingly popular with consumers, are practised by only a small minority of growers, largely because they require more labour and produce smaller harvests.</p><p>This intensive approach comes at a cost. Growing grapes year after year on the same land gradually strips the soil of essential nutrients, leaving it less fertile and ever more dependent on artificial inputs. Moreover, vineyards in dry regions consume enormous quantities of water, and chemicals washed from the fields can enter rivers and streams, harming fish, insects and the birds that feed on them. Environmental groups argue that unless farming practices change, some major growing areas may eventually become unable to support the crop at all.</p><p>The human side of the industry raises questions too. The harvest takes place in late summer, when temperatures in California's San Joaquin Valley regularly exceed 40°C. Pickers, many of them seasonal migrants, cut the bunches by hand and are often paid according to the number of trays they fill rather than by the hour. As a result, their earnings frequently fall below those of farm workers in many other American states, despite the exhausting nature of the job.</p><p>Nutritionally, raisins have much to recommend them. They are rich in fibre, potassium, iron and antioxidants, and parents often pack them in school lunches as a healthier alternative to sweets. Yet nutritionists urge caution. The drying process concentrates the fruit's natural sugar, so a small handful contains roughly as many calories as a large bowl of fresh grapes. Because raisins are so easy to eat in large quantities, regular overconsumption can contribute to weight gain, type 2 diabetes and tooth decay. In addition, some lighter varieties, known as golden raisins, are treated with sulphur dioxide to preserve their colour, and consumers are advised to read labels carefully.</p><p>Looking ahead, scientists are searching for ways to make raisin production more sustainable. Researchers at agricultural universities are developing grape varieties that dry naturally on the vine and require less water, while some farms have begun experimenting with drip irrigation and solar-powered dryers. Others are testing cover crops planted between the rows to restore nutrients to the soil. If these efforts succeed, this ancient food may continue to be enjoyed for centuries to come, with far less damage to the environment.</p>"
+    },
+    "partNumber": 4,
+    "instruction": "Read the following text for questions 21-29.",
+    "explanations": {
+     "q21": {
+      "text": "Birinchi xatboshi mayizning 2000-yilgacha bo'lgan tarixidan bugungi kungacha tarqalishini kuzatadi; savdo yo'llari va tabobat misol, asosiy fikr emas.",
+      "quote": "one of the oldest preserved foods still in daily use"
+     },
+     "q22": {
+      "text": "Ikkinchi xatboshi aniq ikki ustunlikni sanaydi: uzoq saqlanishi va turli taomlarda ishlatilishi.",
+      "quote": "remain edible for up to a year without refrigeration"
+     },
+     "q23": {
+      "text": "Ekologik xatboshi ikki zararni keltiradi: tuproqning qashshoqlanishi va kimyoviy moddalarning suvga tushishi.",
+      "quote": "strips the soil of essential nutrients"
+     },
+     "q24": {
+      "text": "Ogohlantirish quruqlashtirishda jamlanadigan shakar va miqdor haqida.",
+      "quote": "regular overconsumption can contribute to weight gain, type 2 diabetes"
+     },
+     "q25": {
+      "text": "Matnda to'g'ridan-to'g'ri aytilgan.",
+      "quote": "sun-drying grapes as early as 2000 BC"
+     },
+     "q26": {
+      "text": "Matn teskarisini aytadi: organik usul ozchilikda.",
+      "quote": "The majority of large companies rely on conventional farming"
+     },
+     "q27": {
+      "text": "Matn aynan teskari taqqoslaydi.",
+      "quote": "their earnings frequently fall below those of farm workers"
+     },
+     "q28": {
+      "text": "Matn oltin mayiz oltingugurt bilan ishlanishini aytadi, lekin uni xavfli demaydi, bolalarni tilga olmaydi va bunday ogohlantirishni hech kimga nisbat bermaydi, ya'ni da'vo matnda yo'q.",
+      "quote": "treated with sulphur dioxide to preserve their colour"
+     },
+     "q29": {
+      "text": "Matnda aniq aytilgan, misollari bilan.",
+      "quote": "scientists are searching for ways to make raisin production more sustainable"
+     }
+    },
+    "questionRange": "21-29",
+    "questionSections": [
+     {
+      "type": "mcq",
+      "title": "Questions 21-24: Multiple Choice",
+      "questions": [
+       {
+        "id": 21,
+        "text": "What is the first paragraph mainly about?",
+        "options": [
+         {
+          "text": "The scientific process of drying grapes.",
+          "letter": "A"
+         },
+         {
+          "text": "The long and widespread use of raisins throughout history.",
+          "letter": "B"
+         },
+         {
+          "text": "The trade routes of the Phoenicians and Armenians.",
+          "letter": "C"
+         },
+         {
+          "text": "The medical use of raisins in medieval Europe.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 22,
+        "text": "Why are raisins important for the food industry?",
+        "options": [
+         {
+          "text": "They are cheaper than refined sugar.",
+          "letter": "A"
+         },
+         {
+          "text": "They are grown in a large number of countries.",
+          "letter": "B"
+         },
+         {
+          "text": "They can be kept for a long time and used in a variety of foods.",
+          "letter": "C"
+         },
+         {
+          "text": "They need neither refrigeration nor packaging.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 23,
+        "text": "What is the environmental challenge of raisin production?",
+        "options": [
+         {
+          "text": "Vineyards produce large amounts of paper waste.",
+          "letter": "A"
+         },
+         {
+          "text": "Repeated cultivation exhausts the soil and harms surrounding ecosystems.",
+          "letter": "B"
+         },
+         {
+          "text": "High summer temperatures destroy much of the harvest.",
+          "letter": "C"
+         },
+         {
+          "text": "Drying grapes in the open air pollutes the air.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 24,
+        "text": "Why are nutritionists concerned about raisins?",
+        "options": [
+         {
+          "text": "They contain too little fibre and iron.",
+          "letter": "A"
+         },
+         {
+          "text": "They lose most of their antioxidants during drying.",
+          "letter": "B"
+         },
+         {
+          "text": "Eating too many of them may cause health problems because of their sugar content.",
+          "letter": "C"
+         },
+         {
+          "text": "They are mainly eaten by children instead of proper meals.",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "Choose the correct answer A, B, C, or D.",
+      "questionRange": "21-24"
+     },
+     {
+      "type": "tfni",
+      "title": "Questions 25-29: True/False/Not Given",
+      "options": [
+       "True",
+       "False",
+       "Not Given"
+      ],
+      "questions": [
+       {
+        "id": 25,
+        "text": "Ancient civilisations in the Middle East used sun-drying to preserve grapes."
+       },
+       {
+        "id": 26,
+        "text": "Many large companies use organic farming methods in raisin production."
+       },
+       {
+        "id": 27,
+        "text": "Vineyard workers in California receive higher wages than farm workers in other states."
+       },
+       {
+        "id": 28,
+        "text": "Some health experts warn that raisins contain artificial substances which are dangerous for children."
+       },
+       {
+        "id": 29,
+        "text": "Scientists are trying to find ways to reduce the environmental impact of raisin production in the future."
+       }
+      ],
+      "instruction": "Decide if the following statements agree with the information given in the text.",
+      "questionRange": "25-29"
+     }
+    ]
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 5",
+    "answers": {
+     "30": [
+      "fourteen",
+      "14"
+     ],
+     "31": [
+      "convenience"
+     ],
+     "32": [
+      "demand"
+     ],
+     "33": [
+      "anxiety"
+     ],
+     "34": [
+      "B"
+     ],
+     "35": [
+      "A"
+     ]
+    },
+    "passage": {
+     "title": "Electric vehicles",
+     "content": "<p>Over the past decade, electric vehicles (EVs) have shifted from being a niche curiosity to a significant presence on the world's roads. According to the International Energy Agency, electric cars made up around fourteen percent of all new cars sold globally in 2022, a remarkable rise from just four percent only two years earlier. Industry analysts predict that this figure will continue to climb as manufacturers expand their electric line-ups and consumers become increasingly aware of environmental issues.</p><p>Surprisingly, the electric car is not a modern invention. As early as the late nineteenth century, electric models competed directly with steam and petrolpowered vehicles. In fact, around 1900, they were particularly popular among wealthy urban residents, who appreciated their quiet operation and the convenience of not having to start the engine with a heavy hand crank. However, the mass production of cheap petrol cars, combined with the discovery of vast oil reserves, gradually pushed electric vehicles off the market for most of the twentieth century.</p><p>The recent revival of electric transport can be attributed to several factors. Advances in lithium-ion battery technology have significantly reduced costs while increasing the distance a vehicle can travel on a single charge. At the same time, governments across the globe have introduced subsidies, tax exemptions and stricter emission standards, all of which have stimulated consumer demand. Many countries have even announced plans to ban the sale of new petrol and diesel cars within the next two decades.</p><p>Despite this progress, many motorists remain hesitant to make the switch. One of the most frequently cited concerns is so-called range anxiety, the fear that a vehicle's battery will run out before the driver reaches a charging point. Although modern EVs can typically cover between 300 and 500 kilometres on a full battery, this worry continues to influence purchasing decisions, particularly among people who live in rural areas or regularly undertake long journeys.</p><p>Range is not the only obstacle. In many regions, the public charging network remains underdeveloped, leaving drivers with few options outside major cities. Recharging a battery also takes considerably longer than filling a tank with fuel, sometimes requiring several hours. Furthermore, the initial purchase price of an electric car is still higher than that of a comparable conventional model, and batteries gradually lose their capacity over time, which can reduce the vehicle's resale value.</p><p>The environmental benefits of electric cars are also the subject of ongoing debate. While EVs produce no exhaust emissions, critics point out that their overall impact depends largely on how the electricity used to charge them is generated. In countries that rely heavily on coal-fired power stations, the reduction in carbon emissions may be relatively modest. In addition, the extraction of raw materials such as lithium and cobalt, which are essential for battery production, raises serious environmental and ethical concerns.</p><p>Nevertheless, most experts agree that electric vehicles will play a central role in the future of transport. As renewable energy sources expand, charging infrastructure improves and battery technology continues to advance, many of today's limitations are likely to be overcome. The transition may not be immediate, but the direction of change appears increasingly clear.</p>"
+    },
+    "partNumber": 5,
+    "instruction": "Read the following text for questions 30-35.",
+    "explanations": {
+     "q30": {
+      "text": "1-xatboshi: 2022 da yangi mashinalarning taxminan 14 foizi elektr edi.",
+      "quote": "electric cars made up around fourteen percent of all new cars sold globally in 2022"
+     },
+     "q31": {
+      "text": "Boy shahar aholisi jim ishlashi va og'ir dastakni aylantirmaslik qulayligi uchun yoqtirgan.",
+      "quote": "the convenience of not having to start the engine with a heavy hand crank"
+     },
+     "q32": {
+      "text": "Subsidiya va qattiqroq me'yorlar iste'molchi talabini oshirgan.",
+      "quote": "stricter emission standards, all of which have stimulated consumer demand"
+     },
+     "q33": {
+      "text": "Bu qo'rquv matnda \"range anxiety\" deb ataladi; bitta so'z talab qilingani uchun javob anxiety.",
+      "quote": "so-called range anxiety, the fear that a vehicle battery will run out"
+     },
+     "q34": {
+      "text": "Matn zaryadlash tarmog'i, uzoq zaryadlash va batareya eskirishini kamchilik sifatida aytadi; narx esa aksincha QIMMAT deyilgan, ya'ni past boshlang'ich narx kamchilik sifatida yo'q.",
+      "quote": "the initial purchase price of an electric car is still higher"
+     },
+     "q35": {
+      "text": "Umumiy ta'sir elektr energiyasi qanday ishlab chiqarilishiga bog'liq.",
+      "quote": "depends largely on how the electricity used to charge them is generated"
+     }
+    },
+    "questionRange": "30-35",
+    "questionSections": [
+     {
+      "type": "gap-fill",
+      "title": "Questions 30-33: Gap Fill",
+      "questions": [
+       {
+        "id": 30,
+        "hint": "roughly _____ out of every hundred"
+       },
+       {
+        "id": 31,
+        "hint": "offered the _____ of avoiding"
+       },
+       {
+        "id": 32,
+        "hint": "greater buyer _____ for electric cars"
+       },
+       {
+        "id": 33,
+        "hint": "still feel _____ about"
+       }
+      ],
+      "instruction": "Fill in the missing information in the numbered spaces. Write no more than ONE WORD and / or A NUMBER for each question.",
+      "summaryText": "In 2022, roughly <span class=\"gap-input\" data-gap=\"30\">_____(30)_____</span> out of every hundred new cars bought worldwide were powered by electricity. Wealthy city dwellers in the early 1900s favoured electric models because they were silent and offered the <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span> of avoiding a physically demanding starting process. Financial incentives and tighter regulations introduced by authorities have led to greater buyer <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span> for electric cars. A considerable number of potential owners still feel <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span> about being left on the road with an empty battery.",
+      "summaryTitle": "Electric vehicles - Summary",
+      "questionRange": "30-33"
+     },
+     {
+      "type": "mcq",
+      "title": "Questions 34-35: Multiple Choice",
+      "questions": [
+       {
+        "id": 34,
+        "text": "Which of the following is NOT mentioned as a drawback of owning an electric vehicle?",
+        "options": [
+         {
+          "text": "Limited availability of recharging stations",
+          "letter": "A"
+         },
+         {
+          "text": "Low upfront cost",
+          "letter": "B"
+         },
+         {
+          "text": "Time-consuming refuelling process",
+          "letter": "C"
+         },
+         {
+          "text": "Deterioration of battery capacity",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 35,
+        "text": "According to the text, what mainly determines how environmentally beneficial an electric car is?",
+        "options": [
+         {
+          "text": "the way the power used for charging is produced",
+          "letter": "A"
+         },
+         {
+          "text": "the amount of raw materials in its battery",
+          "letter": "B"
+         },
+         {
+          "text": "the absence of exhaust gases",
+          "letter": "C"
+         },
+         {
+          "text": "the number of kilometres it covers",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "Choose the correct answer A, B, C, or D.",
+      "questionRange": "34-35"
+     }
+    ]
+   }
+  ],
+  "examDate": "2025-11-21",
+  "testInfo": {
+   "level": "B1-B2-C1",
+   "parts": 5,
+   "title": "CEFR B1-B2-C1 Reading Test 39",
+   "totalTime": 60,
+   "totalQuestions": 35
+  }
+ },
+ "created_at": "2026-05-12T16:22:15.242994+00:00",
+ "updated_at": "2026-10-11T10:54:25.762211+00:00"
+}

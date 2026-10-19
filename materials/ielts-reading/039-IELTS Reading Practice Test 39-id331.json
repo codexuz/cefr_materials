@@ -1,0 +1,645 @@
+{
+ "id": 331,
+ "mock_type": "ielts-reading",
+ "mock_number": 39,
+ "title": "IELTS Reading Practice Test 39",
+ "status": "published",
+ "mock_data": {
+  "examDate": "2026-05-04",
+  "passages": [
+   {
+    "id": 1,
+    "title": "Walking With Dinosaurs",
+    "passage": "<p><strong>A</strong> Peter L. Falkingham and his colleagues at Manchester University are developing techniques which look set to revolutionize our understanding of how dinosaurs and other extinct animals behaved.</p>\n\n<p><strong>B</strong> The media image of palaeontologists who study prehistoric life is often of field workers camped in the desert in the hot sun, carefully picking away at the rock surrounding a large dinosaur bone. But Peter Falkingham has done little of that for a while now. Instead, he devotes himself to his computer. Not because he has become inundated with paperwork, but because he is a new kind of palaeontologist: a computational palaeontologist.</p>\n\n<p><strong>C</strong> What few people may consider is that uncovering a skeleton, or discovering a new species, is where the research begins, not where it ends. What we really want to understand is how the extinct animals and plants behaved in their natural habitats. Drs Bill Sellers and Phil Manning from the University of Manchester use a ‘genetic algorithm’ – a kind of computer code that can change itself and ‘evolve’ – to explore how extinct animals like dinosaurs, and our own early ancestors, walked and stalked.</p>\n\n<p><strong>D</strong> The fossilized bones of a complete dinosaur skeleton can tell scientists a lot about the animal, but they do not make up the complete picture and the computer can try to fill the gap. The computer model is given a digitized skeleton, and the locations of known muscles. The model then randomly activates the muscles. This, perhaps unsurprisingly, results almost without fail in the animal falling on its face. So the computer alters the activation pattern and tries again … usually to similar effect. The modeled dinosaurs quickly ‘evolve’. If there is any improvement, the computer discards the old pattern and adopts the new one as the base for alteration. Eventually, the muscle activation pattern evolves a stable way of moving, the best possible solution is reached, and the dinosaur can walk, run, chase or graze. Assuming natural selection evolves the best possible solution too, the modeled animal should be moving in a manner similar to its now-extinct counterpart. And indeed, using the same method for living animals (humans, emu and ostriches) similar top speeds were achieved on the computer as in reality. By comparing their cyberspace results with real measurements of living species, the Manchester team of palaeontologists can be confident in the results computed showing how extinct prehistoric animals such as dinosaurs moved.</p>\n\n<p><strong>E</strong> The Manchester University team have used the computer simulations to produce a model of a giant meat-eating dinosaur. It is called an acrocanthosaurus which literally means ‘high spined lizard’ because of the spines which run along its backbone. It is not really known why they are there but scientists have speculated they could have supported a hump that stored fat and water reserves. There are also those who believe that the spines acted as a support for a sail. Of these, one half think it was used as a display and could be flushed with blood and the other half think it was used as a temperature-regulating device. It may have been a mixture of the two. The skull seems out of proportion with its thick, heavy body because it is so narrow and the jaws are delicate and fine. The feet are also worthy of note as they look surprisingly small in contrast to the animal as a whole. It has a deep broad tail and powerful leg muscles to aid locomotion. It walked on its back legs and its front legs were much shorter with powerful claws.</p>\n\n<p><strong>F</strong> Falkingham himself is investigating fossilized tracks, or footprints, using computer simulations to help analyze how extinct animals moved. Modern-day trackers who study the habitats of wild animals can tell you what animal made a track, whether that animal was walking or running, sometimes even the sex of the animal. But a fossil track poses a more considerable challenge to interpret in the same way. A crucial consideration is knowing what the environment including the mud, or sediment, upon which the animal walked was like millions of years ago when the track was made. Experiments can answer these questions but the number of variables is staggering. To physically recreate each scenario with a box of mud is extremely time-consuming and difficult to repeat accurately. This is where computer simulation comes in.</p>\n\n<p><strong>G</strong> Falkingham uses computational techniques to model a volume of mud and control the moisture content, consistency, and other conditions to simulate the mud of prehistoric times. A footprint is then made in the digital mud by a virtual foot. This footprint can be chopped up and viewed from any angle and stress values can be extracted and calculated from inside it. By running hundreds of these simulations simultaneously on supercomputers, Falkingham can start to understand what types of footprint would be expected if an animal moved in a certain way over a given kind of ground. Looking at the variation in the virtual tracks, researchers can make sense of fossil tracks with greater confidence.</p>\n\n<p><strong>H</strong> The application of computational techniques in palaeontology is becoming more prevalent every year. As computer power continues to increase, the range of problems that can be tackled and questions that can be answered will only expand.</p>",
+    "shortName": "Walking With Dinosaurs",
+    "difficulty": "Medium",
+    "explanations": {
+     "q1": {
+      "text": "The passage states that Peter Falkingham has done \"little of that\" (outdoor research) \"for a while now,\" which directly supports the statement that he rarely spends time on outdoor research these days, thus the answer is YES.",
+      "quote": "But Peter Falkingham has done little of that for a while now."
+     },
+     "q2": {
+      "text": "The passage states that the initial attempts by the computer model almost always result in the dinosaur falling over, indicating that several attempts are needed before it can stay upright.",
+      "quote": "This, perhaps unsurprisingly, results almost without fail in the animal falling on its face."
+     },
+     "q3": {
+      "text": "The passage states that the computer model achieved similar top speeds for humans as in reality, meaning it did not show them moving faster. Therefore, the answer is NO.",
+      "quote": "And indeed, using the same method for living animals (humans, emu and ostriches) similar top speeds were achieved on the computer as in reality."
+     },
+     "q4": {
+      "text": "The passage describes the Manchester team's methods and findings, and expresses confidence in their results by comparing them to real-world measurements. However, it does not mention any reservations or criticisms from other palaeontologists regarding their conclusions, so the answer is NOT GIVEN.",
+      "quote": ""
+     },
+     "q5": {
+      "text": "The passage states that while modern trackers can easily analyze tracks made by live animals, fossil tracks pose a 'more considerable challenge' to interpret, meaning they cannot be analyzed as easily. Therefore, the answer is NO.",
+      "quote": "Modern-day trackers who study the habitats of wild animals can tell you what animal made a track, whether that animal was walking or running, sometimes even the sex of the animal. But a fossil track poses a more considerable challenge to interpret in the same way."
+     },
+     "q6": {
+      "text": "The passage discusses the process of simulating prehistoric mud conditions for footprint analysis, but it does not mention any research into the composition of prehistoric mud being inaccurate. Therefore, the answer is NOT GIVEN.",
+      "quote": ""
+     },
+     "q7": {
+      "text": "The passage states that some scientists believe the spines supported a 'sail' used as a temperature-regulating device, which is another way of saying it helped control body heat.",
+      "quote": "Of these, one half think it was used as a display and could be flushed with blood and the other half think it was used as a temperature-regulating device."
+     },
+     "q8": {
+      "text": "The passage states that the skull seems out of proportion because it is \"so narrow\", which directly answers the question about the skull's characteristic compared to the rest of the body.",
+      "quote": "The skull seems out of proportion with its thick, heavy body because it is so narrow and the jaws are delicate and fine."
+     },
+     "q9": {
+      "text": "The passage states that the acrocanthosaurus had a deep broad tail and powerful leg muscles to aid locomotion, which directly supports the answer 'locomotion' as being made easier by these features.",
+      "quote": "It has a deep broad tail and powerful leg muscles to aid locomotion."
+     },
+     "q10": {
+      "text": "The quote directly states that Falkingham's computational techniques model mud and control the 'moisture content', which is the missing word in the flow-chart.",
+      "quote": "Falkingham uses computational techniques to model a volume of mud and control the moisture content, consistency, and other conditions to simulate the mud of prehistoric times."
+     },
+     "q11": {
+      "text": "The quote directly states that 'stress values can be extracted and calculated from inside' a footprint, which supports the answer 'stress' for the flow-chart completion question.",
+      "quote": "This footprint can be chopped up and viewed from any angle and stress values can be extracted and calculated from inside it."
+     },
+     "q12": {
+      "text": "The passage states that simulations help understand what footprints would be expected based on how an animal moved over a \"given kind of ground,\" which directly supports the answer 'ground'.",
+      "quote": "By running hundreds of these simulations simultaneously on supercomputers, Falkingham can start to understand what types of footprint would be expected if an animal moved in a certain way over a given kind of ground."
+     },
+     "q13": {
+      "text": "The passage states that by looking at variations in virtual tracks, researchers can interpret fossil tracks with greater confidence, which directly supports the answer 'fossil tracks' as something that can be interpreted more accurately.",
+      "quote": "Looking at the variation in the virtual tracks, researchers can make sense of fossil tracks with greater confidence."
+     }
+    },
+    "passageHeader": {
+     "title": "READING PASSAGE 1",
+     "instruction": "You should spend about 20 minutes on <strong>Questions 1-13</strong>, which are based on Reading Passage 1."
+    },
+    "questionRange": "1-13",
+    "correctAnswers": {
+     "q1": [
+      "YES"
+     ],
+     "q2": [
+      "YES"
+     ],
+     "q3": [
+      "NO"
+     ],
+     "q4": [
+      "NOT GIVEN"
+     ],
+     "q5": [
+      "NO"
+     ],
+     "q6": [
+      "NOT GIVEN"
+     ],
+     "q7": [
+      "sail"
+     ],
+     "q8": [
+      "narrow"
+     ],
+     "q9": [
+      "Locomotion"
+     ],
+     "q10": [
+      "moisture"
+     ],
+     "q11": [
+      "stress"
+     ],
+     "q12": [
+      "ground"
+     ],
+     "q13": [
+      "fossil tracks"
+     ]
+    },
+    "timeRecommended": 20,
+    "questionSections": [
+     {
+      "type": "ynng",
+      "title": "Questions 1-6",
+      "typeName": "Yes/No/Not Given",
+      "questions": [
+       {
+        "id": 1,
+        "text": "In his study of prehistoric life, Peter Falkingham rarely spends time on outdoor research these days."
+       },
+       {
+        "id": 2,
+        "text": "Several attempts are usually needed before the computer model of a dinosaur used by Sellers and Manning manages to stay upright."
+       },
+       {
+        "id": 3,
+        "text": "When the Sellers and Manning computer model was used for people, it showed them moving faster than they are physically able to."
+       },
+       {
+        "id": 4,
+        "text": "Some palaeontologists have expressed reservations about the conclusions reached by the Manchester team concerning the movement of dinosaurs."
+       },
+       {
+        "id": 5,
+        "text": "An experienced tracker can analyse fossil footprints as easily as those made by live animals."
+       },
+       {
+        "id": 6,
+        "text": "Research carried out into the composition of prehistoric mud has been found to be inaccurate."
+       }
+      ],
+      "instruction": "Do the following statements agree with the information given in the Reading Passage?<br><br>In boxes 1-6 on your answer sheet, write<br><br><strong>Yes</strong> if the statement agrees with the information<br><strong>No</strong> if the statement contradicts the information<br><strong>Not Given</strong> if it is impossible to say what the writer thinks about this",
+      "featuresList": [],
+      "headingsList": []
+     },
+     {
+      "type": "completion",
+      "title": "Questions 7-9",
+      "typeName": "Note Completion",
+      "questions": [
+       {
+        "id": 7,
+        "text": "Dinosaur's name comes from spines. One theory: they were necessary to hold up a ___ which helped control body heat."
+       },
+       {
+        "id": 8,
+        "text": "Skull is ___ compared with rest of body."
+       },
+       {
+        "id": 9,
+        "text": "___ made easier by wide tail and highly developed muscles in legs."
+       }
+      ],
+      "instruction": "Choose <strong>NO MORE THAN ONE WORD</strong> from the passage for each answer.<br><br>Write your answers in boxes 7-9 on your answer sheet.<br><br><strong>The\n\n\n \n\n\nacrocanthosaurus</strong>",
+      "featuresList": [],
+      "headingsList": []
+     },
+     {
+      "type": "completion",
+      "title": "Questions 10-13",
+      "typeName": "Flow-chart Completion",
+      "questions": [
+       {
+        "id": 10,
+        "text": "STEP 01: Mud is simulated with attention to its texture and thickness and how much ___ it contains."
+       },
+       {
+        "id": 11,
+        "text": "STEP 04: Levels of ___ are measured within the footprint."
+       },
+       {
+        "id": 12,
+        "text": "STEP 05: Multiple simulations relate footprints to different types of ___."
+       },
+       {
+        "id": 13,
+        "text": "STEP 06: More accurate interpretation of ___ is possible."
+       }
+      ],
+      "instruction": "Complete the flow-chart below.<br><br>Write <strong>NO MORE THAN TWO WORDS</strong> for each answer.<br><br>Write your answers in boxes 10-13 on your answer sheet.<br><br><strong>Peter Falkingham's computer model</strong>",
+      "featuresList": [],
+      "headingsList": []
+     }
+    ]
+   },
+   {
+    "id": 2,
+    "title": "New Technology in New Zealand's Health Service",
+    "passage": "<p><strong>A</strong> At some time in their lives, nearly all New Zealanders will have to attend an after-hours clinic following an emergency or accident. On entering the consulting room, the patient is faced with a barrage of questions. The first ones relate to the current episode, and are followed by more general enquiries. Do you have any allergies? Are you on any medications? And so on. But imagine a different scenario. The patient walks into the consulting room and there on the healthcare professional’s computer screen is his or her medical record in its entirety: allergies, medications, test results and everything else. To some, it’s amazing that this isn’t happening already. After all, individuals can track their bank accounts, phone records and countless other transactions online, so why can’t they track their health? Ian McCrae, Orion Health’s CEO, says that it’s understandable if health often falls behind other sectors in its adoption of information technology (IT). It might be, he argues, because of concerns about patient privacy, but also because health care is just so complicated.</p>\n\n<p><strong>B</strong> The irony is, New Zealand started out being ahead of the game. The backbone of any health IT system is having a unique identifier for each patient, and New Zealand’s national health index (NHI) number system was introduced in 1993, before most other countries in the world. Innovation then slowed for some years, but in 2011 the earthquake in Canterbury, which affected thousands of people, was a catalyst for health IT in that region of the country. Suddenly, many people couldn’t be seen by their usual doctor and many health records were inaccessible. An existing plan for an electronic shared record was fast-tracked, and within six months a basic system, HealthOne, was up and running. By 2013, clinicians in the hospital emergency department were able to see all relevant medical information about patients. Dr. Nigel Millar, Chief Medical Officer for the Canterbury region, says within days doctors were telling him the information had already revolutionised the way they worked.</p>\n\n<p><strong>C</strong> This idea, known as a ‘patient portal’, is now in operation in other parts of the country, including the capital Wellington. With a mobile app patients can remain connected to their patient portal on their mobile device, allowing for added flexibility. However, there’s a lot of complacency in medicine, according to Dr. Richard Medicott. He says that innovative IT systems have the potential to radically change health care delivery, because they will free doctors from routine administrative tasks and instead allow them to focus on diagnosis and patient care, which is where their skills are really needed. But he admits there is some way to go in the adoption of shared care records, and also in changing the mindset of some doctors who are resistant to change. A good example of technology in use comes from Australia, where the National Home Doctor Service has brought back a service that was becoming infrequent: the home visit. The after hours service uses an app to arrange an on-call doctor who will visit patients at home to provide on-the-spot healthcare.</p>\n\n<p><strong>D</strong> A key part of the health IT picture is maintaining a dialogue and exchange of ideas between healthcare professionals, according to Kate Reid, a director at Orion Health. Reid says this is critical, but it’s not easy because there are so many different agencies that are sometimes in competition. Another issue, Reid says, is that there are many information systems that are being trialled today. However, these trials are not big enough to determine if they could ever work at a national level. One area where cooperation in health IT really could deliver benefits is in disease prevention and early intervention, says Reid. ‘We’ve got innovations and technology that could be reaching at-risk people right now,’ she argues, but the infrastructure is not in place to allow funding to be shifted from treatment to prevention. Scott Arrol, CEO of New Zealand Health IT, says that advances are coming, they’re just not arriving as fast as everybody would like.</p>\n\n<p><strong>E</strong> While IT is extremely important to a functioning health system, there are other areas where New Zealand technologies are improving health care. Dr. Hong Sheng Chiong, for example, has adapted a smartphone camera for medical use. The examination kit combines a phone adapter and app, allowing users to examine the eye with minimal training. Another innovation is the Clever MedKit, an intelligent first aid kit. It separates different items like band-aids and ice packs and orders replacements when necessary, making it particularly helpful in today’s busy offices. In a separate field, the use of pre-made ceramic fittings which can be placed over a broken tooth in a single sitting reduces the cost of treatment. Dr. Adam Doudney came up with the idea before it was developed by researchers at the technology company Rhondium. Another idea is the Silhouette system, which offers a way to easily monitor wounds. It allows practitioners to detect small differences in wound size by collecting accurate images and data. Finally, the Auckland Bioengineering Institute is helping those wishing to keep fit or rehabilitate from injury. When placed on the body their special sensor moves with the wearer and measures the amount of movement, before the data is transmitted to the user’s mobile or tablet. It’ll be fascinating to see how these and other technologies transform medicine over the years to come.</p>",
+    "shortName": "NZ Health Tech",
+    "difficulty": "Medium",
+    "explanations": {
+     "q14": {
+      "text": "The passage states that the National Home Doctor Service in Australia has 'brought back' the home visit, which was 'becoming infrequent', thus matching the description of a medical practice that became less common but is now being used more frequently.",
+      "quote": "A good example of technology in use comes from Australia, where the National Home Doctor Service has brought back a service that was becoming infrequent: the home visit."
+     },
+     "q15": {
+      "text": "This quote directly states that New Zealand's NHI system, a key component of health IT, was introduced before most other countries, indicating it was more advanced at that time.",
+      "quote": "The backbone of any health IT system is having a unique identifier for each patient, and New Zealand’s national health index (NHI) number system was introduced in 1993, before most other countries in the world."
+     },
+     "q16": {
+      "text": "This quote directly supports the answer because it states that many information systems are being trialled, but these trials are not big enough to determine if they could ever work at a national level, implying they are on a small scale.",
+      "quote": "Another issue, Reid says, is that there are many information systems that are being trialled today."
+     },
+     "q17": {
+      "text": "This sentence directly states that nearly all New Zealanders will experience an emergency or accident requiring a visit to an after-hours clinic, which supports the answer.",
+      "quote": "At some time in their lives, nearly all New Zealanders will have to attend an after-hours clinic following an emergency or accident."
+     },
+     "q18": {
+      "text": "The passage states that the 2011 earthquake in Canterbury was a catalyst for health IT in that region, indicating a dramatic event led to improved use of health information technology.",
+      "quote": "Innovation then slowed for some years, but in 2011 the earthquake in Canterbury, which affected thousands of people, was a catalyst for health IT in that region of the country."
+     },
+     "q19": {
+      "text": "Kate Reid states that technology could be used to reach at-risk people for disease prevention and early intervention, but funding is not in place to shift from treatment to prevention, which supports the idea of investing in preventative technology.",
+      "quote": "One area where cooperation in health IT really could deliver benefits is in disease prevention and early intervention, says Reid. ‘We’ve got innovations and technology that could be reaching at-risk people right now,’ she argues, but the infrastructure is not in place to allow funding to be shifted from treatment to prevention."
+     },
+     "q20": {
+      "text": "Ian McCrae states that there are understandable reasons why healthcare lags behind other sectors in adopting IT, implying that there are good reasons for the slower adoption of technology in managing patient information.",
+      "quote": "Ian McCrae, Orion Health’s CEO, says that it’s understandable if health often falls behind other sectors in its adoption of information technology (IT)."
+     },
+     "q21": {
+      "text": "The quote directly states that maintaining a dialogue and exchange of ideas between healthcare professionals is key, which implies the need to communicate and work together, even if they have different interests. This is attributed to Kate Reid.",
+      "quote": "A key part of the health IT picture is maintaining a dialogue and exchange of ideas between healthcare professionals, according to Kate Reid."
+     },
+     "q22": {
+      "text": "Dr. Richard Medicott states that innovative IT systems will free doctors from administrative tasks, allowing them to focus on diagnosis and patient care, which supports the idea that new technologies will enable healthcare professionals to concentrate on the most important aspects of their work.",
+      "quote": "He says that innovative IT systems have the potential to radically change health care delivery, because they will free doctors from routine administrative tasks and instead allow them to focus on diagnosis and patient care, which is where their skills are really needed."
+     },
+     "q23": {
+      "text": "The passage states that Dr. Chiong adapted a smartphone camera for medical use, and the following sentence specifies that the examination kit allows users to examine the eye, thus the answer is 'eye'.",
+      "quote": "Dr. Hong Sheng Chiong, for example, has adapted a smartphone camera for medical use."
+     },
+     "q24": {
+      "text": "The passage states that the Clever MedKit is particularly helpful in today's busy offices, implying that it provides medical supplies for use in offices.",
+      "quote": "Another innovation is the Clever MedKit, an intelligent first aid kit."
+     },
+     "q25": {
+      "text": "The passage states that pre-made ceramic fittings placed over a broken tooth reduces the cost of treatment, which directly supports the answer 'tooth' for the summary completion question.",
+      "quote": "In a separate field, the use of pre-made ceramic fittings which can be placed over a broken tooth in a single sitting reduces the cost of treatment."
+     },
+     "q26": {
+      "text": "The Silhouette system allows practitioners to detect small differences in wound size, meaning changes in the size of wounds can be recorded more accurately.",
+      "quote": "It allows practitioners to detect small differences in wound size by collecting accurate images and data."
+     }
+    },
+    "passageHeader": {
+     "title": "READING PASSAGE 2",
+     "instruction": "You should spend about 20 minutes on <strong>Questions 14-26</strong>, which are based on Reading Passage 2."
+    },
+    "questionRange": "14-26",
+    "correctAnswers": {
+     "q14": [
+      "C"
+     ],
+     "q15": [
+      "B"
+     ],
+     "q16": [
+      "D"
+     ],
+     "q17": [
+      "A"
+     ],
+     "q18": [
+      "B"
+     ],
+     "q19": [
+      "D"
+     ],
+     "q20": [
+      "A"
+     ],
+     "q21": [
+      "D"
+     ],
+     "q22": [
+      "C"
+     ],
+     "q23": [
+      "eye"
+     ],
+     "q24": [
+      "offices"
+     ],
+     "q25": [
+      "tooth"
+     ],
+     "q26": [
+      "size"
+     ]
+    },
+    "timeRecommended": 20,
+    "questionSections": [
+     {
+      "type": "matching-info",
+      "title": "Questions 14-18",
+      "typeName": "Matching Information",
+      "questions": [
+       {
+        "id": 14,
+        "text": "reference to a medical practice that became less common but is now being used more frequently in one country"
+       },
+       {
+        "id": 15,
+        "text": "reference to a health management scheme in New Zealand that was more advanced than those used in other nations"
+       },
+       {
+        "id": 16,
+        "text": "the claim that some of the information systems being tested in the health sector are only on a small scale"
+       },
+       {
+        "id": 17,
+        "text": "reference to the fact that most people in New Zealand will experience an urgent medical situation at some point"
+       },
+       {
+        "id": 18,
+        "text": "mention of a dramatic event that led to improved use of health information technology in one part of New Zealand"
+       }
+      ],
+      "instruction": "Reading Passage 2 has five paragraphs, <strong>A-E</strong>.<br><br>Which paragraph contains the following information?<br><br>Write the correct letter, <strong>A-E</strong>, in boxes 14-18 on your answer sheet.<br><br><strong>NB</strong> You may use any letter more than once.",
+      "featuresList": [
+       "A",
+       "B",
+       "C",
+       "D",
+       "E"
+      ],
+      "headingsList": []
+     },
+     {
+      "type": "matching-features",
+      "title": "Questions 19-22",
+      "boxTitle": "List of People",
+      "typeName": "Matching People",
+      "questions": [
+       {
+        "id": 19,
+        "text": "Money should be invested in technology that attempts to stop people becoming sick, rather than caring for them once they are sick."
+       },
+       {
+        "id": 20,
+        "text": "There are good reasons why healthcare does not make more use of technology to manage patient information."
+       },
+       {
+        "id": 21,
+        "text": "Health professionals need to communicate and work together, even if they have different interests."
+       },
+       {
+        "id": 22,
+        "text": "New technologies will enable healthcare professionals to concentrate on the most important aspects of their work."
+       }
+      ],
+      "instruction": "Look at the following statements (Questions 19-22) and the list of people below.<br><br>Match each statement with the correct person, <strong>A-E</strong>.<br><br>Write the correct letter, <strong>A-E</strong>, in boxes 19-22 on your answer sheet.<br><br><strong>NB</strong> You may use any letter more than once.",
+      "featuresList": [
+       "A Ian McCrae",
+       "B Nigel Millar",
+       "C Richard Medicott",
+       "D Kate Reid",
+       "E Scott Arrol"
+      ],
+      "headingsList": []
+     },
+     {
+      "type": "completion",
+      "title": "Questions 23-26",
+      "typeName": "Summary Completion",
+      "questions": [
+       {
+        "id": 23,
+        "text": "Dr Chiong has designed a camera so that doctors can look into a patient's ___."
+       },
+       {
+        "id": 24,
+        "text": "Clever MedKit provides everyday medical supplies for use in ___ and ensures stocks are always up-to-date."
+       },
+       {
+        "id": 25,
+        "text": "Meanwhile, the cost of repairing a ___ is likely to be reduced thanks to Dr Adam Doudney, whose idea was developed by researchers at Rhondium."
+       },
+       {
+        "id": 26,
+        "text": "Another breakthrough is that changes in the ___ of wounds can now be recorded more accurately because of the new Silhouette system."
+       }
+      ],
+      "instruction": "Complete the summary below.<br><br>Write <strong>ONE WORD ONLY</strong> from the passage for each answer.<br><br><strong>Other Health Technologies</strong><br>Apart from IT, New Zealand scientists have made good progress with other types of medical technology.",
+      "featuresList": [],
+      "headingsList": []
+     }
+    ]
+   },
+   {
+    "id": 3,
+    "title": "The Voynich Manuscript",
+    "passage": "<p>The starkly modern Beinecke Library at Yale University is home to some of the most valuable books in the world: first folios of Shakespeare, Gutenberg Bibles and manuscripts from the early Middle Ages. Yet the library’s most controversial possession is an unprepossessing vellum manuscript about the size of a hardback book, containing 240-odd pages of drawings and text of unknown age and authorship. Catalogued as MS408, the manuscript would attract little attention were it not for the fact that the drawings hint at esoteric knowledge, while the text seems to be some sort of code – one that no-one has been able to break. It’s known to scholars as the Voynich manuscript, after the American book dealer Wilfrid Voynich, who bought the manuscript from a Jesuit college in Italy in 1912.</p>\n\n<p>Over the years, the manuscript has attracted the attention of everyone from amateur dabblers to top codebreakers, all determined to succeed where countless others have failed. Academic research papers, books and websites are devoted to making sense of the contents of the manuscript, which are freely available to all. ‘Most other mysteries involve secondhand reports,’ says Dr Gordon Rugg of Keele University, a leading Voynich expert. But this is one that you can see for yourself.</p>\n\n<p>It is certainly strange: page after page of drawings of weird plants, astrological symbolism and human figures, accompanied by a script that looks like some form of shorthand. What does it say and what are the drawings about? Voynich himself believed that the manuscript was the work of the 13th-century English monk Roger Bacon, famed for his knowledge of alchemy, philosophy and science. In 1921 Voynich’s view that Bacon was the writer appeared to win support from the work of William Newbold, Professor of Philosophy at the University of Pennsylvania, who claimed to have found the key to the cipher system used by Bacon. According to Newbold, the manuscript proved that Bacon had access to a microscope centuries before they were supposedly first invented. The claim that this mediaeval monk had observed living cells created a sensation. It soon became clear, however, that Newbold had fallen victim to wishful thinking. Other scholars showed that his ‘decoding’ methods produced a host of possible interpretations. The Voynich manuscript has continued to defy the efforts of world-class experts. In 1944, a team was assembled to tackle the mystery, led by William Friedman, the renowned American codebreaker. They began with the most basic code breaking task: analysing the relative frequencies of the characters making up the text, looking for signs of an underlying structure. Yet Friedman’s team soon found themselves in deep water. The precise size of the ‘alphabet’ of the Voynich manuscript was unclear: it’s possible to make out more than 70 distinct symbols among the 170,000-character text.</p>\n\n<p>Furthermore, Friedman discovered that some words and phrases appeared more often than expected in a standard language, casting doubt on claims that the manuscript concealed a real language, as encryption typically reduces word frequencies.</p>\n\n<p>Friedman concluded that the most plausible resolution of this paradox was that “Voynichese” is some sort of specially created artificial language, whose words are devised from concepts, rather than linguistics. So, could the Voynich manuscript be the earliest known example of an artificial language? ‘Friedman’s hypothesis commands respect because of the lifetime of cryptanalytical expertise he brought to bear,’ says Rob Churchill, co-author of The Voynich Manuscript. However, that still leaves a host of questions unanswered such as the identity of the author and the meaning of the bizarre drawings. ‘It does little to advance our understanding of the manuscript as a whole,’ says Churchill. Even though Friedman was working more than 60 years ago, he suspected that major insights would come from using the device that had already transformed codebreaking: the computer. In this he was right – it is now the key tool for uncovering clues about the manuscript’s language.</p>\n\n<p>The insights so far have been perplexing. For example, in 2001 another leading Voynich scholar, Dr Gabriel Landini of Birmingham University in the UK, published the results of his study of the manuscript using a pattern-detecting method called spectral analysis. This revealed evidence that the manuscript contains genuine words, rather than random nonsense, consistent with the existence of some underlying natural language. Yet the following year, Voynich expert Ren Zandbergen of the European Space Agency in Darmstadt, Germany showed that the entropy of the text (a measure of the rate of transfer of information) was consistent with Friedman’s suspicions that an artificial language had been used.</p>\n\n<p>Many are convinced that the Voynich manuscript isn’t a hoax. For how could a medieval hoaxer create so many telltale signs of a message from random nonsense? Yet even this has been challenged in new research by Rugg. Using a system, first published by the Italian mathematician Girolamo Cardano in 1550 in which a specially constructed grille was issued to pick out symbols from a table, Rugg found he could rapidly generate text with many of the basic traits of the Voynich manuscript. Publishing his results in 2004, Rugg stresses that he hadn’t set out to prove the manuscript a hoax. ‘I simply demonstrated that it’s feasible to hoax something this complex in a few months,’ he says. Inevitably, others beg to differ. Some scholars, such as Zandbergen, still suspect the text has genuine meaning, though believe it may never be decipherable. Others, such as Churchill, have suggested that the sheer weirdness of the illustrations and text hint at an author who had lost touch with reality. What is clear is that the book-sized manuscript kept under lock and key at Yale University has lost none of its fascination. ‘Many derive great intellectual pleasure from solving puzzles,’ says Rugg. The Voynich manuscript is as challenging a puzzle as anyone could ask for.</p>",
+    "shortName": "Voynich Manuscript",
+    "difficulty": "Hard",
+    "explanations": {
+     "q27": {
+      "text": "The phrase \"unknown age\" directly supports the statement that it is uncertain when the Voynich manuscript was written, making the answer TRUE.",
+      "quote": "containing 240-odd pages of drawings and text of unknown age and authorship."
+     },
+     "q28": {
+      "text": "The passage states that Voynich bought the manuscript, not that he donated it to the Beinecke Library. Therefore, the statement is not given in the text.",
+      "quote": "It’s known to scholars as the Voynich manuscript, after the American book dealer Wilfrid Voynich, who bought the manuscript from a Jesuit college in Italy in 1912."
+     },
+     "q29": {
+      "text": "The quote explicitly states that the manuscript has attracted the attention of \"everyone from amateur dabblers to top codebreakers,\" indicating that interest extends beyond academics and professional codebreakers.",
+      "quote": "Over the years, the manuscript has attracted the attention of everyone from amateur dabblers to top codebreakers, all determined to succeed where countless others have failed."
+     },
+     "q30": {
+      "text": "The passage states that it's possible to make out *more than* 70 distinct symbols, not *just under* 70, therefore the statement is false.",
+      "quote": "The precise size of the ‘alphabet’ of the Voynich manuscript was unclear: it’s possible to make out more than 70 distinct symbols among the 170,000-character text."
+     },
+     "q31": {
+      "text": "The quote directly states that Friedman found some words and phrases appeared more often than expected in a standard language, which casts doubt on the manuscript concealing a real language. This supports the answer that William Friedman is the person who found that the number of times some words occur makes it unlikely that the manuscript is based on an authentic language.",
+      "quote": "Furthermore, Friedman discovered that some words and phrases appeared more often than expected in a standard language, casting doubt on claims that the manuscript concealed a real language, as encryption typically reduces word frequencies."
+     },
+     "q32": {
+      "text": "The quote directly states that unlike other mysteries involving secondhand reports, the Voynich manuscript is one that people can see for themselves, which supports the answer that people can gain direct access to it, according to Gordon Rugg.",
+      "quote": "‘Most other mysteries involve secondhand reports,’ says Dr Gordon Rugg of Keele University, a leading Voynich expert. But this is one that you can see for yourself."
+     },
+     "q33": {
+      "text": "The quote directly states that Churchill suggested the author of the manuscript may have 'lost touch with reality,' implying they may not have been entirely sane.",
+      "quote": "Others, such as Churchill, have suggested that the sheer weirdness of the illustrations and text hint at an author who had lost touch with reality."
+     },
+     "q34": {
+      "text": "The passage states that William Newbold supported Voynich's view that Roger Bacon was the author of the manuscript, making C the correct answer.",
+      "quote": "In 1921 Voynich’s view that Bacon was the writer appeared to win support from the work of William Newbold, Professor of Philosophy at the University of Pennsylvania, who claimed to have found the key to the cipher system used by Bacon."
+     },
+     "q35": {
+      "text": "The passage states that Newbold believed the manuscript proved Bacon had access to a microscope, which directly answers the question. The question also mentions that other researchers found flaws in his argument, which is also mentioned in the passage.",
+      "quote": "According to Newbold, the manuscript proved that Bacon had access to a microscope centuries before they were supposedly first invented."
+     },
+     "q36": {
+      "text": "The passage states that Friedman concluded the manuscript was an artificial language whose words are devised from concepts, which directly answers the question.",
+      "quote": "Friedman concluded that the most plausible resolution of this paradox was that “Voynichese” is some sort of specially created artificial language, whose words are devised from concepts, rather than linguistics."
+     },
+     "q37": {
+      "text": "The passage states that Friedman believed major insights would come from the computer, which had already transformed codebreaking. This directly supports the answer 'computer' as the device that would continue to bring advances in code breaking.",
+      "quote": "Even though Friedman was working more than 60 years ago, he suspected that major insights would come from using the device that had already transformed codebreaking: the computer."
+     },
+     "q38": {
+      "text": "The quote directly states that Dr. Gabriel Landini used a method called \"spectral analysis\" in his study of the Voynich manuscript, which aligns with the summary completion question.",
+      "quote": "For example, in 2001 another leading Voynich scholar, Dr Gabriel Landini of Birmingham University in the UK, published the results of his study of the manuscript using a pattern-detecting method called spectral analysis."
+     },
+     "q39": {
+      "text": "The quote directly states that Rugg's system used a grille to select symbols from a table, which supports the answer 'table'. The passage also mentions Rugg's conclusion that he demonstrated it's feasible to hoax something this complex, implying the manuscript lacked genuine meaning.",
+      "quote": "Using a system, first published by the Italian mathematician Girolamo Cardano in 1550 in which a specially constructed grille was issued to pick out symbols from a table, Rugg found he could rapidly generate text with many of the basic traits of the Voynich manuscript."
+     },
+     "q40": {
+      "text": "The passage focuses on the various attempts made by different people to understand and decode the Voynich manuscript, as highlighted by the sentence mentioning the attention it has received from various individuals.",
+      "quote": "Over the years, the manuscript has attracted the attention of everyone from amateur dabblers to top codebreakers, all determined to succeed where countless others have failed."
+     }
+    },
+    "passageHeader": {
+     "title": "READING PASSAGE 3",
+     "instruction": "You should spend about 20 minutes on <strong>Questions 27-40</strong>, which are based on Reading Passage 3."
+    },
+    "questionRange": "27-40",
+    "correctAnswers": {
+     "q27": [
+      "TRUE"
+     ],
+     "q28": [
+      "NOT GIVEN"
+     ],
+     "q29": [
+      "TRUE"
+     ],
+     "q30": [
+      "FALSE"
+     ],
+     "q31": [
+      "D"
+     ],
+     "q32": [
+      "A"
+     ],
+     "q33": [
+      "E"
+     ],
+     "q34": [
+      "C"
+     ],
+     "q35": [
+      "microscope"
+     ],
+     "q36": [
+      "concepts"
+     ],
+     "q37": [
+      "computer"
+     ],
+     "q38": [
+      "spectral analysis"
+     ],
+     "q39": [
+      "table"
+     ],
+     "q40": [
+      "C"
+     ]
+    },
+    "timeRecommended": 20,
+    "questionSections": [
+     {
+      "type": "tfng",
+      "title": "Questions 27-30",
+      "typeName": "True/False/Not Given",
+      "questions": [
+       {
+        "id": 27,
+        "text": "It is uncertain when the Voynich manuscript was written."
+       },
+       {
+        "id": 28,
+        "text": "Wilfrid Voynich donated the manuscript to the Beinecke Library."
+       },
+       {
+        "id": 29,
+        "text": "Interest in the Voynich manuscript extends beyond that of academics and professional codebreakers."
+       },
+       {
+        "id": 30,
+        "text": "The text of the Voynich manuscript contains just under 70 symbols."
+       }
+      ],
+      "instruction": "Do the following statements agree with the information given in Reading Passage 3?<br><br>In boxes 27-30 on your answer sheet, write<br><br><strong>True</strong> if the statement agrees with the information<br><strong>False</strong> if the statement contradicts the information<br><strong>Not Given</strong> if there is no information on this",
+      "featuresList": [],
+      "headingsList": []
+     },
+     {
+      "type": "matching-features",
+      "title": "Questions 31-34",
+      "boxTitle": "List of People",
+      "typeName": "Matching People",
+      "questions": [
+       {
+        "id": 31,
+        "text": "The number of times that some words occur makes it unlikely that the manuscript is based on an authentic language."
+       },
+       {
+        "id": 32,
+        "text": "Unlike some other similar objects of fascination, people can gain direct access to the Voynich manuscript."
+       },
+       {
+        "id": 33,
+        "text": "The person who wrote the manuscript may not have been entirely sane."
+       },
+       {
+        "id": 34,
+        "text": "It is likely that the author of the manuscript is the same person as suggested by Wilfrid Voynich."
+       }
+      ],
+      "instruction": "Look at the following statements and the list of people below.<br><br>Match each statement with the correct person, <strong>A-H</strong>.<br><br>Write the correct letter, <strong>A-H</strong>, in boxes 31-34 on your answer sheet.",
+      "featuresList": [
+       "A Gordon Rugg",
+       "B Roger Bacon",
+       "C William Newbold",
+       "D William Friedman",
+       "E Rob Churchill",
+       "F Gabriel Landini",
+       "G Ren Zandbergen",
+       "H Girolamo Cardano"
+      ],
+      "headingsList": []
+     },
+     {
+      "type": "completion",
+      "title": "Questions 35-39",
+      "typeName": "Summary Completion",
+      "questions": [
+       {
+        "id": 35,
+        "text": "William Newbold believed that the author of the Voynich manuscript had been able to look at cells through a ___. Other researchers later demonstrated that there were flaws in his argument."
+       },
+       {
+        "id": 36,
+        "text": "William Friedman concluded that the manuscript was written in an artificial language that was based on ___."
+       },
+       {
+        "id": 37,
+        "text": "He couldn't find out the meaning of this language but he believed that the ___ would continue to bring advances in code breaking."
+       },
+       {
+        "id": 38,
+        "text": "Dr Gabriel Landini used a system known as ___ in his research, and claims to have demonstrated the presence of genuine words."
+       },
+       {
+        "id": 39,
+        "text": "Dr Gordon Rugg's system involved a grille that made it possible to quickly select symbols that appeared in a ___. Rugg's conclusion was that the manuscript lacked genuine meaning."
+       }
+      ],
+      "instruction": "Complete the summary below.<br><br>Choose <strong>NO MORE THAN TWO WORDS</strong> from Reading Passage 3 for each answer.<br><br>Write your answers in boxes 35-39 on your answer sheet.<br><br><strong>Voynich Researchers</strong>",
+      "featuresList": [],
+      "headingsList": []
+     },
+     {
+      "type": "mcq",
+      "title": "Question 40",
+      "typeName": "Multiple Choice",
+      "questions": [
+       {
+        "id": 40,
+        "text": "The writer's main aim in this passage is to",
+        "options": [
+         "A explain the meaning of the manuscript.",
+         "B determine the true identity of the manuscript's author.",
+         "C describe the numerous attempts to decode the manuscript.",
+         "D identify which research into the manuscript has had the most media coverage."
+        ]
+       }
+      ],
+      "instruction": "Choose the correct letter, <strong>A, B, C or D</strong>.<br><br>Write the correct letter in box 40 on your answer sheet.",
+      "featuresList": [],
+      "headingsList": []
+     }
+    ]
+   }
+  ],
+  "testInfo": {
+   "passages": 3,
+   "totalTime": 60,
+   "totalQuestions": 40
+  }
+ },
+ "created_at": "2026-05-12T05:17:01.773648+00:00",
+ "updated_at": "2026-05-19T16:11:56.805888+00:00"
+}

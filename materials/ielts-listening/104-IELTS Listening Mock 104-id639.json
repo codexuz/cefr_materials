@@ -1,0 +1,477 @@
+{
+ "id": 639,
+ "mock_type": "ielts-listening",
+ "mock_number": 104,
+ "title": "IELTS Listening Mock 104",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "gap-fill-form",
+    "title": "Public Library",
+    "answers": {
+     "1": [
+      "travel",
+      "travelling",
+      "traveling"
+     ],
+     "2": [
+      "history"
+     ],
+     "3": [
+      "study"
+     ],
+     "4": [
+      "teenagers"
+     ],
+     "5": [
+      "kitchen"
+     ],
+     "6": [
+      "crime"
+     ],
+     "7": [
+      "appointment",
+      "booking"
+     ],
+     "8": [
+      "sugar"
+     ],
+     "9": [
+      "stamps"
+     ],
+     "10": [
+      "parking"
+     ]
+    },
+    "subParts": null,
+    "audioFile": "https://audio.mock-stream.com/ielts-listening/test104/part1.m4a",
+    "formTitle": "",
+    "partNumber": 1,
+    "formContent": "<div class=\"ielts-form-container\"><div class=\"form-section\"><div class=\"form-title\" style=\"text-align:center;font-weight:700;font-size:1.25em;margin-bottom:12px;\">PUBLIC LIBRARY</div><p><em>Example</em><br>The library re-opened last <span style=\"text-decoration:underline;\">month</span></p><p style=\"font-weight:700;margin-top:10px;\">The library now has</p><p style=\"padding-left:18px;\">&bull;&nbsp; a seating area with magazines</p><p style=\"padding-left:18px;\">&bull;&nbsp; an expanded section for books on <strong>1</strong> <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"1\" style=\"width:130px;text-align:center;\"></p><p style=\"padding-left:18px;\">&bull;&nbsp; a new section on local <strong>2</strong> <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"2\" style=\"width:130px;text-align:center;\"></p><p style=\"padding-left:18px;\">&bull;&nbsp; a community room for meetings (also possible to <strong>3</strong> <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"3\" style=\"width:130px;text-align:center;\"> there)</p><p style=\"padding-left:18px;\">&bull;&nbsp; a new section of books for <strong>4</strong> <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"4\" style=\"width:130px;text-align:center;\"></p><p style=\"font-weight:700;margin-top:10px;\">For younger children</p><p style=\"padding-left:18px;\">&bull;&nbsp; the next Science Club meeting: experiments using things from your <strong>5</strong> <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"5\" style=\"width:130px;text-align:center;\"></p><p style=\"padding-left:18px;\">&bull;&nbsp; Reading Challenge: read six books during the holidays</p><p style=\"font-weight:700;margin-top:10px;\">For adults</p><p style=\"padding-left:18px;\">&bull;&nbsp; this Friday: a local author talks about a novel based on a real <strong>6</strong> <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"6\" style=\"width:130px;text-align:center;\"></p><p style=\"padding-left:18px;\">&bull;&nbsp; IT support is available on Tuesdays &ndash; no <strong>7</strong> <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"7\" style=\"width:130px;text-align:center;\"> is necessary</p><p style=\"padding-left:18px;\">&bull;&nbsp; free check of blood <strong>8</strong> <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"8\" style=\"width:130px;text-align:center;\"> and cholesterol levels (over 60s only)</p><p style=\"font-weight:700;margin-top:10px;\">Other information</p><p style=\"padding-left:18px;\">&bull;&nbsp; the library shop sells wall-charts, cards and <strong>9</strong> <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"9\" style=\"width:130px;text-align:center;\"></p><p style=\"padding-left:18px;\">&bull;&nbsp; evenings and weekends: free <strong>10</strong> <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"10\" style=\"width:130px;text-align:center;\"> is available</p></div></div>",
+    "instruction": "You will hear a woman giving information about a public library.<br>Complete the notes below. Write <strong>ONE WORD ONLY</strong> for each answer.",
+    "questionRange": "1-10"
+   },
+   {
+    "type": "mixed",
+    "title": "BC Travel",
+    "answers": {
+     "11": [
+      "D",
+      "E"
+     ],
+     "12": [
+      "D",
+      "E"
+     ],
+     "13": [
+      "A",
+      "C"
+     ],
+     "14": [
+      "A",
+      "C"
+     ],
+     "15": [
+      "C"
+     ],
+     "16": [
+      "B"
+     ],
+     "17": [
+      "A"
+     ],
+     "18": [
+      "stress"
+     ],
+     "19": [
+      "weight"
+     ],
+     "20": [
+      "families"
+     ]
+    },
+    "subParts": [
+     {
+      "type": "mcq-multi",
+      "options": [
+       {
+        "text": "16&ndash;30 years",
+        "letter": "A"
+       },
+       {
+        "text": "31&ndash;42 years",
+        "letter": "B"
+       },
+       {
+        "text": "43&ndash;54 years",
+        "letter": "C"
+       },
+       {
+        "text": "55&ndash;64 years",
+        "letter": "D"
+       },
+       {
+        "text": "over 65 years",
+        "letter": "E"
+       }
+      ],
+      "instruction": "Questions 11 and 12<br>Choose <strong>TWO</strong> letters, <strong>A-E</strong>.<br>Which TWO age groups are taking increasing numbers of holidays with BC Travel?",
+      "questionIds": [
+       11,
+       12
+      ]
+     },
+     {
+      "type": "mcq-multi",
+      "options": [
+       {
+        "text": "Clients make new friends.",
+        "letter": "A"
+       },
+       {
+        "text": "Clients learn a useful skill.",
+        "letter": "B"
+       },
+       {
+        "text": "Clients learn about a different culture.",
+        "letter": "C"
+       },
+       {
+        "text": "Clients are excited by the risk involved.",
+        "letter": "D"
+       },
+       {
+        "text": "Clients find them good value for money.",
+        "letter": "E"
+       }
+      ],
+      "instruction": "Questions 13 and 14<br>Choose <strong>TWO</strong> letters, <strong>A-E</strong>.<br>Which TWO are the main reasons given for the popularity of activity holidays?",
+      "questionIds": [
+       13,
+       14
+      ]
+     },
+     {
+      "type": "mcq",
+      "questions": [
+       {
+        "id": 15,
+        "text": "How does BC Travel plan to expand the painting holidays?",
+        "options": [
+         {
+          "text": "by adding to the number of locations",
+          "letter": "A"
+         },
+         {
+          "text": "by increasing the range of levels",
+          "letter": "B"
+         },
+         {
+          "text": "by employing more teachers",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 16,
+        "text": "Why are BC Travel&rsquo;s cooking holidays unusual?",
+        "options": [
+         {
+          "text": "They only use organic foods.",
+          "letter": "A"
+         },
+         {
+          "text": "They have an international focus.",
+          "letter": "B"
+         },
+         {
+          "text": "They mainly involve vegetarian dishes.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 17,
+        "text": "What does the speaker say about the photography holidays?",
+        "options": [
+         {
+          "text": "Clients receive individual tuition.",
+          "letter": "A"
+         },
+         {
+          "text": "The tutors are also trained guides.",
+          "letter": "B"
+         },
+         {
+          "text": "Advice is given on selling photographs.",
+          "letter": "C"
+         }
+        ]
+       }
+      ],
+      "instruction": "Questions 15-17<br>Choose the correct letter, <strong>A</strong>, <strong>B</strong> or <strong>C</strong>."
+     },
+     {
+      "type": "gap-fill-form",
+      "formTitle": "",
+      "formContent": "<div class=\"ielts-form-container\"><div class=\"form-section\"><div class=\"form-title\" style=\"text-align:center;font-weight:700;font-size:1.25em;margin-bottom:12px;\">Fitness Holidays</div><table style=\"width:100%;border-collapse:collapse;border:1px solid #333;\"><thead><tr><th style=\"border:1px solid #333;padding:8px;text-align:center;\">Location</th><th style=\"border:1px solid #333;padding:8px;text-align:center;\">Main focus</th><th style=\"border:1px solid #333;padding:8px;text-align:center;\">Other comments</th></tr></thead><tbody><tr><td style=\"border:1px solid #333;padding:8px;vertical-align:top;\">Ireland and Italy</td><td style=\"border:1px solid #333;padding:8px;vertical-align:top;\">general fitness</td><td style=\"border:1px solid #333;padding:8px;vertical-align:top;\">&bull;&nbsp; personally designed programme<br>&bull;&nbsp; also reduces <strong>18</strong> <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"18\" style=\"width:130px;text-align:center;\"></td></tr><tr><td style=\"border:1px solid #333;padding:8px;vertical-align:top;\">Greece</td><td style=\"border:1px solid #333;padding:8px;vertical-align:top;\"><strong>19</strong> <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"19\" style=\"width:130px;text-align:center;\"> control</td><td style=\"border:1px solid #333;padding:8px;vertical-align:top;\">&bull;&nbsp; includes exercise on the beach</td></tr><tr><td style=\"border:1px solid #333;padding:8px;vertical-align:top;\">Morocco</td><td style=\"border:1px solid #333;padding:8px;vertical-align:top;\">mountain biking</td><td style=\"border:1px solid #333;padding:8px;vertical-align:top;\">&bull;&nbsp; wide variety of levels<br>&bull;&nbsp; one holiday that is specially designed for <strong>20</strong> <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"20\" style=\"width:130px;text-align:center;\"></td></tr></tbody></table></div></div>",
+      "instruction": "Questions 18-20<br>Complete the table below. Write <strong>ONE WORD ONLY</strong> for each answer."
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/ielts-listening/test104/part2.m4a",
+    "partNumber": 2,
+    "instruction": "You will hear a manager of a company called BC Travel giving a talk about the holidays it offers.",
+    "questionRange": "11-20"
+   },
+   {
+    "type": "mixed",
+    "title": "Stages in doing a tourism case study",
+    "answers": {
+     "21": [
+      "C"
+     ],
+     "22": [
+      "E"
+     ],
+     "23": [
+      "H"
+     ],
+     "24": [
+      "B"
+     ],
+     "25": [
+      "A"
+     ],
+     "26": [
+      "F"
+     ],
+     "27": [
+      "A"
+     ],
+     "28": [
+      "C"
+     ],
+     "29": [
+      "B"
+     ],
+     "30": [
+      "B"
+     ]
+    },
+    "subParts": [
+     {
+      "type": "matching",
+      "options": [
+       {
+        "text": "patterns",
+        "letter": "A"
+       },
+       {
+        "text": "names",
+        "letter": "B"
+       },
+       {
+        "text": "sources",
+        "letter": "C"
+       },
+       {
+        "text": "questions",
+        "letter": "D"
+       },
+       {
+        "text": "employees",
+        "letter": "E"
+       },
+       {
+        "text": "solutions",
+        "letter": "F"
+       },
+       {
+        "text": "headings",
+        "letter": "G"
+       },
+       {
+        "text": "officials",
+        "letter": "H"
+       }
+      ],
+      "boxTitle": "",
+      "questions": [
+       {
+        "id": 21,
+        "text": "RESEARCH &ndash; Locate and read relevant articles, noting key information and also ______"
+       },
+       {
+        "id": 22,
+        "text": "Select interviewees &ndash; these may be site ______ ,"
+       },
+       {
+        "id": 23,
+        "text": "visitors or city ______"
+       },
+       {
+        "id": 24,
+        "text": "Check whether ______ of interviewees can be used"
+       },
+       {
+        "id": 25,
+        "text": "ANALYSIS &ndash; Select relevant information and try to identify ______"
+       },
+       {
+        "id": 26,
+        "text": "WRITING THE CASE STUDY &ndash; Do NOT end with ______"
+       }
+      ],
+      "boxHeading": "STAGES IN DOING A TOURISM CASE STUDY",
+      "instruction": "Questions 21-26<br>Complete the flow-chart below.<br>Choose <strong>SIX</strong> answers from the box and write the correct letter, <strong>A-H</strong>, next to Questions 21-26."
+     },
+     {
+      "type": "mcq",
+      "questions": [
+       {
+        "id": 27,
+        "text": "Natalie and Dave agree one reason why so few people visit Horton Castle is that",
+        "options": [
+         {
+          "text": "the publicity is poor.",
+          "letter": "A"
+         },
+         {
+          "text": "it is difficult to get to.",
+          "letter": "B"
+         },
+         {
+          "text": "there is little there of interest.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 28,
+        "text": "Natalie and Dave agree that the greatest problem with a visitor centre could be",
+        "options": [
+         {
+          "text": "covering the investment costs.",
+          "letter": "A"
+         },
+         {
+          "text": "finding a big enough space for it.",
+          "letter": "B"
+         },
+         {
+          "text": "dealing with planning restrictions.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 29,
+        "text": "What does Dave say about conditions in the town of Horton?",
+        "options": [
+         {
+          "text": "There is a lot of unemployment.",
+          "letter": "A"
+         },
+         {
+          "text": "There are few people of working age.",
+          "letter": "B"
+         },
+         {
+          "text": "There are opportunities for skilled workers.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 30,
+        "text": "According to Natalie, one way to prevent damage to the castle site would be to",
+        "options": [
+         {
+          "text": "insist visitors have a guide.",
+          "letter": "A"
+         },
+         {
+          "text": "make visitors keep to the paths.",
+          "letter": "B"
+         },
+         {
+          "text": "limit visitor numbers.",
+          "letter": "C"
+         }
+        ]
+       }
+      ],
+      "instruction": "Questions 27-30<br>Choose the correct letter, <strong>A</strong>, <strong>B</strong> or <strong>C</strong>.<br><strong>The Horton Castle site</strong>"
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/ielts-listening/test104/part3.m4a",
+    "partNumber": 3,
+    "instruction": "You will hear two students, Natalie and Dave, discussing how to carry out a tourism case study and a possible visitor centre at Horton Castle.",
+    "questionRange": "21-30"
+   },
+   {
+    "type": "gap-fill-form",
+    "title": "The effects of environmental change on birds",
+    "answers": {
+     "31": [
+      "insects"
+     ],
+     "32": [
+      "behaviour",
+      "behavior"
+     ],
+     "33": [
+      "father"
+     ],
+     "34": [
+      "complex",
+      "complicated"
+     ],
+     "35": [
+      "reproduction",
+      "breeding"
+     ],
+     "36": [
+      "control"
+     ],
+     "37": [
+      "duck",
+      "ducks"
+     ],
+     "38": [
+      "language"
+     ],
+     "39": [
+      "food"
+     ],
+     "40": [
+      "cost",
+      "costs",
+      "price",
+      "prices",
+      "bill",
+      "bills"
+     ]
+    },
+    "subParts": null,
+    "audioFile": "https://audio.mock-stream.com/ielts-listening/test104/part4.m4a",
+    "formTitle": "",
+    "partNumber": 4,
+    "formContent": "<div class=\"ielts-form-container\"><div class=\"form-section\"><div class=\"form-title\" style=\"text-align:center;font-weight:700;font-size:1.25em;margin-bottom:12px;\">The effects of environmental change on birds</div><p style=\"font-weight:700;\">Mercury (Hg)</p><p style=\"padding-left:18px;\">&bull;&nbsp; Highly toxic</p><p style=\"padding-left:18px;\">&bull;&nbsp; Released into the atmosphere from coal</p><p style=\"padding-left:18px;\">&bull;&nbsp; In water it may be consumed by fish</p><p style=\"padding-left:18px;\">&bull;&nbsp; It has also recently been found to affect birds which feed on <strong>31</strong> <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"31\" style=\"width:130px;text-align:center;\"></p><p style=\"font-weight:700;margin-top:10px;\">Research on effects of mercury on birds</p><p style=\"padding-left:18px;\">&bull;&nbsp; Claire Varian-Ramos is investigating:</p><p style=\"padding-left:40px;\">&ndash;&nbsp; the effects on birds&rsquo; <strong>32</strong> <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"32\" style=\"width:130px;text-align:center;\"> or mental processes, e.g. memory</p><p style=\"padding-left:40px;\">&ndash;&nbsp; the effects on bird song (usually learned from a bird&rsquo;s <strong>33</strong> <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"33\" style=\"width:130px;text-align:center;\"> )</p><p style=\"padding-left:18px;\">&bull;&nbsp; Findings:</p><p style=\"padding-left:40px;\">&ndash;&nbsp; songs learned by birds exposed to mercury are less <strong>34</strong> <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"34\" style=\"width:130px;text-align:center;\"></p><p style=\"padding-left:40px;\">&ndash;&nbsp; this may have a negative effect on birds&rsquo; <strong>35</strong> <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"35\" style=\"width:130px;text-align:center;\"></p><p style=\"padding-left:18px;\">&bull;&nbsp; Lab-based studies:</p><p style=\"padding-left:40px;\">&ndash;&nbsp; allow more <strong>36</strong> <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"36\" style=\"width:130px;text-align:center;\"> for the experimenter</p><p style=\"font-weight:700;margin-top:10px;\">Implications for humans</p><p style=\"padding-left:18px;\">&bull;&nbsp; Migrating birds such as <strong>37</strong> <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"37\" style=\"width:130px;text-align:center;\"> containing mercury may be eaten by humans</p><p style=\"padding-left:18px;\">&bull;&nbsp; Mercury also causes problems in learning <strong>38</strong> <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"38\" style=\"width:130px;text-align:center;\"></p><p style=\"padding-left:18px;\">&bull;&nbsp; Mercury in a mother&rsquo;s body from <strong>39</strong> <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"39\" style=\"width:130px;text-align:center;\"> may affect the unborn child</p><p style=\"padding-left:18px;\">&bull;&nbsp; New regulations for mercury emissions will affect everyone&rsquo;s energy <strong>40</strong> <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"40\" style=\"width:130px;text-align:center;\"></p></div></div>",
+    "instruction": "You will hear part of a lecture about the effects of environmental change on birds.<br>Complete the notes below. Write <strong>ONE WORD ONLY</strong> for each answer.",
+    "questionRange": "31-40"
+   }
+  ],
+  "source": "Cambridge 12 · Academic Listening Test 7",
+  "examDate": "",
+  "testInfo": {
+   "title": "IELTS Listening Practice Test",
+   "sections": 4,
+   "totalTime": 40,
+   "totalQuestions": 40
+  }
+ },
+ "created_at": "2026-07-14T03:02:00.059734+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

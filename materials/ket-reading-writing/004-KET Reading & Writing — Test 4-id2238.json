@@ -1,0 +1,920 @@
+{
+ "id": 2238,
+ "mock_type": "ket-reading-writing",
+ "mock_number": 4,
+ "title": "KET Reading & Writing — Test 4",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "match-notices",
+    "items": [
+     {
+      "id": 1,
+      "answer": "H",
+      "prompt": "You must use the stairs."
+     },
+     {
+      "id": 2,
+      "answer": "E",
+      "prompt": "You can't go to class."
+     },
+     {
+      "id": 3,
+      "answer": "A",
+      "prompt": "You should drive carefully."
+     },
+     {
+      "id": 4,
+      "answer": "G",
+      "prompt": "You mustn't take your suitcase."
+     },
+     {
+      "id": 5,
+      "answer": "D",
+      "prompt": "You must pay in cash."
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "F",
+     "number": 0,
+     "prompt": "You can't go here on Sunday."
+    },
+    "notices": [
+     {
+      "text": "CHILDREN\nCROSSING",
+      "letter": "A"
+     },
+     {
+      "text": "PLEASE PAY HERE",
+      "letter": "B"
+     },
+     {
+      "text": "Boil for 1½ hours",
+      "letter": "C"
+     },
+     {
+      "text": "WE DO NOT\nACCEPT CHEQUES\nOR CREDIT CARDS",
+      "letter": "D"
+     },
+     {
+      "text": "Sorry\nNo Lesson Today",
+      "letter": "E"
+     },
+     {
+      "text": "Open Weekdays",
+      "letter": "F"
+     },
+     {
+      "text": "Hand Luggage Only",
+      "letter": "G"
+     },
+     {
+      "text": "LIFT\nOUT OF ORDER",
+      "letter": "H"
+     }
+    ],
+    "partNumber": 1,
+    "instruction": [
+     "Which notice (A–H) says this (1–5)?",
+     "For questions 1–5, mark the correct letter A–H on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "mcq-gap-fill-sentences",
+    "items": [
+     {
+      "id": 6,
+      "answer": "C",
+      "options": [
+       {
+        "text": "sitting",
+        "letter": "A"
+       },
+       {
+        "text": "staying",
+        "letter": "B"
+       },
+       {
+        "text": "waiting",
+        "letter": "C"
+       }
+      ],
+      "sentence": "His father and mother were _____ for him in the car."
+     },
+     {
+      "id": 7,
+      "answer": "A",
+      "options": [
+       {
+        "text": "way",
+        "letter": "A"
+       },
+       {
+        "text": "travel",
+        "letter": "B"
+       },
+       {
+        "text": "road",
+        "letter": "C"
+       }
+      ],
+      "sentence": "It was a long _____ to their hotel by the sea."
+     },
+     {
+      "id": 8,
+      "answer": "C",
+      "options": [
+       {
+        "text": "difficult",
+        "letter": "A"
+       },
+       {
+        "text": "slow",
+        "letter": "B"
+       },
+       {
+        "text": "late",
+        "letter": "C"
+       }
+      ],
+      "sentence": "When they arrived there, it was getting _____."
+     },
+     {
+      "id": 9,
+      "answer": "B",
+      "options": [
+       {
+        "text": "went",
+        "letter": "A"
+       },
+       {
+        "text": "took",
+        "letter": "B"
+       },
+       {
+        "text": "drove",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Their rooms were on the top floor so they _____ the lift."
+     },
+     {
+      "id": 10,
+      "answer": "B",
+      "options": [
+       {
+        "text": "boring",
+        "letter": "A"
+       },
+       {
+        "text": "tired",
+        "letter": "B"
+       },
+       {
+        "text": "hungry",
+        "letter": "C"
+       }
+      ],
+      "sentence": "After supper, they were quite _____ so they went straight to bed."
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "answer": "B",
+     "number": 0,
+     "options": [
+      {
+       "text": "did",
+       "letter": "A"
+      },
+      {
+       "text": "put",
+       "letter": "B"
+      },
+      {
+       "text": "kept",
+       "letter": "C"
+      }
+     ],
+     "sentence": "Tom _____ his clothes into a suitcase."
+    },
+    "partNumber": 2,
+    "instruction": [
+     "Read the sentences (6–10) about going on holiday.",
+     "Choose the best word (A, B or C) for each space.",
+     "For questions 6–10, mark A, B or C on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-response",
+    "items": [
+     {
+      "id": 11,
+      "answer": "C",
+      "prompt": "Excuse me, when does the next train leave?",
+      "options": [
+       {
+        "text": "From Platform 4.",
+        "letter": "A"
+       },
+       {
+        "text": "Yesterday.",
+        "letter": "B"
+       },
+       {
+        "text": "In ten minutes.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "answer": "A",
+      "prompt": "When can we go to the cinema?",
+      "options": [
+       {
+        "text": "I'm free on Saturday.",
+        "letter": "A"
+       },
+       {
+        "text": "I like the cinema.",
+        "letter": "B"
+       },
+       {
+        "text": "I hope you can come.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "answer": "C",
+      "prompt": "Have a good holiday.",
+      "options": [
+       {
+        "text": "You have.",
+        "letter": "A"
+       },
+       {
+        "text": "You will.",
+        "letter": "B"
+       },
+       {
+        "text": "You too.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "answer": "C",
+      "prompt": "How do you like your meat done?",
+      "options": [
+       {
+        "text": "I don't like it.",
+        "letter": "A"
+       },
+       {
+        "text": "I like it very much.",
+        "letter": "B"
+       },
+       {
+        "text": "I like it well done.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "answer": "C",
+      "prompt": "How do you do?",
+      "options": [
+       {
+        "text": "Very well.",
+        "letter": "A"
+       },
+       {
+        "text": "I'm a doctor.",
+        "letter": "B"
+       },
+       {
+        "text": "How do you do?",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "answer": "B",
+     "number": 0,
+     "prompt": "What's the time?",
+     "options": [
+      {
+       "text": "Tuesday.",
+       "letter": "A"
+      },
+      {
+       "text": "Half past eight.",
+       "letter": "B"
+      },
+      {
+       "text": "1998.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partLetter": "a",
+    "partNumber": 3,
+    "instruction": [
+     "Complete the five conversations.",
+     "For conversations 11–15, mark A, B or C on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "type": "match-dialogue",
+    "items": [
+     {
+      "id": 16,
+      "answer": "H"
+     },
+     {
+      "id": 17,
+      "answer": "F"
+     },
+     {
+      "id": 18,
+      "answer": "E"
+     },
+     {
+      "id": 19,
+      "answer": "G"
+     },
+     {
+      "id": 20,
+      "answer": "A"
+     }
+    ],
+    "example": {
+     "answer": "B",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "Have you got mineral water?",
+      "letter": "A"
+     },
+     {
+      "text": "Good evening. I'd like a table for one.",
+      "letter": "B"
+     },
+     {
+      "text": "How much is it?",
+      "letter": "C"
+     },
+     {
+      "text": "What have you got?",
+      "letter": "D"
+     },
+     {
+      "text": "I think I'll have the pizza.",
+      "letter": "E"
+     },
+     {
+      "text": "Can you bring me the menu, please?",
+      "letter": "F"
+     },
+     {
+      "text": "Nothing more, thanks. Oh yes, perhaps a green salad.",
+      "letter": "G"
+     },
+     {
+      "text": "Yes, that's fine.",
+      "letter": "H"
+     }
+    ],
+    "dialogue": [
+     {
+      "line": "Good evening, sir. How can I help you?",
+      "speaker": "Waiter"
+     },
+     {
+      "gap": 0,
+      "speaker": "David"
+     },
+     {
+      "line": "Certainly, sir. This one by the window?",
+      "speaker": "Waiter"
+     },
+     {
+      "gap": 16,
+      "speaker": "David"
+     },
+     {
+      "line": "And what would you like to eat?",
+      "speaker": "Waiter"
+     },
+     {
+      "gap": 17,
+      "speaker": "David"
+     },
+     {
+      "line": "Spaghetti with meat and tomato sauce is very nice, or there is four-cheese pizza.",
+      "speaker": "Waiter"
+     },
+     {
+      "gap": 18,
+      "speaker": "David"
+     },
+     {
+      "line": "Fine. And would you like anything with it? Garlic bread or …",
+      "speaker": "Waiter"
+     },
+     {
+      "gap": 19,
+      "speaker": "David"
+     },
+     {
+      "line": "OK. And to drink?",
+      "speaker": "Waiter"
+     },
+     {
+      "gap": 20,
+      "speaker": "David"
+     },
+     {
+      "line": "Yes, certainly. So that's one four-cheese pizza, one green salad and one mineral water. Thank you, sir.",
+      "speaker": "Waiter"
+     }
+    ],
+    "partLetter": "b",
+    "partNumber": 3,
+    "instruction": [
+     "Complete the conversation.",
+     "What does David say to the waiter?",
+     "For questions 16–20, mark the correct letter A–H on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "type": "mcq-passage-rws",
+    "items": [
+     {
+      "id": 21,
+      "answer": "B",
+      "statement": "The number of house burglaries is the same as last year."
+     },
+     {
+      "id": 22,
+      "answer": "C",
+      "statement": "Most burglars are men."
+     },
+     {
+      "id": 23,
+      "answer": "A",
+      "statement": "People sometimes make things easy for burglars."
+     },
+     {
+      "id": 24,
+      "answer": "A",
+      "statement": "The summer is more difficult for burglars."
+     },
+     {
+      "id": 25,
+      "answer": "A",
+      "statement": "Burglars don't usually go to houses with lights on."
+     },
+     {
+      "id": 26,
+      "answer": "C",
+      "statement": "Burglars usually drive cars."
+     },
+     {
+      "id": 27,
+      "answer": "B",
+      "statement": "You have to pay for information from the police."
+     }
+    ],
+    "label": "PART 4",
+    "article": "Most house burglaries happen between 2 p.m. and 6 p.m., say the police.\n\nInspector Ian Saunders told our newspaper that the number of house burglaries has gone up by more than 30% compared with last year. He also said that 67% of burglaries happen when people have gone out and forgotten to close a door or a window.\n\nHe went on to report that night-time burglaries are unusual because families are usually at home at that time. But he said that winter afternoons are the best time for burglars because it is dark and they can't be seen easily. Also many houses are empty at that time, because people are often still at work.\n\nInspector Saunders said that it is a good idea to leave lights on in living rooms and bedrooms when you go on holiday. This will help to keep burglars away. He also asked neighbours to watch the other houses in the street when people are not at home. They should call the police if they see anything strange. 'We will also tell you how to make your house safe,' Inspector Saunders said. 'This kind of help costs nothing.'",
+    "example": {
+     "answer": "B",
+     "number": 0,
+     "statement": "Most burglaries happen in the morning."
+    },
+    "partNumber": 4,
+    "instruction": [
+     "Read the article about burglars.",
+     "Are sentences 21–27 'Right' (A) or 'Wrong' (B)?",
+     "If there is not enough information to answer 'Right' (A) or 'Wrong' (B), choose 'Doesn’t say' (C).",
+     "For questions 21–27, mark A, B or C on the answer sheet."
+    ],
+    "articleTitle": "BURGLARS LOVE THE AFTERNOON",
+    "questionsLabel": "QUESTIONS 21–27"
+   },
+   {
+    "type": "mcq-cloze-passage",
+    "items": [
+     {
+      "id": 28,
+      "answer": "C",
+      "options": [
+       {
+        "text": "at",
+        "letter": "A"
+       },
+       {
+        "text": "by",
+        "letter": "B"
+       },
+       {
+        "text": "in",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 29,
+      "answer": "B",
+      "options": [
+       {
+        "text": "make",
+        "letter": "A"
+       },
+       {
+        "text": "made",
+        "letter": "B"
+       },
+       {
+        "text": "makes",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 30,
+      "answer": "A",
+      "options": [
+       {
+        "text": "a",
+        "letter": "A"
+       },
+       {
+        "text": "one",
+        "letter": "B"
+       },
+       {
+        "text": "some",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 31,
+      "answer": "B",
+      "options": [
+       {
+        "text": "her",
+        "letter": "A"
+       },
+       {
+        "text": "him",
+        "letter": "B"
+       },
+       {
+        "text": "them",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 32,
+      "answer": "C",
+      "options": [
+       {
+        "text": "has",
+        "letter": "A"
+       },
+       {
+        "text": "is",
+        "letter": "B"
+       },
+       {
+        "text": "was",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 33,
+      "answer": "B",
+      "options": [
+       {
+        "text": "any",
+        "letter": "A"
+       },
+       {
+        "text": "the",
+        "letter": "B"
+       },
+       {
+        "text": "those",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 34,
+      "answer": "A",
+      "options": [
+       {
+        "text": "and",
+        "letter": "A"
+       },
+       {
+        "text": "because",
+        "letter": "B"
+       },
+       {
+        "text": "when",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 35,
+      "answer": "B",
+      "options": [
+       {
+        "text": "ever",
+        "letter": "A"
+       },
+       {
+        "text": "still",
+        "letter": "B"
+       },
+       {
+        "text": "yet",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 5",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "options": [
+      {
+       "text": "can",
+       "letter": "A"
+      },
+      {
+       "text": "must",
+       "letter": "B"
+      },
+      {
+       "text": "shall",
+       "letter": "C"
+      }
+     ]
+    },
+    "passage": "One very famous place for tourists in London is Madame Tussaud's museum. Here people {0} see figures of famous people made of wax.\n\nMadame Tussaud was born {28} France in 1761. Her uncle, a doctor, {29} wax figures of people. He opened {30} museum of these figures in Paris. Marie helped {31} in his work.\n\nIn 1789, during the French Revolution, Marie {32} sent to prison. Here she had to copy {33} heads of famous people when they were dead, including Queen Marie Antoinette's.\n\nIn 1795, Marie married François Tussaud {34} in 1802 she came to London with her wax figures. Here she opened a museum and her figures can {35} be seen today.",
+    "partNumber": 5,
+    "instruction": [
+     "Read the information about Madame Tussaud's museum in London.",
+     "Choose the best word (A, B or C) for each space (28–35).",
+     "For questions 28–35, mark A, B or C on the answer sheet."
+    ],
+    "passageTitle": "Madame Tussaud's",
+    "questionsLabel": "QUESTIONS 28–35"
+   },
+   {
+    "type": "vocab-first-letter",
+    "items": [
+     {
+      "id": 36,
+      "answer": "feet",
+      "prompt": "You have got two of these with five toes on each one.",
+      "letters": 4,
+      "firstLetter": "f"
+     },
+     {
+      "id": 37,
+      "answer": "ears",
+      "prompt": "You use these for hearing conversation, music and lots of other things.",
+      "letters": 4,
+      "firstLetter": "e"
+     },
+     {
+      "id": 38,
+      "answer": "legs",
+      "prompt": "If you break one of these, you can't walk.",
+      "letters": 4,
+      "firstLetter": "l"
+     },
+     {
+      "id": 39,
+      "answer": "mouth",
+      "prompt": "You open and close this when you talk.",
+      "letters": 5,
+      "firstLetter": "m"
+     },
+     {
+      "id": 40,
+      "answer": "teeth",
+      "prompt": "If these hurt, you must visit the dentist.",
+      "letters": 5,
+      "firstLetter": "t"
+     }
+    ],
+    "label": "PART 6",
+    "example": {
+     "answer": "hair",
+     "number": 0,
+     "prompt": "This grows on your head.",
+     "firstLetter": "h"
+    },
+    "partNumber": 6,
+    "instruction": [
+     "Read the descriptions (36–40) of some parts of the body.",
+     "What is the word for each description?",
+     "The first letter is already there. There is one space for each other letter in the word.",
+     "For questions 36–40, write the words on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 36–40"
+   },
+   {
+    "type": "open-cloze-letter",
+    "items": [
+     {
+      "id": 41,
+      "answer": "tell"
+     },
+     {
+      "id": 42,
+      "answer": "to"
+     },
+     {
+      "id": 43,
+      "answer": "could"
+     },
+     {
+      "id": 44,
+      "answer": "your"
+     },
+     {
+      "id": 45,
+      "answer": "of"
+     },
+     {
+      "id": 46,
+      "answer": "in"
+     },
+     {
+      "id": 47,
+      "answer": "that"
+     },
+     {
+      "id": 48,
+      "answer": "be"
+     },
+     {
+      "id": 49,
+      "answer": "I"
+     },
+     {
+      "id": 50,
+      "answer": "have"
+     }
+    ],
+    "label": "PART 7",
+    "example": {
+     "answer": "am",
+     "number": 0
+    },
+    "letters": [
+     {
+      "body": "I (Example: am) planning the holidays for next year. Please {41} me when you would like {42} take your holiday. If possible, {43} you give me two dates? Please give me {44} answer by the end {45} the month.\n\nThank you.",
+      "header": "Memo\nTo: All staff   From: D Brown\nSubject: Holidays   Date: 22.2.02",
+      "closing": "D Brown",
+      "greeting": ""
+     },
+     {
+      "body": "Could I take two weeks' holiday {46} July? I'd like to take the first two weeks, but if {47} is not possible the last two weeks will {48} OK. Also, can {49} take three extra days in the first week of December? I {50} not had a holiday this year.",
+      "header": "Memo\nTo: D Brown   From: J Green\nSubject: Holidays   Date: 23.2.02",
+      "closing": "John",
+      "greeting": ""
+     }
+    ],
+    "partNumber": 7,
+    "instruction": [
+     "Complete the memos.",
+     "Write ONE word for each space (41–50).",
+     "For questions 41–50, write your words on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 41–50"
+   },
+   {
+    "note": {
+     "body": "Dear Mr Byers,\n\nMy house is 8 km from the university and has four bedrooms and two bathrooms for students. I am out at work all day, so I can cook breakfast and dinner for them, but not lunch. My rooms are free at the beginning of next year.",
+     "dateLine": "3 Bridge Avenue, Newcastle",
+     "signature": "Yours,\nJane Forrest"
+    },
+    "rows": [
+     {
+      "label": "Name:",
+      "prefilled": "Jane Forrest"
+     },
+     {
+      "id": 51,
+      "label": "Address:",
+      "answer": "3 Bridge Avenue, Newcastle"
+     },
+     {
+      "id": 52,
+      "label": "Number of student bedrooms:",
+      "answer": "4"
+     },
+     {
+      "id": 53,
+      "label": "How far from University:",
+      "answer": "8 km"
+     },
+     {
+      "id": 54,
+      "label": "Number of meals per day:",
+      "answer": "2"
+     },
+     {
+      "id": 55,
+      "label": "Starting date:",
+      "answer": "1 January"
+     }
+    ],
+    "type": "info-transfer-notes",
+    "label": "PART 8",
+    "notice": {
+     "body": "We need rooms for students (maximum 10 km from university)\n\nRooms needed from 30 September or 1 January\n\nSam Byers, Student Rooms Officer\nWest Street, Newcastle",
+     "title": "Can you help?"
+    },
+    "notesTitle": "UNIVERSITY STUDENT ROOMS",
+    "partNumber": 8,
+    "instruction": [
+     "Read the advertisement for student rooms and the letter from Jane Forrest.",
+     "Fill in the information on the Application Form.",
+     "For questions 51–55, write the information on the answer sheet."
+    ],
+    "notesSubtitle": "Application Form",
+    "questionsLabel": "QUESTIONS 51–55"
+   },
+   {
+    "type": "writing-postcard",
+    "items": [
+     {
+      "id": 56,
+      "type": "free-text",
+      "answer": "Tomorrow morning at nine o'clock, my father will arrive at Birmingham New Street station.\nHe is a Japanese. And he is taller than me. He is wearing glasses and he hasn't got a lot of hair on his head.\nThanks, Michitaka",
+      "maxWords": 35,
+      "minWords": 25
+     }
+    ],
+    "label": "PART 9",
+    "footer": [
+     "Write 25–35 words.",
+     "Write your note on the answer sheet."
+    ],
+    "prompt": "",
+    "wordCount": "25–35 words",
+    "partNumber": 9,
+    "instruction": [
+     "You cannot be at the railway station when your father arrives there.",
+     "Your friend is going to meet him for you.",
+     "Write a note to your friend.",
+     "Say:",
+     "— when your father will arrive",
+     "— what he looks like",
+     "— what he will be wearing."
+    ],
+    "questionsLabel": "QUESTION 56",
+    "promptSignature": ""
+   }
+  ],
+  "testInfo": {
+   "id": "ket-rw-04",
+   "level": "A2",
+   "paper": "Paper 1",
+   "parts": 9,
+   "title": "KET Reading & Writing — Test 4",
+   "totalTime": 70,
+   "totalQuestions": 56
+  }
+ },
+ "created_at": "2026-10-14T06:44:58.244291+00:00",
+ "updated_at": "2026-10-14T08:56:21.102379+00:00"
+}

@@ -1,0 +1,592 @@
+{
+ "id": 551,
+ "mock_type": "ielts-listening",
+ "mock_number": 59,
+ "title": "IELTS Listening Mock 59",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "gap-fill-form",
+    "title": "Rooms to hire for parties",
+    "answers": {
+     "1": [
+      "fifth",
+      "5th"
+     ],
+     "2": [
+      "view"
+     ],
+     "3": [
+      "35"
+     ],
+     "4": [
+      "Saturday"
+     ],
+     "5": [
+      "Limerick"
+     ],
+     "6": [
+      "business"
+     ],
+     "7": [
+      "garden"
+     ],
+     "8": [
+      "week"
+     ],
+     "9": [
+      "65"
+     ],
+     "10": [
+      "044298611",
+      "0442 986 11"
+     ]
+    },
+    "audioFile": "https://audio.mock-stream.com/ielts-listening/test59/part1.m4a",
+    "formTitle": "",
+    "questions": [
+     {
+      "id": 1
+     },
+     {
+      "id": 2
+     },
+     {
+      "id": 3
+     },
+     {
+      "id": 4
+     },
+     {
+      "id": 5
+     },
+     {
+      "id": 6
+     },
+     {
+      "id": 7
+     },
+     {
+      "id": 8
+     },
+     {
+      "id": 9
+     },
+     {
+      "id": 10
+     }
+    ],
+    "partNumber": 1,
+    "transcript": "Part 1: a woman enquires about hiring a party room. The Exchange Hotel: room on the fifth floor (1), large bright room with a good view (2), £32pp buffet, minimum 35 people (3), available any Saturday in April (4). The Limerick Hotel (5): large room (seats 75) in the business area of the city (6), ground floor with a small garden (7), £36pp, available 13th and 20th April. Booking held for a week (8); final payment of 65% (9) ten days before; confirm guests/menu 5 days ahead; to book, phone 044298611 (10) on Monday.",
+    "formContent": "<div class=\"ielts-form-container\"><div class=\"form-section\"><div class=\"form-title\" style=\"text-align:center;font-weight:700;\">Rooms to hire for parties</div><h4>The Exchange Hotel</h4><ul><li>number of seated guests possible: 45</li><li>room on the <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"1\" style=\"width:150px;text-align:center;\"> floor</li><li>large, bright room with a good <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"2\" style=\"width:150px;text-align:center;\"></li><li>cost: &pound;32 with buffet per person (minimum number of people: <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"3\" style=\"width:150px;text-align:center;\">)</li><li>available any <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"4\" style=\"width:150px;text-align:center;\"> in April</li></ul><h4>The <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"5\" style=\"width:150px;text-align:center;\"> Hotel</h4><ul><li>large room (seats 75)</li><li>in the <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"6\" style=\"width:150px;text-align:center;\"> area of the city</li><li>room on ground floor with a small <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"7\" style=\"width:150px;text-align:center;\"> for guests to use</li><li>cost: &pound;36 with buffet per person</li><li>available: 13th and 20th April</li></ul><h4>Booking information</h4><ul><li>Bookings held for a <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"8\" style=\"width:150px;text-align:center;\"></li><li>Final payment of <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"9\" style=\"width:150px;text-align:center;\"> % required 10 days before booking</li><li>Need to confirm guests and menu 5 days in advance</li><li>To book, phone <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"10\" style=\"width:150px;text-align:center;\"> on Monday</li></ul></div></div>",
+    "instruction": "Complete the notes below. Write ONE WORD AND/OR A NUMBER for each answer.",
+    "questionRange": "1-10",
+    "answerHighlights": {}
+   },
+   {
+    "type": "mixed",
+    "title": "The Elmsden Way",
+    "answers": {
+     "11": [
+      "B"
+     ],
+     "12": [
+      "E"
+     ],
+     "13": [
+      "F"
+     ],
+     "14": [
+      "I"
+     ],
+     "15": [
+      "C"
+     ],
+     "16": [
+      "C"
+     ],
+     "17": [
+      "A"
+     ],
+     "18": [
+      "B"
+     ],
+     "19": [
+      "A"
+     ],
+     "20": [
+      "A"
+     ]
+    },
+    "subParts": [
+     {
+      "type": "map-labeling",
+      "mapImage": "https://audio.mock-stream.com/ielts-listening/test59/elmsden-way-map.png",
+      "mapTitle": "The Elmsden Way",
+      "mapLabels": [
+       "A",
+       "B",
+       "C",
+       "D",
+       "E",
+       "F",
+       "G",
+       "H",
+       "I"
+      ],
+      "questions": [
+       {
+        "id": 11,
+        "place": "Rocks"
+       },
+       {
+        "id": 12,
+        "place": "Colleen Nature Reserve"
+       },
+       {
+        "id": 13,
+        "place": "Ashington China Factory"
+       },
+       {
+        "id": 14,
+        "place": "Langton forest"
+       }
+      ],
+      "instruction": "Questions 11-14<br>Label the map below. Write the correct letter, <strong>A-I</strong>, next to the questions 11-14."
+     },
+     {
+      "type": "mcq",
+      "questions": [
+       {
+        "id": 15,
+        "text": "What kind of warning does the speaker give to cyclists?",
+        "options": [
+         {
+          "text": "there may be traffic jams",
+          "letter": "A"
+         },
+         {
+          "text": "avoid wet cycle paths",
+          "letter": "B"
+         },
+         {
+          "text": "there may be animals in the way",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 16,
+        "text": "The starting point of Elmsden station is",
+        "options": [
+         {
+          "text": "very busy.",
+          "letter": "A"
+         },
+         {
+          "text": "more modern.",
+          "letter": "B"
+         },
+         {
+          "text": "re-opened recently.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 17,
+        "text": "What can people do at the visitor&rsquo;s centre?",
+        "options": [
+         {
+          "text": "rent a bike",
+          "letter": "A"
+         },
+         {
+          "text": "buy refreshments",
+          "letter": "B"
+         },
+         {
+          "text": "learn local history",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 18,
+        "text": "To commute between Langton and Elmsden by train, you need to",
+        "options": [
+         {
+          "text": "book in advance.",
+          "letter": "A"
+         },
+         {
+          "text": "go on weekends.",
+          "letter": "B"
+         },
+         {
+          "text": "pay additional charges.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 19,
+        "text": "What should you be aware of when visiting River Elm?",
+        "options": [
+         {
+          "text": "It takes a long time.",
+          "letter": "A"
+         },
+         {
+          "text": "The waterfall is inaccessible.",
+          "letter": "B"
+         },
+         {
+          "text": "Go by bike.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 20,
+        "text": "Where can you get the information if you want to join the local route?",
+        "options": [
+         {
+          "text": "the local newspaper",
+          "letter": "A"
+         },
+         {
+          "text": "the station website",
+          "letter": "B"
+         },
+         {
+          "text": "national cycling network",
+          "letter": "C"
+         }
+        ]
+       }
+      ],
+      "instruction": "Questions 15-20<br>Choose the correct letter, <strong>A</strong>, <strong>B</strong> or <strong>C</strong>."
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/ielts-listening/test59/part2.m4a",
+    "questions": [],
+    "partNumber": 2,
+    "transcript": "Part 2: a radio presenter describes the Elmsden Way cycle route (Elmsden Station to Langton). Map: from the station the path runs east, north around the lake; Rocks east of the road just before it goes under the railway (11=B); at the fork the road continues straight to Colleen Nature Reserve (12=E); the path follows River Cleve south to the Ashington China Factory (13=F); after the bridge, Langton Forest is to the south (14=I). Warnings/info: watch for sheep/animals (15=C); Elmsden Station re-opened recently (16=C); the visitor's centre hires bikes (17=A); trains between the two stations run only at weekends, no booking/charge (18=B); River Elm walk takes a long time, steep climb back (19=A); full details of local routes in the Saturday local paper (20=A).",
+    "instruction": "You will hear a radio presenter talking about a new cycle route called the Elmsden Way.",
+    "questionRange": "11-20",
+    "answerHighlights": {}
+   },
+   {
+    "type": "mixed",
+    "title": "Willows Studies",
+    "answers": {
+     "21": [
+      "A"
+     ],
+     "22": [
+      "B"
+     ],
+     "23": [
+      "A"
+     ],
+     "24": [
+      "C"
+     ],
+     "25": [
+      "B"
+     ],
+     "26": [
+      "C"
+     ],
+     "27": [
+      "B",
+      "E"
+     ],
+     "28": [
+      "B",
+      "E"
+     ],
+     "29": [
+      "A",
+      "D"
+     ],
+     "30": [
+      "A",
+      "D"
+     ]
+    },
+    "subParts": [
+     {
+      "type": "mcq",
+      "questions": [
+       {
+        "id": 21,
+        "text": "What field is Willows currently focused on?",
+        "options": [
+         {
+          "text": "specialising in one product",
+          "letter": "A"
+         },
+         {
+          "text": "making a variety of products",
+          "letter": "B"
+         },
+         {
+          "text": "adding a lot of retail outlets",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 22,
+        "text": "How did the department begin its contact with Willows?",
+        "options": [
+         {
+          "text": "The professor contacted the company.",
+          "letter": "A"
+         },
+         {
+          "text": "An article was read in a newspaper.",
+          "letter": "B"
+         },
+         {
+          "text": "A student worked there part-time during the vacations.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 23,
+        "text": "How did the student feel about the software?",
+        "options": [
+         {
+          "text": "It&rsquo;s not easy to predict.",
+          "letter": "A"
+         },
+         {
+          "text": "It&rsquo;s slow for drawing designs.",
+          "letter": "B"
+         },
+         {
+          "text": "It had a good interface.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 24,
+        "text": "How did the students find out about the effects of the software on the company?",
+        "options": [
+         {
+          "text": "They went to the IT department.",
+          "letter": "A"
+         },
+         {
+          "text": "They talked with the manager.",
+          "letter": "B"
+         },
+         {
+          "text": "They inspected the accounts.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 25,
+        "text": "The reason why the students have a face-to-face interview alone is",
+        "options": [
+         {
+          "text": "they could prepare for exams.",
+          "letter": "A"
+         },
+         {
+          "text": "there will be less disturbance.",
+          "letter": "B"
+         },
+         {
+          "text": "it&rsquo;s less realistic.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 26,
+        "text": "How did the two students perform in the exam?",
+        "options": [
+         {
+          "text": "very disappointing",
+          "letter": "A"
+         },
+         {
+          "text": "significantly good",
+          "letter": "B"
+         },
+         {
+          "text": "above the average",
+          "letter": "C"
+         }
+        ]
+       }
+      ],
+      "instruction": "Questions 21-26<br>Choose the correct letter, <strong>A</strong>, <strong>B</strong> or <strong>C</strong>."
+     },
+     {
+      "type": "mcq-multi",
+      "options": [
+       {
+        "text": "gain more profit",
+        "letter": "A"
+       },
+       {
+        "text": "employ more new staff",
+        "letter": "B"
+       },
+       {
+        "text": "increase sales",
+        "letter": "C"
+       },
+       {
+        "text": "reduce production time",
+        "letter": "D"
+       },
+       {
+        "text": "cut labour costs",
+        "letter": "E"
+       }
+      ],
+      "instruction": "Questions 27 and 28<br>Choose <strong>TWO</strong> letters, <strong>A-E</strong>.<br>In which <strong>TWO</strong> ways will the new system affect the company?",
+      "questionIds": [
+       27,
+       28
+      ]
+     },
+     {
+      "type": "mcq-multi",
+      "options": [
+       {
+        "text": "getting more involved in the design",
+        "letter": "A"
+       },
+       {
+        "text": "obtaining more contacts",
+        "letter": "B"
+       },
+       {
+        "text": "linking at home to do online work",
+        "letter": "C"
+       },
+       {
+        "text": "wasting less time",
+        "letter": "D"
+       },
+       {
+        "text": "decreasing labour costs",
+        "letter": "E"
+       }
+      ],
+      "instruction": "Questions 29 and 30<br>Choose <strong>TWO</strong> letters, <strong>A-E</strong>.<br>Which <strong>TWO</strong> effects will the new system have on new clients?",
+      "questionIds": [
+       29,
+       30
+      ]
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/ielts-listening/test59/part3.m4a",
+    "questions": [],
+    "partNumber": 3,
+    "transcript": "Part 3: Tom and Bella discuss the furniture company Willows with their professor. Willows now specialises in one product, bookcases, online only (21=A). The department first heard of Willows via a newspaper article the manager wrote (22=B). A student on the design team found the software hard to predict but efficient (23=A). The students learned the software's effects by inspecting the accounts (24=C). Interviews are held alone to avoid disturbance (25=B). The two students scored above the average (26=C). The new system will employ more staff and cut labour costs (27/28=B,E). For new clients it lets them get more involved in the design and waste less time (29/30=A,D).",
+    "instruction": "You will hear two students called Tom and Bella talking with their professor about a furniture company.",
+    "questionRange": "21-30",
+    "answerHighlights": {}
+   },
+   {
+    "type": "gap-fill-form",
+    "title": "Photic sneezing",
+    "answers": {
+     "31": [
+      "breathing"
+     ],
+     "32": [
+      "common",
+      "light"
+     ],
+     "33": [
+      "face"
+     ],
+     "34": [
+      "tears"
+     ],
+     "35": [
+      "fire"
+     ],
+     "36": [
+      "relatives"
+     ],
+     "37": [
+      "number"
+     ],
+     "38": [
+      "contrast"
+     ],
+     "39": [
+      "time"
+     ],
+     "40": [
+      "pilots"
+     ]
+    },
+    "audioFile": "https://audio.mock-stream.com/ielts-listening/test59/part4.m4a",
+    "formTitle": "",
+    "questions": [
+     {
+      "id": 31
+     },
+     {
+      "id": 32
+     },
+     {
+      "id": 33
+     },
+     {
+      "id": 34
+     },
+     {
+      "id": 35
+     },
+     {
+      "id": 36
+     },
+     {
+      "id": 37
+     },
+     {
+      "id": 38
+     },
+     {
+      "id": 39
+     },
+     {
+      "id": 40
+     }
+    ],
+    "partNumber": 4,
+    "transcript": "Part 4: a Health Sciences lecture on photic (light) sneezing. Background: some react to sunlight with a prickle in the nose, faster breathing (31) and watery eyes, relieved by a sneeze; this photic sneeze can't be controlled and is a common reflex (32). Sneezing: caused by irritation in the nose; nerve endings in the face are stimulated (33); coordinated by the same mechanism that controls tears (34). Research: Aristotle asked why the sun, but not the heat of a fire (35), causes sneezing; Bacon showed it was due to light; Everett found 80% of sneezers had relatives (36) who sneeze. Indicators: sneezers produce the same number of sneezes (37); caused by a contrast (38) in brightness; the sneeze needs time (39) to recharge. Application: largely ignored except research on photic sneezing among pilots (40); may lead to breakthroughs for migraine/epilepsy.",
+    "formContent": "<div class=\"ielts-form-container\"><div class=\"form-section\"><div class=\"form-title\" style=\"text-align:center;font-weight:700;\">Photic sneezing</div><h4>Background</h4><p>Some people react to sunlight by:</p><ul><li>a prickle in the nose</li><li>faster <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"31\" style=\"width:150px;text-align:center;\"> &nbsp;} relieved by a sneeze</li><li>watery eyes</li></ul><p>This &lsquo;photic&rsquo; sneeze cannot be controlled and is a <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"32\" style=\"width:150px;text-align:center;\"> reflex.</p><h4>Sneezing in general</h4><ul><li>A sneeze is caused by some kind of irritation in the nose.</li><li>Nerve endings in the <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"33\" style=\"width:150px;text-align:center;\"> are stimulated, leading to an explosion of air.</li><li>It is co-ordinated by the same mechanism that controls the production of <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"34\" style=\"width:150px;text-align:center;\">.</li></ul><h4>Research into photic sneezing</h4><ul><li>The condition has been known for thousands of years.</li><li>Aristotle: Why does the sun cause sneezing while a <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"35\" style=\"width:150px;text-align:center;\"> does not?</li><li>Bacon showed the cause was light.</li><li>Everett found 80% of photic sneezers shared the habit with <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"36\" style=\"width:150px;text-align:center;\">.</li></ul><h4>Indicators</h4><ul><li>Photic sneezers usually produce the same <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"37\" style=\"width:150px;text-align:center;\"> of sneezes.</li><li>The reaction is caused by a <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"38\" style=\"width:150px;text-align:center;\"> in brightness.</li><li>The sneeze takes <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"39\" style=\"width:150px;text-align:center;\"> to recharge.</li></ul><h4>Application</h4><ul><li>The condition was often ignored apart from some research on photic sneezing among <input type=\"text\" autocomplete=\"new-password\" class=\"gap-input\" data-q=\"40\" style=\"width:150px;text-align:center;\">.</li><li>But studying it may result in breakthroughs for more serious conditions.</li></ul></div></div>",
+    "instruction": "Complete the notes below. Write ONE WORD ONLY for each answer.",
+    "questionRange": "31-40",
+    "answerHighlights": {}
+   }
+  ],
+  "source": "Original Exams",
+  "examDate": "2026-06-15",
+  "testInfo": {
+   "title": "IELTS Listening Practice Test 59",
+   "totalTime": 40,
+   "totalQuestions": 40
+  }
+ },
+ "created_at": "2026-06-15T12:39:59.858853+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

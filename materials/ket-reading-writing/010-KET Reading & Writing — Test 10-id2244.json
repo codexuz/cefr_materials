@@ -1,0 +1,909 @@
+{
+ "id": 2244,
+ "mock_type": "ket-reading-writing",
+ "mock_number": 10,
+ "title": "KET Reading & Writing — Test 10",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "match-notices",
+    "items": [
+     {
+      "id": 1,
+      "answer": "C",
+      "prompt": "You can't leave your bicycle here."
+     },
+     {
+      "id": 2,
+      "answer": "G",
+      "prompt": "Adults shouldn't let children play with this."
+     },
+     {
+      "id": 3,
+      "answer": "A",
+      "prompt": "You can buy children's clothes here."
+     },
+     {
+      "id": 4,
+      "answer": "B",
+      "prompt": "Do not come in if you are not wearing the right clothes."
+     },
+     {
+      "id": 5,
+      "answer": "F",
+      "prompt": "Use this door to go outside."
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "D",
+     "number": 0,
+     "prompt": "You can't come in here."
+    },
+    "notices": [
+     {
+      "text": "School Uniform Department – This floor",
+      "letter": "A"
+     },
+     {
+      "text": "DANGER!\nNo hard hat? No boots?\nNO ENTRANCE",
+      "letter": "B"
+     },
+     {
+      "text": "NO BICYCLES AGAINST\nTHIS WINDOW",
+      "letter": "C"
+     },
+     {
+      "text": "KEEP OUT",
+      "letter": "D"
+     },
+     {
+      "text": "BICYCLES ONLY",
+      "letter": "E"
+     },
+     {
+      "text": "Exit to Shoemaker Road",
+      "letter": "F"
+     },
+     {
+      "text": "DANGER!\nKEEP AWAY FROM CHILDREN",
+      "letter": "G"
+     },
+     {
+      "text": "BICYCLES TO RENT\nAdults £3.50 per hour\nChildren £2.00 per hour",
+      "letter": "H"
+     }
+    ],
+    "partNumber": 1,
+    "instruction": [
+     "Which notice (A–H) says this (1–5)?",
+     "For questions 1–5, mark the correct letter A–H on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "mcq-gap-fill-sentences",
+    "items": [
+     {
+      "id": 6,
+      "answer": "A",
+      "options": [
+       {
+        "text": "unhappy",
+        "letter": "A"
+       },
+       {
+        "text": "poor",
+        "letter": "B"
+       },
+       {
+        "text": "single",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Sally felt rather _____ because she didn't know anybody."
+     },
+     {
+      "id": 7,
+      "answer": "C",
+      "options": [
+       {
+        "text": "put",
+        "letter": "A"
+       },
+       {
+        "text": "went",
+        "letter": "B"
+       },
+       {
+        "text": "took",
+        "letter": "C"
+       }
+      ],
+      "sentence": "The teacher _____ Sally to the classroom."
+     },
+     {
+      "id": 8,
+      "answer": "C",
+      "options": [
+       {
+        "text": "eyes",
+        "letter": "A"
+       },
+       {
+        "text": "teeth",
+        "letter": "B"
+       },
+       {
+        "text": "hair",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Sally sat next to a girl with blonde _____ called Amy."
+     },
+     {
+      "id": 9,
+      "answer": "A",
+      "options": [
+       {
+        "text": "told",
+        "letter": "A"
+       },
+       {
+        "text": "learned",
+        "letter": "B"
+       },
+       {
+        "text": "spoke",
+        "letter": "C"
+       }
+      ],
+      "sentence": "At lunchtime, Amy gave Sally an apple and _____ her all about the school."
+     },
+     {
+      "id": 10,
+      "answer": "B",
+      "options": [
+       {
+        "text": "lovely",
+        "letter": "A"
+       },
+       {
+        "text": "best",
+        "letter": "B"
+       },
+       {
+        "text": "excellent",
+        "letter": "C"
+       }
+      ],
+      "sentence": "By the end of the afternoon, Amy was Sally's _____ friend."
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "answer": "B",
+     "number": 0,
+     "options": [
+      {
+       "text": "moment",
+       "letter": "A"
+      },
+      {
+       "text": "day",
+       "letter": "B"
+      },
+      {
+       "text": "hour",
+       "letter": "C"
+      }
+     ],
+     "sentence": "It was the morning of Sally's first _____ at her new school."
+    },
+    "partNumber": 2,
+    "instruction": [
+     "Read the sentences (6–10) about going to a new school.",
+     "Choose the best word (A, B or C) for each space.",
+     "For questions 6–10, mark A, B or C on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-response",
+    "items": [
+     {
+      "id": 11,
+      "answer": "C",
+      "prompt": "£500 is too expensive.",
+      "options": [
+       {
+        "text": "Not many.",
+        "letter": "A"
+       },
+       {
+        "text": "Why not?",
+        "letter": "B"
+       },
+       {
+        "text": "I agree.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "answer": "B",
+      "prompt": "I've got an appointment with my doctor today.",
+      "options": [
+       {
+        "text": "How does he feel?",
+        "letter": "A"
+       },
+       {
+        "text": "What's the matter with you?",
+        "letter": "B"
+       },
+       {
+        "text": "Who do you want?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "answer": "A",
+      "prompt": "Would you like anything else?",
+      "options": [
+       {
+        "text": "That's all, thank you.",
+        "letter": "A"
+       },
+       {
+        "text": "Yes, I like everything.",
+        "letter": "B"
+       },
+       {
+        "text": "Two, please.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "answer": "B",
+      "prompt": "When is your mother's birthday?",
+      "options": [
+       {
+        "text": "She's thirty-nine.",
+        "letter": "A"
+       },
+       {
+        "text": "It was last week.",
+        "letter": "B"
+       },
+       {
+        "text": "It's a long time.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "answer": "A",
+      "prompt": "Shall we go to the shops now?",
+      "options": [
+       {
+        "text": "I'm too tired.",
+        "letter": "A"
+       },
+       {
+        "text": "They're very good.",
+        "letter": "B"
+       },
+       {
+        "text": "Not at all.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "answer": "C",
+     "number": 0,
+     "prompt": "I haven't got a pen with me.",
+     "options": [
+      {
+       "text": "Not really.",
+       "letter": "A"
+      },
+      {
+       "text": "I'm sorry.",
+       "letter": "B"
+      },
+      {
+       "text": "Here, take mine.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partLetter": "a",
+    "partNumber": 3,
+    "instruction": [
+     "Complete the five conversations.",
+     "For conversations 11–15, mark A, B or C on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "type": "match-dialogue",
+    "items": [
+     {
+      "id": 16,
+      "answer": "C"
+     },
+     {
+      "id": 17,
+      "answer": "F"
+     },
+     {
+      "id": 18,
+      "answer": "A"
+     },
+     {
+      "id": 19,
+      "answer": "E"
+     },
+     {
+      "id": 20,
+      "answer": "D"
+     }
+    ],
+    "example": {
+     "answer": "G",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "Well, I suppose I can get something to eat. Where's the restaurant?",
+      "letter": "A"
+     },
+     {
+      "text": "Here's my passport.",
+      "letter": "B"
+     },
+     {
+      "text": "Yes, that's right. I'm going to visit my family.",
+      "letter": "C"
+     },
+     {
+      "text": "By the window, please.",
+      "letter": "D"
+     },
+     {
+      "text": "Yes, but not this bag. Is it all right to take it on the plane?",
+      "letter": "E"
+     },
+     {
+      "text": "That's bad news. How long for?",
+      "letter": "F"
+     },
+     {
+      "text": "Yes, here you are.",
+      "letter": "G"
+     },
+     {
+      "text": "Can I smoke if I sit there?",
+      "letter": "H"
+     }
+    ],
+    "dialogue": [
+     {
+      "line": "Good morning. Can I see your ticket, please?",
+      "speaker": "Assistant"
+     },
+     {
+      "gap": 0,
+      "speaker": "Stephen"
+     },
+     {
+      "line": "You're going to fly to Scotland?",
+      "speaker": "Assistant"
+     },
+     {
+      "gap": 16,
+      "speaker": "Stephen"
+     },
+     {
+      "line": "I'm sorry, but there's a short delay because of fog.",
+      "speaker": "Assistant"
+     },
+     {
+      "gap": 17,
+      "speaker": "Stephen"
+     },
+     {
+      "line": "About an hour. It won't be any more.",
+      "speaker": "Assistant"
+     },
+     {
+      "gap": 18,
+      "speaker": "Stephen"
+     },
+     {
+      "line": "It's on the first floor. Can I take your suitcases now, please?",
+      "speaker": "Assistant"
+     },
+     {
+      "gap": 19,
+      "speaker": "Stephen"
+     },
+     {
+      "line": "Yes, you can take one piece of luggage with you. Where would you like to sit?",
+      "speaker": "Assistant"
+     },
+     {
+      "gap": 20,
+      "speaker": "Stephen"
+     },
+     {
+      "line": "There you are. Number 24A. Enjoy your trip.",
+      "speaker": "Assistant"
+     }
+    ],
+    "partLetter": "b",
+    "partNumber": 3,
+    "instruction": [
+     "Complete the conversation at an airport.",
+     "What does Stephen say to the airport assistant?",
+     "For questions 16–20, mark the correct letter A–H on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "type": "mcq-passage-rws",
+    "items": [
+     {
+      "id": 21,
+      "answer": "A",
+      "statement": "Bill became a writer thirteen years ago."
+     },
+     {
+      "id": 22,
+      "answer": "B",
+      "statement": "Bill writes his books in the evenings."
+     },
+     {
+      "id": 23,
+      "answer": "A",
+      "statement": "Bill shows his writing to his wife."
+     },
+     {
+      "id": 24,
+      "answer": "B",
+      "statement": "Bill writes books about his grandchildren."
+     },
+     {
+      "id": 25,
+      "answer": "B",
+      "statement": "The Sheepdog was Bill's first book."
+     },
+     {
+      "id": 26,
+      "answer": "C",
+      "statement": "Bill prefers writing about animals to writing about people."
+     },
+     {
+      "id": 27,
+      "answer": "B",
+      "statement": "The film of The Sheepdog is different from the book."
+     }
+    ],
+    "label": "PART 4",
+    "article": "Bill Prince-Smith was a farmer and a teacher and a dentist before he became a writer of children's books at the age of 60. Now, thirteen years later, he has written more than 80 books. Every day, he goes into his office and writes. In the evening, he gives the work to his wife to read. 'She tells me when she doesn't like something,' says Bill. 'My ten grandchildren don't live near here but they also read my stories and say if they are good or bad.' And so Bill has learned what young children want to read.\n\nBill writes about the life in his village and on the farms near it. His fifth book is his favourite: The Sheepdog is about a farmer and the dog that helps him. 'I have always liked animals,' says Bill, 'and dogs are so clever, they learn very quickly.'\n\nLast year, the book was made into a film with real animals and actors. The film-makers used the latest computer technology to make people think that the animals are speaking. Bill was very pleased with the film. 'Sometimes film-makers change books, but they didn't change mine and I love the film.'",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "statement": "Bill Prince-Smith has had several jobs."
+    },
+    "partNumber": 4,
+    "instruction": [
+     "Read the article about a writer.",
+     "Are sentences 21–27 'Right' (A) or 'Wrong' (B)?",
+     "If there is not enough information to answer 'Right' (A) or 'Wrong' (B), choose 'Doesn't say' (C).",
+     "For questions 21–27, mark A, B or C on the answer sheet."
+    ],
+    "articleTitle": "Bill Prince-Smith",
+    "questionsLabel": "QUESTIONS 21–27"
+   },
+   {
+    "type": "mcq-cloze-passage",
+    "items": [
+     {
+      "id": 28,
+      "answer": "B",
+      "options": [
+       {
+        "text": "on",
+        "letter": "A"
+       },
+       {
+        "text": "near",
+        "letter": "B"
+       },
+       {
+        "text": "in",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 29,
+      "answer": "C",
+      "options": [
+       {
+        "text": "away",
+        "letter": "A"
+       },
+       {
+        "text": "off",
+        "letter": "B"
+       },
+       {
+        "text": "out",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 30,
+      "answer": "B",
+      "options": [
+       {
+        "text": "one",
+        "letter": "A"
+       },
+       {
+        "text": "an",
+        "letter": "B"
+       },
+       {
+        "text": "a",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 31,
+      "answer": "A",
+      "options": [
+       {
+        "text": "keeps",
+        "letter": "A"
+       },
+       {
+        "text": "keep",
+        "letter": "B"
+       },
+       {
+        "text": "kept",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 32,
+      "answer": "C",
+      "options": [
+       {
+        "text": "the",
+        "letter": "A"
+       },
+       {
+        "text": "their",
+        "letter": "B"
+       },
+       {
+        "text": "its",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 33,
+      "answer": "C",
+      "options": [
+       {
+        "text": "since",
+        "letter": "A"
+       },
+       {
+        "text": "during",
+        "letter": "B"
+       },
+       {
+        "text": "for",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 34,
+      "answer": "A",
+      "options": [
+       {
+        "text": "few",
+        "letter": "A"
+       },
+       {
+        "text": "little",
+        "letter": "B"
+       },
+       {
+        "text": "any",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 35,
+      "answer": "B",
+      "options": [
+       {
+        "text": "after",
+        "letter": "A"
+       },
+       {
+        "text": "because",
+        "letter": "B"
+       },
+       {
+        "text": "when",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 5",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "options": [
+      {
+       "text": "have",
+       "letter": "A"
+      },
+      {
+       "text": "has",
+       "letter": "B"
+      },
+      {
+       "text": "had",
+       "letter": "C"
+      }
+     ]
+    },
+    "passage": "Not many people {0} seen an otter. These animals live {28} rivers and make their homes from small pieces of wood. They usually come {29} of their homes at night. Otters are very good in the water and can swim at more than 10 kilometres {30} hour. They have thick brown hair and this {31} them warm in the water. An otter can close {32} ears and nose. This means otters can stay under water {33} several minutes.\n\nTwenty years ago, there were {34} otters in Great Britain. The water in the rivers was so dirty that many fish and insects died and the otters couldn't find anything to eat. But today there is lots of food for them {35} the rivers are clean again.",
+    "partNumber": 5,
+    "instruction": [
+     "Read the article about an animal, the otter.",
+     "Choose the best word (A, B or C) for each space (28–35).",
+     "For questions 28–35, mark A, B or C on the answer sheet."
+    ],
+    "passageTitle": "Otters",
+    "questionsLabel": "QUESTIONS 28–35"
+   },
+   {
+    "type": "vocab-first-letter",
+    "items": [
+     {
+      "id": 36,
+      "answer": "garage",
+      "prompt": "Go here when you need petrol for your car.",
+      "letters": 6,
+      "firstLetter": "g"
+     },
+     {
+      "id": 37,
+      "answer": "bridge",
+      "prompt": "This will take you over a river or another road.",
+      "letters": 6,
+      "firstLetter": "b"
+     },
+     {
+      "id": 38,
+      "answer": "policeman",
+      "prompt": "You must show this person your driving licence if he asks for it.",
+      "letters": 9,
+      "firstLetter": "p"
+     },
+     {
+      "id": 39,
+      "answer": "crossroads",
+      "prompt": "You can go left, right or straight on at this place where two roads meet.",
+      "letters": 10,
+      "firstLetter": "c"
+     },
+     {
+      "id": 40,
+      "answer": "lights",
+      "prompt": "If these are red, the traffic has to wait.",
+      "letters": 6,
+      "firstLetter": "l"
+     }
+    ],
+    "label": "PART 6",
+    "example": {
+     "answer": "motorway",
+     "number": 0,
+     "prompt": "You can drive fast here.",
+     "firstLetter": "m"
+    },
+    "partNumber": 6,
+    "instruction": [
+     "Read the descriptions (36–40) of some things you can see when you travel by road.",
+     "What is the word for each description?",
+     "The first letter is already there. There is one space for each other letter in the word.",
+     "For questions 36–40, write the words on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 36–40"
+   },
+   {
+    "type": "open-cloze-letter",
+    "items": [
+     {
+      "id": 41,
+      "answer": "next"
+     },
+     {
+      "id": 42,
+      "answer": "go"
+     },
+     {
+      "id": 43,
+      "answer": "from"
+     },
+     {
+      "id": 44,
+      "answer": "It"
+     },
+     {
+      "id": 45,
+      "answer": "a"
+     },
+     {
+      "id": 46,
+      "answer": "can"
+     },
+     {
+      "id": 47,
+      "answer": "costs"
+     },
+     {
+      "id": 48,
+      "answer": "every"
+     },
+     {
+      "id": 49,
+      "answer": "have"
+     },
+     {
+      "id": 50,
+      "answer": "If"
+     }
+    ],
+    "label": "PART 7",
+    "example": {
+     "answer": "like",
+     "number": 0
+    },
+    "letters": [
+     {
+      "body": "Would you (Example: like) to come on a camping trip {41} weekend?\n\nWe are going to {42} to the forest in the school bus and we will stay at a camp-site {43} Friday to Sunday. {44} has hot showers and {45} small shop and you {46} rent bicycles there.\n\nThe trip {47} £25. It is very cold there {48} night, so you should take warm clothes and you will {49} to wear strong shoes.\n\n{50} you want to come, tell me today.",
+      "header": "TO ALL STUDENTS:",
+      "closing": "Ahmed\nStudent Secretary",
+      "greeting": ""
+     }
+    ],
+    "partNumber": 7,
+    "instruction": [
+     "Complete these notes.",
+     "Write ONE word for each space (41–50).",
+     "For questions 41–50, write your words on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 41–50"
+   },
+   {
+    "note": {
+     "body": "Hi Mum and Dad!\n\nMy history course finishes on 28 July. I want to find a job for a month where I can practise my French and German and perhaps use a computer. Brown's looks the best one for me, I think.",
+     "dateLine": "",
+     "signature": "Helen"
+    },
+    "rows": [
+     {
+      "label": "Name:",
+      "prefilled": "Helen Becker"
+     },
+     {
+      "id": 51,
+      "label": "Nationality:",
+      "answer": "Canadian"
+     },
+     {
+      "id": 52,
+      "label": "Course of study:",
+      "answer": "history"
+     },
+     {
+      "id": 53,
+      "label": "Foreign languages:",
+      "answer": "French and German"
+     },
+     {
+      "id": 54,
+      "label": "Job wanted at:",
+      "answer": "Brown's Hotel"
+     },
+     {
+      "id": 55,
+      "label": "Which month can you work?",
+      "answer": "August"
+     }
+    ],
+    "type": "info-transfer-notes",
+    "label": "PART 8",
+    "notice": {
+     "body": "Europe Computers:\nCleaner, start next month.\n\nMill Farm:\nFruit pickers, until end of this month.\n\nBrown's Hotel:\nReceptionist needed now, for 4 weeks, must speak a foreign language.",
+     "title": "GRANTON UNIVERSITY STUDENT JOBS AUGUST"
+    },
+    "notesTitle": "SUMMER JOB APPLICATION FORM",
+    "partNumber": 8,
+    "instruction": [
+     "Read the advertisement for summer jobs and the e-mail message.",
+     "Fill in the summer job application form.",
+     "For questions 51–55, write the information on the answer sheet."
+    ],
+    "notesSubtitle": "",
+    "questionsLabel": "QUESTIONS 51–55"
+   },
+   {
+    "type": "writing-postcard",
+    "items": [
+     {
+      "id": 56,
+      "type": "free-text",
+      "answer": "Chris I'm sory I could not come on the party last night because I met. my old friends and I went with them to the cinema.\nI can meet you on Saterday and we can go to restaurant.\nbye Sophia",
+      "maxWords": 35,
+      "minWords": 25
+     }
+    ],
+    "label": "PART 9",
+    "footer": [
+     "Write 25–35 words.",
+     "Write your note on the answer sheet."
+    ],
+    "prompt": "Why didn't you come to the party last night?\n\nCan you meet me on Saturday? What do you want to do?",
+    "wordCount": "25–35 words",
+    "partNumber": 9,
+    "instruction": [
+     "Read this note from your friend, Chris.",
+     "Write a note to Chris. Answer the questions."
+    ],
+    "questionsLabel": "QUESTION 56",
+    "promptSignature": "Chris"
+   }
+  ],
+  "testInfo": {
+   "id": "ket-rw-10",
+   "level": "A2",
+   "paper": "Paper 1",
+   "parts": 9,
+   "title": "KET Reading & Writing — Test 10",
+   "totalTime": 70,
+   "totalQuestions": 56
+  }
+ },
+ "created_at": "2026-10-14T06:45:03.064883+00:00",
+ "updated_at": "2026-10-14T06:46:50.437842+00:00"
+}

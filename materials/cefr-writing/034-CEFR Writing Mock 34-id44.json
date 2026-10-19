@@ -1,0 +1,577 @@
+{
+ "id": 44,
+ "mock_type": "cefr-writing",
+ "mock_number": 34,
+ "title": "CEFR Writing Mock 34",
+ "status": "published",
+ "mock_data": {
+  "part1": {
+   "chip": "health",
+   "topic": "Pharmacy issue"
+  },
+  "tasks": {
+   "t2": {
+    "chip": "sports",
+    "genre": "forum",
+    "title": "Traditional sports losing popularity to e-sports and video games",
+    "prompt": "You are participating in an online discussion forum. The topic is: \"Are traditional sports losing popularity to e-sports and video games?\" Write your response, giving reasons and examples. Write 180–200 words.",
+    "sample": "<h2>Pharmacies: More Than Just Medicine Sellers?</h2>\n\n<p>Modern pharmacies are <span class=\"ml-token adv\">increasingly</span> becoming <span class=\"ml-token colloc\">healthcare hubs</span>. This evolution <span class=\"ml-token modal\">could</span> <span class=\"ml-token adv\">significantly</span> benefit public health.</p>\n\n<p><span class=\"ml-token adv\">Firstly</span>, pharmacies are <span class=\"ml-token adv\">highly</span> accessible. They're in every neighborhood, often open longer than clinics. Offering <span class=\"ml-token colloc\">basic health services</span> <span class=\"ml-token modal\">would</span> reduce pressure on doctors and hospitals.</p>\n\n<p><span class=\"ml-token adv\">Moreover</span>, pharmacists are <span class=\"ml-token colloc\">trained healthcare professionals</span>. Their expertise in medications makes them ideal for <span class=\"ml-token colloc\">initial consultations</span> and health advice.</p>\n\n<p><span class=\"ml-token adv\">Additionally</span>, <span class=\"ml-token colloc\">preventive services</span> like blood pressure monitoring, diabetes screening, and vaccinations <span class=\"ml-token modal\">could</span> catch health issues early, saving lives and <span class=\"ml-token colloc\">healthcare costs</span>.</p>\n\n<p><span class=\"ml-token adv\">However</span>, this expansion <span class=\"ml-token modal\">must</span> be <span class=\"ml-token adv\">carefully</span> regulated. Pharmacies <span class=\"ml-token modal\">cannot</span> replace proper medical care for serious conditions.</p>\n\n<p><span class=\"ml-token adv\">Ultimately</span>, <span class=\"ml-token colloc\">community pharmacies</span> <span class=\"ml-token modal\">should</span> evolve to offer more <span class=\"ml-token colloc\">holistic health support</span>. They're <span class=\"ml-token adv\">uniquely</span> positioned to bridge the gap between home and hospital.</p>\n\n<p>What services would you like your local pharmacy to offer?</p>",
+    "target": "180–200 words",
+    "sampleA1": "<p>Hi!</p><br><p>Pharmacy good. Near my house. Medicine is good. Staff is nice. I like it.</p><br><p>Bye!</p>",
+    "sampleA2": "<p>Hello,</p><br><p>I like the pharmacy. It is near my home and the people are nice. They help me with my medicine and I can buy many things there. I like the location because it is easy to go. I think it is good for my family too because they can buy medicine there if they are sick. Maybe they can have more things for children, like vitamins.</p><br><p>Thank you,</p>",
+    "sampleB1": "<p>Dear HealthFirst Pharmacy Team,</p><br><p>Thank you for asking about my experience. I am generally happy with HealthFirst Pharmacy. The location is very convenient for me because it is close to my house. Also, the staff are helpful and friendly, which is important. The range of products is good, but maybe you could have more variety of vitamins.</p><br><p>I think it would be useful if you offered more services. For example, it would be great if you could give flu shots. Also, perhaps you could offer advice on healthy eating. These things would benefit my family and other people in the neighborhood.</p><br><p>Sincerely,</p>",
+    "sampleB2": "Great topic — I've been <span class=\"ml-token phrasal\">mulling this over</span> a lot lately!\nHonestly, I don't think traditional sports are going anywhere, but <span class=\"ml-token linking\">there's no denying</span> that e-sports are <span class=\"ml-token phrasal\">catching up fast</span>. When I was a kid, everyone dreamed of becoming a footballer; these days, plenty of teenagers would rather be professional gamers, and <span class=\"ml-token idiom\">who can blame them</span>? Big tournaments now draw huge crowds and pay out serious prize money.\nThat said, I reckon the two can happily sit side by side. Football, wrestling and tennis still <span class=\"ml-token phrasal\">pull in millions of fans</span> worldwide, and nothing beats watching a live match in a packed stadium. E-sports, <span class=\"ml-token linking\">on the other hand</span>, are perfect for people who can't easily get outside, and they bring gamers together from every corner of the globe.\nMy one worry is how much time kids spend <span class=\"ml-token idiom\">glued to a screen</span> instead of getting some fresh air. A bit of balance <span class=\"ml-token idiom\">goes a long way</span>.\nSo what do you all reckon — are we watching <span class=\"ml-token idiom\">the end of an era</span>, or is there room for both? I'd love to hear your take!\nDilnoza Karimova",
+    "uzSample": "<h2>Dorixonalar: Faqat dori sotuvchilardan ko'proqmi?</h2>\n\n<p>Zamonaviy dorixonalar tobora ko'proq sog'liqni saqlash markazlariga aylanib bormoqda. Bu evolyutsiya jamoat salomatligiga sezilarli darajada foyda keltirishi mumkin.</p>\n\n<p>Birinchidan, dorixonalarga kirish juda oson. Ular har bir mahallada bor, ko'pincha kliniklardan ko'ra uzoqroq ishlaydi. Asosiy tibbiy xizmatlarni taklif qilish shifokorlar va kasalxonalarga bo'lgan bosimni kamaytiradi.</p>\n\n<p>Bundan tashqari, farmatsevtlar malakali tibbiyot xodimlari hisoblanadi. Ularning dori-darmonlar bo'yicha tajribasi ularni dastlabki maslahatlar va sog'liq bo'yicha maslahatlar uchun ideal qiladi.</p>\n\n<p>Bundan tashqari, qon bosimini nazorat qilish, diabetni skrining qilish va emlash kabi profilaktika xizmatlari sog'liq muammolarini erta aniqlashi, hayotni saqlab qolishi va sog'liqni saqlash xarajatlarini kamaytirishi mumkin.</p>\n\n<p>Biroq, bu kengayish ehtiyotkorlik bilan tartibga solinishi kerak. Dorixonalar jiddiy kasalliklar uchun to'g'ri tibbiy yordamni almashtira olmaydi.</p>\n\n<p>Oxir oqibat, mahalliy dorixonalar yanada yaxlit sog'liqni saqlash ko'magini taklif qilish uchun rivojlanishi kerak. Ular uy va kasalxona o'rtasidagi bo'shliqni to'ldirish uchun noyob imkoniyatga ega.</p>\n\n<p>Siz mahalliy dorixonangiz qanday xizmatlarni taklif qilishini xohlaysiz?</p>",
+    "uzSampleA1": "<p>Salom!</p><br><p>Dorixona yaxshi. Uyimga yaqin. Dorilar yaxshi. Xodimlar yaxshi. Menga yoqadi.</p><br><p>Xayr!</p>",
+    "uzSampleA2": "<p>Salom,</p><br><p>Menga dorixona yoqadi. U uyimga yaqin va odamlari yaxshi. Ular menga dorilarim bilan yordam berishadi va men u yerda ko'p narsalarni sotib olishim mumkin. Menga joylashuvi yoqadi, chunki borish oson. O'ylaymanki, bu oilam uchun ham yaxshi, chunki ular kasal bo'lsalar, u yerda dori sotib olishlari mumkin. Balki ularda bolalar uchun ko'proq narsalar, masalan, vitaminlar bo'lishi mumkin.</p><br><p>Rahmat,</p>",
+    "uzSampleB1": "<p>Hurmatli HealthFirst dorixona jamoasi,</p><br><p>Tajribam haqida so'raganingiz uchun rahmat. Men odatda HealthFirst dorixonasidan mamnunman. Joylashuvi men uchun juda qulay, chunki uyimga yaqin. Bundan tashqari, xodimlar yordamchi va do'stona, bu muhim. Mahsulotlar assortimenti yaxshi, lekin ehtimol siz vitaminlarning xilma-xilligini oshirishingiz mumkin.</p><br><p>O'ylaymanki, agar siz ko'proq xizmatlar taklif qilsangiz, foydali bo'lardi. Masalan, agar siz grippga qarshi emlashni amalga oshirsangiz, juda yaxshi bo'lardi. Shuningdek, ehtimol, siz sog'lom ovqatlanish bo'yicha maslahat berishingiz mumkin. Bu narsalar mening oilamga va qo'shnilarimga foyda keltiradi.</p><br><p>Hurmat bilan,</p>",
+    "uzSampleB2": "<p>Hurmatli HealthFirst dorixona jamoasi,</p><br><p>Xizmatlaringiz haqida fikr bildirish imkoniyati uchun rahmat. Umuman olganda, doimiy mijozga aylanganimdan beri HealthFirst dorixonasidan juda mamnunman. Joylashuvi juda qulay va xodimlaringizning turli xil dori-darmonlar va retseptsiz sotiladigan vositalar bo'yicha yordami va bilimdonligini qadrlayman.</p><br><p>Mahsulot assortimentingizga kelsak, yetarli bo'lsa-da, ayniqsa, maxsus terini parvarish qilish vositalari va ehtimol organik yoki tabiiy qo'shimchalarning kengroq tanlovi kabi sohalarda kengaytirish uchun imkoniyat bor deb o'ylayman. Bundan tashqari, profilaktika sog'liqni saqlashga tobora ko'proq e'tibor qaratilayotganini hisobga olsak, qon bosimini monitoring qilish yoki xolesterinni tekshirish kabi xizmatlarni taklif qilish qimmatli qo'shimcha bo'lishi mumkin.</p><br><p>Mening oilam va ehtimol boshqa mijozlar uchun dori-darmonlarni ko'rib chiqish (qarama-qarshi retseptlar yo'qligini ta'minlash uchun) yoki hatto oddiy ovqatlanish bo'yicha maslahatlar kabi xizmatlar juda foydali bo'lishi mumkin. Oxir oqibat, shunchaki dori-darmonlarni tarqatishdan tashqari, farovonlikka nisbatan yanada yaxlit yondashuvni ta'minlash dorixonaning jamiyatdagi qiymatini sezilarli darajada oshiradi.</p><br><p>Hurmat bilan,</p>"
+   },
+   "t11": {
+    "title": "informal letter · to friend",
+    "prompt": "Write a letter to your friend, who is looking for a good pharmacy. Write about your feelings and what you think they should do.",
+    "sample": "Hey!\n\nI found a <span class=\"ml-token adv\">really</span> great pharmacy near my place! The staff at HealthFirst are <span class=\"ml-token adv\">super</span> helpful and give <span class=\"ml-token colloc\">useful advice</span>. They also have a good <span class=\"ml-token colloc\">range of products</span> at fair prices.\n\nYou <span class=\"ml-token modal\">should</span> <span class=\"ml-token adv\">definitely</span> check them out!",
+    "target": "50 words",
+    "sampleA1": "<p>Hi Sanjar,<br>Pharmacy good. Near my house. I like it. Bye.</p>",
+    "sampleA2": "<p>Hi Sanjar,<br>I go to a new pharmacy. It is near my house. The people are nice and they help me. They have many medicines. You can go there too, because it is good. See you!</p>",
+    "sampleB1": "<p>Hi Sanjar,<br>I wanted to tell you about a new pharmacy I've been going to, HealthFirst. It's really good! The staff are helpful, and they have a lot of different products. I think you should try it. It's in Mirzo Ulugbek. In my opinion, it's much better than the one near your house. Let me know if you go!<br>Best,<br>Nodira Aliyeva</p>",
+    "sampleB2": "Hey Sanjar,\nI heard you're <span class=\"ml-token idiom\">on the hunt for</span> a decent pharmacy, so let me point you to HealthFirst in Mirzo Ulugbek! The staff really <span class=\"ml-token idiom\">know their stuff</span> and always <span class=\"ml-token colloc\">take the time</span> to help. It's just <span class=\"ml-token idiom\">round the corner</span> from me, so we could <span class=\"ml-token phrasal\">pop in</span> together sometime. Honestly, <span class=\"ml-token idiom\">give it a go</span> — you <span class=\"ml-token colloc\">won't regret it</span>!\nCheers,\nNodira Aliyeva",
+    "uzSample": "<p>Salom!</p>\n<p>Men uyimning yaqinida juda ajoyib dorixona topdim! HealthFirst-dagi xodimlar juda ham yordam berishadi va foydali maslahatlar berishadi. Ularda, shuningdek, adolatli narxlarda mahsulotlarning yaxshi assortimenti bor.</p>\n<p>Sen albatta ularni tekshirib ko'rishing kerak!</p>",
+    "uzSampleA1": "<p>Salom Sanjar,<br>Dorixona yaxshi. Mening uyimga yaqin. Menga yoqadi. Xayr.</p>",
+    "uzSampleA2": "<p>Salom, Sanjar,<br>Men yangi dorixonaga boraman. U mening uyimga yaqin. Odamlari yaxshi va ular menga yordam berishadi. Ularda ko'p dori-darmonlar bor. Sen ham u yerga borishing mumkin, chunki u yaxshi. Ko'rishguncha!</p>",
+    "uzSampleB1": "<p>Salom, Sanjar,<br>Sizga men yaqinda bora boshlagan yangi dorixona, HealthFirst haqida aytmoqchi edim. U juda yaxshi! Xodimlari yordam berishadi va ularda juda ko'p turli xil mahsulotlar bor. O'ylashimcha, siz ham urinib ko'rishingiz kerak. U Bodomzorda joylashgan. Mening fikrimcha, u sizning uyingiz yaqinidagi dorixonadan ancha yaxshiroq. Agar borsangiz, menga xabar bering!<br>Eng yaxshi tilaklar bilan,<br>Nodira Aliyeva</p>",
+    "uzSampleB2": "<p>Aziz Sanjar,<br>Umid qilamanki, bu xat sizga yaxshi yetib borgan.<br>Sizga yaqinda foydalana boshlagan \"HealthFirst Pharmacy\" deb nomlangan dorixonani tavsiya qilmoqchiman. U Bodomzorda qulay joylashgan va men ularning xizmatidan juda ta'sirlanib qoldim. Xodimlari bilimdon va har doim maslahat berishga tayyor, shuningdek, ularda mahsulotlarning keng tanlovi mavjud.<br>Ishonchli dorixona qidirayotganingizni hisobga olsak, men chin dildan \"HealthFirst\"ni ko'rib chiqishingizni o'ylayman. Ehtimol, bu siz qidirayotgan narsadir. Agar uni tekshirishga qaror qilsangiz, fikringizni menga bildiring!<br>Hurmat bilan,<br>Nodira Aliyeva</p>"
+   },
+   "t12": {
+    "title": "formal letter · to recipient",
+    "prompt": "Write a letter to the pharmacy. Write about your feelings and what you think they should do.",
+    "sample": "<p>Dear HealthFirst Pharmacy Team,</p>\n\n<p>I am writing to share my feedback as a <span class=\"ml-token colloc\">regular customer</span>.</p>\n\n<p><span class=\"ml-token adv\">Firstly</span>, I am <span class=\"ml-token adv\">extremely</span> satisfied with your <span class=\"ml-token colloc\">knowledgeable staff</span>. They always take time to explain medications and offer helpful <span class=\"ml-token colloc\">health advice</span>.</p>\n\n<p><span class=\"ml-token adv\">Moreover</span>, the <span class=\"ml-token colloc\">product selection</span> is comprehensive, covering everything from prescriptions to wellness products.</p>\n\n<p><span class=\"ml-token adv\">However</span>, I have some suggestions. Introducing a <span class=\"ml-token colloc\">delivery service</span> for prescriptions <span class=\"ml-token modal\">would</span> be <span class=\"ml-token adv\">incredibly</span> convenient for elderly customers or those who are unwell.</p>\n\n<p><span class=\"ml-token adv\">Additionally</span>, offering <span class=\"ml-token colloc\">health screenings</span> such as blood pressure checks <span class=\"ml-token modal\">would</span> add value to your services.</p>\n\n<p><span class=\"ml-token adv\">Furthermore</span>, a <span class=\"ml-token colloc\">loyalty card</span> with points on purchases <span class=\"ml-token modal\">could</span> encourage customer retention.</p>\n\n<p>Thank you for your <span class=\"ml-token colloc\">excellent care</span>.</p>\n\n<p>Kind regards,<br>A Loyal Customer</p>",
+    "target": "120–150 words",
+    "sampleA1": "<p>Hi Pharmacy,</p><br><p>I like your shop. It is near my house. The people are nice. You have medicine. I need medicine. Thank you.</p><br><p>Bye,</p><br><p>A Customer</p>",
+    "sampleA2": "<p>Dear HealthFirst Pharmacy,</p><br><p>I like your pharmacy because it is near my home and the people are very friendly. The medicine is good. But I think you need more things for babies, like food and diapers. Also, it is sometimes busy and I have to wait a long time. Maybe you need more people to help.</p><br><p>Thank you,</p><br><p>A Customer</p>",
+    "sampleB1": "<p>Dear HealthFirst Pharmacy Team,</p><br><p>I am writing to give you some feedback about your pharmacy. I am a regular customer and overall, I am happy with the service. I think the staff are helpful and polite, and the location is very convenient for me because I live nearby.</p><br><p>However, there are a couple of things I would like to suggest. Firstly, it would be useful if you had longer opening hours, especially on weekends. Also, I think it would be a good idea to offer a wider range of vitamins and supplements. For example, I often look for specific brands that you don't stock.</p><br><p>Thank you for your attention to these points.</p><br><p>Sincerely,</p><br><p>A Valued Customer</p>",
+    "sampleB2": "Dear HealthFirst Pharmacy Team,\nI am writing to <span class=\"ml-token colloc\">share some feedback</span> as a regular customer at your branch. <span class=\"ml-token linking\">On the whole</span>, I have been very pleased with the service you provide. Your staff are consistently helpful and <span class=\"ml-token idiom\">take the trouble</span> to explain how each medication works, which I really appreciate.\nThat said, there are a couple of areas I would like to raise. Firstly, the queues tend to <span class=\"ml-token phrasal\">build up</span> during busy periods, so a numbered ticket system might help things <span class=\"ml-token colloc\">run more smoothly</span>. Secondly, I would welcome a <span class=\"ml-token colloc\">home delivery service</span>, as this would be <span class=\"ml-token idiom\">a real lifeline</span> for elderly or housebound customers.\nI do hope you will <span class=\"ml-token idiom\">take these suggestions on board</span>. Thank you once again for the <span class=\"ml-token colloc\">excellent care</span> you offer our community.\nYours faithfully,\nBekzod Aliyev",
+    "uzSample": "<p>Hurmatli HealthFirst dorixona jamoasi,</p>\n\n<p>Men doimiy mijoz sifatida o'z fikrlarimni bildirmoqchiman.</p>\n\n<p>Avvalo, men sizning bilimdon xodimlaringizdan juda mamnunman. Ular doimo dori-darmonlarni tushuntirishga va foydali sog'liq bo'yicha maslahatlar berishga vaqt ajratadilar.</p>\n\n<p>Bundan tashqari, mahsulotlar tanlovi keng qamrovli bo'lib, retseptlardan tortib sog'lomlashtirish mahsulotlarigacha bo'lgan hamma narsani qamrab oladi.</p>\n\n<p>Biroq, menda ba'zi takliflar bor. Retseptlar uchun yetkazib berish xizmatini joriy etish keksa mijozlar yoki kasal bo'lganlar uchun juda qulay bo'lar edi.</p>\n\n<p>Bundan tashqari, qon bosimini tekshirish kabi sog'liqni tekshirish xizmatlarini taklif qilish sizning xizmatlaringizga qo'shimcha qiymat beradi.</p>\n\n<p>Bundan tashqari, xaridlarda ball to'playdigan sodiqlik kartasi mijozlarni ushlab qolishga yordam berishi mumkin.</p>\n\n<p>Ajoyib g'amxo'rligingiz uchun tashakkur.</p>\n\n<p>Hurmat bilan,<br>Sadoqatli mijoz</p>",
+    "uzSampleA1": "<p>Salom Dorixona,</p><br><p>Sizning do'koningiz menga yoqadi. U mening uyimga yaqin. Odamlar yaxshi. Sizda dori bor. Menga dori kerak. Rahmat.</p><br><p>Xayr,</p><br><p>Mijoz</p>",
+    "uzSampleA2": "<p>Hurmatli HealthFirst dorixonasi,</p><br><p>Sizning dorixonangiz menga yoqadi, chunki u uyimga yaqin va odamlari juda mehribon. Dorilar yaxshi. Lekin menimcha, sizga chaqaloqlar uchun ko'proq narsalar kerak, masalan, ovqat va tagliklar. Shuningdek, ba'zida odam ko'p bo'ladi va men uzoq kutishim kerak. Ehtimol, sizga yordam beradigan ko'proq odamlar kerakdir.</p><br><p>Rahmat,</p><br><p>Mijoz</p>",
+    "uzSampleB1": "<p>Hurmatli HealthFirst dorixona jamoasi,</p><br><p>Men sizga dorixonangiz haqida fikr-mulohazalarimni bildirish uchun yozyapman. Men doimiy mijozman va umuman olganda, xizmatdan mamnunman. O'ylashimcha, xodimlar yordam berishga tayyor va xushmuomala, joylashuvi esa menga juda qulay, chunki men yaqin atrofda yashayman.</p><br><p>Biroq, men taklif qilmoqchi bo'lgan bir nechta narsa bor. Birinchidan, agar sizda ish vaqti, ayniqsa dam olish kunlarida, uzoqroq bo'lsa, foydali bo'lardi. Shuningdek, vitaminlar va qo'shimchalar assortimentini kengaytirish yaxshi fikr bo'ladi deb o'ylayman. Misol uchun, men ko'pincha sizda mavjud bo'lmagan muayyan brendlarni qidiraman.</p><br><p>Ushbu fikrlarga e'tiboringiz uchun rahmat.</p><br><p>Hurmat bilan,</p><br><p>Qadrdon mijoz</p>",
+    "uzSampleB2": "<p>Hurmatli HealthFirst dorixona jamoasi,</p><br><p>Men sizning dorixonangizda doimiy mijoz sifatida o'z tajribam haqida fikr-mulohazalarimni bildirish uchun yozyapman. Umuman olganda, siz taklif qilayotgan xizmatlardan juda mamnunman. Joylashuvingiz juda qulay va men sizning xodimlaringizning doimo yordam berishga tayyorligini qadrlayman, ular odatda bilimli va foydali.</p><br><p>Biroq, menimcha, yaxshilanishi mumkin bo'lgan bir nechta sohalar mavjud. Birinchidan, retseptlar uchun kutish vaqti ba'zan haddan tashqari uzoq bo'lishi mumkin, ayniqsa eng gavjum soatlarda. Ehtimol, dori tayyorlash jarayonini soddalashtirish yoki yanada samarali navbat tizimini joriy etish bu muammoni hal qilishi mumkin.</p><br><p>Bundan tashqari, mahsulot assortimentingiz yetarli bo'lsa-da, organik yoki tabiiy sog'liq mahsulotlari tanlovini kengaytirish ko'proq mijozlarni, ayniqsa muayyan parhez yoki turmush tarzini afzal ko'radiganlarni jalb qilishi mumkin. Nihoyat, ko'plab mijozlar uchun qulaylikni sezilarli darajada oshiradigan onlayn retseptni yangilashni taklif qilishni o'ylab ko'ring.</p><br><p>Takliflarimni ko'rib chiqayotganingiz uchun tashakkur. Ushbu potentsial yaxshilanishlar amalga oshirilishini ko'rishni intiqlik bilan kutaman.</p><br><p>Sizning sodiq mijozingiz,</p><br><p>Doimiy mijoz</p>"
+   },
+   "p1_context": "You recently became a regular customer at a new pharmacy in your neighborhood.",
+   "p1_scenario": "Dear Customer,\n\nThank you for choosing HealthFirst Pharmacy as your healthcare provider!\nHow satisfied are you with our product range and staff advice? Is our location convenient for you?\nWhat additional services would benefit you and your family?\n\nHealthFirst Pharmacy Team"
+  },
+  "examDate": "2025-12-07",
+  "settings": {
+   "logoUrl": "https://audio.mock-stream.com/img/ibb/WN0XY5Lv/logo.png",
+   "heading1": "Bilim va malakalarni baholash agentligi",
+   "heading2": "Chet tilini bilish darajasi",
+   "examTitle": "Writing exam",
+   "logoWording": "Mock Stream",
+   "testIdentifier": "mock_stream"
+  },
+  "vocabulary": {
+   "task2": [
+    {
+     "en": "healthcare hubs",
+     "uz": "sog'liqni saqlash markazlari"
+    },
+    {
+     "en": "public health",
+     "uz": "jamoat salomatligi"
+    },
+    {
+     "en": "highly accessible",
+     "uz": "juda qulay"
+    },
+    {
+     "en": "basic health services",
+     "uz": "asosiy sog'liq xizmatlari"
+    },
+    {
+     "en": "reduce pressure",
+     "uz": "bosimni kamaytirish"
+    },
+    {
+     "en": "trained professionals",
+     "uz": "o'qitilgan mutaxassislar"
+    },
+    {
+     "en": "initial consultations",
+     "uz": "dastlabki maslahatlar"
+    },
+    {
+     "en": "preventive services",
+     "uz": "profilaktika xizmatlari"
+    },
+    {
+     "en": "diabetes screening",
+     "uz": "diabet tekshiruvi"
+    },
+    {
+     "en": "catch issues early",
+     "uz": "muammolarni erta aniqlash"
+    },
+    {
+     "en": "healthcare costs",
+     "uz": "sog'liqni saqlash xarajatlari"
+    },
+    {
+     "en": "carefully regulated",
+     "uz": "ehtiyotkorlik bilan tartibga solingan"
+    },
+    {
+     "en": "serious conditions",
+     "uz": "jiddiy holatlar"
+    },
+    {
+     "en": "community pharmacies",
+     "uz": "mahalla dorixonalari"
+    },
+    {
+     "en": "holistic health support",
+     "uz": "yaxlit sog'liq yordami"
+    },
+    {
+     "en": "bridge the gap",
+     "uz": "bo'shliqni to'ldirish"
+    },
+    {
+     "en": "home and hospital",
+     "uz": "uy va shifoxona"
+    },
+    {
+     "en": "uniquely positioned",
+     "uz": "o'ziga xos joylashgan"
+    },
+    {
+     "en": "saving lives",
+     "uz": "hayotlarni saqlab qolish"
+    },
+    {
+     "en": "vaccinations",
+     "uz": "emlashlar"
+    }
+   ],
+   "task11": [
+    {
+     "en": "great pharmacy",
+     "uz": "ajoyib dorixona"
+    },
+    {
+     "en": "super helpful",
+     "uz": "juda foydali"
+    },
+    {
+     "en": "useful advice",
+     "uz": "foydali maslahat"
+    },
+    {
+     "en": "range of products",
+     "uz": "mahsulotlar assortimenti"
+    },
+    {
+     "en": "fair prices",
+     "uz": "adolatli narxlar"
+    },
+    {
+     "en": "check them out",
+     "uz": "ularni ko'rib chiqing"
+    },
+    {
+     "en": "definitely recommend",
+     "uz": "albatta tavsiya qilaman"
+    },
+    {
+     "en": "near my place",
+     "uz": "uyim yaqinida"
+    },
+    {
+     "en": "friendly staff",
+     "uz": "do'stona xodimlar"
+    },
+    {
+     "en": "good selection",
+     "uz": "yaxshi tanlov"
+    },
+    {
+     "en": "convenient location",
+     "uz": "qulay joylashuv"
+    },
+    {
+     "en": "prescription service",
+     "uz": "retsept xizmati"
+    },
+    {
+     "en": "trustworthy",
+     "uz": "ishonchli"
+    },
+    {
+     "en": "quality products",
+     "uz": "sifatli mahsulotlar"
+    },
+    {
+     "en": "professional service",
+     "uz": "professional xizmat"
+    },
+    {
+     "en": "worth visiting",
+     "uz": "tashrif buyurishga arziydi"
+    },
+    {
+     "en": "great experience",
+     "uz": "ajoyib tajriba"
+    },
+    {
+     "en": "highly satisfied",
+     "uz": "juda mamnun"
+    },
+    {
+     "en": "give it a try",
+     "uz": "sinab ko'ring"
+    },
+    {
+     "en": "reliable pharmacy",
+     "uz": "ishonchli dorixona"
+    }
+   ],
+   "task12": [
+    {
+     "en": "regular customer",
+     "uz": "doimiy mijoz"
+    },
+    {
+     "en": "knowledgeable staff",
+     "uz": "bilimli xodimlar"
+    },
+    {
+     "en": "health advice",
+     "uz": "sog'liq maslahati"
+    },
+    {
+     "en": "product selection",
+     "uz": "mahsulot tanlovi"
+    },
+    {
+     "en": "comprehensive range",
+     "uz": "keng assortiment"
+    },
+    {
+     "en": "delivery service",
+     "uz": "yetkazib berish xizmati"
+    },
+    {
+     "en": "elderly customers",
+     "uz": "keksa mijozlar"
+    },
+    {
+     "en": "health screenings",
+     "uz": "sog'liqni tekshirish"
+    },
+    {
+     "en": "blood pressure checks",
+     "uz": "qon bosimini tekshirish"
+    },
+    {
+     "en": "add value",
+     "uz": "qiymat qo'shish"
+    },
+    {
+     "en": "loyalty card",
+     "uz": "sodiqlik kartasi"
+    },
+    {
+     "en": "customer retention",
+     "uz": "mijozlarni saqlab qolish"
+    },
+    {
+     "en": "excellent care",
+     "uz": "ajoyib g'amxo'rlik"
+    },
+    {
+     "en": "loyal customer",
+     "uz": "sodiq mijoz"
+    },
+    {
+     "en": "kind regards",
+     "uz": "hurmat bilan"
+    },
+    {
+     "en": "wellness products",
+     "uz": "sog'liq mahsulotlari"
+    },
+    {
+     "en": "prescription medications",
+     "uz": "retseptli dorilar"
+    },
+    {
+     "en": "incredibly convenient",
+     "uz": "juda qulay"
+    },
+    {
+     "en": "encourage retention",
+     "uz": "saqlab qolishni rag'batlantirish"
+    },
+    {
+     "en": "share feedback",
+     "uz": "fikr bildirish"
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "must": {
+    "uz": "kerak",
+    "type": "modal"
+   },
+   "could": {
+    "uz": "mumkin",
+    "type": "modal"
+   },
+   "super": {
+    "uz": "juda",
+    "type": "adv"
+   },
+   "would": {
+    "uz": "edi",
+    "type": "modal"
+   },
+   "cannot": {
+    "uz": "mumkin emas",
+    "type": "modal"
+   },
+   "highly": {
+    "uz": "juda",
+    "type": "adv"
+   },
+   "pop in": {
+    "uz": "kirib o'tmoq",
+    "type": "phrasal"
+   },
+   "really": {
+    "uz": "haqiqatan ham",
+    "type": "adv"
+   },
+   "should": {
+    "uz": "kerak",
+    "type": "modal"
+   },
+   "Firstly": {
+    "uz": "Avvalo",
+    "type": "adv"
+   },
+   "However": {
+    "uz": "Biroq",
+    "type": "adv"
+   },
+   "Moreover": {
+    "uz": "Bundan tashqari",
+    "type": "adv"
+   },
+   "build up": {
+    "uz": "to'planib qolmoq",
+    "type": "phrasal"
+   },
+   "uniquely": {
+    "uz": "o'ziga xos tarzda",
+    "type": "adv"
+   },
+   "carefully": {
+    "uz": "ehtiyotkorlik bilan",
+    "type": "adv"
+   },
+   "extremely": {
+    "uz": "juda ham",
+    "type": "adv"
+   },
+   "Ultimately": {
+    "uz": "Oxir-oqibat",
+    "type": "adv"
+   },
+   "definitely": {
+    "uz": "albatta",
+    "type": "adv"
+   },
+   "incredibly": {
+    "uz": "g'oyatda",
+    "type": "adv"
+   },
+   "Furthermore": {
+    "uz": "Bundan tashqari",
+    "type": "adv"
+   },
+   "Additionally": {
+    "uz": "Qo'shimcha ravishda",
+    "type": "adv"
+   },
+   "On the whole": {
+    "uz": "umuman olganda",
+    "type": "linking"
+   },
+   "give it a go": {
+    "uz": "bir sinab ko'rmoq",
+    "type": "idiom"
+   },
+   "increasingly": {
+    "uz": "tobora",
+    "type": "adv"
+   },
+   "loyalty card": {
+    "uz": "sodiqlik kartasi",
+    "type": "colloc"
+   },
+   "health advice": {
+    "uz": "salomatlik bo'yicha maslahat",
+    "type": "colloc"
+   },
+   "significantly": {
+    "uz": "sezilarli darajada",
+    "type": "adv"
+   },
+   "take the time": {
+    "uz": "vaqt ajratmoq",
+    "type": "colloc"
+   },
+   "useful advice": {
+    "uz": "foydali maslahat",
+    "type": "colloc"
+   },
+   "excellent care": {
+    "uz": "a'lo darajadagi g'amxo'rlik",
+    "type": "colloc"
+   },
+   "a real lifeline": {
+    "uz": "haqiqiy najot (katta yordam)",
+    "type": "idiom"
+   },
+   "goes a long way": {
+    "uz": "katta ahamiyatga ega, juda foydali",
+    "type": "idiom"
+   },
+   "healthcare hubs": {
+    "uz": "sog'liqni saqlash markazlari",
+    "type": "colloc"
+   },
+   "on the hunt for": {
+    "uz": "izlab yurmoq, qidirib yurmoq",
+    "type": "idiom"
+   },
+   "won't regret it": {
+    "uz": "afsuslanmaysan",
+    "type": "colloc"
+   },
+   "catching up fast": {
+    "uz": "tez quvib yetmoqda",
+    "type": "phrasal"
+   },
+   "delivery service": {
+    "uz": "yetkazib berish xizmati",
+    "type": "colloc"
+   },
+   "healthcare costs": {
+    "uz": "tibbiy xarajatlar",
+    "type": "colloc"
+   },
+   "know their stuff": {
+    "uz": "o'z ishini yaxshi biladi",
+    "type": "idiom"
+   },
+   "regular customer": {
+    "uz": "doimiy mijoz",
+    "type": "colloc"
+   },
+   "round the corner": {
+    "uz": "juda yaqin (burchak ortida)",
+    "type": "idiom"
+   },
+   "take the trouble": {
+    "uz": "zahmat chekmoq, vaqt sarflamoq",
+    "type": "idiom"
+   },
+   "glued to a screen": {
+    "uz": "ekranga mixlanib qolmoq",
+    "type": "idiom"
+   },
+   "health screenings": {
+    "uz": "salomatlik tekshiruvlari",
+    "type": "colloc"
+   },
+   "mulling this over": {
+    "uz": "chuqur o'ylab ko'rmoq",
+    "type": "phrasal"
+   },
+   "on the other hand": {
+    "uz": "boshqa tomondan",
+    "type": "linking"
+   },
+   "product selection": {
+    "uz": "mahsulot tanlovi",
+    "type": "colloc"
+   },
+   "range of products": {
+    "uz": "mahsulotlar assortimenti",
+    "type": "colloc"
+   },
+   "run more smoothly": {
+    "uz": "ishni ravonroq yuritmoq",
+    "type": "colloc"
+   },
+   "the end of an era": {
+    "uz": "bir davrning yakuni",
+    "type": "idiom"
+   },
+   "there's no denying": {
+    "uz": "inkor etib bo'lmaydi",
+    "type": "linking"
+   },
+   "who can blame them": {
+    "uz": "ularni kim ham ayblay oladi",
+    "type": "idiom"
+   },
+   "knowledgeable staff": {
+    "uz": "bilimli xodimlar",
+    "type": "colloc"
+   },
+   "preventive services": {
+    "uz": "profilaktika xizmatlari",
+    "type": "colloc"
+   },
+   "share some feedback": {
+    "uz": "fikr-mulohaza bildirmoq",
+    "type": "colloc"
+   },
+   "community pharmacies": {
+    "uz": "mahalliy dorixonalar",
+    "type": "colloc"
+   },
+   "basic health services": {
+    "uz": "asosiy tibbiy xizmatlar",
+    "type": "colloc"
+   },
+   "home delivery service": {
+    "uz": "uyga yetkazib berish xizmati",
+    "type": "colloc"
+   },
+   "initial consultations": {
+    "uz": "dastlabki maslahatlar",
+    "type": "colloc"
+   },
+   "holistic health support": {
+    "uz": "yaxlit sog'liqni saqlash ko'magi",
+    "type": "colloc"
+   },
+   "pull in millions of fans": {
+    "uz": "millionlab muxlislarni jalb qilmoq",
+    "type": "phrasal"
+   },
+   "take these suggestions on board": {
+    "uz": "takliflarni inobatga olmoq",
+    "type": "idiom"
+   },
+   "trained healthcare professionals": {
+    "uz": "malakali tibbiyot xodimlari",
+    "type": "colloc"
+   }
+  }
+ },
+ "created_at": "2026-05-06T14:59:46.747699+00:00",
+ "updated_at": "2026-07-06T10:55:49.832375+00:00"
+}

@@ -1,0 +1,453 @@
+{
+ "id": 2275,
+ "mock_type": "ket-listening",
+ "mock_number": 13,
+ "title": "KET Listening — Test 13",
+ "status": "published",
+ "mock_data": {
+  "audio": {
+   "base": "https://audio.mock-stream.com/KET-Listening/test13/",
+   "files": {
+    "1": "PART1.m4a",
+    "2": "PART2.m4a",
+    "3": "PART3.m4a",
+    "4": "PART4.m4a",
+    "5": "PART5.m4a"
+   }
+  },
+  "parts": [
+   {
+    "type": "picture-mcq",
+    "items": [
+     {
+      "id": 1,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q1A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q1B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q1C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What music will they play at the party?"
+     },
+     {
+      "id": 2,
+      "answer": "B",
+      "options": [
+       {
+        "text": "June",
+        "letter": "A"
+       },
+       {
+        "text": "July",
+        "letter": "B"
+       },
+       {
+        "text": "August",
+        "letter": "C"
+       }
+      ],
+      "question": "When will the man go on holiday?"
+     },
+     {
+      "id": 3,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q3A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q3B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q3C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What will the weather be like tomorrow?"
+     },
+     {
+      "id": 4,
+      "answer": "A",
+      "options": [
+       {
+        "text": "yellow",
+        "letter": "A"
+       },
+       {
+        "text": "blue",
+        "letter": "B"
+       },
+       {
+        "text": "brown",
+        "letter": "C"
+       }
+      ],
+      "question": "What colour is Mary's coat?"
+     },
+     {
+      "id": 5,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q5A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q5B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q5C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What did the woman repair?"
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "image": "q0A.png",
+       "letter": "A"
+      },
+      {
+       "image": "q0B.png",
+       "letter": "B"
+      },
+      {
+       "image": "q0C.png",
+       "letter": "C"
+      }
+     ],
+     "question": "How many people were at the meeting?"
+    },
+    "imageBase": "https://audio.mock-stream.com/KET-Listening/test13/p1/",
+    "partNumber": 1,
+    "instruction": [
+     "You will hear five short conversations.",
+     "You will hear each conversation twice.",
+     "There is one question for each conversation.",
+     "For questions 1–5, put a tick (✓) under the right answer."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "matching-list",
+    "items": [
+     {
+      "id": 6,
+      "name": "Caroline",
+      "answer": "H"
+     },
+     {
+      "id": 7,
+      "name": "Jack",
+      "answer": "B"
+     },
+     {
+      "id": 8,
+      "name": "Sarah",
+      "answer": "D"
+     },
+     {
+      "id": 9,
+      "name": "Peter",
+      "answer": "G"
+     },
+     {
+      "id": 10,
+      "name": "Sarah's father",
+      "answer": "F"
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "name": "Sarah's mother",
+     "answer": "E",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "castle",
+      "letter": "A"
+     },
+     {
+      "text": "cathedral",
+      "letter": "B"
+     },
+     {
+      "text": "hotel",
+      "letter": "C"
+     },
+     {
+      "text": "market",
+      "letter": "D"
+     },
+     {
+      "text": "mountains",
+      "letter": "E"
+     },
+     {
+      "text": "museum",
+      "letter": "F"
+     },
+     {
+      "text": "restaurant",
+      "letter": "G"
+     },
+     {
+      "text": "sea",
+      "letter": "H"
+     }
+    ],
+    "scenario": "Sarah talking about her holiday photographs — places",
+    "leftLabel": "People",
+    "partNumber": 2,
+    "rightLabel": "Places",
+    "instruction": [
+     "Listen to Sarah talking to a friend about her holiday photographs.",
+     "What place is each person in?",
+     "For questions 6–10, write a letter A–H next to each person.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-conversation",
+    "items": [
+     {
+      "id": 11,
+      "stem": "Which bus goes to the sports centre?",
+      "answer": "B",
+      "options": [
+       {
+        "text": "15",
+        "letter": "A"
+       },
+       {
+        "text": "18",
+        "letter": "B"
+       },
+       {
+        "text": "25",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "stem": "From Monday to Saturday, the sports centre is open from",
+      "answer": "A",
+      "options": [
+       {
+        "text": "6 a.m.",
+        "letter": "A"
+       },
+       {
+        "text": "7 a.m.",
+        "letter": "B"
+       },
+       {
+        "text": "9 a.m.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "stem": "If Sue goes swimming, she must take",
+      "answer": "C",
+      "options": [
+       {
+        "text": "soap.",
+        "letter": "A"
+       },
+       {
+        "text": "a swimming hat.",
+        "letter": "B"
+       },
+       {
+        "text": "a towel.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "stem": "At the sports centre, you can buy",
+      "answer": "A",
+      "options": [
+       {
+        "text": "sandwiches.",
+        "letter": "A"
+       },
+       {
+        "text": "fruit.",
+        "letter": "B"
+       },
+       {
+        "text": "drinks.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "stem": "Jim and Sue are going to go to the sports centre next",
+      "answer": "B",
+      "options": [
+       {
+        "text": "Wednesday.",
+        "letter": "A"
+       },
+       {
+        "text": "Thursday.",
+        "letter": "B"
+       },
+       {
+        "text": "Saturday.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "stem": "The new sports centre is",
+     "answer": "B",
+     "number": 0,
+     "options": [
+      {
+       "text": "cheap.",
+       "letter": "A"
+      },
+      {
+       "text": "big.",
+       "letter": "B"
+      },
+      {
+       "text": "dark.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partNumber": 3,
+    "instruction": [
+     "Listen to Sue talking to her friend, Jim, about the new sports centre.",
+     "For questions 11–15, tick (✓) A, B or C.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "rows": [
+     {
+      "id": 16,
+      "label": "Name of hotel:",
+      "answer": "April"
+     },
+     {
+      "id": 17,
+      "label": "Address:",
+      "answer": "Leith",
+      "suffix": "Street"
+     },
+     {
+      "id": 18,
+      "label": "Meeting starts at:",
+      "answer": "10.20"
+     },
+     {
+      "id": 19,
+      "label": "Bring:",
+      "answer": "book"
+     },
+     {
+      "id": 20,
+      "label": "Visit factory on:",
+      "answer": "Tuesday"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 4",
+    "subtitle": "To: Diana\nFrom: Ian",
+    "noteTitle": "MESSAGE",
+    "partNumber": 4,
+    "instruction": [
+     "You will hear a man making a telephone call.",
+     "Listen and complete questions 16–20.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "rows": [
+     {
+      "id": 21,
+      "label": "to:",
+      "answer": "7.30 p.m."
+     },
+     {
+      "id": 22,
+      "label": "Name of nearest station:",
+      "answer": "North",
+      "suffix": "Station"
+     },
+     {
+      "id": 23,
+      "label": "Elephant House closed on:",
+      "answer": "3rd",
+      "suffix": "May"
+     },
+     {
+      "id": 24,
+      "label": "Shop sells books, postcards and:",
+      "answer": "T-shirts"
+     },
+     {
+      "id": 25,
+      "label": "Cost of family ticket:",
+      "answer": "12",
+      "prefix": "£"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 5",
+    "subtitle": "Monday–Saturday, open from: 9 a.m.",
+    "noteTitle": "Park Zoo",
+    "partNumber": 5,
+    "instruction": [
+     "You will hear some information about a zoo.",
+     "Listen and complete questions 21–25.",
+     "You will hear the information twice."
+    ],
+    "questionsLabel": "QUESTIONS 21–25"
+   }
+  ],
+  "testInfo": {
+   "id": "ket-l-13",
+   "level": "A2",
+   "paper": "Paper 2",
+   "parts": 5,
+   "title": "KET Listening — Test 13",
+   "totalTime": 30,
+   "totalQuestions": 25
+  }
+ },
+ "created_at": "2026-10-14T06:45:25.087307+00:00",
+ "updated_at": "2026-10-14T06:47:11.307702+00:00"
+}

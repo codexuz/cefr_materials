@@ -1,0 +1,567 @@
+{
+ "id": 1525,
+ "mock_type": "vocabulary",
+ "mock_number": 57,
+ "title": "Data Science & Analytics — Advanced",
+ "status": "published",
+ "mock_data": {
+  "slug": "data-analytics01-advanced",
+  "type": "vocabulary",
+  "level": "advanced",
+  "imageUrl": "https://audio.mock-stream.com/cefr-vocab/data-analytics01/image.jpg",
+  "questions": [
+   {
+    "def": "mustahkamlik",
+    "type": "Fill in the blank:",
+    "level": "C1–C2",
+    "correct": "robustness",
+    "options": [
+     "robustness",
+     "simplicity",
+     "novelty",
+     "verbosity"
+    ],
+    "meanings": {
+     "novelty": "yangilik",
+     "verbosity": "ko'p gapirish",
+     "simplicity": "soddalik"
+    },
+    "question": "The <b>___</b> of the model was assessed using cross-validation."
+   },
+   {
+    "def": "taxmin qilish",
+    "type": "Find the SYNONYM:",
+    "level": "C1–C2",
+    "correct": "estimate",
+    "options": [
+     "estimate",
+     "ignore",
+     "delete",
+     "calculate"
+    ],
+    "meanings": {
+     "delete": "o'chirish",
+     "ignore": "e'tibor qilmaslik",
+     "calculate": "hisoblash"
+    },
+    "question": "What is a synonym for <b>impute</b>?"
+   },
+   {
+    "def": "zich",
+    "type": "Find the ANTONYM:",
+    "level": "C1–C2",
+    "correct": "dense",
+    "options": [
+     "dense",
+     "scarce",
+     "empty",
+     "lacking"
+    ],
+    "meanings": {
+     "empty": "bo'sh",
+     "scarce": "kam",
+     "lacking": "yetishmaydigan"
+    },
+    "question": "What is the opposite of <b>sparse</b> data?"
+   },
+   {
+    "def": "Ma'lumotlarning kelib chiqishi va o'zgarishlari.",
+    "type": "What does it mean?",
+    "level": "C1–C2",
+    "correct": "Data's origin and transformations.",
+    "options": [
+     "Data's origin and transformations.",
+     "Data storage location.",
+     "Data visualization technique.",
+     "Data encryption method."
+    ],
+    "meanings": {
+     "Data storage location.": "Ma'lumotlarni saqlash joyi.",
+     "Data encryption method.": "Ma'lumotlarni shifrlash usuli.",
+     "Data visualization technique.": "Ma'lumotlarni vizuallashtirish usuli."
+    },
+    "question": "What does <b>data lineage</b> mean?"
+   },
+   {
+    "def": "tasdiqlash",
+    "type": "Complete the collocation:",
+    "level": "C1–C2",
+    "correct": "validate",
+    "options": [
+     "validate",
+     "ignore",
+     "create",
+     "assume"
+    ],
+    "meanings": {
+     "assume": "taxmin qilmoq",
+     "create": "yaratmoq",
+     "ignore": "e'tibor qilmaslik"
+    },
+    "question": "<b>___</b> a hypothesis."
+   },
+   {
+    "def": "Ma'lumotlarni batafsil o'rganish.",
+    "type": "What does this phrase mean?",
+    "level": "C1–C2",
+    "correct": "Explore data in detail.",
+    "options": [
+     "Explore data in detail.",
+     "Avoid complex data.",
+     "Present data briefly.",
+     "Ignore irrelevant data."
+    ],
+    "meanings": {
+     "Avoid complex data.": "Murakkab ma'lumotlardan qochish.",
+     "Present data briefly.": "Ma'lumotlarni qisqacha taqdim etish.",
+     "Ignore irrelevant data.": "Aloqasiz ma'lumotlarga e'tibor qilmaslik."
+    },
+    "question": "What does <b>drill down</b> mean?"
+   },
+   {
+    "def": "maqbuldan past",
+    "type": "Fill in the blank:",
+    "level": "C1–C2",
+    "correct": "suboptimal",
+    "options": [
+     "suboptimal",
+     "superior",
+     "consistent",
+     "exceptional"
+    ],
+    "meanings": {
+     "superior": "yuqori",
+     "consistent": "doimiy",
+     "exceptional": "favqulodda"
+    },
+    "question": "The algorithm exhibited <b>___</b> performance on unseen data."
+   },
+   {
+    "def": "anomaliya",
+    "type": "Find the SYNONYM:",
+    "level": "C1–C2",
+    "correct": "outlier",
+    "options": [
+     "outlier",
+     "average",
+     "norm",
+     "standard"
+    ],
+    "meanings": {
+     "norm": "me'yor",
+     "average": "o'rtacha",
+     "standard": "standart"
+    },
+    "question": "What is a synonym for <b>anomaly</b>?"
+   },
+   {
+    "def": "tasodifiy",
+    "type": "Find the ANTONYM:",
+    "level": "C1–C2",
+    "correct": "stochastic",
+    "options": [
+     "stochastic",
+     "certain",
+     "fixed",
+     "defined"
+    ],
+    "meanings": {
+     "fixed": "o'zgarmas",
+     "certain": "aniq",
+     "defined": "aniqlangan"
+    },
+    "question": "What is the opposite of <b>deterministic</b>?"
+   },
+   {
+    "def": "Xom ma'lumotlardan xususiyatlar yaratish.",
+    "type": "What does it mean?",
+    "level": "C1–C2",
+    "correct": "Creating features from raw data.",
+    "options": [
+     "Creating features from raw data.",
+     "Deleting irrelevant data.",
+     "Storing data securely.",
+     "Analyzing algorithms' efficiency."
+    ],
+    "meanings": {
+     "Storing data securely.": "Ma'lumotlarni xavfsiz saqlash.",
+     "Deleting irrelevant data.": "Aloqasiz ma'lumotlarni o'chirish.",
+     "Analyzing algorithms' efficiency.": "Algoritmlar samaradorligini tahlil qilish."
+    },
+    "question": "What does <b>feature engineering</b> mean?"
+   },
+   {
+    "def": "yumshatish",
+    "type": "Complete the collocation:",
+    "level": "C1–C2",
+    "correct": "mitigate",
+    "options": [
+     "mitigate",
+     "ignore",
+     "increase",
+     "amplify"
+    ],
+    "meanings": {
+     "ignore": "e'tibor qilmaslik",
+     "amplify": "kuchaytirish",
+     "increase": "oshirish"
+    },
+    "question": "<b>___</b> the bias."
+   },
+   {
+    "def": "Katta ta'sir ko'rsatish.",
+    "type": "What does this phrase mean?",
+    "level": "C1–C2",
+    "correct": "Make a significant impact.",
+    "options": [
+     "Make a significant impact.",
+     "Create a minor adjustment.",
+     "Cause confusion.",
+     "Measure something precisely."
+    ],
+    "meanings": {
+     "Cause confusion.": "Chalg'itish.",
+     "Create a minor adjustment.": "Kichik o'zgartirish kiritish.",
+     "Measure something precisely.": "Nimadirni aniq o'lchash."
+    },
+    "question": "What does <b>move the needle</b> mean?"
+   },
+   {
+    "def": "umumlashtirish qobiliyati",
+    "type": "Fill in the blank:",
+    "level": "C1–C2",
+    "correct": "generalizability",
+    "options": [
+     "generalizability",
+     "originality",
+     "complexity",
+     "intricacy"
+    ],
+    "meanings": {
+     "intricacy": "chalkashlik",
+     "complexity": "murakkablik",
+     "originality": "o'ziga xoslik"
+    },
+    "question": "The model’s <b>___</b> was compromised due to overfitting."
+   },
+   {
+    "def": "qoida",
+    "type": "Find the SYNONYM:",
+    "level": "C1–C2",
+    "correct": "rule of thumb",
+    "options": [
+     "rule of thumb",
+     "algorithm",
+     "theorem",
+     "axiomatic"
+    ],
+    "meanings": {
+     "theorem": "teorema",
+     "algorithm": "algoritm",
+     "axiomatic": "aksiomatik"
+    },
+    "question": "What is a synonym for <b>heuristic</b>?"
+   },
+   {
+    "def": "parametrik bo'lmagan",
+    "type": "Find the ANTONYM:",
+    "level": "C1–C2",
+    "correct": "nonparametric",
+    "options": [
+     "nonparametric",
+     "constant",
+     "linear",
+     "fixed"
+    ],
+    "meanings": {
+     "fixed": "o'zgarmas",
+     "linear": "chiziqli",
+     "constant": "doimiy"
+    },
+    "question": "What is the opposite of <b>parametric</b>?"
+   },
+   {
+    "def": "Qaysi biri yaxshiroq ishlashini aniqlash uchun ikki versiyani solishtirish.",
+    "type": "What does it mean?",
+    "level": "C1–C2",
+    "correct": "Comparing two versions to determine which performs better.",
+    "options": [
+     "Comparing two versions to determine which performs better.",
+     "Analyzing data security.",
+     "Building complex models.",
+     "Developing new algorithms."
+    ],
+    "meanings": {
+     "Analyzing data security.": "Ma'lumotlar xavfsizligini tahlil qilish.",
+     "Building complex models.": "Murakkab modellar yaratish.",
+     "Developing new algorithms.": "Yangi algoritmlarni ishlab chiqish."
+    },
+    "question": "What does <b>A/B testing</b> mean?"
+   },
+   {
+    "def": "singdirmoq",
+    "type": "Complete the collocation:",
+    "level": "C1–C2",
+    "correct": "ingest",
+    "options": [
+     "ingest",
+     "eject",
+     "reject",
+     "dissect"
+    ],
+    "meanings": {
+     "eject": "chiqarib tashlash",
+     "reject": "rad etish",
+     "dissect": "ajratib tahlil qilish"
+    },
+    "question": "<b>___</b> the data."
+   },
+   {
+    "def": "Oson erishish mumkin bo'lgan natijalar.",
+    "type": "What does this phrase mean?",
+    "level": "C1–C2",
+    "correct": "Easily achievable results.",
+    "options": [
+     "Easily achievable results.",
+     "Complicated analyses.",
+     "Expensive resources.",
+     "Unreliable data."
+    ],
+    "meanings": {
+     "Unreliable data.": "Ishonchsiz ma'lumotlar.",
+     "Expensive resources.": "Qimmat resurslar.",
+     "Complicated analyses.": "Murakkab tahlillar."
+    },
+    "question": "What does <b>low-hanging fruit</b> mean?"
+   },
+   {
+    "def": "donadorlik",
+    "type": "Fill in the blank:",
+    "level": "C1–C2",
+    "correct": "granularity",
+    "options": [
+     "granularity",
+     "opacity",
+     "verbosity",
+     "velocity"
+    ],
+    "meanings": {
+     "opacity": "shaffofsizlik",
+     "velocity": "tezlik",
+     "verbosity": "ko'p gapirish"
+    },
+    "question": "The <b>___</b> of the data requires careful consideration."
+   },
+   {
+    "def": "takrorlash",
+    "type": "Find the SYNONYM:",
+    "level": "C1–C2",
+    "correct": "repeat",
+    "options": [
+     "repeat",
+     "halt",
+     "terminate",
+     "cease"
+    ],
+    "meanings": {
+     "halt": "to'xtatish",
+     "cease": "to'xtash",
+     "terminate": "tugatish"
+    },
+    "question": "What is a synonym for <b>iterate</b>?"
+   },
+   {
+    "def": "tarqalish",
+    "type": "Find the ANTONYM:",
+    "level": "C1–C2",
+    "correct": "diverge",
+    "options": [
+     "diverge",
+     "agree",
+     "unite",
+     "meet"
+    ],
+    "meanings": {
+     "meet": "uchrashish",
+     "agree": "kelishish",
+     "unite": "birlashish"
+    },
+    "question": "What is the opposite of <b>converge</b>?"
+   },
+   {
+    "def": "Model uchun tegishli xususiyatlarni tanlash.",
+    "type": "What does it mean?",
+    "level": "C1–C2",
+    "correct": "Choosing relevant features for a model.",
+    "options": [
+     "Choosing relevant features for a model.",
+     "Randomly selecting any features.",
+     "Ignoring features entirely.",
+     "Combining all features available."
+    ],
+    "meanings": {
+     "Ignoring features entirely.": "Xususiyatlarni umuman e'tiborsiz qoldirish.",
+     "Randomly selecting any features.": "Tasodifiy ravishda har qanday xususiyatni tanlash.",
+     "Combining all features available.": "Mavjud barcha xususiyatlarni birlashtirish."
+    },
+    "question": "What does <b>feature selection</b> mean?"
+   },
+   {
+    "def": "terib olmoq",
+    "type": "Complete the collocation:",
+    "level": "C1–C2",
+    "correct": "glean",
+    "options": [
+     "glean",
+     "ignore",
+     "discard",
+     "overlook"
+    ],
+    "meanings": {
+     "ignore": "e'tibor qilmaslik",
+     "discard": "rad etish",
+     "overlook": "e'tibordan chetda qoldirish"
+    },
+    "question": "<b>___</b> insights."
+   },
+   {
+    "def": "Imkonsiz vazifani bajarishga urinish.",
+    "type": "What does this phrase mean?",
+    "level": "C1–C2",
+    "correct": "Attempt an impossible task.",
+    "options": [
+     "Attempt an impossible task.",
+     "Complete a simple task.",
+     "Ignore important data.",
+     "Analyze data quickly."
+    ],
+    "meanings": {
+     "Analyze data quickly.": "Ma'lumotlarni tez tahlil qilish.",
+     "Ignore important data.": "Muhim ma'lumotlarga e'tibor qilmaslik.",
+     "Complete a simple task.": "Oddiy vazifani bajarish."
+    },
+    "question": "What does <b>boil the ocean</b> mean?"
+   },
+   {
+    "def": "sezgir",
+    "type": "Fill in the blank:",
+    "level": "C1–C2",
+    "correct": "sensitive",
+    "options": [
+     "sensitive",
+     "immune",
+     "indifferent",
+     "inured"
+    ],
+    "meanings": {
+     "immune": "immunitetli",
+     "inured": "o'rganib qolgan",
+     "indifferent": "beparvo"
+    },
+    "question": "The model’s performance was <b>___</b> to the quality of the input data."
+   },
+   {
+    "def": "xulosa chiqarish",
+    "type": "Find the SYNONYM:",
+    "level": "C1–C2",
+    "correct": "infer",
+    "options": [
+     "infer",
+     "ignore",
+     "simplify",
+     "restate"
+    ],
+    "meanings": {
+     "ignore": "e'tibor qilmaslik",
+     "restate": "qayta bayon etish",
+     "simplify": "soddalashtirish"
+    },
+    "question": "What is a synonym for <b>extrapolate</b>?"
+   },
+   {
+    "def": "mustaqillik",
+    "type": "Find the ANTONYM:",
+    "level": "C1–C2",
+    "correct": "independence",
+    "options": [
+     "independence",
+     "association",
+     "relation",
+     "connection"
+    ],
+    "meanings": {
+     "relation": "munosabat",
+     "connection": "bog'lanish",
+     "association": "aloqa"
+    },
+    "question": "What is the opposite of <b>correlation</b>?"
+   },
+   {
+    "def": "Ichki ishlashi shaffof bo'lmagan model.",
+    "type": "What does it mean?",
+    "level": "C1–C2",
+    "correct": "Model whose inner workings are opaque.",
+    "options": [
+     "Model whose inner workings are opaque.",
+     "Simple, interpretable model.",
+     "Model with perfect accuracy.",
+     "Model with limited functionality."
+    ],
+    "meanings": {
+     "Model with perfect accuracy.": "Mukammal aniqlikka ega model.",
+     "Simple, interpretable model.": "Oddiy, tushunarli model.",
+     "Model with limited functionality.": "Cheklangan funksionallikka ega model."
+    },
+    "question": "What does <b>black box model</b> mean?"
+   },
+   {
+    "def": "hosil qilmoq",
+    "type": "Complete the collocation:",
+    "level": "C1–C2",
+    "correct": "derive",
+    "options": [
+     "derive",
+     "conceal",
+     "disregard",
+     "invent"
+    ],
+    "meanings": {
+     "invent": "ixtiro qilmoq",
+     "conceal": "yashirish",
+     "disregard": "e'tiborsiz qoldirish"
+    },
+    "question": "<b>___</b> actionable insights."
+   },
+   {
+    "def": "Nimadirni chuqur o'rganish.",
+    "type": "What does this phrase mean?",
+    "level": "C1–C2",
+    "correct": "Investigate something deeply.",
+    "options": [
+     "Investigate something deeply.",
+     "Avoid complex problems.",
+     "Ignore unimportant aspects.",
+     "Summarize information briefly."
+    ],
+    "meanings": {
+     "Avoid complex problems.": "Murakkab muammolardan qochish.",
+     "Ignore unimportant aspects.": "Muhim bo'lmagan jihatlarga e'tibor bermaslik.",
+     "Summarize information briefly.": "Ma'lumotni qisqacha umumlashtirish."
+    },
+    "question": "What does <b>peel back the layers</b> mean?"
+   }
+  ],
+  "topicBase": "data-analytics01",
+  "levelLabel": "Advanced",
+  "displayName": "Data Science & Analytics",
+  "imageCredit": {
+   "url": "https://www.pexels.com/photo/big-data-book-on-work-desk-modern-office-scene-29614944/",
+   "source": "Pexels",
+   "creator": "Asad Photo Maldives",
+   "license": "Pexels License",
+   "creatorUrl": "https://www.pexels.com/@asadphoto"
+  }
+ },
+ "created_at": "2026-07-18T13:35:18.752509+00:00",
+ "updated_at": "2026-07-18T14:26:48.81755+00:00"
+}

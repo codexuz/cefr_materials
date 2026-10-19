@@ -1,0 +1,504 @@
+{
+ "id": 491,
+ "mock_type": "cefr-listening",
+ "mock_number": 39,
+ "title": "CEFR Listening Mock 39",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "mcq-reply",
+    "title": "Part 1",
+    "answers": {
+     "1": "A",
+     "2": "A",
+     "3": "C",
+     "4": "B",
+     "5": "B",
+     "6": "C",
+     "7": "A",
+     "8": "B"
+    },
+    "audioFile": "https://audio.mock-stream.com/test39/PART 1.m4a",
+    "questions": [
+     {
+      "id": 1,
+      "options": [
+       {
+        "text": "Near the bank.",
+        "letter": "A"
+       },
+       {
+        "text": "I can't find them anywhere.",
+        "letter": "B"
+       },
+       {
+        "text": "I'll take the bus.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "options": [
+       {
+        "text": "In 1984.",
+        "letter": "A"
+       },
+       {
+        "text": "For 10 years.",
+        "letter": "B"
+       },
+       {
+        "text": "In Boston.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 3,
+      "options": [
+       {
+        "text": "I live in Portland.",
+        "letter": "A"
+       },
+       {
+        "text": "Two weeks ago.",
+        "letter": "B"
+       },
+       {
+        "text": "In a drawer.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 4,
+      "options": [
+       {
+        "text": "Yes, he has.",
+        "letter": "A"
+       },
+       {
+        "text": "She's been there once.",
+        "letter": "B"
+       },
+       {
+        "text": "There's no admission fee.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 5,
+      "options": [
+       {
+        "text": "He's in the main office.",
+        "letter": "A"
+       },
+       {
+        "text": "His name is Paul Andrews.",
+        "letter": "B"
+       },
+       {
+        "text": "Yes, we hired a new instructor.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 6,
+      "options": [
+       {
+        "text": "At nine twenty.",
+        "letter": "A"
+       },
+       {
+        "text": "On flowers and birds.",
+        "letter": "B"
+       },
+       {
+        "text": "There was a power failure.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 7,
+      "options": [
+       {
+        "text": "In about half an hour.",
+        "letter": "A"
+       },
+       {
+        "text": "At an Italian restaurant.",
+        "letter": "B"
+       },
+       {
+        "text": "I haven't read the menu.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 8,
+      "options": [
+       {
+        "text": "Last Wednesday.",
+        "letter": "A"
+       },
+       {
+        "text": "No, he couldn't come.",
+        "letter": "B"
+       },
+       {
+        "text": "In Singapore.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "partNumber": 1,
+    "instruction": "You will hear some sentences. You will hear each sentence twice. Choose the correct reply to each sentence (A, B, or C).",
+    "questionRange": "1-8"
+   },
+   {
+    "type": "gap-fill-form",
+    "title": "Part 2",
+    "answers": {
+     "9": "TENT",
+     "10": "MEALS",
+     "11": "PATH",
+     "12": "MAP",
+     "13": "RABBIT",
+     "14": "FLIGHT"
+    },
+    "audioFile": "https://audio.mock-stream.com/test39/PART 2.m4a",
+    "formTitle": "WORKING IN A FOREST IN NEW ZEALAND",
+    "partNumber": 2,
+    "formContent": [
+     {
+      "text": "Steve had accommodation in a shared",
+      "type": "item-gap",
+      "gapId": 9,
+      "gapSuffix": "."
+     },
+     {
+      "text": "Steve says it was important to have good",
+      "type": "item-gap",
+      "gapId": 10,
+      "gapSuffix": "at the end of each day."
+     },
+     {
+      "text": "Steve worked with a team that made a",
+      "type": "item-gap",
+      "gapId": 11,
+      "gapSuffix": "through the forest."
+     },
+     {
+      "text": "Steve also collected information needed for a",
+      "type": "item-gap",
+      "gapId": 12,
+      "gapSuffix": "of the forest area."
+     },
+     {
+      "text": "In the morning Steve was surprised to hear the sound of",
+      "type": "item-gap",
+      "gapId": 13,
+      "gapSuffix": "in the forest."
+     },
+     {
+      "text": "When he did the trip, Steve only had to pay for his",
+      "type": "item-gap",
+      "gapId": 14,
+      "gapSuffix": "."
+     }
+    ],
+    "instruction": "You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. Write ONE WORD and / or A NUMBER for each answer.",
+    "questionRange": "9-14"
+   },
+   {
+    "type": "matching-speakers",
+    "title": "Part 3",
+    "answers": {
+     "15": "C",
+     "16": "A",
+     "17": "D",
+     "18": "F"
+    },
+    "options": [
+     {
+      "text": "travel for work",
+      "letter": "A"
+     },
+     {
+      "text": "start their own business",
+      "letter": "B"
+     },
+     {
+      "text": "work from home",
+      "letter": "C"
+     },
+     {
+      "text": "work outdoors",
+      "letter": "D"
+     },
+     {
+      "text": "work abroad",
+      "letter": "E"
+     },
+     {
+      "text": "work part-time",
+      "letter": "F"
+     }
+    ],
+    "speakers": [
+     {
+      "id": 15,
+      "label": "Speaker 1"
+     },
+     {
+      "id": 16,
+      "label": "Speaker 2"
+     },
+     {
+      "id": 17,
+      "label": "Speaker 3"
+     },
+     {
+      "id": 18,
+      "label": "Speaker 4"
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test39/PART 3.m4a",
+    "partNumber": 3,
+    "instruction": "You will hear people talking about future jobs. Match each speaker (15-18) to the list of what each person wants to do (A-F). There are TWO EXTRA places which you do not need to use.",
+    "questionRange": "15-18"
+   },
+   {
+    "type": "map-labeling",
+    "title": "Part 4",
+    "answers": {
+     "19": "E",
+     "20": "D",
+     "21": "B",
+     "22": "F",
+     "23": "G"
+    },
+    "mapImage": "https://audio.mock-stream.com/test39/map.png",
+    "mapTitle": "FARM LAYOUT",
+    "audioFile": "https://audio.mock-stream.com/test39/PART 4.m4a",
+    "mapLabels": [
+     "A",
+     "B",
+     "C",
+     "D",
+     "E",
+     "F",
+     "G",
+     "H"
+    ],
+    "questions": [
+     {
+      "id": 19,
+      "place": "Main shed"
+     },
+     {
+      "id": 20,
+      "place": "Pasture area"
+     },
+     {
+      "id": 21,
+      "place": "Manure storage"
+     },
+     {
+      "id": 22,
+      "place": "Loading chute"
+     },
+     {
+      "id": 23,
+      "place": "Feed storage"
+     }
+    ],
+    "partNumber": 4,
+    "instruction": "You will hear someone giving a talk. Label the places (19-23) on the map (A-H). There are THREE extra options which you do not need to use.",
+    "questionRange": "19-23"
+   },
+   {
+    "type": "mcq-extracts",
+    "title": "Part 5",
+    "answers": {
+     "24": "C",
+     "25": "B",
+     "26": "A",
+     "27": "A",
+     "28": "C",
+     "29": "B"
+    },
+    "extracts": [
+     {
+      "title": "Extract One",
+      "context": "You hear Mike and Mary discussing their holiday plans.",
+      "questions": [
+       {
+        "id": 24,
+        "text": "The cause of the problem is that Mike",
+        "options": [
+         {
+          "text": "doesn't like walking.",
+          "letter": "A"
+         },
+         {
+          "text": "doesn't like fishing.",
+          "letter": "B"
+         },
+         {
+          "text": "prefers being busy.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 25,
+        "text": "Mary accepts Mike's suggestion about going to Barcelona, because she",
+        "options": [
+         {
+          "text": "thinks it's an ideal place.",
+          "letter": "A"
+         },
+         {
+          "text": "is willing to compromise.",
+          "letter": "B"
+         },
+         {
+          "text": "wants to go there herself.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Extract Two",
+      "context": "You hear two people talking about their work.",
+      "questions": [
+       {
+        "id": 26,
+        "text": "The two speakers are",
+        "options": [
+         {
+          "text": "colleagues in an office.",
+          "letter": "A"
+         },
+         {
+          "text": "fellow teachers in a school.",
+          "letter": "B"
+         },
+         {
+          "text": "a teacher and a businessman.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 27,
+        "text": "The woman's opinion of her current job is that it",
+        "options": [
+         {
+          "text": "isn't satisfying.",
+          "letter": "A"
+         },
+         {
+          "text": "is enjoyable.",
+          "letter": "B"
+         },
+         {
+          "text": "pays poorly.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Extract Three",
+      "context": "You hear two friends talking about a missed appointment.",
+      "questions": [
+       {
+        "id": 28,
+        "text": "The speakers did not meet because",
+        "options": [
+         {
+          "text": "he didn't send the message.",
+          "letter": "A"
+         },
+         {
+          "text": "he didn't have his phone with him.",
+          "letter": "B"
+         },
+         {
+          "text": "she didn't receive his message in time.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 29,
+        "text": "The man started the conversation to",
+        "options": [
+         {
+          "text": "make a suggestion.",
+          "letter": "A"
+         },
+         {
+          "text": "complain about something.",
+          "letter": "B"
+         },
+         {
+          "text": "explain how his mobile works.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test39/PART 5.m4a",
+    "partNumber": 5,
+    "instruction": "You will hear three extracts. Choose the correct answer (A, B or C) for each question (24-29). There are TWO questions for each extract.",
+    "questionRange": "24-29"
+   },
+   {
+    "type": "sentence-completion",
+    "title": "Part 6",
+    "answers": {
+     "30": "DOCUMENTARY",
+     "31": "COMET",
+     "32": "STATION",
+     "33": "CLUB",
+     "34": "DISCOVERIES",
+     "35": "DISCIPLINE"
+    },
+    "audioFile": "https://audio.mock-stream.com/test39/PART 6.m4a",
+    "partNumber": 6,
+    "instruction": "You will hear a part of a lecture. For each question, fill in the missing information in the numbered space. Write no more than one word for each answer.",
+    "passageTitle": "WORKING AS AN ASTRONOMER",
+    "questionRange": "30-35",
+    "passageContent": "Steve first became interested in astronomy after watching a <span class=\"gap-input\" data-gap=\"30\">_____(30)_____</span> on TV.<br><br>Steve describes how excited he felt when he saw a <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span> through his telescope.<br><br>Steve's ambition is to go on a trip to a space <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span> one day.<br><br>Steve thinks finding a local <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span> is the best thing that beginners interested in astronomy could do.<br><br>Steve says that amateur astronomers' important <span class=\"gap-input\" data-gap=\"34\">_____(34)_____</span> include finding new stars.<br><br>Steve explains that <span class=\"gap-input\" data-gap=\"35\">_____(35)_____</span> is the most important quality astronomers need to have."
+   }
+  ],
+  "source": null,
+  "examDate": "2026-06-01",
+  "examType": "cefr-listening",
+  "testInfo": {
+   "id": "cefr-listening-39",
+   "level": "B2",
+   "title": "CEFR Listening Mock Test 39",
+   "totalTime": 40,
+   "totalQuestions": 35
+  },
+  "mockNumber": 39
+ },
+ "created_at": "2026-06-01T18:11:03.674748+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

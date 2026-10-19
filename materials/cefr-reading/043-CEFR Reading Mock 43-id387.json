@@ -1,0 +1,698 @@
+{
+ "id": 387,
+ "mock_type": "cefr-reading",
+ "mock_number": 43,
+ "title": "CEFR Reading Mock 43",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "gap-fill-text",
+    "title": "Part 1",
+    "answers": {
+     "1": [
+      "island"
+     ],
+     "2": [
+      "sand"
+     ],
+     "3": [
+      "starfish"
+     ],
+     "4": [
+      "picnic"
+     ],
+     "5": [
+      "place"
+     ],
+     "6": [
+      "boat"
+     ]
+    },
+    "passage": {
+     "title": "A Picnic on Starfish Island",
+     "content": "<p>Last weekend, my family and I took a small boat to a beautiful island. The <span class=\"gap-input\" data-gap=\"1\">_____(1)_____</span> was known for its soft sand and clear blue waters. As we arrived, we found the perfect place to set up our picnic under a shady tree near the shore. Children played on the <span class=\"gap-input\" data-gap=\"2\">_____(2)_____</span>, building castles and collecting starfish. The <span class=\"gap-input\" data-gap=\"3\">_____(3)_____</span> were bright orange and lay gently on the wet sand. We reminded the kids to look but not touch, as the starfish are living creatures. After enjoying our <span class=\"gap-input\" data-gap=\"4\">_____(4)_____</span>, we took a walk around the island. We discovered another quiet <span class=\"gap-input\" data-gap=\"5\">_____(5)_____</span> where the sand was even softer, and the view of the sea was breathtaking. We watched as a small <span class=\"gap-input\" data-gap=\"6\">_____(6)_____</span> passed by, its sail catching the wind. It was a wonderful day filled with laughter, nature, and the simple joys of a family picnic on a peaceful island.</p>"
+    },
+    "questions": [
+     {
+      "id": 1,
+      "hint": "a small boat to a beautiful island. The _____"
+     },
+     {
+      "id": 2,
+      "hint": "near the shore. Children played on the _____"
+     },
+     {
+      "id": 3,
+      "hint": "castles and collecting starfish. The _____"
+     },
+     {
+      "id": 4,
+      "hint": "are living creatures. After enjoying our _____"
+     },
+     {
+      "id": 5,
+      "hint": "the island. We discovered another quiet _____"
+     },
+     {
+      "id": 6,
+      "hint": "was breathtaking. We watched as a small _____"
+     }
+    ],
+    "partNumber": 1,
+    "instruction": "Read the text. Fill in each gap with ONE word. You must use a word which is somewhere in the rest of the text.",
+    "explanations": {
+     "q1": {
+      "text": "Javob matnning o'zidan olinadi — shu so'z boshqa gapda uchraydi.",
+      "quote": "Last weekend, my family and I took a small boat to a beautiful island."
+     },
+     "q2": {
+      "text": "Javob matnning o'zidan olinadi — shu so'z boshqa gapda uchraydi.",
+      "quote": "The (1) ________________ was known for its soft sand and clear blue waters."
+     },
+     "q3": {
+      "text": "Javob matnning o'zidan olinadi — shu so'z boshqa gapda uchraydi.",
+      "quote": "Children played on the (2) _______________, building castles and collecting starfish."
+     },
+     "q4": {
+      "text": "Javob matnning o'zidan olinadi — shu so'z boshqa gapda uchraydi.",
+      "quote": "As we arrived, we found the perfect place to set up our picnic under a shady tree near the shore."
+     },
+     "q5": {
+      "text": "Earlier in the passage the family \"found the perfect place to set up our picnic\". The same word is needed here for the new, quieter spot they discovered on their walk. That's why the correct answer is 'place'.",
+      "quote": "As we arrived, we found the perfect place to set up our picnic under a shady tree near the shore."
+     },
+     "q6": {
+      "text": "Javob matnning o'zidan olinadi — shu so'z boshqa gapda uchraydi.",
+      "quote": "Last weekend, my family and I took a small boat to a beautiful island."
+     }
+    },
+    "questionRange": "1-6"
+   },
+   {
+    "type": "matching",
+    "texts": [
+     {
+      "title": "Q7",
+      "number": 7,
+      "content": "The badminton club is a lively place, filled with the sound of shuttlecocks hitting rackets and the friendly chatter of players. They play on a court, moving quickly and strategically to hit the shuttlecock over the net. It's a great way to get some exercise, improve your reflexes, and enjoy some friendly competition."
+     },
+     {
+      "title": "Q8",
+      "number": 8,
+      "content": "The yoga studio is a peaceful haven, where people come to stretch their bodies and calm their minds. The instructor guides the class through a series of poses, focusing on breathing and relaxation. It's a great way to build strength and flexibility, while also finding a sense of inner peace."
+     },
+     {
+      "title": "Q9",
+      "number": 9,
+      "content": "The football club is a passionate group, full of energy and enthusiasm for the sport. They practice on a field, honing their skills in passing, shooting, and teamwork. It's a great way to get involved in a team sport, learn valuable life skills, and enjoy the thrill of scoring goals."
+     },
+     {
+      "title": "Q10",
+      "number": 10,
+      "content": "The swimming club is a group of dedicated athletes, who train hard to improve their strokes and endurance. They practice in a pool, gliding through the water with grace and efficiency. It's a great way to get a fullbody workout, improve your fitness, and learn valuable water safety skills."
+     },
+     {
+      "title": "Q11",
+      "number": 11,
+      "content": "The tennis club is a competitive group, where players of all levels come together to test their skills. They play on a court, rallying back and forth with powerful shots and clever tactics. It's a great way to challenge yourself physically and mentally, while also enjoying the camaraderie of other tennis enthusiasts."
+     },
+     {
+      "title": "Q12",
+      "number": 12,
+      "content": "The hiking club is a group of adventurous souls, who love to explore the outdoors. They hike through forests, mountains, and valleys, enjoying the beauty of nature and the challenge of a good trek. It's a great way to stay active, get fresh air, and connect with the natural world."
+     },
+     {
+      "title": "Q13",
+      "number": 13,
+      "content": "The martial arts club is a disciplined group, where students learn the techniques and philosophy of their chosen art. They practice self-defense skills, improve their fitness, and gain confidence through rigorous training. It's a great way to learn a new skill, challenge yourself physically and mentally, and find a sense of purpose."
+     },
+     {
+      "title": "Q14",
+      "number": 14,
+      "content": "The dance club is a group of graceful individuals, who express themselves through movement and rhythm. They learn various dance styles, from ballroom to hip hop, and perform with passion and precision. It's a great way to improve your coordination, build confidence, and enjoy the beauty of movement and music."
+     }
+    ],
+    "title": "Part 2",
+    "answers": {
+     "7": [
+      "D"
+     ],
+     "8": [
+      "I"
+     ],
+     "9": [
+      "B"
+     ],
+     "10": [
+      "H"
+     ],
+     "11": [
+      "C"
+     ],
+     "12": [
+      "F"
+     ],
+     "13": [
+      "J"
+     ],
+     "14": [
+      "E"
+     ]
+    },
+    "questions": [
+     {
+      "id": 7,
+      "textNumber": 7
+     },
+     {
+      "id": 8,
+      "textNumber": 8
+     },
+     {
+      "id": 9,
+      "textNumber": 9
+     },
+     {
+      "id": 10,
+      "textNumber": 10
+     },
+     {
+      "id": 11,
+      "textNumber": 11
+     },
+     {
+      "id": 12,
+      "textNumber": 12
+     },
+     {
+      "id": 13,
+      "textNumber": 13
+     },
+     {
+      "id": 14,
+      "textNumber": 14
+     }
+    ],
+    "partNumber": 2,
+    "statements": [
+     {
+      "text": "A place where people can come together to enjoy live music, socialize, and dance the night away.",
+      "letter": "A"
+     },
+     {
+      "text": "A group of passionate individuals who train together, honing their skills in teamwork and goal scoring.",
+      "letter": "B"
+     },
+     {
+      "text": "A place where players of all levels come together to challenge themselves physically and mentally, enjoying the camaraderie of fellow tennis enthusiasts.",
+      "letter": "C"
+     },
+     {
+      "text": "A place where the sound of shuttlecocks hitting rackets and friendly competition fill the air.",
+      "letter": "D"
+     },
+     {
+      "text": "A group of graceful individuals who express themselves through movement and rhythm, learning various dance styles and performing with passion and precision.",
+      "letter": "E"
+     },
+     {
+      "text": "A group of adventurous individuals who enjoy exploring the great outdoors and tackling challenging hikes.",
+      "letter": "F"
+     },
+     {
+      "text": "A group of skilled craftspeople who gather to create beautiful and functional objects using traditional techniques.",
+      "letter": "G"
+     },
+     {
+      "text": "A group of dedicated athletes who work hard to perfect their strokes and improve their endurance in the water.",
+      "letter": "H"
+     },
+     {
+      "text": "A haven for finding inner peace through stretching, breathing, and relaxation.",
+      "letter": "I"
+     },
+     {
+      "text": "A disciplined group where students learn self-defense techniques, improve their fitness, and gain confidence through rigorous training.",
+      "letter": "J"
+     }
+    ],
+    "instruction": "Read the texts 7-14 and the statements A-J. Decide which text matches with the situation described in the statements. Each statement can be used ONCE only. There are TWO extra statements which you do not need to use.",
+    "explanations": {},
+    "questionRange": "7-14",
+    "extraStatements": [
+     "A",
+     "G"
+    ],
+    "statementsFirst": true
+   },
+   {
+    "type": "matching-headings",
+    "title": "Part 3",
+    "answers": {
+     "15": [
+      "iv"
+     ],
+     "16": [
+      "i"
+     ],
+     "17": [
+      "vi"
+     ],
+     "18": [
+      "ii"
+     ],
+     "19": [
+      "vii"
+     ],
+     "20": [
+      "viii"
+     ]
+    },
+    "passage": {
+     "title": "The Hula Hoop",
+     "paragraphs": [
+      {
+       "number": "A",
+       "content": "In 1950s America, Californian toy company Wham-O perfected a plastic version of the toy which attracted global interest. In as little as four months, 25 million of the hoops were sold. Within two years, over 100 million had been sold, starting a trend which swept throughout the country. In the USA alone, 50,000 were produced in a single day. Many people in countless corners of the world developed a passion for the trend, from infants to grandparents and from factory workers to CEOs.",
+       "questionId": 15
+      },
+      {
+       "number": "B",
+       "content": "Many popular songs were written about the hula hoop during the 1960s. Nevertheless, the toy’s popularity began to fade over the next few decades. However, the hula hoop never completely vanished from the public arena and most toys stores continued to stock the toy. Recently it staged a spectacular revival, rallying a new generation of fans. Even the wife of the President of the USA was spotted ‘hooping’ on the White House Lawn. Nowadays, the circular toy has been incorporated in a range of fitness schemes.",
+       "questionId": 16
+      },
+      {
+       "number": "C",
+       "content": "The hula hoop is associated with many different world records. In 1960, a group of American 11 year olds established a record for the longest ‘non-stop’ spinning session, lasting precisely 11 hours and 34 minutes. In 1976, an even younger contestant won an uninterrupted 10 hour 47 minutes contest at just eight years old. The present-day record holder, Bric Sorenson, was able to keep his hula hoop spinning from April 2 to April 6, 1987, accumulating an incredible 90 non-stop hours.",
+       "questionId": 17
+      },
+      {
+       "number": "D",
+       "content": "Another record is for 132 hoops spun by an individual at once. This record was established by Paul Blair on November 11, 2009, earning him the nickname “Dizzy Hips.” This act involves participants holding all the hula hoops without any help from anyone else and spinning them between the shoulders and hips. As soon as the hoops have started to rotate competitors cannot touch them again with their hands. If they do, their record attempt fails.",
+       "questionId": 18
+      },
+      {
+       "number": "E",
+       "content": "In another record event, the contestant runs while simultaneously spinning. A ribbon tied around the hoop allows the judges to check if it is still revolving. The hoop must be rotating before crossing the starting line. If it ceases to spin, then contestants must stop and start it again. This is the only time that they can touch the hoop with their hands. The current female holder for this record is Australian Boo Crystal Chan, who completed 10 Km in one hour, 27 minutes and 25 seconds on March 12th 2009. The male champion, Paul “Dizzy Hips” Blair, was 20 minutes and 50 seconds faster than Boo.",
+       "questionId": 19
+      },
+      {
+       "number": "F",
+       "content": "In 2005, an American man, Ashrita Furman, successfully spun the world’s largest hula hoop at 13.88 metres in diameter. While the heaviest recorded was actually a tractor tyre which weighed 53 pounds! This monster was spun for a total of 71 seconds in Austria, 2000, by Roman Schedler. And in Chung Cheng sport arena, Taiwan, on October 28, 2,496 people managed to spin their hula hoops at the same time for over three minutes without dropping one, making it the world record for mass simultaneous hula hooping.",
+       "questionId": 20
+      }
+     ]
+    },
+    "headings": [
+     {
+      "text": "A Collection of Records",
+      "letter": "i"
+     },
+     {
+      "text": "Without a Single Break",
+      "letter": "ii"
+     },
+     {
+      "text": "Hooping Back In Fashion",
+      "letter": "iii"
+     },
+     {
+      "text": "Hooping Appeals to Both Genders Alike",
+      "letter": "iv"
+     },
+     {
+      "text": "Fun, Fitness or Treatment?",
+      "letter": "v"
+     },
+     {
+      "text": "The Hula Hoop Goes Global",
+      "letter": "vi"
+     },
+     {
+      "text": "Spinning Multiple Hoops",
+      "letter": "vii"
+     },
+     {
+      "text": "Hooping and Running at the Same Time",
+      "letter": "viii"
+     }
+    ],
+    "questions": [
+     {
+      "id": 15,
+      "paragraphNumber": "A"
+     },
+     {
+      "id": 16,
+      "paragraphNumber": "B"
+     },
+     {
+      "id": 17,
+      "paragraphNumber": "C"
+     },
+     {
+      "id": 18,
+      "paragraphNumber": "D"
+     },
+     {
+      "id": 19,
+      "paragraphNumber": "E"
+     },
+     {
+      "id": 20,
+      "paragraphNumber": "F"
+     }
+    ],
+    "partNumber": 3,
+    "instruction": "Read the text and choose the correct heading for each paragraph from the list of headings below. There are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once.",
+    "explanations": {},
+    "extraHeadings": [
+     "iii",
+     "v"
+    ],
+    "questionRange": "15-20"
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 4",
+    "answers": {
+     "21": [
+      "B"
+     ],
+     "22": [
+      "B"
+     ],
+     "23": [
+      "C"
+     ],
+     "24": [
+      "C"
+     ],
+     "25": [
+      "True",
+      "A"
+     ],
+     "26": [
+      "False",
+      "B"
+     ],
+     "27": [
+      "True",
+      "A"
+     ],
+     "28": [
+      "True",
+      "A"
+     ],
+     "29": [
+      "False",
+      "B"
+     ]
+    },
+    "passage": {
+     "title": "Outdoor Exercise",
+     "content": "<p>In an age of gym memberships, online fitness classes, and high-tech workout machines, many people have rediscovered a much simpler and more natural way to stay healthy—exercising outdoors. Whether it’s jogging through a park, hiking in the mountains, cycling along a countryside path, or simply doing yoga in a quiet garden, outdoor exercise is gaining popularity around the world. Advocates claim it improves not just physical health, but mental and emotional well-being as well.</p><p>One of the major benefits of outdoor exercise is its impact on mental health. Numerous studies have shown that spending time in natural environments helps reduce stress, anxiety, and symptoms of depression. Exposure to natural light stimulates the production of serotonin, a chemical in the brain that promotes a positive mood. In contrast, indoor environments—especially those with artificial lighting and poor ventilation—can feel restrictive and may even increase feelings of fatigue and boredom during workouts.</p><p>In terms of physical health, outdoor activities often provide more diverse movements than indoor workouts. For example, running on a trail with natural inclines, uneven surfaces, and obstacles engages different muscle groups and improves balance more than running on a treadmill. Moreover, outdoor exercise often combines both cardiovascular and strength training without the need for machines. It also encourages people to stay active for longer periods, especially when they are distracted by scenic views or social interaction.</p><p>Indoor exercise, however, offers its own unique advantages. Gyms provide controlled environments where individuals can work out regardless of the weather. Equipment like treadmills, stationary bikes, and weight machines allow for targeted training. In addition, many people find motivation through structured fitness classes or personal trainers. For beginners or those with physical limitations, indoor spaces can offer safer and more manageable routines.</p><p>Nevertheless, outdoor workouts are often more cost-effective and accessible. No membership is required to walk through a forest or run in a park. People of all ages and fitness levels can participate without the need for expensive gear. Outdoor exercise also fosters a stronger connection to the environment and one’s community. Group hikes, running clubs, and outdoor boot camps are becoming increasingly popular in urban areas, providing both fitness and social benefits.</p><p>Experts suggest that combining both types of exercise—indoor and outdoor—may be the most effective approach. While indoor training allows for consistency and goal-based tracking, outdoor workouts offer variety and mental refreshment. The key is to create a balanced routine that suits one’s lifestyle, preferences, and health goals. Seasonal changes and location may also affect which option is more practical at different times of the year.</p>"
+    },
+    "partNumber": 4,
+    "instruction": "Read the following text for questions 21-29.",
+    "explanations": {},
+    "questionRange": "21-29",
+    "questionSections": [
+     {
+      "type": "mcq",
+      "title": "Questions 21-24: Multiple Choice",
+      "questions": [
+       {
+        "id": 21,
+        "text": "According to the passage, what is one major psychological benefit of exercising outdoors?",
+        "options": [
+         {
+          "text": "Improved ability to set goal-based targets",
+          "letter": "A"
+         },
+         {
+          "text": "Higher production of serotonin that lifts mood",
+          "letter": "B"
+         },
+         {
+          "text": "Greater accuracy in tracking workout data",
+          "letter": "C"
+         },
+         {
+          "text": "Guaranteed reduction in physical fatigue",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 22,
+        "text": "Which statement best explains why trail running may develop more muscle groups than treadmill running?",
+        "options": [
+         {
+          "text": "Trails motivate people to run faster than treadmills do",
+          "letter": "A"
+         },
+         {
+          "text": "Natural inclines and uneven ground activate additional stabilising muscles",
+          "letter": "B"
+         },
+         {
+          "text": "Treadmills restrict the length of a workout session",
+          "letter": "C"
+         },
+         {
+          "text": "Treadmills provide less cushioning than outdoor surfaces",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 23,
+        "text": "The passage lists which of the following as an important advantage of indoor exercise?",
+        "options": [
+         {
+          "text": "Lower long-term cost",
+          "letter": "A"
+         },
+         {
+          "text": "Better air quality than the outdoors",
+          "letter": "B"
+         },
+         {
+          "text": "Freedom from weather interruptions",
+          "letter": "C"
+         },
+         {
+          "text": "Higher calorie burn per minute",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 24,
+        "text": "What overall recommendation do experts give at the end of the text?",
+        "options": [
+         {
+          "text": "Focus on indoor training during winter and outdoor training during summer",
+          "letter": "A"
+         },
+         {
+          "text": "Alternate weekly between indoor and outdoor workouts to avoid boredom",
+          "letter": "B"
+         },
+         {
+          "text": "Combine indoor and outdoor exercise to create a balanced routine",
+          "letter": "C"
+         },
+         {
+          "text": "Choose outdoor exercise unless you have serious physical limitations",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "Choose the correct answer A, B, C, or D.",
+      "questionRange": "21-24"
+     },
+     {
+      "type": "tfni",
+      "title": "Questions 25-29: True/False/Not Given",
+      "options": [
+       "True",
+       "False",
+       "Not Given"
+      ],
+      "questions": [
+       {
+        "id": 25,
+        "text": "Exposure to natural light can stimulate the brain chemical serotonin."
+       },
+       {
+        "id": 26,
+        "text": "Outdoor exercise is always less expensive than purchasing a gym membership."
+       },
+       {
+        "id": 27,
+        "text": "The passage suggests that some indoor environments may feel restrictive and lead to boredom."
+       },
+       {
+        "id": 28,
+        "text": "Indoor facilities can be safer and easier for beginners or people with physical limitations."
+       },
+       {
+        "id": 29,
+        "text": "According to the text, outdoor boot camps are becoming less popular in most large cities."
+       }
+      ],
+      "instruction": "Decide if the following statements agree with the information given in the text.",
+      "questionRange": "25-29"
+     }
+    ]
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 5",
+    "answers": {
+     "30": [
+      "tomial tooth",
+      "tomial",
+      "tooth"
+     ],
+     "31": [
+      "300"
+     ],
+     "32": [
+      "pressure",
+      "air pressure"
+     ],
+     "33": [
+      "overheating",
+      "heat"
+     ],
+     "34": [
+      "C"
+     ],
+     "35": [
+      "B"
+     ]
+    },
+    "passage": {
+     "title": "Falcons: Masters of Precision Hunting",
+     "content": "<p>Falcons are known for their exceptional speed, vision, and hunting skills. Unlike many other birds of prey, they do not rely solely on surprise or brute strength; instead, they use high-altitude flight, aerial dives, and astonishing precision to catch their prey mid-air. These characteristics make falcons, particularly peregrine falcons, some of the most efficient hunters in the bird kingdom.</p><p>One of the most remarkable features of a falcon is its beak structure. While most birds of prey have strong, curved beaks for tearing flesh, falcons possess a special “tomial tooth”—a sharp notch on the side of their upper beak. This allows them to kill prey instantly by severing the spinal cord at the neck. Unlike hawks or eagles, which often use their powerful talons to crush or immobilize prey, falcons rely more on their beak for the kill. This makes their hunting technique both cleaner and faster. Falcons usually hunt small- to medium-sized birds, such as pigeons, doves, and starlings. They are also known to eat small mammals, including mice and bats, depending on availability. Their diet is strictly carnivorous, and they prefer fresh, warm meat. A falcon rarely eats carrion, as it prefers to catch its food alive using speed and surprise. While hunting, a falcon can reach speeds of over 300 km/h during a stoop—a high-speed dive used to strike prey in flight.</p><p>What distinguishes falcons from other birds of prey is their unique flight strategy. Many raptors soar or glide to locate prey below. Falcons, however, often hunt at high altitudes, then dive steeply toward the target. This vertical dive gives them both speed and force, allowing them to knock prey unconscious or dead instantly. Their long, pointed wings and streamlined bodies are perfectly adapted for this purpose. Moreover, their nostrils have bony structures that prevent damage from intense air pressure during dives—a feature not seen in most other birds.</p><p>After a successful hunt, falcons usually retreat to a quiet perch—a tree branch, cliff edge, or high tower—where they consume their meal undisturbed. They prefer solitude while eating and may cache leftovers for later consumption. Falcons eat around once or twice a day, depending on the energy spent and the size of the prey.</p><p>Despite being high-energy hunters, falcons know when to rest. They conserve energy during the heat of the day by perching in shaded areas, often motionless for hours. This not only helps them avoid overheating but also allows them to recover strength for the next hunt. During molting season or poor weather, falcons reduce their activity significantly and rely on stored body fat. Some species, like the saker falcon, have been observed sleeping for short intervals during the day, though they remain alert to any danger.</p><p>In summary, falcons are finely tuned predators that combine physical adaptations with behavioral intelligence. Their unique use of the tomial tooth, extreme dive speed, and calculated resting habits set them apart from other birds of prey. Every aspect of a falcon's life—from how it hunts to how it rests—is designed for efficiency, precision, and survival.</p>"
+    },
+    "partNumber": 5,
+    "instruction": "Read the following text for questions 30-35.",
+    "explanations": {
+     "q30": {
+      "text": "Javob matnda shu gapdan olinadi.",
+      "quote": "While most birds of prey have strong, curved beaks for tearing flesh, falcons possess a special “tomial tooth”—a sharp notch on the side of their upper beak."
+     },
+     "q31": {
+      "text": "Javob matnda shu gapdan olinadi.",
+      "quote": "While hunting, a falcon can reach speeds of over 300 km/h during a stoop—a high-speed dive used to strike prey in flight."
+     },
+     "q32": {
+      "text": "Javob matnda shu gapdan olinadi.",
+      "quote": "Moreover, their nostrils have bony structures that prevent damage from intense air pressure during dives—a feature not seen in most other birds."
+     },
+     "q33": {
+      "text": "Javob matnda shu gapdan olinadi.",
+      "quote": "This not only helps them avoid overheating but also allows them to recover strength for the next hunt."
+     }
+    },
+    "questionRange": "30-35",
+    "questionSections": [
+     {
+      "type": "gap-fill",
+      "title": "Questions 30-33: Gap Fill",
+      "questions": [
+       {
+        "id": 30,
+        "hint": "sharp structure on their beak called a _____"
+       },
+       {
+        "id": 31,
+        "hint": "dive, falcons can reach speeds over _____"
+       },
+       {
+        "id": 32,
+        "hint": "protects it from damage caused by high _____"
+       },
+       {
+        "id": 33,
+        "hint": "rest in the shade to avoid excessive _____"
+       }
+      ],
+      "instruction": ", fill in the missing information in the numbered spaces.",
+      "summaryText": "Falcons use a sharp structure on their beak called a <span class=\"gap-input\" data-gap=\"30\">_____(30)_____</span> to kill prey quickly. During a high-speed dive, falcons can reach speeds over <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span> kilometers per hour. A physical feature in a falcon’s nose protects it from damage caused by high <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span>. Falcons usually rest in the shade to avoid excessive <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span> during hot periods.",
+      "summaryTitle": "Falcons: Masters of Precision Hunting - Summary",
+      "questionRange": "30-33"
+     },
+     {
+      "type": "mcq",
+      "title": "Questions 34-35: Multiple Choice",
+      "questions": [
+       {
+        "id": 34,
+        "text": "How does a falcon’s hunting style differ from that of most other birds of prey?",
+        "options": [
+         {
+          "text": "It uses stronger talons instead of its beak",
+          "letter": "A"
+         },
+         {
+          "text": "It attacks prey while gliding from low altitudes",
+          "letter": "B"
+         },
+         {
+          "text": "It dives vertically at high speed to hit prey mid-air",
+          "letter": "C"
+         },
+         {
+          "text": "It relies on group coordination to corner prey",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 35,
+        "text": "What is the main idea of the passage?",
+        "options": [
+         {
+          "text": "Falcons are social hunters that rely on teamwork and vocal calls",
+          "letter": "A"
+         },
+         {
+          "text": "Falcons’ behavior and body are adapted for precision and survival",
+          "letter": "B"
+         },
+         {
+          "text": "Falcons are less efficient than hawks but faster than eagles",
+          "letter": "C"
+         },
+         {
+          "text": "Falcons rely on talon strength rather than specialized beaks",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "Choose the correct answer A, B, C, or D.",
+      "questionRange": "34-35"
+     }
+    ]
+   }
+  ],
+  "examDate": "2026-04-13",
+  "testInfo": {
+   "level": "",
+   "parts": "",
+   "title": "",
+   "totalTime": 60,
+   "totalQuestions": ""
+  }
+ },
+ "created_at": "2026-05-13T13:09:10.871521+00:00",
+ "updated_at": "2026-10-12T01:50:01.022481+00:00"
+}

@@ -1,0 +1,557 @@
+{
+ "id": 17,
+ "mock_type": "cefr-writing",
+ "mock_number": 7,
+ "title": "CEFR Writing Mock 07",
+ "status": "published",
+ "mock_data": {
+  "part1": {
+   "chip": "work",
+   "topic": "Wellness program"
+  },
+  "tasks": {
+   "t2": {
+    "chip": "work",
+    "genre": "article",
+    "title": "Companies invest in employee wellness programs",
+    "prompt": "You are writing an article for a business magazine. The topic is: \"Should companies invest in employee wellness programs?\" Write your article, giving reasons and examples.",
+    "sample": "<h2>The Case for Corporate Wellness: A Worthwhile Investment?</h2>\n\n<p>In the modern business landscape, <span class=\"ml-token colloc\">employee wellness programs</span> have become a topic of <span class=\"ml-token colloc\">considerable debate</span>. While some view them as an unnecessary expense, a growing body of evidence suggests they <span class=\"ml-token modal\">could</span> be a <span class=\"ml-token colloc\">strategic investment</span> with substantial returns.</p>\n\n<p><span class=\"ml-token adv\">Firstly</span>, wellness programs can significantly <span class=\"ml-token phrasal\">cut down on</span> absenteeism. Employees who have access to <span class=\"ml-token colloc\">mental health resources</span> and fitness facilities tend to take fewer sick days. For instance, a study by the American Journal of Health found that companies with <span class=\"ml-token colloc\">comprehensive wellness initiatives</span> saw a 25% reduction in sick leave.</p>\n\n<p><span class=\"ml-token adv\">Moreover</span>, such programs can boost <span class=\"ml-token colloc\">employee morale</span> and <span class=\"ml-token colloc\">job satisfaction</span>. When staff feel their well-being is valued, they are more likely to remain loyal to the company, thus reducing <span class=\"ml-token colloc\">turnover rates</span>.</p>\n\n<p>However, implementation <span class=\"ml-token modal\">must</span> be thoughtful. Programs <span class=\"ml-token modal\">should</span> be tailored to employee needs rather than being generic. Surveys and feedback mechanisms <span class=\"ml-token modal\">could</span> help organizations design <span class=\"ml-token colloc\">effective initiatives</span>.</p>\n\n<p><span class=\"ml-token adv\">Ultimately</span>, while the initial investment may seem daunting, the <span class=\"ml-token colloc\">long-term benefits</span> of a healthier, happier workforce <span class=\"ml-token idiom\">far outweigh</span> the costs. Companies <span class=\"ml-token modal\">should</span> seriously consider making wellness a priority.</p>",
+    "target": "180–200 words",
+    "sampleA1": "<p>Hi,<br>I think gym good. Food good too. Happy workers! Bye</p>",
+    "sampleA2": "<p>Hi,<br>I think wellness is good for workers. Gym is good and healthy food is good too. But it is expensive. Maybe a little gym is okay. And fruit is good because it is cheap and healthy. Thanks!</p>",
+    "sampleB1": "<p>Hello,<br>I think companies should invest in wellness programs. It is important for employees to be healthy and happy. For example, a gym membership could help people exercise more. Also, healthy food options in the office are a good idea. However, these programs can be expensive. Maybe a survey to see what employees want would be helpful. In my opinion, it is a good investment in the long run because healthy employees are more productive.</p>",
+    "sampleB2": "Wellness at Work: A Cost Worth Paying?\nAsk any manager what keeps a business <span class=\"ml-token idiom\">ticking over</span>, and few will mention the health of their staff — yet perhaps they should. As burnout creeps up the corporate agenda, more and more companies are asking whether employee wellness programs are worth the money. In my view, they are.\nThe clearest benefit is a healthier, more motivated workforce. When employees have access to gym memberships or mental health support, they tend to take fewer sick days and bring far more energy to their roles. Flexible working hours, meanwhile, help people <span class=\"ml-token colloc\">strike a better work-life balance</span>, which in turn <span class=\"ml-token phrasal\">cuts down on</span> stress and staff turnover. Tech giants such as Google have long shown that <span class=\"ml-token phrasal\">looking after</span> people <span class=\"ml-token phrasal\">pays off</span> in both loyalty and results.\nCritics argue that these schemes are a needless expense, and it is true that a poorly planned program can <span class=\"ml-token idiom\">fall flat</span>. The key is to tailor initiatives to what employees genuinely want, rather than rolling out a <span class=\"ml-token colloc\">one-size-fits-all</span> package that ends up gathering dust.\n<span class=\"ml-token linking\">All things considered</span>, the modest upfront cost is <span class=\"ml-token idiom\">a small price to pay</span>. A company that invests in its people is, quite simply, investing in its own future.",
+    "uzSample": "<h2>Korporativ salomatlik: Arziydigan investitsiyami?</h2>\n\n<p>Zamonaviy biznes muhitida xodimlar salomatligi dasturlari ancha bahsli mavzuga aylandi. Ba'zilar buni keraksiz xarajat deb hisoblasa, dalillar shuni ko'rsatadiki, ular sezilarli daromad keltiradigan strategik investitsiya bo'lishi mumkin.</p>\n\n<p>Birinchidan, salomatlik dasturlari ishga kelmaslikni sezilarli darajada kamaytirishi mumkin. Ruhiy salomatlik resurslari va fitnes inshootlaridan foydalanish imkoniyatiga ega bo'lgan xodimlar kamroq kasal bo'lishadi. Misol uchun, American Journal of Health jurnali tomonidan o'tkazilgan tadqiqot shuni ko'rsatdiki, keng qamrovli salomatlik tashabbuslariga ega kompaniyalarda kasallik ta'tillari 25% ga kamaygan.</p>\n\n<p>Bundan tashqari, bunday dasturlar xodimlarning ruhiyatini va ishdan qoniqishini oshirishi mumkin. Xodimlar o'zlarining farovonligi qadrlanishini his qilsalar, kompaniyaga sodiq qolish ehtimoli ko'proq bo'ladi va shu bilan xodimlar almashinuvi darajasini pasaytiradi.</p>\n\n<p>Biroq, amalga oshirish puxta bo'lishi kerak. Dasturlar umumiy bo'lishdan ko'ra, xodimlarning ehtiyojlariga moslashtirilishi kerak. So'rovlar va fikr-mulohaza mexanizmlari tashkilotlarga samarali tashabbuslarni ishlab chiqishga yordam berishi mumkin.</p>\n\n<p>Yakuniy xulosa shuki, dastlabki investitsiyalar qo'rqinchli tuyulishi mumkin bo'lsa-da, sog'lom va baxtli ishchi kuchining uzoq muddatli foydalari xarajatlardan ancha ustundir. Kompaniyalar salomatlikni ustuvor vazifa qilishni jiddiy ko'rib chiqishlari kerak.</p>",
+    "uzSampleA1": "<p>Salom,<br>Menimcha, sport zal yaxshi. Ovqat ham yaxshi. Xursand ishchilar! Xayr</p>",
+    "uzSampleA2": "<p>Salom,<br>Menimcha, sog'lomlashtirish xodimlarga yaxshi. Sport zal yaxshi va sog'lom ovqat ham yaxshi. Lekin bu qimmat. Balki kichkina sport zal yaxshi bo'lar. Va meva yaxshi, chunki u arzon va foydali. Rahmat!</p>",
+    "uzSampleB1": "<p>Salom,<br>Menimcha, kompaniyalar xodimlar salomatligini yaxshilash dasturlariga sarmoya kiritishi kerak. Xodimlarning sog'lom va baxtli bo'lishi muhim. Misol uchun, sport zaliga a'zolik odamlarga ko'proq mashq qilishga yordam berishi mumkin. Shuningdek, ofisda sog'lom ovqatlanish imkoniyatlari ham yaxshi g'oya. Biroq, bu dasturlar qimmat bo'lishi mumkin. Xodimlarning nima xohlashini bilish uchun so'rov o'tkazish foydali bo'lishi mumkin. Mening fikrimcha, bu uzoq muddatda yaxshi sarmoya, chunki sog'lom xodimlar unumliroq bo'ladi.</p>",
+    "uzSampleB2": "<p>Hurmatli muharrir,<br><br>Kompaniyalar xodimlar salomatligini yaxshilash dasturlariga sarmoya kiritishi kerakmi degan savol murakkab, lekin menimcha javob shubhasiz ha. Boshlang'ich xarajatlar sezilarli bo'lib tuyulishi mumkin bo'lsa-da, xodimlar va kompaniya uchun uzoq muddatli foyda inkor etib bo'lmaydi.<br><br>Birinchidan, salomatlik dasturlari sog'lom va unumli ishchi kuchiga olib kelishi mumkin. Sport zallariga a'zolikni taklif qilish yoki sog'lom ovqatlanishni subsidiyalash xodimlarni sog'lom turmush tarzini qabul qilishga undashi, kasallik kunlarini kamaytirishi va energiya darajasini oshirishi mumkin. Ikkinchidan, bu dasturlar xodimlarning ruhiyatini va ishdan qoniqishini yaxshilashi mumkin. Xodimlar o'zlarini qadrlangan va qo'llab-quvvatlangan deb his qilsalar, ular o'z ishlariga ko'proq jalb qilinadi va sodiq bo'lishadi. Masalan, moslashuvchan ish tartibi stressni sezilarli darajada kamaytirishi va ish va hayot muvozanatini yaxshilashi mumkin.<br><br>Albatta, samarali salomatlik dasturlarini amalga oshirish diqqat bilan rejalashtirish va ko'rib chiqishni talab qiladi. Kompaniyalar o'zlarining aniq ehtiyojlari va afzalliklarini aniqlash uchun xodimlar bilan maslahatlashishlari kerak. Hamma uchun bir xil yondashuv muvaffaqiyatli bo'lishi dargumon. Biroq, yaxshi ishlab chiqilgan va amalga oshirilgan dastur bilan kompaniyalar yanada sog'lom, baxtli va unumli ishchi kuchini yaratishi mumkin.<br><br>Hurmat bilan,<br>Xavotirli xodim</p>"
+   },
+   "t11": {
+    "title": "informal message · to colleague",
+    "prompt": "Write a message to a colleague about the proposed wellness program. Share your thoughts and discuss which initiatives you would find most helpful.",
+    "sample": "Hey!\n\nDid you see that email from HR about the <span class=\"ml-token colloc\">wellness program</span>? I'm <span class=\"ml-token adv\">pretty excited</span> about it! I think the <span class=\"ml-token colloc\">flexible working hours</span> <span class=\"ml-token modal\">would</span> be amazing for us. Also, having <span class=\"ml-token colloc\">mental health support</span> <span class=\"ml-token modal\">could</span> really <span class=\"ml-token idiom\">make a difference</span>. The gym membership sounds good too, but I'm not sure how many people <span class=\"ml-token modal\">would</span> actually use it. What do you think <span class=\"ml-token modal\">would</span> work best?\n\nLet me know your thoughts!\n",
+    "target": "50–70 words",
+    "sampleA1": "<p>Hi Ulugbek,<br>Gym good. Lunch good. I like gym. You like lunch?<br>Bye</p>",
+    "sampleA2": "<p>Hi Ulugbek,<br>I saw the email about the wellness program. I think gym is good and healthy lunch is good too. But I like flexible hours because I can sleep more. What do you think?<br>See you,</p>",
+    "sampleB1": "<p>Hi Ulugbek,<br>Have you seen the email from HR about the new wellness program? I think it's a good idea. Personally, I would really benefit from the flexible working hours, as it would help me manage my work-life balance better. I also think the mental health support is a good option for everyone. However, I'm not sure about the gym membership. What do you think about it?<br>Let me know your thoughts!<br>Best,</p>",
+    "sampleB2": "Hey Ulugbek,\nDid you catch that email from HR about the new wellness program? Honestly, I'm <span class=\"ml-token idiom\">all for it</span>. The <span class=\"ml-token colloc\">flexible working hours</span> would be <span class=\"ml-token idiom\">a lifesaver</span> for me — no more rushing in the mornings! I reckon the <span class=\"ml-token colloc\">mental health support</span> is <span class=\"ml-token colloc\">a great shout</span> too. <span class=\"ml-token idiom\">Not sold on</span> the gym membership though, since I'd rather just go for a run. <span class=\"ml-token colloc\">What's your take</span>?\nCheers,\nBekzod Aliyev",
+    "uzSample": "<p>Salom!</p>\n<p>HRdan kelgan sog'lomlashtirish dasturi haqidagi xatni ko'rdingmi? Men bundan juda xursandman! Menimcha, moslashuvchan ish soatlari biz uchun ajoyib bo'lardi. Shuningdek, ruhiy salomatlikni qo'llab-quvvatlash haqiqatan ham katta o'zgarish yasashi mumkin. Sport zaliga a'zolik ham yaxshi eshitiladi, lekin menimcha, undan qancha odam foydalanishi aniq emas. Seningcha, nima eng yaxshi ishlaydi?</p>\n<p>Fikrlaringni menga ayt!</p>",
+    "uzSampleA1": "<p>Salom Ulugbek,<br>Sport zal yaxshi. Tushlik yaxshi. Menga sport zal yoqadi. Sizga tushlik yoqadimi?<br>Xayr</p>",
+    "uzSampleA2": "<p>Salom, Ulugbek,<br>Men sog'lomlashtirish dasturi haqidagi elektron pochtani ko'rdim. Menimcha, sport zal yaxshi va sog'lom tushlik ham yaxshi. Lekin menga moslashuvchan soatlar yoqadi, chunki men ko'proq uxlashim mumkin. Siz nima deb o'ylaysiz?<br>Ko'rishguncha,</p>",
+    "uzSampleB1": "<p>Salom, Ulugbek,<br>HRdan yangi sog'lomlashtirish dasturi haqidagi xatni ko'rdingizmi? Menimcha, bu yaxshi g'oya. Shaxsan men moslashuvchan ish soatlaridan juda foydalanardim, chunki bu menga ish va hayot muvozanatini yaxshiroq boshqarishga yordam beradi. Shuningdek, men ruhiy salomatlikni qo'llab-quvvatlash barcha uchun yaxshi variant deb o'ylayman. Biroq, sport zaliga a'zolik haqida ishonchim komil emas. Siz bu haqda nima deb o'ylaysiz?<br>Fikrlaringizni menga bildiring!<br>Eng yaxshi tilaklar bilan,</p>",
+    "uzSampleB2": "<p>Salom, Ulugbek,<br>HR tomonidan taklif etilayotgan sog'lomlashtirish dasturi haqidagi xatni o'qishga ulgurdingizmi? Ular nimalarni amalga oshirishini ko'rishga juda qiziqaman. Mening nuqtai nazarimdan, moslashuvchan ish soatlari juda qimmatli bo'lar edi, bu shaxsiy majburiyatlar va professional vazifalarni yaxshiroq integratsiya qilish imkonini beradi. Bundan tashqari, ish joyidagi ortib borayotgan bosimni hisobga olsak, ruhiy salomatlikni qo'llab-quvvatlash tashabbusi juda muhim deb hisoblayman. Sport zaliga a'zolik yaxshi imtiyoz bo'lsa-da, uning xodimlarning umumiy farovonligiga ta'siri, masalan, stressni boshqarish bo'yicha seminarlarga nisbatan qanday bo'lishi haqida o'ylayman. Sizning dastlabki taassurotlaringiz qanday?<br>Xurmat bilan,</p>"
+   },
+   "t12": {
+    "title": "formal email · to HR",
+    "prompt": "Write a formal email to the HR Department responding to their message. Suggest specific wellness initiatives and explain how they could benefit employees.",
+    "sample": "<p>Dear HR Department,</p>\n\n<p>Thank you for reaching out regarding the proposed <span class=\"ml-token colloc\">wellness program</span>. I believe this initiative <span class=\"ml-token modal\">could</span> significantly enhance <span class=\"ml-token colloc\">employee well-being</span> and <span class=\"ml-token colloc\">workplace productivity</span>.</p>\n\n<p>I <span class=\"ml-token modal\">would</span> like to suggest several initiatives that <span class=\"ml-token modal\">might</span> prove beneficial. <span class=\"ml-token adv\">Firstly</span>, offering <span class=\"ml-token colloc\">flexible working hours</span> <span class=\"ml-token modal\">would</span> allow employees to <span class=\"ml-token colloc\">maintain work-life balance</span>, which is essential for <span class=\"ml-token colloc\">mental health</span>. <span class=\"ml-token adv\">Additionally</span>, providing access to <span class=\"ml-token colloc\">counseling services</span> <span class=\"ml-token modal\">could</span> help staff manage stress effectively.</p>\n\n<p><span class=\"ml-token adv\">Furthermore</span>, implementing a <span class=\"ml-token colloc\">subsidized healthy lunch program</span> <span class=\"ml-token modal\">would</span> encourage better eating habits. To <span class=\"ml-token phrasal\">boost participation</span>, I recommend organizing <span class=\"ml-token colloc\">wellness challenges</span> with incentives.</p>\n\n<p>I <span class=\"ml-token phrasal\">look forward to</span> seeing this program <span class=\"ml-token idiom\">take shape</span>.</p>\n\n<p>Kind regards,<br>Alex Johnson</p>",
+    "target": "120–150 words",
+    "sampleA1": "<p>Hi HR,<br>I like gym. Gym good. <br>Lunch good too. <br>Bye.</p>",
+    "sampleA2": "<p>Hi HR,<br>I think gym is good for us and I want it. Healthy lunch is also good because food is important. Flexible time is good too because I can go home early. Thank you.<br>Bye.</p>",
+    "sampleB1": "<p>Dear HR Department,<br><br>Thank you for asking about the wellness program. I think it's a good idea. <br><br>I think gym memberships would be helpful because exercise is important. Also, maybe we could have healthy food in the office. Flexible hours would be good too so people can have a better work-life balance. To get people to join, maybe you could have prizes.<br><br>Thank you,<br>Temur Umarov</p>",
+    "sampleB2": "Dear HR Department,\nThank you for inviting us to share our thoughts on the proposed wellness program. I fully support the initiative and would like to <span class=\"ml-token phrasal\">put forward</span> a few suggestions.\n<span class=\"ml-token linking\">First and foremost</span>, I believe flexible working hours would make the biggest difference, as they allow staff to <span class=\"ml-token colloc\">strike a healthy work-life balance</span> and <span class=\"ml-token phrasal\">cut down on</span> daily stress. Secondly, access to <span class=\"ml-token colloc\">confidential counselling services</span> would be invaluable, given the <span class=\"ml-token colloc\">mounting pressure</span> many of us face during busy periods.\nI would also recommend subsidising healthy lunch options, since good nutrition has a direct impact on energy and focus. To <span class=\"ml-token phrasal\">boost participation</span>, the company could <span class=\"ml-token phrasal\">roll out</span> monthly wellness challenges with small rewards for those who take part.\nI am confident these measures would be warmly received. Thank you for <span class=\"ml-token idiom\">taking our views on board</span>.\nYours sincerely,\nTemur Umarov",
+    "uzSample": "<p>Hurmatli HR bo'limi,</p>\n\n<p>Taklif etilayotgan sog'lomlashtirish dasturi bo'yicha murojaat qilganingiz uchun tashakkur. Menimcha, bu tashabbus xodimlarning farovonligini va ish joyidagi unumdorlikni sezilarli darajada oshirishi mumkin.</p>\n\n<p>Men foydali bo'lishi mumkin bo'lgan bir nechta tashabbuslarni taklif qilmoqchiman. Birinchidan, moslashuvchan ish soatlarini taklif qilish xodimlarga ish va hayot muvozanatini saqlashga imkon beradi, bu ruhiy salomatlik uchun juda muhimdir. Bundan tashqari, maslahat xizmatlaridan foydalanishni ta'minlash xodimlarga stressni samarali boshqarishga yordam berishi mumkin.</p>\n\n<p>Bundan tashqari, subsidiyalangan sog'lom tushlik dasturini amalga oshirish yaxshiroq ovqatlanish odatlarini rag'batlantiradi. Ishtirokni oshirish uchun men rag'batlantiruvchi sog'lomlashtirish musobaqalarini tashkil etishni tavsiya qilaman.</p>\n\n<p>Ushbu dasturning amalga oshishini intiqlik bilan kutaman.</p>\n\n<p>Hurmat bilan,<br>Alex Johnson</p>",
+    "uzSampleA1": "<p>Salom HR,<br>Menga sport zal yoqadi. Sport zal yaxshi. <br>Tushlik ham yaxshi. <br>Xayr.</p>",
+    "uzSampleA2": "<p>Salom HR,<br>Menimcha, sport zal biz uchun yaxshi va men uni xohlayman. Sog'lom tushlik ham yaxshi, chunki ovqat muhim. Moslashuvchan vaqt ham yaxshi, chunki men erta uyga ketishim mumkin. Rahmat.<br>Xayr.</p>",
+    "uzSampleB1": "<p>Hurmatli HR bo'limi,<br><br>Sog'lomlashtirish dasturi haqida so'raganingiz uchun rahmat. Menimcha, bu yaxshi fikr.<br><br>Menimcha, sport zaliga a'zolik foydali bo'ladi, chunki jismoniy mashqlar muhim. Shuningdek, ofisda sog'lom ovqatlar bo'lishi mumkin. Moslashuvchan ish soatlari ham yaxshi bo'lardi, shunda odamlar ish va hayot o'rtasida muvozanatni yaxshiroq saqlashlari mumkin. Odamlarni qo'shilishga undash uchun, ehtimol, sovrinlar bo'lishi mumkin.<br><br>Rahmat,<br>Temur Umarov</p>",
+    "uzSampleB2": "<p>Hurmatli Kadrlar bo'limi,<br><br>Sizning ish joyida sog'lomlashtirish dasturi bo'yicha taklifingiz haqidagi elektron xatingiz uchun rahmat. Menimcha, bu xodimlarning qoniqish darajasi va unumdorligini sezilarli darajada oshirishi mumkin bo'lgan qimmatli tashabbusdir.<br><br>Umumiy farovonlik uchun jismoniy faollik juda muhim bo'lganligi sababli, subsidiyalangan sport zaliga a'zolikni ko'rib chiqishni taklif qilaman. Bundan tashqari, maxfiy konsultatsiya xizmatlaridan foydalanish imkoniyatini ta'minlash ruhiy salomatlikni qo'llab-quvvatlaydi va xodimlarga stressni samarali boshqarishga yordam beradi. Yana bir foydali tashabbus moslashuvchan ish soatlarini joriy etish bo'ladi, bu esa shaxslarga shaxsiy va professional hayotlarini yaxshiroq muvozanatlashtirishga imkon beradi.<br><br>Ishtirokni rag'batlantirish uchun muntazam sog'lomlashtirish bo'yicha seminarlar tashkil etishni va sog'liq bilan bog'liq maqsadlarga erishish uchun rag'batlantirishlarni taklif etaman. Ishonchim komilki, bu tashabbuslar yaxshi qabul qilinadi va yanada sog'lom va faol ishchi kuchiga hissa qo'shadi.<br><br>Hurmat bilan,<br>Temur Umarov</p>"
+   },
+   "p1_context": "You are an employee at a large company.",
+   "p1_scenario": "Dear Team,\n\nWe are considering implementing a new workplace wellness program. This could include gym memberships, mental health support, flexible working hours, and healthy lunch options. We would like to hear your ideas on what initiatives would benefit employees most and how we can encourage participation. Please share your thoughts.\n\nHR Department"
+  },
+  "examDate": "2026-01-07",
+  "settings": {
+   "logoUrl": "https://audio.mock-stream.com/img/ibb/WN0XY5Lv/logo.png",
+   "heading1": "Bilim va malakalarni baholash agentligi",
+   "heading2": "Chet tilini bilish darajasi",
+   "examTitle": "Writing exam",
+   "logoWording": "Mock Stream",
+   "testIdentifier": "mock_stream"
+  },
+  "vocabulary": {
+   "task2": [
+    {
+     "en": "employee wellness",
+     "uz": "xodimlar salomatligi"
+    },
+    {
+     "en": "strategic investment",
+     "uz": "strategik sarmoya"
+    },
+    {
+     "en": "substantial returns",
+     "uz": "sezilarli daromad"
+    },
+    {
+     "en": "reduce absenteeism",
+     "uz": "ishga kelmaslikni kamaytirish"
+    },
+    {
+     "en": "mental health resources",
+     "uz": "ruhiy salomatlik resurslari"
+    },
+    {
+     "en": "comprehensive initiatives",
+     "uz": "keng qamrovli tashabbuslar"
+    },
+    {
+     "en": "employee morale",
+     "uz": "xodimlar ruhi"
+    },
+    {
+     "en": "job satisfaction",
+     "uz": "ishdan qoniqish"
+    },
+    {
+     "en": "turnover rates",
+     "uz": "kadrlar almashinuvi darajasi"
+    },
+    {
+     "en": "thoughtful implementation",
+     "uz": "o'ylab joriy etish"
+    },
+    {
+     "en": "tailored programs",
+     "uz": "moslashtirilgan dasturlar"
+    },
+    {
+     "en": "feedback mechanisms",
+     "uz": "fikr-mulohaza mexanizmlari"
+    },
+    {
+     "en": "long-term benefits",
+     "uz": "uzoq muddatli foyda"
+    },
+    {
+     "en": "healthier workforce",
+     "uz": "sog'lom ishchi kuchi"
+    },
+    {
+     "en": "initial investment",
+     "uz": "dastlabki sarmoya"
+    },
+    {
+     "en": "corporate culture",
+     "uz": "korporativ madaniyat"
+    },
+    {
+     "en": "stress management",
+     "uz": "stressni boshqarish"
+    },
+    {
+     "en": "productivity boost",
+     "uz": "samaradorlikni oshirish"
+    },
+    {
+     "en": "work environment",
+     "uz": "ish muhiti"
+    },
+    {
+     "en": "evidence-based approach",
+     "uz": "dalillarga asoslangan yondashuv"
+    }
+   ],
+   "task11": [
+    {
+     "en": "Hey there",
+     "uz": "Salom"
+    },
+    {
+     "en": "pretty excited",
+     "uz": "juda xursand"
+    },
+    {
+     "en": "sounds awesome",
+     "uz": "ajoyib eshitiladi"
+    },
+    {
+     "en": "what do you think",
+     "uz": "nima deb o'ylaysiz"
+    },
+    {
+     "en": "would be great",
+     "uz": "ajoyib bo'lardi"
+    },
+    {
+     "en": "not sure about",
+     "uz": "ishonchim komil emas"
+    },
+    {
+     "en": "really helpful",
+     "uz": "juda foydali"
+    },
+    {
+     "en": "let me know",
+     "uz": "menga xabar bering"
+    },
+    {
+     "en": "could work",
+     "uz": "ishlashi mumkin"
+    },
+    {
+     "en": "worth trying",
+     "uz": "sinab ko'rishga arziydi"
+    },
+    {
+     "en": "big deal",
+     "uz": "muhim narsa"
+    },
+    {
+     "en": "gym membership",
+     "uz": "sport zali a'zoligi"
+    },
+    {
+     "en": "flexible hours",
+     "uz": "moslashuvchan soatlar"
+    },
+    {
+     "en": "mental health",
+     "uz": "ruhiy salomatlik"
+    },
+    {
+     "en": "work-life balance",
+     "uz": "ish-hayot muvozanati"
+    },
+    {
+     "en": "healthy options",
+     "uz": "sog'lom tanlovlar"
+    },
+    {
+     "en": "stress relief",
+     "uz": "stressni kamaytirish"
+    },
+    {
+     "en": "team building",
+     "uz": "jamoa yaratish"
+    },
+    {
+     "en": "sounds good",
+     "uz": "yaxshi eshitiladi"
+    },
+    {
+     "en": "catch up soon",
+     "uz": "tez orada ko'rishamiz"
+    }
+   ],
+   "task12": [
+    {
+     "en": "Dear HR Department",
+     "uz": "Hurmatli Kadrlar bo'limi"
+    },
+    {
+     "en": "I am writing to respond",
+     "uz": "Javob yozmoqdaman"
+    },
+    {
+     "en": "wellness initiative",
+     "uz": "salomatlik tashabbusi"
+    },
+    {
+     "en": "employee well-being",
+     "uz": "xodimlar farovonligi"
+    },
+    {
+     "en": "workplace productivity",
+     "uz": "ish joyidagi samaradorlik"
+    },
+    {
+     "en": "maintain balance",
+     "uz": "muvozanatni saqlash"
+    },
+    {
+     "en": "counseling services",
+     "uz": "maslahat xizmatlari"
+    },
+    {
+     "en": "subsidized program",
+     "uz": "subsidiyalangan dastur"
+    },
+    {
+     "en": "boost participation",
+     "uz": "ishtirokni oshirish"
+    },
+    {
+     "en": "I would suggest",
+     "uz": "Men taklif qilardim"
+    },
+    {
+     "en": "prove beneficial",
+     "uz": "foydali bo'lib chiqmoq"
+    },
+    {
+     "en": "furthermore",
+     "uz": "bundan tashqari"
+    },
+    {
+     "en": "essential for",
+     "uz": "uchun muhim"
+    },
+    {
+     "en": "manage effectively",
+     "uz": "samarali boshqarmoq"
+    },
+    {
+     "en": "encourage participation",
+     "uz": "ishtirokni rag'batlantirmoq"
+    },
+    {
+     "en": "incentive programs",
+     "uz": "rag'batlantirish dasturlari"
+    },
+    {
+     "en": "look forward to",
+     "uz": "intiqlik bilan kutmoq"
+    },
+    {
+     "en": "kind regards",
+     "uz": "hurmat bilan"
+    },
+    {
+     "en": "take shape",
+     "uz": "shakl olmoq"
+    },
+    {
+     "en": "comprehensive approach",
+     "uz": "keng qamrovli yondashuv"
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "must": {
+    "uz": "kerak",
+    "type": "modal"
+   },
+   "could": {
+    "uz": "mumkin",
+    "type": "modal"
+   },
+   "might": {
+    "uz": "ehtimol",
+    "type": "modal"
+   },
+   "would": {
+    "uz": "…ardi",
+    "type": "modal"
+   },
+   "should": {
+    "uz": "kerak",
+    "type": "modal"
+   },
+   "Firstly": {
+    "uz": "Birinchidan",
+    "type": "adv"
+   },
+   "Moreover": {
+    "uz": "Qolaversa",
+    "type": "adv"
+   },
+   "pays off": {
+    "uz": "o'zini oqlaydi, samara beradi",
+    "type": "phrasal"
+   },
+   "roll out": {
+    "uz": "joriy qilmoq, ishga tushirmoq",
+    "type": "phrasal"
+   },
+   "fall flat": {
+    "uz": "puchga chiqmoq, muvaffaqiyatsiz bo'lmoq",
+    "type": "idiom"
+   },
+   "Ultimately": {
+    "uz": "Oxir-oqibat",
+    "type": "adv"
+   },
+   "all for it": {
+    "uz": "to'liq tarafdorman",
+    "type": "idiom"
+   },
+   "take shape": {
+    "uz": "shakl olmoq",
+    "type": "idiom"
+   },
+   "Furthermore": {
+    "uz": "Bundan tashqari",
+    "type": "adv"
+   },
+   "Not sold on": {
+    "uz": "ko'nglim to'lmayapti, ishonchim yo'q",
+    "type": "idiom"
+   },
+   "a lifesaver": {
+    "uz": "juda qo'l keladigan narsa, najot",
+    "type": "idiom"
+   },
+   "cut down on": {
+    "uz": "kamaytirmoq",
+    "type": "phrasal"
+   },
+   "put forward": {
+    "uz": "taklif qilmoq, ilgari surmoq",
+    "type": "phrasal"
+   },
+   "Additionally": {
+    "uz": "Qo'shimcha ravishda",
+    "type": "adv"
+   },
+   "cuts down on": {
+    "uz": "kamaytiradi",
+    "type": "phrasal"
+   },
+   "far outweigh": {
+    "uz": "ustun keladi",
+    "type": "idiom"
+   },
+   "ticking over": {
+    "uz": "ishlab turishi, faoliyat yuritishi",
+    "type": "idiom"
+   },
+   "a great shout": {
+    "uz": "zo'r fikr",
+    "type": "colloc"
+   },
+   "looking after": {
+    "uz": "g'amxo'rlik qilmoq",
+    "type": "phrasal"
+   },
+   "mental health": {
+    "uz": "ruhiy salomatlik",
+    "type": "colloc"
+   },
+   "pretty excited": {
+    "uz": "juda xursand",
+    "type": "adv"
+   },
+   "turnover rates": {
+    "uz": "xodimlar almashinuvi darajasi",
+    "type": "colloc"
+   },
+   "employee morale": {
+    "uz": "xodimlarning ruhiy holati",
+    "type": "colloc"
+   },
+   "look forward to": {
+    "uz": "intizorlik bilan kutmoq",
+    "type": "phrasal"
+   },
+   "What's your take": {
+    "uz": "sening fikring qanday",
+    "type": "colloc"
+   },
+   "job satisfaction": {
+    "uz": "ishdan qoniqish",
+    "type": "colloc"
+   },
+   "wellness program": {
+    "uz": "sog'lomlashtirish dasturi",
+    "type": "colloc"
+   },
+   "make a difference": {
+    "uz": "katta o'zgarish yasamoq",
+    "type": "idiom"
+   },
+   "mounting pressure": {
+    "uz": "ortib borayotgan bosim",
+    "type": "colloc"
+   },
+   "one-size-fits-all": {
+    "uz": "hamma uchun bir xil",
+    "type": "colloc"
+   },
+   "First and foremost": {
+    "uz": "eng avvalo",
+    "type": "linking"
+   },
+   "long-term benefits": {
+    "uz": "uzoq muddatli foyda",
+    "type": "colloc"
+   },
+   "boost participation": {
+    "uz": "ishtirokni oshirmoq",
+    "type": "phrasal"
+   },
+   "considerable debate": {
+    "uz": "kattagina bahs",
+    "type": "colloc"
+   },
+   "counseling services": {
+    "uz": "maslahat xizmatlari",
+    "type": "colloc"
+   },
+   "employee well-being": {
+    "uz": "xodimlarning farovonligi",
+    "type": "colloc"
+   },
+   "wellness challenges": {
+    "uz": "sog'lomlashtirish bo'yicha musobaqalar",
+    "type": "colloc"
+   },
+   "a small price to pay": {
+    "uz": "arziydigan kichik xarajat",
+    "type": "idiom"
+   },
+   "strategic investment": {
+    "uz": "strategik investitsiya",
+    "type": "colloc"
+   },
+   "All things considered": {
+    "uz": "hammasini hisobga olsak",
+    "type": "linking"
+   },
+   "effective initiatives": {
+    "uz": "samarali tashabbuslar",
+    "type": "colloc"
+   },
+   "mental health support": {
+    "uz": "ruhiy salomatlikni qo'llab-quvvatlash",
+    "type": "colloc"
+   },
+   "flexible working hours": {
+    "uz": "moslashuvchan ish soatlari",
+    "type": "colloc"
+   },
+   "workplace productivity": {
+    "uz": "ish joyidagi unumdorlik",
+    "type": "colloc"
+   },
+   "mental health resources": {
+    "uz": "ruhiy salomatlik resurslari",
+    "type": "colloc"
+   },
+   "taking our views on board": {
+    "uz": "fikrlarimizni inobatga olish",
+    "type": "idiom"
+   },
+   "employee wellness programs": {
+    "uz": "xodimlarni sog'lomlashtirish dasturlari",
+    "type": "colloc"
+   },
+   "maintain work-life balance": {
+    "uz": "ish va hayot muvozanatini saqlash",
+    "type": "colloc"
+   },
+   "subsidized healthy lunch program": {
+    "uz": "arzonlashtirilgan sog'lom tushlik dasturi",
+    "type": "colloc"
+   },
+   "confidential counselling services": {
+    "uz": "maxfiy maslahat xizmatlari",
+    "type": "colloc"
+   },
+   "strike a better work-life balance": {
+    "uz": "ish va hayot muvozanatini yaxshiroq saqlamoq",
+    "type": "colloc"
+   },
+   "comprehensive wellness initiatives": {
+    "uz": "kompleks sog'lomlashtirish tashabbuslari",
+    "type": "colloc"
+   },
+   "strike a healthy work-life balance": {
+    "uz": "sog'lom ish-hayot muvozanatini saqlamoq",
+    "type": "colloc"
+   }
+  }
+ },
+ "created_at": "2026-05-06T14:59:10.683195+00:00",
+ "updated_at": "2026-07-06T10:54:43.840926+00:00"
+}

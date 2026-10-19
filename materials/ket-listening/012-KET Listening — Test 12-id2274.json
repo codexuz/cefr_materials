@@ -1,0 +1,457 @@
+{
+ "id": 2274,
+ "mock_type": "ket-listening",
+ "mock_number": 12,
+ "title": "KET Listening — Test 12",
+ "status": "published",
+ "mock_data": {
+  "audio": {
+   "base": "https://audio.mock-stream.com/KET-Listening/test12/",
+   "files": {
+    "1": "PART1.m4a",
+    "2": "PART2.m4a",
+    "3": "PART3.m4a",
+    "4": "PART4.m4a",
+    "5": "PART5.m4a"
+   }
+  },
+  "parts": [
+   {
+    "type": "picture-mcq",
+    "items": [
+     {
+      "id": 1,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q1A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q1B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q1C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Which is Tom's mother?"
+     },
+     {
+      "id": 2,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q2full.png",
+        "letter": "A",
+        "composite": true
+       },
+       {
+        "image": "q2full.png",
+        "letter": "B",
+        "composite": true
+       },
+       {
+        "image": "q2full.png",
+        "letter": "C",
+        "composite": true
+       }
+      ],
+      "question": "Where will the beach party be?"
+     },
+     {
+      "id": 3,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q3A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q3B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q3C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What will Fiona wear to the dance?"
+     },
+     {
+      "id": 4,
+      "answer": "A",
+      "options": [
+       {
+        "text": "Science",
+        "letter": "A"
+       },
+       {
+        "text": "Maths",
+        "letter": "B"
+       },
+       {
+        "text": "English",
+        "letter": "C"
+       }
+      ],
+      "question": "What homework is the girl doing now?"
+     },
+     {
+      "id": 5,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q5A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q5B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q5C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What's David going to buy?"
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "image": "q0A.png",
+       "letter": "A"
+      },
+      {
+       "image": "q0B.png",
+       "letter": "B"
+      },
+      {
+       "image": "q0C.png",
+       "letter": "C"
+      }
+     ],
+     "question": "How many people were at the meeting?"
+    },
+    "imageBase": "https://audio.mock-stream.com/KET-Listening/test12/p1/",
+    "partNumber": 1,
+    "instruction": [
+     "You will hear five short conversations.",
+     "You will hear each conversation twice.",
+     "There is one question for each conversation.",
+     "For questions 1–5, put a tick (✓) under the right answer."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "matching-list",
+    "items": [
+     {
+      "id": 6,
+      "name": "Sally",
+      "answer": "F"
+     },
+     {
+      "id": 7,
+      "name": "Vivienne",
+      "answer": "E"
+     },
+     {
+      "id": 8,
+      "name": "Roger",
+      "answer": "C"
+     },
+     {
+      "id": 9,
+      "name": "Frank",
+      "answer": "B"
+     },
+     {
+      "id": 10,
+      "name": "Deborah",
+      "answer": "G"
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "name": "Sonya",
+     "answer": "H",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "two",
+      "letter": "A"
+     },
+     {
+      "text": "five",
+      "letter": "B"
+     },
+     {
+      "text": "seven",
+      "letter": "C"
+     },
+     {
+      "text": "ten",
+      "letter": "D"
+     },
+     {
+      "text": "thirteen",
+      "letter": "E"
+     },
+     {
+      "text": "fifteen",
+      "letter": "F"
+     },
+     {
+      "text": "eighteen",
+      "letter": "G"
+     },
+     {
+      "text": "twenty",
+      "letter": "H"
+     }
+    ],
+    "scenario": "Sonya talking to Martin about her family — ages",
+    "leftLabel": "PEOPLE",
+    "partNumber": 2,
+    "rightLabel": "AGES",
+    "instruction": [
+     "Listen to Sonya talking to Martin about her family.",
+     "How old are her brothers and sisters?",
+     "For questions 6–10, write a letter A–H next to each person.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-conversation",
+    "items": [
+     {
+      "id": 11,
+      "stem": "In the park, there is",
+      "answer": "A",
+      "options": [
+       {
+        "text": "a café.",
+        "letter": "A"
+       },
+       {
+        "text": "a hotel.",
+        "letter": "B"
+       },
+       {
+        "text": "a guest-house.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "stem": "The village has a",
+      "answer": "C",
+      "options": [
+       {
+        "text": "swimming pool.",
+        "letter": "A"
+       },
+       {
+        "text": "cinema.",
+        "letter": "B"
+       },
+       {
+        "text": "food shop.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "stem": "You can only go through the park",
+      "answer": "A",
+      "options": [
+       {
+        "text": "by car.",
+        "letter": "A"
+       },
+       {
+        "text": "by bus.",
+        "letter": "B"
+       },
+       {
+        "text": "on foot.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "stem": "On weekdays, a visit to the park costs",
+      "answer": "B",
+      "options": [
+       {
+        "text": "$12.",
+        "letter": "A"
+       },
+       {
+        "text": "$13.",
+        "letter": "B"
+       },
+       {
+        "text": "$16.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "stem": "In the park, the woman will see",
+      "answer": "B",
+      "options": [
+       {
+        "text": "animals.",
+        "letter": "A"
+       },
+       {
+        "text": "flowers.",
+        "letter": "B"
+       },
+       {
+        "text": "snow.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "stem": "The woman will visit the park for",
+     "answer": "A",
+     "number": 0,
+     "options": [
+      {
+       "text": "one week.",
+       "letter": "A"
+      },
+      {
+       "text": "two weeks.",
+       "letter": "B"
+      },
+      {
+       "text": "four weeks.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partNumber": 3,
+    "instruction": [
+     "Listen to a woman asking a travel agent for some information about a park in the mountains.",
+     "For questions 11–15, tick (✓) A, B or C.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "rows": [
+     {
+      "id": 16,
+      "label": "Temperature in autumn:",
+      "answer": "14",
+      "suffix": "degrees"
+     },
+     {
+      "id": 17,
+      "label": "Will need to wear:",
+      "answer": "raincoat"
+     },
+     {
+      "id": 18,
+      "label": "Name of train station in London:",
+      "answer": "Euston"
+     },
+     {
+      "id": 19,
+      "label": "Cost of train:",
+      "answer": "30",
+      "prefix": "£"
+     },
+     {
+      "id": 20,
+      "label": "Take Sarah some:",
+      "answer": "cheese"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 4",
+    "subtitle": "Go to Manchester in: October",
+    "noteTitle": "TRIP TO MANCHESTER",
+    "partNumber": 4,
+    "instruction": [
+     "You will hear Mats talking to his friend, Sarah, about a trip to Manchester in England.",
+     "Listen and complete questions 16–20.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "rows": [
+     {
+      "id": 21,
+      "label": "Downstairs:",
+      "answer": "clothes",
+      "prefix": "old"
+     },
+     {
+      "id": 22,
+      "label": "Upstairs: pictures by:",
+      "answer": "Spanish",
+      "suffix": "artists"
+     },
+     {
+      "id": 23,
+      "label": "Concerts during month of:",
+      "answer": "December"
+     },
+     {
+      "id": 24,
+      "label": "Student ticket:",
+      "answer": "3.80",
+      "prefix": "£"
+     },
+     {
+      "id": 25,
+      "label": "Telephone number:",
+      "answer": "557642"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 5",
+    "subtitle": "Open: Monday to Thursday\nYou can see:",
+    "noteTitle": "THE REDFERN MUSEUM",
+    "partNumber": 5,
+    "instruction": [
+     "You will hear some information about a museum.",
+     "Listen and complete questions 21–25.",
+     "You will hear the information twice."
+    ],
+    "questionsLabel": "QUESTIONS 21–25"
+   }
+  ],
+  "testInfo": {
+   "id": "ket-l-12",
+   "level": "A2",
+   "paper": "Paper 2",
+   "parts": 5,
+   "title": "KET Listening — Test 12",
+   "totalTime": 30,
+   "totalQuestions": 25
+  }
+ },
+ "created_at": "2026-10-14T06:45:24.465115+00:00",
+ "updated_at": "2026-10-14T06:47:10.693888+00:00"
+}

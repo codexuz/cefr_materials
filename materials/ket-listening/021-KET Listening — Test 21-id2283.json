@@ -1,0 +1,457 @@
+{
+ "id": 2283,
+ "mock_type": "ket-listening",
+ "mock_number": 21,
+ "title": "KET Listening — Test 21",
+ "status": "published",
+ "mock_data": {
+  "audio": {
+   "base": "https://audio.mock-stream.com/KET-Listening/test21/",
+   "files": {
+    "1": "PART1.m4a",
+    "2": "PART2.m4a",
+    "3": "PART3.m4a",
+    "4": "PART4.m4a",
+    "5": "PART5.m4a"
+   }
+  },
+  "parts": [
+   {
+    "type": "picture-mcq",
+    "items": [
+     {
+      "id": 1,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q1A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q1B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q1C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What must the man turn off?"
+     },
+     {
+      "id": 2,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q2A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q2B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q2C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Where's the girl's pen?"
+     },
+     {
+      "id": 3,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q3A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q3B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q3C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What will the boy do this evening?"
+     },
+     {
+      "id": 4,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q4A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q4B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q4C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What animals did they see on their holiday?"
+     },
+     {
+      "id": 5,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q5A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q5B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q5C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What does the man want to buy?"
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "image": "q0A.png",
+       "letter": "A"
+      },
+      {
+       "image": "q0B.png",
+       "letter": "B"
+      },
+      {
+       "image": "q0C.png",
+       "letter": "C"
+      }
+     ],
+     "question": "How many people were at the meeting?"
+    },
+    "imageBase": "https://audio.mock-stream.com/KET-Listening/test21/p1/",
+    "partNumber": 1,
+    "instruction": [
+     "You will hear five short conversations.",
+     "You will hear each conversation twice.",
+     "There is one question for each conversation.",
+     "For questions 1–5, put a tick (✓) under the right answer."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "matching-list",
+    "items": [
+     {
+      "id": 6,
+      "name": "Eva",
+      "answer": "D"
+     },
+     {
+      "id": 7,
+      "name": "Luke",
+      "answer": "F"
+     },
+     {
+      "id": 8,
+      "name": "Mary",
+      "answer": "H"
+     },
+     {
+      "id": 9,
+      "name": "Patrick",
+      "answer": "A"
+     },
+     {
+      "id": 10,
+      "name": "Cristina",
+      "answer": "B"
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "name": "David",
+     "answer": "E",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "bank",
+      "letter": "A"
+     },
+     {
+      "text": "café",
+      "letter": "B"
+     },
+     {
+      "text": "castle",
+      "letter": "C"
+     },
+     {
+      "text": "market",
+      "letter": "D"
+     },
+     {
+      "text": "museum",
+      "letter": "E"
+     },
+     {
+      "text": "park",
+      "letter": "F"
+     },
+     {
+      "text": "river",
+      "letter": "G"
+     },
+     {
+      "text": "swimming pool",
+      "letter": "H"
+     }
+    ],
+    "scenario": "David and Eva talking about a school art lesson — where each went",
+    "leftLabel": "People",
+    "partNumber": 2,
+    "rightLabel": "Places",
+    "instruction": [
+     "Listen to David and Eva talking about a school art lesson.",
+     "Where did they and their friends go to draw their pictures?",
+     "For questions 6–10, write a letter A–H next to each person.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-conversation",
+    "items": [
+     {
+      "id": 11,
+      "stem": "Dawn booked the concert ticket",
+      "answer": "B",
+      "options": [
+       {
+        "text": "on the internet.",
+        "letter": "A"
+       },
+       {
+        "text": "over the phone.",
+        "letter": "B"
+       },
+       {
+        "text": "by post.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "stem": "Dawn's plane ticket cost",
+      "answer": "A",
+      "options": [
+       {
+        "text": "£230.",
+        "letter": "A"
+       },
+       {
+        "text": "£300.",
+        "letter": "B"
+       },
+       {
+        "text": "£350.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "stem": "Dawn stayed in",
+      "answer": "B",
+      "options": [
+       {
+        "text": "a student hotel.",
+        "letter": "A"
+       },
+       {
+        "text": "a family friend's home.",
+        "letter": "B"
+       },
+       {
+        "text": "a campsite.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "stem": "Dawn thought the concert was",
+      "answer": "B",
+      "options": [
+       {
+        "text": "not very good.",
+        "letter": "A"
+       },
+       {
+        "text": "too short.",
+        "letter": "B"
+       },
+       {
+        "text": "too noisy.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "stem": "Most of the time, Dawn was",
+      "answer": "C",
+      "options": [
+       {
+        "text": "on the beach.",
+        "letter": "A"
+       },
+       {
+        "text": "on a tour bus.",
+        "letter": "B"
+       },
+       {
+        "text": "in the shops.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "stem": "Dawn went to California",
+     "answer": "B",
+     "number": 0,
+     "options": [
+      {
+       "text": "last week.",
+       "letter": "A"
+      },
+      {
+       "text": "last month.",
+       "letter": "B"
+      },
+      {
+       "text": "last year.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partNumber": 3,
+    "instruction": [
+     "Listen to Dawn talking about her trip to California.",
+     "For questions 11–15, tick (✓) A, B or C.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "rows": [
+     {
+      "id": 16,
+      "label": "Day:",
+      "answer": "Wednesday"
+     },
+     {
+      "id": 17,
+      "label": "Cost:",
+      "answer": "12",
+      "prefix": "£",
+      "suffix": "per hour"
+     },
+     {
+      "id": 18,
+      "label": "At tennis courts in:",
+      "answer": "GERALD",
+      "suffix": "Street"
+     },
+     {
+      "id": 19,
+      "label": "Starting time:",
+      "answer": "6.15",
+      "suffix": "pm"
+     },
+     {
+      "id": 20,
+      "label": "Wear:",
+      "answer": "shorts",
+      "suffix": "and T-shirt"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 4",
+    "subtitle": "Teacher's name: Paul",
+    "noteTitle": "André's tennis lessons",
+    "partNumber": 4,
+    "instruction": [
+     "You will hear André telling a friend about his tennis lessons.",
+     "Listen and complete questions 16–20.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "rows": [
+     {
+      "id": 21,
+      "label": "Name:",
+      "answer": "White",
+      "prefix": "The",
+      "suffix": "Hotel"
+     },
+     {
+      "id": 22,
+      "label": "Where:",
+      "answer": "ACHILL",
+      "suffix": "Island"
+     },
+     {
+      "id": 23,
+      "label": "Hotel first built in the year:",
+      "answer": "1859"
+     },
+     {
+      "id": 24,
+      "label": "Number of bedrooms:",
+      "answer": "36"
+     },
+     {
+      "id": 25,
+      "label": "Restaurant famous for:",
+      "answer": "fish"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 5",
+    "subtitle": "Best time to visit: June",
+    "noteTitle": "Hotel in Ireland",
+    "partNumber": 5,
+    "instruction": [
+     "You will hear someone talking on the radio about a hotel in Ireland.",
+     "Listen and complete questions 21–25.",
+     "You will hear the information twice."
+    ],
+    "questionsLabel": "QUESTIONS 21–25"
+   }
+  ],
+  "testInfo": {
+   "id": "ket-l-21",
+   "level": "A2",
+   "paper": "Paper 2",
+   "parts": 5,
+   "title": "KET Listening — Test 21",
+   "totalTime": 30,
+   "totalQuestions": 25
+  }
+ },
+ "created_at": "2026-10-14T06:45:30.866249+00:00",
+ "updated_at": "2026-10-14T06:47:16.995894+00:00"
+}

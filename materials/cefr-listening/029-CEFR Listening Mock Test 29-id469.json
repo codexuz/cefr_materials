@@ -1,0 +1,755 @@
+{
+ "id": 469,
+ "mock_type": "cefr-listening",
+ "mock_number": 29,
+ "title": "CEFR Listening Mock Test 29",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "mcq-reply",
+    "title": "Part 1",
+    "answers": {
+     "1": "B",
+     "2": "B",
+     "3": "A",
+     "4": "B",
+     "5": "B",
+     "6": "A",
+     "7": "C",
+     "8": "C"
+    },
+    "audioFile": "https://audio.mock-stream.com/test29/Part%201.m4a",
+    "questions": [
+     {
+      "id": 1,
+      "options": [
+       {
+        "text": "No, that would be too difficult.",
+        "letter": "A"
+       },
+       {
+        "text": "Yes, I would be happy to help you.",
+        "letter": "B"
+       },
+       {
+        "text": "I would like your help with that.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "options": [
+       {
+        "text": "Me too.",
+        "letter": "A"
+       },
+       {
+        "text": "Oh, sorry for being late.",
+        "letter": "B"
+       },
+       {
+        "text": "So did it.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 3,
+      "options": [
+       {
+        "text": "Lots of times.",
+        "letter": "A"
+       },
+       {
+        "text": "Yes, I have finished.",
+        "letter": "B"
+       },
+       {
+        "text": "No, I couldn’t.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 4,
+      "options": [
+       {
+        "text": "You can buy a new sandwich.",
+        "letter": "A"
+       },
+       {
+        "text": "Help yourself.",
+        "letter": "B"
+       },
+       {
+        "text": "I would order a new drink.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 5,
+      "options": [
+       {
+        "text": "I’ll pay them off right now.",
+        "letter": "A"
+       },
+       {
+        "text": "I’ll make you pay now.",
+        "letter": "B"
+       },
+       {
+        "text": "You’ll pay for what you have done.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 6,
+      "options": [
+       {
+        "text": "Yes, I didn’t",
+        "letter": "A"
+       },
+       {
+        "text": "No, but I’m happy for them.",
+        "letter": "B"
+       },
+       {
+        "text": "What is it?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 7,
+      "options": [
+       {
+        "text": "It’ll be 10$.",
+        "letter": "A"
+       },
+       {
+        "text": "I’ll take you.",
+        "letter": "B"
+       },
+       {
+        "text": "55 minutes.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 8,
+      "options": [
+       {
+        "text": "Get some rest.",
+        "letter": "A"
+       },
+       {
+        "text": "That’s crazy.",
+        "letter": "B"
+       },
+       {
+        "text": "Impossible!",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "partNumber": 1,
+    "transcript": "Part one. You will hear some sentences. You will hear each sentence twice. Choose the correct reply to each sentence, A, B or C. Mark your answers on the answer sheet.\nSpeaker one. I have a question, and I need someone to answer it.\nI have a question, and I need someone to answer it.\nSpeaker two. I was wondering when you would show up.\nI was wondering when you would show up.\nSpeaker three. What are you going to cook today?\nWhat are you going to cook today?\nSpeaker four. That film looks and sounds familiar, isn't it?\nThat film looks and sounds familiar, isn't it?\nSpeaker five. I bet John and Christine are really happy with their trip.\nI bet John and Christine are really happy with their trip.\nSpeaker six. When do we leave for Tahiti?\nWhen do we leave for Tahiti?\nSpeaker seven. Why don't you come with me?\nWhy don't you come with me?\nSpeaker eight. You shouldn't drink soda when you're really thirsty.\nYou shouldn't drink soda when you're really thirsty.\nNow, listen again.\nThat is the end of part one.",
+    "instruction": "You will hear some sentences. You will hear each sentence twice. Choose the correct reply to each sentence (A, B, or C).",
+    "questionRange": "1-8",
+    "answerHighlights": {
+     "1": [
+      2
+     ],
+     "2": [
+      4
+     ],
+     "3": [
+      6
+     ],
+     "4": [
+      8
+     ],
+     "5": [
+      10
+     ],
+     "6": [
+      12
+     ],
+     "7": [
+      14
+     ],
+     "8": [
+      16
+     ]
+    }
+   },
+   {
+    "type": "gap-fill-form",
+    "title": "Part 2",
+    "answers": {
+     "9": [
+      "8.40",
+      "8:40",
+      "eight forty"
+     ],
+     "10": [
+      "notebook",
+      "Notebook",
+      "NOTEBOOK"
+     ],
+     "11": [
+      "painting",
+      "Painting",
+      "PAINTING"
+     ],
+     "12": [
+      "boat",
+      "Boat",
+      "BOAT"
+     ],
+     "13": [
+      "Tuesday",
+      "tuesday",
+      "TUESDAY"
+     ],
+     "14": [
+      "arundel",
+      "Arundel",
+      "ARUNDEL"
+     ]
+    },
+    "audioFile": "https://audio.mock-stream.com/test29/Part%202.m4a",
+    "formTitle": "School Trip to the Castle",
+    "questions": [
+     {
+      "id": 9,
+      "hint": "time: ____"
+     },
+     {
+      "id": 10,
+      "hint": "a ____"
+     },
+     {
+      "id": 11,
+      "hint": "____ in the garden"
+     },
+     {
+      "id": 12,
+      "hint": "trip on a ____"
+     },
+     {
+      "id": 13,
+      "hint": "by ____"
+     },
+     {
+      "id": 14,
+      "hint": "www.____.castle.com"
+     }
+    ],
+    "partNumber": 2,
+    "transcript": "Part two.\nYou will hear someone giving a talk.\nFor each question, fill in the missing information in the numbered space.\nWrite one word or a number for each answer.\nYou now have some time to look at questions.\nYou will hear a teacher telling a group of students about a trip they are going on.\nGood morning, everyone.\nI want to tell you about the school trip to the castle next week.\nThe coach will be leaving the school at 9:10, so you all need to be there at 8:40 and no later.\nIf anyone is late, we will not wait for you.\nWe will be doing all sorts of activities during the day, but don't forget that you will be doing a project on the castle, so you need to bring a book, I mean, a notebook with you.\nDon't worry about bringing a camera, as on the last trip, two people lost their cameras.\nYou can always use your phones if you want to take pictures.\nWe should arrive at the castle by 9:45.\nWe won't be going on a guided tour because I know how bored you all get.\nSo, instead, we will go to the gardens where we will have a special painting class.\nThe gardens are very beautiful.\nAll your paintings will be exhibited in the school hall next week.\nAfter lunch, you can have a look around the castle for an hour, which will be followed by a special treat.\nNo, that doesn't mean you will go and eat cake.\nWe will be going on a boat down the river.\nI know that this is a trip that you will really enjoy.\nNow, those projects I mentioned earlier will be marked by Friday afternoon, so they all need to be handed in by Tuesday afternoon.\nNot Wednesday morning.\nUs poor teachers have lots to do, so you must hand your projects in on time.\nIf you want more information to help you write your projects, you can look on the castle website, which is www.rundle.castle.com.\nI'll spell that for you.\nThat's a r u n d e l.\nOkay.\nYou can go to your lessons now.\nNow, listen again.\nGood morning, everyone.\nI want to tell you about the school trip to the castle next week.\nThe coach will be leaving the school at 9:10, so you all need to be there at 8:40 and no later.\nIf anyone is late, we will not wait for you.\nWe will be doing all sorts of activities during the day, but don't forget that you will be doing a project on the castle, so you need to bring a book, I mean, a notebook with you.\nDon't worry about bringing a camera, as on the last trip, two people lost their cameras.\nYou can always use your phones if you want to take pictures.\nWe should arrive at the castle by 9:45.\nWe won't be going on a guided tour because I know how bored you all get.\nSo, instead, we will go to the gardens where we will have a special painting class.\nThe gardens are very beautiful.\nAll your paintings will be exhibited in the school hall next week.\nAfter lunch, you can have a look around the castle for an hour, which will be followed by a special treat.\nNo, that doesn't mean you will go and eat cake.\nWe will be going on a boat down the river.\nI know that this is a trip that you will really enjoy.\nNow, those projects I mentioned earlier will be marked by Friday afternoon, so they all need to be handed in by Tuesday afternoon.\nNot Wednesday morning.\nUs poor teachers have lots to do, so you must hand your projects in on time.\nIf you want more information to help you write your projects, you can look on the castle website, which is www..castle.com.\nI'll spell that for you.\nThat's a r u n d e l.\nOkay.\nYou can go to your lessons now.\nThat is the end of part two.",
+    "formContent": [
+     {
+      "text": "Time to meet at school gate:",
+      "type": "item-gap",
+      "gapId": 9
+     },
+     {
+      "text": "Need to bring: a",
+      "type": "item-gap",
+      "gapId": 10
+     },
+     {
+      "text": "Morning activity:",
+      "type": "item-gap",
+      "gapId": 11,
+      "gapSuffix": "in the garden"
+     },
+     {
+      "text": "Afternoon activity: trip on a",
+      "type": "item-gap",
+      "gapId": 12
+     },
+     {
+      "text": "Hand in projects by:",
+      "type": "item-gap",
+      "gapId": 13
+     },
+     {
+      "text": "Castle website: www.",
+      "type": "item-gap",
+      "gapId": 14,
+      "gapSuffix": ".castle.com"
+     }
+    ],
+    "instruction": "You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. Write ONE WORD and / or A NUMBER for each answer.",
+    "questionRange": "9-14",
+    "answerHighlights": {
+     "9": [
+      9
+     ],
+     "10": [
+      11
+     ],
+     "11": [
+      16
+     ],
+     "12": [
+      21
+     ],
+     "13": [
+      23
+     ],
+     "14": [
+      26,
+      28
+     ]
+    }
+   },
+   {
+    "type": "matching-speakers",
+    "title": "Part 3",
+    "answers": {
+     "15": "D",
+     "16": "F",
+     "17": "B",
+     "18": "C"
+    },
+    "options": [
+     {
+      "text": "plan what you need to take carefully",
+      "letter": "A"
+     },
+     {
+      "text": "explore a range of booking methods",
+      "letter": "B"
+     },
+     {
+      "text": "carry sufficient funds with you",
+      "letter": "C"
+     },
+     {
+      "text": "sample as much local produce as possible",
+      "letter": "D"
+     },
+     {
+      "text": "learn some of the language",
+      "letter": "E"
+     },
+     {
+      "text": "consider how belongings should be packed",
+      "letter": "F"
+     }
+    ],
+    "speakers": [
+     {
+      "id": 15,
+      "label": "Speaker 1"
+     },
+     {
+      "id": 16,
+      "label": "Speaker 2"
+     },
+     {
+      "id": 17,
+      "label": "Speaker 3"
+     },
+     {
+      "id": 18,
+      "label": "Speaker 4"
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test29/Part%203.m4a",
+    "partNumber": 3,
+    "transcript": "Part three. You will hear people speaking in different situations.\nMatch each speaker, 15 to 18, to the options, AF.\nThere are two extra options which you do not need to use. Mark your answers on the answer sheet.\nYou now have some time to look at questions.\nSpeaker one.\nWith all my traveling experience, I've got packing down to a fine art now, and it's hardly that big a deal anyway. If you forget something, you just buy it at your destination.\nBut on one recent trip, I was running really late and actually found myself on the coach to the airport, still trying to fit various clothes and papers into my luggage. But the one real kick for me about going to new places, and the thing I'd really recommend, is trying all the stuff that's grown in the region, all the specialties. I've kept a record of them all, and I'm thinking of writing a recipe book.\nSpeaker two.\nThis will probably sound obvious, but if you're like me and leave everything to the last minute, then rolling up your clothes to put them in your bag can be your saving grace. Space is always limited when you're traveling, but this way you can just cram everything in. Even so, this technique didn't help me much on one occasion when I saw this locally made rug, I just knew it would look fabulous at home.\nSadly, no one pointed out that it wouldn't be easily transportable, so I ended up paying loads of money to bring it back. I probably could have got just the same thing at home.\nSpeaker three.\nNowadays, I travel as much as I can because it's dead easy to tell yourself you're too busy to fit it in. I remember not joining a two-day trek with friends in South America for that reason. Then afterwards, I heard how great it had been, especially the hotel, and kicked myself.\nApart from anything, I could have really done with brushing up my Spanish. Anyway, wherever you go, I reckon it's key to remember that despite advances in technology making it theoretically easy to get great bargain price tickets, you can often actually get much better deals elsewhere, for example, just by picking up the phone and talking to a real human being.\nSpeaker four.\nWhen you've arrived at the airport, just as the final call is being made for your flight, there's nothing worse than being weighed down by tons of unwanted bits of luggage. My general rule is to take half the stuff I think I'll need and twice the money. It's done me proud so far, and it certainly stood me in good stead when I once got confused over flight booking times and ended up at the airport thinking I was leaving at midnight. When I finally bothered to look, I found my ticket was actually for the previous day. That cost me an extra $500 to sort out, an important lesson.\nSpeaker one.\nWith all my traveling experience, I've got packing down to a fine art now, and it's hardly that big a deal anyway. If you forget something, you just buy it at your destination. But on one recent trip, I was running really late and actually found myself on the coach to the airport, still trying to fit various clothes and papers into my luggage. But the one real kick for me about going to new places, and the thing I'd really recommend, is trying all the stuff that's grown in the region, all the specialties. I've kept a record of them all, and I'm thinking of writing a recipe book.\nSpeaker two.\nThis will probably sound obvious, but if you're like me and leave everything to the last minute, then rolling up your clothes to put them in your bag can be your saving grace. Space is always limited when you're traveling, but this way you can just cram everything in. Even so, this technique didn't help me much on one occasion when I saw this locally made rug, I just knew it would look fabulous at home.\nSadly, no one pointed out that it wouldn't be easily transportable, so I ended up paying loads of money to bring it back. I probably could have got just the same thing at home.\nSpeaker three.\nNowadays, I travel as much as I can because it's dead easy to tell yourself you're too busy to fit it in. I remember not joining a two-day trek with friends in South America for that reason. Then afterwards, I heard how great it had been, especially the hotel, and kicked myself.\nApart from anything, I could have really done with brushing up my Spanish. Anyway, wherever you go, I reckon it's key to remember that despite advances in technology making it theoretically easy to get great bargain price tickets, you can often actually get much better deals elsewhere, for example, just by picking up the phone and talking to a real human being.\nSpeaker four.\nWhen you've arrived at the airport, just as the final call is being made for your flight, there's nothing worse than being weighed down by tons of unwanted bits of luggage. My general rule is to take half the stuff I think I'll need and twice the money. It's done me proud so far, and it certainly stood me in good stead when I once got confused over flight booking times and ended up at the airport thinking I was leaving at midnight. When I finally bothered to look, I found my ticket was actually for the previous day. That cost me an extra $500 to sort out, an important lesson.\nThat is the end of the test.",
+    "instruction": "You will hear people speaking in different situations. Match each speaker (15-18) to the advice each speaker gives about travelling (A-F). There are TWO EXTRA options which you do not need to use.",
+    "questionRange": "15-18",
+    "answerHighlights": {
+     "15": [
+      7
+     ],
+     "16": [
+      9
+     ],
+     "17": [
+      13
+     ],
+     "18": [
+      15
+     ]
+    }
+   },
+   {
+    "type": "map-labeling",
+    "title": "Part 4",
+    "answers": {
+     "19": "F",
+     "20": "C",
+     "21": "G",
+     "22": "E",
+     "23": "A"
+    },
+    "mapImage": "https://audio.mock-stream.com/test29/Gemini_Generated_Image_1xct4u1xct4u1xct.png",
+    "mapTitle": "The Community Garden",
+    "audioFile": "https://audio.mock-stream.com/test29/Part%204.m4a",
+    "mapLabels": [
+     "A",
+     "B",
+     "C",
+     "D",
+     "E",
+     "F",
+     "G",
+     "H"
+    ],
+    "questions": [
+     {
+      "id": 19,
+      "place": "Worm farms"
+     },
+     {
+      "id": 20,
+      "place": "Seed store"
+     },
+     {
+      "id": 21,
+      "place": "Machinery shed"
+     },
+     {
+      "id": 22,
+      "place": "Compost heaps"
+     },
+     {
+      "id": 23,
+      "place": "Drying room"
+     }
+    ],
+    "partNumber": 4,
+    "transcript": "Part four.\nYou will hear someone giving a talk.\nLabel the places, 19-23, on the map, A-H.\nThere are three extra options which you do not need to use.\nMark your answers on the answer sheet.\nYou now have some time to look at questions.\n\nOkay.\nNow, I'll just point out a few places of interest around the gardens.\nSo, can you all look at your maps, please?\nOkay.\nSo, we're now standing at the main entrance to the gardens, outside the clubhouse.\nSo, you might be interested in our worm farms.\nThis is where we make fertilizer.\nTo get there, from the main entrance, head north.\nYou'll pass gardens on either side of the path.\nJust before the path curves round to the right, there's a turning on the left.\nGo down there, and the worm farms are inside the first building you come to.\nIt's also worth visiting our seed store.\nAgain, head north and follow the path as it curves round to the right through the gardens.\nYou'll come to the orchard.\nFollow the path around the edge of the orchard, but don't go too far.\nThe seed store is actually located inside the orchard, a very pretty spot.\nNow, the machinery shed might interest some of you.\nFrom the main entrance, just go into the car park and walk right to the end.\nYou'll see a little path heading out to the west.\nIt's down there.\nOur compost heaps are also pretty impressive.\nSo, head north from the main entrance, go past the first gardens, and take the first turning on the left.\nGo to the end of that path.\nThe compost heaps are built in the shape of a letter U.\nThe drying room is also interesting.\nThis is where we dry fruit to preserve it.\nTo see how it's done, walk up through the gardens till you come to the orchard.\nKeep heading north, and the drying room is right at the very end of that path, as far as you can go.\nNow, one other thing I'll mention are the outside toilet facilities.\n\nNow, listen again.\n\nOkay.\nNow, I'll just point out a few places of interest around the gardens.\nSo, can you all look at your maps, please?\nOkay.\nSo, we're now standing at the main entrance to the gardens, outside the clubhouse.\nSo, you might be interested in our worm farms.\nThis is where we make fertilizer.\nTo get there, from the main entrance, head north.\nYou'll pass gardens on either side of the path.\nJust before the path curves round to the right, there's a turning on the left.\nGo down there, and the worm farms are inside the first building you come to.\nIt's also worth visiting our seed store.\nAgain, head north and follow the path as it curves round to the right through the gardens.\nYou'll come to the orchard.\nFollow the path around the edge of the orchard, but don't go too far.\nThe seed store is actually located inside the orchard, a very pretty spot.\nNow, the machinery shed might interest some of you.\nFrom the main entrance, just go into the car park and walk right to the end.\nYou'll see a little path heading out to the west.\nIt's down there.\nOur compost heaps are also pretty impressive.\nSo, head north from the main entrance, go past the first gardens, and take the first turning on the left.\nGo to the end of that path.\nThe compost heaps are built in the shape of a letter U.\nThe drying room is also interesting.\nThis is where we dry fruit to preserve it.\nTo see how it's done, walk up through the gardens till you come to the orchard.\nKeep heading north, and the drying room is right at the very end of that path, as far as you can go.\nNow, one other thing I'll mention are the outside toilet facilities.\n\nThat is the end of part four.",
+    "instruction": "You will hear someone giving a talk. Label the places (19-23) on the map (A-H). There are THREE extra options which you do not need to use.",
+    "questionRange": "19-23",
+    "answerHighlights": {
+     "19": [
+      13,
+      15,
+      16,
+      17,
+      18
+     ],
+     "20": [
+      19,
+      20,
+      21,
+      22,
+      23
+     ],
+     "21": [
+      24,
+      25,
+      26,
+      27
+     ],
+     "22": [
+      28,
+      29,
+      30,
+      31
+     ],
+     "23": [
+      32,
+      33,
+      34,
+      35
+     ]
+    }
+   },
+   {
+    "type": "mcq-extracts",
+    "title": "Part 5",
+    "answers": {
+     "24": "B",
+     "25": "A",
+     "26": "B",
+     "27": "C",
+     "28": "C",
+     "29": "A"
+    },
+    "extracts": [
+     {
+      "title": "Extract One",
+      "context": "You hear two friends discussing a rock concert they both went to.",
+      "questions": [
+       {
+        "id": 24,
+        "text": "How does the boy feel about the main band?",
+        "options": [
+         {
+          "text": "disappointed by their performance",
+          "letter": "A"
+         },
+         {
+          "text": "confused by all the advanced publicity",
+          "letter": "B"
+         },
+         {
+          "text": "unsure whether he got value for money or not",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 25,
+        "text": "What is the woman doing in her reply?",
+        "options": [
+         {
+          "text": "criticising the support band",
+          "letter": "A"
+         },
+         {
+          "text": "defending the approach of the media",
+          "letter": "B"
+         },
+         {
+          "text": "agreeing with comments about the main band",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Extract Two",
+      "context": "You hear part of a sports report about a football club manager.",
+      "questions": [
+       {
+        "id": 26,
+        "text": "What is the male presenter doing?",
+        "options": [
+         {
+          "text": "praising changes that the manager has made",
+          "letter": "A"
+         },
+         {
+          "text": "suggesting that rumours about the manager are unfounded",
+          "letter": "B"
+         },
+         {
+          "text": "describing a growing sense of dissatisfaction with the manager’s performance",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 27,
+        "text": "In the female presenter’s opinion",
+        "options": [
+         {
+          "text": "the manager’s strategy is the correct one",
+          "letter": "A"
+         },
+         {
+          "text": "the real problem is a lack of talented players",
+          "letter": "B"
+         },
+         {
+          "text": "the pressure on the manager is likely to increase",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Extract Three",
+      "context": "You hear two friends discussing an exhibition of modern sculpture.",
+      "questions": [
+       {
+        "id": 28,
+        "text": "What does the woman particularly admire about the artist?",
+        "options": [
+         {
+          "text": "the originality of his work",
+          "letter": "A"
+         },
+         {
+          "text": "the way his art has developed",
+          "letter": "B"
+         },
+         {
+          "text": "the issues that his sculptures raise",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 29,
+        "text": "What disappointed them both about the exhibition?",
+        "options": [
+         {
+          "text": "the pieces of work that had been chosen",
+          "letter": "A"
+         },
+         {
+          "text": "the information provided for visitors",
+          "letter": "B"
+         },
+         {
+          "text": "the way it had been laid out",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test29/Part%205.m4a",
+    "partNumber": 5,
+    "transcript": "Narrator: Part five.\nYou will hear three extracts.\nChoose the correct answer A, B or C for each question, 24 to 29.\nThere are two questions for each extract.\nMark your answers on the answer sheet.\nYou now have some time to look at questions.\n\nNarrator: Extract one.\nYou hear two friends discussing a rock concert they both went to.\nNow look at questions one and two.\n\nWoman: Hi, Tom.\nSo what do you think of the concert?\nMan: Well, I'm not complaining because at the end of the day I had a pretty good night out, but it's just as well that we got a hefty student discount on the tickets.\nI went with high hopes of seeing something really spectacular from the headline band, and it just didn't happen.\nI reckon I was taken in by all the hype.\nYou know, the big build up in the media and everything.\nI should know better than to take any notice of it, but you just get swept up by it, don't you?\nWoman: Well, you may, but I don't.\nI hadn't actually read or heard much about the gig at all, so I didn't go with any preconceptions.\nIf you ask me, you're being rather hard on the main band.\nI mean, they were way better than the support act.\nIf the idea was to get us in the mood for what was coming later, then I think they should have been presenting us with something a bit more exciting.\nMan: Well, who knows?\nPerhaps they were chosen because they wouldn't upstage the stars.\n\nWoman: Hi, Tom.\nSo what do you think of the concert?\nMan: Well, I'm not complaining because at the end of the day I had a pretty good night out, but it's just as well that we got a hefty student discount on the tickets.\nI went with high hopes of seeing something really spectacular from the headline band, and it just didn't happen.\nI reckon I was taken in by all the hype.\nYou know, the big build up in the media and everything.\nI should know better than to take any notice of it, but you just get swept up by it, don't you?\nWoman: Well, you may, but I don't.\nI hadn't actually read or heard much about the gig at all, so I didn't go with any preconceptions.\nIf you ask me, you're being rather hard on the main band.\nI mean, they were way better than the support act.\nIf the idea was to get us in the mood for what was coming later, then I think they should have been presenting us with something a bit more exciting.\nMan: Well, who knows?\nPerhaps they were chosen because they wouldn't upstage the stars.\n\nNarrator: Extract two.\nYou hear part of a sports report about a football club manager.\nNow look at questions three and four.\n\nMan: There's been lots of speculation in the press this week surrounding the fate of United manager Tony Benson, with some people calling for his resignation after a run of poor results.\nTalking to people at the club this week, I sense that there may actually be little substance to stories that his job's on the line.\nIndeed, a number of people I spoke to were keen to defend his record, feeling that he was focusing the players on a more stylish, entertaining brand of football.\nThey thought it would only be a matter of time before we begin to see this reflected in the results.\nWhat's your take on all this, Susie?\nWoman: Well, Gary, the club's invested in promising players.\nThe potential's there.\nIt's just a question of whether Benson's the man to pull it all together and make it work, and time's running out for him.\nI've been talking to some of the players and I'd say there was a ground swell of support in the dressing room for Benson's general approach.\nBut I think the results speak for themselves.\nAnd these days, if a top flight football team isn't getting points, then something's got to change, and that comes back to the manager, because that's his responsibility, getting the results.\n\nMan: There's been lots of speculation in the press this week surrounding the fate of United manager Tony Benson, with some people calling for his resignation after a run of poor results.\nTalking to people at the club this week, I sense that there may actually be little substance to stories that his job's on the line.\nIndeed, a number of people I spoke to were keen to defend his record, feeling that he was focusing the players on a more stylish, entertaining brand of football.\nThey thought it would only be a matter of time before we begin to see this reflected in the results.\nWhat's your take on all this, Susie?\nWoman: Well, Gary, the club's invested in promising players.\nThe potential's there.\nIt's just a question of whether Benson's the man to pull it all together and make it work, and time's running out for him.\nI've been talking to some of the players and I'd say there was a ground swell of support in the dressing room for Benson's general approach.\nBut I think the results speak for themselves.\nAnd these days, if a top flight football team isn't getting points, then something's got to change, and that comes back to the manager, because that's his responsibility, getting the results.\n\nNarrator: Extract three.\nYou hear two friends discussing an exhibition of modern sculpture.\nNow look at questions five and six.\n\nWoman: So what did you think of it?\nI could stand and look at his work all day long.\nI know it's a strange thing to say about sculpture, but it really makes you think, you know, about more than just the arts, about aspects of life itself.\nMan: But this was a strange exhibition.\nThey seem to have gone for quite an eclectic selection.\nWas it meant to be representative of something?\nI never read the notes they hand out because I prefer to come to my own interpretation.\nWoman: Yes, so do I.\nActually, I think the unifying theme was the material.\nI mean, all these pieces were made out of the same three raw materials, wire, glass and straw.\nNot all his work is, of course, but I guess it's a phase he went through part of his development as an artist.\nI'd have been happy to have seen some of his other stuff actually.\nMan: Yeah, more of a range.\nWell, you can't fault the museum, can you?\nI mean, any exhibition they put on is worth going to.\nIt's such a brilliant space and you never know how things are going to look because the presentation's so imaginative, isn't it?\nWoman: There's nowhere quite like it, really.\n\nWoman: So what did you think of it?\nI could stand and look at his work all day long.\nI know it's a strange thing to say about sculpture, but it really makes you think, you know, about more than just the art, about aspects of life itself.\nMan: But this was a strange exhibition.\nThey seem to have gone for quite an eclectic selection.\nWas it meant to be representative of something?\nI never read the notes they hand out because I prefer to come to my own interpretation.\nWoman: Yes, so do I.\nActually, I think the unifying theme was the material.\nI mean, all these pieces were made out of the same three raw materials, wire, glass and straw.\nNot all his work is, of course, but I guess it's a phase he went through part of his development as an artist.\nI'd have been happy to have seen some of his other stuff actually.\nMan: Yeah, more of a range.\nWell, you can't fault the museum, can you?\nI mean, any exhibition they put on is worth going to.\nIt's such a brilliant space and you never know how things are going to look because the presentation's so imaginative, isn't it?\nWoman: There's nowhere quite like it, really.\n\nNarrator: That is the end of part five.",
+    "instruction": "You will hear three extracts. Choose the correct answer (A, B or C) for each question (24-29). There are TWO questions for each extract.",
+    "questionRange": "24-29",
+    "answerHighlights": {
+     "24": [
+      16,
+      17,
+      18
+     ],
+     "25": [
+      22,
+      23
+     ],
+     "26": [
+      47,
+      48
+     ],
+     "27": [
+      53,
+      56
+     ],
+     "28": [
+      75,
+      76
+     ],
+     "29": [
+      78,
+      82,
+      83
+     ]
+    }
+   },
+   {
+    "type": "sentence-completion",
+    "title": "Part 6",
+    "answers": {
+     "30": [
+      "period",
+      "Period",
+      "PERIOD",
+      "the period",
+      "a period"
+     ],
+     "31": [
+      "tight",
+      "Tight",
+      "TIGHT"
+     ],
+     "32": [
+      "arms",
+      "Arms",
+      "ARMS",
+      "arm",
+      "Arm",
+      "ARM"
+     ],
+     "33": [
+      "gloves",
+      "Gloves",
+      "GLOVES"
+     ],
+     "34": [
+      "plastic",
+      "Plastic",
+      "PLASTIC"
+     ],
+     "35": [
+      "hairdryer",
+      "Hairdryer",
+      "HAIRDRYER",
+      "hair dryer",
+      "Hair dryer",
+      "hair-dryer",
+      "Hair-dryer"
+     ]
+    },
+    "audioFile": "https://audio.mock-stream.com/test29/Part%206.m4a",
+    "questions": [
+     {
+      "id": 30,
+      "hint": "the term ____"
+     },
+     {
+      "id": 31,
+      "hint": "a ____ fit"
+     },
+     {
+      "id": 32,
+      "hint": "beneath the ____"
+     },
+     {
+      "id": 33,
+      "hint": "the wetsuit, ____"
+     },
+     {
+      "id": 34,
+      "hint": "made of ____"
+     },
+     {
+      "id": 35,
+      "hint": "using a ____"
+     }
+    ],
+    "partNumber": 6,
+    "transcript": "You'll hear a man called Carl Pittman giving a group of tourists practical advice about learning the sport of surfing.\nPart six.\nYou will hear a part of a lecture.\nFor each question, fill in the missing information in the numbered space.\nWrite no more than one word for each answer.\nMark your answers on the answer sheet.\nYou now have some time to look at questions.\nHi, I've come along to tell you about surfing here on the island, something I know many of you want to learn.\nNow, you can learn to surf anywhere that waves break on a swimmable shoreline.\nOn this island, most of the local population lives around the north coast.\nWe often see waves on it, but you rarely see surfers there.\nThe National Park, on the other hand, has miles of sandy shoreline with plenty of elbow room for beginners to develop their surfing skills.\nI'd say that was your best choice of venue.\nNow, surfers need waves, and waves are generated by wind moving across water.\nThe further the wind drags across the water, called fetch, the more powerful the waves, which then spread out and fall into groups we call sets.\nThe distance between waves is measured in seconds and we call that the period.\nWe see just the very top of waves.\nMost of the energy goes deep into the ocean.\nThe ocean here is not warm, so surfers wear wet suits most of the time.\nThese keep you warm by trapping a thin layer of water against your body, which your body heats.\nA new suit should almost feel too tight.\nIf the fit of your suit is too loose, then it will hold more water.\nIf you start shivering uncontrollably, then this may be the problem and you should go in and get warm.\nNew materials will stretch out and conform to your body.\nMake sure you have lots of length in the legs and that you have no folds of material under your arms.\nIt's also important to check that it fits well over your lower back.\nRinse your suit thoroughly every time you use it.\nUse a mild detergent or a wet suit specific soap in warm water to wash your suit, and especially your boots and gloves regularly.\nHot water is not recommended for wet suits.\nAnd keep your suit on a wide plastic hanger.\nMetal hangers, especially wire ones, will create creases that will be the first wear out points on your suit, and wooden hangers aren't much better.\nCreases decrease lifespan.\nDo not store your suit in direct sunlight.\nIt will lose elasticity and become stiff and brittle before its time.\nNow, the other thing you'll need is a surfboard.\nDon't go out and buy a new one straight away.\nThe surfboard you use as an accomplished surfer will be far too fragile to take you through the learning process.\nThe main problem is when beginners hit the board with their knees and put great dents in them.\nBut they also tend to lean surfboards against cars and walls where they can fall over or bump into pointy things when carrying them.\nSo, I'd say always borrow your friend's board to learn on or maybe rent one.\nYour board will need waxing.\nSurfers use wax to help them stay on their boards, whereas skaters and snowboarders use it to make their board slide.\nIf you want to clean old wax off, leave your board in the sun for a while, or better still, use a hair dryer and then use a wax comb or plastic scraper.\nA citrus-based cleaner on a cloth will clean up the rest.\nNow, before I go on to the next part of my speech.\nHi, I've come along to tell you about surfing here on the island, something I know many of you want to learn.\nNow, you can learn to surf anywhere that waves break on a swimmable shoreline.\nOn this island, most of the local population lives around the north coast.\nWe often see waves on it, but you rarely see surfers there.\nThe National Park, on the other hand, has miles of sandy shoreline with plenty of elbow room for beginners to develop their surfing skills.\nI'd say that was your best choice of venue.\nNow, surfers need waves, and waves are generated by wind moving across water.\nThe further the wind drags across the water, called fetch, the more powerful the waves, which then spread out and fall into groups we call sets.\nThe distance between waves is measured in seconds and we call that the period.\nWe see just the very top of waves.\nMost of the energy goes deep into the ocean.\nThe ocean here is not warm, so surfers wear wet suits most of the time.\nThese keep you warm by trapping a thin layer of water against your body, which your body heats.\nA new suit should almost feel too tight.\nIf the fit of your suit is too loose, then it will hold more water.\nIf you start shivering uncontrollably, then this may be the problem and you should go in and get warm.\nNew materials will stretch out and conform to your body.\nMake sure you have lots of length in the legs and that you have no folds of material under your arms.\nIt's also important to check that it fits well over your lower back.\nRinse your suit thoroughly every time you use it.\nUse a mild detergent or a wet suit specific soap in warm water to wash your suit, and especially your boots and gloves regularly.\nHot water is not recommended for wet suits.\nAnd keep your suit on a wide.\nPlastic hanger.\nMetal hangers, especially wire ones, will create creases that will be the first wear out points on your suit, and wooden hangers aren't much better.\nCreases decrease lifespan.\nDo not store your suit in direct sunlight.\nIt will lose elasticity and become stiff and brittle before its time.\nNow, the other thing you'll need is a surfboard.\nDon't go out and buy a new one straight away.\nThe surfboard you use as an accomplished surfer will be far too fragile to take you through the learning process.\nThe main problem is when beginners hit the board with their knees and put great dents in them.\nBut they also tend to lean surfboards against cars and walls where they can fall over or bump into pointy things when carrying them.\nSo, I'd say always borrow your friend's board to learn on, or maybe rent one.\nYour board will need waxing.\nSurfers use wax to help them stay on their boards, whereas skaters and snowboarders use it to make their board slide.\nIf you want to clean old wax off, leave your board in the sun for a while, or better still, use a hair dryer and then use a wax comb or plastic scraper.\nA citrus-based cleaner on a cloth will clean up the rest.\nNow, before I go on to the next part of my speech.\nThat is the end of part six.",
+    "instruction": "You will hear a part of a lecture. For each question, fill in the missing information in the numbered space. Write no more than one word for each answer.",
+    "passageTitle": "Learning the Sport of Surfing",
+    "questionRange": "30-35",
+    "passageContent": "Carl recommends the national park as the best place for learning to surf in his area.<br><br>Carl uses the term <span class=\"gap-input\" data-gap=\"30\">_____(30)_____</span> to describe the distance between waves.<br><br>Carl advises getting a wetsuit that has a <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span> fit.<br><br>Carl says it’s important to check the quantity of material beneath the <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span> of a new wetsuit.<br><br>Carl says that the wetsuit, <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span> and footwear all need washing regularly.<br><br>According to Carl, a hanger made of <span class=\"gap-input\" data-gap=\"34\">_____(34)_____</span> is best for storing wetsuits.<br><br>Beginners most often damage surfboards through contact with their knees.<br><br>Carl suggests using a <span class=\"gap-input\" data-gap=\"35\">_____(35)_____</span> as the first step in removing wax from a surfboard.",
+    "answerHighlights": {
+     "30": [
+      16
+     ],
+     "31": [
+      21
+     ],
+     "32": [
+      25
+     ],
+     "33": [
+      28
+     ],
+     "34": [
+      30
+     ],
+     "35": [
+      43
+     ]
+    }
+   }
+  ],
+  "examDate": "2026-05-02",
+  "testInfo": {
+   "id": "cefr-listening-29",
+   "level": "B1-C1",
+   "title": "CEFR Listening Mock Test 29",
+   "totalTime": 40,
+   "totalQuestions": 35
+  }
+ },
+ "created_at": "2026-05-15T15:19:28.38069+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

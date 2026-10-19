@@ -1,0 +1,778 @@
+{
+ "id": 344,
+ "mock_type": "cefr-reading",
+ "mock_number": 3,
+ "title": "CEFR B1-B2-C1 Reading Test 03",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "gap-fill-text",
+    "title": "Part 1",
+    "answers": {
+     "1": [
+      "ENTERTAINMENT"
+     ],
+     "2": [
+      "MALL"
+     ],
+     "3": [
+      "TEENS"
+     ],
+     "4": [
+      "SHOPPING"
+     ],
+     "5": [
+      "FAMILIES"
+     ],
+     "6": [
+      "DECADES"
+     ]
+    },
+    "passage": {
+     "title": "Going to the Mall",
+     "content": "<p>Every city in the USA has a mall or four. There are about 1,100 malls in the US. These giant store-filled buildings are one of America's greatest <span class=\"gap\" data-gap=\"1\">_____(1)_____</span> options for teens and families.</p>\n<p>Mall of America in Minnesota is the largest <span class=\"gap\" data-gap=\"2\">_____(2)_____</span>. It is so big that it has a park in it, Nickelodeon Universe, with several roller coasters! There are more than 500 stores in it, about 400,000m2 and about 12,000 people work there.</p>\n<p>But malls nowadays aren't the same as they used to be in the 80s and It is so 90s. During those decades, <span class=\"gap\" data-gap=\"3\">_____(3)_____</span> would go to the mall and spend hours shopping, playing video games at the arcade, or just hanging out with friends. It was cool in the summer and warm in the winter. In those days, malls provided the perfect source of <span class=\"gap\" data-gap=\"4\">_____(4)_____</span> and entertainment for entire <span class=\"gap\" data-gap=\"5\">_____(5)_____</span>.</p>\n<p>But some experts believe in upcoming <span class=\"gap\" data-gap=\"6\">_____(6)_____</span> malls will be replaced by online shopping.</p>"
+    },
+    "questions": [
+     {
+      "id": 1,
+      "hint": "one of America's greatest _____ options"
+     },
+     {
+      "id": 2,
+      "hint": "Minnesota is the largest _____"
+     },
+     {
+      "id": 3,
+      "hint": "During those decades, _____ would go to the mall"
+     },
+     {
+      "id": 4,
+      "hint": "the perfect source of _____ and entertainment"
+     },
+     {
+      "id": 5,
+      "hint": "entertainment for entire _____"
+     },
+     {
+      "id": 6,
+      "hint": "in upcoming _____ malls will be replaced"
+     }
+    ],
+    "partNumber": 1,
+    "instruction": "Read the text. Fill in each gap with ONE word. You must use a word which is somewhere in the rest of the text.",
+    "explanations": {
+     "q1": {
+      "text": "The passage describes mall activities like playing games and hanging out with friends. It later explicitly calls the mall a source of \"entertainment,\" confirming this is its purpose. That's why the correct answer is 'ENTERTAINMENT'.",
+      "quote": "In those days, malls provided the perfect source of _____(4)_____ and entertainment for entire _____(5)_____ ."
+     },
+     "q2": {
+      "text": "The text's topic is malls, stating there are 1,100 in the US. The sentence then gives \"Mall of America\" as a specific, superlative example of one of these buildings. That's why the correct answer is 'MALL'.",
+      "quote": "There are about 1,100 malls in the US."
+     },
+     "q3": {
+      "text": "The first paragraph identifies malls as a top option for \"teens and families.\" The activities described, like playing video games and hanging out, are particularly characteristic of teenagers. That's why the correct answer is 'TEENS'.",
+      "quote": "These giant store-filled buildings are one of America's greatest _____(1)_____ options for teens and families."
+     },
+     "q4": {
+      "text": "The passage describes malls as \"store-filled buildings\" and states that people would \"spend hours shopping\" there. This establishes shopping as a primary activity alongside entertainment. That's why the correct answer is 'SHOPPING'.",
+      "quote": "During those decades, _____(3)_____ would go to the mall and spend hours shopping, playing video games at the arcade, or just hanging out with friends."
+     },
+     "q5": {
+      "text": "The opening paragraph clearly states that malls are a great option for \"teens and families.\" This sentence reinforces that idea, specifying who the entertainment was for. That's why the correct answer is 'FAMILIES'.",
+      "quote": "These giant store-filled buildings are one of America's greatest _____(1)_____ options for teens and families."
+     },
+     "q6": {
+      "text": "The passage refers to the mall's peak popularity in the 80s and 90s as \"those decades.\" When predicting the future, it uses a parallel unit of time to discuss the next period. That's why the correct answer is 'DECADES'.",
+      "quote": "During those decades, _____(3)_____ would go to the mall and spend hours shopping, playing video games at the arcade, or just hanging out with friends."
+     }
+    },
+    "questionRange": "1-6"
+   },
+   {
+    "type": "matching",
+    "texts": [
+     {
+      "number": 7,
+      "content": "<strong>The Grand Conference Hotel</strong><br>\nLocated in the heart of the business district, our hotel offers state-of-the-art conference facilities. We have 5 meeting rooms capable of hosting up to 500 delegates, plus our magnificent ballroom perfect for gala dinners and corporate events. Full catering services available for all functions."
+     },
+     {
+      "number": 8,
+      "content": "<strong>Seaside Fish Restaurant</strong><br>\nWe are seeking an experienced chef to join our award-winning team. Must have at least 3 years' experience in seafood cuisine. References from previous employers essential. Accommodation not provided but we can assist with finding local housing."
+     },
+     {
+      "number": 9,
+      "content": "<strong>Mountain View Lodge</strong><br>\nHusband and wife team required to manage our remote highland retreat. Live-in position with private apartment. Duties include cooking for up to 20 guests and general hospitality management. Previous hotel experience preferred."
+     },
+     {
+      "number": 10,
+      "content": "<strong>Cotswold Country Retreat</strong><br>\nEscape to our charming farmhouse B&B, just 90 minutes from central London. Surrounded by rolling hills and picturesque villages. Perfect for those wanting to explore the beautiful English countryside while still being close to the capital."
+     },
+     {
+      "number": 11,
+      "content": "<strong>Westminster Culinary Academy</strong><br>\nProfessional catering courses for all levels. From basic food hygiene to advanced chef diplomas. Our London campus offers hands-on training in our fully equipped kitchens. Evening and weekend classes available for working professionals."
+     },
+     {
+      "number": 12,
+      "content": "<strong>Highland Whisky Inn</strong><br>\nTraditional Scottish pub and guesthouse. Sample our collection of over 200 single malt whiskies from distilleries across Scotland. Cozy rooms with Highland views. Live folk music every Saturday night."
+     },
+     {
+      "number": 13,
+      "content": "<strong>Coastal Sailing School</strong><br>\nLearn to sail in beautiful Cornwall! Week-long residential courses for beginners. Master dinghy sailing and small yacht handling. All equipment provided. Accommodation in our seaside hostel included in course fee."
+     },
+     {
+      "number": 14,
+      "content": "<strong>The Rose & Crown Inn</strong><br>\nHistoric village pub seeking experienced cook. Live-in position available with private room above the pub. Cooking traditional English food for our restaurant serving up to 40 covers. Must be able to start immediately."
+     }
+    ],
+    "title": "Part 2",
+    "answers": {
+     "7": [
+      "H"
+     ],
+     "8": [
+      "G"
+     ],
+     "9": [
+      "E"
+     ],
+     "10": [
+      "A"
+     ],
+     "11": [
+      "C"
+     ],
+     "12": [
+      "F"
+     ],
+     "13": [
+      "J"
+     ],
+     "14": [
+      "B"
+     ]
+    },
+    "questions": [
+     {
+      "id": 7,
+      "textNumber": 7
+     },
+     {
+      "id": 8,
+      "textNumber": 8
+     },
+     {
+      "id": 9,
+      "textNumber": 9
+     },
+     {
+      "id": 10,
+      "textNumber": 10
+     },
+     {
+      "id": 11,
+      "textNumber": 11
+     },
+     {
+      "id": 12,
+      "textNumber": 12
+     },
+     {
+      "id": 13,
+      "textNumber": 13
+     },
+     {
+      "id": 14,
+      "textNumber": 14
+     }
+    ],
+    "partNumber": 2,
+    "statements": [
+     {
+      "text": "Your parents want to spend a holiday in the countryside not far from London.",
+      "letter": "A"
+     },
+     {
+      "text": "You are a cook and are looking for a job with accommodation in a small hotel.",
+      "letter": "B"
+     },
+     {
+      "text": "You want to do catering training in England.",
+      "letter": "C"
+     },
+     {
+      "text": "You must reserve the room 1 week in advance.",
+      "letter": "D"
+     },
+     {
+      "text": "You and your partner are looking for catering jobs where you can live together in one place.",
+      "letter": "E"
+     },
+     {
+      "text": "You may drink special alcoholic beverages there.",
+      "letter": "F"
+     },
+     {
+      "text": "You will provide a feedback letter from your previous jobs to apply in the fish food restaurant.",
+      "letter": "G"
+     },
+     {
+      "text": "You have been asked to find a hotel with facilities for large meetings and dinners.",
+      "letter": "H"
+     },
+     {
+      "text": "You want to buy a hotel in city center.",
+      "letter": "I"
+     },
+     {
+      "text": "A friend wants to spend a holiday learning to handle a small boat.",
+      "letter": "J"
+     }
+    ],
+    "instruction": "Read the texts and the statements A-J. Decide which text matches with the situation described in the statements. Each statement can be used ONCE only. There are TWO extra statements which you do not need to use.",
+    "explanations": {
+     "q7": {
+      "text": "The hotel has facilities for large meetings, such as 5 meeting rooms for up to 500 people, and a ballroom for big dinners. This makes it suitable for the request. That's why the correct answer is H.",
+      "quote": "We have 5 meeting rooms capable of hosting up to 500 delegates, plus our magnificent ballroom perfect for gala dinners and corporate events."
+     },
+     "q8": {
+      "text": "The job advertisement clearly states that references from past employers are required to apply. A reference is a type of feedback letter from a previous job. That's why the correct answer is G.",
+      "quote": "References from previous employers essential."
+     },
+     "q9": {
+      "text": "The advertisement is specifically for a 'husband and wife team' and offers a 'live-in position with private apartment'. This is a perfect match for a couple looking for a job together. That's why the correct answer is E.",
+      "quote": "Husband and wife team required to manage our remote highland retreat. Live-in position with private apartment."
+     },
+     "q10": {
+      "text": "This retreat is a farmhouse B&B in the countryside, surrounded by hills and villages. It is also conveniently located only 90 minutes from London. That's why the correct answer is A.",
+      "quote": "Escape to our charming farmhouse B&B, just 90 minutes from central London."
+     },
+     "q11": {
+      "text": "The Westminster Culinary Academy is located in London and offers 'professional catering courses for all levels,' from basic to advanced diplomas. This is a place for catering training. That's why the correct answer is C.",
+      "quote": "Westminster Culinary Academy Professional catering courses for all levels."
+     },
+     "q12": {
+      "text": "The inn invites guests to try its large collection of over 200 different single malt whiskies, which are a special type of alcoholic drink from Scotland. That's why the correct answer is F.",
+      "quote": "Sample our collection of over 200 single malt whiskies from distilleries across Scotland."
+     },
+     "q13": {
+      "text": "This school offers courses for beginners to 'learn to sail' and handle small boats like dinghies and small yachts. This is exactly what the friend wants to do. That's why the correct answer is J.",
+      "quote": "Master dinghy sailing and small yacht handling."
+     },
+     "q14": {
+      "text": "The inn is looking for an experienced cook and offers a 'live-in position,' which means accommodation is provided. An inn is a small establishment similar to a small hotel. That's why the correct answer is B.",
+      "quote": "Historic village pub seeking experienced cook. Live-in position available with private room above the pub."
+     }
+    },
+    "questionRange": "7-14",
+    "extraStatements": [
+     "D",
+     "I"
+    ]
+   },
+   {
+    "type": "matching-headings",
+    "title": "Part 3",
+    "answers": {
+     "15": [
+      "C"
+     ],
+     "16": [
+      "G"
+     ],
+     "17": [
+      "A"
+     ],
+     "18": [
+      "E"
+     ],
+     "19": [
+      "B"
+     ],
+     "20": [
+      "F"
+     ]
+    },
+    "passage": {
+     "title": "Water and Climate Change",
+     "paragraphs": [
+      {
+       "number": "I",
+       "content": "Water is the giver and, at the same time, the taker of life. It covers most of the surface of the planet we live on and features large in the development of the human race. On present predictions, it is an element that is set to assume even greater significance.",
+       "questionId": 15
+      },
+      {
+       "number": "II",
+       "content": "Throughout history, water has had a huge impact on our lives. Humankind has always had a rather ambiguous relationship with water, on the one hand receiving enormous benefit from it, not just as a drinking source, but as a provider of food and a means whereby to travel and to trade. But forced to live close to water in order to survive and to develop, the relationship has not always been peaceful or beneficial. In fact, it has been quite the contrary. What has essentially been a necessity for survival has turned out in many instances to have a very destructive and life-threatening side.",
+       "questionId": 16
+      },
+      {
+       "number": "III",
+       "content": "Through the ages, great floods alternated with long periods of drought have assaulted people and their environment, hampering their fragile fight for survival. The dramatic changes to the environment that are now a feature of our daily news are not exactly new: fields that were once lush and fertile are now barren, lakes and rivers that were once teeming with life are now long gone; savannah has been turned to desert. What perhaps is new is our naive wonder when faced with the forces of nature. Today, we are more aware of climate change around the world.",
+       "questionId": 17
+      },
+      {
+       "number": "IV",
+       "content": "Floods in far-flung places are instant news for the whole world. Perhaps these events make us feel better as we face the destruction of our own property by floods and other natural disasters.",
+       "questionId": 18
+      },
+      {
+       "number": "V",
+       "content": "In 2002, many parts of Europe suffered severe flood damage running into billions of euros. Properties across the continent collapsed into the sea as waves pounded the coastline wreaking havoc with sea defences. But, it was not just the seas. Rivers swollen by heavy rains and by the effects of deforestation carried large volumes of water that wrecked many communities.",
+       "questionId": 19
+      },
+      {
+       "number": "VI",
+       "content": "Building stronger and more sophisticated river defenses against flooding is the expensive short-term answer. There are simpler ways. Planting trees in highland areas, not just in Europe but in places like the Himalayas, to protect people living in low-lying regions like the Ganges Delta, is a cheaper and more attractive solution. Progress is already being made in convincing countries that the emission of carbon dioxide and other greenhouse gases is causing considerable damage to the environment. But more effort is needed in this direction.",
+       "questionId": 20
+      }
+     ]
+    },
+    "headings": [
+     {
+      "text": "Environmental change has always been with us.",
+      "letter": "A"
+     },
+     {
+      "text": "Rivers and seas cause damage.",
+      "letter": "B"
+     },
+     {
+      "text": "What is water?",
+      "letter": "C"
+     },
+     {
+      "text": "A pessimistic view of the future.",
+      "letter": "D"
+     },
+     {
+      "text": "Disasters caused by the climate make us feel better.",
+      "letter": "E"
+     },
+     {
+      "text": "How to solve flooding.",
+      "letter": "F"
+     },
+     {
+      "text": "Humans' relationship with water.",
+      "letter": "G"
+     },
+     {
+      "text": "The destructive force of water in former times.",
+      "letter": "H"
+     }
+    ],
+    "questions": [
+     {
+      "id": 15,
+      "paragraphNumber": "I"
+     },
+     {
+      "id": 16,
+      "paragraphNumber": "II"
+     },
+     {
+      "id": 17,
+      "paragraphNumber": "III"
+     },
+     {
+      "id": 18,
+      "paragraphNumber": "IV"
+     },
+     {
+      "id": 19,
+      "paragraphNumber": "V"
+     },
+     {
+      "id": 20,
+      "paragraphNumber": "VI"
+     }
+    ],
+    "partNumber": 3,
+    "instruction": "Read the text and choose the correct heading for each paragraph from the list of headings below. There are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once.",
+    "explanations": {
+     "q15": {
+      "text": "This paragraph introduces water by defining its dual nature, its prevalence on Earth, and its importance to humanity. This general description explains what water is in the context of the passage, so the correct answer is C.",
+      "quote": "Water is the giver and, at the same time, the taker of life."
+     },
+     "q16": {
+      "text": "The paragraph describes the complex, two-sided connection humans have with water, noting both its life-sustaining benefits and its destructive potential. This directly addresses our 'ambiguous relationship' with it, so the correct answer is G.",
+      "quote": ""
+     },
+     "q17": {
+      "text": "This paragraph argues that major environmental shifts have happened throughout history, citing past examples of floods, droughts, and changing landscapes. It states these changes are not new, which is why the correct answer is A.",
+      "quote": ""
+     },
+     "q18": {
+      "text": "The paragraph suggests that hearing about disasters in other parts of the world might provide a strange sense of comfort to people experiencing similar events. This idea is why the correct answer is E.",
+      "quote": "Perhaps these events make us feel better as we face the destruction of our own property by floods and other natural disasters."
+     },
+     "q19": {
+      "text": "This paragraph gives specific examples of recent damage in Europe caused by both the sea pounding the coastlines and overflowing rivers wrecking communities. This directly illustrates the heading, so the correct answer is B.",
+      "quote": ""
+     },
+     "q20": {
+      "text": "The paragraph outlines various methods for dealing with flooding, from expensive, short-term options like building defenses to cheaper, long-term solutions like planting trees. This focus on solutions is why the correct answer is F.",
+      "quote": "Building stronger and more sophisticated river defenses against flooding is the expensive short-term answer. There are simpler ways."
+     }
+    },
+    "extraHeadings": [
+     "D",
+     "H"
+    ],
+    "questionRange": "15-20"
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 4",
+    "answers": {
+     "21": [
+      "D"
+     ],
+     "22": [
+      "B"
+     ],
+     "23": [
+      "B"
+     ],
+     "24": [
+      "A"
+     ],
+     "25": [
+      "False"
+     ],
+     "26": [
+      "Not Given"
+     ],
+     "27": [
+      "True"
+     ],
+     "28": [
+      "False"
+     ],
+     "29": [
+      "False"
+     ]
+    },
+    "passage": {
+     "title": "Cry-baby",
+     "content": "<p>It was almost midnight before they got around to giving the Oscars to the really well-known personalities.</p>\n<p>At first a series of guest stars had awarded the prizes: to the best designer, to the best special-effects man, for the best technical invention for motion pictures during the year, and to all the other people, so unknown outside the industry, but so significant within it.</p>\n<p>I looked around the theatre, recognizing most of the weighty faces in the business, but not caring much.</p>\n<p>You see, I was pretty nervous. Myra Caldwell, whom I had brought to the ceremony, was sitting there beside me, and right across the aisle was Joan Weyland. Now, to get the picture properly, you have to remember that during that particular year Myra had played the sensational supporting role in The Devil Loses and had been called the greatest find in the history of pictures. But that was the same year that Joan Weyland had stolen a big picture called Calumet Centre right out from under the nose of one of the most famous female stars in the industry. The only other actress nominated was not given much chance. Now in a few minutes, they were going to announce who had won the Oscar for the Best Supporting Actress of the year. It was the hottest Contest and everybody was aware of it. Furthermore, it was no secret that the two leading contestants would be delighted to boil each other in oil win, lose, or draw. And here they were across the aisle from each other. Do you get why I was nervous?</p>\n<p>Then the lights went down. They were going to run short scenes from the pictures for which the actors and actresses had been nominated. The supporting-actress pictures were coming on, and here was Joan Weyland in her grand scene from Calumet Centre. The audience started to applaud as soon as they saw her. After that they ran a short episode from Whirlwind showing the other nominee, a refugee actress called Tanya Braden. I had never seen the picture of the actress, and the picture hadn't made much money, but there was no doubt she could act! She played the star's mother and she made you believe it.</p>\n<p>Then they ran Myra's big moment in The Devil Loses. After it was over, tried to guess who had the biggest chance. \"I think I won,\" Myra said to me. The lights went up. The old actor, who had won the Supporting Actor award the year before, came through the curtains and prepared to present the award. I didn't see how I was going to live through the next few minutes. He got the envelope and began opening it very slowly. He was loving every second of it, the old man. Then he looked at the little piece of paper. \"The Winner,\" he said, then paused again, \"is Miss Tanya Braden, for her performance in Whirlwind.\"</p>\n<p>Well, I'm not too sure about the sequence of events that followed. I don't remember the applause, because Joan let out a loud cry from across the aisle that drowned out everything else. Then Myra started to cry. I don't mean cry like the ordinary person, but I mean cry so that the building shook. Then Joan jumped to her feet and started out, and her mother accompanied her. But I couldn't do anything with Myra. The show was interrupted and the whole theatre was staring at her. I picked her up and carried her out. It wasn't a very pleasant performance, but I think there is some excuse. After all, Joan is 8 years old, and Myra is only 6, and she isn't used to being up so late. I'm a little on her side anyway. And why not? I'm her father.</p>"
+    },
+    "partNumber": 4,
+    "instruction": "Read the following text for questions 21-29.",
+    "explanations": {
+     "q21": {
+      "text": "The passage states that early awards went to designers and special-effects people, who are described as 'unknown outside the industry'. These are secondary crew members, which is why the correct answer is D.",
+      "quote": ""
+     },
+     "q22": {
+      "text": "The narrator explains that Myra and Joan were the two main contenders for the Oscar for Best Supporting Actress. This is why they were at the ceremony, so the correct answer is B.",
+      "quote": "Now in a few minutes, they were going to announce who had won the Oscar for the Best Supporting Actress of the year."
+     },
+     "q23": {
+      "text": "The text states the two contestants 'would be delighted to boil each other in oil,' which is a strong metaphor for intense competition and dislike. This describes a rivalry, so the correct answer is B.",
+      "quote": "Furthermore, it was no secret that the two leading contestants would be delighted to boil each other in oil win, lose, or draw."
+     },
+     "q24": {
+      "text": "The narrator notes that Tanya Braden 'made you believe' her role as the star's mother, indicating her performance was very believable and convincing. That's why the correct answer is A.",
+      "quote": "She played the star's mother and she made you believe it."
+     },
+     "q25": {
+      "text": "The passage states the third nominee 'was not given much chance,' but she ended up winning. This surprise outcome shows that the winner was not easily recognized beforehand, so the statement is False.",
+      "quote": "The only other actress nominated was not given much chance."
+     },
+     "q26": {
+      "text": "The text calls Myra 'the greatest find in the history of pictures,' which implies she was a new talent. However, it never explicitly says this was her first role, so there is Not Given.",
+      "quote": "Myra had played the sensational supporting role in The Devil Loses and had been called the greatest find in the history of pictures."
+     },
+     "q27": {
+      "text": "The passage explicitly states that the third nominee, who was Tanya Braden, was not expected to win. This means the statement is True.",
+      "quote": "The only other actress nominated was not given much chance."
+     },
+     "q28": {
+      "text": "The narrator explicitly states that Tanya Braden's film 'hadn't made much money.' This directly contradicts the idea that it was a financial success, so the statement is False.",
+      "quote": ""
+     },
+     "q29": {
+      "text": "The narrator explicitly states, 'I'm not too sure about the sequence of events that followed,' and that he doesn't remember the applause. This shows he could not recall events exactly, so the statement is False.",
+      "quote": "Well, I'm not too sure about the sequence of events that followed."
+     }
+    },
+    "questionRange": "21-29",
+    "questionSections": [
+     {
+      "type": "mcq",
+      "title": "Questions 21-24",
+      "questions": [
+       {
+        "id": 21,
+        "text": "At the beginning of the Oscar ceremony prizes were awarded",
+        "options": [
+         {
+          "text": "to the most famous stars among the winners.",
+          "letter": "A"
+         },
+         {
+          "text": "to the best director.",
+          "letter": "B"
+         },
+         {
+          "text": "for the best film.",
+          "letter": "C"
+         },
+         {
+          "text": "to the secondary members of shooting crews.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 22,
+        "text": "Joan Weyland and Myra Caldwell were present at the ceremony because they",
+        "options": [
+         {
+          "text": "had both played in one film which had an Oscar nomination.",
+          "letter": "A"
+         },
+         {
+          "text": "had been nominated as two of the Best Supporting Actresses of the year.",
+          "letter": "B"
+         },
+         {
+          "text": "wanted to see the well-known personalities of the film industry.",
+          "letter": "C"
+         },
+         {
+          "text": "accompanied the nominees.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 23,
+        "text": "The narrator describes the relations between Joan and Myra as",
+        "options": [
+         {
+          "text": "friendship.",
+          "letter": "A"
+         },
+         {
+          "text": "rivalry.",
+          "letter": "B"
+         },
+         {
+          "text": "sympathy.",
+          "letter": "C"
+         },
+         {
+          "text": "partnership.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 24,
+        "text": "The narrator liked the performance of the third nominee, Tanya Braden, because she",
+        "options": [
+         {
+          "text": "played her part very convincingly.",
+          "letter": "A"
+         },
+         {
+          "text": "was very beautiful.",
+          "letter": "B"
+         },
+         {
+          "text": "was a well-known actress.",
+          "letter": "C"
+         },
+         {
+          "text": "played as a partner of a world-famous star.",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "For questions 21-24, choose the correct answer A, B, C, or D."
+     },
+     {
+      "type": "tfni",
+      "title": "Questions 25-29",
+      "options": [
+       "True",
+       "False",
+       "Not Given"
+      ],
+      "questions": [
+       {
+        "id": 25,
+        "text": "Usually, everybody could recognize easily the winners of the Oscars."
+       },
+       {
+        "id": 26,
+        "text": "The Devil Loses was the first role of Myra in the film industry."
+       },
+       {
+        "id": 27,
+        "text": "Tanya Braden was supposed to have very little probability to win the Best Supporting Actress."
+       },
+       {
+        "id": 28,
+        "text": "Whirlwind was so successful in terms of generating much budget."
+       },
+       {
+        "id": 29,
+        "text": "The author could remember exactly what happened after announcement of the winner."
+       }
+      ],
+      "instruction": "For questions 25-29, decide if the following statements agree with the information given in the text. Mark your answers on the answer sheet."
+     }
+    ]
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 5",
+    "answers": {
+     "30": [
+      "CRINKLE"
+     ],
+     "31": [
+      "OPPORTUNITY"
+     ],
+     "32": [
+      "SEDIMENTS"
+     ],
+     "33": [
+      "COMMUNITIES"
+     ],
+     "34": [
+      "B"
+     ],
+     "35": [
+      "C"
+     ]
+    },
+    "passage": {
+     "title": "California's Earthquake Threat",
+     "content": "<p>California may be in danger of losing its major cities. Several along the coast were built upon a dangerous section of fault line known for ferocity and speed. Some faults can send earthquakes zooming along the ground faster than the speed of sound, scientists say—and California's San Andreas Fault may be one of them. Most earthquake faults \"unzip\" at around 3 kilometers a second. But evidence is growing that some faults can send quakes zooming much faster—up to 6 kilometers a second. \"They are moving faster than the speed of sound, like a sonic boom,\" said Reah Kapur, a seismologist at Wentworth University in the U.K.</p>\n<p>These hasty earthquakes cause much more damage on the ground and are more likely to topple buildings, snap bridges, and crinkle highways than regular upheavals. Now it turns out that the San Andreas Fault may be one of these earthquake \"superhighways.\" It has taken Kapur nearly 30 years to prove their existence because superfast earthquakes are rare. But on February 12, 2006, a magnitude 7.6 earthquake struck the Khatota coastal region of Madagascar. That quake unzipped over 500 kilometers of fault, providing the long-awaited opportunity.</p>\n<p>Kapur and her colleagues, by studying the seismic activity, have been able to map out the earthquake's trek. \"The quake started slowly, but then accelerated to speeds of a super shear-wave speed, traveling for more than 100 kilometers at a speed of nearly 6 kilometers per second,\" Kapur said. Kapur and colleagues also realized that the fast section of the Madagascar fault happened to be very long and straight, like a true beam. \"When a fault has curves and bends in it, then the earthquake slows,\" Kapur said. \"But on a long straightaway, it can reach breakneck speeds.\"</p>\n<p>Theories are now abound concerning the reason for the colossal damage caused by California's 1904 earthquake. \"Directly beneath San Francisco is a long straight section,\" Kapur said. Efforts are underway to effectively utilize this information. \"Much can be done to ensure buildings can cope with the higher frequencies of a faster wave,\" said Lacy Underawl, a seismologist at Nebraska State University, who wasn't involved in Kapur's work. \"New buildings can be built on balls and located on bedrock rather than soft sediments,\" she added.</p>\n<p>San Francisco isn't the only major city at risk. Further down the San Andreas Fault, another section of \"freeway\" exists underneath the Carrizo Plain down to the Baja Peninsula. Kapur and colleagues say, \"As an earthquake moves along this section it is likely to send out shock waves in front, which may focus on cities like Modesto, Santa Cruz, and Los Angeles, some of the most densely populated parts of California,\" Kapur said. In a presentation to the National Academy of Subterranean Associates, Kapur outlined the need to classify all the world's fissures according to their probable earthquake speed. She believes that communities can be better prepared if faults are better categorized.</p>"
+    },
+    "partNumber": 5,
+    "instruction": "Read the following text for questions 30-35.",
+    "explanations": {
+     "q30": {
+      "text": "The passage lists the types of damage caused by fast earthquakes, stating they are more likely to \"topple buildings, snap bridges, and crinkle highways.\" That's why the correct answer is 'crinkle'.",
+      "quote": "These hasty earthquakes cause much more damage on the ground and are more likely to topple buildings, snap bridges, and crinkle highways than regular upheavals."
+     },
+     "q31": {
+      "text": "The passage explains that the rare, superfast earthquake in Madagascar provided the \"long-awaited opportunity\" for Kapur to finally study the phenomenon. That's why the correct answer is 'opportunity'.",
+      "quote": "That quake unzipped over 500 kilometers of fault, providing the long-awaited opportunity."
+     },
+     "q32": {
+      "text": "A seismologist is quoted suggesting that to be safer, new buildings should be located on bedrock \"rather than soft sediments.\" This implies sediments are not a suitable location. That's why the correct answer is 'sediments'.",
+      "quote": "\"New buildings can be built on balls and located on bedrock rather than soft sediments,\" she added."
+     },
+     "q33": {
+      "text": "The passage concludes with Kapur's belief that if faults are better categorized by speed, \"communities can be better prepared\" for future earthquakes. That's why the correct answer is 'communities'.",
+      "quote": "She believes that communities can be better prepared if faults are better categorized."
+     },
+     "q34": {
+      "text": "The passage opens by stating that several of California's major coastal cities \"were built upon a dangerous section of fault line,\" which is the direct reason they are in danger. That's why the correct answer is B.",
+      "quote": "Several along the coast were built upon a dangerous section of fault line known for ferocity and speed."
+     },
+     "q35": {
+      "text": "The text quotes Kapur's description of the Madagascar earthquake, explaining that it \"started slowly, but then accelerated\" to superfast speeds. This shows it changed speed. That's why the correct answer is C.",
+      "quote": "\"The quake started slowly, but then accelerated to speeds of a super shear-wave speed, traveling for more than 100 kilometers at a speed of nearly 6 kilometers per second,\" Kapur said."
+     }
+    },
+    "questionRange": "30-35",
+    "questionSections": [
+     {
+      "type": "gap-fill",
+      "title": "Questions 30-33",
+      "questions": [
+       {
+        "id": 30,
+        "hint": "destroy constructions and _____ main roads"
+       },
+       {
+        "id": 31,
+        "hint": "Madagascar was a good _____"
+       },
+       {
+        "id": 32,
+        "hint": "not suitable to locate on _____"
+       },
+       {
+        "id": 33,
+        "hint": "beneficial for _____"
+       }
+      ],
+      "instruction": "For questions 30-33, fill in the missing information in the numbered spaces. Write no more than ONE WORD and/or A NUMBER for each question.",
+      "summaryText": "<p>Rapid earthquakes may lead to more damage than upheavals since they can destroy constructions and <span class=\"gap-input\" data-gap=\"30\">_____(30)_____</span> main roads.</p>\n<p>The earthquake which occurred in Madagascar was a good <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span> for Kapur and her colleagues for observing the seismic activity more deeply.</p>\n<p>Underawl advised that it is not suitable to locate new constructions on <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span>.</p>\n<p>Kapur mentioned that categorizing fissures in the world is so beneficial for <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span> because it allows them to be ready for possible faults.</p>"
+     },
+     {
+      "type": "mcq",
+      "title": "Questions 34-35",
+      "questions": [
+       {
+        "id": 34,
+        "text": "The major cities of California are in danger, because...",
+        "options": [
+         {
+          "text": "the earthquakes are too frequent in the region.",
+          "letter": "A"
+         },
+         {
+          "text": "a number of them are located above faults.",
+          "letter": "B"
+         },
+         {
+          "text": "the faults are ferocious and zoom faster than sound.",
+          "letter": "C"
+         },
+         {
+          "text": "San Andreas is an active fault.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 35,
+        "text": "The seismic activity....",
+        "options": [
+         {
+          "text": "has to reach 7.6 to be a superfast earthquake.",
+          "letter": "A"
+         },
+         {
+          "text": "reached the 100 km per minute speed in the Khatota region.",
+          "letter": "B"
+         },
+         {
+          "text": "changed speed and became a superfast earthquake.",
+          "letter": "C"
+         },
+         {
+          "text": "studies helped Kapur predict where to expect the earthquake.",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "For questions 34-35, choose the correct answer A, B, C, or D."
+     }
+    ]
+   }
+  ],
+  "examDate": "2025-12-22",
+  "testInfo": {
+   "level": "B1-B2-C1",
+   "parts": 5,
+   "title": "CEFR B1-B2-C1 Reading Test 03",
+   "totalTime": 60,
+   "totalQuestions": 35
+  }
+ },
+ "created_at": "2026-05-12T16:21:06.886794+00:00",
+ "updated_at": "2026-10-11T10:54:25.762211+00:00"
+}

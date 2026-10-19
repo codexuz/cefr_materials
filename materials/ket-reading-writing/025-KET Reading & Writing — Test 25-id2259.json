@@ -1,0 +1,909 @@
+{
+ "id": 2259,
+ "mock_type": "ket-reading-writing",
+ "mock_number": 25,
+ "title": "KET Reading & Writing — Test 25",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "match-notices",
+    "items": [
+     {
+      "id": 1,
+      "answer": "H",
+      "prompt": "Teenagers can go in here alone."
+     },
+     {
+      "id": 2,
+      "answer": "C",
+      "prompt": "Get your tickets here if you've already paid to see the film."
+     },
+     {
+      "id": 3,
+      "answer": "G",
+      "prompt": "This place doesn't open in the mornings."
+     },
+     {
+      "id": 4,
+      "answer": "B",
+      "prompt": "You can only use this door if you work here."
+     },
+     {
+      "id": 5,
+      "answer": "F",
+      "prompt": "You can't use a credit card here."
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "E",
+     "number": 0,
+     "prompt": "You can't see this in the morning."
+    },
+    "notices": [
+     {
+      "text": "Star Cinema\nNew staff member wanted\nto work evenings",
+      "letter": "A"
+     },
+     {
+      "text": "This way to staff car park\nNo exit for cinema customers",
+      "letter": "B"
+     },
+     {
+      "text": "Booked online by credit card?\nCollect tickets from machine\nnear entrance",
+      "letter": "C"
+     },
+     {
+      "text": "Special Offer!\nTeenagers – ask staff about discounts\non tickets",
+      "letter": "D"
+     },
+     {
+      "text": "Children's Film\nNo tickets left for 11 a.m. show\n– afternoon show only",
+      "letter": "E"
+     },
+     {
+      "text": "Cash only\nwhen paying for sweets",
+      "letter": "F"
+     },
+     {
+      "text": "Snack bar\nFood available from 5 p.m. weekends\nand 1 p.m. weekdays",
+      "letter": "G"
+     },
+     {
+      "text": "Children under 12 may only\nsee this film with an adult.",
+      "letter": "H"
+     }
+    ],
+    "partNumber": 1,
+    "instruction": [
+     "Which notice (A–H) says this (1–5)?",
+     "For questions 1–5, mark the correct letter A–H on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "mcq-gap-fill-sentences",
+    "items": [
+     {
+      "id": 6,
+      "answer": "A",
+      "options": [
+       {
+        "text": "busy",
+        "letter": "A"
+       },
+       {
+        "text": "strong",
+        "letter": "B"
+       },
+       {
+        "text": "heavy",
+        "letter": "C"
+       }
+      ],
+      "sentence": "The airport gets very _____ at weekends, so Richard travels during the week when it's quieter."
+     },
+     {
+      "id": 7,
+      "answer": "C",
+      "options": [
+       {
+        "text": "already",
+        "letter": "A"
+       },
+       {
+        "text": "once",
+        "letter": "B"
+       },
+       {
+        "text": "usually",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Richard _____ has a coffee when he arrives at the airport."
+     },
+     {
+      "id": 8,
+      "answer": "B",
+      "options": [
+       {
+        "text": "hopes",
+        "letter": "A"
+       },
+       {
+        "text": "enjoys",
+        "letter": "B"
+       },
+       {
+        "text": "wants",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Richard _____ looking around the shops before he gets on the plane."
+     },
+     {
+      "id": 9,
+      "answer": "C",
+      "options": [
+       {
+        "text": "difference",
+        "letter": "A"
+       },
+       {
+        "text": "moment",
+        "letter": "B"
+       },
+       {
+        "text": "delay",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Richard hates it when there's a _____, as he likes to arrive on time."
+     },
+     {
+      "id": 10,
+      "answer": "C",
+      "options": [
+       {
+        "text": "says",
+        "letter": "A"
+       },
+       {
+        "text": "tells",
+        "letter": "B"
+       },
+       {
+        "text": "talks",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Richard often watches films during the flight, or _____ to the person next to him."
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "answer": "B",
+     "number": 0,
+     "options": [
+      {
+       "text": "stay",
+       "letter": "A"
+      },
+      {
+       "text": "visit",
+       "letter": "B"
+      },
+      {
+       "text": "spend",
+       "letter": "C"
+      }
+     ],
+     "sentence": "Richard often travels to Canada to _____ his family."
+    },
+    "partNumber": 2,
+    "instruction": [
+     "Read the sentences about travelling by plane.",
+     "Choose the best word (A, B or C) for each space.",
+     "For questions 6–10, mark A, B or C on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-response",
+    "items": [
+     {
+      "id": 11,
+      "answer": "C",
+      "prompt": "We've just missed the 3 p.m. train.",
+      "options": [
+       {
+        "text": "Shall I get it?",
+        "letter": "A"
+       },
+       {
+        "text": "In about an hour.",
+        "letter": "B"
+       },
+       {
+        "text": "Then let's get the next one.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "answer": "A",
+      "prompt": "Do you want to come to the shops with us?",
+      "options": [
+       {
+        "text": "That would be great.",
+        "letter": "A"
+       },
+       {
+        "text": "I don't mind it.",
+        "letter": "B"
+       },
+       {
+        "text": "Not very often.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "answer": "C",
+      "prompt": "I haven't finished packing my suitcase yet.",
+      "options": [
+       {
+        "text": "I'll take you on holiday.",
+        "letter": "A"
+       },
+       {
+        "text": "When did it happen?",
+        "letter": "B"
+       },
+       {
+        "text": "Well, hurry up then.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "answer": "A",
+      "prompt": "My sister's just had a baby!",
+      "options": [
+       {
+        "text": "How lovely!",
+        "letter": "A"
+       },
+       {
+        "text": "I'd love to!",
+        "letter": "B"
+       },
+       {
+        "text": "Yes, she does!",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "answer": "C",
+      "prompt": "Is that Shelley in the blue coat?",
+      "options": [
+       {
+        "text": "This is Amanda speaking.",
+        "letter": "A"
+       },
+       {
+        "text": "She doesn't want to.",
+        "letter": "B"
+       },
+       {
+        "text": "I think it may be.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "prompt": "Where do you come from?",
+     "options": [
+      {
+       "text": "New York.",
+       "letter": "A"
+      },
+      {
+       "text": "School.",
+       "letter": "B"
+      },
+      {
+       "text": "Home.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partLetter": "a",
+    "partNumber": 3,
+    "instruction": [
+     "Complete the five conversations.",
+     "For questions 11–15, mark A, B or C on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "type": "match-dialogue",
+    "items": [
+     {
+      "id": 16,
+      "answer": "G"
+     },
+     {
+      "id": 17,
+      "answer": "A"
+     },
+     {
+      "id": 18,
+      "answer": "C"
+     },
+     {
+      "id": 19,
+      "answer": "H"
+     },
+     {
+      "id": 20,
+      "answer": "E"
+     }
+    ],
+    "example": {
+     "answer": "D",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "Maybe, I'm going to ask if he wants to go swimming with me tomorrow.",
+      "letter": "A"
+     },
+     {
+      "text": "Yes, it's too easy for me.",
+      "letter": "B"
+     },
+     {
+      "text": "Alright. Will you be able to drive us?",
+      "letter": "C"
+     },
+     {
+      "text": "Yes it was fine. We've got some great new teachers.",
+      "letter": "D"
+     },
+     {
+      "text": "Just a little. Can I watch TV first?",
+      "letter": "E"
+     },
+     {
+      "text": "Where shall I meet him?",
+      "letter": "F"
+     },
+     {
+      "text": "Just one. We sat next to each other.",
+      "letter": "G"
+     },
+     {
+      "text": "I'll see what he thinks tomorrow then.",
+      "letter": "H"
+     }
+    ],
+    "dialogue": [
+     {
+      "line": "So, Ben, did you enjoy your first day back at school?",
+      "speaker": "Mother"
+     },
+     {
+      "gap": 0,
+      "speaker": "Ben"
+     },
+     {
+      "line": "Oh, that's good. Are there any new students?",
+      "speaker": "Mother"
+     },
+     {
+      "gap": 16,
+      "speaker": "Ben"
+     },
+     {
+      "line": "Really? Do you think you'll be friends?",
+      "speaker": "Mother"
+     },
+     {
+      "gap": 17,
+      "speaker": "Ben"
+     },
+     {
+      "line": "Why don't you invite him to go at the weekend instead?",
+      "speaker": "Mother"
+     },
+     {
+      "gap": 18,
+      "speaker": "Ben"
+     },
+     {
+      "line": "I'm sure I can find time for that.",
+      "speaker": "Mother"
+     },
+     {
+      "gap": 19,
+      "speaker": "Ben"
+     },
+     {
+      "line": "Good idea. Now, have you got any homework?",
+      "speaker": "Mother"
+     },
+     {
+      "gap": 20,
+      "speaker": "Ben"
+     },
+     {
+      "line": "I'd prefer you to do your homework now, please.",
+      "speaker": "Mother"
+     }
+    ],
+    "partLetter": "b",
+    "partNumber": 3,
+    "instruction": [
+     "Complete the conversation.",
+     "What does Ben say to his mother?",
+     "For questions 16–20, mark the correct letter A–H on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "type": "mcq-passage-rws",
+    "items": [
+     {
+      "id": 21,
+      "answer": "A",
+      "statement": "When he was a child, workers at the kart centre said Jann was a good driver."
+     },
+     {
+      "id": 22,
+      "answer": "B",
+      "statement": "Jann stopped racing karts because he became bored with it."
+     },
+     {
+      "id": 23,
+      "answer": "B",
+      "statement": "Jann was good at computer racing games immediately."
+     },
+     {
+      "id": 24,
+      "answer": "C",
+      "statement": "Jann played computer racing games with school friends."
+     },
+     {
+      "id": 25,
+      "answer": "A",
+      "statement": "Jann told his parents about the computer competition after it ended."
+     },
+     {
+      "id": 26,
+      "answer": "C",
+      "statement": "The people Jann raced against were from different countries."
+     },
+     {
+      "id": 27,
+      "answer": "B",
+      "statement": "Jann's parents had to pay for his driving course."
+     }
+    ],
+    "label": "PART 4",
+    "article": "Jann Mardenborough has loved cars since he was given a toy one as a baby. He loved them so much that when he was eight his father took him to a place where children race small cars called karts. Staff at the kart centre told Jann he drove so well, he might one day become a racing driver. Unfortunately, the kart centre closed soon afterwards, and there wasn't another one near enough to his home that he could get to.\n\nAs he couldn't race karts any more, Jann decided to try computer racing games. After lots of practice, he became very good. However, he never told his parents what he was doing. Then, one day, when he was 18, he told them that he was one of the top ten winners of a computer racing competition. They were very surprised. His prize was to drive a real car in a race against the other nine top players.\n\nIt was Jann's first time in a racing car, but, amazingly, he won the race! The prize this time was a free course to learn to be a racing driver. He did really well, and has found a job driving in a racing team.",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "statement": "Jann's love of cars started with a toy."
+    },
+    "partNumber": 4,
+    "instruction": [
+     "Read the article about a young racing driver.",
+     "Are sentences 21–27 'Right' (A) or 'Wrong' (B)?",
+     "If there is not enough information to answer 'Right' (A) or 'Wrong' (B), choose 'Doesn't say' (C).",
+     "For questions 21–27, mark A, B or C on your answer sheet."
+    ],
+    "articleTitle": "Jann Mardenborough",
+    "questionsLabel": "QUESTIONS 21–27"
+   },
+   {
+    "type": "mcq-cloze-passage",
+    "items": [
+     {
+      "id": 28,
+      "answer": "A",
+      "options": [
+       {
+        "text": "such",
+        "letter": "A"
+       },
+       {
+        "text": "most",
+        "letter": "B"
+       },
+       {
+        "text": "much",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 29,
+      "answer": "C",
+      "options": [
+       {
+        "text": "by",
+        "letter": "A"
+       },
+       {
+        "text": "in",
+        "letter": "B"
+       },
+       {
+        "text": "from",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 30,
+      "answer": "A",
+      "options": [
+       {
+        "text": "soon",
+        "letter": "A"
+       },
+       {
+        "text": "ever",
+        "letter": "B"
+       },
+       {
+        "text": "already",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 31,
+      "answer": "B",
+      "options": [
+       {
+        "text": "late",
+        "letter": "A"
+       },
+       {
+        "text": "later",
+        "letter": "B"
+       },
+       {
+        "text": "latest",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 32,
+      "answer": "B",
+      "options": [
+       {
+        "text": "both",
+        "letter": "A"
+       },
+       {
+        "text": "other",
+        "letter": "B"
+       },
+       {
+        "text": "every",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 33,
+      "answer": "C",
+      "options": [
+       {
+        "text": "must",
+        "letter": "A"
+       },
+       {
+        "text": "need",
+        "letter": "B"
+       },
+       {
+        "text": "could",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 34,
+      "answer": "A",
+      "options": [
+       {
+        "text": "but",
+        "letter": "A"
+       },
+       {
+        "text": "because",
+        "letter": "B"
+       },
+       {
+        "text": "when",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 35,
+      "answer": "C",
+      "options": [
+       {
+        "text": "making",
+        "letter": "A"
+       },
+       {
+        "text": "make",
+        "letter": "B"
+       },
+       {
+        "text": "made",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 5",
+    "example": {
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "text": "above",
+       "letter": "A"
+      },
+      {
+       "text": "between",
+       "letter": "B"
+      },
+      {
+       "text": "over",
+       "letter": "C"
+      }
+     ]
+    },
+    "passage": "The history of chocolate began {0} three and a half thousand years ago. At that time, people in the Americas {28} as the Mayans and the Aztecs grew the beans and made chocolate drinks {29} them. Around 1500, Christopher Columbus took cocoa beans to Europe, and chocolate drinks {30} became popular in Spain. However, it wasn't until nearly 100 years {31} that people started drinking chocolate in {32} parts of Europe.\n\nIn 1657, a Frenchman opened the first chocolate house in London. The drink was expensive, so only rich people {33} enjoy it. Chocolate continued to become more popular, {34} it wasn't until 1847 that the first modern chocolate bar was {35}. Now chocolate is available everywhere, and we also eat it in foods like cakes, biscuits and sweets.",
+    "partNumber": 5,
+    "instruction": [
+     "Read the article about the history of chocolate.",
+     "Choose the best word (A, B or C) for each space.",
+     "For questions 28–35, mark A, B or C on your answer sheet."
+    ],
+    "passageTitle": "The History of Chocolate",
+    "questionsLabel": "QUESTIONS 28–35"
+   },
+   {
+    "type": "vocab-first-letter",
+    "items": [
+     {
+      "id": 36,
+      "answer": "beach",
+      "prompt": "This is by the sea and you can lie here in the sun.",
+      "letters": 5,
+      "firstLetter": "b"
+     },
+     {
+      "id": 37,
+      "answer": "camping",
+      "prompt": "You sleep in a tent when you do this activity.",
+      "letters": 7,
+      "firstLetter": "c"
+     },
+     {
+      "id": 38,
+      "answer": "picnic",
+      "prompt": "You take this meal with you and eat it outside.",
+      "letters": 6,
+      "firstLetter": "p"
+     },
+     {
+      "id": 39,
+      "answer": "park",
+      "prompt": "This place has grass and trees and people go there to enjoy being outside.",
+      "letters": 4,
+      "firstLetter": "p"
+     },
+     {
+      "id": 40,
+      "answer": "tennis",
+      "prompt": "You play this sport with a racket and ball.",
+      "letters": 6,
+      "firstLetter": "t"
+     }
+    ],
+    "label": "PART 6",
+    "example": {
+     "answer": "swimming",
+     "number": 0,
+     "prompt": "You can do this activity in the sea or in a pool.",
+     "firstLetter": "s"
+    },
+    "partNumber": 6,
+    "instruction": [
+     "Read the descriptions of some words about spending time outdoors.",
+     "What is the word for each one?",
+     "The first letter is already there. There is one space for each other letter in the word.",
+     "For questions 36–40, write the words on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 36–40"
+   },
+   {
+    "type": "open-cloze-letter",
+    "items": [
+     {
+      "id": 41,
+      "answer": "by"
+     },
+     {
+      "id": 42,
+      "answer": "it"
+     },
+     {
+      "id": 43,
+      "answer": "much"
+     },
+     {
+      "id": 44,
+      "answer": "when"
+     },
+     {
+      "id": 45,
+      "answer": "next"
+     },
+     {
+      "id": 46,
+      "answer": "than"
+     },
+     {
+      "id": 47,
+      "answer": "would"
+     },
+     {
+      "id": 48,
+      "answer": "for"
+     },
+     {
+      "id": 49,
+      "answer": "what"
+     },
+     {
+      "id": 50,
+      "answer": "hope"
+     }
+    ],
+    "label": "PART 7",
+    "example": {
+     "answer": "me",
+     "number": 0
+    },
+    "letters": [
+     {
+      "body": "Mum asked (Example: me) to let you know that I arrived home okay. I enjoyed travelling back {41} train, and I was surprised that {42} only took me three hours to get home. Thank you very {43} for looking after me {44} I was in France. I'm going back to school {45} week. My French is a lot better {46} it was before, so I hope my marks will improve!\n\nI {47} like to keep practising French and I'm looking {48} a pen friend. I thought of your friend's son Elian. We can send emails once a week. Let me know {49} you think.\n\nI {50} we can see each other soon.",
+      "closing": "Daniel",
+      "greeting": "Dear Aunt Fabienne,"
+     }
+    ],
+    "partNumber": 7,
+    "instruction": [
+     "Complete the letter.",
+     "Write ONE word for each space.",
+     "For questions 41–50, write the words on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 41–50"
+   },
+   {
+    "note": {
+     "body": "",
+     "dateLine": "",
+     "signature": ""
+    },
+    "rows": [
+     {
+      "label": "Where:",
+      "prefilled": "Starlight Dance Studio"
+     },
+     {
+      "id": 51,
+      "label": "Type of dance:",
+      "answer": "Hip-Hop"
+     },
+     {
+      "id": 52,
+      "label": "Day of my class:",
+      "answer": "Saturday"
+     },
+     {
+      "id": 53,
+      "label": "Time of class:",
+      "answer": "10 a.m."
+     },
+     {
+      "id": 54,
+      "label": "Travel there by:",
+      "answer": "car"
+     },
+     {
+      "id": 55,
+      "label": "Each class costs:",
+      "answer": "7",
+      "suffix": "£"
+     }
+    ],
+    "type": "info-transfer-notes",
+    "label": "PART 8",
+    "notice": {
+     "body": "Starlight Dance Studio\nNew term starts June 30th\n\nHip-Hop\nWednesday or Saturday\n10 a.m. or 4 p.m.\n\nJazz Dance\nSunday or Thursday\n11 a.m. or 5 p.m.\n\nMornings: £7\nAfternoons: £9\n\n—————————————\nFrom: Nicole\nTo:   Martina\n\nMartina, dance classes start again soon. We did Jazz Dance last term, so let's try Hip-Hop. I can't do weekdays because of work, and I'd prefer a morning class. Afternoon classes are more expensive anyway. Let's go by car, as it's not easy to get there by bus.",
+     "title": "Starlight Dance Studio + Email"
+    },
+    "notesTitle": "Martina's Notes",
+    "partNumber": 8,
+    "instruction": [
+     "Read the advertisement and the email.",
+     "Fill in the information in Martina's notes.",
+     "For questions 51–55, write the information on your answer sheet."
+    ],
+    "notesSubtitle": "Dance classes with Nicole",
+    "questionsLabel": "QUESTIONS 51–55"
+   },
+   {
+    "type": "writing-postcard",
+    "items": [
+     {
+      "id": 56,
+      "type": "free-text",
+      "answer": "Yeah, it is true. I lost it. I saw it yesterday at school. So, it is red and black with funny pictures. It was empty. If you see it, please tell me.",
+      "maxWords": 35,
+      "minWords": 25
+     }
+    ],
+    "label": "PART 9",
+    "footer": [
+     "Write 25–35 words.",
+     "Write the email on your answer sheet."
+    ],
+    "prompt": "I heard you lost your school bag yesterday.\n\nWhere did you last see it? What does it look like? What was in it?",
+    "wordCount": "25–35 words",
+    "partNumber": 9,
+    "instruction": [
+     "Read this email from your friend, Jem.",
+     "Write an email to Jem and answer the questions."
+    ],
+    "questionsLabel": "QUESTION 56",
+    "promptSignature": "Jem"
+   }
+  ],
+  "testInfo": {
+   "id": "ket-rw-25",
+   "level": "A2",
+   "paper": "Paper 1",
+   "parts": 9,
+   "title": "KET Reading & Writing — Test 25",
+   "totalTime": 70,
+   "totalQuestions": 56
+  }
+ },
+ "created_at": "2026-10-14T06:45:13.443412+00:00",
+ "updated_at": "2026-10-14T06:47:00.791475+00:00"
+}

@@ -1,0 +1,461 @@
+{
+ "id": 2269,
+ "mock_type": "ket-listening",
+ "mock_number": 7,
+ "title": "KET Listening — Test 7",
+ "status": "published",
+ "mock_data": {
+  "audio": {
+   "base": "https://audio.mock-stream.com/KET-Listening/test7/",
+   "files": {
+    "1": "PART1.m4a",
+    "2": "PART2.m4a",
+    "3": "PART3.m4a",
+    "4": "PART4.m4a",
+    "5": "PART5.m4a"
+   }
+  },
+  "parts": [
+   {
+    "type": "picture-mcq",
+    "items": [
+     {
+      "id": 1,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q1full.png",
+        "letter": "A",
+        "composite": true
+       },
+       {
+        "image": "q1full.png",
+        "letter": "B",
+        "composite": true
+       },
+       {
+        "image": "q1full.png",
+        "letter": "C",
+        "composite": true
+       }
+      ],
+      "question": "Where's the sports centre?"
+     },
+     {
+      "id": 2,
+      "answer": "B",
+      "options": [
+       {
+        "text": "13 litres",
+        "letter": "A"
+       },
+       {
+        "text": "30 litres",
+        "letter": "B"
+       },
+       {
+        "text": "33 litres",
+        "letter": "C"
+       }
+      ],
+      "question": "How much petrol does the woman want?"
+     },
+     {
+      "id": 3,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q3A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q3B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q3C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Which table do they buy?"
+     },
+     {
+      "id": 4,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q4A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q4B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q4C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What time does the class start?"
+     },
+     {
+      "id": 5,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q5A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q5B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q5C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What was the weather like on Emma's holiday?"
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "text": "Tuesday",
+       "letter": "A"
+      },
+      {
+       "text": "Wednesday",
+       "letter": "B"
+      },
+      {
+       "text": "Thursday",
+       "letter": "C"
+      }
+     ],
+     "question": "When's the school trip?"
+    },
+    "imageBase": "https://audio.mock-stream.com/KET-Listening/test7/p1/",
+    "partNumber": 1,
+    "instruction": [
+     "You will hear five short conversations.",
+     "You will hear each conversation twice.",
+     "There is one question for each conversation.",
+     "For questions 1–5, put a tick (✓) under the right answer."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "matching-list",
+    "items": [
+     {
+      "id": 6,
+      "name": "dress",
+      "answer": "D"
+     },
+     {
+      "id": 7,
+      "name": "jacket",
+      "answer": "C"
+     },
+     {
+      "id": 8,
+      "name": "sweater",
+      "answer": "F"
+     },
+     {
+      "id": 9,
+      "name": "coat",
+      "answer": "A"
+     },
+     {
+      "id": 10,
+      "name": "shoes",
+      "answer": "B"
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "name": "shirt",
+     "answer": "H",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "black",
+      "letter": "A"
+     },
+     {
+      "text": "blue",
+      "letter": "B"
+     },
+     {
+      "text": "brown",
+      "letter": "C"
+     },
+     {
+      "text": "green",
+      "letter": "D"
+     },
+     {
+      "text": "grey",
+      "letter": "E"
+     },
+     {
+      "text": "orange",
+      "letter": "F"
+     },
+     {
+      "text": "red",
+      "letter": "G"
+     },
+     {
+      "text": "white",
+      "letter": "H"
+     }
+    ],
+    "scenario": "Jane talking about clothes for her holiday — colours",
+    "leftLabel": "CLOTHES",
+    "partNumber": 2,
+    "rightLabel": "COLOURS",
+    "instruction": [
+     "Listen to Jane talking to a friend about some clothes that she has bought for her holiday.",
+     "What colours are her clothes?",
+     "For questions 6–10, write a letter A–H next to each of her clothes.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-conversation",
+    "items": [
+     {
+      "id": 11,
+      "stem": "Mrs Lee's plane goes at",
+      "answer": "B",
+      "options": [
+       {
+        "text": "8 a.m.",
+        "letter": "A"
+       },
+       {
+        "text": "10 a.m.",
+        "letter": "B"
+       },
+       {
+        "text": "11 a.m.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "stem": "She is going to",
+      "answer": "C",
+      "options": [
+       {
+        "text": "Amsterdam.",
+        "letter": "A"
+       },
+       {
+        "text": "Frankfurt.",
+        "letter": "B"
+       },
+       {
+        "text": "London.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "stem": "First she will go to",
+      "answer": "A",
+      "options": [
+       {
+        "text": "a factory.",
+        "letter": "A"
+       },
+       {
+        "text": "an office.",
+        "letter": "B"
+       },
+       {
+        "text": "a hotel.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "stem": "She will have dinner in",
+      "answer": "A",
+      "options": [
+       {
+        "text": "a restaurant.",
+        "letter": "A"
+       },
+       {
+        "text": "her hotel.",
+        "letter": "B"
+       },
+       {
+        "text": "someone's house.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "stem": "The next morning she will travel by",
+      "answer": "B",
+      "options": [
+       {
+        "text": "plane.",
+        "letter": "A"
+       },
+       {
+        "text": "train.",
+        "letter": "B"
+       },
+       {
+        "text": "car.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "stem": "Mrs Lee will leave on",
+     "answer": "B",
+     "number": 0,
+     "options": [
+      {
+       "text": "Friday.",
+       "letter": "A"
+      },
+      {
+       "text": "Saturday.",
+       "letter": "B"
+      },
+      {
+       "text": "Sunday.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partNumber": 3,
+    "instruction": [
+     "Listen to Mrs Lee talking to her secretary about her business trip.",
+     "For questions 11–15, tick (✓) A, B or C.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "rows": [
+     {
+      "id": 16,
+      "label": "Next course begins on:",
+      "answer": "Monday"
+     },
+     {
+      "id": 17,
+      "label": "Number of students in each class:",
+      "answer": "15"
+     },
+     {
+      "id": 18,
+      "label": "Cost of coursebook:",
+      "answer": "12.99",
+      "prefix": "£"
+     },
+     {
+      "label": "School hours · Monday to Friday:",
+      "prefilled": "From: 8 a.m. to: 7 p.m."
+     },
+     {
+      "id": 19,
+      "label": "Saturday:",
+      "answer": "9 a.m.",
+      "prefix": "From:",
+      "suffix": "to: 1 p.m."
+     },
+     {
+      "id": 20,
+      "label": "Nearest underground station:",
+      "answer": "Green Park"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 4",
+    "subtitle": "Length of courses: 6 or 9 months",
+    "noteTitle": "School of Italian Studies",
+    "partNumber": 4,
+    "instruction": [
+     "You will hear a man asking for some information about a language school.",
+     "Listen and complete questions 16–20.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "rows": [
+     {
+      "id": 21,
+      "label": "Trip will take:",
+      "answer": "7",
+      "suffix": "hours"
+     },
+     {
+      "id": 22,
+      "label": "Stop 1:",
+      "answer": "castle"
+     },
+     {
+      "id": 23,
+      "label": "Stop 2:",
+      "answer": "café",
+      "suffix": "at 1 o'clock"
+     },
+     {
+      "id": 24,
+      "label": "Stop 3:",
+      "answer": "beach"
+     },
+     {
+      "id": 25,
+      "label": "Take your:",
+      "answer": "camera"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 5",
+    "subtitle": "Leave: 9.30 a.m.\nWe will stop at three places:",
+    "noteTitle": "DAY TRIP",
+    "partNumber": 5,
+    "instruction": [
+     "You will hear a man talking about a day trip.",
+     "Listen and complete questions 21–25.",
+     "You will hear the information twice."
+    ],
+    "questionsLabel": "QUESTIONS 21–25"
+   }
+  ],
+  "testInfo": {
+   "id": "ket-l-7",
+   "level": "A2",
+   "paper": "Paper 2",
+   "parts": 5,
+   "title": "KET Listening — Test 7",
+   "totalTime": 30,
+   "totalQuestions": 25
+  }
+ },
+ "created_at": "2026-10-14T06:45:21.16402+00:00",
+ "updated_at": "2026-10-14T06:47:07.446165+00:00"
+}

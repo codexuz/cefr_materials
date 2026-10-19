@@ -1,0 +1,455 @@
+{
+ "id": 2286,
+ "mock_type": "ket-listening",
+ "mock_number": 24,
+ "title": "KET Listening — Test 24",
+ "status": "published",
+ "mock_data": {
+  "audio": {
+   "base": "https://audio.mock-stream.com/KET-Listening/test24/",
+   "files": {
+    "1": "PART1.m4a",
+    "2": "PART2.m4a",
+    "3": "PART3.m4a",
+    "4": "PART4.m4a",
+    "5": "PART5.m4a"
+   }
+  },
+  "parts": [
+   {
+    "type": "picture-mcq",
+    "items": [
+     {
+      "id": 1,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q1A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q1B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q1C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What is the man going to take to the repair shop?"
+     },
+     {
+      "id": 2,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q2A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q2B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q2C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "How will Nancy and Joe get to the sports centre?"
+     },
+     {
+      "id": 3,
+      "answer": "B",
+      "options": [
+       {
+        "text": "£100",
+        "letter": "A"
+       },
+       {
+        "text": "£200",
+        "letter": "B"
+       },
+       {
+        "text": "£300",
+        "letter": "C"
+       }
+      ],
+      "question": "How much is the prize for the competition?"
+     },
+     {
+      "id": 4,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q4A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q4B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q4C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What will the weather be like tomorrow lunchtime?"
+     },
+     {
+      "id": 5,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q5A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q5B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q5C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What time will they leave home?"
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "image": "q0A.png",
+       "letter": "A"
+      },
+      {
+       "image": "q0B.png",
+       "letter": "B"
+      },
+      {
+       "image": "q0C.png",
+       "letter": "C"
+      }
+     ],
+     "question": "How many people were at the meeting?"
+    },
+    "imageBase": "https://audio.mock-stream.com/KET-Listening/test24/p1/",
+    "partNumber": 1,
+    "instruction": [
+     "You will hear five short conversations.",
+     "You will hear each conversation twice.",
+     "There is one question for each conversation.",
+     "For questions 1–5, put a tick (✓) under the right answer."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "matching-list",
+    "items": [
+     {
+      "id": 6,
+      "name": "Monday",
+      "answer": "G"
+     },
+     {
+      "id": 7,
+      "name": "Tuesday",
+      "answer": "E"
+     },
+     {
+      "id": 8,
+      "name": "Wednesday",
+      "answer": "B"
+     },
+     {
+      "id": 9,
+      "name": "Thursday",
+      "answer": "F"
+     },
+     {
+      "id": 10,
+      "name": "Friday",
+      "answer": "A"
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "name": "Sunday",
+     "answer": "D",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "blue shirt",
+      "letter": "A"
+     },
+     {
+      "text": "coat",
+      "letter": "B"
+     },
+     {
+      "text": "jacket",
+      "letter": "C"
+     },
+     {
+      "text": "jeans",
+      "letter": "D"
+     },
+     {
+      "text": "light trousers",
+      "letter": "E"
+     },
+     {
+      "text": "shorts",
+      "letter": "F"
+     },
+     {
+      "text": "suit",
+      "letter": "G"
+     },
+     {
+      "text": "sweater",
+      "letter": "H"
+     }
+    ],
+    "scenario": "Ben talking about clothes in his suitcase — which day for which clothes",
+    "leftLabel": "Days",
+    "partNumber": 2,
+    "rightLabel": "Clothes",
+    "instruction": [
+     "Listen to Ben talking to his wife about the clothes in his suitcase.",
+     "Which clothes will he wear each day?",
+     "For questions 6–10, write a letter A–H next to each day.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-conversation",
+    "items": [
+     {
+      "id": 11,
+      "stem": "Duncan stayed in a hotel",
+      "answer": "C",
+      "options": [
+       {
+        "text": "in a town.",
+        "letter": "A"
+       },
+       {
+        "text": "near the sea.",
+        "letter": "B"
+       },
+       {
+        "text": "in the mountains.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "stem": "Duncan's teacher comes from",
+      "answer": "C",
+      "options": [
+       {
+        "text": "England.",
+        "letter": "A"
+       },
+       {
+        "text": "France.",
+        "letter": "B"
+       },
+       {
+        "text": "Canada.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "stem": "How much did Duncan pay for the course?",
+      "answer": "B",
+      "options": [
+       {
+        "text": "£185",
+        "letter": "A"
+       },
+       {
+        "text": "£205",
+        "letter": "B"
+       },
+       {
+        "text": "£265",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "stem": "Before the course, Duncan bought himself some tennis",
+      "answer": "A",
+      "options": [
+       {
+        "text": "shoes.",
+        "letter": "A"
+       },
+       {
+        "text": "clothes.",
+        "letter": "B"
+       },
+       {
+        "text": "balls.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "stem": "On the last evening, there was",
+      "answer": "A",
+      "options": [
+       {
+        "text": "a party.",
+        "letter": "A"
+       },
+       {
+        "text": "a film show.",
+        "letter": "B"
+       },
+       {
+        "text": "a tennis match.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "stem": "How long was the tennis course?",
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "text": "one day",
+       "letter": "A"
+      },
+      {
+       "text": "two days",
+       "letter": "B"
+      },
+      {
+       "text": "five days",
+       "letter": "C"
+      }
+     ]
+    },
+    "partNumber": 3,
+    "instruction": [
+     "Listen to Duncan talking to a friend about a tennis course.",
+     "For questions 11–15, tick (✓) A, B or C.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "rows": [
+     {
+      "id": 16,
+      "label": "Get on boat at the:",
+      "answer": "bridge"
+     },
+     {
+      "id": 17,
+      "label": "Time boat leaves:",
+      "answer": "12.15",
+      "suffix": "pm"
+     },
+     {
+      "id": 18,
+      "label": "Boat goes to:",
+      "answer": "ALDFORD"
+     },
+     {
+      "id": 19,
+      "label": "On boat, you can buy:",
+      "answer": "ice-creams",
+      "prefix": "drinks and"
+     },
+     {
+      "id": 20,
+      "label": "Cost of adult ticket:",
+      "answer": "3.95",
+      "prefix": "£"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 4",
+    "subtitle": "Days of boat trip: Friday and Sunday",
+    "noteTitle": "Boat trip on the River Dee",
+    "partNumber": 4,
+    "instruction": [
+     "You will hear a woman phoning for information about a boat trip.",
+     "Listen and complete questions 16–20.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "rows": [
+     {
+      "id": 21,
+      "label": "Cost for children over 14:",
+      "answer": "89",
+      "prefix": "£",
+      "suffix": "per week"
+     },
+     {
+      "id": 22,
+      "label": "Children must take their own:",
+      "answer": "lunch"
+     },
+     {
+      "id": 23,
+      "label": "There is a show every:",
+      "answer": "Friday"
+     },
+     {
+      "id": 24,
+      "label": "The first summer course starts on:",
+      "answer": "July",
+      "prefix": "21st"
+     },
+     {
+      "id": 25,
+      "label": "Phone number:",
+      "answer": "8447 6953"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 5",
+    "subtitle": "Name of school: Silver Star",
+    "noteTitle": "Children's theatre school",
+    "partNumber": 5,
+    "instruction": [
+     "You will hear a woman giving information on the radio about a theatre school.",
+     "Listen and complete questions 21–25.",
+     "You will hear the information twice."
+    ],
+    "questionsLabel": "QUESTIONS 21–25"
+   }
+  ],
+  "testInfo": {
+   "id": "ket-l-24",
+   "level": "A2",
+   "paper": "Paper 2",
+   "parts": 5,
+   "title": "KET Listening — Test 24",
+   "totalTime": 30,
+   "totalQuestions": 25
+  }
+ },
+ "created_at": "2026-10-14T06:45:33.524052+00:00",
+ "updated_at": "2026-10-14T06:47:18.910242+00:00"
+}

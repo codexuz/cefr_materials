@@ -1,0 +1,585 @@
+{
+ "id": 85,
+ "mock_type": "cefr-writing",
+ "mock_number": 75,
+ "title": "CEFR Writing Mock 75",
+ "status": "published",
+ "mock_data": {
+  "part1": {
+   "chip": "entertainment",
+   "topic": "Bookstore issue"
+  },
+  "tasks": {
+   "t2": {
+    "chip": "",
+    "genre": "forum",
+    "title": "Printed books better than e-books",
+    "prompt": "You are participating in an online discussion forum. The topic is: \"Are printed books better than e-books?\" Write your response, giving reasons and examples. Write 180–200 words.",
+    "sample": "<p>The debate between <span class=\"ml-token colloc\">printed books</span> and <span class=\"ml-token colloc\">e-books</span> continues as technology evolves. I believe both formats have unique advantages.</p>\n\n<p><span class=\"ml-token colloc\">Printed books</span> offer a <span class=\"ml-token colloc\">tactile experience</span> that e-books cannot replicate. The feel of pages, the smell of paper, and the satisfaction of seeing books on shelves create an <span class=\"ml-token colloc\">emotional connection</span>. Many readers find it easier to <span class=\"ml-token colloc\">retain information</span> from physical books.</p>\n\n<p><span class=\"ml-token adv\">Additionally</span>, printed books cause no <span class=\"ml-token colloc\">eye strain</span> from screens and require no batteries. They can also be shared, gifted, and collected.</p>\n\n<p><span class=\"ml-token adv\">However</span>, <span class=\"ml-token colloc\">e-books</span> offer undeniable conveniences. Thousands of books can be stored on one device, perfect for travelers. Features like <span class=\"ml-token colloc\">adjustable fonts</span> and <span class=\"ml-token colloc\">built-in dictionaries</span> enhance reading accessibility. E-books are often cheaper and more <span class=\"ml-token colloc\">environmentally friendly</span>.</p>\n\n<p><span class=\"ml-token adv\">Furthermore</span>, e-books provide <span class=\"ml-token colloc\">instant access</span> to millions of titles without visiting stores or waiting for delivery.</p>\n\n<p><span class=\"ml-token adv\">In conclusion</span>, neither format is <span class=\"ml-token adv\">universally</span> superior. <span class=\"ml-token colloc\">Personal preference</span>, reading context, and practical needs <span class=\"ml-token modal\">should</span> determine the choice. Both formats can coexist, serving different purposes.</p>",
+    "target": "180–200 words",
+    "sampleA1": "<p>Hi!<br>I like books. Books good. E-books ok. I like paper. Bye!</p>",
+    "sampleA2": "<p>Hello,<br>I like books. I like paper books. E-books are ok but I like to touch the book. And I like to see the book. My mom likes e-books because they are easy. But I like books better because I can read them with my friends. Thank you.</p>",
+    "sampleB1": "<p>Hi everyone,<br>I want to talk about books and e-books. I think both are good, but I prefer printed books. For example, I like the way they feel in my hands. It's nice to turn the pages. Also, I don't need to worry about batteries! E-books are useful because you can carry lots of books at once. However, I think it's better to read a real book. In my opinion, printed books are more fun. Thank you.</p>",
+    "sampleB2": "Hi everyone,\nGreat topic — this one always gets people talking! I'll <span class=\"ml-token idiom\">throw in my two cents</span>: for me, printed books still <span class=\"ml-token idiom\">come out on top</span>, though I do see both sides.\nThe main reason is that <span class=\"ml-token colloc\">nothing beats</span> the feel of a real book. There's something special about turning the pages and watching your bookmark creep towards the end. I also find I <span class=\"ml-token phrasal\">take in</span> far more when I'm reading on paper, probably because there are no notifications tempting me to check my phone. <span class=\"ml-token linking\">On top of that</span>, a shelf full of books you've loved is a lovely thing to <span class=\"ml-token phrasal\">look back on</span>.\n<span class=\"ml-token linking\">Having said that</span>, I won't <span class=\"ml-token phrasal\">write off</span> e-books completely. They're <span class=\"ml-token idiom\">a lifesaver</span> when you're travelling light, and you can carry a whole library in your pocket. The built-in dictionary is handy too, and being able to adjust the font size is a real blessing for tired eyes late at night.\nStill, if I had to choose, I'd reach for a paperback every single time. There's just <span class=\"ml-token colloc\">no substitute for</span> the real thing.\nWhat about the rest of you — team paper or team screen? I'd love to hear your thoughts!\nDilnoza Karimova",
+    "uzSample": "<p>Texnologiya rivojlanishi bilan bosma kitoblar va elektron kitoblar o'rtasidagi bahs davom etmoqda. Menimcha, har ikki formatning ham o'ziga xos afzalliklari bor.</p>\n\n<p>Bosma kitoblar elektron kitoblar takrorlay olmaydigan taktil tajribani taqdim etadi. Varaqlarning hissi, qog'ozning hidi va kitoblarni javonlarda ko'rishdan qoniqish hissiy bog'liqlikni yaratadi. Ko'pgina o'quvchilar jismoniy kitoblardan ma'lumotni eslab qolishni osonroq deb bilishadi.</p>\n\n<p>Bundan tashqari, bosma kitoblar ekrandan ko'zning zo'riqishiga olib kelmaydi va batareyani talab qilmaydi. Ularni baham ko'rish, sovg'a qilish va to'plash ham mumkin.</p>\n\n<p>Biroq, elektron kitoblar inkor etib bo'lmaydigan qulayliklarni taklif etadi. Minglab kitoblarni bitta qurilmada saqlash mumkin, bu sayohatchilar uchun juda mos keladi. Sozlanishi mumkin bo'lgan shriftlar va o'rnatilgan lug'atlar kabi xususiyatlar o'qish imkoniyatini oshiradi. Elektron kitoblar ko'pincha arzonroq va ekologik toza bo'ladi.</p>\n\n<p>Bundan tashqari, elektron kitoblar do'konlarga bormasdan yoki yetkazib berishni kutmasdan millionlab nomlarga tezkor kirishni ta'minlaydi.</p>\n\n<p>Xulosa qilib aytganda, hech bir format universal ustun emas. Shaxsiy afzallik, o'qish konteksti va amaliy ehtiyojlar tanlovni belgilashi kerak. Har ikki format ham birga yashashi va turli maqsadlarga xizmat qilishi mumkin.</p>",
+    "uzSampleA1": "<p>Salom!<br>Men kitoblarni yaxshi ko'raman. Kitoblar yaxshi. Elektron kitoblar yaxshi. Men qog'ozni yaxshi ko'raman. Xayr!</p>",
+    "uzSampleA2": "<p>Salom,<br>Men kitoblarni yaxshi ko'raman. Men qog'oz kitoblarni yaxshi ko'raman. Elektron kitoblar yaxshi, lekin men kitobga teginishni yaxshi ko'raman. Va men kitobni ko'rishni yaxshi ko'raman. Onamga elektron kitoblar yoqadi, chunki ular oson. Lekin menga kitoblar ko'proq yoqadi, chunki men ularni do'stlarim bilan o'qiy olaman. Rahmat.</p>",
+    "uzSampleB1": "<p>Hammaga salom,<br>Men kitoblar va elektron kitoblar haqida gaplashmoqchiman. Menimcha, ikkalasi ham yaxshi, lekin men bosma kitoblarni afzal ko'raman. Masalan, ularning qo'limda qanday turishini yaxshi ko'raman. Varaqlarni aylantirish yoqimli. Bundan tashqari, batareyalar haqida tashvishlanishimga hojat yo'q! Elektron kitoblar foydali, chunki siz bir vaqtning o'zida ko'plab kitoblarni olib yurishingiz mumkin. Biroq, menimcha, haqiqiy kitobni o'qish yaxshiroq. Mening fikrimcha, bosma kitoblar yanada qiziqarli. Rahmat.</p>",
+    "uzSampleB2": "<p>Salom,<br>Bosma kitoblar va elektron kitoblar haqidagi munozara qiziqarli. Elektron kitoblar qulaylik va ommaboplik nuqtai nazaridan aniq afzalliklarni taqdim etsa-da, men bir nechta sabablarga ko'ra bosma kitoblarga moyilman.<br><br>Birinchidan, jismoniy kitobni ushlashning taktil tajribasi - bu elektron kitoblar oddiygina takrorlay olmaydigan narsa. Kitobning og'irligi, qog'ozning tuzilishi va hatto hidi ham o'qishning yanada qamrab oluvchi tajribasiga hissa qo'shadi. Ikkinchidan, men jismoniy kitobni o'qiyotganda yaxshiroq diqqatni jamlayman. Planshet yoki telefonda o'qishga nisbatan chalg'itadigan omillar kamroq, chunki bildirishnomalar va boshqa ilovalar bir marta bosish orqali mavjud.<br><br>Albatta, elektron kitoblar sayohat uchun juda qulay va ular ko'pincha bosma nusxalaridan arzonroq. Biroq, chinakam qiziqarli va diqqatni jamlagan holda o'qish tajribasi uchun, menimcha, bosma kitoblar ustunligicha qolmoqda.</p>"
+   },
+   "t11": {
+    "title": "informal letter · to friend",
+    "prompt": "Write a letter to your friend, who loves reading. Write about your feelings and what you think they should do.",
+    "sample": "Hey!\n\nYou <span class=\"ml-token modal\">have</span> to visit this new bookstore called PageTurner! It's <span class=\"ml-token adv\">absolutely</span> charming – they have a <span class=\"ml-token colloc\">cozy reading corner</span> with comfortable armchairs. The selection is <span class=\"ml-token adv\">amazing</span>, especially for fiction. I found three books I couldn't <span class=\"ml-token phrasal\">put down</span>! You <span class=\"ml-token modal\">should</span> <span class=\"ml-token adv\">definitely</span> check it out.\n\n<span class=\"ml-token colloc\">Happy reading</span>!",
+    "target": "50–70 words",
+    "sampleA1": "<p>Hi Farrux,<br>Bookstore good. Books good. I like it. You go!<br>Bye.</p>",
+    "sampleA2": "<p>Hi Farrux,<br>I went to a new bookstore. It is called PageTurner. It is nice and has many books. I think you will like it because you like books. You should go there!<br>See you later,</p>",
+    "sampleB1": "<p>Hi Farrux,<br>I wanted to tell you about a new bookstore I found. It's called PageTurner, and it's really cool. They have lots of different books, and the people who work there are very helpful. I think you should visit it sometime because you love reading so much. In my opinion, you'll find some great books there.<br>Best wishes,</p>",
+    "sampleB2": "Hey Farrux!\nGuess what — I finally <span class=\"ml-token phrasal\">checked out</span> that new bookstore, PageTurner, and I couldn't stop thinking about you the whole time. It's an <span class=\"ml-token idiom\">absolute gem</span>: cosy armchairs, shelves <span class=\"ml-token colloc\">packed with</span> fiction, and the friendliest staff. I <span class=\"ml-token phrasal\">picked up</span> a novel I <span class=\"ml-token idiom\">couldn't put down</span>. You've got to <span class=\"ml-token phrasal\">swing by</span> this weekend — trust me, you'll be <span class=\"ml-token idiom\">over the moon</span>.\n<span class=\"ml-token colloc\">Happy reading</span>!\nDilnoza",
+    "uzSample": "<p>Salom!</p>\n<p>Siz albatta PageTurner deb nomlangan yangi kitob do'koniga borishingiz kerak! U juda ham yoqimli – ularda qulay kreslolar bilan jihozlangan shinam o'qish burchagi bor. Tanlov juda ajoyib, ayniqsa badiiy adabiyotlar uchun. Men o'qishni to'xtata olmagan uchta kitob topdim! Siz albatta borib ko'rishingiz kerak.</p>\n<p>O'qishingiz maroqli bo'lsin!</p>",
+    "uzSampleA1": "<p>Salom, Farrux,<br>Kitob do'koni yaxshi. Kitoblar yaxshi. Menga yoqadi. Sen bor!<br>Xayr.</p>",
+    "uzSampleA2": "<p>Salom, Farrux,<br>Men yangi kitob do'koniga bordim. U PageTurner deb nomlanadi. U yaxshi va unda ko'p kitoblar bor. Menimcha, senga yoqadi, chunki sen kitoblarni yaxshi ko'rasan. Sen u yerga borishing kerak!<br>Keyinroq ko'rishguncha,</p>",
+    "uzSampleB1": "<p>Salom Farrux,<br>Sizga men topgan yangi kitob do'koni haqida aytmoqchi edim. U PageTurner deb ataladi va u juda ajoyib. Ularda juda ko'p turli xil kitoblar bor va u yerda ishlaydigan odamlar juda yordam berishadi. Mening fikrimcha, siz u yerga qachondir tashrif buyurishingiz kerak, chunki siz kitob o'qishni juda yaxshi ko'rasiz. Mening nazarimda, u yerda ajoyib kitoblar topasiz.<br>Eng yaxshi tilaklar bilan,</p>",
+    "uzSampleB2": "<p>Aziz Farrux,<br>Umid qilamanki, bu xat sizga yaxshi yetib borgan.<br>Yaqinda mahallamizda PageTurner nomli ajoyib yangi kitob do'koniga duch keldim va darhol sizni o'yladim. Atmosfera juda ajoyib - juda yoqimli va tinch, ko'rib chiqish uchun juda mos. Ularda hayratlanarli darajada xilma-xil tanlov bor va menimcha, siz ularning zamonaviy adabiyotlar to'plamidan ayniqsa ta'sirlanasiz. Bo'sh vaqtingiz bo'lganda ularga tashrif buyurishingizni tavsiya qilaman. Ishonchim komilki, siz ba'zi adabiy durdonalarni topasiz.<br>Eng yaxshi tilaklar bilan,</p>"
+   },
+   "t12": {
+    "title": "formal letter · to recipient",
+    "prompt": "Write a letter to the bookstore. Write about your feelings and what you think they should do.",
+    "sample": "Dear PageTurner Team,\n\nThank you for asking about my visit to your <span class=\"ml-token colloc\">bookstore</span>.\n\nI was <span class=\"ml-token adv\">delighted</span> by my experience. The store has a warm, inviting <span class=\"ml-token colloc\">atmosphere</span> that encourages browsing. Your <span class=\"ml-token colloc\">book selection</span> is <span class=\"ml-token adv\">impressively</span> curated, and the staff member who helped me gave <span class=\"ml-token adv\">excellent</span> recommendations based on my preferences.\n\n<span class=\"ml-token adv\">However</span>, I have some suggestions. The <span class=\"ml-token colloc\">non-fiction section</span> seemed <span class=\"ml-token adv\">rather</span> limited. I <span class=\"ml-token modal\">would</span> appreciate more books on history and science. <span class=\"ml-token adv\">Additionally</span>, the store was <span class=\"ml-token adv\">quite</span> difficult to find – better <span class=\"ml-token colloc\">street signage</span> <span class=\"ml-token modal\">would</span> help attract customers.\n\nI <span class=\"ml-token modal\">would</span> love to see <span class=\"ml-token colloc\">author events</span> and <span class=\"ml-token colloc\">book club meetings</span> hosted at the store. A <span class=\"ml-token colloc\">loyalty card</span> offering discounts for regular customers <span class=\"ml-token modal\">would</span> also be wonderful.\n\n<span class=\"ml-token adv\">Overall</span>, PageTurner has become my favorite bookstore.\n\nYours sincerely,\nLaylo Tojiyeva",
+    "target": "120–150 words",
+    "sampleA1": "<p>Hi PageTurner!<br>I like books. The shop is good. Books good. Staff ok. More books please. Bye.</p>",
+    "sampleA2": "<p>Hello PageTurner,<br>I went to your shop and it was nice. I liked the books and the people were friendly. But I think you need more chairs because I wanted to sit down and read. And maybe some comics? I like comics. Thank you!</p>",
+    "sampleB1": "<p>Dear PageTurner Team,<br><br>Thank you for asking about my visit. I really liked your bookstore! It's very nice inside, and the books are interesting. The person who helped me was also very kind and helpful. <br><br>I think you could maybe have more science fiction books. I like that genre a lot, and I didn't see many. Also, it was a little hard to find the store. Maybe a bigger sign outside would be good.<br><br>I think it would be cool if you had events, like author talks. Thank you again for the good experience.<br><br>Sincerely,<br>Laylo Tojiyeva</p>",
+    "sampleB2": "Dear PageTurner Team,\nThank you for your kind message following my recent visit. I'm happy to share a few thoughts.\nFirst of all, I was <span class=\"ml-token colloc\">thoroughly impressed</span>. The moment I walked in, the warm, welcoming atmosphere <span class=\"ml-token idiom\">put me at ease</span>, and your fiction selection is <span class=\"ml-token idiom\">second to none</span>. A member of staff <span class=\"ml-token idiom\">went out of her way</span> to recommend a novel that <span class=\"ml-token phrasal\">turned out to be</span> a perfect match.\n<span class=\"ml-token linking\">That said</span>, I do have a couple of suggestions. Your non-fiction shelves felt rather thin, so stocking more titles on history and travel would be <span class=\"ml-token colloc\">a real bonus</span>. I would also love to see regular <span class=\"ml-token colloc\">author talks</span> and a cosy book club, as these would help build a loyal community of readers.\n<span class=\"ml-token adv\">Overall</span>, PageTurner has quickly become my favourite spot. <span class=\"ml-token phrasal\">Keep up</span> the great work!\nYours sincerely,\nBekzod Aliyev",
+    "uzSample": "<p>Hurmatli PageTurner jamoasi,</p>\n<p>Kitob do'koningizga tashrifim haqida so'raganingiz uchun rahmat.</p>\n<p>Men olgan taassurotlarimdan juda xursand bo'ldim. Do'kon iliq va jozibali muhitga ega bo'lib, u kitoblarni ko'zdan kechirishga undaydi. Kitoblar tanlovingiz juda ta'sirli tarzda tuzilgan va menga yordam bergan xodim mening xohishlarimga asoslangan holda ajoyib tavsiyalar berdi.</p>\n<p>Biroq, menda ba'zi takliflar bor. Badiiy bo'lmagan adabiyotlar bo'limi ancha cheklangan ko'rinardi. Men tarix va fan bo'yicha ko'proq kitoblarni ko'rishni xohlardim. Bundan tashqari, do'konni topish juda qiyin edi - ko'cha belgilarini yaxshilash xaridorlarni jalb qilishga yordam beradi.</p>\n<p>Men do'konda mualliflar ishtirokidagi tadbirlar va kitob klubi yig'ilishlari o'tkazilishini juda xohlardim. Doimiy mijozlar uchun chegirmalar taklif qiladigan sodiqlik kartasi ham ajoyib bo'lar edi.</p>\n<p>Umuman olganda, PageTurner mening sevimli kitob do'konimga aylandi.</p>\n<p>Hurmat bilan,<br>Laylo Tojiyeva</p>",
+    "uzSampleA1": "<p>Salom, PageTurner!<br>Men kitoblarni yaxshi ko'raman. Do'kon yaxshi. Kitoblar yaxshi. Xodimlar yaxshi. Ko'proq kitoblar iltimos. Xayr.</p>",
+    "uzSampleA2": "<p>Salom, PageTurner,<br>Men sizning do'koningizga bordim va u yaxshi edi. Menga kitoblar yoqdi va odamlar do'stona edilar. Lekin menimcha sizga ko'proq stullar kerak, chunki men o'tirib o'qishni xohladim. Va balki ba'zi komikslar ham bo'lsa yaxshi bo'lardi? Men komikslarni yaxshi ko'raman. Rahmat!</p>",
+    "uzSampleB1": "<p>Hurmatli PageTurner jamoasi,<br><br>Tashrifim haqida so'raganingiz uchun rahmat. Menga sizning kitob do'koningiz juda yoqdi! Ichkari juda yaxshi va kitoblar qiziqarli. Menga yordam bergan odam ham juda mehribon va foydali edi.<br><br>O'ylaymanki, sizda ilmiy fantastika kitoblari ko'proq bo'lishi mumkin. Menga bu janr juda yoqadi va men ko'pini ko'rmadim. Shuningdek, do'konni topish biroz qiyin bo'ldi. Balki tashqarida kattaroq belgi yaxshi bo'lar edi.<br><br>Agar sizda tadbirlar, masalan, mualliflar bilan suhbatlar bo'lsa, juda zo'r bo'lardi deb o'ylayman. Yaxshi tajriba uchun yana bir bor rahmat.<br><br>Hurmat bilan,<br>Laylo Tojiyeva</p>",
+    "uzSampleB2": "<p>Hurmatli PageTurner jamoasi,<br><br>Sizning kitob do'koningizga tashrifim bo'yicha fikr-mulohazalaringiz uchun rahmat. Men makon va tanlov haqidagi ijobiy taassurotlarimni bildirishni xohlardim.<br><br>Atmosfera juda yoqimli edi va men kitoblarning o'ylab topilgan tartibini ayniqsa qadrladim. Biroq, menimcha, yaxshilanishi mumkin bo'lgan bir nechta sohalar mavjud. Misol uchun, zamonaviy she'riyat tanlovi biroz cheklangan ko'rinadi. Ushbu bo'limni kengaytirish adabiy didlarning kengroq doirasiga xizmat qiladi. Bundan tashqari, xodimlar odatda yordam berishga tayyor bo'lishsa-da, tavsiyalar berishga nisbatan faolroq yondashuv mijozlar tajribasini yaxshilashi mumkin.<br><br>Potentsial xizmatlar nuqtai nazaridan, menimcha, muayyan janrlarga moslashtirilgan obuna qutilari xizmatini taklif qilish qimmatli qo'shimcha bo'lishi mumkin. Muntazam mualliflik o'qishlari yoki seminarlar ham kitob do'koni atrofida jonli adabiy hamjamiyatni shakllantirishga yordam beradi.<br><br>Umuman olganda, men PageTurnerdan hayratda qoldim va yana tashrif buyurishni intiqlik bilan kutaman. O'ziga xos va qiziqarli adabiy makonni ta'minlashga sodiqligingiz uchun tashakkur.<br><br>Hurmat bilan,<br>Laylo Tojiyeva</p>"
+   },
+   "p1_context": "You recently visited a new independent bookstore in your neighborhood.",
+   "p1_scenario": "Dear Book Lover,\n\nThank you for visiting PageTurner Bookstore! We hope you found some great reads.\nHow did you find our book selection and store atmosphere? Was our staff helpful in recommending books?\nWhat genres, services, or events would you like us to offer?\n\nPageTurner Team"
+  },
+  "examDate": "2026-01-15",
+  "settings": {
+   "logoUrl": "https://audio.mock-stream.com/img/ibb/WN0XY5Lv/logo.png",
+   "heading1": "Bilim va malakalarni baholash agentligi",
+   "heading2": "Chet tilini bilish darajasi",
+   "examTitle": "Writing exam",
+   "logoWording": "Mock Stream",
+   "testIdentifier": "mock_stream"
+  },
+  "vocabulary": {
+   "task2": [
+    {
+     "en": "printed books",
+     "uz": "bosma kitoblar"
+    },
+    {
+     "en": "e-books",
+     "uz": "elektron kitoblar"
+    },
+    {
+     "en": "tactile experience",
+     "uz": "sezish tajribasi"
+    },
+    {
+     "en": "emotional connection",
+     "uz": "hissiy aloqa"
+    },
+    {
+     "en": "retain information",
+     "uz": "ma'lumotni eslab qolmoq"
+    },
+    {
+     "en": "eye strain",
+     "uz": "ko'z charchashi"
+    },
+    {
+     "en": "adjustable fonts",
+     "uz": "sozlanadigan shriftlar"
+    },
+    {
+     "en": "built-in dictionaries",
+     "uz": "o'rnatilgan lug'atlar"
+    },
+    {
+     "en": "environmentally friendly",
+     "uz": "ekologik toza"
+    },
+    {
+     "en": "instant access",
+     "uz": "tezkor kirish"
+    },
+    {
+     "en": "personal preference",
+     "uz": "shaxsiy afzallik"
+    },
+    {
+     "en": "reading context",
+     "uz": "o'qish konteksti"
+    },
+    {
+     "en": "practical needs",
+     "uz": "amaliy ehtiyojlar"
+    },
+    {
+     "en": "feel of pages",
+     "uz": "sahifalar hissi"
+    },
+    {
+     "en": "smell of paper",
+     "uz": "qog'oz hidi"
+    },
+    {
+     "en": "physical books",
+     "uz": "jismoniy kitoblar"
+    },
+    {
+     "en": "stored on device",
+     "uz": "qurilmada saqlangan"
+    },
+    {
+     "en": "enhance accessibility",
+     "uz": "kirish imkoniyatini oshirmoq"
+    },
+    {
+     "en": "in conclusion",
+     "uz": "xulosa qilib aytganda"
+    },
+    {
+     "en": "coexist peacefully",
+     "uz": "tinch birga yashash"
+    }
+   ],
+   "task11": [
+    {
+     "en": "bookstore",
+     "uz": "kitob do'koni"
+    },
+    {
+     "en": "cozy reading corner",
+     "uz": "shinam o'qish burchagi"
+    },
+    {
+     "en": "amazing selection",
+     "uz": "ajoyib tanlov"
+    },
+    {
+     "en": "couldn't put down",
+     "uz": "qo'yib bo'lmadi"
+    },
+    {
+     "en": "definitely check out",
+     "uz": "albatta ko'rib chiqing"
+    },
+    {
+     "en": "happy reading",
+     "uz": "yoqimli o'qish"
+    },
+    {
+     "en": "absolutely charming",
+     "uz": "mutlaqo jozibali"
+    },
+    {
+     "en": "comfortable armchairs",
+     "uz": "qulay kreslo"
+    },
+    {
+     "en": "book lover",
+     "uz": "kitob sevuvchi"
+    },
+    {
+     "en": "great reads",
+     "uz": "ajoyib kitoblar"
+    },
+    {
+     "en": "highly recommend",
+     "uz": "qattiq tavsiya qilmoq"
+    },
+    {
+     "en": "wonderful atmosphere",
+     "uz": "ajoyib muhit"
+    },
+    {
+     "en": "independent bookstore",
+     "uz": "mustaqil kitob do'koni"
+    },
+    {
+     "en": "hidden gem",
+     "uz": "yashirin javohir"
+    },
+    {
+     "en": "worth visiting",
+     "uz": "tashrif buyurishga arziydi"
+    },
+    {
+     "en": "fiction section",
+     "uz": "fantastika bo'limi"
+    },
+    {
+     "en": "friendly staff",
+     "uz": "do'stona xodimlar"
+    },
+    {
+     "en": "perfect place",
+     "uz": "ideal joy"
+    },
+    {
+     "en": "let me know",
+     "uz": "menga xabar bering"
+    },
+    {
+     "en": "take care",
+     "uz": "o'zingizga g'amxo'rlik qiling"
+    }
+   ],
+   "task12": [
+    {
+     "en": "bookstore",
+     "uz": "kitob do'koni"
+    },
+    {
+     "en": "atmosphere",
+     "uz": "muhit"
+    },
+    {
+     "en": "book selection",
+     "uz": "kitob tanlovi"
+    },
+    {
+     "en": "non-fiction section",
+     "uz": "badiiy bo'lmagan bo'lim"
+    },
+    {
+     "en": "street signage",
+     "uz": "ko'cha belgilari"
+    },
+    {
+     "en": "author events",
+     "uz": "muallif tadbirlari"
+    },
+    {
+     "en": "book club meetings",
+     "uz": "kitob klubi yig'ilishlari"
+    },
+    {
+     "en": "loyalty card",
+     "uz": "sodiqlik kartasi"
+    },
+    {
+     "en": "delighted by",
+     "uz": "xursand bo'ldim"
+    },
+    {
+     "en": "warm and inviting",
+     "uz": "iliq va jozibali"
+    },
+    {
+     "en": "impressively curated",
+     "uz": "ajoyib tanlab olingan"
+    },
+    {
+     "en": "excellent recommendations",
+     "uz": "ajoyib tavsiyalar"
+    },
+    {
+     "en": "rather limited",
+     "uz": "ancha cheklangan"
+    },
+    {
+     "en": "I would appreciate",
+     "uz": "Men minnatdor bo'lardim"
+    },
+    {
+     "en": "quite difficult",
+     "uz": "ancha qiyin"
+    },
+    {
+     "en": "attract customers",
+     "uz": "mijozlarni jalb qilmoq"
+    },
+    {
+     "en": "I would love to see",
+     "uz": "Ko'rishni xohlardim"
+    },
+    {
+     "en": "regular customers",
+     "uz": "doimiy mijozlar"
+    },
+    {
+     "en": "Yours sincerely",
+     "uz": "Hurmat bilan"
+    },
+    {
+     "en": "favorite bookstore",
+     "uz": "sevimli kitob do'koni"
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "have": {
+    "uz": "ega bo'lmoq",
+    "type": "modal"
+   },
+   "quite": {
+    "uz": "ancha",
+    "type": "adv"
+   },
+   "would": {
+    "uz": "edi",
+    "type": "modal"
+   },
+   "rather": {
+    "uz": "ko'proq",
+    "type": "adv"
+   },
+   "should": {
+    "uz": "kerak",
+    "type": "modal"
+   },
+   "However": {
+    "uz": "Biroq",
+    "type": "adv"
+   },
+   "Keep up": {
+    "uz": "shu ruhda davom eting",
+    "type": "phrasal"
+   },
+   "Overall": {
+    "uz": "Umuman olganda",
+    "type": "adv"
+   },
+   "amazing": {
+    "uz": "ajoyib",
+    "type": "adv"
+   },
+   "e-books": {
+    "uz": "elektron kitoblar",
+    "type": "colloc"
+   },
+   "take in": {
+    "uz": "o'zlashtiraman",
+    "type": "phrasal"
+   },
+   "put down": {
+    "uz": "chetga qo'ymoq",
+    "type": "phrasal"
+   },
+   "swing by": {
+    "uz": "kirib o't",
+    "type": "phrasal"
+   },
+   "That said": {
+    "uz": "shunga qaramay",
+    "type": "linking"
+   },
+   "bookstore": {
+    "uz": "kitob do'koni",
+    "type": "colloc"
+   },
+   "delighted": {
+    "uz": "xursand",
+    "type": "adv"
+   },
+   "excellent": {
+    "uz": "a'lo",
+    "type": "adv"
+   },
+   "picked up": {
+    "uz": "qo'lga oldim",
+    "type": "phrasal"
+   },
+   "write off": {
+    "uz": "butunlay inkor etmoq",
+    "type": "phrasal"
+   },
+   "absolutely": {
+    "uz": "mutlaqo",
+    "type": "adv"
+   },
+   "atmosphere": {
+    "uz": "muhit",
+    "type": "colloc"
+   },
+   "definitely": {
+    "uz": "albatta",
+    "type": "adv"
+   },
+   "eye strain": {
+    "uz": "ko'z zo'riqishi",
+    "type": "colloc"
+   },
+   "Furthermore": {
+    "uz": "Bundan tashqari",
+    "type": "adv"
+   },
+   "a lifesaver": {
+    "uz": "najotkor",
+    "type": "idiom"
+   },
+   "checked out": {
+    "uz": "borib ko'rdim",
+    "type": "phrasal"
+   },
+   "packed with": {
+    "uz": "liq to'la",
+    "type": "colloc"
+   },
+   "universally": {
+    "uz": "universal tarzda",
+    "type": "adv"
+   },
+   "Additionally": {
+    "uz": "Qo'shimcha ravishda",
+    "type": "adv"
+   },
+   "a real bonus": {
+    "uz": "haqiqiy yutuq",
+    "type": "colloc"
+   },
+   "absolute gem": {
+    "uz": "haqiqiy topilma",
+    "type": "idiom"
+   },
+   "author talks": {
+    "uz": "mualliflar bilan uchrashuvlar",
+    "type": "colloc"
+   },
+   "impressively": {
+    "uz": "ta'sirli tarzda",
+    "type": "adv"
+   },
+   "look back on": {
+    "uz": "orqaga qarab eslash",
+    "type": "phrasal"
+   },
+   "loyalty card": {
+    "uz": "sodiqlik kartasi",
+    "type": "colloc"
+   },
+   "Happy reading": {
+    "uz": "Yoqimli mutolaa",
+    "type": "colloc"
+   },
+   "In conclusion": {
+    "uz": "Xulosa qilib aytganda",
+    "type": "adv"
+   },
+   "author events": {
+    "uz": "mualliflar bilan uchrashuvlar",
+    "type": "colloc"
+   },
+   "nothing beats": {
+    "uz": "hech narsa teng kelolmaydi",
+    "type": "colloc"
+   },
+   "over the moon": {
+    "uz": "juda xursand bo'lasan",
+    "type": "idiom"
+   },
+   "printed books": {
+    "uz": "bosma kitoblar",
+    "type": "colloc"
+   },
+   "On top of that": {
+    "uz": "Bundan tashqari",
+    "type": "linking"
+   },
+   "book selection": {
+    "uz": "kitoblar tanlovi",
+    "type": "colloc"
+   },
+   "instant access": {
+    "uz": "tezkor kirish",
+    "type": "colloc"
+   },
+   "put me at ease": {
+    "uz": "o'zimni bemalol his qildim",
+    "type": "idiom"
+   },
+   "second to none": {
+    "uz": "tengsiz",
+    "type": "idiom"
+   },
+   "street signage": {
+    "uz": "ko'cha belgilari",
+    "type": "colloc"
+   },
+   "come out on top": {
+    "uz": "ustun keladi",
+    "type": "idiom"
+   },
+   "Having said that": {
+    "uz": "shunga qaramasdan",
+    "type": "linking"
+   },
+   "adjustable fonts": {
+    "uz": "sozlanishi mumkin bo'lgan shriftlar",
+    "type": "colloc"
+   },
+   "turned out to be": {
+    "uz": "bo'lib chiqdi",
+    "type": "phrasal"
+   },
+   "couldn't put down": {
+    "uz": "o'qishni to'xtata olmadim",
+    "type": "idiom"
+   },
+   "no substitute for": {
+    "uz": "o'rnini bosa olmaydi",
+    "type": "colloc"
+   },
+   "book club meetings": {
+    "uz": "kitobxonlar klubi yig'ilishlari",
+    "type": "colloc"
+   },
+   "retain information": {
+    "uz": "ma'lumotni eslab qolish",
+    "type": "colloc"
+   },
+   "tactile experience": {
+    "uz": "qo'l bilan his qilish tajribasi",
+    "type": "colloc"
+   },
+   "Personal preference": {
+    "uz": "Shaxsiy xohish",
+    "type": "colloc"
+   },
+   "cozy reading corner": {
+    "uz": "shinam o'qish burchagi",
+    "type": "colloc"
+   },
+   "non-fiction section": {
+    "uz": "badiiy bo'lmagan adabiyotlar bo'limi",
+    "type": "colloc"
+   },
+   "went out of her way": {
+    "uz": "alohida g'ayrat ko'rsatdi",
+    "type": "idiom"
+   },
+   "emotional connection": {
+    "uz": "hissiy bog'liqlik",
+    "type": "colloc"
+   },
+   "thoroughly impressed": {
+    "uz": "juda ta'sirlandim",
+    "type": "colloc"
+   },
+   "built-in dictionaries": {
+    "uz": "o'rnatilgan lug'atlar",
+    "type": "colloc"
+   },
+   "throw in my two cents": {
+    "uz": "o'z fikrimni qo'shaman",
+    "type": "idiom"
+   },
+   "environmentally friendly": {
+    "uz": "ekologik toza",
+    "type": "colloc"
+   }
+  }
+ },
+ "created_at": "2026-05-06T15:00:44.805471+00:00",
+ "updated_at": "2026-07-06T10:57:23.272834+00:00"
+}

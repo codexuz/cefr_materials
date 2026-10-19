@@ -1,0 +1,734 @@
+{
+ "id": 467,
+ "mock_type": "cefr-listening",
+ "mock_number": 27,
+ "title": "CEFR Listening Mock Test 27",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "mcq-reply",
+    "title": "Part 1",
+    "answers": {
+     "1": "C",
+     "2": "B",
+     "3": "B",
+     "4": "B",
+     "5": "A",
+     "6": "B",
+     "7": "C",
+     "8": "A"
+    },
+    "audioFile": "https://audio.mock-stream.com/test27/Part%201.m4a",
+    "questions": [
+     {
+      "id": 1,
+      "options": [
+       {
+        "text": "What about nine o’clock?",
+        "letter": "A"
+       },
+       {
+        "text": "When does the party really start?",
+        "letter": "B"
+       },
+       {
+        "text": "Ok, I’ll be there at 7.30",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "options": [
+       {
+        "text": "That is good news!",
+        "letter": "A"
+       },
+       {
+        "text": "That sounds good!",
+        "letter": "B"
+       },
+       {
+        "text": "That can be underwhelming",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 3,
+      "options": [
+       {
+        "text": "No, it hasn’t",
+        "letter": "A"
+       },
+       {
+        "text": "What connections?",
+        "letter": "B"
+       },
+       {
+        "text": "Here’s a check",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 4,
+      "options": [
+       {
+        "text": "We have lots of birthday cakes",
+        "letter": "A"
+       },
+       {
+        "text": "We got fresh roses arrived today",
+        "letter": "B"
+       },
+       {
+        "text": "Happy birthday!",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 5,
+      "options": [
+       {
+        "text": "In Central America",
+        "letter": "A"
+       },
+       {
+        "text": "In summer",
+        "letter": "B"
+       },
+       {
+        "text": "On the internet",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 6,
+      "options": [
+       {
+        "text": "It’s full HD",
+        "letter": "A"
+       },
+       {
+        "text": "$2500 is the final price",
+        "letter": "B"
+       },
+       {
+        "text": "I can buy more cheaper TV",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 7,
+      "options": [
+       {
+        "text": "Can you buy me one?",
+        "letter": "A"
+       },
+       {
+        "text": "Are they cheaper?",
+        "letter": "B"
+       },
+       {
+        "text": "That’s a good bargain, I will buy one.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 8,
+      "options": [
+       {
+        "text": "Get well soon, buddy",
+        "letter": "A"
+       },
+       {
+        "text": "I’m glad to hear from you too",
+        "letter": "B"
+       },
+       {
+        "text": "Hurry up!",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "partNumber": 1,
+    "transcript": "Part one. You will hear some sentences.\nYou will hear each sentence twice.\nChoose the correct reply to each sentence, A, B, or C.\nMark your answers on the answer sheet.\nSpeaker one. The party starts at 8 o'clock and don't be late.\nThe party starts at 8 o'clock and don't be late.\nSpeaker two. I was thinking we could get a bite to eat and catch a movie.\nI was thinking we could get a bite to eat and catch a movie.\nSpeaker three. Have you checked the connections on your computer?\nHave you checked the connections on your computer?\nSpeaker four. Today's my wife's birthday and I need some flowers.\nToday's my wife's birthday and I need some flowers.\nSpeaker five. Where do they grow mangoes?\nWhere do they grow mangoes?\nSpeaker six. What's the price of this ultra high definition TV?\nWhat's the price of this ultra high definition TV?\nSpeaker seven. We have a 50% discount to all the radios on sale today.\nWe have a 50% discount to all the radios on sale today.\nSpeaker eight. I'm really glad that you came to see me.\nI'm really glad that you came to see me.\nNow, listen again.\nThat is the end of part one.",
+    "instruction": "You will hear some sentences. You will hear each sentence twice. Choose the correct reply to each sentence (A, B, or C).",
+    "questionRange": "1-8",
+    "answerHighlights": {
+     "1": [
+      5
+     ],
+     "2": [
+      7
+     ],
+     "3": [
+      9
+     ],
+     "4": [
+      11
+     ],
+     "5": [
+      13
+     ],
+     "6": [
+      15
+     ],
+     "7": [
+      17
+     ],
+     "8": [
+      19
+     ]
+    }
+   },
+   {
+    "type": "gap-fill-form",
+    "title": "Part 2",
+    "answers": {
+     "9": [
+      "history",
+      "History",
+      "HISTORY"
+     ],
+     "10": [
+      "tea",
+      "Tea",
+      "TEA"
+     ],
+     "11": [
+      "interviews",
+      "Interviews",
+      "INTERVIEWS"
+     ],
+     "12": [
+      "name",
+      "Name",
+      "NAME"
+     ],
+     "13": [
+      "reporter",
+      "Reporter",
+      "REPORTER"
+     ],
+     "14": [
+      "House",
+      "house",
+      "HOUSE"
+     ]
+    },
+    "audioFile": "https://audio.mock-stream.com/test27/Part%202.m4a",
+    "formTitle": "Radio Presenter",
+    "questions": [
+     {
+      "id": 9,
+      "hint": "studied ____"
+     },
+     {
+      "id": 10,
+      "hint": "drinks ____"
+     },
+     {
+      "id": 11,
+      "hint": "job is ____"
+     },
+     {
+      "id": 12,
+      "hint": "remember a ____"
+     },
+     {
+      "id": 13,
+      "hint": "be a ____"
+     },
+     {
+      "id": 14,
+      "hint": "Hatfield ____"
+     }
+    ],
+    "partNumber": 2,
+    "transcript": "Part two.\nYou will hear someone giving a talk.\nFor each question, fill in the missing information in the numbered space.\nWrite one word or a number for each answer.\nFor each question, write the correct answer in the gap.\nWrite one or two words or a number or a date or a time.\nYou have 20 seconds.\nYou will hear a man called Jack Pindar talking to a group of students about his job as a radio presenter.\n\nGood morning.\nThanks for inviting me to come and talk to you all today.\nI have been a radio presenter for 10 years now.\nI started doing DJ work for the University Radio station.\nStrangely, I wasn't studying music or art.\nIn fact, I was a history student, but I've always loved music.\nI do the breakfast show Monday to Friday.\nI start at 6:00 a.m. and I'm not much of a breakfast person, so I don't eat before the show.\nEveryone eats and drinks loads of strong coffee, but I'm a tea man myself.\nOne big cup, and then I'm ready to start.\nOnce I finish the show at 10:00, I have my breakfast then and a glass of juice.\nI love my job because I get to play great music.\nThe best thing of all is when I get to do interviews.\nI've met some amazing people, some of them famous, and some of them just ordinary people who have done wonderful things.\nUnfortunately, I have made myself look silly a few times.\nMy memory isn't that good.\nIt's not that I forget dates or times or anything like that, but once, in the middle of talking to a politician, I forgot their name.\nThat was not good.\nI had never thought that I would have a successful career as a radio presenter when I was at university.\nI was always interested in teaching or acting, but if I changed careers now, I would definitely be a reporter of some kind as I love talking to people.\nWell, that's a little bit about me.\nIf any of you are free this weekend and aren't too busy studying or going to clubs, why not come and see me at a charity event I'm doing at Hatfield House?\nIf you want to make a note of that, it's spelled H a t f i e l d house.\nI hope to see some of you there.\n\nNow, listen again.\nGood morning.\nThanks for inviting me to come and talk to you all today.\nI have been a radio presenter for 10 years now.\nI started doing DJ work for the University Radio station.\nStrangely, I wasn't studying music or art.\nIn fact, I was a history student, but I've always loved music.\nI do the breakfast show Monday to Friday.\nI start at 6:00 a.m. and I'm not much of a breakfast person, so I don't eat before the show.\nEveryone eats and drinks loads of strong coffee, but I'm a tea man myself.\nOne big cup, and then I'm ready to start.\nOnce I finished the show at 10:00, I have my breakfast then and a glass of juice.\nI love my job because I get to play great music.\nThe best thing of all is when I get to do interviews.\nI've met some amazing people, some of them famous, and some of them just ordinary people who have done wonderful things.\nUnfortunately, I have made myself look silly a few times.\nMy memory isn't that good.\nIt's not that I forget dates or times or anything like that, but once, in the middle of talking to a politician, I forgot their name.\nThat was not good.\nI had never thought that I would have a successful career as a radio presenter when I was at university.\nI was always interested in teaching or acting, but if I changed careers now, I would definitely be a reporter of some kind as I love talking to people.\nWell, that's a little bit about me.\nIf any of you are free this weekend and aren't too busy studying or going to clubs, why not come and see me at a charity event I'm doing at Hatfield House?\nIf you want to make a note of that, it's spelled H a t f i e l d house.\nI hope to see some of you there.\n\nThat is the end of part two.",
+    "formContent": [
+     {
+      "text": "At university Jack studied",
+      "type": "item-gap",
+      "gapId": 9
+     },
+     {
+      "text": "Before the show Jack drinks",
+      "type": "item-gap",
+      "gapId": 10
+     },
+     {
+      "text": "Jack’s favourite part of the job is",
+      "type": "item-gap",
+      "gapId": 11
+     },
+     {
+      "text": "Jack was embarrassed when he couldn’t remember a",
+      "type": "item-gap",
+      "gapId": 12
+     },
+     {
+      "text": "If Jack wasn’t a radio presenter he would be a",
+      "type": "item-gap",
+      "gapId": 13
+     },
+     {
+      "text": "Jack will be doing a charity show at Hatfield",
+      "type": "item-gap",
+      "gapId": 14,
+      "gapSuffix": "at the weekend"
+     }
+    ],
+    "instruction": "You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. Write ONE WORD and / or A NUMBER for each answer.",
+    "questionRange": "9-14",
+    "answerHighlights": {
+     "9": [
+      15
+     ],
+     "10": [
+      18
+     ],
+     "11": [
+      22
+     ],
+     "12": [
+      26
+     ],
+     "13": [
+      29
+     ],
+     "14": [
+      31
+     ]
+    }
+   },
+   {
+    "type": "matching-speakers",
+    "title": "Part 3",
+    "answers": {
+     "15": "F",
+     "16": "D",
+     "17": "B",
+     "18": "A"
+    },
+    "options": [
+     {
+      "text": "to record certain images",
+      "letter": "A"
+     },
+     {
+      "text": "to view a particular exhibit",
+      "letter": "B"
+     },
+     {
+      "text": "to listen to a lecture",
+      "letter": "C"
+     },
+     {
+      "text": "to seek expert opinion",
+      "letter": "D"
+     },
+     {
+      "text": "to check some data",
+      "letter": "E"
+     },
+     {
+      "text": "to do some research",
+      "letter": "F"
+     }
+    ],
+    "speakers": [
+     {
+      "id": 15,
+      "label": "Speaker 1"
+     },
+     {
+      "id": 16,
+      "label": "Speaker 2"
+     },
+     {
+      "id": 17,
+      "label": "Speaker 3"
+     },
+     {
+      "id": 18,
+      "label": "Speaker 4"
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test27/Part%203.m4a",
+    "partNumber": 3,
+    "transcript": "Part three.\nYou will hear people speaking in different situations.\nMatch each speaker, 15 to 18, to the options, A F.\nYou'll hear five short extracts in which people are talking about visits they have made to museums.\nWhile you listen, you must complete both tasks.\nYou now have 45 seconds to look at part four.\nSpeaker one.\nI spent last weekend at a friend's.\nHis parents live on the coast.\nHe went off somewhere on Saturday leaving me struggling with the history course work I had to finish by Monday.\nI wandered into the town center and saw the museum, and I remembered how my mother always used to say that local museums are often a mine of information, and I needed inspiration.\nI bought my ticket from the affable guy on duty.\nThere was plenty of material, well displayed, and a temporary exhibition of deep-sea fishing equipment.\nBut more importantly, all the stuff was closely associated with the town and reflected its history as a once thriving fishing port.\nSpeaker two.\nGoing to museums is not something I often do.\nAt the moment, I get enough lectures and information overload at college.\nBut Dad's got himself a metal detector and become a treasure hunter.\nLast week, he found this funny little brooch, and I said I'd show it to someone who'd know what it was.\nThere were a whole lot of people there.\nMaybe there was something special going on, and the staff kept me hanging about.\nSo, to fill the time, I tried out one of those tape machines and listened to a lively commentary, which certainly made the displays and reconstructions more relevant.\nI didn't come back with any good news for Dad though.\nNo treasure this time.\nSpeaker three.\nI've got a German friend staying at the moment, and last week, I dragged him off to the town museum.\nI thought he might learn a bit of local history.\nA team of archeologists have been working in the town center car park and unearthed an unusual bit of prehistoric pottery.\nIt's in the museum for now, and I was very keen to take a look and see what the experts were saying about it.\nMy friend said he'd bring his new camera.\nThe hoard has already been researched in detail, and the staff have produced an in-depth explanatory leaflet reflecting this.\nI was really pleased to learn so much, and my friend was pretty chuffed at how his new camera performed.\nSpeaker four.\nI remember going to our local museum when I was in primary school.\nIt was very boring.\nBut I hadn't been back again until last week.\nI was really surprised to find they'd made several changes.\nThey have those audio guides now and weekly lectures, and the information boards have been updated.\nAnd to crown it all, instead of having everything in cabinets, they've built mock up scenes, like a medieval kitchen, for example.\nConvincingly realistic and much more effective.\nI managed to do some half-decent sketches of them.\nA friend in the states studying the period had asked me to do this for him.\nThere were a lot of people.\nI'm not surprised the place is more popular these days.\nNow you'll hear part four again.\nSpeaker one.\nI spent last week weekend at a friend's.\nHis parents live on the coast.\nHe went off somewhere on Saturday leaving me struggling with the history course work I had to finish by Monday.\nI wandered into the town center and saw the museum and I remembered how my mother always used to say that local museums are often a mine of information and I needed inspiration.\nI bought my ticket from the affable guy on duty.\nThere was plenty of material well displayed and a temporary exhibition of deep-sea fishing equipment.\nBut more importantly, all the stuff was closely associated with the town and reflected its history as a once thriving fishing port.\nSpeaker two.\nGoing to museums is not something I often do.\nAt the moment, I get enough lectures and information overload at college, but Dad's got himself a metal detector and become a treasure hunter.\nLast week, he found this funny little broach, and I said I'd show it to someone who'd know what it was.\nThere were a whole lot of people there.\nMaybe there was something special going on, and the staff kept me hanging about.\nSo, to fill the time, I tried out one of those tape machines and listened to a lively commentary, which certainly made the displays and reconstructions more relevant.\nI didn't come back with any good news for Dad, though.\nNo treasure this time.\nSpeaker three.\nI've got a German friend staying at the moment, and last week, I dragged him off to the town museum.\nI thought he might learn a bit of local history.\nA team of archaeologists have been working in the town center car park and unearthed an unusual bit of prehistoric pottery.\nIt's in the museum for now, and I was very keen to take a look and see what the experts were saying about it.\nMy friend said he'd bring his new camera.\nThe hoard has already been researched in detail, and the staff have produced an in-depth explanatory leaflet reflecting this.\nI was really pleased to learn so much, and my friend was pretty chuffed at how his new camera performed.\nSpeaker four.\nI remember going to our local museum when I was in primary school.\nIt was very boring.\nBut I hadn't been back again until last week.\nI was really surprised to find they'd made several changes.\nThey have those audio guides now and weekly lectures, and the information boards have been updated.\nAnd to crown it all, instead of having everything in cabinets, they've built mock-up scenes, like a medieval kitchen, for example.\nConvincingly realistic and much more effective.\nI managed to do some half-decent sketches of them.\nA friend in the states studying the period had asked me to do this for him.\nThere were a lot of people.\nI'm not surprised the place is more popular these days.\nThat is the end of part three.",
+    "instruction": "You will hear people speaking in different situations. Match each speaker (15-18) to the reason for visiting the museum (A-F). There are TWO EXTRA options which you do not need to use.",
+    "questionRange": "15-18",
+    "answerHighlights": {
+     "15": [
+      10,
+      11
+     ],
+     "16": [
+      18,
+      19
+     ],
+     "17": [
+      28,
+      29
+     ],
+     "18": [
+      41,
+      42
+     ]
+    }
+   },
+   {
+    "type": "map-labeling",
+    "title": "Part 4",
+    "answers": {
+     "19": "I",
+     "20": "C",
+     "21": "D",
+     "22": "H",
+     "23": "A"
+    },
+    "mapImage": "https://audio.mock-stream.com/test27/Gemini_Generated_Image_862i3c862i3c862i.png",
+    "mapTitle": "Campus Area",
+    "audioFile": "https://audio.mock-stream.com/test27/Part%204.m4a",
+    "mapLabels": [
+     "A",
+     "B",
+     "C",
+     "D",
+     "E",
+     "F",
+     "G",
+     "H",
+     "I"
+    ],
+    "questions": [
+     {
+      "id": 19,
+      "place": "Town hall"
+     },
+     {
+      "id": 20,
+      "place": "Supermarket"
+     },
+     {
+      "id": 21,
+      "place": "Post office"
+     },
+     {
+      "id": 22,
+      "place": "Primary school"
+     },
+     {
+      "id": 23,
+      "place": "Wok’n’Roll"
+     }
+    ],
+    "partNumber": 4,
+    "transcript": "Part four.\nYou will hear someone giving a talk.\nLabel the places 19 to 23 on the map A-H.\nThere are three extra options which you do not need to use.\nMark your answers on the answer sheet.\nYou now have some time to look at questions.\nStraight across from the library, you'll find the town hall.\nThere's a lovely atrium there, and the cafe serves some very tasty soups and sandwiches.\nWell worth checking out.\nThe town hall was rebuilt in the 1960s in the same style as the supermarket, which is just beside the police station in Park Lane.\nThat part of Shipsbury was hit by a bomb during the Second World War, so some rebuilding was necessary.\nYou'll find though that the rest of the town center retains its charming historic character, including the post office, which is opposite the Park Hotel.\nComing down Sheep Street, you'll find St. Mary's Church at the corner of Church Lane.\nThe church is across the road from the primary school, which is between Sheep Street and the park.\nOn the last Sunday of the month, you can climb the church tower, which gives a lovely view of the river a block away.\nOn your way back to the student center, come along Church Lane.\nAt the intersection with the High Street, you'll find walk and roll, our most popular Chinese takeaway, and with good reason.\nThe food is delicious, and the prices are terribly affordable.\nBe sure to place your orders before 7:00 p.m. on a Saturday night, or you'll be out of luck.\nNow, listen again.\nStraight across from the library, you'll find the town hall.\nThere's a lovely atrium there, and the cafe serves some very tasty soups and sandwiches.\nWell worth checking out.\nThe town hall was rebuilt in the 1960s in the same style as the supermarket, which is just beside the police station in Park Lane.\nThat part of Shipsbury was hit by a bomb during the Second World War, so some rebuilding was necessary.\nYou'll find though that the rest of the town center retains its charming historic character, including the post office, which is opposite the Park Hotel.\nComing down Sheep Street, you'll find St. Mary's Church at the corner of Church Lane.\nThe church is across the road from the primary school, which is between Sheep Street and the park.\nOn the last Sunday of the month, you can climb the church tower, which gives a lovely view of the river a block away.\nOn your way back to the student center, come along Church Lane.\nAt the intersection with the High Street, you'll find walk and roll, our most popular Chinese takeaway, and with good reason.\nThe food is delicious, and the prices are terribly affordable.\nBe sure to place your orders before 7:00 p.m. on a Saturday night, or you'll be out of luck.\nThat is the end of part four.",
+    "instruction": "You will hear someone giving a talk. Label the places (19-23) on the map (A-H). There are THREE extra options which you do not need to use.",
+    "questionRange": "19-23",
+    "answerHighlights": {
+     "19": [
+      7
+     ],
+     "20": [
+      10
+     ],
+     "21": [
+      12
+     ],
+     "22": [
+      14
+     ],
+     "23": [
+      17
+     ]
+    }
+   },
+   {
+    "type": "mcq-extracts",
+    "title": "Part 5",
+    "answers": {
+     "24": "B",
+     "25": "B",
+     "26": "B",
+     "27": "A",
+     "28": "A",
+     "29": "B"
+    },
+    "extracts": [
+     {
+      "title": "Extract One",
+      "context": "You hear a trainee teacher called Susanna talking to her tutor.",
+      "questions": [
+       {
+        "id": 24,
+        "text": "What point does the tutor make about a teacher’s attitude?",
+        "options": [
+         {
+          "text": "A good teacher can put any subject across effectively.",
+          "letter": "A"
+         },
+         {
+          "text": "Students will pick up on a teacher’s commitment.",
+          "letter": "B"
+         },
+         {
+          "text": "There’s little point in a teacher trying to fake passion for a subject.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 25,
+        "text": "What is Susanna doing?",
+        "options": [
+         {
+          "text": "complaining about her students’ lack of enthusiasm",
+          "letter": "A"
+         },
+         {
+          "text": "proposing ways of making her subject more appealing",
+          "letter": "B"
+         },
+         {
+          "text": "asking for ideas about exercises her students could do",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Extract Two",
+      "context": "You hear a student called Sam telling his friend Ella about a concert he’s been to.",
+      "questions": [
+       {
+        "id": 26,
+        "text": "Sam is trying to",
+        "options": [
+         {
+          "text": "suggest how the visual impact could have been improved.",
+          "letter": "A"
+         },
+         {
+          "text": "challenge Ella’s preconceptions about the music.",
+          "letter": "B"
+         },
+         {
+          "text": "persuade Ella to go to a similar one in the future.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 27,
+        "text": "In Sam’s opinion, what makes the performer stand out?",
+        "options": [
+         {
+          "text": "the influence her academic background has on her music",
+          "letter": "A"
+         },
+         {
+          "text": "the instinctive way she responds to her audience",
+          "letter": "B"
+         },
+         {
+          "text": "the high level of stage presence she displays",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Extract Three",
+      "context": "You hear a woman telling her friend about new policies adopted by her company.",
+      "questions": [
+       {
+        "id": 28,
+        "text": "Staff have been planting trees in order to",
+        "options": [
+         {
+          "text": "promote a desirable image.",
+          "letter": "A"
+         },
+         {
+          "text": "encourage a spirit of mutual co-operation.",
+          "letter": "B"
+         },
+         {
+          "text": "compensate for environmental damage.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 29,
+        "text": "The company was surprised that its remote working initiative resulted in",
+        "options": [
+         {
+          "text": "more appreciative customers.",
+          "letter": "A"
+         },
+         {
+          "text": "a better standard of new recruits.",
+          "letter": "B"
+         },
+         {
+          "text": "a more motivated workforce.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test27/Part%205.m4a",
+    "partNumber": 5,
+    "transcript": "Narrator: Part five.\nYou will hear three extracts.\nChoose the correct answer, A, B or C, for each question, 24 to 29.\nThere are two questions for each extract.\nMark your answers on the answer sheet.\nYou now have some time to look at questions.\n\nHow are you finding the teaching course, Susanna?\nYou seem to have been making good progress so far.\nYeah, I'm feeling more confident in front of my students, but I worry about whether they're inspired by the activities I do with them sometimes.\nI guess this is a wake up call for me that it's just too much to expect them to be as excited about maths as I am.\nI think when a teacher is motivated, that can't fail to make an impression.\nYou can't expect your students to love a subject unless they can see you love it yourself.\nSure, your students will think you're crazy if you talk about math as if it were a spectator sport, but in the end, your attitude will rub off on them.\nI was reading about some techniques I could try in the classroom to keep their interest levels up.\nI've been trying to get some more hands-on stuff into my classes.\nYou know, trying things out in a practical sense rather than sticking to boring theory.\nSounds like an excellent idea.\nStudents always appreciate a teacher who goes the extra mile for them.\n\nHow are you finding the teaching course, Susanna?\nYou seem to have been making good progress so far.\nYeah, I'm feeling more confident in front of my students, but I worry about whether they're inspired by the activities I do with them sometimes.\nI guess this is a wake up call for me that it's just too much to expect them to be as excited about maths as I am.\nI think when a teach\nis motivated, that can't fail to make an impression.\nYou can't expect your students to love a subject unless they can see you love it yourself.\nSure, your students will think you're crazy if you talk about math as if it were a spectator sport, but in the end, your attitude will rub off on them.\nI was reading about some techniques I could try in the classroom to keep their interest levels up.\nI've been trying to get some more hands-on stuff into my classes.\nYou know, trying things out in a practical sense rather than sticking to boring theory.\nSounds like an excellent idea.\nStudents always appreciate a teacher who goes the extra mile for them.\nNarrator: Extract two.\nYou hear a student called Sam telling his friend Ella about a concert he's been to.\nNow look at questions three and four.\n\nSo you decided against the concert then?\nI thought about it, but I don't really think it's possible to get caught up in the atmosphere when all you see is someone pressing buttons on a computer and tinkling the keys on a synthesizer.\nThat's all this electronic music amounts to.\nAdmittedly, the performer was dressed all in black and she looked like a scene shifter, and the visuals were limited.\nThere was a screen, but just with some sober animations on it.\nTrees, castles, rippling water, that sort of thing.\nYeah, that says it all.\nBut does that matter if the music's brilliant?\nAnd it certainly was, but that's just my opinion.\nTell me something about her then.\nWell, she's a student, studying comparative literature, I think.\nThat seems to give a bit of substance to her music.\nMake it thoughtful and rigorous.\nSounds overly serious.\nWell, it all paid off.\nWhen the audience got more lively towards the end, she kept it steady and didn't change pace to build excitement.\nAnd she didn't seem to need the pyrotechnics and lasers that so many techies rely on.\n\nSo you decided against the concert then?\nI thought about it, but I don't really think it's possible to get caught up in the atmosphere when all you see is someone pressing buttons on a computer and tinkling the keys on a synthesizer.\nThat's all this electronic music amounts to.\nAdmittedly, the performer was dressed all in black, and she looked like a scene shifter.\nAnd the visuals were limited.\nThere was a screen, but just with some sober animations on it.\nTrees, castles, rippling water, that sort of thing.\nYeah, that says it all.\nBut does that matter?\nIf the music's brilliant, and it certainly was, but that's just my opinion.\nTell me something about her then.\nWell, she's a student.\nStudying comparative literature, I think.\nThat seems to give a bit of substance to her music.\nMake it thoughtful and rigorous.\nSounds overly serious.\nWell, it all paid off.\nWhen the audience got more lively towards the end, she kept it steady and didn't change pace to build excitement.\nAnd she didn't seem to need the pyrotechnics and lasers that so many techies rely on.\nNarrator: Extract three.\nYou hear a woman telling her friend about new policies adopted by her company.\nNow look at questions five and six.\n\nI heard that people from your office were planting trees last week.\nWhat's going on?\nSustainability is the new watchword these days.\nLast year we concentrated on cutting down on our use of paper and providing raw material for more also seemed a good thing to do.\nAnd easier, too.\nYour office is next door to a big forest, isn't it?\nYes, very convenient.\nWe're really keen on the idea that the company should be seen to identify with a certain set of values, and I think we were doing just that out there in the woods.\nSo much internal conflict seemed forgotten, too, which may not last, of course.\nWhat else have you done?\nIt's not just the trees, of course.\nWe've cut down our carbon footprint and reduced staff travel by encouraging remote working and flexible homeworking.\nSo people have been understandably pleased about that.\nAnd word seems to have got round because the last bunch of job applicants were a very noticeably higher caliber than previously, and I'm pretty sure that wasn't just a coincidence, though it wasn't part of our original thinking.\nThere are certainly plenty of happy clients, but they've always been keen on the idea of supporting community projects through our efforts.\n\nI heard that people from your office were planting trees last week.\nWhat's going on?\nSustainability is the new watchword these days.\nLast year we concentrated on cutting down on our use of paper and providing raw material for more.\nAlso seemed a good thing to do.\nAnd easier too.\nYour office is next door to a big forest, isn't it?\nYes, very convenient.\nWe're really keen on the idea that the company should be seen to identify with a certain set of values, and I think we were doing just that out there in the woods.\nSo much internal conflict seemed forgotten, too, which may not last, of course.\nWhat else have you done?\nIt's not just the trees, of course.\nWe've cut down our carbon footprint and reduced staff travel by encouraging remote working and flexible homeworking.\nSo people have been understandably pleased about that.\nAnd word seems to have got round because the last bunch of job applicants were a very noticeably higher caliber than previously, and I'm pretty sure that wasn't just a coincidence, though it wasn't part of our original thinking.\nThere are certainly plenty of happy clients, but they've always been keen on the idea of supporting community projects through our efforts.\nNarrator: That is the end of part five.",
+    "instruction": "You will hear three extracts. Choose the correct answer (A, B or C) for each question (24-29). There are TWO questions for each extract.",
+    "questionRange": "24-29",
+    "answerHighlights": {
+     "24": [
+      12,
+      13
+     ],
+     "25": [
+      15,
+      16,
+      17
+     ],
+     "26": [
+      39,
+      40,
+      45
+     ],
+     "27": [
+      48,
+      49,
+      50
+     ],
+     "28": [
+      86
+     ],
+     "29": [
+      92
+     ]
+    }
+   },
+   {
+    "type": "sentence-completion",
+    "title": "Part 6",
+    "answers": {
+     "30": [
+      "queen",
+      "Queen",
+      "QUEEN"
+     ],
+     "31": [
+      "colony",
+      "Colony",
+      "COLONY"
+     ],
+     "32": [
+      "wood",
+      "Wood",
+      "WOOD"
+     ],
+     "33": [
+      "staircase",
+      "Staircase",
+      "STAIRCASE"
+     ],
+     "34": [
+      "sandbags",
+      "Sandbags",
+      "SANDBAGS",
+      "sand bags",
+      "Sand bags",
+      "Sand Bags"
+     ],
+     "35": [
+      "intelligence",
+      "Intelligence",
+      "INTELLIGENCE"
+     ]
+    },
+    "audioFile": "https://audio.mock-stream.com/test27/Part%206.m4a",
+    "questions": [
+     {
+      "id": 30,
+      "hint": "a ____ is not responsible"
+     },
+     {
+      "id": 31,
+      "hint": "the word ____"
+     },
+     {
+      "id": 32,
+      "hint": "partially consumed ____"
+     },
+     {
+      "id": 33,
+      "hint": "construction of a ____"
+     },
+     {
+      "id": 34,
+      "hint": "move ____ into position"
+     },
+     {
+      "id": 35,
+      "hint": "superior form of ____"
+     }
+    ],
+    "partNumber": 6,
+    "transcript": "Narrator: Part six.\nYou will hear a scientist called Jim Weller, giving a talk about some robots he has created, and how they function like insects called termites.\nComplete the sentences with a word or short phrase.\nYou now have 45 seconds to look at part two.\n\nHi, I'm Jim, and together with colleagues, I've been attempting to create a group of robots that build things in the same impressive way that termites do.\nTermites are like large ants and build amazingly complex structures called mounds to live in.\nUnlike bees, termites don't receive instructions from their queen about what to do.\nIn fact, a single worker doesn't know what the other termites are doing, or what the current overall state of the mound looks like.\nThis tells us that large numbers of units working independently, can, paradoxically, build complicated large-scale things together.\nSo, we decided to make and program what I like to call a colony of robots.\nNow, by giving the robots a picture of what we want them to build, and it doesn't matter how many of them there are, or which robot does what, they do indeed end up building what they're asked for.\nThe robots and termites both have very restricted sensing.\nA single unit can only tell what's going on right around itself.\nIt's the same with communicating.\nRather than communicating with one another directly, termites make alterations to their shared environment and others respond.\nOne deposits some soil, for example, or half-eaten wood.\nAnother one comes along later, and on seeing this, a reaction is triggered.\nWe observed this and devised a similar system with the robots.\nLike termites, the robots often make errors, for example, trying to pick up a brick and failing.\nRather than trying to prevent those errors, we give them enough feedback to help with the recognition and correction process, so they try again until they get it right.\nSo they keep patrolling the structure, fixing only what needs fixing.\nI've demonstrated this in action several times in public presentations, with one of our robots.\nIt had to try to complete the structure I asked it to, in this case, a staircase.\nAnd there was a block missing at the top.\nSo, it had to try and pick up building material from the loading area, and walk up the structure until it discovered exactly what needed attention.\nIn the long term, one day robots like this could build for us in inaccessible or dangerous settings, such as underwater or on Mars.\nIn the shorter term, the same principle applies.\nSo, for instance, if you wanted to position sandbags to protect against rising flood water, or build in difficult Antarctic surroundings, you can imagine how hardware and approaches very much like this could be used.\nIn a sense, termites are like cells in your brain, all acting independently, but interacting with each other, and out of that comes a higher intelligence.\nAnd in a similar kind of way, our robots are individuals, moving around independently with no central coordination, and together, hopefully, producing complicated structures.\nOne spin-off piece of research has already been put into place.\nA Turkish group has been working alongside us to see if the way the robots and termites operate can actually be captured in a mathematical model to be used in future projects.\nIt's a fascinating idea, and I believe there are similar studies with flocks of birds and shoals of fish.\nNow, let me move on to.\n\nNarrator: Now, listen again.\nHi, I'm Jim, and together with colleagues, I've been attempting to create a group of robots that build things in the same impressive way that termites do.\nTermites are like large ants and build amazingly complex structures called mounds to live in.\nUnlike bees, termites don't receive instructions from their queen about what to do.\nIn fact, a single worker doesn't know what the other termites are doing, or what the current overall state of the mound looks like.\nThis tells us that large numbers of units working independently, can, paradoxically, build complicated large-scale things together.\nSo, we decided to make and program what I like to call a colony of robots.\nNow, by giving the robots a picture of what we want them to build, and it doesn't matter how many of them there are, or which robot does what, they do indeed end up building what they're asked for.\nThe robots and termites both have very restricted sensing.\nA single unit can only tell what's going on right around itself.\nIt's the same with communicating.\nRather than communicating with one another directly, termites make alterations to their shared environment and others respond.\nOne deposits some soil, for example, or half-eaten wood.\nAnother one comes along later, and on seeing this, a reaction is triggered.\nWe observed this and devised a similar system with the robots.\nLike termites, the robots often make errors, for example, trying to pick up a brick and failing.\nRather than trying to prevent those errors, we give them enough feedback to help with the recognition and correction process, so they try again until they get it right.\nSo they keep patrolling the structure, fixing only what needs fixing.\nI've demonstrated this in action several times in public presentations with one of our robots.\nIt had to try to complete the structure I asked it to, in this case, a staircase, and there was a block missing at the top.\nSo, it had to try and pick up building material from the loading area and walk up the structure until it discovered exactly what needed attention.\nIn the long term, one day robots like this could build for us in inaccessible or dangerous settings, such as underwater or on Mars.\nIn the shorter term, the same principle applies.\nSo, for instance, if you wanted to position sandbags to protect against rising flood water, or build in difficult Antarctic surroundings, you can imagine how hardware and approaches very much like this could be used.\nIn a sense, termites are like cells in your brain, all acting independently, but interacting with each other, and out of that comes a higher intelligence.\nAnd in a similar kind of way, our robots are individuals, moving around independently with no central coordination, and together, hopefully, producing complicated structures.\nOne spin-off piece of research has already been put into place.\nA Turkish group has been working alongside us to see if the way the robots and termites operate can actually be captured in a mathematical model to be used in future projects.\nIt's a fascinating idea, and I believe there are similar studies with flocks of birds and shoals of fish.\nNow, let me move on to\n\nNarrator: That is the end of part six.",
+    "instruction": "You will hear a part of a lecture. For each question, fill in the missing information in the numbered space. Write no more than one word for each answer.",
+    "passageTitle": "Robots Like Termites",
+    "questionRange": "30-35",
+    "passageContent": "Jim says termites differ from bees in that a <span class=\"gap-input\" data-gap=\"30\">_____(30)_____</span> is not responsible for organising their building work.<br><br>Jim uses the word <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span> to refer to the group of robots he’s created to function as independent units.<br><br>Jim observed termites depositing partially consumed <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span> in shared habitats, which activated a response from other termites.<br><br>Jim states that the robots receive enough feedback to help them correct any errors they make.<br><br>Jim got a single robot to finish the construction of a <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span> when publicly demonstrating how simple structure building is performed.<br><br>Jim predicts that his robots will soon be able to move <span class=\"gap-input\" data-gap=\"34\">_____(34)_____</span> into position to help people cope with the threat of floods.<br><br>Jim compares both termites and his robots to brain cells, in that they all create a superior form of <span class=\"gap-input\" data-gap=\"35\">_____(35)_____</span>.",
+    "answerHighlights": {
+     "30": [
+      8
+     ],
+     "31": [
+      11
+     ],
+     "32": [
+      17
+     ],
+     "33": [
+      24
+     ],
+     "34": [
+      29
+     ],
+     "35": [
+      30
+     ]
+    }
+   }
+  ],
+  "examDate": "2026-05-05",
+  "testInfo": {
+   "id": "cefr-listening-27",
+   "level": "B1-C1",
+   "title": "CEFR Listening Mock Test 27",
+   "totalTime": 40,
+   "totalQuestions": 35
+  }
+ },
+ "created_at": "2026-05-15T15:19:25.714434+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

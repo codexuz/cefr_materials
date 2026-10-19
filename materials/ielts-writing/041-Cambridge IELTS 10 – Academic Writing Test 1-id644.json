@@ -1,0 +1,146 @@
+{
+ "id": 644,
+ "mock_type": "ielts-writing",
+ "mock_number": 41,
+ "title": "Cambridge IELTS 10 – Academic Writing Test 1",
+ "status": "published",
+ "mock_data": {
+  "tasks": {
+   "task1": {
+    "title": "Australian household energy use and greenhouse gas emissions",
+    "prompt": "The first chart below shows how energy is used in an average Australian household. The second chart shows the greenhouse gas emissions which result from this energy use.",
+    "wordGoal": 150,
+    "chartDesc": {
+     "title": "Australian household energy use / Australian household greenhouse gas emissions",
+     "xAxis": "Household energy categories",
+     "yAxis": "Percentage (%)",
+     "period": "",
+     "series": [
+      {
+       "name": "Australian household energy use",
+       "points": [
+        {
+         "at": "heating",
+         "value": 42
+        },
+        {
+         "at": "water heating",
+         "value": 30
+        },
+        {
+         "at": "other appliances",
+         "value": 15
+        },
+        {
+         "at": "refrigeration",
+         "value": 7
+        },
+        {
+         "at": "lighting",
+         "value": 4
+        },
+        {
+         "at": "cooling",
+         "value": 2
+        }
+       ]
+      },
+      {
+       "name": "Australian household greenhouse gas emissions",
+       "points": [
+        {
+         "at": "water heating",
+         "value": 32
+        },
+        {
+         "at": "other appliances",
+         "value": 28
+        },
+        {
+         "at": "heating",
+         "value": 15
+        },
+        {
+         "at": "refrigeration",
+         "value": 14
+        },
+        {
+         "at": "lighting",
+         "value": 8
+        },
+        {
+         "at": "cooling",
+         "value": 3
+        }
+       ]
+      }
+     ],
+     "overview": "Heating accounts for the largest proportion of household energy use (42%), whereas water heating generates the highest share of greenhouse gas emissions (32%). While heating consumes significant energy, its contribution to total emissions is disproportionately low at only 15%.",
+     "chartType": "pie chart",
+     "confidence": "high",
+     "unreadable": [],
+     "keyFeatures": [
+      "Heating is the largest category for energy use at 42%, but drops to 15% for greenhouse gas emissions.",
+      "Water heating is a major component in both charts, consuming 30% of energy and responsible for the largest share of emissions at 32%.",
+      "Other appliances consume 15% of energy but produce almost double that proportion in greenhouse gas emissions at 28%.",
+      "Refrigeration and lighting double their share from energy use (7% and 4%) to emissions (14% and 8% respectively).",
+      "Cooling accounts for the smallest percentage in both energy use (2%) and greenhouse gas emissions (3%)."
+     ]
+    },
+    "chartType": "pie_chart",
+    "dataNature": "static",
+    "instruction": "Summarise the information by selecting and reporting the main features, and make comparisons where relevant.",
+    "sampleBand5": "",
+    "sampleBand6": "",
+    "sampleBand7": "",
+    "sampleBand8": "",
+    "sampleBand9": "",
+    "timeMinutes": 20,
+    "chartDescImg": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/41.png",
+    "sampleAnswer": "",
+    "chartImageUrl": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/41.png",
+    "uzSampleBand5": "",
+    "uzSampleBand6": "",
+    "uzSampleBand7": "",
+    "uzSampleBand8": "",
+    "uzSampleBand9": "",
+    "chartDescSource": "extracted-verified-2026-08-05"
+   },
+   "task2": {
+    "title": "Punishment and learning right from wrong",
+    "prompt": "It is important for children to learn the difference between right and wrong at an early age. Punishment is necessary to help them learn this distinction.\n\nTo what extent do you agree or disagree with this opinion?\n\nWhat sort of punishment should parents and teachers be allowed to use to teach good behaviour to children?",
+    "wordGoal": 250,
+    "essayType": "two-part",
+    "instruction": "Give reasons for your answer and include any relevant examples from your own knowledge or experience.",
+    "sampleBand5": "",
+    "sampleBand6": "",
+    "sampleBand7": "",
+    "sampleBand8": "",
+    "sampleBand9": "",
+    "timeMinutes": 40,
+    "sampleAnswer": "",
+    "uzSampleBand5": "",
+    "uzSampleBand6": "",
+    "uzSampleBand7": "",
+    "uzSampleBand8": "",
+    "uzSampleBand9": ""
+   }
+  },
+  "source": "Cambridge IELTS 10 · Test 1",
+  "examDate": "",
+  "settings": {
+   "logoUrl": "https://audio.mock-stream.com/img/ibb/WN0XY5Lv/logo.png",
+   "timeInfo": "⏱ Total time: 60 minutes | Task 1: 20 min (150 words) | Task 2: 40 min (250 words)",
+   "logoWording": "Mock Stream",
+   "moduleTitle": "Academic Writing Module",
+   "testIdentifier": "IELTS Mock 41"
+  },
+  "vocabulary": {
+   "task1": [],
+   "task2": []
+  },
+  "tokenTranslations": {}
+ },
+ "created_at": "2026-07-14T12:10:18.582008+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

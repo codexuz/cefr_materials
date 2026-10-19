@@ -1,0 +1,645 @@
+{
+ "id": 96,
+ "mock_type": "cefr-writing",
+ "mock_number": 86,
+ "title": "CEFR Writing Mock 86",
+ "status": "published",
+ "mock_data": {
+  "part1": {
+   "chip": "",
+   "topic": "Car wash"
+  },
+  "tasks": {
+   "t2": {
+    "chip": "education",
+    "genre": "article",
+    "title": "People be encouraged to use electric vehicles",
+    "prompt": "A student magazine announced an article writing contest. The best ones will be published in the magazine. Write your article on this topic: \"Should people be encouraged to use electric vehicles?\" Write 180–200 words, giving reasons and examples.",
+    "sample": "<p><span class=\"ml-token colloc\">Electric vehicles</span> are gaining popularity worldwide. I <span class=\"ml-token adv\">strongly</span> believe governments <span class=\"ml-token modal\">should</span> encourage people to switch to <span class=\"ml-token colloc\">electric cars</span>.</p>\n\n<p><span class=\"ml-token adv\">Firstly</span>, EVs produce zero <span class=\"ml-token colloc\">direct emissions</span>, improving <span class=\"ml-token colloc\">air quality</span>. In cities suffering from pollution, widespread EV adoption <span class=\"ml-token modal\">could</span> <span class=\"ml-token adv\">significantly</span> reduce health problems like asthma and respiratory diseases.</p>\n\n<p><span class=\"ml-token adv\">Secondly</span>, electric vehicles are cheaper to run. Electricity costs less than petrol, and EVs require less maintenance with fewer moving parts. <span class=\"ml-token colloc\">Long-term savings</span> offset higher <span class=\"ml-token colloc\">purchase prices</span>.</p>\n\n<p><span class=\"ml-token adv\">However</span>, critics highlight <span class=\"ml-token colloc\">charging infrastructure</span> limitations. Range anxiety and long charging times concern many drivers. <span class=\"ml-token adv\">Additionally</span>, battery production has <span class=\"ml-token colloc\">environmental impacts</span>.</p>\n\n<p><span class=\"ml-token adv\">Nevertheless</span>, technology is advancing rapidly. <span class=\"ml-token colloc\">Battery technology</span> improves each year, extending range and reducing charging times. Governments can accelerate change through <span class=\"ml-token colloc\">tax incentives</span>, charging station investments, and phasing out petrol vehicles.</p>\n\n<p><span class=\"ml-token adv\">In conclusion</span>, encouraging <span class=\"ml-token colloc\">electric vehicle adoption</span> is essential for <span class=\"ml-token colloc\">sustainable transportation</span>. With proper support, EVs <span class=\"ml-token modal\">will</span> become the norm within decades.</p>",
+    "target": "180–200 words",
+    "sampleA1": "<p>Hi SparkleWash!</p><br><p>Car is good. Clean. I like it. The people are nice. Thank you!</p><br><p>Bye.</p>",
+    "sampleA2": "<p>Dear SparkleWash,</p><br><p>The car wash was good, and my car is very clean. The people were friendly, and I liked that. The waiting area was okay, but it was a bit cold. </p><br><p>Maybe you can offer a coffee? And a cheaper price would be good because it's expensive. Thank you.</p><br><p>From,<br>A Customer</p>",
+    "sampleB1": "<p>Dear SparkleWash Team,</p><br><p>Thank you for the email. I recently used your premium car wash service, and I wanted to give you some feedback. Overall, I was quite satisfied with the cleaning quality. My car looked great afterwards. The customer service was also good; the staff were polite and helpful.</p><br><p>The waiting area was reasonably comfortable, but it could be improved. Perhaps some magazines or newspapers would be a nice addition. Also, I think you could offer a package that includes interior detailing. Many people would probably be interested in that.</p><br><p>In conclusion, I had a positive experience and would recommend SparkleWash to others.</p><br><p>Sincerely,<br>A Satisfied Customer</p>",
+    "sampleB2": "Are Electric Cars the Future?\nTen years ago, spotting an electric car was a real novelty. Today, they hum quietly down every street – and <span class=\"ml-token linking\">in my opinion</span>, that is exactly how it should be.\nThe clearest reason is the environment. Unlike petrol engines, which pump harmful fumes into the air we breathe, electric vehicles produce no exhaust at all. Encouraging drivers to <span class=\"ml-token colloc\">make the switch</span> would clean up our cities and help <span class=\"ml-token colloc\">tackle climate change</span>. Norway is a <span class=\"ml-token colloc\">shining example</span>: thanks to generous incentives, nearly every new car sold there is now electric.\nThere are practical benefits too. Charging at home costs far less than filling up at the pump, and with fewer moving parts, electric cars rarely <span class=\"ml-token phrasal\">break down</span>. Little by little, the savings really <span class=\"ml-token phrasal\">add up</span>.\nOf course, critics point to steep price tags and too few charging points. These are fair worries, but prices are tumbling and stations are <span class=\"ml-token phrasal\">popping up</span> everywhere.\n<span class=\"ml-token linking\">All things considered</span>, I <span class=\"ml-token colloc\">firmly believe</span> governments should nudge people towards electric vehicles. The sooner we <span class=\"ml-token idiom\">get on board</span>, the brighter our future will look.",
+    "uzSample": "<p>Elektromobillar butun dunyoda ommalashib bormoqda. Men hukumatlar odamlarni elektromobillarga o'tishga undashi kerak, deb qat'iy ishonaman.</p>\n\n<p>Birinchidan, elektromobillar to'g'ridan-to'g'ri chiqindilarni chiqarmaydi, bu esa havo sifatini yaxshilaydi. Ifloslanishdan aziyat chekayotgan shaharlarda elektromobillarni keng joriy etish astma va nafas olish yo'llari kasalliklari kabi sog'liq muammolarini sezilarli darajada kamaytirishi mumkin.</p>\n\n<p>Ikkinchidan, elektromobillarni ishlatish arzonroq. Elektr energiyasi benzinga qaraganda arzonroq va elektromobillar kamroq harakatlanuvchi qismlar bilan kamroq texnik xizmat ko'rsatishni talab qiladi. Uzoq muddatli tejash yuqori xarid narxlarini qoplaydi.</p>\n\n<p>Biroq, tanqidchilar zaryadlash infratuzilmasining cheklanganligini ta'kidlashadi. Masofa xavotiri va uzoq zaryadlash vaqti ko'plab haydovchilarni tashvishga solmoqda. Bundan tashqari, batareya ishlab chiqarishning atrof-muhitga ta'siri bor.</p>\n\n<p>Shunga qaramay, texnologiya jadal rivojlanmoqda. Batareya texnologiyasi har yili yaxshilanib, masofani uzaytiradi va zaryadlash vaqtini qisqartiradi. Hukumatlar soliq imtiyozlari, zaryadlash stantsiyalariga investitsiyalar va benzinli transport vositalarini bosqichma-bosqich bekor qilish orqali o'zgarishlarni tezlashtirishi mumkin.</p>\n\n<p>Xulosa qilib aytganda, elektromobillarni qabul qilishni rag'batlantirish barqaror transport uchun zarurdir. To'g'ri qo'llab-quvvatlash bilan elektromobillar o'n yillar ichida odatiy holga aylanadi.</p>",
+    "uzSampleA1": "<p>Salom, SparkleWash!</p><br><p>Mashina yaxshi. Toza. Menga yoqadi. Odamlar yaxshi. Rahmat!</p><br><p>Xayr.</p>",
+    "uzSampleA2": "<p>Hurmatli SparkleWash,</p><br><p>Mashina yuvish yaxshi bo'ldi va mashinam juda toza. Odamlar do'stona edi va bu menga yoqdi. Kutish joyi yaxshi edi, lekin biroz sovuq edi.</p><br><p>Balki siz kofe taklif qilishingiz mumkin? Va arzonroq narx yaxshi bo'lardi, chunki u qimmat. Rahmat.</p><br><p>Kimdan,<br>Bir mijoz</p>",
+    "uzSampleB1": "<p>Hurmatli SparkleWash jamoasi,</p><br><p>Elektron pochta xabaringiz uchun rahmat. Yaqinda sizning premium avtomobil yuvish xizmatingizdan foydalandim va sizga bir oz fikr-mulohaza bildirishni xohladim. Umuman olganda, tozalash sifati meni juda qoniqtirdi. Mashinam keyin ajoyib ko'rinishga ega bo'ldi. Mijozlarga xizmat ko'rsatish ham yaxshi edi; xodimlar xushmuomala va yordam berishga tayyor edilar.</p><br><p>Kutish joyi yetarlicha qulay edi, lekin uni yaxshilash mumkin. Ehtimol, ba'zi jurnallar yoki gazetalar yaxshi qo'shimcha bo'lardi. Shuningdek, menimcha, siz ichki detallarni tozalashni o'z ichiga olgan paketni taklif qilishingiz mumkin. Ko'pchilik bundan manfaatdor bo'lishi mumkin.</p><br><p>Xulosa qilib aytganda, men ijobiy tajribaga ega bo'ldim va SparkleWashni boshqalarga tavsiya qilaman.</p><br><p>Hurmat bilan,<br>Qoniqish hosil qilgan mijoz</p>",
+    "uzSampleB2": "<p>Hurmatli SparkleWash jamoasi,</p><br><p>Men sizning premium avtomobil yuvish xizmatidagi yaqinda bo'lgan tajribam haqida fikr-mulohazalarimni bildirish uchun yozyapman. Umuman olganda, tozalashning puxtaligi va xizmat ko'rsatishning umumiy sifati meni hayratga soldi. Mening avtomobilim boshqa muassasalarga tashriflardan keyin ancha toza ko'rinishga ega bo'ldi.</p><br><p>Mijozlarga xizmat ko'rsatish ham maqtovga sazovor edi; xodimlar e'tiborli bo'lishdi va mening savollarimga samarali javob berishdi. Biroq, kutish joyi, yetarli bo'lsa-da, ba'zi yaxshilanishlardan foyda ko'rishi mumkin. Ehtimol, o'rindiqlarni yaxshilash yoki bepul Wi-Fi taqdim etish mijozlar tajribasini oshirishi mumkin.</p><br><p>Qo'shimcha xizmatlarga kelsak, menimcha, keramik qoplama variantini taklif qilish uzoq muddatli bo'yoqni himoya qilishni istagan mijozlarga mos keladi. Bundan tashqari, bosqichma-bosqich imtiyozlarga ega sodiqlik dasturini joriy etish takroriy biznesni rag'batlantirishi mumkin. Nihoyat, men ishlatiladigan ekologik toza detarjanlarni qadrlasam ham, ehtimol, bu jihatni aniq reklama qilish atrof-muhitga e'tiborli iste'molchilarga yoqadi.</p><br><p>Fikr-mulohazalarimni bildirish imkoniyati uchun rahmat. Kelajakda SparkleWashdan yana foydalanishni kutaman.</p><br><p>Hurmat bilan,<br>Otabek Nazarov</p>"
+   },
+   "t11": {
+    "title": "informal letter · to friend",
+    "prompt": "Write a letter to your friend, who just bought a new car. Write about your feelings and what you think they should do.",
+    "sample": "Hey!\n\nCongratulations on your new car! You'll want to keep it looking perfect. I <span class=\"ml-token adv\">just</span> tried SparkleWash and they did an <span class=\"ml-token adv\">absolutely</span> amazing job! My car looks <span class=\"ml-token colloc\">brand new</span> again. They're <span class=\"ml-token adv\">so</span> thorough with every detail. You <span class=\"ml-token modal\">should</span> <span class=\"ml-token adv\">definitely</span> take your car there!\n\n<span class=\"ml-token phrasal\">Take care</span>!",
+    "target": "50–70 words",
+    "sampleA1": "<p>Hi Charos,<br>New car! Good!<br>Car wash. SparkleWash. Good.<br>Bye.</p>",
+    "sampleA2": "<p>Hi Charos,<br>You have a new car! That's great! <br>I went to SparkleWash. It's a car wash. It's good! My car is clean.<br>You should go there too, because your car is new. <br>Bye!</p>",
+    "sampleB1": "<p>Hi Charos,<br><br>I heard you got a new car, congratulations! That's fantastic news. I wanted to tell you about a car wash I tried recently called SparkleWash. I think you should go there to keep your new car clean. <br><br>They did a really good job on my car. It looks almost new again! I think you'll be happy with their service.<br><br>Let me know what you think if you try it!<br><br>Best,<br>Otabek Nazarov</p>",
+    "sampleB2": "Hi Charos,\nCongratulations on the new car – I'm <span class=\"ml-token colloc\">thrilled for you</span>! You've wanted one for so long, and you <span class=\"ml-token colloc\">totally deserve it</span>.\nHere's a <span class=\"ml-token colloc\">little tip</span>: keep that shiny paintwork <span class=\"ml-token colloc\">looking its best</span>. I took mine to SparkleWash last week and they <span class=\"ml-token colloc\">did a fantastic job</span> – it <span class=\"ml-token phrasal\">came back</span> absolutely gleaming. <span class=\"ml-token idiom\">Give it a go</span>!\n<span class=\"ml-token phrasal\">Speak soon</span>,\nBekzod Aliyev",
+    "uzSample": "<p>Salom!</p>\n<p>Yangi mashinang bilan tabriklayman! Uni mukammal ko'rinishda saqlashni xohlaysan, albatta. Men yaqinda SparkleWashga bordim va ular juda ajoyib ish qilishdi! Mashinam yana yangidek bo'lib qoldi. Ular har bir detalga juda e'tiborli. Mashinangni albatta o'sha yerga olib borishing kerak!</p>\n<p>O'zingni asra!</p>",
+    "uzSampleA1": "<p>Salom Charos,<br>Yangi mashina! Yaxshi!<br>Mashina yuvish. SparkleWash. Yaxshi.<br>Xayr.</p>",
+    "uzSampleA2": "<p>Salom Charos,<br>Sizda yangi mashina bor ekan! Bu juda yaxshi! <br>Men SparkleWashga bordim. Bu mashina yuvish joyi. U yaxshi! Mening mashinam toza.<br>Siz ham u yerga borishingiz kerak, chunki sizning mashinangiz yangi. <br>Xayr!</p>",
+    "uzSampleB1": "<p>Salom Charos,<br><br>Eshitishimcha, yangi mashina olibsiz, tabriklayman! Bu ajoyib yangilik. Yaqinda SparkleWash deb nomlangan mashina yuvish joyiga borganim haqida aytmoqchi edim. O'ylaymanki, yangi mashinangizni toza saqlash uchun u yerga borishingiz kerak. <br><br>Ular mening mashinamni juda yaxshi yuvishdi. U deyarli yangidek ko'rinadi! O'ylaymanki, ularning xizmatidan mamnun bo'lasiz.<br><br>Agar urinib ko'rsangiz, fikringizni bildiring!<br><br>Eng yaxshi tilaklar bilan,<br>Otabek Nazarov</p>",
+    "uzSampleB2": "<p>Salom Charos,<br><br>Yangi mashinangni eshitdim – katta tabriklar! Men bilaman, sen qanchalik xohlarding, shuning uchun men sen uchun juda xursandman.<br><br>Butunlay amaliy nuqtai nazardan, sen o'sha yangi bo'yoqni asl holida saqlamoqchisan. Men yaqinda \"SparkleWash\" nomli avtomoykadan foydalandim va men juda ta'sirlandim. Ular juda e'tiborli edilar va mening mashinam xuddi ishlab chiqarish liniyasidan yangi chiqqandek ko'rindi. Ularni tekshirib ko'rishga arziydi. Ular sifatga sodiqdek tuyuladi, bu esa yangi mashina nimaga loyiq, mening fikrimcha.<br><br>Xullas, agar ularni sinab ko'rsang, nima deb o'ylaysan, menga xabar ber va biz tez orada nishonlashimiz kerak!<br><br>Xayr,<br>Otabek Nazarov</p>"
+   },
+   "t12": {
+    "title": "formal letter · to recipient",
+    "prompt": "Write a letter to the car wash service. Write about your feelings and what you think they should do.",
+    "sample": "Dear SparkleWash Team,\n\nThank you for asking about my experience with your <span class=\"ml-token colloc\">car wash service</span>.\n\nI was <span class=\"ml-token adv\">thoroughly</span> impressed with the results. My car looked <span class=\"ml-token adv\">absolutely</span> spotless inside and out. Your staff were <span class=\"ml-token adv\">extremely</span> professional and paid attention to every detail. The <span class=\"ml-token colloc\">waiting area</span> with free WiFi and coffee was a nice touch.\n\n<span class=\"ml-token adv\">However</span>, I have some suggestions. The <span class=\"ml-token colloc\">waiting time</span> was <span class=\"ml-token adv\">rather</span> long during weekends. <span class=\"ml-token adv\">Additionally</span>, the <span class=\"ml-token colloc\">pricing information</span> for different packages wasn't clearly displayed.\n\nI <span class=\"ml-token modal\">would</span> love to see a <span class=\"ml-token colloc\">mobile app</span> for booking appointments. A <span class=\"ml-token colloc\">monthly subscription</span> package for regular customers <span class=\"ml-token modal\">would</span> be attractive. <span class=\"ml-token adv\">Also</span>, offering <span class=\"ml-token colloc\">eco-friendly cleaning</span> options <span class=\"ml-token modal\">would</span> appeal to environmentally conscious customers.\n\n<span class=\"ml-token adv\">Overall</span>, SparkleWash provides excellent service.\n\nYours sincerely,\nOtabek Nazarov",
+    "target": "120–150 words",
+    "sampleA1": "<p>Hi SparkleWash,<br>The car is clean. Good.<br>Thank you.<br>Bye</p>",
+    "sampleA2": "<p>Dear SparkleWash,<br><br>Thank you for the car wash. My car is clean now. The people are nice. But I waited a long time. The waiting room is okay, and the coffee is good. I think you should have more chairs. And maybe some magazines. Thank you.<br><br>From, Otabek Nazarov</p>",
+    "sampleB1": "<p>Dear SparkleWash Team,<br><br>Thank you for your email. I wanted to tell you about my visit to your car wash. I think the cleaning was very good. My car looks very clean. The customer service was also good, the people were friendly. The waiting area was comfortable, but it was a little bit busy.<br><br>I think you could offer some different things. For example, maybe a special wash for people who come often. Also, it would be good if you had a place to charge my phone while I wait. Overall, I liked the service.<br><br>Sincerely,<br>Otabek Nazarov</p>",
+    "sampleB2": "Dear SparkleWash Team,\nThank you for <span class=\"ml-token phrasal\">getting in touch</span> about my recent visit to your premium car wash.\n<span class=\"ml-token linking\">On the whole</span>, I was very impressed. My car came back absolutely spotless, and your staff clearly <span class=\"ml-token colloc\">took pride in their work</span>, paying close attention to every last detail. The free coffee in the waiting area was a <span class=\"ml-token colloc\">lovely touch</span> as well.\n<span class=\"ml-token linking\">That said</span>, I do have a couple of suggestions. The wait on Saturday was longer than I had hoped, so it might be worth letting customers book online to <span class=\"ml-token colloc\">ease the pressure</span> at busy times. I would also love to see an <span class=\"ml-token colloc\">eco-friendly wash</span> option, as more and more drivers now care about the environment.\n<span class=\"ml-token linking\">All in all</span>, you offer a <span class=\"ml-token colloc\">first-rate service</span>, and these small changes would make it even better. I <span class=\"ml-token phrasal\">look forward to</span> my next visit.\nYours sincerely,\nDilnoza Karimova",
+    "uzSample": "<p>Hurmatli SparkleWash jamoasi,</p>\n<p>Avtomobil yuvish xizmatingizdan foydalanish tajribam haqida so‘raganingiz uchun rahmat.</p>\n<p>Natijalardan juda ta’sirlandim. Mashinam ichkaridan ham, tashqaridan ham mutlaqo benuqson ko‘rinishga keldi. Xodimlaringiz juda professional edilar va har bir detalga e’tibor qaratishdi. Bepul WiFi va kofe bilan ta’minlangan kutish joyi juda yoqimli qo‘shimcha edi.</p>\n<p>Biroq, mening ba’zi takliflarim bor. Dam olish kunlari kutish vaqti biroz uzoq bo‘ldi. Bundan tashqari, turli paketlar uchun narxlar haqidagi ma’lumotlar aniq ko‘rsatilmagan edi.</p>\n<p>Uchrashuvlarni bron qilish uchun mobil ilova bo‘lishini juda xohlardim. Doimiy mijozlar uchun oylik obuna paketi jozibali bo‘lardi. Shuningdek, ekologik toza tozalash variantlarini taklif qilish atrof-muhitga befarq bo‘lmagan mijozlarga yoqadi.</p>\n<p>Umuman olganda, SparkleWash a’lo darajadagi xizmat ko‘rsatadi.</p>\n<p>Hurmat bilan,<br>Otabek Nazarov</p>",
+    "uzSampleA1": "<p>Salom SparkleWash,<br>Mashina toza. Yaxshi.<br>Rahmat.<br>Xayr</p>",
+    "uzSampleA2": "<p>Hurmatli SparkleWash,<br><br>Mashina yuvish xizmati uchun rahmat. Mashinam endi toza. Odamlar yaxshi. Lekin men uzoq kutdim. Kutish xonasi yaxshi, va kofe mazali. O'ylaymanki, sizda ko'proq stullar bo'lishi kerak. Va balki ba'zi jurnallar. Rahmat.<br><br>Kimdan, Otabek Nazarov</p>",
+    "uzSampleB1": "<p>Hurmatli SparkleWash jamoasi,<br><br>Elektron pochtangiz uchun rahmat. Men sizning avtomobillarni yuvish xizmatiga tashrifim haqida aytmoqchi edim. Menimcha, tozalash juda yaxshi bo'ldi. Mashinam juda toza ko'rinadi. Mijozlarga xizmat ko'rsatish ham yaxshi edi, odamlar do'stona munosabatda bo'lishdi. Kutish joyi qulay edi, lekin biroz gavjum edi.<br><br>Menimcha, siz boshqa narsalarni taklif qilishingiz mumkin. Misol uchun, tez-tez keladigan odamlar uchun maxsus yuvish xizmati bo'lishi mumkin. Shuningdek, kutayotganimda telefonimni zaryad qilish uchun joy bo'lsa yaxshi bo'lardi. Umuman olganda, menga xizmat yoqdi.<br><br>Hurmat bilan,<br>Otabek Nazarov</p>",
+    "uzSampleB2": "<p>Hurmatli SparkleWash jamoasi,<br><br>Avtomobil yuvish xizmatida yaqinda bo'lgan tajribam yuzasidan bildirilgan qiziqishingiz uchun rahmat. Sizga o'z fikr-mulohazalarimni bildirish uchun yozmoqdaman.<br><br>Umuman olganda, tozalash sifatidan qoniqdim. Tashqi yuvish ayniqsa samarali bo'ldi va mashinam keyin ancha toza ko'rindi. Mijozlarga xizmat ko'rsatish ham samarali va xushmuomala edi. Biroq, kutish vaqti men kutganimdan biroz uzoqroq bo'ldi, hatto oldindan belgilangan vaqtim bo'lsa ham.<br><br>Takliflar nuqtai nazaridan, batafsil tozalash paketlarining kengroq assortimentini taklif qilish foydali bo'lishi mumkin, ehtimol ichki dog'larni olib tashlash yoki faralarni tiklash variantlarini ham qo'shish mumkin. Bundan tashqari, turli paket variantlari va ularning narxlari to'g'risida aniqroq ko'rsatmalar bo'lishi foydali bo'ladi. Tez-tez keladigan mijozlar uchun sodiqlik dasturi ham qimmatli qo'shimcha bo'lishi mumkin.<br><br>Umuman olganda, men SparkleWash qimmatli xizmat ko'rsatadi deb hisoblayman va bir nechta kichik o'zgartirishlar bilan u mijozlar uchun yanada jozibali bo'lishi mumkin.<br><br>Hurmat bilan,<br>Otabek Nazarov</p>"
+   },
+   "p1_context": "You recently used a new premium car wash service.",
+   "p1_scenario": "Dear Customer,\n\nThank you for choosing SparkleWash Premium Car Care! We hope your vehicle left looking spotless.\nHow did you find our cleaning quality and customer service? Was the waiting area comfortable?\nWhat additional services or packages would you like us to offer?\n\nSparkleWash Team"
+  },
+  "examDate": "2025-11-03",
+  "settings": {
+   "logoUrl": "https://audio.mock-stream.com/img/ibb/WN0XY5Lv/logo.png",
+   "heading1": "Bilim va malakalarni baholash agentligi",
+   "heading2": "Chet tilini bilish darajasi",
+   "examTitle": "Writing exam",
+   "logoWording": "Mock Stream",
+   "testIdentifier": "mock_stream"
+  },
+  "vocabulary": {
+   "task2": [
+    {
+     "en": "electric vehicles",
+     "uz": "elektr transport vositalari"
+    },
+    {
+     "en": "electric cars",
+     "uz": "elektr mashinalar"
+    },
+    {
+     "en": "direct emissions",
+     "uz": "to'g'ridan-to'g'ri chiqindilar"
+    },
+    {
+     "en": "air quality",
+     "uz": "havo sifati"
+    },
+    {
+     "en": "long-term savings",
+     "uz": "uzoq muddatli tejamkorlik"
+    },
+    {
+     "en": "purchase prices",
+     "uz": "sotib olish narxlari"
+    },
+    {
+     "en": "charging infrastructure",
+     "uz": "zaryadlash infratuzilmasi"
+    },
+    {
+     "en": "environmental impacts",
+     "uz": "ekologik ta'sirlar"
+    },
+    {
+     "en": "battery technology",
+     "uz": "batareya texnologiyasi"
+    },
+    {
+     "en": "tax incentives",
+     "uz": "soliq imtiyozlari"
+    },
+    {
+     "en": "electric vehicle adoption",
+     "uz": "elektr transport vositalarini qabul qilish"
+    },
+    {
+     "en": "sustainable transportation",
+     "uz": "barqaror transport"
+    },
+    {
+     "en": "range anxiety",
+     "uz": "masofa tashvishi"
+    },
+    {
+     "en": "charging times",
+     "uz": "zaryadlash vaqtlari"
+    },
+    {
+     "en": "respiratory diseases",
+     "uz": "nafas kasalliklari"
+    },
+    {
+     "en": "maintenance costs",
+     "uz": "ta'mirlash xarajatlari"
+    },
+    {
+     "en": "moving parts",
+     "uz": "harakatlanuvchi qismlar"
+    },
+    {
+     "en": "phasing out",
+     "uz": "bosqichma-bosqich bekor qilish"
+    },
+    {
+     "en": "in conclusion",
+     "uz": "xulosa qilib aytganda"
+    },
+    {
+     "en": "become the norm",
+     "uz": "odatiy holga kelmoq"
+    }
+   ],
+   "task11": [
+    {
+     "en": "car wash",
+     "uz": "avtomobil yuvish"
+    },
+    {
+     "en": "new car",
+     "uz": "yangi mashina"
+    },
+    {
+     "en": "absolutely amazing",
+     "uz": "mutlaqo ajoyib"
+    },
+    {
+     "en": "brand new",
+     "uz": "yangi"
+    },
+    {
+     "en": "so thorough",
+     "uz": "juda sinchkovlik bilan"
+    },
+    {
+     "en": "every detail",
+     "uz": "har bir tafsilot"
+    },
+    {
+     "en": "definitely take",
+     "uz": "albatta olib boring"
+    },
+    {
+     "en": "take care",
+     "uz": "o'zingizga g'amxo'rlik qiling"
+    },
+    {
+     "en": "congratulations",
+     "uz": "tabriklaymiz"
+    },
+    {
+     "en": "looking perfect",
+     "uz": "mukammal ko'rinish"
+    },
+    {
+     "en": "highly recommend",
+     "uz": "qattiq tavsiya qilmoq"
+    },
+    {
+     "en": "professional service",
+     "uz": "professional xizmat"
+    },
+    {
+     "en": "great results",
+     "uz": "ajoyib natijalar"
+    },
+    {
+     "en": "reasonable prices",
+     "uz": "maqbul narxlar"
+    },
+    {
+     "en": "quick service",
+     "uz": "tez xizmat"
+    },
+    {
+     "en": "friendly staff",
+     "uz": "do'stona xodimlar"
+    },
+    {
+     "en": "clean and shiny",
+     "uz": "toza va yaltiroq"
+    },
+    {
+     "en": "worth trying",
+     "uz": "sinab ko'rishga arziydi"
+    },
+    {
+     "en": "let me know",
+     "uz": "menga xabar bering"
+    },
+    {
+     "en": "good luck",
+     "uz": "omad tilayman"
+    }
+   ],
+   "task12": [
+    {
+     "en": "car wash service",
+     "uz": "avtomobil yuvish xizmati"
+    },
+    {
+     "en": "waiting area",
+     "uz": "kutish joyi"
+    },
+    {
+     "en": "waiting time",
+     "uz": "kutish vaqti"
+    },
+    {
+     "en": "pricing information",
+     "uz": "narx ma'lumotlari"
+    },
+    {
+     "en": "mobile app",
+     "uz": "mobil ilova"
+    },
+    {
+     "en": "monthly subscription",
+     "uz": "oylik obuna"
+    },
+    {
+     "en": "eco-friendly cleaning",
+     "uz": "ekologik toza tozalash"
+    },
+    {
+     "en": "thoroughly impressed",
+     "uz": "to'liq hayratda qoldim"
+    },
+    {
+     "en": "absolutely spotless",
+     "uz": "mutlaqo dog'siz"
+    },
+    {
+     "en": "extremely professional",
+     "uz": "juda professional"
+    },
+    {
+     "en": "paid attention",
+     "uz": "e'tibor berdi"
+    },
+    {
+     "en": "nice touch",
+     "uz": "yaxshi qo'shimcha"
+    },
+    {
+     "en": "rather long",
+     "uz": "ancha uzoq"
+    },
+    {
+     "en": "clearly displayed",
+     "uz": "aniq ko'rsatilgan"
+    },
+    {
+     "en": "booking appointments",
+     "uz": "uchrashuvlarni band qilish"
+    },
+    {
+     "en": "regular customers",
+     "uz": "doimiy mijozlar"
+    },
+    {
+     "en": "environmentally conscious",
+     "uz": "ekologik ongli"
+    },
+    {
+     "en": "excellent service",
+     "uz": "a'lo xizmat"
+    },
+    {
+     "en": "Yours sincerely",
+     "uz": "Hurmat bilan"
+    },
+    {
+     "en": "premium car care",
+     "uz": "premium avtomobil parvarishi"
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "so": {
+    "uz": "shunchalik",
+    "type": "adv"
+   },
+   "Also": {
+    "uz": "Shuningdek",
+    "type": "adv"
+   },
+   "just": {
+    "uz": "endi",
+    "type": "adv"
+   },
+   "will": {
+    "uz": "-adi",
+    "type": "modal"
+   },
+   "could": {
+    "uz": "mumkin",
+    "type": "modal"
+   },
+   "would": {
+    "uz": "edi",
+    "type": "modal"
+   },
+   "add up": {
+    "uz": "yig'ilib katta summa bo'lmoq",
+    "type": "phrasal"
+   },
+   "rather": {
+    "uz": "ko'proq",
+    "type": "adv"
+   },
+   "should": {
+    "uz": "kerak",
+    "type": "modal"
+   },
+   "Firstly": {
+    "uz": "Birinchidan",
+    "type": "adv"
+   },
+   "However": {
+    "uz": "Biroq",
+    "type": "adv"
+   },
+   "Overall": {
+    "uz": "Umuman olganda",
+    "type": "adv"
+   },
+   "Catch up": {
+    "uz": "ko'rishib, xabarlashib turmoq",
+    "type": "phrasal"
+   },
+   "Secondly": {
+    "uz": "Ikkinchidan",
+    "type": "adv"
+   },
+   "came out": {
+    "uz": "chiqdi, natija berdi",
+    "type": "phrasal"
+   },
+   "for ages": {
+    "uz": "uzoq vaqtdan beri",
+    "type": "idiom"
+   },
+   "strongly": {
+    "uz": "qattiq",
+    "type": "adv"
+   },
+   "Take care": {
+    "uz": "o'zingni ehtiyot qil",
+    "type": "phrasal"
+   },
+   "That said": {
+    "uz": "Shunday bo'lsa-da",
+    "type": "linking"
+   },
+   "brand new": {
+    "uz": "yangi",
+    "type": "colloc"
+   },
+   "came back": {
+    "uz": "qaytdi, natija berdi",
+    "type": "phrasal"
+   },
+   "extremely": {
+    "uz": "juda ham",
+    "type": "adv"
+   },
+   "All in all": {
+    "uz": "Umuman olganda",
+    "type": "linking"
+   },
+   "Speak soon": {
+    "uz": "tez orada gaplashamiz",
+    "type": "phrasal"
+   },
+   "absolutely": {
+    "uz": "mutlaqo",
+    "type": "adv"
+   },
+   "break down": {
+    "uz": "buzilmoq, ishdan chiqmoq",
+    "type": "phrasal"
+   },
+   "definitely": {
+    "uz": "albatta",
+    "type": "adv"
+   },
+   "in my view": {
+    "uz": "mening fikrimcha",
+    "type": "linking"
+   },
+   "little tip": {
+    "uz": "kichik maslahat",
+    "type": "colloc"
+   },
+   "mobile app": {
+    "uz": "mobil ilova",
+    "type": "colloc"
+   },
+   "popping up": {
+    "uz": "paydo bo'lmoqda",
+    "type": "phrasal"
+   },
+   "spread out": {
+    "uz": "taqsimlab, yoyib yubormoq",
+    "type": "phrasal"
+   },
+   "thoroughly": {
+    "uz": "puxta",
+    "type": "adv"
+   },
+   "air quality": {
+    "uz": "havo sifati",
+    "type": "colloc"
+   },
+   "Additionally": {
+    "uz": "Qo'shimcha ravishda",
+    "type": "adv"
+   },
+   "Give it a go": {
+    "uz": "bir sinab ko'r",
+    "type": "idiom"
+   },
+   "Nevertheless": {
+    "uz": "Shunga qaramay",
+    "type": "adv"
+   },
+   "On the whole": {
+    "uz": "Umuman olganda",
+    "type": "linking"
+   },
+   "get on board": {
+    "uz": "qo'shilmoq, ishtirok etmoq",
+    "type": "idiom"
+   },
+   "lovely touch": {
+    "uz": "yoqimli qo'shimcha",
+    "type": "colloc"
+   },
+   "reaching out": {
+    "uz": "murojaat qilganingiz, bog'langaningiz",
+    "type": "phrasal"
+   },
+   "waiting area": {
+    "uz": "kutish joyi",
+    "type": "colloc"
+   },
+   "waiting time": {
+    "uz": "kutish vaqti",
+    "type": "colloc"
+   },
+   "In conclusion": {
+    "uz": "Xulosa qilib aytganda",
+    "type": "adv"
+   },
+   "electric cars": {
+    "uz": "elektromobillar",
+    "type": "colloc"
+   },
+   "in my opinion": {
+    "uz": "mening fikrimcha",
+    "type": "linking"
+   },
+   "looking sharp": {
+    "uz": "chiroyli, ozoda ko'rinishda",
+    "type": "colloc"
+   },
+   "significantly": {
+    "uz": "sezilarli darajada",
+    "type": "adv"
+   },
+   "firmly believe": {
+    "uz": "qat'iy ishonaman",
+    "type": "colloc"
+   },
+   "going on about": {
+    "uz": "haqida to'xtovsiz gapirmoq",
+    "type": "phrasal"
+   },
+   "tax incentives": {
+    "uz": "soliq imtiyozlari",
+    "type": "colloc"
+   },
+   "look forward to": {
+    "uz": "intiqlik bilan kutmoq",
+    "type": "phrasal"
+   },
+   "make the switch": {
+    "uz": "o'tishni amalga oshirmoq",
+    "type": "colloc"
+   },
+   "purchase prices": {
+    "uz": "xarid narxlari",
+    "type": "colloc"
+   },
+   "shining example": {
+    "uz": "yorqin namuna",
+    "type": "colloc"
+   },
+   "car wash service": {
+    "uz": "avtomoyka xizmati",
+    "type": "colloc"
+   },
+   "direct emissions": {
+    "uz": "to'g'ridan-to'g'ri chiqindilar",
+    "type": "colloc"
+   },
+   "getting in touch": {
+    "uz": "bog'langaningiz, murojaat qilganingiz",
+    "type": "phrasal"
+   },
+   "give them a shot": {
+    "uz": "ularni bir sinab ko'r",
+    "type": "idiom"
+   },
+   "looking its best": {
+    "uz": "eng chiroyli ko'rinishida",
+    "type": "colloc"
+   },
+   "thrilled for you": {
+    "uz": "sen uchun juda xursandman",
+    "type": "colloc"
+   },
+   "Electric vehicles": {
+    "uz": "Elektromobillar",
+    "type": "colloc"
+   },
+   "Long-term savings": {
+    "uz": "Uzoq muddatli tejash",
+    "type": "colloc"
+   },
+   "ease the pressure": {
+    "uz": "bosimni yengillashtirmoq",
+    "type": "colloc"
+   },
+   "eco-friendly wash": {
+    "uz": "ekologik toza yuvish",
+    "type": "colloc"
+   },
+   "Battery technology": {
+    "uz": "Akkumulyator texnologiyasi",
+    "type": "colloc"
+   },
+   "first-rate service": {
+    "uz": "birinchi darajali xizmat",
+    "type": "colloc"
+   },
+   "totally deserve it": {
+    "uz": "buni to'liq loyiqsan",
+    "type": "colloc"
+   },
+   "did a brilliant job": {
+    "uz": "ajoyib ish qilishdi",
+    "type": "colloc"
+   },
+   "did a fantastic job": {
+    "uz": "ajoyib ish qilishdi",
+    "type": "colloc"
+   },
+   "pricing information": {
+    "uz": "narxlar haqida ma'lumot",
+    "type": "colloc"
+   },
+   "monthly subscription": {
+    "uz": "oylik obuna",
+    "type": "colloc"
+   },
+   "All things considered": {
+    "uz": "Hammasini hisobga olsak",
+    "type": "linking"
+   },
+   "eco-friendly cleaning": {
+    "uz": "ekologik toza tozalash",
+    "type": "colloc"
+   },
+   "environmental impacts": {
+    "uz": "ekologik ta'sirlar",
+    "type": "colloc"
+   },
+   "tackle climate change": {
+    "uz": "iqlim o'zgarishiga qarshi kurashmoq",
+    "type": "colloc"
+   },
+   "charging infrastructure": {
+    "uz": "quvvatlantirish infratuzilmasi",
+    "type": "colloc"
+   },
+   "took pride in their work": {
+    "uz": "ishlaridan faxrlanishdi",
+    "type": "colloc"
+   },
+   "electric vehicle adoption": {
+    "uz": "elektromobillarni qabul qilish",
+    "type": "colloc"
+   },
+   "sustainable transportation": {
+    "uz": "barqaror transport",
+    "type": "colloc"
+   }
+  }
+ },
+ "created_at": "2026-05-06T15:00:59.083171+00:00",
+ "updated_at": "2026-07-06T10:57:48.382404+00:00"
+}

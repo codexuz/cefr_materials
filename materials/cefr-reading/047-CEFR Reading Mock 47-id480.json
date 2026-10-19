@@ -1,0 +1,785 @@
+{
+ "id": 480,
+ "mock_type": "cefr-reading",
+ "mock_number": 47,
+ "title": "CEFR Reading Mock 47",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "gap-fill-text",
+    "title": "READING PART 1",
+    "answers": {
+     "1": [
+      "Initiative"
+     ],
+     "2": [
+      "Visa"
+     ],
+     "3": [
+      "Citizens"
+     ],
+     "4": [
+      "Days"
+     ],
+     "5": [
+      "Countries"
+     ],
+     "6": [
+      "Illegally"
+     ]
+    },
+    "passage": {
+     "title": "Uzbekistan's New U.S. Visa Initiative",
+     "content": "<p>The government of Uzbekistan plans to make it easier for its citizens to get U.S. visas. This is part of a new initiative to grow tourism in Uzbekistan. The <span class=\"gap\" data-gap=\"1\">_____(1)_____</span> was signed by President Shavkat Mirziyoyev on May 15. As part of this, the Ministry of Foreign Affairs will work on creating a visa-free system for U.S. citizens. This means citizens of US could stay in Uzbekistan for up to 30 days in a three-month period without needing a <span class=\"gap\" data-gap=\"2\">_____(2)_____</span>. At the same time, the ministry will try to make it easier for Uzbek <span class=\"gap\" data-gap=\"3\">_____(3)_____</span> to get U.S. visas. Uzbekistan will also change the entry rules for citizens of Russia, Kazakhstan, and Azerbaijan. People from these countries will be able to enter Uzbekistan for up to 30 <span class=\"gap\" data-gap=\"4\">_____(4)_____</span> using just their ID cards or special documents for children. Many Uzbek people apply for and win the U.S. Green Card lottery each year. Over 5,000 Uzbeks get permanent residency in the United States this way. However, many others try to enter and live in the U.S. illegally, often through dangerous journeys from Mexico. Uzbekistan is one of the <span class=\"gap\" data-gap=\"5\">_____(5)_____</span> with the most people doing this. The U.S. government has said it wants to send back many people who live there <span class=\"gap\" data-gap=\"6\">_____(6)_____</span>. During the first months of the year, over 100,000 people were deported.</p>"
+    },
+    "questions": [
+     {
+      "id": 1,
+      "hint": "The _____(1)_____ was signed by President Shavkat Mirziyoyev on May 15."
+     },
+     {
+      "id": 2,
+      "hint": "...stay in Uzbekistan for up to 30 days in a three-month period without needing a _____(2)_____."
+     },
+     {
+      "id": 3,
+      "hint": "...the ministry will try to make it easier for Uzbek _____(3)_____ to get U.S. visas."
+     },
+     {
+      "id": 4,
+      "hint": "...enter Uzbekistan for up to 30 _____(4)_____ using just their ID cards..."
+     },
+     {
+      "id": 5,
+      "hint": "Uzbekistan is one of the _____(5)_____ with the most people doing this."
+     },
+     {
+      "id": 6,
+      "hint": "...send back many people who live there _____(6)_____."
+     }
+    ],
+    "partNumber": 1,
+    "instruction": "Read the text. Fill in each gap with ONE word. You must use a word which is somewhere in the rest of the text.",
+    "explanations": {
+     "q1": {
+      "text": "The passage states this is part of a new initiative to grow tourism. The document signed by the President IS that initiative. That is why the correct answer is 'Initiative'.",
+      "quote": "This is part of a new initiative to grow tourism in Uzbekistan."
+     },
+     "q2": {
+      "text": "The sentence describes a visa-free system for US citizens, meaning they would not need a visa. That is why the correct answer is 'Visa'.",
+      "quote": "the Ministry of Foreign Affairs will work on creating a visa-free system for U.S. citizens."
+     },
+     "q3": {
+      "text": "The passage opens by saying the plan helps Uzbekistan's citizens get U.S. visas. The gap refers back to those same Uzbek citizens. That is why the correct answer is 'Citizens'.",
+      "quote": "The government of Uzbekistan plans to make it easier for its citizens to get U.S. visas."
+     },
+     "q4": {
+      "text": "The same 30-day period was mentioned earlier in the passage. That is why the correct answer is 'Days'.",
+      "quote": "could stay in Uzbekistan for up to 30 days in a three-month period"
+     },
+     "q5": {
+      "text": "The previous sentence lists Russia, Kazakhstan and Azerbaijan as countries whose people can enter. The gap refers to Uzbekistan being one of those countries. That is why the correct answer is 'Countries'.",
+      "quote": "People from these countries will be able to enter Uzbekistan..."
+     },
+     "q6": {
+      "text": "The earlier sentence says many people try to live in the U.S. illegally through Mexico. The gap refers back to that same illegal status. That is why the correct answer is 'Illegally'.",
+      "quote": "many others try to enter and live in the U.S. illegally"
+     }
+    },
+    "questionRange": "1-6"
+   },
+   {
+    "type": "matching",
+    "texts": [
+     {
+      "number": 7,
+      "content": "Yoga for Beginners\nCalm Body, Calm Mind – Join Today!\nStart your wellness journey with our beginner yoga classes every Monday and Wednesday at 6 PM. No experience needed. First class is free!\nCall 0123 456 789 for details"
+     },
+     {
+      "number": 8,
+      "content": "Music Lessons\nLearn to Play the Piano!\nAll ages welcome – from complete beginners to advanced players. Lessons from £20/hour. Free trial lesson included.\nTunedIn Studio, Elm Road\n0111 222 3344"
+     },
+     {
+      "number": 9,
+      "content": "Language Classes\nSpeak Spanish with Confidence!\nEvening and weekend classes available. Small groups, friendly teachers, and real-life practice.\nCentro Language School\nClasses start next Monday! Sign up now at www.centrospanish.com"
+     },
+     {
+      "number": 10,
+      "content": "Weekend Market\nCity Farmers' Market – Every Saturday!\nFresh fruits, vegetables, homemade bread, and local crafts. Fun for all ages with live music and food stalls.\nOpen 9 AM – 4 PM\nRiverside Park\nBring your own bags!"
+     },
+     {
+      "number": 11,
+      "content": "Fitness Offer\nGet Fit, Feel Great!\nUnlimited gym access, swimming pool, and fitness classes for only £25/month.\nOpen 6 AM – 10 PM daily\nFit4All Gym, Brook Lane\nJoin online today: www.fit4all.com"
+     },
+     {
+      "number": 12,
+      "content": "Summer Job Opportunity\nLooking for friendly staff for the summer season. Part-time and full-time roles available.\nMust be 16+ and speak basic English\nApply in person: Scoop & Smile, Main Square"
+     },
+     {
+      "number": 13,
+      "content": "Car for Sale\nReliable Used Car – Great Deal!\n2015 Toyota Yaris, low mileage, full-service history, new tires.\nOnly £4,500\nView in Northside Garage\nCall Sarah: 07432 112233"
+     },
+     {
+      "number": 14,
+      "content": "Pet Grooming Services\nTreat Your Pet to a Spa Day!\nGentle grooming for dogs and cats of all sizes. Nail trimming, shampooing, and fur styling.\nBook online: www.happytails.com\n0987 654 321\n10% off your first visit"
+     }
+    ],
+    "title": "Part 2",
+    "answers": {
+     "7": [
+      "G"
+     ],
+     "8": [
+      "I"
+     ],
+     "9": [
+      "B"
+     ],
+     "10": [
+      "H"
+     ],
+     "11": [
+      "D"
+     ],
+     "12": [
+      "C"
+     ],
+     "13": [
+      "E"
+     ],
+     "14": [
+      "J"
+     ]
+    },
+    "questions": [
+     {
+      "id": 7,
+      "textNumber": 7
+     },
+     {
+      "id": 8,
+      "textNumber": 8
+     },
+     {
+      "id": 9,
+      "textNumber": 9
+     },
+     {
+      "id": 10,
+      "textNumber": 10
+     },
+     {
+      "id": 11,
+      "textNumber": 11
+     },
+     {
+      "id": 12,
+      "textNumber": 12
+     },
+     {
+      "id": 13,
+      "textNumber": 13
+     },
+     {
+      "id": 14,
+      "textNumber": 14
+     }
+    ],
+    "partNumber": 2,
+    "statements": [
+     {
+      "text": "Your dog isn't fit. It needs to eat something that is healthy.",
+      "letter": "A"
+     },
+     {
+      "text": "Your brother wants to communicate with his new friends in Barcelona and doesn't know how to speak to them.",
+      "letter": "B"
+     },
+     {
+      "text": "Your kind cousin knows little English and wants to earn some money during the summer.",
+      "letter": "C"
+     },
+     {
+      "text": "You are worried that you're gaining weight. You want to attend something that makes you lose fat.",
+      "letter": "D"
+     },
+     {
+      "text": "Your neighbor is fed up with walking to the work. He wants something cheap and dependable.",
+      "letter": "E"
+     },
+     {
+      "text": "Your parents want to buy a vehicle that is new and fast. They will need a full-service.",
+      "letter": "F"
+     },
+     {
+      "text": "Your friend wants to do something that is good for his health. He works all week but is free in the evenings.",
+      "letter": "G"
+     },
+     {
+      "text": "You want to take your family somewhere for fun and shopping this weekend.",
+      "letter": "H"
+     },
+     {
+      "text": "You want to enroll your daughter in a melodic and engaging class.",
+      "letter": "I"
+     },
+     {
+      "text": "You want to take your non-speaking friend somewhere.",
+      "letter": "J"
+     }
+    ],
+    "instruction": "Read the texts 7-14 and the statements A-J. Decide which text matches with the situation described in the statements. Each statement can be used ONCE only. There are TWO extra statements which you do not need to use.",
+    "explanations": {
+     "q7": {
+      "text": "The yoga classes are held in the evenings (6 PM) on Monday and Wednesday and are good for health. This matches the friend who works all week but is free in the evenings. That is why the correct answer is G.",
+      "quote": "beginner yoga classes every Monday and Wednesday at 6 PM"
+     },
+     "q8": {
+      "text": "Piano lessons are melodic and the studio name TunedIn signals music. This matches enrolling a daughter in a melodic class. That is why the correct answer is I.",
+      "quote": "Learn to Play the Piano! All ages welcome"
+     },
+     "q9": {
+      "text": "The ad teaches Spanish — exactly the language used in Barcelona, Spain. That is why the correct answer is B.",
+      "quote": "Speak Spanish with Confidence!"
+     },
+     "q10": {
+      "text": "The market has live music, food stalls and local crafts — fun for all ages and includes shopping. That is why the correct answer is H.",
+      "quote": "Fresh fruits, vegetables, homemade bread, and local crafts. Fun for all ages"
+     },
+     "q11": {
+      "text": "Unlimited gym access and fitness classes help a person worried about weight to lose fat. That is why the correct answer is D.",
+      "quote": "Unlimited gym access, swimming pool, and fitness classes"
+     },
+     "q12": {
+      "text": "The summer job needs only basic English and is open to anyone 16+ — perfect for the cousin who knows little English and wants summer earnings. That is why the correct answer is C.",
+      "quote": "Must be 16+ and speak basic English"
+     },
+     "q13": {
+      "text": "A £4,500 Toyota with full-service history is cheap and dependable transport, matching the neighbor fed up with walking. That is why the correct answer is E.",
+      "quote": "Reliable Used Car – Great Deal! 2015 Toyota Yaris, low mileage, full-service history"
+     },
+     "q14": {
+      "text": "Pet grooming services are for dogs and cats — non-speaking companions you might take somewhere. That is why the correct answer is J.",
+      "quote": "Gentle grooming for dogs and cats of all sizes."
+     }
+    },
+    "questionRange": "7-14",
+    "extraStatements": [
+     "A",
+     "F"
+    ],
+    "statementsFirst": true
+   },
+   {
+    "type": "matching-headings",
+    "title": "Part 3",
+    "answers": {
+     "15": [
+      "G"
+     ],
+     "16": [
+      "A"
+     ],
+     "17": [
+      "D"
+     ],
+     "18": [
+      "B"
+     ],
+     "19": [
+      "C"
+     ],
+     "20": [
+      "F"
+     ]
+    },
+    "passage": {
+     "title": "Growing of the Aging Society",
+     "paragraphs": [
+      {
+       "number": "I",
+       "content": "Over the last 14 years, The National Long-term Health Care Survey has gathered data from more than 20,000 males and females over the age of 65 about their health and lifestyles. The group has analysed the results of data gathered in 1994 on conditions such as arthritis, high blood pressure and poor circulation; these were the most common medical complaints for this age group. The results show that these conditions are troubling a smaller proportion of people each year and decreasing very quickly. Other diseases suffered by the elderly including dementia, emphysema and arteriosclerosis are also affecting fewer people.",
+       "questionId": 15
+      },
+      {
+       "number": "II",
+       "content": "According to Kenneth Manton, a demographer from Duke University in North Carolina, 'the question of what should be considered normal ageing has really changed.' He also mentioned that diseases suffered by many people around the age of 65 in 1982 are now not occurring until people reach the age of 70-75.",
+       "questionId": 16
+      },
+      {
+       "number": "III",
+       "content": "It is clear that due to medical advances some diseases are not as prominent as they used to be. However, there was also be other factors influencing this change. For instance, improvements in childhood nutrition in the first quarter of the twentieth century gave many people a better start in life than was possible before.",
+       "questionId": 17
+      },
+      {
+       "number": "IV",
+       "content": "The data also shows some negative changes in public health. The research suggests that the rise of respiratory conditions such as lung cancer and bronchitis may reflect changing smoking habits and an increase in air pollution. Manton says that as we have been exposed to worse and worse pollution, it is not surprising that some people over the age of 60 are suffering as a result.",
+       "questionId": 18
+      },
+      {
+       "number": "V",
+       "content": "Manton also found that better-educated people are likely to live longer. For instance, women of 65 with less than eight years of education are expected to live to around 82. Those who studied more could be able to live seven years longer. Whilst some of this can be attributed to better-educated people usually having a higher income, Manton believes it is mainly because they pay closer attention to their health.",
+       "questionId": 19
+      },
+      {
+       "number": "VI",
+       "content": "Also, the survey estimated how independent people of 65 were and found a striking trend. In the 1994 survey, almost 80% of them were able to complete activities such as eating and dressing alone as well as handling difficult tasks, like cooking and managing their financial affairs. This situation indicates an important drop among disabled elderly people in the population. If 14 years ago, the apparent trends in the US had continued, researchers believe that there would be one million disabled elderly people in today's population. Manton shows the trend saved more than $200 billion for the US's governments Medicare system, and it has suggested the elderly American population is less of a financial burden than expected.",
+       "questionId": 20
+      }
+     ]
+    },
+    "headings": [
+     {
+      "text": "Disorders strike much later in life.",
+      "letter": "A"
+     },
+     {
+      "text": "Drawbacks in public health.",
+      "letter": "B"
+     },
+     {
+      "text": "Longevity based on high education.",
+      "letter": "C"
+     },
+     {
+      "text": "The elderly people of today got better nutrition when they were children.",
+      "letter": "D"
+     },
+     {
+      "text": "The elderly are becoming more well off.",
+      "letter": "E"
+     },
+     {
+      "text": "Most of independent people over 65 complete activities themselves.",
+      "letter": "F"
+     },
+     {
+      "text": "Diseases have decreased recently.",
+      "letter": "G"
+     },
+     {
+      "text": "The potential outbreaks in the U.S.",
+      "letter": "H"
+     }
+    ],
+    "questions": [
+     {
+      "id": 15,
+      "paragraphNumber": "I"
+     },
+     {
+      "id": 16,
+      "paragraphNumber": "II"
+     },
+     {
+      "id": 17,
+      "paragraphNumber": "III"
+     },
+     {
+      "id": 18,
+      "paragraphNumber": "IV"
+     },
+     {
+      "id": 19,
+      "paragraphNumber": "V"
+     },
+     {
+      "id": 20,
+      "paragraphNumber": "VI"
+     }
+    ],
+    "partNumber": 3,
+    "instruction": "Read the text and choose the correct heading for each paragraph from the list of headings below. There are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once.",
+    "explanations": {
+     "q15": {
+      "text": "Paragraph I reports that arthritis, high blood pressure and other common conditions are 'decreasing very quickly' among the elderly. That is why the correct answer is G.",
+      "quote": "these conditions are troubling a smaller proportion of people each year and decreasing very quickly."
+     },
+     "q16": {
+      "text": "Manton notes that diseases that struck at 65 in 1982 now appear only at 70-75 — disorders are arriving later in life. That is why the correct answer is A.",
+      "quote": "diseases suffered by many people around the age of 65 in 1982 are now not occurring until people reach the age of 70-75."
+     },
+     "q17": {
+      "text": "The paragraph highlights early-twentieth-century improvements in childhood nutrition as a factor. That is why the correct answer is D.",
+      "quote": "improvements in childhood nutrition in the first quarter of the twentieth century gave many people a better start in life"
+     },
+     "q18": {
+      "text": "The paragraph opens by stating the data shows some 'negative changes in public health' — rising respiratory disease. That is why the correct answer is B.",
+      "quote": "The data also shows some negative changes in public health."
+     },
+     "q19": {
+      "text": "Manton shows better-educated people live up to seven years longer. That is why the correct answer is C.",
+      "quote": "better-educated people are likely to live longer."
+     },
+     "q20": {
+      "text": "The 1994 survey found almost 80% of the over-65s could perform daily activities by themselves. That is why the correct answer is F.",
+      "quote": "almost 80% of them were able to complete activities such as eating and dressing alone"
+     }
+    },
+    "extraHeadings": [
+     "E",
+     "H"
+    ],
+    "questionRange": "15-20"
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 4",
+    "answers": {
+     "21": [
+      "D",
+      "woodland species"
+     ],
+     "22": [
+      "A",
+      "exotic flowers"
+     ],
+     "23": [
+      "C",
+      "They can promote human well-being."
+     ],
+     "24": [
+      "C",
+      "active nature conservation."
+     ],
+     "25": [
+      "Not Given"
+     ],
+     "26": [
+      "True"
+     ],
+     "27": [
+      "True"
+     ],
+     "28": [
+      "Not Given"
+     ],
+     "29": [
+      "Not Given"
+     ]
+    },
+    "passage": {
+     "title": "THE WILD SIDE OF TOWN",
+     "content": "<p><em>The countryside is no longer the place to see wildlife, according to Chris Barnes. These days you are more likely to find impressive numbers of skylarks, dragonflies and toads in your own back garden.</em></p>\n<p>The past half century has seen an interesting reversal in the fortunes of much of Britain's wildlife. Whilst the rural countryside has become poorer and poorer, wildlife habitat in towns has burgeoned. Now, if you want to hear a deafening dawn chorus of birds or familiarise yourself with foxes, you can head for the urban forest. Whilst species that depend on wide open spaces such as the hare, the eagle and the red deer may still be restricted to remote rural landscapes, many of our wild plants and animals find the urban ecosystem ideal. This really should be no surprise, since it is the fragmentation and agrochemical pollution in the farming lowlands that has led to the catastrophic decline of so many species.</p>\n<p>By contrast, most urban open spaces have escaped the worst of the pesticide revolution, and they are an intimate mosaic of interconnected habitats. Over the years, the cutting down of hedgerows on farmland has contributed to habitat isolation and species loss. In towns, the tangle of canals, railway embankments, road verges and boundary hedges lace the landscape together, providing first-class ecological corridors for species such as hedgehogs, kingfishers and dragonflies.</p>\n<p>Urban parks and formal recreation grounds are valuable for some species, and many of them are increasingly managed with wildlife in mind. But in many places, their significance is eclipsed by the huge legacy of post-industrial land — demolished factories, waste tips, quarries, redundant railway yards and other so-called 'brownfield' sites. In Merseyside, South Yorkshire and the West Midlands, much of this has been spectacularly colonised with birch and willow woodland, herb-rich grassland and shallow wetlands. As a consequence, there are song birds and predators in abundance over these once-industrial landscapes.</p>\n<p>There are fifteen million domestic gardens in the UK, and whilst some are still managed as lifeless chemical war zones, most benefit the local wildlife, either through benign neglect or positive encouragement. Those that do best tend to be woodland species, and the garden lawns and flower borders, climber-covered fences, shrubberies and fruit trees are a plausible alternative. Indeed, in some respects, gardens are rather better than the real thing, especially with exotic flowers extending the nectar season. Birdfeeders can also supplement the natural seed supply, and only the millions of domestic cats may spoil the scene. As Britain's gardeners have embraced the idea of 'gardening with nature', wildlife's response has been spectacular. Between 1990 and the year 2000, the number of different bird species seen at artificial feeders in gardens increased from 17 to an amazing 81. The BUGS project (Biodiversity in Urban Gardens in Sheffield) calculates that there are 25,000 garden ponds and 100,000 nest boxes in that one city alone.</p>\n<p>We are at last acknowledging that the wildlife habitat in towns provides a valuable life support system. The canopy of the urban forest is filtering air pollution, and intercepting rainstorms, allowing the water to drip more gradually to the ground. Sustainable urban drainage relies on ponds and wetlands to contain storm water runoff, thus reducing the risk of flooding, whilst reed beds and other wetland wildlife communities also help to clean up the water. We now have scientific proof that contact with wildlife close to home can help to reduce stress and anger. Hospital patients with a view of natural green space make a more rapid recovery and suffer less pain.</p>\n<p>Traditionally, nature conservation in the UK has been seen as marginal and largely rural. Now we are beginning to place it at the heart of urban environmental and economic policy. There are now dozens of schemes to create new habitats and restore old ones in and around our big cities. Biodiversity is big in parts of London, thanks to schemes such as the London Wetland Centre in the south west of the city.</p>\n<p>This is a unique scheme masterminded by the Wildfowl and Wetlands Trust to create a wildlife reserve out of a redundant Victorian reservoir. Within five years of its creation, the Centre has been hailed as one of the top sites for nature in England and made a Site of Special Scientific Interest. It consists of a 105-acre wetland site, which is made up of different wetland habitats of shallow, open water and grazing marsh. The site attracts more than 104 species of bird, including nationally important rarities like the bittern.</p>\n<p>We need to remember that if we work with wildlife, then wildlife will work for us — and this is the very essence of sustainable development.</p>"
+    },
+    "partNumber": 4,
+    "instruction": "Read the following text for questions 21-29.",
+    "explanations": {
+     "q21": {
+      "text": "The text says the garden species that 'do best tend to be woodland species'. That is why the correct answer is D.",
+      "quote": "Those that do best tend to be woodland species"
+     },
+     "q22": {
+      "text": "The passage notes that gardens are rather better than the real thing, 'especially with exotic flowers extending the nectar season' — the nectar feeds birds and insects. That is why the correct answer is A.",
+      "quote": "especially with exotic flowers extending the nectar season"
+     },
+     "q23": {
+      "text": "The text presents scientific proof that contact with wildlife reduces stress and helps hospital recovery — i.e. promotes human well-being. That is why the correct answer is C.",
+      "quote": "contact with wildlife close to home can help to reduce stress and anger."
+     },
+     "q24": {
+      "text": "The closing line states that working with wildlife is the very essence of sustainable development — active nature conservation. That is why the correct answer is C.",
+      "quote": "if we work with wildlife, then wildlife will work for us — and this is the very essence of sustainable development."
+     },
+     "q25": {
+      "text": "The text says urban habitat has burgeoned while the countryside has declined, but it never directly states that the total amount of urban wildlife now exceeds the rural total. That is why the correct answer is 'Not Given'.",
+      "quote": ""
+     },
+     "q26": {
+      "text": "The passage attributes the catastrophic decline of rural species to 'fragmentation and agrochemical pollution in the farming lowlands'. That is why the correct answer is 'True'.",
+      "quote": "fragmentation and agrochemical pollution in the farming lowlands that has led to the catastrophic decline of so many species."
+     },
+     "q27": {
+      "text": "The text states that cutting down hedgerows on farmland contributed to habitat isolation — implying that they used to connect habitats. That is why the correct answer is 'True'.",
+      "quote": "the cutting down of hedgerows on farmland has contributed to habitat isolation and species loss."
+     },
+     "q28": {
+      "text": "The text mentions canals, railway embankments and other features incidentally acting as ecological corridors, but does not say new urban environments are PLANNED for that purpose. That is why the correct answer is 'Not Given'.",
+      "quote": ""
+     },
+     "q29": {
+      "text": "The passage says parks are 'increasingly managed with wildlife in mind' but never says they are being EXPANDED. That is why the correct answer is 'Not Given'.",
+      "quote": "many of them are increasingly managed with wildlife in mind"
+     }
+    },
+    "questionRange": "21-29",
+    "questionSections": [
+     {
+      "type": "mcq",
+      "title": "Questions 21-24: Multiple Choice",
+      "questions": [
+       {
+        "id": 21,
+        "text": "Which type of wildlife benefits most from urban gardens?",
+        "options": [
+         {
+          "text": "wild plants",
+          "letter": "A"
+         },
+         {
+          "text": "exotic flowers",
+          "letter": "B"
+         },
+         {
+          "text": "wetland birds",
+          "letter": "C"
+         },
+         {
+          "text": "woodland species",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 22,
+        "text": "What type of garden plants can benefit birds and insects?",
+        "options": [
+         {
+          "text": "exotic flowers",
+          "letter": "A"
+         },
+         {
+          "text": "shrubberies",
+          "letter": "B"
+         },
+         {
+          "text": "reeds",
+          "letter": "C"
+         },
+         {
+          "text": "fruit trees",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 23,
+        "text": "In which way can wildlife habitats benefit people living in urban areas?",
+        "options": [
+         {
+          "text": "They can make the cities greener.",
+          "letter": "A"
+         },
+         {
+          "text": "They can improve the climate.",
+          "letter": "B"
+         },
+         {
+          "text": "They can promote human well-being.",
+          "letter": "C"
+         },
+         {
+          "text": "They can extend the flowering season.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 24,
+        "text": "The writer believes that sustainable development is dependent on",
+        "options": [
+         {
+          "text": "urban economic policy.",
+          "letter": "A"
+         },
+         {
+          "text": "large restoration schemes.",
+          "letter": "B"
+         },
+         {
+          "text": "active nature conservation.",
+          "letter": "C"
+         },
+         {
+          "text": "government projects.",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "For questions 21-24, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."
+     },
+     {
+      "type": "tfni",
+      "title": "Questions 25-29: True/False/Not Given",
+      "options": [
+       "True",
+       "False",
+       "Not Given"
+      ],
+      "questions": [
+       {
+        "id": 25,
+        "text": "There is now more wildlife in UK cities than in the countryside."
+       },
+       {
+        "id": 26,
+        "text": "Rural wildlife has been reduced by the use of pesticides on farms."
+       },
+       {
+        "id": 27,
+        "text": "In the past, hedges on farms used to link up different habitats."
+       },
+       {
+        "id": 28,
+        "text": "New urban environments are planned to provide ecological corridors for wildlife."
+       },
+       {
+        "id": 29,
+        "text": "Public parks and gardens are being expanded to encourage wildlife."
+       }
+      ],
+      "instruction": "For questions 25-29, decide if the following statements agree with the information given in the text. Mark your answers on the answer sheet."
+     }
+    ]
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 5",
+    "answers": {
+     "30": [
+      "solved"
+     ],
+     "31": [
+      "computers"
+     ],
+     "32": [
+      "people"
+     ],
+     "33": [
+      "work"
+     ],
+     "34": [
+      "B",
+      "security"
+     ],
+     "35": [
+      "A",
+      "but now they do not"
+     ]
+    },
+    "passage": {
+     "title": "Locked Doors Open Access",
+     "content": "<p>The word 'security' has both positive and negative connotations. Most of us would say that we crave security for all its positive virtues, both physical and psychological — its evocation of the safety of home, of undying love, or of freedom from need. More negatively, the word nowadays conjures up images of that huge industry that has developed to protect individuals and property from invasion by 'outsiders', ostensibly malicious and intent on theft or wilful damage.</p>\n<p>Increasingly, because they are situated in urban areas of escalating crime, those buildings which used to allow free access to employees and other users (buildings such as offices, schools, colleges, or hospitals) now do not. Entry areas which in another age were called 'Reception' are now manned by security staff. Receptionists, whose task it was to receive visitors and to make them welcome before passing them on to the person they had come to see, have been replaced by those whose task it is to bar entry to the unauthorized, the unwanted or the plain unappealing.</p>\n<p>Inside, these buildings are divided into 'secure zones' which often have all the trappings of combination locks and burglar alarms. These devices bar entry to the uninitiated, hinder circulation and create parameters of time and space for user access. Within the spaces created by these zones, individual rooms are themselves under lock and key, which is a particular problem when it means that working space becomes compartmentalized.</p>\n<p>To combat the consequent difficulty of access to people at a physical level, we have now developed technological access. Computers sit on every desk and are linked to one another, and in many cases to an external universe of other computers so that messages can be passed to and fro. Here too, security plays a part, since we must not be allowed access to messages destined for others. And so the password was invented. Now correspondence between individuals goes from desk to desk and cannot be accessed by colleagues. Library catalogues can be searched from one's desk. Papers can be delivered to, and received from, other people at the press of a button.</p>\n<p>And yet it seems that, just as work is isolating individuals more and more, organizations are recognizing the advantages of 'team-work'; perhaps in order to encourage employees to talk to one another again. Yet, how can groups work in teams if the possibilities for communication are reduced? How can they work together if e-mail provides a convenient electronic shield behind which the blurring of public and private can be exploited by the less scrupulous? If voice-mail walls up messages behind a password? If I can't leave a message on my colleague's desk because his office is locked? Team-work conceals the fact that another kind of security, 'job security', is almost always not on offer. Just as organizations now recognize three kinds of physical resources: those they buy, those they lease long-term, and those they rent short-term — so it is with their human resources. Some employees have permanent contracts, some have short-term contracts, and some are regarded simply as casual labour.</p>\n<p>Telecommunication systems offer us the direct line, which means that individuals can be contacted without the caller having to talk to anyone else. Voice-mail and the answer-phone mean that individuals can communicate without ever actually talking to one another. If we are unfortunate enough to contact organizations with sophisticated touch-tone systems, we can buy things and pay for them without ever speaking to a human being.</p>\n<p>To combat this closing in on ourselves we have the Internet, which opens out communication channels more widely than anyone could possibly want or need. An individual's electronic presence on the Internet is known as a 'Home Page' — suggesting the safety and security of an electronic hearth. An elaborate system of 3-dimensional graphics distinguishes this very 2-dimensional medium of 'web sites'. The nomenclature itself creates the illusion of a geographical entity, that the person sitting before the computer is travelling, when in fact the 'site' is coming to him. 'Addresses' of one kind or another move to the individual, rather than the individual moving between them, now that location is no longer geographical.</p>\n<p>An example of this is the mobile phone. I am now not available either at home or at work, but wherever I take my mobile phone. Yet, even now, we cannot escape the security of wanting to 'locate' the person at the other end. It is no coincidence that almost everyone we see answering or initiating a mobile phone-call in public begins by saying where he or she is.</p>"
+    },
+    "partNumber": 5,
+    "instruction": "Read the following text for questions 30-35.",
+    "explanations": {
+     "q30": {
+      "text": "The paragraph explains that the difficulty of physical access prompted the development of technological access — i.e. technology solved that problem. That is why the correct answer is 'solved'.",
+      "quote": "To combat the consequent difficulty of access to people at a physical level, we have now developed technological access."
+     },
+     "q31": {
+      "text": "The passage says computers sit on every desk and pass messages to and fro — messages are sent between computers. That is why the correct answer is 'computers'.",
+      "quote": "Computers sit on every desk and are linked to one another"
+     },
+     "q32": {
+      "text": "Passwords stop other people (colleagues) from reading messages intended for another individual. That is why the correct answer is 'people'.",
+      "quote": "Now correspondence between individuals goes from desk to desk and cannot be accessed by colleagues."
+     },
+     "q33": {
+      "text": "The passage notes that organizations are recognising the advantages of team-work. That is why the correct answer is 'work'.",
+      "quote": "organizations are recognizing the advantages of 'team-work'"
+     },
+     "q34": {
+      "text": "The opening paragraph states 'we crave security'. That is why the correct answer is B.",
+      "quote": "Most of us would say that we crave security"
+     },
+     "q35": {
+      "text": "The text says buildings that used to allow free access now do not. That is why the correct answer is A.",
+      "quote": "those buildings which used to allow free access to employees and other users (buildings such as offices, schools, colleges, or hospitals) now do not."
+     }
+    },
+    "questionRange": "30-35",
+    "questionSections": [
+     {
+      "type": "gap-fill",
+      "title": "Questions 30-33: Gap Filling Section",
+      "questions": [
+       {
+        "id": 30,
+        "hint": "The problem of physical access to buildings has now been _____(30)_____ by technology."
+       },
+       {
+        "id": 31,
+        "hint": "Messages are sent between _____(31)_____"
+       },
+       {
+        "id": 32,
+        "hint": "with passwords not allowing other _____(32)_____ to read someone else's messages"
+       },
+       {
+        "id": 33,
+        "hint": "more value is being put on team _____(33)_____"
+       }
+      ],
+      "instruction": "For questions 30-33, fill in the missing information in the numbered spaces. Write no more than ONE WORD and / or A NUMBER for each question.",
+      "summaryText": "<p>The problem of physical access to buildings has now been <span class=\"gap-input\" data-gap=\"30\">_____(30)_____</span> by technology.</p>\n<p>Messages are sent between <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span>, with passwords not allowing other <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span> to read someone else's messages.</p>\n<p>But, while individuals are becoming increasingly cut-off socially by the way they do their job, at the same time more value is being put on team <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span>.</p>"
+     },
+     {
+      "type": "mcq",
+      "title": "Questions 34-35: Multiple Choice",
+      "questions": [
+       {
+        "id": 34,
+        "text": "According to the author, one thing we long for is …",
+        "options": [
+         {
+          "text": "the safety of the home",
+          "letter": "A"
+         },
+         {
+          "text": "security",
+          "letter": "B"
+         },
+         {
+          "text": "open access",
+          "letter": "C"
+         },
+         {
+          "text": "positive virtues",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 35,
+        "text": "Buildings used to permit access to any users …",
+        "options": [
+         {
+          "text": "but now they do not",
+          "letter": "A"
+         },
+         {
+          "text": "and still do now",
+          "letter": "B"
+         },
+         {
+          "text": "especially offices and schools",
+          "letter": "C"
+         },
+         {
+          "text": "especially in urban areas",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "For questions 34-35, choose the correct answer A, B, C, or D. Mark your answers on the answer sheet."
+     }
+    ]
+   }
+  ],
+  "examDate": "2026-05-26",
+  "testInfo": {
+   "level": "B1-B2-C1",
+   "parts": 5,
+   "title": "CEFR Reading Mock 47",
+   "totalTime": 60,
+   "totalQuestions": 35
+  }
+ },
+ "created_at": "2026-05-26T12:18:00.08553+00:00",
+ "updated_at": "2026-10-11T10:54:25.762211+00:00"
+}

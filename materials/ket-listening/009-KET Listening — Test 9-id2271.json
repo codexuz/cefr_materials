@@ -1,0 +1,460 @@
+{
+ "id": 2271,
+ "mock_type": "ket-listening",
+ "mock_number": 9,
+ "title": "KET Listening — Test 9",
+ "status": "published",
+ "mock_data": {
+  "audio": {
+   "base": "https://audio.mock-stream.com/KET-Listening/test9/",
+   "files": {
+    "1": "PART1.m4a",
+    "2": "PART2.m4a",
+    "3": "PART3.m4a",
+    "4": "PART4.m4a",
+    "5": "PART5.m4a"
+   }
+  },
+  "parts": [
+   {
+    "type": "picture-mcq",
+    "items": [
+     {
+      "id": 1,
+      "answer": "C",
+      "options": [
+       {
+        "text": "MARCH",
+        "letter": "A"
+       },
+       {
+        "text": "APRIL",
+        "letter": "B"
+       },
+       {
+        "text": "MAY",
+        "letter": "C"
+       }
+      ],
+      "question": "When did Gary start his new job?"
+     },
+     {
+      "id": 2,
+      "answer": "A",
+      "options": [
+       {
+        "text": "4.30 and 7.00",
+        "letter": "A"
+       },
+       {
+        "text": "4.30 and 7.30",
+        "letter": "B"
+       },
+       {
+        "text": "4.00 and 7.30",
+        "letter": "C"
+       }
+      ],
+      "question": "What time does the film start?"
+     },
+     {
+      "id": 3,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q3A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q3B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q3C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What was the weather like on Saturday?"
+     },
+     {
+      "id": 4,
+      "answer": "B",
+      "options": [
+       {
+        "text": "M1",
+        "letter": "A"
+       },
+       {
+        "text": "M6",
+        "letter": "B"
+       },
+       {
+        "text": "M62",
+        "letter": "C"
+       }
+      ],
+      "question": "Which motorway will they take?"
+     },
+     {
+      "id": 5,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q5full.png",
+        "letter": "A",
+        "composite": true
+       },
+       {
+        "image": "q5full.png",
+        "letter": "B",
+        "composite": true
+       },
+       {
+        "image": "q5full.png",
+        "letter": "C",
+        "composite": true
+       }
+      ],
+      "question": "Which book does Loma want?"
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "image": "q0A.png",
+       "letter": "A"
+      },
+      {
+       "image": "q0B.png",
+       "letter": "B"
+      },
+      {
+       "image": "q0C.png",
+       "letter": "C"
+      }
+     ],
+     "question": "How many people were at the meeting?"
+    },
+    "imageBase": "https://audio.mock-stream.com/KET-Listening/test9/p1/",
+    "partNumber": 1,
+    "instruction": [
+     "You will hear five short conversations.",
+     "You will hear each conversation twice.",
+     "There is one question for each conversation.",
+     "For questions 1–5, put a tick (✓) under the right answer."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "matching-list",
+    "items": [
+     {
+      "id": 6,
+      "name": "jacket",
+      "answer": "A"
+     },
+     {
+      "id": 7,
+      "name": "dress",
+      "answer": "B"
+     },
+     {
+      "id": 8,
+      "name": "sweater",
+      "answer": "H"
+     },
+     {
+      "id": 9,
+      "name": "coat",
+      "answer": "D"
+     },
+     {
+      "id": 10,
+      "name": "t-shirt",
+      "answer": "E"
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "name": "jeans",
+     "answer": "F",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "big",
+      "letter": "A"
+     },
+     {
+      "text": "cheap",
+      "letter": "B"
+     },
+     {
+      "text": "expensive",
+      "letter": "C"
+     },
+     {
+      "text": "light",
+      "letter": "D"
+     },
+     {
+      "text": "long",
+      "letter": "E"
+     },
+     {
+      "text": "purple",
+      "letter": "F"
+     },
+     {
+      "text": "short",
+      "letter": "G"
+     },
+     {
+      "text": "soft",
+      "letter": "H"
+     }
+    ],
+    "scenario": "Sue talking about her new clothes — why she bought each",
+    "leftLabel": "CLOTHES SUE BOUGHT",
+    "partNumber": 2,
+    "rightLabel": "WHY?",
+    "instruction": [
+     "Listen to Sue talking to a friend about her new clothes.",
+     "Why did Sue decide to buy each thing?",
+     "For questions 6–10, write a letter A–H next to the clothes.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-conversation",
+    "items": [
+     {
+      "id": 11,
+      "stem": "How much is a travel card?",
+      "answer": "B",
+      "options": [
+       {
+        "text": "£6",
+        "letter": "A"
+       },
+       {
+        "text": "£16",
+        "letter": "B"
+       },
+       {
+        "text": "£60",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "stem": "Jan will need",
+      "answer": "B",
+      "options": [
+       {
+        "text": "one photo.",
+        "letter": "A"
+       },
+       {
+        "text": "two photos.",
+        "letter": "B"
+       },
+       {
+        "text": "four photos.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "stem": "Photos are less expensive",
+      "answer": "A",
+      "options": [
+       {
+        "text": "in the photographer's shop.",
+        "letter": "A"
+       },
+       {
+        "text": "in the library.",
+        "letter": "B"
+       },
+       {
+        "text": "in the post office.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "stem": "For the travel card, Jan must take",
+      "answer": "A",
+      "options": [
+       {
+        "text": "a letter.",
+        "letter": "A"
+       },
+       {
+        "text": "her passport.",
+        "letter": "B"
+       },
+       {
+        "text": "her driving licence.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "stem": "Jan can get a travel card from",
+      "answer": "C",
+      "options": [
+       {
+        "text": "her college.",
+        "letter": "A"
+       },
+       {
+        "text": "the travel agent's.",
+        "letter": "B"
+       },
+       {
+        "text": "the tourist office.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "stem": "How is Steve going to go to London?",
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "text": "by bus",
+       "letter": "A"
+      },
+      {
+       "text": "by car",
+       "letter": "B"
+      },
+      {
+       "text": "by train",
+       "letter": "C"
+      }
+     ]
+    },
+    "partNumber": 3,
+    "instruction": [
+     "Listen to Jan talking to Steve about getting a student travel card.",
+     "For questions 11–15, tick (✓) A, B or C.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "rows": [
+     {
+      "id": 16,
+      "label": "From:",
+      "answer": "Graham",
+      "prefix": "David"
+     },
+     {
+      "id": 17,
+      "label": "Not in school because he has:",
+      "answer": "back",
+      "prefix": "a bad"
+     },
+     {
+      "id": 18,
+      "label": "Students should read pages:",
+      "answer": "58 to 73"
+     },
+     {
+      "id": 19,
+      "label": "David will return to school on:",
+      "answer": "Tuesday",
+      "suffix": "afternoon"
+     },
+     {
+      "id": 20,
+      "label": "at:",
+      "answer": "2.15",
+      "suffix": "p.m."
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 4",
+    "subtitle": "To: Mr Brown",
+    "noteTitle": "TELEPHONE MESSAGE",
+    "partNumber": 4,
+    "instruction": [
+     "You will hear a man speaking on the telephone.",
+     "Listen and complete questions 16–20.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "rows": [
+     {
+      "id": 21,
+      "label": "To:",
+      "answer": "2nd",
+      "prefix": "November"
+     },
+     {
+      "id": 22,
+      "label": "Price of ticket:",
+      "answer": "37",
+      "prefix": "£"
+     },
+     {
+      "id": 23,
+      "label": "Telephone no:",
+      "answer": "283 0065"
+     },
+     {
+      "id": 24,
+      "label": "Place:",
+      "answer": "South",
+      "suffix": "Bank Hall"
+     },
+     {
+      "id": 25,
+      "label": "In:",
+      "answer": "Trinity",
+      "suffix": "Street"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 5",
+    "subtitle": "Name of group: Red River\nIn London:  From: October 28th",
+    "noteTitle": "POP CONCERT",
+    "partNumber": 5,
+    "instruction": [
+     "You will hear some information about a pop concert.",
+     "Listen and complete questions 21–25.",
+     "You will hear the information twice."
+    ],
+    "questionsLabel": "QUESTIONS 21–25"
+   }
+  ],
+  "testInfo": {
+   "id": "ket-l-9",
+   "level": "A2",
+   "paper": "Paper 2",
+   "parts": 5,
+   "title": "KET Listening — Test 9",
+   "totalTime": 30,
+   "totalQuestions": 25
+  }
+ },
+ "created_at": "2026-10-14T06:45:22.49075+00:00",
+ "updated_at": "2026-10-14T06:47:08.734926+00:00"
+}

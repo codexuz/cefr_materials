@@ -1,0 +1,455 @@
+{
+ "id": 2270,
+ "mock_type": "ket-listening",
+ "mock_number": 8,
+ "title": "KET Listening — Test 8",
+ "status": "published",
+ "mock_data": {
+  "audio": {
+   "base": "https://audio.mock-stream.com/KET-Listening/test8/",
+   "files": {
+    "1": "PART1.m4a",
+    "2": "PART2.m4a",
+    "3": "PART3.m4a",
+    "4": "PART4.m4a",
+    "5": "PART5.m4a"
+   }
+  },
+  "parts": [
+   {
+    "type": "picture-mcq",
+    "items": [
+     {
+      "id": 1,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q1A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q1B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q1C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What was the weather like on Wednesday?"
+     },
+     {
+      "id": 2,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q2A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q2B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q2C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "How much did Mark's pullover cost?"
+     },
+     {
+      "id": 3,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q3A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q3B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q3C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What did Raquel buy today?"
+     },
+     {
+      "id": 4,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q4A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q4B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q4C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "How many students are there at the college?"
+     },
+     {
+      "id": 5,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q5A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q5B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q5C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What is David going to buy?"
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "image": "q0A.png",
+       "letter": "A"
+      },
+      {
+       "image": "q0B.png",
+       "letter": "B"
+      },
+      {
+       "image": "q0C.png",
+       "letter": "C"
+      }
+     ],
+     "question": "What time is it?"
+    },
+    "imageBase": "https://audio.mock-stream.com/KET-Listening/test8/p1/",
+    "partNumber": 1,
+    "instruction": [
+     "You will hear five short conversations.",
+     "You will hear each conversation twice.",
+     "There is one question for each conversation.",
+     "For questions 1–5, put a tick (✓) under the right answer."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "matching-list",
+    "items": [
+     {
+      "id": 6,
+      "name": "Saturday afternoon",
+      "answer": "B"
+     },
+     {
+      "id": 7,
+      "name": "Saturday evening",
+      "answer": "D"
+     },
+     {
+      "id": 8,
+      "name": "Sunday morning",
+      "answer": "A"
+     },
+     {
+      "id": 9,
+      "name": "Sunday afternoon",
+      "answer": "G"
+     },
+     {
+      "id": 10,
+      "name": "Sunday evening",
+      "answer": "H"
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "name": "Saturday morning",
+     "answer": "C",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "bicycle ride",
+      "letter": "A"
+     },
+     {
+      "text": "football match",
+      "letter": "B"
+     },
+     {
+      "text": "judo class",
+      "letter": "C"
+     },
+     {
+      "text": "party",
+      "letter": "D"
+     },
+     {
+      "text": "swimming",
+      "letter": "E"
+     },
+     {
+      "text": "the cinema",
+      "letter": "F"
+     },
+     {
+      "text": "the park",
+      "letter": "G"
+     },
+     {
+      "text": "watching television",
+      "letter": "H"
+     }
+    ],
+    "scenario": "Philip talking to his mother — Simon's weekend activities",
+    "leftLabel": "TIMES",
+    "partNumber": 2,
+    "rightLabel": "ACTIVITIES",
+    "instruction": [
+     "Listen to Philip talking to his mother about his son, Simon.",
+     "What is Simon going to do on Saturday and Sunday?",
+     "For questions 6–10, write a letter A–H next to each time of day.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-conversation",
+    "items": [
+     {
+      "id": 11,
+      "stem": "How many times has Chloe been sailing before?",
+      "answer": "A",
+      "options": [
+       {
+        "text": "never",
+        "letter": "A"
+       },
+       {
+        "text": "once",
+        "letter": "B"
+       },
+       {
+        "text": "twice",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "stem": "How much can Chloe spend?",
+      "answer": "B",
+      "options": [
+       {
+        "text": "£300",
+        "letter": "A"
+       },
+       {
+        "text": "£380",
+        "letter": "B"
+       },
+       {
+        "text": "£450",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "stem": "Chloe will go in",
+      "answer": "B",
+      "options": [
+       {
+        "text": "August.",
+        "letter": "A"
+       },
+       {
+        "text": "September.",
+        "letter": "B"
+       },
+       {
+        "text": "October.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "stem": "Chloe would like to sail on",
+      "answer": "A",
+      "options": [
+       {
+        "text": "a lake.",
+        "letter": "A"
+       },
+       {
+        "text": "the sea.",
+        "letter": "B"
+       },
+       {
+        "text": "a river.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "stem": "How does Chloe want to pay?",
+      "answer": "C",
+      "options": [
+       {
+        "text": "by cheque",
+        "letter": "A"
+       },
+       {
+        "text": "with cash",
+        "letter": "B"
+       },
+       {
+        "text": "by credit card",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "stem": "Chloe wants to go to",
+     "answer": "A",
+     "number": 0,
+     "options": [
+      {
+       "text": "Italy.",
+       "letter": "A"
+      },
+      {
+       "text": "Sweden.",
+       "letter": "B"
+      },
+      {
+       "text": "Switzerland.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partNumber": 3,
+    "instruction": [
+     "Listen to Chloe talking to a man about a sailing holiday.",
+     "For questions 11–15, tick (✓) A, B or C.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "rows": [
+     {
+      "id": 16,
+      "label": "Day:",
+      "answer": "Friday"
+     },
+     {
+      "id": 17,
+      "label": "Time:",
+      "answer": "8.30"
+     },
+     {
+      "id": 18,
+      "label": "Place:",
+      "answer": "London Hotel"
+     },
+     {
+      "id": 19,
+      "label": "Address:",
+      "answer": "SHINDY",
+      "suffix": "Street"
+     },
+     {
+      "id": 20,
+      "label": "Bring some:",
+      "answer": "pencils"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 4",
+    "subtitle": "Kate will be: 17 years old",
+    "noteTitle": "Kate's Birthday Party",
+    "partNumber": 4,
+    "instruction": [
+     "You will hear Kate and Jeremy talking about a party.",
+     "Listen and complete questions 16–20.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "rows": [
+     {
+      "id": 21,
+      "label": "Next week's film:",
+      "answer": "Midnight",
+      "suffix": "Meeting"
+     },
+     {
+      "id": 22,
+      "label": "from:",
+      "answer": "Thursday",
+      "prefix": "Monday to"
+     },
+     {
+      "id": 23,
+      "label": "times:",
+      "answer": "9.15 p.m.",
+      "prefix": "6.45 p.m. and"
+     },
+     {
+      "id": 24,
+      "label": "Student ticket costs:",
+      "answer": "2.80",
+      "prefix": "£"
+     },
+     {
+      "id": 25,
+      "label": "Nearest car park:",
+      "answer": "HAUXTON",
+      "suffix": "Street"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 5",
+    "subtitle": "Name of cinema: North London Arts Cinema",
+    "noteTitle": "CINEMA",
+    "partNumber": 5,
+    "instruction": [
+     "You will hear some information about a cinema.",
+     "Listen and complete questions 21–25.",
+     "You will hear the information twice."
+    ],
+    "questionsLabel": "QUESTIONS 21–25"
+   }
+  ],
+  "testInfo": {
+   "id": "ket-l-8",
+   "level": "A2",
+   "paper": "Paper 2",
+   "parts": 5,
+   "title": "KET Listening — Test 8",
+   "totalTime": 30,
+   "totalQuestions": 25
+  }
+ },
+ "created_at": "2026-10-14T06:45:21.845647+00:00",
+ "updated_at": "2026-10-14T06:47:08.082547+00:00"
+}

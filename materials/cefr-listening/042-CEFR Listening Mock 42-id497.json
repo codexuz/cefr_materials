@@ -1,0 +1,504 @@
+{
+ "id": 497,
+ "mock_type": "cefr-listening",
+ "mock_number": 42,
+ "title": "CEFR Listening Mock 42",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "mcq-reply",
+    "title": "Part 1",
+    "answers": {
+     "1": "A",
+     "2": "C",
+     "3": "B",
+     "4": "C",
+     "5": "B",
+     "6": "A",
+     "7": "A",
+     "8": "C"
+    },
+    "audioFile": "https://audio.mock-stream.com/test42/PART 1.m4a",
+    "questions": [
+     {
+      "id": 1,
+      "options": [
+       {
+        "text": "Yes, long time no see!",
+        "letter": "A"
+       },
+       {
+        "text": "How about you?",
+        "letter": "B"
+       },
+       {
+        "text": "It was really nice to meet you.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "options": [
+       {
+        "text": "How nice of you.",
+        "letter": "A"
+       },
+       {
+        "text": "That sounds nice too.",
+        "letter": "B"
+       },
+       {
+        "text": "Nice to meet you. too.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 3,
+      "options": [
+       {
+        "text": "About six months ago.",
+        "letter": "A"
+       },
+       {
+        "text": "Not far from here.",
+        "letter": "B"
+       },
+       {
+        "text": "Let's go.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 4,
+      "options": [
+       {
+        "text": "That's fine.",
+        "letter": "A"
+       },
+       {
+        "text": "What a lovely surprise!",
+        "letter": "B"
+       },
+       {
+        "text": "Hi - nice to meet you.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 5,
+      "options": [
+       {
+        "text": "How silly.",
+        "letter": "A"
+       },
+       {
+        "text": "We must meet up again soon.",
+        "letter": "B"
+       },
+       {
+        "text": "How are you?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 6,
+      "options": [
+       {
+        "text": "OK - I'll give you a call next week.",
+        "letter": "A"
+       },
+       {
+        "text": "OK - how lovely.",
+        "letter": "B"
+       },
+       {
+        "text": "OK - and you?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 7,
+      "options": [
+       {
+        "text": "Yes, and see you again soon.",
+        "letter": "A"
+       },
+       {
+        "text": "That sounds great.",
+        "letter": "B"
+       },
+       {
+        "text": "Nice to meet him.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 8,
+      "options": [
+       {
+        "text": "I'm John, by the way.",
+        "letter": "A"
+       },
+       {
+        "text": "Nice to meet you too.",
+        "letter": "B"
+       },
+       {
+        "text": "Robert, what a lovely surprise!",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "partNumber": 1,
+    "instruction": "You will hear some sentences. Choose the correct reply to each sentence (A, B, or C). Mark your answers on the answer sheet.",
+    "questionRange": "1-8"
+   },
+   {
+    "type": "gap-fill-form",
+    "title": "Part 2",
+    "answers": {
+     "9": "ART",
+     "10": "PEOPLE",
+     "11": "ANIMALS",
+     "12": "ACTING",
+     "13": "8 MONTHS",
+     "14": "WEBSITE"
+    },
+    "audioFile": "https://audio.mock-stream.com/test42/PART 2.m4a",
+    "formTitle": "The maker of cartoon films",
+    "partNumber": 2,
+    "formContent": [
+     {
+      "text": "Kelly did a degree in",
+      "type": "item-gap",
+      "gapId": 9,
+      "gapSuffix": "at university."
+     },
+     {
+      "text": "Kelly really enjoys going to work because of the",
+      "type": "item-gap",
+      "gapId": 10,
+      "gapSuffix": "at the company"
+     },
+     {
+      "text": "Kelly's department is responsible for creating",
+      "type": "item-gap",
+      "gapId": 11,
+      "gapSuffix": "in cartoons."
+     },
+     {
+      "text": "At the moment Kelly is trying to develop her",
+      "type": "item-gap",
+      "gapId": 12,
+      "gapSuffix": "skills."
+     },
+     {
+      "text": "It takes Kelly's company",
+      "type": "item-gap",
+      "gapId": 13,
+      "gapSuffix": "to make a full-length cartoon film."
+     },
+     {
+      "text": "Kelly's next project will be some cartoons for a",
+      "type": "item-gap",
+      "gapId": 14,
+      "gapSuffix": ""
+     }
+    ],
+    "instruction": "You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. Write ONE WORD and / or A NUMBER for each answer.",
+    "questionRange": "9-14"
+   },
+   {
+    "type": "matching-speakers",
+    "title": "Part 3",
+    "answers": {
+     "15": "C",
+     "16": "D",
+     "17": "B",
+     "18": "F"
+    },
+    "options": [
+     {
+      "text": "the neighbours",
+      "letter": "A"
+     },
+     {
+      "text": "the temperature",
+      "letter": "B"
+     },
+     {
+      "text": "the design",
+      "letter": "C"
+     },
+     {
+      "text": "the maintenance",
+      "letter": "D"
+     },
+     {
+      "text": "the views",
+      "letter": "E"
+     },
+     {
+      "text": "the location",
+      "letter": "F"
+     }
+    ],
+    "speakers": [
+     {
+      "id": 15,
+      "label": "Speaker 1"
+     },
+     {
+      "id": 16,
+      "label": "Speaker 2"
+     },
+     {
+      "id": 17,
+      "label": "Speaker 3"
+     },
+     {
+      "id": 18,
+      "label": "Speaker 4"
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test42/PART 3.m4a",
+    "partNumber": 3,
+    "instruction": "You will hear people talking about houses they used to live in. For questions 15-18, choose the phrase (A-F) the main disadvantage of each speaker's previous house. There are TWO EXTRA places which you do not need to use. Mark your answers on the answer sheet.",
+    "questionRange": "15-18"
+   },
+   {
+    "type": "map-labeling",
+    "title": "Part 4",
+    "answers": {
+     "19": "E",
+     "20": "F",
+     "21": "G",
+     "22": "A",
+     "23": "B"
+    },
+    "mapImage": "https://audio.mock-stream.com/test42/map.png",
+    "mapTitle": "TRITON MUSEUM OF ART",
+    "audioFile": "https://audio.mock-stream.com/test42/PART 4.m4a",
+    "mapLabels": [
+     "A",
+     "B",
+     "C",
+     "D",
+     "E",
+     "F",
+     "G",
+     "H"
+    ],
+    "questions": [
+     {
+      "id": 19,
+      "place": "Cloakroom"
+     },
+     {
+      "id": 20,
+      "place": "Permanent Collection Gallery"
+     },
+     {
+      "id": 21,
+      "place": "Storage Room"
+     },
+     {
+      "id": 22,
+      "place": "Cowell Room"
+     },
+     {
+      "id": 23,
+      "place": "Staffroom and Kitchen"
+     }
+    ],
+    "partNumber": 4,
+    "instruction": "You will hear someone giving a talk. Label the places (19-23) on the map (A-H). There are THREE extra options which you do not need to use. Mark your answers on the answer sheet.",
+    "questionRange": "19-23"
+   },
+   {
+    "type": "mcq-extracts",
+    "title": "Part 5",
+    "answers": {
+     "24": "A",
+     "25": "B",
+     "26": "A",
+     "27": "B",
+     "28": "B",
+     "29": "A"
+    },
+    "extracts": [
+     {
+      "title": "Extract One",
+      "context": "",
+      "questions": [
+       {
+        "id": 24,
+        "text": "The guide suggests that Marianne North's work is important",
+        "options": [
+         {
+          "text": "as historical documentation.",
+          "letter": "A"
+         },
+         {
+          "text": "for its range of subject matter.",
+          "letter": "B"
+         },
+         {
+          "text": "because of technical expertise.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 25,
+        "text": "The guide refers to a change in people's attitude towards",
+        "options": [
+         {
+          "text": "the role of education.",
+          "letter": "A"
+         },
+         {
+          "text": "the value of artistic skills.",
+          "letter": "B"
+         },
+         {
+          "text": "the relationships between men and women.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Extract Two",
+      "context": "",
+      "questions": [
+       {
+        "id": 26,
+        "text": "What does Professor Renton suggest that he has inherited?",
+        "options": [
+         {
+          "text": "his enquiring mind",
+          "letter": "A"
+         },
+         {
+          "text": "his problem-solving skills",
+          "letter": "B"
+         },
+         {
+          "text": "his talent for gathering facts",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 27,
+        "text": "Professor Renton says that one of the museum's aims should be to",
+        "options": [
+         {
+          "text": "reassure visitors about current issues.",
+          "letter": "A"
+         },
+         {
+          "text": "enable visitors to draw conclusions.",
+          "letter": "B"
+         },
+         {
+          "text": "interpret evidence for visitors.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Extract Three",
+      "context": "",
+      "questions": [
+       {
+        "id": 28,
+        "text": "What is his attitude towards the Internet?",
+        "options": [
+         {
+          "text": "Its practical drawbacks have been overemphasised.",
+          "letter": "A"
+         },
+         {
+          "text": "Its effects on business have generally been exaggerated.",
+          "letter": "B"
+         },
+         {
+          "text": "Its social importance has been overestimated by entrepreneurs.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 29,
+        "text": "What does he say about washing machines?",
+        "options": [
+         {
+          "text": "They led to an expansion of the labour market.",
+          "letter": "A"
+         },
+         {
+          "text": "They were initially only available to wealthier people.",
+          "letter": "B"
+         },
+         {
+          "text": "They were an early sign of changing attitudes to women.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test42/PART 5.m4a",
+    "partNumber": 5,
+    "instruction": "You will hear three extracts. Choose the correct answer (A, B or C) for each question (24-29). There are TWO questions for each extract. Mark your answers on the answer sheet.",
+    "questionRange": "24-29"
+   },
+   {
+    "type": "sentence-completion",
+    "title": "Part 6",
+    "answers": {
+     "30": "RUNNING",
+     "31": "NEPHEW",
+     "32": "BUILD",
+     "33": "SHOOTING",
+     "34": "EQUIPMENT",
+     "35": "ATTITUDE"
+    },
+    "audioFile": "https://audio.mock-stream.com/test42/PART 6.m4a",
+    "partNumber": 6,
+    "instruction": "You will hear a part of a lecture. For each question, fill in the missing information in the numbered space. Write no more than ONE WORD for each answer.",
+    "passageTitle": "The waterman sports academy",
+    "questionRange": "30-35",
+    "passageContent": "The Waterman Sports Academy offers training in several sports, including swimming and long-distance <span class=\"gap-input\" data-gap=\"30\">_____(30)_____</span>.<br><br>Helen coached a girl who wanted to compete in the long jump. Her interest in sports medicine dates back to the time when her <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span> suffered a back injury.<br><br>To be successful in a particular sport, an athlete must have the right <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span>.<br><br>Helen says that fitness is important, even in sports like <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span> she stresses that a proper diet is vital in physical development.<br><br>Athletes who do not have the latest <span class=\"gap-input\" data-gap=\"34\">_____(34)_____</span> handicapped in competitions. In Helen's opinion, the most important factor for success is having the right <span class=\"gap-input\" data-gap=\"35\">_____(35)_____</span>."
+   }
+  ],
+  "source": "CEFR Listening full mock (Test 5)",
+  "examDate": "2026-06-05",
+  "examType": "cefr",
+  "testInfo": {
+   "id": "cefr-listening-42",
+   "level": "B2",
+   "title": "CEFR Listening Mock Test 42",
+   "totalTime": 40,
+   "totalQuestions": 35
+  },
+  "mockNumber": 42
+ },
+ "created_at": "2026-06-05T02:46:01.094356+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

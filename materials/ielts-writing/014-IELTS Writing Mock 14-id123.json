@@ -1,0 +1,495 @@
+{
+ "id": 123,
+ "mock_type": "ielts-writing",
+ "mock_number": 14,
+ "title": "IELTS Writing Mock 14",
+ "status": "published",
+ "mock_data": {
+  "tasks": {
+   "task1": {
+    "title": "University course satisfaction survey",
+    "prompt": "The table below the results of a survey of first-year students taking various courses at a particular university. It shows how many of the students considered various aspects of their course 'very good'.",
+    "wordGoal": 150,
+    "chartDesc": {
+     "title": "Student satisfaction – percentage of respondents rating aspect as ‘very good’",
+     "xAxis": "Course aspects (Pre-course information, Teaching quality, Tutor Support, Resources (Print), Resources (other))",
+     "yAxis": "Percentage of respondents (%)",
+     "period": "",
+     "series": [
+      {
+       "name": "Economics",
+       "points": [
+        {
+         "at": "Pre-course information",
+         "value": 55
+        },
+        {
+         "at": "Teaching quality",
+         "value": 95
+        },
+        {
+         "at": "Tutor Support",
+         "value": 92
+        },
+        {
+         "at": "Resources (Print)",
+         "value": 59
+        },
+        {
+         "at": "Resources (other)",
+         "value": 62
+        }
+       ]
+      },
+      {
+       "name": "Law",
+       "points": [
+        {
+         "at": "Pre-course information",
+         "value": 72
+        },
+        {
+         "at": "Teaching quality",
+         "value": 67
+        },
+        {
+         "at": "Tutor Support",
+         "value": 79
+        },
+        {
+         "at": "Resources (Print)",
+         "value": 70
+        },
+        {
+         "at": "Resources (other)",
+         "value": 80
+        }
+       ]
+      },
+      {
+       "name": "Commerce",
+       "points": [
+        {
+         "at": "Pre-course information",
+         "value": 95
+        },
+        {
+         "at": "Teaching quality",
+         "value": 95
+        },
+        {
+         "at": "Tutor Support",
+         "value": 93
+        },
+        {
+         "at": "Resources (Print)",
+         "value": 81
+        },
+        {
+         "at": "Resources (other)",
+         "value": 86
+        }
+       ]
+      }
+     ],
+     "overview": "Commerce students generally recorded the highest satisfaction levels across all categories, while Teaching quality and Tutor Support received very high ratings in both Economics and Commerce compared to other aspects.",
+     "chartType": "table",
+     "confidence": "high",
+     "unreadable": [],
+     "keyFeatures": [
+      "Commerce had the highest rating for Pre-course information at 95%, compared to 72% for Law and 55% for Economics.",
+      "Teaching quality was rated 'very good' by 95% of students in both Economics and Commerce, but only 67% in Law.",
+      "Tutor Support had consistently high satisfaction across all three courses, ranging from 79% (Law) to 93% (Commerce).",
+      "Resources (Print) received the lowest ratings in all three courses compared to non-print resources, peaking at 81% in Commerce and dropping to 59% in Economics."
+     ]
+    },
+    "chartType": "table",
+    "dataNature": "static",
+    "instruction": "Summarise the information by selecting and reporting the main features, and make comparison where relevant.",
+    "sampleBand5": "<p>The table shows the results of a survey about first-year students and how many thought different parts of their courses was 'very good'. The courses are Science, Engineering, Arts, and Technology.</p>\n<p>Looking at the table, <mark>the most 'very good' part</mark> was the teaching quality in all courses. Science had 78%, Engineering had 76%, Arts had 80%, and Technology had 72%. The course resources were also seen as good, but not as good as teaching. For example, Science students said 65% for course resources.</p>\n<p>The assessment methods were <mark>not so popular</mark>. Only 45% of Engineering students thought they were 'very good'. Arts students rated feedback the lowest, with only 39% thinking it was 'very good'. <mark>Overall, the teaching quality had the most</mark> 'very good' ratings across all courses. Technology students <mark>seem to be the least happy</mark> compared to the other courses.</p>",
+    "sampleBand6": "<p>The table shows the results of a survey about how first-year students <mark>perceived different aspects</mark> of their courses at a university. The data is divided into various courses and shows the percentage of students who rated each aspect as 'very good'.</p>\n<p>Overall, the teaching quality was <mark>generally considered</mark> very good across most courses. However, the resources available <mark>seemed to be</mark> the lowest rated aspect. The law students had the highest percentage of students satisfied with the teaching quality.</p>\n<p>Specifically, 85% of law students thought the teaching was very good, while only 60% of science students agreed. For course content, 75% of engineering students thought it was very good, compared to only 55% of arts students. The resources were <mark>less impressive</mark>, with only 40% of arts students rating them as very good, and engineering being slightly higher at 50%. Social students rated the courses at 70%.</p>\n<p>In conclusion, the teaching quality was the most appreciated aspect, while resources <mark>were identified as an area for improvement</mark> by many students.</p>",
+    "sampleBand7": "<p>The table <mark>illustrates the proportion</mark> of first-year university students across several courses who rated various aspects of their course as 'very good'. Overall, the quality of teaching was the most highly rated aspect, while the library facilities received the lowest positive assessment.</p>\n\n<p>Specifically, a substantial 78% of science students considered the teaching to be very good, <mark>a figure marginally higher than</mark> that for arts students at 75%. However, teaching quality in engineering was perceived as 'very good' by a notably smaller proportion, just 65%. <mark>In contrast</mark>, library facilities were consistently rated lower across all disciplines, with only 45% of science and arts students and just 38% of engineering students giving a 'very good' rating.</p>\n\n<p>The assessment of course organisation showed a <mark>degree of variation</mark>, with arts students being the most satisfied (70%) and engineering students the least (62%). Interestingly, the social activities <mark>received a relatively consistent positive rating</mark> across all courses, ranging from 60% in engineering to 68% in science. <mark>It is also worth noting that</mark> the availability of IT resources was generally well-regarded, with around two-thirds of students in each discipline rating it as 'very good'.</p>",
+    "sampleBand8": "<p>The table <mark>presents the proportion of</mark> first-year university students who rated various aspects of their courses as 'very good' across six different disciplines.</p>\n\n<p>Overall, student satisfaction levels <mark>exhibited considerable variation</mark> depending on the course. Teaching quality was consistently rated highly, while resources and organisation <mark>received comparatively lower scores</mark> across most disciplines. Furthermore, science-based courses generally showed <mark>a tendency towards</mark> higher satisfaction than humanities.</p>\n\n<p>Specifically, Medicine recorded the highest overall satisfaction, with 85% of students rating teaching as 'very good'. Science students also demonstrated high levels of satisfaction with teaching, at 80%. However, satisfaction with resources and organisation was markedly lower, with only 45% of Arts students and 52% of Social Science students rating organisation as 'very good', <mark>representing the lowest figures</mark> across all categories.</p>\n\n<p>Interestingly, the 'other' category <mark>displayed a broad spectrum</mark> of satisfaction levels, with 75% rating teaching as 'very good', but only 60% feeling the same about resources. This <mark>highlights the heterogeneous nature</mark> of courses within this category. In summary, while teaching generally meets student expectations, universities may need to <mark>address perceived shortcomings</mark> in resource provision and course organisation, particularly in humanities-based subjects.</p>",
+    "sampleBand9": "<p>The table <mark>presents data regarding</mark> first-year university students' satisfaction levels across various courses, specifically focusing on the percentage who rated aspects of their course as 'very good'. <mark>Overall, it is evident that</mark> student satisfaction fluctuates considerably depending on the course, with Science and Technology exhibiting the highest ratings and Arts the lowest.</p>\n\n<p>Delving into the specifics, a substantial 85% of Science students considered aspects of their course 'very good', <mark>representing the zenith</mark> of satisfaction. Technology students closely followed with 82%. Engineering also showed a high degree of approval, with 75% positive responses. In contrast, Medicine and Business students reported lower, but still substantial, satisfaction levels, at 68% and 62% respectively. The lowest satisfaction rates were observed in Arts, where only 40% of students rated aspects of their course as 'very good'.</p>\n\n<p><mark>A noteworthy observation</mark> is the <mark>clear divergence</mark> between STEM fields (Science, Technology, Engineering, and Medicine) and Arts/Business. Satisfaction rates in STEM subjects <mark>consistently outstrip</mark> those in Arts and Business, suggesting a <mark>potential disparity</mark> in course delivery, content relevance, or student expectations. Furthermore, while there is some variation within the STEM subjects, the difference between the highest (Science) and lowest (Medicine) is considerably smaller than the gap between Business and Arts. This suggests that while STEM courses <mark>generally meet student expectations</mark>, Arts courses may require further investigation to <mark>ascertain the underlying causes</mark> of lower satisfaction.</p>",
+    "timeMinutes": 20,
+    "chartDescImg": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/14.png",
+    "sampleAnswer": "The table presents data from a survey of first-year university students across different courses, indicating the percentage who rated various aspects of their course as 'very good'. Overall, satisfaction levels varied considerably across courses and aspects, with some courses receiving high marks for certain features while underperforming in others.\n\nMedicine students showed the highest satisfaction with 'teaching quality' at 85%, followed by Law at 78%. In contrast, only 45% of Engineering students rated teaching quality as very good. Regarding 'course content', Business students were most satisfied at 80%, while Arts students gave the lowest rating at 52%.\n\nFor 'library resources', Law students expressed the highest approval at 82%, whereas only 48% of Science students rated this aspect highly. 'Career support' showed the widest variation: Medicine led with 75% satisfaction, while Arts lagged behind at just 35%. Finally, 'social activities' received moderate ratings across all courses, ranging from 55% for Engineering to 68% for Business. Overall, Medicine consistently received the most positive evaluations across most categories.",
+    "chartImageUrl": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/14.png",
+    "uzSampleBand5": "<p>Jadval birinchi kurs talabalari o'rtasida o'tkazilgan so'rov natijalarini ko'rsatadi, unda ularning qancha qismi kurslarining turli qismlarini \"juda yaxshi\" deb hisoblagan. Kurslar: Fan, Muhandislik, San'at va Texnologiya.</p>\n<p>Jadvalga qarasak, <mark>eng \"juda yaxshi\" qismi</mark> barcha kurslarda o'qitish sifati edi. Fanda 78%, Muhandislikda 76%, San'atda 80% va Texnologiyada 72% edi. Kurs resurslari ham yaxshi deb baholandi, lekin o'qitish kabi emas. Misol uchun, Fan talabalari kurs resurslari uchun 65% deb aytishdi.</p>\n<p>Baholash usullari <mark>uncha mashhur emas edi</mark>. Muhandislik talabalarining faqat 45% ularni \"juda yaxshi\" deb o'ylashdi. San'at talabalari fikr-mulohazalarni eng past baholashdi, faqat 39% ularni \"juda yaxshi\" deb hisoblashdi. <mark>Umuman olganda, o'qitish sifati eng ko'p</mark> \"juda yaxshi\" baholarga ega edi barcha kurslar bo'yicha. Texnologiya talabalari boshqa kurslarga nisbatan <mark>eng baxtsiz ko'rinadi</mark>.</p>",
+    "uzSampleBand6": "<p>Jadvalda universitetning birinchi kurs talabalari kurslarning turli <mark>jihatlarini qanday qabul qilganligi</mark> haqidagi so'rov natijalari ko'rsatilgan. Ma'lumotlar turli kurslarga bo'lingan va har bir jihatni \"juda yaxshi\" deb baholagan talabalarning foizini ko'rsatadi.</p>\n<p>Umuman olganda, o'qitish sifati ko'pchilik kurslarda <mark>odatiy holatda juda yaxshi deb hisoblangan</mark>. Biroq, mavjud resurslar <mark>eng past baholangan</mark> jihat bo'lib ko'rindi. Huquqshunoslik talabalari o'qitish sifatidan qoniqish darajasi eng yuqori bo'lgan talabalarga ega edi.</p>\n<p>Xususan, huquqshunoslik talabalarining 85 foizi o'qitish juda yaxshi deb hisoblagan bo'lsa, fan talabalarining faqat 60 foizi bunga rozi bo'lgan. Kurs mazmuni bo'yicha, muhandislik talabalarining 75 foizi uni juda yaxshi deb hisoblagan, san'at talabalarining esa faqat 55 foizi. Resurslar <mark>uncha ta'sirli emas edi</mark>, san'at talabalarining faqat 40 foizi ularni juda yaxshi deb baholagan, muhandislik esa biroz yuqoriroq - 50% edi. Ijtimoiy talabalar kurslarni 70% ga baholadilar.</p>\n<p>Xulosa qilib aytganda, o'qitish sifati eng ko'p qadrlangan jihat bo'ldi, resurslar esa ko'plab talabalar tomonidan <mark>takomillashtirish kerak bo'lgan soha sifatida aniqlandi</mark>.</p>",
+    "uzSampleBand7": "<p>Jadval birinchi kurs universitet talabalarining bir nechta kurslar bo'yicha o'z kurslarining turli jihatlarini 'juda yaxshi' deb baholagan <mark>nisbatini ko'rsatadi</mark>. Umuman olganda, o'qitish sifati eng yuqori baholangan jihat bo'ldi, kutubxona imkoniyatlari esa eng past ijobiy bahoni oldi.</p>\n\n<p>Xususan, aniqlik kiritadigan bo'lsak, aniq fanlar talabalarining 78 foizi o'qitishni juda yaxshi deb hisobladi, bu ko'rsatkich san'at talabalari uchun 75% bo'lib, <mark>undan biroz yuqoriroqdir</mark>. Biroq, muhandislikdagi o'qitish sifati sezilarli darajada kamroq qismi, atigi 65% tomonidan 'juda yaxshi' deb qabul qilindi. <mark>Aksincha</mark>, kutubxona imkoniyatlari barcha yo'nalishlar bo'yicha doimiy ravishda pastroq baholandi, faqat aniq fanlar va san'at talabalarining 45 foizi va muhandislik talabalarining atigi 38 foizi 'juda yaxshi' baho berdi.</p>\n\n<p>Kurs tashkil etilishini baholash <mark>o'zgarish darajasini</mark> ko'rsatdi, bunda san'at talabalari eng qoniqarli (70%) va muhandislik talabalari eng kam (62%) bo'ldi. Qizig'i shundaki, ijtimoiy tadbirlar barcha kurslar bo'yicha <mark>nisbatan barqaror ijobiy baho oldi</mark>, muhandislikda 60% dan aniq fanlarda 68% gacha. <mark>Shuni ham ta'kidlash joizki</mark>, IT resurslarining mavjudligi odatda yaxshi baholandi, har bir yo'nalishdagi talabalarning taxminan uchdan ikki qismi uni 'juda yaxshi' deb baholadi.</p>",
+    "uzSampleBand8": "<p>Jadval oltita turli yo'nalish bo'yicha o'z kurslarining turli jihatlarini \"juda yaxshi\" deb baholagan birinchi kurs talabalarining <mark>nisbatini ko'rsatadi</mark>.</p>\n\n<p>Umuman olganda, talabalarning qoniqish darajasi kursga qarab <mark>sezilarli darajada farq qildi</mark>. O'qitish sifati doimiy ravishda yuqori baholandi, resurslar va tashkilotchilik esa ko'pgina yo'nalishlar bo'yicha <mark>nisbatan pastroq ball oldi</mark>. Bundan tashqari, fanga asoslangan kurslar, odatda, gumanitar fanlarga qaraganda <mark>yuqoriroq qoniqishga moyillikni ko'rsatdi</mark>.</p>\n\n<p>Xususan, tibbiyot eng yuqori umumiy qoniqishni qayd etdi, talabalarning 85 foizi o'qitishni \"juda yaxshi\" deb baholagan. Tabiiy fanlar talabalari ham o'qitishdan yuqori darajada qoniqish hosil qilishdi (80%). Biroq, resurslar va tashkilotchilikdan qoniqish sezilarli darajada past bo'lib, san'at talabalarining atigi 45 foizi va ijtimoiy fanlar talabalarining 52 foizi tashkilotchilikni \"juda yaxshi\" deb baholagan, bu esa barcha toifalar bo'yicha <mark>eng past ko'rsatkichlarni aks ettiradi</mark>.</p>\n\n<p>Qizig'i shundaki, \"boshqa\" toifasi qoniqish darajasining <mark>keng spektrini namoyish etdi</mark>, 75% o'qitishni \"juda yaxshi\" deb baholadi, ammo faqat 60% resurslar haqida shunday fikrda edi. Bu ushbu toifa ichidagi kurslarning <mark>xilma-xil tabiatini ta'kidlaydi</mark>. Xulosa qilib aytganda, o'qitish odatda talabalarning umidlarini qondirsa-da, universitetlar, ayniqsa, gumanitar fanlarga asoslangan fanlarda resurslar ta'minoti va kurs tashkilotchiligidagi <mark>sezilgan kamchiliklarni bartaraf etishlari</mark> kerak bo'lishi mumkin.</p>",
+    "uzSampleBand9": "<p>Jadval <mark>birinchi kurs talabalarining qoniqish darajasi haqida ma'lumotlarni taqdim etadi</mark>, xususan, ularning kurslarining jihatlarini \"juda yaxshi\" deb baholagan foizga e'tibor qaratiladi. <mark>Umuman olganda, shuni ta'kidlash kerakki</mark>, talabalarning qoniqish darajasi kursga qarab sezilarli darajada o'zgaradi, bunda Fan va Texnologiya eng yuqori baholarga, San'at esa eng past baholarga ega.</p>\n\n<p>Aniqroq ma'lumotlarga to'xtaladigan bo'lsak, Fan yo'nalishi talabalarining sezilarli qismi - 85% o'z kurslarining jihatlarini \"juda yaxshi\" deb hisoblashgan, bu <mark>qoniqishning eng yuqori cho'qqisini ifodalaydi</mark>. Texnologiya talabalari 82% bilan ularga yaqinlashdi. Muhandislik ham yuqori darajadagi ma'qullashni ko'rsatdi, ijobiy javoblar 75% ni tashkil etdi. Aksincha, Tibbiyot va Biznes talabalari qoniqishning pastroq, ammo hali ham sezilarli darajalarini qayd etishdi, mos ravishda 68% va 62%. Eng past qoniqish darajasi San'atda kuzatildi, bu erda talabalarning atigi 40% o'z kurslarining jihatlarini \"juda yaxshi\" deb baholagan.</p>\n\n<p><mark>E'tiborga molik kuzatuv</mark> STEM sohalari (Fan, Texnologiya, Muhandislik va Tibbiyot) va San'at/Biznes o'rtasidagi <mark>aniq farqdir</mark>. STEM fanlaridagi qoniqish darajalari San'at va Biznesdagidan <mark>doimiy ravishda yuqori</mark>, bu kursni o'qitish, kontentning dolzarbligi yoki talabalarning umidlarida <mark>potentsial nomuvofiqlikni</mark> ko'rsatadi. Bundan tashqari, STEM fanlari ichida ba'zi farqlar mavjud bo'lsa-da, eng yuqori (Fan) va eng past (Tibbiyot) o'rtasidagi farq Biznes va San'at o'rtasidagi tafovutdan ancha kichik. Bu shuni ko'rsatadiki, STEM kurslari <mark>odatda talabalarning umidlarini oqlaydi</mark>, San'at kurslari esa qoniqishning pastroq bo'lishining <mark>asosiy sabablarini aniqlash</mark> uchun qo'shimcha tekshiruvni talab qilishi mumkin.</p>",
+    "chartDescSource": "extracted-verified-2026-08-05"
+   },
+   "task2": {
+    "title": "City vs countryside healthy living",
+    "prompt": "Many people believe that it is easier to have a healthy lifestyle in the countryside. Others believe that there are health benefits of living in cities. Discuss both views and give your own opinion.",
+    "wordGoal": 250,
+    "essayType": "balanced",
+    "instruction": "Discuss both views and give your own opinion.",
+    "sampleBand5": "<p>Some people think it is <mark>more easy</mark> to be healthy if you live in the countryside. Other people think living in cities is better for your health. I will talk about both sides and say what I think.</p>\n\n<p>Living in the countryside <mark>can be good</mark> because there is less pollution. Cities have lots of cars and factories, so the air is not clean. In the countryside, you can breathe fresh air and <mark>do more exercise</mark> outside. Also, food can be healthier if you grow your own vegetables. But, it is not always easy because you might need a car to go to the shops and this makes pollution too.</p>\n\n<p>On the other hand, cities have some benefits for health. There are many hospitals and doctors, so if you are sick, you can get help quickly. Also, there are many gyms and sports centers in cities. It is <mark>more easy to find</mark> healthy food in big supermarkets. However, cities can be stressful, and this is not good for your health. People work long hours and there is lots of noise.</p>\n\n<p>In my opinion, both the countryside and the city have good and bad things for health. It depends on how you live. If you live in the countryside but drive everywhere, it is not healthy. If you live in the city and eat fast food, it is also not healthy. I think it is most important to <mark>make good choices</mark> about what you eat and how much exercise you do, wherever you live.</p>",
+    "sampleBand6": "<p>There is an ongoing discussion about whether living in the countryside or in a city is better for one's health. Some people argue that the countryside offers a healthier lifestyle, while others believe that cities have their own health advantages. <mark>In this essay, I will discuss both sides</mark> and then give my own opinion.</p>\n\n<p>On the one hand, the countryside is often seen as a place of peace and tranquility. <mark>One of the main reasons</mark> people believe it is healthier is the cleaner air. With fewer cars and factories, the air pollution is significantly lower compared to cities. Furthermore, the countryside offers more opportunities for outdoor activities such as hiking, cycling, and gardening. <mark>These activities encourage</mark> physical exercise, which is beneficial for both physical and mental health. Also, the slower pace of life in rural areas can reduce stress levels.</p>\n\n<p>However, cities also have their own health benefits. <mark>For example</mark>, access to healthcare is usually much better in cities. There are more hospitals, specialists, and medical facilities available. Cities also offer a wider range of healthy food options, including organic and vegetarian restaurants. In addition, public transport is typically more developed in cities, which can encourage people to walk or cycle more. <mark>Some people think</mark> that the social and cultural opportunities in cities can also contribute to better mental well-being, although it can also be more stressful.</p>\n\n<p>In my opinion, both the countryside and cities can offer a healthy lifestyle, but it depends on the individual's priorities and circumstances. While the countryside provides cleaner air and more opportunities for physical activity, cities offer better access to healthcare and a wider range of resources. <mark>Ultimately, I think</mark> that a balanced approach, incorporating the best aspects of both environments, is the key to a healthy life. It's important to make healthy choices regardless of location.</p>",
+    "sampleBand7": "<p>The debate surrounding whether cities or the countryside offer a healthier lifestyle is a complex one, with valid arguments on both sides. While some argue that rural areas are conducive to well-being, others champion the health benefits of urban living. This essay will explore both perspectives before presenting my own opinion.</p>\n\n<p>Proponents of countryside living often highlight the <mark>tranquil environment</mark> and access to nature. The slower pace of life, coupled with cleaner air and opportunities for outdoor activities like hiking and gardening, can significantly reduce stress levels and promote physical fitness. Furthermore, rural communities often foster stronger social connections, which can contribute to improved mental health. The <mark>relative absence of pollution</mark>, both air and noise, is undoubtedly a significant advantage.</p>\n\n<p>Conversely, cities offer a different set of advantages for health. Urban areas typically have greater access to healthcare facilities, including specialized treatments and emergency services. <mark>Public transportation options</mark>, while sometimes crowded, can encourage more walking and reduce reliance on private vehicles. Moreover, cities often provide a wider range of healthy food choices, with diverse markets and restaurants catering to various dietary needs. The availability of gyms, fitness classes, and recreational facilities is also generally greater in urban centers. However, it must be acknowledged that <mark>access to these benefits is not always equitable</mark> across all socioeconomic groups within a city.</p>\n\n<p>In my opinion, neither the city nor the countryside inherently guarantees a healthier lifestyle. Ultimately, individual choices and circumstances play a more crucial role. While the countryside may offer a more <mark>naturally restorative environment</mark>, the lack of access to healthcare and other amenities can be detrimental. Similarly, while cities provide a plethora of resources, the fast-paced lifestyle and high levels of pollution can negatively impact well-being. <mark>The ideal situation</mark> might be a balance of both, perhaps living in a smaller town with access to green spaces and proximity to urban centers for healthcare and other services. It is important to <mark>consider individual priorities</mark> and make informed decisions based on personal needs and preferences.</p>",
+    "sampleBand8": "<p>The relative merits of urban and rural living on human health are a subject of ongoing debate. While many extol the virtues of a countryside existence for its perceived health benefits, others argue that cities can also offer advantages in terms of well-being. This essay will examine both perspectives before presenting my own view.</p>\n\n<p>Proponents of rural living often point to the <mark>tranquil environment</mark> as a key factor in promoting health. Away from the noise and pollution of urban centres, individuals are arguably less susceptible to stress-related illnesses. Furthermore, the countryside typically offers <mark>greater opportunities for</mark> physical activity, such as hiking, cycling, and gardening. Access to fresh, locally sourced produce is also often cited as a benefit, contributing to a healthier diet. For example, studies have shown that children growing up in rural areas <mark>tend to have lower rates of</mark> asthma and allergies, potentially due to cleaner air and increased exposure to diverse microbial environments.</p>\n\n<p>Conversely, cities can also provide significant health advantages. Urban areas generally have better access to healthcare facilities, including hospitals, specialist clinics, and a wider range of medical professionals. This can be particularly crucial for individuals with chronic conditions or those requiring <mark>specialised medical care</mark>. Moreover, cities often boast <mark>extensive public transportation networks</mark>, encouraging walking and reducing reliance on private vehicles, thereby promoting physical activity and reducing air pollution. Furthermore, urban centres often offer a wider variety of recreational activities, such as gyms, swimming pools, and sports clubs, catering to diverse fitness preferences. Finally, the <mark>sheer density of population</mark> can facilitate the spread of health information and awareness campaigns.</p>\n\n<p>In my opinion, while the countryside offers undeniable benefits in terms of environmental quality and opportunities for outdoor recreation, the advantages of urban living, particularly concerning healthcare access and diverse recreational options, are equally compelling. Ultimately, the healthier lifestyle depends not solely on the location, but on individual choices and <mark>proactive engagement in</mark> health-promoting behaviors. Both environments present opportunities and challenges; the key lies in <mark>leveraging the available resources</mark> to cultivate a healthy lifestyle, regardless of whether one resides in a bustling metropolis or a serene rural setting. <mark>Indeed, a balanced approach</mark>, incorporating elements of both urban and rural lifestyles, may be the most conducive to optimal well-being.</p>",
+    "sampleBand9": "<p>The question of whether a healthy lifestyle is more attainable in the countryside or in cities is a subject of ongoing debate. While many champion the <mark>bucolic charm</mark> and fresh air of rural living as conducive to well-being, others argue that urban environments offer unique opportunities for health enhancement. This essay will explore both perspectives before offering a reasoned opinion.</p>\n\n<p>Proponents of rural living often highlight its inherent advantages. The <mark>relative absence of pollution</mark>, coupled with access to locally sourced, often organic, food, undeniably contributes to a healthier diet. Furthermore, the slower pace of life and the prevalence of outdoor activities, such as hiking and gardening, can reduce stress levels and promote physical fitness. The countryside also tends to foster a stronger sense of community, which can positively impact mental health. <mark>These factors collectively</mark> create an environment that encourages a holistic approach to well-being.</p>\n\n<p>Conversely, cities offer their own distinct health benefits. Urban areas typically boast superior healthcare facilities, with a concentration of specialists and advanced medical technologies. This <mark>ready access to medical expertise</mark> can be crucial for preventative care and the management of chronic conditions. Furthermore, cities often provide a wider range of fitness options, from gyms and swimming pools to specialized studios offering activities like yoga and Pilates. The density of urban environments also encourages walking and cycling, promoting incidental exercise as part of daily routines. <mark>Beyond these practical considerations</mark>, cities can offer mental stimulation and social opportunities through cultural events and diverse communities.</p>\n\n<p>In my opinion, while the countryside presents an idyllic setting for a healthy lifestyle, the city, with its <mark>multifaceted resources</mark>, can be equally, if not more, conducive to well-being. The key lies in leveraging the specific advantages of each environment. For instance, city dwellers can consciously seek out green spaces and prioritize healthy eating, while those in the countryside can ensure they have access to quality healthcare. Ultimately, a healthy lifestyle is a matter of individual choice and proactive engagement, <mark>irrespective of geographical location</mark>. A balanced approach, <mark>integrating the best aspects</mark> of both urban and rural living, is <mark>arguably the most effective strategy</mark> for achieving optimal health. <mark>This nuanced perspective</mark> is essential in evaluating the complex relationship between environment and well-being. </p>",
+    "timeMinutes": 40,
+    "sampleAnswer": "The debate over whether the countryside or the city is more conducive to a healthy lifestyle is a perennial one. While both environments offer distinct health advantages, I believe that, on balance, the countryside provides a more favorable setting for maintaining good health.\n\nProponents of rural living argue that the countryside offers cleaner air, lower noise pollution, and greater access to nature, all of which contribute to physical and mental well-being. The pace of life is generally slower, reducing stress levels and providing opportunities for outdoor activities such as hiking, cycling, and gardening. Furthermore, fresh, locally grown produce is often more readily available, encouraging a healthier diet. The strong sense of community found in many rural areas can also provide valuable social support, which is a key factor in overall health.\n\nOn the other hand, city dwellers point to the superior healthcare facilities, greater variety of fitness options, and easier access to specialized medical services that urban areas provide. Cities often have extensive cycling infrastructure and public parks, promoting active lifestyles. Additionally, the cultural and social opportunities in cities can contribute to mental stimulation and a sense of purpose, which are important for psychological health.\n\nIn my opinion, while cities offer undeniable conveniences, the fundamental elements of a healthy life—clean air, a calm environment, and a connection to nature—are more naturally found in the countryside. For those who prioritize long-term physical and mental health over urban amenities, rural living presents a compelling case.",
+    "uzSampleBand5": "<p>Ba'zi odamlar qishloqda yashash <mark>yanada osonroq</mark> sog'lom bo'lish deb o'ylashadi. Boshqa odamlar shaharlarda yashash sog'lig'ingiz uchun yaxshiroq deb o'ylashadi. Men ikkala tomon haqida gapiraman va o'z fikrimni aytaman.</p>\n\n<p>Qishloqda yashash <mark>yaxshi bo'lishi mumkin</mark>, chunki u yerda ifloslanish kamroq. Shaharlarda ko'plab mashinalar va fabrikalar bor, shuning uchun havo toza emas. Qishloqda siz toza havodan nafas olib, tashqarida <mark>ko'proq mashq qilishingiz</mark> mumkin. Shuningdek, o'z sabzavotlaringizni o'stirsangiz, oziq-ovqat sog'lomroq bo'lishi mumkin. Ammo, bu har doim ham oson emas, chunki do'konlarga borish uchun sizga mashina kerak bo'lishi mumkin va bu ham ifloslanishni keltirib chiqaradi.</p>\n\n<p>Boshqa tomondan, shaharlarning sog'liq uchun ba'zi afzalliklari bor. Ko'plab kasalxonalar va shifokorlar bor, shuning uchun agar kasal bo'lsangiz, tezda yordam olishingiz mumkin. Shuningdek, shaharlarda ko'plab sport zallari va sport markazlari mavjud. Katta supermarketlarda sog'lom ovqatni <mark>topish osonroq</mark>. Biroq, shaharlar stressli bo'lishi mumkin va bu sog'lig'ingiz uchun yaxshi emas. Odamlar uzoq soatlar davomida ishlashadi va shovqin ko'p.</p>\n\n<p>Mening fikrimcha, qishloq va shaharning ikkalasi ham sog'liq uchun yaxshi va yomon tomonlari bor. Bu sizning qanday yashashingizga bog'liq. Agar siz qishloqda yashasangiz, lekin hamma joyga mashinada borsangiz, bu sog'lom emas. Agar siz shaharda yashasangiz va fast-fud yesangiz, bu ham sog'lom emas. Menimcha, qayerda yashashingizdan qat'i nazar, nima yeyishingiz va qancha mashq qilishingiz haqida <mark>yaxshi tanlovlar qilish</mark> eng muhimi.</p>",
+    "uzSampleBand6": "<p>Qishloqda yashash sog'liq uchun shaharda yashashdan yaxshiroqmi degan savol doimiy muhokamada. Ba'zi odamlar qishloq sog'lom turmush tarzini taklif etadi deb hisoblasa, boshqalar shaharlarning o'ziga xos sog'liq uchun afzalliklari bor deb o'ylashadi. <mark>Ushbu inshoda men har ikki tomonni muhokama qilaman</mark> va keyin o'z fikrimni bildiraman.</p>\n\n<p>Bir tomondan, qishloq ko'pincha tinchlik va osoyishtalik maskani sifatida qabul qilinadi. <mark>Asosiy sabablardan biri</mark> odamlar uni sog'lomroq deb hisoblashlariga sabab - toza havo. Shaharlarga nisbatan avtomobillar va fabrikalar kamroq bo'lganligi sababli, havo ifloslanishi sezilarli darajada past. Bundan tashqari, qishloq sayr qilish, velosipedda yurish va bog'dorchilik kabi ochiq havoda mashg'ulotlar uchun ko'proq imkoniyatlar yaratadi. <mark>Bu mashg'ulotlar rag'batlantiradi</mark> jismoniy mashqlarni, bu esa jismoniy va ruhiy salomatlik uchun foydali. Shuningdek, qishloq joylarida hayotning sekin sur'ati stress darajasini pasaytirishi mumkin.</p>\n\n<p>Ammo, shaharlarning ham o'ziga xos sog'liq uchun foydalari bor. <mark>Misol uchun</mark>, shaharlarda sog'liqni saqlash xizmatlaridan foydalanish odatda ancha yaxshi. Ko'proq shifoxonalar, mutaxassislar va tibbiy muassasalar mavjud. Shaharlar, shuningdek, organik va vegetarian restoranlari kabi sog'lom oziq-ovqat variantlarining kengroq assortimentini taklif etadi. Bundan tashqari, shaharlarda jamoat transporti odatda yaxshiroq rivojlangan bo'lib, bu odamlarni ko'proq piyoda yurishga yoki velosipedda yurishga undashi mumkin. <mark>Ba'zi odamlar o'ylashadi</mark> shaharlardagi ijtimoiy va madaniy imkoniyatlar ham ruhiy farovonlikka hissa qo'shishi mumkin, garchi u ko'proq stressli bo'lishi mumkin.</p>\n\n<p>Mening fikrimcha, qishloq ham, shahar ham sog'lom turmush tarzini taklif qilishi mumkin, ammo bu shaxsning ustuvorliklari va sharoitlariga bog'liq. Qishloq toza havo va jismoniy faollik uchun ko'proq imkoniyatlar taqdim etsa, shaharlar sog'liqni saqlash xizmatlaridan foydalanishni va kengroq resurslarni taklif etadi. <mark>Oxir oqibat, men o'ylaymanki</mark> har ikkala muhitning eng yaxshi jihatlarini o'z ichiga olgan muvozanatli yondashuv - sog'lom hayotning kalitidir. Joylashuvidan qat'i nazar, sog'lom tanlovlar qilish muhim.</p>",
+    "uzSampleBand7": "<p>Shaharlar yoki qishloqlar sog'lom turmush tarzini taklif qiladimi degan bahs murakkab bo'lib, har ikki tomonda ham asosli dalillar mavjud. Ba'zilar qishloq hududlari farovonlikka olib keladi, deb ta'kidlasa, boshqalar shahar hayotining sog'liq uchun foydalarini himoya qiladi. Ushbu insho ikkala nuqtai nazarni ham o'rganib chiqadi va shundan so'ng o'z fikrimni bildiradi.</p>\n\n<p>Qishloq hayotini yoqlovchilar ko'pincha <mark>tinch muhit</mark> va tabiatga yaqinlikni ta'kidlashadi. Hayotning sekin sur'ati, toza havo va piyoda yurish va bog'dorchilik kabi ochiq havoda mashg'ulotlar bilan birgalikda stress darajasini sezilarli darajada kamaytirishi va jismoniy tayyorgarlikni oshirishi mumkin. Bundan tashqari, qishloq jamoalari ko'pincha kuchliroq ijtimoiy aloqalarni rivojlantiradi, bu ruhiy salomatlikni yaxshilashga yordam beradi. Havoning ham, shovqinning ham <mark>nisbatan ifloslanishning yo'qligi</mark>, shubhasiz, muhim afzallikdir.</p>\n\n<p>Aksincha, shaharlar sog'liq uchun boshqa afzalliklarni taqdim etadi. Shahar hududlarida odatda ixtisoslashgan davolash va favqulodda yordam xizmatlarini o'z ichiga olgan sog'liqni saqlash muassasalariga kirish imkoniyati ko'proq. Ba'zan gavjum bo'lsa ham, <mark>jamoat transporti imkoniyatlari</mark> ko'proq piyoda yurishga undashi va shaxsiy transport vositalariga bog'liqlikni kamaytirishi mumkin. Bundan tashqari, shaharlar ko'pincha turli xil oziq-ovqat ehtiyojlarini qondiradigan xilma-xil bozorlar va restoranlar bilan sog'lom oziq-ovqat tanlovlarining kengroq assortimentini taqdim etadi. Sport zallari, fitnes mashg'ulotlari va dam olish maskanlarining mavjudligi ham odatda shahar markazlarida yuqoriroq. Biroq, shuni tan olish kerakki, ushbu <mark>afzalliklarga kirish har doim ham teng emas</mark> shahardagi barcha ijtimoiy-iqtisodiy guruhlar bo'ylab.</p>\n\n<p>Mening fikrimcha, na shahar, na qishloq sog'lom turmush tarzini kafolatlamaydi. Oxir-oqibat, shaxsiy tanlovlar va vaziyatlar muhimroq rol o'ynaydi. Qishloq <mark>tabiiy ravishda tiklovchi muhitni</mark> taklif qilishi mumkin bo'lsa-da, sog'liqni saqlash va boshqa qulayliklarga kirishning yo'qligi zararli bo'lishi mumkin. Xuddi shunday, shaharlar ko'plab resurslarni taqdim etsa-da, tez sur'atdagi turmush tarzi va yuqori darajadagi ifloslanish farovonlikka salbiy ta'sir ko'rsatishi mumkin. <mark>Ideal vaziyat</mark> ikkalasining ham muvozanati bo'lishi mumkin, ehtimol yashil hududlarga kirish imkoniyati va sog'liqni saqlash va boshqa xizmatlar uchun shahar markazlariga yaqin joyda kichikroq shaharda yashash. <mark>Shaxsiy ustuvorliklarni hisobga olish</mark> va shaxsiy ehtiyojlar va afzalliklar asosida asosli qarorlar qabul qilish muhim.</p>",
+    "uzSampleBand8": "<p>Inson salomatligiga shahar va qishloq hayotining nisbiy afzalliklari doimiy bahs mavzusidir. Ko'pchilik qishloq hayotini sog'liq uchun foydali deb hisoblasa-da, boshqalar shaharlar ham farovonlik nuqtai nazaridan afzalliklarga ega bo'lishi mumkinligini ta'kidlaydi. Ushbu insho har ikki nuqtai nazarni ham o'rganib chiqadi va shundan so'ng o'z fikrimni bayon qiladi.</p>\n\n<p>Qishloq hayotining tarafdorlari ko'pincha <mark>tinch muhit</mark> salomatlikni mustahkamlashda asosiy omil ekanligini ta'kidlaydilar. Shahar markazlarining shovqini va ifloslanishidan uzoqda, odamlar stress bilan bog'liq kasalliklarga kamroq moyil bo'lishadi. Bundan tashqari, qishloq odatda piyoda yurish, velosipedda sayr qilish va bog'dorchilik kabi jismoniy faoliyat uchun <mark>ko'proq imkoniyatlar</mark> taqdim etadi. Yangi, mahalliy manbalardan olingan mahsulotlarga ega bo'lish ham ko'pincha foyda sifatida tilga olinadi va sog'lom ovqatlanishga hissa qo'shadi. Misol uchun, tadqiqotlar shuni ko'rsatdiki, qishloq joylarda o'sgan bolalarda <mark>astma va allergiya darajasi pastroq bo'ladi</mark>, bu, ehtimol, havo tozaligi va xilma-xil mikrob muhitiga ko'proq ta'sir qilish bilan bog'liq.</p>\n\n<p>Aksincha, shaharlar ham sezilarli sog'liq afzalliklarini ta'minlashi mumkin. Shahar joylarda odatda shifoxonalar, ixtisoslashgan klinikalar va tibbiyot mutaxassislarining keng doirasi, shu jumladan sog'liqni saqlash muassasalariga kirish imkoniyati yaxshiroq. Bu, ayniqsa, surunkali kasalliklari bo'lgan yoki <mark>ixtisoslashgan tibbiy yordamga</mark> muhtoj bo'lgan shaxslar uchun juda muhim bo'lishi mumkin. Bundan tashqari, shaharlar ko'pincha <mark>keng jamoat transporti tarmoqlariga</mark> ega bo'lib, piyoda yurishni rag'batlantiradi va shaxsiy transport vositalariga bog'liqlikni kamaytiradi, shu bilan jismoniy faollikni oshiradi va havo ifloslanishini kamaytiradi. Bundan tashqari, shahar markazlari ko'pincha turli xil fitnes afzalliklariga mos keladigan sport zallari, suzish havzalari va sport klublari kabi dam olish faoliyatlarining keng assortimentini taklif etadi. Nihoyat, <mark>aholining zichligi</mark> sog'liq haqidagi ma'lumotlar va xabardorlik kampaniyalarining tarqalishiga yordam berishi mumkin.</p>\n\n<p>Menimcha, qishloq joylar atrof-muhit sifati va ochiq havoda dam olish imkoniyatlari nuqtai nazaridan inkor etib bo'lmaydigan afzalliklarni taqdim etsa-da, shahar hayotining afzalliklari, ayniqsa sog'liqni saqlash imkoniyati va xilma-xil dam olish imkoniyatlari bilan bog'liq, xuddi shunday jozibador. Oxir oqibat, sog'lom turmush tarzi faqat joylashuvga emas, balki shaxsiy tanlovlarga va sog'liqni mustahkamlovchi xatti-harakatlarga <mark>faol ishtirok etishga</mark> bog'liq. Har ikki muhit ham imkoniyatlar va qiyinchiliklarni taqdim etadi; asosiy narsa, gavjum metropolda yoki sokin qishloq joyida yashashidan qat'i nazar, sog'lom turmush tarzini rivojlantirish uchun <mark>mavjud resurslardan foydalanishda</mark> yotadi. <mark>Darhaqiqat, muvozanatli yondashuv</mark>, shahar va qishloq hayotining elementlarini birlashtirgan holda, optimal farovonlik uchun eng qulay bo'lishi mumkin.</p>",
+    "uzSampleBand9": "<p>Sog'lom turmush tarziga qishloqda erishish osonmi yoki shaharda, degan savol doimiy bahs mavzusi bo'lib kelgan. Ko'pchilik qishloq hayotining <mark>qishloqona jozibasi</mark> va toza havosi farovonlikka yordam beradi deb hisoblasa, boshqalar shahar muhiti salomatlikni yaxshilash uchun noyob imkoniyatlar taqdim etadi deb ta'kidlaydi. Ushbu insho har ikki nuqtai nazarni o'rganib chiqadi va keyin asosli fikr bildiradi.</p>\n\n<p>Qishloq hayotini qo'llab-quvvatlovchilar ko'pincha uning o'ziga xos afzalliklarini ta'kidlashadi. <mark>Ifoslanishning nisbatan yo'qligi</mark>, mahalliy manbalardan olingan, ko'pincha organik oziq-ovqatga ega bo'lish shubhasiz sog'lom ovqatlanishga yordam beradi. Bundan tashqari, hayotning sekinroq sur'ati va sayr qilish va bog'dorchilik kabi ochiq havoda faoliyatning keng tarqalishi stress darajasini pasaytiradi va jismoniy tayyorgarlikni oshiradi. Qishloq joylarida hamjamiyat tuyg'usi kuchliroq bo'lishi mumkin, bu ruhiy salomatlikka ijobiy ta'sir qiladi. <mark>Bu omillar birgalikda</mark> farovonlikka nisbatan yaxlit yondashuvni rag'batlantiradigan muhit yaratadi.</p>\n\n<p>Aksincha, shaharlar o'ziga xos sog'liq uchun foydali tomonlarini taklif qiladi. Shahar hududlarida odatda yuqori darajadagi sog'liqni saqlash muassasalari mavjud bo'lib, mutaxassislar va ilg'or tibbiy texnologiyalar to'plangan. <mark>Tibbiy mutaxassislarga oson kirish</mark> profilaktika va surunkali kasalliklarni davolash uchun juda muhim bo'lishi mumkin. Bundan tashqari, shaharlar ko'pincha sport zallari va suzish havzalaridan tortib, yoga va Pilates kabi mashg'ulotlarni taklif qiluvchi ixtisoslashtirilgan studiyalargacha bo'lgan kengroq fitnes imkoniyatlarini taqdim etadi. Shahar muhitining zichligi piyoda yurish va velosipedda yurishni ham rag'batlantiradi, bu esa kundalik hayotning bir qismi sifatida tasodifiy mashqlarni targ'ib qiladi. <mark>Bu amaliy mulohazalardan tashqari</mark>, shaharlar madaniy tadbirlar va turli xil jamiyatlar orqali aqliy rag'batlantirish va ijtimoiy imkoniyatlarni taklif qilishi mumkin.</p>\n\n<p>Mening fikrimcha, qishloq sog'lom turmush tarzi uchun ideal muhitni taqdim etsa-da, shahar o'zining <mark>ko'p qirrali resurslari</mark> bilan farovonlik uchun teng darajada, agar undan ham ko'proq yordam berishi mumkin. Asosiysi, har bir muhitning o'ziga xos afzalliklaridan foydalanishdir. Misol uchun, shahar aholisi ongli ravishda yashil hududlarni qidirishlari va sog'lom ovqatlanishni ustuvor vazifa qilib belgilashlari mumkin, qishloq joylarida yashovchilar esa sifatli tibbiy xizmatga ega bo'lishlarini ta'minlashlari mumkin. Oxir-oqibat, sog'lom turmush tarzi - bu shaxsiy tanlov va faol ishtirok masalasidir, <mark>geografik joylashuvidan qat'i nazar</mark>. Shahar va qishloq hayotining <mark>eng yaxshi jihatlarini birlashtirgan</mark> muvozanatli yondashuv <mark>optimal sog'liqqa erishish uchun eng samarali strategiya</mark> hisoblanadi. <mark>Ushbu nozik nuqtai nazar</mark> atrof-muhit va farovonlik o'rtasidagi murakkab munosabatlarni baholashda muhim ahamiyatga ega.</p>"
+   }
+  },
+  "source": "Actual exam 2024-01-27",
+  "examDate": "2024-01-27",
+  "settings": {
+   "timeInfo": "60 Minutes",
+   "moduleTitle": "Academic Writing Module",
+   "testIdentifier": "Mock 14"
+  },
+  "vocabulary": {
+   "task1": [
+    {
+     "term": "Satisfaction levels",
+     "meaning": "The degree to which people are happy with something."
+    },
+    {
+     "term": "Varied considerably",
+     "meaning": "Showed large differences."
+    },
+    {
+     "term": "Underperforming",
+     "meaning": "Doing less well than expected."
+    },
+    {
+     "term": "Expressed approval",
+     "meaning": "Showed that they agreed with or liked something."
+    },
+    {
+     "term": "Widest variation",
+     "meaning": "The greatest range of difference."
+    },
+    {
+     "term": "Lagged behind",
+     "meaning": "Failed to keep up with others."
+    },
+    {
+     "term": "Moderate ratings",
+     "meaning": "Average or medium-level scores."
+    },
+    {
+     "term": "Consistently received",
+     "meaning": "Regularly or repeatedly got."
+    }
+   ],
+   "task2": [
+    {
+     "term": "Conducive to",
+     "meaning": "Making a certain situation or outcome likely or possible."
+    },
+    {
+     "term": "Perennial",
+     "meaning": "Lasting for an indefinitely long time; recurring."
+    },
+    {
+     "term": "Physical and mental well-being",
+     "meaning": "The state of being comfortable, healthy, and happy in body and mind."
+    },
+    {
+     "term": "Readily available",
+     "meaning": "Easily obtained or accessible."
+    },
+    {
+     "term": "Superior healthcare facilities",
+     "meaning": "Medical services and buildings of a higher quality."
+    },
+    {
+     "term": "Active lifestyles",
+     "meaning": "Ways of living that involve regular physical exercise."
+    },
+    {
+     "term": "Mental stimulation",
+     "meaning": "Activities that challenge and exercise the brain."
+    },
+    {
+     "term": "Compelling case",
+     "meaning": "A strong and convincing argument."
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "more easy": {
+    "uz": "osonroq",
+    "type": "colloc"
+   },
+   "For example": {
+    "uz": "Masalan",
+    "type": "linking"
+   },
+   "In contrast": {
+    "uz": "Farqli o'laroq",
+    "type": "linking"
+   },
+   "can be good": {
+    "uz": "yaxshi bo'lishi mumkin",
+    "type": "colloc"
+   },
+   "seemed to be": {
+    "uz": "bo'lib tuyuldi",
+    "type": "colloc"
+   },
+   "bucolic charm": {
+    "uz": "qishloq jozibasi",
+    "type": "lexical"
+   },
+   "not so popular": {
+    "uz": "uncha mashhur emas",
+    "type": "colloc"
+   },
+   "less impressive": {
+    "uz": "kamroq ta'sirchan",
+    "type": "lexical"
+   },
+   "clear divergence": {
+    "uz": "aniq tafovut",
+    "type": "academic"
+   },
+   "do more exercise": {
+    "uz": "ko'proq mashq qilish",
+    "type": "colloc"
+   },
+   "Some people think": {
+    "uz": "Ba'zi odamlar o'ylashadi",
+    "type": "colloc"
+   },
+   "make good choices": {
+    "uz": "yaxshi tanlovlar qilish",
+    "type": "colloc"
+   },
+   "more easy to find": {
+    "uz": "topish osonroq",
+    "type": "colloc"
+   },
+   "a tendency towards": {
+    "uz": "ga moyillik",
+    "type": "lexical"
+   },
+   "The ideal situation": {
+    "uz": "Ideal vaziyat",
+    "type": "lexical"
+   },
+   "Ultimately, I think": {
+    "uz": "Oxir-oqibat, menimcha",
+    "type": "linking"
+   },
+   "degree of variation": {
+    "uz": "o'zgarish darajasi",
+    "type": "academic"
+   },
+   "potential disparity": {
+    "uz": "potentsial nomutanosiblik",
+    "type": "academic"
+   },
+   "generally considered": {
+    "uz": "odatda hisoblanadi",
+    "type": "colloc"
+   },
+   "tranquil environment": {
+    "uz": "tinch muhit",
+    "type": "lexical"
+   },
+   "consistently outstrip": {
+    "uz": "doimiy ravishda oshib ketadi",
+    "type": "academic"
+   },
+   "multifaceted resources": {
+    "uz": "ko'p qirrali resurslar",
+    "type": "lexical"
+   },
+   "One of the main reasons": {
+    "uz": "Asosiy sabablardan biri",
+    "type": "academic"
+   },
+   "presents data regarding": {
+    "uz": "ga oid ma'lumotlarni taqdim etadi",
+    "type": "academic"
+   },
+   "proactive engagement in": {
+    "uz": "da faol ishtirok etish",
+    "type": "academic"
+   },
+   "representing the zenith": {
+    "uz": "zenitni ifodalaydi",
+    "type": "academic"
+   },
+   "A noteworthy observation": {
+    "uz": "Diqqatga sazovor kuzatuv",
+    "type": "academic"
+   },
+   "This nuanced perspective": {
+    "uz": "Bu nozik nuqtai nazar",
+    "type": "academic"
+   },
+   "specialised medical care": {
+    "uz": "ixtisoslashgan tibbiy yordam",
+    "type": "lexical"
+   },
+   "greater opportunities for": {
+    "uz": "uchun katta imkoniyatlar",
+    "type": "colloc"
+   },
+   "the most 'very good' part": {
+    "uz": "eng 'juda yaxshi' qismi",
+    "type": "colloc"
+   },
+   "These activities encourage": {
+    "uz": "Bu faoliyatlar rag'batlantiradi",
+    "type": "colloc"
+   },
+   "These factors collectively": {
+    "uz": "Bu omillar birgalikda",
+    "type": "academic"
+   },
+   "displayed a broad spectrum": {
+    "uz": "keng spektrni namoyish etdi",
+    "type": "academic"
+   },
+   "illustrates the proportion": {
+    "uz": "nisbatni ko'rsatadi",
+    "type": "academic"
+   },
+   "presents the proportion of": {
+    "uz": "ning nisbatini taqdim etadi",
+    "type": "academic"
+   },
+   "seem to be the least happy": {
+    "uz": "eng baxtsiz bo'lib tuyuladi",
+    "type": "colloc"
+   },
+   "Indeed, a balanced approach": {
+    "uz": "Haqiqatan ham, muvozanatli yondashuv",
+    "type": "academic"
+   },
+   "Overall, it is evident that": {
+    "uz": "Umuman olganda, shuni ko'rish mumkinki",
+    "type": "linking"
+   },
+   "perceived different aspects": {
+    "uz": "turli jihatlarni idrok etish",
+    "type": "academic"
+   },
+   "sheer density of population": {
+    "uz": "aholining nihoyatda zichligi",
+    "type": "lexical"
+   },
+   "tend to have lower rates of": {
+    "uz": "da pastroq ko'rsatkichlarga ega bo'lishga moyil",
+    "type": "academic"
+   },
+   "It is also worth noting that": {
+    "uz": "Shuni ham ta'kidlash joizki",
+    "type": "linking"
+   },
+   "integrating the best aspects": {
+    "uz": "eng yaxshi jihatlarni birlashtirish",
+    "type": "academic"
+   },
+   "Public transportation options": {
+    "uz": "Jamoat transporti imkoniyatlari",
+    "type": "lexical"
+   },
+   "relative absence of pollution": {
+    "uz": "ifloslanishning nisbiy yo'qligi",
+    "type": "lexical"
+   },
+   "address perceived shortcomings": {
+    "uz": "sezilgan kamchiliklarni bartaraf etish",
+    "type": "academic"
+   },
+   "consider individual priorities": {
+    "uz": "shaxsiy ustuvorliklarni hisobga olish",
+    "type": "academic"
+   },
+   "a figure marginally higher than": {
+    "uz": "dan biroz yuqori ko'rsatkich",
+    "type": "lexical"
+   },
+   "ascertain the underlying causes": {
+    "uz": "asosiy sabablarni aniqlash",
+    "type": "academic"
+   },
+   "representing the lowest figures": {
+    "uz": "eng past ko'rsatkichlarni ifodalaydi",
+    "type": "academic"
+   },
+   "exhibited considerable variation": {
+    "uz": "sezilarli o'zgarishni namoyish etdi",
+    "type": "academic"
+   },
+   "naturally restorative environment": {
+    "uz": "tabiiy tiklovchi muhit",
+    "type": "lexical"
+   },
+   "ready access to medical expertise": {
+    "uz": "tibbiy mutaxassislikka tezkor kirish",
+    "type": "lexical"
+   },
+   "leveraging the available resources": {
+    "uz": "mavjud resurslardan foydalanish",
+    "type": "academic"
+   },
+   "generally meet student expectations": {
+    "uz": "odatda talabalarning umidlarini oqlaydi",
+    "type": "colloc"
+   },
+   "highlights the heterogeneous nature": {
+    "uz": "heterogen tabiatni ta'kidlaydi",
+    "type": "academic"
+   },
+   "received comparatively lower scores": {
+    "uz": "taqqoslaganda pastroq ball oldi",
+    "type": "academic"
+   },
+   "arguably the most effective strategy": {
+    "uz": "ehtimol, eng samarali strategiya",
+    "type": "academic"
+   },
+   "Beyond these practical considerations": {
+    "uz": "Bu amaliy mulohazalardan tashqari",
+    "type": "academic"
+   },
+   "irrespective of geographical location": {
+    "uz": "geografik joylashuvidan qat'i nazar",
+    "type": "academic"
+   },
+   "In this essay, I will discuss both sides": {
+    "uz": "Ushbu esseda men har ikki tomonni muhokama qilaman",
+    "type": "academic"
+   },
+   "extensive public transportation networks": {
+    "uz": "keng jamoat transporti tarmoqlari",
+    "type": "lexical"
+   },
+   "Overall, the teaching quality had the most": {
+    "uz": "Umuman olganda, o'qitish sifati eng ko'p ta'sir ko'rsatdi",
+    "type": "academic"
+   },
+   "were identified as an area for improvement": {
+    "uz": "yaxshilash kerak bo'lgan soha sifatida aniqlandi",
+    "type": "academic"
+   },
+   "access to these benefits is not always equitable": {
+    "uz": "bu imtiyozlarga kirish har doim ham adolatli emas",
+    "type": "academic"
+   },
+   "received a relatively consistent positive rating": {
+    "uz": "nisbatan barqaror ijobiy baho oldi",
+    "type": "academic"
+   }
+  }
+ },
+ "created_at": "2026-05-06T17:28:45.591133+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

@@ -1,0 +1,456 @@
+{
+ "id": 2290,
+ "mock_type": "ket-listening",
+ "mock_number": 28,
+ "title": "KET Listening — Test 28",
+ "status": "published",
+ "mock_data": {
+  "audio": {
+   "base": "https://audio.mock-stream.com/KET-Listening/test28/",
+   "files": {
+    "1": "PART1.m4a",
+    "2": "PART2.m4a",
+    "3": "PART3.m4a",
+    "4": "PART4.m4a",
+    "5": "PART5.m4a"
+   }
+  },
+  "parts": [
+   {
+    "type": "picture-mcq",
+    "items": [
+     {
+      "id": 1,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q1A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q1B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q1C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "How will they travel to the pop concert?"
+     },
+     {
+      "id": 2,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q2A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q2B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q2C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What was the weather like on Beth's holiday?"
+     },
+     {
+      "id": 3,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q3A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q3B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q3C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Where has the teacher put the dictionaries?"
+     },
+     {
+      "id": 4,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q4A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q4B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q4C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Where did Paul go running yesterday?"
+     },
+     {
+      "id": 5,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q5A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q5B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q5C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What does Karen still need to get for the school play?"
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "image": "q0A.png",
+       "letter": "A"
+      },
+      {
+       "image": "q0B.png",
+       "letter": "B"
+      },
+      {
+       "image": "q0C.png",
+       "letter": "C"
+      }
+     ],
+     "question": "How many people were at the meeting?"
+    },
+    "imageBase": "https://audio.mock-stream.com/KET-Listening/test28/p1/",
+    "partNumber": 1,
+    "instruction": [
+     "You will hear five short conversations.",
+     "You will hear each conversation twice.",
+     "There is one question for each conversation.",
+     "For questions 1–5, put a tick (✓) under the right answer."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "matching-list",
+    "items": [
+     {
+      "id": 6,
+      "name": "Italy",
+      "answer": "F"
+     },
+     {
+      "id": 7,
+      "name": "Mexico",
+      "answer": "D"
+     },
+     {
+      "id": 8,
+      "name": "India",
+      "answer": "C"
+     },
+     {
+      "id": 9,
+      "name": "Australia",
+      "answer": "A"
+     },
+     {
+      "id": 10,
+      "name": "Canada",
+      "answer": "E"
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "name": "France",
+     "answer": "H",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "animals",
+      "letter": "A"
+     },
+     {
+      "text": "beach",
+      "letter": "B"
+     },
+     {
+      "text": "countryside",
+      "letter": "C"
+     },
+     {
+      "text": "food",
+      "letter": "D"
+     },
+     {
+      "text": "hotel",
+      "letter": "E"
+     },
+     {
+      "text": "shops",
+      "letter": "F"
+     },
+     {
+      "text": "sport",
+      "letter": "G"
+     },
+     {
+      "text": "weather",
+      "letter": "H"
+     }
+    ],
+    "scenario": "Gemma telling about visits to different countries — favourite things",
+    "leftLabel": "Countries",
+    "partNumber": 2,
+    "rightLabel": "Favourite things",
+    "instruction": [
+     "Listen to Gemma telling a friend about her visits to different countries.",
+     "What did she like most about each country?",
+     "For questions 6–10, write a letter A–H next to each country.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-conversation",
+    "items": [
+     {
+      "id": 11,
+      "stem": "Which building will the competition be in?",
+      "answer": "C",
+      "options": [
+       {
+        "text": "the school",
+        "letter": "A"
+       },
+       {
+        "text": "the town hall",
+        "letter": "B"
+       },
+       {
+        "text": "the university",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "stem": "How has the team decided to get there?",
+      "answer": "A",
+      "options": [
+       {
+        "text": "They will catch a bus.",
+        "letter": "A"
+       },
+       {
+        "text": "They will walk.",
+        "letter": "B"
+       },
+       {
+        "text": "They will go on the underground.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "stem": "The total number of questions in the quiz will be",
+      "answer": "C",
+      "options": [
+       {
+        "text": "five.",
+        "letter": "A"
+       },
+       {
+        "text": "fifteen.",
+        "letter": "B"
+       },
+       {
+        "text": "twenty-five.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "stem": "Tony's favourite area of science is",
+      "answer": "C",
+      "options": [
+       {
+        "text": "biology.",
+        "letter": "A"
+       },
+       {
+        "text": "chemistry.",
+        "letter": "B"
+       },
+       {
+        "text": "physics.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "stem": "Winners of the competition get",
+      "answer": "B",
+      "options": [
+       {
+        "text": "T-shirts.",
+        "letter": "A"
+       },
+       {
+        "text": "cinema tickets.",
+        "letter": "B"
+       },
+       {
+        "text": "a box of chocolates.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "stem": "Tony says the competition is on",
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "text": "Monday.",
+       "letter": "A"
+      },
+      {
+       "text": "Tuesday.",
+       "letter": "B"
+      },
+      {
+       "text": "Wednesday.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partNumber": 3,
+    "instruction": [
+     "Listen to Tony talking to Lisa about a science club competition.",
+     "For questions 11–15, tick (✓) A, B or C.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "rows": [
+     {
+      "id": 16,
+      "label": "Time working day ends:",
+      "answer": "2"
+     },
+     {
+      "id": 17,
+      "label": "You need to be:",
+      "answer": "strong",
+      "suffix": "and careful"
+     },
+     {
+      "id": 18,
+      "label": "You will earn:",
+      "answer": "300",
+      "prefix": "£",
+      "suffix": "a week"
+     },
+     {
+      "id": 19,
+      "label": "What you must pay for:",
+      "answer": "bus ticket"
+     },
+     {
+      "id": 20,
+      "label": "Date work begins:",
+      "answer": "24th",
+      "suffix": "May"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 4",
+    "subtitle": "Type of job: Farm worker",
+    "noteTitle": "Summer holiday job",
+    "partNumber": 4,
+    "instruction": [
+     "You will hear a girl asking for information about a summer job.",
+     "Listen and complete questions 16–20.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "rows": [
+     {
+      "id": 21,
+      "label": "Team colour:",
+      "answer": "blue"
+     },
+     {
+      "id": 22,
+      "label": "Number of people per team:",
+      "answer": "3"
+     },
+     {
+      "id": 23,
+      "label": "Time of race:",
+      "answer": "8.30",
+      "suffix": "a.m."
+     },
+     {
+      "id": 24,
+      "label": "Food at snack place:",
+      "answer": "cake",
+      "suffix": "and drink"
+     },
+     {
+      "id": 25,
+      "label": "First prize:",
+      "answer": "watch",
+      "prefix": "a new"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 5",
+    "subtitle": "Date of race: 22nd September",
+    "noteTitle": "Cardiff Bike Race",
+    "partNumber": 5,
+    "instruction": [
+     "You will hear the manager of a cycling club giving some information about a bike race.",
+     "Listen and complete questions 21–25.",
+     "You will hear the information twice."
+    ],
+    "questionsLabel": "QUESTIONS 21–25"
+   }
+  ],
+  "testInfo": {
+   "id": "ket-l-28",
+   "level": "A2",
+   "paper": "Paper 2",
+   "parts": 5,
+   "title": "KET Listening — Test 28",
+   "totalTime": 30,
+   "totalQuestions": 25
+  }
+ },
+ "created_at": "2026-10-14T06:45:36.173391+00:00",
+ "updated_at": "2026-10-14T06:47:21.506479+00:00"
+}

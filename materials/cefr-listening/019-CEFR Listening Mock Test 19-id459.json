@@ -1,0 +1,766 @@
+{
+ "id": 459,
+ "mock_type": "cefr-listening",
+ "mock_number": 19,
+ "title": "CEFR Listening Mock Test 19",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "mcq-reply",
+    "title": "Part 1",
+    "answers": {
+     "1": "B",
+     "2": "A",
+     "3": "A",
+     "4": "A",
+     "5": "B",
+     "6": "A",
+     "7": "C",
+     "8": "A"
+    },
+    "audioFile": "https://audio.mock-stream.com/test19/2.m4a",
+    "questions": [
+     {
+      "id": 1,
+      "options": [
+       {
+        "text": "Ah, I wasn’t expecting that.",
+        "letter": "A"
+       },
+       {
+        "text": "Yeah, of course.",
+        "letter": "B"
+       },
+       {
+        "text": "So do I",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "options": [
+       {
+        "text": "No, I can’t",
+        "letter": "A"
+       },
+       {
+        "text": "Wow, amazing, thanks",
+        "letter": "B"
+       },
+       {
+        "text": "Really? Is that so?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 3,
+      "options": [
+       {
+        "text": "I did too",
+        "letter": "A"
+       },
+       {
+        "text": "Ok, I did",
+        "letter": "B"
+       },
+       {
+        "text": "Oh, come on",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 4,
+      "options": [
+       {
+        "text": "Sure, what do you want to study?",
+        "letter": "A"
+       },
+       {
+        "text": "Yeah, I can arrange a holiday for you",
+        "letter": "B"
+       },
+       {
+        "text": "Where are you going?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 5,
+      "options": [
+       {
+        "text": "Good luck with that",
+        "letter": "A"
+       },
+       {
+        "text": "Yeah, it’s not bad",
+        "letter": "B"
+       },
+       {
+        "text": "Thanks",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 6,
+      "options": [
+       {
+        "text": "Never better. I am doing great!",
+        "letter": "A"
+       },
+       {
+        "text": "Oh, I’m better now, thanks for asking",
+        "letter": "B"
+       },
+       {
+        "text": "Well, you are fine but how are you doing that?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 7,
+      "options": [
+       {
+        "text": "Yeah, OK fine, thank you.",
+        "letter": "A"
+       },
+       {
+        "text": "Once you have it, you can go to bookstore.",
+        "letter": "B"
+       },
+       {
+        "text": "Oh, it’s past the gym, near the main hall.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 8,
+      "options": [
+       {
+        "text": "Oh, I will.",
+        "letter": "A"
+       },
+       {
+        "text": "Oh, I am sure.",
+        "letter": "B"
+       },
+       {
+        "text": "Ok, I am ready",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "partNumber": 1,
+    "transcript": "Part one. You will hear some sentences. You will hear each sentence twice. Choose the correct reply to each sentence, A, B or C. Mark your answers on the answer sheet.\nSpeaker one. Hey Mark, can you turn off the stereo, please?\nHey Mark, can you turn off the stereo, please?\nSpeaker two. Let's go somewhere to hang out.\nLet's go somewhere to hang out.\nSpeaker three. Last month we visited an extraordinary place.\nLast month we visited an extraordinary place.\nSpeaker four. I need help planning my semester.\nI need help planning my semester.\nSpeaker five. Are you enjoying your new school?\nAre you enjoying your new school?\nSpeaker six. So, how have you been lately?\nSo, how have you been lately?\nSpeaker seven. Excuse me, could you tell me where the bookstore is?\nExcuse me, could you tell me where the bookstore is?\nSpeaker eight. Make sure you are ready before attending class next time.\nMake sure you are ready before attending class next time.\nThat is the end of part one.",
+    "instruction": "You will hear some sentences. You will hear each sentence twice. Choose the correct reply to each sentence (A, B, or C).",
+    "questionRange": "1-8",
+    "answerHighlights": {
+     "1": [
+      1
+     ],
+     "2": [
+      3
+     ],
+     "3": [
+      5
+     ],
+     "4": [
+      7
+     ],
+     "5": [
+      9
+     ],
+     "6": [
+      11
+     ],
+     "7": [
+      13
+     ],
+     "8": [
+      15
+     ]
+    }
+   },
+   {
+    "type": "gap-fill-form",
+    "title": "Part 2",
+    "answers": {
+     "9": [
+      "views",
+      "Views",
+      "VIEWS"
+     ],
+     "10": [
+      "15th April",
+      "15th april",
+      "15 April",
+      "15 april",
+      "April 15",
+      "April 15th"
+     ],
+     "11": [
+      "markets",
+      "Markets",
+      "MARKETS"
+     ],
+     "12": [
+      "rice",
+      "Rice",
+      "RICE"
+     ],
+     "13": [
+      "chocolate",
+      "Chocolate",
+      "CHOCOLATE"
+     ],
+     "14": [
+      "exodus",
+      "Exodus",
+      "EXODUS"
+     ]
+    },
+    "audioFile": "https://audio.mock-stream.com/test19/1.m4a",
+    "formTitle": "Amazing Holidays",
+    "questions": [
+     {
+      "id": 9,
+      "hint": "excellent ____"
+     },
+     {
+      "id": 10,
+      "hint": "last trip is on ____"
+     },
+     {
+      "id": 11,
+      "hint": "go to food ____"
+     },
+     {
+      "id": 12,
+      "hint": "making panda ____ balls"
+     },
+     {
+      "id": 13,
+      "hint": "visit the ____"
+     },
+     {
+      "id": 14,
+      "hint": "www.____.holiday.com"
+     }
+    ],
+    "partNumber": 2,
+    "transcript": "Narrator: Part two.\nYou will hear someone giving a talk.\nFor each question, fill in the missing information in the numbered space.\nWrite one word or a number for each answer.\nYou now have some time to look at questions.\nYou will hear a teacher giving some information to students about a special destination for their school trip.\nWell, today I want to share with you some amazing ideas for our school trip next month.\nI've been looking into a new holiday company called Exodus, which promises the traveler an unforgettable experience.\nSo, let's start with their walking holiday on the Great Wall of China.\nIt took over 2,000 years to build and is 5,500 miles long.\nOkay, you won't walk all of that, but it will take you far away from the crowds and the amazing views really make it worth it.\nThere is also another extreme walking and climbing experience on Everest.\nThis is a 10-day extreme holiday only for experienced walkers.\nYou join a group and climb to the base camp of the highest mountain on Earth.\nHowever, this does not happen in the summer months due to the rainy season.\nSo the last one leaves on the 15th of April.\nUntil last year, there was another one on the 25th of April, but there isn't anymore.\nBut, if walking is not your thing, how about a food holiday on a Vietnam or China Food Adventure tour.\nBoth holidays have cookery classes, and you will get a chance to shop for ingredients at the food markets, which are an amazing experience.\nFor me, the best part is going to the Panda Rescue Center.\nYou know, those lovely black and white bears that you only find in China?\nYou can have a cookery class there and learn to make panda rice balls, great for kids parties.\nBy the way, if you're a chocolate mad, then the Mexico food adventure is the one for you.\nYou get to go to the chocolate museum and see how it is produced, plus lots of chocolate cookery classes.\nIf you want, I'll give you the website address to have a look at all the amazing experience they offer both you and your parents.\nIt's www.exodus.holiday.com.\nI'll spell that for you.\nIt's e x o d u s.\nNarrator: Now, listen again.\nWell, today, I want to share with you some amazing ideas for our school trip next month.\nI've been looking into a new holiday company called Exodus, which promises the traveler an unforgettable experience.\nSo, let's start with their walking holiday on the Great Wall of China.\nIt took over 2,000 years to build and is 5,500 miles long.\nOkay, you won't walk all of that, but it will take you far away from the crowds and the amazing views really make it worth it.\nThere is also another extreme walking and climbing experience on Everest.\nThis is a 10-day extreme holiday only for experienced walkers.\nYou join a group and climb to the base camp of the highest mountain on Earth.\nHowever, this does not happen in the summer months due to the rainy season.\nSo the last one leaves on the 15th of April.\nUntil last year, there was another one on the 25th of April, but there isn't anymore.\nBut, if walking is not your thing, how about a food holiday on a Vietnam or China Food Adventure tour.\nBoth holidays have cookery classes, and you will get a chance to shop for ingredients at the food markets, which are an amazing experience.\nFor me, the best part is going to the Panda Rescue Center.\nYou know, those lovely black and white bears that you only find in China?\nYou can have a cookery class there and learn to make panda rice balls, great for kids parties.\nBy the way, if you're a chocolate mad, then the Mexico food adventure is the one for you.\nYou get to go to the chocolate museum and see how it is produced, plus lots of chocolate cookery classes.\nIf you want, I'll give you the website address to have a look at all the amazing experience they offer both you and your parents.\nIt's www.exodus.holiday.com.\nI'll spell that for you.\nIt's e x o d u s.\nNarrator: That is the end of part two.",
+    "formContent": [
+     {
+      "text": "Benefits of The Great Wall of China tour:",
+      "type": "heading"
+     },
+     {
+      "text": "not overcrowded",
+      "type": "item"
+     },
+     {
+      "text": "excellent",
+      "type": "item-gap",
+      "gapId": 9
+     },
+     {
+      "text": "Mount Everest:",
+      "type": "heading"
+     },
+     {
+      "text": "last trip is on",
+      "type": "item-gap",
+      "gapId": 10
+     },
+     {
+      "text": "Cookery holidays:",
+      "type": "heading"
+     },
+     {
+      "text": "China or Vietnam tour: go to food",
+      "type": "item-gap",
+      "gapId": 11,
+      "gapSuffix": "for shopping"
+     },
+     {
+      "text": "Panda Rescue Centre: class on making panda",
+      "type": "item-gap",
+      "gapId": 12,
+      "gapSuffix": "balls"
+     },
+     {
+      "text": "Mexico Food Adventure: visit the",
+      "type": "item-gap",
+      "gapId": 13
+     },
+     {
+      "text": "For more information:",
+      "type": "heading"
+     },
+     {
+      "text": "www.",
+      "type": "item-gap",
+      "gapId": 14,
+      "gapSuffix": ".holiday.com"
+     }
+    ],
+    "instruction": "You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. Write ONE WORD and / or A NUMBER for each answer.",
+    "questionRange": "9-14",
+    "answerHighlights": {
+     "9": [
+      10
+     ],
+     "10": [
+      15
+     ],
+     "11": [
+      18
+     ],
+     "12": [
+      21
+     ],
+     "13": [
+      22,
+      23
+     ],
+     "14": [
+      25
+     ]
+    }
+   },
+   {
+    "type": "matching-speakers",
+    "title": "Part 3",
+    "answers": {
+     "15": "F",
+     "16": "A",
+     "17": "D",
+     "18": "A"
+    },
+    "options": [
+     {
+      "text": "to extend skills already acquired",
+      "letter": "A"
+     },
+     {
+      "text": "to pursue a simpler lifestyle",
+      "letter": "B"
+     },
+     {
+      "text": "to satisfy family expectations",
+      "letter": "C"
+     },
+     {
+      "text": "to turn a dream into reality",
+      "letter": "D"
+     },
+     {
+      "text": "to learn another language",
+      "letter": "E"
+     },
+     {
+      "text": "to be nearer to places of historical interest",
+      "letter": "F"
+     }
+    ],
+    "speakers": [
+     {
+      "id": 15,
+      "label": "Speaker 1"
+     },
+     {
+      "id": 16,
+      "label": "Speaker 2"
+     },
+     {
+      "id": 17,
+      "label": "Speaker 3"
+     },
+     {
+      "id": 18,
+      "label": "Speaker 4"
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test19/3.m4a",
+    "partNumber": 3,
+    "transcript": "Part three.\nYou will hear people speaking in different situations.\nMatch each speaker, 15 to 18 to the options AF.\nThere are two extra options which you do not need to use.\nMark your answers on the answer sheet.\nYou now have some time to look at questions.\nSpeaker one.\nI wanted to study medieval culture at university, but needed to earn some cash first.\nSo I thought working as a plumber might help me achieve that.\nHowever, the idea of a short plumbing course in my own country didn't appeal.\nSo when I discovered one in an old European town, I jumped at it.\nI'm bilingual, so I knew language wouldn't be an issue.\nBut what made it perfect was all the ancient ruins in the area, which I was just itching to explore.\nOnce there, I felt really driven to do well.\nThere was just this new sense of optimism.\nI even went on to be the college's best apprentice.\n\nSpeaker two.\nMy brother and I had always played a lot of tennis, and I was about to take it up professionally, but then injured my leg quite badly and had to drop the idea.\nSo I up sticks and got on a plane to do a sports science degree at a really old and prestigious university.\nIt gave me a real sense of helping the next generation of top athletes to achieve their dream, even if mine had somehow changed direction.\nAnd they were really grateful for that.\nSo the recommendations opened a number of doors for me once my studies had finished.\nThat was incredibly valuable.\n\nSpeaker three.\nI'd always been a great fan of detective stories, and I suppose I'd always imagined myself being the one who solves the crime and catches the bad guy.\nThen quite by chance, I happened to read about a forensic science course in the states and realized it was my big chance, as it would get me exactly where I'd always wanted to go.\nMy family couldn't get over it when I announced my plans.\nBut the great bonus has been that loads of films are made in the area where I'm living.\nSo I've got into that art form now.\nI'd never really seen myself as a movie buff before.\n\nSpeaker four.\nI'd lived in the city all my life and had plenty of friends there, but we were all rushing around frantically as city dwellers do.\nAnyway, I'd been reading about problems with the environment and felt increasingly I wanted to do something.\nBut what?\nThen I discovered a course where I could train in agriculture and rural development.\nSo off we went, me and my family.\nThe area also offered perfect opportunities for me to apply my new found knowledge, and I realized I no longer needed to rely on anyone to give me a job.\nWe could go anywhere where I could set up by myself.\nIt was exactly what we all needed.\n\nNow, listen again.\nSpeaker one.\nI wanted to study medieval culture at university, but needed to earn some cash first.\nSo I thought working as a plumber might help me achieve that.\nHowever, the idea of a short plumbing course in my own country didn't appeal.\nSo when I discovered one in an old European town, I jumped at it.\nI'm bilingual, so I knew language wouldn't be an issue.\nBut what made it perfect was all the ancient ruins in the area, which I was just itching to explore.\nOnce there, I felt really driven to do well.\nThere was just this new sense of optimism.\nI even went on to be the college's best apprentice.\n\nSpeaker two.\nMy brother and I had always played a lot of tennis, and I was about to take it up professionally, but then injured my leg quite badly and had to drop the idea.\nSo I up sticks and got on a plane to do a sports science degree at a really old and prestigious university.\nIt gave me a real sense of helping the next generation of top athletes to achieve their dream, even if mine had somehow changed direction.\nAnd they were really grateful for that.\nSo the recommendations opened a number of doors for me once my studies had finished.\nThat was incredibly valuable.\n\nSpeaker three.\nI'd always been a great fan of detective stories, and I suppose I'd always imagined myself being the one who solves the crime and catches the bad guy.\nThen quite by chance, I happened to read about a forensic science course in the states and realized it was my big chance, as it would get me exactly where I'd always wanted to go.\nMy family couldn't get over it when I announced my plans.\nBut the great bonus has been that loads of films are made in the area where I'm living.\nSo I've got into that art form now.\nI'd never really seen myself as a movie buff before.\n\nSpeaker four.\nI'd lived in the city all my life and had plenty of friends there, but we were all rushing around frantically, as city dwellers do.\nAnyway, I'd been reading about problems with the environment and felt increasingly I wanted to do something.\nBut what?\nThen I discovered a course where I could train in agriculture and rural development.\nSo off we went, me and my family.\nThe area also offered perfect opportunities for me to apply my new found knowledge, and I realized I no longer needed to rely on anyone to give me a job.\nWe could go anywhere where I could set up by myself.\nIt was exactly what we all needed.\n\nThat is the end of part three.",
+    "instruction": "You will hear people speaking in different situations. Match each speaker (15-18) to the reason (A-F). There are TWO EXTRA options which you do not need to use.",
+    "questionRange": "15-18",
+    "answerHighlights": {
+     "15": [
+      10,
+      12
+     ],
+     "16": [
+      18,
+      20
+     ],
+     "17": [
+      26,
+      27
+     ],
+     "18": [
+      35,
+      37
+     ]
+    }
+   },
+   {
+    "type": "map-labeling",
+    "title": "Part 4",
+    "answers": {
+     "19": "A",
+     "20": "C",
+     "21": "F",
+     "22": "H",
+     "23": "I"
+    },
+    "mapImage": "https://audio.mock-stream.com/test19/Gemini_Generated_Image_vhc8o5vhc8o5vhc8.png",
+    "mapTitle": "City Shopping District",
+    "audioFile": "https://audio.mock-stream.com/test19/4.m4a",
+    "mapLabels": [
+     "A",
+     "B",
+     "C",
+     "D",
+     "E",
+     "F",
+     "G",
+     "H",
+     "I"
+    ],
+    "questions": [
+     {
+      "id": 19,
+      "place": "Harbor View Bookstore"
+     },
+     {
+      "id": 20,
+      "place": "Pear Cafe"
+     },
+     {
+      "id": 21,
+      "place": "Souvenir Store"
+     },
+     {
+      "id": 22,
+      "place": "Art Gallery"
+     },
+     {
+      "id": 23,
+      "place": "Harbor Park"
+     }
+    ],
+    "partNumber": 4,
+    "transcript": "Part four.\nYou will hear someone giving a talk.\nLabel the places, 19 to 23 on the map, A-H.\nThere are three extra options which you do not need to use.\nMark your answers on the answer sheet.\nYou now have some time to look at questions.\nYou'll see on this map here that the shopping district consists of two streets, Pear Street, which runs north and south, and Cherry Street, which crosses Pear Street right here.\nLet's start our tour here on Pear Street where the star is.\nThis star marks the Harborview bookstore.\nIt's very popular among locals, as well as tourists.\nYou can buy a range of books of local interest, as well as a variety of magazines and newspapers.\nIt's directly across the street from the city library, which is also worth a visit.\nIt's in one of the oldest buildings in the city and contains, among other things, an interesting collection of rare books.\nNow, moving up Pear from the bookstore toward Cherry, the next building on the left is the Pear Cafe.\nYou'll notice it's right on the corner of Pear and Cherry streets.\nIt's a great place to relax while enjoying a delicious cup of coffee or tea.\nYou can talk with friends or read quietly.\nThey have a variety of books and magazines available.\nFrom the windows of the cafe, you can look right across Cherry Street for a lovely view of City Gardens.\nIt's a rather small garden, but it contains a variety of exotic plants and flowers.\nLet's leave the cafe and cross Pear Street.\nOn the opposite corner, we're at Caldwell's clothing store, which you might also want to visit.\nThey sell both men's and women's fashions from countries around the world.\nContinuing down Cherry Street, the next building on the right after Caldwell's is the souvenir shop.\nStop in here to get maps and books about the local area, as well as t-shirts and postcards with pictures of the city.\nNow, we cross Cherry Street, and we're at the art gallery, one building down from the corner.\nHere you can see, and of course, purchase, many fine paintings and sculptures by local artists.\nLet's keep going down Cherry Street toward the harbor.\nOn the left, right after the gallery, is Harbor Park.\nIt's a lovely place, and it's certainly worth spending some time there.\nNow, listen again.\nYou'll see on this map here that the shopping district consists of two streets, Pear Street, which runs north and south, and Cherry Street, which crosses Pear Street right here.\nLet's start our tour here on Pear Street where the star is.\nThis star marks the Harborview bookstore.\nIt's very popular among locals, as well as tourists.\nYou can buy a range of books of local interest, as well as a variety of magazines and newspapers.\nIt's directly across the street from the city library, which is also worth a visit.\nIt's in one of the oldest buildings in the city and contains, among other things, an interesting collection of rare books.\nNow, moving up Pear from the bookstore toward Cherry, the next building on the left is the Pear Cafe.\nYou'll notice it's right on the corner of Pear and Cherry streets.\nIt's a great place to relax while enjoying a delicious cup of coffee or tea.\nYou can talk with friends or read quietly.\nThey have a variety of books and magazines available.\nFrom the windows of the cafe, you can look right across Cherry Street for a lovely view of City Gardens.\nIt's a rather small garden, but it contains a variety of exotic plants and flowers.\nLet's leave the cafe and cross Pear Street.\nOn the opposite corner, we're at Caldwell's clothing store, which you might also want to visit.\nThey sell both men's and women's fashions from countries around the world.\nContinuing down Cherry Street, the next building on the right after Caldwell's is the souvenir shop.\nStop in here to get maps and books about the local area, as well as t-shirts and postcards with pictures of the city.\nNow, we cross Cherry Street, and we're at the art gallery, one building down from the corner.\nHere you can see, and of course, purchase, many fine paintings and sculptures by local artists.\nLet's keep going down Cherry Street toward the harbor.\nOn the left, right after the gallery, is Harbor Park.\nIt's a lovely place, and it's certainly worth spending some time there.\nThat is the end of part four.",
+    "instruction": "You will hear someone giving a talk. Label the places (19-23) on the map (A-H). There are THREE extra options which you do not need to use.",
+    "questionRange": "19-23",
+    "answerHighlights": {
+     "19": [
+      7,
+      8
+     ],
+     "20": [
+      13,
+      14
+     ],
+     "21": [
+      23
+     ],
+     "22": [
+      25
+     ],
+     "23": [
+      28
+     ]
+    }
+   },
+   {
+    "type": "mcq-extracts",
+    "title": "Part 5",
+    "answers": {
+     "24": "A",
+     "25": "B",
+     "26": "A",
+     "27": "B",
+     "28": "A",
+     "29": "C"
+    },
+    "extracts": [
+     {
+      "title": "Extract One",
+      "context": "You hear two students discussing a part-time design course they are doing.",
+      "questions": [
+       {
+        "id": 24,
+        "text": "What do they like about the course most?",
+        "options": [
+         {
+          "text": "the way the course is delivered",
+          "letter": "A"
+         },
+         {
+          "text": "the teacher’s attitude to the students",
+          "letter": "B"
+         },
+         {
+          "text": "the content of the sessions",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 25,
+        "text": "According to the woman, how could the course be improved?",
+        "options": [
+         {
+          "text": "give assignment feedback",
+          "letter": "A"
+         },
+         {
+          "text": "allow unlimited access to certain resources",
+          "letter": "B"
+         },
+         {
+          "text": "give pre-course information for students",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Extract Two",
+      "context": "You hear part of an interview with a young traveller.",
+      "questions": [
+       {
+        "id": 26,
+        "text": "What does he say about his luggage?",
+        "options": [
+         {
+          "text": "He’s hasn’t found the perfect bag yet.",
+          "letter": "A"
+         },
+         {
+          "text": "He’s learnt to leave out unnecessary pieces of equipment.",
+          "letter": "B"
+         },
+         {
+          "text": "He’s become very good at packing the absolute minimum.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 27,
+        "text": "When asked what he’s learnt from travelling, he says that",
+        "options": [
+         {
+          "text": "he would now like to settle down somewhere.",
+          "letter": "A"
+         },
+         {
+          "text": "he realises that his opportunity to travel is quite rare.",
+          "letter": "B"
+         },
+         {
+          "text": "he feels bad about living in poor countries.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Extract Three",
+      "context": "You hear part of an interview with the lead singer in a rock band.",
+      "questions": [
+       {
+        "id": 28,
+        "text": "How does he feel about the criticism of his band’s latest album cover?",
+        "options": [
+         {
+          "text": "He thinks it’s been exaggerated.",
+          "letter": "A"
+         },
+         {
+          "text": "He admits it’s the reaction he was going for.",
+          "letter": "B"
+         },
+         {
+          "text": "He resents the suggestion that the cover was unoriginal.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 29,
+        "text": "He thinks much of the criticism was due to",
+        "options": [
+         {
+          "text": "a lack of respect for his band in the music business.",
+          "letter": "A"
+         },
+         {
+          "text": "a foolish comment he made to a journalist.",
+          "letter": "B"
+         },
+         {
+          "text": "a misunderstanding of his real intentions.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test19/5.m4a",
+    "partNumber": 5,
+    "transcript": "Part five. You will hear three extracts.\nChoose the correct answer A, B, or C for each question, 24 to 29.\nThere are two questions for each extract.\nMark your answers on the answer sheet.\nYou now have some time to look at questions.\nSo, is the course living up to your expectations?\nYes, I have no real issues with it, really.\nI wasn't sure initially whether I'd like the fact that there's this mixture of classes with the group and one-to-one sessions online with the tutors.\nBut actually, I've come around to thinking it's the real strength of the course.\nDon't you agree?\nUndoubtedly.\nI mean, that's why I went for it in the first place.\nIt's nice to meet the staff and other students, but it's the personal attention by email that you want.\nAlthough, I must say, some of the staff are more helpful than others.\nBut the group lessons are useful too.\nOh, yes.\nSome people complained about the fact that you get face-to-face feedback on project work in them, that it wastes class time, but I have no problem with that.\nBut the sessions are the only chance we get to use some of the more sophisticated software.\nI mean, they did make it clear in the pre-course information that we'd only have limited access to that, but I still think it's a shame we can't come in and use it out of class time.\nYes, I agree.\nSo, is the course living up to your expectations?\nYes, I have no real issues with it, really.\nI wasn't sure initially whether I'd like the fact that there's this mixture of classes with the group and one-to-one sessions online with the tutors.\nBut actually, I've come round to thinking it's the real strength of the course.\nDon't you agree?\nUndoubtedly.\nI mean, that's why I went for it in the first place.\nIt's nice to meet the staff and other students, but it's the personal attention by email that you want.\nAlthough, I must say, some of the staff are more helpful than others.\nBut the group lessons are useful too.\nOh, yes.\nSome people complained about the fact that you get face-to-face feedback on project work in them, that it wastes class time, but I have no problem with that.\nBut the sessions are the only chance we get to use some of the more sophisticated software.\nI mean, they did make it clear in the pre-course information that we'd only have limited access to that, but I still think it's a shame we can't come in and use it out of class time.\nYes, I agree.\nExtract two.\nYou hear part of an interview with a young man who's been traveling in many remote parts of the world.\nNow look at questions three and four.\nSo, basically, as a season traveler, you must have got packing off to a fine art.\nI'm not that great at traveling light, simply because anything can and often does happen, and I like to feel fully prepared.\nSo, I'm a complete sucker for gadgets and gizmos, and I have a bagload of stuff that I take with me.\nI'm still looking for the ideal rucksack or carry-on, actually.\nAnd of course, I've always got my iPod for those long days on the road when you don't know how long you might be hanging around waiting for transport.\nSo, what have you learned from traveling?\nWell, I guess it's a cliche, but the more you see of other cultures, the more you come to appreciate your own.\nI don't mean that I miss the comforts of home or anything like that, more that I've got the opportunity to travel and see the world because I've got folks back home in a wealthy Western culture to pick up the tab if things go wrong.\nI mean, without that, and a lot of people you meet don't have that, would I ever have had the courage to do half the things I've done?\nI doubt it somehow.\nSo, basically, as a season traveler, you must have got packing off to a fine art.\nI'm not that great at traveling light, simply because anything can and often does happen, and I like to feel fully prepared.\nSo, I'm a complete sucker for gadgets and gizmos, and I have a bagload of stuff that I take with me.\nI'm still looking for the ideal rucksack or carry-on, actually.\nAnd of course, I've always got my iPod for those long days on the road when you don't know how long you might be hanging around waiting for transport.\nSo, what have you learned from traveling?\nWell, I guess it's a cliche, but the more you see of other cultures, the more you come to appreciate your own.\nI don't mean that I miss the comforts of home or anything like that, more that I've got the opportunity to travel and see the world because I've got folks back home in a wealthy Western culture to pick up the tab if things go wrong.\nI mean, without that, and a lot of people you meet don't have that, would I ever have had the courage to do half the things I've done?\nI doubt it somehow.\nExtract three.\nYou hear part of an interview with the lead singer in a rock band.\nNow look at questions five and six.\nNow, you've come in for a lot of stick, haven't you, in response to your latest album.\nEveryone went nuts about the cover.\nWe knew it might cause some controversy, but I didn't think it was that outrageous.\nWe just had this slogan which read no cover art, like the Beatles did the white album all those years ago.\nThe first one with no picture on the cover.\nBut predictably, I guess, we got all these irate bloggers going overboard and dismissing it, and one newspaper included it in a list of the worst album covers ever.\nActually, I reckon it's quite endearing the way it was done.\nBut is this because these people don't like the music?\nWell, there is a certain snobbery out there, and I reckon these are people who don't regard us as cool or whatever.\nBut I don't think that's what lies behind it actually.\nI reckon the problem stemmed from the fact that we were misquoted in the first piece written about it.\nIt said that I wanted to kill album artwork, which is just so far off the mark.\nWhat we actually wanted to do was draw people's attention to it, for them to have a look around and see that it's mostly rubbish.\nNow, you've come in for a lot of stick, haven't you, in response to your latest album.\nEveryone went nuts about the cover.\nWe knew it might cause some controversy, but I didn't think it was that outrageous.\nWe just had this slogan which read no cover art, like the Beatles did the white album all those years ago.\nThe first one with no picture on the cover.\nBut predictably, I guess, we got all these irate bloggers going overboard and dismissing it, and one newspaper included it in a list of the worst album covers ever.\nActually, I reckon it's quite endearing the way it was done.\nBut is this because these people don't like the music?\nWell, there is a certain snobbery out there, and I reckon these are people who don't regard us as cool or whatever.\nBut I don't think that's what lies behind it actually.\nI reckon the problem stemmed from the fact that we were misquoted in the first piece written about it.\nIt said that I wanted to kill album artwork, which is just so far off the mark.\nWhat we actually wanted to do was draw people's attention to it, for them to have a look around and see that it's mostly rubbish.\nThat is the end of part five.",
+    "instruction": "You will hear three extracts. Choose the correct answer (A, B or C) for each question (24-29). There are TWO questions for each extract.",
+    "questionRange": "24-29",
+    "answerHighlights": {
+     "24": [
+      7,
+      8
+     ],
+     "25": [
+      17,
+      18
+     ],
+     "26": [
+      41
+     ],
+     "27": [
+      45,
+      46
+     ],
+     "28": [
+      63,
+      66
+     ],
+     "29": [
+      71,
+      72,
+      73
+     ]
+    }
+   },
+   {
+    "type": "sentence-completion",
+    "title": "Part 6",
+    "answers": {
+     "30": [
+      "feet",
+      "Feet",
+      "FEET"
+     ],
+     "31": [
+      "scream",
+      "Scream",
+      "SCREAM"
+     ],
+     "32": [
+      "cliff",
+      "Cliff",
+      "CLIFF",
+      "cliffs",
+      "Cliffs",
+      "CLIFFS",
+      "a cliff"
+     ],
+     "33": [
+      "paper",
+      "Paper",
+      "PAPER"
+     ],
+     "34": [
+      "thunderstorm",
+      "Thunderstorm",
+      "THUNDERSTORM",
+      "thunderstorms",
+      "Thunderstorms",
+      "THUNDERSTORMS",
+      "a thunderstorm"
+     ],
+     "35": [
+      "silent",
+      "Silent",
+      "SILENT"
+     ]
+    },
+    "audioFile": "https://audio.mock-stream.com/test19/6.m4a",
+    "questions": [
+     {
+      "id": 30,
+      "hint": "without ____"
+     },
+     {
+      "id": 31,
+      "hint": "as a ____"
+     },
+     {
+      "id": 32,
+      "hint": "nesting site is on ____"
+     },
+     {
+      "id": 33,
+      "hint": "____ is a common material"
+     },
+     {
+      "id": 34,
+      "hint": "to avoid ____"
+     },
+     {
+      "id": 35,
+      "hint": "strangely ____"
+     }
+    ],
+    "partNumber": 6,
+    "transcript": "Part six. You will hear a part of a lecture. For each question, fill in the missing information in the numbered space. Write no more than one word for each answer. Mark your answers on the answer sheet.\nYou now have some time to look at questions.\nHi, my name's Carrie, and the topic of my presentation this evening is a bird called the Swift. For people living in most of Europe, the swifts are a familiar bird, but it only stays in the northern hemisphere for a few weeks each summer. The rest of the year it spends in sub-Saharan Africa. Indeed, one of the best known facts about this incredible bird is that it has one of the longest migrations of any living creature. The other incredible fact is that a Swift spends most of its life in the air, where it eats, drinks, and sleeps, only landing to build a nest and raise its young. Indeed, the name of the bird in German translates to wall glider in English, whereas its Latin name means without feet, both reflecting the fact that the bird never seems to touch the ground.\nIn Europe, Swifts are a familiar sight, wheeling around high up on summer evenings, making a lot of noise. But Swifts don't produce a song like some birds, nor do they go tweet, tweet. Instead, they produce what can only be called a scream. You must have heard it.\nSwifts are not large birds, but they have a very characteristic shape in flight. Some people say this reminds them of a new moon, and the bird's certainly crescent shaped with a very noticeable forked tail. But for me, the thing that comes to mind when I see a Swift is a boomerang. You know, the thing made and thrown by traditional peoples in Australia.\nSo, Swifts come to Europe to breed, and they often make their nests in buildings, especially chimneys, and for some reason, ancient monuments. Because they can't land, the Swift's nests need to be in places from which they can launch themselves into the air, probably cliffs were their original preference, but even out of town, these days, they tend to go for man-made places like quarries. As you'd expect, leaves and grasses are used to build the nests, but even here the link with humans is evident, as amazingly paper is often used, together with less surprising things like the feathers of other birds. These materials the Swift probably catches in flight. Because they never land, swifts are very vulnerable to bad weather, and in Europe, retreat to their nest sites during periods of rain or high wind. I was once lucky enough to observe a large group of swifts traveling at great speed to get out of the way of a thunderstorm. It was an awesome sight that I'll never forget.\nAs I said, swifts only spend a short time in Europe each year, generally June and July, with even the newborn birds making the incredibly long journey to Africa in about 48 hours. One strange fact I discovered in my research is that once it gets back to Africa, the bird is silent, people there being unaware of that characteristic call.\nSwifts have always fascinated people, especially because the birds have always been attracted to towns and buildings. Traditionally in Europe, the bird was used as a symbol by the younger sons of wealthy families, who, without land to inherit, were destined to wander the globe. I like that. So, before I go on to where else.\nHi, my name's Carrie, and the topic of my presentation this evening is a bird called the Swift. For people living in most of Europe, the swifts are a familiar bird, but it only stays in the northern hemisphere for a few weeks each summer. The rest of the year it spends in sub-Saharan Africa. Indeed, one of the best known facts about this incredible bird is that it has one of the longest migrations of any living creature. The other incredible fact is that a Swift spends most of its life in the air, where it eats, drinks, and sleeps, only landing to build a nest and raise its young. Indeed, the name of the bird in German translates to wall glider in English, whereas its Latin name means without feet, both reflecting the fact that the bird never seems to touch the ground.\nIn Europe, Swifts are a familiar sight, wheeling around high up on summer evenings, making a lot of noise. But Swifts don't produce a song like some birds, nor do they go tweet, tweet. Instead, they produce what can only be called a scream. You must have heard it.\nSwifts are not large birds, but they have a very characteristic shape in flight. Some people say this reminds them of a new moon, and the bird's certainly crescent shaped with a very noticeable forked tail. But for me, the thing that comes to mind when I see a Swift is a boomerang. You know, the thing made and thrown by traditional peoples in Australia.\nSo, Swifts come to Europe to breed, and they often make their nests in buildings, especially chimneys, and for some reason, ancient monuments. Because they can't land, the Swift's nests need to be in places from which they can launch themselves into the air, probably cliffs were their original preference, but even out of town, these days, they tend to go for man-made places like quarries. As you'd expect, leaves and grasses are used to build the nests, but even here the link with humans is evident, as amazingly paper is often used, together with less surprising things like the feathers of other birds. These materials the Swift probably catches in flight. Because they never land, swifts are very vulnerable to bad weather, and in Europe, retreat to their nest sites during periods of rain or high wind. I was once lucky enough to observe a large group of swifts traveling at great speed to get out of the way of a thunderstorm. It was an awesome sight that I'll never forget.\nAs I said, swifts only spend a short time in Europe each year, generally June and July, with even the newborn birds making the incredibly long journey to Africa in about 48 hours. One strange fact I discovered in my research is that once it gets back to Africa, the bird is silent, people there being unaware of that characteristic call.\nSwifts have always fascinated people, especially because the birds have always been attracted to towns and buildings. Traditionally in Europe, the bird was used as a symbol by the younger sons of wealthy families, who, without land to inherit, were destined to wander the globe. I like that. So, before I go on to where else.\nThat is the end of part six.",
+    "instruction": "You will hear a part of a lecture. For each question, fill in the missing information in the numbered space. Write no more than one word for each answer.",
+    "passageTitle": "THE SWIFT",
+    "questionRange": "30-35",
+    "passageContent": "Kerry says that the Latin name for the swift translates to the words without <span class=\"gap-input\" data-gap=\"30\">_____(30)_____</span> in English.<br><br>Kerry describes the noise made by swifts as a <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span>.<br><br>Kerry says many people think that the bird’s shape most resembles a new moon.<br><br>Kerry thinks that the swifts’ natural nesting site is on <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span>.<br><br>Kerry was surprised to learn that <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span> is a common material found in swifts’ nests.<br><br>Kerry has observed swifts flying fast to avoid <span class=\"gap-input\" data-gap=\"34\">_____(34)_____</span>.<br><br>Kerry says that swifts tend to be strangely <span class=\"gap-input\" data-gap=\"35\">_____(35)_____</span> when they are in Africa.<br><br>In the past, a rich family’s youngest sons often used the swift as a symbol.",
+    "answerHighlights": {
+     "30": [
+      2
+     ],
+     "31": [
+      3
+     ],
+     "32": [
+      5
+     ],
+     "33": [
+      5
+     ],
+     "34": [
+      6
+     ],
+     "35": [
+      6
+     ]
+    }
+   }
+  ],
+  "examDate": "2026-05-14",
+  "testInfo": {
+   "id": "cefr-listening-19",
+   "level": "B1-C1",
+   "title": "CEFR Listening Mock Test 19",
+   "totalTime": 40,
+   "totalQuestions": 35
+  }
+ },
+ "created_at": "2026-05-15T15:19:14.961808+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

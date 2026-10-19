@@ -1,0 +1,457 @@
+{
+ "id": 2263,
+ "mock_type": "ket-listening",
+ "mock_number": 1,
+ "title": "KET Listening — Test 1",
+ "status": "published",
+ "mock_data": {
+  "audio": {
+   "base": "https://audio.mock-stream.com/KET-Listening/test1/",
+   "files": {
+    "1": "PART1.m4a",
+    "2": "PART2.m4a",
+    "3": "PART3.m4a",
+    "4": "PART4.m4a",
+    "5": "PART5.m4a"
+   }
+  },
+  "parts": [
+   {
+    "type": "picture-mcq",
+    "items": [
+     {
+      "id": 1,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q1A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q1B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q1C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What have they forgotten?"
+     },
+     {
+      "id": 2,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q2A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q2B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q2C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What time does the train go?"
+     },
+     {
+      "id": 3,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q3full.png",
+        "letter": "A",
+        "composite": true
+       },
+       {
+        "image": "q3full.png",
+        "letter": "B",
+        "composite": true
+       },
+       {
+        "image": "q3full.png",
+        "letter": "C",
+        "composite": true
+       }
+      ],
+      "question": "Where is Room 22?"
+     },
+     {
+      "id": 4,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q4A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q4B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q4C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Which man wants to see him?"
+     },
+     {
+      "id": 5,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q5A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q5B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q5C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "How did the woman get to work?"
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "image": "q0A.png",
+       "letter": "A"
+      },
+      {
+       "image": "q0B.png",
+       "letter": "B"
+      },
+      {
+       "image": "q0C.png",
+       "letter": "C"
+      }
+     ],
+     "question": "What time is it?"
+    },
+    "imageBase": "https://audio.mock-stream.com/KET-Listening/test1/p1/",
+    "partNumber": 1,
+    "instruction": [
+     "You will hear five short conversations.",
+     "You will hear each conversation twice.",
+     "There is one question for each conversation.",
+     "For questions 1–5, put a tick (✓) under the right answer."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "matching-list",
+    "items": [
+     {
+      "id": 6,
+      "name": "Bill",
+      "answer": "F"
+     },
+     {
+      "id": 7,
+      "name": "David",
+      "answer": "G"
+     },
+     {
+      "id": 8,
+      "name": "Paul's mother",
+      "answer": "E"
+     },
+     {
+      "id": 9,
+      "name": "Paul's father",
+      "answer": "B"
+     },
+     {
+      "id": 10,
+      "name": "Paul",
+      "answer": "A"
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "name": "Sally",
+     "answer": "H",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "bank clerk",
+      "letter": "A"
+     },
+     {
+      "text": "doctor",
+      "letter": "B"
+     },
+     {
+      "text": "farmer",
+      "letter": "C"
+     },
+     {
+      "text": "shop assistant",
+      "letter": "D"
+     },
+     {
+      "text": "stopped work",
+      "letter": "E"
+     },
+     {
+      "text": "student",
+      "letter": "F"
+     },
+     {
+      "text": "teacher",
+      "letter": "G"
+     },
+     {
+      "text": "writer",
+      "letter": "H"
+     }
+    ],
+    "scenario": "Paul talking about his family — jobs",
+    "leftLabel": "PEOPLE",
+    "partNumber": 2,
+    "rightLabel": "JOBS",
+    "instruction": [
+     "Listen to Paul talking to a friend about his family.",
+     "What does each person do?",
+     "For questions 6–10, write a letter A–H next to each person.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-conversation",
+    "items": [
+     {
+      "id": 11,
+      "stem": "When is the football match?",
+      "answer": "B",
+      "options": [
+       {
+        "text": "Saturday morning",
+        "letter": "A"
+       },
+       {
+        "text": "Saturday afternoon",
+        "letter": "B"
+       },
+       {
+        "text": "Sunday afternoon",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "stem": "Where are they going to eat on Saturday evening?",
+      "answer": "C",
+      "options": [
+       {
+        "text": "at home",
+        "letter": "A"
+       },
+       {
+        "text": "in an Italian restaurant",
+        "letter": "B"
+       },
+       {
+        "text": "in a Chinese restaurant",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "stem": "What are they going to do on Sunday morning?",
+      "answer": "A",
+      "options": [
+       {
+        "text": "go for a drive",
+        "letter": "A"
+       },
+       {
+        "text": "get up late",
+        "letter": "B"
+       },
+       {
+        "text": "go to the cinema",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "stem": "Where are they going to have lunch on Sunday?",
+      "answer": "B",
+      "options": [
+       {
+        "text": "in a café",
+        "letter": "A"
+       },
+       {
+        "text": "in a pub",
+        "letter": "B"
+       },
+       {
+        "text": "at home",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "stem": "They can't go to the cinema on Sunday afternoon because",
+      "answer": "C",
+      "options": [
+       {
+        "text": "Carlos doesn't like films.",
+        "letter": "A"
+       },
+       {
+        "text": "Eric doesn't like films.",
+        "letter": "B"
+       },
+       {
+        "text": "they don't have time.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "stem": "What does Carlos hate?",
+     "answer": "A",
+     "number": 0,
+     "options": [
+      {
+       "text": "shopping",
+       "letter": "A"
+      },
+      {
+       "text": "museums",
+       "letter": "B"
+      },
+      {
+       "text": "football",
+       "letter": "C"
+      }
+     ]
+    },
+    "partNumber": 3,
+    "instruction": [
+     "Listen to Eric talking to Mary about the weekend.",
+     "Their friend, Carlos, is coming to visit them.",
+     "For questions 11–15, tick (✓) A, B or C.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "rows": [
+     {
+      "id": 16,
+      "label": "From:",
+      "answer": "Elaine"
+     },
+     {
+      "id": 17,
+      "label": "Party at:",
+      "answer": "Grand Hotel"
+     },
+     {
+      "id": 18,
+      "label": "Time:",
+      "answer": "8.30 p.m."
+     },
+     {
+      "id": 19,
+      "label": "Please bring:",
+      "answer": "friend"
+     },
+     {
+      "id": 20,
+      "label": "Her phone number:",
+      "answer": "724 5936"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 4",
+    "subtitle": "To: Martin",
+    "noteTitle": "Phone Message",
+    "partNumber": 4,
+    "instruction": [
+     "You will hear a telephone conversation.",
+     "A girl wants to speak to Martin, but he is not there.",
+     "Listen and complete questions 16–20.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "rows": [
+     {
+      "id": 21,
+      "label": "New address:",
+      "answer": "Norwich",
+      "prefix": "98",
+      "suffix": "Road"
+     },
+     {
+      "id": 22,
+      "label": "Opposite:",
+      "answer": "bank"
+     },
+     {
+      "id": 23,
+      "label": "Opens on:",
+      "answer": "21st May"
+     },
+     {
+      "id": 24,
+      "label": "Book a holiday for:",
+      "answer": "250",
+      "prefix": "£"
+     },
+     {
+      "id": 25,
+      "label": "and get a free:",
+      "answer": "travel bag"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 5",
+    "subtitle": "New phone number: 847 2296",
+    "noteTitle": "South Seas Travel Agency",
+    "partNumber": 5,
+    "instruction": [
+     "You will hear some information about a travel agency.",
+     "Listen and complete questions 21–25.",
+     "You will hear the information twice."
+    ],
+    "questionsLabel": "QUESTIONS 21–25"
+   }
+  ],
+  "testInfo": {
+   "id": "ket-l-1",
+   "level": "A2",
+   "paper": "Paper 2",
+   "parts": 5,
+   "title": "KET Listening — Test 1",
+   "totalTime": 30,
+   "totalQuestions": 25
+  }
+ },
+ "created_at": "2026-10-14T06:45:16.841504+00:00",
+ "updated_at": "2026-10-14T06:47:03.561691+00:00"
+}

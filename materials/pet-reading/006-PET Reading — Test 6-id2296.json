@@ -1,0 +1,689 @@
+{
+ "id": 2296,
+ "mock_type": "pet-reading",
+ "mock_number": 6,
+ "title": "PET Reading — Test 6",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "sign-mcq",
+    "items": [
+     {
+      "id": 1,
+      "image": "https://audio.mock-stream.com/PET-Reading/test6/q1.png",
+      "answer": "A",
+      "prompt": " ",
+      "options": [
+       {
+        "text": "You must show a receipt if you want to remove luggage.",
+        "letter": "A"
+       },
+       {
+        "text": "When you remove your luggage you are given a receipt.",
+        "letter": "B"
+       },
+       {
+        "text": "You can leave your luggage here without change.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "image": "https://audio.mock-stream.com/PET-Reading/test6/q2.png",
+      "answer": "B",
+      "prompt": "For the festival, Anna should bring",
+      "options": [
+       {
+        "text": "her ticket.",
+        "letter": "A"
+       },
+       {
+        "text": "a blanket.",
+        "letter": "B"
+       },
+       {
+        "text": "the programme.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 3,
+      "image": "https://audio.mock-stream.com/PET-Reading/test6/q3.png",
+      "answer": "C",
+      "prompt": " ",
+      "options": [
+       {
+        "text": "Don't turn the lights on until it's necessary.",
+        "letter": "A"
+       },
+       {
+        "text": "Switch the lights on when you're in the room.",
+        "letter": "B"
+       },
+       {
+        "text": "Don't leave the lights on if the room is empty.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 4,
+      "image": "https://audio.mock-stream.com/PET-Reading/test6/q4.png",
+      "answer": "C",
+      "prompt": " ",
+      "options": [
+       {
+        "text": "Sally has given a chain to someone as a present.",
+        "letter": "A"
+       },
+       {
+        "text": "Sally's boyfriend knows about the missing chain.",
+        "letter": "B"
+       },
+       {
+        "text": "Sally lost her chain when she got changed for sport.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 5,
+      "image": "https://audio.mock-stream.com/PET-Reading/test6/q5.png",
+      "answer": "B",
+      "prompt": "This shop",
+      "options": [
+       {
+        "text": "has just opened and jobs are available.",
+        "letter": "A"
+       },
+       {
+        "text": "is opening for longer and needs extra staff.",
+        "letter": "B"
+       },
+       {
+        "text": "will open late because of job interviews.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "image": "https://audio.mock-stream.com/PET-Reading/test6/q0.png",
+     "answer": "A",
+     "number": 0,
+     "prompt": "NO BICYCLES AGAINST GLASS PLEASE",
+     "options": [
+      {
+       "text": "Do not leave your bike touching the window.",
+       "letter": "A"
+      },
+      {
+       "text": "Do not ride your bicycle in this area.",
+       "letter": "B"
+      },
+      {
+       "text": "Broken glass may damage your bicycle tyres.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partNumber": 1,
+    "instruction": [
+     "Look at the text in each question.",
+     "What does it say?",
+     "Mark the letter next to the correct explanation – A, B or C – on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "match-people-texts",
+    "items": [
+     {
+      "id": 6,
+      "name": "Robert",
+      "image": "https://audio.mock-stream.com/PET-Reading/test6/p6.png",
+      "answer": "D",
+      "description": "Robert is planning to travel round the world by train. He would like a book with pictures and maps to take with him on his long journeys."
+     },
+     {
+      "id": 7,
+      "name": "Mrs Jones",
+      "image": "https://audio.mock-stream.com/PET-Reading/test6/p7.png",
+      "answer": "G",
+      "description": "Mrs Jones used to love visiting France, but now she is too old to travel. She wants a book with lots of photographs which will help her to remember everything she enjoyed."
+     },
+     {
+      "id": 8,
+      "name": "The Harpers",
+      "image": "https://audio.mock-stream.com/PET-Reading/test6/p8.png",
+      "answer": "F",
+      "description": "The Harpers are planning to go on holiday round Europe. They intend to drive their car and go for walks, so they need a book with maps and pictures to guide them on their way."
+     },
+     {
+      "id": 9,
+      "name": "Clive",
+      "image": "https://audio.mock-stream.com/PET-Reading/test6/p9.png",
+      "answer": "B",
+      "description": "Clive wants to buy a book as a present for his friend Tom. Tom enjoys fishing and driving round England."
+     },
+     {
+      "id": 10,
+      "name": "Peter",
+      "image": "https://audio.mock-stream.com/PET-Reading/test6/p10.png",
+      "answer": "C",
+      "description": "Peter has to write something for his history teacher about world explorers. He wants to know about explorers from the past and their travels to different parts of the world."
+     }
+    ],
+    "label": "PART 2",
+    "texts": [
+     {
+      "body": "Packed with information about 20 British railway centres, this wonderful book is handwritten and illustrated throughout with clear hand-drawn maps – a true collector's piece for those who are interested in railways.",
+      "title": "Allan Jowett — Jowett's Railway Centres: Volume I",
+      "letter": "A"
+     },
+     {
+      "body": "Alan Titchmarsh explores 18 rivers, telling their interesting stories with his appreciation of them. A saying from a past age introduces each chapter as his exploration moves across the English countryside.",
+      "title": "Alan Titchmarsh — The English River",
+      "letter": "B"
+     },
+     {
+      "body": "This is a collection of the writing of explorers through the centuries. It describes the feelings and experiences of these brave adventurers who changed the world through their search for new lands.",
+      "title": "Robin Hanbury-Tenison — The Oxford Book of Exploration",
+      "letter": "C"
+     },
+     {
+      "body": "First-hand accounts of 30 of the world's most beautiful and dramatic railway journeys are found together with specially drawn maps and wonderful photographs that show the people and places on the route.",
+      "title": "The Travel Club — Train Journeys of the World",
+      "letter": "D"
+     },
+     {
+      "body": "On all his travels, Bruce Chatwin took thousands of photographs and kept daily notebooks. Published here for the first time, the photographs are excellent, the notebooks both scholarly and funny. Will give great pleasure.",
+      "title": "Bruce Chatwin — Photographs and Notebooks",
+      "letter": "E"
+     },
+     {
+      "body": "Explore spectacular and pretty France with 61 expertly researched motor tours and 114 walks, complete with route directions, super mapping, and descriptions and pictures of places of interest for the traveller.",
+      "title": "Automobile Association — Walks and Tours in France",
+      "letter": "F"
+     },
+     {
+      "body": "This beautiful volume contains forty wonderful photographs that show the very nature of French life – the perfect gift for anyone who finds this country as wonderful as Shirley Pike does.",
+      "title": "Shirley Pike — The Book of French Life",
+      "letter": "G"
+     },
+     {
+      "body": "The epic crossing of the Antarctic continent. The amazing story of his recent crossing of the Antarctic continent with another explorer, in which both showed great strength and courage.",
+      "title": "Ranulph Fiennes — Mind over Matter",
+      "letter": "H"
+     }
+    ],
+    "partNumber": 2,
+    "textsTitle": "Travel books",
+    "instruction": [
+     "The people below all want to buy a book on travel.",
+     "On the opposite page there are descriptions of eight books.",
+     "Decide which book (letters A–H) would be the most suitable for each person or people (numbers 6–10).",
+     "For each of these numbers mark the correct letter on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "true-false",
+    "items": [
+     {
+      "id": 11,
+      "answer": "A",
+      "statement": "Each cabin on the Lady Ivy May is for two people."
+     },
+     {
+      "id": 12,
+      "answer": "A",
+      "statement": "You can borrow books on board the ship."
+     },
+     {
+      "id": 13,
+      "answer": "B",
+      "statement": "On arrival at Oporto, guests find their own way to the ship."
+     },
+     {
+      "id": 14,
+      "answer": "B",
+      "statement": "You spend a day looking round Oporto."
+     },
+     {
+      "id": 15,
+      "answer": "B",
+      "statement": "It takes a day to travel from Oporto to Entre-os-Rios."
+     },
+     {
+      "id": 16,
+      "answer": "A",
+      "statement": "The museum at Lamego used to be a palace."
+     },
+     {
+      "id": 17,
+      "answer": "B",
+      "statement": "It is sometimes possible for the Lady Ivy May to sail to the Spanish border."
+     },
+     {
+      "id": 18,
+      "answer": "A",
+      "statement": "The trip includes some travel by train."
+     },
+     {
+      "id": 19,
+      "answer": "B",
+      "statement": "You arrive back in Oporto on the day before your return flight."
+     },
+     {
+      "id": 20,
+      "answer": "B",
+      "statement": "Voyages Jules Verne arrange your travel insurance."
+     }
+    ],
+    "label": "PART 3",
+    "passage": "VOYAGES JULES VERNE operate a 'hotel ship' along the Douro river in Portugal. The MV Lady Ivy May can take 160 guests in double cabins, all of which face outside and have a private shower and WC. On board the ship, which has air-conditioning, you will find a sun-deck, lounge, bar, dining room, shop and library facilities.\n\nItinerary\n\nDay 1 Depart in the early evening from London Heathrow to Oporto. Your guide will meet you on arrival and take you to the Lady Ivy May, where you will spend the night.\n\nDay 2 After a morning's sightseeing in Oporto, you will return to the ship and depart for Entre-os-Rios. This part of the journey up the river takes four hours.\n\nDay 3 You will continue travelling up the river. In the early evening, the ship stops at Pêso da Régua, where port wine is produced. At dinner you will be able to try the delicious food and drink from this area.\n\nDay 4 After breakfast you will travel south by bus to the ancient town of Lamego and visit the cathedral, several churches and a museum. The museum was formerly a palace and now has an excellent collection of paintings, tapestries and sculptures. You will then return to the ship and sail on to Tua.\n\nDay 5 At this point the Douro becomes very narrow. Depending on the depth of the river at the time, you may be able to continue by a smaller boat to the Spanish frontier at Barca d'Alva. The return journey to Tua is by coach and there is much to see along the way.\n\nDay 6 In the morning you will drive to São João da Pesqueira for one of the most wonderful views in the whole of the Douro valley. You will return to the ship for lunch and then join the Douro river valley railway for a beautiful ride through the countryside to Régua, where the Lady Ivy May will be waiting for you.\n\nDay 7 There will be a trip to Vila Real before returning to the ship and setting off down the river to Oporto. You will sleep on board the Lady Ivy May.\n\nDay 8 You will arrive in Oporto in plenty of time for independent sightseeing and last-minute shopping, before you catch the flight home to London Heathrow.\n\nDeparture dates and prices (all prices are per person):\nJune 5, 12, 19, 26 — £1100\nJuly 3, 10, 17, 24, 31 — £1050\nAugust 7, 14, 21, 28 — £1050\nSeptember 4, 11, 18, 25 — £1100\n\nPrices include: return flights, 7 nights' accommodation on board the Lady Ivy May with all meals, excursions and guides.\n\nNot included: travel insurance, tips.",
+    "partNumber": 3,
+    "instruction": [
+     "Look at the sentences below about a river journey.",
+     "Read the text on the opposite page to decide if each sentence is correct or incorrect.",
+     "If it is correct, mark A on your answer sheet.",
+     "If it is not correct, mark B on your answer sheet."
+    ],
+    "passageImage": "https://audio.mock-stream.com/PET-Reading/test6/passage3.jpg",
+    "passageTitle": "A JOURNEY ALONG THE BEAUTIFUL DOURO RIVER",
+    "questionsLabel": "QUESTIONS 11–20",
+    "passageSubtitle": "7 nights from £1050"
+   },
+   {
+    "type": "passage-mcq",
+    "items": [
+     {
+      "id": 21,
+      "answer": "D",
+      "prompt": "What is the writer trying to do in the text?",
+      "options": [
+       {
+        "text": "complain about bad winter driving",
+        "letter": "A"
+       },
+       {
+        "text": "give information about winter weather",
+        "letter": "B"
+       },
+       {
+        "text": "warn people against driving in winter",
+        "letter": "C"
+       },
+       {
+        "text": "advise people about safe driving in winter",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 22,
+      "answer": "C",
+      "prompt": "Why would somebody read this?",
+      "options": [
+       {
+        "text": "to find out about the weather",
+        "letter": "A"
+       },
+       {
+        "text": "for information on driving lessons",
+        "letter": "B"
+       },
+       {
+        "text": "to learn about better driving",
+        "letter": "C"
+       },
+       {
+        "text": "to decide when to travel",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 23,
+      "answer": "B",
+      "prompt": "What does the writer think?",
+      "options": [
+       {
+        "text": "People should avoid driving in the snow.",
+        "letter": "A"
+       },
+       {
+        "text": "Drivers should expect problems in winter.",
+        "letter": "B"
+       },
+       {
+        "text": "People drive too fast in winter.",
+        "letter": "C"
+       },
+       {
+        "text": "Winter drivers should use their brakes less.",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 24,
+      "answer": "A",
+      "prompt": "Why does the writer talk about a cup of coffee?",
+      "options": [
+       {
+        "text": "to explain the importance of smooth movements",
+        "letter": "A"
+       },
+       {
+        "text": "because he thinks refreshments are important for drivers",
+        "letter": "B"
+       },
+       {
+        "text": "because he wants drivers to be more relaxed",
+        "letter": "C"
+       },
+       {
+        "text": "to show how it can be spilled",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 25,
+      "answer": "A",
+      "prompt": "Which traffic sign shows the main idea of the text?",
+      "options": [
+       {
+        "body": "ICE ON ROAD AHEAD",
+        "title": "DRIVE CAREFULLY",
+        "letter": "A"
+       },
+       {
+        "body": "FOG AHEAD",
+        "title": "REDUCE SPEED NOW",
+        "letter": "B"
+       },
+       {
+        "body": "ROAD REPAIRS AHEAD",
+        "title": "DRIVE CAREFULLY",
+        "letter": "C"
+       },
+       {
+        "body": "ACCIDENT AHEAD",
+        "title": "SLOW DOWN",
+        "letter": "D"
+       }
+      ],
+      "cardStyle": "sign",
+      "cardLayout": true
+     }
+    ],
+    "label": "PART 4",
+    "passage": "Winter is dangerous because it's so difficult to know what is going to happen and accidents take place so easily. Fog can be waiting to meet you over the top of a hill. Ice might be hiding beneath the melting snow, waiting to send you off the road. The car coming towards you may suddenly slide across the road.\n\nRule Number One for driving on icy roads is to drive smoothly. Uneven movements can make a car suddenly very difficult to control. So every time you either turn the wheel, touch the brakes or increase your speed, you must be as gentle and slow as possible. Imagine you are driving with a full cup of hot coffee on the seat next to you. Drive so that you wouldn't spill it.\n\nRule Number Two is to pay attention to what might happen. The more ice there is, the further down the road you have to look. Test how long it takes to stop by gently braking. Remember that you may be driving more quickly than you think. In general, allow double your normal stopping distance when the road is wet, three times this distance on snow, and even more on ice. Try to stay in control of your car at all times and you will avoid trouble.",
+    "partNumber": 4,
+    "instruction": [
+     "Read the text and questions below.",
+     "For each question, mark the letter next to the correct answer – A, B, C or D – on your answer sheet."
+    ],
+    "passageTitle": "Winter Driving",
+    "questionsLabel": "QUESTIONS 21–25"
+   },
+   {
+    "type": "passage-cloze",
+    "items": [
+     {
+      "id": 26,
+      "answer": "A",
+      "options": [
+       {
+        "text": "look",
+        "letter": "A"
+       },
+       {
+        "text": "letter",
+        "letter": "B"
+       },
+       {
+        "text": "notice",
+        "letter": "C"
+       },
+       {
+        "text": "story",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 27,
+      "answer": "A",
+      "options": [
+       {
+        "text": "between",
+        "letter": "A"
+       },
+       {
+        "text": "from",
+        "letter": "B"
+       },
+       {
+        "text": "through",
+        "letter": "C"
+       },
+       {
+        "text": "to",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 28,
+      "answer": "D",
+      "options": [
+       {
+        "text": "driving",
+        "letter": "A"
+       },
+       {
+        "text": "flying",
+        "letter": "B"
+       },
+       {
+        "text": "running",
+        "letter": "C"
+       },
+       {
+        "text": "sailing",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 29,
+      "answer": "D",
+      "options": [
+       {
+        "text": "accidents",
+        "letter": "A"
+       },
+       {
+        "text": "plans",
+        "letter": "B"
+       },
+       {
+        "text": "dreams",
+        "letter": "C"
+       },
+       {
+        "text": "faults",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 30,
+      "answer": "A",
+      "options": [
+       {
+        "text": "looked",
+        "letter": "A"
+       },
+       {
+        "text": "prayed",
+        "letter": "B"
+       },
+       {
+        "text": "talked",
+        "letter": "C"
+       },
+       {
+        "text": "thought",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 31,
+      "answer": "C",
+      "options": [
+       {
+        "text": "conversation",
+        "letter": "A"
+       },
+       {
+        "text": "discussion",
+        "letter": "B"
+       },
+       {
+        "text": "quarrel",
+        "letter": "C"
+       },
+       {
+        "text": "talk",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 32,
+      "answer": "B",
+      "options": [
+       {
+        "text": "battles",
+        "letter": "A"
+       },
+       {
+        "text": "games",
+        "letter": "B"
+       },
+       {
+        "text": "matches",
+        "letter": "C"
+       },
+       {
+        "text": "plays",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 33,
+      "answer": "B",
+      "options": [
+       {
+        "text": "amount",
+        "letter": "A"
+       },
+       {
+        "text": "plenty",
+        "letter": "B"
+       },
+       {
+        "text": "much",
+        "letter": "C"
+       },
+       {
+        "text": "some",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 34,
+      "answer": "C",
+      "options": [
+       {
+        "text": "acts",
+        "letter": "A"
+       },
+       {
+        "text": "hobbies",
+        "letter": "B"
+       },
+       {
+        "text": "jobs",
+        "letter": "C"
+       },
+       {
+        "text": "studies",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 35,
+      "answer": "B",
+      "options": [
+       {
+        "text": "reviewed",
+        "letter": "A"
+       },
+       {
+        "text": "remembered",
+        "letter": "B"
+       },
+       {
+        "text": "reminded",
+        "letter": "C"
+       },
+       {
+        "text": "reported",
+        "letter": "D"
+       }
+      ]
+     }
+    ],
+    "label": "PART 5",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "prompt": "A in   B about   C from   D story"
+    },
+    "passage": "The most famous diary (0) ___ English was written by Samuel Pepys. It gives a detailed and interesting (26) ___ of everyday life in England (27) ___ 1660 and 1669. Pepys writes about important news stories of the time, like disease, an enemy navy (28) ___ up the River Thames and the Great Fire of London.\n\nHe also writes about himself, even about his plan (29) ___ he often slept during church or (30) ___ at the petty job. He describes his home life – a (31) ___ with his wife and how they became friends again, his worry about her illness. As well as books, he liked music, the theatre, card (32) ___ , and parties with good food and (33) ___ of fun. Pepys was a busy man who had many important (34) ___ – he was a Member of Parliament and President of the Royal Society. He is also (35) ___ for his work for the British Navy.",
+    "partNumber": 5,
+    "instruction": [
+     "Read the text below and choose the correct word for each space.",
+     "For each question, mark the letter next to the correct word – A, B, C or D – on your answer sheet."
+    ],
+    "passageTitle": "SAMUEL PEPYS",
+    "questionsLabel": "QUESTIONS 26–35"
+   }
+  ],
+  "testInfo": {
+   "id": "pet-r-06",
+   "level": "B1",
+   "paper": "Paper 1 · Reading",
+   "parts": 5,
+   "title": "PET Reading — Test 6",
+   "totalTime": 50,
+   "totalQuestions": 35
+  }
+ },
+ "created_at": "2026-10-14T06:45:40.120985+00:00",
+ "updated_at": "2026-10-14T06:47:25.638817+00:00"
+}

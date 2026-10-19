@@ -1,0 +1,577 @@
+{
+ "id": 31,
+ "mock_type": "cefr-writing",
+ "mock_number": 21,
+ "title": "CEFR Writing Mock 21",
+ "status": "published",
+ "mock_data": {
+  "part1": {
+   "chip": "education",
+   "topic": "Platform development"
+  },
+  "tasks": {
+   "t2": {
+    "chip": "technology",
+    "genre": "article",
+    "title": "Social media making young people more anxious or more connected",
+    "prompt": "A student magazine announced an article writing contest. The best ones will be published in the magazine. Write your article on this topic: \"Is social media making young people more anxious or more connected?\" Write 180–200 words, giving reasons and examples.",
+    "sample": "<h2>The Future of Education: Online vs Traditional Learning</h2>\n\n<p>The rapid growth of <span class=\"ml-token colloc\">online learning</span> has sparked debate about whether it <span class=\"ml-token modal\">could</span> eventually replace <span class=\"ml-token colloc\">traditional classroom education</span>. While technology has <span class=\"ml-token adv\">undoubtedly</span> transformed how we learn, I believe both methods will continue to coexist.</p>\n\n<p><span class=\"ml-token adv\">Firstly</span>, online learning offers <span class=\"ml-token colloc\">unparalleled flexibility</span>. Students <span class=\"ml-token modal\">can</span> access materials anytime and learn at their own pace. For working professionals or those in <span class=\"ml-token colloc\">remote areas</span>, this accessibility is <span class=\"ml-token colloc\">invaluable</span>.</p>\n\n<p><span class=\"ml-token adv\">However</span>, traditional classrooms provide <span class=\"ml-token colloc\">social interaction</span> that online platforms struggle to replicate. Face-to-face discussions, <span class=\"ml-token colloc\">group projects</span>, and immediate feedback from teachers <span class=\"ml-token colloc\">enhance learning</span> in ways that virtual environments <span class=\"ml-token modal\">cannot</span> fully match.</p>\n\n<p><span class=\"ml-token adv\">Moreover</span>, certain subjects like laboratory sciences or performing arts <span class=\"ml-token adv\">fundamentally</span> require <span class=\"ml-token colloc\">hands-on experience</span>.</p>\n\n<p><span class=\"ml-token adv\">Ultimately</span>, I believe <span class=\"ml-token colloc\">hybrid learning</span> models combining both approaches will become the <span class=\"ml-token colloc\">new standard</span>. This <span class=\"ml-token modal\">would</span> offer students the best of both worlds – the flexibility of online learning with the <span class=\"ml-token colloc\">interpersonal benefits</span> of classroom education.</p>",
+    "target": "180–200 words",
+    "sampleA1": "<p>Hi Platform Team,<br>I like the platform. It helps me study. It is easy. I want more videos. Bye.</p>",
+    "sampleA2": "<p>Dear Platform Team,<br><br>Thank you for the platform. It helps me with my studies because I can find all the information I need. I like the videos, but sometimes they are too long. <br><br>I think you should add more quizzes because they help me learn. Also, a forum would be good because I can ask questions. It is difficult to find some things on the platform, but it is okay. <br><br>Thank you,<br>Shohruh Rahimov</p>",
+    "sampleB1": "<p>Dear Platform Development Team,<br><br>I'm writing to give you some feedback on the online learning platform. Overall, I think it's been helpful for my studies. I especially like having access to all the course materials in one place. It's much easier than carrying around lots of books.<br><br>However, I found the search function a bit difficult to use. Sometimes it's hard to find exactly what I'm looking for. Also, I think it would be great if you could add a feature where students can ask each other questions. A forum or chat room would be really useful.<br><br>In my opinion, the platform is a good tool, but it could be even better with a few improvements. Thanks for asking for our feedback.<br><br>Sincerely,<br>Shohruh Rahimov</p>",
+    "sampleB2": "<h2>Scrolling Ourselves Lonely?</h2>\nAsk any teenager to hand over their phone for a day, and you'll likely be met with a look of pure horror. Social media has become the <span class=\"ml-token idiom\">beating heart</span> of young people's lives — but is it bringing us closer together, or quietly <span class=\"ml-token phrasal\">winding us up</span>?\n<span class=\"ml-token linking\">On the bright side</span>, these platforms keep us connected like never before. A quick message can bridge thousands of miles, and shy students who struggle to <span class=\"ml-token phrasal\">speak up</span> in class often <span class=\"ml-token idiom\">find their voice</span> online. During lockdowns, group chats and late-night video calls were a lifeline for many of my friends, <span class=\"ml-token idiom\">keeping loneliness at bay</span>.\n<span class=\"ml-token linking\">That said</span>, there's a darker side we can't ignore. Scrolling through everyone's picture-perfect posts, it's all too easy to feel that your own life <span class=\"ml-token phrasal\">falls short</span>. The constant buzz of notifications and the pressure to reply the second a message lands can leave teenagers frazzled and anxious.\nSo which is it? <span class=\"ml-token linking\">In my view</span>, social media is neither hero nor villain — it simply amplifies what we bring to it. Used wisely, it connects us; used carelessly, it drains us. The trick is knowing when to <span class=\"ml-token phrasal\">switch off</span>.",
+    "uzSample": "<h2>Ta'limning kelajagi: Onlayn va an'anaviy ta'lim</h2>\n\n<p>Onlayn ta'limning tez sur'atlar bilan o'sishi uning oxir-oqibat an'anaviy sinf ta'limini almashtira olishi haqida bahs-munozaralarga sabab bo'ldi. Texnologiya o'rganish usulimizni shubhasiz o'zgartirgan bo'lsa-da, menimcha, ikkala usul ham birga yashashda davom etadi.</p>\n\n<p>Birinchidan, onlayn ta'lim misli ko'rilmagan moslashuvchanlikni taklif etadi. Talabalar materiallarga istalgan vaqtda kirishlari va o'z tezliklarida o'rganishlari mumkin. Ishlaydigan mutaxassislar yoki chekka hududlarda yashovchilar uchun bu qulaylik juda qimmatlidir.</p>\n\n<p>Biroq, an'anaviy sinflar onlayn platformalar takrorlashga qiynaladigan ijtimoiy muloqotni ta'minlaydi. Yuzma-yuz muhokamalar, guruh loyihalari va o'qituvchilarning tezkor fikr-mulohazalari virtual muhit to'liq mos kelolmaydigan tarzda o'rganishni yaxshilaydi.</p>\n\n<p>Bundan tashqari, laboratoriya fanlari yoki sahna san'ati kabi ayrim fanlar tubdan amaliy tajribani talab qiladi.</p>\n\n<p>Yakuniy xulosa qilib aytganda, menimcha, ikkala yondashuvni birlashtirgan gibrid ta'lim modellari yangi standartga aylanadi. Bu talabalarga ikkala dunyoning eng yaxshi tomonlarini - onlayn ta'limning moslashuvchanligini sinf ta'limining shaxslararo afzalliklari bilan birga taqdim etadi.</p>",
+    "uzSampleA1": "<p>Salom Platforma Jamoasi,<br>Platforma menga yoqadi. U menga o'qishga yordam beradi. U oson. Men ko'proq videolarni xohlayman. Xayr.</p>",
+    "uzSampleA2": "<p>Hurmatli Platforma Jamoasi,<br><br>Platforma uchun rahmat. U menga o'qishlarimda yordam beradi, chunki menga kerakli barcha ma'lumotlarni topa olaman. Menga videolar yoqadi, lekin ba'zida ular juda uzun bo'ladi.<br><br>O'ylaymanki, siz ko'proq testlar qo'shishingiz kerak, chunki ular menga o'rganishga yordam beradi. Shuningdek, forum ham yaxshi bo'lardi, chunki men savollar berishim mumkin. Platformada ba'zi narsalarni topish qiyin, lekin bu yaxshi.<br><br>Rahmat,<br>Shohruh Rahimov</p>",
+    "uzSampleB1": "<p>Hurmatli Platformani Rivojlantirish Jamoasi,<br><br>Men sizga onlayn ta'lim platformasi haqida ba'zi fikr-mulohazalarimni bildirish uchun yozyapman. Umuman olganda, menimcha, u o'qishlarim uchun foydali bo'ldi. Menga ayniqsa barcha kurs materiallarining bir joyda bo'lishi yoqadi. Bu ko'plab kitoblarni olib yurishdan ancha osonroq.<br><br>Biroq, men qidiruv funksiyasidan foydalanish biroz qiyin ekanligini aniqladim. Ba'zan aynan nimani qidirayotganimni topish qiyin. Shuningdek, agar siz talabalar bir-birlariga savol berishlari mumkin bo'lgan funksiyani qo'shsangiz, juda yaxshi bo'lardi deb o'ylayman. Forum yoki chat xonasi juda foydali bo'lardi.<br><br>Menimcha, platforma yaxshi vosita, lekin uni bir nechta yaxshilanishlar bilan yanada yaxshiroq qilish mumkin. Fikr-mulohazalarimizni so'raganingiz uchun rahmat.<br><br>Hurmat bilan,<br>Shohruh Rahimov</p>",
+    "uzSampleB2": "<p>Hurmatli Platformani Rivojlantirish Jamoasi,<br><br>Umid qilamanki, ushbu xat sizga yaxshi yetib borgan. Sizning so'rovingizga binoan, men ushbu semestrda onlayn ta'lim platformasidan foydalanish tajribam haqida fikr-mulohazalarimni bildirish uchun yozyapman. Umuman olganda, platformani o'qishlarimda qimmatli vosita deb topdim, garchi takomillashtirish mumkin bo'lgan sohalar mavjud.<br><br>Platformaning eng foydali jihatlaridan biri uning qulayligidir. Ma'ruzalar va resurslarga istalgan vaqtda kirish imkoniyati, ayniqsa, boshqa majburiyatlarni boshqarishda juda foydali bo'ldi. Biroq, foydalanuvchi interfeysi ba'zan biroz tushunarsiz bo'lib tuyuldi. Turli modullar o'rtasida harakatlanishni soddalashtirish mumkin va yanada keng qamrovli qidiruv funksiyasi juda qadrlanadi.<br><br>Yangi funksiyalarga kelsak, men integratsiyalashgan munozara forumlari yoki virtual o'quv guruhlari kabi hamkorlik vositalarini qo'shish o'quv jarayonini sezilarli darajada yaxshilaydi, deb hisoblayman. Bu jamoatchilik tuyg'usini kuchaytiradi va talabalarga bir-biridan o'rganishga imkon beradi. Bundan tashqari, o'quv modullari ichida viktorinalar yoki simulyatsiyalar kabi interaktiv elementlarni kiritish ishtirokni va bilimni saqlashni oshirishi mumkin.<br><br>Fikr-mulohazalarimni ko'rib chiqqaningiz uchun tashakkur. Ishonamanki, ushbu yaxshilanishlar bilan platforma yanada samarali o'quv vositasiga aylanish potentsialiga ega.<br><br>Hurmat bilan,<br>Shohruh Rahimov</p>"
+   },
+   "t11": {
+    "title": "informal message · to classmate",
+    "prompt": "Write a message to your classmate about your experience with the platform. Share your thoughts and ask what they think.",
+    "sample": "Hey!\n\nHave you been using the <span class=\"ml-token colloc\">learning platform</span> much? I find the <span class=\"ml-token colloc\">video lectures</span> <span class=\"ml-token adv\">really</span> helpful, but the <span class=\"ml-token colloc\">discussion forums</span> are a bit confusing. They <span class=\"ml-token modal\">should</span> <span class=\"ml-token adv\">definitely</span> add a <span class=\"ml-token colloc\">mobile app</span>! What features do you use most?\n\nLet me know!",
+    "target": "50 words",
+    "sampleA1": "<p>Hi! <br> I like the platform. <br> Videos good. <br> Forum? No. <br> Bye!</p>",
+    "sampleA2": "<p>Hi! <br> The platform is okay. I like the videos because they help me. But the forum is hard to use. I want a new app for my phone. What do you think?</p>",
+    "sampleB1": "<p>Hey! <br> How are you finding the learning platform? I think the videos are really useful for understanding the lectures. However, I found the discussion forums a bit difficult to navigate. I also think they should add a mobile app so we can use it on our phones. What do you think about the platform?</p>",
+    "sampleB2": "Hi Jasur,\nHave you been <span class=\"ml-token phrasal\">getting on</span> okay with the new learning platform? I'm honestly <span class=\"ml-token idiom\">hooked on</span> the video lectures — you can pause and rewind whenever something doesn't <span class=\"ml-token phrasal\">sink in</span>. The forums <span class=\"ml-token idiom\">drive me a bit mad</span> though; they're <span class=\"ml-token idiom\">all over the place</span>. They really need a <span class=\"ml-token colloc\">mobile app</span>! What do you <span class=\"ml-token colloc\">reckon</span>?\nDilnoza",
+    "uzSample": "<p>Salom!</p>\n<p>O'quv platformasidan ko'p foydalanayapsanmi? Menga video ma'ruzalar juda ham foydali, lekin munozara forumlari biroz chalkash tuyuldi. Ular albatta mobil ilova qo'shishlari kerak! Sen ko'proq qaysi funksiyalardan foydalanasan?</p>\n<p>Xabar ber!</p>",
+    "uzSampleA1": "<p>Salom! <br> Menga platforma yoqdi. <br> Videolar yaxshi. <br> Forum? Yo'q. <br> Xayr!</p>",
+    "uzSampleA2": "<p>Salom! <br> Platforma yaxshi. Menga videolar yoqadi, chunki ular menga yordam beradi. Lekin forumdan foydalanish qiyin. Men telefonim uchun yangi ilova xohlayman. Siz nima deb o'ylaysiz?</p>",
+    "uzSampleB1": "<p>Salom! <br> O'quv platformasi senga qanday ta'sir qilyapti? Menimcha, videolavhalar ma'ruzalarni tushunish uchun juda foydali. Biroq, men munozara forumlarida harakatlanish biroz qiyin ekanligini sezdim. Shuningdek, ular mobil ilova qo'shishlari kerak deb o'ylayman, shunda biz uni telefonlarimizda ishlatishimiz mumkin. Platforma haqida nima deb o'ylaysan?</p>",
+    "uzSampleB2": "<p>Salom, <br> Bu semestr onlayn ta’lim platformasi bilan ko‘p tajribangiz bo‘ldimi? Men video ma’ruzalar kurs materialini mustahkamlashda ayniqsa foydali ekanligini aniqladim. Biroq, men munozara forumlari bilan biroz qiynalyapman; interfeys juda intuitiv emas. Menimcha, agar ular qulaylikni oshirish uchun maxsus mobil ilova ishlab chiqsa, juda yaxshi bo‘lardi. Platforma haqida fikrlaringiz qanday va sizga ayniqsa foydali yoki noqulay bo‘lgan xususiyatlar bormi?</p>"
+   },
+   "t12": {
+    "title": "formal letter · to platform development team",
+    "prompt": "Write a letter to the Platform Development Team. Share your experience and suggest improvements.",
+    "sample": "<p>Dear Development Team,</p>\n\n<p>Thank you for seeking student feedback. I am pleased to share my experience with your <span class=\"ml-token colloc\">online learning platform</span>.</p>\n\n<p><span class=\"ml-token adv\">Firstly</span>, the <span class=\"ml-token colloc\">video lectures</span> have been <span class=\"ml-token adv\">exceptionally</span> helpful. The ability to pause and replay content has <span class=\"ml-token adv\">significantly</span> improved my <span class=\"ml-token colloc\">understanding</span> of complex topics.</p>\n\n<p><span class=\"ml-token adv\">However</span>, I have found the <span class=\"ml-token colloc\">discussion forums</span> somewhat difficult to navigate. A <span class=\"ml-token colloc\">notification system</span> <span class=\"ml-token modal\">would</span> help students stay updated on replies.</p>\n\n<p><span class=\"ml-token adv\">Additionally</span>, I <span class=\"ml-token modal\">would</span> suggest developing a <span class=\"ml-token colloc\">mobile application</span>. This <span class=\"ml-token modal\">would</span> allow students to access materials <span class=\"ml-token colloc\">on the go</span>, making learning more <span class=\"ml-token colloc\">flexible</span>.</p>\n\n<p><span class=\"ml-token adv\">Furthermore</span>, adding <span class=\"ml-token colloc\">progress tracking</span> features <span class=\"ml-token modal\">could</span> help students monitor their learning journey.</p>\n\n<p>Thank you for your commitment to improving the platform.</p>\n\n<p>Best regards,<br>A Dedicated Student</p>",
+    "target": "120–150 words",
+    "sampleA1": "<p>Hi Platform Team,<br>I use platform. It is okay.<br>Videos are good. I like.<br>Forum is hard. I don't like.<br>More videos? Bye</p>",
+    "sampleA2": "<p>Hello,<br>I used the platform for study. It helped me because the videos are good and I can learn. But the forum is difficult to use and I don't understand it very well. I want a new feature. Maybe a phone app? Because I use my phone a lot. Thank you.<br>Bye,<br>A Student</p>",
+    "sampleB1": "<p>Dear Platform Team,<br>I am writing to give you feedback about the online learning platform. Overall, I think it is a good platform that has helped me with my studies.<br><br>I found the video lectures very useful. However, I think the discussion forum could be improved. It is sometimes difficult to find the information I need. Also, I think it would be helpful if there was a mobile app so I could access the platform on my phone.<br><br>In my opinion, these changes would make the platform even better. Thank you for your time.<br><br>Sincerely,<br>A Student</p>",
+    "sampleB2": "Dear Platform Development Team,\nThank you for reaching out for feedback on the online learning platform. Overall, it has <span class=\"ml-token colloc\">made a real difference</span> to my studies this semester.\nThe video lectures have been <span class=\"ml-token idiom\">a lifesaver</span>, as being able to pause and replay them helped me <span class=\"ml-token idiom\">get to grips with</span> tricky topics at my own pace. However, the discussion forums are rather hard to navigate, and I often miss replies to my posts.\n<span class=\"ml-token linking\">Going forward</span>, I would strongly recommend adding a dedicated mobile app so that we can <span class=\"ml-token phrasal\">keep up with</span> coursework <span class=\"ml-token colloc\">on the go</span>. A notification system for deadlines and forum replies would also <span class=\"ml-token phrasal\">come in handy</span>.\nThank you for <span class=\"ml-token colloc\">taking our views on board</span>. I am confident these changes would make the platform even more effective.\nYours faithfully,\nBekzod Aliyev",
+    "uzSample": "<p>Hurmatli Ishlab Chiqish Jamoasi,</p>\n\n<p>Talabalarning fikr-mulohazalarini so‘raganingiz uchun tashakkur. Sizning onlayn ta’lim platformangiz bilan bog‘liq tajribamni baham ko‘rishdan mamnunman.</p>\n\n<p>Avvalo, video ma’ruzalar juda foydali bo‘ldi. Kontentni to‘xtatib, qayta ko‘rish imkoniyati murakkab mavzularni tushunishimni sezilarli darajada yaxshiladi.</p>\n\n<p>Biroq, munozara forumlarida navigatsiya qilish biroz qiyin bo‘ldi. Xabarnoma tizimi talabalarga javoblardan xabardor bo‘lib turishga yordam beradi.</p>\n\n<p>Bundan tashqari, mobil ilova ishlab chiqishni taklif qilmoqchiman. Bu talabalarga materiallarga yo‘lda kirish imkonini beradi va o‘qishni yanada moslashuvchan qiladi.</p>\n\n<p>Shuningdek, progressni kuzatish funksiyalarini qo‘shish talabalarga o‘zlarining o‘quv jarayonlarini kuzatishga yordam berishi mumkin.</p>\n\n<p>Platformani yaxshilashga bo‘lgan sadoqatingiz uchun tashakkur.</p>\n\n<p>Eng yaxshi tilaklar bilan,<br>Sizning sodiq talabangiz</p>",
+    "uzSampleA1": "<p>Salom Platforma Jamoasi,<br>Men platformadan foydalanaman. Yaxshi.<br>Videolar yaxshi. Menga yoqadi.<br>Forum qiyin. Menga yoqmaydi.<br>Ko'proq videolar kerakmi? Xayr</p>",
+    "uzSampleA2": "<p>Salom,<br>Men platformadan o'qish uchun foydalandim. Bu menga yordam berdi, chunki videolari yaxshi va men o'rgana olaman. Lekin forumdan foydalanish qiyin va men uni juda yaxshi tushunmayman. Men yangi funksiya xohlayman. Balki telefon ilovasi? Chunki men telefonimdan ko'p foydalanaman. Rahmat.<br>Xayr,<br>Talaba</p>",
+    "uzSampleB1": "<p>Hurmatli Platforma Jamoasi,<br>Men sizga onlayn ta'lim platformasi haqida fikr-mulohazalarimni bildirish uchun yozyapman. Umuman olganda, menimcha, bu yaxshi platforma bo'lib, u menga o'qishlarimda yordam berdi.<br><br>Men video ma'ruzalarni juda foydali deb topdim. Biroq, men munozara forumini yaxshilash mumkin deb o'ylayman. Ba'zan menga kerakli ma'lumotni topish qiyin. Shuningdek, agar mobil ilova bo'lsa, platformaga telefonim orqali kirishim mumkin bo'lardi deb o'ylayman.<br><br>Mening fikrimcha, bu o'zgarishlar platformani yanada yaxshiroq qiladi. Vaqtingiz uchun rahmat.<br><br>Hurmat bilan,<br>Talaba</p>",
+    "uzSampleB2": "<p>Hurmatli Platformani Rivojlantirish Jamoasi,<br><br>Umid qilamanki, ushbu xat sizlarga yaxshi yetib borgan. Sizning so'rovingizga binoan, men ushbu semestrda onlayn ta'lim platformasidan foydalanish tajribam haqida fikr-mulohazalarimni bildirish uchun yozyapman.<br><br>Avvalo, kurs materiallarining qulayligi va topshiriqlarni topshirishning osonligini qadrlayman. Platformaning umumiy dizayni juda intuitiv. Biroq, men foydalanuvchi tajribasini yaxshilash uchun hal qilinishi mumkin bo'lgan ba'zi muammolarga duch keldim.<br><br>Xususan, forum ichidagi qidiruv funksiyasini yaxshilash mumkin. Tegishli kalit so'zlardan foydalanganda ham, muayyan mavzularni yoki postlarni topish ko'pincha qiyin edi. Bundan tashqari, maxsus mobil ilovaning yo'qligi sezilarli kamchilikdir. Ko'plab talabalar, shu jumladan men ham, kurs materiallariga kirish va muhokamalarda yo'lda qatnashish imkoniyatidan foyda ko'rishardi. E'lonlar va topshiriq muddatlari uchun push-bildirishnoma tizimi ham juda qimmatli bo'lardi.<br><br>Takliflarimni ko'rib chiqayotganingiz uchun tashakkur. Ishonamanki, ushbu o'zgarishlarni amalga oshirish platformaning foydalanish imkoniyatini va samaradorligini sezilarli darajada oshiradi.<br><br>Hurmat bilan,<br>Talaba</p>"
+   },
+   "p1_context": "You are a student using an online learning platform.",
+   "p1_scenario": "Dear Student,\n\nThank you for using our online learning platform this semester. As we plan improvements for next year, we would like your feedback.\nHow has the platform helped with your studies? Are there any features you found difficult to use?\nWhat new features would you like us to add?\n\nThe Platform Development Team"
+  },
+  "examDate": "2026-01-29",
+  "settings": {
+   "logoUrl": "https://audio.mock-stream.com/img/ibb/WN0XY5Lv/logo.png",
+   "heading1": "Bilim va malakalarni baholash agentligi",
+   "heading2": "Chet tilini bilish darajasi",
+   "examTitle": "Writing exam",
+   "logoWording": "Mock Stream",
+   "testIdentifier": "mock_stream"
+  },
+  "vocabulary": {
+   "task2": [
+    {
+     "en": "online learning",
+     "uz": "onlayn o'qish"
+    },
+    {
+     "en": "traditional classroom",
+     "uz": "an'anaviy sinf xona"
+    },
+    {
+     "en": "unparalleled flexibility",
+     "uz": "tengsiz moslashuvchanlik"
+    },
+    {
+     "en": "own pace",
+     "uz": "o'z sur'atida"
+    },
+    {
+     "en": "remote areas",
+     "uz": "uzoq joylar"
+    },
+    {
+     "en": "invaluable",
+     "uz": "bebaho"
+    },
+    {
+     "en": "social interaction",
+     "uz": "ijtimoiy muloqot"
+    },
+    {
+     "en": "group projects",
+     "uz": "guruh loyihalari"
+    },
+    {
+     "en": "enhance learning",
+     "uz": "o'qishni yaxshilamoq"
+    },
+    {
+     "en": "hands-on experience",
+     "uz": "amaliy tajriba"
+    },
+    {
+     "en": "hybrid learning",
+     "uz": "aralash o'qish"
+    },
+    {
+     "en": "new standard",
+     "uz": "yangi standart"
+    },
+    {
+     "en": "interpersonal benefits",
+     "uz": "shaxslararo foydalari"
+    },
+    {
+     "en": "digital literacy",
+     "uz": "raqamli savodxonlik"
+    },
+    {
+     "en": "self-discipline",
+     "uz": "o'z-o'zini intizom"
+    },
+    {
+     "en": "virtual classroom",
+     "uz": "virtual sinf xona"
+    },
+    {
+     "en": "educational technology",
+     "uz": "ta'lim texnologiyasi"
+    },
+    {
+     "en": "face-to-face",
+     "uz": "yuzma-yuz"
+    },
+    {
+     "en": "immediate feedback",
+     "uz": "tezkor fikr-mulohaza"
+    },
+    {
+     "en": "coexist",
+     "uz": "birga mavjud bo'lmoq"
+    }
+   ],
+   "task11": [
+    {
+     "en": "learning platform",
+     "uz": "o'quv platformasi"
+    },
+    {
+     "en": "video lectures",
+     "uz": "video ma'ruzalar"
+    },
+    {
+     "en": "really helpful",
+     "uz": "juda foydali"
+    },
+    {
+     "en": "discussion forums",
+     "uz": "munozara forumlari"
+    },
+    {
+     "en": "bit confusing",
+     "uz": "biroz chalkash"
+    },
+    {
+     "en": "mobile app",
+     "uz": "mobil ilova"
+    },
+    {
+     "en": "use most",
+     "uz": "eng ko'p foydalanmoq"
+    },
+    {
+     "en": "online classes",
+     "uz": "onlayn darslar"
+    },
+    {
+     "en": "easy to use",
+     "uz": "ishlatish oson"
+    },
+    {
+     "en": "study materials",
+     "uz": "o'quv materiallari"
+    },
+    {
+     "en": "download option",
+     "uz": "yuklab olish imkoniyati"
+    },
+    {
+     "en": "save time",
+     "uz": "vaqtni tejash"
+    },
+    {
+     "en": "watch again",
+     "uz": "qayta ko'rmoq"
+    },
+    {
+     "en": "ask questions",
+     "uz": "savol bermoq"
+    },
+    {
+     "en": "get help",
+     "uz": "yordam olmoq"
+    },
+    {
+     "en": "tech issues",
+     "uz": "texnik muammolar"
+    },
+    {
+     "en": "pretty good",
+     "uz": "ancha yaxshi"
+    },
+    {
+     "en": "needs improvement",
+     "uz": "yaxshilash kerak"
+    },
+    {
+     "en": "what do you think",
+     "uz": "nima deb o'ylaysiz"
+    },
+    {
+     "en": "let me know",
+     "uz": "menga ayting"
+    }
+   ],
+   "task12": [
+    {
+     "en": "seeking feedback",
+     "uz": "fikr-mulohaza so'ramoq"
+    },
+    {
+     "en": "online learning platform",
+     "uz": "onlayn o'quv platformasi"
+    },
+    {
+     "en": "exceptionally helpful",
+     "uz": "nihoyatda foydali"
+    },
+    {
+     "en": "pause and replay",
+     "uz": "to'xtatish va qayta ko'rish"
+    },
+    {
+     "en": "complex topics",
+     "uz": "murakkab mavzular"
+    },
+    {
+     "en": "notification system",
+     "uz": "bildirishnoma tizimi"
+    },
+    {
+     "en": "stay updated",
+     "uz": "yangilikdan xabardor bo'lmoq"
+    },
+    {
+     "en": "mobile application",
+     "uz": "mobil ilova"
+    },
+    {
+     "en": "on the go",
+     "uz": "yo'l-yo'lakay"
+    },
+    {
+     "en": "flexible learning",
+     "uz": "moslashuvchan o'qish"
+    },
+    {
+     "en": "progress tracking",
+     "uz": "taraqqiyotni kuzatish"
+    },
+    {
+     "en": "learning journey",
+     "uz": "o'quv yo'li"
+    },
+    {
+     "en": "commitment to improvement",
+     "uz": "yaxshilashga sodiqlik"
+    },
+    {
+     "en": "user experience",
+     "uz": "foydalanuvchi tajribasi"
+    },
+    {
+     "en": "technical support",
+     "uz": "texnik yordam"
+    },
+    {
+     "en": "course materials",
+     "uz": "kurs materiallari"
+    },
+    {
+     "en": "interactive features",
+     "uz": "interaktiv funksiyalar"
+    },
+    {
+     "en": "assignment submission",
+     "uz": "topshiriq topshirish"
+    },
+    {
+     "en": "feedback system",
+     "uz": "fikr-mulohaza tizimi"
+    },
+    {
+     "en": "best regards",
+     "uz": "hurmat bilan"
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "can": {
+    "uz": "mumkin",
+    "type": "modal"
+   },
+   "could": {
+    "uz": "mumkin",
+    "type": "modal"
+   },
+   "would": {
+    "uz": "bo'lardi",
+    "type": "modal"
+   },
+   "cannot": {
+    "uz": "мумкин эмас",
+    "type": "modal"
+   },
+   "really": {
+    "uz": "haqiqatan ham",
+    "type": "adv"
+   },
+   "reckon": {
+    "uz": "o'ylamoq (so'zlashuv)",
+    "type": "colloc"
+   },
+   "should": {
+    "uz": "kerak",
+    "type": "modal"
+   },
+   "Firstly": {
+    "uz": "Birinchidan",
+    "type": "adv"
+   },
+   "However": {
+    "uz": "Biroq",
+    "type": "adv"
+   },
+   "sink in": {
+    "uz": "anglab yetmoq, miyaga singmoq",
+    "type": "phrasal"
+   },
+   "Moreover": {
+    "uz": "Қолаверса",
+    "type": "adv"
+   },
+   "flexible": {
+    "uz": "moslashuvchan",
+    "type": "colloc"
+   },
+   "speak up": {
+    "uz": "dadil, ochiq gapirmoq",
+    "type": "phrasal"
+   },
+   "That said": {
+    "uz": "Shunga qaramay",
+    "type": "linking"
+   },
+   "hooked on": {
+    "uz": "mukkasidan ketmoq, berilib qolmoq",
+    "type": "idiom"
+   },
+   "on the go": {
+    "uz": "yo'l-yo'lakay",
+    "type": "colloc"
+   },
+   "In my view": {
+    "uz": "Mening fikrimcha",
+    "type": "linking"
+   },
+   "Ultimately": {
+    "uz": "Охир-оқибат",
+    "type": "adv"
+   },
+   "definitely": {
+    "uz": "albatta",
+    "type": "adv"
+   },
+   "getting on": {
+    "uz": "uddalamoq, eplab ketmoq",
+    "type": "phrasal"
+   },
+   "invaluable": {
+    "uz": "бебаҳо",
+    "type": "colloc"
+   },
+   "mobile app": {
+    "uz": "mobil ilova",
+    "type": "colloc"
+   },
+   "switch off": {
+    "uz": "o'chirib qo'ymoq, dam olmoq",
+    "type": "phrasal"
+   },
+   "Furthermore": {
+    "uz": "Qolaversa",
+    "type": "adv"
+   },
+   "a lifesaver": {
+    "uz": "najotkor bo'ldi, juda katta yordam",
+    "type": "idiom"
+   },
+   "falls short": {
+    "uz": "yetishmaydigandek, kam bo'lib tuyulmoq",
+    "type": "phrasal"
+   },
+   "undoubtedly": {
+    "uz": "shubhasiz",
+    "type": "adv"
+   },
+   "Additionally": {
+    "uz": "Bundan tashqari",
+    "type": "adv"
+   },
+   "keep up with": {
+    "uz": "hamqadam bo'lmoq, ulgurmoq",
+    "type": "phrasal"
+   },
+   "new standard": {
+    "uz": "янги стандарт",
+    "type": "colloc"
+   },
+   "remote areas": {
+    "uz": "ol отдаги ҳудудлар",
+    "type": "colloc"
+   },
+   "Going forward": {
+    "uz": "Kelgusida",
+    "type": "linking"
+   },
+   "beating heart": {
+    "uz": "hayotining markazi, jon-jahoni",
+    "type": "idiom"
+   },
+   "come in handy": {
+    "uz": "asqotmoq",
+    "type": "phrasal"
+   },
+   "exceptionally": {
+    "uz": "g'oyatda",
+    "type": "adv"
+   },
+   "fundamentally": {
+    "uz": "асосан",
+    "type": "adv"
+   },
+   "significantly": {
+    "uz": "sezilarli darajada",
+    "type": "adv"
+   },
+   "understanding": {
+    "uz": "tushunish",
+    "type": "colloc"
+   },
+   "winding us up": {
+    "uz": "asabimizni buzmoq, jahlni chiqarmoq",
+    "type": "phrasal"
+   },
+   "group projects": {
+    "uz": "гуруҳий лойиҳалар",
+    "type": "colloc"
+   },
+   "video lectures": {
+    "uz": "video ma'ruzalar",
+    "type": "colloc"
+   },
+   "hybrid learning": {
+    "uz": "гибрид таълим",
+    "type": "colloc"
+   },
+   "online learning": {
+    "uz": "onlayn ta'lim",
+    "type": "colloc"
+   },
+   "enhance learning": {
+    "uz": "ўқишни яхшилаш",
+    "type": "colloc"
+   },
+   "find their voice": {
+    "uz": "o'zini namoyon qilmoq, o'z ovozini topmoq",
+    "type": "idiom"
+   },
+   "discussion forums": {
+    "uz": "munozara forumlari",
+    "type": "colloc"
+   },
+   "get to grips with": {
+    "uz": "o'zlashtirmoq, uddasidan chiqmoq",
+    "type": "idiom"
+   },
+   "learning platform": {
+    "uz": "o'quv platformasi",
+    "type": "colloc"
+   },
+   "progress tracking": {
+    "uz": "rivojlanishni kuzatish",
+    "type": "colloc"
+   },
+   "On the bright side": {
+    "uz": "Yaxshi tomoni",
+    "type": "linking"
+   },
+   "all over the place": {
+    "uz": "alg'ov-dalg'ov, tartibsiz",
+    "type": "idiom"
+   },
+   "drive me a bit mad": {
+    "uz": "jahlimni chiqaradi, asabimga tegadi",
+    "type": "idiom"
+   },
+   "mobile application": {
+    "uz": "mobil ilova",
+    "type": "colloc"
+   },
+   "social interaction": {
+    "uz": "ижтимоий мулоқот",
+    "type": "colloc"
+   },
+   "hands-on experience": {
+    "uz": "амалий тажриба",
+    "type": "colloc"
+   },
+   "notification system": {
+    "uz": "bildirishnoma tizimi",
+    "type": "colloc"
+   },
+   "interpersonal benefits": {
+    "uz": "шахслараро фойдалар",
+    "type": "colloc"
+   },
+   "made a real difference": {
+    "uz": "sezilarli farq qildi",
+    "type": "colloc"
+   },
+   "online learning platform": {
+    "uz": "onlayn ta'lim platformasi",
+    "type": "colloc"
+   },
+   "unparalleled flexibility": {
+    "uz": "misli ko'rilmagan moslashuvchanlik",
+    "type": "colloc"
+   },
+   "keeping loneliness at bay": {
+    "uz": "yolg'izlikni uzoqda ushlab turmoq",
+    "type": "idiom"
+   },
+   "taking our views on board": {
+    "uz": "fikrlarimizni inobatga olmoq",
+    "type": "colloc"
+   },
+   "traditional classroom education": {
+    "uz": "an'anaviy sinf ta'limi",
+    "type": "colloc"
+   }
+  }
+ },
+ "created_at": "2026-05-06T14:59:29.148223+00:00",
+ "updated_at": "2026-07-06T10:55:17.354417+00:00"
+}

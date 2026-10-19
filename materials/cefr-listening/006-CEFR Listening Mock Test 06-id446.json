@@ -1,0 +1,714 @@
+{
+ "id": 446,
+ "mock_type": "cefr-listening",
+ "mock_number": 6,
+ "title": "CEFR Listening Mock Test 06",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "mcq-reply",
+    "title": "Part 1",
+    "answers": {
+     "1": "B",
+     "2": "A",
+     "3": "A",
+     "4": "C",
+     "5": "A",
+     "6": "C",
+     "7": "B",
+     "8": "B"
+    },
+    "audioFile": "https://audio.mock-stream.com/test6/PART%201.m4a",
+    "questions": [
+     {
+      "id": 1,
+      "options": [
+       {
+        "text": "I'm Sorry to hear that.",
+        "letter": "A"
+       },
+       {
+        "text": "I'll surely do",
+        "letter": "B"
+       },
+       {
+        "text": "What should I call you?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "options": [
+       {
+        "text": "Well, he was at the same party.",
+        "letter": "A"
+       },
+       {
+        "text": "Is he okay?",
+        "letter": "B"
+       },
+       {
+        "text": "I will meet and tell him.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 3,
+      "options": [
+       {
+        "text": "Because, I can't",
+        "letter": "A"
+       },
+       {
+        "text": "Where is my homework?",
+        "letter": "B"
+       },
+       {
+        "text": "So, my sun will shine.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 4,
+      "options": [
+       {
+        "text": "There was a lot of traffic yesterday.",
+        "letter": "A"
+       },
+       {
+        "text": "Will you help me, please?",
+        "letter": "B"
+       },
+       {
+        "text": "I did my house chores first.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 5,
+      "options": [
+       {
+        "text": "How did you get there?",
+        "letter": "A"
+       },
+       {
+        "text": "Yes, last weekend was rather rainy.",
+        "letter": "B"
+       },
+       {
+        "text": "My father says he is always tired after work.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 6,
+      "options": [
+       {
+        "text": "No, I've already caught it.",
+        "letter": "A"
+       },
+       {
+        "text": "Thank you for a nice party.",
+        "letter": "B"
+       },
+       {
+        "text": "Thanks, I haven't eaten my first piece yet.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 7,
+      "options": [
+       {
+        "text": "Neither have us.",
+        "letter": "A"
+       },
+       {
+        "text": "So were we",
+        "letter": "B"
+       },
+       {
+        "text": "So will we",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 8,
+      "options": [
+       {
+        "text": "Yes, I've.",
+        "letter": "A"
+       },
+       {
+        "text": "Once.",
+        "letter": "B"
+       },
+       {
+        "text": "2 years ago.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "partNumber": 1,
+    "transcript": "Narrator: Part one. You will hear some sentences. You will hear each sentence twice. Choose the correct reply to each sentence, A, B, or C. Mark your answers on the answer sheet.\n\nSpeaker 1: Give me a call when you get back from the trip.\n\nGive me a call when you get back from the trip.\n\nSpeaker 2: So, my brother told me you met him yesterday.\n\nSo, my brother told me you met him yesterday.\n\nSpeaker 3: Why haven't you given me your homework?\n\nWhy haven't you given me your homework?\n\nSpeaker 4: Why are you late?\n\nWhy are you late?\n\nSpeaker 5: We went to Berlin last weekend.\n\nWe went to Berlin last weekend.\n\nSpeaker 6: Would you like some more cake?\n\nWould you like some more cake?\n\nSpeaker 7: I was told an interesting story yesterday.\n\nI was told an interesting story yesterday.\n\nSpeaker 8: How many times have you been in South Africa?\n\nHow many times have you been in South Africa?\n\nNarrator: Now, listen again. That is the end of part one.",
+    "instruction": "You will hear some sentences. You will hear each sentence twice. Choose the correct reply to each sentence (A, B, or C). Mark your answers on the answer sheet.",
+    "questionRange": "1-8",
+    "answerHighlights": {
+     "1": [
+      2
+     ],
+     "2": [
+      6
+     ],
+     "3": [
+      10
+     ],
+     "4": [
+      14
+     ],
+     "5": [
+      18
+     ],
+     "6": [
+      22
+     ],
+     "7": [
+      26
+     ],
+     "8": [
+      30
+     ]
+    }
+   },
+   {
+    "type": "gap-fill-form",
+    "title": "Part 2",
+    "answers": {
+     "9": [
+      "sign up",
+      "Sign up",
+      "SIGN UP",
+      "signup",
+      "Signup"
+     ],
+     "10": [
+      "swimming costume",
+      "Swimming costume",
+      "SWIMMING COSTUME",
+      "swimsuit",
+      "Swimsuit"
+     ],
+     "11": [
+      "needs",
+      "Needs",
+      "NEEDS"
+     ],
+     "12": [
+      "personal trainer",
+      "Personal trainer",
+      "PERSONAL TRAINER"
+     ],
+     "13": [
+      "fitness strategies",
+      "Fitness strategies",
+      "FITNESS STRATEGIES"
+     ],
+     "14": [
+      "105",
+      "£105"
+     ]
+    },
+    "audioFile": "https://audio.mock-stream.com/test6/PART%202.m4a",
+    "formTitle": "Fitness Week",
+    "questions": [
+     {
+      "id": 9,
+      "hint": "should ____ for this course"
+     },
+     {
+      "id": 10,
+      "hint": "as well as a(n) ____"
+     },
+     {
+      "id": 11,
+      "hint": "according to members' ____"
+     },
+     {
+      "id": 12,
+      "hint": "a(n) ____ will keep an eye"
+     },
+     {
+      "id": 13,
+      "hint": "will be told ____"
+     },
+     {
+      "id": 14,
+      "hint": "pay £ ____"
+     }
+    ],
+    "partNumber": 2,
+    "transcript": "Narrator: Part two. You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. Write one word or a number for each answer. You now have some time to look at questions.\n\nSpeaker 1: Good morning, everyone. Welcome to Fitness Week at our special health center. I can promise you three things if you sign up for this course. Firstly, you will become healthier. Number two, you will learn lots of new exercise techniques, and number three, you will work very hard. Our gyms and swimming pools are all new and fully equipped. So all you need to take with you is a good pair of trainers, a tracksuit, shorts and t-shirts for the gym. Don't forget also to take a swimming costume. We start on a Sunday and the first day is an introduction. Each person will be weighed and fill in a quick health questionnaire. Then we will work out a plan with specific targets for each person based on their individual needs. For the rest of the week, we will have morning exercise sessions in the gym, where a personal trainer will ensure you are exercising correctly. After a healthy snack, the afternoon will consist of exercises in the pool, and then relaxation in the spa. On the last day, you will all be individually weighed and assessed to determine how much progress you have made. Then there will be a talk about fitness strategies and how you can maintain your progress in everyday life. Book your place in the next two days, and you will get a 25% discount. You will pay only £15 a day, which works out at £100. No, I'm sorry. That's £105 for the whole week.\n\nNarrator: Now listen again.\nSpeaker 1: Good morning, everyone. Welcome to Fitness Week at our special health center. I I can promise you three things if you sign up for this course. Firstly, you will become healthier. Number two, you will learn lots of new exercise techniques, and number three, you will work very hard. Our gyms and swimming pools are all new and fully equipped. So all you need to take with you is a good pair of trainers, a tracksuit, shorts and t-shirts for the gym. Don't forget also to take a swimming costume. We start on a Sunday and the first day is an introduction. Each person will be weighed and fill in a quick health questionnaire. Then we will work out a plan with specific targets for each person based on their individual needs. For the rest of the week, we will have morning exercise sessions in the gym, where a personal trainer will ensure you are exercising correctly. After a healthy snack, the afternoon will consist of exercises in the pool, and then relaxation in the spa. On the last day, you will all be individually weighed and assessed to determine how much progress you have made. Then there will be a talk about fitness strategies and how you can maintain your progress in everyday life. Book your place in the next two days, and you will get a 25% discount. You will pay only £15 a day, which works out at £100. No, I'm sorry. That's £105 for the whole week.\n\nNarrator: That is the end of part two.",
+    "formContent": [
+     {
+      "text": "Fitness Week",
+      "type": "heading"
+     },
+     {
+      "text": "Anyone who would like to become healthier and learn new things should",
+      "type": "item-gap",
+      "gapId": 9,
+      "gapSuffix": "for this course."
+     },
+     {
+      "text": "All new members must have with them trainers, a tracksuit, shorts and T-shirts as well as a(n)",
+      "type": "item-gap",
+      "gapId": 10,
+      "gapSuffix": "."
+     },
+     {
+      "text": "After answering some questions, specific targets will be set according to the members'",
+      "type": "item-gap",
+      "gapId": 11,
+      "gapSuffix": "."
+     },
+     {
+      "text": "Every morning a(n)",
+      "type": "item-gap",
+      "gapId": 12,
+      "gapSuffix": "will keep an eye on new members exercising."
+     },
+     {
+      "text": "At the end of the week, members will be told",
+      "type": "item-gap",
+      "gapId": 13,
+      "gapSuffix": "so as not to gain back the weight they've lost."
+     },
+     {
+      "text": "For the next 48 hours, there's a sale on: you can pay £",
+      "type": "item-gap",
+      "gapId": 14,
+      "gapSuffix": "for 7 days."
+     }
+    ],
+    "instruction": "You will hear someone giving a talk. For each question, fill in the missing information in the numbered space. Write NO MORE THAN ONE WORD AND/OR A NUMBER for each answer.",
+    "questionRange": "9-14",
+    "answerHighlights": {
+     "9": [
+      2
+     ],
+     "10": [
+      2
+     ],
+     "11": [
+      2
+     ],
+     "12": [
+      2
+     ],
+     "13": [
+      2
+     ],
+     "14": [
+      2
+     ]
+    }
+   },
+   {
+    "type": "matching-speakers",
+    "title": "Part 3",
+    "answers": {
+     "15": "E",
+     "16": "F",
+     "17": "B",
+     "18": "A"
+    },
+    "options": [
+     {
+      "text": "a sporting event",
+      "letter": "A"
+     },
+     {
+      "text": "a special birthday",
+      "letter": "B"
+     },
+     {
+      "text": "a train journey",
+      "letter": "C"
+     },
+     {
+      "text": "a theatre visit",
+      "letter": "D"
+     },
+     {
+      "text": "a musical event",
+      "letter": "E"
+     },
+     {
+      "text": "the anniversary of an historic event",
+      "letter": "F"
+     }
+    ],
+    "speakers": [
+     {
+      "id": 15,
+      "label": "Speaker 1"
+     },
+     {
+      "id": 16,
+      "label": "Speaker 2"
+     },
+     {
+      "id": 17,
+      "label": "Speaker 3"
+     },
+     {
+      "id": 18,
+      "label": "Speaker 4"
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test6/PART%203.m4a",
+    "partNumber": 3,
+    "transcript": "Narrator: Part three. You will hear people speaking in different situations. Match each speaker, 15 to 18, to the options, A to F. There are two extra options which you do not need to use. Mark your answers on the answer sheet.\n\nYou now have some time to look at questions.\n\nNarrator: Speaker one.\nSpeaker 1: I've just been to something I'm sure I'll remember all my life. It was one of my favorite bands of all time playing in front of the National Gallery. It was just the perfect setting. A square surrounded by elegant, historic buildings. Quite a severe location in some ways, but that suited their style. The bit I'll personally always treasure, was how taken my son was by it all. Usually he's a bit dismissive of my tastes in songs, but he agreed to let me drag him along, and it was clear from his face that he found it spellbinding. I've now agreed to go along to watch a cricket match with him, and hope I'll be equally surprised to find it enjoyable.\n\nNarrator: Speaker two.\nSpeaker 2: It was an absolutely extraordinary evening. Well worth the long rail journey I'd had to make to get there. The speakers were excellent, managing to be both moving and witty, in a way that seemed totally appropriate, given the nature of the occasion. A hundred years since the halls that had housed such a major national exhibition, had burnt down. But I remember the events also for personal reasons. I bumped into a friend I hadn't seen for a good 10 years, a guy I used to play football with, before we both headed off to university. I'd thought about him often, but hadn't managed to find out where he was living, or what he was doing now, despite Googling him every now and then.\n\nNarrator: Speaker three.\nSpeaker 3: When you think back over the memorable events in your life, I think sometimes it's relatively ordinary ones that can stand out more than the big public occasions. My grandfather becoming 80, for example, had a surprisingly significant impact on my life. A famous actor who'd been to school with grandpa, gave a very touching speech about the importance of roots. And it came to me with total clarity, that I really did want to move back to the town where I grew up. I'd been turning the idea over in my mind for quite some time, but might never have got round to doing anything about it had it not been for that speech.\n\nNarrator: Speaker four.\nSpeaker 4: I met Fiona when we were both on a train going to the airport last month, and we started talking about where we were heading. Fiona told me she was going back to the island where she'd spent many happy holidays as a child, but this time, because she had to attend a conference in connection with her work as an architect. I explained that I was off to the city where I'd had the luck as a child, to go to the opening ceremony of the Winter Olympics. The thing that struck me most then, were the fireworks over the snowy mountains. I don't think I've ever seen anything more stunning in the 20 years since.\n\nNarrator: Now, listen again.\nSpeaker 1: I've just been to something I'm sure I'll remember all my life. It was one of my favorite bands of all time playing in front of the National Gallery. It was just the perfect setting. A square surrounded by elegant, historic buildings. Quite a severe location in some ways, but that suited their style. The bit I'll personally always treasure, was how taken my son was by it all. Usually he's a bit dismissive of my tastes in songs, but he agreed to let me drag him along, and it was clear from his face that he found it spellbinding. I've now agreed to go along to watch a cricket match with him, and hope I'll be equally surprised to find it enjoyable.\n\nNarrator: Speaker two.\nSpeaker 2: It was an absolutely extraordinary evening. Well worth the long rail journey I'd had to make to get there. The speakers were excellent, managing to be both moving and witty, in a way that seemed totally appropriate, given the nature of the occasion. A hundred years since the halls that had housed such a major national exhibition, had burnt down. But I remember the events also for personal reasons. I bumped into a friend I hadn't seen for a good 10 years, a guy I used to play football with, before we both headed off to university. I'd thought about him often, but hadn't managed to find out where he was living, or what he was doing now, despite Googling him every now and then.\n\nNarrator: Speaker three.\nSpeaker 3: When you think back over the memorable events in your life, I think sometimes it's relatively ordinary ones that can stand out more than the big public occasions. My grandfather becoming 80, for example, had a surprisingly significant impact on my life. A famous actor who'd been to school with grandpa, gave a very touching speech about the importance of roots. And it came to me with total clarity, that I really did want to move back to the town where I grew up. I'd been turning the idea over in my mind for quite some time, but might never have got round to doing anything about it had it not been for that speech.\n\nNarrator: Speaker four.\nSpeaker 4: I met Fiona when we were both on a train going to the airport last month, and we started talking about where we were heading. Fiona told me she was going back to the island where she'd spent many happy holidays as a child, but this time, because she had to attend a conference in connection with her work as an architect. I explained that I was off to the city where I'd had the luck as a child, to go to the opening ceremony of the Winter Olympics. The thing that struck me most then, were the fireworks over the snowy mountains. I don't think I've ever seen anything more stunning in the 20 years since.",
+    "instruction": "You will hear people speaking in different situations. Match each speaker (15-18) to the place where the speaker is (A-F). Use the letters only once. There are TWO EXTRA places which you do not need to use. Mark your answers on the answer sheet.",
+    "questionRange": "15-18",
+    "answerHighlights": {
+     "15": [
+      5
+     ],
+     "16": [
+      8
+     ],
+     "17": [
+      11
+     ],
+     "18": [
+      14
+     ]
+    }
+   },
+   {
+    "type": "map-labeling",
+    "title": "Part 4",
+    "answers": {
+     "19": "E",
+     "20": "B",
+     "21": "A",
+     "22": "D",
+     "23": "F"
+    },
+    "mapImage": "https://audio.mock-stream.com/test6/Screenshot%202026-01-19%20132737.png",
+    "mapTitle": "Cityscope Sports and Leisure",
+    "audioFile": "https://audio.mock-stream.com/test6/PART%204.m4a",
+    "mapLabels": [
+     "A",
+     "B",
+     "C",
+     "D",
+     "E",
+     "F",
+     "G",
+     "H"
+    ],
+    "questions": [
+     {
+      "id": 19,
+      "place": "Hotel"
+     },
+     {
+      "id": 20,
+      "place": "Transport hub"
+     },
+     {
+      "id": 21,
+      "place": "Cinema"
+     },
+     {
+      "id": 22,
+      "place": "Fitness centre"
+     },
+     {
+      "id": 23,
+      "place": "Shops"
+     }
+    ],
+    "partNumber": 4,
+    "transcript": "Narrator: Part four. You will hear someone giving a talk. Label the places, 19 to 23, on the map, A-H. There are three extra options which you do not need to use. Mark your answers on the answer sheet. You now have some time to look at questions. Right. Now, if you'd like to gather a little closer to the window, I'll point out the various buildings. We're at the highest point of the stadium here in the rooftop cafe, on the opposite side to the main entrance doors. On our left, you can see two buildings just beyond the end of the stadium. The closest one is the business center, used for meetings and conferences and so on, which provides a good source of revenue for the upkeep of the sports facilities. And next to the business center, the bigger building is the hotel, which is rented from us by an independent company. As you see, they are served by the perimeter road, which runs round three quarters of the site. Now, coming round to the front of the building, immediately in front of the entrance, that circular open space at the end of the road is the transport hub. From here, there are buses and a monorail link to the free car park, about 10 minutes from here, but you can't see that. There's also a large secure cycle park. Oh, and disabled parking, of course. People find it's very convenient and it keeps the site virtually car free. Okay. Now, if you look as far as you can over to the right, beyond the buildings, you can see our outdoor pitches, which I mentioned earlier. Between the pitches and the entrance is a little kind of pedestrian plaza. Are you with me? Okay, with the cinema in the building furthest away from us, next to the pitches. Then there's the 10 pin bowling between the cinema and the road. Near the far end of the perimeter road and between the mini roundabout and the pitches, there's our fitness center with all kinds of equipment and a small pool, and changing rooms for teams using the pitches. Then, joined onto the stadium, next to the entrance, is a range of small shops which all specialize in sports equipment, clothes, shoes. They sell toys and so on as well, all that sort of thing. They seem to be doing well. As you see, the service road goes right round, but we keep the traffic and the pedestrians well apart. So, it's all very relaxed round the plaza, popular with families. And just in front of the bowling is our lovely restaurant. You can see it from here. It's that building on the plaza between us and the bowling. It's open all day and in the evenings. There's quite a queue there at weekends, I'm pleased to say. So, now you've got the layout, we can go and have a closer look at everything. Oh, Narrator: Now, listen again. Right. Now, if you'd like to gather a little closer to the window, I'll point out the various buildings. We're at the highest point of the stadium here in the rooftop cafe, on the opposite side to the main entrance doors. On our left, you can see two buildings just beyond the end of the stadium. The closest one is the business center, used for meetings and conferences and so on, which provides a good source of revenue for the upkeep of the sports facilities. And next to the business center, the bigger building is the hotel, which is rented from us by an independent company. As you see, they are served by the perimeter road, which runs round three quarters of the site. Now, coming round to the front of the building, immediately in front of the entrance, that circular open space at the end of the road is the transport hub. From here, there are buses and a monorail link to the free car park, about 10 minutes from here, but you can't see that. There's also a large secure cycle park. Oh, and disabled parking, of course. People find it's very convenient and it keeps the site virtually car free. Okay. Now, if you look as far as you can over to the right, beyond the buildings, you can see our outdoor pitches, which I mentioned earlier. Between the pitches and the entrance is a little kind of pedestrian plaza. Are you with me? Okay, with the cinema in the building furthest away from us, next to the pitches. Then there's the 10 pin bowling between the cinema and the road. Near the far end of the perimeter road and between the mini roundabout and the pitches, there's our fitness center with all kinds of equipment and a small pool, and changing rooms for teams using the pitches. Then, joined onto the stadium, next to the entrance, is a range of small shops which all specialize in sports equipment, clothes, shoes. They sell toys and so on as well, all that sort of thing. They seem to be doing well. As you see, the service road goes right round, but we keep the traffic and the pedestrians well apart. So, it's all very relaxed round the plaza, popular with families. And just in front of the bowling is our lovely restaurant. You can see it from here. It's that building on the plaza between us and the bowling. It's open all day and in the evenings. There's quite a queue there at weekends, I'm pleased to say. So, now you've got the layout, we can go and have a closer look at everything. Oh, Narrator: That is the end of part four.",
+    "instruction": "You will hear someone giving a talk. Label the places (19-23) on the map (A-H). There are THREE extra options which you do not need to use. Mark your answers on the answer sheet.",
+    "questionRange": "19-23"
+   },
+   {
+    "type": "mcq-extracts",
+    "title": "Part 5",
+    "answers": {
+     "24": "C",
+     "25": "C",
+     "26": "B",
+     "27": "C",
+     "28": "B",
+     "29": "B"
+    },
+    "extracts": [
+     {
+      "title": "Extract One",
+      "context": "You hear two people talking about their colleague.",
+      "questions": [
+       {
+        "id": 24,
+        "text": "What is the problem the colleague causes?",
+        "options": [
+         {
+          "text": "others have to do more work because of them",
+          "letter": "A"
+         },
+         {
+          "text": "clients are not happy with the service",
+          "letter": "B"
+         },
+         {
+          "text": "other members of staff are dissatisfied with them",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 25,
+        "text": "What does the woman suggest as a solution?",
+        "options": [
+         {
+          "text": "talk about it with the colleague",
+          "letter": "A"
+         },
+         {
+          "text": "get the management involved",
+          "letter": "B"
+         },
+         {
+          "text": "give the situation more time",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Extract Two",
+      "context": "You hear a man and a woman talking about a newspaper article.",
+      "questions": [
+       {
+        "id": 26,
+        "text": "What is the newspaper article about?",
+        "options": [
+         {
+          "text": "poor results of a football match",
+          "letter": "A"
+         },
+         {
+          "text": "club management changes",
+          "letter": "B"
+         },
+         {
+          "text": "a sports club involved in a lawsuit",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 27,
+        "text": "What is the man's reaction to the news?",
+        "options": [
+         {
+          "text": "He is unhappy because the situation is very unfortunate.",
+          "letter": "A"
+         },
+         {
+          "text": "He feels relief that they avoided a difficult situation.",
+          "letter": "B"
+         },
+         {
+          "text": "He is puzzled by the timing of the event.",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     },
+     {
+      "title": "Extract Three",
+      "context": "You hear two students talking about a university course.",
+      "questions": [
+       {
+        "id": 28,
+        "text": "What do they agree about?",
+        "options": [
+         {
+          "text": "The teacher manages to arouse interest to the difficult subject.",
+          "letter": "A"
+         },
+         {
+          "text": "The course got off to a bad start.",
+          "letter": "B"
+         },
+         {
+          "text": "Their future careers will benefit from this course.",
+          "letter": "C"
+         }
+        ]
+       },
+       {
+        "id": 29,
+        "text": "What does the woman like about the lectures?",
+        "options": [
+         {
+          "text": "the voice of the lecturer",
+          "letter": "A"
+         },
+         {
+          "text": "the lecturer's humorous approach",
+          "letter": "B"
+         },
+         {
+          "text": "the lecturer's visual presentation of the material",
+          "letter": "C"
+         }
+        ]
+       }
+      ]
+     }
+    ],
+    "audioFile": "https://audio.mock-stream.com/test6/PART%205.m4a",
+    "partNumber": 5,
+    "transcript": "Narrator: Part five. You will hear three extracts. Choose the correct answer, A, B or C for each question, 24 to 29. There are two questions for each extract. Mark your answers on the answer sheet.\nSpeaker 1: I hope Jeremy's going to turn out okay as the new store supervisor. I'm beginning to have my doubts.\nSpeaker 2: Well, he's bound to take some time to settle into the role, I guess, but things aren't looking that promising. I've heard mutterings from several members of staff already.\nSpeaker 1: I know. And it used to be such a happy team. At least everything seems fine as far as customers are concerned. I guess there's no reason to take it up with our line manager at this stage, but perhaps we should have a quiet word with him. You're good at that sort of thing.\nSpeaker 2: Well, I wouldn't mind, but I think I'd be more in favor of hanging on for a bit. It might just be a matter of him getting used to our way of working with each other. He might just have been used to a less collaborative atmosphere.\nSpeaker 1: Okay, let's give that a try then.\nSpeaker 1: I hope Jeremy's going to turn out okay as the new store supervisor. I'm beginning to have my doubts.\nSpeaker 2: Well, he's bound to take some time to settle into the role, I guess, but things aren't looking that promising. I've heard mutterings from several members of staff already.\nSpeaker 1: I know. And it used to be such a happy team. At least everything seems fine as far as customers are concerned. I guess there's no reason to take it up with our line manager at this stage, but perhaps we should have a quiet word with him. You're good at that sort of thing.\nSpeaker 2: Well, I wouldn't mind, but I think I'd be more in favor of hanging on for a bit. It might just be a matter of him getting used to our way of working with each other. He might just have been used to a less collaborative atmosphere.\nSpeaker 1: Okay, let's give that a try then.\nNarrator: Extract two. You will hear two people discussing an article from a local newspaper. Now look at questions three and four.\nSpeaker 1: Look at this, they've gone and sacked their manager. He's only been in the post for a couple of years.\nSpeaker 2: Is that because they've had such poor results recently, when everyone had said the team was on the verge of doing so much better than before?\nSpeaker 1: Oh, it must be. And they've terminated the coach's contract too. But he's no loss. I never thought he was much good.\nSpeaker 2: And you never thought much of the manager either, did you? You were always saying he was in out of his depth.\nSpeaker 1: Yes, in the long term, it might be a good thing, but it's still an odd time to do it. It's going to be pretty unsettling for the players. I wonder if there's more to it than meets the eye, some legal issue perhaps.\nSpeaker 2: Maybe, but perhaps it's a relief to see the back of them if something like that's involved.\nSpeaker 1: I'd agree with you if it had happened at the beginning of the season, but now, I'm not so sure.\nSpeaker 1: Look at this, they've gone and sacked their manager. He's only been in the post for a couple of years.\nSpeaker 2: Is that because they've had such poor results recently, when everyone had said the team was on the verge of doing so much better than before?\nSpeaker 1: Oh, it must be. And they've terminated the coach's contract too. But he's no loss. I never thought he was much good.\nSpeaker 2: And you never thought much of the manager either, did you? You were always saying he was in out of his depth.\nSpeaker 1: Yes, in the long term, it might be a good thing, but it's still an odd time to do it. It's going to be pretty unsettling for the players. I wonder if there's more to it than meets the eye, some legal issue perhaps.\nSpeaker 2: Maybe, but perhaps it's a relief to see the back of them if something like that's involved.\nSpeaker 1: I'd agree with you if it had happened at the beginning of the season, but now, I'm not so sure.\nNarrator: Extract three. You will hear two students discussing a course they're doing. Now look at questions five and six.\nSpeaker 1: The Monday afternoon optional course seems to be turning out okay, don't you think? I thought it was going to be tedious at first, but it seems to get a bit better each time.\nSpeaker 2: Yes, I thought I might end up dropping it after the first week, but I'm getting more used to the lecturer, and I think I quite like his style now. He's got quite a dry sense of humor. And I suppose vibrations could be an important topic if we're going to become hands-on engineers.\nSpeaker 1: I'm not so sure about that. Anyway, I've decided to stick with it for a bit longer. I wish he didn't speak so softly, though. It's hard to hear his voice from the back of that huge lecture hall. If he wasn't so witty, I don't think I'd make the effort. And his slides have far too much on them. I can't read them when I'm sitting at the back. It's a good job he puts them up online for us.\nSpeaker 2: I know. And did you see, he's also put up a coursework assignment for us. We've got to get it done by the end of next week.\nSpeaker 1: The Monday afternoon optional course seems to be turning out okay, don't you think? I thought it was going to be tedious at first, but it seems to get a bit better each time.\nSpeaker 2: Yes, I thought I might end up dropping it after the first week, but I'm getting more used to the lecturer, and I think I quite like his style now. He's got quite a dry sense of humor. And I suppose vibrations could be an important topic if we're going to become hands-on engineers.\nSpeaker 1: I'm not so sure about that. Anyway, I've decided to stick with it for a bit longer. I wish he didn't speak so softly, though. It's hard to hear his voice from the back of that huge lecture hall. If he wasn't so witty, I don't think I'd make the effort. And his slides have far too much on them. I can't read them when I'm sitting at the back. It's a good job he puts them up online for us.\nSpeaker 2: I know. And did you see, he's also put up a coursework assignment for us. We've got to get it done by the end of next week.\nNarrator: That is the end of part five.",
+    "instruction": "You will hear three different extracts. For questions 24-29, choose the answer (A, B or C) which fits best according to what you hear. There are TWO questions for each extract. Mark your answers on the answer sheet.",
+    "questionRange": "24-29",
+    "answerHighlights": {
+     "24": [
+      3
+     ],
+     "25": [
+      4
+     ],
+     "26": [
+      16
+     ],
+     "27": [
+      18
+     ],
+     "28": [
+      28
+     ],
+     "29": [
+      29
+     ]
+    }
+   },
+   {
+    "type": "sentence-completion",
+    "title": "Part 6",
+    "answers": {
+     "30": [
+      "cotton",
+      "Cotton",
+      "COTTON"
+     ],
+     "31": [
+      "racial",
+      "Racial",
+      "RACIAL"
+     ],
+     "32": [
+      "segregated",
+      "Segregated",
+      "SEGREGATED"
+     ],
+     "33": [
+      "butlers",
+      "Butlers",
+      "BUTLERS"
+     ],
+     "34": [
+      "editing",
+      "Editing",
+      "EDITING"
+     ],
+     "35": [
+      "nightclubs",
+      "Nightclubs",
+      "NIGHTCLUBS"
+     ]
+    },
+    "audioFile": "https://audio.mock-stream.com/test6/PART%206.m4a",
+    "questions": [
+     {
+      "id": 30,
+      "hint": "the well-known ____ club"
+     },
+     {
+      "id": 31,
+      "hint": "collapse of ____ barriers"
+     },
+     {
+      "id": 32,
+      "hint": "audiences which were ____"
+     },
+     {
+      "id": 33,
+      "hint": "maids and ____"
+     },
+     {
+      "id": 34,
+      "hint": "the ____ process"
+     },
+     {
+      "id": 35,
+      "hint": "working in ____"
+     }
+    ],
+    "partNumber": 6,
+    "transcript": "Narrator: Part six. You will hear a part of a lecture. For each question, fill in the missing information in the numbered space. Write no more than one word for each answer. Mark your answers on the answer sheet.\nYou now have some time to look at questions.\n\nSpeaker 1: Thank you, John. Lena Horn was born in 1917 to a Brooklyn family, described by a prominent writer as the talented tenth, a name which was given to those members of the African-American community who were educated and socially prominent. Her family were activists in African-American rights. Her grandmother, Korra Calhoun, was in fact the founding member of the NAACP, that is, the National Association for the Advancement of Colored People. Indeed, at the age of two, Lena was photographed parading in a protest.\nHer childhood was split between her grandparents' townhouse in Brooklyn and her mother's lodgings in Harlem, her father having left the family when Lena was only three years old. She went to school at Brooklyn Girl's High, but when she started singing at the famous Cotton Club at the age of 16, she dropped out without a diploma. All her life, Lena's mother Edna had hoped that Lena could use her performances to break down race barriers. This was not an easy thing to do in the race conscious culture of the time. At one point, Lena was advised to advertise her creamy complexion as Latin, something she refused to do. While later in her career, studio executives in Hollywood suggested that she darken her skin color with makeup. Matters relating to racial equality were always high up on Lena's priorities. During World War II, when she was entertaining soldiers and prisoners of war, she noticed that she was always being asked to perform for groups which segregated in terms of color. In the rare instances where she sang for mixed groups, white German prisoners of war were seated in front of the African-American servicemen. She soon refused to perform for such occasions, and since the US Army refused to allow integrated audiences, she put on her own show for a mixed color audience.\nAfter the war years, Lena had the opportunity to move into the glamorous world of Hollywood, and she was the first African-American to be signed on a long-term studio contract. However, this was an age when the color barrier was still strong. Black actors rarely had the chance to play anything more than maids and butlers. Although Lena was beginning to achieve a high level of notoriety, she found that she rarely had the chance to act, and many of her lines were cut during the editing process. Only in two incidences did she play a character that was central to the plot. But Lena's elegance and powerful voice were unlike anything that had come before, and both the public and the executives in the entertainment industry began to take note. By the mid 40s, Horn was the highest paid black actor in the country, and her songs were instant classics. However, Horn's great fame could not prevent the wheels of the anti-communist machine from bearing down on her. During the 1950s, she was marked as a communist sympathizer as a result of her civil rights activism. She soon found herself blacklisted and unable to work on television or in the movies. At this time, however, she continued to sing in night clubs and made some of her best recordings. In the 60s, she was once again back in the public eye.\nSince the 16-year-old danced her first steps on the stage at the Cotton Club, much has changed. Thanks to her continued musical, theatrical, and political efforts, she paved the way for many other non-whites in the entertainment industry. But what she will be remembered for most of all must be her ability to move generations of audiences with her shimmering resonant voice, singing the classic greats like Black Coffee and the unforgettable Stormy Weather.\n\nNarrator: Now, listen again.\n\nSpeaker 1: Thank you, John. Lena Horn was born in 1917 to a Brooklyn family, described by a prominent writer as the talented tenth, a name which was given to those members of the African-American community who were educated and socially prominent. Her family were activists in African-American rights. Her grandmother, Korra Calhoun, was in fact the founding member of the NAACP, that is, the National Association for the Advancement of Colored People. Indeed, at the age of two, Lena was photographed parading in a protest.\nHer childhood was split between her grandparents' townhouse in Brooklyn and her mother's lodgings in Harlem, her father having left the family when Lena was only three years old. She went to school at Brooklyn Girl's High, but when she started singing at the famous Cotton Club at the age of 16, she dropped out without a diploma. All her life, Lena's mother Edna had hoped that Lena could use her performances to break down race barriers. This was not an easy thing to do in the race conscious culture of the time. At one point, Lena was advised to advertise her creamy complexion as Latin, something she refused to do. While later in her career, studio executives in Hollywood suggested that she darken her skin color with makeup. Matters relating to racial equality were always high up on Lena's priorities. During World War II, when she was entertaining soldiers and prisoners of war, she noticed that she was always being asked to perform for groups which segregated in terms of color. In the rare instances where she sang for mixed groups, white German prisoners of war were seated in front of the African-American servicemen. She soon refused to perform for such occasions, and since the US Army refused to allow integrated audiences, she put on her own show for a mixed color audience.\nAfter the war years, Lena had the opportunity to move into the glamorous world of Hollywood, and she was the first African-American to be signed on a long-term studio contract. However, this was an age when the color barrier was still strong. Black actors rarely had the chance to play anything more than maids and butlers. Although Lena was beginning to achieve a high level of notoriety, she found that she rarely had the chance to act, and many of her lines were cut during the editing process. Only in two incidences did she play a character that was central to the plot. But Lena's elegance and powerful voice were unlike anything that had come before, and both the public and the executives in the entertainment industry began to take note. By the mid 40s, Horn was the highest paid black actor in the country, and her songs were instant classics. However, Horn's great fame could not prevent the wheels of the anti-communist machine from bearing down on her. During the 1950s, she was marked as a communist sympathizer as a result of her civil rights activism. She soon found herself blacklisted and unable to work on television or in the movies. At this time, however, she continued to sing in night clubs and made some of her best recordings. In the 60s, she was once again back in the public eye.\nSince the 16-year-old danced her first steps on the stage at the Cotton Club, much has changed. Thanks to her continued musical, theatrical, and political efforts, she paved the way for many other non-whites in the entertainment industry. But what she will be remembered for most of all must be her ability to move generations of audiences with her shimmering resonant voice, singing the classic greats like Black Coffee and the unforgettable Stormy Weather.\n\nNarrator: That is the end of part six.",
+    "instruction": "You will hear a part of a lecture. For each question, fill in the missing information in the numbered space. Write no more than one word only for each answer.",
+    "passageTitle": "Lena Horne - African American Singer",
+    "questionRange": "30-35",
+    "passageContent": "The 'talented tenth' was a label given to those African Americans who had good social positions and were educated.<br><br>She left school and began her singing career at the well-known <span class=\"gap-input\" data-gap=\"30\">_____(30)_____</span> club.<br><br>Her mother was keen that Lena's singing career would bring about the collapse of <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span> barriers.<br><br>Lena refused to sing for audiences of servicemen and prisoners which were <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span>.<br><br>When Lena entered Hollywood, black actors were generally only hired to act in the roles of maids and <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span>.<br><br>While she was working for Hollywood, Lena found that, during the <span class=\"gap-input\" data-gap=\"34\">_____(34)_____</span> process, much of her spoken work was removed from the film.<br><br>Lena spent a lot of the 1950s working in <span class=\"gap-input\" data-gap=\"35\">_____(35)_____</span> due to her being considered a Communist.",
+    "answerHighlights": {
+     "30": [
+      4
+     ],
+     "31": [
+      4
+     ],
+     "32": [
+      4
+     ],
+     "33": [
+      5
+     ],
+     "34": [
+      5
+     ],
+     "35": [
+      5
+     ]
+    }
+   }
+  ],
+  "examDate": "2026-03-30",
+  "testInfo": {
+   "id": "cefr-listening-06",
+   "level": "B2",
+   "title": "CEFR Listening Mock Test 06",
+   "totalTime": 40,
+   "totalQuestions": 35
+  }
+ },
+ "created_at": "2026-05-15T15:18:56.821641+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

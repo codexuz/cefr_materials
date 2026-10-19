@@ -1,0 +1,457 @@
+{
+ "id": 2278,
+ "mock_type": "ket-listening",
+ "mock_number": 16,
+ "title": "KET Listening — Test 16",
+ "status": "published",
+ "mock_data": {
+  "audio": {
+   "base": "https://audio.mock-stream.com/KET-Listening/test16/",
+   "files": {
+    "1": "PART1.m4a",
+    "2": "PART2.m4a",
+    "3": "PART3.m4a",
+    "4": "PART4.m4a",
+    "5": "PART5.m4a"
+   }
+  },
+  "parts": [
+   {
+    "type": "picture-mcq",
+    "items": [
+     {
+      "id": 1,
+      "answer": "C",
+      "options": [
+       {
+        "text": "£1000",
+        "letter": "A"
+       },
+       {
+        "text": "£2000",
+        "letter": "B"
+       },
+       {
+        "text": "£3000",
+        "letter": "C"
+       }
+      ],
+      "question": "How much is the car?"
+     },
+     {
+      "id": 2,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q2A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q2B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q2C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What's Elena going to take to the party?"
+     },
+     {
+      "id": 3,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q3A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q3B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q3C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Where will Susan buy her eggs?"
+     },
+     {
+      "id": 4,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q4A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q4B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q4C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What time does the film begin?"
+     },
+     {
+      "id": 5,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q5A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q5B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q5C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "How will the man travel to London?"
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "image": "q0A.png",
+       "letter": "A"
+      },
+      {
+       "image": "q0B.png",
+       "letter": "B"
+      },
+      {
+       "image": "q0C.png",
+       "letter": "C"
+      }
+     ],
+     "question": "How many people were at the meeting?"
+    },
+    "imageBase": "https://audio.mock-stream.com/KET-Listening/test16/p1/",
+    "partNumber": 1,
+    "instruction": [
+     "You will hear five short conversations.",
+     "You will hear each conversation twice.",
+     "There is one question for each conversation.",
+     "For questions 1–5, put a tick (✓) under the right answer."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "matching-list",
+    "items": [
+     {
+      "id": 6,
+      "name": "swimming pool",
+      "answer": "G"
+     },
+     {
+      "id": 7,
+      "name": "car park",
+      "answer": "H"
+     },
+     {
+      "id": 8,
+      "name": "café",
+      "answer": "C"
+     },
+     {
+      "id": 9,
+      "name": "football club",
+      "answer": "F"
+     },
+     {
+      "id": 10,
+      "name": "tennis lessons",
+      "answer": "D"
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "name": "T-shirt",
+     "answer": "A",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "big",
+      "letter": "A"
+     },
+     {
+      "text": "cold",
+      "letter": "B"
+     },
+     {
+      "text": "dirty",
+      "letter": "C"
+     },
+     {
+      "text": "expensive",
+      "letter": "D"
+     },
+     {
+      "text": "hot",
+      "letter": "E"
+     },
+     {
+      "text": "late",
+      "letter": "F"
+     },
+     {
+      "text": "noisy",
+      "letter": "G"
+     },
+     {
+      "text": "small",
+      "letter": "H"
+     }
+    ],
+    "scenario": "Sarah talking about a sports centre — problems with each thing",
+    "leftLabel": "Things",
+    "partNumber": 2,
+    "rightLabel": "Problems",
+    "instruction": [
+     "Listen to Sarah talking to a friend about a sports centre.",
+     "What is the problem with the different things at the sports centre?",
+     "For questions 6–10, write a letter A–H next to each thing.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-conversation",
+    "items": [
+     {
+      "id": 11,
+      "stem": "What time do the photography classes begin?",
+      "answer": "C",
+      "options": [
+       {
+        "text": "5.15 p.m.",
+        "letter": "A"
+       },
+       {
+        "text": "6.00 p.m.",
+        "letter": "B"
+       },
+       {
+        "text": "6.45 p.m.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "stem": "How much does Philip pay for the photography course?",
+      "answer": "B",
+      "options": [
+       {
+        "text": "£55",
+        "letter": "A"
+       },
+       {
+        "text": "£75",
+        "letter": "B"
+       },
+       {
+        "text": "£95",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "stem": "Philip's happy with the course because he's",
+      "answer": "C",
+      "options": [
+       {
+        "text": "learning about famous photographers.",
+        "letter": "A"
+       },
+       {
+        "text": "using a new camera.",
+        "letter": "B"
+       },
+       {
+        "text": "getting better at photography.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "stem": "Philip thinks it's easy to take photographs of",
+      "answer": "A",
+      "options": [
+       {
+        "text": "trees.",
+        "letter": "A"
+       },
+       {
+        "text": "animals.",
+        "letter": "B"
+       },
+       {
+        "text": "children.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "stem": "After the course, Philip will",
+      "answer": "C",
+      "options": [
+       {
+        "text": "buy a new camera.",
+        "letter": "A"
+       },
+       {
+        "text": "get a job in photography.",
+        "letter": "B"
+       },
+       {
+        "text": "make photography his hobby.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "stem": "Where does Philip do the photography classes?",
+     "answer": "B",
+     "number": 0,
+     "options": [
+      {
+       "text": "Park College",
+       "letter": "A"
+      },
+      {
+       "text": "City College",
+       "letter": "B"
+      },
+      {
+       "text": "South College",
+       "letter": "C"
+      }
+     ]
+    },
+    "partNumber": 3,
+    "instruction": [
+     "Listen to Philip talking to a friend about his photography course.",
+     "For questions 11–15, tick (✓) A, B or C.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "rows": [
+     {
+      "id": 16,
+      "label": "Next course starts on:",
+      "answer": "September",
+      "prefix": "22"
+     },
+     {
+      "id": 17,
+      "label": "Speaking class with:",
+      "answer": "Jarvis",
+      "prefix": "Miss"
+     },
+     {
+      "id": 18,
+      "label": "Cost for 12 classes:",
+      "answer": "78",
+      "prefix": "£"
+     },
+     {
+      "id": 19,
+      "label": "Address:",
+      "answer": "223",
+      "suffix": "Fitzroy Square"
+     },
+     {
+      "id": 20,
+      "label": "School is next to the:",
+      "answer": "bookshop"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 4",
+    "subtitle": "Evening classes on: Thursday",
+    "noteTitle": "WESTWOOD ENGLISH SCHOOL",
+    "partNumber": 4,
+    "instruction": [
+     "You will hear a man asking for information about the Westwood English School.",
+     "Listen and complete questions 16–20.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "rows": [
+     {
+      "id": 21,
+      "label": "Closing time in summer:",
+      "answer": "9.30",
+      "suffix": "p.m."
+     },
+     {
+      "id": 22,
+      "label": "Meeting place for tour:",
+      "answer": "the entrance"
+     },
+     {
+      "id": 23,
+      "label": "At 2 p.m., see:",
+      "answer": "the lions",
+      "suffix": "eat their food."
+     },
+     {
+      "id": 24,
+      "label": "Zoo shop sells:",
+      "answer": "games",
+      "prefix": "books and"
+     },
+     {
+      "id": 25,
+      "label": "Child's ticket costs:",
+      "answer": "4.65",
+      "prefix": "£"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 5",
+    "subtitle": "Closed on: Monday",
+    "noteTitle": "Finchester Zoo",
+    "partNumber": 5,
+    "instruction": [
+     "You will hear some information about Finchester Zoo.",
+     "Listen and complete questions 21–25.",
+     "You will hear the information twice."
+    ],
+    "questionsLabel": "QUESTIONS 21–25"
+   }
+  ],
+  "testInfo": {
+   "id": "ket-l-16",
+   "level": "A2",
+   "paper": "Paper 2",
+   "parts": 5,
+   "title": "KET Listening — Test 16",
+   "totalTime": 30,
+   "totalQuestions": 25
+  }
+ },
+ "created_at": "2026-10-14T06:45:27.08103+00:00",
+ "updated_at": "2026-10-14T06:47:13.512536+00:00"
+}

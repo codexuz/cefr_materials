@@ -1,0 +1,793 @@
+{
+ "id": 355,
+ "mock_type": "cefr-reading",
+ "mock_number": 14,
+ "title": "CEFR B1-B2-C1 Reading Test 14",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "gap-fill-text",
+    "title": "Part 1",
+    "answers": {
+     "1": [
+      "trillion"
+     ],
+     "2": [
+      "rich"
+     ],
+     "3": [
+      "years"
+     ],
+     "4": [
+      "world"
+     ],
+     "5": [
+      "wealth"
+     ],
+     "6": [
+      "people"
+     ]
+    },
+    "passage": {
+     "title": "The World’s First Trillionaire",
+     "content": "<p>A famous song and a quiz show ask, \"Who wants to be a millionaire?\" For decades, having a million dollars was the goal of the super-rich. Now, the goal is a billion dollars. The anti-poverty charity Oxfam has just issued a report that says in the next ten years, the world will have its first trillionaire. A <span class=\"gap\" data-gap=\"1\">_____(1)_____</span> is a huge number and an unbelievable amount of money. It is a one, followed by 12 zeros. A trillion is equal to one million million. The charity said the wealth gap between the <span class=\"gap\" data-gap=\"2\">_____(2)_____</span> and poor is growing. It said the gap has been \"supercharged\" since the coronavirus pandemic. It added: \"We will have a trillionaire within a decade, whereas to fight poverty, we need more than 200 <span class=\"gap\" data-gap=\"3\">_____(3)_____</span>.\"</p><p>Oxfam spoke about inequality at the World Economic Forum's annual meeting. As an example, it said the <span class=\"gap\" data-gap=\"4\">_____(4)_____</span>'s five richest people have seen their wealth increase by 114 per cent since 2020. A charity spokesperson said: \"The top five billionaires have doubled their <span class=\"gap\" data-gap=\"5\">_____(5)_____</span>. On the other hand, almost five billion <span class=\"gap\" data-gap=\"6\">_____(6)_____</span> have become poorer.\" Tesla CEO Elon Musk is the richest man on the planet. He has a personal fortune of just under $250 billion. The AP news agency said: \"If someone does reach that trillion-dollar milestone, he or she would have the same value as oil-rich Saudi Arabia.\" Oxfam said the world is now at the start of a \"decade of division\". It called for a \"new era of public action\" to reduce the wealth gap.</p>"
+    },
+    "questions": [
+     {
+      "id": 1,
+      "hint": "A _____ is a huge number"
+     },
+     {
+      "id": 2,
+      "hint": "gap between the _____ and poor"
+     },
+     {
+      "id": 3,
+      "hint": "more than 200 _____"
+     },
+     {
+      "id": 4,
+      "hint": "the _____'s five richest"
+     },
+     {
+      "id": 5,
+      "hint": "doubled their _____"
+     },
+     {
+      "id": 6,
+      "hint": "five billion _____ have become poorer"
+     }
+    ],
+    "partNumber": 1,
+    "instruction": "Read the text. Fill in each gap with ONE word. You must use a word which is somewhere in the rest of the text.",
+    "explanations": {
+     "q1": {
+      "text": "The passage introduces the idea of a 'trillionaire' and then defines the number. The sentence after the gap explains that 'it' is a one followed by 12 zeros, which is a trillion. That's why the correct answer is 'trillion'.",
+      "quote": "It is a one, followed by 12 zeros."
+     },
+     "q2": {
+      "text": "The passage discusses the 'wealth gap,' which is the economic difference between groups. The sentence contrasts the missing word with 'poor,' and the text compares billionaires with people becoming poorer. That's why the correct answer is 'rich'.",
+      "quote": ""
+     },
+     "q3": {
+      "text": "The sentence contrasts the time it will take to create a trillionaire ('a decade') with the time needed to fight poverty. A unit of time is required for this comparison. That's why the correct answer is 'years'.",
+      "quote": ""
+     },
+     "q4": {
+      "text": "The report is about global wealth, discussing the planet's richest man and worldwide poverty. The context makes it clear the five richest people mentioned are the richest in the entire world. That's why the correct answer is 'world'.",
+      "quote": ""
+     },
+     "q5": {
+      "text": "The preceding sentence states that the richest people saw their 'wealth increase by 114 per cent'. An increase of 114% is approximately double, so this sentence is restating that fact. That's why the correct answer is 'wealth'.",
+      "quote": ""
+     },
+     "q6": {
+      "text": "The sentence contrasts the five richest billionaires with a large group that has become poorer. The subject of the sentence needs to be a noun that can experience poverty. That's why the correct answer is 'people'.",
+      "quote": ""
+     }
+    },
+    "questionRange": "1-6"
+   },
+   {
+    "type": "matching",
+    "texts": [
+     {
+      "title": "Rowan Avenue",
+      "number": 7,
+      "content": "One room available in a family home. We welcome international students looking for accommodation. You will have your own room, but you should be prepared to live as part of the family. We have two young children and a dog so it can get a little noisy at times! All meals provided."
+     },
+     {
+      "title": "Brooklyn Road",
+      "number": 8,
+      "content": "This first-floor flat is in a great location. Excellent road and rail links with the station just a short five-minute walk away. This is a luxury property with new carpets and furniture in all rooms and so is not suitable for pet owners."
+     },
+     {
+      "title": "Ash Lane",
+      "number": 9,
+      "content": "A modern three-bedroom family home with a large garden. The property has its own garage. Situated in the heart of the countryside, there are excellent public transport links and a grocers and post office in the nearby village."
+     },
+     {
+      "title": "College Street",
+      "number": 10,
+      "content": "No bills to pay! Three spare bedrooms in this shared six-bedroom all-girl house. A regular bus and train service into the city centre and a short walk to the university. Share a very modern kitchen and living room. Hurry as rooms are going quickly!"
+     },
+     {
+      "title": "Birch Hill",
+      "number": 11,
+      "content": "This ground floor, one-bedroom flat is perfect for the older person. The lounge opens onto a garden area shared by other residents. Limited parking but good transport links. Local shops nearby. Pets are welcome."
+     },
+     {
+      "title": "The Crescent",
+      "number": 12,
+      "content": "An opportunity to share a beautiful city-centre apartment situated in the centre of the business area. Looking for a professional person to share this two-bedroom property. Rent includes all bills. One-year minimum stay. No pets."
+     },
+     {
+      "title": "Baker Close",
+      "number": 13,
+      "content": "A second floor, one-bedroom flat perfect for a professional person. Situated close to the train station and local shops, great nightlife with clubs and restaurants just a short walk away. The property has parking at the back of the building. No pets allowed."
+     },
+     {
+      "title": "Meadow View Road",
+      "number": 14,
+      "content": "Cosy one-bedroom cottage in the countryside with garage attached. Ideal for someone who wants to get away from the busy city. A car is necessary as there are no transport links into the local town. The local area is very popular with walkers and those wanting to enjoy nature. Pets welcome."
+     }
+    ],
+    "title": "Part 2",
+    "answers": {
+     "7": [
+      "D"
+     ],
+     "8": [
+      "B"
+     ],
+     "9": [
+      "J"
+     ],
+     "10": [
+      "A"
+     ],
+     "11": [
+      "C"
+     ],
+     "12": [
+      "I"
+     ],
+     "13": [
+      "H"
+     ],
+     "14": [
+      "F"
+     ]
+    },
+    "questions": [
+     {
+      "id": 7,
+      "textNumber": 7
+     },
+     {
+      "id": 8,
+      "textNumber": 8
+     },
+     {
+      "id": 9,
+      "textNumber": 9
+     },
+     {
+      "id": 10,
+      "textNumber": 10
+     },
+     {
+      "id": 11,
+      "textNumber": 11
+     },
+     {
+      "id": 12,
+      "textNumber": 12
+     },
+     {
+      "id": 13,
+      "textNumber": 13
+     },
+     {
+      "id": 14,
+      "textNumber": 14
+     }
+    ],
+    "partNumber": 2,
+    "statements": [
+     {
+      "text": "This property is close to the study place.",
+      "letter": "A"
+     },
+     {
+      "text": "There have the best transport options.",
+      "letter": "B"
+     },
+     {
+      "text": "Retired person can live there.",
+      "letter": "C"
+     },
+     {
+      "text": "This property may not be suitable for people who prefer silence.",
+      "letter": "D"
+     },
+     {
+      "text": "The property has the biggest garage.",
+      "letter": "E"
+     },
+     {
+      "text": "You may need to get a private car if you choose this house.",
+      "letter": "F"
+     },
+     {
+      "text": "The cottage is near to the local town so you can walk there.",
+      "letter": "G"
+     },
+     {
+      "text": "The property is suitable for single and hard-working individuals.",
+      "letter": "H"
+     },
+     {
+      "text": "You can’t stay there for more than twelve months.",
+      "letter": "I"
+     },
+     {
+      "text": "Bedrooms is cut out for a family with at least two children.",
+      "letter": "J"
+     }
+    ],
+    "instruction": "Read the texts 7-14 and the statements A-J. Decide which text matches with the situation described in the statements. Each statement can be used ONCE only. There are TWO extra statements which you do not need to use.",
+    "explanations": {
+     "q7": {
+      "text": "The text mentions the family has two young children and a dog, which can make the house noisy. This means the property may not be suitable for people who prefer quiet. That's why the correct answer is D.",
+      "quote": "We have two young children and a dog so it can get a little noisy at times!"
+     },
+     "q8": {
+      "text": "The description highlights the property's \"Excellent road and rail links\" and its proximity to the station. This indicates it has the best transportation options among the choices. That's why the correct answer is B.",
+      "quote": "Excellent road and rail links with the station just a short five-minute walk away."
+     },
+     "q9": {
+      "text": "The property is described as a \"three-bedroom family home\". This size is very suitable for a family that has at least two children. That's why the correct answer is J.",
+      "quote": "A modern three-bedroom family home with a large garden."
+     },
+     "q10": {
+      "text": "The advertisement states that the house is a \"short walk to the university\". A university is a place of study, so the property is close to the study place. That's why the correct answer is A.",
+      "quote": "A regular bus and train service into the city centre and a short walk to the university."
+     },
+     "q11": {
+      "text": "The text explicitly says the flat is \"perfect for the older person\". A retired person is an older person, making this an ideal place for them to live. That's why the correct answer is C.",
+      "quote": "This ground floor, one-bedroom flat is perfect for the older person."
+     },
+     "q12": {
+      "text": "The rental agreement has a \"One-year minimum stay\". This indicates a fixed rental period of at least twelve months is required. That's why the correct answer is I.",
+      "quote": "One-year minimum stay."
+     },
+     "q13": {
+      "text": "The flat is described as being \"perfect for a professional person\". This makes it suitable for a single, hard-working individual. That's why the correct answer is H.",
+      "quote": "A second floor, one-bedroom flat perfect for a professional person."
+     },
+     "q14": {
+      "text": "The text clearly states that \"A car is necessary\". This is because there is no public transport available, so you would need a private car to get around. That's why the correct answer is F.",
+      "quote": "A car is necessary as there are no transport links into the local town."
+     }
+    },
+    "questionRange": "7-14",
+    "extraStatements": [
+     "E",
+     "G"
+    ],
+    "statementsFirst": true
+   },
+   {
+    "type": "matching-headings",
+    "title": "Part 3",
+    "answers": {
+     "15": [
+      "F"
+     ],
+     "16": [
+      "D"
+     ],
+     "17": [
+      "B"
+     ],
+     "18": [
+      "H"
+     ],
+     "19": [
+      "E"
+     ],
+     "20": [
+      "A"
+     ]
+    },
+    "passage": {
+     "title": "PLASTIC IS NO LONGER FANTASTIC",
+     "paragraphs": [
+      {
+       "number": "I",
+       "content": "In 2017, Carlos Ferrando, a Spanish engineer-turned-entrepreneur, saw a piece of art in a museum that profoundly affected him. ‘What Lies Under’, a photographic composition by Indonesian digital artist Ferdi Rizkiyanto, shows a child crouching by the edge of the ocean and ‘lifting up’ a wave, to reveal a cluster of assorted plastic waste, from polyethylene bags to water bottles. The artwork, designed to raise public awareness, left Ferrando angry – and fuelled with entrepreneurial ideas.",
+       "questionId": 15
+      },
+      {
+       "number": "II",
+       "content": "Ferrando runs a Spanish-based design company, Closca, that produces an ingenious foldable bicycle helmet. But he has now also designed a stylish glass water bottle with a stretchy silicone strap and magnetic closure mechanism that means it can be attached to almost anything, from a bike to a bag to a pushchair handle. The product comes with an app that tells people where they can fill their bottles with water for free.",
+       "questionId": 16
+      },
+      {
+       "number": "III",
+       "content": "The intention is to persuade people to stop buying water in plastic bottles, thus saving consumers money and reducing the plastic waste piling up in our oceans. ‘Bottled water is now a $100 billion business, and 81 per cent of the bottles are not recycled. It’s a complete waste – water is only 1.5 per cent of the price of the bottle!’ Ferrando cries. Indeed, environmentalists estimate that by 2050 there will be more plastic in our oceans than fish and that’s mainly down to such bottles. ‘We are trying to create a sense that being environmentally sophisticated is a status symbol,’ he adds. ‘We want people to clip their bottles onto what they are wearing, to show that they are recycling – and to look cool.’",
+       "questionId": 17
+      },
+      {
+       "number": "IV",
+       "content": "Ferrando’s story is fascinating because it seems like an indicator of something unexpected. Three decades ago, conspicuous consumption – the purchase of luxuries, such as handbags, shoes, cars, etc. on a lavish scale – heightened people’s social status. Indeed, the closing decades of the 20th century were a time when it seemed that anything could be turned into a commodity. Hence the fact that water became a consumer item, sold in plastic bottles, instead of just emerging, for free, from a tap.",
+       "questionId": 18
+      },
+      {
+       "number": "V",
+       "content": "Today, though, conspicuous extravagance no longer seems desirable among consumers. Now, recycling is fashionable – as is cycling rather than driving. Plastic water bottles have become so common that they do not command status; instead, what many millennials – young people born in the late 20th century – prefer to post on social media are ‘real’ (refillable) bottles or even the once widespread Thermos bottles. Some teenagers currently think that these stainless-steel vacuum-insulated water bottles that are coming back onto the market are ultra ‘cool’; never mind the fact that they feel oddly out-of-date to anyone over the age of 40 or that teenagers in the 1970s would have avoided ever being seen with one.",
+       "questionId": 19
+      },
+      {
+       "number": "VI",
+       "content": "It is uncertain whether Clesca will succeed in its goal. Although its foldable bike helmet is available in some outlets in New York, including the Museum of Modern Art, it can be very hard for any design entrepreneur to really take off in the global mass market, though not as hard as it might have been in the past. If an entrepreneur had wanted to fund a smart invention a few decades ago, he or she would have had to either raise a bank loan, borrow money from a family member or use a credit card. Things have moved on slightly since then.",
+       "questionId": 20
+      }
+     ]
+    },
+    "headings": [
+     {
+      "text": "A time when opportunities were limited",
+      "letter": "A"
+     },
+     {
+      "text": "The reasons why Ferrando’s product is needed",
+      "letter": "B"
+     },
+     {
+      "text": "A no-risk solution",
+      "letter": "C"
+     },
+     {
+      "text": "Two inventions and some physical details",
+      "letter": "D"
+     },
+     {
+      "text": "The contrasting views of different generations",
+      "letter": "E"
+     },
+     {
+      "text": "A disturbing experience",
+      "letter": "F"
+     },
+     {
+      "text": "The problems with replacing a consumer item",
+      "letter": "G"
+     },
+     {
+      "text": "Looking back at why water was bottled",
+      "letter": "H"
+     }
+    ],
+    "questions": [
+     {
+      "id": 15,
+      "paragraphNumber": "I"
+     },
+     {
+      "id": 16,
+      "paragraphNumber": "II"
+     },
+     {
+      "id": 17,
+      "paragraphNumber": "III"
+     },
+     {
+      "id": 18,
+      "paragraphNumber": "IV"
+     },
+     {
+      "id": 19,
+      "paragraphNumber": "V"
+     },
+     {
+      "id": 20,
+      "paragraphNumber": "VI"
+     }
+    ],
+    "partNumber": 3,
+    "instruction": "Read the text and choose the correct heading for each paragraph from the list of headings below. There are more headings than paragraphs, so you will not use all of them. You cannot use any heading more than once.",
+    "explanations": {
+     "q15": {
+      "text": "This paragraph describes how a piece of art showing plastic waste in the ocean 'profoundly affected' Ferrando and left him feeling angry. This emotional reaction is a type of disturbing experience. That's why the correct answer is F.",
+      "quote": "The artwork, designed to raise public awareness, left Ferrando angry – and fuelled with entrepreneurial ideas."
+     },
+     "q16": {
+      "text": "The paragraph introduces two of Ferrando's products: a 'foldable bicycle helmet' and a 'stylish glass water bottle'. It then gives physical details about the bottle, such as its silicone strap and magnetic closure. That's why the correct answer is D.",
+      "quote": "But he has now also designed a stylish glass water bottle with a stretchy silicone strap and magnetic closure mechanism that means it can be attached to almost anything, from a bike to a bag to a pushchair handle."
+     },
+     "q17": {
+      "text": "This section explains the purpose of the bottle is to reduce plastic waste, citing statistics about how many bottles go unrecycled and the future environmental impact. These facts establish why the product is needed. That's why the correct answer is B.",
+      "quote": "The intention is to persuade people to stop buying water in plastic bottles, thus saving consumers money and reducing the plastic waste piling up in our oceans."
+     },
+     "q18": {
+      "text": "This paragraph looks back to the 'closing decades of the 20th century' to explain the culture of 'conspicuous consumption'. It states this culture is the reason water became a commercial product sold in bottles. That's why the correct answer is H.",
+      "quote": "Hence the fact that water became a consumer item, sold in plastic bottles, instead of just emerging, for free, from a tap."
+     },
+     "q19": {
+      "text": "The paragraph contrasts the views of young people, who think reusable bottles are 'cool', with those of people 'over the age of 40', who might find them 'oddly out-of-date'. This highlights different generational attitudes. That's why the correct answer is E.",
+      "quote": ""
+     },
+     "q20": {
+      "text": "This paragraph describes how 'a few decades ago', entrepreneurs had very few options for funding an invention, listing only bank loans, family, or credit cards. This illustrates a past time of limited opportunities. That's why the correct answer is A.",
+      "quote": "If an entrepreneur had wanted to fund a smart invention a few decades ago, he or she would have had to either raise a bank loan, borrow money from a family member or use a credit card."
+     }
+    },
+    "extraHeadings": [
+     "C",
+     "G"
+    ],
+    "questionRange": "15-20"
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 4",
+    "answers": {
+     "21": [
+      "D",
+      "people believe on their effect"
+     ],
+     "22": [
+      "A",
+      "The role of endorphins in pain control"
+     ],
+     "23": [
+      "C",
+      "is a big part of medical care"
+     ],
+     "24": [
+      "A",
+      "can help to overcome pain"
+     ],
+     "25": [
+      "False"
+     ],
+     "26": [
+      "True"
+     ],
+     "27": [
+      "True"
+     ],
+     "28": [
+      "False"
+     ],
+     "29": [
+      "True"
+     ]
+    },
+    "passage": {
+     "title": "The Power of Nothing",
+     "content": "<p><em>Geoff Watts, New Scientist (May 26th, 2001)</em></p><p>Placebos are treatments that have no direct effect on the body, yet still, work because the patient has faith in their power to heal. Most often the term refers to a dummy pill, but it applies just as much to any device or procedure, from a sticking plaster to a crystal to an operation. The existence of the placebo effect implies that even quackery may confer real benefits, which is why any mention of placebo is a touchy subject for many practitioners of complementary and alternative medicine, who are likely to regard it as tantamount to a charge of charlatanism. In fact, the placebo effect is a powerful part of all medical care, orthodox or otherwise, though its role is often neglected or misunderstood.</p><p>One of the great strengths of CAM may be its practitioners’ skill in deploying the placebo effect to accomplish real healing. “Complementary practitioners are miles better at producing non-specific effects and good therapeutic relationships,” says Edzard Ernst, professor of CAM at Exeter University. The question is whether CAM could be integrated into conventional medicines, as some would like, without losing much of this power.</p><p>At one level, it should come as no surprise that our state of mind can influence our physiology: anger opens the superficial blood vessels of the face; sadness pumps the tear glands. But exactly how placebos work their medical magic is still largely unknown. Most of the scant research done so far has focused on the control of pain because it’s one of the commonest complaints and lends itself to experimental study. Here, attention has turned to the endorphins, morphine-like neurochemicals known to help control pain.</p><p>But exactly how placebos work their medical magic is still largely unknown. Most of the scant research to date has focused on the control of pain because it’s one of the commonest complaints and lends itself to experimental study. Here, attention has turned to the endorphins, natural counterparts of morphine that are known to help control pain. “Any of the neurochemicals involved in transmitting pain impulses or modulating them might also be involved in generating the placebo response,” says Don Price, an oral surgeon at the University of Florida who studies the placebo effect in dental pain.</p><p>“But endorphins are still out in front.” That case has been strengthened by the recent work of Fabrizio Benedetti of the University of Turin, who showed that the placebo effect can be abolished by a drug, naloxone, which blocks the effects of endorphins. Benedetti induced pain in human volunteers by inflating a blood-pressure cuff on the forearm. He did this several times a day for several days, using morphine each time to control the pain. On the final day, without saying anything, he replaced the morphine with a saline solution. This still relieved the subjects’ pain: a placebo effect. But when he added naloxone to the saline the pain relief disappeared. Here was direct proof that placebo analgesia is mediated, at least in part, by these natural opiates.</p><p>Still, no one knows how belief triggers endorphin release, or why most people can’t achieve placebo pain relief simply by willing it. Though scientists don’t know exactly how placebos work, they have accumulated a fair bit of knowledge about how to trigger the effect. A London rheumatologist found, for example, that red dummy capsules made more effective painkillers than blue, green or yellow ones. Research on American students revealed that blue pills make better sedatives than pink, a colour more suitable for stimulants. Even branding can make a difference: if Aspro or Tylenol is what you like to take for a headache, their chemically identical generic equivalents may be less effective.</p><p>It matters, too, how the treatment is delivered. Decades ago, when the major tranquilliser chlorpromazine was being introduced, a doctor in Kansas categorised his colleagues according to whether they were keen on it, openly skeptical of its benefits, or took a “let’s try and see” attitude. His conclusion: the more enthusiastic the doctor, the better the drug performed. And this year Ernst surveyed published studies that compared doctors’ bedside manners. The studies turned up one consistent finding: “Physicians who adopt a warm, friendly and reassuring manner,” he reported, “are more effective than those whose consultations are formal and do not offer reassurance.”</p>"
+    },
+    "partNumber": 4,
+    "instruction": "Read the following text for questions 21-29.",
+    "explanations": {
+     "q21": {
+      "text": "The passage opens by defining placebos as treatments that work because the patient has faith in them. This belief is the key to their effectiveness, not any direct physical effect; that's why the correct answer is D.",
+      "quote": "Placebos are treatments that have no direct effect on the body, yet still, work because the patient has faith in their power to heal."
+     },
+     "q22": {
+      "text": "The passage states that most research on placebos has concentrated on pain control. Within this area, studies have specifically examined the role of endorphins, which are natural pain-controlling neurochemicals; that's why the correct answer is A.",
+      "quote": "Here, attention has turned to the endorphins, natural counterparts of morphine that are known to help control pain."
+     },
+     "q23": {
+      "text": "The text explicitly states that the placebo effect is a significant component of all medical treatment, both conventional and alternative, even if it is frequently overlooked or misunderstood; that's why the correct answer is C.",
+      "quote": "In fact, the placebo effect is a powerful part of all medical care, orthodox or otherwise, though its role is often neglected or misunderstood."
+     },
+     "q24": {
+      "text": "The passage describes endorphins as natural neurochemicals that are similar to morphine. It explicitly mentions that they are known to assist in managing or controlling pain; that's why the correct answer is A.",
+      "quote": "Here, attention has turned to the endorphins, natural counterparts of morphine that are known to help control pain."
+     },
+     "q25": {
+      "text": "The passage states that research has focused on pain because it is a common and easily studied complaint. This does not mean placebos only work for pain, just that it's the most researched area; that's why the correct answer is 'False'.",
+      "quote": "Most of the scant research done so far has focused on the control of pain because it’s one of the commonest complaints and lends itself to experimental study."
+     },
+     "q26": {
+      "text": "The passage describes how research attention has turned to endorphins. It then presents a study as \"direct proof\" that the placebo effect for pain relief is at least partially caused by these neurochemicals; that's why the correct answer is 'True'.",
+      "quote": "Here was direct proof that placebo analgesia is mediated, at least in part, by these natural opiates."
+     },
+     "q27": {
+      "text": "The passage describes an experiment where a placebo relieved pain. However, when the drug naloxone, which blocks endorphins, was added to the placebo, the pain relief effect was eliminated; that's why the correct answer is 'True'.",
+      "quote": "But when he added naloxone to the saline the pain relief disappeared."
+     },
+     "q28": {
+      "text": "The passage explicitly states that \"no one knows how belief triggers endorphin release.\" This directly shows that scientists do not fully understand the process, making the statement false, not unsupported by information; that's why the correct answer is 'False'.",
+      "quote": "Still, no one knows how belief triggers endorphin release, or why most people can’t achieve placebo pain relief simply by willing it."
+     },
+     "q29": {
+      "text": "The final paragraph provides several examples showing that external factors matter. It mentions that pill color, brand names, and the doctor's manner can all change how well a placebo works; that's why the correct answer is 'True'.",
+      "quote": "Even branding can make a difference: if Aspro or Tylenol is what you like to take for a headache, their chemically identical generic equivalents may be less effective."
+     }
+    },
+    "questionRange": "21-29",
+    "questionSections": [
+     {
+      "type": "mcq",
+      "title": "Questions 21-24: Multiple Choice",
+      "questions": [
+       {
+        "id": 21,
+        "text": "Placebos work because …",
+        "options": [
+         {
+          "text": "it has an effect on the body",
+          "letter": "A"
+         },
+         {
+          "text": "it grows patient's faith",
+          "letter": "B"
+         },
+         {
+          "text": "it enhances the power to heal",
+          "letter": "C"
+         },
+         {
+          "text": "people believe on their effect",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 22,
+        "text": "According to the passage, what have most studies on placebos focused on?",
+        "options": [
+         {
+          "text": "The role of endorphins in pain control",
+          "letter": "A"
+         },
+         {
+          "text": "The effectiveness of placebos in treating various diseases",
+          "letter": "B"
+         },
+         {
+          "text": "The psychological mechanisms behind the placebo effect",
+          "letter": "C"
+         },
+         {
+          "text": "The potential integration of placebos into conventional medicine",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 23,
+        "text": "The placebo effect, despite it's neglected status …",
+        "options": [
+         {
+          "text": "doesn’t work",
+          "letter": "A"
+         },
+         {
+          "text": "is very scientific in nature",
+          "letter": "B"
+         },
+         {
+          "text": "is a big part of medical care",
+          "letter": "C"
+         },
+         {
+          "text": "has too much power",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 24,
+        "text": "Endorphins …",
+        "options": [
+         {
+          "text": "can help to overcome pain",
+          "letter": "A"
+         },
+         {
+          "text": "makes blood vessels superficial",
+          "letter": "B"
+         },
+         {
+          "text": "is a chemical hazard",
+          "letter": "C"
+         },
+         {
+          "text": "is very distinct from morphine",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "For questions 21-24, choose the correct answer A, B, C, or D."
+     },
+     {
+      "type": "tfni",
+      "title": "Questions 25-29: True/False/Not Given",
+      "options": [
+       "True",
+       "False",
+       "Not Given"
+      ],
+      "questions": [
+       {
+        "id": 25,
+        "text": "The placebo effect only works for controlling pain."
+       },
+       {
+        "id": 26,
+        "text": "Endorphins are believed to play a role in the placebo effect."
+       },
+       {
+        "id": 27,
+        "text": "Naloxone, a drug that blocks endorphins, can eliminate the placebo effect for pain relief."
+       },
+       {
+        "id": 28,
+        "text": "Scientists fully understand how placebos trigger the release of endorphins."
+       },
+       {
+        "id": 29,
+        "text": "The color, branding, and delivery of placebo treatments can influence their effectiveness."
+       }
+      ],
+      "instruction": "For questions 25-29, decide if the following statements agree with the information given in the text."
+     }
+    ]
+   },
+   {
+    "type": "reading-comprehension",
+    "title": "Part 5",
+    "answers": {
+     "30": [
+      "spring"
+     ],
+     "31": [
+      "sediment"
+     ],
+     "32": [
+      "visibility"
+     ],
+     "33": [
+      "sand"
+     ],
+     "34": [
+      "D",
+      "It seemed that the artificial flood in 1996 had achieved success partly at the very beginning."
+     ],
+     "35": [
+      "B",
+      "the common carp"
+     ]
+    },
+    "passage": {
+     "title": "DIRTY RIVER BUT CLEAN WATER",
+     "content": "<p>Floods can occur in rivers when the flow rate exceeds the capacity of the river channel, particularly at bends or meanders in the waterway. Floods often cause damage to homes and businesses if they are in the natural flood plains of rivers. While riverine flood damage can be eliminated by moving away from rivers and other bodies of water, people have traditionally lived and worked by rivers because the land is usually flat and fertile and because rivers provide easy travel and access to commerce and industry.</p><p>FIRE and flood are two of humanity’s worst nightmares. People have, therefore, always sought to control them. Forest fires are snuffed out quickly. The flow of rivers is regulated by weirs and dams. At least, that is how it used to be. But foresters have learned that forests need fires to clear out the brush and even to get seeds to germinate. And a similar revelation is now dawning on hydrologists. Rivers – and the ecosystems they support – need floods. That is why a man-made torrent has been surging down the Grand Canyon. By Thursday, March 6th it was running at full throttle, which was expected to be sustained for 60 hours.</p><p>Floods once raged through the canyon every year. Spring Snow from as far away as Wyoming would melt and swell the Colorado river to a flow that averaged around 1,500 cubic metres (50,000 cubic feet) a second. Every eight years or so, that figure rose to almost 3,000 cubic metres. These floods infused the river with sediment, carved its beaches and built its sandbars.</p><p>However, in the four decades since the building of the Glen Canyon dam, just upstream of the Grand Canyon, the only sediment that it has collected has come from tiny, undammed tributaries. Even that has not been much use as those tributaries are not powerful enough to distribute the sediment in an ecologically valuable way.</p><p>This lack of flooding has harmed local wildlife. The humpback chub, for example, thrived in the rust-red waters of Colorado. Recently, though, its population has crashed. At first sight, it looked as if the reason was that the chub were being eaten by trout introduced for sport fishing in the mid-20th century. But trout and chub co-existed until the Glen Canyon dam was built, so something else is going on. Steve Gloss, of the United States Geological Survey (USGS), reckons that the chub’s decline is the result of their losing their most valuable natural defense, Colorado’s rusty sediment. The chub were well adapted to the poor visibility created by the chick, red water which gave the river its name and depended on it to hide from predators. Without the cloudy water, the chub became vulnerable.</p><p>And the chub are not alone. In the years since the Glen Canyon dam was built, several species have vanished altogether. These include the Colorado pike-minnow, the razorback sucker and the roundtail chub. Meanwhile, aliens including fathead minnows, channel catfish and common carp, which would have been hard, put to survive in the savage waters of the undammed canyon, have moved in.</p><p>So flooding is the obvious answer. Unfortunately, it is easier said than done. Floods were sent down the Grand Canyon in 1996 and 2004 and the results were mixed. In 1996 the flood was allowed to go on too long. To start with, all seemed well. The floodwaters built up sandbanks and infused the river with sediment. Eventually, however, the continued flow washed most of the sediment out of the canyon. This problem was avoided in 2004, but unfortunately, on that occasion, the volume of sand available behind the dam was too low to rebuild the sandbanks. This time, the USGS is convinced that things will be better. The amount of sediment available is three times greater than it was in 2004. So if a flood is going to do some good, this is the time to unleash one.</p><p>Even so, it may turn out to be an empty gesture. At less than 1,200 cubic metres a second, this flood is smaller than even an average spring flood, let alone one of the mightier deluges of the past. Those glorious inundations moved massive quantities of sediment through the Grand Canyon, wiping the slate dirty, and making a muddy mess of silt and muck that would make modern river rafters cringe.</p>"
+    },
+    "partNumber": 5,
+    "instruction": "Read the following text for questions 30-35.",
+    "explanations": {
+     "q30": {
+      "text": "The passage states that snow from Wyoming would melt during the spring, causing the Colorado river to swell and flood. That's why the correct answer is 'spring'.",
+      "quote": "Spring Snow from as far away as Wyoming would melt and swell the Colorado river to a flow that averaged around 1,500 cubic metres (50,000 cubic feet) a second."
+     },
+     "q31": {
+      "text": "The passage explains that the natural floods were crucial because they infused the river with sediment, which helped build beaches and sandbars. That's why the correct answer is 'sediment'.",
+      "quote": "These floods infused the river with sediment, carved its beaches and built its sandbars."
+     },
+     "q32": {
+      "text": "The passage states that the humpback chub was adapted to the poor visibility of the muddy water, which it used as a natural defense to hide from predators. That's why the correct answer is 'visibility'.",
+      "quote": "The chub were well adapted to the poor visibility created by the chick, red water which gave the river its name and depended on it to hide from predators."
+     },
+     "q33": {
+      "text": "The passage explains that the 2004 artificial flood failed to rebuild sandbanks because the volume of sand available behind the dam was too low. That's why the correct answer is 'sand'.",
+      "quote": "This problem was avoided in 2004, but unfortunately, on that occasion, the volume of sand available behind the dam was too low to rebuild the sandbanks."
+     },
+     "q34": {
+      "text": "The passage describes the 1996 flood, stating that at the beginning, it seemed to be working well as it built up sandbanks and added sediment. That's why the correct answer is D.",
+      "quote": "To start with, all seemed well."
+     },
+     "q35": {
+      "text": "The passage lists several species that are not native, calling them 'aliens' that moved in after the dam was built. The common carp is included in this list. That's why the correct answer is B.",
+      "quote": "Meanwhile, aliens including fathead minnows, channel catfish and common carp, which would have been hard, put to survive in the savage waters of the undammed canyon, have moved in."
+     }
+    },
+    "questionRange": "30-35",
+    "questionSections": [
+     {
+      "type": "gap-fill",
+      "title": "Questions 30-33: Gap Filling Section",
+      "questions": [
+       {
+        "id": 30,
+        "hint": "season of _____"
+       },
+       {
+        "id": 31,
+        "hint": "gather _____ together"
+       },
+       {
+        "id": 32,
+        "hint": "poor _____ away from predators"
+       },
+       {
+        "id": 33,
+        "hint": "volume of _____"
+       }
+      ],
+      "instruction": "For questions 30-33, fill in the missing information in the numbered spaces. Write no more than ONE WORD and/or A NUMBER for each question.",
+      "summaryText": "<p><strong>The eco-impact of the Canyon Dam</strong></p><p>Floods are people’s nightmare. In the past, the canyon was raged by flood every year. The snow from far Wyoming would melt in the season of <span class=\"gap-input\" data-gap=\"30\">_____(30)_____</span> and caused a flood flow peak in Colorado river. In the four decades after people built the Glen Canyon Dam, it only could gather <span class=\"gap-input\" data-gap=\"31\">_____(31)_____</span> together from tiny, undammed tributaries. humpback chub population reduced, why?</p><p>The non-stopped flow led to the washing away of the sediment out of the canyon, which poses a great threat to the chubs because it has poor <span class=\"gap-input\" data-gap=\"32\">_____(32)_____</span> away from predators. In addition, the volume of <span class=\"gap-input\" data-gap=\"33\">_____(33)_____</span> available behind the dam was too low to rebuild the bars and flooding became more serious.</p>"
+     },
+     {
+      "type": "mcq",
+      "title": "Questions 34-35: Multiple Choice",
+      "questions": [
+       {
+        "id": 34,
+        "text": "Which of the following statements agree with the information given in the passage?",
+        "options": [
+         {
+          "text": "The flood peaks at almost 1500 cubic meters every eight years.",
+          "letter": "A"
+         },
+         {
+          "text": "Contribution of sediments delivered by tributaries has little impact.",
+          "letter": "B"
+         },
+         {
+          "text": "The decreasing number of chubs is always caused by introducing of trout since the mid 20th century.",
+          "letter": "C"
+         },
+         {
+          "text": "It seemed that the artificial flood in 1996 had achieved success partly at the very beginning.",
+          "letter": "D"
+         }
+        ]
+       },
+       {
+        "id": 35,
+        "text": "According to the passage, which of these species aren’t native to the Colorado river?",
+        "options": [
+         {
+          "text": "the humpback chub",
+          "letter": "A"
+         },
+         {
+          "text": "the common carp",
+          "letter": "B"
+         },
+         {
+          "text": "the roundtail chub",
+          "letter": "C"
+         },
+         {
+          "text": "the razorback sucker",
+          "letter": "D"
+         }
+        ]
+       }
+      ],
+      "instruction": "For questions 34-35, choose the correct answer A, B, C, or D."
+     }
+    ]
+   }
+  ],
+  "examDate": "2026-05-16",
+  "testInfo": {
+   "level": "B1-B2-C1",
+   "parts": 5,
+   "title": "CEFR B1-B2-C1 Reading Test 14",
+   "totalTime": 60,
+   "totalQuestions": 35
+  }
+ },
+ "created_at": "2026-05-12T16:21:27.289005+00:00",
+ "updated_at": "2026-10-11T10:54:25.762211+00:00"
+}

@@ -1,0 +1,600 @@
+{
+ "id": 135,
+ "mock_type": "ielts-writing",
+ "mock_number": 26,
+ "title": "IELTS Writing Mock 26",
+ "status": "published",
+ "mock_data": {
+  "tasks": {
+   "task1": {
+    "title": "Waste disposal types over time",
+    "prompt": "The charts below give information about different types of waste disposed of in one country in 1960 and 2011.",
+    "wordGoal": 150,
+    "chartDesc": {
+     "title": "Waste disposal",
+     "visuals": [
+      {
+       "kind": "pie chart",
+       "xAxis": "",
+       "yAxis": "",
+       "series": [
+        {
+         "name": "Paper",
+         "points": [
+          {
+           "at": "1960",
+           "value": 25
+          }
+         ]
+        },
+        {
+         "name": "Green waste",
+         "points": [
+          {
+           "at": "1960",
+           "value": 9
+          }
+         ]
+        },
+        {
+         "name": "Metal",
+         "points": [
+          {
+           "at": "1960",
+           "value": 8
+          }
+         ]
+        },
+        {
+         "name": "Glass",
+         "points": [
+          {
+           "at": "1960",
+           "value": 5
+          }
+         ]
+        },
+        {
+         "name": "Plastic",
+         "points": [
+          {
+           "at": "1960",
+           "value": 8
+          }
+         ]
+        },
+        {
+         "name": "Wood",
+         "points": [
+          {
+           "at": "1960",
+           "value": 4
+          }
+         ]
+        },
+        {
+         "name": "Food",
+         "points": [
+          {
+           "at": "1960",
+           "value": 12
+          }
+         ]
+        },
+        {
+         "name": "Textiles",
+         "points": [
+          {
+           "at": "1960",
+           "value": 17
+          }
+         ]
+        },
+        {
+         "name": "Other",
+         "points": [
+          {
+           "at": "1960",
+           "value": 12
+          }
+         ]
+        }
+       ],
+       "caption": "1960"
+      },
+      {
+       "kind": "pie chart",
+       "xAxis": "",
+       "yAxis": "",
+       "series": [
+        {
+         "name": "Paper",
+         "points": [
+          {
+           "at": "2011",
+           "value": 15
+          }
+         ]
+        },
+        {
+         "name": "Green waste",
+         "points": [
+          {
+           "at": "2011",
+           "value": 9
+          }
+         ]
+        },
+        {
+         "name": "Metal",
+         "points": [
+          {
+           "at": "2011",
+           "value": 9
+          }
+         ]
+        },
+        {
+         "name": "Glass",
+         "points": [
+          {
+           "at": "2011",
+           "value": 5
+          }
+         ]
+        },
+        {
+         "name": "Plastic",
+         "points": [
+          {
+           "at": "2011",
+           "value": 18
+          }
+         ]
+        },
+        {
+         "name": "Wood",
+         "points": [
+          {
+           "at": "2011",
+           "value": 8
+          }
+         ]
+        },
+        {
+         "name": "Food",
+         "points": [
+          {
+           "at": "2011",
+           "value": 21
+          }
+         ]
+        },
+        {
+         "name": "Textiles",
+         "points": [
+          {
+           "at": "2011",
+           "value": 11
+          }
+         ]
+        },
+        {
+         "name": "Other",
+         "points": [
+          {
+           "at": "2011",
+           "value": 4
+          }
+         ]
+        }
+       ],
+       "caption": "2011"
+      }
+     ],
+     "overview": "Between 1960 and 2011, the proportions of food, plastic, and wood waste increased, whereas paper, textiles, and other waste decreased. Food and plastic replaced paper and textiles as the main categories of disposed waste.",
+     "chartType": "mixed",
+     "confidence": "high",
+     "unreadable": [],
+     "keyFeatures": [
+      "From the 1960 pie chart, paper accounted for the largest proportion of waste at 25%, followed by textiles at 17%.",
+      "From the 2011 pie chart, food became the largest waste category at 21%, followed by plastic at 18%.",
+      "Plastic waste more than doubled from 8% in 1960 to 18% in 2011, and food waste grew from 12% to 21%.",
+      "Paper waste fell significantly from 25% in 1960 to 15% in 2011, while textiles dropped from 17% to 11%.",
+      "Green waste remained constant at 9% in both 1960 and 2011, as did glass at 5%."
+     ]
+    },
+    "chartType": "mixed",
+    "dataNature": "dynamic",
+    "instruction": "Summarise the information by selecting and reporting the main features, and make comparison where relevant.",
+    "sampleBand5": "<p>The charts show information about different wastes in one country for 1960 and 2011. <mark>We can see</mark> four kinds of waste, which are food, glass, paper and others.</p>\n<p>In 1960, food waste was the highest, at 40 percent. Paper was next, at 20 percent. Glass and others were the same, at 10 percent each. <mark>But in</mark> 2011, the food waste went down <mark>to around</mark> 15 percent. Paper increased a lot, to 35 percent. Glass also increased, <mark>it was</mark> about 25 percent. The others waste went up to 25 percent too.</p>\n<p>Overall, the biggest change is that food waste decreased, and paper increased a lot. The other wastes also increased <mark>a little bit</mark> between 1960 and 2011.</p>",
+    "sampleBand6": "<p>The pie charts <mark>show information about</mark> the proportions of different waste types in a country in 1960 and 2011.</p>\n<p>Overall, the most noticeable feature is that paper and cardboard formed the largest portion of waste in both years, although its percentage <mark>decreased significantly</mark> over the period. Food waste also saw a decline, while plastic waste increased considerably.</p>\n<p>In 1960, paper and cardboard made up 31% of all waste, which was the highest proportion. Food waste was the second largest category at 19%, followed by yard waste at 17%. Glass and metals accounted for 13% and 11% respectively. Plastic waste only constituted a small fraction, at just 1%. <mark>Other waste</mark> made up the remaining 8%.</p>\n<p>By 2011, the composition of waste had changed. While paper and cardboard was still the largest category, its proportion had fallen to 27%. Food waste also declined to 15%. However, plastic waste saw a <mark>huge increase</mark> to 17%, becoming the third largest category. Yard waste fell slightly to 15%, while glass and metals remained <mark>relatively stable</mark> at 8% and 12% respectively. The proportion of other waste increased to 6%.</p>",
+    "sampleBand7": "<p>The charts <mark>illustrate the proportions</mark> of different waste types disposed of in a particular country in the years 1960 and 2011.</p>\n<p>Overall, the most striking feature is that paper waste constituted the largest proportion in both years. While the amounts of food, plastic, and other waste <mark>saw significant increases</mark>, the proportion of glass and metal waste declined.</p>\n<p>In 1960, paper waste accounted for 31%, which was the largest single category. This was followed by food waste at 20%, and then glass and metal, both at 13%. Plastic waste made up only a small fraction at 3%, and other waste accounted for the remaining 20%. By 2011, paper remained the largest category at 28%, <mark>despite a slight decrease</mark>. However, food waste had risen substantially to 26%, and plastic waste had <mark>experienced a dramatic increase</mark> to 17%. Other waste also increased to 19%, while the percentages of glass and metal <mark>dropped considerably</mark> to 6% and 4% respectively.</p>\n<p>In conclusion, the composition of waste changed significantly over the period, with increases in food and plastic waste <mark>becoming notable features</mark> alongside the continued dominance of paper.</p>",
+    "sampleBand8": "<p>The charts <mark>illustrate the proportions</mark> of various waste types that were disposed of in a particular nation in the years 1960 and 2011.</p>\n\n<p>Overall, the most striking feature is the <mark>significant shift</mark> in the composition of waste. While food and yard waste constituted the largest proportion in 1960, paper became the dominant waste type by 2011. Furthermore, there was a noticeable increase in the proportion of plastic and other wastes over the period.</p>\n\n<p>In 1960, food waste accounted for 40% of all waste, followed by yard waste at 21%. Paper waste made up 17%, while glass, metal, and plastic comprised 6%, 8%, and 1% respectively. Other wastes represented the remaining 7%. By 2011, paper waste had <mark>risen dramatically</mark> to 31%, becoming the largest category. Food and yard waste had decreased to 15% and 13% respectively. Plastic waste <mark>experienced a substantial increase</mark>, reaching 17%. Glass and metal waste remained relatively stable at 5% and 8% respectively. The proportion of other wastes had also increased, to 11%. <mark>It is worth noting</mark> that the combined proportion of plastic and other waste almost tripled within the reported period.</p>\n\n<p>In conclusion, the data reveals a <mark>considerable evolution</mark> in waste disposal patterns, with a move away from organic waste towards paper and plastics. This <mark>underscores the changing nature</mark> of consumption and packaging habits <mark>over the half-century</mark>.</p>",
+    "sampleBand9": "<p>The charts <mark>illustrate the proportions</mark> of four different waste types disposed of in a particular country across the years 1960 and 2011.</p>\n\n<p>Overall, the data reveals a <mark>marked shift in the composition</mark> of waste disposal over the period. While food waste and paper constituted the majority in 1960, there was a <mark>noticeable increase</mark> in the proportion of plastic and other waste by 2011.</p>\n\n<p>In 1960, food waste accounted for the largest share at 40%, followed by paper at 30%. Wood and glass represented smaller proportions, with 20% and 10% respectively. By 2011, however, the landscape had changed significantly. Food waste had decreased to 15%, a <mark>substantial decline of</mark> 25 percentage points. Paper also experienced a decrease, falling to 22%.</p>\n\n<p>Conversely, the proportion of plastic waste <mark>witnessed a dramatic increase</mark>, rising from a negligible amount in 1960 to 31% in 2011, becoming the largest category. Other waste also increased, <mark>albeit at a more moderate rate</mark>, from 0% to 32%. This shows a <mark>clear trend towards</mark> an increase in synthetic and miscellaneous waste materials over the given time frame. The data <mark>underscores the growing prominence</mark> of plastic and other waste, reflecting changes in consumption patterns and waste management practices.</p>\n\n<p>In summary, the composition of disposed waste <mark>underwent a transformation</mark> between 1960 and 2011, with a reduction in food and paper waste and a <mark>corresponding surge</mark> in plastic and other waste materials. This <mark>reflects broader societal shifts</mark> in material usage and waste generation.</p>",
+    "timeMinutes": 20,
+    "chartDescImg": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/26.png",
+    "sampleAnswer": "The pie charts compare the composition of waste disposal in a country between 1960 and 2011. Overall, the total amount of waste increased dramatically over this period, and there were significant changes in the types of materials discarded.\n\nIn 1960, the total waste produced was approximately 50 million tonnes. Organic waste accounted for the largest share at around 35%, followed by paper and cardboard at roughly 25%. Metal represented about 20% of total waste, while glass and plastic made up approximately 15% and 5% respectively.\n\nBy 2011, total waste had risen substantially to 150 million tonnes—a threefold increase. The composition also shifted considerably. Plastic waste grew dramatically to about 25% of total waste, reflecting increased use of plastic products. Paper and cardboard remained significant at approximately 20%, while organic waste decreased proportionally to about 25%. Metal waste declined to roughly 15%, and glass remained stable at about 10%.\n\nThe most striking changes were the substantial increase in plastic waste and the relative decrease in organic materials, likely reflecting changes in consumption patterns and packaging materials over the five decades.",
+    "chartImageUrl": "https://audio.mock-stream.com/IELTS%20writing%20task%20one%20graphs/26.png",
+    "uzSampleBand5": "<p>Diagrammalar 1960 va 2011-yillarda bir mamlakatdagi turli chiqindilar haqida ma'lumot beradi. <mark>Ko'rishimiz mumkinki</mark>, to'rtta turdagi chiqindi mavjud: oziq-ovqat, shisha, qog'oz va boshqalar.</p>\n<p>1960-yilda oziq-ovqat chiqindilari eng yuqori ko'rsatkichga ega bo'lib, 40 foizni tashkil etgan. Qog'oz keyingi o'rinda, 20 foiz bilan. Shisha va boshqalar bir xil edi, har biri 10 foizdan. <mark>Ammo</mark> 2011-yilda oziq-ovqat chiqindilari <mark>taxminan</mark> 15 foizga tushdi. Qog'oz sezilarli darajada oshib, 35 foizga yetdi. Shisha ham oshdi, <mark>u</mark> taxminan 25 foizni tashkil etdi. Boshqa chiqindilar ham 25 foizga ko'tarildi.</p>\n<p>Umuman olganda, eng katta o'zgarish - oziq-ovqat chiqindilarining kamayishi va qog'ozning sezilarli darajada oshishidir. Boshqa chiqindilar ham 1960 va 2011-yillar oralig'ida <mark>biroz</mark> oshdi.</p>",
+    "uzSampleBand6": "<p>Doira diagrammalar <mark>1960 va 2011-yillarda</mark> bir mamlakatdagi turli xil chiqindi turlarining nisbatlari <mark>haqida ma'lumot beradi</mark>.</p>\n<p>Umuman olganda, eng ko'zga tashlanadigan jihat shundaki, qog'oz va karton har ikki yilda ham chiqindining eng katta qismini tashkil qilgan, garchi uning foizi vaqt o'tishi bilan <mark>sezilarli darajada kamaygan</mark>. Oziq-ovqat chiqindilari ham kamayganini ko'rsatdi, plastik chiqindilar esa sezilarli darajada oshdi.</p>\n<p>1960-yilda qog'oz va karton barcha chiqindilarning 31% ni tashkil etgan, bu eng yuqori ko'rsatkich edi. Oziq-ovqat chiqindilari 19% bilan ikkinchi o'rinda, undan keyin hovli chiqindilari 17% edi. Shisha va metallar mos ravishda 13% va 11% ni tashkil etdi. Plastik chiqindilar atigi 1% bilan kichik bir qismni tashkil etdi. <mark>Boshqa chiqindilar</mark> qolgan 8% ni tashkil etdi.</p>\n<p>2011-yilga kelib, chiqindi tarkibi o'zgargan. Qog'oz va karton hali ham eng katta kategoriya bo'lsa-da, uning ulushi 27% gacha kamaydi. Oziq-ovqat chiqindilari ham 15% gacha kamaydi. Biroq, plastik chiqindilar <mark>katta o'sish</mark> ko'rsatib, 17% ga yetdi va uchinchi o'rindagi eng katta kategoriya bo'ldi. Hovli chiqindilari biroz kamayib, 15% ni tashkil etdi, shisha va metallar esa mos ravishda 8% va 12% da <mark>nisbatan barqaror</mark> qoldi. Boshqa chiqindilarning ulushi 6% gacha oshdi.</p>",
+    "uzSampleBand7": "<p>Diagrammalar 1960 va 2011-yillarda muayyan bir mamlakatda utilizatsiya qilingan turli xil chiqindi turlarining <mark>nisbatlarini ko'rsatadi</mark>.</p>\n<p>Umuman olganda, eng diqqatga sazovor xususiyat shundaki, qog'oz chiqindilari har ikki yilda ham eng katta ulushni tashkil etgan. Oziq-ovqat, plastmassa va boshqa chiqindilar miqdori <mark>sezilarli darajada oshgan bo'lsa-da</mark>, shisha va metall chiqindilarining ulushi kamaydi.</p>\n<p>1960-yilda qog'oz chiqindilari 31% ni tashkil etgan, bu eng katta yagona toifa edi. Undan keyin oziq-ovqat chiqindilari 20% ni, shisha va metall esa 13% ni tashkil etdi. Plastmassa chiqindilari atigi 3% kichik bir qismini tashkil etdi, boshqa chiqindilar esa qolgan 20% ni tashkil etdi. 2011-yilga kelib, qog'oz <mark>ozgina kamayishiga qaramay</mark> 28% bilan eng katta toifa bo'lib qoldi. Biroq, oziq-ovqat chiqindilari sezilarli darajada 26% gacha ko'tarildi va plastmassa chiqindilari <mark>keskin o'sishni boshdan kechirdi</mark> va 17% ga yetdi. Boshqa chiqindilar ham 19% ga ko'tarildi, shisha va metallning foizlari esa <mark>sezilarli darajada pasaydi</mark> va mos ravishda 6% va 4% ni tashkil qildi.</p>\n<p>Xulosa qilib aytganda, vaqt o'tishi bilan chiqindilarning tarkibi sezilarli darajada o'zgardi, oziq-ovqat va plastmassa chiqindilarining ko'payishi qog'ozning davomiy ustunligi bilan bir qatorda <mark>diqqatga sazovor xususiyatlarga aylandi</mark>.</p>",
+    "uzSampleBand8": "<p>Diagrammalar 1960 va 2011 yillarda ma'lum bir davlatda utilizatsiya qilingan turli xil chiqindi turlarining <mark>nisbatlarini ko'rsatadi</mark>.</p>\n\n<p>Umuman olganda, eng diqqatga sazovor xususiyat - chiqindilar tarkibidagi <mark>sezilarli o'zgarish</mark>. 1960 yilda oziq-ovqat va bog 'chiqindilari eng katta qismini tashkil qilgan bo'lsa, 2011 yilga kelib qog'oz asosiy chiqindi turiga aylandi. Bundan tashqari, davr mobaynida plastmassa va boshqa chiqindilar ulushining sezilarli darajada oshishi kuzatildi.</p>\n\n<p>1960 yilda oziq-ovqat chiqindilari barcha chiqindilarning 40% ni, bog 'chiqindilari esa 21% ni tashkil etdi. Qog'oz chiqindilari 17% ni, shisha, metall va plastmassa mos ravishda 6%, 8% va 1% ni tashkil etdi. Boshqa chiqindilar qolgan 7% ni tashkil etdi. 2011 yilga kelib, qog'oz chiqindilari <mark>keskin oshdi</mark> va 31% ga etib, eng katta toifaga aylandi. Oziq-ovqat va bog 'chiqindilari mos ravishda 15% va 13% gacha kamaydi. Plastmassa chiqindilari <mark>sezilarli o'sishni boshdan kechirdi</mark> va 17% ga etdi. Shisha va metall chiqindilari mos ravishda 5% va 8% da nisbatan barqaror bo'lib qoldi. Boshqa chiqindilar ulushi ham oshib, 11% ga etdi. <mark>Shuni ta'kidlash joizki</mark>, plastmassa va boshqa chiqindilarning umumiy ulushi hisobot davrida deyarli uch baravar ko'paydi.</p>\n\n<p>Xulosa qilib aytganda, ma'lumotlar chiqindilarni utilizatsiya qilish usullarida <mark>sezilarli evolyutsiyani</mark> ko'rsatadi, bunda organik chiqindilardan qog'oz va plastmassalarga o'tish kuzatiladi. Bu <mark>yarim asr davomida</mark> iste'mol va qadoqlash odatlarining <mark>o'zgaruvchan tabiatini ta'kidlaydi</mark>.</p>",
+    "uzSampleBand9": "<p>Diagrammalar 1960 va 2011-yillar davomida muayyan mamlakatda utilizatsiya qilingan to'rtta xil chiqindi turlarining <mark>nisbatlarini ko'rsatadi</mark>.</p>\n\n<p>Umuman olganda, ma'lumotlar davr mobaynida chiqindilarni yo'q qilish <mark>tarkibida sezilarli o'zgarish</mark> yuz berganligini ko'rsatadi. 1960-yilda oziq-ovqat chiqindilari va qog'oz asosiy qismini tashkil etgan bo'lsa, 2011-yilga kelib plastmassa va boshqa chiqindilar <mark>nisbatida sezilarli o'sish</mark> kuzatildi.</p>\n\n<p>1960-yilda oziq-ovqat chiqindilari eng katta ulushni - 40%ni, undan keyin qog'oz - 30%ni tashkil etgan. Yog'och va shisha mos ravishda kamroq ulushlarni - 20% va 10%ni tashkil etgan. Biroq, 2011-yilga kelib vaziyat sezilarli darajada o'zgardi. Oziq-ovqat chiqindilari 15% gacha kamaydi, bu <mark>25 foiz punktga sezilarli pasayish</mark> edi. Qog'oz ham kamaydi va 22% gacha tushdi.</p>\n\n<p>Aksincha, plastmassa chiqindilarining <mark>nisbati keskin o'sishni kuzatdi</mark> va 1960-yildagi ahamiyatsiz miqdordan 2011-yilda 31% gacha ko'tarilib, eng katta toifaga aylandi. Boshqa chiqindilar ham <mark>biroz mo'tadilroq sur'atda bo'lsa ham</mark>, 0% dan 32% gacha oshdi. Bu berilgan vaqt oralig'ida sintetik va turli xil chiqindi materiallarining ko'payishiga <mark>aniq tendentsiya</mark> mavjudligini ko'rsatadi. Ma'lumotlar iste'mol usullari va chiqindilarni boshqarish amaliyotidagi o'zgarishlarni aks ettiruvchi plastmassa va boshqa chiqindilarning <mark>ortib borayotgan ahamiyatini ta'kidlaydi</mark>.</p>\n\n<p>Xulosa qilib aytganda, utilizatsiya qilingan chiqindilarning tarkibi 1960 va 2011-yillar oralig'ida <mark>o'zgarishga uchradi</mark>, bunda oziq-ovqat va qog'oz chiqindilarining kamayishi va plastmassa va boshqa chiqindi materiallarining <mark>mos ravishda keskin ko'payishi</mark> kuzatildi. Bu materiallardan foydalanish va chiqindilarni hosil qilishda <mark>kengroq ijtimoiy o'zgarishlarni aks ettiradi</mark>.</p>",
+    "chartDescSource": "extracted-verified-2026-08-05"
+   },
+   "task2": {
+    "title": "Sports sponsorship by companies",
+    "prompt": "Some companies use money to support sports events. Some people believe that this has a negative impact on the world of sports. To what extent do you agree or disagree?",
+    "wordGoal": 250,
+    "essayType": "opinion",
+    "instruction": "To what extent do you agree or disagree?",
+    "sampleBand5": "<p>Many companies like to <mark>give money</mark> to sports. Some people think this is bad. I think it is both good and bad, but more good than bad.</p>\n\n<p>On the one hand, if companies give too much money, then the sport can become <mark>all about the money</mark>. The players might only care about getting paid and not about playing well or being good sportsmen. Also, the companies might want to change the sport to make it more attractive to people, so they can sell more things. This is not good because the sport should be about the game, not about making money for the companies. <mark>For example</mark>, they might want players to wear special clothes or use special equipment that they have to buy, even if it is not very good.</p>\n\n<p>However, I think it is mostly a good thing. If companies give money, then the sports teams can buy better equipment and train better. They can also pay the players more, so they don't have to worry about money and can just focus on playing well. <mark>In addition</mark>, the money can be used to build better stadiums and training facilities. This makes it more enjoyable for the people who come to watch the games. </p>\n\n<p>Also, when companies support sports, it can help the sport to become more popular. <mark>More people will be watching it</mark>, and this can encourage more young people to take up the sport. This is good for the sport in the long run. So, I think that even though there are some bad things, the good things are more important. Giving money to sports is mostly a good thing to do.</p>",
+    "sampleBand6": "<p>In the contemporary world, it is not uncommon to see companies investing money in sports events. While this can bring benefits, some people argue that this has a negative impact on sports. <mark>I partly agree with this view</mark>, as while sponsorship can provide much-needed funding, it can also lead to problems like corruption and an over-emphasis on commercial aspects.</p>\n\n<p>On the one hand, corporate sponsorship is often essential for sports to survive and flourish. Many sports, especially those less popular, <mark>struggle to obtain enough funding</mark> from ticket sales or government grants. Without the money provided by companies, these sports might not be able to afford equipment, facilities, or pay athletes a reasonable wage. This can lead to a decline in the quality of the sport and make it less accessible to people. For example, many smaller football clubs <mark>rely heavily on</mark> sponsorship deals to stay afloat.</p>\n\n<p>However, there are also valid concerns about the negative impact of corporate involvement. One issue is the potential for corruption. Companies may try to influence the rules or outcomes of sporting events to benefit their own brand. This can damage the integrity of the sport and erode public trust. Another problem is that it can <mark>place too much emphasis on</mark> the commercial aspects of sport, rather than on fair play and athletic achievement. Athletes may be pressured to endorse products or participate in promotional activities, which can distract them from their training and performance. <mark>This can be a problem</mark> because the sport becomes more about money than about the game itself.</p>\n\n<p>In conclusion, while I acknowledge the importance of corporate sponsorship in supporting sports, I also believe that it can have negative consequences. It is important to find a balance between the financial benefits and the need to protect the integrity and values of sport. <mark>More regulation might be needed</mark> to ensure that companies act ethically and responsibly when sponsoring sporting events.</p>",
+    "sampleBand7": "<p>The increasing involvement of corporations in sponsoring sporting events has sparked debate about its overall impact. While some argue that such financial support corrupts the spirit of sports, I believe that the benefits, on balance, outweigh the potential drawbacks. <mark>To a considerable extent</mark>, I disagree with the notion that corporate sponsorship negatively impacts the world of sports.</p>\n\n<p>One of the primary arguments against corporate sponsorship is that it can lead to commercialisation and undue influence on sporting decisions. <mark>It is conceivable that</mark> companies might pressure sporting organisations to alter rules or schedules to maximise their advertising exposure. This could potentially compromise the integrity of the sport and alienate fans who value tradition and fair play. For instance, a football match might be interrupted more frequently for advertisements, disrupting the flow of the game. This is not ideal as the authenticity is lost.</p>\n\n<p>However, the financial benefits that corporations bring to sports are undeniable. Sponsorship money allows sporting organisations to invest in infrastructure, training programs, and grassroots development. This, in turn, can lead to improved performance at the elite level and increased participation at the community level. Without such funding, many sports would struggle to survive, particularly those that do not attract large television audiences. <mark>Moreover, sponsorship often extends beyond mere financial assistance</mark>; companies may provide equipment, expertise, or logistical support, further enhancing the sporting experience.</p>\n\n<p>Furthermore, the increased visibility that comes with corporate sponsorship can raise the profile of sports and attract new fans. This can lead to a virtuous cycle of increased revenue, further investment, and greater global reach. <mark>It could be argued that</mark> the Olympic Games, for example, would not be the global spectacle they are today without the support of major corporations. While the presence of logos and advertisements is unavoidable, it is a small price to pay for the opportunity to showcase athletic talent on a global stage.</p>\n\n<p>In conclusion, while the potential for commercial influence is a valid concern, the positive contributions of corporate sponsorship to the financial stability, development, and promotion of sports are significant. <mark>In my considered opinion</mark>, a balanced approach that recognises the importance of both financial support and sporting integrity is essential. <mark>It is crucial to establish regulations that</mark> prevent undue corporate influence while allowing sports to benefit from the resources that companies can provide, ensuring a healthy future for sports at all levels. <mark>Therefore, I maintain that</mark> the advantages of corporate sponsorship generally outweigh the disadvantages.</p>",
+    "sampleBand8": "<p>The injection of corporate funding into the world of sports is a double-edged sword. While it undoubtedly provides vital financial support, some argue that it compromises the integrity and spirit of athletic competition. I <mark>largely disagree</mark> with the notion that this sponsorship has a predominantly negative impact. On balance, the benefits to both athletes and the sporting community far outweigh the potential drawbacks.</p>\n\n<p>One of the most significant advantages of corporate sponsorship is the <mark>substantial financial boost</mark> it provides. Without this investment, many sports, particularly those less popular or emerging disciplines, would struggle to survive. Funding enables athletes to access better training facilities, equipment, and coaching, thereby enhancing their performance and increasing their chances of success on the international stage. Furthermore, it allows sporting organisations to invest in grassroots programs, <mark>fostering the development</mark> of future talent and broadening participation across diverse communities. For example, sponsorship from sportswear companies often allows young athletes from underprivileged backgrounds to receive scholarships and access high-quality coaching that would otherwise be unattainable.</p>\n\n<p>However, critics argue that corporate involvement can lead to commercialisation and a loss of authenticity in sports. They suggest that sponsors may exert undue influence over sporting events, dictating schedules, advertising placements, and even influencing the rules of the game to maximise their brand exposure. This can, in turn, detract from the purity of the sport and alienate fans who feel that their passion is being exploited for profit. <mark>While this concern is not entirely unfounded</mark>, it is important to recognise that sporting organisations are increasingly aware of the need to maintain a balance between commercial interests and the integrity of the sport. Many have implemented strict guidelines to prevent sponsors from interfering with the core values and principles of athletic competition. </p>\n\n<p>In conclusion, while the potential for negative impacts exists, the financial support provided by corporate sponsors is <mark>indispensable to the growth and development</mark> of sports at all levels. By enabling athletes to reach their full potential and promoting wider participation, these investments ultimately contribute to a more vibrant and inclusive sporting landscape. The key lies in establishing robust regulatory frameworks that safeguard the integrity of the sport while <mark>harnessing the benefits of corporate partnerships</mark>. The claim that these partnerships have a negative impact is therefore an oversimplification of a <mark>complex and multifaceted issue</mark>, and one that <mark>fails to fully appreciate</mark> the positive contributions that sponsors make. The issue of corporate sponsorship in sport demands <mark>a nuanced perspective</mark>, acknowledging both potential pitfalls and significant advantages.</p>",
+    "sampleBand9": "<p>The infusion of corporate money into sports events is a contentious issue. While some argue that such sponsorship corrupts the spirit of sports, I firmly believe that the benefits, on balance, outweigh the drawbacks. This essay will explore both sides of the argument before explaining why I believe <mark>corporate involvement is ultimately advantageous</mark>.</p>\n\n<p>Critics often point to the potential for commercial interests to <mark>undermine the integrity of sport</mark>. They argue that companies may exert undue influence on rules, schedules, and even the selection of athletes, all in the pursuit of maximizing their brand exposure. For instance, a sponsor might pressure a sporting organization to favor certain players or teams that are more marketable, thereby compromising fair play. Furthermore, the relentless promotion of products during sporting events can be seen as <mark>a form of exploitation</mark>, particularly when targeting vulnerable audiences such as children. The saturation of advertising can also detract from the enjoyment of the sport itself, turning it into a mere vehicle for commercial gain.</p>\n\n<p>However, the financial support provided by corporations is often essential for the survival and growth of many sports. Sponsorship money enables sporting organizations to invest in infrastructure, training programs, and grassroots development initiatives. Without this funding, many sports would struggle to attract talent, maintain facilities, and reach a wider audience. <mark>Moreover, corporate sponsorship can facilitate</mark> the staging of major international events, bringing economic benefits and prestige to host countries. The Olympic Games, for example, rely heavily on corporate backing to cover the enormous costs associated with hosting such a large-scale event. The increased visibility that sponsorship provides can also attract more participants and fans, further boosting the sport's popularity and sustainability. <mark>It is also worth noting that</mark> corporations are increasingly aware of their social responsibility and are often keen to support sports that promote healthy lifestyles and positive values.</p>\n\n<p>In conclusion, while the potential for commercial exploitation in sports is a legitimate concern, the economic benefits of corporate sponsorship are undeniable. By providing essential funding for infrastructure, training, and events, companies play a vital role in supporting the growth and development of sports at all levels. <mark>Therefore, I contend that</mark>, with appropriate regulation and oversight to prevent undue influence, corporate involvement in sports is ultimately a positive force. <mark>A nuanced approach is required</mark>, one that acknowledges both the risks and the rewards of this symbiotic relationship, to ensure the long-term health and integrity of the sporting world. <mark>The key lies in establishing robust ethical guidelines</mark> and promoting transparency to mitigate the potential negative impacts.\n</p>",
+    "timeMinutes": 40,
+    "sampleAnswer": "Corporate sponsorship has become an integral part of modern sports, with companies investing billions in sporting events and athletes. While some argue that this financial involvement has harmful effects, I believe that, on balance, corporate sponsorship benefits the sports world more than it harms it.\n\nCritics of corporate sponsorship raise several valid concerns. Firstly, the influence of money can distort the priorities of sports organizations, leading them to prioritize commercial interests over athletic values. For example, event schedules may be arranged to suit television broadcasters rather than athletes or fans. Secondly, sponsorship from controversial industries such as alcohol, gambling, or fast food may send inappropriate messages to young fans. Additionally, the unequal distribution of sponsorship funds can widen the gap between wealthy and less popular sports or teams.\n\nHowever, the benefits of corporate sponsorship are substantial and often overlooked. Without corporate funding, many sporting events simply could not take place, as the costs of organizing major competitions, maintaining venues, and supporting athletes have grown enormously. Sponsorship money enables talented athletes from disadvantaged backgrounds to pursue their sports careers, provides funding for youth development programs, and helps promote sports to wider audiences. Furthermore, the investment in broadcasting and media coverage has made sports more accessible to fans worldwide.\n\nIn my view, the key lies in how sponsorship is managed rather than whether it should exist. With proper regulations to prevent excessive commercial influence and restrictions on sponsors from harmful industries, corporate investment can continue to support and develop the sports world positively.\n\nIn conclusion, while corporate sponsorship has some drawbacks, I disagree that it has an overall negative impact on sports. When properly regulated, it provides essential funding that benefits athletes, events, and fans alike.",
+    "uzSampleBand5": "<p>Ko'pgina kompaniyalar sportga <mark>pul berishni</mark> yoqtirishadi. Ba'zi odamlar bu yomon deb o'ylashadi. Menimcha, bu ham yaxshi, ham yomon, lekin yomonidan ko'ra yaxshiroq.</p>\n\n<p>Bir tomondan, agar kompaniyalar juda ko'p pul bersa, sport <mark>faqat pul haqida bo'lib qolishi</mark> mumkin. O'yinchilar yaxshi o'ynash yoki yaxshi sportchi bo'lish haqida emas, balki faqat pul olish haqida qayg'urishlari mumkin. Shuningdek, kompaniyalar ko'proq narsalarni sotishlari uchun sportni odamlarga yanada jozibali qilish uchun o'zgartirishni xohlashlari mumkin. Bu yaxshi emas, chunki sport o'yin haqida bo'lishi kerak, kompaniyalar uchun pul ishlash haqida emas. <mark>Misol uchun</mark>, ular o'yinchilardan maxsus kiyimlar kiyishni yoki sotib olishlari kerak bo'lgan maxsus uskunalar ishlatishni xohlashlari mumkin, hatto u juda yaxshi bo'lmasa ham.</p>\n\n<p>Biroq, menimcha, bu asosan yaxshi narsa. Agar kompaniyalar pul bersa, sport jamoalari yaxshiroq uskunalar sotib olishlari va yaxshiroq mashq qilishlari mumkin. Ular, shuningdek, o'yinchilarga ko'proq pul to'lashlari mumkin, shuning uchun ular pul haqida tashvishlanmasliklari va faqat yaxshi o'ynashga e'tibor berishlari mumkin. <mark>Bundan tashqari</mark>, pul yaxshiroq stadionlar va mashg'ulot maydonlarini qurish uchun ishlatilishi mumkin. Bu o'yinlarni tomosha qilishga kelgan odamlar uchun yanada yoqimli qiladi.</p>\n\n<p>Shuningdek, kompaniyalar sportni qo'llab-quvvatlaganda, bu sportning yanada ommalashishiga yordam berishi mumkin. <mark>Ko'proq odamlar uni tomosha qilishadi</mark>, va bu ko'proq yoshlarni sport bilan shug'ullanishga undashi mumkin. Bu uzoq muddatda sport uchun yaxshi. Shunday qilib, menimcha, ba'zi yomon narsalar bo'lsa ham, yaxshi narsalar muhimroq. Sportga pul berish, asosan, yaxshi ishdir.</p>",
+    "uzSampleBand6": "<p>Zamonaviy dunyoda kompaniyalarning sport tadbirlariga pul tikishini ko'rish odatiy hol emas. Bu foyda keltirishi mumkin bo'lsa-da, ba'zi odamlar bu sportga salbiy ta'sir ko'rsatadi, deb ta'kidlaydi. <mark>Men bu fikrga qisman qo'shilaman</mark>, chunki homiylik juda zarur bo'lgan mablag'ni ta'minlashi mumkin bo'lsa-da, u korrupsiya va tijorat jihatlariga haddan tashqari e'tibor qaratish kabi muammolarga ham olib kelishi mumkin.</p>\n\n<p>Bir tomondan, korporativ homiylik ko'pincha sportning omon qolishi va rivojlanishi uchun zarurdir. Ko'pgina sport turlari, ayniqsa kamroq mashhurlari, <mark>yetarli mablag' olish uchun kurashadi</mark> chiptalar sotuvidan yoki davlat grantlaridan. Kompaniyalar tomonidan taqdim etilgan pul bo'lmasa, bu sport turlari uskunalar, ob'ektlar sotib ololmasligi yoki sportchilarga munosib maosh to'lay olmasligi mumkin. Bu sport sifatining pasayishiga olib kelishi va odamlarga kamroq kirish imkonini berishi mumkin. Misol uchun, ko'plab kichik futbol klublari <mark>qaytada suzib yurish uchun</mark> homiylik shartnomalariga juda bog'liq.</p>\n\n<p>Biroq, korporativ ishtirokning salbiy ta'siri haqida ham asosli xavotirlar mavjud. Muammolardan biri korrupsiya ehtimoli. Kompaniyalar o'z brendiga foyda keltirish uchun sport tadbirlari qoidalari yoki natijalariga ta'sir o'tkazishga harakat qilishlari mumkin. Bu sportning yaxlitligiga zarar etkazishi va jamoatchilik ishonchini yo'qotishi mumkin. Yana bir muammo shundaki, u <mark>adolatli o'yin va sport yutuqlaridan ko'ra</mark> sportning tijorat jihatlariga haddan tashqari e'tibor qaratishi mumkin. Sportchilar mahsulotlarni qo'llab-quvvatlash yoki reklama tadbirlarida ishtirok etish uchun bosimga uchrashi mumkin, bu ularning mashg'ulotlari va ko'rsatkichlaridan chalg'itishi mumkin. <mark>Bu muammo bo'lishi mumkin</mark>, chunki sportning o'zi o'yindan ko'ra ko'proq pul haqida bo'lib qoladi.</p>\n\n<p>Xulosa qilib aytganda, men sportni qo'llab-quvvatlashda korporativ homiylikning muhimligini tan olsam-da, uning salbiy oqibatlari bo'lishi mumkinligiga ham ishonaman. Moliyaviy foyda va sportning yaxlitligi va qadriyatlarini himoya qilish zarurati o'rtasida muvozanatni topish muhim. <mark>Ko'proq tartibga solish kerak bo'lishi mumkin</mark> kompaniyalar sport tadbirlariga homiylik qilganda axloqiy va mas'uliyatli harakat qilishlarini ta'minlash uchun.</p>",
+    "uzSampleBand7": "<p>Sport tadbirlarini homiylik qilishda korporatsiyalarning ishtiroki ortib borayotgani uning umumiy ta'siri haqida bahs-munozaralarga sabab bo'ldi. Ba'zilar bunday moliyaviy yordam sport ruhini buzadi, deb hisoblasa, menimcha, foydalar potentsial kamchiliklardan ustun turadi. <mark>Ancha-muncha darajada</mark>, men korporativ homiylik sport olamiga salbiy ta'sir ko'rsatadi degan fikrga qo'shilmayman.</p>\n\n<p>Korporativ homiylikka qarshi asosiy argumentlardan biri bu tijoratlashtirishga va sport qarorlariga asossiz ta'sirga olib kelishi mumkinligidir. <mark>Shuni tasavvur qilish mumkinki</mark>, kompaniyalar reklama ta'sirini maksimal darajada oshirish uchun sport tashkilotlariga qoidalarni yoki jadvallarni o'zgartirish uchun bosim o'tkazishi mumkin. Bu sportning yaxlitligiga putur etkazishi va an'ana va halol o'yinga qadriyat beradigan muxlislarni begonalashtirishi mumkin. Misol uchun, futbol o'yini reklama uchun tez-tez to'xtatilishi mumkin, bu esa o'yin jarayonini buzadi. Bu ideal emas, chunki haqiqiylik yo'qoladi.</p>\n\n<p>Biroq, korporatsiyalarning sportga olib keladigan moliyaviy foydalari inkor etib bo'lmaydi. Homiylik puli sport tashkilotlariga infratuzilmaga, trening dasturlariga va ommaviy rivojlanishga sarmoya kiritishga imkon beradi. Bu, o'z navbatida, elita darajasida yaxshilangan natijalarga va jamiyat darajasida ishtirokning oshishiga olib kelishi mumkin. Bunday moliyalashtirishsiz, ko'plab sport turlari, ayniqsa katta televizion auditoriyani jalb qilmaydigan sport turlari omon qolish uchun kurashadi. <mark>Bundan tashqari, homiylik ko'pincha oddiy moliyaviy yordamdan tashqariga chiqadi</mark>; kompaniyalar jihozlar, tajriba yoki logistika yordamini taqdim etishi mumkin, bu esa sport tajribasini yanada oshiradi.</p>\n\n<p>Bundan tashqari, korporativ homiylik bilan birga keladigan ko'rinishning oshishi sportning obro'sini oshirishi va yangi muxlislarni jalb qilishi mumkin. Bu daromadning oshishi, keyingi investitsiyalar va global qamrovning kengayishi kabi ijobiy davrga olib kelishi mumkin. <mark>Deb ta'kidlash mumkinki</mark>, masalan, Olimpiya o'yinlari yirik korporatsiyalarning yordamisiz bugungi kundagi global tomoshaga aylanmagan bo'lar edi. Logotiplar va reklamalar mavjudligi muqarrar bo'lsa-da, bu global maydonda sportchilarning iqtidorini namoyish etish imkoniyati uchun kichik to'lovdir.</p>\n\n<p>Xulosa qilib aytganda, tijorat ta'sirining potentsiali asosli xavotir bo'lsa-da, korporativ homiylikning sportning moliyaviy barqarorligi, rivojlanishi va targ'ibotiga qo'shgan ijobiy hissasi muhimdir. <mark>Menimcha</mark>, moliyaviy yordam va sport yaxlitligining muhimligini tan oladigan muvozanatli yondashuv zarur. <mark>Shuni ta'minlash kerakki</mark> korporativ kompaniyalarning asossiz ta'sirini oldini oladigan qoidalar o'rnatish, shu bilan birga sportga kompaniyalar taqdim etishi mumkin bo'lgan resurslardan foyda olishga imkon berish, barcha darajadagi sportning sog'lom kelajagini ta'minlash. <mark>Shuning uchun men shuni tasdiqlaymanki</mark>, korporativ homiylikning afzalliklari odatda kamchiliklardan ustun turadi.</p>",
+    "uzSampleBand8": "<p>Sport dunyosiga korporativ mablag' kiritish ikki tomonlama qilichdir. Bu, shubhasiz, hayotiy moliyaviy yordamni ta'minlasa-da, ba'zilarning fikricha, bu sport musobaqalarining yaxlitligi va ruhiga putur yetkazadi. Men bu homiylik asosan salbiy ta'sir ko'rsatadi degan fikrga <mark>qisman qo'shilmayman</mark>. Umuman olganda, sportchilar va sport jamoatchiligi uchun foydalari potentsial kamchiliklardan ancha ustundir.</p>\n\n<p>Korporativ homiylikning eng muhim afzalliklaridan biri bu ta'minlaydigan <mark>sezilarli moliyaviy yordamdir</mark>. Ushbu investitsiyasiz ko'plab sport turlari, ayniqsa kamroq mashhur yoki rivojlanayotgan yo'nalishlar omon qolish uchun kurashishga majbur bo'ladi. Mablag' sportchilarga yaxshiroq mashg'ulot o'tkazish imkoniyatlari, jihozlar va murabbiylikdan foydalanish imkonini beradi, shu bilan ularning faoliyatini yaxshilaydi va xalqaro maydonda muvaffaqiyat qozonish imkoniyatini oshiradi. Bundan tashqari, u sport tashkilotlariga kelajakdagi iste'dodlarni <mark>rivojlantirishga yordam beradi</mark> va turli xil jamiyatlarda ishtirokni kengaytiradi. Masalan, sport kiyimlari kompaniyalarining homiyligi ko'pincha kam ta'minlangan oilalardan bo'lgan yosh sportchilarga stipendiyalar olish va boshqa hollarda erishib bo'lmaydigan yuqori sifatli murabbiylikdan foydalanish imkonini beradi.</p>\n\n<p>Biroq, tanqidchilarning ta'kidlashicha, korporativ aralashuv sportda tijoratlashtirishga va haqiqiylikning yo'qolishiga olib kelishi mumkin. Ularning fikricha, homiylar sport tadbirlariga asossiz ta'sir ko'rsatishi, jadvallarni, reklama joylashuvlarini belgilashi va hatto o'z brendini maksimal darajada oshirish uchun o'yin qoidalariga ta'sir qilishi mumkin. Bu, o'z navbatida, sportning tozaligiga putur yetkazishi va o'z ishtiyoqi foyda uchun ishlatilayotganini his qilgan muxlislarni chetlashtirishi mumkin. <mark>Bu xavotir butunlay asossiz bo'lmasa-da</mark>, sport tashkilotlari tijorat manfaatlari va sportning yaxlitligi o'rtasida muvozanatni saqlash zarurligini tobora anglab borayotganini tan olish muhimdir. Ko'pchilik homiylarning sport musobaqalarining asosiy qadriyatlari va tamoyillariga aralashuviga yo'l qo'ymaslik uchun qat'iy ko'rsatmalar ishlab chiqqan.</p>\n\n<p>Xulosa qilib aytganda, salbiy ta'sirlar potentsiali mavjud bo'lsa-da, korporativ homiylar tomonidan taqdim etilgan moliyaviy yordam sportning barcha darajalarda <mark>o'sishi va rivojlanishi uchun zarurdir</mark>. Sportchilarga o'z salohiyatini to'liq ro'yobga chiqarish va kengroq ishtirokni rag'batlantirish orqali bu investitsiyalar oxir-oqibat yanada jonli va inklyuziv sport muhitiga hissa qo'shadi. Asosiysi, sportning yaxlitligini himoya qiladigan va shu bilan birga <mark>korporativ hamkorlikning afzalliklaridan foydalanishga</mark> imkon beradigan mustahkam me'yoriy-huquqiy bazalarni yaratishdir. Ushbu hamkorliklar salbiy ta'sir ko'rsatadi degan da'vo shunchaki <mark>murakkab va ko'p qirrali masalaning</mark> soddalashtirilgan talqini bo'lib, homiylarning ijobiy hissalarini <mark>to'liq qadrlay olmaydi</mark>. Sportda korporativ homiylik masalasi <mark>nozik nuqtai nazarni</mark> talab qiladi, bu potentsial kamchiliklar va muhim afzalliklarni tan oladi.</p>",
+    "uzSampleBand9": "<p>Sport tadbirlariga korporativ pullarning kiritilishi bahsli masala. Ba'zilar bunday homiylik sport ruhini buzadi, deb hisoblasa, men, umuman olganda, foydalari kamchiliklaridan ustun keladi, deb ishonaman. Ushbu insho, <mark>korporativ ishtirokning oxir-oqibatda afzalliklari borligiga</mark> ishonishimni tushuntirishdan oldin, argumentning ikkala tomonini ham o'rganadi.</p>\n\n<p>Tanqidchilar ko'pincha tijorat manfaatlarining <mark>sportning yaxlitligiga putur yetkazish</mark> potentsialiga ishora qiladilar. Ularning ta'kidlashicha, kompaniyalar o'z brendini maksimal darajada oshirish maqsadida qoidalar, jadvallar va hatto sportchilar tanloviga ham asossiz ta'sir ko'rsatishi mumkin. Misol uchun, homiy sport tashkilotiga ko'proq sotiladigan o'yinchilar yoki jamoalarni afzal ko'rish uchun bosim o'tkazishi mumkin, shu bilan adolatli o'yin buziladi. Bundan tashqari, sport tadbirlari davomida mahsulotlarni tinimsiz targ'ib qilish, ayniqsa, bolalar kabi zaif auditoriyani nishonga olganda, <mark>ekspluatatsiya shakli</mark> sifatida ko'rilishi mumkin. Reklamaning to'yinganligi sportning o'zidan zavqlanishni ham kamaytirishi, uni shunchaki tijorat foydasi uchun vositaga aylantirishi mumkin.</p>\n\n<p>Biroq, korporatsiyalar tomonidan taqdim etiladigan moliyaviy yordam ko'pincha ko'plab sport turlari uchun omon qolish va o'sish uchun zarurdir. Homiylik puli sport tashkilotlariga infratuzilmaga, o'quv dasturlariga va ommaviy rivojlanish tashabbuslariga sarmoya kiritish imkonini beradi. Ushbu moliyalashtirishsiz ko'plab sport turlari iste'dodlarni jalb qilish, ob'ektlarni saqlash va kengroq auditoriyaga chiqish uchun kurashadi. <mark>Bundan tashqari, korporativ homiylik</mark> yirik xalqaro tadbirlarni o'tkazishga yordam beradi, bu esa mezbon davlatlarga iqtisodiy foyda va obro' keltiradi. Misol uchun, Olimpiya o'yinlari bunday keng ko'lamli tadbirni o'tkazish bilan bog'liq ulkan xarajatlarni qoplash uchun korporativ yordamga katta tayanishadi. Homiylik ta'minlaydigan ko'rinishning oshishi ko'proq ishtirokchilar va muxlislarni jalb qilishi, sportning ommaviyligi va barqarorligini yanada oshirishi mumkin. <mark>Shuni ham ta'kidlash joizki</mark>, korporatsiyalar o'zlarining ijtimoiy mas'uliyatini tobora ko'proq anglashadi va ko'pincha sog'lom turmush tarzini va ijobiy qadriyatlarni targ'ib qiluvchi sport turlarini qo'llab-quvvatlashga intilishadi.</p>\n\n<p>Xulosa qilib aytganda, sportda tijorat ekspluatatsiyasi potentsiali qonuniy tashvish bo'lsa-da, korporativ homiylikning iqtisodiy foydalari inkor etib bo'lmaydi. Infratuzilma, trening va tadbirlar uchun zaruriy moliyalashtirishni ta'minlab, kompaniyalar barcha darajadagi sportning o'sishi va rivojlanishini qo'llab-quvvatlashda muhim rol o'ynaydi. <mark>Shuning uchun, men shuni ta'kidlaymanki</mark>, asossiz ta'sirning oldini olish uchun tegishli tartibga solish va nazorat bilan sportga korporativ aralashuv oxir-oqibat ijobiy kuchdir. <mark>Nozik yondashuv talab etiladi</mark>, bu simbiotik munosabatlarning xavflarini ham, mukofotlarini ham tan oladi, sport olamining uzoq muddatli salomatligi va yaxlitligini ta'minlash uchun. <mark>Kalit mustahkam axloqiy ko'rsatmalarni o'rnatishda</mark> va salbiy oqibatlarni yumshatish uchun shaffoflikni targ'ib qilishda yotadi.\n</p>"
+   }
+  },
+  "source": "IELTS Fever",
+  "examDate": "2023-03-25",
+  "settings": {
+   "timeInfo": "60 Minutes",
+   "moduleTitle": "Academic Writing Module",
+   "testIdentifier": "Mock 26"
+  },
+  "vocabulary": {
+   "task1": [
+    {
+     "term": "Composition",
+     "meaning": "The nature of something's ingredients or constituents."
+    },
+    {
+     "term": "Waste disposal",
+     "meaning": "The process of getting rid of unwanted materials."
+    },
+    {
+     "term": "Organic waste",
+     "meaning": "Biodegradable waste that comes from plants or animals."
+    },
+    {
+     "term": "Threefold increase",
+     "meaning": "An increase to three times the original amount."
+    },
+    {
+     "term": "Shifted considerably",
+     "meaning": "Changed to a significant degree."
+    },
+    {
+     "term": "Proportionally",
+     "meaning": "In a way that corresponds in size or amount to something else."
+    },
+    {
+     "term": "Consumption patterns",
+     "meaning": "The usual ways in which people buy and use products."
+    },
+    {
+     "term": "Packaging materials",
+     "meaning": "Substances used to wrap or contain products."
+    }
+   ],
+   "task2": [
+    {
+     "term": "Corporate sponsorship",
+     "meaning": "Financial support from businesses for events or organizations."
+    },
+    {
+     "term": "Integral part",
+     "meaning": "An essential or fundamental component."
+    },
+    {
+     "term": "Commercial interests",
+     "meaning": "Business-related goals focused on making profit."
+    },
+    {
+     "term": "Athletic values",
+     "meaning": "Principles related to sportsmanship and fair competition."
+    },
+    {
+     "term": "Controversial industries",
+     "meaning": "Business sectors that cause disagreement or debate."
+    },
+    {
+     "term": "Youth development programs",
+     "meaning": "Initiatives to train and support young people."
+    },
+    {
+     "term": "Excessive commercial influence",
+     "meaning": "Too much control by business interests."
+    },
+    {
+     "term": "Properly regulated",
+     "meaning": "Controlled by appropriate rules and guidelines."
+    }
+   ]
+  },
+  "tokenTranslations": {
+   "But in": {
+    "uz": "Ammo ...da",
+    "type": "linking"
+   },
+   "it was": {
+    "uz": "u edi",
+    "type": "lexical"
+   },
+   "to around": {
+    "uz": "taxminan ...gacha",
+    "type": "lexical"
+   },
+   "We can see": {
+    "uz": "Biz ko'rishimiz mumkin",
+    "type": "lexical"
+   },
+   "give money": {
+    "uz": "pul berish",
+    "type": "lexical"
+   },
+   "For example": {
+    "uz": "Misol uchun",
+    "type": "linking"
+   },
+   "In addition": {
+    "uz": "Bundan tashqari",
+    "type": "linking"
+   },
+   "Other waste": {
+    "uz": "Boshqa chiqindilar",
+    "type": "lexical"
+   },
+   "a little bit": {
+    "uz": "bir oz",
+    "type": "lexical"
+   },
+   "huge increase": {
+    "uz": "katta o'sish",
+    "type": "lexical"
+   },
+   "rely heavily on": {
+    "uz": "...ga qattiq tayanmoq",
+    "type": "academic"
+   },
+   "largely disagree": {
+    "uz": "katta qismi bilan rozi emasman",
+    "type": "academic"
+   },
+   "relatively stable": {
+    "uz": "nisbatan barqaror",
+    "type": "lexical"
+   },
+   "significant shift": {
+    "uz": "sezilarli o'zgarish",
+    "type": "lexical"
+   },
+   "It is worth noting": {
+    "uz": "Ta'kidlash joizki",
+    "type": "academic"
+   },
+   "risen dramatically": {
+    "uz": "keskin ko'tarildi",
+    "type": "lexical"
+   },
+   "all about the money": {
+    "uz": "faqat pul haqida",
+    "type": "idiom"
+   },
+   "clear trend towards": {
+    "uz": "...ga aniq tendentsiya",
+    "type": "lexical"
+   },
+   "corresponding surge": {
+    "uz": "mos keladigan o'sish",
+    "type": "lexical"
+   },
+   "noticeable increase": {
+    "uz": "sezilarli o'sish",
+    "type": "lexical"
+   },
+   "dropped considerably": {
+    "uz": "ancha pasaydi",
+    "type": "lexical"
+   },
+   "This can be a problem": {
+    "uz": "Bu muammo bo'lishi mumkin",
+    "type": "lexical"
+   },
+   "a nuanced perspective": {
+    "uz": "nozik nuqtai nazar",
+    "type": "academic"
+   },
+   "over the half-century": {
+    "uz": "yarim asr davomida",
+    "type": "lexical"
+   },
+   "It is conceivable that": {
+    "uz": "Shunday bo'lishi mumkin",
+    "type": "academic"
+   },
+   "a form of exploitation": {
+    "uz": "ekspluatatsiya shakli",
+    "type": "lexical"
+   },
+   "considerable evolution": {
+    "uz": "sezilarli evolyutsiya",
+    "type": "academic"
+   },
+   "show information about": {
+    "uz": "...haqida ma'lumot ko'rsatadi",
+    "type": "lexical"
+   },
+   "substantial decline of": {
+    "uz": "...ning sezilarli pasayishi",
+    "type": "lexical"
+   },
+   "It could be argued that": {
+    "uz": "Shunday bahslashish mumkin",
+    "type": "academic"
+   },
+   "decreased significantly": {
+    "uz": "sezilarli darajada kamaydi",
+    "type": "lexical"
+   },
+   "In my considered opinion": {
+    "uz": "Mening chuqur o'ylangan fikrimcha",
+    "type": "academic"
+   },
+   "To a considerable extent": {
+    "uz": "Ancha darajada",
+    "type": "academic"
+   },
+   "Therefore, I contend that": {
+    "uz": "Shuning uchun men shuni ta'kidlaymanki",
+    "type": "academic"
+   },
+   "becoming notable features": {
+    "uz": "diqqatga sazovor xususiyatlarga aylanmoqda",
+    "type": "lexical"
+   },
+   "despite a slight decrease": {
+    "uz": "biroz kamayishiga qaramay",
+    "type": "lexical"
+   },
+   "fails to fully appreciate": {
+    "uz": "to'liq qadrlay olmaydi",
+    "type": "academic"
+   },
+   "fostering the development": {
+    "uz": "rivojlanishga yordam berish",
+    "type": "academic"
+   },
+   "saw significant increases": {
+    "uz": "sezilarli o'sishlarni ko'rdi",
+    "type": "lexical"
+   },
+   "Therefore, I maintain that": {
+    "uz": "Shuning uchun men shuni qo'llab-quvvatlaymanki",
+    "type": "academic"
+   },
+   "illustrate the proportions": {
+    "uz": "nisbatlarni ko'rsatib beradi",
+    "type": "academic"
+   },
+   "place too much emphasis on": {
+    "uz": "...ga juda ko'p e'tibor qaratmoq",
+    "type": "academic"
+   },
+   "underwent a transformation": {
+    "uz": "o'zgarishni boshdan kechirdi",
+    "type": "academic"
+   },
+   "substantial financial boost": {
+    "uz": "sezilarli moliyaviy yordam",
+    "type": "lexical"
+   },
+   "It is also worth noting that": {
+    "uz": "Shuni ham ta'kidlash joizki",
+    "type": "academic"
+   },
+   "I partly agree with this view": {
+    "uz": "Men qisman bu fikrga qo'shilaman",
+    "type": "academic"
+   },
+   "witnessed a dramatic increase": {
+    "uz": "keskin o'sishga guvoh bo'ldi",
+    "type": "lexical"
+   },
+   "A nuanced approach is required": {
+    "uz": "Nozik yondashuv talab etiladi",
+    "type": "academic"
+   },
+   "albeit at a more moderate rate": {
+    "uz": "garchi biroz sekinroq sur'atda bo'lsa ham",
+    "type": "academic"
+   },
+   "complex and multifaceted issue": {
+    "uz": "murakkab va ko'p qirrali masala",
+    "type": "academic"
+   },
+   "More people will be watching it": {
+    "uz": "Uni ko'proq odam tomosha qiladi",
+    "type": "lexical"
+   },
+   "More regulation might be needed": {
+    "uz": "Ko'proq tartibga solish kerak bo'lishi mumkin",
+    "type": "lexical"
+   },
+   "experienced a dramatic increase": {
+    "uz": "keskin o'sishni boshdan kechirdi",
+    "type": "lexical"
+   },
+   "marked shift in the composition": {
+    "uz": "tarkibida sezilarli o'zgarish",
+    "type": "academic"
+   },
+   "underscores the changing nature": {
+    "uz": "o'zgaruvchan xususiyatni ta'kidlaydi",
+    "type": "academic"
+   },
+   "reflects broader societal shifts": {
+    "uz": "jamiyatdagi kengroq o'zgarishlarni aks ettiradi",
+    "type": "academic"
+   },
+   "undermine the integrity of sport": {
+    "uz": "sportning yaxlitligiga putur yetkazadi",
+    "type": "academic"
+   },
+   "struggle to obtain enough funding": {
+    "uz": "yetarli mablag 'olish uchun kurashmoqda",
+    "type": "lexical"
+   },
+   "experienced a substantial increase": {
+    "uz": "katta o'sishni boshdan kechirdi",
+    "type": "lexical"
+   },
+   "underscores the growing prominence": {
+    "uz": "o'sib borayotgan ahamiyatni ta'kidlaydi",
+    "type": "academic"
+   },
+   "It is crucial to establish regulations that": {
+    "uz": "Shunday qoidalarni o'rnatish muhimki",
+    "type": "academic"
+   },
+   "indispensable to the growth and development": {
+    "uz": "o'sish va rivojlanish uchun zarur",
+    "type": "academic"
+   },
+   "While this concern is not entirely unfounded": {
+    "uz": "Garchi bu xavotir butunlay asossiz bo'lmasa ham",
+    "type": "academic"
+   },
+   "Moreover, corporate sponsorship can facilitate": {
+    "uz": "Bundan tashqari, korporativ homiylik osonlashtirishi mumkin",
+    "type": "academic"
+   },
+   "corporate involvement is ultimately advantageous": {
+    "uz": "korporativ ishtirok oxir-oqibatda foydali",
+    "type": "academic"
+   },
+   "harnessing the benefits of corporate partnerships": {
+    "uz": "korporativ hamkorlikning afzalliklaridan foydalanish",
+    "type": "academic"
+   },
+   "The key lies in establishing robust ethical guidelines": {
+    "uz": "Asosiy masala mustahkam axloqiy ko'rsatmalarni o'rnatishda",
+    "type": "academic"
+   },
+   "Moreover, sponsorship often extends beyond mere financial assistance": {
+    "uz": "Bundan tashqari, homiylik ko'pincha oddiy moliyaviy yordamdan tashqariga chiqadi",
+    "type": "academic"
+   }
+  }
+ },
+ "created_at": "2026-05-06T17:29:04.131113+00:00",
+ "updated_at": "2026-09-07T01:49:41.108321+00:00"
+}

@@ -1,0 +1,456 @@
+{
+ "id": 2289,
+ "mock_type": "ket-listening",
+ "mock_number": 27,
+ "title": "KET Listening — Test 27",
+ "status": "published",
+ "mock_data": {
+  "audio": {
+   "base": "https://audio.mock-stream.com/KET-Listening/test27/",
+   "files": {
+    "1": "PART1.m4a",
+    "2": "PART2.m4a",
+    "3": "PART3.m4a",
+    "4": "PART4.m4a",
+    "5": "PART5.m4a"
+   }
+  },
+  "parts": [
+   {
+    "type": "picture-mcq",
+    "items": [
+     {
+      "id": 1,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q1A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q1B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q1C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What instrument is Edward learning to play?"
+     },
+     {
+      "id": 2,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q2A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q2B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q2C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What will Anna have for breakfast today?"
+     },
+     {
+      "id": 3,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q3A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q3B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q3C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "How much is the watch?"
+     },
+     {
+      "id": 4,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q4A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q4B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q4C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What does Mandy's brother do?"
+     },
+     {
+      "id": 5,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q5A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q5B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q5C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Who is coming to stay this weekend?"
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "image": "q0A.png",
+       "letter": "A"
+      },
+      {
+       "image": "q0B.png",
+       "letter": "B"
+      },
+      {
+       "image": "q0C.png",
+       "letter": "C"
+      }
+     ],
+     "question": "How many people were at the meeting?"
+    },
+    "imageBase": "https://audio.mock-stream.com/KET-Listening/test27/p1/",
+    "partNumber": 1,
+    "instruction": [
+     "You will hear five short conversations.",
+     "You will hear each conversation twice.",
+     "There is one question for each conversation.",
+     "For questions 1–5, put a tick (✓) under the right answer."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "matching-list",
+    "items": [
+     {
+      "id": 6,
+      "name": "Tuesday",
+      "answer": "A"
+     },
+     {
+      "id": 7,
+      "name": "Wednesday",
+      "answer": "F"
+     },
+     {
+      "id": 8,
+      "name": "Thursday",
+      "answer": "B"
+     },
+     {
+      "id": 9,
+      "name": "Friday",
+      "answer": "C"
+     },
+     {
+      "id": 10,
+      "name": "Saturday",
+      "answer": "E"
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "name": "Monday",
+     "answer": "D",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "none",
+      "letter": "A"
+     },
+     {
+      "text": "one",
+      "letter": "B"
+     },
+     {
+      "text": "two",
+      "letter": "C"
+     },
+     {
+      "text": "three",
+      "letter": "D"
+     },
+     {
+      "text": "four",
+      "letter": "E"
+     },
+     {
+      "text": "five",
+      "letter": "F"
+     },
+     {
+      "text": "six",
+      "letter": "G"
+     },
+     {
+      "text": "seven",
+      "letter": "H"
+     }
+    ],
+    "scenario": "Sally and her father — free places on each day of a computer course",
+    "leftLabel": "Days",
+    "partNumber": 2,
+    "rightLabel": "Number of free places",
+    "instruction": [
+     "Listen to the conversation between Sally and her father about a computer course.",
+     "How many free places are there on the computer course each day?",
+     "For questions 6–10, write a letter A–H next to each day.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-conversation",
+    "items": [
+     {
+      "id": 11,
+      "stem": "Jenny was shown how to make the soup by",
+      "answer": "C",
+      "options": [
+       {
+        "text": "her aunt.",
+        "letter": "A"
+       },
+       {
+        "text": "her friend.",
+        "letter": "B"
+       },
+       {
+        "text": "her mother.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "stem": "How has Jenny improved the soup?",
+      "answer": "A",
+      "options": [
+       {
+        "text": "She adds less water.",
+        "letter": "A"
+       },
+       {
+        "text": "She makes it thinner.",
+        "letter": "B"
+       },
+       {
+        "text": "She uses bigger cups.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "stem": "To make it really good, Jenny adds",
+      "answer": "A",
+      "options": [
+       {
+        "text": "milk.",
+        "letter": "A"
+       },
+       {
+        "text": "butter.",
+        "letter": "B"
+       },
+       {
+        "text": "cream.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "stem": "How long does the soup take to make?",
+      "answer": "C",
+      "options": [
+       {
+        "text": "about 5 minutes",
+        "letter": "A"
+       },
+       {
+        "text": "about 10 minutes",
+        "letter": "B"
+       },
+       {
+        "text": "about 20 minutes",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "stem": "What will they eat next?",
+      "answer": "B",
+      "options": [
+       {
+        "text": "fruit cake",
+        "letter": "A"
+       },
+       {
+        "text": "pasta",
+        "letter": "B"
+       },
+       {
+        "text": "lemon chicken",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "stem": "To make the soup, Jenny uses",
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "text": "roast tomatoes.",
+       "letter": "A"
+      },
+      {
+       "text": "fresh tomatoes.",
+       "letter": "B"
+      },
+      {
+       "text": "a can of tomatoes.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partNumber": 3,
+    "instruction": [
+     "Listen to Stephen talking to Jenny about making some soup.",
+     "For questions 11–15, tick (✓) A, B or C.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "rows": [
+     {
+      "id": 16,
+      "label": "Colour of flowers:",
+      "answer": "pink"
+     },
+     {
+      "id": 17,
+      "label": "Season to see flowers:",
+      "answer": "Spring"
+     },
+     {
+      "id": 18,
+      "label": "Month to put plant outside:",
+      "answer": "September"
+     },
+     {
+      "id": 19,
+      "label": "Final size of plant:",
+      "answer": "40",
+      "suffix": "cm tall"
+     },
+     {
+      "id": 20,
+      "label": "Price of plant today:",
+      "answer": "8",
+      "prefix": "£"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 4",
+    "subtitle": "Name of plant: Sweet William",
+    "noteTitle": "Plant for Mum",
+    "partNumber": 4,
+    "instruction": [
+     "You will hear a boy asking for information about a plant.",
+     "Listen and complete questions 16–20.",
+     "You will hear the conversation twice."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "rows": [
+     {
+      "id": 21,
+      "label": "Travel there by:",
+      "answer": "train"
+     },
+     {
+      "id": 22,
+      "label": "Time to meet:",
+      "answer": "1.15",
+      "suffix": "p.m."
+     },
+     {
+      "id": 23,
+      "label": "Activities:",
+      "answer": "fishing",
+      "prefix": "walking and"
+     },
+     {
+      "id": 24,
+      "label": "How much money to take:",
+      "answer": "12",
+      "prefix": "£"
+     },
+     {
+      "id": 25,
+      "label": "Meet at end of day at:",
+      "answer": "Aster",
+      "prefix": "the",
+      "suffix": "Hotel"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 5",
+    "subtitle": "Name of lake: North Lake",
+    "noteTitle": "Day trip to the lake",
+    "partNumber": 5,
+    "instruction": [
+     "You will hear some information about a day trip.",
+     "Listen and complete questions 21–25.",
+     "You will hear the information twice."
+    ],
+    "questionsLabel": "QUESTIONS 21–25"
+   }
+  ],
+  "testInfo": {
+   "id": "ket-l-27",
+   "level": "A2",
+   "paper": "Paper 2",
+   "parts": 5,
+   "title": "KET Listening — Test 27",
+   "totalTime": 30,
+   "totalQuestions": 25
+  }
+ },
+ "created_at": "2026-10-14T06:45:35.530119+00:00",
+ "updated_at": "2026-10-14T06:47:20.843497+00:00"
+}

@@ -1,0 +1,910 @@
+{
+ "id": 2258,
+ "mock_type": "ket-reading-writing",
+ "mock_number": 24,
+ "title": "KET Reading & Writing — Test 24",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "match-notices",
+    "items": [
+     {
+      "id": 1,
+      "answer": "G",
+      "prompt": "If you'd like to see this place from the air, go in the morning."
+     },
+     {
+      "id": 2,
+      "answer": "F",
+      "prompt": "Use this if you are going up to one of these apartments."
+     },
+     {
+      "id": 3,
+      "answer": "D",
+      "prompt": "Phone this company if you want to go to the airport."
+     },
+     {
+      "id": 4,
+      "answer": "A",
+      "prompt": "It's possible to see this place at different times of the day."
+     },
+     {
+      "id": 5,
+      "answer": "H",
+      "prompt": "There are two ways to get tickets for this."
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "E",
+     "number": 0,
+     "prompt": "If you need somewhere to live soon, phone this number."
+    },
+    "notices": [
+     {
+      "text": "CASTLE TOURS EVERY 2 HOURS\nTUES – SUN",
+      "letter": "A"
+     },
+     {
+      "text": "Travellers' Hotel\n10 km from airport\n44 rooms",
+      "letter": "B"
+     },
+     {
+      "text": "Phone 552249\nto book theatre tickets\n2pm and 6pm shows",
+      "letter": "C"
+     },
+     {
+      "text": "Flight to catch?\nCall Beach Taxis first on 242 242",
+      "letter": "D"
+     },
+     {
+      "text": "One-bedroom apartment\nto rent from next month\nCall 314901",
+      "letter": "E"
+     },
+     {
+      "text": "Park House\nThis lift for apartments on floors 1–5",
+      "letter": "F"
+     },
+     {
+      "text": "Helicopter flight over\nDolphin Island leaves daily at 11:00",
+      "letter": "G"
+     },
+     {
+      "text": "Village Concert\npay at door or book\ntickets now on 998455",
+      "letter": "H"
+     }
+    ],
+    "partNumber": 1,
+    "instruction": [
+     "Which notice (A–H) says this (1–5)?",
+     "For questions 1–5, mark the correct letter A–H on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "mcq-gap-fill-sentences",
+    "items": [
+     {
+      "id": 6,
+      "answer": "C",
+      "options": [
+       {
+        "text": "single",
+        "letter": "A"
+       },
+       {
+        "text": "alone",
+        "letter": "B"
+       },
+       {
+        "text": "same",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Sally has worked in the _____ office since she left college."
+     },
+     {
+      "id": 7,
+      "answer": "B",
+      "options": [
+       {
+        "text": "goes",
+        "letter": "A"
+       },
+       {
+        "text": "takes",
+        "letter": "B"
+       },
+       {
+        "text": "brings",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Every day, Sally _____ the bus to work."
+     },
+     {
+      "id": 8,
+      "answer": "C",
+      "options": [
+       {
+        "text": "had",
+        "letter": "A"
+       },
+       {
+        "text": "used",
+        "letter": "B"
+       },
+       {
+        "text": "wore",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Yesterday, Sally _____ a dark blue skirt and jacket to work."
+     },
+     {
+      "id": 9,
+      "answer": "A",
+      "options": [
+       {
+        "text": "spent",
+        "letter": "A"
+       },
+       {
+        "text": "made",
+        "letter": "B"
+       },
+       {
+        "text": "kept",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Sally _____ most of her day at the office."
+     },
+     {
+      "id": 10,
+      "answer": "A",
+      "options": [
+       {
+        "text": "difficult",
+        "letter": "A"
+       },
+       {
+        "text": "tired",
+        "letter": "B"
+       },
+       {
+        "text": "delayed",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Yesterday was a _____ day for Sally because she had problems with her computer."
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "options": [
+      {
+       "text": "busy",
+       "letter": "A"
+      },
+      {
+       "text": "fast",
+       "letter": "B"
+      },
+      {
+       "text": "strong",
+       "letter": "C"
+      }
+     ],
+     "sentence": "Sally works in an office and she had a very _____ day there yesterday."
+    },
+    "partNumber": 2,
+    "instruction": [
+     "Read the sentences about Sally's day at work.",
+     "Choose the best word (A, B or C) for each space.",
+     "For questions 6–10, mark A, B or C on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-response",
+    "items": [
+     {
+      "id": 11,
+      "answer": "A",
+      "prompt": "I'd like a cup of coffee, please.",
+      "options": [
+       {
+        "text": "Of course.",
+        "letter": "A"
+       },
+       {
+        "text": "Yes, I do.",
+        "letter": "B"
+       },
+       {
+        "text": "I like that.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "answer": "C",
+      "prompt": "Rajni's a businesswoman, isn't she?",
+      "options": [
+       {
+        "text": "Where does he work?",
+        "letter": "A"
+       },
+       {
+        "text": "No, she can't.",
+        "letter": "B"
+       },
+       {
+        "text": "I think so.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "answer": "A",
+      "prompt": "Minsk isn't in Russia.",
+      "options": [
+       {
+        "text": "Where is it then?",
+        "letter": "A"
+       },
+       {
+        "text": "Does it have to be?",
+        "letter": "B"
+       },
+       {
+        "text": "Isn't it somewhere?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "answer": "B",
+      "prompt": "Do you agree with me?",
+      "options": [
+       {
+        "text": "I haven't.",
+        "letter": "A"
+       },
+       {
+        "text": "Certainly not.",
+        "letter": "B"
+       },
+       {
+        "text": "No, I'm not.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "answer": "B",
+      "prompt": "The train has just left.",
+      "options": [
+       {
+        "text": "When did they arrive?",
+        "letter": "A"
+       },
+       {
+        "text": "Is there another one?",
+        "letter": "B"
+       },
+       {
+        "text": "Where are our seats?",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "prompt": "Where do you come from?",
+     "options": [
+      {
+       "text": "New York.",
+       "letter": "A"
+      },
+      {
+       "text": "School.",
+       "letter": "B"
+      },
+      {
+       "text": "Home.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partLetter": "a",
+    "partNumber": 3,
+    "instruction": [
+     "Complete the five conversations.",
+     "For questions 11–15, mark A, B or C on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "type": "match-dialogue",
+    "items": [
+     {
+      "id": 16,
+      "answer": "H"
+     },
+     {
+      "id": 17,
+      "answer": "D"
+     },
+     {
+      "id": 18,
+      "answer": "A"
+     },
+     {
+      "id": 19,
+      "answer": "F"
+     },
+     {
+      "id": 20,
+      "answer": "B"
+     }
+    ],
+    "example": {
+     "answer": "C",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "I have to study first. How about a bit later?",
+      "letter": "A"
+     },
+     {
+      "text": "Good idea! Everyone likes those.",
+      "letter": "B"
+     },
+     {
+      "text": "I'd love to. Is it in the evening?",
+      "letter": "C"
+     },
+     {
+      "text": "If you like. Do you want to go in my car?",
+      "letter": "D"
+     },
+     {
+      "text": "Yes, I'll be there at ten.",
+      "letter": "E"
+     },
+     {
+      "text": "What do we need to get?",
+      "letter": "F"
+     },
+     {
+      "text": "I'm afraid I'm at work that day.",
+      "letter": "G"
+     },
+     {
+      "text": "Would you like me to help?",
+      "letter": "H"
+     }
+    ],
+    "dialogue": [
+     {
+      "line": "It's my birthday party on Friday. Can you come?",
+      "speaker": "Jenny"
+     },
+     {
+      "gap": 0,
+      "speaker": "Paula"
+     },
+     {
+      "line": "That's right – at eight o'clock. But I've got a lot to do before that.",
+      "speaker": "Jenny"
+     },
+     {
+      "gap": 16,
+      "speaker": "Paula"
+     },
+     {
+      "line": "Well, you could come with me tomorrow to buy some food.",
+      "speaker": "Jenny"
+     },
+     {
+      "gap": 17,
+      "speaker": "Paula"
+     },
+     {
+      "line": "That's a good idea. Shall we leave at about nine?",
+      "speaker": "Jenny"
+     },
+     {
+      "gap": 18,
+      "speaker": "Paula"
+     },
+     {
+      "line": "Ten then. I'll come to your house and we'll leave when you're ready.",
+      "speaker": "Jenny"
+     },
+     {
+      "gap": 19,
+      "speaker": "Paula"
+     },
+     {
+      "line": "Let's just buy pizza and cakes. Something quick and easy.",
+      "speaker": "Jenny"
+     },
+     {
+      "gap": 20,
+      "speaker": "Paula"
+     },
+     {
+      "line": "See you tomorrow then.",
+      "speaker": "Jenny"
+     }
+    ],
+    "partLetter": "b",
+    "partNumber": 3,
+    "instruction": [
+     "Complete the conversation between two friends.",
+     "What does Paula say to Jenny?",
+     "For questions 16–20, mark the correct letter A–H on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "type": "mcq-passage-rws",
+    "items": [
+     {
+      "id": 21,
+      "answer": "B",
+      "statement": "Some people think Susanna is the best basketball player in the world today."
+     },
+     {
+      "id": 22,
+      "answer": "C",
+      "statement": "Susanna has won an important competition with Boston Hawks."
+     },
+     {
+      "id": 23,
+      "answer": "B",
+      "statement": "Susanna's parents stopped playing basketball when Susanna was born."
+     },
+     {
+      "id": 24,
+      "answer": "A",
+      "statement": "Susanna first became interested in playing basketball when she was a little child."
+     },
+     {
+      "id": 25,
+      "answer": "B",
+      "statement": "Susanna's parents asked her to stop playing basketball when she was 12."
+     },
+     {
+      "id": 26,
+      "answer": "C",
+      "statement": "Susanna gets angry when her team loses."
+     },
+     {
+      "id": 27,
+      "answer": "A",
+      "statement": "Susanna knows what she wants to do with her life."
+     }
+    ],
+    "label": "PART 4",
+    "article": "Susanna Brightman is a young Australian basketball player. She is 195 cm tall, and very fast and strong. Some people say she may become the best player in the world one day. As well as playing for her own country, she plays for a team called Boston Hawks in America.\n\nSusanna was born on 15th June 1992. Her mother and father were both basketball players and when she was just 2 weeks old she was already travelling around the country with them while they played basketball. When she was still very young, Susanna told her parents she wanted to play for Australia. At the age of 16, she played for her country for the first time.\n\nBut things have not always been easy. When Susanna was 12, she toured Australia for the first time. One day, the team she was playing for lost an important match because Susanna didn't want to play. Susanna's parents were angry with her but told her that she didn't have to play basketball if she didn't want to. She needed to think hard about her future. Luckily, Susanna decided she wanted to be a basketball player after all, and since then she has worked very hard to become an even better player.",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "statement": "Susanna Brightman comes from Australia."
+    },
+    "partNumber": 4,
+    "instruction": [
+     "Read the article about a basketball player called Susanna Brightman.",
+     "Are sentences 21–27 'Right' (A) or 'Wrong' (B)?",
+     "If there is not enough information to answer 'Right' (A) or 'Wrong' (B), choose 'Doesn't say' (C).",
+     "For questions 21–27, mark A, B or C on your answer sheet."
+    ],
+    "articleTitle": "Susanna Brightman",
+    "questionsLabel": "QUESTIONS 21–27"
+   },
+   {
+    "type": "mcq-cloze-passage",
+    "items": [
+     {
+      "id": 28,
+      "answer": "B",
+      "options": [
+       {
+        "text": "they",
+        "letter": "A"
+       },
+       {
+        "text": "it",
+        "letter": "B"
+       },
+       {
+        "text": "he",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 29,
+      "answer": "B",
+      "options": [
+       {
+        "text": "since",
+        "letter": "A"
+       },
+       {
+        "text": "before",
+        "letter": "B"
+       },
+       {
+        "text": "already",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 30,
+      "answer": "A",
+      "options": [
+       {
+        "text": "of",
+        "letter": "A"
+       },
+       {
+        "text": "in",
+        "letter": "B"
+       },
+       {
+        "text": "from",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 31,
+      "answer": "C",
+      "options": [
+       {
+        "text": "Both",
+        "letter": "A"
+       },
+       {
+        "text": "Each",
+        "letter": "B"
+       },
+       {
+        "text": "Some",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 32,
+      "answer": "A",
+      "options": [
+       {
+        "text": "all",
+        "letter": "A"
+       },
+       {
+        "text": "other",
+        "letter": "B"
+       },
+       {
+        "text": "many",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 33,
+      "answer": "C",
+      "options": [
+       {
+        "text": "for",
+        "letter": "A"
+       },
+       {
+        "text": "by",
+        "letter": "B"
+       },
+       {
+        "text": "to",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 34,
+      "answer": "B",
+      "options": [
+       {
+        "text": "these",
+        "letter": "A"
+       },
+       {
+        "text": "there",
+        "letter": "B"
+       },
+       {
+        "text": "here",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 35,
+      "answer": "A",
+      "options": [
+       {
+        "text": "carried",
+        "letter": "A"
+       },
+       {
+        "text": "carries",
+        "letter": "B"
+       },
+       {
+        "text": "carrying",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 5",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "options": [
+      {
+       "text": "who",
+       "letter": "A"
+      },
+      {
+       "text": "why",
+       "letter": "B"
+      },
+      {
+       "text": "when",
+       "letter": "C"
+      }
+     ]
+    },
+    "passage": "No one knows {0} made the first kite. Some people say {28} was Archytas. He was interested in mathematics and lived in Greece 2400 years ago.\n\nBut perhaps people in China flew kites long {29} then. Flying kites has always been an important part of Chinese life. The ninth day of the ninth month is a special day that is called 'The Feast of High Flight' and the sky is full {30} kites. {31} look like fish or birds and {32} the family joins in the fun.\n\nKites have a lot of different uses. Scientists used them in the 18th century {33} learn about storms and other kinds of weather. At the end of the 19th century, before {34} were aeroplanes, a kite that was 11 metres long {35} a man 30 metres up into the air!",
+    "partNumber": 5,
+    "instruction": [
+     "Read the article about kites and their history.",
+     "Choose the best word (A, B or C) for each space.",
+     "For questions 28–35, mark A, B or C on your answer sheet."
+    ],
+    "passageTitle": "Kites",
+    "questionsLabel": "QUESTIONS 28–35"
+   },
+   {
+    "type": "vocab-first-letter",
+    "items": [
+     {
+      "id": 36,
+      "answer": "menu",
+      "prompt": "You choose from this list of food and drink in a restaurant.",
+      "letters": 4,
+      "firstLetter": "m"
+     },
+     {
+      "id": 37,
+      "answer": "dictionary",
+      "prompt": "You look in this if you want to know what a word means.",
+      "letters": 10,
+      "firstLetter": "d"
+     },
+     {
+      "id": 38,
+      "answer": "journalist",
+      "prompt": "This person may write for a newspaper or a magazine.",
+      "letters": 10,
+      "firstLetter": "j"
+     },
+     {
+      "id": 39,
+      "answer": "library",
+      "prompt": "People who like reading enjoy going to this place.",
+      "letters": 7,
+      "firstLetter": "l"
+     },
+     {
+      "id": 40,
+      "answer": "glasses",
+      "prompt": "Some people put these on when they want to read something.",
+      "letters": 7,
+      "firstLetter": "g"
+     }
+    ],
+    "label": "PART 6",
+    "example": {
+     "answer": "postcard",
+     "number": 0,
+     "prompt": "You write this to your friends or family when you are on holiday.",
+     "firstLetter": "p"
+    },
+    "partNumber": 6,
+    "instruction": [
+     "Read the descriptions of some words about reading and writing.",
+     "What is the word for each one?",
+     "The first letter is already there. There is one space for each other letter in the word.",
+     "For questions 36–40, write the words on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 36–40"
+   },
+   {
+    "type": "open-cloze-letter",
+    "items": [
+     {
+      "id": 41,
+      "answer": "to"
+     },
+     {
+      "id": 42,
+      "answer": "not"
+     },
+     {
+      "id": 43,
+      "answer": "lot"
+     },
+     {
+      "id": 44,
+      "answer": "by"
+     },
+     {
+      "id": 45,
+      "answer": "than"
+     },
+     {
+      "id": 46,
+      "answer": "it"
+     },
+     {
+      "id": 47,
+      "answer": "the"
+     },
+     {
+      "id": 48,
+      "answer": "see"
+     },
+     {
+      "id": 49,
+      "answer": "If"
+     },
+     {
+      "id": 50,
+      "answer": "be"
+     }
+    ],
+    "label": "PART 7",
+    "example": {
+     "answer": "am",
+     "number": 0
+    },
+    "letters": [
+     {
+      "body": "I (Example: am) writing to give you my new address – it's 24 Clifton Road. We still live in the same city but we have just moved {41} a new house. We are {42} too far from the old house so I can still see a {43} of my friends. And it's easy to go to the shops {44} bus.\n\nThe new house is bigger {45} the old one and everyone likes {46}. There are three bedrooms – mine is {47} largest. From the window I can just {48} the river.\n\n{49} you have time, please come and visit us. Everyone will {50} happy to see you.",
+      "header": "From: Jan\nTo:   Monica",
+      "closing": "",
+      "greeting": "Hi Monica,"
+     }
+    ],
+    "partNumber": 7,
+    "instruction": [
+     "Complete the email.",
+     "Write ONE word for each space.",
+     "For questions 41–50, write the words on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 41–50"
+   },
+   {
+    "note": {
+     "body": "",
+     "dateLine": "",
+     "signature": ""
+    },
+    "rows": [
+     {
+      "label": "Name of college:",
+      "prefilled": "Hexham College"
+     },
+     {
+      "id": 51,
+      "label": "Which language:",
+      "answer": "Spanish"
+     },
+     {
+      "id": 52,
+      "label": "Day:",
+      "answer": "Wednesday"
+     },
+     {
+      "id": 53,
+      "label": "Start date:",
+      "answer": "15 December"
+     },
+     {
+      "id": 54,
+      "label": "Number of weeks:",
+      "answer": "14"
+     },
+     {
+      "id": 55,
+      "label": "Cost:",
+      "answer": "105",
+      "suffix": "£"
+     }
+    ],
+    "type": "info-transfer-notes",
+    "label": "PART 8",
+    "notice": {
+     "body": "Hexham College\nCourses\n\nFrench (Monday or Friday class)\nFirst class: 6 December\n\nSpanish (Wednesday or Friday class)\nFirst class: 15 December\n\nCost\n10 weeks – Beginners £85\n         – Advanced £95\n14 weeks – Beginners £105\n         – Advanced £125\n\n—————————————\nFrom: Mick\nTo:   Brian\n\nCan you book me onto a beginners language course at your college? I studied French last year so I want to try Spanish this time. I'd like to do the longer course and I have football practice on Friday, so I can't do a class then.",
+     "title": "Hexham College + Email"
+    },
+    "notesTitle": "Brian's notes",
+    "partNumber": 8,
+    "instruction": [
+     "Read the notice and the email.",
+     "Fill in the information in Brian's notes.",
+     "For questions 51–55, write the information on your answer sheet."
+    ],
+    "notesSubtitle": "Language course",
+    "questionsLabel": "QUESTIONS 51–55"
+   },
+   {
+    "type": "writing-postcard",
+    "items": [
+     {
+      "id": 56,
+      "type": "free-text",
+      "answer": "Dear Jools,\nthanks for your email. I go every Monday to the music club on the High Street. I'm studying to play the piano. Come to hear me,\nwith love Maria",
+      "maxWords": 35,
+      "minWords": 25
+     }
+    ],
+    "label": "PART 9",
+    "footer": [
+     "Write 25–35 words.",
+     "Write the email on your answer sheet."
+    ],
+    "prompt": "Please tell me about the music club you go to.\n\nWhere is it? What day is it? What do you do there?",
+    "wordCount": "25–35 words",
+    "partNumber": 9,
+    "instruction": [
+     "Read the email from your English friend, Jools.",
+     "Write an email to Jools and answer the questions."
+    ],
+    "questionsLabel": "QUESTION 56",
+    "promptSignature": "Jools"
+   }
+  ],
+  "testInfo": {
+   "id": "ket-rw-24",
+   "level": "A2",
+   "paper": "Paper 1",
+   "parts": 9,
+   "title": "KET Reading & Writing — Test 24",
+   "totalTime": 70,
+   "totalQuestions": 56
+  }
+ },
+ "created_at": "2026-10-14T06:45:12.702576+00:00",
+ "updated_at": "2026-10-14T06:47:00.061046+00:00"
+}

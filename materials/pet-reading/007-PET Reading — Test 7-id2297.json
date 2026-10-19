@@ -1,0 +1,681 @@
+{
+ "id": 2297,
+ "mock_type": "pet-reading",
+ "mock_number": 7,
+ "title": "PET Reading — Test 7",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "sign-mcq",
+    "items": [
+     {
+      "id": 1,
+      "image": "https://audio.mock-stream.com/PET-Reading/test7/q1.png",
+      "answer": "B",
+      "prompt": " ",
+      "options": [
+       {
+        "text": "The college secretary will post students their essays on Friday.",
+        "letter": "A"
+       },
+       {
+        "text": "Students may hand in their essays after Friday if they can prove illness.",
+        "letter": "B"
+       },
+       {
+        "text": "Unless your essay is due by Friday, you do not need to reply.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 2,
+      "image": "https://audio.mock-stream.com/PET-Reading/test7/q2.png",
+      "answer": "A",
+      "prompt": " ",
+      "options": [
+       {
+        "text": "Take the tablets regularly until the bottle is empty.",
+        "letter": "A"
+       },
+       {
+        "text": "Take one tablet every day until they are finished.",
+        "letter": "B"
+       },
+       {
+        "text": "Take three tablets after meals until you feel better.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 3,
+      "image": "https://audio.mock-stream.com/PET-Reading/test7/q3.png",
+      "answer": "C",
+      "prompt": "Kim suggests",
+      "options": [
+       {
+        "text": "meeting at the football match.",
+        "letter": "A"
+       },
+       {
+        "text": "going to Ben's house later.",
+        "letter": "B"
+       },
+       {
+        "text": "playing on his brother's computer.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 4,
+      "image": "https://audio.mock-stream.com/PET-Reading/test7/q4.png",
+      "answer": "B",
+      "prompt": " ",
+      "options": [
+       {
+        "text": "John can deliver the sofa if the time is convenient.",
+        "letter": "A"
+       },
+       {
+        "text": "Anyone wanting this sofa must pick it up this week.",
+        "letter": "B"
+       },
+       {
+        "text": "Call John with advice on how he can transport his sofa.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 5,
+      "image": "https://audio.mock-stream.com/PET-Reading/test7/q5.png",
+      "answer": "C",
+      "prompt": "The hire charge covers all the costs",
+      "options": [
+       {
+        "text": "including fuel and insurance.",
+        "letter": "A"
+       },
+       {
+        "text": "except insurance.",
+        "letter": "B"
+       },
+       {
+        "text": "apart from fuel.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "image": "https://audio.mock-stream.com/PET-Reading/test7/q0.png",
+     "answer": "A",
+     "number": 0,
+     "prompt": "NO BICYCLES AGAINST GLASS PLEASE",
+     "options": [
+      {
+       "text": "Do not leave your bicycle touching the window.",
+       "letter": "A"
+      },
+      {
+       "text": "Do not ride your bicycle in this area.",
+       "letter": "B"
+      },
+      {
+       "text": "Broken glass may damage your bicycle tyres.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partNumber": 1,
+    "instruction": [
+     "Look at the text in each question.",
+     "What does it say?",
+     "Mark the letter next to the correct explanation – A, B or C – on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "match-people-texts",
+    "items": [
+     {
+      "id": 6,
+      "name": "Marta",
+      "image": "https://audio.mock-stream.com/PET-Reading/test7/p6.png",
+      "answer": "H",
+      "description": "Marta wants a course in Business Studies and English, starting in September. She would prefer to be in a city, but wants a college which will organise visits, so she can see something of Britain."
+     },
+     {
+      "id": 7,
+      "name": "Jean",
+      "image": "https://audio.mock-stream.com/PET-Reading/test7/p7.png",
+      "answer": "A",
+      "description": "Jean wants to attend classes for a few hours a week in July, so that he has plenty of free time to visit the countryside. He wants to stay in a city, with a family."
+     },
+     {
+      "id": 8,
+      "name": "Laura",
+      "image": "https://audio.mock-stream.com/PET-Reading/test7/p8.png",
+      "answer": "F",
+      "description": "Laura is looking for a full-time beginners' course and can come to Britain at any time. She is keen on sport and wants to stay with a family."
+     },
+     {
+      "id": 9,
+      "name": "Marek",
+      "image": "https://audio.mock-stream.com/PET-Reading/test7/p9.png",
+      "answer": "C",
+      "description": "Marek likes big cities. He hopes to find work during the day, so he is looking for an evening class. He wants to live in a flat or house."
+     },
+     {
+      "id": 10,
+      "name": "Birgit",
+      "image": "https://audio.mock-stream.com/PET-Reading/test7/p10.png",
+      "answer": "E",
+      "description": "Birgit is going to spend August in Britain. She knows some English already and wants a full-time course. She wants to meet people through the college and live with a family."
+     }
+    ],
+    "label": "PART 2",
+    "texts": [
+     {
+      "body": "Situated in a pleasant area of the city close to the river. Convenient for North Wales and the English Lake District.\n• Courses in English run all year.\n• Part-time courses available in the evenings/days.\n• We will arrange accommodation with an English family.",
+      "title": "Lowton College",
+      "letter": "A"
+     },
+     {
+      "body": "The college is in the centre of Bristow.\n• Full-time courses at all levels, beginners to advanced, from September to June.\n• Visits arranged to places of interest.\n• Excellent range of sports offered.\n• Students arrange their own accommodation in flats and houses.",
+      "title": "Bristow College",
+      "letter": "B"
+     },
+     {
+      "body": "Shepton College is in the centre of London close to underground and buses.\n☆ Classes are offered all through the year.\n☆ Daytime English courses up to ten hours per week. Evening classes of four hours per week.\n☆ Extra classes offered in English for Business.\n☆ Students arrange their own accommodation in flats and houses.",
+      "title": "Shepton College",
+      "letter": "C"
+     },
+     {
+      "body": "Situated in West London close to bus and underground.\n● Courses run from September to July (daytime only).\n● Special courses available, e.g. English for Business.\n● Summer school in July and August.\n● Accommodation arranged in student hostels.",
+      "title": "Frampton College",
+      "letter": "D"
+     },
+     {
+      "body": "Daunston is a small town in the Midlands near pleasant countryside.\n● Part-time and full-time classes available in August.\n● Full-time summer school in August.\n● Complete beginners part-time only.\n● Trips and other social events arranged regularly.\n● Accommodation in the college or with families.",
+      "title": "Daunston College",
+      "letter": "E"
+     },
+     {
+      "body": "Exford is beside the sea and surrounded by beautiful countryside.\n➤ Courses at all levels, September to June (full-time).\n➤ Summer schools (mornings only) during August.\n➤ Full social programme including sports and hobby clubs provided by the college.\n➤ Students live in college rooms or with families.",
+      "title": "Exford College",
+      "letter": "F"
+     },
+     {
+      "body": "Situated in the centre of Chesford, a quiet market town.\n◊ English courses offered from September to June, daytime and evenings.\n◊ Trips organised to Cambridge, Oxford and London.\n◊ Accommodation is with local families.",
+      "title": "Chesford College",
+      "letter": "G"
+     },
+     {
+      "body": "The college is in the city centre, but near the North Yorkshire countryside and the sea.\n• Classes run from September to June.\n• Part-time and full-time courses from beginners to advanced (daytime only).\n• Full-time courses in English with Business Studies.\n• Trips arranged to places of interest.\n• Help given in finding a flat or room in the area.",
+      "title": "Howe College",
+      "letter": "H"
+     }
+    ],
+    "partNumber": 2,
+    "textsTitle": "English Colleges in Britain",
+    "instruction": [
+     "The people below all want to come to Britain to study English.",
+     "On the opposite page there are descriptions of eight colleges.",
+     "Decide which college (letters A–H) would be the most suitable for each person (numbers 6–10).",
+     "For each of these numbers mark the correct letter on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "true-false",
+    "items": [
+     {
+      "id": 11,
+      "answer": "A",
+      "statement": "The River Wensum flows through East Anglia."
+     },
+     {
+      "id": 12,
+      "answer": "A",
+      "statement": "People have lived by the River Wensum for at least 2000 years."
+     },
+     {
+      "id": 13,
+      "answer": "B",
+      "statement": "In the 11th century, Norwich was a small village."
+     },
+     {
+      "id": 14,
+      "answer": "B",
+      "statement": "Norwich has been a city since its first cathedral was built."
+     },
+     {
+      "id": 15,
+      "answer": "B",
+      "statement": "Norwich has always been one of the smallest English cities."
+     },
+     {
+      "id": 16,
+      "answer": "B",
+      "statement": "There are more than 50 churches in Norwich."
+     },
+     {
+      "id": 17,
+      "answer": "A",
+      "statement": "The number of students in Norwich is increasing."
+     },
+     {
+      "id": 18,
+      "answer": "B",
+      "statement": "The Norwich City football team is called 'The Canaries' because of the colours the players wear."
+     },
+     {
+      "id": 19,
+      "answer": "A",
+      "statement": "'The Castle Mall' took more than two years to build."
+     },
+     {
+      "id": 20,
+      "answer": "A",
+      "statement": "Norwich people still like using the old market as well as shopping in 'The Castle Mall'."
+     }
+    ],
+    "label": "PART 3",
+    "passage": "Norwich, the capital of the part of Britain known as East Anglia, has existed as a place to live for more than two thousand years. It began as a small village beside the River Wensum. At the time of the Norman invasion in 1066 it had grown to become one of the largest towns in England.\n\nWith two cathedrals and a mosque, Norwich has long been a popular centre for various religions. The first cathedral was built in 1095 and has recently celebrated its 900th anniversary, while Norwich itself had a year of celebration in 1994 to mark the 800th anniversary of the city receiving a Royal Charter. This allowed it to be called a city and to govern itself independently.\n\nToday, in comparison with places like London or Manchester, Norwich is quite small, with a population of around 150,000, but in the 16th century Norwich was the second city of England. It continued to grow for the next 300 years and got richer and richer, becoming famous for having as many churches as there are weeks in the year and as many pubs as there are days in the year.\n\nNowadays, there are far fewer churches and pubs, but in 1964 the University of East Anglia was built in Norwich. With its fast-growing student population and its success as a modern commercial centre (Norwich is the biggest centre for insurance services outside London), the city now has a wide choice of entertainment: theatres, cinemas, nightclubs, busy cafés, excellent restaurants, and a number of arts and leisure centres. There is also a football team, whose colours are green and yellow. The team is known as 'The Canaries', though nobody can be sure why.\n\nNow the city's attractions include another important development, a modern shopping centre called 'The Castle Mall'. The people of Norwich lived with a very large hole in the middle of their city for over two years, as builders dug up the main car park. Lorries moved nearly a million tons of earth so that the roof of the Mall could become a city centre park, with attractive water pools and hundreds of trees. But the local people are really pleased that the old open market remains, right in the heart of the city and next to the new development. Both areas continue to do good business, proving that Norwich has managed to mix the best of the old and the new.",
+    "partNumber": 3,
+    "instruction": [
+     "Look at the sentences below about an English city.",
+     "Read the text on the opposite page to decide if each sentence is correct or incorrect.",
+     "If it is correct, mark A on your answer sheet.",
+     "If it is not correct, mark B on your answer sheet."
+    ],
+    "passageImage": "https://audio.mock-stream.com/PET-Reading/test7/passage3.jpg",
+    "passageTitle": "Norwich",
+    "questionsLabel": "QUESTIONS 11–20"
+   },
+   {
+    "type": "passage-mcq",
+    "items": [
+     {
+      "id": 21,
+      "answer": "B",
+      "prompt": "What is the writer's main purpose in writing this text?",
+      "options": [
+       {
+        "text": "to tell the reader her life story",
+        "letter": "A"
+       },
+       {
+        "text": "to introduce her ideas to the reader",
+        "letter": "B"
+       },
+       {
+        "text": "to explain how international companies operate",
+        "letter": "C"
+       },
+       {
+        "text": "to tell the reader how she brought up a family",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 22,
+      "answer": "D",
+      "prompt": "What would someone learn from this text?",
+      "options": [
+       {
+        "text": "how to make a lot of money",
+        "letter": "A"
+       },
+       {
+        "text": "how to write a book about business",
+        "letter": "B"
+       },
+       {
+        "text": "what the writer's family is like",
+        "letter": "C"
+       },
+       {
+        "text": "what the writer's book is about",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 23,
+      "answer": "C",
+      "prompt": "How does the writer feel about the business she runs?",
+      "options": [
+       {
+        "text": "She doesn't care about success if her children are fed.",
+        "letter": "A"
+       },
+       {
+        "text": "She just runs it for her own entertainment.",
+        "letter": "B"
+       },
+       {
+        "text": "It is not like any other company.",
+        "letter": "C"
+       },
+       {
+        "text": "It is likely to become even more successful.",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 24,
+      "answer": "C",
+      "prompt": "What kind of workers does the writer like to employ?",
+      "options": [
+       {
+        "text": "workers who can explain her ideas",
+        "letter": "A"
+       },
+       {
+        "text": "workers who get on well with the public",
+        "letter": "B"
+       },
+       {
+        "text": "workers who have the same attitudes as she does",
+        "letter": "C"
+       },
+       {
+        "text": "workers who have their own families",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 25,
+      "answer": "A",
+      "prompt": "What kind of person does the writer seem to be?",
+      "options": [
+       {
+        "text": "She seems to be someone with strong opinions.",
+        "letter": "A"
+       },
+       {
+        "text": "She doesn't seem to be very confident.",
+        "letter": "B"
+       },
+       {
+        "text": "She is mainly interested in making money.",
+        "letter": "C"
+       },
+       {
+        "text": "She sees running a business as just a job.",
+        "letter": "D"
+       }
+      ]
+     }
+    ],
+    "label": "PART 4",
+    "passage": "When I opened the first 'Body Shop' in 1976 my only object was to earn enough to feed my children. Today 'The Body Shop' is an international company rapidly growing all around the world. In the years since we began I have learned a lot. Much of what I have learned will be found in this book, for I believe that we, as a company, have something worth saying about how to run a successful business without giving up what we really believe in.\n\nIt's not a normal business book, nor is it just about my life. The message is that to succeed in business you have to be different. Business can be fun, a business can be run with love and it can do good. In business, as in life, I need to enjoy myself, to have a feeling of family and to feel excited by the unexpected. I have always wanted the people who work for 'The Body Shop' to feel the same way.\n\nNow this book sends these ideas of mine out into the world, makes them public. I'd like to think there are no limits to our 'family', no limits to what can be done. I find that an exciting thought. I hope you do, too.",
+    "partNumber": 4,
+    "instruction": [
+     "Read the text and questions below.",
+     "For each question, mark the letter next to the correct answer – A, B, C or D – on your answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 21–25"
+   },
+   {
+    "type": "passage-cloze",
+    "items": [
+     {
+      "id": 26,
+      "answer": "C",
+      "options": [
+       {
+        "text": "of",
+        "letter": "A"
+       },
+       {
+        "text": "lot",
+        "letter": "B"
+       },
+       {
+        "text": "few",
+        "letter": "C"
+       },
+       {
+        "text": "couple",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 27,
+      "answer": "D",
+      "options": [
+       {
+        "text": "from",
+        "letter": "A"
+       },
+       {
+        "text": "to",
+        "letter": "B"
+       },
+       {
+        "text": "as",
+        "letter": "C"
+       },
+       {
+        "text": "than",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 28,
+      "answer": "A",
+      "options": [
+       {
+        "text": "but",
+        "letter": "A"
+       },
+       {
+        "text": "because",
+        "letter": "B"
+       },
+       {
+        "text": "unless",
+        "letter": "C"
+       },
+       {
+        "text": "since",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 29,
+      "answer": "B",
+      "options": [
+       {
+        "text": "drive",
+        "letter": "A"
+       },
+       {
+        "text": "travel",
+        "letter": "B"
+       },
+       {
+        "text": "ride",
+        "letter": "C"
+       },
+       {
+        "text": "pass",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 30,
+      "answer": "C",
+      "options": [
+       {
+        "text": "a",
+        "letter": "A"
+       },
+       {
+        "text": "one",
+        "letter": "B"
+       },
+       {
+        "text": "the",
+        "letter": "C"
+       },
+       {
+        "text": "its",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 31,
+      "answer": "B",
+      "options": [
+       {
+        "text": "lets",
+        "letter": "A"
+       },
+       {
+        "text": "allows",
+        "letter": "B"
+       },
+       {
+        "text": "offers",
+        "letter": "C"
+       },
+       {
+        "text": "gives",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 32,
+      "answer": "A",
+      "options": [
+       {
+        "text": "centre",
+        "letter": "A"
+       },
+       {
+        "text": "circle",
+        "letter": "B"
+       },
+       {
+        "text": "middle",
+        "letter": "C"
+       },
+       {
+        "text": "heart",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 33,
+      "answer": "D",
+      "options": [
+       {
+        "text": "leave",
+        "letter": "A"
+       },
+       {
+        "text": "period",
+        "letter": "B"
+       },
+       {
+        "text": "take",
+        "letter": "C"
+       },
+       {
+        "text": "set",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 34,
+      "answer": "B",
+      "options": [
+       {
+        "text": "but",
+        "letter": "A"
+       },
+       {
+        "text": "which",
+        "letter": "B"
+       },
+       {
+        "text": "who",
+        "letter": "C"
+       },
+       {
+        "text": "where",
+        "letter": "D"
+       }
+      ]
+     },
+     {
+      "id": 35,
+      "answer": "A",
+      "options": [
+       {
+        "text": "scenery",
+        "letter": "A"
+       },
+       {
+        "text": "view",
+        "letter": "B"
+       },
+       {
+        "text": "site",
+        "letter": "C"
+       },
+       {
+        "text": "beauty",
+        "letter": "D"
+       }
+      ]
+     }
+    ],
+    "label": "PART 5",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "prompt": "A of   B down   C in   D through"
+    },
+    "passage": "The Rocky Mountains run almost the length (0) ___ North America. They start in the North-west, but lie only a (26) ___ hundred miles from the centre in more southern areas. Although the Rockies are smaller (27) ___ the Alps, they are no less wonderful.\n\nThere are many roads across the Rockies, (28) ___ the best way to see them is to (29) ___ by train. You start from Vancouver, (30) ___ most attractive of Canada's big cities. Standing with its feet in the water and its head in the mountains, this city (31) ___ its residents to ski on slopes just 15 minutes by car from the city (32) ___.\n\nThirty passenger trains a day used to (33) ___ off from Vancouver on the cross-continent railway. Now there are just three a week, but the ride is still a great adventure. You sleep on board, (34) ___ is fun, but travel through some of the best (35) ___ at night.",
+    "partNumber": 5,
+    "instruction": [
+     "Read the text below and choose the correct word for each space.",
+     "For each question, mark the letter next to the correct word – A, B, C or D – on your answer sheet."
+    ],
+    "passageTitle": "THE ROCKIES",
+    "questionsLabel": "QUESTIONS 26–35"
+   }
+  ],
+  "testInfo": {
+   "id": "pet-r-07",
+   "level": "B1",
+   "paper": "Paper 1 · Reading",
+   "parts": 5,
+   "title": "PET Reading — Test 7",
+   "totalTime": 50,
+   "totalQuestions": 35
+  }
+ },
+ "created_at": "2026-10-14T06:45:40.769947+00:00",
+ "updated_at": "2026-10-14T06:47:26.302279+00:00"
+}

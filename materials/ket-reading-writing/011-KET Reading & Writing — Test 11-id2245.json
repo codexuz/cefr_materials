@@ -1,0 +1,909 @@
+{
+ "id": 2245,
+ "mock_type": "ket-reading-writing",
+ "mock_number": 11,
+ "title": "KET Reading & Writing — Test 11",
+ "status": "published",
+ "mock_data": {
+  "parts": [
+   {
+    "type": "match-notices",
+    "items": [
+     {
+      "id": 1,
+      "answer": "H",
+      "prompt": "This is only for young people."
+     },
+     {
+      "id": 2,
+      "answer": "B",
+      "prompt": "Go to the next floor if you want a drink."
+     },
+     {
+      "id": 3,
+      "answer": "C",
+      "prompt": "You cannot drive here today."
+     },
+     {
+      "id": 4,
+      "answer": "G",
+      "prompt": "We are open every day."
+     },
+     {
+      "id": 5,
+      "answer": "D",
+      "prompt": "Do not bring your lunch in here."
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "F",
+     "number": 0,
+     "prompt": "We sell clothes."
+    },
+    "notices": [
+     {
+      "text": "",
+      "letter": "A"
+     },
+     {
+      "text": "COFFEE MACHINE UPSTAIRS",
+      "letter": "B"
+     },
+     {
+      "text": "DANGER – FOG!\nMOTORWAY CLOSED",
+      "letter": "C"
+     },
+     {
+      "text": "COMPUTER ROOM\nNo food or drinks inside",
+      "letter": "D"
+     },
+     {
+      "text": "Restaurant closed\nTuesday and Thursday lunchtime",
+      "letter": "E"
+     },
+     {
+      "text": "Ladies' and children's\ncoats upstairs",
+      "letter": "F"
+     },
+     {
+      "text": "Kenyan Coffee Centre\nOpening hours:\n8 a.m. – 6 p.m. daily",
+      "letter": "G"
+     },
+     {
+      "text": "Under 12s swimming course\nSaturday 10 a.m.",
+      "letter": "H"
+     }
+    ],
+    "partNumber": 1,
+    "instruction": [
+     "Which notice (A–H) says this (1–5)?",
+     "For questions 1–5, mark the correct letter A–H on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 1–5"
+   },
+   {
+    "type": "mcq-gap-fill-sentences",
+    "items": [
+     {
+      "id": 6,
+      "answer": "C",
+      "options": [
+       {
+        "text": "travelled",
+        "letter": "A"
+       },
+       {
+        "text": "went",
+        "letter": "B"
+       },
+       {
+        "text": "took",
+        "letter": "C"
+       }
+      ],
+      "sentence": "He _____ a bus to the big department store in the centre of town."
+     },
+     {
+      "id": 7,
+      "answer": "B",
+      "options": [
+       {
+        "text": "stairs",
+        "letter": "A"
+       },
+       {
+        "text": "floor",
+        "letter": "B"
+       },
+       {
+        "text": "room",
+        "letter": "C"
+       }
+      ],
+      "sentence": "The shoes were on the top _____ near to the café."
+     },
+     {
+      "id": 8,
+      "answer": "A",
+      "options": [
+       {
+        "text": "wrong",
+        "letter": "A"
+       },
+       {
+        "text": "different",
+        "letter": "B"
+       },
+       {
+        "text": "big",
+        "letter": "C"
+       }
+      ],
+      "sentence": "The assistant showed Jack several pairs but they were all the _____ size."
+     },
+     {
+      "id": 9,
+      "answer": "A",
+      "options": [
+       {
+        "text": "tried",
+        "letter": "A"
+       },
+       {
+        "text": "wore",
+        "letter": "B"
+       },
+       {
+        "text": "chose",
+        "letter": "C"
+       }
+      ],
+      "sentence": "Then he _____ on some red and black leather football boots."
+     },
+     {
+      "id": 10,
+      "answer": "C",
+      "options": [
+       {
+        "text": "high",
+        "letter": "A"
+       },
+       {
+        "text": "great",
+        "letter": "B"
+       },
+       {
+        "text": "expensive",
+        "letter": "C"
+       }
+      ],
+      "sentence": "'They're not too _____ so I'll have them,' Jack said."
+     }
+    ],
+    "label": "PART 2",
+    "example": {
+     "answer": "C",
+     "number": 0,
+     "options": [
+      {
+       "text": "enjoyed",
+       "letter": "A"
+      },
+      {
+       "text": "got",
+       "letter": "B"
+      },
+      {
+       "text": "needed",
+       "letter": "C"
+      }
+     ],
+     "sentence": "Jack _____ to buy a new pair of shoes for school."
+    },
+    "partNumber": 2,
+    "instruction": [
+     "Read the sentences (6–10) about a shopping trip.",
+     "Choose the best word (A, B or C) for each space.",
+     "For questions 6–10, mark A, B or C on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 6–10"
+   },
+   {
+    "type": "mcq-response",
+    "items": [
+     {
+      "id": 11,
+      "answer": "B",
+      "prompt": "It's my sister's birthday tomorrow!",
+      "options": [
+       {
+        "text": "Happy New Year!",
+        "letter": "A"
+       },
+       {
+        "text": "Is she going to have a party?",
+        "letter": "B"
+       },
+       {
+        "text": "How old are they?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "answer": "A",
+      "prompt": "Mary will help the teacher.",
+      "options": [
+       {
+        "text": "Are you certain?",
+        "letter": "A"
+       },
+       {
+        "text": "Do you understand?",
+        "letter": "B"
+       },
+       {
+        "text": "Can you hear?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "answer": "C",
+      "prompt": "I would like to see the doctor.",
+      "options": [
+       {
+        "text": "I hope you'll feel better soon.",
+        "letter": "A"
+       },
+       {
+        "text": "It hurts a lot.",
+        "letter": "B"
+       },
+       {
+        "text": "Have you got an appointment?",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 14,
+      "answer": "C",
+      "prompt": "Shall we leave now?",
+      "options": [
+       {
+        "text": "Have you got time?",
+        "letter": "A"
+       },
+       {
+        "text": "Near the station?",
+        "letter": "B"
+       },
+       {
+        "text": "I'd like to stay.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 15,
+      "answer": "C",
+      "prompt": "Anything else?",
+      "options": [
+       {
+        "text": "No, it isn't.",
+        "letter": "A"
+       },
+       {
+        "text": "Not at all.",
+        "letter": "B"
+       },
+       {
+        "text": "Not today, thanks.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 3",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "prompt": "How old are you?",
+     "options": [
+      {
+       "text": "I'm 18.",
+       "letter": "A"
+      },
+      {
+       "text": "I'm Sally.",
+       "letter": "B"
+      },
+      {
+       "text": "I'm fine.",
+       "letter": "C"
+      }
+     ]
+    },
+    "partLetter": "a",
+    "partNumber": 3,
+    "instruction": [
+     "Complete the five conversations.",
+     "For conversations 11–15, mark A, B or C on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 11–15"
+   },
+   {
+    "type": "match-dialogue",
+    "items": [
+     {
+      "id": 16,
+      "answer": "B"
+     },
+     {
+      "id": 17,
+      "answer": "H"
+     },
+     {
+      "id": 18,
+      "answer": "C"
+     },
+     {
+      "id": 19,
+      "answer": "E"
+     },
+     {
+      "id": 20,
+      "answer": "D"
+     }
+    ],
+    "example": {
+     "answer": "G",
+     "number": 0
+    },
+    "options": [
+     {
+      "text": "I'd like a salad and a main course.",
+      "letter": "A"
+     },
+     {
+      "text": "How long will we have to wait?",
+      "letter": "B"
+     },
+     {
+      "text": "Yes, we'll have two glasses of mineral water.",
+      "letter": "C"
+     },
+     {
+      "text": "Right. Where can we leave our coats?",
+      "letter": "D"
+     },
+     {
+      "text": "I need to make a telephone call.",
+      "letter": "E"
+     },
+     {
+      "text": "We'll go somewhere else.",
+      "letter": "F"
+     },
+     {
+      "text": "Have you got a table for two, please?",
+      "letter": "G"
+     },
+     {
+      "text": "That's all right. Can we see the menu, please?",
+      "letter": "H"
+     }
+    ],
+    "dialogue": [
+     {
+      "line": "Good evening. Can I help you?",
+      "speaker": "Waiter"
+     },
+     {
+      "gap": 0,
+      "speaker": "Chris"
+     },
+     {
+      "line": "I'm afraid we haven't got a table free at the moment.",
+      "speaker": "Waiter"
+     },
+     {
+      "gap": 16,
+      "speaker": "Chris"
+     },
+     {
+      "line": "About a quarter of an hour. Those people in the corner have nearly finished.",
+      "speaker": "Waiter"
+     },
+     {
+      "gap": 17,
+      "speaker": "Chris"
+     },
+     {
+      "line": "Of course. Can I bring you a drink?",
+      "speaker": "Waiter"
+     },
+     {
+      "gap": 18,
+      "speaker": "Chris"
+     },
+     {
+      "line": "Certainly. Anything else I can do for you?",
+      "speaker": "Waiter"
+     },
+     {
+      "gap": 19,
+      "speaker": "Chris"
+     },
+     {
+      "line": "There's a phone outside the kitchen.",
+      "speaker": "Waiter"
+     },
+     {
+      "gap": 20,
+      "speaker": "Chris"
+     },
+     {
+      "line": "I'll take them for you. Your table will be ready soon.",
+      "speaker": "Waiter"
+     }
+    ],
+    "partLetter": "b",
+    "partNumber": 3,
+    "instruction": [
+     "Complete the conversation.",
+     "What does Chris say to the waiter?",
+     "For questions 16–20, mark the correct letter A–H on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 16–20"
+   },
+   {
+    "type": "mcq-passage-rws",
+    "items": [
+     {
+      "id": 21,
+      "answer": "A",
+      "statement": "Stephen thinks a lot about music after a concert."
+     },
+     {
+      "id": 22,
+      "answer": "C",
+      "statement": "Keith's accident happened last year."
+     },
+     {
+      "id": 23,
+      "answer": "B",
+      "statement": "Keith goes to the sports centre five days a week now."
+     },
+     {
+      "id": 24,
+      "answer": "B",
+      "statement": "Ronan thinks he drinks enough water every day."
+     },
+     {
+      "id": 25,
+      "answer": "B",
+      "statement": "Shane is only happy when he's working."
+     },
+     {
+      "id": 26,
+      "answer": "A",
+      "statement": "Mikey was often tired before he started eating vegetables."
+     },
+     {
+      "id": 27,
+      "answer": "C",
+      "statement": "Mikey's favourite food is burgers."
+     }
+    ],
+    "label": "PART 4",
+    "article": "Stephen: Sleeping well is very important. When I can get home to my mother's house, I sleep for ten hours. But I find it very difficult to sleep at night after a concert because my head is full of music.\n\nKeith: Sport is important. Before I had a car accident I was at the sports centre two and a half hours a day, five days a week. I can't do that now so I do about 150 sit-ups a day.\n\nRonan: I don't drink alcohol or smoke. I try to eat well. Also I drink a lot of water because it's good for your health. I should have about eight glasses a day but I don't always drink so much.\n\nShane: People shouldn't work all the time. I love my job but there are other things I like doing too. In my free time I just listen to music or watch TV. It's good for you to do nothing sometimes.\n\nMikey: I don't get tired any more since the doctor told me to eat better. Now I eat lots of things like carrots and spinach every day. But I still eat burgers sometimes!",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "statement": "Stephen sleeps well in his mother's house."
+    },
+    "partNumber": 4,
+    "instruction": [
+     "Read the article about some pop stars.",
+     "Are sentences 21–27 'Right' (A) or 'Wrong' (B)?",
+     "If there is not enough information to answer 'Right' (A) or 'Wrong' (B), choose 'Doesn't say' (C).",
+     "For questions 21–27, mark A, B or C on the answer sheet."
+    ],
+    "articleTitle": "HOW DO THE IRISH POP-GROUP 'BOYZONE' LIVE A HEALTHY LIFE?",
+    "questionsLabel": "QUESTIONS 21–27"
+   },
+   {
+    "type": "mcq-cloze-passage",
+    "items": [
+     {
+      "id": 28,
+      "answer": "A",
+      "options": [
+       {
+        "text": "there",
+        "letter": "A"
+       },
+       {
+        "text": "here",
+        "letter": "B"
+       },
+       {
+        "text": "they",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 29,
+      "answer": "C",
+      "options": [
+       {
+        "text": "another",
+        "letter": "A"
+       },
+       {
+        "text": "its",
+        "letter": "B"
+       },
+       {
+        "text": "these",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 30,
+      "answer": "B",
+      "options": [
+       {
+        "text": "beside",
+        "letter": "A"
+       },
+       {
+        "text": "next",
+        "letter": "B"
+       },
+       {
+        "text": "behind",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 31,
+      "answer": "B",
+      "options": [
+       {
+        "text": "known",
+        "letter": "A"
+       },
+       {
+        "text": "knows",
+        "letter": "B"
+       },
+       {
+        "text": "know",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 32,
+      "answer": "B",
+      "options": [
+       {
+        "text": "longest",
+        "letter": "A"
+       },
+       {
+        "text": "long",
+        "letter": "B"
+       },
+       {
+        "text": "longer",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 33,
+      "answer": "A",
+      "options": [
+       {
+        "text": "get",
+        "letter": "A"
+       },
+       {
+        "text": "got",
+        "letter": "B"
+       },
+       {
+        "text": "getting",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 34,
+      "answer": "A",
+      "options": [
+       {
+        "text": "go",
+        "letter": "A"
+       },
+       {
+        "text": "goes",
+        "letter": "B"
+       },
+       {
+        "text": "going",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 35,
+      "answer": "C",
+      "options": [
+       {
+        "text": "on",
+        "letter": "A"
+       },
+       {
+        "text": "at",
+        "letter": "B"
+       },
+       {
+        "text": "from",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 5",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "options": [
+      {
+       "text": "in",
+       "letter": "A"
+      },
+      {
+       "text": "on",
+       "letter": "B"
+      },
+      {
+       "text": "at",
+       "letter": "C"
+      }
+     ]
+    },
+    "passage": "Sherborne and Dorchester are two towns {0} the south of England that are quite near each other. On the road between them, {28} are a lot of green hills and fields. On one of {29} hills is a picture of a very large man. The man in the picture is called the Cerne Giant because the village that is {30} to him is called Cerne.\n\nNobody really {31} when the Cerne Giant was made, but people think that it was a very {32} time ago. To {33} nearer the picture, you can walk from Cerne. If you {34} on the first of May when the sun comes up, you will see all the people {35} the village dancing around the man on the hill.",
+    "partNumber": 5,
+    "instruction": [
+     "Read the article about a picture on a hill.",
+     "Choose the best word (A, B or C) for each space (28–35).",
+     "For questions 28–35, mark A, B or C on the answer sheet."
+    ],
+    "passageTitle": "The Cerne Giant",
+    "questionsLabel": "QUESTIONS 28–35"
+   },
+   {
+    "type": "vocab-first-letter",
+    "items": [
+     {
+      "id": 36,
+      "answer": "music",
+      "prompt": "You need this if you want to dance.",
+      "letters": 5,
+      "firstLetter": "m"
+     },
+     {
+      "id": 37,
+      "answer": "present",
+      "prompt": "If it's your birthday, your guests may give you this.",
+      "letters": 7,
+      "firstLetter": "p"
+     },
+     {
+      "id": 38,
+      "answer": "glass",
+      "prompt": "You need this to put your drink in.",
+      "letters": 5,
+      "firstLetter": "g"
+     },
+     {
+      "id": 39,
+      "answer": "lemonade",
+      "prompt": "You can buy this drink in a bottle or a can.",
+      "letters": 8,
+      "firstLetter": "l"
+     },
+     {
+      "id": 40,
+      "answer": "friends",
+      "prompt": "You hope these people will come to your party.",
+      "letters": 7,
+      "firstLetter": "f"
+     }
+    ],
+    "label": "PART 6",
+    "example": {
+     "answer": "cake",
+     "number": 0,
+     "prompt": "Everybody likes to eat a piece of this.",
+     "firstLetter": "c"
+    },
+    "partNumber": 6,
+    "instruction": [
+     "Read the descriptions (36–40) of some things you may find at a party.",
+     "What is the word for each description?",
+     "The first letter is already there. There is one space for each other letter in the word.",
+     "For questions 36–40, write the words on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 36–40"
+   },
+   {
+    "type": "open-cloze-letter",
+    "items": [
+     {
+      "id": 41,
+      "answer": "last"
+     },
+     {
+      "id": 42,
+      "answer": "am"
+     },
+     {
+      "id": 43,
+      "answer": "it"
+     },
+     {
+      "id": 44,
+      "answer": "each"
+     },
+     {
+      "id": 45,
+      "answer": "have"
+     },
+     {
+      "id": 46,
+      "answer": "lot"
+     },
+     {
+      "id": 47,
+      "answer": "about"
+     },
+     {
+      "id": 48,
+      "answer": "a"
+     },
+     {
+      "id": 49,
+      "answer": "wearing"
+     },
+     {
+      "id": 50,
+      "answer": "Do"
+     }
+    ],
+    "label": "PART 7",
+    "example": {
+     "answer": "are",
+     "number": 0
+    },
+    "letters": [
+     {
+      "body": "How (Example: are) you? I'm happy because {41} month I got a new job in the city centre. I {42} working in a Tourist Information Office and {43} is very interesting. I start work {44} morning at half past seven, so I {45} to get up very early! I love this job because I meet people from a {46} of different countries. I like telling them {47} the city. Here is {48} photo of me. I'm {49} my uniform. {50} you like it?",
+      "header": "",
+      "closing": "Love,\nGloria",
+      "greeting": "Dear Lorna,"
+     }
+    ],
+    "partNumber": 7,
+    "instruction": [
+     "Complete the letter.",
+     "Write ONE word for each space (41–50).",
+     "For questions 41–50, write your words on the answer sheet."
+    ],
+    "questionsLabel": "QUESTIONS 41–50"
+   },
+   {
+    "note": {
+     "body": "Don't worry Mum! I won't forget Lulu's special day tomorrow! I'm getting her some flowers — Garden Gate Flowers will send them for £15 or £20. I'll choose the cheaper ones, of course, with a nice card saying 'Happy Birthday'!",
+     "dateLine": "Date: 21 August",
+     "signature": "Stephen"
+    },
+    "rows": [
+     {
+      "label": "From:",
+      "prefilled": "Stephen Jones"
+     },
+     {
+      "id": 51,
+      "label": "To:",
+      "answer": "Lulu Jones"
+     },
+     {
+      "id": 52,
+      "label": "Date to send:",
+      "answer": "22 August"
+     },
+     {
+      "id": 53,
+      "label": "Address:",
+      "answer": "47 Shirley Road, York"
+     },
+     {
+      "id": 54,
+      "label": "Price:",
+      "answer": "£15"
+     },
+     {
+      "id": 55,
+      "label": "Message on card:",
+      "answer": "Happy Birthday"
+     }
+    ],
+    "type": "info-transfer-notes",
+    "label": "PART 8",
+    "notice": {
+     "body": "To: Stephen Jones\nDate: 21 August\n\nStephen!\nRemember it's your sister's birthday tomorrow. She'll be 16. Have you got her new address in York? She lives in Shirley Road now, at number 47.\n\nMother",
+     "title": "E-mail from Mother"
+    },
+    "notesTitle": "Garden Gate Flowers",
+    "partNumber": 8,
+    "instruction": [
+     "Read the two e-mail messages.",
+     "Fill in the Flower Order Form.",
+     "For questions 51–55, write the information on the answer sheet."
+    ],
+    "notesSubtitle": "Flower Order Form",
+    "questionsLabel": "QUESTIONS 51–55"
+   },
+   {
+    "type": "writing-postcard",
+    "items": [
+     {
+      "id": 56,
+      "type": "free-text",
+      "answer": "Gary Jones\nI want to sell my bicycle. I bought it 3 years ago, but I've never used it. It costs £25. You can see it every afternoon, Call me at home:\n3642562\nLucey",
+      "maxWords": 35,
+      "minWords": 25
+     }
+    ],
+    "label": "PART 9",
+    "footer": [
+     "Write 25–35 words.",
+     "Write your note on the answer sheet."
+    ],
+    "prompt": "BICYCLE WANTED\n\nHAVE YOU GOT A BICYCLE TO SELL?\nHOW MUCH IS IT? HOW OLD IS IT?\nWHEN CAN I SEE IT?\n\n(Leave a note in reception for Gary Jones.)",
+    "wordCount": "25–35 words",
+    "partNumber": 9,
+    "instruction": [
+     "You want to sell your bicycle and you see this notice at your college.",
+     "Write a note to Gary Jones. Answer his questions about your bicycle."
+    ],
+    "questionsLabel": "QUESTION 56",
+    "promptSignature": ""
+   }
+  ],
+  "testInfo": {
+   "id": "ket-rw-11",
+   "level": "A2",
+   "paper": "Paper 1",
+   "parts": 9,
+   "title": "KET Reading & Writing — Test 11",
+   "totalTime": 70,
+   "totalQuestions": 56
+  }
+ },
+ "created_at": "2026-10-14T06:45:03.741817+00:00",
+ "updated_at": "2026-10-14T06:46:51.103109+00:00"
+}

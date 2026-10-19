@@ -1,0 +1,412 @@
+{
+ "id": 2313,
+ "mock_type": "pet-listening",
+ "mock_number": 7,
+ "title": "PET Listening — Test 7",
+ "status": "published",
+ "mock_data": {
+  "audio": {
+   "base": "https://audio.mock-stream.com/PET-Listening/test7/",
+   "files": {
+    "1": "PART1.m4a",
+    "2": "PART2.m4a",
+    "3": "PART3.m4a",
+    "4": "PART4.m4a"
+   }
+  },
+  "parts": [
+   {
+    "type": "picture-mcq",
+    "items": [
+     {
+      "id": 1,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q1A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q1B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q1C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Where is the station?"
+     },
+     {
+      "id": 2,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q2A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q2B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q2C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Where did the woman put the calculator?"
+     },
+     {
+      "id": 3,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q3A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q3B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q3C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Where is Helen?"
+     },
+     {
+      "id": 4,
+      "answer": "B",
+      "options": [
+       {
+        "image": "q4A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q4B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q4C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Which building was hit by lightning?"
+     },
+     {
+      "id": 5,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q5A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q5B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q5C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "What does the woman want to buy?"
+     },
+     {
+      "id": 6,
+      "answer": "A",
+      "options": [
+       {
+        "image": "q6A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q6B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q6C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Which picture does the woman decide to send?"
+     },
+     {
+      "id": 7,
+      "answer": "C",
+      "options": [
+       {
+        "image": "q7A.png",
+        "letter": "A"
+       },
+       {
+        "image": "q7B.png",
+        "letter": "B"
+       },
+       {
+        "image": "q7C.png",
+        "letter": "C"
+       }
+      ],
+      "question": "Which hotel has the man chosen?"
+     }
+    ],
+    "label": "PART 1",
+    "example": {
+     "answer": "A",
+     "number": 0,
+     "options": [
+      {
+       "text": "(example pictures — student sees A as worked example)",
+       "letter": "A"
+      },
+      {
+       "text": "",
+       "letter": "B"
+      },
+      {
+       "text": "",
+       "letter": "C"
+      }
+     ],
+     "question": "What's the time?"
+    },
+    "imageBase": "https://audio.mock-stream.com/PET-Listening/test7/p1/",
+    "partNumber": 1,
+    "instruction": [
+     "There are seven questions in this part.",
+     "For each question there are three pictures and a short recording.",
+     "Choose the correct picture and put a tick (✓) in the box below it."
+    ],
+    "questionsLabel": "QUESTIONS 1–7"
+   },
+   {
+    "type": "mcq-conversation",
+    "items": [
+     {
+      "id": 8,
+      "stem": "If you want to apply for the Camp you must",
+      "answer": "C",
+      "options": [
+       {
+        "text": "be a student.",
+        "letter": "A"
+       },
+       {
+        "text": "be at least twenty-four years old.",
+        "letter": "B"
+       },
+       {
+        "text": "speak more than one language.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 9,
+      "stem": "In a Camp tent you can expect to",
+      "answer": "A",
+      "options": [
+       {
+        "text": "mix with other nationalities.",
+        "letter": "A"
+       },
+       {
+        "text": "share with five other people.",
+        "letter": "B"
+       },
+       {
+        "text": "know the other people.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 10,
+      "stem": "The Camp want people who are",
+      "answer": "C",
+      "options": [
+       {
+        "text": "good at cooking.",
+        "letter": "A"
+       },
+       {
+        "text": "good organisers.",
+        "letter": "B"
+       },
+       {
+        "text": "able to mix well.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 11,
+      "stem": "What do you have to take to the Camp?",
+      "answer": "C",
+      "options": [
+       {
+        "text": "a tent",
+        "letter": "A"
+       },
+       {
+        "text": "a map",
+        "letter": "B"
+       },
+       {
+        "text": "pictures",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 12,
+      "stem": "As a Camp member you should",
+      "answer": "B",
+      "options": [
+       {
+        "text": "be a good singer.",
+        "letter": "A"
+       },
+       {
+        "text": "join in performances.",
+        "letter": "B"
+       },
+       {
+        "text": "be good at acting.",
+        "letter": "C"
+       }
+      ]
+     },
+     {
+      "id": 13,
+      "stem": "The Camp fees must be paid",
+      "answer": "C",
+      "options": [
+       {
+        "text": "in dollars.",
+        "letter": "A"
+       },
+       {
+        "text": "by cheque.",
+        "letter": "B"
+       },
+       {
+        "text": "before the Camp starts.",
+        "letter": "C"
+       }
+      ]
+     }
+    ],
+    "label": "PART 2",
+    "partNumber": 2,
+    "instruction": [
+     "You will hear a radio interview with a man who works on an international camp.",
+     "For each question, put a tick (✓) in the correct box."
+    ],
+    "questionsLabel": "QUESTIONS 8–13"
+   },
+   {
+    "rows": [
+     {
+      "id": 14,
+      "label": "First job — worked for",
+      "answer": "family"
+     },
+     {
+      "id": 15,
+      "label": "Length of time stayed:",
+      "answer": "six months"
+     },
+     {
+      "id": 16,
+      "label": "Second job — worked as",
+      "answer": "receptionist",
+      "suffix": "in a hotel"
+     },
+     {
+      "id": 17,
+      "label": "Third job — worked for",
+      "answer": "bakery"
+     },
+     {
+      "id": 18,
+      "label": "Got up at",
+      "answer": "four in the morning"
+     },
+     {
+      "id": 19,
+      "label": "Bank International — worked in",
+      "answer": "Foreign Desk"
+     }
+    ],
+    "type": "note-completion",
+    "label": "PART 3",
+    "noteTitle": "Interview Form · Vicky Brownlow, 22 years · Position: Office Manager",
+    "partNumber": 3,
+    "instruction": [
+     "You will hear a young woman who has applied for an office job talking about her jobs abroad.",
+     "For each question, fill in the missing information in the numbered space."
+    ],
+    "questionsLabel": "QUESTIONS 14–19"
+   },
+   {
+    "type": "true-false",
+    "items": [
+     {
+      "id": 20,
+      "answer": "B",
+      "statement": "Sonia would like a car for her birthday."
+     },
+     {
+      "id": 21,
+      "answer": "B",
+      "statement": "Sonia's friend Maria has her own car."
+     },
+     {
+      "id": 22,
+      "answer": "A",
+      "statement": "Sonia has talked to Maria about learning to drive."
+     },
+     {
+      "id": 23,
+      "answer": "A",
+      "statement": "Sonia offers to get a job at weekends."
+     },
+     {
+      "id": 24,
+      "answer": "A",
+      "statement": "Sonia's father understands how his daughter feels."
+     },
+     {
+      "id": 25,
+      "answer": "B",
+      "statement": "Sonia suggests cooking a meal on her birthday."
+     }
+    ],
+    "label": "PART 4",
+    "scenario": "Sonia and her father — about a birthday gift and learning to drive",
+    "partNumber": 4,
+    "instruction": [
+     "Look at the six sentences for this part.",
+     "You will hear a conversation between a father and his daughter, Sonia.",
+     "Decide if each sentence is correct or incorrect.",
+     "If it is correct, put a tick (✓) in the box under A for YES. If it is not correct, put a tick (✓) in the box under B for NO."
+    ],
+    "questionsLabel": "QUESTIONS 20–25"
+   }
+  ],
+  "testInfo": {
+   "id": "pet-l-07",
+   "level": "B1",
+   "paper": "Paper 2 · Listening",
+   "parts": 4,
+   "title": "PET Listening — Test 7",
+   "totalTime": 35,
+   "totalQuestions": 25
+  }
+ },
+ "created_at": "2026-10-14T06:45:51.802518+00:00",
+ "updated_at": "2026-10-14T06:47:37.729866+00:00"
+}
