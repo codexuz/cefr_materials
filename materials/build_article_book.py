@@ -49,7 +49,7 @@ MONO = os.path.join(BUILD, "mono")
 BOOK_TITLE = "Multilevel Articles"
 LEVEL = "B2"
 LEVEL_NAME = "Upper-Intermediate"
-DEFAULT_COUNT = 10
+DEFAULT_COUNT = 20
 
 W, H = 595.32, 841.92                    # A4 in pt
 M = 42.0                                 # outer margin
@@ -73,6 +73,20 @@ ACCENTS = [("#FF5B3A", "#FFFFFF"),        # coral
 
 def accent(n):
     return ACCENTS[(n - 1) % len(ACCENTS)]
+
+
+def tint(hex_color, amount):
+    """Mix a colour with white: amount 0 is white, 1 is the colour itself."""
+    h = hex_color.lstrip("#")
+    rgb = [int(h[i:i + 2], 16) for i in (0, 2, 4)]
+    return "#%02X%02X%02X" % tuple(round(255 + (c - 255) * amount) for c in rgb)
+
+
+def glossary_colours(n):
+    """The glossary panel takes a soft tint of its article's accent, with a
+    slightly deeper tint for the rules between entries."""
+    ac = accent(n)[0]
+    return tint(ac, 0.13), tint(ac, 0.34)
 
 
 FONT_DISPLAY = "C:/Windows/Fonts/bahnschrift.ttf"
@@ -408,6 +422,7 @@ def reading_page(art, n, page_no, fit):
         f'<div class="gd">{esc((v or {}).get("definition"))}</div></div></div>'
         for i, (w, v) in enumerate(items, 1))
 
+    panel, rule = glossary_colours(n)
     k_main = fit.get(f"main-{n}", {}).get("k", 1)
     k_gl = fit.get(f"gloss-{n}", {}).get("k", 1)
     room = fit.get(f"gloss-{n}", {}).get("left", 0)
@@ -424,7 +439,7 @@ def reading_page(art, n, page_no, fit):
   <header class="rhead"><i class="sq"></i><span class="rn">{n:02d}</span>
     <span class="rt">{esc(title_of(art))}</span><span class="rl">{LEVEL} · {LEVEL_NAME}</span></header>
   <article class="main" data-fit="main-{n}" style="--k:{k_main}">{body}</article>
-  <aside class="gloss" data-fit="gloss-{n}" style="--k:{k_gl}">
+  <aside class="gloss" data-fit="gloss-{n}" style="--k:{k_gl};background:{panel};--rule:{rule}">
     <div class="ghead">Glossary</div><i class="gbar" style="background:{ac}"></i>
     <div class="glist">{rows}</div>{crop}
   </aside>
@@ -477,13 +492,16 @@ def contents_page(arts, page_map):
         photo = (f'<clipPath id="tocc"><path d="{left_half}"/></clipPath>'
                  f'<image href="{img}" x="{cx - r}" y="{cy - r}" width="{2 * r}" height="{2 * r}" '
                  f'preserveAspectRatio="xMidYMid slice" clip-path="url(#tocc)"/>')
+    # Up to ten entries fit one column with a line of each article; beyond
+    # that the list runs in two columns of title and page only.
+    two_col = len(arts) > 10
     rows = ""
     for i, a in enumerate(arts):
-        ex = standfirst(a, 104)
+        ex = "" if two_col else f'<div class="cte">{esc(standfirst(a, 104))}</div>'
         rows += (f'<div class="crow"><span class="cn" style="color:{accent(i + 1)[0]}">{i + 1:02d}</span>'
-                 f'<div class="ct"><div class="ctt">{esc(title_of(a))}</div>'
-                 f'<div class="cte">{esc(ex)}</div></div>'
+                 f'<div class="ct"><div class="ctt">{esc(title_of(a))}</div>{ex}</div>'
                  f'<span class="cp">{page_map[i]:02d}</span></div>')
+    list_cls = "clist two" if two_col else "clist"
     coral, saffron = ACCENTS[0][0], ACCENTS[1][0]
     return f"""
 <section class="sheet">
@@ -493,7 +511,7 @@ def contents_page(arts, page_map):
   <div class="c-word">CONT–<br><span class="acc">ENTS</span></div>
   <div class="c-note">{len(arts)} articles at {LEVEL} · {LEVEL_NAME}.<br>
     Each opens on a photograph and ends with its glossary.</div>
-  <div class="clist">{rows}</div>
+  <div class="{list_cls}">{rows}</div>
   {folio(2)}
 </section>"""
 
@@ -592,7 +610,7 @@ h1.t-white {{ color: #fff; }}
   line-height: {K(24)}; color: {INK}; }}
 .gbar {{ display: block; width: 30pt; height: 3pt; margin: {K(9)} 0 {K(8)}; flex: none; }}
 .glist {{ flex: none; }}
-.g {{ display: flex; gap: {K(7)}; padding: {K(6.2)} 0; border-top: 0.6pt solid {HAIR_PAPER}; }}
+.g {{ display: flex; gap: {K(7)}; padding: {K(6.2)} 0; border-top: 0.6pt solid var(--rule, {HAIR_PAPER}); }}
 .g:first-child {{ border-top: 0; padding-top: {K(2)}; }}
 .gn {{ flex: none; width: {K(14)}; font-family: 'Display'; font-size: {K(7.4)}; line-height: {K(11.6)};
   color: {BLUE}; font-variation-settings: 'wght' 700; }}
@@ -632,6 +650,12 @@ h1.t-white {{ color: #fff; }}
 .cte {{ flex: 1; min-width: 0; font-size: 7.8pt; color: {GREY}; font-style: italic;
   white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }}
 .cp {{ flex: none; font-family: 'Display'; font-size: 9pt; color: {INK}; font-variation-settings: 'wght' 700; }}
+.clist.two {{ top: 404pt; display: grid; grid-template-columns: 1fr 1fr; grid-auto-flow: column;
+  grid-template-rows: repeat(10, auto); column-gap: 24pt; }}
+.clist.two .crow {{ padding: 7.4pt 0; }}
+.clist.two .crow:nth-child(11) {{ border-top: 0.7pt solid {INK}; }}
+.clist.two .ctt {{ flex: 1; min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+  font-size: 10.4pt; }}
 """
 
 FIT_JS = """

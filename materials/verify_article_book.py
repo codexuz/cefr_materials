@@ -31,7 +31,7 @@ def main():
     toc = doc.get_toc()
     n = len(arts)
 
-    check(n == 10, f"{n} articles loaded")
+    check(n == A.DEFAULT_COUNT, f"{n} articles loaded")
     check(doc.page_count == 2 + 2 * n, f"{doc.page_count} pages = cover + contents + {n} x 2")
     check(len(toc) == n + 2, f"bookmarks: {len(toc)}")
     check({(round(p.rect.width), round(p.rect.height)) for p in doc} == {(595, 842)}, "every page is A4")
@@ -86,6 +86,8 @@ def main():
     # palette: every vector fill is dodgerblue, an accent, ink/grey, paper or white
     allowed = {A.BLUE, A.INK, A.BODY, A.GREY, A.GREY_SOFT, A.HAIR, A.PAPER, A.HAIR_PAPER,
                "#FFFFFF", "#000000", "#111111"} | {a for a, _ in A.ACCENTS}
+    # each glossary panel is a tint of its article's accent
+    allowed |= {c for k in range(1, len(A.ACCENTS) + 1) for c in A.glossary_colours(k)}
     allowed = {c.upper() for c in allowed}
     seen = set()
     for p in doc:
