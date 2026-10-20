@@ -1,0 +1,45 @@
+{
+  "out_dir": "public/speaking-mock1/vo",
+  "manifest": "src/speaking/voice.json",
+  "elevenlabs": {
+    "voice_id": "Xb7hH8MSUJpSbSDYk0k2",
+    "model_id": "eleven_v4",
+    "language_code": "en",
+    "output_format": "mp3_44100_128",
+    "voice_settings": {
+      "stability": 0.6,
+      "similarity_boost": 0.75,
+      "style": 0,
+      "use_speaker_boost": true,
+      "speed": 1.0
+    }
+  },
+  "scenes": [
+    {
+      "id": "intro",
+      "elevenlabs": { "voice_id": "xDwfBjUEPdIoQekNOXAX", "language_code": "uz", "voice_settings": { "stability": 0.5, "similarity_boost": 0.75, "style": 0, "use_speaker_boost": true, "speed": 1.0 } },
+      "tts": "Multilevel Speaking imtihoni simulyatsiyasi. Har bir savoldan so‘ng tayyorlanish va gapirish vaqti beriladi. Signal eshitilganda javob berishni boshlang. Omad!"
+    },
+    {
+      "id": "p11",
+      "tts": "Part one point one. In this part, I'm going to ask you three short questions about yourself and your interests. You will have thirty seconds to reply to each question. Begin speaking when you hear this sound."
+    },
+    {
+      "id": "p12",
+      "tts": "Part one point two. In this part, you will see two pictures and answer three questions about them. You will have forty-five seconds for the first question, and thirty seconds for each of the other two. Begin speaking when you hear the sound."
+    },
+    {
+      "id": "p2",
+      "tts": "Part two. In this part, I'm going to show you a picture and ask you three questions. You will have one minute to think about your answers before you start speaking. You will then have two minutes to answer all three questions. Begin speaking when you hear the sound."
+    },
+    {
+      "id": "p3",
+      "tts": "Part three. In this part, you will read a statement, with arguments for and against it. You will have one minute to prepare, and two minutes to give your opinion, discussing both sides. Begin speaking when you hear the sound."
+    },
+    {
+      "id": "outro",
+      "elevenlabs": { "voice_id": "xDwfBjUEPdIoQekNOXAX", "language_code": "uz", "voice_settings": { "stability": 0.5, "similarity_boost": 0.75, "style": 0, "use_speaker_boost": true, "speed": 1.0 } },
+      "tts": "Simulyatsiya yakunlandi. Bu mashq sizga foydali bo‘lgan bo‘lsa, kanalimizga obuna bo‘ling va videoni saqlab qo‘ying. Keyingi mock testda ko‘rishguncha!"
+    }
+  ]
+}

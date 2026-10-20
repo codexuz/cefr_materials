@@ -1,0 +1,17 @@
+node_modules
+dist
+.DS_Store
+.env
+
+# Ignore the output video from Git but not videos you import into src/.
+out
+
+# ElevenLabs response cache (alignment is already in the committed manifests)
+scripts/.tts-cache/
+__pycache__/
+
+# Mock Stream question audio/images: re-downloaded by scripts/build_speaking_mock.py
+# (same convention as materials/media/ in the repo root). The vo/ narration stays committed.
+public/speaking-mock1/*.mp3
+public/speaking-mock1/*.png
+public/speaking-mock1/*.jpg

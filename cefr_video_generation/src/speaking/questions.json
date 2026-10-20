@@ -1,0 +1,113 @@
+{
+  "title": "CEFR Speaking Mock 01",
+  "topics": {
+    "p2Topic": "A personal achievement",
+    "p3Topic": "Taxing the wealthy",
+    "p11Topic": "Books, music & clothing",
+    "p12Topic": "Plane vs train travel"
+  },
+  "questions": [
+    {
+      "number": 1,
+      "part": "1.1",
+      "prompt": "Do you have many books at home?",
+      "audio": "speaking-mock1/q1.mp3",
+      "audioDuration": 2.88,
+      "prepTime": 5,
+      "speakTime": 30
+    },
+    {
+      "number": 2,
+      "part": "1.1",
+      "prompt": "Do you like any foreign singers?",
+      "audio": "speaking-mock1/q2.mp3",
+      "audioDuration": 3.12,
+      "prepTime": 5,
+      "speakTime": 30
+    },
+    {
+      "number": 3,
+      "part": "1.1",
+      "prompt": "What is your favourite item of clothing?",
+      "audio": "speaking-mock1/q3.mp3",
+      "audioDuration": 3.504,
+      "prepTime": 5,
+      "speakTime": 30
+    },
+    {
+      "number": 4,
+      "part": "1.2",
+      "prompt": "What do you see in these pictures?",
+      "audio": "speaking-mock1/q4.mp3",
+      "audioDuration": 3.12,
+      "prepTime": 10,
+      "speakTime": 45,
+      "images": [
+        "speaking-mock1/img1.png",
+        "speaking-mock1/img2.png"
+      ]
+    },
+    {
+      "number": 5,
+      "part": "1.2",
+      "prompt": "Which is more convenient when traveling: a plane or a train?",
+      "audio": "speaking-mock1/q5.mp3",
+      "audioDuration": 4.752,
+      "prepTime": 5,
+      "speakTime": 30,
+      "images": [
+        "speaking-mock1/img1.png",
+        "speaking-mock1/img2.png"
+      ]
+    },
+    {
+      "number": 6,
+      "part": "1.2",
+      "prompt": "Do you prefer traveling by plane or by train?",
+      "audio": "speaking-mock1/q6.mp3",
+      "audioDuration": 4.152,
+      "prepTime": 5,
+      "speakTime": 30,
+      "images": [
+        "speaking-mock1/img1.png",
+        "speaking-mock1/img2.png"
+      ]
+    },
+    {
+      "number": 7,
+      "part": "2",
+      "prompt": "Describe an achievement that you consider a personal success.",
+      "audio": "speaking-mock1/q7.mp3",
+      "audioDuration": 18.065,
+      "prepTime": 60,
+      "speakTime": 120,
+      "contextImage": "speaking-mock1/q7-context.jpg",
+      "bulletPoints": [
+        "Describe an achievement that you consider a personal success.",
+        "How did this success influence your approach to future goals?",
+        "How does the definition of success vary between cultures or individuals?"
+      ]
+    },
+    {
+      "number": 8,
+      "part": "3",
+      "prompt": "Wealthy individuals should be taxed at higher rates.",
+      "audio": "speaking-mock1/q8.mp3",
+      "audioDuration": 9.744,
+      "prepTime": 60,
+      "speakTime": 120,
+      "debatePoints": {
+        "for": [
+          "Higher taxes on the wealthy can reduce income inequality.",
+          "Additional revenue can fund essential public services.",
+          "The wealthiest individuals benefit disproportionately from societal systems."
+        ],
+        "against": [
+          "High taxes may discourage investment and entrepreneurship.",
+          "Wealthy individuals often find ways to legally avoid taxes.",
+          "Redistribution alone doesn't address the root causes of poverty."
+        ]
+      }
+    }
+  ]
+}

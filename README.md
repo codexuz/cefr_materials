@@ -88,3 +88,11 @@ question, option and answer under `mock_data`. `materials/INDEX.md` and
 JSON point at `audio.mock-stream.com`; `materials/_scripts/fetch_media.py`
 re-downloads them into `materials/media/`. The reading and listening books need
 only the JSON, except for the listening map images, which come from `media/`.
+
+## Videos
+
+`cefr_video_generation/` is a Remotion project that produces the video material: an
+Uzbek explainer of the Multilevel exam, and a timed Speaking mock-exam simulation in
+YouTube (16:9) and Instagram Reels (9:16) formats, with ElevenLabs narration. See its
+[README](cefr_video_generation/README.md). Like `materials/media/`, the Mock Stream
+question media is not committed; the project's build script re-downloads it.

@@ -1,0 +1,62 @@
+{
+  "elevenlabs": {
+    "voice_id": "xDwfBjUEPdIoQekNOXAX",
+    "model_id": "eleven_v4",
+    "language_code": "uz",
+    "output_format": "mp3_44100_128",
+    "voice_settings": {
+      "stability": 0.5,
+      "similarity_boost": 0.75,
+      "style": 0,
+      "use_speaker_boost": true,
+      "speed": 1.0
+    }
+  },
+  "scenes": [
+    {
+      "id": "hook",
+      "title": "Kirish",
+      "tts": "Multilevel imtihoniga tayyorlanyapsizmi? Unda bu video aynan siz uchun! Bugun ingliz tilidan Multilevel imtihonining to‘rtta bo‘limi va baholash tizimi haqida qisqa va aniq ma’lumot beramiz."
+    },
+    {
+      "id": "overview",
+      "title": "Multilevel nima?",
+      "tts": "Multilevel — Bilim va malakalarni baholash agentligi tomonidan o‘tkaziladigan, CEFR asosidagi milliy imtihon. U to‘rtta ko‘nikmani tekshiradi: Listening, Reading, Rayting va Speaking. Natijaga qarab Bi bir, Bi ikki yoki Si bir darajadagi sertifikat beriladi va u ikki yil amal qiladi."
+    },
+    {
+      "id": "listening",
+      "title": "Listening",
+      "tts": "Birinchi bo‘lim — Listening, ya’ni tinglab tushunish. U olti qismdan iborat bo‘lib, jami o‘ttiz beshta savol beriladi. Audiolar ikki martadan eshittiriladi. Bo‘lim taxminan o‘ttiz besh daqiqa davom etadi, javoblarni ko‘chirish uchun esa qo‘shimcha o‘n daqiqa beriladi."
+    },
+    {
+      "id": "reading",
+      "title": "Reading",
+      "tts": "Ikkinchi bo‘lim — Reading, ya’ni o‘qib tushunish. Bu yerda besh qism va yana o‘ttiz beshta savol bor. Barcha topshiriqlarni bajarish uchun bir soat vaqt beriladi. Matnni tez ko‘zdan kechirish va kerakli ma’lumotni topish ko‘nikmasi juda muhim."
+    },
+    {
+      "id": "writing",
+      "title": "Writing",
+      "tts": "Uchinchi bo‘lim — Rayting, ya’ni yozish. Oltmish daqiqa ichida ikkita topshiriq bajariladi. Birinchi topshiriq — berilgan vaziyat asosida xat yozish, u umumiy ballning o‘ttiz uch foizini tashkil qiladi. Ikkinchi topshiriq — esse, uning ulushi oltmish yetti foiz. Shuning uchun essega ko‘proq vaqt ajrating."
+    },
+    {
+      "id": "speaking",
+      "title": "Speaking",
+      "tts": "To‘rtinchi bo‘lim — Speaking, ya’ni gapirish. Birinchi qism ikki bosqichdan iborat: avval o‘zingiz haqingizda uchta qisqa savol, keyin ikkita rasm asosida yana uchta savol beriladi. Ikkinchi qismda bitta mavzu bo‘yicha uchta savolga ikki daqiqa davomida javob berasiz. Uchinchi qismda esa berilgan fikrning ikki tomonini tahlil qilasiz. Ikkinchi va uchinchi qismlarda tayyorlanish uchun bir daqiqa vaqt beriladi."
+    },
+    {
+      "id": "marking",
+      "title": "Baholash",
+      "tts": "Endi baholash tizimi. Har bir bo‘lim maksimal yetmish besh ball bilan baholanadi. Listening va Reading natijalari Rasch metodi asosida hisoblanadi. Taxminan, o‘ttiz beshta savoldan yigirma sakkizta va undan ko‘p to‘g‘ri javob — Si bir, o‘n sakkiztadan — Bi ikki, o‘ntadan — Bi bir darajasiga mos keladi. Rayting va Speaking esa ekspertlar tomonidan maxsus mezonlar asosida baholanadi."
+    },
+    {
+      "id": "levels",
+      "title": "Darajalar",
+      "tts": "Yakuniy natija to‘rtta bo‘lim ballarining o‘rtachasidir. O‘ttiz sakkizdan ellik ballgacha — Bi bir, ellik birdan oltmish to‘rt ballgacha — Bi ikki, oltmish beshdan yetmish besh ballgacha — Si bir darajasi. O‘ttiz sakkiz balldan past natijaga esa sertifikat berilmaydi."
+    },
+    {
+      "id": "outro",
+      "title": "Yakun",
+      "tts": "Multilevel imtihoniga puxta tayyorlaning va maqsadingiz sari dadil harakat qiling! Foydali maslahatlar uchun Impulse Learning Center sahifasini kuzatib boring. Videoni saqlab qo‘ying va imtihonga tayyorlanayotgan do‘stlaringizga ham ulashing!"
+    }
+  ]
+}
