@@ -12,6 +12,6 @@ __pycache__/
 
 # Mock Stream question audio/images: re-downloaded by scripts/build_speaking_mock.py
 # (same convention as materials/media/ in the repo root). The vo/ narration stays committed.
-public/speaking-mock1/*.mp3
-public/speaking-mock1/*.png
-public/speaking-mock1/*.jpg
+public/speaking-mock*/*.mp3
+public/speaking-mock*/*.png
+public/speaking-mock*/*.jpg

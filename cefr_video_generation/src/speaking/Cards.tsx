@@ -4,7 +4,7 @@ import { AbsoluteFill, interpolate, Sequence, staticFile, useCurrentFrame } from
 import { colors, easeInOut, easeOut, fontFamily, monoFamily } from "../theme";
 import { FadeUp, Icon, icons, Mask, Rule } from "../ui";
 import { usePortrait } from "./Question";
-import { cueFrame, FPS, mock, Part, PART_CHIME, partTopic, partVoice, voice, VoiceId } from "./timeline";
+import { cueFrame, FPS, Part, PART_CHIME, partVoice, useMock, voice, VoiceId } from "./timeline";
 
 const clamp = { extrapolateLeft: "clamp", extrapolateRight: "clamp" } as const;
 
@@ -46,6 +46,7 @@ const SpokenText: React.FC<{ id: VoiceId; size: number }> = ({ id, size }) => {
 };
 
 const PartsList: React.FC<{ compact?: boolean }> = ({ compact }) => {
+  const { partTopic } = useMock();
   const parts: Part[] = ["1.1", "1.2", "2", "3"];
   return (
     <div>
@@ -72,7 +73,9 @@ const PartsList: React.FC<{ compact?: boolean }> = ({ compact }) => {
   );
 };
 
-const IntroTitle: React.FC<{ size: number }> = ({ size }) => (
+const IntroTitle: React.FC<{ size: number }> = ({ size }) => {
+  const { mock } = useMock();
+  return (
   <>
     <FadeUp>
       <div style={{ fontFamily: monoFamily, fontSize: 28, color: colors.accent, letterSpacing: 2 }}>MULTILEVEL · CEFR</div>
@@ -80,11 +83,12 @@ const IntroTitle: React.FC<{ size: number }> = ({ size }) => (
     <div style={{ fontSize: size, fontWeight: 700, letterSpacing: -0.045 * size, lineHeight: 0.95, marginTop: 24 }}>
       <Mask delay={4}>Speaking</Mask>
       <Mask delay={9}>
-        <span style={{ color: colors.accent }}>Mock 01</span>
+        <span style={{ color: colors.accent }}>Mock {String(mock.number).padStart(2, "0")}</span>
       </Mask>
     </div>
   </>
-);
+  );
+};
 
 const IntroNotes: React.FC = () => (
   <>
@@ -131,6 +135,7 @@ export const IntroCard: React.FC = () => {
 export const PartCard: React.FC<{ part: Part }> = ({ part }) => {
   const frame = useCurrentFrame();
   const portrait = usePortrait();
+  const { partTopic } = useMock();
   const id = partVoice[part];
   const chimeAt = Math.ceil(voice(id).durationInSeconds * FPS) + 4;
   const pulse = interpolate(frame, [chimeAt, chimeAt + 24], [0, 1], { ...clamp, easing: easeOut });
@@ -209,6 +214,7 @@ const BUTTONS = {
 export const OutroCard: React.FC = () => {
   const frame = useCurrentFrame();
   const portrait = usePortrait();
+  const { mock } = useMock();
   const L = portrait ? BUTTONS.portrait : BUTTONS.landscape;
   const subAt = cueFrame("outro", "obuna");
   const saveAt = cueFrame("outro", "saqlab");

@@ -16,22 +16,31 @@ export const RemotionRoot: React.FC = () => {
         width={WIDTH}
         height={HEIGHT}
       />
-      <Composition
-        id="SpeakingMock1"
-        component={SpeakingMock}
-        durationInFrames={speaking.totalFrames}
-        fps={speaking.FPS}
-        width={speaking.WIDTH}
-        height={speaking.HEIGHT}
-      />
-      <Composition
-        id="SpeakingMock1Reels"
-        component={SpeakingMock}
-        durationInFrames={speaking.totalFrames}
-        fps={speaking.FPS}
-        width={speaking.HEIGHT}
-        height={speaking.WIDTH}
-      />
+      {([1, 2] as const).map((id) => {
+        const { totalFrames: frames } = speaking.buildTimeline(id);
+        return (
+          <Folder key={id} name={`Speaking-Mock-${id}`}>
+            <Composition
+              id={`SpeakingMock${id}`}
+              component={SpeakingMock}
+              defaultProps={{ mockId: id }}
+              durationInFrames={frames}
+              fps={speaking.FPS}
+              width={speaking.WIDTH}
+              height={speaking.HEIGHT}
+            />
+            <Composition
+              id={`SpeakingMock${id}Reels`}
+              component={SpeakingMock}
+              defaultProps={{ mockId: id }}
+              durationInFrames={frames}
+              fps={speaking.FPS}
+              width={speaking.HEIGHT}
+              height={speaking.WIDTH}
+            />
+          </Folder>
+        );
+      })}
       <Folder name="Brand">
         <Composition id="LogoReveal" component={LogoReveal} durationInFrames={LOGO_REVEAL_FRAMES} fps={30} width={1920} height={1080} />
         <Composition id="LogoRevealReels" component={LogoReveal} durationInFrames={LOGO_REVEAL_FRAMES} fps={30} width={1080} height={1920} />

@@ -1,0 +1,114 @@
+{
+  "number": 2,
+  "title": "CEFR Speaking Mock 02",
+  "topics": {
+    "p2Topic": "A personal achievement",
+    "p3Topic": "Banning animal testing",
+    "p11Topic": "Photos, pets & reading",
+    "p12Topic": "Private vs public transport"
+  },
+  "questions": [
+    {
+      "number": 1,
+      "part": "1.1",
+      "prompt": "Do you like looking at photographs of yourself?",
+      "audio": "speaking-mock2/q1.mp3",
+      "audioDuration": 3.84,
+      "prepTime": 5,
+      "speakTime": 30
+    },
+    {
+      "number": 2,
+      "part": "1.1",
+      "prompt": "Do you have any animals in your home as a pet?",
+      "audio": "speaking-mock2/q2.mp3",
+      "audioDuration": 3.624,
+      "prepTime": 5,
+      "speakTime": 30
+    },
+    {
+      "number": 3,
+      "part": "1.1",
+      "prompt": "Do you like reading books?",
+      "audio": "speaking-mock2/q3.mp3",
+      "audioDuration": 2.52,
+      "prepTime": 5,
+      "speakTime": 30
+    },
+    {
+      "number": 4,
+      "part": "1.2",
+      "prompt": "What do you see in these pictures?",
+      "audio": "speaking-mock2/q4.mp3",
+      "audioDuration": 2.904,
+      "prepTime": 10,
+      "speakTime": 45,
+      "images": [
+        "speaking-mock2/img1.png",
+        "speaking-mock2/img2.png"
+      ]
+    },
+    {
+      "number": 5,
+      "part": "1.2",
+      "prompt": "Which is more comfortable: a bus or a taxi?",
+      "audio": "speaking-mock2/q5.mp3",
+      "audioDuration": 4.272,
+      "prepTime": 5,
+      "speakTime": 30,
+      "images": [
+        "speaking-mock2/img1.png",
+        "speaking-mock2/img2.png"
+      ]
+    },
+    {
+      "number": 6,
+      "part": "1.2",
+      "prompt": "Do you think people should use public transport like buses more often instead of taxis?",
+      "audio": "speaking-mock2/q6.mp3",
+      "audioDuration": 6.0,
+      "prepTime": 5,
+      "speakTime": 30,
+      "images": [
+        "speaking-mock2/img1.png",
+        "speaking-mock2/img2.png"
+      ]
+    },
+    {
+      "number": 7,
+      "part": "2",
+      "prompt": "Discuss the following points:",
+      "audio": "speaking-mock2/q7.mp3",
+      "audioDuration": 20.323,
+      "prepTime": 60,
+      "speakTime": 120,
+      "contextImage": "speaking-mock2/q7-context.jpg",
+      "bulletPoints": [
+        "Describe an achievement that you consider a personal success.",
+        "How did this success influence your approach to future goals?",
+        "How does the definition of success vary between cultures or individuals?"
+      ]
+    },
+    {
+      "number": 8,
+      "part": "3",
+      "prompt": "Animal testing should be banned worldwide.",
+      "audio": "speaking-mock2/q8.mp3",
+      "audioDuration": 8.112,
+      "prepTime": 60,
+      "speakTime": 120,
+      "debatePoints": {
+        "for": [
+          "Animal testing is cruel and inhumane to animals.",
+          "Alternatives to animal testing, such as computer models, are becoming more advanced.",
+          "It is possible to conduct medical research without harming animals."
+        ],
+        "against": [
+          "Animal testing is necessary for the development of life-saving medicines and treatments.",
+          "Strict regulations ensure that animal testing is conducted humanely and responsibly.",
+          "Some diseases require animal testing to ensure the safety of new drugs for humans."
+        ]
+      }
+    }
+  ]
+}

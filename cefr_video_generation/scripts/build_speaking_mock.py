@@ -1,20 +1,33 @@
-"""Extract the questions from data/speaking_mock1.json into src/speaking/questions.json
-(prompt, part, timings, local media paths + measured audio durations) and create the sfx.
+"""Extract the questions of Speaking mock <n> into src/speaking/mock<n>.json
+(prompt, part, timings, local media paths + measured audio durations) and create any missing sfx.
 
-Usage (from the project root):  python scripts/build_speaking_mock.py
-Question audio and images are downloaded from the URLs in the JSON into public/speaking-mock1/
-when missing (they are not committed, matching the repo's materials/media/ convention).
+Usage (from the project root):  python scripts/build_speaking_mock.py [n]   (default 1)
+Mock 1 is read from data/speaking_mock1.json, any other from the repo's
+materials/cefr-speaking/<nnn>-*.json export. Question audio and images are downloaded into
+public/speaking-mock<n>/ when missing (they are not committed, matching the repo's
+materials/media/ convention).
 """
 import json
 import subprocess
+import sys
 import time
 import urllib.request
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent.parent
-MOCK = json.loads((ROOT / "data" / "speaking_mock1.json").read_text(encoding="utf-8"))
-MEDIA = ROOT / "public" / "speaking-mock1"
+N = int(sys.argv[1]) if len(sys.argv) > 1 else 1
+SOURCE = (
+    ROOT / "data" / "speaking_mock1.json"
+    if N == 1
+    else next((ROOT.parent / "materials" / "cefr-speaking").glob(f"{N:03d}-*.json"))
+)
+MOCK = json.loads(SOURCE.read_text(encoding="utf-8"))
+MEDIA_DIR = f"speaking-mock{N}"
+MEDIA = ROOT / "public" / MEDIA_DIR
 SFX = ROOT / "public" / "sfx"
+
+# Fixes for tags the export leaves as placeholders.
+TOPIC_OVERRIDES = {2: {"p2Topic": "A personal achievement"}}
 
 
 def duration(path: Path) -> float:
@@ -59,6 +72,9 @@ def part_of(q: dict) -> str:
 
 
 def make_sfx() -> None:
+    # The noise burst in click.wav is random, so only synthesise what is missing.
+    if all((SFX / f).exists() for f in ("start.wav", "end.wav", "click.wav", "logo.wav")):
+        return
     SFX.mkdir(parents=True, exist_ok=True)
     tone = "sine=f={f}:d={d}:sample_rate=48000,afade=t=in:d=0.01,afade=t=out:st={fo}:d={fd},volume={v}"
     # Two-note rising chime = "start speaking"; single low tone = "time is up".
@@ -104,15 +120,15 @@ def main() -> None:
             "number": n,
             "part": part_of(q),
             "prompt": q["prompt"],
-            "audio": f"speaking-mock1/q{n}.mp3",
+            "audio": f"{MEDIA_DIR}/q{n}.mp3",
             "audioDuration": duration(audio),
             "prepTime": q["prepTime"],
             "speakTime": q["speakTime"],
         }
         if q.get("hasImages"):
-            item["images"] = ["speaking-mock1/img1.png", "speaking-mock1/img2.png"]
+            item["images"] = [f"{MEDIA_DIR}/img1.png", f"{MEDIA_DIR}/img2.png"]
         if q.get("contextImage"):
-            item["contextImage"] = f"speaking-mock1/q{n}-context.jpg"
+            item["contextImage"] = f"{MEDIA_DIR}/q{n}-context.jpg"
         if q.get("bulletPoints"):
             item["bulletPoints"] = q["bulletPoints"]
         if q.get("debatePoints"):
@@ -120,11 +136,12 @@ def main() -> None:
         questions.append(item)
 
     out = {
+        "number": N,
         "title": MOCK["title"],
-        "topics": data["tags"],
+        "topics": {**data["tags"], **TOPIC_OVERRIDES.get(N, {})},
         "questions": questions,
     }
-    dest = ROOT / "src" / "speaking" / "questions.json"
+    dest = ROOT / "src" / "speaking" / f"mock{N}.json"
     dest.parent.mkdir(parents=True, exist_ok=True)
     dest.write_text(json.dumps(out, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     make_sfx()

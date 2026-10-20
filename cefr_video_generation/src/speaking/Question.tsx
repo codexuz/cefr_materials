@@ -9,7 +9,7 @@ import {
 } from "remotion";
 import { colors, fontFamily, monoFamily } from "../theme";
 import { FadeUp, Mask, Rule } from "../ui";
-import { phaseFrames, Question as Q, mock, partTopic, Part } from "./timeline";
+import { phaseFrames, Question as Q, Part, useMock } from "./timeline";
 import { Timer, usePhase } from "./Timer";
 
 const CONTENT_WIDTH = 1060;
@@ -29,6 +29,7 @@ export const QuestionScene: React.FC<{ q: Q; index: number }> = ({
   const part = q.part as Part;
   const speakAt = f.listen + f.prep;
   const portrait = usePortrait();
+  const { mock, partTopic } = useMock();
 
   return (
     <AbsoluteFill
