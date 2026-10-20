@@ -2,6 +2,7 @@ import { createContext, useContext } from "react";
 import { LOGO_REVEAL_FRAMES } from "../brand/LogoReveal";
 import mock1 from "./mock1.json";
 import mock2 from "./mock2.json";
+import mock3 from "./mock3.json";
 import voiceData from "./voice.json";
 
 export const FPS = 30;
@@ -14,7 +15,7 @@ export type Part = "1.1" | "1.2" | "2" | "3";
 // The narration is shared by every mock (it never names the mock or its topics).
 export type VoiceId = "intro" | "p11" | "p12" | "p2" | "p3" | "outro";
 
-export const mocks = { 1: mock1, 2: mock2 } satisfies Record<number, MockData>;
+export const mocks = { 1: mock1, 2: mock2, 3: mock3 } satisfies Record<number, MockData>;
 export type MockId = keyof typeof mocks;
 
 export const voice = (id: VoiceId) => {

@@ -119,7 +119,7 @@ def main() -> None:
         item = {
             "number": n,
             "part": part_of(q),
-            "prompt": q["prompt"],
+            "prompt": q["prompt"].strip(),
             "audio": f"{MEDIA_DIR}/q{n}.mp3",
             "audioDuration": duration(audio),
             "prepTime": q["prepTime"],

@@ -1,0 +1,114 @@
+{
+  "number": 3,
+  "title": "CEFR Speaking Mock 03",
+  "topics": {
+    "p2Topic": "A sport experience",
+    "p3Topic": "Music education in schools",
+    "p11Topic": "Music, news & manners",
+    "p12Topic": "Online vs in-store shopping"
+  },
+  "questions": [
+    {
+      "number": 1,
+      "part": "1.1",
+      "prompt": "What is your favourite song?",
+      "audio": "speaking-mock3/q1.mp3",
+      "audioDuration": 2.712,
+      "prepTime": 5,
+      "speakTime": 30
+    },
+    {
+      "number": 2,
+      "part": "1.1",
+      "prompt": "Do you prefer to read local news or international news?",
+      "audio": "speaking-mock3/q2.mp3",
+      "audioDuration": 5.064,
+      "prepTime": 5,
+      "speakTime": 30
+    },
+    {
+      "number": 3,
+      "part": "1.1",
+      "prompt": "Who taught you to be polite?",
+      "audio": "speaking-mock3/q3.mp3",
+      "audioDuration": 2.64,
+      "prepTime": 5,
+      "speakTime": 30
+    },
+    {
+      "number": 4,
+      "part": "1.2",
+      "prompt": "Look at the photographs. What do you see in these pictures?",
+      "audio": "speaking-mock3/q4.mp3",
+      "audioDuration": 4.032,
+      "prepTime": 10,
+      "speakTime": 45,
+      "images": [
+        "speaking-mock3/img1.png",
+        "speaking-mock3/img2.png"
+      ]
+    },
+    {
+      "number": 5,
+      "part": "1.2",
+      "prompt": "Which way of shopping has more advantages?",
+      "audio": "speaking-mock3/q5.mp3",
+      "audioDuration": 3.792,
+      "prepTime": 5,
+      "speakTime": 30,
+      "images": [
+        "speaking-mock3/img1.png",
+        "speaking-mock3/img2.png"
+      ]
+    },
+    {
+      "number": 6,
+      "part": "1.2",
+      "prompt": "How has the Internet changed shopping habits?",
+      "audio": "speaking-mock3/q6.mp3",
+      "audioDuration": 4.224,
+      "prepTime": 5,
+      "speakTime": 30,
+      "images": [
+        "speaking-mock3/img1.png",
+        "speaking-mock3/img2.png"
+      ]
+    },
+    {
+      "number": 7,
+      "part": "2",
+      "prompt": "Can you describe your experience of playing or watching a sport?",
+      "audio": "speaking-mock3/q7.mp3",
+      "audioDuration": 17.633,
+      "prepTime": 60,
+      "speakTime": 120,
+      "contextImage": "speaking-mock3/q7-context.jpg",
+      "bulletPoints": [
+        "Can you describe your experience of playing or watching a sport?",
+        "What could be done to encourage more people to take up sports in their free time?",
+        "Do you think hosting major sports events benefits the host country?"
+      ]
+    },
+    {
+      "number": 8,
+      "part": "3",
+      "prompt": "Music education is as important as math and science.",
+      "audio": "speaking-mock3/q8.mp3",
+      "audioDuration": 9.96,
+      "prepTime": 60,
+      "speakTime": 120,
+      "debatePoints": {
+        "for": [
+          "Develops discipline and focus",
+          "Improves cognitive skills",
+          "Encourages teamwork through group activities"
+        ],
+        "against": [
+          "Limited career opportunities in music",
+          "Math and science are more practical",
+          "Not all students are musically inclined"
+        ]
+      }
+    }
+  ]
+}
