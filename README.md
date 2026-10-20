@@ -13,7 +13,7 @@ builders that turn the Listening and Reading test data into print-ready books.
 | `materials/CEFR_Reading_Cover.pdf` | 2 | A3 front + back cover, for printing separately |
 | `materials/cefr-listening-pdfs/` | 57 × 3 | one PDF per listening test, with its answer key |
 | `materials/cefr-reading-pdfs/` | 71 | one PDF per reading test, with its answer key |
-| `materials/CEFR_Article_Book.pdf` | 42 | magazine-style reader: 20 B2 articles, each with a glossary |
+| `materials/CEFR_Article_Book.pdf` | 63 | magazine-style reader: 20 B2 articles with glossary, speaking and essay questions |
 
 Each book carries its own covers as the first and last page, scaled from A3 to
 the book's A4 (same 1:√2 portrait shape, so nothing is distorted). The
@@ -30,7 +30,7 @@ Needs Python 3.13+ with `pymupdf`, and Microsoft Edge or Google Chrome (the
 builders drive it headless to render HTML to PDF).
 
 ```bash
-pip install pymupdf
+pip install pymupdf segno          # segno draws the article book's Telegram QR code
 ```
 
 Run from `materials/`:
@@ -83,7 +83,7 @@ It imports the Listening builder for the shared chrome CSS and Edge plumbing.
 
 `build_article_book.py` builds a magazine-style reader from the B2 version of
 the first N articles (default 20; `python build_article_book.py 30` for thirty). Each
-article is a two-page spread:
+article takes three pages:
 
 - **Opener** — the article's photograph in high-contrast black and white, set in
   one of five layouts that rotate through the book: a colour band across the
@@ -93,6 +93,14 @@ article is a two-page spread:
   block, its key terms underlined, and a numbered glossary (term and definition,
   in the order the terms appear) on the right, in a panel tinted with that
   article's accent colour.
+- **Questions page** — three speaking questions to discuss with a partner, five
+  of the article's key words to try using, and an essay task with ruled lines to
+  write on. The questions live in `materials/article_questions.json`, keyed by
+  article number and checked against the article's title; edit and rebuild.
+
+The cover and a dodgerblue back cover carry a QR code for the Telegram channel
+[@cefr_impulse](https://t.me/cefr_impulse), drawn as vector so it prints sharp.
+`verify_article_book.py` decodes it when `zxing-cpp` is installed.
 
 Dodgerblue leads on every page; each article also carries one secondary accent
 (coral, saffron or mint, cycled) for its outline number, pull quote and small

@@ -35,6 +35,7 @@ import sys
 from urllib.parse import unquote, urlparse
 
 import pymupdf
+import segno
 from PIL import Image, ImageOps
 
 import build_cefr_book as L
@@ -45,6 +46,10 @@ MEDIA = os.path.join(ROOT, "media")
 ILLUS_DIR = os.path.join(MEDIA, "article-illustrations")
 BUILD = os.path.join(ROOT, "_build_articles")
 MONO = os.path.join(BUILD, "mono")
+
+QUESTIONS_FILE = os.path.join(ROOT, "article_questions.json")
+TELEGRAM = "cefr_impulse"
+TELEGRAM_URL = f"https://t.me/{TELEGRAM}"
 
 BOOK_TITLE = "Multilevel Articles"
 LEVEL = "B2"
@@ -193,6 +198,20 @@ def detail(src, x, y, w, h, zoom=2.2, fx=62, fy=40):
             f'transform-origin:{fx}% {fy}%"></div>')
 
 
+def qr(x, y, size, url=TELEGRAM_URL, dark=INK, light="#FFFFFF", quiet=4):
+    """The QR code as vector squares inside a light tile, `size` pt wide.
+    Vector rather than an image so it prints sharp at any size."""
+    q = segno.make(url, error="m")
+    rows = [list(r) for r in q.matrix]
+    n = len(rows) + 2 * quiet
+    u = size / n
+    cells = "".join(
+        f"M{x + (c + quiet) * u:.3f},{y + (r + quiet) * u:.3f}h{u:.3f}v{u:.3f}h-{u:.3f}z"
+        for r, row in enumerate(rows) for c, v in enumerate(row) if v)
+    return (f'<rect x="{x}" y="{y}" width="{size}" height="{size}" fill="{light}"/>'
+            f'<path d="{cells}" fill="{dark}" shape-rendering="crispEdges"/>')
+
+
 def block(x, y, w, h, color):
     return f'<div class="blk" style="left:{x}pt;top:{y}pt;width:{w}pt;height:{h}pt;background:{color}"></div>'
 
@@ -264,6 +283,24 @@ def pull_quote(art):
     pool = later or sentences(" ".join(paras))
     good = [x for x in pool if 60 <= len(x) <= 140] or [x for x in pool if 50 <= len(x) <= 170]
     return good[0] if good else ""
+
+
+def load_questions(arts):
+    """Speaking and essay questions per article, from article_questions.json.
+    Each entry names its article, so a reordered export cannot pick up
+    another article's questions."""
+    with open(QUESTIONS_FILE, encoding="utf-8") as f:
+        data = json.load(f)
+    out = {}
+    for n, art in enumerate(arts, 1):
+        q = data["articles"].get(str(n))
+        if not q:
+            raise RuntimeError(f"article_questions.json has no entry for article {n}")
+        if q["title"].strip().lower() != title_of(art).lower():
+            raise RuntimeError(f"article {n} is '{title_of(art)}' but its questions are "
+                               f"for '{q['title']}'")
+        out[n] = q
+    return out, data.get("essay_words", 200)
 
 
 def credit_line(art):
@@ -448,6 +485,85 @@ def reading_page(art, n, page_no, fit):
 
 
 # --------------------------------------------------------------------------- #
+# Questions page
+# --------------------------------------------------------------------------- #
+WRITE_TOP, WRITE_BOTTOM, LINE_GAP = 512, 786, 23.0
+
+
+def questions_page(art, n, page_no, q, essay_words):
+    img = mono(source_image(art, n), n)
+    ac, on = accent(n)
+    cx, cy, r = 478, 196, 72
+    photo = ""
+    if img:
+        photo = (f'<clipPath id="qc{n}"><circle cx="{cx}" cy="{cy}" r="{r}"/></clipPath>'
+                 f'<image href="{img}" x="{cx - r}" y="{cy - r}" width="{2 * r}" height="{2 * r}" '
+                 f'preserveAspectRatio="xMidYMid slice" clip-path="url(#qc{n})"/>')
+    lines = "".join(
+        f'<line x1="{M + 12}" y1="{y:.1f}" x2="{W - M}" y2="{y:.1f}" stroke="{HAIR}" stroke-width="0.7"/>'
+        for y in [WRITE_TOP + i * LINE_GAP for i in range(int((WRITE_BOTTOM - WRITE_TOP) / LINE_GAP) + 1)])
+    art_svg = (f'<rect x="{W - 22}" y="0" width="22" height="118" fill="{ac}"/>'
+               + f'<rect x="{W - 22}" y="118" width="22" height="40" fill="{BLUE}"/>'
+               + f'<circle cx="{cx}" cy="{cy}" r="{r + 14}" fill="none" stroke="{ac}" '
+                 f'stroke-width="1.4" stroke-dasharray="2 5"/>'
+               + photo
+               + f'<circle cx="{cx - r + 8}" cy="{cy + r - 6}" r="15" fill="{BLUE}"/>'
+               + dots(cx + 20, cy + r + 22, 5, 2, 12, 1.5, ac, 1)
+               + f'<rect x="{M}" y="{WRITE_TOP - 1}" width="3" height="{WRITE_BOTTOM - WRITE_TOP + 2}" fill="{ac}"/>'
+               + lines)
+    qs = "".join(f'<div class="sq-row"><span class="sq-n" style="color:{ac}">{i}</span>'
+                 f'<span class="sq-t">{esc(t)}</span></div>'
+                 for i, t in enumerate(q["speaking"], 1))
+    terms = [w for w, _ in ordered_glossary(art)][:5]
+    chips = "".join(f'<span class="chip">{esc(t)}</span>' for t in terms)
+    return f"""
+<section class="sheet">
+  {svg(art_svg)}
+  <header class="rhead"><i class="sq"></i><span class="rn">{n:02d}</span>
+    <span class="rt">{esc(title_of(art))}</span><span class="rl">Speaking · Writing</span></header>
+  <div class="q-label" style="top:84pt"><i class="bar" style="background:{ac}"></i>Speaking
+    <span>Discuss with a partner</span></div>
+  <div class="sp">{qs}
+    <div class="try"><span class="try-l">Try to use</span>{chips}</div></div>
+  <div class="essay" style="top:{WRITE_TOP - 128}pt">
+    <div class="e-label">Essay<span>· about {essay_words} words</span></div>
+    <p>{esc(q["essay"])}</p></div>
+  {folio(page_no)}
+</section>"""
+
+
+# --------------------------------------------------------------------------- #
+# Back cover
+# --------------------------------------------------------------------------- #
+def back_page(arts):
+    coral, saffron, mint = ACCENTS[0][0], ACCENTS[1][0], ACCENTS[2][0]
+    qx, qy, qs = M, 548, 150
+    shapes = (f'<circle cx="{W - 30}" cy="118" r="150" fill="{saffron}"/>'
+              + f'<circle cx="{W - 30}" cy="118" r="176" fill="none" stroke="#fff" '
+                f'stroke-width="1" stroke-dasharray="2 5"/>'
+              + dots(M, 64, 10, 3, 13, 1.7, "#fff", 0.9)
+              + f'<rect x="{W - 140}" y="{H - 168}" width="98" height="98" fill="{coral}"/>'
+              + f'<rect x="{W - 140}" y="{H - 168}" width="98" height="98" fill="none" '
+                f'stroke="#fff" stroke-width="1" transform="translate(12,12)"/>'
+              + f'<rect x="{M}" y="{qy - 30}" width="64" height="5" fill="{mint}"/>'
+              + f'<rect x="{qx - 8}" y="{qy - 8}" width="{qs + 16}" height="{qs + 16}" fill="#fff"/>'
+              + qr(qx, qy, qs))
+    return f"""
+<section class="sheet back">
+  {svg(shapes)}
+  <div class="bk-kicker"><i class="sq" style="background:#fff"></i>Multilevel · CEFR · {LEVEL} {LEVEL_NAME}</div>
+  <div class="bk-word">KEEP<br>READ–<br>ING.</div>
+  <p class="bk-about">{len(arts)} articles, each with a glossary, speaking questions and an essay task.
+    More readings, mock tests and exam tips every week on our Telegram channel.</p>
+  <div class="bk-tg" style="left:{qx + qs + 28}pt;top:{qy + 14}pt">
+    <div class="bk-tg-l">Join us on Telegram</div>
+    <div class="bk-tg-h">@{TELEGRAM}</div>
+    <div class="bk-tg-u">t.me/{TELEGRAM} · scan the code</div></div>
+  <div class="bk-foot"><span>{BOOK_TITLE}</span><span>{LEVEL} · {LEVEL_NAME}</span></div>
+</section>"""
+
+
+# --------------------------------------------------------------------------- #
 # Cover and contents
 # --------------------------------------------------------------------------- #
 def cover_page(arts):
@@ -467,8 +583,10 @@ def cover_page(arts):
     coral, saffron, mint = ACCENTS[0][0], ACCENTS[1][0], ACCENTS[2][0]
     shapes = (f'<rect x="0" y="0" width="{W}" height="10" fill="{BLUE}"/>'
               + dots(W - 170, 64, 10, 4, 13, 1.7, coral, 1)
-              + f'<circle cx="{W - 96}" cy="300" r="44" fill="{saffron}"/>'
-              + f'<circle cx="{W - 96}" cy="300" r="62" fill="none" stroke="{INK}" stroke-width="0.8"/>'
+              + f'<circle cx="{W - 96}" cy="338" r="44" fill="{saffron}"/>'
+              + f'<circle cx="{W - 96}" cy="338" r="62" fill="none" stroke="{INK}" stroke-width="0.8"/>'
+              + f'<rect x="{W - M - 96}" y="124" width="96" height="96" fill="#fff" stroke="{INK}" stroke-width="0.8"/>'
+              + qr(W - M - 92, 128, 88)
               + f'<rect x="{gx}" y="{gy - 16}" width="64" height="5" fill="{mint}"/>'
               + f'<rect x="{gx + 2 * (gw + gap) + gw - 26:.1f}" y="{gy + gh + gap + gh - 26}" '
                 f'width="26" height="26" fill="{coral}"/>')
@@ -477,6 +595,7 @@ def cover_page(arts):
   {svg(shapes)}
   <div class="cv-kicker"><i class="sq" style="background:{coral}"></i>Multilevel · CEFR · {LEVEL} {LEVEL_NAME}</div>
   <div class="cv-word">ARTI–<br><span class="acc">CLES</span></div>
+  <div class="cv-qr" style="left:{W - M - 96}pt;top:226pt;width:96pt">Telegram<br><b>@{TELEGRAM}</b></div>
   {tiles}
   <div class="cv-foot"><span>{len(arts)} readings · a glossary with every article</span>
     <span>{LEVEL} · {LEVEL_NAME}</span></div>
@@ -510,7 +629,7 @@ def contents_page(arts, page_map):
        + f'<circle cx="{M + 290}" cy="236" r="16" fill="{saffron}"/>')}
   <div class="c-word">CONT–<br><span class="acc">ENTS</span></div>
   <div class="c-note">{len(arts)} articles at {LEVEL} · {LEVEL_NAME}.<br>
-    Each opens on a photograph and ends with its glossary.</div>
+    Each opens on a photograph, comes with a glossary,<br>and ends with speaking and essay questions.</div>
   <div class="{list_cls}">{rows}</div>
   {folio(2)}
 </section>"""
@@ -621,7 +740,53 @@ h1.t-white {{ color: #fff; }}
 .gcrop img {{ width: 100%; height: 100%; object-fit: cover; display: block; }}
 .gcrop .gsq {{ position: absolute; left: 0; bottom: 0; width: 26pt; height: 26pt; }}
 
+/* ---------- questions page ---------- */
+.q-label {{ position: absolute; left: {M}pt; font-family: 'Display'; font-size: 15pt; letter-spacing: 2.4pt;
+  text-transform: uppercase; color: {INK}; font-variation-settings: 'wght' 700; display: flex;
+  align-items: center; gap: 9pt; }}
+.q-label .bar {{ display: inline-block; width: 22pt; height: 4pt; }}
+.q-label span {{ font-size: 7.4pt; letter-spacing: 1.8pt; color: {GREY_SOFT};
+  font-variation-settings: 'wght' 500; margin-left: 4pt; }}
+.sp {{ position: absolute; left: {M}pt; top: 112pt; width: 344pt; }}
+.sq-row {{ display: flex; gap: 14pt; align-items: baseline; padding: 11pt 0 12pt;
+  border-top: 0.6pt solid {HAIR}; }}
+.sq-row:first-child {{ border-top: 0.7pt solid {INK}; }}
+.sq-n {{ flex: none; width: 20pt; font-family: 'Display'; font-size: 30pt; line-height: 24pt;
+  font-variation-settings: 'wght' 700, 'wdth' 78; }}
+.sq-t {{ font-family: 'Serif'; font-size: 13.6pt; line-height: 19.4pt; color: {INK}; }}
+.try {{ margin-top: 14pt; width: {W - 2 * M}pt; display: flex; flex-wrap: wrap; gap: 5pt 6pt; align-items: center; }}
+.try-l {{ font-family: 'Display'; font-size: 7.2pt; letter-spacing: 1.8pt; text-transform: uppercase;
+  color: {GREY}; margin-right: 4pt; }}
+.chip {{ font-family: 'Display'; font-size: 8.4pt; color: {INK}; border: 0.8pt solid {BLUE};
+  padding: 2.4pt 7pt 2pt; border-radius: 10pt; font-variation-settings: 'wght' 500; }}
+.essay {{ position: absolute; left: {M}pt; width: {W - 2 * M}pt; height: 106pt; background: {BLUE};
+  color: #fff; padding: 16pt 20pt; }}
+.e-label {{ font-family: 'Display'; font-size: 15pt; letter-spacing: 2.4pt; text-transform: uppercase;
+  font-variation-settings: 'wght' 700; }}
+.e-label span {{ font-size: 7.6pt; letter-spacing: 1.6pt; margin-left: 8pt; opacity: .85;
+  font-variation-settings: 'wght' 500; }}
+.essay p {{ margin: 9pt 0 0; font-style: italic; font-size: 13pt; line-height: 18.6pt; }}
+
+/* ---------- back cover ---------- */
+.sheet.back {{ background: {BLUE}; }}
+.bk-kicker {{ position: absolute; left: {M}pt; top: 124pt; font-family: 'Display'; font-size: 8.6pt;
+  letter-spacing: 2.6pt; text-transform: uppercase; color: #fff; font-variation-settings: 'wght' 600; }}
+.bk-word {{ position: absolute; left: 36pt; top: 150pt; font-family: 'Display'; font-size: 104pt;
+  line-height: 96pt; letter-spacing: -2.5pt; color: #fff; font-variation-settings: 'wght' 700, 'wdth' 76; }}
+.bk-about {{ position: absolute; left: {M}pt; top: 452pt; width: 330pt; margin: 0; font-style: italic;
+  font-size: 13pt; line-height: 19pt; color: #fff; }}
+.bk-tg {{ position: absolute; color: #fff; font-family: 'Display'; }}
+.bk-tg-l {{ font-size: 9pt; letter-spacing: 2.2pt; text-transform: uppercase; font-variation-settings: 'wght' 600; }}
+.bk-tg-h {{ font-size: 30pt; line-height: 34pt; margin-top: 6pt; font-variation-settings: 'wght' 700, 'wdth' 82; }}
+.bk-tg-u {{ font-size: 8.4pt; letter-spacing: 1pt; margin-top: 8pt; opacity: .9; }}
+.bk-foot {{ position: absolute; left: {M}pt; right: {M}pt; bottom: 24pt; display: flex;
+  justify-content: space-between; font-family: 'Display'; font-size: 7.2pt; letter-spacing: 1.8pt;
+  text-transform: uppercase; color: #fff; border-top: 0.7pt solid rgba(255,255,255,.6); padding-top: 9pt; }}
+
 /* ---------- cover ---------- */
+.cv-qr {{ position: absolute; text-align: center; font-family: 'Display'; font-size: 7pt; line-height: 10pt;
+  letter-spacing: 1.4pt; text-transform: uppercase; color: {GREY}; padding-top: 6pt; }}
+.cv-qr b {{ color: {INK}; font-variation-settings: 'wght' 700; letter-spacing: 0.4pt; font-size: 8.6pt; }}
 .cv-kicker {{ position: absolute; left: {M}pt; top: 54pt; font-family: 'Display'; font-size: 8.6pt;
   letter-spacing: 2.6pt; text-transform: uppercase; color: {INK}; font-variation-settings: 'wght' 600; }}
 .cv-word {{ position: absolute; left: 36pt; top: 92pt; font-family: 'Display'; font-size: 162pt;
@@ -694,16 +859,22 @@ def wrap(body, script=False):
             f'<body>{body}{FIT_JS if script else ""}</body></html>')
 
 
+PAGES_PER_ARTICLE = 3        # opener, reading, questions
+
+
 def page_map_for(arts):
-    return [3 + 2 * i for i in range(len(arts))]
+    return [3 + PAGES_PER_ARTICLE * i for i in range(len(arts))]
 
 
 def book_body(arts, fit):
     pm = page_map_for(arts)
+    questions, essay_words = load_questions(arts)
     out = cover_page(arts) + contents_page(arts, pm)
     for i, a in enumerate(arts):
-        out += opener_page(a, i + 1, pm[i]) + reading_page(a, i + 1, pm[i] + 1, fit)
-    return out
+        n = i + 1
+        out += (opener_page(a, n, pm[i]) + reading_page(a, n, pm[i] + 1, fit)
+                + questions_page(a, n, pm[i] + 2, questions[n], essay_words))
+    return out + back_page(arts)
 
 
 def measure(arts):
@@ -767,6 +938,8 @@ def main():
     toc = [[1, "Cover", 1], [1, "Contents", 2]]
     for i, a in enumerate(arts):
         toc.append([1, f"{i + 1:02d} {title_of(a)}", pm[i]])
+        toc.append([2, "Speaking and essay", pm[i] + 2])
+    toc.append([1, "Back cover", doc.page_count])
     doc.set_toc(toc)
     doc.set_metadata({"title": f"CEFR Articles — {LEVEL}", "author": BOOK_TITLE,
                       "subject": f"{LEVEL} reading articles with glossary"})

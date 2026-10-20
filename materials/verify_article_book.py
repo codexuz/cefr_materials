@@ -31,13 +31,52 @@ def main():
     toc = doc.get_toc()
     n = len(arts)
 
+    per = A.PAGES_PER_ARTICLE
     check(n == A.DEFAULT_COUNT, f"{n} articles loaded")
-    check(doc.page_count == 2 + 2 * n, f"{doc.page_count} pages = cover + contents + {n} x 2")
-    check(len(toc) == n + 2, f"bookmarks: {len(toc)}")
+    check(doc.page_count == 2 + per * n + 1,
+          f"{doc.page_count} pages = cover + contents + {n} x {per} + back cover")
+    check(len(toc) == 2 + 2 * n + 1, f"bookmarks: {len(toc)}")
     check({(round(p.rect.width), round(p.rect.height)) for p in doc} == {(595, 842)}, "every page is A4")
 
-    openers = [e[2] for e in toc[2:]]
-    check(openers == [3 + 2 * i for i in range(n)], "articles open on pages 3, 5, 7 ...")
+    openers = [e[2] for e in toc if e[0] == 1 and re.match(r"\d\d ", e[1])]
+    check(openers == [3 + per * i for i in range(n)], f"articles open every {per} pages from page 3")
+
+    # --- speaking and essay questions after every article -------------------
+    questions, _ = A.load_questions(arts)
+    missing_q = []
+    for i, p in enumerate(openers, 1):
+        qtext = tight(doc[p + 1].get_text())
+        for s in questions[i]["speaking"] + [questions[i]["essay"]]:
+            if tight(s) not in qtext:
+                missing_q.append(f"{i}:{s[:30]}")
+        if "speaking" not in qtext or "essay" not in qtext:
+            missing_q.append(f"{i}:labels")
+    check(not missing_q, f"3 speaking questions + 1 essay after every article ({len(missing_q)} missing)"
+          + ("" if not missing_q else f": {missing_q[:4]}"))
+    over = []
+    for i, p in enumerate(openers, 1):
+        essay_top = A.WRITE_TOP - 128
+        bottom = max((b[3] for b in doc[p + 1].get_text("blocks") if 80 < b[1] < essay_top), default=0)
+        if bottom > essay_top - 4:
+            over.append(i)
+    check(not over, f"speaking questions clear the essay block ({len(over)} overlapping)")
+
+    # --- Telegram QR on the cover and the back -------------------------------
+    try:
+        import zxingcpp
+        from PIL import Image
+        found = []
+        for idx in (0, doc.page_count - 1):
+            pix = doc[idx].get_pixmap(matrix=pymupdf.Matrix(3, 3))
+            img = Image.frombytes("RGB", (pix.width, pix.height), pix.samples)
+            found.append([r.text for r in zxingcpp.read_barcodes(img)])
+        check(all(A.TELEGRAM_URL in f for f in found),
+              f"Telegram QR decodes to {A.TELEGRAM_URL} on cover and back ({found})")
+    except ImportError:
+        notes.append("SKIP  QR decode (pip install zxing-cpp to check it)")
+    handle = f"@{A.TELEGRAM}".lower()      # the cover sets it in capitals
+    check(handle in doc[0].get_text().lower() and handle in doc[-1].get_text().lower(),
+          f"@{A.TELEGRAM} printed on cover and back")
 
     bad_kick, no_photo, no_gloss, bad_terms, bad_text, other_level, strays = [], [], [], [], [], [], []
     for i, (art, p) in enumerate(zip(arts, openers), 1):
