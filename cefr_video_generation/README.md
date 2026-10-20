@@ -13,7 +13,7 @@ single blue accent.
 | `SpeakingMock1` | 1920×1080 | ~12:32 | Speaking Mock 01 exam simulation for YouTube |
 | `SpeakingMock1Reels` | 1080×1920 | ~12:32 | The same simulation laid out for Instagram Reels |
 | `SpeakingMock2`, `SpeakingMock2Reels` | both | ~12:34 | Speaking Mock 02, same two layouts |
-| `SpeakingMock3`, `SpeakingMock3Reels` | both | ~12:33 | Speaking Mock 03, same two layouts |
+| `SpeakingMock3` … `SpeakingMock5` (+ `Reels`) | both | ~12:30 | Speaking Mocks 03–05, same two layouts |
 | `LogoReveal`, `LogoRevealReels` | both | 5 s | The Impulse logo end card on its own |
 
 The Speaking mock follows the real exam flow for every question. The examiner audio
@@ -51,7 +51,7 @@ so only the Speaking mocks' question media has to be fetched:
 
 ```bash
 python scripts/build_speaking_mock.py 1  # downloads question audio/images, writes src/speaking/mock1.json and the sfx
-python scripts/build_speaking_mock.py 2  # same for Mock 02, 3 for Mock 03 (read from materials/cefr-speaking/)
+python scripts/build_speaking_mock.py 2  # same for Mock 02 (3, 4, 5 … likewise; read from materials/cefr-speaking/)
 npm run dev                              # Remotion Studio preview
 npx remotion render SpeakingMock1 out/speaking-mock-01.mp4
 npx remotion render SpeakingMock1Reels out/speaking-mock-01-reels.mp4

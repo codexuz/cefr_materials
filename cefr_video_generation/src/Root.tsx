@@ -16,7 +16,7 @@ export const RemotionRoot: React.FC = () => {
         width={WIDTH}
         height={HEIGHT}
       />
-      {([1, 2, 3] as const).map((id) => {
+      {([1, 2, 3, 4, 5] as const).map((id) => {
         const { totalFrames: frames } = speaking.buildTimeline(id);
         return (
           <Folder key={id} name={`Speaking-Mock-${id}`}>

@@ -1,0 +1,114 @@
+{
+  "number": 4,
+  "title": "CEFR Speaking Mock 04",
+  "topics": {
+    "p2Topic": "Overcoming a fear",
+    "p3Topic": "Banning animal testing",
+    "p11Topic": "Gifts, teachers & home",
+    "p12Topic": "Paper books vs e-readers"
+  },
+  "questions": [
+    {
+      "number": 1,
+      "part": "1.1",
+      "prompt": "When was the last time you received a gift?",
+      "audio": "speaking-mock4/q1.mp3",
+      "audioDuration": 3.624,
+      "prepTime": 5,
+      "speakTime": 30
+    },
+    {
+      "number": 2,
+      "part": "1.1",
+      "prompt": "Who was your favourite teacher at school?",
+      "audio": "speaking-mock4/q2.mp3",
+      "audioDuration": 3.12,
+      "prepTime": 5,
+      "speakTime": 30
+    },
+    {
+      "number": 3,
+      "part": "1.1",
+      "prompt": "How is your home decorated?",
+      "audio": "speaking-mock4/q3.mp3",
+      "audioDuration": 2.784,
+      "prepTime": 5,
+      "speakTime": 30
+    },
+    {
+      "number": 4,
+      "part": "1.2",
+      "prompt": "What do you see in these pictures?",
+      "audio": "speaking-mock4/q4.mp3",
+      "audioDuration": 3.0,
+      "prepTime": 10,
+      "speakTime": 45,
+      "images": [
+        "speaking-mock4/img1.png",
+        "speaking-mock4/img2.png"
+      ]
+    },
+    {
+      "number": 5,
+      "part": "1.2",
+      "prompt": "Which do you think is more enjoyable: reading a paper book or an eBook?",
+      "audio": "speaking-mock4/q5.mp3",
+      "audioDuration": 6.432,
+      "prepTime": 5,
+      "speakTime": 30,
+      "images": [
+        "speaking-mock4/img1.png",
+        "speaking-mock4/img2.png"
+      ]
+    },
+    {
+      "number": 6,
+      "part": "1.2",
+      "prompt": "Do you think eBooks will replace paper books in the future?",
+      "audio": "speaking-mock4/q6.mp3",
+      "audioDuration": 4.104,
+      "prepTime": 5,
+      "speakTime": 30,
+      "images": [
+        "speaking-mock4/img1.png",
+        "speaking-mock4/img2.png"
+      ]
+    },
+    {
+      "number": 7,
+      "part": "2",
+      "prompt": "Share a time when you overcame a fear or faced something you were afraid of.",
+      "audio": "speaking-mock4/q7.mp3",
+      "audioDuration": 18.625,
+      "prepTime": 60,
+      "speakTime": 120,
+      "contextImage": "speaking-mock4/q7-context.jpg",
+      "bulletPoints": [
+        "Share a time when you overcame a fear or faced something you were afraid of.",
+        "How has this experience affected your outlook on dealing with fear?",
+        "In what ways do fears shape people’s behaviors and decisions in society?"
+      ]
+    },
+    {
+      "number": 8,
+      "part": "3",
+      "prompt": "Animal testing should be banned worldwide.",
+      "audio": "speaking-mock4/q8.mp3",
+      "audioDuration": 8.52,
+      "prepTime": 60,
+      "speakTime": 120,
+      "debatePoints": {
+        "for": [
+          "Animal testing is cruel and inhumane to animals.",
+          "Alternatives to animal testing, such as computer models, are becoming more advanced.",
+          "It is possible to conduct medical research without harming animals."
+        ],
+        "against": [
+          "Animal testing is necessary for the development of life-saving medicines and treatments.",
+          "Strict regulations ensure that animal testing is conducted humanely and responsibly.",
+          "Some diseases require animal testing to ensure the safety of new drugs for humans."
+        ]
+      }
+    }
+  ]
+}
