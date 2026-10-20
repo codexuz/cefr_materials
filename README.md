@@ -13,6 +13,7 @@ builders that turn the Listening and Reading test data into print-ready books.
 | `materials/CEFR_Reading_Cover.pdf` | 2 | A3 front + back cover, for printing separately |
 | `materials/cefr-listening-pdfs/` | 57 × 3 | one PDF per listening test, with its answer key |
 | `materials/cefr-reading-pdfs/` | 71 | one PDF per reading test, with its answer key |
+| `materials/CEFR_Article_Book.pdf` | 56 | illustrated reader: 10 articles at B1, B2 and C1 |
 
 Each book carries its own covers as the first and last page, scaled from A3 to
 the book's A4 (same 1:√2 portrait shape, so nothing is distorted). The
@@ -39,6 +40,7 @@ python build_cefr_book.py              # Listening book + 57 per-test PDFs
 python build_cefr_reading_book.py      # Reading book + 71 per-test PDFs
 python build_covers.py                 # both A3 covers
 python attach_covers.py                # wrap each book in its covers
+python build_article_book.py           # illustrated article reader (default 10)
 ```
 
 `attach_covers.py` runs last and is safe to re-run — a book that already has
@@ -58,6 +60,7 @@ Both books are checked against the demo's measured geometry:
 ```bash
 python verify_cefr_book.py
 python verify_cefr_reading_book.py
+python verify_article_book.py
 ```
 
 These assert page and bookmark counts, the divider rhythm on every test page,
@@ -75,6 +78,28 @@ reading test's five parts continuously across however many pages they need. So
 it renders the content as one multi-column document that Chrome paginates
 natively, then stamps a separately rendered chrome layer underneath each page.
 It imports the Listening builder for the shared chrome CSS and Edge plumbing.
+
+## The article reader
+
+`build_article_book.py` builds an illustrated reader from the first N articles
+(`python build_article_book.py 20` for twenty). Each article opens with its own
+photograph, a row of stat tiles and a chart comparing how long the passage is at
+each level, then runs B1, B2 and C1 in turn — each with a drop cap, its key
+terms accented in the text, and its vocabulary as cards — and closes with the
+Uzbek translation of all three. Apart from the photographs, every graphic on the
+page is drawn by the builder as vector, so it needs no external image service.
+
+`gen_article_images.py` optionally adds a generated illustration per article
+through the OpenAI images API. It needs `OPENAI_API_KEY` in the environment and
+does nothing (and costs nothing) without it:
+
+```bash
+python gen_article_images.py --dry-run   # print the prompts, call nothing
+python gen_article_images.py             # generate, skipping any already done
+```
+
+Images land in `media/article-illustrations/` (not committed, like the rest of
+`media/`) and `build_article_book.py` places them automatically on the next run.
 
 ## Data
 
