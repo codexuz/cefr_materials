@@ -1,4 +1,4 @@
-"""Verify the article book: structure, chrome, and that nothing was dropped."""
+"""Verify the B2 article book: structure, content, glossary and palette."""
 import os
 import re
 import sys
@@ -9,7 +9,6 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import build_article_book as A  # noqa: E402
 
 BOOK = os.path.join(A.ROOT, "CEFR_Article_Book.pdf")
-TOL = 0.8
 
 fails, notes = [], []
 
@@ -18,108 +17,86 @@ def check(ok, msg):
     (notes if ok else fails).append(("PASS" if ok else "FAIL") + "  " + msg)
 
 
-def near(c, t, tol=0.03):
-    return c is not None and all(abs(a - b) < tol for a, b in zip(c, t))
+def tight(s):
+    return re.sub(r"\s+", "", s).lower()
 
 
-C9, BLUE = (0.788, 0.839, 0.961), (0.122, 0.282, 0.839)
+def hexcol(rgb):
+    return "#%02X%02X%02X" % tuple(round(c * 255) for c in rgb[:3])
 
 
 def main():
     arts = A.load_articles(A.DEFAULT_COUNT)
     doc = pymupdf.open(BOOK)
     toc = doc.get_toc()
+    n = len(arts)
 
-    check(len(arts) == 10, f"{len(arts)} articles loaded")
-    check(len(toc) == len(arts) + 2, f"bookmarks: {len(toc)} (cover + contents + {len(arts)})")
-    check({(round(p.rect.width), round(p.rect.height)) for p in doc} == {(595, 842)},
-          "every page is A4")
+    check(n == 10, f"{n} articles loaded")
+    check(doc.page_count == 2 + 2 * n, f"{doc.page_count} pages = cover + contents + {n} x 2")
+    check(len(toc) == n + 2, f"bookmarks: {len(toc)}")
+    check({(round(p.rect.width), round(p.rect.height)) for p in doc} == {(595, 842)}, "every page is A4")
 
-    starts = [e[2] for e in toc[2:]]
-    check(starts == sorted(starts) and starts[0] == 3,
-          f"articles start in order from page {starts[0]}")
+    openers = [e[2] for e in toc[2:]]
+    check(openers == [3 + 2 * i for i in range(n)], "articles open on pages 3, 5, 7 ...")
 
-    # --- each bookmark lands on that article's opener -----------------------
-    bad_open = []
-    for i, p in enumerate(starts, 1):
-        tight = re.sub(r"\s+", "", doc[p - 1].get_text()).upper()
-        if f"ARTICLE{i:02d}" not in tight:
-            bad_open.append(i)
-    check(not bad_open, f"every bookmark lands on its opener ({len(bad_open)} wrong)")
+    bad_kick, no_photo, no_gloss, bad_terms, bad_text, other_level, strays = [], [], [], [], [], [], []
+    for i, (art, p) in enumerate(zip(arts, openers), 1):
+        op, rd = doc[p - 1], doc[p]
+        if f"article{i:02d}" not in tight(op.get_text()):
+            bad_kick.append(i)
+        if not any(b["width"] > 300 and b["height"] > 200 for b in op.get_image_info()):
+            no_photo.append(i)
 
-    # --- opener carries the photograph --------------------------------------
-    no_photo = [i for i, p in enumerate(starts, 1)
-                if not any(b["width"] > 400 and b["height"] > 300
-                           for b in doc[p - 1].get_image_info())]
-    check(not no_photo, f"every opener carries its photo ({len(no_photo)} missing)")
+        text = tight(rd.get_text())
+        if "glossary" not in text:
+            no_gloss.append(i)
+        for term in A.vocab(art):
+            if tight(term) not in text:
+                bad_terms.append(f"{i}:{term}")
+        body = A.plain(A.passage(art))
+        for sample in (body[120:190], body[len(body) // 2: len(body) // 2 + 70], body[-80:-10]):
+            if tight(re.sub(r"\s+([.,;:!?])", r"\1", sample)) not in text:
+                bad_text.append(i)
+                break
+        # only the B2 version: an opening run of the B1 text must not appear
+        b1 = A.plain(art["mock_data"].get("passageB1") or "")
+        if b1 and tight(b1[20:90]) in text and b1[20:90] not in body:
+            other_level.append(i)
 
-    # --- chrome on every page but the cover ---------------------------------
-    bad_rule = bad_pill = bad_stripe = 0
-    for i in range(1, doc.page_count):
-        pg = doc[i]
-        rule = [g["rect"] for g in pg.get_drawings()
-                if near(g.get("fill"), C9) and g["rect"].width > 400]
-        pill = [g["rect"] for g in pg.get_drawings()
-                if near(g.get("fill"), BLUE) and g["rect"].x1 > 560 and 9 < g["rect"].height < 12]
-        if not rule or abs(rule[0].y0 - 803.64) > TOL:
-            bad_rule += 1
-        if not pill or abs(pill[0].y0 - 809.68) > TOL:
-            bad_pill += 1
-        if not any(b["width"] == 4956 for b in pg.get_image_info()):
-            bad_stripe += 1
-    check(bad_rule == 0, f"footer rule on every body page ({bad_rule} missing)")
-    check(bad_pill == 0, f"page pill on every body page ({bad_pill} missing)")
-    check(bad_stripe == 0, f"top stripe on every body page ({bad_stripe} missing)")
-
-    # --- content completeness ------------------------------------------------
-    ranges = []
-    for i, p in enumerate(starts):
-        end = starts[i + 1] if i + 1 < len(starts) else doc.page_count + 1
-        ranges.append((p, end))
-
-    missing_lv, missing_vocab, missing_tr, missing_terms = [], [], [], []
-    for idx, (art, (p0, p1)) in enumerate(zip(arts, ranges), 1):
-        text = re.sub(r"\s+", " ", "\n".join(doc[i - 1].get_text() for i in range(p0, p1)))
-        tight = re.sub(r"\s+", "", text)
-        for lv, name in A.LEVELS:
-            if name.upper() not in text.upper():
-                missing_lv.append(f"{idx}.{lv}")
-            # a sample of each level's vocabulary must be printed
-            words = list(A.vocab(art, lv))
-            if not words:
+        # text stays in its column: body 42..360, glossary panel 378..553
+        for b in rd.get_text("blocks"):
+            if b[1] < 70 or b[3] > 800:
                 continue
-            for w in words[:3]:
-                if re.sub(r"\s+", "", w).lower() not in tight.lower():
-                    missing_vocab.append(f"{idx}.{lv}.{w}")
-        if A.translation(art, "B1") and "TARJIMA" not in text.upper():
-            missing_tr.append(str(idx))
-        # a sample from each passage must appear -- taken from the middle,
-        # since the floated drop cap extracts away from the first word
-        for lv, _ in A.LEVELS:
-            body = A.plain(A.passage(art, lv))
-            sample = body[120:190]
-            if sample and re.sub(r"\s+", "", sample).lower() not in tight.lower():
-                missing_terms.append(f"{idx}.{lv}")
+            if not (b[2] <= 361.5 or b[0] >= 377.0):
+                strays.append((i, round(b[0]), round(b[2])))
 
-    check(not missing_lv, f"all three levels on every article ({len(missing_lv)} missing)")
-    check(not missing_terms,
-          f"every passage printed ({len(missing_terms)} missing){'' if not missing_terms else ': ' + str(missing_terms[:5])}")
-    check(not missing_vocab,
-          f"vocabulary printed for every level ({len(missing_vocab)} missing){'' if not missing_vocab else ': ' + str(missing_vocab[:5])}")
-    check(not missing_tr, f"Uzbek translation on every article ({len(missing_tr)} missing)")
+    check(not bad_kick, f"every opener carries its kicker ({len(bad_kick)} missing)")
+    check(not no_photo, f"every opener carries its photograph ({len(no_photo)} missing)")
+    check(not no_gloss, f"every reading page has its glossary ({len(no_gloss)} missing)")
+    check(not bad_terms, f"every glossary term printed ({len(bad_terms)} missing)"
+          + ("" if not bad_terms else f": {bad_terms[:5]}"))
+    check(not bad_text, f"every B2 passage printed in full ({len(bad_text)} incomplete)")
+    check(not other_level, f"only the B2 version is used ({len(other_level)} with B1 text)")
+    check(not strays, f"body text and glossary keep to their columns ({len(strays)} strays)"
+          + ("" if not strays else f": {strays[:4]}"))
 
-    # --- nothing crosses the column gutter -----------------------------------
-    strays = []
-    for p0, p1 in ranges:
-        for i in range(p0, p1):
-            for b in doc[i - 1].get_text("blocks"):
-                if b[3] > 800:
-                    continue
-                if not ((b[0] >= 31.0 and b[2] <= 289.5) or (b[0] >= 307.0 and b[2] <= 565.5)):
-                    # the opener blocks legitimately span both columns
-                    if b[1] > 420:
-                        strays.append((i, round(b[0], 1), round(b[2], 1)))
-    check(not strays, f"body text stays inside its column ({len(strays)} blocks)")
+    all_text = tight("".join(p.get_text() for p in doc))
+    check("tarjima" not in all_text, "no Uzbek translation section")
+
+    # palette: every vector fill is dodgerblue, an accent, ink/grey, paper or white
+    allowed = {A.BLUE, A.INK, A.BODY, A.GREY, A.GREY_SOFT, A.HAIR, A.PAPER, A.HAIR_PAPER,
+               "#FFFFFF", "#000000", "#111111"} | {a for a, _ in A.ACCENTS}
+    allowed = {c.upper() for c in allowed}
+    seen = set()
+    for p in doc:
+        for g in p.get_drawings():
+            for key in ("fill", "color"):
+                c = g.get(key)
+                if c:
+                    seen.add(hexcol(c))
+    off = sorted(c for c in seen if c not in allowed)
+    check(not off, f"palette limited to dodgerblue + accents ({len(off)} other colours)"
+          + ("" if not off else f": {off[:8]}"))
 
     print("\n".join(notes))
     print()

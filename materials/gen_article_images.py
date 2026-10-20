@@ -36,12 +36,14 @@ SIZE = os.environ.get("OPENAI_IMAGE_SIZE", "1536x1024")   # 3:2, matches the fig
 DEFAULT_COUNT = 10
 
 # The book's palette, so generated art sits beside the brand rather than fighting it.
+# The book prints every picture in high-contrast black and white and lets its
+# colour blocks carry the colour, so ask for a strong tonal photograph rather
+# than a colour scheme.
 STYLE = (
-    "Modern flat vector editorial illustration, clean geometric shapes, generous negative "
-    "space, subtle grain. Strict palette: royal blue #1f48d6, deep navy #0b1a4a, soft "
-    "periwinkle #c9d6f5, off-white #f3f5f9, with a single warm accent. No text, no words, "
-    "no letters, no numbers, no logos, no watermarks, no human faces in close-up. "
-    "Composed as a wide banner with the subject slightly left of centre."
+    "Editorial magazine photograph, documentary style, strong directional light, deep "
+    "shadows and clean highlights so it reads well in black and white, simple uncluttered "
+    "composition with room around the subject. No text, no words, no letters, no numbers, "
+    "no logos, no watermarks. Wide landscape framing."
 )
 
 

@@ -13,7 +13,7 @@ builders that turn the Listening and Reading test data into print-ready books.
 | `materials/CEFR_Reading_Cover.pdf` | 2 | A3 front + back cover, for printing separately |
 | `materials/cefr-listening-pdfs/` | 57 × 3 | one PDF per listening test, with its answer key |
 | `materials/cefr-reading-pdfs/` | 71 | one PDF per reading test, with its answer key |
-| `materials/CEFR_Article_Book.pdf` | 56 | illustrated reader: 10 articles at B1, B2 and C1 |
+| `materials/CEFR_Article_Book.pdf` | 22 | magazine-style reader: 10 B2 articles, each with a glossary |
 
 Each book carries its own covers as the first and last page, scaled from A3 to
 the book's A4 (same 1:√2 portrait shape, so nothing is distorted). The
@@ -40,7 +40,7 @@ python build_cefr_book.py              # Listening book + 57 per-test PDFs
 python build_cefr_reading_book.py      # Reading book + 71 per-test PDFs
 python build_covers.py                 # both A3 covers
 python attach_covers.py                # wrap each book in its covers
-python build_article_book.py           # illustrated article reader (default 10)
+python build_article_book.py           # B2 article reader (default 10)
 ```
 
 `attach_covers.py` runs last and is safe to re-run — a book that already has
@@ -81,17 +81,28 @@ It imports the Listening builder for the shared chrome CSS and Edge plumbing.
 
 ## The article reader
 
-`build_article_book.py` builds an illustrated reader from the first N articles
-(`python build_article_book.py 20` for twenty). Each article opens with its own
-photograph, a row of stat tiles and a chart comparing how long the passage is at
-each level, then runs B1, B2 and C1 in turn — each with a drop cap, its key
-terms accented in the text, and its vocabulary as cards — and closes with the
-Uzbek translation of all three. Apart from the photographs, every graphic on the
-page is drawn by the builder as vector, so it needs no external image service.
+`build_article_book.py` builds a magazine-style reader from the B2 version of
+the first N articles (`python build_article_book.py 20` for twenty). Each
+article is a two-page spread:
 
-`gen_article_images.py` optionally adds a generated illustration per article
-through the OpenAI images API. It needs `OPENAI_API_KEY` in the environment and
-does nothing (and costs nothing) without it:
+- **Opener** — the article's photograph in high-contrast black and white, set in
+  one of five layouts that rotate through the book: a colour band across the
+  photo, a giant serif initial behind it, a rotated title on a vertical strip, a
+  circle split between photo and colour, and a photo grid with a title block.
+- **Reading page** — the text opened by a giant initial, a solid pull-quote
+  block, its key terms underlined, and a numbered glossary (term and definition,
+  in the order the terms appear) in a paper-toned panel on the right.
+
+Dodgerblue leads on every page; each article also carries one secondary accent
+(coral, saffron or mint, cycled) for its outline number, pull quote and small
+shapes. Apart from the photographs, every shape is drawn by the builder, so it
+needs no external image service. Type is Bahnschrift for display and Georgia
+for text, both standard on Windows.
+
+`gen_article_images.py` optionally generates a replacement photograph per
+article through the OpenAI images API; the book converts it to black and white
+like the others. It needs `OPENAI_API_KEY` in the environment and does nothing
+(and costs nothing) without it:
 
 ```bash
 python gen_article_images.py --dry-run   # print the prompts, call nothing

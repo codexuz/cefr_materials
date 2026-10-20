@@ -1,21 +1,25 @@
 """
-CEFR Article Book builder.
+CEFR Article Book builder -- B2 readings with a glossary.
 
-Builds an illustrated reader from the first N article exports (default 10).
-Each article carries its own photograph; everything else on the page -- the
-stat tiles, the level bars, the badges, the vocabulary cards, the drop caps and
-the pattern bands -- is drawn here as vector, so the book is illustrated
-without depending on any external image service.
+An editorial reader built from the first N article exports (default 10),
+using only each article's B2 version. Each article is a two-page spread:
 
-Per article:
-    opener   photo with the title over it, stat tiles, a level-length chart
-    B1/B2/C1 the passage at that level, then its vocabulary cards
-    Uzbek    the translation of all three levels
+    opener   the article's photograph in high-contrast black and white, set in
+             one of five magazine layouts -- a colour band across the photo, a
+             giant serif initial, a rotated title on a vertical strip, a circle
+             split between photo and colour, or a photo grid with a title block
+    reading  the text in a serif column opened by a giant initial, a solid
+             pull-quote block, its key terms underlined, and a numbered
+             glossary of those terms in a paper-toned panel on the right
 
-Like build_cefr_reading_book.py, the content is one multi-column document that
-Chrome paginates natively and the page chrome is a separate layer stamped
-underneath. Unlike the exam books there is no dashed column rule: this is a
-magazine, not an answer sheet.
+Colour: dodgerblue (#1E90FF) leads on every page; each article also carries
+one secondary accent (coral, saffron or mint, cycled) for its outline number,
+pull quote and small shapes, so every spread has its own identity. Photographs
+are black and white so that the colour belongs to the design. All shapes are
+drawn here as SVG/CSS; nothing is fetched at build time.
+
+If gen_article_images.py has produced an illustration for an article, it is
+used in place of the photograph.
 
 Output:
     CEFR_Article_Book.pdf
@@ -23,32 +27,59 @@ Output:
 import glob
 import html as htmlmod
 import json
+import math
 import os
 import re
+import subprocess
 import sys
 from urllib.parse import unquote, urlparse
 
 import pymupdf
+from PIL import Image, ImageOps
 
 import build_cefr_book as L
 
 ROOT = L.ROOT_DIR
 ART_DIR = os.path.join(ROOT, "article")
 MEDIA = os.path.join(ROOT, "media")
+ILLUS_DIR = os.path.join(MEDIA, "article-illustrations")
 BUILD = os.path.join(ROOT, "_build_articles")
+MONO = os.path.join(BUILD, "mono")
 
 BOOK_TITLE = "Multilevel Articles"
+LEVEL = "B2"
+LEVEL_NAME = "Upper-Intermediate"
 DEFAULT_COUNT = 10
-WPM = 200  # for the reading-time tile
 
-PAGE_W, PAGE_H = 595.32, 841.92
-MARGIN_T, MARGIN_B = 28.94, 44.25
-MARGIN_L, MARGIN_R = 31.6, 30.52
-COL_GAP = 19.4
-CONTENT_W = PAGE_W - MARGIN_L - MARGIN_R        # 533.2
+W, H = 595.32, 841.92                    # A4 in pt
+M = 42.0                                 # outer margin
 
-LEVELS = [("B1", "Threshold"), ("B2", "Vantage"), ("C1", "Advanced")]
-LEVEL_TINT = {"B1": "#2f8f5b", "B2": "#1f48d6", "C1": "#8a3ffc"}
+BLUE = "#1E90FF"                         # lead colour, on every page
+INK = "#0E1116"
+BODY = "#22262E"
+GREY = "#6A707B"
+GREY_SOFT = "#9AA0AA"
+HAIR = "#DADDE2"
+PAPER = "#F5F0E7"                        # warm paper for panels
+HAIR_PAPER = "#E2D9CA"
+
+# Each article also carries one secondary accent, cycled, with the text colour
+# that reads on it. Dodgerblue stays the lead; the accent gives each spread
+# its own identity.
+ACCENTS = [("#FF5B3A", "#FFFFFF"),        # coral
+           ("#FFC233", "#0E1116"),        # saffron
+           ("#16B98F", "#FFFFFF")]        # mint
+
+
+def accent(n):
+    return ACCENTS[(n - 1) % len(ACCENTS)]
+
+
+FONT_DISPLAY = "C:/Windows/Fonts/bahnschrift.ttf"
+FONT_SERIF = "C:/Windows/Fonts/georgia.ttf"
+FONT_SERIF_I = "C:/Windows/Fonts/georgiai.ttf"
+FONT_SERIF_B = "C:/Windows/Fonts/georgiab.ttf"
+FONT_SERIF_BI = "C:/Windows/Fonts/georgiaz.ttf"
 
 esc = L.esc
 furl = L.furl
@@ -65,34 +96,115 @@ def load_articles(count):
     return out
 
 
-def local_image(url):
+def plain(raw):
+    return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", " ", htmlmod.unescape(raw or ""))).strip()
+
+
+def title_of(art):
+    return plain(art["mock_data"].get("title") or art.get("title"))
+
+
+def passage(art):
+    md = art["mock_data"]
+    return md.get(f"passage{LEVEL}") or md.get("passage") or ""
+
+
+def vocab(art):
+    return art["mock_data"].get(f"vocabulary{LEVEL}") or {}
+
+
+def sentences(text):
+    return [s.strip() for s in re.split(r"(?<=[.!?])\s+(?=[A-Z\"'])", text) if s.strip()]
+
+
+def source_image(art, number):
+    illus = os.path.join(ILLUS_DIR, f"article-{number:02d}.png")
+    if os.path.exists(illus):
+        return illus
+    url = art["mock_data"].get("imageUrl")
     if not url:
         return ""
     path = os.path.join(MEDIA, unquote(urlparse(url).path).lstrip("/"))
-    return furl(os.path.abspath(path)) if os.path.exists(path) else ""
-
-
-def passage(art, level):
-    return art["mock_data"].get(f"passage{level}") or art["mock_data"].get("passage") or ""
-
-
-def translation(art, level):
-    return art["mock_data"].get(f"translation{level}") or ""
-
-
-def vocab(art, level):
-    return art["mock_data"].get(f"vocabulary{level}") or {}
-
-
-def word_count(html):
-    return len(re.sub(r"<[^>]+>", " ", html or "").split())
+    return path if os.path.exists(path) else ""
 
 
 # --------------------------------------------------------------------------- #
-# Inline markup
+# Black and white
 # --------------------------------------------------------------------------- #
-def rich(raw, drop_cap=False):
-    """Passage HTML -> paragraphs, keeping <strong>/<b>/<em> as accented terms."""
+def mono(src, number):
+    """High-contrast black and white, cached by source mtime."""
+    if not src:
+        return ""
+    os.makedirs(MONO, exist_ok=True)
+    dest = os.path.join(MONO, f"article-{number:02d}.jpg")
+    if os.path.exists(dest) and os.path.getmtime(dest) >= os.path.getmtime(src):
+        return furl(dest)
+    img = ImageOps.autocontrast(Image.open(src).convert("L"), cutoff=1.2)
+    # gentle S-curve: deeper blacks, cleaner whites
+    curve = [round(255 * (0.5 - 0.5 * math.cos(math.pi * (i / 255) ** 0.96))) for i in range(256)]
+    img = img.point(curve)
+    if img.width > 1800:
+        img = img.resize((1800, round(img.height * 1800 / img.width)), Image.LANCZOS)
+    img.save(dest, quality=90, optimize=True)
+    return furl(dest)
+
+
+# --------------------------------------------------------------------------- #
+# Small drawing helpers
+# --------------------------------------------------------------------------- #
+def dots(x, y, cols, rows, gap, r, fill, opacity=1.0):
+    return "".join(
+        f'<circle cx="{x + c * gap:.1f}" cy="{y + rr * gap:.1f}" r="{r}" fill="{fill}" '
+        f'opacity="{opacity}"/>' for rr in range(rows) for c in range(cols))
+
+
+def svg(content, cls="art"):
+    return f'<svg class="{cls}" viewBox="0 0 {W} {H}" width="{W}pt" height="{H}pt">{content}</svg>'
+
+
+def img_box(src, x, y, w, h, extra="", pos="50% 50%"):
+    """Absolutely positioned photo, cropped to fill its box."""
+    if not src:
+        return f'<div class="ph" style="left:{x}pt;top:{y}pt;width:{w}pt;height:{h}pt;background:{INK}{extra}"></div>'
+    return (f'<div class="ph" style="left:{x}pt;top:{y}pt;width:{w}pt;height:{h}pt{extra}">'
+            f'<img src="{src}" style="object-position:{pos}"></div>')
+
+
+def detail(src, x, y, w, h, zoom=2.2, fx=62, fy=40):
+    """A zoomed-in crop of the same photograph -- a 'detail' tile."""
+    if not src:
+        return ""
+    return (f'<div class="ph" style="left:{x}pt;top:{y}pt;width:{w}pt;height:{h}pt">'
+            f'<img src="{src}" style="object-position:{fx}% {fy}%;transform:scale({zoom});'
+            f'transform-origin:{fx}% {fy}%"></div>')
+
+
+def block(x, y, w, h, color):
+    return f'<div class="blk" style="left:{x}pt;top:{y}pt;width:{w}pt;height:{h}pt;background:{color}"></div>'
+
+
+def title_html(title, accent_last=True):
+    words = esc(title.upper()).split(" ")
+    if accent_last and len(words) > 1:
+        words[-1] = f'<span class="acc">{words[-1]}</span>'
+    return " ".join(words)
+
+
+def title_size(title, roomy=52, tight=34):
+    n = len(title)
+    if n <= 13:
+        return roomy
+    if n <= 18:
+        return roomy - 6
+    if n <= 24:
+        return roomy - 12
+    return tight
+
+
+# --------------------------------------------------------------------------- #
+# Text helpers
+# --------------------------------------------------------------------------- #
+def rich_paragraphs(raw):
     s = raw or ""
     s = re.sub(r"(?i)<\s*(strong|b)\s*>", "@@B@@", s)
     s = re.sub(r"(?i)<\s*/\s*(strong|b)\s*>", "@@/B@@", s)
@@ -100,493 +212,544 @@ def rich(raw, drop_cap=False):
     s = re.sub(r"(?i)<\s*/\s*(em|i)\s*>", "@@/I@@", s)
     s = re.sub(r"(?i)</p>\s*<p[^>]*>", "\n", s)
     s = re.sub(r"(?i)<br\s*/?>", "\n", s)
-    s = re.sub(r"<[^>]+>", "", s)
-    s = htmlmod.unescape(s)
-
+    s = htmlmod.unescape(re.sub(r"<[^>]+>", "", s))
     out = []
     for chunk in re.split(r"\n+", s):
-        text = re.sub(r"[ \t]+", " ", chunk).strip()
-        if not text:
-            continue
-        body = (esc(text).replace("@@B@@", '<b class="term">').replace("@@/B@@", "</b>")
-                         .replace("@@I@@", "<i>").replace("@@/I@@", "</i>"))
-        if drop_cap and not out:
-            m = re.match(r'^(<[^>]+>)*([A-Za-z])', body)
-            if m:
-                i = body.index(m.group(2))
-                body = f'{body[:i]}<span class="dropcap">{body[i]}</span>{body[i + 1:]}'
-        out.append(f"<p>{body}</p>")
-    return "".join(out)
+        t = re.sub(r"[ \t]+", " ", chunk).strip()
+        if t:
+            t = re.sub(r"\s+([.,;:!?])", r"\1", t)        # 'packaging .' -> 'packaging.'
+            out.append(esc(t).replace("@@B@@", '<span class="term">').replace("@@/B@@", "</span>")
+                       .replace("@@I@@", "<i>").replace("@@/I@@", "</i>"))
+    return out
 
 
-def plain(raw):
-    return re.sub(r"\s+", " ", re.sub(r"<[^>]+>", "", htmlmod.unescape(raw or ""))).strip()
+def initial(p):
+    """Split off the first letter for the giant initial."""
+    m = re.search(r"[A-Za-z]", re.sub(r"<[^>]+>", lambda x: "\0" * len(x.group()), p))
+    if not m:
+        return "", p
+    i = m.start()
+    return p[i], p[:i] + p[i + 1:]
+
+
+def standfirst(art, limit=230):
+    s = sentences(re.sub(r"\s+([.,;:!?])", r"\1", plain(passage(art))))
+    text = s[0] if s else ""
+    if len(text) < 100 and len(s) > 1:
+        text += " " + s[1]
+    return text if len(text) <= limit else text[:limit - 3].rsplit(" ", 1)[0] + "…"
+
+
+def pull_quote(art):
+    """A sentence from later in the article. The quote block sits beside the
+    second paragraph, so quoting the opening paragraphs would repeat text the
+    reader can see right next to it."""
+    paras = [re.sub(r"\s+([.,;:!?])", r"\1", plain(p)) for p in rich_paragraphs(passage(art))]
+    later = [x for p in paras[3:] for x in sentences(p)] or \
+            [x for p in paras[2:] for x in sentences(p)]
+    pool = later or sentences(" ".join(paras))
+    good = [x for x in pool if 60 <= len(x) <= 140] or [x for x in pool if 50 <= len(x) <= 170]
+    return good[0] if good else ""
+
+
+def credit_line(art):
+    c = art["mock_data"].get("imageCredit") or {}
+    bits = [b for b in (c.get("creator"), c.get("via"), c.get("license")) if b]
+    return ("Photo · " + " · ".join(bits)) if bits else ""
+
+
+def ordered_glossary(art):
+    """Glossary in the order its terms appear in the text; unseen terms last."""
+    text = plain(passage(art)).lower()
+    items = list(vocab(art).items())
+
+    def pos(kv):
+        i = text.find(kv[0].lower())
+        return (i if i >= 0 else 10 ** 6, kv[0].lower())
+    return sorted(items, key=pos)
 
 
 # --------------------------------------------------------------------------- #
-# Graphics
+# Shared page furniture
 # --------------------------------------------------------------------------- #
-def stat_tiles(art):
-    counts = {lv: word_count(passage(art, lv)) for lv, _ in LEVELS}
-    total_words = sum(counts.values())
-    terms = sum(len(vocab(art, lv)) for lv, _ in LEVELS)
-    minutes = max(1, round(total_words / WPM))
-    tiles = [("3", "levels"), (f"{total_words:,}", "words"),
-             (str(terms), "key words"), (f"{minutes} min", "reading")]
-    cells = "".join(f'<div class="tile"><span class="n">{esc(n)}</span>'
-                    f'<span class="l">{esc(l)}</span></div>' for n, l in tiles)
-    return f'<div class="stats">{cells}</div>'
+def folio(page_no, label=BOOK_TITLE):
+    return (f'<div class="folio"><span><i class="sq"></i>{esc(label)}</span>'
+            f'<span class="pn">{page_no:02d}</span></div>')
 
 
-def level_bars(art):
-    """Horizontal bars comparing how long the passage is at each level."""
-    counts = [(lv, name, word_count(passage(art, lv))) for lv, name in LEVELS]
-    top = max(c for _, _, c in counts) or 1
-    # inner width of .chart: content width less its 10pt padding and 0.84pt border
-    w, rowh, pad = CONTENT_W - 20 - 1.68, 26.0, 2.0
-    label_w, value_w = 92.0, 54.0
-    track = w - label_w - value_w
+def kicker(number, light=False, short=False):
+    cls = "kicker light" if light else "kicker"
+    tail = LEVEL if short else f"{LEVEL} {LEVEL_NAME}"
+    sq = "" if light else f' style="background:{accent(number)[0]}"'
+    return f'<div class="{cls}"><i class="sq"{sq}></i>Article {number:02d} · {tail}</div>'
+
+
+def bignum(number, x, y, size=210, anchor="end", stroke=BLUE):
+    return (f'<text x="{x}" y="{y}" text-anchor="{anchor}" class="bignum" '
+            f'style="font-size:{size}px;stroke:{stroke}">{number:02d}</text>')
+
+
+# --------------------------------------------------------------------------- #
+# Opener layouts
+# --------------------------------------------------------------------------- #
+def opener_band(art, n, img):
+    t = title_of(art)
+    ac, _ = accent(n)
+    return (img_box(img, 0, 0, W, 560)
+            + svg(dots(W - 150, 34, 9, 6, 13, 1.7, ac, 1)
+                  + bignum(n, W - 30, H - 62, stroke=ac))
+            + f'<div class="band" style="bottom:{H - 560}pt">{kicker(n, light=True)}'
+              f'<h1 class="t-white" style="font-size:{title_size(t, 50, 36)}pt">{esc(t.upper())}</h1></div>'
+            + block(430, 560 - 28, 28, 28, ac)
+            + f'<p class="standfirst" style="left:{M}pt;top:590pt;width:330pt">{esc(standfirst(art))}</p>')
+
+
+def opener_initial(art, n, img):
+    t = title_of(art)
+    ac, _ = accent(n)
+    letter = esc(t[:1].upper())
+    return (svg(f'<text x="6" y="548" class="giant">{letter}</text>'
+                + f'<rect x="272" y="80" width="281" height="402" fill="none" stroke="{ac}" stroke-width="2"/>'
+                + dots(M, 520, 14, 2, 13, 1.6, ac, 1))
+            + img_box(img, 258, 66, 281, 402)
+            + f'<div class="tblock" style="top:576pt">{kicker(n)}'
+              f'<h1 style="font-size:{title_size(t)}pt">{title_html(t)}</h1>'
+              f'<p class="sf">{esc(standfirst(art))}</p></div>')
+
+
+def opener_vertical(art, n, img):
+    t = title_of(art)
+    ac, _ = accent(n)
+    size = min(64, 700 / max(1, len(t) * 0.5))
+    return (f'<div class="strip"></div>'
+            + img_box(img, 132, 0, W - 132, 548)
+            + block(132, 500, 48, 48, ac)
+            + f'<div class="vtitle" style="font-size:{size:.1f}pt;line-height:{size:.1f}pt;'
+              f'left:{(132 - size) / 2 + size * 0.06:.1f}pt;top:{H - 52}pt">{esc(t.upper())}</div>'
+            + svg(bignum(n, W - 30, H - 62, 180, stroke=ac))
+            + f'<div class="tblock" style="left:162pt;top:584pt;width:276pt">{kicker(n)}'
+              f'<p class="sf">{esc(standfirst(art))}</p></div>')
+
+
+def opener_circle(art, n, img):
+    t = title_of(art)
+    ac, _ = accent(n)
+    cx, cy, r = 396, 316, 236
+    left_half = f"M{cx},{cy - r} A{r},{r} 0 0 0 {cx},{cy + r} Z"
+    right_half = f"M{cx},{cy - r} A{r},{r} 0 0 1 {cx},{cy + r} Z"
+    photo = ""
+    if img:
+        photo = (f'<clipPath id="lh{n}"><path d="{left_half}"/></clipPath>'
+                 f'<image href="{img}" x="{cx - r}" y="{cy - r}" width="{2 * r}" height="{2 * r}" '
+                 f'preserveAspectRatio="xMidYMid slice" clip-path="url(#lh{n})"/>')
+    return (svg(f'<circle cx="{cx}" cy="{cy}" r="{r + 22}" fill="none" stroke="{ac}" '
+                f'stroke-width="1.2" stroke-dasharray="2 5"/>'
+                + photo
+                + f'<path d="{right_half}" fill="{BLUE}"/>'
+                + f'<circle cx="{cx - r + 46}" cy="{cy + r - 40}" r="22" fill="{ac}"/>'
+                + bignum(n, 30, 196, 170, anchor="start", stroke=ac)
+                + dots(cx + 70, cy - 60, 6, 9, 13, 1.6, "#fff", 0.9))
+            + f'<div class="tblock" style="top:584pt">{kicker(n)}'
+              f'<h1 style="font-size:{title_size(t)}pt">{title_html(t)}</h1>'
+              f'<p class="sf">{esc(standfirst(art))}</p></div>')
+
+
+def opener_grid(art, n, img):
+    t = title_of(art)
+    ac, _ = accent(n)
+    size = 26 if len(t) <= 20 else 21
+    return (img_box(img, M, M, 330, 430)
+            + block(M, M + 430 - 34, 34, 34, ac)
+            + f'<div class="tbox" style="left:384pt;top:{M}pt;width:169.3pt;height:252pt">'
+              f'{kicker(n, light=True, short=True)}<h1 class="t-white" style="font-size:{size}pt">{esc(t.upper())}</h1>'
+              f'<i class="rule"></i></div>'
+            + detail(img, 384, 306, 169.3, 166)
+            + svg(bignum(n, W - 30, H - 62, 200, stroke=ac) + dots(M, 492, 14, 1, 13, 1.6, ac, 1))
+            + f'<p class="standfirst big" style="left:{M}pt;top:516pt;width:360pt">{esc(standfirst(art, 210))}</p>')
+
+
+OPENERS = [opener_band, opener_initial, opener_vertical, opener_circle, opener_grid]
+
+
+def opener_page(art, n, page_no):
+    img = mono(source_image(art, n), n)
+    layout = OPENERS[(n - 1) % len(OPENERS)]
+    body = layout(art, n, img)
+    credit = credit_line(art)
+    # the vertical layout's blue strip runs under the folio, so start it past the strip
+    cls = "sheet strip-left" if layout is opener_vertical else "sheet"
+    return (f'<section class="{cls}">{body}'
+            + (f'<div class="credit">{esc(credit)}</div>' if credit else "")
+            + folio(page_no)
+            + "</section>")
+
+
+# --------------------------------------------------------------------------- #
+# Reading page
+# --------------------------------------------------------------------------- #
+def reading_page(art, n, page_no, fit):
+    img = mono(source_image(art, n), n)
+    ac, on = accent(n)
+    paras = rich_paragraphs(passage(art))
+    cap = ""
+    if paras:
+        cap, paras[0] = initial(paras[0])
+    quote = pull_quote(art)
+    body = f'<span class="cap">{esc(cap)}</span>' if cap else ""
+    for i, p in enumerate(paras):
+        if i == 1 and quote:
+            body += (f'<blockquote class="pq" style="background:{ac};color:{on}">'
+                     f'<span class="qm">“</span>{esc(quote)}</blockquote>')
+        body += f"<p>{p}</p>"
+
+    items = ordered_glossary(art)
+    rows = "".join(
+        f'<div class="g"><span class="gn">{i:02d}</span><div><div class="gw">{esc(w)}</div>'
+        f'<div class="gd">{esc((v or {}).get("definition"))}</div></div></div>'
+        for i, (w, v) in enumerate(items, 1))
+
+    k_main = fit.get(f"main-{n}", {}).get("k", 1)
+    k_gl = fit.get(f"gloss-{n}", {}).get("k", 1)
+    room = fit.get(f"gloss-{n}", {}).get("left", 0)
+    crop = ""
+    if img and room >= 96:
+        h = min(room - 14, 230)
+        crop = (f'<div class="gcrop" style="height:{h:.0f}pt">'
+                f'<img src="{img}"><i class="gsq" style="background:{ac}"></i></div>')
+
+    return f"""
+<section class="sheet">
+  {svg(f'<rect x="{W - 22}" y="0" width="22" height="118" fill="{ac}"/>'
+       + f'<rect x="{W - 22}" y="118" width="22" height="40" fill="{BLUE}"/>')}
+  <header class="rhead"><i class="sq"></i><span class="rn">{n:02d}</span>
+    <span class="rt">{esc(title_of(art))}</span><span class="rl">{LEVEL} · {LEVEL_NAME}</span></header>
+  <article class="main" data-fit="main-{n}" style="--k:{k_main}">{body}</article>
+  <aside class="gloss" data-fit="gloss-{n}" style="--k:{k_gl}">
+    <div class="ghead">Glossary</div><i class="gbar" style="background:{ac}"></i>
+    <div class="glist">{rows}</div>{crop}
+  </aside>
+  {folio(page_no)}
+</section>"""
+
+
+# --------------------------------------------------------------------------- #
+# Cover and contents
+# --------------------------------------------------------------------------- #
+def cover_page(arts):
+    imgs = [mono(source_image(a, i + 1), i + 1) for i, a in enumerate(arts)]
+    gx, gy, gw, gh, gap = M, 432, (W - 2 * M - 12) / 3, 168, 6
+    tiles = ""
+    photos = iter(imgs)
+    for k in range(6):
+        col, row = k % 3, k // 3
+        x, y = gx + col * (gw + gap), gy + row * (gh + gap)
+        if k == 4:
+            tiles += (f'<div class="cv-block" style="left:{x:.1f}pt;top:{y:.1f}pt;width:{gw:.1f}pt;'
+                      f'height:{gh}pt"><span class="cbn">{len(arts)}</span>'
+                      f'<span class="cbt">{LEVEL} readings<br>with glossary</span></div>')
+        else:
+            tiles += img_box(next(photos, ""), round(x, 1), round(y, 1), round(gw, 1), gh)
+    coral, saffron, mint = ACCENTS[0][0], ACCENTS[1][0], ACCENTS[2][0]
+    shapes = (f'<rect x="0" y="0" width="{W}" height="10" fill="{BLUE}"/>'
+              + dots(W - 170, 64, 10, 4, 13, 1.7, coral, 1)
+              + f'<circle cx="{W - 96}" cy="300" r="44" fill="{saffron}"/>'
+              + f'<circle cx="{W - 96}" cy="300" r="62" fill="none" stroke="{INK}" stroke-width="0.8"/>'
+              + f'<rect x="{gx}" y="{gy - 16}" width="64" height="5" fill="{mint}"/>'
+              + f'<rect x="{gx + 2 * (gw + gap) + gw - 26:.1f}" y="{gy + gh + gap + gh - 26}" '
+                f'width="26" height="26" fill="{coral}"/>')
+    return f"""
+<section class="sheet">
+  {svg(shapes)}
+  <div class="cv-kicker"><i class="sq" style="background:{coral}"></i>Multilevel · CEFR · {LEVEL} {LEVEL_NAME}</div>
+  <div class="cv-word">ARTI–<br><span class="acc">CLES</span></div>
+  {tiles}
+  <div class="cv-foot"><span>{len(arts)} readings · a glossary with every article</span>
+    <span>{LEVEL} · {LEVEL_NAME}</span></div>
+</section>"""
+
+
+def contents_page(arts, page_map):
+    img = mono(source_image(arts[0], 1), 1) if arts else ""
+    cx, cy, r = W, 214, 196
+    left_half = f"M{cx},{cy - r} A{r},{r} 0 0 0 {cx},{cy + r} Z"
+    photo = ""
+    if img:
+        photo = (f'<clipPath id="tocc"><path d="{left_half}"/></clipPath>'
+                 f'<image href="{img}" x="{cx - r}" y="{cy - r}" width="{2 * r}" height="{2 * r}" '
+                 f'preserveAspectRatio="xMidYMid slice" clip-path="url(#tocc)"/>')
     rows = ""
-    for i, (lv, name, c) in enumerate(counts):
-        y = i * rowh
-        bw = track * (c / top)
-        rows += (
-            f'<rect x="0" y="{y + 5:.1f}" width="22" height="13" rx="3.5" fill="{LEVEL_TINT[lv]}"/>'
-            f'<text x="11" y="{y + 14.4:.1f}" class="lv">{lv}</text>'
-            f'<text x="27" y="{y + 14.6:.1f}" class="nm">{esc(name)}</text>'
-            f'<rect x="{label_w}" y="{y + 7:.1f}" width="{track:.1f}" height="9" rx="4.5" fill="#e8edfa"/>'
-            f'<rect x="{label_w}" y="{y + 7:.1f}" width="{bw:.1f}" height="9" rx="4.5" fill="{LEVEL_TINT[lv]}"/>'
-            f'<text x="{w:.1f}" y="{y + 14.6:.1f}" class="vl">{c} words</text>')
-    h = len(counts) * rowh + pad
-    return (f'<div class="chart"><div class="chead">Passage length by level</div>'
-            f'<svg viewBox="0 0 {w:.1f} {h:.1f}" width="100%" height="{h:.1f}pt">{rows}</svg></div>')
-
-
-def hero(art, number):
-    md = art["mock_data"]
-    img = local_image(md.get("imageUrl"))
-    cred = md.get("imageCredit") or {}
-    bits = [cred.get("creator"), cred.get("via"), cred.get("license")]
-    credit = " · ".join(b for b in bits if b)
-    pic = f'<img src="{img}">' if img else ""
-    return (f'<div class="hero">{pic}<div class="shade"></div>'
-            f'<div class="htext"><div class="kicker">Article {number:02d}</div>'
-            f'<h1>{esc(md.get("title") or art.get("title"))}</h1></div>'
-            + (f'<div class="credit">{esc(credit)}</div>' if credit else "") +
-            '</div>')
-
-
-def vocab_cards(art, level):
-    items = vocab(art, level)
-    if not items:
-        return ""
-    cards = ""
-    for word, v in items.items():
-        v = v or {}
-        cards += (f'<div class="vcard"><div class="vw">{esc(word)}</div>'
-                  f'<div class="vd">{esc(v.get("definition"))}</div>'
-                  + (f'<div class="ve">{esc(v.get("example"))}</div>' if v.get("example") else "")
-                  + (f'<div class="vu">{esc(v.get("uzbek"))}</div>' if v.get("uzbek") else "")
-                  + '</div>')
-    return (f'<div class="vhead"><span class="vbadge" style="background:{LEVEL_TINT[level]}">'
-            f'{level}</span> Key words <span class="vn">{len(items)}</span></div>'
-            f'<div class="vgrid">{cards}</div>')
-
-
-ILLUS_DIR = os.path.join(MEDIA, "article-illustrations")
-
-
-def illustration(number, art):
-    """Optional figure from gen_article_images.py; absent until it has run."""
-    path = os.path.join(ILLUS_DIR, f"article-{number:02d}.png")
-    if not os.path.exists(path):
-        return ""
-    title = plain(art["mock_data"].get("title") or art.get("title"))
-    return (f'<figure class="illus"><img src="{furl(path)}">'
-            f'<figcaption>{esc(title)} — illustration</figcaption></figure>')
-
-
-def level_section(art, level, name):
-    tint = LEVEL_TINT[level]
-    body = rich(passage(art, level), drop_cap=True)
-    return (f'<div class="lvhead" style="--tint:{tint}">'
-            f'<span class="lvpill" style="background:{tint}">{level}</span>'
-            f'<span class="lvname">{esc(name)}</span>'
-            f'<span class="lvrule" style="background:{tint}"></span></div>'
-            f'<div class="passage">{body}</div>'
-            f'{vocab_cards(art, level)}')
-
-
-def translations(art):
-    blocks = ""
-    for lv, _ in LEVELS:
-        t = translation(art, lv)
-        if not t:
-            continue
-        blocks += (f'<div class="trbl"><span class="trbadge" style="background:{LEVEL_TINT[lv]}">'
-                   f'{lv}</span>{rich(t)}</div>')
-    if not blocks:
-        return ""
-    return (f'<div class="lvhead" style="--tint:#5c6a8e">'
-            f'<span class="lvpill" style="background:#5c6a8e">UZ</span>'
-            f'<span class="lvname">Tarjima</span>'
-            f'<span class="lvrule" style="background:#5c6a8e"></span></div>'
-            f'<div class="translation">{blocks}</div>')
+    for i, a in enumerate(arts):
+        ex = standfirst(a, 104)
+        rows += (f'<div class="crow"><span class="cn" style="color:{accent(i + 1)[0]}">{i + 1:02d}</span>'
+                 f'<div class="ct"><div class="ctt">{esc(title_of(a))}</div>'
+                 f'<div class="cte">{esc(ex)}</div></div>'
+                 f'<span class="cp">{page_map[i]:02d}</span></div>')
+    coral, saffron = ACCENTS[0][0], ACCENTS[1][0]
+    return f"""
+<section class="sheet">
+  {svg(f'<circle cx="{cx}" cy="{cy}" r="{r + 20}" fill="none" stroke="{BLUE}" stroke-width="0.9" stroke-dasharray="2 5"/>'
+       + photo + f'<rect x="{W - 160}" y="{cy + r - 54}" width="54" height="54" fill="{coral}"/>'
+       + f'<circle cx="{M + 290}" cy="236" r="16" fill="{saffron}"/>')}
+  <div class="c-word">CONT–<br><span class="acc">ENTS</span></div>
+  <div class="c-note">{len(arts)} articles at {LEVEL} · {LEVEL_NAME}.<br>
+    Each opens on a photograph and ends with its glossary.</div>
+  <div class="clist">{rows}</div>
+  {folio(2)}
+</section>"""
 
 
 # --------------------------------------------------------------------------- #
 # CSS
 # --------------------------------------------------------------------------- #
-PATTERN = L.A["banner"]
+def K(v):
+    return f"calc({v}pt * var(--k, 1))"
 
-CONTENT_CSS = f"""
-@font-face {{ font-family: 'Syne'; src: url('{furl(os.path.join(L.FONTS, 'Syne.ttf'))}'); font-weight: 400 800; }}
-@font-face {{ font-family: 'Open Sans'; src: url('{furl(os.path.join(L.FONTS, 'OpenSans.ttf'))}'); font-weight: 300 800; font-style: normal; }}
-@font-face {{ font-family: 'Open Sans'; src: url('{furl(os.path.join(L.FONTS, 'OpenSans-Italic.ttf'))}'); font-weight: 300 800; font-style: italic; }}
 
-@page {{ size: A4 portrait; margin: {MARGIN_T}pt {MARGIN_R}pt {MARGIN_B}pt {MARGIN_L}pt; }}
+CSS = f"""
+@font-face {{ font-family: 'Display'; src: url('file:///{FONT_DISPLAY}');
+  font-weight: 300 700; font-stretch: 75% 100%; }}
+@font-face {{ font-family: 'Serif'; src: url('file:///{FONT_SERIF}'); font-weight: 400; font-style: normal; }}
+@font-face {{ font-family: 'Serif'; src: url('file:///{FONT_SERIF_I}'); font-weight: 400; font-style: italic; }}
+@font-face {{ font-family: 'Serif'; src: url('file:///{FONT_SERIF_B}'); font-weight: 700; font-style: normal; }}
+@font-face {{ font-family: 'Serif'; src: url('file:///{FONT_SERIF_BI}'); font-weight: 700; font-style: italic; }}
+
+@page {{ size: A4 portrait; margin: 0; }}
 * {{ box-sizing: border-box; }}
-html, body {{ margin: 0; padding: 0; background: transparent; }}
-body {{
-  font-family: 'Open Sans', sans-serif; color: #131a33;
-  -webkit-print-color-adjust: exact; print-color-adjust: exact;
-  font-feature-settings: 'lnum'; font-size: 8.7pt; line-height: 12.9pt;
-}}
-.flow {{ column-count: 2; column-gap: {COL_GAP}pt; }}
-.opener {{ column-span: all; break-before: page; }}
-.opener.first {{ break-before: auto; }}
+html, body {{ margin: 0; padding: 0; background: #fff; }}
+body {{ color: {INK}; -webkit-print-color-adjust: exact; print-color-adjust: exact;
+  font-family: 'Serif', Georgia, serif; font-feature-settings: 'lnum'; }}
+.sheet {{ position: relative; width: {W}pt; height: {H}pt; overflow: hidden; break-after: page; background: #fff; }}
+.sheet:last-child {{ break-after: auto; }}
+.art {{ position: absolute; left: 0; top: 0; overflow: visible; }}
+.ph {{ position: absolute; overflow: hidden; background: #111; }}
+.ph img {{ width: 100%; height: 100%; object-fit: cover; display: block; }}
+.blk {{ position: absolute; }}
+.acc {{ color: {BLUE}; }}
+i.sq {{ display: inline-block; width: 6pt; height: 6pt; background: {BLUE}; margin-right: 7pt;
+  vertical-align: 0.5pt; }}
 
-/* ---------- hero ---------- */
-.hero {{
-  position: relative; width: {CONTENT_W}pt; height: 232pt;
-  border-radius: 12.5pt; overflow: hidden; background: #0b1a4a;
-}}
-.hero img {{ width: 100%; height: 100%; object-fit: cover; display: block; }}
-.hero .shade {{
-  position: absolute; inset: 0;
-  background: linear-gradient(180deg, rgba(8,18,56,.10) 0%, rgba(8,18,56,.38) 48%, rgba(8,18,56,.88) 100%);
-}}
-.hero .htext {{ position: absolute; left: 24pt; right: 24pt; bottom: 20pt; }}
-.hero .kicker {{
-  font-family: 'Syne'; font-weight: 600; font-size: 9.5pt; letter-spacing: 2.05pt;
-  color: #cfdbff; text-transform: uppercase; margin-bottom: 5pt;
-}}
-.hero h1 {{
-  margin: 0; font-family: 'Syne'; font-weight: 800; font-size: 30pt; line-height: 33pt;
-  color: #fff; letter-spacing: -0.3pt;
-}}
-.hero .credit {{
-  position: absolute; right: 12pt; top: 10pt; font-size: 6.2pt; line-height: 1.2;
-  color: rgba(255,255,255,.72); background: rgba(8,18,56,.34);
-  padding: 2.4pt 6pt; border-radius: 7pt; max-width: 210pt; text-align: right;
-}}
+/* ---------- folio / kicker ---------- */
+.folio {{ position: absolute; left: {M}pt; right: {M}pt; bottom: 24pt; display: flex;
+  justify-content: space-between; align-items: baseline; font-family: 'Display'; font-size: 7.2pt;
+  letter-spacing: 1.8pt; text-transform: uppercase; color: {GREY_SOFT}; }}
+.folio i.sq {{ width: 5pt; height: 5pt; }}
+.folio .pn {{ font-size: 9pt; color: {INK}; font-variation-settings: 'wght' 700; letter-spacing: 0.4pt; }}
+.kicker {{ font-family: 'Display'; font-size: 8.2pt; letter-spacing: 2.4pt; text-transform: uppercase;
+  color: {INK}; font-variation-settings: 'wght' 600; }}
+.kicker.light {{ color: #fff; }}
+.kicker.light i.sq {{ background: #fff; }}
+.credit {{ position: absolute; left: {M}pt; bottom: 40pt; font-family: 'Display'; font-size: 6.2pt;
+  letter-spacing: 0.5pt; color: {GREY_SOFT}; max-width: 300pt; }}
+.strip-left .folio, .strip-left .credit {{ left: 162pt; }}
 
-/* ---------- stat tiles ---------- */
-.stats {{ display: flex; gap: 9pt; margin-top: 10pt; }}
-.tile {{
-  flex: 1; background: #eef3ff; border: 0.84pt solid #c9d6f5; border-radius: 8pt;
-  padding: 7pt 9pt 6.4pt; display: flex; flex-direction: column;
-}}
-.tile .n {{ font-family: 'Syne'; font-weight: 700; font-size: 15pt; line-height: 17pt; color: #1a3fc4; }}
-.tile .l {{ font-size: 7.2pt; line-height: 9pt; color: #5c6a8e; text-transform: uppercase; letter-spacing: 0.5pt; }}
+/* ---------- opener type ---------- */
+h1 {{ margin: 10pt 0 0; font-family: 'Display'; font-weight: normal;
+  font-variation-settings: 'wght' 700, 'wdth' 78; line-height: 0.94; letter-spacing: -0.4pt;
+  color: {INK}; text-transform: uppercase; }}
+h1.t-white {{ color: #fff; }}
+.tblock {{ position: absolute; left: {M}pt; width: 420pt; }}
+.sf, .standfirst {{ font-style: italic; font-size: 13.6pt; line-height: 20pt; color: #3A3F48; margin: 14pt 0 0; }}
+.standfirst {{ position: absolute; margin: 0; }}
+.standfirst.big {{ font-size: 17pt; line-height: 25pt; color: {INK}; }}
+.bignum {{ font-family: 'Display'; font-variation-settings: 'wght' 700, 'wdth' 78; fill: none;
+  stroke-width: 1.4; letter-spacing: -6px; }}
+.giant {{ font-family: 'Serif'; font-weight: 700; font-size: 720px; fill: {BLUE}; }}
 
-/* ---------- level chart ---------- */
-.chart {{
-  margin-top: 9pt; padding: 8pt 10pt 7pt; border: 0.84pt solid #c9d6f5;
-  border-radius: 8pt; background: #fff;
-}}
-.chead {{
-  font-size: 7.2pt; letter-spacing: 0.5pt; text-transform: uppercase;
-  color: #5c6a8e; margin-bottom: 4pt;
-}}
-.chart svg {{ display: block; }}
-.chart text {{ font-family: 'Open Sans', sans-serif; }}
-.chart .lv {{ fill: #fff; font-size: 7.6pt; font-weight: 700; text-anchor: middle; }}
-.chart .nm {{ fill: #131a33; font-size: 8.2pt; }}
-.chart .vl {{ fill: #5c6a8e; font-size: 7.6pt; text-anchor: end; }}
+.band {{ position: absolute; left: 0; width: 430pt; background: {BLUE}; padding: 22pt 28pt 24pt {M}pt; }}
+.band h1 {{ margin-top: 9pt; }}
+.strip {{ position: absolute; left: 0; top: 0; width: 132pt; height: {H}pt; background: {BLUE}; }}
+.vtitle {{ position: absolute; transform-origin: 0 0; transform: rotate(-90deg); white-space: nowrap;
+  font-family: 'Display'; font-variation-settings: 'wght' 700, 'wdth' 76; color: #fff;
+  letter-spacing: 0.6pt; }}
+.tbox {{ position: absolute; background: {BLUE}; padding: 18pt 16pt; display: flex; flex-direction: column; }}
+.tbox h1 {{ margin-top: auto; line-height: 0.98; }}
+.tbox .rule {{ display: block; width: 32pt; height: 2.4pt; background: #fff; margin-top: 12pt; }}
 
-/* ---------- level heading ---------- */
-.lvhead {{
-  display: flex; align-items: center; gap: 6pt; margin: 13pt 0 6pt;
-  break-after: avoid; break-inside: avoid;
-}}
-.opener + .lvhead, .stats + .lvhead {{ margin-top: 11pt; }}
-.lvpill {{
-  color: #fff; font-family: 'Syne'; font-weight: 700; font-size: 9pt;
-  padding: 2pt 7pt; border-radius: 5pt; line-height: 1.25;
-}}
-.lvname {{
-  font-family: 'Syne'; font-weight: 600; font-size: 9.6pt; color: var(--tint);
-  text-transform: uppercase; letter-spacing: 0.6pt; white-space: nowrap;
-}}
-.lvrule {{ flex: 1; height: 1.4pt; border-radius: 1pt; opacity: .5; }}
+/* ---------- reading page ---------- */
+.rhead {{ position: absolute; left: {M}pt; right: 64pt; top: 38pt; display: flex; align-items: baseline;
+  gap: 8pt; padding-bottom: 10pt; border-bottom: 0.7pt solid {INK};
+  font-family: 'Display'; text-transform: uppercase; }}
+.rhead i.sq {{ margin-right: 0; }}
+.rhead .rn {{ color: {BLUE}; font-size: 11pt; font-variation-settings: 'wght' 700; }}
+.rhead .rt {{ font-size: 8.4pt; letter-spacing: 2pt; color: {INK}; font-variation-settings: 'wght' 600; }}
+.rhead .rl {{ margin-left: auto; font-size: 7.2pt; letter-spacing: 1.8pt; color: {GREY_SOFT}; }}
 
-/* ---------- passage ---------- */
-.passage p {{ margin: 0 0 4.4pt 0; text-align: justify; }}
-.passage p:last-child {{ margin-bottom: 0; }}
-.term {{ color: #1a3fc4; font-weight: 700; }}
-.dropcap {{
-  float: left; font-family: 'Syne'; font-weight: 800; font-size: 29pt; line-height: 23pt;
-  color: #1a3fc4; padding: 2pt 4pt 0 0;
-}}
+.main {{ position: absolute; left: {M}pt; top: 82pt; width: 318pt; height: 710pt; overflow: hidden;
+  font-size: {K(10)}; line-height: {K(15.6)}; color: {BODY}; }}
+.main p {{ margin: 0 0 {K(7)}; text-align: justify; hyphens: auto; }}
+.main .term {{ color: {INK}; font-weight: 700; text-decoration: underline; text-decoration-color: {BLUE};
+  text-decoration-thickness: 1.2pt; text-underline-offset: 2.2pt; }}
+.cap {{ float: left; font-family: 'Serif'; font-weight: 700; color: {BLUE};
+  font-size: {K(96)}; line-height: {K(74)}; margin: {K(6)} {K(8)} {K(-2)} {K(-2)}; }}
+.pq {{ float: right; width: 146pt; margin: {K(4)} 0 {K(10)} {K(14)}; padding: {K(14)} {K(14)} {K(16)};
+  font-style: italic; font-size: {K(12.6)}; line-height: {K(17.4)}; }}
+.pq .qm {{ display: block; font-style: normal; font-weight: 700; font-size: {K(38)}; line-height: {K(22)};
+  height: {K(20)}; }}
 
-/* ---------- generated illustration (optional) ---------- */
-.illus {{ margin: 10pt 0 2pt; break-inside: avoid; }}
-.illus img {{ width: 100%; display: block; border-radius: 8pt; border: 0.84pt solid #c9d6f5; }}
-.illus figcaption {{
-  font-size: 7pt; line-height: 9.4pt; color: #6b7590; margin-top: 3pt;
-  letter-spacing: 0.3pt; text-transform: uppercase;
-}}
+.gloss {{ position: absolute; left: 378pt; top: 82pt; width: 175.3pt; height: 710pt; overflow: hidden;
+  display: flex; flex-direction: column; background: {PAPER}; padding: {K(16)} {K(12)} {K(12)}; }}
+.ghead {{ font-family: 'Serif'; font-style: italic; font-weight: 700; font-size: {K(22)};
+  line-height: {K(24)}; color: {INK}; }}
+.gbar {{ display: block; width: 30pt; height: 3pt; margin: {K(9)} 0 {K(8)}; flex: none; }}
+.glist {{ flex: none; }}
+.g {{ display: flex; gap: {K(7)}; padding: {K(6.2)} 0; border-top: 0.6pt solid {HAIR_PAPER}; }}
+.g:first-child {{ border-top: 0; padding-top: {K(2)}; }}
+.gn {{ flex: none; width: {K(14)}; font-family: 'Display'; font-size: {K(7.4)}; line-height: {K(11.6)};
+  color: {BLUE}; font-variation-settings: 'wght' 700; }}
+.gw {{ font-family: 'Serif'; font-weight: 700; font-size: {K(9.2)}; line-height: {K(11.6)}; color: {INK}; }}
+.gd {{ font-family: 'Display'; font-size: {K(7.9)}; line-height: {K(10.6)}; color: {GREY};
+  font-variation-settings: 'wght' 350; margin-top: {K(1.6)}; }}
+.gcrop {{ position: relative; margin-top: auto; overflow: hidden; flex: none; }}
+.gcrop img {{ width: 100%; height: 100%; object-fit: cover; display: block; }}
+.gcrop .gsq {{ position: absolute; left: 0; bottom: 0; width: 26pt; height: 26pt; }}
 
-/* ---------- vocabulary ---------- */
-.vhead {{
-  display: flex; align-items: center; gap: 5pt; margin: 9pt 0 5pt;
-  font-family: 'Syne'; font-weight: 600; font-size: 8.8pt; color: #0b1a4a;
-  text-transform: uppercase; letter-spacing: 0.6pt; break-after: avoid;
-}}
-.vbadge {{ color: #fff; font-size: 7.4pt; padding: 1.4pt 5pt; border-radius: 4pt; letter-spacing: 0; }}
-.vn {{ color: #5c6a8e; font-weight: 400; letter-spacing: 0; }}
-.vcard {{
-  background: #f6f8ff; border: 0.72pt solid #dce5fa; border-left: 2.2pt solid #1f48d6;
-  border-radius: 5pt; padding: 4.6pt 6.4pt 5pt; margin-bottom: 4.4pt; break-inside: avoid;
-}}
-.vw {{ font-weight: 700; color: #0b1a4a; font-size: 8.6pt; line-height: 11.4pt; }}
-.vd {{ font-size: 8.1pt; line-height: 11.2pt; }}
-.ve {{ font-size: 8.1pt; line-height: 11.2pt; font-style: italic; color: #4a5675; margin-top: 1.4pt; }}
-.vu {{ font-size: 8.1pt; line-height: 11.2pt; color: #2f5bea; margin-top: 1.4pt; }}
-
-/* ---------- translation ---------- */
-.translation .trbl {{ margin-bottom: 6pt; break-inside: auto; }}
-.trbadge {{
-  float: left; color: #fff; font-family: 'Syne'; font-weight: 700; font-size: 7.4pt;
-  padding: 1.4pt 5pt; border-radius: 4pt; margin: 1.4pt 5pt 1pt 0;
-}}
-.translation p {{ margin: 0 0 3.6pt 0; text-align: justify; color: #35405e; }}
+/* ---------- cover ---------- */
+.cv-kicker {{ position: absolute; left: {M}pt; top: 54pt; font-family: 'Display'; font-size: 8.6pt;
+  letter-spacing: 2.6pt; text-transform: uppercase; color: {INK}; font-variation-settings: 'wght' 600; }}
+.cv-word {{ position: absolute; left: 36pt; top: 92pt; font-family: 'Display'; font-size: 162pt;
+  line-height: 148pt; letter-spacing: -4pt; color: {INK}; font-variation-settings: 'wght' 700, 'wdth' 76; }}
+.cv-block {{ position: absolute; background: {BLUE}; color: #fff; padding: 14pt; display: flex;
+  flex-direction: column; justify-content: space-between; }}
+.cbn {{ font-family: 'Display'; font-size: 64pt; line-height: 60pt; font-variation-settings: 'wght' 700, 'wdth' 78; }}
+.cbt {{ font-family: 'Serif'; font-style: italic; font-size: 12pt; line-height: 16pt; }}
+.cv-foot {{ position: absolute; left: {M}pt; right: {M}pt; top: 790pt; display: flex;
+  justify-content: space-between; font-family: 'Display'; font-size: 7.4pt; letter-spacing: 1.6pt;
+  text-transform: uppercase; color: {GREY}; border-top: 0.7pt solid {INK}; padding-top: 9pt; }}
 
 /* ---------- contents ---------- */
-/* 10 entries read better as one column than split across two */
-.toclist {{ column-count: 1; }}
-.toc-row {{ display: flex; align-items: baseline; font-size: 10pt; line-height: 27pt; break-inside: avoid; }}
-.toc-row .tn {{ font-weight: 700; color: #131a33; white-space: nowrap; }}
-.toc-row .tl {{ color: #6b7590; font-size: 8.4pt; margin-left: 6pt; white-space: nowrap; }}
-.toc-row .dots {{ flex: 1; border-bottom: 0.9pt dotted #b8c6ee; margin: 0 6pt; transform: translateY(-2.5pt); }}
-.toc-row .pg {{
-  display: inline-block; min-width: 20.3pt; height: 10.6pt; line-height: 10.6pt; padding: 0 4pt;
-  border-radius: 6pt; background: #edf2ff; color: #1f48d6; text-align: center;
-  font-family: 'Syne'; font-weight: 700; font-size: 7.6pt;
-}}
-.headspace {{ column-span: all; height: 37.1pt; }}
+.c-word {{ position: absolute; left: 36pt; top: 52pt; font-family: 'Display'; font-size: 104pt;
+  line-height: 94pt; letter-spacing: -2.5pt; color: {INK}; font-variation-settings: 'wght' 700, 'wdth' 76; }}
+.c-note {{ position: absolute; left: {M}pt; top: 262pt; width: 300pt; font-style: italic; font-size: 11pt;
+  line-height: 16pt; color: {GREY}; }}
+.clist {{ position: absolute; left: {M}pt; right: {M}pt; top: 434pt; }}
+.crow {{ display: flex; align-items: baseline; gap: 14pt; padding: 6.6pt 0; border-top: 0.6pt solid {HAIR}; }}
+.crow:first-child {{ border-top: 0.7pt solid {INK}; }}
+.cn {{ flex: none; width: 26pt; font-family: 'Display'; font-size: 15pt; color: {BLUE};
+  font-variation-settings: 'wght' 700, 'wdth' 80; }}
+.ct {{ flex: 1; min-width: 0; display: flex; align-items: baseline; gap: 12pt; }}
+.ctt {{ flex: none; font-family: 'Display'; font-size: 11pt; color: {INK}; text-transform: uppercase;
+  letter-spacing: 0.6pt; font-variation-settings: 'wght' 600, 'wdth' 88; }}
+.cte {{ flex: 1; min-width: 0; font-size: 7.8pt; color: {GREY}; font-style: italic;
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }}
+.cp {{ flex: none; font-family: 'Display'; font-size: 9pt; color: {INK}; font-variation-settings: 'wght' 700; }}
 """
 
-CHROME_CSS = L.CSS + f"""
-.cover-art {{
-  position: absolute; left: 31.4pt; top: 28.3pt; width: 533.4pt; height: 430pt;
-  border-radius: 16pt; overflow: hidden; background: #0b1a4a;
-}}
-.cover-art .grid {{ position: absolute; inset: 0; display: grid;
-  grid-template-columns: repeat(3, 1fr); grid-template-rows: repeat(2, 1fr); }}
-.cover-art .grid img {{ width: 100%; height: 100%; object-fit: cover; display: block; }}
-.cover-art .wash {{ position: absolute; inset: 0;
-  background: linear-gradient(170deg, rgba(31,72,214,.82) 0%, rgba(11,26,74,.90) 62%, rgba(8,18,56,.96) 100%); }}
-.cover-art .pat {{ position: absolute; inset: 0; opacity: .25;
-  background: url('{PATTERN}') center / cover no-repeat; mix-blend-mode: screen; }}
-.cv2-kicker {{ position: absolute; left: 34pt; top: 54pt; font-family: 'Syne'; font-weight: 600;
-  font-size: 13pt; letter-spacing: 3.2pt; color: #dfe6fb; }}
-.cv2-title {{ position: absolute; left: 34pt; top: 96pt; font-family: 'Syne'; font-weight: 800;
-  font-size: 52pt; line-height: 56pt; color: #fff; letter-spacing: -0.8pt; }}
-.cv2-sub {{ position: absolute; left: 34pt; top: 232pt; font-family: 'Syne'; font-weight: 600;
-  font-size: 20pt; color: #cfdbff; }}
-.cv2-line {{ position: absolute; left: 34pt; top: 268pt; width: 420pt; font-size: 11pt;
-  line-height: 1.65; color: #e5ebff; }}
-.cv2-chips {{ position: absolute; left: 34pt; bottom: 28pt; display: flex; gap: 8pt; }}
-.cv2-chip {{ background: rgba(255,255,255,.14); border: 0.8pt solid rgba(255,255,255,.35);
-  color: #fff; border-radius: 20pt; padding: 4pt 11pt; font-size: 9pt; font-weight: 600; }}
-.cv2-body {{ position: absolute; left: 31.6pt; top: 478pt; width: 533.2pt;
-  display: grid; grid-template-columns: 1fr 1fr; gap: 12pt 19.4pt; }}
-.cv2-more {{ position: absolute; left: 31.6pt; top: 636pt; width: 533.2pt;
-  font-size: 9.4pt; line-height: 17pt; color: #35405e; }}
-.cv2-more .ml {{ font-family: 'Syne'; font-weight: 600; font-size: 8.4pt; letter-spacing: 1.2pt;
-  text-transform: uppercase; color: #5c6a8e; display: block; margin-bottom: 4pt; }}
-.cv2-more b {{ color: #0b1a4a; font-weight: 700; }}
+FIT_JS = """
+<script>
+(async function(){
+  try { await document.fonts.ready; } catch(e) {}
+  await Promise.all(Array.from(document.images).map(i => i.complete ? 1 :
+    new Promise(r => { i.onload = i.onerror = r; })));
+  const PT = 0.75;
+  for (const el of document.querySelectorAll('[data-fit]')) {
+    const over = () => el.scrollHeight > el.clientHeight + 0.5;
+    let k = 1.0;
+    el.style.setProperty('--k', k);
+    while (over() && k > 0.72) { k = Math.round((k - 0.01) * 100) / 100; el.style.setProperty('--k', k); }
+    el.setAttribute('data-k', k);
+    el.setAttribute('data-ok', over() ? '0' : '1');
+    const list = el.querySelector('.glist');
+    if (list) {
+      const pad = parseFloat(getComputedStyle(el).paddingBottom) || 0;
+      const left = (el.getBoundingClientRect().bottom - pad - list.getBoundingClientRect().bottom) * PT;
+      el.setAttribute('data-left', left.toFixed(1));
+    }
+  }
+  document.body.setAttribute('data-done', '1');
+})();
+</script>
 """
-
-
-# --------------------------------------------------------------------------- #
-# Documents
-# --------------------------------------------------------------------------- #
-def wrap(body, css):
-    return ('<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">'
-            f'<title>{BOOK_TITLE}</title><style>{css}</style></head>'
-            f"<body>{body}</body></html>")
-
-
-def article_body(art, number, first):
-    out = (f'<div class="opener{" first" if first else ""}">'
-           f'{hero(art, number)}{stat_tiles(art)}{level_bars(art)}</div>')
-    for lv, name in LEVELS:
-        if lv == "C1":
-            out += illustration(number, art)
-        out += level_section(art, lv, name)
-    return out + translations(art)
-
-
-def articles_html(arts):
-    body = '<div class="flow">' + "".join(
-        article_body(a, i + 1, i == 0) for i, a in enumerate(arts)) + "</div>"
-    return wrap(body, CONTENT_CSS)
-
-
-def toc_html(arts, page_map):
-    rows = ""
-    for i, a in enumerate(arts):
-        md = a["mock_data"]
-        words = sum(word_count(passage(a, lv)) for lv, _ in LEVELS)
-        rows += (f'<div class="toc-row"><span class="tn">{i + 1:02d} · '
-                 f'{esc(md.get("title") or a.get("title"))}</span>'
-                 f'<span class="tl">{words:,} words</span>'
-                 f'<span class="dots"></span>'
-                 f'<span class="pg">{page_map[i]}</span></div>')
-    body = f'<div class="flow toclist"><div class="headspace"></div>{rows}</div>'
-    return wrap(body, CONTENT_CSS)
-
-
-def cover_html(arts):
-    total_words = sum(word_count(passage(a, lv)) for a in arts for lv, _ in LEVELS)
-    total_terms = sum(len(vocab(a, lv)) for a in arts for lv, _ in LEVELS)
-    thumbs = "".join(f'<img src="{local_image(a["mock_data"].get("imageUrl"))}">'
-                     for a in arts[:6])
-    cards = "".join(
-        f'<div class="card"><div class="cv-h">{i + 1:02d} · '
-        f'{esc(a["mock_data"].get("title") or a.get("title"))}</div>'
-        f'{esc(plain(passage(a, "B1"))[:118])}…</div>' for i, a in enumerate(arts[:4]))
-    rest = arts[4:]
-    more = ""
-    if rest:
-        items = " · ".join(
-            f'<b>{i + 5:02d}</b> {esc(a["mock_data"].get("title") or a.get("title"))}'
-            for i, a in enumerate(rest))
-        more = f'<div class="cv2-more"><span class="ml">Also inside</span>{items}</div>'
-    return f"""
-<section class="sheet">
-  <img class="stripe" src="{L.A['stripe']}">
-  <div class="cover-art">
-    <div class="grid">{thumbs}</div><div class="wash"></div><div class="pat"></div>
-    <div class="cv2-kicker">MULTILEVEL · CEFR</div>
-    <div class="cv2-title">ARTICLES</div>
-    <div class="cv2-sub">{len(arts)} readings · B1 · B2 · C1</div>
-    <div class="cv2-line">Every article at three levels, with key words, examples and an
-      Uzbek translation.<br>{total_words:,} words · {total_terms} key words</div>
-    <div class="cv2-chips"><span class="cv2-chip">Three levels</span>
-      <span class="cv2-chip">Key words</span><span class="cv2-chip">Tarjima</span></div>
-  </div>
-  <div class="cv2-body">{cards}</div>
-  {more}
-  {L.footer(f"{BOOK_TITLE} · CEFR Reading", None)}
-</section>"""
-
-
-def chrome_html(pages):
-    out = []
-    for label, page_no, head in pages:
-        out.append(f'<section class="sheet"><img class="stripe" src="{L.A["stripe"]}">'
-                   f'{head}{L.footer(label, page_no)}</section>')
-    return wrap("".join(out), CHROME_CSS)
-
-
-def section_head(title, right):
-    return (f'<div class="cols" style="top:28.9pt;height:40pt;column-count:1">'
-            f'<div class="ph"><span class="pill">{esc(title)}</span>'
-            f'<span class="qr">{esc(right)}</span></div></div>')
 
 
 # --------------------------------------------------------------------------- #
 # Build
 # --------------------------------------------------------------------------- #
-def render(html, name):
-    path = os.path.join(BUILD, name + ".html")
+def wrap(body, script=False):
+    return ('<!DOCTYPE html><html lang="en"><head><meta charset="utf-8">'
+            f'<title>{BOOK_TITLE}</title><style>{CSS}</style></head>'
+            f'<body>{body}{FIT_JS if script else ""}</body></html>')
+
+
+def page_map_for(arts):
+    return [3 + 2 * i for i in range(len(arts))]
+
+
+def book_body(arts, fit):
+    pm = page_map_for(arts)
+    out = cover_page(arts) + contents_page(arts, pm)
+    for i, a in enumerate(arts):
+        out += opener_page(a, i + 1, pm[i]) + reading_page(a, i + 1, pm[i] + 1, fit)
+    return out
+
+
+def measure(arts):
+    """Shrink each text box only as far as it needs to fit, and measure the
+    space left under each glossary for its photo detail."""
+    path = os.path.join(BUILD, "fit_probe.html")
     with open(path, "w", encoding="utf-8") as f:
-        f.write(html)
-    pdf = os.path.join(BUILD, name + ".pdf")
-    L.edge_pdf(path, pdf)
-    return pdf
-
-
-def article_start_pages(pdf, arts):
-    """Which page each article opens on -- the pages carrying a hero photo."""
-    doc = pymupdf.open(pdf)
-    titles = [plain(a["mock_data"].get("title") or a.get("title")) for a in arts]
-    starts, seen = [], 0
-    for i in range(doc.page_count):
-        # the kicker is letter-spaced and uppercased, so it extracts as
-        # "A R T I C L E  0 1" -- strip the spacing and match in upper case
-        tight = re.sub(r"\s+", "", doc[i].get_text()).upper()
-        want = "ARTICLE%02d" % (seen + 1)
-        if seen < len(titles) and want in tight:
-            starts.append(i + 1)
-            seen += 1
-    doc.close()
-    if len(starts) != len(arts):
-        raise RuntimeError(f"found {len(starts)} article openers, expected {len(arts)}")
-    return starts
+        f.write(wrap(book_body(arts, {}), script=True))
+    dom_path = os.path.join(BUILD, "fit_probe_dom.html")
+    if os.path.exists(dom_path):
+        os.remove(dom_path)
+    with open(dom_path, "wb") as out:
+        subprocess.run([L.EDGE_EXE, *L.BASE_FLAGS, "--window-size=794,1123",
+                        "--virtual-time-budget=60000", "--dump-dom", furl(path)],
+                       stdout=out, stderr=subprocess.DEVNULL)
+    L.wait_for_output(dom_path, timeout=600)
+    dom = open(dom_path, encoding="utf-8", errors="replace").read()
+    if 'data-done="1"' not in dom:
+        raise RuntimeError("fit probe did not finish")
+    fit, bad = {}, []
+    for m in re.finditer(r'<(?:article|aside)([^>]*data-fit="([^"]+)"[^>]*)>', dom):
+        attrs = dict(re.findall(r'([\w-]+)="([^"]*)"', m.group(1)))
+        fit[m.group(2)] = {"k": float(attrs.get("data-k", 1)),
+                           "left": float(attrs.get("data-left", 0) or 0)}
+        if attrs.get("data-ok") != "1":
+            bad.append(m.group(2))
+    return fit, bad
 
 
 def main():
     os.makedirs(BUILD, exist_ok=True)
     count = next((int(a) for a in sys.argv[1:] if a.isdigit()), DEFAULT_COUNT)
     arts = load_articles(count)
-    print(f"Loaded {len(arts)} articles")
+    print(f"Loaded {len(arts)} articles ({LEVEL})")
     for i, a in enumerate(arts):
-        print(f"  {i + 1:02d} {a['mock_data'].get('title') or a.get('title')}")
+        print(f"  {i + 1:02d} {title_of(a)}  ({len(plain(passage(a)).split())} words, "
+              f"{len(vocab(a))} glossary terms)")
 
-    print("Rendering articles...")
-    body_pdf = render(articles_html(arts), "articles")
-    n_body = pymupdf.open(body_pdf).page_count
-
-    starts = article_start_pages(body_pdf, arts)
-    first = 3                                     # cover, contents, then body
-    page_map = [first + (s - 1) for s in starts]
-
-    toc_pdf = render(toc_html(arts, page_map), "toc")
-    n_toc = pymupdf.open(toc_pdf).page_count
-    if n_toc > 1:
-        page_map = [p + (n_toc - 1) for p in page_map]
-        toc_pdf = render(toc_html(arts, page_map), "toc")
-
-    labels = {}
+    print("Preparing black-and-white photographs...")
     for i, a in enumerate(arts):
-        title = plain(a["mock_data"].get("title") or a.get("title"))
-        for p in range(starts[i], (starts[i + 1] if i + 1 < len(arts) else n_body + 1)):
-            labels[p] = f"{BOOK_TITLE} · {i + 1:02d} · {title}"
+        mono(source_image(a, i + 1), i + 1)
 
-    print("Rendering chrome...")
-    pages = [(f"{BOOK_TITLE} · Contents", 2 + i,
-              section_head("CONTENTS", f"{len(arts)} articles") if i == 0 else "")
-             for i in range(n_toc)]
-    base = 2 + n_toc
-    pages += [(labels.get(p, BOOK_TITLE), base + p - 1, "") for p in range(1, n_body + 1)]
-    chrome_pdf = render(chrome_html(pages), "chrome")
+    print("Fitting text...")
+    fit, bad = measure(arts)
+    for key, v in sorted(fit.items()):
+        note = f"scaled to {v['k']:.2f}" if v["k"] < 1 else "fits"
+        extra = f", {v['left']:.0f}pt free" if key.startswith("gloss") else ""
+        print(f"  {key}: {note}{extra}")
+    if bad:
+        print("  ! still overflowing:", ", ".join(bad))
 
-    print("Assembling...")
-    book = pymupdf.open(render(wrap(cover_html(arts), CHROME_CSS), "cover"))
-    rest = pymupdf.open()
-    rest.insert_pdf(pymupdf.open(toc_pdf))
-    rest.insert_pdf(pymupdf.open(body_pdf))
-    chm = pymupdf.open(chrome_pdf)
-    for i in range(rest.page_count):
-        rest[i].show_pdf_page(rest[i].rect, chm, i, overlay=False)
-    book.insert_pdf(rest)
+    print("Rendering...")
+    html = os.path.join(BUILD, "article_book.html")
+    with open(html, "w", encoding="utf-8") as f:
+        f.write(wrap(book_body(arts, fit)))
+    raw = os.path.join(BUILD, "article_book.pdf")
+    L.edge_pdf(html, raw)
 
+    doc = pymupdf.open(raw)
+    pm = page_map_for(arts)
     toc = [[1, "Cover", 1], [1, "Contents", 2]]
     for i, a in enumerate(arts):
-        toc.append([1, f"{i + 1:02d} {plain(a['mock_data'].get('title') or a.get('title'))}",
-                    page_map[i]])
-    book.set_toc(toc)
-    book.set_metadata({"title": "CEFR Articles", "author": BOOK_TITLE,
-                       "subject": "CEFR Reading articles at B1, B2 and C1"})
+        toc.append([1, f"{i + 1:02d} {title_of(a)}", pm[i]])
+    doc.set_toc(toc)
+    doc.set_metadata({"title": f"CEFR Articles — {LEVEL}", "author": BOOK_TITLE,
+                      "subject": f"{LEVEL} reading articles with glossary"})
     out = os.path.join(ROOT, "CEFR_Article_Book.pdf")
-    book.save(out, garbage=3, deflate=True)
-    print(f"Article book: {out} ({book.page_count} pages)")
-    book.close()
+    doc.save(out, garbage=3, deflate=True)
+    print(f"Article book: {out} ({doc.page_count} pages)")
+    doc.close()
 
 
 if __name__ == "__main__":
