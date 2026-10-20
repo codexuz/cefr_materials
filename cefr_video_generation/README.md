@@ -12,6 +12,7 @@ single blue accent.
 | `MultilevelVideo` | 1080×1920 | ~3:25 | Uzbek explainer covering the four sections (Listening, Reading, Writing, Speaking), marking and levels; ends on the logo reveal |
 | `SpeakingMock1` | 1920×1080 | ~12:32 | Speaking Mock 01 exam simulation for YouTube |
 | `SpeakingMock1Reels` | 1080×1920 | ~12:32 | The same simulation laid out for Instagram Reels |
+| `SpeakingMock2`, `SpeakingMock2Reels` | both | ~12:34 | Speaking Mock 02, same two layouts |
 | `LogoReveal`, `LogoRevealReels` | both | 5 s | The Impulse logo end card on its own |
 
 The Speaking mock follows the real exam flow for every question. The examiner audio
@@ -45,13 +46,16 @@ ELEVENLABS_API=sk_...
 ## Building
 
 The narration is already committed (`public/voiceover/`, `public/speaking-mock1/vo/`),
-so only the Speaking mock's question media has to be fetched:
+so only the Speaking mocks' question media has to be fetched:
 
 ```bash
-python scripts/build_speaking_mock.py    # downloads question audio/images, writes src/speaking/questions.json and the sfx
+python scripts/build_speaking_mock.py 1  # downloads question audio/images, writes src/speaking/mock1.json and the sfx
+python scripts/build_speaking_mock.py 2  # same for Mock 02 (read from materials/cefr-speaking/002-*.json)
 npm run dev                              # Remotion Studio preview
 npx remotion render SpeakingMock1 out/speaking-mock-01.mp4
 npx remotion render SpeakingMock1Reels out/speaking-mock-01-reels.mp4
+npx remotion render SpeakingMock2 out/speaking-mock-02.mp4
+npx remotion render SpeakingMock2Reels out/speaking-mock-02-reels.mp4
 npx remotion render MultilevelVideo out/multilevel-video.mp4
 ```
 
@@ -89,21 +93,24 @@ spellings; the screen shows the normal forms.
 ```
 data/speaking_mock1.json        Mock Stream export (same shape as materials/<type>/*.json)
 scripts/
-  build_speaking_mock.py        fetch media + questions.json + generated sfx (chimes, click, logo bell)
+  build_speaking_mock.py        fetch media + mock<n>.json + generated sfx (chimes, click, logo bell)
   generate_voiceover.py         ElevenLabs narration with timestamps
   scenes.json                   explainer narration script
-  speaking_mock1.voice.json     mock intro, part instructions and outro
+  speaking_mock1.voice.json     mock intro, part instructions and outro (shared by every mock)
 src/
   scenes/                       explainer scenes
   speaking/                     mock simulation: timeline, timer, question layouts, cards
   brand/                        Impulse logo, redrawn as SVG, and the reveal end card
   theme.ts, ui.tsx              palette, fonts, shared motion components
+public/fonts/                   Inter Tight + JetBrains Mono, bundled so renders need no font download
 ```
 
 `src/speaking/timeline.ts` computes the whole exam timeline from the measured audio
-lengths and the prep/speak times in the JSON. To build another mock, add its JSON to
-`data/`, point the build script and a new `*.voice.json` at it, and register another
-composition.
+lengths and the prep/speak times in the JSON. The narration never names the mock or its
+topics, so every mock reuses it. To add mock <n>: run `python scripts/build_speaking_mock.py <n>`,
+import `src/speaking/mock<n>.json` into `mocks` in `timeline.ts`, and add <n> to the list in
+`src/Root.tsx`. Placeholder topic tags in an export can be fixed in the build script's
+`TOPIC_OVERRIDES`.
 
 ## Sources
 
